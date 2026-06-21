@@ -1,0 +1,200 @@
+{
+  "round": 3445,
+  "timestamp": "2026-06-13T22:54:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.8247,
+      "prior_variance": 0.117498,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 1.3379,
+      "prior_variance": 0.114102,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.381,
+      "prior_variance": 0.11118,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 3.228,
+      "prior_variance": 0.129242,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.6188,
+      "prior_variance": 0.131432,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": 0.0909,
+      "prior_variance": 0.111861,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.1953,
+      "prior_variance": 0.110481,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.1766,
+      "prior_variance": 0.109625,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -2.2201,
+      "prior_variance": 0.117139,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -2.1725,
+      "prior_variance": 0.136786,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -3.4251,
+      "prior_variance": 0.114418,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.9843,
+      "prior_variance": 0.132487,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -1.7291,
+      "prior_variance": 0.130244,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.7303,
+      "prior_variance": 0.126812,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.7363,
+      "prior_variance": 0.140853,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.2656,
+      "prior_variance": 0.199221,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Yanji",
+      "path": "asia/china/jilin/yanji",
+      "prior_score": -3.3748,
+      "prior_variance": 0.109944,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -5.0889,
+      "prior_variance": 0.139036,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -4.5612,
+      "prior_variance": 0.12696,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -5.4167,
+      "prior_variance": 0.215048,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -4.8496,
+      "prior_variance": 0.161706,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -4.5986,
+      "prior_variance": 0.140599,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/england/norfolk/lenwade_great_wit",
+      "prior_score": -5.367,
+      "prior_variance": 0.148114,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -9.1766,
+      "prior_variance": 0.25959,
+      "prior_n": 10
+    }
+  ]
+}

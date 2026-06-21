@@ -1,0 +1,200 @@
+{
+  "round": 815,
+  "timestamp": "2026-06-13T19:55:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -1.7483,
+      "prior_variance": 0.658604,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -7.1308,
+      "prior_variance": 0.922625,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -6.6835,
+      "prior_variance": 0.521474,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -6.9603,
+      "prior_variance": 0.782148,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -5.8787,
+      "prior_variance": 0.803033,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -7.0588,
+      "prior_variance": 0.874475,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -7.0071,
+      "prior_variance": 0.660412,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -7.2265,
+      "prior_variance": 0.466509,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -8.5191,
+      "prior_variance": 1.056143,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -5.4082,
+      "prior_variance": 0.902327,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -8.574,
+      "prior_variance": 0.657593,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -6.9798,
+      "prior_variance": 1.114453,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -6.5787,
+      "prior_variance": 1.341719,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -7.1604,
+      "prior_variance": 0.733294,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -4.4939,
+      "prior_variance": 0.624537,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -6.1632,
+      "prior_variance": 0.979707,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -7.223,
+      "prior_variance": 0.630592,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -5.7957,
+      "prior_variance": 0.589302,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -7.9252,
+      "prior_variance": 0.756787,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -7.2746,
+      "prior_variance": 0.488923,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -9.5151,
+      "prior_variance": 1.342705,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -6.047,
+      "prior_variance": 0.773992,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -6.1119,
+      "prior_variance": 0.635374,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -6.9582,
+      "prior_variance": 0.705494,
+      "prior_n": 2
+    }
+  ]
+}

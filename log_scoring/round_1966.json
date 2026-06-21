@@ -1,0 +1,200 @@
+{
+  "round": 1966,
+  "timestamp": "2026-06-13T21:09:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Matsuyama",
+      "path": "asia/japan/shikoku/matsuyama",
+      "prior_score": 6.1533,
+      "prior_variance": 0.229917,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 5.9679,
+      "prior_variance": 0.283178,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 0.8741,
+      "prior_variance": 0.269226,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 3.718,
+      "prior_variance": 0.234484,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 1.9581,
+      "prior_variance": 0.240251,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 1.7764,
+      "prior_variance": 0.231828,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.571,
+      "prior_variance": 0.23168,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Aalborg",
+      "path": "europe/denmark/aalborg",
+      "prior_score": 1.1153,
+      "prior_variance": 0.216192,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 3.0077,
+      "prior_variance": 0.226428,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.6809,
+      "prior_variance": 0.235412,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 3.5783,
+      "prior_variance": 0.231633,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_score": 0.6351,
+      "prior_variance": 0.203429,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": -0.1929,
+      "prior_variance": 0.190677,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.75,
+      "prior_variance": 0.2004,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 2.582,
+      "prior_variance": 0.252132,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 0.8215,
+      "prior_variance": 0.230055,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.714,
+      "prior_variance": 0.208534,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -1.422,
+      "prior_variance": 0.232773,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.2492,
+      "prior_variance": 0.20878,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -0.8625,
+      "prior_variance": 0.227937,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": -0.6813,
+      "prior_variance": 0.307454,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -6.9204,
+      "prior_variance": 0.316985,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.3925,
+      "prior_variance": 0.232891,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -5.6067,
+      "prior_variance": 0.249421,
+      "prior_n": 6
+    }
+  ]
+}

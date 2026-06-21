@@ -1,0 +1,200 @@
+{
+  "round": 360,
+  "timestamp": "2026-06-13T19:31:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 4.3273,
+      "prior_variance": 1.845564,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": -6.1096,
+      "prior_variance": 1.575117,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -8.308,
+      "prior_variance": 1.45663,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": 1.1532,
+      "prior_variance": 1.748228,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": 1.7289,
+      "prior_variance": 1.741578,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -6.6536,
+      "prior_variance": 1.640713,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -5.7703,
+      "prior_variance": 4.896955,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle",
+      "prior_score": -7.3747,
+      "prior_variance": 2.266716,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -10.5342,
+      "prior_variance": 1.692423,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -6.6933,
+      "prior_variance": 1.758629,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -7.1381,
+      "prior_variance": 1.906176,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_score": -9.2835,
+      "prior_variance": 1.634874,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -11.203,
+      "prior_variance": 3.37654,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -5.9345,
+      "prior_variance": 2.102943,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Golmud",
+      "path": "asia/china/qinghai/golmud",
+      "prior_score": -10.3346,
+      "prior_variance": 2.618256,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_score": -4.7176,
+      "prior_variance": 2.227932,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -6.6409,
+      "prior_variance": 1.858868,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -9.9234,
+      "prior_variance": 2.058368,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -10.0337,
+      "prior_variance": 3.62892,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -10.0876,
+      "prior_variance": 3.613446,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_score": -11.2531,
+      "prior_variance": 3.365032,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -15.3737,
+      "prior_variance": 6.716029,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -10.3597,
+      "prior_variance": 3.961058,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -11.364,
+      "prior_variance": 8.45819,
+      "prior_n": 1
+    }
+  ]
+}

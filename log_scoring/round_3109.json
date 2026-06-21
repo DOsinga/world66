@@ -1,0 +1,200 @@
+{
+  "round": 3109,
+  "timestamp": "2026-06-13T22:29:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.633,
+      "prior_variance": 0.138399,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.0977,
+      "prior_variance": 0.143159,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.4123,
+      "prior_variance": 0.137646,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 1.9594,
+      "prior_variance": 0.143032,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.3104,
+      "prior_variance": 0.142301,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Santa Fe de Antioquia",
+      "path": "southamerica/colombia/santafedeantioquia",
+      "prior_score": 2.32,
+      "prior_variance": 0.127768,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Logro\u00f1o",
+      "path": "europe/spain/northernspain/logrono",
+      "prior_score": 2.2017,
+      "prior_variance": 0.138084,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa",
+      "prior_score": 1.0066,
+      "prior_variance": 0.129387,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.4695,
+      "prior_variance": 0.135578,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 1.9948,
+      "prior_variance": 0.131181,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Llandudno",
+      "path": "europe/unitedkingdom/wales/llandudno",
+      "prior_score": 1.1967,
+      "prior_variance": 0.117473,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 0.0483,
+      "prior_variance": 0.131678,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.1744,
+      "prior_variance": 0.135522,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2403,
+      "prior_variance": 0.130321,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 1.0573,
+      "prior_variance": 0.14923,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.9707,
+      "prior_variance": 0.1452,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.1161,
+      "prior_variance": 0.150883,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.2579,
+      "prior_variance": 0.124011,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -3.9755,
+      "prior_variance": 0.156535,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -6.6731,
+      "prior_variance": 0.233562,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -5.1744,
+      "prior_variance": 0.182699,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -4.5018,
+      "prior_variance": 0.154875,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Bukavu",
+      "path": "africa/congokinshasa/bukavu",
+      "prior_score": -6.9318,
+      "prior_variance": 0.235615,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -9.3855,
+      "prior_variance": 0.312423,
+      "prior_n": 9
+    }
+  ]
+}

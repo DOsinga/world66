@@ -1,0 +1,200 @@
+{
+  "round": 1756,
+  "timestamp": "2026-06-13T20:50:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 13.0584,
+      "prior_variance": 0.72078,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 11.3364,
+      "prior_variance": 0.398999,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.5326,
+      "prior_variance": 0.271486,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 5.1467,
+      "prior_variance": 0.333145,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": -0.7354,
+      "prior_variance": 0.322622,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -0.8286,
+      "prior_variance": 0.39993,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -4.3606,
+      "prior_variance": 0.261227,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": -0.0052,
+      "prior_variance": 0.42972,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.0561,
+      "prior_variance": 0.215833,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.178,
+      "prior_variance": 0.263932,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.94,
+      "prior_variance": 0.243843,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -0.8415,
+      "prior_variance": 0.249667,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -2.4845,
+      "prior_variance": 0.27342,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -2.9738,
+      "prior_variance": 0.304477,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.9478,
+      "prior_variance": 0.292634,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -1.7344,
+      "prior_variance": 0.237975,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kunshan",
+      "path": "asia/china/jiangsu_province/kunshan",
+      "prior_score": -5.6638,
+      "prior_variance": 0.286429,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -8.3239,
+      "prior_variance": 0.380789,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -5.6304,
+      "prior_variance": 0.271124,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -7.1703,
+      "prior_variance": 0.389898,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -5.0432,
+      "prior_variance": 0.240987,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -7.2363,
+      "prior_variance": 0.344641,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -6.6379,
+      "prior_variance": 0.340367,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.3702,
+      "prior_variance": 0.311358,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1949,
+  "timestamp": "2026-06-13T21:08:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 23.4074,
+      "prior_variance": 5.167733,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.7273,
+      "prior_variance": 0.427823,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 4.2356,
+      "prior_variance": 0.20763,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 3.1711,
+      "prior_variance": 0.246391,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 4.3967,
+      "prior_variance": 0.261006,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.8417,
+      "prior_variance": 0.21683,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.1575,
+      "prior_variance": 0.220295,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -1.2196,
+      "prior_variance": 0.327691,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -0.1452,
+      "prior_variance": 0.28786,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -0.471,
+      "prior_variance": 0.227426,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -0.6858,
+      "prior_variance": 0.234117,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.5057,
+      "prior_variance": 0.210916,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": -0.3845,
+      "prior_variance": 0.204748,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.3256,
+      "prior_variance": 0.223659,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -1.1915,
+      "prior_variance": 0.226999,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 2.5379,
+      "prior_variance": 0.240063,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.0508,
+      "prior_variance": 0.205857,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.2902,
+      "prior_variance": 0.213237,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -0.8241,
+      "prior_variance": 0.22625,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.9457,
+      "prior_variance": 0.266317,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.1487,
+      "prior_variance": 0.234797,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -4.8715,
+      "prior_variance": 0.321906,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -4.0466,
+      "prior_variance": 0.287122,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -6.3464,
+      "prior_variance": 0.244397,
+      "prior_n": 7
+    }
+  ]
+}

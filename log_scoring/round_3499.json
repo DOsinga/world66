@@ -1,0 +1,200 @@
+{
+  "round": 3499,
+  "timestamp": "2026-06-13T22:58:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": 6.2923,
+      "prior_variance": 0.149754,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 5.8497,
+      "prior_variance": 0.175442,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 6.0231,
+      "prior_variance": 0.133356,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 7.3413,
+      "prior_variance": 0.198589,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 4.6443,
+      "prior_variance": 0.121602,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tintagel",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/tintagel",
+      "prior_score": 3.1268,
+      "prior_variance": 0.117837,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 3.9615,
+      "prior_variance": 0.11404,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 3.2628,
+      "prior_variance": 0.152655,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 3.7002,
+      "prior_variance": 0.141616,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.7388,
+      "prior_variance": 0.121193,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.7625,
+      "prior_variance": 0.121845,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.4441,
+      "prior_variance": 0.134796,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 2.6787,
+      "prior_variance": 0.11847,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.2053,
+      "prior_variance": 0.162218,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.9676,
+      "prior_variance": 0.124229,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.4509,
+      "prior_variance": 0.101857,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -0.7474,
+      "prior_variance": 0.132393,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.0898,
+      "prior_variance": 0.110522,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -2.0873,
+      "prior_variance": 0.153518,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -2.4967,
+      "prior_variance": 0.161454,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -6.8865,
+      "prior_variance": 0.201985,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -5.6952,
+      "prior_variance": 0.158591,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -4.8787,
+      "prior_variance": 0.139495,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -8.3324,
+      "prior_variance": 0.226276,
+      "prior_n": 11
+    }
+  ]
+}

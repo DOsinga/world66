@@ -1,0 +1,200 @@
+{
+  "round": 1786,
+  "timestamp": "2026-06-13T20:52:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 17.8436,
+      "prior_variance": 0.880275,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 8.0323,
+      "prior_variance": 0.40176,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 8.7136,
+      "prior_variance": 0.330766,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 6.3853,
+      "prior_variance": 0.302498,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 2.8783,
+      "prior_variance": 0.223617,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.483,
+      "prior_variance": 0.288227,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 3.768,
+      "prior_variance": 0.32035,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.0437,
+      "prior_variance": 0.279314,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 6.4361,
+      "prior_variance": 0.400415,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_score": 5.9237,
+      "prior_variance": 0.279258,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.2931,
+      "prior_variance": 0.229145,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -1.6935,
+      "prior_variance": 0.274456,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.2472,
+      "prior_variance": 0.258914,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -1.8919,
+      "prior_variance": 0.225713,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -2.6083,
+      "prior_variance": 0.262474,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 1.3262,
+      "prior_variance": 0.258048,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.1883,
+      "prior_variance": 0.258979,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 1.1988,
+      "prior_variance": 0.210009,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": 0.3788,
+      "prior_variance": 0.303789,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.4393,
+      "prior_variance": 0.317379,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.1258,
+      "prior_variance": 0.247875,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -2.9108,
+      "prior_variance": 0.252745,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -7.1661,
+      "prior_variance": 0.311999,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -8.4556,
+      "prior_variance": 0.311752,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1785,
+  "timestamp": "2026-06-13T20:52:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 13.121,
+      "prior_variance": 0.6132,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 10.0649,
+      "prior_variance": 0.413317,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 8.3127,
+      "prior_variance": 0.798125,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.6401,
+      "prior_variance": 0.368482,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 5.0608,
+      "prior_variance": 0.260679,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 5.4749,
+      "prior_variance": 0.278544,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.4019,
+      "prior_variance": 0.226042,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 6.9353,
+      "prior_variance": 0.341525,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.5004,
+      "prior_variance": 0.215883,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.5171,
+      "prior_variance": 0.244836,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.1485,
+      "prior_variance": 0.276913,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 4.2492,
+      "prior_variance": 0.261002,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 5.9513,
+      "prior_variance": 0.348072,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.9385,
+      "prior_variance": 0.215641,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.1332,
+      "prior_variance": 0.21733,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.591,
+      "prior_variance": 0.213721,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.3977,
+      "prior_variance": 0.234544,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.2363,
+      "prior_variance": 0.264346,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -4.0288,
+      "prior_variance": 0.260801,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.3738,
+      "prior_variance": 0.254062,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -3.6651,
+      "prior_variance": 0.371455,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.0624,
+      "prior_variance": 0.236298,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -3.1014,
+      "prior_variance": 0.289336,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.4403,
+      "prior_variance": 0.250669,
+      "prior_n": 5
+    }
+  ]
+}

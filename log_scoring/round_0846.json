@@ -1,0 +1,200 @@
+{
+  "round": 846,
+  "timestamp": "2026-06-13T19:56:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -5.4278,
+      "prior_variance": 0.663494,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -8.9491,
+      "prior_variance": 0.614262,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -10.4443,
+      "prior_variance": 0.687942,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -7.8161,
+      "prior_variance": 0.640714,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -9.5243,
+      "prior_variance": 1.253264,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -8.7099,
+      "prior_variance": 0.769016,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -8.0046,
+      "prior_variance": 0.67972,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -9.7882,
+      "prior_variance": 1.293795,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -8.446,
+      "prior_variance": 0.653543,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -10.872,
+      "prior_variance": 0.650469,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -8.4451,
+      "prior_variance": 0.851169,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -8.6775,
+      "prior_variance": 0.793665,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -7.4651,
+      "prior_variance": 0.745082,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -8.3049,
+      "prior_variance": 0.99131,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -7.7449,
+      "prior_variance": 0.678887,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -9.8908,
+      "prior_variance": 0.875279,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -9.904,
+      "prior_variance": 0.739196,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Yichun",
+      "path": "asia/china/heilongjiang/yichun",
+      "prior_score": -8.6498,
+      "prior_variance": 0.576786,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -8.5318,
+      "prior_variance": 1.832284,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -9.8397,
+      "prior_variance": 0.626218,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -9.5578,
+      "prior_variance": 1.030441,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -9.7171,
+      "prior_variance": 0.588,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -9.1463,
+      "prior_variance": 0.724925,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -7.3736,
+      "prior_variance": 0.638475,
+      "prior_n": 2
+    }
+  ]
+}

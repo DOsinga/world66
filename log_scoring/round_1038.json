@@ -1,0 +1,200 @@
+{
+  "round": 1038,
+  "timestamp": "2026-06-13T20:07:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 4.1071,
+      "prior_variance": 0.497229,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_score": 3.4702,
+      "prior_variance": 0.450696,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": 0.7541,
+      "prior_variance": 0.431928,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.0456,
+      "prior_variance": 0.524614,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 2.5005,
+      "prior_variance": 0.403769,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 2.0214,
+      "prior_variance": 0.497154,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": -0.7372,
+      "prior_variance": 0.459988,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.3225,
+      "prior_variance": 0.457904,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 1.8426,
+      "prior_variance": 0.470707,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": -0.5195,
+      "prior_variance": 0.53534,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": 1.0162,
+      "prior_variance": 0.421569,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.418,
+      "prior_variance": 0.426226,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": -0.3013,
+      "prior_variance": 0.450006,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -2.2207,
+      "prior_variance": 0.494793,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_score": -0.4826,
+      "prior_variance": 0.490056,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.1455,
+      "prior_variance": 0.548234,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -2.4079,
+      "prior_variance": 0.461485,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -1.3889,
+      "prior_variance": 0.432772,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.3787,
+      "prior_variance": 0.454916,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": 0.0376,
+      "prior_variance": 0.469646,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ostende",
+      "path": "europe/belgium/ostende",
+      "prior_score": 0.4043,
+      "prior_variance": 0.430886,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -0.3635,
+      "prior_variance": 0.458637,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -2.249,
+      "prior_variance": 0.530152,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": 0.0487,
+      "prior_variance": 0.508233,
+      "prior_n": 3
+    }
+  ]
+}

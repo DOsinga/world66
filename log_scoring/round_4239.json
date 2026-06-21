@@ -1,0 +1,200 @@
+{
+  "round": 4239,
+  "timestamp": "2026-06-13T23:56:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.9268,
+      "prior_variance": 0.130134,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 3.0811,
+      "prior_variance": 0.10037,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.5513,
+      "prior_variance": 0.097985,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 2.8884,
+      "prior_variance": 0.094131,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 2.3702,
+      "prior_variance": 0.1035,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.2429,
+      "prior_variance": 0.103865,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 1.325,
+      "prior_variance": 0.095633,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 0.6201,
+      "prior_variance": 0.099583,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.7698,
+      "prior_variance": 0.093738,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.7303,
+      "prior_variance": 0.13352,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.6075,
+      "prior_variance": 0.108065,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -0.8782,
+      "prior_variance": 0.097866,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 0.992,
+      "prior_variance": 0.101143,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": 0.0974,
+      "prior_variance": 0.095113,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": 0.1841,
+      "prior_variance": 0.095114,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.6994,
+      "prior_variance": 0.104173,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 0.2351,
+      "prior_variance": 0.108727,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -3.317,
+      "prior_variance": 0.111605,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -1.7753,
+      "prior_variance": 0.121722,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -4.8075,
+      "prior_variance": 0.104251,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/south_east/crawley",
+      "prior_score": -6.5745,
+      "prior_variance": 0.152168,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -6.6866,
+      "prior_variance": 0.12439,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -8.7871,
+      "prior_variance": 0.161277,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -8.9042,
+      "prior_variance": 0.214849,
+      "prior_n": 14
+    }
+  ]
+}

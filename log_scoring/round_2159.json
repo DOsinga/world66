@@ -1,0 +1,200 @@
+{
+  "round": 2159,
+  "timestamp": "2026-06-13T21:22:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 0.2952,
+      "prior_variance": 0.189802,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.5577,
+      "prior_variance": 0.208339,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -4.1331,
+      "prior_variance": 0.205992,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.1936,
+      "prior_variance": 0.185426,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -1.9961,
+      "prior_variance": 0.19519,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -2.797,
+      "prior_variance": 0.218153,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -5.7658,
+      "prior_variance": 0.292773,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.0946,
+      "prior_variance": 0.236541,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.8335,
+      "prior_variance": 0.196358,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -4.9971,
+      "prior_variance": 0.188722,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.9212,
+      "prior_variance": 0.2024,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -6.3185,
+      "prior_variance": 0.254599,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -5.1764,
+      "prior_variance": 0.225875,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.54,
+      "prior_variance": 0.241268,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -2.7764,
+      "prior_variance": 0.203969,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -4.1174,
+      "prior_variance": 0.180341,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -4.8245,
+      "prior_variance": 0.216904,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -4.3374,
+      "prior_variance": 0.190639,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -2.9892,
+      "prior_variance": 0.254407,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.4534,
+      "prior_variance": 0.182139,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -6.4573,
+      "prior_variance": 0.251934,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.4793,
+      "prior_variance": 0.208357,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -9.6165,
+      "prior_variance": 0.347133,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.4512,
+      "prior_variance": 0.270147,
+      "prior_n": 6
+    }
+  ]
+}

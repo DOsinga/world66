@@ -1,0 +1,200 @@
+{
+  "round": 4432,
+  "timestamp": "2026-06-14T00:12:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 10.5864,
+      "prior_variance": 0.18056,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 6.2485,
+      "prior_variance": 0.181402,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.766,
+      "prior_variance": 0.114818,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 6.8665,
+      "prior_variance": 0.144575,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 6.1133,
+      "prior_variance": 0.145235,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 4.9625,
+      "prior_variance": 0.11178,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.3756,
+      "prior_variance": 0.097149,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -2.489,
+      "prior_variance": 0.129819,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -1.0742,
+      "prior_variance": 0.091124,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.2544,
+      "prior_variance": 0.111394,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -2.1582,
+      "prior_variance": 0.099373,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -0.7579,
+      "prior_variance": 0.09633,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.2281,
+      "prior_variance": 0.086899,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -3.7226,
+      "prior_variance": 0.112659,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.2221,
+      "prior_variance": 0.143182,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -3.0624,
+      "prior_variance": 0.117888,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -1.2473,
+      "prior_variance": 0.086967,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -2.6725,
+      "prior_variance": 0.097448,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -5.1161,
+      "prior_variance": 0.129456,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.2992,
+      "prior_variance": 0.105297,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -6.2836,
+      "prior_variance": 0.117999,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -6.2845,
+      "prior_variance": 0.159249,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -4.7053,
+      "prior_variance": 0.105923,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -7.9187,
+      "prior_variance": 0.17008,
+      "prior_n": 14
+    }
+  ]
+}

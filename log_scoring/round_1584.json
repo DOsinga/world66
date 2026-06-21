@@ -1,0 +1,200 @@
+{
+  "round": 1584,
+  "timestamp": "2026-06-13T20:39:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_score": 5.1654,
+      "prior_variance": 0.422675,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 7.455,
+      "prior_variance": 0.294369,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Royal Chitwan National Park",
+      "path": "asia/nepal/royalchitwannationalpark",
+      "prior_score": 6.179,
+      "prior_variance": 0.360447,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 5.0856,
+      "prior_variance": 0.244034,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_national_park",
+      "prior_score": 5.4387,
+      "prior_variance": 0.316061,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 6.5183,
+      "prior_variance": 0.279577,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 5.2699,
+      "prior_variance": 0.27015,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Omis",
+      "path": "europe/croatia/omis",
+      "prior_score": 4.8985,
+      "prior_variance": 0.356751,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 5.6792,
+      "prior_variance": 0.331119,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 4.1422,
+      "prior_variance": 0.423762,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.6081,
+      "prior_variance": 0.326925,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay",
+      "prior_score": 3.4391,
+      "prior_variance": 0.295674,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 5.9502,
+      "prior_variance": 0.35508,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 2.4173,
+      "prior_variance": 0.284274,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 1.7393,
+      "prior_variance": 0.253857,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 4.161,
+      "prior_variance": 0.315634,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 2.1835,
+      "prior_variance": 0.318259,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_score": 1.1998,
+      "prior_variance": 0.292039,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -1.7315,
+      "prior_variance": 0.244316,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -2.7141,
+      "prior_variance": 0.341892,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.8143,
+      "prior_variance": 0.288445,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -3.0154,
+      "prior_variance": 0.286771,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -5.3982,
+      "prior_variance": 0.291137,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.6378,
+      "prior_variance": 0.322085,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3885,
+  "timestamp": "2026-06-13T23:27:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.2375,
+      "prior_variance": 0.123266,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 5.5469,
+      "prior_variance": 0.12236,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.3246,
+      "prior_variance": 0.135181,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 4.4706,
+      "prior_variance": 0.135338,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_score": 1.2789,
+      "prior_variance": 0.112337,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.3938,
+      "prior_variance": 0.102367,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.6511,
+      "prior_variance": 0.099572,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 0.6633,
+      "prior_variance": 0.122636,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.381,
+      "prior_variance": 0.116846,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.9093,
+      "prior_variance": 0.116591,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.7583,
+      "prior_variance": 0.098801,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.3453,
+      "prior_variance": 0.112457,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.6586,
+      "prior_variance": 0.141223,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.0158,
+      "prior_variance": 0.103769,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.6031,
+      "prior_variance": 0.118428,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.3756,
+      "prior_variance": 0.112476,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_score": -2.1772,
+      "prior_variance": 0.09323,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -0.9865,
+      "prior_variance": 0.126077,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -3.3469,
+      "prior_variance": 0.14218,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -2.2079,
+      "prior_variance": 0.111778,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -3.7785,
+      "prior_variance": 0.112893,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -4.7092,
+      "prior_variance": 0.112623,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.3115,
+      "prior_variance": 0.298601,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -10.4631,
+      "prior_variance": 0.42922,
+      "prior_n": 12
+    }
+  ]
+}

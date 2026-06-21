@@ -1,0 +1,200 @@
+{
+  "round": 731,
+  "timestamp": "2026-06-13T19:50:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 1.2379,
+      "prior_variance": 1.302114,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 1.8294,
+      "prior_variance": 0.668134,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 1.3816,
+      "prior_variance": 0.7993,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 1.7396,
+      "prior_variance": 1.142136,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo_1",
+      "prior_score": 3.1003,
+      "prior_variance": 0.847142,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": -1.5024,
+      "prior_variance": 1.169163,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 2.522,
+      "prior_variance": 1.518888,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 3.3944,
+      "prior_variance": 0.804258,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_score": 1.8796,
+      "prior_variance": 0.814463,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": -0.8217,
+      "prior_variance": 0.746978,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.3257,
+      "prior_variance": 0.748896,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": -0.7049,
+      "prior_variance": 0.977856,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/norderney",
+      "prior_score": 0.5294,
+      "prior_variance": 1.191186,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": 0.2323,
+      "prior_variance": 1.379792,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.0478,
+      "prior_variance": 1.417427,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.8422,
+      "prior_variance": 1.216931,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": 1.5882,
+      "prior_variance": 0.694718,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.1875,
+      "prior_variance": 1.300855,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": 2.092,
+      "prior_variance": 1.303804,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": 0.1542,
+      "prior_variance": 0.821859,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": 0.9527,
+      "prior_variance": 0.875293,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sandusky",
+      "path": "northamerica/unitedstates/ohio/sandusky",
+      "prior_score": -2.232,
+      "prior_variance": 1.336208,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": 0.2904,
+      "prior_variance": 1.580968,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -3.1663,
+      "prior_variance": 1.264457,
+      "prior_n": 1
+    }
+  ]
+}

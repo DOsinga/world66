@@ -1,0 +1,200 @@
+{
+  "round": 448,
+  "timestamp": "2026-06-13T19:35:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 1.7334,
+      "prior_variance": 2.996792,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 7.5235,
+      "prior_variance": 1.791714,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 5.3102,
+      "prior_variance": 1.624379,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_score": -0.9087,
+      "prior_variance": 2.239241,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 3.26,
+      "prior_variance": 1.455103,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 5.1344,
+      "prior_variance": 1.886921,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.0023,
+      "prior_variance": 2.184654,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 1.3771,
+      "prior_variance": 2.427515,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 5.5864,
+      "prior_variance": 1.897997,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": 1.8882,
+      "prior_variance": 2.696588,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": -0.2806,
+      "prior_variance": 2.129432,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 1.5788,
+      "prior_variance": 1.938376,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": -1.2641,
+      "prior_variance": 1.470279,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": 0.2314,
+      "prior_variance": 2.249664,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": 0.3067,
+      "prior_variance": 1.587693,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 3.752,
+      "prior_variance": 1.441032,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.737,
+      "prior_variance": 1.546956,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": 4.9343,
+      "prior_variance": 1.983342,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet",
+      "prior_score": 2.8299,
+      "prior_variance": 1.402936,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -2.1411,
+      "prior_variance": 1.392818,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Le\u00f3n",
+      "path": "northamerica/nicaragua/len",
+      "prior_score": 3.0129,
+      "prior_variance": 1.543205,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": 0.2723,
+      "prior_variance": 1.655114,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 2.1017,
+      "prior_variance": 1.414318,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": 0.272,
+      "prior_variance": 1.757691,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2307,
+  "timestamp": "2026-06-13T21:32:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ghorepani and Poon Hill",
+      "path": "asia/nepal/ghorepani_poonhil",
+      "prior_score": 8.3128,
+      "prior_variance": 0.248545,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 8.8994,
+      "prior_variance": 0.336115,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 2.9924,
+      "prior_variance": 0.183473,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 3.5684,
+      "prior_variance": 0.248668,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 2.2194,
+      "prior_variance": 0.168125,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": -0.7584,
+      "prior_variance": 0.217402,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_score": 1.4259,
+      "prior_variance": 0.200231,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.2894,
+      "prior_variance": 0.190874,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 2.1958,
+      "prior_variance": 0.236559,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.7699,
+      "prior_variance": 0.190311,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.3701,
+      "prior_variance": 0.192316,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": 0.0585,
+      "prior_variance": 0.183111,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -2.4747,
+      "prior_variance": 0.183789,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.5142,
+      "prior_variance": 0.2001,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -2.0111,
+      "prior_variance": 0.182192,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.0291,
+      "prior_variance": 0.190112,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.1887,
+      "prior_variance": 0.146695,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.4573,
+      "prior_variance": 0.186484,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.5576,
+      "prior_variance": 0.170509,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_llavaneres",
+      "prior_score": -2.1539,
+      "prior_variance": 0.20589,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.06,
+      "prior_variance": 0.186431,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.0713,
+      "prior_variance": 0.164437,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -2.4906,
+      "prior_variance": 0.191235,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -9.1173,
+      "prior_variance": 0.413634,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 589,
+  "timestamp": "2026-06-13T19:43:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -9.7848,
+      "prior_variance": 0.875788,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -5.8383,
+      "prior_variance": 1.130154,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -4.4896,
+      "prior_variance": 1.053673,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -7.9832,
+      "prior_variance": 0.714869,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -7.3971,
+      "prior_variance": 1.105602,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kuqa",
+      "path": "asia/china/xinjiangprovince/kuqa",
+      "prior_score": -7.118,
+      "prior_variance": 1.765741,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -7.0906,
+      "prior_variance": 1.519177,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -8.1069,
+      "prior_variance": 1.805289,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Robertsport",
+      "path": "africa/liberia/robertsport",
+      "prior_score": -8.9533,
+      "prior_variance": 2.557722,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -8.6982,
+      "prior_variance": 0.821272,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -8.2141,
+      "prior_variance": 0.764959,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -7.4987,
+      "prior_variance": 0.913796,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -8.3046,
+      "prior_variance": 0.811744,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -9.9478,
+      "prior_variance": 1.147251,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -8.4546,
+      "prior_variance": 1.149882,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -9.0786,
+      "prior_variance": 1.016001,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -10.1234,
+      "prior_variance": 0.843648,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -8.7686,
+      "prior_variance": 0.683527,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -9.7981,
+      "prior_variance": 1.08643,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -8.128,
+      "prior_variance": 0.786871,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -9.4508,
+      "prior_variance": 0.946855,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Fushun",
+      "path": "asia/china/liaoning/fushun",
+      "prior_score": -10.4394,
+      "prior_variance": 1.594017,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -10.9158,
+      "prior_variance": 1.097232,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -9.3764,
+      "prior_variance": 1.543612,
+      "prior_n": 1
+    }
+  ]
+}

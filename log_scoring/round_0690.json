@@ -1,0 +1,200 @@
+{
+  "round": 690,
+  "timestamp": "2026-06-13T19:48:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -18.6521,
+      "prior_variance": 5.667071,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -18.0284,
+      "prior_variance": 6.217882,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -18.9776,
+      "prior_variance": 2.620387,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -21.8484,
+      "prior_variance": 5.538299,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -22.0415,
+      "prior_variance": 5.002802,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -17.3964,
+      "prior_variance": 4.246589,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -17.6897,
+      "prior_variance": 5.747873,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -18.1348,
+      "prior_variance": 6.155584,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -18.8154,
+      "prior_variance": 5.617218,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -19.4535,
+      "prior_variance": 1.315276,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -15.526,
+      "prior_variance": 7.040095,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -21.6099,
+      "prior_variance": 4.736077,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -19.1847,
+      "prior_variance": 1.41363,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -18.8346,
+      "prior_variance": 4.202629,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -21.8972,
+      "prior_variance": 5.156366,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -19.3901,
+      "prior_variance": 5.456507,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -17.3245,
+      "prior_variance": 6.283357,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -16.8228,
+      "prior_variance": 4.651349,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -20.5705,
+      "prior_variance": 1.889765,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -20.2904,
+      "prior_variance": 2.322255,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -20.6895,
+      "prior_variance": 5.166391,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -17.6937,
+      "prior_variance": 1.665992,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -20.336,
+      "prior_variance": 5.454586,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -15.0691,
+      "prior_variance": 2.815163,
+      "prior_n": 1
+    }
+  ]
+}

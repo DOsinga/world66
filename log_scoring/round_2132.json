@@ -1,0 +1,200 @@
+{
+  "round": 2132,
+  "timestamp": "2026-06-13T21:20:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 9.4901,
+      "prior_variance": 0.363866,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.6611,
+      "prior_variance": 0.377977,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 4.5529,
+      "prior_variance": 0.214932,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 2.6768,
+      "prior_variance": 0.243521,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_score": 4.5317,
+      "prior_variance": 0.220525,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Altea",
+      "path": "europe/spain/spanishcostas/altea",
+      "prior_score": 2.4638,
+      "prior_variance": 0.276406,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 4.1811,
+      "prior_variance": 0.184081,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 2.9909,
+      "prior_variance": 0.217334,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 2.6635,
+      "prior_variance": 0.267015,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 0.6942,
+      "prior_variance": 0.211502,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.0247,
+      "prior_variance": 0.275938,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 2.5366,
+      "prior_variance": 0.384185,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.8187,
+      "prior_variance": 0.225454,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 3.6423,
+      "prior_variance": 0.24437,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.4052,
+      "prior_variance": 0.199699,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 2.054,
+      "prior_variance": 0.214962,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.7249,
+      "prior_variance": 0.191008,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 2.8487,
+      "prior_variance": 0.224193,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 2.7483,
+      "prior_variance": 0.235448,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 3.9783,
+      "prior_variance": 0.260888,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 0.3884,
+      "prior_variance": 0.217191,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -1.6895,
+      "prior_variance": 0.191765,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -10.0834,
+      "prior_variance": 0.358137,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/south_east/barking",
+      "prior_score": -7.0088,
+      "prior_variance": 0.281627,
+      "prior_n": 6
+    }
+  ]
+}

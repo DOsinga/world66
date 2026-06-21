@@ -1,0 +1,200 @@
+{
+  "round": 648,
+  "timestamp": "2026-06-13T19:46:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 5.5713,
+      "prior_variance": 0.504202,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 6.8252,
+      "prior_variance": 1.65811,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 5.4285,
+      "prior_variance": 0.530993,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 3.1261,
+      "prior_variance": 0.864072,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 6.0625,
+      "prior_variance": 1.621956,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 4.9638,
+      "prior_variance": 0.794546,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 5.2685,
+      "prior_variance": 0.792393,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 6.2148,
+      "prior_variance": 1.511595,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 4.7761,
+      "prior_variance": 0.800573,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 4.7512,
+      "prior_variance": 0.857451,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Estepona",
+      "path": "europe/spain/andalucia/estepona",
+      "prior_score": 5.6276,
+      "prior_variance": 1.455867,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 4.7807,
+      "prior_variance": 0.691771,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 3.1024,
+      "prior_variance": 0.802401,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 2.4774,
+      "prior_variance": 1.437533,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 2.0287,
+      "prior_variance": 1.201235,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 4.7352,
+      "prior_variance": 1.265731,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": 2.6325,
+      "prior_variance": 1.4103,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 2.601,
+      "prior_variance": 1.235224,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 3.1391,
+      "prior_variance": 0.675634,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": 5.0597,
+      "prior_variance": 1.424796,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 3.8236,
+      "prior_variance": 0.888669,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 3.2156,
+      "prior_variance": 0.711178,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": 3.325,
+      "prior_variance": 1.440614,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": 2.8424,
+      "prior_variance": 1.363575,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2985,
+  "timestamp": "2026-06-13T22:20:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 11.955,
+      "prior_variance": 0.376077,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 9.1475,
+      "prior_variance": 0.228346,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 7.787,
+      "prior_variance": 0.229943,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 9.3371,
+      "prior_variance": 0.317468,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 8.5633,
+      "prior_variance": 0.331207,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 10.6531,
+      "prior_variance": 0.32477,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_score": 6.0319,
+      "prior_variance": 0.188234,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.5664,
+      "prior_variance": 0.144346,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.7326,
+      "prior_variance": 0.214481,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.9317,
+      "prior_variance": 0.181322,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 1.962,
+      "prior_variance": 0.168304,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 3.4295,
+      "prior_variance": 0.151049,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": 0.1229,
+      "prior_variance": 0.14406,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 5.2129,
+      "prior_variance": 0.170645,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.7093,
+      "prior_variance": 0.15445,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -3.1182,
+      "prior_variance": 0.14346,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.4992,
+      "prior_variance": 0.133573,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.7859,
+      "prior_variance": 0.155884,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -3.6462,
+      "prior_variance": 0.178253,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_score": -3.5769,
+      "prior_variance": 0.149431,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Peterhead",
+      "path": "europe/unitedkingdom/scotland/peterhead",
+      "prior_score": -3.2615,
+      "prior_variance": 0.146452,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Taizhou",
+      "path": "asia/china/jiangsu_province/taizhou",
+      "prior_score": -4.6675,
+      "prior_variance": 0.166437,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -1.5871,
+      "prior_variance": 0.137148,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.1057,
+      "prior_variance": 0.188927,
+      "prior_n": 9
+    }
+  ]
+}

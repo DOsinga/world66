@@ -1,0 +1,200 @@
+{
+  "round": 445,
+  "timestamp": "2026-06-13T19:35:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 8.9164,
+      "prior_variance": 9.792289,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 10.0046,
+      "prior_variance": 1.639694,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island",
+      "prior_score": 10.6028,
+      "prior_variance": 3.486279,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 7.184,
+      "prior_variance": 3.335291,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 7.0851,
+      "prior_variance": 1.847204,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 10.284,
+      "prior_variance": 2.56364,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 9.4422,
+      "prior_variance": 2.141549,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 6.7393,
+      "prior_variance": 3.157558,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 7.138,
+      "prior_variance": 3.48194,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 6.7336,
+      "prior_variance": 2.1991,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 7.2813,
+      "prior_variance": 4.631699,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 7.0549,
+      "prior_variance": 3.654978,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_score": 5.9625,
+      "prior_variance": 1.549089,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 4.1706,
+      "prior_variance": 1.840843,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 6.4747,
+      "prior_variance": 1.519991,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 6.8463,
+      "prior_variance": 1.95863,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 6.9711,
+      "prior_variance": 1.812554,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mackinac Island",
+      "path": "northamerica/unitedstates/michigan/mackinac_island",
+      "prior_score": 6.0245,
+      "prior_variance": 2.100877,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 4.771,
+      "prior_variance": 1.920592,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 8.4652,
+      "prior_variance": 3.414327,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gorges du Tarn",
+      "path": "europe/france/midi/ardeche/gorgesdutarn",
+      "prior_score": 8.1337,
+      "prior_variance": 2.055602,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 6.8462,
+      "prior_variance": 2.872308,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 6.7672,
+      "prior_variance": 2.517474,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 7.5235,
+      "prior_variance": 1.791714,
+      "prior_n": 1
+    }
+  ]
+}

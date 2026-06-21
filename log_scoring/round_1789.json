@@ -1,0 +1,200 @@
+{
+  "round": 1789,
+  "timestamp": "2026-06-13T20:52:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 14.0879,
+      "prior_variance": 0.72049,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 0.585,
+      "prior_variance": 0.25614,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 0.7618,
+      "prior_variance": 0.286592,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.9732,
+      "prior_variance": 0.209143,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": -0.1882,
+      "prior_variance": 0.225878,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 1.4454,
+      "prior_variance": 0.2934,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 1.0175,
+      "prior_variance": 0.221124,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 1.1434,
+      "prior_variance": 0.309479,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.2914,
+      "prior_variance": 0.243012,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -0.422,
+      "prior_variance": 0.295578,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -0.3494,
+      "prior_variance": 0.247923,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -2.4274,
+      "prior_variance": 0.254296,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -3.2613,
+      "prior_variance": 0.237393,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -3.0954,
+      "prior_variance": 0.325743,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -2.037,
+      "prior_variance": 0.238194,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Wuhu",
+      "path": "asia/china/anhui/wuhu",
+      "prior_score": -4.722,
+      "prior_variance": 0.285579,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Taizhou",
+      "path": "asia/china/jiangsu_province/taizhou",
+      "prior_score": -5.3676,
+      "prior_variance": 0.269134,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.6255,
+      "prior_variance": 0.349175,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -4.0288,
+      "prior_variance": 0.260801,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -5.9182,
+      "prior_variance": 0.34792,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -6.379,
+      "prior_variance": 0.346454,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -4.5322,
+      "prior_variance": 0.251745,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.6054,
+      "prior_variance": 0.410336,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -11.1212,
+      "prior_variance": 0.590736,
+      "prior_n": 6
+    }
+  ]
+}

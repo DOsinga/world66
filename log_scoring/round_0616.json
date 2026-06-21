@@ -1,0 +1,200 @@
+{
+  "round": 616,
+  "timestamp": "2026-06-13T19:45:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -10.5597,
+      "prior_variance": 1.296023,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -9.2118,
+      "prior_variance": 1.083252,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -11.2767,
+      "prior_variance": 1.069,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_score": -9.1287,
+      "prior_variance": 1.374284,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -14.6051,
+      "prior_variance": 6.716793,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -10.5937,
+      "prior_variance": 1.91523,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -9.7562,
+      "prior_variance": 1.307978,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -6.8507,
+      "prior_variance": 1.580019,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -12.6986,
+      "prior_variance": 0.937051,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -10.4648,
+      "prior_variance": 1.010946,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -10.836,
+      "prior_variance": 8.386749,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Zaozhuang",
+      "path": "asia/china/shandong_province/zaozhuang",
+      "prior_score": -12.0864,
+      "prior_variance": 0.975003,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Jingzhou",
+      "path": "asia/china/hubei/jingzhou",
+      "prior_score": -8.706,
+      "prior_variance": 1.253498,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Linxia",
+      "path": "asia/china/gansu/linxia",
+      "prior_score": -8.8574,
+      "prior_variance": 1.672246,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Suqian",
+      "path": "asia/china/jiangsu_province/suqian",
+      "prior_score": -9.5529,
+      "prior_variance": 1.827321,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -7.5595,
+      "prior_variance": 1.493363,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -9.418,
+      "prior_variance": 1.646886,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -11.23,
+      "prior_variance": 1.101581,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -12.0349,
+      "prior_variance": 0.949744,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -11.9947,
+      "prior_variance": 4.166861,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -10.634,
+      "prior_variance": 1.381152,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -10.3101,
+      "prior_variance": 1.837956,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -13.0762,
+      "prior_variance": 7.479721,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -14.3334,
+      "prior_variance": 6.634065,
+      "prior_n": 3
+    }
+  ]
+}

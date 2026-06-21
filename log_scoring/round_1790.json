@@ -1,0 +1,200 @@
+{
+  "round": 1790,
+  "timestamp": "2026-06-13T20:52:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 9.184,
+      "prior_variance": 0.380592,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.4698,
+      "prior_variance": 0.346486,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 1.2023,
+      "prior_variance": 0.22571,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 0.8024,
+      "prior_variance": 0.279775,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.6206,
+      "prior_variance": 0.266632,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pereira",
+      "path": "southamerica/colombia/pereira",
+      "prior_score": -0.6037,
+      "prior_variance": 0.201075,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -2.874,
+      "prior_variance": 0.24726,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": 0.0629,
+      "prior_variance": 0.241389,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -4.0966,
+      "prior_variance": 0.264802,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.8098,
+      "prior_variance": 0.25579,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Zhongshan",
+      "path": "asia/china/guangdong/zhongshan",
+      "prior_score": -2.9518,
+      "prior_variance": 0.234226,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -3.5322,
+      "prior_variance": 0.287375,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.1646,
+      "prior_variance": 0.293353,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -4.7296,
+      "prior_variance": 0.2921,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.3603,
+      "prior_variance": 0.211327,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.826,
+      "prior_variance": 0.293554,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -6.0983,
+      "prior_variance": 0.265188,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -7.4231,
+      "prior_variance": 0.333416,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -6.4626,
+      "prior_variance": 0.29314,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -6.9529,
+      "prior_variance": 0.365584,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -6.3855,
+      "prior_variance": 0.258025,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Moore",
+      "path": "northamerica/unitedstates/oklahoma/moore",
+      "prior_score": -7.6719,
+      "prior_variance": 0.303607,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -7.9282,
+      "prior_variance": 0.394802,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -9.8113,
+      "prior_variance": 0.751546,
+      "prior_n": 5
+    }
+  ]
+}

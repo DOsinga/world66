@@ -1,0 +1,200 @@
+{
+  "round": 1990,
+  "timestamp": "2026-06-13T21:10:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.9918,
+      "prior_variance": 0.234786,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 9.1273,
+      "prior_variance": 0.277953,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 5.1026,
+      "prior_variance": 0.346387,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.7741,
+      "prior_variance": 0.231803,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 0.9119,
+      "prior_variance": 0.227403,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 2.8416,
+      "prior_variance": 0.21818,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.8537,
+      "prior_variance": 0.209753,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.6031,
+      "prior_variance": 0.223826,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.4063,
+      "prior_variance": 0.229661,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": 0.0044,
+      "prior_variance": 0.24355,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.5332,
+      "prior_variance": 0.235219,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.9043,
+      "prior_variance": 0.231987,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.377,
+      "prior_variance": 0.206927,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -1.0106,
+      "prior_variance": 0.192454,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.2385,
+      "prior_variance": 0.207411,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -3.0002,
+      "prior_variance": 0.195509,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -1.8395,
+      "prior_variance": 0.186316,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.7935,
+      "prior_variance": 0.201057,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.3705,
+      "prior_variance": 0.215902,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -4.1708,
+      "prior_variance": 0.175132,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.4746,
+      "prior_variance": 0.224523,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -5.4448,
+      "prior_variance": 0.24959,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -5.8454,
+      "prior_variance": 0.240257,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -8.1045,
+      "prior_variance": 0.349755,
+      "prior_n": 6
+    }
+  ]
+}

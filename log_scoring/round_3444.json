@@ -1,0 +1,200 @@
+{
+  "round": 3444,
+  "timestamp": "2026-06-13T22:54:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.133,
+      "prior_variance": 0.180357,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 3.9794,
+      "prior_variance": 0.16833,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.4988,
+      "prior_variance": 0.177532,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.1335,
+      "prior_variance": 0.136118,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 5.0095,
+      "prior_variance": 0.145536,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.0515,
+      "prior_variance": 0.169812,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 2.6686,
+      "prior_variance": 0.123945,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 3.2236,
+      "prior_variance": 0.125211,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.3287,
+      "prior_variance": 0.130196,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Longsheng",
+      "path": "asia/china/guangxi/longsheng",
+      "prior_score": 3.6879,
+      "prior_variance": 0.169683,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 2.9306,
+      "prior_variance": 0.13773,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": -0.0694,
+      "prior_variance": 0.141421,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.0996,
+      "prior_variance": 0.12439,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 1.4758,
+      "prior_variance": 0.15312,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.6676,
+      "prior_variance": 0.164442,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 2.9138,
+      "prior_variance": 0.139652,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Ngari",
+      "path": "asia/china/tibet/ngari",
+      "prior_score": -1.6991,
+      "prior_variance": 0.163635,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.9015,
+      "prior_variance": 0.122236,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.4048,
+      "prior_variance": 0.149678,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.8416,
+      "prior_variance": 0.121592,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.1143,
+      "prior_variance": 0.12949,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -1.7152,
+      "prior_variance": 0.120423,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.9518,
+      "prior_variance": 0.120466,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -2.9448,
+      "prior_variance": 0.150073,
+      "prior_n": 11
+    }
+  ]
+}

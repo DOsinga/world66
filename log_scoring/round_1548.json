@@ -1,0 +1,200 @@
+{
+  "round": 1548,
+  "timestamp": "2026-06-13T20:37:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": 7.4366,
+      "prior_variance": 0.354597,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 8.0844,
+      "prior_variance": 0.392892,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 6.1764,
+      "prior_variance": 0.444966,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 2.541,
+      "prior_variance": 0.359236,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.3011,
+      "prior_variance": 0.315195,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.3871,
+      "prior_variance": 0.293223,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.5797,
+      "prior_variance": 0.293773,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.1734,
+      "prior_variance": 0.30337,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.3156,
+      "prior_variance": 0.27464,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": -0.1621,
+      "prior_variance": 0.340065,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hanko",
+      "path": "europe/finland/hanko",
+      "prior_score": -0.7746,
+      "prior_variance": 0.223965,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -1.1379,
+      "prior_variance": 0.272241,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Eckernf\u00f6rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": 0.1473,
+      "prior_variance": 0.263791,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 0.4585,
+      "prior_variance": 0.283063,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -4.3379,
+      "prior_variance": 0.389732,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.9403,
+      "prior_variance": 0.290912,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -2.2386,
+      "prior_variance": 0.343296,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -2.2775,
+      "prior_variance": 0.332611,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -3.8009,
+      "prior_variance": 0.380377,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -4.0972,
+      "prior_variance": 0.250324,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.6056,
+      "prior_variance": 0.309195,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -6.0687,
+      "prior_variance": 0.446184,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -5.0831,
+      "prior_variance": 0.279752,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -5.9114,
+      "prior_variance": 0.325327,
+      "prior_n": 5
+    }
+  ]
+}

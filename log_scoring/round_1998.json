@@ -1,0 +1,200 @@
+{
+  "round": 1998,
+  "timestamp": "2026-06-13T21:11:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 5.1764,
+      "prior_variance": 0.308444,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 5.4339,
+      "prior_variance": 0.251763,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.7362,
+      "prior_variance": 0.22307,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 0.6936,
+      "prior_variance": 0.251805,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 4.976,
+      "prior_variance": 0.233403,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 2.6688,
+      "prior_variance": 0.297632,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.5145,
+      "prior_variance": 0.27596,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.9156,
+      "prior_variance": 0.218682,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -2.0238,
+      "prior_variance": 0.188731,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 0.2514,
+      "prior_variance": 0.277451,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.2114,
+      "prior_variance": 0.202501,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.6801,
+      "prior_variance": 0.21595,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.0517,
+      "prior_variance": 0.212176,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -5.1954,
+      "prior_variance": 0.263716,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -8.2269,
+      "prior_variance": 0.30609,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.5847,
+      "prior_variance": 0.180662,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.088,
+      "prior_variance": 0.212261,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.9275,
+      "prior_variance": 0.23881,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hallowell",
+      "path": "northamerica/unitedstates/maine/hallowell",
+      "prior_score": -3.0702,
+      "prior_variance": 0.233575,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.7456,
+      "prior_variance": 0.230246,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -5.0631,
+      "prior_variance": 0.290448,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.7497,
+      "prior_variance": 0.287368,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -4.5139,
+      "prior_variance": 0.270662,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -5.669,
+      "prior_variance": 0.350025,
+      "prior_n": 6
+    }
+  ]
+}

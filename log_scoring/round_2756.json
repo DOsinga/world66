@@ -1,0 +1,200 @@
+{
+  "round": 2756,
+  "timestamp": "2026-06-13T22:05:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.7574,
+      "prior_variance": 0.218943,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.475,
+      "prior_variance": 0.18272,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -2.38,
+      "prior_variance": 0.18106,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -2.9755,
+      "prior_variance": 0.150284,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -3.8649,
+      "prior_variance": 0.178553,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Goi\u00e2nia",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": -2.7305,
+      "prior_variance": 0.186674,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -2.0001,
+      "prior_variance": 0.170507,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -1.0003,
+      "prior_variance": 0.16516,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 2.0146,
+      "prior_variance": 0.141226,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": -0.2577,
+      "prior_variance": 0.146712,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -2.6076,
+      "prior_variance": 0.145449,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -5.476,
+      "prior_variance": 0.160969,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -6.6447,
+      "prior_variance": 0.163708,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.4954,
+      "prior_variance": 0.199641,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -7.4201,
+      "prior_variance": 0.227458,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.3329,
+      "prior_variance": 0.28395,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -7.6516,
+      "prior_variance": 0.231062,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -8.4438,
+      "prior_variance": 0.47338,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Ghat",
+      "path": "africa/libya/ghat",
+      "prior_score": -8.1107,
+      "prior_variance": 0.507161,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.9831,
+      "prior_variance": 0.317092,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -8.3499,
+      "prior_variance": 0.277526,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -6.991,
+      "prior_variance": 0.257988,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.9977,
+      "prior_variance": 0.52234,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -10.7015,
+      "prior_variance": 0.560811,
+      "prior_n": 8
+    }
+  ]
+}

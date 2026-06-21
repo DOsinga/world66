@@ -1,0 +1,200 @@
+{
+  "round": 1300,
+  "timestamp": "2026-06-13T20:22:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jackson Hole",
+      "path": "northamerica/unitedstates/wyoming/jacksonhole",
+      "prior_score": 9.0407,
+      "prior_variance": 0.47836,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 9.6521,
+      "prior_variance": 0.382467,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 9.6906,
+      "prior_variance": 0.366561,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 8.9796,
+      "prior_variance": 0.559662,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 0.4597,
+      "prior_variance": 0.478457,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 4.3623,
+      "prior_variance": 0.341956,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 4.8858,
+      "prior_variance": 0.357103,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.9941,
+      "prior_variance": 0.379224,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -2.3866,
+      "prior_variance": 0.378793,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": -0.2954,
+      "prior_variance": 0.350046,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -1.9445,
+      "prior_variance": 0.561389,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -1.0553,
+      "prior_variance": 0.331606,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 1.8622,
+      "prior_variance": 0.313349,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.7646,
+      "prior_variance": 0.331705,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_score": -1.0351,
+      "prior_variance": 0.248738,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.99,
+      "prior_variance": 0.304747,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -2.1251,
+      "prior_variance": 0.331919,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": -0.099,
+      "prior_variance": 0.356376,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -2.0411,
+      "prior_variance": 0.35456,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -3.9041,
+      "prior_variance": 0.491788,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -3.924,
+      "prior_variance": 0.356259,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.5525,
+      "prior_variance": 0.313656,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.4803,
+      "prior_variance": 0.320065,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -7.2152,
+      "prior_variance": 0.431638,
+      "prior_n": 4
+    }
+  ]
+}

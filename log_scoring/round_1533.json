@@ -1,0 +1,200 @@
+{
+  "round": 1533,
+  "timestamp": "2026-06-13T20:36:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Foz do Igua\u00e7u",
+      "path": "southamerica/brazil/fozdoiguacu",
+      "prior_score": 11.026,
+      "prior_variance": 0.661075,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 7.1171,
+      "prior_variance": 0.273781,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 9.0518,
+      "prior_variance": 0.45226,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 4.0449,
+      "prior_variance": 0.259442,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 1.44,
+      "prior_variance": 0.270745,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.6798,
+      "prior_variance": 0.311992,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 2.4467,
+      "prior_variance": 0.35385,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 0.7993,
+      "prior_variance": 0.241913,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 1.6173,
+      "prior_variance": 0.301692,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.4733,
+      "prior_variance": 0.289937,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.1666,
+      "prior_variance": 0.285868,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 2.1272,
+      "prior_variance": 0.252152,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Santa Fe de Antioquia",
+      "path": "southamerica/colombia/santafedeantioquia",
+      "prior_score": 2.8279,
+      "prior_variance": 0.253838,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.2498,
+      "prior_variance": 0.266532,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.8239,
+      "prior_variance": 0.264134,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 3.6514,
+      "prior_variance": 0.37084,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -4.5076,
+      "prior_variance": 0.308755,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -4.3047,
+      "prior_variance": 0.265938,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Myllykoski",
+      "path": "europe/finland/myllykoski",
+      "prior_score": -7.6847,
+      "prior_variance": 0.514619,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -5.0946,
+      "prior_variance": 0.315673,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -7.9336,
+      "prior_variance": 0.338084,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -7.9918,
+      "prior_variance": 0.306164,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -8.342,
+      "prior_variance": 0.358439,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -8.0238,
+      "prior_variance": 0.389442,
+      "prior_n": 4
+    }
+  ]
+}

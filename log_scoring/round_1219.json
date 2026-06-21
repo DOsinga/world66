@@ -1,0 +1,200 @@
+{
+  "round": 1219,
+  "timestamp": "2026-06-13T20:17:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 13.1047,
+      "prior_variance": 0.498434,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 8.5631,
+      "prior_variance": 0.454754,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 4.2125,
+      "prior_variance": 0.457809,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": -2.7536,
+      "prior_variance": 0.580308,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 4.9149,
+      "prior_variance": 0.458038,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 0.7494,
+      "prior_variance": 0.434589,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": -0.1696,
+      "prior_variance": 0.485366,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 1.7658,
+      "prior_variance": 0.507692,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 2.0277,
+      "prior_variance": 0.282449,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": -0.5253,
+      "prior_variance": 0.308416,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/newplymouth",
+      "prior_score": 1.7808,
+      "prior_variance": 0.396989,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.6605,
+      "prior_variance": 0.33073,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -1.0686,
+      "prior_variance": 0.307784,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.5189,
+      "prior_variance": 0.570324,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.9152,
+      "prior_variance": 0.421209,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": -0.0351,
+      "prior_variance": 0.405915,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -1.2986,
+      "prior_variance": 0.448244,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -1.6467,
+      "prior_variance": 0.424788,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -5.4891,
+      "prior_variance": 0.452506,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -4.8364,
+      "prior_variance": 0.410527,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -12.3121,
+      "prior_variance": 0.471909,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -8.7291,
+      "prior_variance": 0.504122,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -6.7808,
+      "prior_variance": 0.759115,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -8.1337,
+      "prior_variance": 0.578604,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1094,
+  "timestamp": "2026-06-13T20:10:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 9.5839,
+      "prior_variance": 0.496135,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 6.8277,
+      "prior_variance": 0.64147,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 6.5867,
+      "prior_variance": 0.735318,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_score": 7.8861,
+      "prior_variance": 0.520109,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 9.6579,
+      "prior_variance": 0.512738,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 5.6859,
+      "prior_variance": 0.546974,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 6.1156,
+      "prior_variance": 0.439226,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 5.3485,
+      "prior_variance": 0.482438,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 6.5542,
+      "prior_variance": 0.534398,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 5.6304,
+      "prior_variance": 0.472787,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 5.8972,
+      "prior_variance": 0.509035,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 6.9121,
+      "prior_variance": 0.565452,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Garmisch-Partenkirchen",
+      "path": "europe/germany/bavaria/garmischpartenkirchen",
+      "prior_score": 6.7558,
+      "prior_variance": 0.483034,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 6.636,
+      "prior_variance": 0.456974,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.5601,
+      "prior_variance": 0.457073,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 6.1417,
+      "prior_variance": 0.398778,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_score": 5.4952,
+      "prior_variance": 0.414525,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.9451,
+      "prior_variance": 0.484738,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 6.5998,
+      "prior_variance": 0.52183,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 5.9972,
+      "prior_variance": 0.359061,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 7.2125,
+      "prior_variance": 0.611896,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 5.3507,
+      "prior_variance": 0.571778,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 2.8514,
+      "prior_variance": 0.450638,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.68,
+      "prior_variance": 0.819644,
+      "prior_n": 3
+    }
+  ]
+}

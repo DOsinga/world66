@@ -1,0 +1,200 @@
+{
+  "round": 486,
+  "timestamp": "2026-06-13T19:38:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 14.6931,
+      "prior_variance": 7.388828,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 15.1876,
+      "prior_variance": 5.729099,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 11.9027,
+      "prior_variance": 8.705943,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 14.8684,
+      "prior_variance": 3.174796,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 9.7339,
+      "prior_variance": 4.042436,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 10.7894,
+      "prior_variance": 9.211934,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 13.9861,
+      "prior_variance": 7.668474,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 11.5557,
+      "prior_variance": 3.092545,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/galicia/santiagodecompostela",
+      "prior_score": 9.2203,
+      "prior_variance": 3.820363,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 11.106,
+      "prior_variance": 5.430762,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 10.0599,
+      "prior_variance": 3.712665,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 14.6459,
+      "prior_variance": 3.19762,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 12.485,
+      "prior_variance": 8.380557,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 10.4326,
+      "prior_variance": 1.944481,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 13.3675,
+      "prior_variance": 3.34259,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 14.2904,
+      "prior_variance": 7.547774,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 12.3015,
+      "prior_variance": 3.485738,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 8.8937,
+      "prior_variance": 1.99864,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 17.3748,
+      "prior_variance": 2.365953,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 7.8974,
+      "prior_variance": 2.42666,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 12.3047,
+      "prior_variance": 2.102875,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 9.7683,
+      "prior_variance": 2.969987,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 7.676,
+      "prior_variance": 1.903902,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Peel",
+      "path": "europe/isleofman/peel",
+      "prior_score": 6.0672,
+      "prior_variance": 1.571965,
+      "prior_n": 1
+    }
+  ]
+}

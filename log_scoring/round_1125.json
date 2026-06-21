@@ -1,0 +1,200 @@
+{
+  "round": 1125,
+  "timestamp": "2026-06-13T20:12:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 8.3561,
+      "prior_variance": 0.420247,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 6.2615,
+      "prior_variance": 0.499355,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 7.5665,
+      "prior_variance": 0.482285,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 8.6526,
+      "prior_variance": 0.494795,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.6583,
+      "prior_variance": 0.929257,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": -1.3147,
+      "prior_variance": 0.734764,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.1176,
+      "prior_variance": 0.385968,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 5.0498,
+      "prior_variance": 0.407783,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -2.8569,
+      "prior_variance": 0.631572,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": -0.1299,
+      "prior_variance": 0.392491,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -1.7718,
+      "prior_variance": 0.561008,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.614,
+      "prior_variance": 0.427401,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -2.7189,
+      "prior_variance": 0.525632,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": -0.455,
+      "prior_variance": 0.448684,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -3.528,
+      "prior_variance": 0.400548,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -5.5815,
+      "prior_variance": 1.700898,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.1501,
+      "prior_variance": 0.442672,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -2.5094,
+      "prior_variance": 0.586763,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -2.4696,
+      "prior_variance": 0.374479,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 4.7266,
+      "prior_variance": 0.415526,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -4.6387,
+      "prior_variance": 0.459415,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -1.5511,
+      "prior_variance": 0.474502,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -4.5495,
+      "prior_variance": 0.482424,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -3.4234,
+      "prior_variance": 0.474005,
+      "prior_n": 3
+    }
+  ]
+}

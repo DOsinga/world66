@@ -1,0 +1,200 @@
+{
+  "round": 598,
+  "timestamp": "2026-06-13T19:44:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -9.3422,
+      "prior_variance": 2.393975,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -9.926,
+      "prior_variance": 1.410385,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -13.8921,
+      "prior_variance": 4.244409,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -14.2862,
+      "prior_variance": 2.534377,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -12.2081,
+      "prior_variance": 2.047379,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fort Smith",
+      "path": "northamerica/canada/northwestterritories/fort_smith",
+      "prior_score": -10.9646,
+      "prior_variance": 1.886448,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -12.5613,
+      "prior_variance": 1.134183,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -13.5086,
+      "prior_variance": 1.727974,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -14.1324,
+      "prior_variance": 1.203161,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -13.7415,
+      "prior_variance": 2.003991,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -13.3423,
+      "prior_variance": 1.457115,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -13.0204,
+      "prior_variance": 1.848132,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -14.0855,
+      "prior_variance": 1.202931,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -19.7874,
+      "prior_variance": 5.439187,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_score": -17.1752,
+      "prior_variance": 6.53152,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -16.784,
+      "prior_variance": 2.597943,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -14.8618,
+      "prior_variance": 1.776594,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -14.1903,
+      "prior_variance": 2.502548,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -14.3035,
+      "prior_variance": 7.021234,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -12.432,
+      "prior_variance": 2.820159,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -13.0236,
+      "prior_variance": 1.284071,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -16.2657,
+      "prior_variance": 6.816032,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -16.2048,
+      "prior_variance": 6.817147,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -16.3849,
+      "prior_variance": 6.497651,
+      "prior_n": 1
+    }
+  ]
+}

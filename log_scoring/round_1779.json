@@ -1,0 +1,200 @@
+{
+  "round": 1779,
+  "timestamp": "2026-06-13T20:51:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 11.4341,
+      "prior_variance": 0.487506,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.0494,
+      "prior_variance": 0.297936,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.7946,
+      "prior_variance": 0.360768,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.2058,
+      "prior_variance": 0.240059,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.7325,
+      "prior_variance": 0.302019,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.9427,
+      "prior_variance": 0.249898,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.5684,
+      "prior_variance": 0.293793,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.2854,
+      "prior_variance": 0.29796,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.5443,
+      "prior_variance": 0.253013,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.561,
+      "prior_variance": 0.323275,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 3.3933,
+      "prior_variance": 0.255848,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Whitehorse",
+      "path": "northamerica/canada/the_yukon_territory/whitehorse",
+      "prior_score": 1.6157,
+      "prior_variance": 0.262032,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.8072,
+      "prior_variance": 0.279015,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.4097,
+      "prior_variance": 0.22606,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.654,
+      "prior_variance": 0.331036,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.4465,
+      "prior_variance": 0.262228,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.6899,
+      "prior_variance": 0.274569,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.8211,
+      "prior_variance": 0.520279,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -3.2619,
+      "prior_variance": 0.245061,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.8017,
+      "prior_variance": 0.274389,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -5.1794,
+      "prior_variance": 0.246179,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.5886,
+      "prior_variance": 0.326158,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -6.392,
+      "prior_variance": 0.301884,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.0184,
+      "prior_variance": 0.302613,
+      "prior_n": 5
+    }
+  ]
+}

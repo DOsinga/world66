@@ -1,0 +1,200 @@
+{
+  "round": 1085,
+  "timestamp": "2026-06-13T20:10:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.5754,
+      "prior_variance": 0.435928,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -6.5419,
+      "prior_variance": 0.38517,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -6.7301,
+      "prior_variance": 0.402019,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Shiyan",
+      "path": "asia/china/hubei/shiyan",
+      "prior_score": -6.4662,
+      "prior_variance": 0.556462,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -5.6809,
+      "prior_variance": 0.411922,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -5.8323,
+      "prior_variance": 0.343899,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -5.8779,
+      "prior_variance": 0.858077,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -6.6292,
+      "prior_variance": 0.457639,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -7.5472,
+      "prior_variance": 0.418968,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -8.1003,
+      "prior_variance": 0.610851,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -9.3091,
+      "prior_variance": 0.421516,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -7.868,
+      "prior_variance": 0.721476,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -7.8168,
+      "prior_variance": 0.500248,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -9.6811,
+      "prior_variance": 0.469723,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -7.9096,
+      "prior_variance": 0.645316,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -7.7206,
+      "prior_variance": 0.416119,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -7.0818,
+      "prior_variance": 0.661483,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -8.0594,
+      "prior_variance": 0.403144,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -7.2493,
+      "prior_variance": 0.411121,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -8.2026,
+      "prior_variance": 0.486932,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -6.8569,
+      "prior_variance": 0.381912,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -10.3621,
+      "prior_variance": 0.798992,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -8.1256,
+      "prior_variance": 0.676117,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -8.6391,
+      "prior_variance": 0.649379,
+      "prior_n": 3
+    }
+  ]
+}

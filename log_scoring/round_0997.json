@@ -1,0 +1,200 @@
+{
+  "round": 997,
+  "timestamp": "2026-06-13T20:05:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riobamba",
+      "path": "southamerica/ecuador/riobamba",
+      "prior_score": 2.8651,
+      "prior_variance": 0.442158,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -1.8831,
+      "prior_variance": 0.401164,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -2.8471,
+      "prior_variance": 0.415985,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -2.899,
+      "prior_variance": 0.33288,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -2.4552,
+      "prior_variance": 0.447233,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -2.6063,
+      "prior_variance": 0.408819,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_score": -3.3998,
+      "prior_variance": 0.438497,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -3.025,
+      "prior_variance": 0.397515,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -4.1799,
+      "prior_variance": 0.671629,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -2.4583,
+      "prior_variance": 0.381315,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -3.0209,
+      "prior_variance": 0.420726,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Mez\u0151k\u00f6vesd",
+      "path": "europe/hungary/mezokovesd",
+      "prior_score": -3.194,
+      "prior_variance": 0.399343,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -2.5565,
+      "prior_variance": 0.364029,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -2.4126,
+      "prior_variance": 0.430136,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -2.9731,
+      "prior_variance": 0.455746,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/indiana/bloomington",
+      "prior_score": -3.0475,
+      "prior_variance": 0.509262,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.9732,
+      "prior_variance": 0.506597,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -4.0165,
+      "prior_variance": 0.499022,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -2.1242,
+      "prior_variance": 0.409125,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -2.5982,
+      "prior_variance": 0.401503,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.4442,
+      "prior_variance": 0.348533,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -4.3292,
+      "prior_variance": 0.539238,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": -2.3679,
+      "prior_variance": 0.443169,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_score": -10.806,
+      "prior_variance": 1.1372,
+      "prior_n": 2
+    }
+  ]
+}

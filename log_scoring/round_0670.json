@@ -1,0 +1,200 @@
+{
+  "round": 670,
+  "timestamp": "2026-06-13T19:47:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": -0.3651,
+      "prior_variance": 0.65066,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.1071,
+      "prior_variance": 0.638657,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": -0.839,
+      "prior_variance": 0.691381,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -2.2091,
+      "prior_variance": 0.709554,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -0.4343,
+      "prior_variance": 1.298196,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -2.8408,
+      "prior_variance": 1.253951,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 1.5125,
+      "prior_variance": 1.520542,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.3974,
+      "prior_variance": 0.55004,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.7705,
+      "prior_variance": 0.791106,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": -0.6001,
+      "prior_variance": 0.49317,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -3.8128,
+      "prior_variance": 0.881801,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": -4.4021,
+      "prior_variance": 1.181938,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -2.0098,
+      "prior_variance": 0.785091,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -0.653,
+      "prior_variance": 1.443184,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.1602,
+      "prior_variance": 1.351629,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.7766,
+      "prior_variance": 0.836172,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -0.8949,
+      "prior_variance": 1.280573,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -2.242,
+      "prior_variance": 0.700751,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -1.9986,
+      "prior_variance": 0.613163,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -0.2858,
+      "prior_variance": 1.350935,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.3265,
+      "prior_variance": 0.618024,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -3.1528,
+      "prior_variance": 0.8034,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Clarksville",
+      "path": "northamerica/unitedstates/tennessee/clarksville",
+      "prior_score": -2.428,
+      "prior_variance": 0.686231,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.722,
+      "prior_variance": 1.105849,
+      "prior_n": 3
+    }
+  ]
+}

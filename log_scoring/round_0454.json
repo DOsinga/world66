@@ -1,0 +1,200 @@
+{
+  "round": 454,
+  "timestamp": "2026-06-13T19:36:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": -4.4173,
+      "prior_variance": 1.529939,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -4.9079,
+      "prior_variance": 1.858274,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Jingpo Lake",
+      "path": "asia/china/heilongjiang/jingpohu",
+      "prior_score": -4.7661,
+      "prior_variance": 3.225669,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -9.4952,
+      "prior_variance": 9.840945,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -5.5743,
+      "prior_variance": 1.716026,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -4.9045,
+      "prior_variance": 1.544241,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -5.5606,
+      "prior_variance": 1.302239,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -6.819,
+      "prior_variance": 1.62795,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Mohe",
+      "path": "asia/china/heilongjiang/mohe",
+      "prior_score": -7.0794,
+      "prior_variance": 4.274727,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -5.6216,
+      "prior_variance": 2.197887,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -5.6348,
+      "prior_variance": 1.517716,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -6.5596,
+      "prior_variance": 1.518731,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -7.8116,
+      "prior_variance": 1.332527,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -6.1528,
+      "prior_variance": 1.907955,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -6.3655,
+      "prior_variance": 1.484922,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -10.6007,
+      "prior_variance": 3.146865,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -6.3434,
+      "prior_variance": 1.684856,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -7.7954,
+      "prior_variance": 2.794658,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bingerville",
+      "path": "africa/ivorycoast/bingerville",
+      "prior_score": -9.3615,
+      "prior_variance": 9.208544,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -8.2292,
+      "prior_variance": 1.441857,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -5.3268,
+      "prior_variance": 1.445976,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -10.5928,
+      "prior_variance": 4.538875,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -10.6202,
+      "prior_variance": 5.310039,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -8.0636,
+      "prior_variance": 1.554502,
+      "prior_n": 1
+    }
+  ]
+}

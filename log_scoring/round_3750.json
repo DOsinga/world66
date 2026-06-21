@@ -1,0 +1,200 @@
+{
+  "round": 3750,
+  "timestamp": "2026-06-13T23:17:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 7.6138,
+      "prior_variance": 0.212261,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_score": 5.2219,
+      "prior_variance": 0.179916,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 4.8841,
+      "prior_variance": 0.141619,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 5.4355,
+      "prior_variance": 0.138688,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.2964,
+      "prior_variance": 0.113075,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/napier",
+      "prior_score": 3.2657,
+      "prior_variance": 0.119414,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.4124,
+      "prior_variance": 0.124857,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_score": 3.4519,
+      "prior_variance": 0.139003,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Uppsala",
+      "path": "europe/sweden/uppsala",
+      "prior_score": 3.3918,
+      "prior_variance": 0.109842,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 0.8011,
+      "prior_variance": 0.111979,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_score": 1.2588,
+      "prior_variance": 0.122547,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 1.0822,
+      "prior_variance": 0.120381,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 1.0545,
+      "prior_variance": 0.114489,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.4383,
+      "prior_variance": 0.112762,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -2.6922,
+      "prior_variance": 0.156556,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.3287,
+      "prior_variance": 0.136688,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -2.0902,
+      "prior_variance": 0.136933,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -2.0257,
+      "prior_variance": 0.109631,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.2861,
+      "prior_variance": 0.115538,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.7794,
+      "prior_variance": 0.123442,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.1998,
+      "prior_variance": 0.10559,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.0186,
+      "prior_variance": 0.111693,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.1248,
+      "prior_variance": 0.106085,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.2778,
+      "prior_variance": 0.12722,
+      "prior_n": 12
+    }
+  ]
+}

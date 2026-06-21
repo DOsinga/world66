@@ -1,0 +1,200 @@
+{
+  "round": 457,
+  "timestamp": "2026-06-13T19:36:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 0.4135,
+      "prior_variance": 1.45662,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 1.7169,
+      "prior_variance": 2.052125,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "T\u00f8nsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": -0.1121,
+      "prior_variance": 2.691246,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -1.5974,
+      "prior_variance": 2.138423,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 1.5635,
+      "prior_variance": 1.522406,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 2.6533,
+      "prior_variance": 1.473195,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -1.6248,
+      "prior_variance": 1.559537,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": -0.4068,
+      "prior_variance": 3.910133,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Xingcheng",
+      "path": "asia/china/liaoning/xingcheng",
+      "prior_score": -1.3589,
+      "prior_variance": 1.262141,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -1.9825,
+      "prior_variance": 1.299857,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.6172,
+      "prior_variance": 1.446451,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": 2.2195,
+      "prior_variance": 3.558858,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": 0.6631,
+      "prior_variance": 1.416158,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -1.4876,
+      "prior_variance": 1.696715,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -2.1074,
+      "prior_variance": 1.36704,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -3.0781,
+      "prior_variance": 1.909984,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hull",
+      "prior_score": -1.8706,
+      "prior_variance": 2.057896,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.1392,
+      "prior_variance": 1.728702,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": 0.3617,
+      "prior_variance": 1.290936,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -2.5636,
+      "prior_variance": 2.238215,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.9047,
+      "prior_variance": 1.847178,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -1.2249,
+      "prior_variance": 1.533641,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -2.6755,
+      "prior_variance": 1.643036,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -5.2933,
+      "prior_variance": 4.887184,
+      "prior_n": 1
+    }
+  ]
+}

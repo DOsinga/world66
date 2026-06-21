@@ -1,0 +1,200 @@
+{
+  "round": 1057,
+  "timestamp": "2026-06-13T20:08:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -5.2546,
+      "prior_variance": 0.406111,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.6665,
+      "prior_variance": 0.542028,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -5.0625,
+      "prior_variance": 0.392166,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -9.0457,
+      "prior_variance": 0.566271,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -8.8438,
+      "prior_variance": 0.624934,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -6.556,
+      "prior_variance": 0.328942,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -8.627,
+      "prior_variance": 0.588983,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -9.3352,
+      "prior_variance": 0.70388,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -6.5135,
+      "prior_variance": 0.483144,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -7.727,
+      "prior_variance": 0.649528,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -6.1409,
+      "prior_variance": 0.871927,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -7.9396,
+      "prior_variance": 0.616422,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -6.3071,
+      "prior_variance": 0.433986,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Ha'il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -9.6661,
+      "prior_variance": 0.683859,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -8.9035,
+      "prior_variance": 0.49911,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -8.1887,
+      "prior_variance": 0.560341,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -8.0136,
+      "prior_variance": 0.55825,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -8.2264,
+      "prior_variance": 0.461571,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -7.6184,
+      "prior_variance": 0.43254,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -8.4935,
+      "prior_variance": 0.452681,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -9.1072,
+      "prior_variance": 0.649708,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_score": -7.5354,
+      "prior_variance": 0.433178,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Barking",
+      "path": "europe/unitedkingdom/england/south_east/barking",
+      "prior_score": -8.3773,
+      "prior_variance": 0.44464,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -8.0568,
+      "prior_variance": 0.424445,
+      "prior_n": 3
+    }
+  ]
+}

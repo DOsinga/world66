@@ -1,0 +1,200 @@
+{
+  "round": 2293,
+  "timestamp": "2026-06-13T21:31:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 12.4013,
+      "prior_variance": 0.325794,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 6.2436,
+      "prior_variance": 0.240281,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.4908,
+      "prior_variance": 0.18697,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.6739,
+      "prior_variance": 0.243165,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 5.18,
+      "prior_variance": 0.241528,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.9153,
+      "prior_variance": 0.190084,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 1.8634,
+      "prior_variance": 0.207244,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 0.6366,
+      "prior_variance": 0.183557,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.3843,
+      "prior_variance": 0.214154,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.8567,
+      "prior_variance": 0.189064,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 1.0359,
+      "prior_variance": 0.213944,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Weizhou Island",
+      "path": "asia/china/guangxi/weizhou",
+      "prior_score": -0.7016,
+      "prior_variance": 0.19814,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -2.214,
+      "prior_variance": 0.210042,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": 0.5561,
+      "prior_variance": 0.205724,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.8517,
+      "prior_variance": 0.182888,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.7529,
+      "prior_variance": 0.21176,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.4901,
+      "prior_variance": 0.171307,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.0282,
+      "prior_variance": 0.227242,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.7726,
+      "prior_variance": 0.201636,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -4.5885,
+      "prior_variance": 0.177759,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.0153,
+      "prior_variance": 0.258995,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.278,
+      "prior_variance": 0.207849,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -5.3215,
+      "prior_variance": 0.228507,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -10.7596,
+      "prior_variance": 0.605074,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1538,
+  "timestamp": "2026-06-13T20:36:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hardangervidda National Park",
+      "path": "europe/norway/hardangerviddanationalpark",
+      "prior_score": 4.9011,
+      "prior_variance": 0.448027,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_score": 4.6752,
+      "prior_variance": 0.305887,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.0219,
+      "prior_variance": 0.274173,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 1.5785,
+      "prior_variance": 0.305852,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.1565,
+      "prior_variance": 0.290525,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 2.8038,
+      "prior_variance": 0.284808,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 3.484,
+      "prior_variance": 0.246408,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kolkata",
+      "path": "asia/india/kolkata",
+      "prior_score": 3.9273,
+      "prior_variance": 0.276727,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.9042,
+      "prior_variance": 0.270774,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.9099,
+      "prior_variance": 0.307835,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 1.4683,
+      "prior_variance": 0.408674,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -2.1972,
+      "prior_variance": 0.295811,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -2.6748,
+      "prior_variance": 0.304277,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.3891,
+      "prior_variance": 0.246867,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -1.5381,
+      "prior_variance": 0.268061,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.8555,
+      "prior_variance": 0.297629,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -1.2281,
+      "prior_variance": 0.244367,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.2175,
+      "prior_variance": 0.298628,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -3.243,
+      "prior_variance": 0.246692,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -6.516,
+      "prior_variance": 0.5215,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/rochdale",
+      "prior_score": -5.6944,
+      "prior_variance": 0.359846,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -5.6548,
+      "prior_variance": 0.375078,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -7.8613,
+      "prior_variance": 0.573507,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -7.5983,
+      "prior_variance": 0.310321,
+      "prior_n": 5
+    }
+  ]
+}

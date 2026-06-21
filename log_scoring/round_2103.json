@@ -1,0 +1,200 @@
+{
+  "round": 2103,
+  "timestamp": "2026-06-13T21:18:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 6.2702,
+      "prior_variance": 0.283632,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 9.134,
+      "prior_variance": 0.527532,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 1.8293,
+      "prior_variance": 0.226547,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Togian Islands",
+      "path": "asia/indonesia/sulawesi/togian_islands",
+      "prior_score": 4.7329,
+      "prior_variance": 0.298409,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": 0.0244,
+      "prior_variance": 0.215514,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Qufu",
+      "path": "asia/china/shandong_province/qufu",
+      "prior_score": 2.3775,
+      "prior_variance": 0.230041,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 2.4042,
+      "prior_variance": 0.249387,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.5088,
+      "prior_variance": 0.249003,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -0.5856,
+      "prior_variance": 0.164482,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -2.1759,
+      "prior_variance": 0.218489,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.2173,
+      "prior_variance": 0.251028,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -2.7072,
+      "prior_variance": 0.177755,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -4.1684,
+      "prior_variance": 0.208114,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.823,
+      "prior_variance": 0.195274,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -6.4052,
+      "prior_variance": 0.268844,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -3.8966,
+      "prior_variance": 0.202483,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -5.0405,
+      "prior_variance": 0.243963,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -6.0861,
+      "prior_variance": 0.282906,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -6.3547,
+      "prior_variance": 0.238119,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -6.5107,
+      "prior_variance": 0.376192,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.5336,
+      "prior_variance": 0.298847,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -7.7331,
+      "prior_variance": 0.273677,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -9.008,
+      "prior_variance": 0.332214,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -11.9837,
+      "prior_variance": 0.63566,
+      "prior_n": 6
+    }
+  ]
+}

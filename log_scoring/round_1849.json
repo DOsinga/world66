@@ -1,0 +1,200 @@
+{
+  "round": 1849,
+  "timestamp": "2026-06-13T20:56:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 7.3373,
+      "prior_variance": 0.386401,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 9.9356,
+      "prior_variance": 0.339631,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 9.0861,
+      "prior_variance": 0.393888,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.2076,
+      "prior_variance": 0.261351,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.4781,
+      "prior_variance": 0.252469,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.4618,
+      "prior_variance": 0.299915,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.8718,
+      "prior_variance": 0.250936,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 1.6841,
+      "prior_variance": 0.274188,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.3741,
+      "prior_variance": 0.2083,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 2.1667,
+      "prior_variance": 0.266976,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": -0.0522,
+      "prior_variance": 0.334135,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.8354,
+      "prior_variance": 0.212086,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.79,
+      "prior_variance": 0.223218,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.4676,
+      "prior_variance": 0.21232,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.4566,
+      "prior_variance": 0.223978,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.5346,
+      "prior_variance": 0.21399,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -2.1467,
+      "prior_variance": 0.262573,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -0.7861,
+      "prior_variance": 0.229901,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -2.8237,
+      "prior_variance": 0.203668,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -2.0724,
+      "prior_variance": 0.241269,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -4.3976,
+      "prior_variance": 0.290835,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.5497,
+      "prior_variance": 0.333993,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -4.0993,
+      "prior_variance": 0.265881,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -2.9653,
+      "prior_variance": 0.248371,
+      "prior_n": 6
+    }
+  ]
+}

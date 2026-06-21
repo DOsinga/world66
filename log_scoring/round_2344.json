@@ -1,0 +1,200 @@
+{
+  "round": 2344,
+  "timestamp": "2026-06-13T21:35:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 6.3162,
+      "prior_variance": 0.196957,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 2.1924,
+      "prior_variance": 0.185283,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -2.3943,
+      "prior_variance": 0.175973,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -1.6826,
+      "prior_variance": 0.181002,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -4.6057,
+      "prior_variance": 0.233064,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Kissama",
+      "path": "africa/angola/kissama",
+      "prior_score": -6.2944,
+      "prior_variance": 0.242115,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -4.184,
+      "prior_variance": 0.168098,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Linxia",
+      "path": "asia/china/gansu/linxia",
+      "prior_score": -4.6058,
+      "prior_variance": 0.194169,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -4.2695,
+      "prior_variance": 0.200256,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Guide",
+      "path": "asia/china/qinghai/guide",
+      "prior_score": -6.0989,
+      "prior_variance": 0.231113,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_score": -4.8428,
+      "prior_variance": 0.201533,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -5.1077,
+      "prior_variance": 0.255912,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.6476,
+      "prior_variance": 0.235566,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -5.7701,
+      "prior_variance": 0.202465,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -5.7794,
+      "prior_variance": 0.213605,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -5.3955,
+      "prior_variance": 0.206366,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -6.121,
+      "prior_variance": 0.223915,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -5.4354,
+      "prior_variance": 0.2634,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -4.9779,
+      "prior_variance": 0.196458,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.2635,
+      "prior_variance": 0.225751,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.5815,
+      "prior_variance": 0.198921,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -5.7772,
+      "prior_variance": 0.265545,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -6.51,
+      "prior_variance": 0.218452,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Niono",
+      "path": "africa/mali/niono",
+      "prior_score": -10.2613,
+      "prior_variance": 0.413764,
+      "prior_n": 7
+    }
+  ]
+}

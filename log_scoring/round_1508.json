@@ -1,0 +1,200 @@
+{
+  "round": 1508,
+  "timestamp": "2026-06-13T20:34:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 9.4714,
+      "prior_variance": 0.50578,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 4.6316,
+      "prior_variance": 0.342866,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.3258,
+      "prior_variance": 0.284898,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 8.6284,
+      "prior_variance": 0.464554,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 2.6418,
+      "prior_variance": 0.376146,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 4.4248,
+      "prior_variance": 0.317989,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": 0.6687,
+      "prior_variance": 0.293359,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 2.193,
+      "prior_variance": 0.319761,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 3.6813,
+      "prior_variance": 0.37703,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_score": 0.8921,
+      "prior_variance": 0.293983,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 0.7595,
+      "prior_variance": 0.355345,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -1.2713,
+      "prior_variance": 0.271118,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": -0.2449,
+      "prior_variance": 0.299754,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": -0.9787,
+      "prior_variance": 0.240692,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": -0.2267,
+      "prior_variance": 0.318484,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -1.0956,
+      "prior_variance": 0.259387,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -2.1018,
+      "prior_variance": 0.285618,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -1.9846,
+      "prior_variance": 0.297137,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -6.5055,
+      "prior_variance": 0.275566,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -6.168,
+      "prior_variance": 0.330742,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -5.128,
+      "prior_variance": 0.320519,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -7.6514,
+      "prior_variance": 0.442818,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -7.6328,
+      "prior_variance": 0.472086,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -6.433,
+      "prior_variance": 0.382708,
+      "prior_n": 4
+    }
+  ]
+}

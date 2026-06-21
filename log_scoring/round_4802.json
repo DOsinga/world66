@@ -1,0 +1,200 @@
+{
+  "round": 4802,
+  "timestamp": "2026-06-14T00:42:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 4.6572,
+      "prior_variance": 0.089845,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Watamu",
+      "path": "africa/kenya/thecoast/watamu",
+      "prior_score": 1.2969,
+      "prior_variance": 0.112051,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -1.565,
+      "prior_variance": 0.091157,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Magliolo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/magliolo",
+      "prior_score": -2.1005,
+      "prior_variance": 0.122474,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 2.5155,
+      "prior_variance": 0.085171,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.1911,
+      "prior_variance": 0.09612,
+      "prior_n": 17
+    },
+    {
+      "rank": 7,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -0.0555,
+      "prior_variance": 0.091441,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -1.8643,
+      "prior_variance": 0.103936,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -0.6835,
+      "prior_variance": 0.086989,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -0.696,
+      "prior_variance": 0.101603,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -2.315,
+      "prior_variance": 0.100881,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.3622,
+      "prior_variance": 0.08736,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.7086,
+      "prior_variance": 0.078624,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.7852,
+      "prior_variance": 0.083396,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.2886,
+      "prior_variance": 0.081781,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -3.8015,
+      "prior_variance": 0.107283,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -4.588,
+      "prior_variance": 0.101552,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Ploie\u0219ti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -3.9515,
+      "prior_variance": 0.091145,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.2382,
+      "prior_variance": 0.091847,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -4.9986,
+      "prior_variance": 0.097204,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -5.1768,
+      "prior_variance": 0.106975,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.0344,
+      "prior_variance": 0.097958,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.4973,
+      "prior_variance": 0.117967,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -5.7816,
+      "prior_variance": 0.1367,
+      "prior_n": 16
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4224,
+  "timestamp": "2026-06-13T23:55:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 3.4436,
+      "prior_variance": 0.131667,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phuquoc",
+      "prior_score": 5.5107,
+      "prior_variance": 0.127593,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 7.6248,
+      "prior_variance": 0.14088,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 3.0283,
+      "prior_variance": 0.122006,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 4.6698,
+      "prior_variance": 0.109157,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 3.7249,
+      "prior_variance": 0.097479,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 5.3129,
+      "prior_variance": 0.104845,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 4.4542,
+      "prior_variance": 0.126705,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 4.0031,
+      "prior_variance": 0.096665,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.6193,
+      "prior_variance": 0.112508,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.2683,
+      "prior_variance": 0.098722,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 2.0509,
+      "prior_variance": 0.102883,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": 0.0413,
+      "prior_variance": 0.1109,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": -0.8299,
+      "prior_variance": 0.116189,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -1.7215,
+      "prior_variance": 0.098719,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -3.5733,
+      "prior_variance": 0.110786,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -1.9874,
+      "prior_variance": 0.09945,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.1628,
+      "prior_variance": 0.112067,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.4683,
+      "prior_variance": 0.110945,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.7553,
+      "prior_variance": 0.113047,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -4.4827,
+      "prior_variance": 0.109652,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -4.75,
+      "prior_variance": 0.121115,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -5.7341,
+      "prior_variance": 0.108947,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -9.2289,
+      "prior_variance": 0.263195,
+      "prior_n": 13
+    }
+  ]
+}

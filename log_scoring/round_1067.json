@@ -1,0 +1,200 @@
+{
+  "round": 1067,
+  "timestamp": "2026-06-13T20:09:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 5.5234,
+      "prior_variance": 0.597787,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 5.0292,
+      "prior_variance": 0.590521,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 4.8136,
+      "prior_variance": 0.450816,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 3.7287,
+      "prior_variance": 0.405213,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 2.3519,
+      "prior_variance": 0.41357,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 1.7912,
+      "prior_variance": 0.520909,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": 1.1997,
+      "prior_variance": 0.340147,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 0.5453,
+      "prior_variance": 0.438588,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 1.258,
+      "prior_variance": 0.428963,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 1.1121,
+      "prior_variance": 0.602781,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -3.3778,
+      "prior_variance": 0.47911,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": -0.0697,
+      "prior_variance": 0.506005,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 1.8243,
+      "prior_variance": 0.413038,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.1691,
+      "prior_variance": 0.424619,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster",
+      "prior_score": -1.201,
+      "prior_variance": 0.355381,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -1.4211,
+      "prior_variance": 0.322153,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster",
+      "prior_score": -0.1677,
+      "prior_variance": 0.395244,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.0612,
+      "prior_variance": 0.457389,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -1.7733,
+      "prior_variance": 0.330562,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.4137,
+      "prior_variance": 0.606873,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -1.8762,
+      "prior_variance": 0.604045,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -0.8789,
+      "prior_variance": 0.464854,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -1.1936,
+      "prior_variance": 0.478608,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -1.5538,
+      "prior_variance": 0.443741,
+      "prior_n": 3
+    }
+  ]
+}

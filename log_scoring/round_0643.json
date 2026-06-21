@@ -1,0 +1,200 @@
+{
+  "round": 643,
+  "timestamp": "2026-06-13T19:46:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -5.1208,
+      "prior_variance": 0.766155,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -4.8318,
+      "prior_variance": 1.122313,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -5.5348,
+      "prior_variance": 0.949847,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -8.1959,
+      "prior_variance": 0.907791,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -6.7827,
+      "prior_variance": 1.029614,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -7.2128,
+      "prior_variance": 0.681792,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -6.1805,
+      "prior_variance": 0.787227,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -5.6456,
+      "prior_variance": 0.707205,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -6.4161,
+      "prior_variance": 0.690243,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -6.9513,
+      "prior_variance": 1.264358,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -7.1976,
+      "prior_variance": 1.591518,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -7.7457,
+      "prior_variance": 1.190478,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -5.2945,
+      "prior_variance": 0.993796,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -6.5659,
+      "prior_variance": 0.952108,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -7.0996,
+      "prior_variance": 0.709492,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -7.0344,
+      "prior_variance": 0.661183,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -7.4689,
+      "prior_variance": 0.672259,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -7.6214,
+      "prior_variance": 0.751935,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -4.5502,
+      "prior_variance": 1.530873,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -6.1372,
+      "prior_variance": 0.623013,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Yanji",
+      "path": "asia/china/jilin/yanji",
+      "prior_score": -6.2222,
+      "prior_variance": 1.651746,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -6.3671,
+      "prior_variance": 0.699865,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -7.548,
+      "prior_variance": 1.372967,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -7.4861,
+      "prior_variance": 1.3577,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 629,
+  "timestamp": "2026-06-13T19:45:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 4.748,
+      "prior_variance": 1.193011,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 5.2287,
+      "prior_variance": 1.59414,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 4.2527,
+      "prior_variance": 1.783147,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 3.6631,
+      "prior_variance": 0.807535,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 4.6989,
+      "prior_variance": 0.740853,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 4.1502,
+      "prior_variance": 1.173279,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 4.0944,
+      "prior_variance": 1.585033,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 3.9519,
+      "prior_variance": 1.379012,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 4.39,
+      "prior_variance": 1.51398,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.1068,
+      "prior_variance": 1.215111,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": 0.806,
+      "prior_variance": 1.347692,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 3.6119,
+      "prior_variance": 1.538603,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 3.7243,
+      "prior_variance": 1.07623,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 2.2987,
+      "prior_variance": 0.784821,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 2.2277,
+      "prior_variance": 0.842253,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 1.3385,
+      "prior_variance": 1.357775,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Libo County",
+      "path": "asia/china/guizhou/libo",
+      "prior_score": 1.7898,
+      "prior_variance": 0.630121,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 3.6569,
+      "prior_variance": 0.756853,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 4.1995,
+      "prior_variance": 1.017311,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 2.2596,
+      "prior_variance": 0.611685,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": 2.8661,
+      "prior_variance": 1.626065,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -0.0119,
+      "prior_variance": 0.701184,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": 0.4275,
+      "prior_variance": 1.630128,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": 1.8749,
+      "prior_variance": 1.372286,
+      "prior_n": 1
+    }
+  ]
+}

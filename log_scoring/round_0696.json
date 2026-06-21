@@ -1,0 +1,200 @@
+{
+  "round": 696,
+  "timestamp": "2026-06-13T19:49:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tianyahaijiao",
+      "path": "asia/china/hainanisland/tianyahaijiao",
+      "prior_score": 0.9452,
+      "prior_variance": 1.090679,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 1.0486,
+      "prior_variance": 0.894535,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hukou Waterfall",
+      "path": "asia/china/shanxiprovince/hukou",
+      "prior_score": -0.7921,
+      "prior_variance": 1.244706,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": -1.0352,
+      "prior_variance": 0.710586,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -2.4312,
+      "prior_variance": 1.275955,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -1.6123,
+      "prior_variance": 0.707164,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Weizhou Island",
+      "path": "asia/china/guangxi/weizhou",
+      "prior_score": -1.4586,
+      "prior_variance": 0.715726,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Aguadilla",
+      "path": "northamerica/thecaribbean/puertorico/aguadilla",
+      "prior_score": 0.9203,
+      "prior_variance": 0.682971,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.3097,
+      "prior_variance": 0.726451,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -2.2499,
+      "prior_variance": 0.787565,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.7867,
+      "prior_variance": 0.428825,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -0.8352,
+      "prior_variance": 1.139737,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 1.6767,
+      "prior_variance": 0.980059,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -1.963,
+      "prior_variance": 1.298261,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountains/vorokhta",
+      "prior_score": -1.4807,
+      "prior_variance": 0.589974,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -2.3397,
+      "prior_variance": 0.696574,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -2.554,
+      "prior_variance": 0.619365,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.46,
+      "prior_variance": 0.671354,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": 0.2969,
+      "prior_variance": 0.85116,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -2.1172,
+      "prior_variance": 0.769542,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -2.4138,
+      "prior_variance": 1.166853,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness",
+      "prior_score": -3.4046,
+      "prior_variance": 1.275182,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -2.9837,
+      "prior_variance": 0.644164,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -3.3015,
+      "prior_variance": 0.69807,
+      "prior_n": 2
+    }
+  ]
+}

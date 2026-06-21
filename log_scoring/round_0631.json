@@ -1,0 +1,200 @@
+{
+  "round": 631,
+  "timestamp": "2026-06-13T19:45:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 10.813,
+      "prior_variance": 1.946802,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 11.0705,
+      "prior_variance": 1.349749,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_score": 11.5075,
+      "prior_variance": 1.150343,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 11.6732,
+      "prior_variance": 0.752133,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 12.0298,
+      "prior_variance": 1.434499,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 10.9011,
+      "prior_variance": 0.886001,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 9.625,
+      "prior_variance": 0.840926,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 12.0036,
+      "prior_variance": 1.363854,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 10.2034,
+      "prior_variance": 1.252559,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 12.2357,
+      "prior_variance": 1.359867,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 8.6733,
+      "prior_variance": 1.025735,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "St. John's",
+      "path": "northamerica/antiguaandbarbuda/stjohns",
+      "prior_score": 9.9443,
+      "prior_variance": 0.954696,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 10.5879,
+      "prior_variance": 1.227805,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 11.5306,
+      "prior_variance": 0.940508,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 6.517,
+      "prior_variance": 0.87467,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_score": 8.3325,
+      "prior_variance": 1.164739,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 11.1994,
+      "prior_variance": 1.057637,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 10.0784,
+      "prior_variance": 1.621728,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 7.8479,
+      "prior_variance": 0.882973,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 10.2189,
+      "prior_variance": 1.040213,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 7.9416,
+      "prior_variance": 1.715791,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 8.6236,
+      "prior_variance": 1.304973,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 7.7408,
+      "prior_variance": 1.434481,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 8.6095,
+      "prior_variance": 1.08943,
+      "prior_n": 2
+    }
+  ]
+}

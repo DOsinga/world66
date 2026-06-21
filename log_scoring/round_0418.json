@@ -1,0 +1,200 @@
+{
+  "round": 418,
+  "timestamp": "2026-06-13T19:34:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -6.6747,
+      "prior_variance": 1.315254,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -9.0842,
+      "prior_variance": 2.092009,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -4.7526,
+      "prior_variance": 15.465678,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -8.3945,
+      "prior_variance": 1.630613,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -6.3422,
+      "prior_variance": 2.821866,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -10.8428,
+      "prior_variance": 8.856076,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -7.976,
+      "prior_variance": 2.155058,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -10.495,
+      "prior_variance": 1.711779,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -11.4088,
+      "prior_variance": 3.203628,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -12.9267,
+      "prior_variance": 6.728182,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -8.2732,
+      "prior_variance": 2.591204,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -6.5778,
+      "prior_variance": 2.01575,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -10.3694,
+      "prior_variance": 3.550637,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -10.8754,
+      "prior_variance": 2.348784,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Zhuzhou",
+      "path": "asia/china/hunan/zhuzhou",
+      "prior_score": -8.5646,
+      "prior_variance": 2.071177,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -9.2239,
+      "prior_variance": 6.292806,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -14.5916,
+      "prior_variance": 7.028495,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -10.3678,
+      "prior_variance": 9.091898,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -12.1333,
+      "prior_variance": 2.234178,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -9.5089,
+      "prior_variance": 1.621465,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -10.76,
+      "prior_variance": 3.416094,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -7.3023,
+      "prior_variance": 1.599247,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -6.6649,
+      "prior_variance": 1.484741,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -12.6018,
+      "prior_variance": 7.988711,
+      "prior_n": 1
+    }
+  ]
+}

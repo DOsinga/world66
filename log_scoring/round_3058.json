@@ -1,0 +1,200 @@
+{
+  "round": 3058,
+  "timestamp": "2026-06-13T22:25:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 4.7792,
+      "prior_variance": 0.148461,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": -0.1884,
+      "prior_variance": 0.134461,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -0.8589,
+      "prior_variance": 0.126017,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.1497,
+      "prior_variance": 0.146887,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.2192,
+      "prior_variance": 0.111628,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": -0.3057,
+      "prior_variance": 0.126044,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.2809,
+      "prior_variance": 0.125598,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.9644,
+      "prior_variance": 0.122904,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.9108,
+      "prior_variance": 0.138632,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 1.1844,
+      "prior_variance": 0.180819,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.3666,
+      "prior_variance": 0.140716,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.2752,
+      "prior_variance": 0.118006,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.7264,
+      "prior_variance": 0.134932,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.0111,
+      "prior_variance": 0.126685,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -4.4139,
+      "prior_variance": 0.137633,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": -1.5959,
+      "prior_variance": 0.168278,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -7.1222,
+      "prior_variance": 0.243179,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -5.5846,
+      "prior_variance": 0.153258,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -8.109,
+      "prior_variance": 0.280097,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -7.9329,
+      "prior_variance": 0.250985,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -9.3744,
+      "prior_variance": 0.378356,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -8.9138,
+      "prior_variance": 0.244273,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.2469,
+      "prior_variance": 0.209857,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.6858,
+      "prior_variance": 0.333458,
+      "prior_n": 10
+    }
+  ]
+}

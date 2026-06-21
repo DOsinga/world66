@@ -1,0 +1,200 @@
+{
+  "round": 2129,
+  "timestamp": "2026-06-13T21:20:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 4.7467,
+      "prior_variance": 0.288418,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.6493,
+      "prior_variance": 0.232767,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.4285,
+      "prior_variance": 0.215971,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 3.9772,
+      "prior_variance": 0.231892,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.1292,
+      "prior_variance": 0.272219,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.1895,
+      "prior_variance": 0.20591,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 0.2284,
+      "prior_variance": 0.324401,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 2.0776,
+      "prior_variance": 0.212883,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 1.6686,
+      "prior_variance": 0.188298,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 1.2869,
+      "prior_variance": 0.196665,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.4209,
+      "prior_variance": 0.247945,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.895,
+      "prior_variance": 0.20822,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.4695,
+      "prior_variance": 0.17827,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4777,
+      "prior_variance": 0.176293,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": 1.1064,
+      "prior_variance": 0.205001,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.9582,
+      "prior_variance": 0.216171,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": 0.1692,
+      "prior_variance": 0.188949,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -1.8103,
+      "prior_variance": 0.217984,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -4.4546,
+      "prior_variance": 0.282372,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/paloalto",
+      "prior_score": -2.372,
+      "prior_variance": 0.238311,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -1.4552,
+      "prior_variance": 0.221336,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -3.4161,
+      "prior_variance": 0.224413,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -5.5702,
+      "prior_variance": 0.238297,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -7.7639,
+      "prior_variance": 0.253705,
+      "prior_n": 6
+    }
+  ]
+}

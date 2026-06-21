@@ -1,0 +1,200 @@
+{
+  "round": 2770,
+  "timestamp": "2026-06-13T22:05:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.4248,
+      "prior_variance": 0.139176,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.2583,
+      "prior_variance": 0.154168,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -2.9948,
+      "prior_variance": 0.207845,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -3.3736,
+      "prior_variance": 0.156701,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -2.4292,
+      "prior_variance": 0.158667,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.3549,
+      "prior_variance": 0.187904,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.1324,
+      "prior_variance": 0.154384,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.6707,
+      "prior_variance": 0.145376,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.8819,
+      "prior_variance": 0.15877,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -2.8366,
+      "prior_variance": 0.152416,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.1656,
+      "prior_variance": 0.173858,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.5262,
+      "prior_variance": 0.14716,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.3281,
+      "prior_variance": 0.157623,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.5134,
+      "prior_variance": 0.149963,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -3.659,
+      "prior_variance": 0.14441,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.4665,
+      "prior_variance": 0.215735,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Golmud",
+      "path": "asia/china/qinghai/golmud",
+      "prior_score": -5.3909,
+      "prior_variance": 0.215727,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -4.8002,
+      "prior_variance": 0.211455,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -5.2511,
+      "prior_variance": 0.171895,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.3369,
+      "prior_variance": 0.215223,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -4.5827,
+      "prior_variance": 0.173947,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -6.9807,
+      "prior_variance": 0.2069,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -5.6709,
+      "prior_variance": 0.19248,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -10.9742,
+      "prior_variance": 0.607666,
+      "prior_n": 8
+    }
+  ]
+}

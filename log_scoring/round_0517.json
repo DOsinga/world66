@@ -1,0 +1,200 @@
+{
+  "round": 517,
+  "timestamp": "2026-06-13T19:40:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -13.3915,
+      "prior_variance": 2.943371,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -13.1717,
+      "prior_variance": 3.020997,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -12.3401,
+      "prior_variance": 7.445982,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -11.3622,
+      "prior_variance": 2.319898,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -10.3691,
+      "prior_variance": 2.987938,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -13.0439,
+      "prior_variance": 3.04099,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -13.217,
+      "prior_variance": 7.671454,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -6.0365,
+      "prior_variance": 10.323105,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -14.5299,
+      "prior_variance": 7.283207,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -14.4198,
+      "prior_variance": 7.115524,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": -8.7029,
+      "prior_variance": 2.468745,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bengbu",
+      "path": "asia/china/anhui/bengbu",
+      "prior_score": -19.7823,
+      "prior_variance": 5.404076,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -14.7709,
+      "prior_variance": 2.558695,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -11.1951,
+      "prior_variance": 8.512608,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -9.9722,
+      "prior_variance": 1.960582,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -15.0058,
+      "prior_variance": 3.019692,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -14.8638,
+      "prior_variance": 2.763266,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -11.9044,
+      "prior_variance": 3.43513,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -13.3468,
+      "prior_variance": 1.80098,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -12.3589,
+      "prior_variance": 7.934537,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -17.0518,
+      "prior_variance": 2.613661,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -15.5784,
+      "prior_variance": 6.460539,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -13.178,
+      "prior_variance": 3.631883,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -12.7193,
+      "prior_variance": 7.84884,
+      "prior_n": 1
+    }
+  ]
+}

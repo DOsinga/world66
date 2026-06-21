@@ -1,0 +1,200 @@
+{
+  "round": 349,
+  "timestamp": "2026-06-13T19:31:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 17.188,
+      "prior_variance": 6.563636,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Foz do Igua\u00e7u",
+      "path": "southamerica/brazil/fozdoiguacu",
+      "prior_score": 9.6153,
+      "prior_variance": 3.975889,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_score": 9.7226,
+      "prior_variance": 2.748779,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gili Air",
+      "path": "asia/indonesia/lombok/giliislands/gili_air",
+      "prior_score": 9.5268,
+      "prior_variance": 3.997988,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 5.697,
+      "prior_variance": 1.595681,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 4.0928,
+      "prior_variance": 1.59926,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 5.4393,
+      "prior_variance": 2.093123,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 4.2777,
+      "prior_variance": 1.759913,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 1.4526,
+      "prior_variance": 1.776021,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": -0.801,
+      "prior_variance": 1.501898,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 6.5586,
+      "prior_variance": 2.178497,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 2.7023,
+      "prior_variance": 2.053463,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 4.6768,
+      "prior_variance": 1.605698,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 2.6991,
+      "prior_variance": 1.589806,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Woodstock",
+      "path": "northamerica/unitedstates/vermont/woodstock",
+      "prior_score": 4.2289,
+      "prior_variance": 1.797932,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 4.6388,
+      "prior_variance": 2.249847,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.596,
+      "prior_variance": 2.100296,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": 1.2838,
+      "prior_variance": 1.585229,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": 0.8372,
+      "prior_variance": 1.52483,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -4.5006,
+      "prior_variance": 1.719319,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": 1.2827,
+      "prior_variance": 2.064281,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -4.8865,
+      "prior_variance": 1.913109,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -5.2716,
+      "prior_variance": 2.542738,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.1742,
+      "prior_variance": 2.333336,
+      "prior_n": 1
+    }
+  ]
+}

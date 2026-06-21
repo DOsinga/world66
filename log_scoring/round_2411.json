@@ -1,0 +1,200 @@
+{
+  "round": 2411,
+  "timestamp": "2026-06-13T21:40:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 0.6714,
+      "prior_variance": 0.275303,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.772,
+      "prior_variance": 0.161056,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 0.9119,
+      "prior_variance": 0.171337,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.2,
+      "prior_variance": 0.174325,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.1453,
+      "prior_variance": 0.171265,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 1.6203,
+      "prior_variance": 0.167779,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 0.9655,
+      "prior_variance": 0.225761,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -0.9471,
+      "prior_variance": 0.165796,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -4.256,
+      "prior_variance": 0.185444,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.4248,
+      "prior_variance": 0.200465,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.8763,
+      "prior_variance": 0.183311,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -3.1365,
+      "prior_variance": 0.223501,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.8096,
+      "prior_variance": 0.269491,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -6.7891,
+      "prior_variance": 0.492394,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -5.1165,
+      "prior_variance": 0.175368,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -6.2132,
+      "prior_variance": 0.237692,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Shangluo",
+      "path": "asia/china/shaanxi/shangluo",
+      "prior_score": -4.7404,
+      "prior_variance": 0.17849,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -3.8125,
+      "prior_variance": 0.291483,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -4.9256,
+      "prior_variance": 0.237226,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -6.3472,
+      "prior_variance": 0.306453,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -8.8076,
+      "prior_variance": 0.305643,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -7.7614,
+      "prior_variance": 0.246823,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -11.8425,
+      "prior_variance": 0.623354,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -11.8582,
+      "prior_variance": 0.543506,
+      "prior_n": 7
+    }
+  ]
+}

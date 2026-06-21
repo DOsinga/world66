@@ -1,0 +1,200 @@
+{
+  "round": 1736,
+  "timestamp": "2026-06-13T20:49:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 11.7986,
+      "prior_variance": 0.550274,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 5.1773,
+      "prior_variance": 0.286965,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 7.8185,
+      "prior_variance": 0.346337,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 3.7825,
+      "prior_variance": 0.269614,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 1.8749,
+      "prior_variance": 0.29983,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -2.4789,
+      "prior_variance": 0.272915,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 0.7967,
+      "prior_variance": 0.254855,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -1.0362,
+      "prior_variance": 0.228247,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -3.4054,
+      "prior_variance": 0.267552,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.7135,
+      "prior_variance": 0.235894,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.8874,
+      "prior_variance": 0.226078,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.6965,
+      "prior_variance": 0.377293,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.6655,
+      "prior_variance": 0.44804,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.3819,
+      "prior_variance": 0.262355,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -3.505,
+      "prior_variance": 0.222255,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -2.2261,
+      "prior_variance": 0.305035,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.9245,
+      "prior_variance": 0.25805,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -6.4324,
+      "prior_variance": 0.343652,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bengbu",
+      "path": "asia/china/anhui/bengbu",
+      "prior_score": -6.7608,
+      "prior_variance": 0.570182,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -6.5462,
+      "prior_variance": 0.282354,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -7.5977,
+      "prior_variance": 0.330603,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -6.1796,
+      "prior_variance": 0.308579,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -6.8261,
+      "prior_variance": 0.25627,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -5.438,
+      "prior_variance": 0.350291,
+      "prior_n": 5
+    }
+  ]
+}

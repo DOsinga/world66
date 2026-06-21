@@ -1,0 +1,200 @@
+{
+  "round": 1151,
+  "timestamp": "2026-06-13T20:14:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 6.6166,
+      "prior_variance": 0.544691,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 6.8835,
+      "prior_variance": 0.424365,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 3.8362,
+      "prior_variance": 0.766071,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 2.0241,
+      "prior_variance": 0.42351,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.2378,
+      "prior_variance": 0.45078,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 5.3171,
+      "prior_variance": 0.436268,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 4.8206,
+      "prior_variance": 0.529046,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 1.8075,
+      "prior_variance": 0.83772,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.8948,
+      "prior_variance": 0.397489,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 3.5017,
+      "prior_variance": 0.448182,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 2.6993,
+      "prior_variance": 0.541727,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.3853,
+      "prior_variance": 0.490909,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 1.9406,
+      "prior_variance": 0.434216,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": -0.1726,
+      "prior_variance": 0.419414,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 1.809,
+      "prior_variance": 0.411311,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.9833,
+      "prior_variance": 0.44646,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.2592,
+      "prior_variance": 0.387622,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.0222,
+      "prior_variance": 0.400844,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.0133,
+      "prior_variance": 0.442656,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -4.6402,
+      "prior_variance": 0.396663,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -5.8347,
+      "prior_variance": 0.61776,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -1.4197,
+      "prior_variance": 0.427927,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -5.4167,
+      "prior_variance": 0.422261,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -7.2785,
+      "prior_variance": 0.433261,
+      "prior_n": 3
+    }
+  ]
+}

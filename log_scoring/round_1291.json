@@ -1,0 +1,200 @@
+{
+  "round": 1291,
+  "timestamp": "2026-06-13T20:21:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 4.8033,
+      "prior_variance": 0.304159,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 1.4681,
+      "prior_variance": 0.445459,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.9159,
+      "prior_variance": 0.328497,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 4.4223,
+      "prior_variance": 0.39878,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 2.3287,
+      "prior_variance": 0.558945,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 3.0718,
+      "prior_variance": 0.328549,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.1716,
+      "prior_variance": 0.354805,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_score": 1.2824,
+      "prior_variance": 0.323364,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.4269,
+      "prior_variance": 0.53816,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -2.3718,
+      "prior_variance": 0.39141,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.3228,
+      "prior_variance": 0.346613,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 1.0165,
+      "prior_variance": 0.299326,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -1.9301,
+      "prior_variance": 0.400263,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -1.1234,
+      "prior_variance": 0.432821,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.6561,
+      "prior_variance": 0.2902,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Taijiang",
+      "path": "asia/china/guizhou/taijiang",
+      "prior_score": -5.2843,
+      "prior_variance": 0.307712,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -0.9683,
+      "prior_variance": 0.312708,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -0.7327,
+      "prior_variance": 0.284315,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -3.634,
+      "prior_variance": 0.388776,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucuman",
+      "prior_score": -2.1906,
+      "prior_variance": 0.306301,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -1.1724,
+      "prior_variance": 0.410549,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -1.4989,
+      "prior_variance": 0.333987,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Yuzhou",
+      "path": "asia/china/henan_province/yuzhou",
+      "prior_score": -6.4687,
+      "prior_variance": 0.304093,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -10.2919,
+      "prior_variance": 0.419573,
+      "prior_n": 4
+    }
+  ]
+}

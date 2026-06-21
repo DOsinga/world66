@@ -1,0 +1,200 @@
+{
+  "round": 565,
+  "timestamp": "2026-06-13T19:42:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 6.2237,
+      "prior_variance": 1.538455,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 5.6674,
+      "prior_variance": 1.374588,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 6.5775,
+      "prior_variance": 1.526181,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 4.7655,
+      "prior_variance": 1.156136,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 2.256,
+      "prior_variance": 1.324889,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 1.9892,
+      "prior_variance": 0.887841,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.6548,
+      "prior_variance": 1.491477,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 6.7888,
+      "prior_variance": 1.628319,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 5.5497,
+      "prior_variance": 0.879909,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.8064,
+      "prior_variance": 0.932748,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 2.2273,
+      "prior_variance": 1.233876,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 4.0621,
+      "prior_variance": 1.506807,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 2.2481,
+      "prior_variance": 1.716233,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 3.619,
+      "prior_variance": 1.530173,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 5.0681,
+      "prior_variance": 0.910461,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 2.6533,
+      "prior_variance": 1.534777,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": 2.7408,
+      "prior_variance": 1.409216,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 3.3069,
+      "prior_variance": 0.792486,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 2.6122,
+      "prior_variance": 0.879414,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 2.4767,
+      "prior_variance": 0.715544,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": 2.4608,
+      "prior_variance": 1.568777,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": 2.2981,
+      "prior_variance": 1.306378,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": 1.8058,
+      "prior_variance": 1.225125,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": 0.5275,
+      "prior_variance": 1.235119,
+      "prior_n": 2
+    }
+  ]
+}

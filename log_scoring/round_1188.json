@@ -1,0 +1,200 @@
+{
+  "round": 1188,
+  "timestamp": "2026-06-13T20:16:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 8.2047,
+      "prior_variance": 0.602263,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 9.6685,
+      "prior_variance": 0.507793,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 9.8542,
+      "prior_variance": 0.46116,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_score": 8.7241,
+      "prior_variance": 0.457324,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 8.6738,
+      "prior_variance": 0.571918,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 7.5249,
+      "prior_variance": 0.419821,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 6.1996,
+      "prior_variance": 0.458309,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 5.9134,
+      "prior_variance": 0.429353,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Matamata",
+      "path": "australiaandpacific/newzealand/matamata",
+      "prior_score": 2.81,
+      "prior_variance": 0.442668,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 4.2669,
+      "prior_variance": 0.437348,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 5.7106,
+      "prior_variance": 0.372067,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.3102,
+      "prior_variance": 0.320076,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 2.8673,
+      "prior_variance": 0.449795,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 3.6019,
+      "prior_variance": 0.34661,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.3557,
+      "prior_variance": 0.570773,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 2.3202,
+      "prior_variance": 0.446981,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 0.6306,
+      "prior_variance": 0.391087,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 3.7507,
+      "prior_variance": 0.436956,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.8266,
+      "prior_variance": 0.34517,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.7142,
+      "prior_variance": 0.351973,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.7286,
+      "prior_variance": 0.412693,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -2.2192,
+      "prior_variance": 0.404845,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.9204,
+      "prior_variance": 0.411358,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -4.8069,
+      "prior_variance": 0.38575,
+      "prior_n": 3
+    }
+  ]
+}

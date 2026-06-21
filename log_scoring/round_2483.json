@@ -1,0 +1,200 @@
+{
+  "round": 2483,
+  "timestamp": "2026-06-13T21:45:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 13.6224,
+      "prior_variance": 0.811003,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 7.5484,
+      "prior_variance": 0.380014,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 1.3104,
+      "prior_variance": 0.176817,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 0.6606,
+      "prior_variance": 0.199998,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -0.88,
+      "prior_variance": 0.149071,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -1.8101,
+      "prior_variance": 0.162754,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4407,
+      "prior_variance": 0.154074,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": -0.5467,
+      "prior_variance": 0.161106,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.1317,
+      "prior_variance": 0.168918,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.7584,
+      "prior_variance": 0.182908,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -2.1824,
+      "prior_variance": 0.161442,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 0.6623,
+      "prior_variance": 0.22147,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.2044,
+      "prior_variance": 0.142191,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -1.5118,
+      "prior_variance": 0.171305,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.7318,
+      "prior_variance": 0.20581,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -3.0172,
+      "prior_variance": 0.173758,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.6235,
+      "prior_variance": 0.166314,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -1.39,
+      "prior_variance": 0.182671,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -4.0316,
+      "prior_variance": 0.204293,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.6691,
+      "prior_variance": 0.18804,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.1063,
+      "prior_variance": 0.159486,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -6.4144,
+      "prior_variance": 0.234781,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -7.4231,
+      "prior_variance": 0.302426,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.003,
+      "prior_variance": 0.275395,
+      "prior_n": 8
+    }
+  ]
+}

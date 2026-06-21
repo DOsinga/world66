@@ -1,0 +1,200 @@
+{
+  "round": 4456,
+  "timestamp": "2026-06-14T00:14:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto Rotondo",
+      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
+      "prior_score": 3.7911,
+      "prior_variance": 0.100507,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 4.3393,
+      "prior_variance": 0.118643,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 1.7193,
+      "prior_variance": 0.109449,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.2037,
+      "prior_variance": 0.092987,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.3961,
+      "prior_variance": 0.091991,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Keflav\u00edk",
+      "path": "europe/iceland/keflavik",
+      "prior_score": -0.1136,
+      "prior_variance": 0.089149,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": -0.0656,
+      "prior_variance": 0.091904,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 0.6775,
+      "prior_variance": 0.093838,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -1.6549,
+      "prior_variance": 0.102314,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.1279,
+      "prior_variance": 0.093047,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.664,
+      "prior_variance": 0.093569,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -2.5235,
+      "prior_variance": 0.093902,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": -0.3512,
+      "prior_variance": 0.094748,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.4923,
+      "prior_variance": 0.108973,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 0.5319,
+      "prior_variance": 0.116125,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": -0.1939,
+      "prior_variance": 0.099255,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2522,
+      "prior_variance": 0.085952,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.4628,
+      "prior_variance": 0.105032,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -1.781,
+      "prior_variance": 0.101587,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Burqin",
+      "path": "asia/china/xinjiangprovince/burqin",
+      "prior_score": -0.6068,
+      "prior_variance": 0.092268,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -3.0395,
+      "prior_variance": 0.118299,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -2.1924,
+      "prior_variance": 0.099996,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -5.314,
+      "prior_variance": 0.13876,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -13.7828,
+      "prior_variance": 1.014861,
+      "prior_n": 14
+    }
+  ]
+}

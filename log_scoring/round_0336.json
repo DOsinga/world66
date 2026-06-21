@@ -1,0 +1,200 @@
+{
+  "round": 336,
+  "timestamp": "2026-06-13T19:30:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 14.0589,
+      "prior_variance": 7.642031,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 13.0843,
+      "prior_variance": 8.079752,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 13.3522,
+      "prior_variance": 7.95514,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 8.4677,
+      "prior_variance": 3.926536,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 7.9315,
+      "prior_variance": 2.385805,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 5.6776,
+      "prior_variance": 1.848405,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 3.4749,
+      "prior_variance": 1.86287,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sofia",
+      "path": "europe/bulgaria/sofia",
+      "prior_score": 5.8814,
+      "prior_variance": 2.076616,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 2.2566,
+      "prior_variance": 1.72186,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": -2.0728,
+      "prior_variance": 1.552701,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": 0.095,
+      "prior_variance": 1.787906,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.8248,
+      "prior_variance": 1.569401,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -1.1362,
+      "prior_variance": 1.639076,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -4.7625,
+      "prior_variance": 1.972254,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -2.1267,
+      "prior_variance": 1.917964,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -0.6185,
+      "prior_variance": 1.53581,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.3447,
+      "prior_variance": 1.57554,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -6.1303,
+      "prior_variance": 2.46309,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -0.605,
+      "prior_variance": 1.619324,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -4.0835,
+      "prior_variance": 1.613478,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tajpur",
+      "path": "asia/india/westbengal/mandarmani/tajpur",
+      "prior_score": -3.7868,
+      "prior_variance": 2.091063,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -6.9133,
+      "prior_variance": 1.980976,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -8.2824,
+      "prior_variance": 2.157134,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -11.0876,
+      "prior_variance": 3.398298,
+      "prior_n": 1
+    }
+  ]
+}

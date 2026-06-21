@@ -1,0 +1,200 @@
+{
+  "round": 3310,
+  "timestamp": "2026-06-13T22:44:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 11.4318,
+      "prior_variance": 0.346321,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.5573,
+      "prior_variance": 0.267221,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 7.1091,
+      "prior_variance": 0.163977,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Cairngorms",
+      "path": "europe/unitedkingdom/scotland/cairngorms",
+      "prior_score": 3.9861,
+      "prior_variance": 0.144298,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 3.3587,
+      "prior_variance": 0.127169,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 5.6213,
+      "prior_variance": 0.189788,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.8296,
+      "prior_variance": 0.145924,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -0.1957,
+      "prior_variance": 0.120031,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 0.9973,
+      "prior_variance": 0.127426,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.746,
+      "prior_variance": 0.122202,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.1683,
+      "prior_variance": 0.17387,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.1166,
+      "prior_variance": 0.125276,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -4.5241,
+      "prior_variance": 0.174946,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Grenville",
+      "path": "northamerica/thecaribbean/grenada/grenville",
+      "prior_score": -0.0434,
+      "prior_variance": 0.134069,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.5607,
+      "prior_variance": 0.14761,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 1.08,
+      "prior_variance": 0.121941,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.8577,
+      "prior_variance": 0.121954,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -3.6862,
+      "prior_variance": 0.13739,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.9977,
+      "prior_variance": 0.15481,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.7665,
+      "prior_variance": 0.133956,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -2.5619,
+      "prior_variance": 0.141483,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.8649,
+      "prior_variance": 0.205193,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.5878,
+      "prior_variance": 0.141974,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -5.4265,
+      "prior_variance": 0.17789,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 656,
+  "timestamp": "2026-06-13T19:47:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 10.3656,
+      "prior_variance": 1.603372,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.8921,
+      "prior_variance": 2.529561,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 8.2305,
+      "prior_variance": 0.936145,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 6.2004,
+      "prior_variance": 1.454397,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 8.1256,
+      "prior_variance": 1.049241,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 8.804,
+      "prior_variance": 1.216827,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 4.9688,
+      "prior_variance": 1.463926,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 5.0518,
+      "prior_variance": 0.960486,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 7.314,
+      "prior_variance": 1.925751,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 7.1092,
+      "prior_variance": 0.776091,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 6.1256,
+      "prior_variance": 1.453027,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_score": 7.2998,
+      "prior_variance": 0.65108,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 7.9432,
+      "prior_variance": 1.350794,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_score": 7.4436,
+      "prior_variance": 0.813166,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 7.8366,
+      "prior_variance": 0.809668,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 5.8664,
+      "prior_variance": 0.978747,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 5.0421,
+      "prior_variance": 0.68366,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 4.8222,
+      "prior_variance": 1.338557,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 5.5795,
+      "prior_variance": 1.506992,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": 5.7261,
+      "prior_variance": 0.797162,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 5.93,
+      "prior_variance": 1.360577,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 5.6688,
+      "prior_variance": 0.813795,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": 4.6081,
+      "prior_variance": 0.935037,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": 5.6916,
+      "prior_variance": 1.222987,
+      "prior_n": 2
+    }
+  ]
+}

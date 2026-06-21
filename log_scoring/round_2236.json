@@ -1,0 +1,200 @@
+{
+  "round": 2236,
+  "timestamp": "2026-06-13T21:28:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 8.9535,
+      "prior_variance": 0.418053,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 6.8373,
+      "prior_variance": 0.334914,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 6.8768,
+      "prior_variance": 0.335155,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 7.1007,
+      "prior_variance": 0.239981,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 6.4335,
+      "prior_variance": 0.251993,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 5.0359,
+      "prior_variance": 0.188697,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 2.7931,
+      "prior_variance": 0.275162,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 5.5983,
+      "prior_variance": 0.209064,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 3.6657,
+      "prior_variance": 0.195129,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 3.7555,
+      "prior_variance": 0.238806,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 1.8925,
+      "prior_variance": 0.187125,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 5.705,
+      "prior_variance": 0.231211,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.9596,
+      "prior_variance": 0.233759,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 5.4905,
+      "prior_variance": 0.216491,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.9892,
+      "prior_variance": 0.203729,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 4.6672,
+      "prior_variance": 0.221789,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 1.8435,
+      "prior_variance": 0.231124,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": -0.7698,
+      "prior_variance": 0.223448,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Milwaukee",
+      "path": "northamerica/unitedstates/wisconsin/milwaukee",
+      "prior_score": -0.4291,
+      "prior_variance": 0.198521,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": -0.0222,
+      "prior_variance": 0.22871,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -1.4903,
+      "prior_variance": 0.18813,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -1.2567,
+      "prior_variance": 0.234236,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -3.4138,
+      "prior_variance": 0.190512,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.3332,
+      "prior_variance": 0.212382,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1513,
+  "timestamp": "2026-06-13T20:35:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 8.3911,
+      "prior_variance": 0.413885,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 5.9531,
+      "prior_variance": 0.354976,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 3.1156,
+      "prior_variance": 0.359248,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 3.1355,
+      "prior_variance": 0.372913,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 6.8378,
+      "prior_variance": 0.269411,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_score": 2.156,
+      "prior_variance": 0.484156,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 3.0258,
+      "prior_variance": 0.323908,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": -0.0689,
+      "prior_variance": 0.382661,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -1.9706,
+      "prior_variance": 0.424826,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.4499,
+      "prior_variance": 0.271606,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -0.8789,
+      "prior_variance": 0.265272,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -1.8865,
+      "prior_variance": 0.388206,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -2.0106,
+      "prior_variance": 0.333787,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.9252,
+      "prior_variance": 0.295409,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.0396,
+      "prior_variance": 0.300831,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -0.7312,
+      "prior_variance": 0.288985,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -7.0471,
+      "prior_variance": 0.348175,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -5.7964,
+      "prior_variance": 0.422056,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -5.4199,
+      "prior_variance": 0.302955,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -3.2039,
+      "prior_variance": 0.292752,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -3.1108,
+      "prior_variance": 0.385636,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -5.2896,
+      "prior_variance": 0.308966,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -6.426,
+      "prior_variance": 0.408247,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.9349,
+      "prior_variance": 0.415195,
+      "prior_n": 4
+    }
+  ]
+}

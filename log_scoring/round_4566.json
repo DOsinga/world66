@@ -1,0 +1,200 @@
+{
+  "round": 4566,
+  "timestamp": "2026-06-14T00:23:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.0961,
+      "prior_variance": 0.122337,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.7834,
+      "prior_variance": 0.089246,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Matamata",
+      "path": "australiaandpacific/newzealand/matamata",
+      "prior_score": 3.0895,
+      "prior_variance": 0.09728,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.8973,
+      "prior_variance": 0.093192,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.0043,
+      "prior_variance": 0.093395,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/gloucestershire/tewkesbury",
+      "prior_score": 0.8997,
+      "prior_variance": 0.092152,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 0.5297,
+      "prior_variance": 0.096316,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.412,
+      "prior_variance": 0.097041,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.3872,
+      "prior_variance": 0.096651,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.8939,
+      "prior_variance": 0.094178,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.6721,
+      "prior_variance": 0.109496,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -1.4411,
+      "prior_variance": 0.087858,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -1.6372,
+      "prior_variance": 0.106277,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1301,
+      "prior_variance": 0.088914,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.3793,
+      "prior_variance": 0.093457,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.4813,
+      "prior_variance": 0.094947,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -0.9828,
+      "prior_variance": 0.088573,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.2093,
+      "prior_variance": 0.106134,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -3.1647,
+      "prior_variance": 0.109487,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.1287,
+      "prior_variance": 0.097336,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -2.6538,
+      "prior_variance": 0.098911,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -4.3322,
+      "prior_variance": 0.136983,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -4.4909,
+      "prior_variance": 0.103739,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -3.9618,
+      "prior_variance": 0.122326,
+      "prior_n": 15
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1619,
+  "timestamp": "2026-06-13T20:41:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_score": 6.5065,
+      "prior_variance": 0.26611,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 4.6669,
+      "prior_variance": 0.252149,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 7.4431,
+      "prior_variance": 0.331814,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 1.2916,
+      "prior_variance": 0.258199,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 1.7536,
+      "prior_variance": 0.259262,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 2.168,
+      "prior_variance": 0.25667,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -2.8049,
+      "prior_variance": 0.240276,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -3.2423,
+      "prior_variance": 0.37737,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cz\u0119stochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": -0.2843,
+      "prior_variance": 0.298357,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.8918,
+      "prior_variance": 0.239948,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 1.1964,
+      "prior_variance": 0.243889,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -1.5607,
+      "prior_variance": 0.464629,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -0.5956,
+      "prior_variance": 0.278338,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.4736,
+      "prior_variance": 0.254847,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.6092,
+      "prior_variance": 0.22194,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -3.6072,
+      "prior_variance": 0.360953,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -2.197,
+      "prior_variance": 0.248039,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_score": -3.7621,
+      "prior_variance": 0.284521,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -6.2431,
+      "prior_variance": 0.276902,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -4.7218,
+      "prior_variance": 0.257404,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -6.0594,
+      "prior_variance": 0.317708,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_score": 0.1994,
+      "prior_variance": 0.279855,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -9.5054,
+      "prior_variance": 0.718347,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -9.8304,
+      "prior_variance": 0.539729,
+      "prior_n": 5
+    }
+  ]
+}

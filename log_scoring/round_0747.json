@@ -1,0 +1,200 @@
+{
+  "round": 747,
+  "timestamp": "2026-06-13T19:51:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 4.4693,
+      "prior_variance": 0.940755,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 3.9523,
+      "prior_variance": 1.53851,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 4.0667,
+      "prior_variance": 0.964404,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.6884,
+      "prior_variance": 0.53107,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 3.632,
+      "prior_variance": 1.517265,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": 6.0192,
+      "prior_variance": 0.889696,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 4.0294,
+      "prior_variance": 1.271352,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 3.8997,
+      "prior_variance": 0.831815,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 2.5328,
+      "prior_variance": 1.307694,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 4.0564,
+      "prior_variance": 0.627899,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 4.376,
+      "prior_variance": 1.063542,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Saman\u00e1",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 4.6951,
+      "prior_variance": 1.000078,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 3.3063,
+      "prior_variance": 0.719794,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 4.7237,
+      "prior_variance": 0.771973,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 3.5355,
+      "prior_variance": 1.801649,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 4.6307,
+      "prior_variance": 1.519234,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 4.3691,
+      "prior_variance": 1.3112,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": 1.8497,
+      "prior_variance": 0.642686,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 4.2476,
+      "prior_variance": 0.928967,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": 1.6828,
+      "prior_variance": 0.755575,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": 1.3598,
+      "prior_variance": 0.864212,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tanga",
+      "path": "africa/tanzania/tanga",
+      "prior_score": -0.0918,
+      "prior_variance": 1.411342,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": 1.5587,
+      "prior_variance": 0.487683,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dauphin Island",
+      "path": "northamerica/unitedstates/alabama/dauphin_island",
+      "prior_score": -2.0517,
+      "prior_variance": 1.390228,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1629,
+  "timestamp": "2026-06-13T20:42:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 7.2947,
+      "prior_variance": 0.273172,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 3.4764,
+      "prior_variance": 0.383661,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 4.9763,
+      "prior_variance": 0.290103,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.5466,
+      "prior_variance": 0.248802,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 2.2997,
+      "prior_variance": 0.255417,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Douglas",
+      "path": "europe/unitedkingdom/manisleof/douglas",
+      "prior_score": -0.6085,
+      "prior_variance": 0.292674,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 0.4083,
+      "prior_variance": 0.24263,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -1.2295,
+      "prior_variance": 0.312832,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 1.9304,
+      "prior_variance": 0.259639,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": -0.2161,
+      "prior_variance": 0.246856,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -0.6162,
+      "prior_variance": 0.298309,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -2.2371,
+      "prior_variance": 0.26869,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -1.0885,
+      "prior_variance": 0.371874,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -3.9786,
+      "prior_variance": 0.594326,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -4.4153,
+      "prior_variance": 0.3434,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": 1.3987,
+      "prior_variance": 0.299575,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -2.4531,
+      "prior_variance": 0.308582,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -1.965,
+      "prior_variance": 0.281226,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -2.6659,
+      "prior_variance": 0.246164,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.6737,
+      "prior_variance": 0.262889,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -4.9722,
+      "prior_variance": 0.261045,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.4594,
+      "prior_variance": 0.305428,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -6.5789,
+      "prior_variance": 0.307851,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.7448,
+      "prior_variance": 0.341364,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1444,
+  "timestamp": "2026-06-13T20:30:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 10.5903,
+      "prior_variance": 0.45041,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 5.5627,
+      "prior_variance": 0.329417,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Gdansk",
+      "path": "europe/poland/gdansk",
+      "prior_score": 6.1858,
+      "prior_variance": 0.418083,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 5.2078,
+      "prior_variance": 0.346103,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 6.7068,
+      "prior_variance": 0.528282,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 4.261,
+      "prior_variance": 0.345282,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 3.9301,
+      "prior_variance": 0.321706,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 5.459,
+      "prior_variance": 0.388244,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 3.9813,
+      "prior_variance": 0.384266,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 4.266,
+      "prior_variance": 0.339668,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 2.3359,
+      "prior_variance": 0.349515,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 2.6325,
+      "prior_variance": 0.445344,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 5.4257,
+      "prior_variance": 0.361792,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -1.1921,
+      "prior_variance": 0.34204,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -3.5075,
+      "prior_variance": 0.290808,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -3.1516,
+      "prior_variance": 0.3599,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -5.2671,
+      "prior_variance": 0.625927,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -5.1852,
+      "prior_variance": 0.333145,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -4.7613,
+      "prior_variance": 0.358659,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -5.1951,
+      "prior_variance": 0.333402,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -6.2457,
+      "prior_variance": 0.308355,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.7449,
+      "prior_variance": 0.375159,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -10.0191,
+      "prior_variance": 0.458412,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -10.1865,
+      "prior_variance": 0.407294,
+      "prior_n": 4
+    }
+  ]
+}

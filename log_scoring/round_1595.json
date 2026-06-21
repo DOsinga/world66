@@ -1,0 +1,200 @@
+{
+  "round": 1595,
+  "timestamp": "2026-06-13T20:40:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 6.9333,
+      "prior_variance": 0.278207,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.0345,
+      "prior_variance": 0.319957,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 3.2891,
+      "prior_variance": 0.274771,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 2.4948,
+      "prior_variance": 0.356495,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 0.8273,
+      "prior_variance": 0.240616,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 2.0386,
+      "prior_variance": 0.278239,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Wiesbaden",
+      "path": "europe/germany/hessen/wiesbaden",
+      "prior_score": 1.6309,
+      "prior_variance": 0.30877,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 3.0065,
+      "prior_variance": 0.285051,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.4038,
+      "prior_variance": 0.261811,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -1.5952,
+      "prior_variance": 0.425882,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": -0.2948,
+      "prior_variance": 0.253436,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.8856,
+      "prior_variance": 0.244943,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -1.8725,
+      "prior_variance": 0.291172,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.5913,
+      "prior_variance": 0.272238,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.6628,
+      "prior_variance": 0.347294,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.4565,
+      "prior_variance": 0.272117,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.7263,
+      "prior_variance": 0.248965,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -4.0307,
+      "prior_variance": 0.463752,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -4.8071,
+      "prior_variance": 0.268743,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -3.1588,
+      "prior_variance": 0.325592,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -5.1584,
+      "prior_variance": 0.286581,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -3.7148,
+      "prior_variance": 0.265966,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.6332,
+      "prior_variance": 0.29866,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.4251,
+      "prior_variance": 0.268615,
+      "prior_n": 5
+    }
+  ]
+}

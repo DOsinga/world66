@@ -1,0 +1,200 @@
+{
+  "round": 1845,
+  "timestamp": "2026-06-13T20:56:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.7669,
+      "prior_variance": 0.313387,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.3134,
+      "prior_variance": 0.297082,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Portoro\u017e",
+      "path": "europe/slovenia/portoroz",
+      "prior_score": 2.0394,
+      "prior_variance": 0.2157,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 4.3309,
+      "prior_variance": 0.219546,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 4.0612,
+      "prior_variance": 0.225933,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Borca di Cadore",
+      "path": "europe/italy/veneto/borca_di_cadore",
+      "prior_score": 2.3099,
+      "prior_variance": 0.250643,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": 0.0487,
+      "prior_variance": 0.324868,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": -1.1793,
+      "prior_variance": 0.2581,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 0.9567,
+      "prior_variance": 0.221626,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -1.3597,
+      "prior_variance": 0.275604,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 1.1743,
+      "prior_variance": 0.185775,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": -0.0375,
+      "prior_variance": 0.208479,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": -0.2989,
+      "prior_variance": 0.213684,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -1.0054,
+      "prior_variance": 0.234717,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.1901,
+      "prior_variance": 0.228691,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.2335,
+      "prior_variance": 0.263344,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.8736,
+      "prior_variance": 0.211595,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Limon",
+      "path": "northamerica/costarica/limon",
+      "prior_score": -0.1656,
+      "prior_variance": 0.229633,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -1.8546,
+      "prior_variance": 0.248206,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -1.7166,
+      "prior_variance": 0.257182,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -5.7154,
+      "prior_variance": 0.282259,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -5.9056,
+      "prior_variance": 0.382975,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.5328,
+      "prior_variance": 0.273184,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -8.1637,
+      "prior_variance": 0.333994,
+      "prior_n": 5
+    }
+  ]
+}

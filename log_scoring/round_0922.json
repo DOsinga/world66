@@ -1,0 +1,200 @@
+{
+  "round": 922,
+  "timestamp": "2026-06-13T20:01:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -7.9996,
+      "prior_variance": 0.843079,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ordos",
+      "path": "asia/china/innermongolia/ordos",
+      "prior_score": -6.7946,
+      "prior_variance": 0.620273,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -8.6734,
+      "prior_variance": 1.212971,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -13.1576,
+      "prior_variance": 0.685046,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -8.8682,
+      "prior_variance": 0.792062,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -5.2366,
+      "prior_variance": 0.456606,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -5.3569,
+      "prior_variance": 0.567887,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -12.3688,
+      "prior_variance": 0.622855,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -7.5928,
+      "prior_variance": 0.618762,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -7.0492,
+      "prior_variance": 0.44812,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -11.1671,
+      "prior_variance": 0.643299,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/thecaribbean/haiti/gonaveisland",
+      "prior_score": -6.487,
+      "prior_variance": 0.410141,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -13.1008,
+      "prior_variance": 0.985196,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -13.0633,
+      "prior_variance": 0.952264,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -14.7228,
+      "prior_variance": 1.049578,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -12.3538,
+      "prior_variance": 1.154628,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -11.3409,
+      "prior_variance": 0.719747,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -13.3531,
+      "prior_variance": 1.10473,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -12.5975,
+      "prior_variance": 0.677177,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -11.0257,
+      "prior_variance": 1.065708,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -11.4263,
+      "prior_variance": 0.698584,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -13.3949,
+      "prior_variance": 1.252115,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -12.837,
+      "prior_variance": 0.657287,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -15.3579,
+      "prior_variance": 1.077012,
+      "prior_n": 2
+    }
+  ]
+}

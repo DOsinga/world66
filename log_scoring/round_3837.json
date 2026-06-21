@@ -1,0 +1,200 @@
+{
+  "round": 3837,
+  "timestamp": "2026-06-13T23:23:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 5.234,
+      "prior_variance": 0.137923,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 5.3377,
+      "prior_variance": 0.112842,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 3.9678,
+      "prior_variance": 0.107907,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 3.6931,
+      "prior_variance": 0.113449,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.5843,
+      "prior_variance": 0.129481,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.7572,
+      "prior_variance": 0.108923,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 1.8538,
+      "prior_variance": 0.114563,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 2.7778,
+      "prior_variance": 0.110688,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 4.3943,
+      "prior_variance": 0.128401,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 2.5513,
+      "prior_variance": 0.12872,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.9801,
+      "prior_variance": 0.114039,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.1934,
+      "prior_variance": 0.104861,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.3103,
+      "prior_variance": 0.106102,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": 0.3194,
+      "prior_variance": 0.120387,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.903,
+      "prior_variance": 0.10974,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 1.484,
+      "prior_variance": 0.105987,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.0332,
+      "prior_variance": 0.112832,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.6704,
+      "prior_variance": 0.096061,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -3.1823,
+      "prior_variance": 0.127221,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -2.9822,
+      "prior_variance": 0.107896,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.4226,
+      "prior_variance": 0.099968,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -2.5118,
+      "prior_variance": 0.110997,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -3.4022,
+      "prior_variance": 0.128938,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -4.517,
+      "prior_variance": 0.14691,
+      "prior_n": 12
+    }
+  ]
+}

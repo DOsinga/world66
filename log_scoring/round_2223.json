@@ -1,0 +1,200 @@
+{
+  "round": 2223,
+  "timestamp": "2026-06-13T21:27:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 7.2993,
+      "prior_variance": 0.291477,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 0.7633,
+      "prior_variance": 0.205208,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.1681,
+      "prior_variance": 0.193936,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.3125,
+      "prior_variance": 0.21763,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -2.9857,
+      "prior_variance": 0.236663,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": -1.0659,
+      "prior_variance": 0.167859,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -2.2192,
+      "prior_variance": 0.227341,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.6903,
+      "prior_variance": 0.231702,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.8659,
+      "prior_variance": 0.295713,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -1.9857,
+      "prior_variance": 0.238014,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.7414,
+      "prior_variance": 0.174504,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -0.8271,
+      "prior_variance": 0.196933,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": -0.4002,
+      "prior_variance": 0.182584,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -1.3373,
+      "prior_variance": 0.191737,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.9628,
+      "prior_variance": 0.176876,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -1.553,
+      "prior_variance": 0.214403,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.4352,
+      "prior_variance": 0.181013,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -1.7859,
+      "prior_variance": 0.198877,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.3903,
+      "prior_variance": 0.194896,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -4.4898,
+      "prior_variance": 0.197874,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -2.9943,
+      "prior_variance": 0.245253,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Guelph and area",
+      "path": "northamerica/canada/ontario/guelph_and_area",
+      "prior_score": -2.6989,
+      "prior_variance": 0.199022,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Zenica",
+      "path": "europe/bosniaandherzegovina/zenica",
+      "prior_score": -3.0138,
+      "prior_variance": 0.210205,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -8.6176,
+      "prior_variance": 0.297476,
+      "prior_n": 7
+    }
+  ]
+}

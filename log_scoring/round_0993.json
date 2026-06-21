@@ -1,0 +1,200 @@
+{
+  "round": 993,
+  "timestamp": "2026-06-13T20:04:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 13.0737,
+      "prior_variance": 1.005143,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Foz do Igua\u00e7u",
+      "path": "southamerica/brazil/fozdoiguacu",
+      "prior_score": 12.8609,
+      "prior_variance": 0.86467,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 13.8507,
+      "prior_variance": 0.612387,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 12.336,
+      "prior_variance": 0.650657,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 10.3393,
+      "prior_variance": 1.025425,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 13.7754,
+      "prior_variance": 0.677077,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 11.147,
+      "prior_variance": 0.741119,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 10.5922,
+      "prior_variance": 0.46607,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 13.5089,
+      "prior_variance": 0.581664,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 8.9019,
+      "prior_variance": 0.565848,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 11.8893,
+      "prior_variance": 0.721949,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 10.7434,
+      "prior_variance": 0.457447,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 11.4868,
+      "prior_variance": 1.110868,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 10.6712,
+      "prior_variance": 0.727918,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 10.0492,
+      "prior_variance": 1.108951,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 13.0867,
+      "prior_variance": 0.702473,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 10.3834,
+      "prior_variance": 0.678559,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 5.6973,
+      "prior_variance": 0.585481,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 9.9804,
+      "prior_variance": 0.761754,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 7.8234,
+      "prior_variance": 0.511213,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 10.1486,
+      "prior_variance": 0.972413,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 7.9791,
+      "prior_variance": 0.478256,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 8.2018,
+      "prior_variance": 0.470842,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 5.0025,
+      "prior_variance": 0.575964,
+      "prior_n": 3
+    }
+  ]
+}

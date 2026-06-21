@@ -1,0 +1,200 @@
+{
+  "round": 2721,
+  "timestamp": "2026-06-13T22:02:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 9.9008,
+      "prior_variance": 0.385092,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 3.5858,
+      "prior_variance": 0.137819,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 5.6534,
+      "prior_variance": 0.211159,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 2.9408,
+      "prior_variance": 0.153493,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -2.8578,
+      "prior_variance": 0.480532,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 3.8009,
+      "prior_variance": 0.182715,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 4.0401,
+      "prior_variance": 0.197988,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.586,
+      "prior_variance": 0.171768,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.6652,
+      "prior_variance": 0.202327,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 2.493,
+      "prior_variance": 0.158095,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.2686,
+      "prior_variance": 0.152471,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 1.7351,
+      "prior_variance": 0.169578,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.171,
+      "prior_variance": 0.14547,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.2342,
+      "prior_variance": 0.165097,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 0.4707,
+      "prior_variance": 0.150625,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Palmi",
+      "path": "europe/italy/calabria/palmi",
+      "prior_score": 0.0687,
+      "prior_variance": 0.153058,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.3254,
+      "prior_variance": 0.139709,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -0.8713,
+      "prior_variance": 0.230328,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": 0.0526,
+      "prior_variance": 0.158623,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -3.4929,
+      "prior_variance": 0.179752,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -2.4926,
+      "prior_variance": 0.196804,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -2.7911,
+      "prior_variance": 0.16279,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.1412,
+      "prior_variance": 0.166073,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.8907,
+      "prior_variance": 0.22404,
+      "prior_n": 8
+    }
+  ]
+}

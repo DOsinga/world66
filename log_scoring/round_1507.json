@@ -1,0 +1,200 @@
+{
+  "round": 1507,
+  "timestamp": "2026-06-13T20:34:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 7.6707,
+      "prior_variance": 0.353621,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.8601,
+      "prior_variance": 0.337091,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 4.6882,
+      "prior_variance": 0.330909,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 4.2015,
+      "prior_variance": 0.263652,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.7884,
+      "prior_variance": 0.293934,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": -0.3257,
+      "prior_variance": 0.29079,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -1.0499,
+      "prior_variance": 0.262987,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 4.0599,
+      "prior_variance": 0.295687,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": -1.2063,
+      "prior_variance": 0.298704,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -1.2508,
+      "prior_variance": 0.298411,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -2.7848,
+      "prior_variance": 0.262091,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -6.7195,
+      "prior_variance": 0.430849,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.5059,
+      "prior_variance": 0.342598,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.3271,
+      "prior_variance": 0.420579,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -4.8643,
+      "prior_variance": 0.442954,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -4.2453,
+      "prior_variance": 0.344475,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.9692,
+      "prior_variance": 0.360788,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -5.0872,
+      "prior_variance": 0.372359,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -6.7435,
+      "prior_variance": 0.405055,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -7.4125,
+      "prior_variance": 0.348369,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -6.2562,
+      "prior_variance": 0.289872,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.4904,
+      "prior_variance": 0.385985,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -13.1364,
+      "prior_variance": 0.902897,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -12.9438,
+      "prior_variance": 0.654954,
+      "prior_n": 5
+    }
+  ]
+}

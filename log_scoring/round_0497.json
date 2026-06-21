@@ -1,0 +1,200 @@
+{
+  "round": 497,
+  "timestamp": "2026-06-13T19:39:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.5241,
+      "prior_variance": 1.813748,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 8.0861,
+      "prior_variance": 2.470512,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 6.3461,
+      "prior_variance": 2.068558,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 6.2984,
+      "prior_variance": 2.116389,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.7525,
+      "prior_variance": 1.936464,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 3.4612,
+      "prior_variance": 1.594569,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Champaner-Pavagadh",
+      "path": "asia/india/gujarat/champaner",
+      "prior_score": 2.953,
+      "prior_variance": 1.518031,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.7102,
+      "prior_variance": 1.951051,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 5.4117,
+      "prior_variance": 1.748932,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 5.9629,
+      "prior_variance": 2.697835,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 1.8609,
+      "prior_variance": 1.659996,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": 3.2033,
+      "prior_variance": 2.290136,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 4.5578,
+      "prior_variance": 1.375559,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 4.447,
+      "prior_variance": 1.537,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 2.6707,
+      "prior_variance": 1.591869,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 5.3931,
+      "prior_variance": 1.681717,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 2.2097,
+      "prior_variance": 2.070016,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 4.1564,
+      "prior_variance": 1.622946,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 2.8093,
+      "prior_variance": 1.351992,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 3.0684,
+      "prior_variance": 1.901918,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 3.133,
+      "prior_variance": 2.139086,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 2.3606,
+      "prior_variance": 1.295052,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 4.8224,
+      "prior_variance": 1.833546,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": 3.8064,
+      "prior_variance": 2.067459,
+      "prior_n": 1
+    }
+  ]
+}

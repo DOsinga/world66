@@ -1,0 +1,200 @@
+{
+  "round": 3620,
+  "timestamp": "2026-06-13T23:07:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 6.1061,
+      "prior_variance": 0.148739,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.2872,
+      "prior_variance": 0.111586,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Dresden",
+      "path": "europe/germany/saxony/dresden",
+      "prior_score": 6.8678,
+      "prior_variance": 0.204871,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 4.6873,
+      "prior_variance": 0.119851,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 4.9726,
+      "prior_variance": 0.136531,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 7.4028,
+      "prior_variance": 0.17674,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 4.0729,
+      "prior_variance": 0.129829,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.4298,
+      "prior_variance": 0.132999,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 4.1275,
+      "prior_variance": 0.122009,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.5817,
+      "prior_variance": 0.119313,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 3.9572,
+      "prior_variance": 0.135671,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 3.9986,
+      "prior_variance": 0.129888,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 0.831,
+      "prior_variance": 0.137242,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.7372,
+      "prior_variance": 0.125552,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.7712,
+      "prior_variance": 0.110742,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.8304,
+      "prior_variance": 0.11591,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -0.7483,
+      "prior_variance": 0.138575,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "N\u00e1chod",
+      "path": "europe/czechrepublic/nachod",
+      "prior_score": -1.0255,
+      "prior_variance": 0.118027,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -3.0161,
+      "prior_variance": 0.150324,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": -0.1628,
+      "prior_variance": 0.117382,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -1.9401,
+      "prior_variance": 0.112542,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Port Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/portadelaide",
+      "prior_score": -2.6294,
+      "prior_variance": 0.102294,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -3.5771,
+      "prior_variance": 0.113817,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -5.3096,
+      "prior_variance": 0.141989,
+      "prior_n": 11
+    }
+  ]
+}

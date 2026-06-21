@@ -1,0 +1,200 @@
+{
+  "round": 660,
+  "timestamp": "2026-06-13T19:47:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -8.3617,
+      "prior_variance": 0.936851,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -5.7438,
+      "prior_variance": 0.968004,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -9.2591,
+      "prior_variance": 1.502715,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -8.895,
+      "prior_variance": 1.360455,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -7.2574,
+      "prior_variance": 0.975641,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -7.1664,
+      "prior_variance": 0.958711,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sapo National Park",
+      "path": "africa/liberia/sapo",
+      "prior_score": -5.8357,
+      "prior_variance": 1.049046,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -9.2408,
+      "prior_variance": 1.256903,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -6.8564,
+      "prior_variance": 0.729732,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -9.4998,
+      "prior_variance": 1.340115,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -10.143,
+      "prior_variance": 1.359247,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gurabo",
+      "path": "northamerica/thecaribbean/puertorico/gurabo",
+      "prior_score": -8.3223,
+      "prior_variance": 1.497694,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -7.7693,
+      "prior_variance": 1.161936,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -7.9998,
+      "prior_variance": 0.789552,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -8.474,
+      "prior_variance": 0.774592,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -8.3719,
+      "prior_variance": 0.764899,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -7.5768,
+      "prior_variance": 0.863684,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -7.5678,
+      "prior_variance": 0.7939,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -7.9896,
+      "prior_variance": 0.676717,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -8.0134,
+      "prior_variance": 1.047317,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -8.0938,
+      "prior_variance": 1.197819,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -7.8289,
+      "prior_variance": 1.178249,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -10.4478,
+      "prior_variance": 1.453368,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -9.2859,
+      "prior_variance": 0.767569,
+      "prior_n": 2
+    }
+  ]
+}

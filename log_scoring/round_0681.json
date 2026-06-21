@@ -1,0 +1,200 @@
+{
+  "round": 681,
+  "timestamp": "2026-06-13T19:48:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -12.9066,
+      "prior_variance": 0.62094,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -10.9099,
+      "prior_variance": 1.431348,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -13.8036,
+      "prior_variance": 1.10952,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -11.0724,
+      "prior_variance": 1.768076,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -12.1549,
+      "prior_variance": 1.208775,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -9.6362,
+      "prior_variance": 1.504456,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -11.4042,
+      "prior_variance": 1.394438,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -13.0242,
+      "prior_variance": 1.403799,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -12.9811,
+      "prior_variance": 1.261717,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -10.9381,
+      "prior_variance": 1.523371,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -11.6755,
+      "prior_variance": 0.661372,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -11.1679,
+      "prior_variance": 0.706517,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -10.6119,
+      "prior_variance": 1.879769,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -13.1724,
+      "prior_variance": 1.112019,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Marikina",
+      "path": "asia/philippines/marikina",
+      "prior_score": -11.1876,
+      "prior_variance": 1.435607,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_score": -15.3321,
+      "prior_variance": 5.274437,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -16.1918,
+      "prior_variance": 6.18699,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -13.1053,
+      "prior_variance": 1.45282,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -13.8592,
+      "prior_variance": 5.318809,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -16.9862,
+      "prior_variance": 6.162352,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -15.5569,
+      "prior_variance": 2.411504,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -16.1693,
+      "prior_variance": 3.107318,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -18.4644,
+      "prior_variance": 5.555036,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -16.8243,
+      "prior_variance": 3.917032,
+      "prior_n": 2
+    }
+  ]
+}

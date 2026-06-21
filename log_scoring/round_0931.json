@@ -1,0 +1,200 @@
+{
+  "round": 931,
+  "timestamp": "2026-06-13T20:01:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_score": 4.8514,
+      "prior_variance": 0.796866,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 0.4781,
+      "prior_variance": 0.4258,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": -1.3339,
+      "prior_variance": 0.766392,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": 3.5577,
+      "prior_variance": 0.603,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -1.1903,
+      "prior_variance": 0.650848,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -0.6236,
+      "prior_variance": 0.591001,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -4.8196,
+      "prior_variance": 0.478051,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.6563,
+      "prior_variance": 0.637018,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -2.6348,
+      "prior_variance": 0.663323,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -3.0185,
+      "prior_variance": 0.632289,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": 0.637,
+      "prior_variance": 0.957901,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -4.5274,
+      "prior_variance": 0.585913,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -6.4049,
+      "prior_variance": 0.697189,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -6.7133,
+      "prior_variance": 0.942818,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -4.9459,
+      "prior_variance": 0.736919,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -5.8411,
+      "prior_variance": 0.511268,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": -2.3003,
+      "prior_variance": 1.176385,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -3.1312,
+      "prior_variance": 1.052501,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -3.3982,
+      "prior_variance": 0.619372,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -3.379,
+      "prior_variance": 0.634954,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -7.4725,
+      "prior_variance": 0.741791,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -6.2211,
+      "prior_variance": 0.619882,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -4.4038,
+      "prior_variance": 0.582321,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Asmara",
+      "path": "africa/eritrea/asmara",
+      "prior_score": -3.0523,
+      "prior_variance": 0.633254,
+      "prior_n": 2
+    }
+  ]
+}

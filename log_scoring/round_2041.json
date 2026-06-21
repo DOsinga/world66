@@ -1,0 +1,200 @@
+{
+  "round": 2041,
+  "timestamp": "2026-06-13T21:14:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 5.0485,
+      "prior_variance": 0.223585,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 5.7819,
+      "prior_variance": 0.331476,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 3.2038,
+      "prior_variance": 0.207726,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.639,
+      "prior_variance": 0.26314,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.2933,
+      "prior_variance": 0.208521,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_score": 4.7721,
+      "prior_variance": 0.219083,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.5153,
+      "prior_variance": 0.222115,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.558,
+      "prior_variance": 0.212685,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.4194,
+      "prior_variance": 0.229803,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.6794,
+      "prior_variance": 0.204447,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -2.0331,
+      "prior_variance": 0.227524,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -2.434,
+      "prior_variance": 0.202666,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.5506,
+      "prior_variance": 0.177891,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -1.3459,
+      "prior_variance": 0.215834,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -5.9046,
+      "prior_variance": 0.263039,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/england/norfolk/lenwade_great_wit",
+      "prior_score": -5.74,
+      "prior_variance": 0.227499,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -5.1298,
+      "prior_variance": 0.221573,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -10.9417,
+      "prior_variance": 0.591969,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -5.6213,
+      "prior_variance": 0.249867,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.1698,
+      "prior_variance": 0.257498,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.8005,
+      "prior_variance": 0.260618,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.5656,
+      "prior_variance": 0.371031,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.2081,
+      "prior_variance": 0.275669,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -10.2852,
+      "prior_variance": 0.442727,
+      "prior_n": 6
+    }
+  ]
+}

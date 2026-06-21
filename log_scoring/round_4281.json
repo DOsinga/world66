@@ -1,0 +1,200 @@
+{
+  "round": 4281,
+  "timestamp": "2026-06-13T23:59:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 5.5255,
+      "prior_variance": 0.112919,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 4.1032,
+      "prior_variance": 0.098392,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.3046,
+      "prior_variance": 0.10306,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.2673,
+      "prior_variance": 0.10588,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 5.7307,
+      "prior_variance": 0.110528,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 4.4267,
+      "prior_variance": 0.115643,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": 0.8423,
+      "prior_variance": 0.098488,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 2.6168,
+      "prior_variance": 0.134552,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.2218,
+      "prior_variance": 0.104023,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 1.7307,
+      "prior_variance": 0.100157,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 0.9743,
+      "prior_variance": 0.094883,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 3.1341,
+      "prior_variance": 0.096029,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.9584,
+      "prior_variance": 0.099211,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -1.1571,
+      "prior_variance": 0.096901,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.002,
+      "prior_variance": 0.093523,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.248,
+      "prior_variance": 0.099918,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.112,
+      "prior_variance": 0.096112,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Laguna",
+      "path": "northamerica/unitedstates/newmexico/laguna",
+      "prior_score": -4.3366,
+      "prior_variance": 0.100613,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -5.044,
+      "prior_variance": 0.117204,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.2027,
+      "prior_variance": 0.153854,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -5.2492,
+      "prior_variance": 0.119967,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -8.8354,
+      "prior_variance": 0.237787,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_score": -8.0489,
+      "prior_variance": 0.157937,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -7.9004,
+      "prior_variance": 0.190209,
+      "prior_n": 14
+    }
+  ]
+}

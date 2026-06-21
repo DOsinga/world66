@@ -1,0 +1,200 @@
+{
+  "round": 939,
+  "timestamp": "2026-06-13T20:02:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.5251,
+      "prior_variance": 0.658637,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 3.0143,
+      "prior_variance": 0.619501,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.3506,
+      "prior_variance": 0.589191,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -4.0601,
+      "prior_variance": 0.533575,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 1.4603,
+      "prior_variance": 0.322371,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 1.1102,
+      "prior_variance": 0.610177,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.4026,
+      "prior_variance": 0.587701,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_score": 1.211,
+      "prior_variance": 0.524723,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 1.6522,
+      "prior_variance": 0.42075,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.7688,
+      "prior_variance": 0.657399,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": 1.1198,
+      "prior_variance": 0.805124,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -7.442,
+      "prior_variance": 1.30942,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -4.1097,
+      "prior_variance": 0.608324,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": 0.0292,
+      "prior_variance": 0.476903,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -3.408,
+      "prior_variance": 0.527621,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.75,
+      "prior_variance": 0.623455,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.918,
+      "prior_variance": 0.40271,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -3.2292,
+      "prior_variance": 0.671786,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -6.771,
+      "prior_variance": 0.616052,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.5682,
+      "prior_variance": 0.681959,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -2.6229,
+      "prior_variance": 0.622748,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -4.208,
+      "prior_variance": 0.58478,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -0.9221,
+      "prior_variance": 0.471031,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bengbu",
+      "path": "asia/china/anhui/bengbu",
+      "prior_score": -10.6121,
+      "prior_variance": 1.209938,
+      "prior_n": 2
+    }
+  ]
+}

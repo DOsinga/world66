@@ -1,0 +1,200 @@
+{
+  "round": 3263,
+  "timestamp": "2026-06-13T22:40:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderness_area",
+      "prior_score": 1.8499,
+      "prior_variance": 0.116292,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.0226,
+      "prior_variance": 0.142966,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.3312,
+      "prior_variance": 0.128551,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 1.9867,
+      "prior_variance": 0.166803,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": -1.6766,
+      "prior_variance": 0.230021,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 0.561,
+      "prior_variance": 0.158776,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -1.9726,
+      "prior_variance": 0.118974,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.4306,
+      "prior_variance": 0.111963,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 1.9434,
+      "prior_variance": 0.122247,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -0.6231,
+      "prior_variance": 0.147823,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.5559,
+      "prior_variance": 0.159688,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 0.1011,
+      "prior_variance": 0.128196,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.4083,
+      "prior_variance": 0.119251,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Diever",
+      "path": "europe/netherlands/diever",
+      "prior_score": -2.8094,
+      "prior_variance": 0.110928,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -2.7992,
+      "prior_variance": 0.165054,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.6678,
+      "prior_variance": 0.136771,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.3653,
+      "prior_variance": 0.137452,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -2.9536,
+      "prior_variance": 0.125216,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Robertsport",
+      "path": "africa/liberia/robertsport",
+      "prior_score": -4.9207,
+      "prior_variance": 0.168733,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -3.3914,
+      "prior_variance": 0.142338,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.6555,
+      "prior_variance": 0.149349,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -2.8158,
+      "prior_variance": 0.149899,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -5.8393,
+      "prior_variance": 0.165999,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.5238,
+      "prior_variance": 0.190566,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3858,
+  "timestamp": "2026-06-13T23:25:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 14.3111,
+      "prior_variance": 0.655434,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 7.9459,
+      "prior_variance": 0.217791,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 12.3613,
+      "prior_variance": 0.347975,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 7.6456,
+      "prior_variance": 0.198583,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 8.8113,
+      "prior_variance": 0.196299,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 7.9273,
+      "prior_variance": 0.193966,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.8978,
+      "prior_variance": 0.131672,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 4.2935,
+      "prior_variance": 0.13965,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 0.7058,
+      "prior_variance": 0.110155,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bellinzona",
+      "path": "europe/switzerland/bellinzona",
+      "prior_score": 3.3541,
+      "prior_variance": 0.10583,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.2092,
+      "prior_variance": 0.104821,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": -0.129,
+      "prior_variance": 0.11744,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.8262,
+      "prior_variance": 0.107013,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.3291,
+      "prior_variance": 0.110713,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.5259,
+      "prior_variance": 0.097828,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -1.3479,
+      "prior_variance": 0.115643,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.5289,
+      "prior_variance": 0.123706,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.5702,
+      "prior_variance": 0.1044,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.3393,
+      "prior_variance": 0.109536,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -0.6548,
+      "prior_variance": 0.103857,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/beverley",
+      "prior_score": 0.1592,
+      "prior_variance": 0.098531,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -3.2103,
+      "prior_variance": 0.122498,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -2.0925,
+      "prior_variance": 0.100624,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -5.7408,
+      "prior_variance": 0.140631,
+      "prior_n": 12
+    }
+  ]
+}

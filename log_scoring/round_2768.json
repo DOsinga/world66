@@ -1,0 +1,200 @@
+{
+  "round": 2768,
+  "timestamp": "2026-06-13T22:05:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 5.0108,
+      "prior_variance": 0.159637,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.0362,
+      "prior_variance": 0.13305,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 0.7731,
+      "prior_variance": 0.137795,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 4.1983,
+      "prior_variance": 0.173185,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": -0.9958,
+      "prior_variance": 0.188274,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 3.6672,
+      "prior_variance": 0.164525,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.6108,
+      "prior_variance": 0.145289,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -2.9812,
+      "prior_variance": 0.162978,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -0.4988,
+      "prior_variance": 0.137378,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -4.2888,
+      "prior_variance": 0.169659,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -3.8529,
+      "prior_variance": 0.145988,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -4.0559,
+      "prior_variance": 0.156632,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.5593,
+      "prior_variance": 0.180452,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -2.6938,
+      "prior_variance": 0.137414,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.3851,
+      "prior_variance": 0.185212,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -6.0553,
+      "prior_variance": 0.188723,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -4.5733,
+      "prior_variance": 0.152486,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -4.2455,
+      "prior_variance": 0.155666,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -5.821,
+      "prior_variance": 0.168998,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.8108,
+      "prior_variance": 0.254203,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -6.1826,
+      "prior_variance": 0.195638,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -6.2529,
+      "prior_variance": 0.211901,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -5.9845,
+      "prior_variance": 0.189874,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -9.5266,
+      "prior_variance": 0.313184,
+      "prior_n": 8
+    }
+  ]
+}

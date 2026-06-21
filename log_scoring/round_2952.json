@@ -1,0 +1,200 @@
+{
+  "round": 2952,
+  "timestamp": "2026-06-13T22:18:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.4611,
+      "prior_variance": 0.174007,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.7558,
+      "prior_variance": 0.140921,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 4.1332,
+      "prior_variance": 0.14132,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 4.5603,
+      "prior_variance": 0.164049,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 4.7336,
+      "prior_variance": 0.164498,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 5.0593,
+      "prior_variance": 0.139686,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.3963,
+      "prior_variance": 0.14889,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 3.5691,
+      "prior_variance": 0.143403,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 3.9214,
+      "prior_variance": 0.15656,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.2262,
+      "prior_variance": 0.158856,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 4.3627,
+      "prior_variance": 0.161577,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.7272,
+      "prior_variance": 0.144278,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 2.7577,
+      "prior_variance": 0.142016,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.6487,
+      "prior_variance": 0.170484,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 4.0183,
+      "prior_variance": 0.148605,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 0.8019,
+      "prior_variance": 0.129213,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 3.3198,
+      "prior_variance": 0.153703,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.5228,
+      "prior_variance": 0.132376,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": 1.3027,
+      "prior_variance": 0.170399,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -3.1898,
+      "prior_variance": 0.143429,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": -0.029,
+      "prior_variance": 0.161054,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.4666,
+      "prior_variance": 0.131924,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -3.2542,
+      "prior_variance": 0.210714,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -5.0199,
+      "prior_variance": 0.183002,
+      "prior_n": 9
+    }
+  ]
+}

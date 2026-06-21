@@ -1,0 +1,200 @@
+{
+  "round": 2346,
+  "timestamp": "2026-06-13T21:35:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": -1.3753,
+      "prior_variance": 0.256247,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pingliang",
+      "path": "asia/china/gansu/pingliang",
+      "prior_score": -3.4764,
+      "prior_variance": 0.15824,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -3.8032,
+      "prior_variance": 0.194109,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.8444,
+      "prior_variance": 0.172419,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_domingos",
+      "prior_score": -2.8424,
+      "prior_variance": 0.193933,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -1.6807,
+      "prior_variance": 0.185871,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.8864,
+      "prior_variance": 0.215042,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -4.307,
+      "prior_variance": 0.234706,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -3.4109,
+      "prior_variance": 0.188796,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.9491,
+      "prior_variance": 0.218558,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -3.8152,
+      "prior_variance": 0.168636,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.6725,
+      "prior_variance": 0.204605,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.2723,
+      "prior_variance": 0.266825,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -3.4022,
+      "prior_variance": 0.192949,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -5.0408,
+      "prior_variance": 0.291806,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.4893,
+      "prior_variance": 0.185555,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_score": -3.8237,
+      "prior_variance": 0.245317,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.7188,
+      "prior_variance": 0.229947,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Para\u00f1aque",
+      "path": "asia/philippines/paranuaque",
+      "prior_score": -4.3818,
+      "prior_variance": 0.224574,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -4.7372,
+      "prior_variance": 0.19967,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -4.5669,
+      "prior_variance": 0.172732,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -5.9842,
+      "prior_variance": 0.195714,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -4.7427,
+      "prior_variance": 0.252297,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -5.9996,
+      "prior_variance": 0.266509,
+      "prior_n": 7
+    }
+  ]
+}

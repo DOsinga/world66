@@ -1,0 +1,200 @@
+{
+  "round": 2695,
+  "timestamp": "2026-06-13T22:00:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 8.1081,
+      "prior_variance": 0.24624,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 3.0606,
+      "prior_variance": 0.163278,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 2.0304,
+      "prior_variance": 0.174728,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 3.8045,
+      "prior_variance": 0.146155,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 3.2783,
+      "prior_variance": 0.183054,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 3.8015,
+      "prior_variance": 0.18202,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 3.355,
+      "prior_variance": 0.160989,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 2.9511,
+      "prior_variance": 0.173915,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 2.3341,
+      "prior_variance": 0.170041,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 2.5374,
+      "prior_variance": 0.165065,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 0.9636,
+      "prior_variance": 0.185935,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Mumbai",
+      "path": "asia/india/maharashtra/mumbai",
+      "prior_score": 4.1084,
+      "prior_variance": 0.186669,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 1.592,
+      "prior_variance": 0.201957,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.4321,
+      "prior_variance": 0.158736,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 3.2269,
+      "prior_variance": 0.176792,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": 1.3738,
+      "prior_variance": 0.18458,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Autun",
+      "path": "europe/france/east/burgundy/autun",
+      "prior_score": 1.7437,
+      "prior_variance": 0.162487,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 2.4745,
+      "prior_variance": 0.154139,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": -0.2195,
+      "prior_variance": 0.161869,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.1517,
+      "prior_variance": 0.224045,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": 0.1329,
+      "prior_variance": 0.162474,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -3.4577,
+      "prior_variance": 0.208567,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -0.9132,
+      "prior_variance": 0.197968,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -2.4124,
+      "prior_variance": 0.149702,
+      "prior_n": 9
+    }
+  ]
+}

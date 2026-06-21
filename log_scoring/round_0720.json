@@ -1,0 +1,200 @@
+{
+  "round": 720,
+  "timestamp": "2026-06-13T19:50:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 6.01,
+      "prior_variance": 1.222203,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 6.0248,
+      "prior_variance": 0.952127,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 5.5297,
+      "prior_variance": 0.541939,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 7.3486,
+      "prior_variance": 1.003305,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 3.9387,
+      "prior_variance": 0.79906,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 4.7385,
+      "prior_variance": 0.819414,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 4.862,
+      "prior_variance": 0.806121,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 1.6207,
+      "prior_variance": 1.441874,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 5.443,
+      "prior_variance": 1.080681,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 2.3358,
+      "prior_variance": 0.95261,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 3.7553,
+      "prior_variance": 0.924388,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 4.6581,
+      "prior_variance": 1.108282,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 3.7476,
+      "prior_variance": 1.765061,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 3.7672,
+      "prior_variance": 0.832711,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 2.2083,
+      "prior_variance": 0.67842,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": 1.4156,
+      "prior_variance": 0.7475,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 2.9972,
+      "prior_variance": 0.651787,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": 2.51,
+      "prior_variance": 0.710543,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 2.2429,
+      "prior_variance": 1.477981,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": 3.3592,
+      "prior_variance": 1.423416,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": 2.0565,
+      "prior_variance": 0.714719,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 3.0723,
+      "prior_variance": 0.843188,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 3.2781,
+      "prior_variance": 1.4775,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": 1.0049,
+      "prior_variance": 1.424138,
+      "prior_n": 1
+    }
+  ]
+}

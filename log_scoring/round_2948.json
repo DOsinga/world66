@@ -1,0 +1,200 @@
+{
+  "round": 2948,
+  "timestamp": "2026-06-13T22:18:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 10.6072,
+      "prior_variance": 0.383656,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Daytona Beach",
+      "path": "northamerica/unitedstates/florida/daytona_beach",
+      "prior_score": 0.0118,
+      "prior_variance": 0.140505,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 1.8644,
+      "prior_variance": 0.140837,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.3335,
+      "prior_variance": 0.139723,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.2784,
+      "prior_variance": 0.137369,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.6654,
+      "prior_variance": 0.180313,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -1.2511,
+      "prior_variance": 0.133451,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -1.1756,
+      "prior_variance": 0.128282,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -1.5454,
+      "prior_variance": 0.164679,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.4744,
+      "prior_variance": 0.131258,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.5549,
+      "prior_variance": 0.159342,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.3524,
+      "prior_variance": 0.170285,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.623,
+      "prior_variance": 0.134761,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.2015,
+      "prior_variance": 0.150219,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -2.6695,
+      "prior_variance": 0.16624,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -3.2796,
+      "prior_variance": 0.157932,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.5025,
+      "prior_variance": 0.205345,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -3.0341,
+      "prior_variance": 0.229516,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -0.9175,
+      "prior_variance": 0.149988,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -4.8829,
+      "prior_variance": 0.143153,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -7.408,
+      "prior_variance": 0.20943,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.0391,
+      "prior_variance": 0.278991,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -7.133,
+      "prior_variance": 0.202942,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -9.9276,
+      "prior_variance": 0.314073,
+      "prior_n": 9
+    }
+  ]
+}

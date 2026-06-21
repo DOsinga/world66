@@ -1,0 +1,200 @@
+{
+  "round": 1089,
+  "timestamp": "2026-06-13T20:10:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_score": 1.7024,
+      "prior_variance": 0.568576,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -4.2212,
+      "prior_variance": 0.581024,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 3.319,
+      "prior_variance": 0.420196,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -1.9218,
+      "prior_variance": 0.63313,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.746,
+      "prior_variance": 0.433045,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -1.8663,
+      "prior_variance": 0.415237,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -7.9261,
+      "prior_variance": 0.419088,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -2.4245,
+      "prior_variance": 0.402611,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -7.8814,
+      "prior_variance": 0.794854,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -5.4233,
+      "prior_variance": 0.408663,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.2295,
+      "prior_variance": 0.44269,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -7.0368,
+      "prior_variance": 0.589063,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Handan",
+      "path": "asia/china/hebei/handan",
+      "prior_score": -6.7599,
+      "prior_variance": 0.408483,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -4.8836,
+      "prior_variance": 0.449056,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -8.879,
+      "prior_variance": 0.656881,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -8.5206,
+      "prior_variance": 0.428802,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -7.0193,
+      "prior_variance": 0.768908,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -7.0373,
+      "prior_variance": 0.473322,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -8.9642,
+      "prior_variance": 0.457595,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -9.1406,
+      "prior_variance": 0.659388,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -7.394,
+      "prior_variance": 0.481875,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -10.3958,
+      "prior_variance": 0.637612,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -13.1716,
+      "prior_variance": 0.601593,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_score": -11.7196,
+      "prior_variance": 0.661564,
+      "prior_n": 3
+    }
+  ]
+}

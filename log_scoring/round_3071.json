@@ -1,0 +1,200 @@
+{
+  "round": 3071,
+  "timestamp": "2026-06-13T22:26:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 12.9344,
+      "prior_variance": 0.492034,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.3043,
+      "prior_variance": 0.331485,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 7.924,
+      "prior_variance": 0.241965,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 8.9688,
+      "prior_variance": 0.264889,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 7.3686,
+      "prior_variance": 0.200827,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 6.3953,
+      "prior_variance": 0.16509,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 6.1658,
+      "prior_variance": 0.147702,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 8.4234,
+      "prior_variance": 0.221883,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.5347,
+      "prior_variance": 0.158721,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Trinidad",
+      "path": "northamerica/thecaribbean/cuba/trinidad",
+      "prior_score": 6.1906,
+      "prior_variance": 0.194729,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 5.8633,
+      "prior_variance": 0.154122,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.8761,
+      "prior_variance": 0.229985,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.4208,
+      "prior_variance": 0.163572,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bridgetown",
+      "path": "northamerica/thecaribbean/barbados/bridgetown",
+      "prior_score": 6.3304,
+      "prior_variance": 0.187902,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 6.4393,
+      "prior_variance": 0.196356,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 6.7063,
+      "prior_variance": 0.195653,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.3029,
+      "prior_variance": 0.162154,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 4.921,
+      "prior_variance": 0.149633,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 2.9034,
+      "prior_variance": 0.16293,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.3917,
+      "prior_variance": 0.164453,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 4.1301,
+      "prior_variance": 0.134966,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.4309,
+      "prior_variance": 0.134854,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 3.1452,
+      "prior_variance": 0.145199,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": 0.0477,
+      "prior_variance": 0.147627,
+      "prior_n": 10
+    }
+  ]
+}

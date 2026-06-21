@@ -1,0 +1,200 @@
+{
+  "round": 1531,
+  "timestamp": "2026-06-13T20:36:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 13.5432,
+      "prior_variance": 0.658268,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 7.2758,
+      "prior_variance": 0.353729,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 11.6347,
+      "prior_variance": 0.643776,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.8042,
+      "prior_variance": 0.328099,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 2.3954,
+      "prior_variance": 0.28125,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 3.2389,
+      "prior_variance": 0.293797,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -2.0885,
+      "prior_variance": 0.358558,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 1.422,
+      "prior_variance": 0.233728,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.2021,
+      "prior_variance": 0.247399,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 2.0651,
+      "prior_variance": 0.313517,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 3.4046,
+      "prior_variance": 0.316512,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -0.9765,
+      "prior_variance": 0.238531,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.2498,
+      "prior_variance": 0.259874,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -3.2785,
+      "prior_variance": 0.287141,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -5.4762,
+      "prior_variance": 0.347502,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -0.9673,
+      "prior_variance": 0.295767,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -2.683,
+      "prior_variance": 0.384473,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": -4.1142,
+      "prior_variance": 0.27967,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -4.6404,
+      "prior_variance": 0.284248,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -6.8238,
+      "prior_variance": 0.310967,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.7751,
+      "prior_variance": 0.375093,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -7.0919,
+      "prior_variance": 0.255897,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -8.3733,
+      "prior_variance": 0.346297,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -8.3136,
+      "prior_variance": 0.411449,
+      "prior_n": 4
+    }
+  ]
+}

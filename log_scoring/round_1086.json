@@ -1,0 +1,200 @@
+{
+  "round": 1086,
+  "timestamp": "2026-06-13T20:10:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 6.5062,
+      "prior_variance": 0.4433,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.6116,
+      "prior_variance": 0.471068,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.5413,
+      "prior_variance": 0.426098,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -1.0054,
+      "prior_variance": 0.537257,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -1.6396,
+      "prior_variance": 0.632056,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -1.8494,
+      "prior_variance": 0.635955,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -3.0297,
+      "prior_variance": 0.434473,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.1926,
+      "prior_variance": 0.402438,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -4.7783,
+      "prior_variance": 0.460778,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -1.9728,
+      "prior_variance": 0.424522,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -2.9432,
+      "prior_variance": 0.442908,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -1.6543,
+      "prior_variance": 0.395721,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -3.0671,
+      "prior_variance": 0.518428,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -3.6157,
+      "prior_variance": 0.399296,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Xianyang",
+      "path": "asia/china/shaanxi/xianyang",
+      "prior_score": -3.3158,
+      "prior_variance": 0.436928,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -4.3407,
+      "prior_variance": 0.442331,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -3.3881,
+      "prior_variance": 0.386782,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -5.0669,
+      "prior_variance": 0.429297,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.3675,
+      "prior_variance": 0.479747,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -5.2064,
+      "prior_variance": 0.753155,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -5.3419,
+      "prior_variance": 0.646958,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -2.9003,
+      "prior_variance": 0.480274,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -5.8988,
+      "prior_variance": 0.433764,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -6.2021,
+      "prior_variance": 0.605887,
+      "prior_n": 3
+    }
+  ]
+}

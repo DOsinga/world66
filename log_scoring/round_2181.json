@@ -1,0 +1,200 @@
+{
+  "round": 2181,
+  "timestamp": "2026-06-13T21:24:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 10.4867,
+      "prior_variance": 0.562457,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 9.98,
+      "prior_variance": 0.354834,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 8.3851,
+      "prior_variance": 0.244508,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 6.7429,
+      "prior_variance": 0.280069,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.4103,
+      "prior_variance": 0.222866,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 8.5663,
+      "prior_variance": 0.275972,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 8.1996,
+      "prior_variance": 0.30694,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 5.2281,
+      "prior_variance": 0.296879,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_score": 4.4993,
+      "prior_variance": 0.219013,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 6.2688,
+      "prior_variance": 0.258452,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 4.3058,
+      "prior_variance": 0.206438,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.5396,
+      "prior_variance": 0.187298,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 2.6649,
+      "prior_variance": 0.209541,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.1042,
+      "prior_variance": 0.255675,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 3.4981,
+      "prior_variance": 0.183068,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 2.1148,
+      "prior_variance": 0.207127,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 1.1565,
+      "prior_variance": 0.206002,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.4732,
+      "prior_variance": 0.187061,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.3898,
+      "prior_variance": 0.182196,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 0.8163,
+      "prior_variance": 0.202632,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 1.0754,
+      "prior_variance": 0.214477,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 1.85,
+      "prior_variance": 0.20092,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -5.5128,
+      "prior_variance": 0.275144,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -8.5464,
+      "prior_variance": 0.459557,
+      "prior_n": 7
+    }
+  ]
+}

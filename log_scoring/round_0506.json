@@ -1,0 +1,200 @@
+{
+  "round": 506,
+  "timestamp": "2026-06-13T19:39:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 13.652,
+      "prior_variance": 7.407102,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 15.1815,
+      "prior_variance": 7.206715,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 16.9517,
+      "prior_variance": 6.632997,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 12.0233,
+      "prior_variance": 2.534608,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 11.4714,
+      "prior_variance": 3.616256,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Trinidad",
+      "path": "northamerica/thecaribbean/cuba/trinidad",
+      "prior_score": 10.0166,
+      "prior_variance": 4.090669,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_score": 14.6235,
+      "prior_variance": 7.41359,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 11.4499,
+      "prior_variance": 2.143945,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 16.2052,
+      "prior_variance": 6.862755,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/alesund",
+      "prior_score": 11.3991,
+      "prior_variance": 2.859095,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_score": 10.666,
+      "prior_variance": 4.204557,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 9.6416,
+      "prior_variance": 10.294032,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 8.1108,
+      "prior_variance": 6.438923,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 9.3092,
+      "prior_variance": 5.478546,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 8.1456,
+      "prior_variance": 2.733628,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 7.1375,
+      "prior_variance": 2.493328,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 12.0024,
+      "prior_variance": 3.531279,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 9.7954,
+      "prior_variance": 9.117862,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 8.6637,
+      "prior_variance": 11.140695,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 7.8069,
+      "prior_variance": 8.585147,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 8.5924,
+      "prior_variance": 1.753241,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 8.5145,
+      "prior_variance": 1.555338,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 10.0928,
+      "prior_variance": 2.002835,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 9.2539,
+      "prior_variance": 1.983207,
+      "prior_n": 1
+    }
+  ]
+}

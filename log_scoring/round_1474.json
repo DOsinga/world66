@@ -1,0 +1,200 @@
+{
+  "round": 1474,
+  "timestamp": "2026-06-13T20:32:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.8856,
+      "prior_variance": 0.534277,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/alesund",
+      "prior_score": 7.1038,
+      "prior_variance": 0.334352,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 5.901,
+      "prior_variance": 0.362258,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 5.8575,
+      "prior_variance": 0.322293,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 3.3559,
+      "prior_variance": 0.357745,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 5.3821,
+      "prior_variance": 0.484235,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 5.4169,
+      "prior_variance": 0.362035,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 5.0274,
+      "prior_variance": 0.328982,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.9674,
+      "prior_variance": 0.44107,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 5.0884,
+      "prior_variance": 0.329457,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 2.0511,
+      "prior_variance": 0.277232,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.6438,
+      "prior_variance": 0.321412,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.6532,
+      "prior_variance": 0.316312,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Impero Valley",
+      "path": "europe/italy/liguria/imperovalley",
+      "prior_score": 0.2156,
+      "prior_variance": 0.28468,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -1.0009,
+      "prior_variance": 0.308717,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -3.081,
+      "prior_variance": 0.241831,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.8493,
+      "prior_variance": 0.310126,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.6546,
+      "prior_variance": 0.255939,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -3.1797,
+      "prior_variance": 0.334033,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -5.158,
+      "prior_variance": 0.356234,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "B\u00e9ja",
+      "path": "africa/tunisia/beja",
+      "prior_score": -3.278,
+      "prior_variance": 0.269484,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.3321,
+      "prior_variance": 0.382209,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -6.2783,
+      "prior_variance": 0.383829,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -6.4041,
+      "prior_variance": 0.366492,
+      "prior_n": 4
+    }
+  ]
+}

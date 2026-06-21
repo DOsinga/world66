@@ -1,0 +1,200 @@
+{
+  "round": 4363,
+  "timestamp": "2026-06-14T00:06:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 8.165,
+      "prior_variance": 0.149424,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 3.9398,
+      "prior_variance": 0.100175,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 4.9471,
+      "prior_variance": 0.106366,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 2.7036,
+      "prior_variance": 0.110816,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sayram Lake",
+      "path": "asia/china/xinjiangprovince/sayramlake",
+      "prior_score": 1.3306,
+      "prior_variance": 0.104656,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/jal",
+      "prior_score": -0.0687,
+      "prior_variance": 0.100727,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Abrolhos",
+      "path": "southamerica/brazil/abrolhos",
+      "prior_score": 0.6659,
+      "prior_variance": 0.092433,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.3558,
+      "prior_variance": 0.091552,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -2.9112,
+      "prior_variance": 0.112702,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -0.5675,
+      "prior_variance": 0.095373,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.5503,
+      "prior_variance": 0.104188,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -2.9375,
+      "prior_variance": 0.111982,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.5771,
+      "prior_variance": 0.106215,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -4.4805,
+      "prior_variance": 0.119055,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -3.4423,
+      "prior_variance": 0.100122,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -3.7902,
+      "prior_variance": 0.096157,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Bayam\u00f3n",
+      "path": "northamerica/thecaribbean/puertorico/bayamon",
+      "prior_score": -2.8176,
+      "prior_variance": 0.096833,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.5743,
+      "prior_variance": 0.124844,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.4033,
+      "prior_variance": 0.130969,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.0058,
+      "prior_variance": 0.092092,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_score": -4.7031,
+      "prior_variance": 0.105985,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.3166,
+      "prior_variance": 0.164921,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -7.08,
+      "prior_variance": 0.153367,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -7.0799,
+      "prior_variance": 0.151617,
+      "prior_n": 14
+    }
+  ]
+}

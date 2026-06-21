@@ -1,0 +1,200 @@
+{
+  "round": 1112,
+  "timestamp": "2026-06-13T20:11:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 2.0406,
+      "prior_variance": 0.40003,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -3.2908,
+      "prior_variance": 0.978573,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 1.1046,
+      "prior_variance": 0.577576,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -0.5769,
+      "prior_variance": 0.338223,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -4.7129,
+      "prior_variance": 0.429699,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -5.9092,
+      "prior_variance": 0.502292,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Krong Koh Kong",
+      "path": "asia/cambodia/krongkohkong",
+      "prior_score": -1.3498,
+      "prior_variance": 0.382971,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -5.113,
+      "prior_variance": 0.416058,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -5.558,
+      "prior_variance": 0.413126,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -6.3256,
+      "prior_variance": 0.518334,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -8.1792,
+      "prior_variance": 0.510805,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -8.3233,
+      "prior_variance": 1.076132,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -6.0321,
+      "prior_variance": 0.452986,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -6.6601,
+      "prior_variance": 0.49958,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -3.2647,
+      "prior_variance": 0.396506,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -5.5025,
+      "prior_variance": 0.448916,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -8.2318,
+      "prior_variance": 0.585328,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -7.6901,
+      "prior_variance": 0.475044,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -8.6492,
+      "prior_variance": 0.541182,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -8.1111,
+      "prior_variance": 0.552429,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -9.117,
+      "prior_variance": 0.577775,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -6.4069,
+      "prior_variance": 0.44556,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -9.2417,
+      "prior_variance": 0.418113,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -14.8709,
+      "prior_variance": 1.540503,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1623,
+  "timestamp": "2026-06-13T20:42:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 5.9356,
+      "prior_variance": 0.314448,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 9.2065,
+      "prior_variance": 0.468161,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 6.0449,
+      "prior_variance": 0.311767,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Barossa Valley",
+      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
+      "prior_score": 5.1109,
+      "prior_variance": 0.282334,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gruy\u00e8res",
+      "path": "europe/switzerland/gruyeres",
+      "prior_score": 7.074,
+      "prior_variance": 0.397152,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.0769,
+      "prior_variance": 0.307837,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 6.1332,
+      "prior_variance": 0.337109,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.5571,
+      "prior_variance": 0.262256,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 5.5085,
+      "prior_variance": 0.275302,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 5.4552,
+      "prior_variance": 0.308223,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 5.8538,
+      "prior_variance": 0.284063,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 4.7848,
+      "prior_variance": 0.282493,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 5.5271,
+      "prior_variance": 0.269857,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 0.2472,
+      "prior_variance": 0.269634,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lefkara",
+      "path": "asia/cyprus/lefkara",
+      "prior_score": 2.8344,
+      "prior_variance": 0.255508,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 2.234,
+      "prior_variance": 0.292131,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 0.0823,
+      "prior_variance": 0.366128,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": -0.4605,
+      "prior_variance": 0.265141,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.5863,
+      "prior_variance": 0.281225,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -0.8893,
+      "prior_variance": 0.236299,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -3.588,
+      "prior_variance": 0.301799,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.796,
+      "prior_variance": 0.245566,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -5.6949,
+      "prior_variance": 0.291129,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -7.5551,
+      "prior_variance": 0.396991,
+      "prior_n": 5
+    }
+  ]
+}

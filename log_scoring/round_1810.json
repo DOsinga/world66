@@ -1,0 +1,200 @@
+{
+  "round": 1810,
+  "timestamp": "2026-06-13T20:54:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 9.2897,
+      "prior_variance": 0.330889,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 9.7956,
+      "prior_variance": 0.37539,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 4.8717,
+      "prior_variance": 0.315259,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 7.5318,
+      "prior_variance": 0.304396,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.6916,
+      "prior_variance": 0.251791,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.1861,
+      "prior_variance": 0.247188,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 6.6054,
+      "prior_variance": 0.300651,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 5.4112,
+      "prior_variance": 0.297407,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 5.7618,
+      "prior_variance": 0.270167,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.4111,
+      "prior_variance": 0.245533,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 5.5008,
+      "prior_variance": 0.380434,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 6.3501,
+      "prior_variance": 0.25523,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 2.3021,
+      "prior_variance": 0.244483,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.7929,
+      "prior_variance": 0.307133,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.7326,
+      "prior_variance": 0.259331,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 4.8938,
+      "prior_variance": 0.225557,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 1.6269,
+      "prior_variance": 0.232037,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.7961,
+      "prior_variance": 0.244636,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -2.8787,
+      "prior_variance": 0.238677,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.7799,
+      "prior_variance": 0.201086,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -6.3571,
+      "prior_variance": 0.293334,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Embrun",
+      "path": "northamerica/canada/ontario/embrun",
+      "prior_score": -7.5413,
+      "prior_variance": 0.400526,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -12.1173,
+      "prior_variance": 0.64866,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -9.7897,
+      "prior_variance": 0.325884,
+      "prior_n": 5
+    }
+  ]
+}

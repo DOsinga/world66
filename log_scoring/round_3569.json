@@ -1,0 +1,200 @@
+{
+  "round": 3569,
+  "timestamp": "2026-06-13T23:03:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 7.6238,
+      "prior_variance": 0.144836,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 4.8471,
+      "prior_variance": 0.131199,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.2772,
+      "prior_variance": 0.135163,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2617,
+      "prior_variance": 0.115423,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": 0.5949,
+      "prior_variance": 0.146848,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 3.214,
+      "prior_variance": 0.112985,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 1.9698,
+      "prior_variance": 0.110102,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 1.8689,
+      "prior_variance": 0.131065,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 2.2933,
+      "prior_variance": 0.124231,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 1.6056,
+      "prior_variance": 0.113798,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.3987,
+      "prior_variance": 0.113469,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.0619,
+      "prior_variance": 0.124936,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.8605,
+      "prior_variance": 0.125225,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.7219,
+      "prior_variance": 0.130399,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -1.5266,
+      "prior_variance": 0.105384,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 2.0032,
+      "prior_variance": 0.11798,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": 0.1109,
+      "prior_variance": 0.125937,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": -0.5114,
+      "prior_variance": 0.125315,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 2.1023,
+      "prior_variance": 0.131298,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.3434,
+      "prior_variance": 0.109408,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -1.0423,
+      "prior_variance": 0.104986,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -2.256,
+      "prior_variance": 0.116286,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Nangqen",
+      "path": "asia/china/qinghai/nangqen",
+      "prior_score": -2.2555,
+      "prior_variance": 0.120893,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -3.9893,
+      "prior_variance": 0.137385,
+      "prior_n": 11
+    }
+  ]
+}

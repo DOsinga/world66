@@ -1,0 +1,200 @@
+{
+  "round": 1501,
+  "timestamp": "2026-06-13T20:34:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_score": 18.636,
+      "prior_variance": 1.41016,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 6.2433,
+      "prior_variance": 0.322191,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_score": 5.5824,
+      "prior_variance": 0.34937,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 4.5363,
+      "prior_variance": 0.33711,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.9407,
+      "prior_variance": 0.302476,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.5788,
+      "prior_variance": 0.266957,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.7592,
+      "prior_variance": 0.327979,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Zhouzhuang",
+      "path": "asia/china/jiangsu_province/zhouzhuang",
+      "prior_score": 4.2021,
+      "prior_variance": 0.246424,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": -0.1923,
+      "prior_variance": 0.262321,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mangaia",
+      "path": "australiaandpacific/cookislands/mangaia",
+      "prior_score": 0.6907,
+      "prior_variance": 0.292129,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 2.3177,
+      "prior_variance": 0.299877,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.6406,
+      "prior_variance": 0.601522,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.1961,
+      "prior_variance": 0.455891,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.4598,
+      "prior_variance": 0.272533,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 0.935,
+      "prior_variance": 0.348571,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.9625,
+      "prior_variance": 0.359137,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -0.901,
+      "prior_variance": 0.300366,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": 0.2622,
+      "prior_variance": 0.301954,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.5849,
+      "prior_variance": 0.3564,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -4.1998,
+      "prior_variance": 0.330114,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -4.575,
+      "prior_variance": 0.298094,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -5.1156,
+      "prior_variance": 0.372919,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster",
+      "prior_score": -3.2849,
+      "prior_variance": 0.273577,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.8748,
+      "prior_variance": 0.321718,
+      "prior_n": 4
+    }
+  ]
+}

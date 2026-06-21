@@ -1,0 +1,200 @@
+{
+  "round": 334,
+  "timestamp": "2026-06-13T19:30:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 8.6185,
+      "prior_variance": 2.14269,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 9.7098,
+      "prior_variance": 2.749711,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656174,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 5.2873,
+      "prior_variance": 2.161804,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 5.9918,
+      "prior_variance": 1.991504,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.0822,
+      "prior_variance": 1.765523,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 0.8991,
+      "prior_variance": 1.463288,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 3.7452,
+      "prior_variance": 1.643513,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_score": 8.7415,
+      "prior_variance": 2.02705,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 2.0654,
+      "prior_variance": 1.836416,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 0.8561,
+      "prior_variance": 1.685248,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 3.9692,
+      "prior_variance": 1.75468,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sergiev Posad",
+      "path": "europe/russia/sergievposad",
+      "prior_score": 4.948,
+      "prior_variance": 1.892777,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": 3.6888,
+      "prior_variance": 1.555357,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": 0.7268,
+      "prior_variance": 1.707636,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -1.1978,
+      "prior_variance": 1.549716,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -4.9727,
+      "prior_variance": 1.609408,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 9.6329,
+      "prior_variance": 2.759433,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": 0.055,
+      "prior_variance": 1.530525,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -3.671,
+      "prior_variance": 1.561869,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -7.0841,
+      "prior_variance": 1.963831,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -2.1487,
+      "prior_variance": 1.593514,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -4.2039,
+      "prior_variance": 1.667843,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723735,
+      "prior_n": 1
+    }
+  ]
+}

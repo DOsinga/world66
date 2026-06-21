@@ -1,0 +1,200 @@
+{
+  "round": 881,
+  "timestamp": "2026-06-13T19:58:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 6.1909,
+      "prior_variance": 0.767367,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 2.6452,
+      "prior_variance": 0.740618,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 1.9912,
+      "prior_variance": 0.553171,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.2449,
+      "prior_variance": 0.611215,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kangding",
+      "path": "asia/china/sichuanprovince/kangding",
+      "prior_score": 3.3707,
+      "prior_variance": 0.839392,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 2.2243,
+      "prior_variance": 0.648827,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": -0.3983,
+      "prior_variance": 0.616826,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 2.4987,
+      "prior_variance": 0.60462,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 2.2753,
+      "prior_variance": 0.583108,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 2.8606,
+      "prior_variance": 0.626148,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 1.148,
+      "prior_variance": 0.431181,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 1.3184,
+      "prior_variance": 0.599098,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 1.3478,
+      "prior_variance": 0.580958,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.599,
+      "prior_variance": 0.702934,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": -0.22,
+      "prior_variance": 0.70218,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -3.9593,
+      "prior_variance": 0.490938,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 1.2547,
+      "prior_variance": 0.798339,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 1.5197,
+      "prior_variance": 0.464468,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 2.1186,
+      "prior_variance": 0.653292,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": 2.787,
+      "prior_variance": 0.664327,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 3.7791,
+      "prior_variance": 0.74431,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 2.1457,
+      "prior_variance": 0.693466,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -5.1875,
+      "prior_variance": 0.999652,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -9.3772,
+      "prior_variance": 0.693918,
+      "prior_n": 2
+    }
+  ]
+}

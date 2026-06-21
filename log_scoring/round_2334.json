@@ -1,0 +1,200 @@
+{
+  "round": 2334,
+  "timestamp": "2026-06-13T21:34:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 11.4901,
+      "prior_variance": 0.466994,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 6.4421,
+      "prior_variance": 0.222868,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 2.1608,
+      "prior_variance": 0.189075,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -1.2734,
+      "prior_variance": 0.19756,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.9988,
+      "prior_variance": 0.176943,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.47,
+      "prior_variance": 0.162027,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 0.8495,
+      "prior_variance": 0.183039,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Siros",
+      "path": "europe/greece/siros",
+      "prior_score": 1.6519,
+      "prior_variance": 0.193701,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.7259,
+      "prior_variance": 0.228666,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.9161,
+      "prior_variance": 0.184284,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -0.6973,
+      "prior_variance": 0.240242,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_score": 1.6728,
+      "prior_variance": 0.215206,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -0.169,
+      "prior_variance": 0.155207,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.0134,
+      "prior_variance": 0.168902,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": -2.3904,
+      "prior_variance": 0.240015,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -2.1937,
+      "prior_variance": 0.204229,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.4839,
+      "prior_variance": 0.171634,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -2.8876,
+      "prior_variance": 0.186893,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -1.8824,
+      "prior_variance": 0.216348,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.3244,
+      "prior_variance": 0.194678,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -0.9535,
+      "prior_variance": 0.280229,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -2.3616,
+      "prior_variance": 0.213872,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ningde",
+      "path": "asia/china/fujianprovince/ningde",
+      "prior_score": -4.5554,
+      "prior_variance": 0.16915,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -9.0212,
+      "prior_variance": 0.398127,
+      "prior_n": 7
+    }
+  ]
+}

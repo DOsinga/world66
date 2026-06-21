@@ -1,0 +1,200 @@
+{
+  "round": 1551,
+  "timestamp": "2026-06-13T20:37:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 4.7628,
+      "prior_variance": 0.283243,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 4.0383,
+      "prior_variance": 0.267742,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 3.4805,
+      "prior_variance": 0.43151,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 4.0908,
+      "prior_variance": 0.267336,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.0059,
+      "prior_variance": 0.395026,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -2.3233,
+      "prior_variance": 0.278586,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.113,
+      "prior_variance": 0.284619,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 0.7399,
+      "prior_variance": 0.265986,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.7959,
+      "prior_variance": 0.325903,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": 0.0511,
+      "prior_variance": 0.260992,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.04,
+      "prior_variance": 0.247063,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.3701,
+      "prior_variance": 0.270342,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -1.8795,
+      "prior_variance": 0.271905,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": -2.7896,
+      "prior_variance": 0.237041,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -3.6397,
+      "prior_variance": 0.339178,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -5.6657,
+      "prior_variance": 0.255105,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -4.9011,
+      "prior_variance": 0.323697,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -4.4524,
+      "prior_variance": 0.421546,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -6.5268,
+      "prior_variance": 0.308788,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -6.0911,
+      "prior_variance": 0.328651,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -7.1858,
+      "prior_variance": 0.44901,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -9.0206,
+      "prior_variance": 0.370713,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -6.0687,
+      "prior_variance": 0.446184,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -9.2093,
+      "prior_variance": 0.338384,
+      "prior_n": 4
+    }
+  ]
+}

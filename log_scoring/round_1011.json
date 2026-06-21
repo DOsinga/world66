@@ -1,0 +1,200 @@
+{
+  "round": 1011,
+  "timestamp": "2026-06-13T20:05:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 1.9818,
+      "prior_variance": 0.848065,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -0.7977,
+      "prior_variance": 0.431204,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 1.3227,
+      "prior_variance": 0.602948,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 1.0636,
+      "prior_variance": 0.332649,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.5042,
+      "prior_variance": 0.50399,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": -0.1667,
+      "prior_variance": 0.470844,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -1.7262,
+      "prior_variance": 0.459433,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": -0.7303,
+      "prior_variance": 0.479828,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": -0.8585,
+      "prior_variance": 0.491441,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -1.3998,
+      "prior_variance": 0.479745,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": -0.6203,
+      "prior_variance": 0.481102,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -1.5449,
+      "prior_variance": 0.420554,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -1.2033,
+      "prior_variance": 0.441123,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 1.1132,
+      "prior_variance": 0.426984,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -1.3024,
+      "prior_variance": 0.513967,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 0.4574,
+      "prior_variance": 0.598426,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.6172,
+      "prior_variance": 0.456162,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -1.7977,
+      "prior_variance": 0.54372,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -0.9823,
+      "prior_variance": 0.301521,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -1.6937,
+      "prior_variance": 0.474514,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -3.2827,
+      "prior_variance": 0.76823,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -1.6972,
+      "prior_variance": 0.435759,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -3.2346,
+      "prior_variance": 0.475601,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.1881,
+      "prior_variance": 0.671295,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 310,
+  "timestamp": "2026-06-13T19:29:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 13.3528,
+      "prior_variance": 7.957248,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 11.2379,
+      "prior_variance": 3.65683,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 10.7409,
+      "prior_variance": 2.644796,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 2.7481,
+      "prior_variance": 1.693043,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 5.1598,
+      "prior_variance": 1.661072,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 8.3205,
+      "prior_variance": 2.051969,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.4309,
+      "prior_variance": 1.66938,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 1.9675,
+      "prior_variance": 1.67144,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": 1.9037,
+      "prior_variance": 1.508889,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -3.5815,
+      "prior_variance": 1.761176,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -0.4309,
+      "prior_variance": 1.66938,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -9.636,
+      "prior_variance": 2.51636,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Shiyan",
+      "path": "asia/china/hubei/shiyan",
+      "prior_score": -5.9065,
+      "prior_variance": 2.092342,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -5.7601,
+      "prior_variance": 1.922168,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -4.9113,
+      "prior_variance": 1.922943,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -11.1351,
+      "prior_variance": 3.388705,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -13.3942,
+      "prior_variance": 7.584473,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -13.3628,
+      "prior_variance": 7.591867,
+      "prior_n": 1
+    }
+  ]
+}

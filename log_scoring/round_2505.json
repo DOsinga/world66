@@ -1,0 +1,200 @@
+{
+  "round": 2505,
+  "timestamp": "2026-06-13T21:47:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/south_island/otago/milford_sound",
+      "prior_score": 12.8302,
+      "prior_variance": 0.590254,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 2.734,
+      "prior_variance": 0.198872,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 2.4601,
+      "prior_variance": 0.17108,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.7936,
+      "prior_variance": 0.202363,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 1.7982,
+      "prior_variance": 0.171223,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 0.8113,
+      "prior_variance": 0.206393,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 1.7425,
+      "prior_variance": 0.16665,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.5688,
+      "prior_variance": 0.16797,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.8177,
+      "prior_variance": 0.162804,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.6413,
+      "prior_variance": 0.159116,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.8022,
+      "prior_variance": 0.15403,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.0611,
+      "prior_variance": 0.19007,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.4389,
+      "prior_variance": 0.156259,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.1408,
+      "prior_variance": 0.171305,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_score": -1.9508,
+      "prior_variance": 0.204932,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -1.5067,
+      "prior_variance": 0.184975,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.2157,
+      "prior_variance": 0.171331,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -2.8297,
+      "prior_variance": 0.169572,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -2.1006,
+      "prior_variance": 0.163186,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -2.2769,
+      "prior_variance": 0.180285,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -2.0481,
+      "prior_variance": 0.173524,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -2.8321,
+      "prior_variance": 0.171131,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -2.4718,
+      "prior_variance": 0.159522,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.1438,
+      "prior_variance": 0.251553,
+      "prior_n": 8
+    }
+  ]
+}

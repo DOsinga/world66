@@ -1,0 +1,200 @@
+{
+  "round": 1776,
+  "timestamp": "2026-06-13T20:51:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 2.8323,
+      "prior_variance": 0.247351,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.7666,
+      "prior_variance": 0.268369,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 2.0438,
+      "prior_variance": 0.240404,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/northvancouver",
+      "prior_score": 2.3761,
+      "prior_variance": 0.329282,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.9519,
+      "prior_variance": 0.222855,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.988,
+      "prior_variance": 0.267937,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.653,
+      "prior_variance": 0.297799,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.7247,
+      "prior_variance": 0.23412,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 2.4228,
+      "prior_variance": 0.204756,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 0.9442,
+      "prior_variance": 0.256342,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.8848,
+      "prior_variance": 0.225597,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.2156,
+      "prior_variance": 0.330319,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.2199,
+      "prior_variance": 0.253131,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": -0.0545,
+      "prior_variance": 0.225101,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.4479,
+      "prior_variance": 0.252208,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -2.5778,
+      "prior_variance": 0.269305,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.9744,
+      "prior_variance": 0.325648,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -2.976,
+      "prior_variance": 0.39532,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -3.5254,
+      "prior_variance": 0.296018,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -6.354,
+      "prior_variance": 0.283006,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -8.0058,
+      "prior_variance": 0.38451,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -8.3118,
+      "prior_variance": 0.408354,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -8.7484,
+      "prior_variance": 0.427426,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -7.8364,
+      "prior_variance": 0.378886,
+      "prior_n": 5
+    }
+  ]
+}

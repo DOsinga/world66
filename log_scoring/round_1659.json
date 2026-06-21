@@ -1,0 +1,200 @@
+{
+  "round": 1659,
+  "timestamp": "2026-06-13T20:44:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.0301,
+      "prior_variance": 0.62841,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 5.1569,
+      "prior_variance": 0.265787,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 5.102,
+      "prior_variance": 0.26729,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.987,
+      "prior_variance": 0.328605,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 3.779,
+      "prior_variance": 0.27372,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.6693,
+      "prior_variance": 0.260802,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_score": 2.8379,
+      "prior_variance": 0.25563,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 3.2869,
+      "prior_variance": 0.368062,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 0.666,
+      "prior_variance": 0.255796,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 0.3873,
+      "prior_variance": 0.254104,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 2.0661,
+      "prior_variance": 0.312527,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 1.4676,
+      "prior_variance": 0.254716,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 1.8775,
+      "prior_variance": 0.259002,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.1634,
+      "prior_variance": 0.231864,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.063,
+      "prior_variance": 0.253137,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.8023,
+      "prior_variance": 0.37306,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 2.0678,
+      "prior_variance": 0.317161,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.7089,
+      "prior_variance": 0.254373,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -7.5361,
+      "prior_variance": 0.33149,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -4.8217,
+      "prior_variance": 0.246854,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -5.0688,
+      "prior_variance": 0.356536,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -6.9493,
+      "prior_variance": 0.349986,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -6.747,
+      "prior_variance": 0.363277,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -12.4534,
+      "prior_variance": 1.283079,
+      "prior_n": 5
+    }
+  ]
+}

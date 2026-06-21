@@ -1,0 +1,200 @@
+{
+  "round": 377,
+  "timestamp": "2026-06-13T19:32:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 8.7252,
+      "prior_variance": 2.181508,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 9.9744,
+      "prior_variance": 3.654711,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 1.0277,
+      "prior_variance": 1.569914,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 7.1746,
+      "prior_variance": 2.142994,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 6.9355,
+      "prior_variance": 3.18995,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 5.0695,
+      "prior_variance": 1.692856,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.9605,
+      "prior_variance": 1.467471,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 5.7313,
+      "prior_variance": 1.680664,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 0.9516,
+      "prior_variance": 2.269339,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 4.1684,
+      "prior_variance": 2.795021,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 6.0468,
+      "prior_variance": 1.987719,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 4.1139,
+      "prior_variance": 2.077566,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": -1.386,
+      "prior_variance": 1.594317,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": 0.9917,
+      "prior_variance": 1.672861,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": -0.7846,
+      "prior_variance": 1.618145,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": 2.5285,
+      "prior_variance": 2.723882,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.8701,
+      "prior_variance": 1.398819,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.6307,
+      "prior_variance": 1.365571,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.8389,
+      "prior_variance": 1.605189,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -4.8895,
+      "prior_variance": 2.293229,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.4567,
+      "prior_variance": 2.038068,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.147,
+      "prior_variance": 1.413775,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -3.1167,
+      "prior_variance": 1.803421,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -3.411,
+      "prior_variance": 1.934429,
+      "prior_n": 1
+    }
+  ]
+}

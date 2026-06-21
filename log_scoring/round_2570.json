@@ -1,0 +1,200 @@
+{
+  "round": 2570,
+  "timestamp": "2026-06-13T21:51:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 4.3639,
+      "prior_variance": 0.197097,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 6.7095,
+      "prior_variance": 0.254222,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 5.135,
+      "prior_variance": 0.194979,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.5963,
+      "prior_variance": 0.167432,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 5.5511,
+      "prior_variance": 0.182558,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 5.4664,
+      "prior_variance": 0.170951,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 5.4674,
+      "prior_variance": 0.240281,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 4.6834,
+      "prior_variance": 0.172967,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.8928,
+      "prior_variance": 0.179455,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 3.6717,
+      "prior_variance": 0.163022,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 2.7555,
+      "prior_variance": 0.138111,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 3.5642,
+      "prior_variance": 0.215143,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 3.4172,
+      "prior_variance": 0.178265,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.917,
+      "prior_variance": 0.163192,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 4.5022,
+      "prior_variance": 0.15851,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Zahara de la Sierra",
+      "path": "europe/spain/andalucia/zaharadelasierra",
+      "prior_score": 2.9962,
+      "prior_variance": 0.191704,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.6288,
+      "prior_variance": 0.158957,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 4.8418,
+      "prior_variance": 0.162736,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kampot",
+      "path": "asia/cambodia/kampot",
+      "prior_score": 2.9642,
+      "prior_variance": 0.176127,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 4.3719,
+      "prior_variance": 0.192218,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": 0.2761,
+      "prior_variance": 0.143357,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Astoria",
+      "path": "northamerica/unitedstates/oregon/astoria",
+      "prior_score": 1.9282,
+      "prior_variance": 0.175121,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -0.4411,
+      "prior_variance": 0.153491,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -5.0825,
+      "prior_variance": 0.187549,
+      "prior_n": 8
+    }
+  ]
+}

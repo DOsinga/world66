@@ -1,0 +1,200 @@
+{
+  "round": 1961,
+  "timestamp": "2026-06-13T21:08:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 2.6684,
+      "prior_variance": 0.233985,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.7723,
+      "prior_variance": 0.236258,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 2.1671,
+      "prior_variance": 0.257704,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": -0.0952,
+      "prior_variance": 0.282485,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 1.8375,
+      "prior_variance": 0.244168,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 2.9213,
+      "prior_variance": 0.210093,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.108,
+      "prior_variance": 0.180099,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -1.3314,
+      "prior_variance": 0.214437,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Limburg an der Lahn",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": 0.7176,
+      "prior_variance": 0.251036,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.3119,
+      "prior_variance": 0.212117,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -1.9442,
+      "prior_variance": 0.214385,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.8437,
+      "prior_variance": 0.217515,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 1.694,
+      "prior_variance": 0.219818,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -2.0526,
+      "prior_variance": 0.237327,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Eckernf\u00f6rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -0.1362,
+      "prior_variance": 0.213567,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.7933,
+      "prior_variance": 0.249245,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -1.363,
+      "prior_variance": 0.190477,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.0579,
+      "prior_variance": 0.214674,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -1.0754,
+      "prior_variance": 0.227816,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -3.0946,
+      "prior_variance": 0.205445,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -1.5644,
+      "prior_variance": 0.204433,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -3.0625,
+      "prior_variance": 0.237907,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -10.235,
+      "prior_variance": 0.423474,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.6117,
+      "prior_variance": 0.323066,
+      "prior_n": 6
+    }
+  ]
+}

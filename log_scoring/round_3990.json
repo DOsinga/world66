@@ -1,0 +1,200 @@
+{
+  "round": 3990,
+  "timestamp": "2026-06-13T23:35:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 8.5793,
+      "prior_variance": 0.159298,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 5.8779,
+      "prior_variance": 0.15375,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.9577,
+      "prior_variance": 0.117837,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -2.2177,
+      "prior_variance": 0.119109,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -1.8922,
+      "prior_variance": 0.123343,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.1027,
+      "prior_variance": 0.095252,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.2563,
+      "prior_variance": 0.090748,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.5325,
+      "prior_variance": 0.117367,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.3473,
+      "prior_variance": 0.092046,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -3.843,
+      "prior_variance": 0.108056,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -4.9404,
+      "prior_variance": 0.119433,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -5.3567,
+      "prior_variance": 0.130855,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -5.534,
+      "prior_variance": 0.109552,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Nangqen",
+      "path": "asia/china/qinghai/nangqen",
+      "prior_score": -2.2825,
+      "prior_variance": 0.115798,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -3.9549,
+      "prior_variance": 0.116191,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -5.8907,
+      "prior_variance": 0.136077,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -3.6489,
+      "prior_variance": 0.117987,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.838,
+      "prior_variance": 0.119422,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -5.5799,
+      "prior_variance": 0.123119,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -9.9716,
+      "prior_variance": 0.410654,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.6281,
+      "prior_variance": 0.253744,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -8.1876,
+      "prior_variance": 0.263233,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -11.1952,
+      "prior_variance": 0.349549,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -12.3413,
+      "prior_variance": 0.471448,
+      "prior_n": 12
+    }
+  ]
+}

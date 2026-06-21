@@ -1,0 +1,200 @@
+{
+  "round": 1539,
+  "timestamp": "2026-06-13T20:36:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 15.5949,
+      "prior_variance": 0.821545,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 8.7764,
+      "prior_variance": 0.445106,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 4.813,
+      "prior_variance": 0.27695,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "South Caicos",
+      "path": "northamerica/turksandcaicosislands/southcaicos",
+      "prior_score": 1.8793,
+      "prior_variance": 0.319428,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.2326,
+      "prior_variance": 0.301554,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 3.4732,
+      "prior_variance": 0.291015,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.7763,
+      "prior_variance": 0.26863,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Silverton",
+      "path": "northamerica/unitedstates/colorado/silverton",
+      "prior_score": 2.8926,
+      "prior_variance": 0.321832,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.8927,
+      "prior_variance": 0.28198,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 3.1018,
+      "prior_variance": 0.35151,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.9511,
+      "prior_variance": 0.332267,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": -0.6833,
+      "prior_variance": 0.331321,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -1.7958,
+      "prior_variance": 0.258138,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": -1.5531,
+      "prior_variance": 0.290791,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -2.0459,
+      "prior_variance": 0.208147,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tolo",
+      "path": "europe/greece/tolo",
+      "prior_score": 1.013,
+      "prior_variance": 0.252622,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.4405,
+      "prior_variance": 0.240246,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -2.2218,
+      "prior_variance": 0.272549,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.646,
+      "prior_variance": 0.304045,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -1.5262,
+      "prior_variance": 0.247203,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 5.7186,
+      "prior_variance": 0.382113,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -6.1988,
+      "prior_variance": 0.327826,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -6.516,
+      "prior_variance": 0.5215,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -8.827,
+      "prior_variance": 0.478056,
+      "prior_n": 4
+    }
+  ]
+}

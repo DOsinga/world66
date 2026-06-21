@@ -1,0 +1,200 @@
+{
+  "round": 1018,
+  "timestamp": "2026-06-13T20:06:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 11.9214,
+      "prior_variance": 1.471669,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.0797,
+      "prior_variance": 0.46759,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": -0.9649,
+      "prior_variance": 0.648347,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.2893,
+      "prior_variance": 0.568135,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 1.3538,
+      "prior_variance": 0.402198,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.4955,
+      "prior_variance": 0.408753,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 0.9229,
+      "prior_variance": 0.482437,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.6432,
+      "prior_variance": 0.435805,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 1.4029,
+      "prior_variance": 0.408209,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.3047,
+      "prior_variance": 0.429003,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 2.2542,
+      "prior_variance": 0.56606,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": -0.2053,
+      "prior_variance": 0.562987,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 1.2241,
+      "prior_variance": 0.474919,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": -1.3235,
+      "prior_variance": 0.511952,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 2.9233,
+      "prior_variance": 0.483183,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.1791,
+      "prior_variance": 0.470149,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.7582,
+      "prior_variance": 0.411623,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.9636,
+      "prior_variance": 0.409546,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": 0.7706,
+      "prior_variance": 0.66501,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 2.0188,
+      "prior_variance": 1.036803,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": 0.6574,
+      "prior_variance": 0.443917,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -0.0191,
+      "prior_variance": 0.493973,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": 1.5568,
+      "prior_variance": 0.913703,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -0.854,
+      "prior_variance": 0.526047,
+      "prior_n": 3
+    }
+  ]
+}

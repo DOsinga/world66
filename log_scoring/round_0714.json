@@ -1,0 +1,200 @@
+{
+  "round": 714,
+  "timestamp": "2026-06-13T19:50:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": -0.9737,
+      "prior_variance": 1.056229,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": -1.901,
+      "prior_variance": 1.493923,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 0.5928,
+      "prior_variance": 0.521133,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": -0.2349,
+      "prior_variance": 1.020734,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": 0.3311,
+      "prior_variance": 1.031181,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -2.1201,
+      "prior_variance": 0.695251,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -3.9772,
+      "prior_variance": 1.138698,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.8518,
+      "prior_variance": 0.745541,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.8311,
+      "prior_variance": 0.893262,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -2.6849,
+      "prior_variance": 0.751906,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.4555,
+      "prior_variance": 0.8529,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -1.9874,
+      "prior_variance": 1.26849,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -4.4918,
+      "prior_variance": 0.863704,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -3.0177,
+      "prior_variance": 1.306092,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -2.4769,
+      "prior_variance": 0.792913,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.9843,
+      "prior_variance": 1.000246,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -1.8591,
+      "prior_variance": 0.673051,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -0.8113,
+      "prior_variance": 0.697312,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.5972,
+      "prior_variance": 0.78893,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Fl\u00e9ville",
+      "path": "europe/france/east/lorraine/fleville",
+      "prior_score": -6.8576,
+      "prior_variance": 1.290262,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -6.846,
+      "prior_variance": 0.451211,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -2.28,
+      "prior_variance": 0.702492,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -2.5569,
+      "prior_variance": 1.334202,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.0216,
+      "prior_variance": 0.591723,
+      "prior_n": 4
+    }
+  ]
+}

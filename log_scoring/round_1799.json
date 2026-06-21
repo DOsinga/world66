@@ -1,0 +1,200 @@
+{
+  "round": 1799,
+  "timestamp": "2026-06-13T20:53:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 13.1998,
+      "prior_variance": 0.547412,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 12.9817,
+      "prior_variance": 0.659803,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 10.7013,
+      "prior_variance": 0.404499,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.2055,
+      "prior_variance": 0.336057,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 6.1398,
+      "prior_variance": 0.350268,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 8.1752,
+      "prior_variance": 0.362714,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 6.5532,
+      "prior_variance": 0.317477,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 6.2904,
+      "prior_variance": 0.279433,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.1808,
+      "prior_variance": 0.286739,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.2418,
+      "prior_variance": 0.258223,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.7451,
+      "prior_variance": 0.33221,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 4.2343,
+      "prior_variance": 0.3228,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.6349,
+      "prior_variance": 0.224075,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.9642,
+      "prior_variance": 0.276477,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 6.3382,
+      "prior_variance": 0.334123,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.0002,
+      "prior_variance": 0.298926,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 4.3907,
+      "prior_variance": 0.357475,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 5.2721,
+      "prior_variance": 0.27887,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_score": 4.9701,
+      "prior_variance": 0.290476,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 5.0256,
+      "prior_variance": 0.433484,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 5.9865,
+      "prior_variance": 0.360531,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 0.8268,
+      "prior_variance": 0.435725,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.8747,
+      "prior_variance": 0.255967,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -4.1219,
+      "prior_variance": 0.267193,
+      "prior_n": 6
+    }
+  ]
+}

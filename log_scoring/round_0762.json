@@ -1,0 +1,200 @@
+{
+  "round": 762,
+  "timestamp": "2026-06-13T19:52:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 8.1611,
+      "prior_variance": 0.624389,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 6.0026,
+      "prior_variance": 0.62696,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 5.39,
+      "prior_variance": 0.663285,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 8.9311,
+      "prior_variance": 0.879849,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 7.7195,
+      "prior_variance": 0.537193,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 7.7498,
+      "prior_variance": 0.781639,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Chios",
+      "path": "europe/greece/chios",
+      "prior_score": 5.4003,
+      "prior_variance": 0.871423,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Puno",
+      "path": "southamerica/peru/puno",
+      "prior_score": 5.8661,
+      "prior_variance": 0.632057,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 7.357,
+      "prior_variance": 0.833166,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 6.4539,
+      "prior_variance": 0.738797,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 5.8004,
+      "prior_variance": 0.76709,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 6.946,
+      "prior_variance": 0.562577,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 6.206,
+      "prior_variance": 0.761047,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 4.0283,
+      "prior_variance": 0.449558,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Narvik",
+      "path": "europe/norway/narvik",
+      "prior_score": 6.8959,
+      "prior_variance": 0.724563,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 5.1779,
+      "prior_variance": 0.709178,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 4.5711,
+      "prior_variance": 0.995561,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 8.2806,
+      "prior_variance": 0.855503,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 4.4444,
+      "prior_variance": 0.748017,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 4.9782,
+      "prior_variance": 0.712203,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 4.6146,
+      "prior_variance": 1.2159,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 6.289,
+      "prior_variance": 1.405743,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 4.0714,
+      "prior_variance": 1.281069,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 5.0329,
+      "prior_variance": 0.769594,
+      "prior_n": 2
+    }
+  ]
+}

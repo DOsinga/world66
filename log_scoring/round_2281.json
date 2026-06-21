@@ -1,0 +1,200 @@
+{
+  "round": 2281,
+  "timestamp": "2026-06-13T21:31:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 5.3941,
+      "prior_variance": 0.227756,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 3.7669,
+      "prior_variance": 0.206313,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 4.2533,
+      "prior_variance": 0.186959,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.5829,
+      "prior_variance": 0.174668,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 1.059,
+      "prior_variance": 0.240539,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 1.8697,
+      "prior_variance": 0.182234,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.7524,
+      "prior_variance": 0.187176,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.0646,
+      "prior_variance": 0.147745,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.582,
+      "prior_variance": 0.167618,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.9249,
+      "prior_variance": 0.174977,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3824,
+      "prior_variance": 0.183562,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Taierzhuang",
+      "path": "asia/china/shandong_province/taierzhuang",
+      "prior_score": -0.291,
+      "prior_variance": 0.214993,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.2649,
+      "prior_variance": 0.188217,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -2.2082,
+      "prior_variance": 0.197865,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.7553,
+      "prior_variance": 0.169946,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -3.3129,
+      "prior_variance": 0.191389,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": -3.6786,
+      "prior_variance": 0.214511,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -5.1525,
+      "prior_variance": 0.253263,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_score": -2.8795,
+      "prior_variance": 0.182507,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -5.4156,
+      "prior_variance": 0.228343,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -4.2259,
+      "prior_variance": 0.198585,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -4.9783,
+      "prior_variance": 0.233422,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -5.175,
+      "prior_variance": 0.26072,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -7.2154,
+      "prior_variance": 0.301295,
+      "prior_n": 7
+    }
+  ]
+}

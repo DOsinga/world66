@@ -1,0 +1,200 @@
+{
+  "round": 691,
+  "timestamp": "2026-06-13T19:48:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 6.9851,
+      "prior_variance": 0.75011,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 5.8082,
+      "prior_variance": 0.51009,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 8.0685,
+      "prior_variance": 1.957787,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 6.0293,
+      "prior_variance": 1.400345,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 5.9817,
+      "prior_variance": 1.296224,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 7.8646,
+      "prior_variance": 0.674049,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 7.1466,
+      "prior_variance": 0.999677,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.7696,
+      "prior_variance": 0.879124,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 4.7579,
+      "prior_variance": 0.787267,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 8.0426,
+      "prior_variance": 0.83574,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 6.5586,
+      "prior_variance": 0.916694,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 7.3986,
+      "prior_variance": 1.615738,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 7.1707,
+      "prior_variance": 0.887429,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 6.042,
+      "prior_variance": 1.617042,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 7.0727,
+      "prior_variance": 0.817727,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 3.5425,
+      "prior_variance": 0.565433,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 4.3406,
+      "prior_variance": 1.180927,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 5.7433,
+      "prior_variance": 0.800539,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 5.8218,
+      "prior_variance": 1.405218,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 6.1742,
+      "prior_variance": 0.794556,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 6.3261,
+      "prior_variance": 0.703921,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 4.0973,
+      "prior_variance": 0.737178,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 3.9682,
+      "prior_variance": 0.733158,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 5.2516,
+      "prior_variance": 1.626617,
+      "prior_n": 1
+    }
+  ]
+}

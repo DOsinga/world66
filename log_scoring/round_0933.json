@@ -1,0 +1,200 @@
+{
+  "round": 933,
+  "timestamp": "2026-06-13T20:01:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -5.5301,
+      "prior_variance": 0.458888,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_score": -6.2979,
+      "prior_variance": 0.710671,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -6.7909,
+      "prior_variance": 1.098155,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -8.3246,
+      "prior_variance": 0.920453,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -9.6438,
+      "prior_variance": 0.739922,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -8.1534,
+      "prior_variance": 0.658784,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -9.2099,
+      "prior_variance": 0.627963,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -9.0451,
+      "prior_variance": 0.625257,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -7.6696,
+      "prior_variance": 0.721302,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -8.8908,
+      "prior_variance": 0.613387,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Linxia",
+      "path": "asia/china/gansu/linxia",
+      "prior_score": -8.1506,
+      "prior_variance": 0.608695,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -8.9401,
+      "prior_variance": 0.647108,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -10.7257,
+      "prior_variance": 0.537715,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -7.3098,
+      "prior_variance": 0.801759,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -6.8558,
+      "prior_variance": 0.578553,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -8.4938,
+      "prior_variance": 0.704947,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -7.0658,
+      "prior_variance": 0.609969,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -8.8719,
+      "prior_variance": 0.584568,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -9.2356,
+      "prior_variance": 0.630449,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -10.927,
+      "prior_variance": 0.490094,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -9.7063,
+      "prior_variance": 0.647534,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -6.9239,
+      "prior_variance": 0.727956,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -9.3288,
+      "prior_variance": 1.045949,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -10.7935,
+      "prior_variance": 1.247946,
+      "prior_n": 3
+    }
+  ]
+}

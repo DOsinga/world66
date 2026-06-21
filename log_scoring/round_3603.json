@@ -1,0 +1,200 @@
+{
+  "round": 3603,
+  "timestamp": "2026-06-13T23:06:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 22.2373,
+      "prior_variance": 5.37408,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 8.6446,
+      "prior_variance": 0.18344,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 7.6744,
+      "prior_variance": 0.167961,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_score": 5.8548,
+      "prior_variance": 0.138516,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 4.4468,
+      "prior_variance": 0.134978,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_score": 3.4336,
+      "prior_variance": 0.137133,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 1.564,
+      "prior_variance": 0.15271,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": -0.1391,
+      "prior_variance": 0.108734,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.8423,
+      "prior_variance": 0.141395,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.5315,
+      "prior_variance": 0.115983,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -2.2038,
+      "prior_variance": 0.133127,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.7667,
+      "prior_variance": 0.157639,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -1.1416,
+      "prior_variance": 0.110713,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -2.8649,
+      "prior_variance": 0.12848,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.5648,
+      "prior_variance": 0.118233,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.5689,
+      "prior_variance": 0.117138,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.1506,
+      "prior_variance": 0.131137,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -4.3023,
+      "prior_variance": 0.121494,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.5423,
+      "prior_variance": 0.128393,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -4.2799,
+      "prior_variance": 0.106384,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -6.0447,
+      "prior_variance": 0.143147,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -5.2771,
+      "prior_variance": 0.144536,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_score": -5.4823,
+      "prior_variance": 0.147689,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -6.2687,
+      "prior_variance": 0.161779,
+      "prior_n": 11
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2268,
+  "timestamp": "2026-06-13T21:30:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.1831,
+      "prior_variance": 0.281926,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 7.6121,
+      "prior_variance": 0.245505,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.8691,
+      "prior_variance": 0.174497,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 4.8906,
+      "prior_variance": 0.196746,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 2.8,
+      "prior_variance": 0.221257,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 5.3855,
+      "prior_variance": 0.226524,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 5.4008,
+      "prior_variance": 0.210777,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 1.7049,
+      "prior_variance": 0.194755,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 2.7316,
+      "prior_variance": 0.185554,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 2.4683,
+      "prior_variance": 0.191118,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.3694,
+      "prior_variance": 0.25965,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.9985,
+      "prior_variance": 0.168998,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.9978,
+      "prior_variance": 0.194572,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.9015,
+      "prior_variance": 0.195267,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 2.1199,
+      "prior_variance": 0.175264,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 1.2397,
+      "prior_variance": 0.227412,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 1.1232,
+      "prior_variance": 0.187226,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.2071,
+      "prior_variance": 0.18301,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.6539,
+      "prior_variance": 0.180021,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Kalaw",
+      "path": "asia/myanmar/kalaw",
+      "prior_score": 1.4241,
+      "prior_variance": 0.203017,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.4489,
+      "prior_variance": 0.166081,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -4.5042,
+      "prior_variance": 0.206039,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.338,
+      "prior_variance": 0.147803,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.172,
+      "prior_variance": 0.231635,
+      "prior_n": 7
+    }
+  ]
+}

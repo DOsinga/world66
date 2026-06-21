@@ -1,0 +1,200 @@
+{
+  "round": 1624,
+  "timestamp": "2026-06-13T20:42:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 9.7858,
+      "prior_variance": 0.352255,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.1618,
+      "prior_variance": 0.308128,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 6.7639,
+      "prior_variance": 0.414541,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": 7.2559,
+      "prior_variance": 0.391701,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 2.0983,
+      "prior_variance": 0.262048,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.1927,
+      "prior_variance": 0.298379,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -1.9554,
+      "prior_variance": 0.299327,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.2251,
+      "prior_variance": 0.250434,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.4807,
+      "prior_variance": 0.216877,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.593,
+      "prior_variance": 0.239617,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -0.9337,
+      "prior_variance": 0.275018,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -0.6543,
+      "prior_variance": 0.269598,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.8353,
+      "prior_variance": 0.258371,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -0.193,
+      "prior_variance": 0.27613,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.7727,
+      "prior_variance": 0.320405,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.9217,
+      "prior_variance": 0.358233,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.1287,
+      "prior_variance": 0.261559,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.8204,
+      "prior_variance": 0.308192,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.501,
+      "prior_variance": 0.275623,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.6225,
+      "prior_variance": 0.371397,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -5.1609,
+      "prior_variance": 0.267691,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -6.4581,
+      "prior_variance": 0.313316,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -5.8267,
+      "prior_variance": 0.245022,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -4.9119,
+      "prior_variance": 0.335745,
+      "prior_n": 5
+    }
+  ]
+}

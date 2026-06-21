@@ -1,0 +1,200 @@
+{
+  "round": 350,
+  "timestamp": "2026-06-13T19:31:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 14.1771,
+      "prior_variance": 7.594362,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 11.0935,
+      "prior_variance": 3.679182,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 7.6506,
+      "prior_variance": 2.421627,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 4.2494,
+      "prior_variance": 1.510647,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 6.1181,
+      "prior_variance": 2.005726,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ouray",
+      "path": "northamerica/unitedstates/colorado/ouray",
+      "prior_score": 4.9418,
+      "prior_variance": 2.072298,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 10.4667,
+      "prior_variance": 2.67063,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 1.3492,
+      "prior_variance": 2.246414,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 1.018,
+      "prior_variance": 1.581508,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 4.3896,
+      "prior_variance": 1.922863,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": -0.1003,
+      "prior_variance": 4.069025,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": 0.3054,
+      "prior_variance": 1.431578,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 4.1258,
+      "prior_variance": 1.763162,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.8857,
+      "prior_variance": 1.610145,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": -0.5779,
+      "prior_variance": 1.818427,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": 2.4968,
+      "prior_variance": 1.486751,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": 2.7527,
+      "prior_variance": 1.55087,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.0472,
+      "prior_variance": 1.489936,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -3.1949,
+      "prior_variance": 1.399282,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -1.9515,
+      "prior_variance": 1.741432,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -6.4939,
+      "prior_variance": 2.025911,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cold Lake",
+      "path": "northamerica/canada/alberta/coldlake",
+      "prior_score": -8.2433,
+      "prior_variance": 1.913329,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": 0.116,
+      "prior_variance": 1.86678,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -10.4153,
+      "prior_variance": 2.41493,
+      "prior_n": 1
+    }
+  ]
+}

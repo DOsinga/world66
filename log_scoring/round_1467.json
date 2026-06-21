@@ -1,0 +1,200 @@
+{
+  "round": 1467,
+  "timestamp": "2026-06-13T20:32:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 11.0865,
+      "prior_variance": 0.735704,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 6.2583,
+      "prior_variance": 0.483127,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Baku",
+      "path": "europe/azerbaijan/baku",
+      "prior_score": 5.1944,
+      "prior_variance": 0.315624,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 2.6505,
+      "prior_variance": 0.335448,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 3.8143,
+      "prior_variance": 0.293021,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 4.3086,
+      "prior_variance": 0.340922,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -0.5906,
+      "prior_variance": 0.263633,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.5743,
+      "prior_variance": 0.344547,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.1322,
+      "prior_variance": 0.285701,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 5.3644,
+      "prior_variance": 0.336197,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -3.6445,
+      "prior_variance": 0.292756,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": -1.6088,
+      "prior_variance": 0.529348,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.5369,
+      "prior_variance": 0.301575,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -2.4364,
+      "prior_variance": 0.299528,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -4.3941,
+      "prior_variance": 0.439292,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -4.6206,
+      "prior_variance": 0.356879,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -0.1222,
+      "prior_variance": 0.322616,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -4.6036,
+      "prior_variance": 0.292349,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.6055,
+      "prior_variance": 0.301835,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -4.2879,
+      "prior_variance": 0.307674,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.1347,
+      "prior_variance": 0.326424,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.7787,
+      "prior_variance": 0.449643,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kisii",
+      "path": "africa/kenya/westernkenya/kisii",
+      "prior_score": -6.6293,
+      "prior_variance": 0.404939,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.7254,
+      "prior_variance": 0.325203,
+      "prior_n": 4
+    }
+  ]
+}

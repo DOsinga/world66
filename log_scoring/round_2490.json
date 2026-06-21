@@ -1,0 +1,200 @@
+{
+  "round": 2490,
+  "timestamp": "2026-06-13T21:46:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 11.1033,
+      "prior_variance": 0.468352,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 5.6884,
+      "prior_variance": 0.224099,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.4089,
+      "prior_variance": 0.247148,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 4.2853,
+      "prior_variance": 0.174957,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 5.7136,
+      "prior_variance": 0.201633,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.3801,
+      "prior_variance": 0.16611,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 3.1422,
+      "prior_variance": 0.203917,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 3.0474,
+      "prior_variance": 0.187186,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.5279,
+      "prior_variance": 0.164723,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 1.7083,
+      "prior_variance": 0.166176,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.0742,
+      "prior_variance": 0.159077,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 3.4187,
+      "prior_variance": 0.168057,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.7493,
+      "prior_variance": 0.155653,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.876,
+      "prior_variance": 0.177946,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.1228,
+      "prior_variance": 0.173366,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 2.012,
+      "prior_variance": 0.185407,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 1.85,
+      "prior_variance": 0.176965,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.6628,
+      "prior_variance": 0.156158,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": 0.1313,
+      "prior_variance": 0.183021,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.9182,
+      "prior_variance": 0.156065,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.6674,
+      "prior_variance": 0.154733,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Sukarara",
+      "path": "asia/indonesia/lombok/sukarara",
+      "prior_score": -1.5512,
+      "prior_variance": 0.174946,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.8726,
+      "prior_variance": 0.168804,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -3.3915,
+      "prior_variance": 0.240396,
+      "prior_n": 8
+    }
+  ]
+}

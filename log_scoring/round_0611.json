@@ -1,0 +1,200 @@
+{
+  "round": 611,
+  "timestamp": "2026-06-13T19:44:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_score": -1.8883,
+      "prior_variance": 1.273755,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -7.6302,
+      "prior_variance": 1.010345,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -6.1719,
+      "prior_variance": 1.248103,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -6.2702,
+      "prior_variance": 1.125418,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -5.3259,
+      "prior_variance": 1.053931,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -1.8266,
+      "prior_variance": 1.164566,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -6.1894,
+      "prior_variance": 0.661069,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -5.395,
+      "prior_variance": 0.496954,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -5.0667,
+      "prior_variance": 0.502752,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -5.6908,
+      "prior_variance": 1.002708,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -4.4868,
+      "prior_variance": 0.812339,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Jining",
+      "path": "asia/china/shandong_province/jining",
+      "prior_score": -5.2784,
+      "prior_variance": 0.764502,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -6.3902,
+      "prior_variance": 1.318141,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -4.3537,
+      "prior_variance": 0.638526,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -6.9246,
+      "prior_variance": 1.099603,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_score": -5.6004,
+      "prior_variance": 0.816928,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -5.1191,
+      "prior_variance": 1.081752,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -6.5278,
+      "prior_variance": 0.66197,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -6.0705,
+      "prior_variance": 0.782706,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -8.1941,
+      "prior_variance": 1.29389,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -6.1463,
+      "prior_variance": 1.7765,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -6.4419,
+      "prior_variance": 1.254588,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -8.2598,
+      "prior_variance": 1.217692,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -7.2205,
+      "prior_variance": 1.0054,
+      "prior_n": 2
+    }
+  ]
+}

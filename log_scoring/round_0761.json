@@ -1,0 +1,200 @@
+{
+  "round": 761,
+  "timestamp": "2026-06-13T19:52:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Passu",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/passu",
+      "prior_score": 0.2087,
+      "prior_variance": 1.355454,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": -0.4907,
+      "prior_variance": 0.77224,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": -0.8719,
+      "prior_variance": 0.812005,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": -1.884,
+      "prior_variance": 1.319661,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": 0.0232,
+      "prior_variance": 0.727942,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": -1.3012,
+      "prior_variance": 1.484797,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": -0.316,
+      "prior_variance": 0.713189,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol",
+      "prior_score": -4.348,
+      "prior_variance": 0.654813,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.3819,
+      "prior_variance": 1.474733,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -1.1708,
+      "prior_variance": 0.794805,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": -1.0624,
+      "prior_variance": 0.68756,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Guam\u00e1",
+      "path": "northamerica/thecaribbean/cuba/guama",
+      "prior_score": -2.87,
+      "prior_variance": 1.375707,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -1.3654,
+      "prior_variance": 0.842403,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -1.343,
+      "prior_variance": 0.9552,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -2.4054,
+      "prior_variance": 0.676648,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -1.2776,
+      "prior_variance": 0.702367,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -3.2241,
+      "prior_variance": 0.722588,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -4.9438,
+      "prior_variance": 0.621717,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": -0.8905,
+      "prior_variance": 0.669996,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -2.4149,
+      "prior_variance": 0.873782,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -4.4808,
+      "prior_variance": 0.927217,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/newwestminster",
+      "prior_score": -3.4698,
+      "prior_variance": 1.285813,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -2.0543,
+      "prior_variance": 0.809173,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -2.4994,
+      "prior_variance": 1.200902,
+      "prior_n": 1
+    }
+  ]
+}

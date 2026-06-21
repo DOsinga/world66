@@ -1,0 +1,200 @@
+{
+  "round": 4807,
+  "timestamp": "2026-06-14T00:43:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.5452,
+      "prior_variance": 0.094907,
+      "prior_n": 17
+    },
+    {
+      "rank": 2,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 4.878,
+      "prior_variance": 0.100817,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 3.4647,
+      "prior_variance": 0.085718,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 3.7658,
+      "prior_variance": 0.090059,
+      "prior_n": 17
+    },
+    {
+      "rank": 5,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 3.9488,
+      "prior_variance": 0.084405,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.2295,
+      "prior_variance": 0.081627,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/st_augustine",
+      "prior_score": 5.0118,
+      "prior_variance": 0.094391,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 2.2213,
+      "prior_variance": 0.085601,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 3.5486,
+      "prior_variance": 0.092159,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 4.1213,
+      "prior_variance": 0.099763,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 2.7139,
+      "prior_variance": 0.084346,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.4524,
+      "prior_variance": 0.083381,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.0493,
+      "prior_variance": 0.093419,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.3167,
+      "prior_variance": 0.08246,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.4968,
+      "prior_variance": 0.090446,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": 0.1494,
+      "prior_variance": 0.082282,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -0.0847,
+      "prior_variance": 0.094876,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -2.1309,
+      "prior_variance": 0.097049,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.509,
+      "prior_variance": 0.08483,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -0.4522,
+      "prior_variance": 0.09204,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.441,
+      "prior_variance": 0.083733,
+      "prior_n": 17
+    },
+    {
+      "rank": 22,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -2.4669,
+      "prior_variance": 0.091774,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -4.6674,
+      "prior_variance": 0.106045,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -5.06,
+      "prior_variance": 0.102902,
+      "prior_n": 16
+    }
+  ]
+}

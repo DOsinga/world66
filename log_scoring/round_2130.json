@@ -1,0 +1,200 @@
+{
+  "round": 2130,
+  "timestamp": "2026-06-13T21:20:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ngorongoro Crater",
+      "path": "africa/tanzania/ngorongorocrater",
+      "prior_score": 11.4862,
+      "prior_variance": 0.646439,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 4.1476,
+      "prior_variance": 0.237662,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 2.2655,
+      "prior_variance": 0.200433,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 2.7824,
+      "prior_variance": 0.204592,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.3486,
+      "prior_variance": 0.251214,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Chittorgarh",
+      "path": "asia/india/rajasthan/chittorgarh",
+      "prior_score": 3.914,
+      "prior_variance": 0.218624,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": -0.6094,
+      "prior_variance": 0.177741,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 3.0566,
+      "prior_variance": 0.254981,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.1623,
+      "prior_variance": 0.222126,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.8309,
+      "prior_variance": 0.249789,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 1.9458,
+      "prior_variance": 0.238423,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.4699,
+      "prior_variance": 0.239928,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Cz\u0119stochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": -0.0299,
+      "prior_variance": 0.199113,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.8599,
+      "prior_variance": 0.238822,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.5409,
+      "prior_variance": 0.199747,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -7.3508,
+      "prior_variance": 0.302845,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -3.2763,
+      "prior_variance": 0.298326,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -1.4294,
+      "prior_variance": 0.233682,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Erdenet",
+      "path": "asia/mongolia/erdenet",
+      "prior_score": -5.0431,
+      "prior_variance": 0.217657,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -3.0572,
+      "prior_variance": 0.225044,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -6.4372,
+      "prior_variance": 0.262284,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -4.7982,
+      "prior_variance": 0.210282,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mbandaka",
+      "path": "africa/congokinshasa/mbandaka",
+      "prior_score": -8.7756,
+      "prior_variance": 0.365798,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -8.9566,
+      "prior_variance": 0.664774,
+      "prior_n": 6
+    }
+  ]
+}

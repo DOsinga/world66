@@ -1,0 +1,200 @@
+{
+  "round": 2162,
+  "timestamp": "2026-06-13T21:23:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 3.195,
+      "prior_variance": 0.235299,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": -0.1598,
+      "prior_variance": 0.212989,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Xijiang Miao Village",
+      "path": "asia/china/guizhou/xijiang",
+      "prior_score": 2.9029,
+      "prior_variance": 0.186815,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.1962,
+      "prior_variance": 0.226791,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -1.7042,
+      "prior_variance": 0.18933,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -1.1355,
+      "prior_variance": 0.212028,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -1.9291,
+      "prior_variance": 0.187995,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.2805,
+      "prior_variance": 0.187311,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.5719,
+      "prior_variance": 0.177624,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.2209,
+      "prior_variance": 0.20174,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -1.1657,
+      "prior_variance": 0.243067,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -1.6919,
+      "prior_variance": 0.185135,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": -0.4642,
+      "prior_variance": 0.157184,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.5915,
+      "prior_variance": 0.216664,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -3.5771,
+      "prior_variance": 0.21966,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -4.1671,
+      "prior_variance": 0.217786,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -2.8116,
+      "prior_variance": 0.209435,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -5.4216,
+      "prior_variance": 0.268712,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -4.907,
+      "prior_variance": 0.185987,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -6.2205,
+      "prior_variance": 0.240063,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.3045,
+      "prior_variance": 0.214906,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -5.588,
+      "prior_variance": 0.237808,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -8.3532,
+      "prior_variance": 0.317734,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -7.0877,
+      "prior_variance": 0.22105,
+      "prior_n": 6
+    }
+  ]
+}

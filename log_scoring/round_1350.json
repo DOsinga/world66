@@ -1,0 +1,200 @@
+{
+  "round": 1350,
+  "timestamp": "2026-06-13T20:25:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 13.4751,
+      "prior_variance": 0.552805,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 10.2443,
+      "prior_variance": 0.797452,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.0283,
+      "prior_variance": 0.422829,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.5796,
+      "prior_variance": 0.337128,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.5808,
+      "prior_variance": 0.503775,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 7.4889,
+      "prior_variance": 0.323642,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -7.2885,
+      "prior_variance": 0.938351,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 2.4016,
+      "prior_variance": 0.412788,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 2.28,
+      "prior_variance": 0.378584,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 2.4298,
+      "prior_variance": 0.329856,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 3.2731,
+      "prior_variance": 0.535228,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 3.7106,
+      "prior_variance": 0.309385,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 1.7049,
+      "prior_variance": 0.396689,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine",
+      "prior_score": 1.5613,
+      "prior_variance": 0.329262,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 2.5324,
+      "prior_variance": 0.360279,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.7174,
+      "prior_variance": 0.391081,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.9004,
+      "prior_variance": 0.319311,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 2.4606,
+      "prior_variance": 0.34519,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": 0.2792,
+      "prior_variance": 0.311649,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -2.5568,
+      "prior_variance": 0.360128,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -6.0439,
+      "prior_variance": 0.323941,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.5553,
+      "prior_variance": 0.343017,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -5.1106,
+      "prior_variance": 0.42059,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -8.8132,
+      "prior_variance": 0.508004,
+      "prior_n": 4
+    }
+  ]
+}

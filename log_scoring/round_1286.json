@@ -1,0 +1,200 @@
+{
+  "round": 1286,
+  "timestamp": "2026-06-13T20:21:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 12.9043,
+      "prior_variance": 0.56631,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.5554,
+      "prior_variance": 0.431464,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 7.9753,
+      "prior_variance": 0.412847,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 8.7505,
+      "prior_variance": 0.341968,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.7104,
+      "prior_variance": 0.317342,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.2316,
+      "prior_variance": 0.314085,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 7.8272,
+      "prior_variance": 0.344301,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 1.1079,
+      "prior_variance": 0.308712,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Stanley",
+      "path": "southamerica/falklandislands/stanley",
+      "prior_score": 2.3424,
+      "prior_variance": 0.308461,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -1.7157,
+      "prior_variance": 0.313452,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 0.9933,
+      "prior_variance": 0.333515,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.4688,
+      "prior_variance": 0.420565,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 1.8582,
+      "prior_variance": 0.365334,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -2.0171,
+      "prior_variance": 0.334365,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.529,
+      "prior_variance": 0.358194,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.5361,
+      "prior_variance": 0.346233,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": 0.2677,
+      "prior_variance": 0.401335,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.8778,
+      "prior_variance": 0.39744,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -1.2133,
+      "prior_variance": 0.433489,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -8.5896,
+      "prior_variance": 0.456565,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -6.2815,
+      "prior_variance": 0.317727,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -6.5879,
+      "prior_variance": 0.556694,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -8.1832,
+      "prior_variance": 0.352831,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -8.0894,
+      "prior_variance": 0.415777,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1797,
+  "timestamp": "2026-06-13T20:53:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 10.3566,
+      "prior_variance": 0.374699,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chobe National Park",
+      "path": "africa/botswana/chobenationalpark",
+      "prior_score": 7.8777,
+      "prior_variance": 0.353957,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 6.1259,
+      "prior_variance": 0.291143,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.853,
+      "prior_variance": 0.221622,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 4.2372,
+      "prior_variance": 0.243199,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.1932,
+      "prior_variance": 0.314579,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 5.1179,
+      "prior_variance": 0.370847,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -0.2005,
+      "prior_variance": 0.24359,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rameshwaram",
+      "path": "asia/india/tamilnadu/rameshwaram",
+      "prior_score": 1.5486,
+      "prior_variance": 0.244816,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -1.4451,
+      "prior_variance": 0.240885,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.8377,
+      "prior_variance": 0.212253,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -2.3997,
+      "prior_variance": 0.273177,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -3.0118,
+      "prior_variance": 0.248003,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -2.0343,
+      "prior_variance": 0.27865,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -5.1827,
+      "prior_variance": 0.298792,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.1296,
+      "prior_variance": 0.261173,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -5.3876,
+      "prior_variance": 0.370656,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon",
+      "prior_score": -3.6821,
+      "prior_variance": 0.286308,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -6.3215,
+      "prior_variance": 0.401754,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -4.361,
+      "prior_variance": 0.267183,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.6049,
+      "prior_variance": 0.280101,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.9266,
+      "prior_variance": 0.28685,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -7.3004,
+      "prior_variance": 0.318226,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -6.456,
+      "prior_variance": 0.290777,
+      "prior_n": 5
+    }
+  ]
+}

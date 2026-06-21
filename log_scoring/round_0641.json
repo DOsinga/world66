@@ -1,0 +1,200 @@
+{
+  "round": 641,
+  "timestamp": "2026-06-13T19:46:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": -1.3263,
+      "prior_variance": 0.86185,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": -0.6384,
+      "prior_variance": 1.298029,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": -2.7663,
+      "prior_variance": 0.748921,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -1.7941,
+      "prior_variance": 0.739579,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -2.4933,
+      "prior_variance": 0.732852,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -2.8509,
+      "prior_variance": 1.525931,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.5118,
+      "prior_variance": 0.896797,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -2.8772,
+      "prior_variance": 0.670578,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.9355,
+      "prior_variance": 0.687884,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -4.9263,
+      "prior_variance": 0.811969,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -2.5628,
+      "prior_variance": 0.78401,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -3.6424,
+      "prior_variance": 0.699261,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": -2.2812,
+      "prior_variance": 0.612764,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -4.165,
+      "prior_variance": 1.23175,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -3.3934,
+      "prior_variance": 1.258839,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/gloucestershire/severn_bore",
+      "prior_score": -3.0272,
+      "prior_variance": 0.673071,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.1285,
+      "prior_variance": 1.009954,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -5.9078,
+      "prior_variance": 1.275012,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -3.4423,
+      "prior_variance": 1.307014,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -2.3729,
+      "prior_variance": 0.603737,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -2.1694,
+      "prior_variance": 1.429469,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.0977,
+      "prior_variance": 1.41756,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -2.5791,
+      "prior_variance": 0.672747,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -3.4325,
+      "prior_variance": 0.698536,
+      "prior_n": 2
+    }
+  ]
+}

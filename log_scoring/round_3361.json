@@ -1,0 +1,200 @@
+{
+  "round": 3361,
+  "timestamp": "2026-06-13T22:48:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 8.8962,
+      "prior_variance": 0.269252,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Jost Van Dyke",
+      "path": "northamerica/britishvirginislands/jostvandyke",
+      "prior_score": 5.6206,
+      "prior_variance": 0.167874,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 5.8884,
+      "prior_variance": 0.149209,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 7.9308,
+      "prior_variance": 0.19519,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 6.0796,
+      "prior_variance": 0.162433,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 4.8928,
+      "prior_variance": 0.129713,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 1.4406,
+      "prior_variance": 0.120089,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 3.517,
+      "prior_variance": 0.130901,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.5991,
+      "prior_variance": 0.123757,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.0904,
+      "prior_variance": 0.129578,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -1.3991,
+      "prior_variance": 0.129405,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.4133,
+      "prior_variance": 0.113649,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -0.9529,
+      "prior_variance": 0.109018,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.0553,
+      "prior_variance": 0.150882,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.533,
+      "prior_variance": 0.12527,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -2.0225,
+      "prior_variance": 0.118231,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -1.0324,
+      "prior_variance": 0.119274,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.874,
+      "prior_variance": 0.115295,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.126,
+      "prior_variance": 0.176725,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.2298,
+      "prior_variance": 0.121333,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -1.9235,
+      "prior_variance": 0.118754,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -4.6667,
+      "prior_variance": 0.152431,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.4025,
+      "prior_variance": 0.142378,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -6.2722,
+      "prior_variance": 0.1423,
+      "prior_n": 10
+    }
+  ]
+}

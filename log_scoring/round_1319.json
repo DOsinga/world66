@@ -1,0 +1,200 @@
+{
+  "round": 1319,
+  "timestamp": "2026-06-13T20:23:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 7.5939,
+      "prior_variance": 0.835474,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 4.6154,
+      "prior_variance": 0.306695,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 6.6902,
+      "prior_variance": 0.637865,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 4.9988,
+      "prior_variance": 0.343438,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 4.2496,
+      "prior_variance": 0.366047,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 4.7165,
+      "prior_variance": 0.318701,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 2.7201,
+      "prior_variance": 0.296482,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Marsaxlokk",
+      "path": "europe/malta/marsaxlokk",
+      "prior_score": 3.3159,
+      "prior_variance": 0.395736,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 4.2815,
+      "prior_variance": 0.31765,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": 1.12,
+      "prior_variance": 0.397858,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 4.1059,
+      "prior_variance": 0.392975,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Thakhek",
+      "path": "asia/laos/thakhek",
+      "prior_score": -0.2664,
+      "prior_variance": 0.4004,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -2.2839,
+      "prior_variance": 0.437912,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 5.1818,
+      "prior_variance": 0.363177,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.2515,
+      "prior_variance": 0.33272,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -3.8575,
+      "prior_variance": 0.330159,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness",
+      "prior_score": -2.7972,
+      "prior_variance": 0.299106,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -2.1416,
+      "prior_variance": 0.324395,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -3.6666,
+      "prior_variance": 0.314442,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -8.0218,
+      "prior_variance": 0.431156,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -7.578,
+      "prior_variance": 0.481492,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -6.0163,
+      "prior_variance": 0.400855,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -11.0331,
+      "prior_variance": 0.590708,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -9.3594,
+      "prior_variance": 0.401706,
+      "prior_n": 4
+    }
+  ]
+}

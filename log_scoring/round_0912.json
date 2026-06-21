@@ -1,0 +1,200 @@
+{
+  "round": 912,
+  "timestamp": "2026-06-13T20:00:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -0.885,
+      "prior_variance": 1.266222,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -0.327,
+      "prior_variance": 0.831005,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -2.224,
+      "prior_variance": 1.080193,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -2.1969,
+      "prior_variance": 0.468561,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -5.9351,
+      "prior_variance": 0.622894,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.9592,
+      "prior_variance": 0.434232,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -3.1578,
+      "prior_variance": 0.685821,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -1.2,
+      "prior_variance": 0.435623,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -1.5437,
+      "prior_variance": 0.542279,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -0.6363,
+      "prior_variance": 0.433073,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -5.2954,
+      "prior_variance": 0.683769,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -4.1079,
+      "prior_variance": 0.586646,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.4326,
+      "prior_variance": 0.553147,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -4.8824,
+      "prior_variance": 0.475953,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.609,
+      "prior_variance": 0.516634,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.6442,
+      "prior_variance": 0.796958,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -2.6493,
+      "prior_variance": 0.843308,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -0.9014,
+      "prior_variance": 0.453825,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.6975,
+      "prior_variance": 0.727938,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -1.4047,
+      "prior_variance": 0.363218,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -5.3538,
+      "prior_variance": 0.961293,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -0.3348,
+      "prior_variance": 0.679876,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -4.2999,
+      "prior_variance": 0.466334,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -8.4281,
+      "prior_variance": 1.231143,
+      "prior_n": 2
+    }
+  ]
+}

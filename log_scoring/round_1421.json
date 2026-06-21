@@ -1,0 +1,200 @@
+{
+  "round": 1421,
+  "timestamp": "2026-06-13T20:29:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 9.3311,
+      "prior_variance": 0.512175,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 6.4214,
+      "prior_variance": 0.307486,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 6.5408,
+      "prior_variance": 0.333572,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.647,
+      "prior_variance": 0.35638,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.6964,
+      "prior_variance": 0.303431,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Luoyang",
+      "path": "asia/china/henan_province/luoyang",
+      "prior_score": 1.0275,
+      "prior_variance": 0.331921,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 1.4131,
+      "prior_variance": 0.362739,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Chemainus",
+      "path": "northamerica/canada/britishcolumbia/chemainus",
+      "prior_score": -0.1482,
+      "prior_variance": 0.308506,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -3.1411,
+      "prior_variance": 0.351667,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 1.2612,
+      "prior_variance": 0.305839,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": -2.0987,
+      "prior_variance": 0.313138,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 2.7136,
+      "prior_variance": 0.337112,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.4287,
+      "prior_variance": 0.327764,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -0.8408,
+      "prior_variance": 0.310052,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -3.0899,
+      "prior_variance": 0.46963,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -2.072,
+      "prior_variance": 0.291634,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -2.0584,
+      "prior_variance": 0.279168,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.9896,
+      "prior_variance": 0.251561,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.8289,
+      "prior_variance": 0.369445,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -4.8112,
+      "prior_variance": 0.430998,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.9368,
+      "prior_variance": 0.347067,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -7.072,
+      "prior_variance": 0.312145,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -11.4898,
+      "prior_variance": 0.433341,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -6.7665,
+      "prior_variance": 0.517773,
+      "prior_n": 4
+    }
+  ]
+}

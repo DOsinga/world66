@@ -1,0 +1,200 @@
+{
+  "round": 1200,
+  "timestamp": "2026-06-13T20:16:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/galicia/santiagodecompostela",
+      "prior_score": 9.8588,
+      "prior_variance": 0.89525,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 6.5348,
+      "prior_variance": 0.428736,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Suva",
+      "path": "australiaandpacific/fiji/vitilevu/suva",
+      "prior_score": 2.8775,
+      "prior_variance": 0.396039,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 2.7534,
+      "prior_variance": 0.342757,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 0.6968,
+      "prior_variance": 0.426875,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 4.1426,
+      "prior_variance": 0.423956,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -2.0056,
+      "prior_variance": 0.689418,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": -0.7537,
+      "prior_variance": 0.387798,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_score": 0.5054,
+      "prior_variance": 0.366914,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 3.1017,
+      "prior_variance": 0.39684,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -2.5407,
+      "prior_variance": 0.465829,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 0.6797,
+      "prior_variance": 0.304873,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 0.4423,
+      "prior_variance": 0.386591,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.8945,
+      "prior_variance": 0.3333,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -3.2419,
+      "prior_variance": 0.420178,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": 0.1885,
+      "prior_variance": 0.471173,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -1.5366,
+      "prior_variance": 0.553555,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -2.0802,
+      "prior_variance": 0.494169,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.6979,
+      "prior_variance": 0.423352,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": -3.0675,
+      "prior_variance": 0.408798,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_score": -5.2609,
+      "prior_variance": 0.446802,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -0.6014,
+      "prior_variance": 0.411807,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -6.8879,
+      "prior_variance": 0.388912,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -7.5721,
+      "prior_variance": 0.631484,
+      "prior_n": 3
+    }
+  ]
+}

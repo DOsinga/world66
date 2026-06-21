@@ -1,0 +1,200 @@
+{
+  "round": 4301,
+  "timestamp": "2026-06-14T00:01:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 1.8622,
+      "prior_variance": 0.152415,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 4.2377,
+      "prior_variance": 0.11256,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 3.6273,
+      "prior_variance": 0.117042,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 3.9717,
+      "prior_variance": 0.160466,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.3546,
+      "prior_variance": 0.106143,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 2.7288,
+      "prior_variance": 0.099182,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 5.2068,
+      "prior_variance": 0.105763,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.1738,
+      "prior_variance": 0.097858,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.6447,
+      "prior_variance": 0.1002,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.2704,
+      "prior_variance": 0.110892,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.5506,
+      "prior_variance": 0.119393,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 2.53,
+      "prior_variance": 0.117664,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 2.9366,
+      "prior_variance": 0.098422,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 2.6512,
+      "prior_variance": 0.115254,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": 1.6605,
+      "prior_variance": 0.101837,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.7465,
+      "prior_variance": 0.102514,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -1.2009,
+      "prior_variance": 0.10111,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.1694,
+      "prior_variance": 0.104303,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -0.8958,
+      "prior_variance": 0.093631,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Agadez",
+      "path": "africa/niger/agadez",
+      "prior_score": -3.6601,
+      "prior_variance": 0.138107,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st",
+      "prior_score": -5.3606,
+      "prior_variance": 0.162999,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.0834,
+      "prior_variance": 0.115207,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -5.0637,
+      "prior_variance": 0.121398,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.6143,
+      "prior_variance": 0.164091,
+      "prior_n": 14
+    }
+  ]
+}

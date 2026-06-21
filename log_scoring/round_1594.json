@@ -1,0 +1,200 @@
+{
+  "round": 1594,
+  "timestamp": "2026-06-13T20:40:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 10.8513,
+      "prior_variance": 0.664048,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 7.9744,
+      "prior_variance": 0.28868,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 6.71,
+      "prior_variance": 0.29247,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 6.2747,
+      "prior_variance": 0.271276,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 3.7537,
+      "prior_variance": 0.260986,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 7.0376,
+      "prior_variance": 0.291505,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Atlanta",
+      "path": "northamerica/unitedstates/georgia/atlanta",
+      "prior_score": 3.3421,
+      "prior_variance": 0.269844,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 1.8211,
+      "prior_variance": 0.221063,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.4961,
+      "prior_variance": 0.264146,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 2.8631,
+      "prior_variance": 0.288674,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 1.4839,
+      "prior_variance": 0.256215,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": 0.947,
+      "prior_variance": 0.309325,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.1527,
+      "prior_variance": 0.260079,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 3.1691,
+      "prior_variance": 0.325898,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.8377,
+      "prior_variance": 0.317503,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.7842,
+      "prior_variance": 0.291876,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": 0.7665,
+      "prior_variance": 0.330492,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.5306,
+      "prior_variance": 0.330891,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 0.4309,
+      "prior_variance": 0.284582,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -1.5691,
+      "prior_variance": 0.362621,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.8782,
+      "prior_variance": 0.271137,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.9552,
+      "prior_variance": 0.248947,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -6.9814,
+      "prior_variance": 0.372404,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -5.1355,
+      "prior_variance": 0.297975,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1256,
+  "timestamp": "2026-06-13T20:19:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 10.6146,
+      "prior_variance": 0.453782,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 10.4432,
+      "prior_variance": 0.814234,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 10.1399,
+      "prior_variance": 0.429158,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 9.3051,
+      "prior_variance": 0.53317,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 10.7093,
+      "prior_variance": 0.587611,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 3.1793,
+      "prior_variance": 0.3907,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 1.6638,
+      "prior_variance": 0.363161,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.6994,
+      "prior_variance": 0.389193,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.3337,
+      "prior_variance": 0.333148,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": -0.5457,
+      "prior_variance": 0.281493,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.3474,
+      "prior_variance": 0.315424,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": -0.3206,
+      "prior_variance": 0.327727,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": -0.774,
+      "prior_variance": 0.337446,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.4793,
+      "prior_variance": 0.38963,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -0.7815,
+      "prior_variance": 0.333166,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.4086,
+      "prior_variance": 0.356619,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -3.7301,
+      "prior_variance": 0.510331,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/newwestminster",
+      "prior_score": -3.4424,
+      "prior_variance": 0.415205,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -4.5781,
+      "prior_variance": 0.356106,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -4.3252,
+      "prior_variance": 0.307256,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -6.4434,
+      "prior_variance": 0.367308,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -10.2594,
+      "prior_variance": 0.712828,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -9.4343,
+      "prior_variance": 0.657724,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tobruk",
+      "path": "africa/libya/tobruk",
+      "prior_score": -9.7263,
+      "prior_variance": 0.428622,
+      "prior_n": 3
+    }
+  ]
+}

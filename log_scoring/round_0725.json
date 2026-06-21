@@ -1,0 +1,200 @@
+{
+  "round": 725,
+  "timestamp": "2026-06-13T19:50:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 16.7699,
+      "prior_variance": 2.01162,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 13.6477,
+      "prior_variance": 0.841693,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 17.9133,
+      "prior_variance": 1.482595,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 12.0827,
+      "prior_variance": 0.968726,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 13.2167,
+      "prior_variance": 2.203393,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 12.8544,
+      "prior_variance": 1.44436,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 15.0537,
+      "prior_variance": 0.873396,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 13.8808,
+      "prior_variance": 1.754963,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Aix-en-Provence",
+      "path": "europe/france/midi/provence/aixenprovence",
+      "prior_score": 14.2216,
+      "prior_variance": 0.904989,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 12.59,
+      "prior_variance": 1.131506,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 9.3973,
+      "prior_variance": 1.770577,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 10.2399,
+      "prior_variance": 1.362777,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 10.9646,
+      "prior_variance": 0.725753,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 7.1278,
+      "prior_variance": 0.764373,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 12.9607,
+      "prior_variance": 3.681223,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 8.7077,
+      "prior_variance": 0.631649,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lampedusa",
+      "path": "europe/italy/sicily/pelagianislands/lampedusa",
+      "prior_score": 10.7186,
+      "prior_variance": 0.572096,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 8.517,
+      "prior_variance": 1.45487,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 6.714,
+      "prior_variance": 0.475872,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 10.913,
+      "prior_variance": 1.04653,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 9.0845,
+      "prior_variance": 1.368799,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 8.6154,
+      "prior_variance": 2.257596,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "S\u00e3o Paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": 10.1553,
+      "prior_variance": 0.751606,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Prizren",
+      "path": "europe/serbia/kosovoprovince/prizren",
+      "prior_score": 6.3083,
+      "prior_variance": 1.009641,
+      "prior_n": 2
+    }
+  ]
+}

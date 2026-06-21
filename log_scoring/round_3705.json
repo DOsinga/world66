@@ -1,0 +1,200 @@
+{
+  "round": 3705,
+  "timestamp": "2026-06-13T23:13:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 15.9795,
+      "prior_variance": 0.976019,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 8.2181,
+      "prior_variance": 0.180849,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Yasawa Islands",
+      "path": "australiaandpacific/fiji/yasawaislands",
+      "prior_score": 7.5407,
+      "prior_variance": 0.239379,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 9.3702,
+      "prior_variance": 0.212442,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 7.8473,
+      "prior_variance": 0.189558,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 4.9124,
+      "prior_variance": 0.15792,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.764,
+      "prior_variance": 0.14324,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.2736,
+      "prior_variance": 0.129452,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.9564,
+      "prior_variance": 0.149585,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 4.8666,
+      "prior_variance": 0.124093,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 3.0282,
+      "prior_variance": 0.113698,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 5.7237,
+      "prior_variance": 0.132267,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 4.5314,
+      "prior_variance": 0.127183,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.311,
+      "prior_variance": 0.111469,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Argostoli",
+      "path": "europe/greece/cephalonia/argostoli",
+      "prior_score": 4.6539,
+      "prior_variance": 0.122082,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 3.2175,
+      "prior_variance": 0.123712,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.523,
+      "prior_variance": 0.108541,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.6862,
+      "prior_variance": 0.138574,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Longsheng",
+      "path": "asia/china/guangxi/longsheng",
+      "prior_score": 3.2866,
+      "prior_variance": 0.132529,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 4.0743,
+      "prior_variance": 0.12984,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.4034,
+      "prior_variance": 0.114029,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.0898,
+      "prior_variance": 0.113767,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1958,
+      "prior_variance": 0.124434,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -0.18,
+      "prior_variance": 0.12392,
+      "prior_n": 12
+    }
+  ]
+}

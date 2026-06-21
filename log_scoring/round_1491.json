@@ -1,0 +1,200 @@
+{
+  "round": 1491,
+  "timestamp": "2026-06-13T20:33:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 8.3546,
+      "prior_variance": 0.368659,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 7.0972,
+      "prior_variance": 0.429688,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.5114,
+      "prior_variance": 0.380207,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 2.8936,
+      "prior_variance": 0.307501,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": -0.4842,
+      "prior_variance": 0.270248,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.4199,
+      "prior_variance": 0.33628,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.4192,
+      "prior_variance": 0.2668,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.2307,
+      "prior_variance": 0.309231,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 1.1874,
+      "prior_variance": 0.298411,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 2.1418,
+      "prior_variance": 0.403204,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": 0.4337,
+      "prior_variance": 0.31165,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.5169,
+      "prior_variance": 0.248322,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -2.2897,
+      "prior_variance": 0.270296,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -2.0723,
+      "prior_variance": 0.303374,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.2963,
+      "prior_variance": 0.410322,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -4.7524,
+      "prior_variance": 0.264175,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -4.9969,
+      "prior_variance": 0.296201,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -5.1135,
+      "prior_variance": 0.390642,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -4.2345,
+      "prior_variance": 0.375131,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -7.4891,
+      "prior_variance": 0.409834,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -13.1093,
+      "prior_variance": 1.089767,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -12.2263,
+      "prior_variance": 0.721983,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -13.1768,
+      "prior_variance": 1.143665,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -11.9137,
+      "prior_variance": 0.552814,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3655,
+  "timestamp": "2026-06-13T23:10:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 9.0446,
+      "prior_variance": 0.186063,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 7.2816,
+      "prior_variance": 0.143532,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.6073,
+      "prior_variance": 0.143714,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 1.4826,
+      "prior_variance": 0.099304,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 2.7484,
+      "prior_variance": 0.123934,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.4018,
+      "prior_variance": 0.097528,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.448,
+      "prior_variance": 0.134446,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -3.5446,
+      "prior_variance": 0.127548,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -3.9007,
+      "prior_variance": 0.115065,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -4.4194,
+      "prior_variance": 0.125001,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.3641,
+      "prior_variance": 0.109999,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -2.9678,
+      "prior_variance": 0.119226,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -3.3306,
+      "prior_variance": 0.122861,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.9037,
+      "prior_variance": 0.117618,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -5.2656,
+      "prior_variance": 0.144725,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.0525,
+      "prior_variance": 0.136869,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.5353,
+      "prior_variance": 0.156322,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -6.0324,
+      "prior_variance": 0.182699,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -5.4857,
+      "prior_variance": 0.173863,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -5.3922,
+      "prior_variance": 0.166655,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -7.3154,
+      "prior_variance": 0.201742,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -5.3597,
+      "prior_variance": 0.129084,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -5.1059,
+      "prior_variance": 0.131791,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.1159,
+      "prior_variance": 0.174175,
+      "prior_n": 12
+    }
+  ]
+}

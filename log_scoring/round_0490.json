@@ -1,0 +1,200 @@
+{
+  "round": 490,
+  "timestamp": "2026-06-13T19:39:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chaumont-sur-Loire",
+      "path": "europe/france/centre/loirevalley/chaumont",
+      "prior_score": 5.0554,
+      "prior_variance": 3.89433,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 1.6565,
+      "prior_variance": 1.383015,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Carouge",
+      "path": "europe/switzerland/carouge",
+      "prior_score": 1.563,
+      "prior_variance": 1.371753,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kaiping",
+      "path": "asia/china/guangdong/kaiping",
+      "prior_score": 1.0552,
+      "prior_variance": 1.619227,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 1.8243,
+      "prior_variance": 1.368413,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -0.3469,
+      "prior_variance": 2.282451,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -1.5653,
+      "prior_variance": 1.39846,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": -0.6127,
+      "prior_variance": 1.41237,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 0.225,
+      "prior_variance": 1.602701,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -1.2708,
+      "prior_variance": 1.384659,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": -0.8604,
+      "prior_variance": 1.584268,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": -0.4003,
+      "prior_variance": 1.347361,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": -1.107,
+      "prior_variance": 1.2431,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 2.1151,
+      "prior_variance": 2.327109,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": 0.463,
+      "prior_variance": 1.361624,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -2.0995,
+      "prior_variance": 1.441935,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.8022,
+      "prior_variance": 1.690154,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 1.1193,
+      "prior_variance": 1.93161,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -2.3166,
+      "prior_variance": 1.717158,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -2.5368,
+      "prior_variance": 1.417211,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -0.4002,
+      "prior_variance": 1.382148,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -4.2925,
+      "prior_variance": 1.884799,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -3.1673,
+      "prior_variance": 3.183459,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.1498,
+      "prior_variance": 2.103958,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2241,
+  "timestamp": "2026-06-13T21:28:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.3185,
+      "prior_variance": 0.257233,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -2.2341,
+      "prior_variance": 0.205658,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -1.348,
+      "prior_variance": 0.189169,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.78,
+      "prior_variance": 0.184705,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Buxton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton",
+      "prior_score": -0.697,
+      "prior_variance": 0.168419,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -0.6044,
+      "prior_variance": 0.17531,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -1.2504,
+      "prior_variance": 0.17737,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": -0.8328,
+      "prior_variance": 0.263259,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -0.5715,
+      "prior_variance": 0.185965,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.8261,
+      "prior_variance": 0.201539,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 0.2639,
+      "prior_variance": 0.187474,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -2.8744,
+      "prior_variance": 0.253566,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -1.559,
+      "prior_variance": 0.187719,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -2.684,
+      "prior_variance": 0.196102,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -2.1364,
+      "prior_variance": 0.156072,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -6.0588,
+      "prior_variance": 0.231194,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -2.8542,
+      "prior_variance": 0.183682,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Shangrao",
+      "path": "asia/china/jiangxi/shangrao",
+      "prior_score": -2.786,
+      "prior_variance": 0.205586,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.1448,
+      "prior_variance": 0.195588,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge",
+      "prior_score": -3.1957,
+      "prior_variance": 0.171791,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -5.2157,
+      "prior_variance": 0.252895,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.7249,
+      "prior_variance": 0.20319,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.6512,
+      "prior_variance": 0.282465,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -7.345,
+      "prior_variance": 0.307862,
+      "prior_n": 7
+    }
+  ]
+}

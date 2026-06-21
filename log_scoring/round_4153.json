@@ -1,0 +1,200 @@
+{
+  "round": 4153,
+  "timestamp": "2026-06-13T23:49:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 8.3632,
+      "prior_variance": 0.184704,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 6.9285,
+      "prior_variance": 0.127459,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.3685,
+      "prior_variance": 0.111444,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.4315,
+      "prior_variance": 0.101933,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 2.4298,
+      "prior_variance": 0.102183,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 3.3653,
+      "prior_variance": 0.116232,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 3.3824,
+      "prior_variance": 0.108956,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": 0.0765,
+      "prior_variance": 0.098096,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.5876,
+      "prior_variance": 0.095094,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.8757,
+      "prior_variance": 0.103285,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Sinnamary",
+      "path": "southamerica/frenchguiana/sinnamary",
+      "prior_score": -4.4941,
+      "prior_variance": 0.119825,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -4.8643,
+      "prior_variance": 0.109162,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -4.8809,
+      "prior_variance": 0.115821,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -6.6026,
+      "prior_variance": 0.151224,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "West Godavari",
+      "path": "asia/india/andhrapradesh/westgodavari",
+      "prior_score": -5.1569,
+      "prior_variance": 0.109512,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.6396,
+      "prior_variance": 0.097842,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -6.9632,
+      "prior_variance": 0.194455,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.5144,
+      "prior_variance": 0.123364,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -5.3121,
+      "prior_variance": 0.119411,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.8329,
+      "prior_variance": 0.137436,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -5.0845,
+      "prior_variance": 0.135043,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_score": -5.4388,
+      "prior_variance": 0.10774,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -6.4769,
+      "prior_variance": 0.159595,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -5.3475,
+      "prior_variance": 0.145743,
+      "prior_n": 13
+    }
+  ]
+}

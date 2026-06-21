@@ -1,0 +1,200 @@
+{
+  "round": 1450,
+  "timestamp": "2026-06-13T20:31:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 11.8809,
+      "prior_variance": 0.530271,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 11.8454,
+      "prior_variance": 0.651113,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 12.8577,
+      "prior_variance": 0.59313,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 7.5742,
+      "prior_variance": 0.424734,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 6.8086,
+      "prior_variance": 0.36095,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 2.3359,
+      "prior_variance": 0.349515,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 2.3735,
+      "prior_variance": 0.355208,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": -2.3722,
+      "prior_variance": 0.871985,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.7016,
+      "prior_variance": 0.401641,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.5693,
+      "prior_variance": 0.305147,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.6188,
+      "prior_variance": 0.303265,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -0.5833,
+      "prior_variance": 0.334667,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -1.1748,
+      "prior_variance": 0.315762,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -2.324,
+      "prior_variance": 0.408355,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -2.1115,
+      "prior_variance": 0.33437,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.5065,
+      "prior_variance": 0.374406,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.8432,
+      "prior_variance": 0.40857,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yantai",
+      "path": "asia/china/shandong_province/yantai",
+      "prior_score": -2.0068,
+      "prior_variance": 0.382532,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Zhongshan",
+      "path": "asia/china/guangdong/zhongshan",
+      "prior_score": -3.2824,
+      "prior_variance": 0.292486,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -2.098,
+      "prior_variance": 0.310894,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.8799,
+      "prior_variance": 0.355215,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -4.9765,
+      "prior_variance": 0.359623,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.6005,
+      "prior_variance": 0.339493,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.9565,
+      "prior_variance": 0.285697,
+      "prior_n": 4
+    }
+  ]
+}

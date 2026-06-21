@@ -1,0 +1,200 @@
+{
+  "round": 4090,
+  "timestamp": "2026-06-13T23:42:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 5.4526,
+      "prior_variance": 0.127019,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 6.5258,
+      "prior_variance": 0.127075,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Trapani",
+      "path": "europe/italy/sicily/trapani",
+      "prior_score": 5.3416,
+      "prior_variance": 0.113505,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 6.9157,
+      "prior_variance": 0.147236,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": -0.6191,
+      "prior_variance": 0.106661,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": -0.0118,
+      "prior_variance": 0.09738,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.4904,
+      "prior_variance": 0.102008,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 0.8817,
+      "prior_variance": 0.105773,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -0.9034,
+      "prior_variance": 0.107368,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -2.3548,
+      "prior_variance": 0.110457,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -2.0932,
+      "prior_variance": 0.098303,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -0.9467,
+      "prior_variance": 0.096757,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -4.0047,
+      "prior_variance": 0.113108,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.2524,
+      "prior_variance": 0.092757,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -3.8753,
+      "prior_variance": 0.106969,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.2734,
+      "prior_variance": 0.108474,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -3.0232,
+      "prior_variance": 0.131458,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.6804,
+      "prior_variance": 0.131434,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.5192,
+      "prior_variance": 0.116919,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -4.086,
+      "prior_variance": 0.147695,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -5.1121,
+      "prior_variance": 0.107625,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Yichun",
+      "path": "asia/china/jiangxi/yichun",
+      "prior_score": -4.1884,
+      "prior_variance": 0.115914,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.419,
+      "prior_variance": 0.12741,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.7309,
+      "prior_variance": 0.118893,
+      "prior_n": 13
+    }
+  ]
+}

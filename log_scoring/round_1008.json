@@ -1,0 +1,200 @@
+{
+  "round": 1008,
+  "timestamp": "2026-06-13T20:05:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 6.1362,
+      "prior_variance": 0.811005,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.2373,
+      "prior_variance": 0.480987,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -2.8412,
+      "prior_variance": 0.330251,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.7941,
+      "prior_variance": 0.743771,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.8504,
+      "prior_variance": 0.537956,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -2.6961,
+      "prior_variance": 0.747104,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -5.2111,
+      "prior_variance": 0.819006,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -2.6294,
+      "prior_variance": 0.447477,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -1.8389,
+      "prior_variance": 0.462088,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -2.0921,
+      "prior_variance": 0.646582,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -2.9729,
+      "prior_variance": 0.494146,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -3.7663,
+      "prior_variance": 0.583637,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -4.5418,
+      "prior_variance": 0.74774,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.8837,
+      "prior_variance": 0.421316,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -4.7417,
+      "prior_variance": 0.900802,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness",
+      "prior_score": -3.3929,
+      "prior_variance": 0.446091,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -3.2456,
+      "prior_variance": 0.408551,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -3.3585,
+      "prior_variance": 0.458869,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.6116,
+      "prior_variance": 0.496733,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -2.2375,
+      "prior_variance": 0.405456,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -3.2227,
+      "prior_variance": 0.599231,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -5.1731,
+      "prior_variance": 1.812977,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -3.6828,
+      "prior_variance": 0.445285,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -8.2869,
+      "prior_variance": 0.625195,
+      "prior_n": 2
+    }
+  ]
+}

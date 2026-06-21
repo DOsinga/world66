@@ -1,0 +1,200 @@
+{
+  "round": 2970,
+  "timestamp": "2026-06-13T22:19:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 3.5465,
+      "prior_variance": 0.160414,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": -0.2436,
+      "prior_variance": 0.185664,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_score": 4.3397,
+      "prior_variance": 0.163993,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -0.3576,
+      "prior_variance": 0.168491,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.263,
+      "prior_variance": 0.158116,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 2.5365,
+      "prior_variance": 0.163121,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -0.9943,
+      "prior_variance": 0.165189,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.7655,
+      "prior_variance": 0.143652,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.6533,
+      "prior_variance": 0.134722,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.6046,
+      "prior_variance": 0.145623,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.0543,
+      "prior_variance": 0.14931,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.8001,
+      "prior_variance": 0.129736,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 0.3757,
+      "prior_variance": 0.146417,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": 0.2142,
+      "prior_variance": 0.139545,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.468,
+      "prior_variance": 0.139855,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.1796,
+      "prior_variance": 0.150787,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -3.5941,
+      "prior_variance": 0.169473,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.2866,
+      "prior_variance": 0.184144,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -3.6562,
+      "prior_variance": 0.167132,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -5.3639,
+      "prior_variance": 0.183015,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.6322,
+      "prior_variance": 0.187572,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.6483,
+      "prior_variance": 0.17124,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -5.7527,
+      "prior_variance": 0.190391,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -8.8592,
+      "prior_variance": 0.29374,
+      "prior_n": 9
+    }
+  ]
+}

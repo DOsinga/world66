@@ -1,0 +1,200 @@
+{
+  "round": 1268,
+  "timestamp": "2026-06-13T20:20:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 5.0508,
+      "prior_variance": 0.426412,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 8.2829,
+      "prior_variance": 0.420761,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 8.2967,
+      "prior_variance": 0.746802,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 4.2342,
+      "prior_variance": 0.354365,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 9.2426,
+      "prior_variance": 0.398931,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 8.1263,
+      "prior_variance": 0.664894,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 4.3405,
+      "prior_variance": 0.343134,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.6179,
+      "prior_variance": 0.403987,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 7.9278,
+      "prior_variance": 0.440016,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.046,
+      "prior_variance": 0.33235,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 4.6465,
+      "prior_variance": 0.409069,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 1.4492,
+      "prior_variance": 0.389584,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.8172,
+      "prior_variance": 0.337099,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 4.4904,
+      "prior_variance": 0.292079,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 3.4622,
+      "prior_variance": 0.359977,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.4359,
+      "prior_variance": 0.299446,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -3.2331,
+      "prior_variance": 0.42782,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -4.5674,
+      "prior_variance": 0.417585,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -5.4176,
+      "prior_variance": 0.565308,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -6.5893,
+      "prior_variance": 0.494281,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -8.5105,
+      "prior_variance": 0.397525,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -9.2014,
+      "prior_variance": 0.421738,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -9.949,
+      "prior_variance": 0.600741,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -11.7232,
+      "prior_variance": 1.034623,
+      "prior_n": 3
+    }
+  ]
+}

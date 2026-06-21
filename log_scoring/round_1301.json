@@ -1,0 +1,200 @@
+{
+  "round": 1301,
+  "timestamp": "2026-06-13T20:22:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 11.0851,
+      "prior_variance": 0.521255,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 4.5626,
+      "prior_variance": 0.323841,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Puebla",
+      "path": "northamerica/mexico/puebla",
+      "prior_score": 5.2357,
+      "prior_variance": 0.337636,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 8.9487,
+      "prior_variance": 0.383261,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 5.4786,
+      "prior_variance": 0.365554,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 4.4094,
+      "prior_variance": 0.510668,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 3.0656,
+      "prior_variance": 0.349412,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 6.3623,
+      "prior_variance": 0.55405,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 4.8415,
+      "prior_variance": 0.369046,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 3.7461,
+      "prior_variance": 0.316355,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 3.2194,
+      "prior_variance": 0.346525,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 1.8733,
+      "prior_variance": 0.41567,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Chilo\u00e9",
+      "path": "southamerica/chile/chiloe",
+      "prior_score": 3.4235,
+      "prior_variance": 0.359778,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 3.9165,
+      "prior_variance": 0.30784,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 3.2622,
+      "prior_variance": 0.409697,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -1.4855,
+      "prior_variance": 0.38919,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -0.7884,
+      "prior_variance": 0.540189,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -2.5298,
+      "prior_variance": 0.314964,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -4.0085,
+      "prior_variance": 0.36297,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -5.3053,
+      "prior_variance": 0.387533,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -5.1738,
+      "prior_variance": 0.318718,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -4.7014,
+      "prior_variance": 0.526469,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.3517,
+      "prior_variance": 0.330305,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dezhou",
+      "path": "asia/china/shandong_province/dezhou",
+      "prior_score": -7.2586,
+      "prior_variance": 0.37241,
+      "prior_n": 4
+    }
+  ]
+}

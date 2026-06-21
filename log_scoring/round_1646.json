@@ -1,0 +1,200 @@
+{
+  "round": 1646,
+  "timestamp": "2026-06-13T20:43:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 6.7704,
+      "prior_variance": 0.437677,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 7.5358,
+      "prior_variance": 0.363489,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.2514,
+      "prior_variance": 0.360984,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 3.2504,
+      "prior_variance": 0.333575,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 3.435,
+      "prior_variance": 0.295516,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.584,
+      "prior_variance": 0.309755,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 3.0748,
+      "prior_variance": 0.330551,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 3.6821,
+      "prior_variance": 0.256649,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.8234,
+      "prior_variance": 0.245822,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": -0.2806,
+      "prior_variance": 0.252141,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -3.3155,
+      "prior_variance": 0.322829,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.1199,
+      "prior_variance": 0.262755,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -2.5986,
+      "prior_variance": 0.291909,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -3.0041,
+      "prior_variance": 0.264108,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -3.9972,
+      "prior_variance": 0.270222,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -3.1631,
+      "prior_variance": 0.384125,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.457,
+      "prior_variance": 0.267771,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_score": -3.4078,
+      "prior_variance": 0.256262,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -3.2554,
+      "prior_variance": 0.293938,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.9403,
+      "prior_variance": 0.30055,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -4.3838,
+      "prior_variance": 0.275671,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -5.7955,
+      "prior_variance": 0.269506,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -5.1668,
+      "prior_variance": 0.264059,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -10.8878,
+      "prior_variance": 0.481534,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1903,
+  "timestamp": "2026-06-13T20:59:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 8.7927,
+      "prior_variance": 0.42058,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 7.3843,
+      "prior_variance": 0.381645,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.1662,
+      "prior_variance": 0.214161,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 3.327,
+      "prior_variance": 0.29016,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.1507,
+      "prior_variance": 0.266159,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 1.0956,
+      "prior_variance": 0.238137,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 4.5962,
+      "prior_variance": 0.302763,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 3.3191,
+      "prior_variance": 0.251825,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.8354,
+      "prior_variance": 0.211975,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 5.2354,
+      "prior_variance": 0.353807,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.6956,
+      "prior_variance": 0.319686,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 2.5648,
+      "prior_variance": 0.254065,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.5708,
+      "prior_variance": 0.245132,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.8706,
+      "prior_variance": 0.213369,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 0.6792,
+      "prior_variance": 0.233068,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -1.341,
+      "prior_variance": 0.272387,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 1.5093,
+      "prior_variance": 0.258293,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 3.3213,
+      "prior_variance": 0.278301,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": -0.0439,
+      "prior_variance": 0.228538,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.7982,
+      "prior_variance": 0.274439,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.5626,
+      "prior_variance": 0.286424,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.6622,
+      "prior_variance": 0.233991,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.5832,
+      "prior_variance": 0.216908,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -3.6631,
+      "prior_variance": 0.28499,
+      "prior_n": 6
+    }
+  ]
+}

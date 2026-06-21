@@ -1,0 +1,200 @@
+{
+  "round": 1254,
+  "timestamp": "2026-06-13T20:19:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Como",
+      "path": "europe/italy/lombardia/como",
+      "prior_score": 9.8627,
+      "prior_variance": 0.525168,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 6.4267,
+      "prior_variance": 0.655866,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Baalbek",
+      "path": "asia/lebanon/baalbek",
+      "prior_score": 6.2874,
+      "prior_variance": 0.369306,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 7.0477,
+      "prior_variance": 0.438287,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 7.0431,
+      "prior_variance": 0.457799,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 5.1041,
+      "prior_variance": 0.44784,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lugu Lake",
+      "path": "asia/china/yunnanprovince/lugu_lake",
+      "prior_score": 5.7612,
+      "prior_variance": 0.353305,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 4.4462,
+      "prior_variance": 0.391844,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_island",
+      "prior_score": 1.6605,
+      "prior_variance": 0.395155,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 2.7363,
+      "prior_variance": 0.425261,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 3.583,
+      "prior_variance": 0.366312,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 0.8383,
+      "prior_variance": 0.336781,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.0153,
+      "prior_variance": 0.474218,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -3.7507,
+      "prior_variance": 0.342302,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -6.1982,
+      "prior_variance": 0.583213,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -6.4924,
+      "prior_variance": 0.395338,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.5386,
+      "prior_variance": 0.400272,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -1.0485,
+      "prior_variance": 0.368161,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -5.7907,
+      "prior_variance": 0.374398,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -5.673,
+      "prior_variance": 0.345674,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -5.4896,
+      "prior_variance": 0.431664,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -6.8794,
+      "prior_variance": 0.415658,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -6.413,
+      "prior_variance": 0.387144,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Currie",
+      "path": "northamerica/unitedstates/northcarolina/currie",
+      "prior_score": -7.0117,
+      "prior_variance": 0.381491,
+      "prior_n": 4
+    }
+  ]
+}

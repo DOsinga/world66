@@ -1,0 +1,200 @@
+{
+  "round": 1890,
+  "timestamp": "2026-06-13T20:59:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 12.229,
+      "prior_variance": 0.530532,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_score": 7.7541,
+      "prior_variance": 0.328034,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.9539,
+      "prior_variance": 0.242595,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 2.7955,
+      "prior_variance": 0.217736,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.7203,
+      "prior_variance": 0.269134,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 4.0302,
+      "prior_variance": 0.315149,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 3.7238,
+      "prior_variance": 0.252696,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.4406,
+      "prior_variance": 0.272491,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 3.2261,
+      "prior_variance": 0.22933,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": -0.1347,
+      "prior_variance": 0.316411,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Te Paki Stream",
+      "path": "australiaandpacific/newzealand/north_island/northland/te_paki_stream",
+      "prior_score": 3.0239,
+      "prior_variance": 0.29842,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.0985,
+      "prior_variance": 0.267818,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -2.6667,
+      "prior_variance": 0.3554,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": -0.0425,
+      "prior_variance": 0.232029,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 0.9452,
+      "prior_variance": 0.233897,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -2.3782,
+      "prior_variance": 0.224489,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 0.5615,
+      "prior_variance": 0.205695,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": 0.3449,
+      "prior_variance": 0.218537,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/beverley",
+      "prior_score": 0.2909,
+      "prior_variance": 0.227573,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": 0.0928,
+      "prior_variance": 0.349044,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.5412,
+      "prior_variance": 0.197829,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.6526,
+      "prior_variance": 0.277331,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -3.5409,
+      "prior_variance": 0.260631,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -9.0293,
+      "prior_variance": 0.378946,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4583,
+  "timestamp": "2026-06-14T00:24:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 17.0599,
+      "prior_variance": 1.242626,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 9.6672,
+      "prior_variance": 0.178157,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.5586,
+      "prior_variance": 0.097218,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.0328,
+      "prior_variance": 0.101068,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.108,
+      "prior_variance": 0.08898,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.5492,
+      "prior_variance": 0.081674,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.7095,
+      "prior_variance": 0.088077,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -0.731,
+      "prior_variance": 0.088145,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.1549,
+      "prior_variance": 0.096145,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.3837,
+      "prior_variance": 0.085745,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.5826,
+      "prior_variance": 0.099929,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -1.8997,
+      "prior_variance": 0.09659,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.24,
+      "prior_variance": 0.090439,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_score": -0.4372,
+      "prior_variance": 0.099302,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.5694,
+      "prior_variance": 0.105866,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -4.7392,
+      "prior_variance": 0.093763,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Cumberland",
+      "path": "northamerica/unitedstates/maryland/cumberland",
+      "prior_score": -3.2734,
+      "prior_variance": 0.092857,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -4.752,
+      "prior_variance": 0.105746,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.2867,
+      "prior_variance": 0.120505,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Green Island",
+      "path": "asia/kuwait/greenisland",
+      "prior_score": -5.6517,
+      "prior_variance": 0.114488,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -4.9733,
+      "prior_variance": 0.093428,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -6.5427,
+      "prior_variance": 0.140318,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "M'Ba\u00efki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_score": -9.4456,
+      "prior_variance": 0.219888,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/south_east/slough",
+      "prior_score": -6.4242,
+      "prior_variance": 0.149672,
+      "prior_n": 14
+    }
+  ]
+}

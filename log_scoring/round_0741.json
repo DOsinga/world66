@@ -1,0 +1,200 @@
+{
+  "round": 741,
+  "timestamp": "2026-06-13T19:51:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 7.5079,
+      "prior_variance": 1.315779,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 6.7209,
+      "prior_variance": 1.786704,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 4.8908,
+      "prior_variance": 0.950987,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 6.2533,
+      "prior_variance": 1.192046,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 4.569,
+      "prior_variance": 1.043211,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 5.0648,
+      "prior_variance": 1.144052,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 4.3604,
+      "prior_variance": 0.8683,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 5.36,
+      "prior_variance": 0.622133,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 5.4694,
+      "prior_variance": 0.712463,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 6.1733,
+      "prior_variance": 0.948007,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.6351,
+      "prior_variance": 1.427262,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.5629,
+      "prior_variance": 1.281554,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 3.6897,
+      "prior_variance": 1.245253,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 4.0245,
+      "prior_variance": 0.725595,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 3.6206,
+      "prior_variance": 0.820915,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 2.5735,
+      "prior_variance": 0.515165,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_somme",
+      "prior_score": 2.0809,
+      "prior_variance": 1.217427,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 3.1282,
+      "prior_variance": 0.435624,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bolsena",
+      "path": "europe/italy/lazio/bolsena",
+      "prior_score": 3.8493,
+      "prior_variance": 0.674057,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 4.764,
+      "prior_variance": 0.993605,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 3.621,
+      "prior_variance": 0.890684,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 3.4968,
+      "prior_variance": 0.724966,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 2.7509,
+      "prior_variance": 0.775595,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": 2.9686,
+      "prior_variance": 1.428206,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3045,
+  "timestamp": "2026-06-13T22:24:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.6893,
+      "prior_variance": 0.178119,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 4.5184,
+      "prior_variance": 0.151844,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 2.3076,
+      "prior_variance": 0.176636,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 3.5772,
+      "prior_variance": 0.192792,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.3105,
+      "prior_variance": 0.168444,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 3.2163,
+      "prior_variance": 0.201719,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 0.894,
+      "prior_variance": 0.167606,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 2.8319,
+      "prior_variance": 0.148129,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.6798,
+      "prior_variance": 0.159494,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 4.1302,
+      "prior_variance": 0.128264,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 3.0575,
+      "prior_variance": 0.148676,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 3.3436,
+      "prior_variance": 0.164597,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 3.0948,
+      "prior_variance": 0.166515,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 1.3462,
+      "prior_variance": 0.144513,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 1.8235,
+      "prior_variance": 0.192204,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.8212,
+      "prior_variance": 0.143086,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 2.7638,
+      "prior_variance": 0.158059,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.1958,
+      "prior_variance": 0.133226,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.3935,
+      "prior_variance": 0.130838,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": 0.0462,
+      "prior_variance": 0.132548,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_score": -3.1463,
+      "prior_variance": 0.167523,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.7743,
+      "prior_variance": 0.142517,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -7.1247,
+      "prior_variance": 0.254343,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 4.8472,
+      "prior_variance": 0.190086,
+      "prior_n": 9
+    }
+  ]
+}

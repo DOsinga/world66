@@ -1,0 +1,200 @@
+{
+  "round": 1409,
+  "timestamp": "2026-06-13T20:28:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 5.9777,
+      "prior_variance": 0.357762,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.6461,
+      "prior_variance": 0.318582,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 3.9499,
+      "prior_variance": 0.320558,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 4.745,
+      "prior_variance": 0.336454,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 6.1183,
+      "prior_variance": 0.322517,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 4.5223,
+      "prior_variance": 0.326006,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 5.5305,
+      "prior_variance": 0.307901,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 5.2152,
+      "prior_variance": 0.356454,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 0.4377,
+      "prior_variance": 0.376896,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.6661,
+      "prior_variance": 0.295058,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 2.6283,
+      "prior_variance": 0.374905,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lang De",
+      "path": "asia/china/guizhou/lang_de",
+      "prior_score": -3.7205,
+      "prior_variance": 0.315362,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 2.0927,
+      "prior_variance": 0.371114,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -0.4171,
+      "prior_variance": 0.354659,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -2.6829,
+      "prior_variance": 0.39217,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hull",
+      "prior_score": -1.4387,
+      "prior_variance": 0.325524,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -1.8631,
+      "prior_variance": 0.30861,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -6.2099,
+      "prior_variance": 0.457377,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -7.8222,
+      "prior_variance": 0.426603,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Monument",
+      "path": "northamerica/unitedstates/colorado/monument",
+      "prior_score": -4.8662,
+      "prior_variance": 0.335434,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/newhampshire/manchester",
+      "prior_score": -3.2012,
+      "prior_variance": 0.324374,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -6.5802,
+      "prior_variance": 0.310131,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -8.0058,
+      "prior_variance": 0.403965,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -7.2456,
+      "prior_variance": 0.381529,
+      "prior_n": 4
+    }
+  ]
+}

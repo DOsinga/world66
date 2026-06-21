@@ -1,0 +1,200 @@
+{
+  "round": 1691,
+  "timestamp": "2026-06-13T20:46:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 8.6489,
+      "prior_variance": 0.400539,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 8.3854,
+      "prior_variance": 0.600719,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 7.3459,
+      "prior_variance": 0.464826,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 4.6676,
+      "prior_variance": 0.323018,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.2964,
+      "prior_variance": 0.293899,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 2.9081,
+      "prior_variance": 0.244785,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.0296,
+      "prior_variance": 0.280373,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Zhaoxing",
+      "path": "asia/china/guizhou/zhaoxing",
+      "prior_score": 2.8601,
+      "prior_variance": 0.23891,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Izumo",
+      "path": "asia/japan/honshu/izumo",
+      "prior_score": 3.548,
+      "prior_variance": 0.288675,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 3.4815,
+      "prior_variance": 0.320681,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 3.4799,
+      "prior_variance": 0.271874,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.2649,
+      "prior_variance": 0.41222,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.3747,
+      "prior_variance": 0.256829,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 4.0424,
+      "prior_variance": 0.309831,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.5273,
+      "prior_variance": 0.259102,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 2.8304,
+      "prior_variance": 0.290666,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 4.3964,
+      "prior_variance": 0.265998,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 1.1606,
+      "prior_variance": 0.276282,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Reggio di Calabria",
+      "path": "europe/italy/calabria/reggiocalabria",
+      "prior_score": -0.5509,
+      "prior_variance": 0.280333,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 5.1419,
+      "prior_variance": 0.603684,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 1.4908,
+      "prior_variance": 0.212497,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.6733,
+      "prior_variance": 0.228943,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_llavaneres",
+      "prior_score": -2.254,
+      "prior_variance": 0.259151,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.5883,
+      "prior_variance": 0.250486,
+      "prior_n": 5
+    }
+  ]
+}

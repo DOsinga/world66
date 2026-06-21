@@ -1,0 +1,200 @@
+{
+  "round": 937,
+  "timestamp": "2026-06-13T20:01:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -6.0236,
+      "prior_variance": 0.485049,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -4.0405,
+      "prior_variance": 0.632966,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -3.3101,
+      "prior_variance": 0.442952,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -2.5906,
+      "prior_variance": 0.42225,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -3.5031,
+      "prior_variance": 0.615315,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -4.2589,
+      "prior_variance": 0.43267,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "New Bedford",
+      "path": "northamerica/unitedstates/massachusetts/newbedford",
+      "prior_score": -3.3469,
+      "prior_variance": 0.614117,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Joinville",
+      "path": "southamerica/brazil/joinville",
+      "prior_score": -3.8334,
+      "prior_variance": 0.64298,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -7.9376,
+      "prior_variance": 1.042384,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -3.1704,
+      "prior_variance": 0.645843,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -5.2093,
+      "prior_variance": 0.483186,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -7.2086,
+      "prior_variance": 1.035656,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -7.5191,
+      "prior_variance": 0.468743,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Neum\u00fcnster",
+      "path": "europe/germany/schleswigholstein/neumuenster",
+      "prior_score": -3.9989,
+      "prior_variance": 0.430913,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -7.573,
+      "prior_variance": 0.649807,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -3.3994,
+      "prior_variance": 0.608829,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_score": -6.9164,
+      "prior_variance": 0.732591,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -4.7459,
+      "prior_variance": 0.435458,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Birtamode",
+      "path": "asia/nepal/birtamode",
+      "prior_score": -8.1325,
+      "prior_variance": 0.973735,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -3.4376,
+      "prior_variance": 0.608251,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Boonville",
+      "path": "northamerica/unitedstates/missouri/boonville",
+      "prior_score": -7.7837,
+      "prior_variance": 0.598184,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -6.4048,
+      "prior_variance": 0.571169,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -8.1541,
+      "prior_variance": 1.020008,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -10.1563,
+      "prior_variance": 0.884586,
+      "prior_n": 3
+    }
+  ]
+}

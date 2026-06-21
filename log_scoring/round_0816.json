@@ -1,0 +1,200 @@
+{
+  "round": 816,
+  "timestamp": "2026-06-13T19:55:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": -1.3367,
+      "prior_variance": 0.600264,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": -1.7225,
+      "prior_variance": 0.650419,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -2.461,
+      "prior_variance": 0.976522,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": -0.4962,
+      "prior_variance": 0.652312,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -3.1141,
+      "prior_variance": 0.787786,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_score": -1.4148,
+      "prior_variance": 0.665835,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -1.4769,
+      "prior_variance": 0.94256,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": 2.1604,
+      "prior_variance": 0.984077,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -1.6974,
+      "prior_variance": 0.665744,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.3481,
+      "prior_variance": 0.587654,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": -1.6108,
+      "prior_variance": 0.808048,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -2.8643,
+      "prior_variance": 0.65093,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": -0.1312,
+      "prior_variance": 0.599473,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -1.6239,
+      "prior_variance": 0.654468,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -1.0345,
+      "prior_variance": 0.639802,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.4744,
+      "prior_variance": 0.647739,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.9389,
+      "prior_variance": 0.780589,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": -3.0915,
+      "prior_variance": 0.676082,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.9651,
+      "prior_variance": 0.859384,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 3.788,
+      "prior_variance": 1.267629,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.9573,
+      "prior_variance": 0.62575,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.0234,
+      "prior_variance": 0.590666,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -1.1282,
+      "prior_variance": 0.644097,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.0327,
+      "prior_variance": 0.621057,
+      "prior_n": 2
+    }
+  ]
+}

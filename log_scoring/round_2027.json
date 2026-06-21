@@ -1,0 +1,200 @@
+{
+  "round": 2027,
+  "timestamp": "2026-06-13T21:13:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 8.4185,
+      "prior_variance": 0.274153,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 6.6266,
+      "prior_variance": 0.265012,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 6.7524,
+      "prior_variance": 0.293796,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.3675,
+      "prior_variance": 0.255225,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 6.3446,
+      "prior_variance": 0.257853,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 7.1818,
+      "prior_variance": 0.26991,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.9389,
+      "prior_variance": 0.264591,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Key Largo",
+      "path": "northamerica/unitedstates/florida/keylargo",
+      "prior_score": 4.9916,
+      "prior_variance": 0.272488,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 4.4294,
+      "prior_variance": 0.496217,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_score": 5.9724,
+      "prior_variance": 0.288162,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 5.7008,
+      "prior_variance": 0.261098,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.1926,
+      "prior_variance": 0.18989,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 5.0677,
+      "prior_variance": 0.249266,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.9555,
+      "prior_variance": 0.286919,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.4723,
+      "prior_variance": 0.217939,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.3983,
+      "prior_variance": 0.306204,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.1077,
+      "prior_variance": 0.230253,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.88,
+      "prior_variance": 0.229195,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.6977,
+      "prior_variance": 0.22343,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.5534,
+      "prior_variance": 0.211999,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Malia",
+      "path": "europe/greece/crete/malia",
+      "prior_score": 2.9819,
+      "prior_variance": 0.208681,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -1.5055,
+      "prior_variance": 0.217173,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.7075,
+      "prior_variance": 0.233535,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -6.1932,
+      "prior_variance": 0.215958,
+      "prior_n": 6
+    }
+  ]
+}

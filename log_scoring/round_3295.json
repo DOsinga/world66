@@ -1,0 +1,200 @@
+{
+  "round": 3295,
+  "timestamp": "2026-06-13T22:43:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 11.4506,
+      "prior_variance": 0.673278,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_score": 7.096,
+      "prior_variance": 0.234687,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 3.5665,
+      "prior_variance": 0.146363,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 3.2495,
+      "prior_variance": 0.119533,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 3.5962,
+      "prior_variance": 0.153241,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_score": 4.7562,
+      "prior_variance": 0.12873,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Gaziantep",
+      "path": "asia/turkey/gaziantep",
+      "prior_score": 3.2011,
+      "prior_variance": 0.133484,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 3.0606,
+      "prior_variance": 0.120324,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 4.2645,
+      "prior_variance": 0.120843,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.7357,
+      "prior_variance": 0.133972,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Senglea",
+      "path": "europe/malta/cottonera_or_three/senglea_or_llsla",
+      "prior_score": 2.7879,
+      "prior_variance": 0.123726,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 1.871,
+      "prior_variance": 0.122073,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 3.8515,
+      "prior_variance": 0.197173,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 2.9154,
+      "prior_variance": 0.133947,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.0539,
+      "prior_variance": 0.160736,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 3.5197,
+      "prior_variance": 0.140474,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.7154,
+      "prior_variance": 0.171515,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 4.4838,
+      "prior_variance": 0.129781,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 5.4964,
+      "prior_variance": 0.154545,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 3.7772,
+      "prior_variance": 0.13386,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 3.8889,
+      "prior_variance": 0.138988,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Mayreau",
+      "path": "northamerica/saintvincentandthegrenadines/mayreau",
+      "prior_score": 5.027,
+      "prior_variance": 0.169579,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "South Caicos",
+      "path": "northamerica/turksandcaicosislands/southcaicos",
+      "prior_score": 2.1566,
+      "prior_variance": 0.155088,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.0662,
+      "prior_variance": 0.12564,
+      "prior_n": 11
+    }
+  ]
+}

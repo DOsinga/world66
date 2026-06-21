@@ -1,0 +1,200 @@
+{
+  "round": 2189,
+  "timestamp": "2026-06-13T21:24:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 11.3923,
+      "prior_variance": 0.338855,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 2.9685,
+      "prior_variance": 0.307428,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.9269,
+      "prior_variance": 0.244112,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 3.3858,
+      "prior_variance": 0.2022,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 3.2726,
+      "prior_variance": 0.192381,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 3.1419,
+      "prior_variance": 0.240646,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 4.6524,
+      "prior_variance": 0.251624,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 4.2001,
+      "prior_variance": 0.197293,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 5.1327,
+      "prior_variance": 0.239433,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 0.7725,
+      "prior_variance": 0.196906,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro",
+      "prior_score": 0.5123,
+      "prior_variance": 0.187648,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.4862,
+      "prior_variance": 0.250245,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 1.7665,
+      "prior_variance": 0.178272,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 3.1266,
+      "prior_variance": 0.213128,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.7955,
+      "prior_variance": 0.230327,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.2419,
+      "prior_variance": 0.194601,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tortuga Island",
+      "path": "northamerica/costarica/tortugaisland",
+      "prior_score": 2.5737,
+      "prior_variance": 0.206151,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_score": 1.3175,
+      "prior_variance": 0.218847,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.6844,
+      "prior_variance": 0.197383,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 1.2426,
+      "prior_variance": 0.2079,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": -0.5171,
+      "prior_variance": 0.21538,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -3.1419,
+      "prior_variance": 0.311034,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -5.1362,
+      "prior_variance": 0.299001,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -11.9905,
+      "prior_variance": 0.533023,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1206,
+  "timestamp": "2026-06-13T20:17:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 9.3861,
+      "prior_variance": 0.475033,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.6423,
+      "prior_variance": 0.421377,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 7.7224,
+      "prior_variance": 0.526355,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -3.135,
+      "prior_variance": 0.578869,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Orte",
+      "path": "europe/italy/lazio/orte",
+      "prior_score": -1.1331,
+      "prior_variance": 0.370939,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -2.2532,
+      "prior_variance": 0.416648,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -1.2138,
+      "prior_variance": 0.221563,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -3.1598,
+      "prior_variance": 0.396974,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -1.8087,
+      "prior_variance": 0.344832,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -2.1085,
+      "prior_variance": 0.328174,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -3.5826,
+      "prior_variance": 0.401883,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -3.7049,
+      "prior_variance": 0.393231,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -4.1353,
+      "prior_variance": 0.41174,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -4.83,
+      "prior_variance": 0.400294,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -3.6794,
+      "prior_variance": 0.39146,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "San Pablo City",
+      "path": "asia/philippines/sanpablocity",
+      "prior_score": -4.9964,
+      "prior_variance": 0.446122,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -4.6702,
+      "prior_variance": 0.386737,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -3.0981,
+      "prior_variance": 0.399513,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield",
+      "prior_score": -2.811,
+      "prior_variance": 0.406684,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -7.1741,
+      "prior_variance": 0.710714,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -4.2806,
+      "prior_variance": 0.318664,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -4.9947,
+      "prior_variance": 0.315494,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -5.4547,
+      "prior_variance": 0.418622,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.4264,
+      "prior_variance": 0.297229,
+      "prior_n": 4
+    }
+  ]
+}

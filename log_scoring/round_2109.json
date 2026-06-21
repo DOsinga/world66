@@ -1,0 +1,200 @@
+{
+  "round": 2109,
+  "timestamp": "2026-06-13T21:19:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": -0.2938,
+      "prior_variance": 0.17708,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -2.8328,
+      "prior_variance": 0.206626,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -1.5637,
+      "prior_variance": 0.242586,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.6204,
+      "prior_variance": 0.213263,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -1.3716,
+      "prior_variance": 0.240569,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.4393,
+      "prior_variance": 0.172523,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.5624,
+      "prior_variance": 0.190299,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.7347,
+      "prior_variance": 0.232933,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": -0.1754,
+      "prior_variance": 0.195641,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.1015,
+      "prior_variance": 0.193562,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -1.004,
+      "prior_variance": 0.208952,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -3.1086,
+      "prior_variance": 0.300615,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.4019,
+      "prior_variance": 0.225872,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.1369,
+      "prior_variance": 0.211334,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.5292,
+      "prior_variance": 0.235883,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -2.6148,
+      "prior_variance": 0.210605,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -1.9692,
+      "prior_variance": 0.216116,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.6701,
+      "prior_variance": 0.231915,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -3.1783,
+      "prior_variance": 0.220465,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -4.4548,
+      "prior_variance": 0.37734,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -3.3985,
+      "prior_variance": 0.203562,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -6.5596,
+      "prior_variance": 0.267655,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -6.6236,
+      "prior_variance": 0.27348,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -5.5472,
+      "prior_variance": 0.251726,
+      "prior_n": 6
+    }
+  ]
+}

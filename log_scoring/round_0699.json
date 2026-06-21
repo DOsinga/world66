@@ -1,0 +1,200 @@
+{
+  "round": 699,
+  "timestamp": "2026-06-13T19:49:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 13.5969,
+      "prior_variance": 1.162965,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 14.651,
+      "prior_variance": 1.703926,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 10.9401,
+      "prior_variance": 1.711322,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 14.064,
+      "prior_variance": 1.755489,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Yogyakarta",
+      "path": "asia/indonesia/java/yogyakarta",
+      "prior_score": 10.96,
+      "prior_variance": 1.898828,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 13.4113,
+      "prior_variance": 1.781301,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 11.7857,
+      "prior_variance": 1.901358,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 11.8548,
+      "prior_variance": 0.992229,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 11.1615,
+      "prior_variance": 1.489015,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 10.2095,
+      "prior_variance": 1.236872,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 11.2487,
+      "prior_variance": 0.93506,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 13.8191,
+      "prior_variance": 1.288938,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 10.8944,
+      "prior_variance": 0.818896,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 11.7921,
+      "prior_variance": 0.867929,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 12.1339,
+      "prior_variance": 1.182451,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 11.7284,
+      "prior_variance": 1.071972,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 10.3326,
+      "prior_variance": 1.067521,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 12.5797,
+      "prior_variance": 1.076689,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 9.8021,
+      "prior_variance": 0.79424,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 12.7568,
+      "prior_variance": 2.209969,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 13.5147,
+      "prior_variance": 0.630028,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 10.6715,
+      "prior_variance": 0.845638,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_score": 13.1259,
+      "prior_variance": 1.019803,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 10.2309,
+      "prior_variance": 1.007967,
+      "prior_n": 2
+    }
+  ]
+}

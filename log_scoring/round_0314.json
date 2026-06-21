@@ -1,0 +1,200 @@
+{
+  "round": 314,
+  "timestamp": "2026-06-13T19:29:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656309,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 7.166,
+      "prior_variance": 2.472867,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 6.3617,
+      "prior_variance": 2.063068,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 12.0021,
+      "prior_variance": 5.093845,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 7.6307,
+      "prior_variance": 4.513503,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 7.27,
+      "prior_variance": 2.122661,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 5.1335,
+      "prior_variance": 2.025477,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 8.2002,
+      "prior_variance": 2.369556,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656309,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 6.3347,
+      "prior_variance": 1.941887,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -2.479,
+      "prior_variance": 1.746328,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": 0.4349,
+      "prior_variance": 1.679531,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.325,
+      "prior_variance": 1.296132,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 4.4493,
+      "prior_variance": 1.815632,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Eastern Qing Tombs",
+      "path": "asia/china/hebei/eastern_qing_tombs",
+      "prior_score": -1.7479,
+      "prior_variance": 1.630134,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": 3.5146,
+      "prior_variance": 2.001549,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.8753,
+      "prior_variance": 1.516485,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Huayang Village",
+      "path": "asia/china/shaanxi/huayang_village",
+      "prior_score": -3.9188,
+      "prior_variance": 1.421794,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -9.5555,
+      "prior_variance": 2.527571,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -2.1801,
+      "prior_variance": 1.675041,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -8.1618,
+      "prior_variance": 2.170975,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -5.1735,
+      "prior_variance": 1.692217,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -9.7696,
+      "prior_variance": 3.693535,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -8.2824,
+      "prior_variance": 2.15711,
+      "prior_n": 1
+    }
+  ]
+}

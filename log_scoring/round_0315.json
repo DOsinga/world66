@@ -1,0 +1,200 @@
+{
+  "round": 315,
+  "timestamp": "2026-06-13T19:29:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 13.3523,
+      "prior_variance": 7.955704,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 10.0566,
+      "prior_variance": 2.7128,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656309,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 4.5126,
+      "prior_variance": 1.611918,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 2.9366,
+      "prior_variance": 1.870061,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 7.2595,
+      "prior_variance": 1.771314,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ngari",
+      "path": "asia/china/tibet/ngari",
+      "prior_score": -3.0788,
+      "prior_variance": 1.692832,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 0.4076,
+      "prior_variance": 1.862892,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe",
+      "prior_score": 5.3101,
+      "prior_variance": 1.746874,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.522,
+      "prior_variance": 1.572682,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 2.6593,
+      "prior_variance": 1.855105,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": 1.3788,
+      "prior_variance": 1.705143,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -5.4265,
+      "prior_variance": 1.834579,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -7.1794,
+      "prior_variance": 1.745761,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Antofagasta",
+      "path": "southamerica/chile/antofagasta",
+      "prior_score": -2.3177,
+      "prior_variance": 1.592943,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -1.3975,
+      "prior_variance": 1.701934,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -4.5374,
+      "prior_variance": 1.509989,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -1.1886,
+      "prior_variance": 1.649253,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -8.2824,
+      "prior_variance": 2.15711,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -8.6081,
+      "prior_variance": 1.43999,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.416,
+      "prior_variance": 1.800084,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Guide",
+      "path": "asia/china/qinghai/guide",
+      "prior_score": -6.6374,
+      "prior_variance": 2.010381,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -1.2347,
+      "prior_variance": 1.66258,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -9.3463,
+      "prior_variance": 2.557931,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1071,
+  "timestamp": "2026-06-13T20:09:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 4.1797,
+      "prior_variance": 0.463774,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": -1.0295,
+      "prior_variance": 0.418328,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.9701,
+      "prior_variance": 0.435952,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.0969,
+      "prior_variance": 0.459842,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -5.6818,
+      "prior_variance": 0.463925,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -2.6838,
+      "prior_variance": 0.440303,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -2.2529,
+      "prior_variance": 0.625505,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -2.7186,
+      "prior_variance": 0.405597,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -2.443,
+      "prior_variance": 0.421442,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.46,
+      "prior_variance": 0.34499,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -2.1224,
+      "prior_variance": 0.396846,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -2.7357,
+      "prior_variance": 0.49597,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -6.3663,
+      "prior_variance": 0.631308,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -5.6234,
+      "prior_variance": 0.559305,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -6.4475,
+      "prior_variance": 0.530899,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -5.5658,
+      "prior_variance": 0.530021,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -8.8591,
+      "prior_variance": 0.992578,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -6.0591,
+      "prior_variance": 0.408882,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.8701,
+      "prior_variance": 0.468238,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -3.9115,
+      "prior_variance": 0.444141,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mingechevir",
+      "path": "europe/azerbaijan/mingechevir",
+      "prior_score": -6.5757,
+      "prior_variance": 0.456002,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -8.7385,
+      "prior_variance": 0.740687,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -9.4905,
+      "prior_variance": 0.471886,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.5234,
+      "prior_variance": 0.461243,
+      "prior_n": 3
+    }
+  ]
+}

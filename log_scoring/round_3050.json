@@ -1,0 +1,200 @@
+{
+  "round": 3050,
+  "timestamp": "2026-06-13T22:25:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 4.6148,
+      "prior_variance": 0.138397,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 1.2535,
+      "prior_variance": 0.174222,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 1.7098,
+      "prior_variance": 0.143749,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 3.4634,
+      "prior_variance": 0.169803,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": -0.0596,
+      "prior_variance": 0.136252,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -1.1673,
+      "prior_variance": 0.140129,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": 0.0739,
+      "prior_variance": 0.146166,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -0.5674,
+      "prior_variance": 0.121009,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.0509,
+      "prior_variance": 0.139952,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -2.0529,
+      "prior_variance": 0.135165,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Surat",
+      "path": "asia/india/gujarat/surat",
+      "prior_score": -4.1454,
+      "prior_variance": 0.162776,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -2.9537,
+      "prior_variance": 0.128561,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.5217,
+      "prior_variance": 0.137567,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -5.8706,
+      "prior_variance": 0.165103,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -5.3404,
+      "prior_variance": 0.15756,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -6.5847,
+      "prior_variance": 0.21531,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -5.7687,
+      "prior_variance": 0.192658,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -5.3521,
+      "prior_variance": 0.185853,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -9.4823,
+      "prior_variance": 0.410765,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -9.9332,
+      "prior_variance": 0.40715,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -8.0173,
+      "prior_variance": 0.288778,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -5.4819,
+      "prior_variance": 0.178658,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -9.9806,
+      "prior_variance": 0.408479,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -9.9394,
+      "prior_variance": 0.26299,
+      "prior_n": 9
+    }
+  ]
+}

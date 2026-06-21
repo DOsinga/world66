@@ -1,0 +1,200 @@
+{
+  "round": 1264,
+  "timestamp": "2026-06-13T20:20:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 5.1251,
+      "prior_variance": 0.308883,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.683,
+      "prior_variance": 0.477833,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 7.0717,
+      "prior_variance": 0.420494,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 4.8317,
+      "prior_variance": 0.314864,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.1045,
+      "prior_variance": 0.399936,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 4.3631,
+      "prior_variance": 0.696223,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 3.3053,
+      "prior_variance": 0.371501,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.2259,
+      "prior_variance": 0.363511,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -1.2173,
+      "prior_variance": 0.350617,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": -0.0886,
+      "prior_variance": 0.3275,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": -0.4717,
+      "prior_variance": 0.347797,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 0.5482,
+      "prior_variance": 0.337899,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": 0.2114,
+      "prior_variance": 0.337749,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -0.8248,
+      "prior_variance": 0.401823,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": 0.0208,
+      "prior_variance": 0.382563,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -2.3358,
+      "prior_variance": 0.376414,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": -1.3434,
+      "prior_variance": 0.349376,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -1.5587,
+      "prior_variance": 0.345423,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": -0.2846,
+      "prior_variance": 0.331946,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -0.099,
+      "prior_variance": 0.386981,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.36,
+      "prior_variance": 0.368899,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -7.2659,
+      "prior_variance": 0.416043,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.2125,
+      "prior_variance": 0.342016,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -17.267,
+      "prior_variance": 0.889038,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1044,
+  "timestamp": "2026-06-13T20:07:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 2.7947,
+      "prior_variance": 0.501775,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -1.9424,
+      "prior_variance": 0.396354,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": 0.2665,
+      "prior_variance": 0.53869,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 3.3404,
+      "prior_variance": 0.577584,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": -0.0928,
+      "prior_variance": 0.418794,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 3.8392,
+      "prior_variance": 0.472435,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 1.9425,
+      "prior_variance": 0.599233,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.6315,
+      "prior_variance": 0.470367,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -0.4958,
+      "prior_variance": 0.392827,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -3.4677,
+      "prior_variance": 0.707989,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -1.3127,
+      "prior_variance": 0.410451,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": 1.3683,
+      "prior_variance": 0.381678,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -2.9256,
+      "prior_variance": 0.462675,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 3.7582,
+      "prior_variance": 0.665708,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.4434,
+      "prior_variance": 0.460091,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -1.4539,
+      "prior_variance": 0.394119,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.9635,
+      "prior_variance": 0.404761,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -2.0264,
+      "prior_variance": 0.504952,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -1.6446,
+      "prior_variance": 0.52949,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -2.3863,
+      "prior_variance": 0.437929,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -2.7913,
+      "prior_variance": 0.400451,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.0533,
+      "prior_variance": 0.423523,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.5109,
+      "prior_variance": 0.583132,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -1.7922,
+      "prior_variance": 0.457503,
+      "prior_n": 4
+    }
+  ]
+}

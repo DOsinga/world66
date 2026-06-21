@@ -1,0 +1,200 @@
+{
+  "round": 1816,
+  "timestamp": "2026-06-13T20:54:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 10.9073,
+      "prior_variance": 0.618686,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.4418,
+      "prior_variance": 0.254571,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 11.1754,
+      "prior_variance": 0.393473,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 8.568,
+      "prior_variance": 0.478877,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 2.3522,
+      "prior_variance": 0.44605,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 5.7177,
+      "prior_variance": 0.283508,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 2.47,
+      "prior_variance": 0.264111,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 6.4541,
+      "prior_variance": 0.309595,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.3915,
+      "prior_variance": 0.25774,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -3.8672,
+      "prior_variance": 0.290652,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -2.1198,
+      "prior_variance": 0.214079,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -1.2361,
+      "prior_variance": 0.390323,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -2.1163,
+      "prior_variance": 0.237229,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -1.7115,
+      "prior_variance": 0.215275,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -3.6868,
+      "prior_variance": 0.375618,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.8064,
+      "prior_variance": 0.284038,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.1815,
+      "prior_variance": 0.27382,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -3.5759,
+      "prior_variance": 0.259837,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -4.684,
+      "prior_variance": 0.245811,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -2.9525,
+      "prior_variance": 0.210645,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -3.4383,
+      "prior_variance": 0.257932,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.1953,
+      "prior_variance": 0.255682,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.7995,
+      "prior_variance": 0.378236,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -10.9806,
+      "prior_variance": 0.555612,
+      "prior_n": 6
+    }
+  ]
+}

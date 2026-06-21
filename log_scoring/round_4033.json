@@ -1,0 +1,200 @@
+{
+  "round": 4033,
+  "timestamp": "2026-06-13T23:38:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2737,
+      "prior_variance": 0.107573,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": -0.2477,
+      "prior_variance": 0.115288,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": 0.7378,
+      "prior_variance": 0.105715,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 2.8335,
+      "prior_variance": 0.095699,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.3597,
+      "prior_variance": 0.109213,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 2.2913,
+      "prior_variance": 0.131274,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Chiriqu\u00ed",
+      "path": "northamerica/panama/chiriqui",
+      "prior_score": 1.3472,
+      "prior_variance": 0.109046,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 2.066,
+      "prior_variance": 0.094553,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.4857,
+      "prior_variance": 0.1043,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 0.814,
+      "prior_variance": 0.10248,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.2732,
+      "prior_variance": 0.107237,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": -0.0906,
+      "prior_variance": 0.106819,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.0601,
+      "prior_variance": 0.09703,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": 0.8868,
+      "prior_variance": 0.097773,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.0349,
+      "prior_variance": 0.097485,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": 0.0132,
+      "prior_variance": 0.117541,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.155,
+      "prior_variance": 0.094146,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -1.0679,
+      "prior_variance": 0.090957,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -1.4361,
+      "prior_variance": 0.102651,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.5636,
+      "prior_variance": 0.113875,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -0.9123,
+      "prior_variance": 0.114255,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -2.6889,
+      "prior_variance": 0.095539,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -3.7971,
+      "prior_variance": 0.113433,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -7.9858,
+      "prior_variance": 0.220007,
+      "prior_n": 12
+    }
+  ]
+}

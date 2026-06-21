@@ -1,0 +1,200 @@
+{
+  "round": 2111,
+  "timestamp": "2026-06-13T21:19:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.6587,
+      "prior_variance": 0.232937,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 7.2148,
+      "prior_variance": 0.297364,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Royal Chitwan National Park",
+      "path": "asia/nepal/royalchitwannationalpark",
+      "prior_score": 6.018,
+      "prior_variance": 0.295365,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Cayos Cochinos",
+      "path": "northamerica/honduras/bayislands/cayos_cochinos",
+      "prior_score": 2.1396,
+      "prior_variance": 0.231039,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 4.0015,
+      "prior_variance": 0.328564,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 5.8702,
+      "prior_variance": 0.233257,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 4.068,
+      "prior_variance": 0.244358,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.7885,
+      "prior_variance": 0.225943,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 1.9165,
+      "prior_variance": 0.193345,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.6726,
+      "prior_variance": 0.258311,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": 0.1435,
+      "prior_variance": 0.215242,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.5544,
+      "prior_variance": 0.202433,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": 0.3042,
+      "prior_variance": 0.202328,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -1.8818,
+      "prior_variance": 0.179611,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.3507,
+      "prior_variance": 0.189027,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -2.0091,
+      "prior_variance": 0.216084,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.639,
+      "prior_variance": 0.180605,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.3797,
+      "prior_variance": 0.185002,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -4.0801,
+      "prior_variance": 0.251851,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -6.2567,
+      "prior_variance": 0.254874,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Touggourt",
+      "path": "africa/algeria/touggourt",
+      "prior_score": -5.9701,
+      "prior_variance": 0.299239,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -4.5032,
+      "prior_variance": 0.284241,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -8.5265,
+      "prior_variance": 0.354501,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.6379,
+      "prior_variance": 0.286127,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3743,
+  "timestamp": "2026-06-13T23:16:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 5.4468,
+      "prior_variance": 0.139193,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 2.006,
+      "prior_variance": 0.128401,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.3116,
+      "prior_variance": 0.106459,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.4749,
+      "prior_variance": 0.119787,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.1304,
+      "prior_variance": 0.110566,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.8471,
+      "prior_variance": 0.112542,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.3528,
+      "prior_variance": 0.104526,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 2.6006,
+      "prior_variance": 0.119285,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 1.8811,
+      "prior_variance": 0.111155,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.8168,
+      "prior_variance": 0.100544,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.4157,
+      "prior_variance": 0.123189,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.4235,
+      "prior_variance": 0.124287,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.6599,
+      "prior_variance": 0.108669,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -0.2892,
+      "prior_variance": 0.113426,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.7308,
+      "prior_variance": 0.1173,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.4902,
+      "prior_variance": 0.138074,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.9745,
+      "prior_variance": 0.107913,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.1853,
+      "prior_variance": 0.107388,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.1379,
+      "prior_variance": 0.134223,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.6082,
+      "prior_variance": 0.099356,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -1.6104,
+      "prior_variance": 0.135751,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -1.5947,
+      "prior_variance": 0.111509,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -3.2139,
+      "prior_variance": 0.137186,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -5.2333,
+      "prior_variance": 0.116367,
+      "prior_n": 11
+    }
+  ]
+}

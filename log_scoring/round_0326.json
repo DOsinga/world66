@@ -1,0 +1,200 @@
+{
+  "round": 326,
+  "timestamp": "2026-06-13T19:29:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 10.5051,
+      "prior_variance": 3.249345,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 8.2811,
+      "prior_variance": 2.362248,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 8.6294,
+      "prior_variance": 2.45147,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656174,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.718,
+      "prior_variance": 2.13932,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 2.9571,
+      "prior_variance": 1.609493,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": -2.1869,
+      "prior_variance": 2.071316,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.2216,
+      "prior_variance": 1.7353,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 2.9355,
+      "prior_variance": 2.05568,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.3,
+      "prior_variance": 1.667714,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -10.7201,
+      "prior_variance": 2.626506,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_score": -6.0467,
+      "prior_variance": 1.842105,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723735,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.2206,
+      "prior_variance": 1.523588,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": 1.0985,
+      "prior_variance": 1.803474,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -3.9093,
+      "prior_variance": 1.841845,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -4.9711,
+      "prior_variance": 1.772362,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -9.6372,
+      "prior_variance": 2.973579,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -4.5252,
+      "prior_variance": 1.666642,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -7.0772,
+      "prior_variance": 2.020709,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -10.3289,
+      "prior_variance": 2.809779,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -5.2043,
+      "prior_variance": 2.287234,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -10.856,
+      "prior_variance": 2.361202,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -10.8606,
+      "prior_variance": 3.445415,
+      "prior_n": 1
+    }
+  ]
+}

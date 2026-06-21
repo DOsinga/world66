@@ -1,0 +1,200 @@
+{
+  "round": 587,
+  "timestamp": "2026-06-13T19:43:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": -4.575,
+      "prior_variance": 1.383242,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -6.3687,
+      "prior_variance": 1.460655,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -7.0067,
+      "prior_variance": 0.792724,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": -5.0033,
+      "prior_variance": 0.930901,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -6.3208,
+      "prior_variance": 1.295806,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Vanadzor",
+      "path": "europe/armenia/vanadzor",
+      "prior_score": -7.6533,
+      "prior_variance": 0.794485,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -8.3509,
+      "prior_variance": 1.506592,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -6.0817,
+      "prior_variance": 1.186459,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -5.6086,
+      "prior_variance": 1.734487,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -7.7038,
+      "prior_variance": 1.471706,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -7.4082,
+      "prior_variance": 0.719975,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -5.1639,
+      "prior_variance": 0.7961,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -7.3622,
+      "prior_variance": 1.842671,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -7.5194,
+      "prior_variance": 1.270279,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -9.0339,
+      "prior_variance": 1.805707,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -8.6598,
+      "prior_variance": 0.804846,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_score": -7.3672,
+      "prior_variance": 0.753131,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Rexburg",
+      "path": "northamerica/unitedstates/idaho/rexburg",
+      "prior_score": -7.0119,
+      "prior_variance": 1.13011,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -8.2232,
+      "prior_variance": 0.67216,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -6.8221,
+      "prior_variance": 1.330817,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -7.393,
+      "prior_variance": 0.745372,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -9.2726,
+      "prior_variance": 1.072898,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -9.5154,
+      "prior_variance": 1.241283,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -13.3136,
+      "prior_variance": 7.07828,
+      "prior_n": 5
+    }
+  ]
+}

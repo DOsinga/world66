@@ -1,0 +1,200 @@
+{
+  "round": 1373,
+  "timestamp": "2026-06-13T20:26:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 8.4703,
+      "prior_variance": 0.3543,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 5.1992,
+      "prior_variance": 0.366618,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": -0.3825,
+      "prior_variance": 0.34849,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 3.0741,
+      "prior_variance": 0.313453,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 1.8356,
+      "prior_variance": 0.313468,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": 0.0573,
+      "prior_variance": 0.310338,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.3229,
+      "prior_variance": 0.319084,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 2.7879,
+      "prior_variance": 0.310059,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": -1.5764,
+      "prior_variance": 0.370946,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -3.4624,
+      "prior_variance": 0.331962,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": -0.0319,
+      "prior_variance": 0.332047,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.0534,
+      "prior_variance": 0.298949,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.0334,
+      "prior_variance": 0.335421,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.6742,
+      "prior_variance": 0.378591,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.4608,
+      "prior_variance": 0.380981,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -0.2739,
+      "prior_variance": 0.315169,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -0.6573,
+      "prior_variance": 0.28424,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.4656,
+      "prior_variance": 0.438949,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": -0.0202,
+      "prior_variance": 0.376005,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.4339,
+      "prior_variance": 0.31073,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": 0.6563,
+      "prior_variance": 0.296652,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -0.4517,
+      "prior_variance": 0.321789,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -6.6001,
+      "prior_variance": 0.379711,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -10.1256,
+      "prior_variance": 0.601927,
+      "prior_n": 4
+    }
+  ]
+}

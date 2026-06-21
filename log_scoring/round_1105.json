@@ -1,0 +1,200 @@
+{
+  "round": 1105,
+  "timestamp": "2026-06-13T20:11:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.2964,
+      "prior_variance": 0.473674,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": 1.3543,
+      "prior_variance": 0.426934,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -1.2332,
+      "prior_variance": 0.685837,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.7494,
+      "prior_variance": 0.465575,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.5963,
+      "prior_variance": 0.4113,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -2.9217,
+      "prior_variance": 0.477362,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -1.4693,
+      "prior_variance": 0.430859,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -2.2426,
+      "prior_variance": 0.487501,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -1.2322,
+      "prior_variance": 0.403437,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 2.6295,
+      "prior_variance": 0.465963,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.9817,
+      "prior_variance": 0.432459,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": -0.8648,
+      "prior_variance": 0.51599,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -1.8821,
+      "prior_variance": 0.559934,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -0.7474,
+      "prior_variance": 0.403596,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Maynooth",
+      "path": "europe/ireland/maynooth",
+      "prior_score": -2.0776,
+      "prior_variance": 0.4282,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fiuggi",
+      "path": "europe/italy/lazio/fiuggi",
+      "prior_score": 1.378,
+      "prior_variance": 0.425123,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -4.3689,
+      "prior_variance": 0.472005,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 0.448,
+      "prior_variance": 0.339322,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -2.4129,
+      "prior_variance": 0.393893,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -1.202,
+      "prior_variance": 0.419429,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -2.7492,
+      "prior_variance": 0.425158,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -1.0527,
+      "prior_variance": 0.529169,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -4.0991,
+      "prior_variance": 0.428612,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -4.2557,
+      "prior_variance": 0.541929,
+      "prior_n": 3
+    }
+  ]
+}

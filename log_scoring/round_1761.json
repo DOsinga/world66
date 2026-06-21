@@ -1,0 +1,200 @@
+{
+  "round": 1761,
+  "timestamp": "2026-06-13T20:50:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_score": 8.3828,
+      "prior_variance": 0.358599,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 6.3719,
+      "prior_variance": 0.316321,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 4.5887,
+      "prior_variance": 0.306269,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2617,
+      "prior_variance": 0.221416,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 1.2637,
+      "prior_variance": 0.261003,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.5,
+      "prior_variance": 0.262593,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -1.4949,
+      "prior_variance": 0.248066,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": -1.9466,
+      "prior_variance": 0.246733,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -4.0381,
+      "prior_variance": 0.251256,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -4.4078,
+      "prior_variance": 0.347805,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -4.0977,
+      "prior_variance": 0.237894,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -3.0368,
+      "prior_variance": 0.273339,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.9515,
+      "prior_variance": 0.299078,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_score": -4.7388,
+      "prior_variance": 0.345933,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.0678,
+      "prior_variance": 0.317171,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -4.2604,
+      "prior_variance": 0.287141,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.7908,
+      "prior_variance": 0.249008,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -3.7676,
+      "prior_variance": 0.246766,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Parkersburg",
+      "path": "northamerica/unitedstates/westvirginia/parkersburg",
+      "prior_score": -5.132,
+      "prior_variance": 0.270861,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -5.1039,
+      "prior_variance": 0.263621,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -6.0797,
+      "prior_variance": 0.381683,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -4.923,
+      "prior_variance": 0.245499,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -5.1206,
+      "prior_variance": 0.254477,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -6.541,
+      "prior_variance": 0.254208,
+      "prior_n": 5
+    }
+  ]
+}

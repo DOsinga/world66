@@ -1,0 +1,200 @@
+{
+  "round": 2607,
+  "timestamp": "2026-06-13T21:54:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 6.8324,
+      "prior_variance": 0.181526,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.935,
+      "prior_variance": 0.176185,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -1.1019,
+      "prior_variance": 0.154126,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -1.2008,
+      "prior_variance": 0.159487,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -3.0349,
+      "prior_variance": 0.186845,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -4.2494,
+      "prior_variance": 0.142383,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -4.1594,
+      "prior_variance": 0.19056,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.5013,
+      "prior_variance": 0.173547,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -4.2544,
+      "prior_variance": 0.215395,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.6694,
+      "prior_variance": 0.177409,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.472,
+      "prior_variance": 0.167652,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.5213,
+      "prior_variance": 0.168116,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_score": -3.5058,
+      "prior_variance": 0.204851,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.6887,
+      "prior_variance": 0.19662,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -3.2732,
+      "prior_variance": 0.157513,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -4.2974,
+      "prior_variance": 0.23334,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.662,
+      "prior_variance": 0.190807,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -5.0195,
+      "prior_variance": 0.204438,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -4.8099,
+      "prior_variance": 0.175626,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -5.7741,
+      "prior_variance": 0.276527,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -5.9274,
+      "prior_variance": 0.225138,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -6.8423,
+      "prior_variance": 0.216625,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -8.2784,
+      "prior_variance": 0.30337,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.8662,
+      "prior_variance": 0.346206,
+      "prior_n": 8
+    }
+  ]
+}

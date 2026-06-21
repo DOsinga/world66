@@ -1,0 +1,200 @@
+{
+  "round": 704,
+  "timestamp": "2026-06-13T19:49:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 12.5866,
+      "prior_variance": 1.795851,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 11.8166,
+      "prior_variance": 0.847065,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 10.4506,
+      "prior_variance": 1.345107,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 10.6915,
+      "prior_variance": 1.255172,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 11.7377,
+      "prior_variance": 1.857421,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 11.2536,
+      "prior_variance": 1.245656,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 10.1603,
+      "prior_variance": 0.818056,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 7.7202,
+      "prior_variance": 0.616869,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 9.298,
+      "prior_variance": 1.375376,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 6.0986,
+      "prior_variance": 0.956376,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 5.5122,
+      "prior_variance": 0.671727,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 8.9949,
+      "prior_variance": 1.90486,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Zell am See",
+      "path": "europe/austria/zellamsee",
+      "prior_score": 10.2858,
+      "prior_variance": 0.979509,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 6.1872,
+      "prior_variance": 1.019849,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 7.0849,
+      "prior_variance": 1.871656,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 6.7572,
+      "prior_variance": 0.702922,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 11.1489,
+      "prior_variance": 0.995517,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Tarragona",
+      "path": "europe/spain/catalonia/tarragona",
+      "prior_score": 10.0805,
+      "prior_variance": 0.849027,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 10.9028,
+      "prior_variance": 1.341253,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 7.9908,
+      "prior_variance": 0.915497,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lviv",
+      "path": "europe/ukraine/lviv",
+      "prior_score": 10.8354,
+      "prior_variance": 0.816407,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 7.7969,
+      "prior_variance": 0.78614,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 8.12,
+      "prior_variance": 0.674861,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 6.4696,
+      "prior_variance": 0.869533,
+      "prior_n": 2
+    }
+  ]
+}

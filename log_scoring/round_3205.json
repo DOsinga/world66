@@ -1,0 +1,200 @@
+{
+  "round": 3205,
+  "timestamp": "2026-06-13T22:36:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 14.6824,
+      "prior_variance": 0.72949,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 11.2244,
+      "prior_variance": 0.468072,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 8.8394,
+      "prior_variance": 0.217689,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.168,
+      "prior_variance": 0.133135,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.2583,
+      "prior_variance": 0.112367,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -2.0676,
+      "prior_variance": 0.14742,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.3487,
+      "prior_variance": 0.153248,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -2.5839,
+      "prior_variance": 0.1328,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -3.8696,
+      "prior_variance": 0.181269,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.7352,
+      "prior_variance": 0.130308,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -2.7259,
+      "prior_variance": 0.165896,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -5.7696,
+      "prior_variance": 0.158911,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Duisburg",
+      "path": "europe/germany/northrhinewestphalia/duisburg",
+      "prior_score": -4.9427,
+      "prior_variance": 0.219049,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.0388,
+      "prior_variance": 0.152292,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -2.9724,
+      "prior_variance": 0.120716,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_score": -6.4047,
+      "prior_variance": 0.188219,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -4.5795,
+      "prior_variance": 0.162923,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -6.0535,
+      "prior_variance": 0.188677,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.2334,
+      "prior_variance": 0.258644,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.3552,
+      "prior_variance": 0.179924,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -6.542,
+      "prior_variance": 0.164182,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -4.9114,
+      "prior_variance": 0.143033,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Huangshi",
+      "path": "asia/china/hubei/huangshi",
+      "prior_score": -5.5797,
+      "prior_variance": 0.189114,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -6.9214,
+      "prior_variance": 0.214201,
+      "prior_n": 10
+    }
+  ]
+}

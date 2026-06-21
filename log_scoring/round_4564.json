@@ -1,0 +1,200 @@
+{
+  "round": 4564,
+  "timestamp": "2026-06-14T00:22:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 5.8383,
+      "prior_variance": 0.118145,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 2.9622,
+      "prior_variance": 0.086515,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Suzhou",
+      "path": "asia/china/jiangsu_province/suzhou",
+      "prior_score": 5.2299,
+      "prior_variance": 0.106254,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.0501,
+      "prior_variance": 0.103717,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.2266,
+      "prior_variance": 0.097418,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 2.0875,
+      "prior_variance": 0.115372,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.11,
+      "prior_variance": 0.092526,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 1.8177,
+      "prior_variance": 0.103101,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 0.2327,
+      "prior_variance": 0.088089,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -1.8022,
+      "prior_variance": 0.103601,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.2381,
+      "prior_variance": 0.095451,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.8481,
+      "prior_variance": 0.085343,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -2.803,
+      "prior_variance": 0.104814,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -4.6159,
+      "prior_variance": 0.128503,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.3855,
+      "prior_variance": 0.135767,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_domingos",
+      "prior_score": -2.2011,
+      "prior_variance": 0.098675,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -2.944,
+      "prior_variance": 0.092625,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -3.3738,
+      "prior_variance": 0.095261,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.073,
+      "prior_variance": 0.106971,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.9205,
+      "prior_variance": 0.118967,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.3811,
+      "prior_variance": 0.121457,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.7853,
+      "prior_variance": 0.128751,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.5574,
+      "prior_variance": 0.126943,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -7.572,
+      "prior_variance": 0.176777,
+      "prior_n": 14
+    }
+  ]
+}

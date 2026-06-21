@@ -1,0 +1,200 @@
+{
+  "round": 1257,
+  "timestamp": "2026-06-13T20:19:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 23.7258,
+      "prior_variance": 2.029742,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 10.3806,
+      "prior_variance": 0.500626,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 5.7697,
+      "prior_variance": 0.41329,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 7.0431,
+      "prior_variance": 0.457799,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 4.3588,
+      "prior_variance": 0.354125,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 5.7189,
+      "prior_variance": 0.396753,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.6918,
+      "prior_variance": 0.338813,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 1.2418,
+      "prior_variance": 0.353122,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 1.6525,
+      "prior_variance": 0.474614,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 4.2745,
+      "prior_variance": 0.402339,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -1.4428,
+      "prior_variance": 0.354007,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -3.445,
+      "prior_variance": 0.373115,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 1.2416,
+      "prior_variance": 0.312118,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -2.2374,
+      "prior_variance": 0.391932,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.5101,
+      "prior_variance": 0.324692,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.6855,
+      "prior_variance": 0.3184,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.6503,
+      "prior_variance": 0.708402,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.4495,
+      "prior_variance": 0.666289,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -4.2447,
+      "prior_variance": 0.381195,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.5585,
+      "prior_variance": 0.321006,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_score": -6.5057,
+      "prior_variance": 0.389009,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -7.6185,
+      "prior_variance": 0.286908,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -9.3264,
+      "prior_variance": 0.435391,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Khongjom",
+      "path": "asia/india/manipur/khongjom",
+      "prior_score": -9.0035,
+      "prior_variance": 0.541076,
+      "prior_n": 3
+    }
+  ]
+}

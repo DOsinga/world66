@@ -1,0 +1,200 @@
+{
+  "round": 1562,
+  "timestamp": "2026-06-13T20:38:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 5.1376,
+      "prior_variance": 0.311593,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 4.8008,
+      "prior_variance": 0.29543,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 5.4313,
+      "prior_variance": 0.304601,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 3.1077,
+      "prior_variance": 0.276004,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.68,
+      "prior_variance": 0.274378,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.3741,
+      "prior_variance": 0.310391,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 2.1839,
+      "prior_variance": 0.277692,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 3.9494,
+      "prior_variance": 0.336504,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.3676,
+      "prior_variance": 0.273729,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -1.8146,
+      "prior_variance": 0.283822,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.7305,
+      "prior_variance": 0.253211,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -1.1325,
+      "prior_variance": 0.267579,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -2.1326,
+      "prior_variance": 0.297154,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.2983,
+      "prior_variance": 0.243193,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -4.9742,
+      "prior_variance": 0.463541,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -3.4114,
+      "prior_variance": 0.260854,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.5398,
+      "prior_variance": 0.384831,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.5485,
+      "prior_variance": 0.249589,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -5.3078,
+      "prior_variance": 0.38986,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -4.2276,
+      "prior_variance": 0.246207,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -4.1413,
+      "prior_variance": 0.297716,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -5.544,
+      "prior_variance": 0.27439,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -7.8831,
+      "prior_variance": 0.429424,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.6897,
+      "prior_variance": 0.312215,
+      "prior_n": 5
+    }
+  ]
+}

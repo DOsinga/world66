@@ -1,0 +1,200 @@
+{
+  "round": 4612,
+  "timestamp": "2026-06-14T00:26:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 11.2473,
+      "prior_variance": 0.445219,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 10.2076,
+      "prior_variance": 0.238024,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 7.5169,
+      "prior_variance": 0.140654,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 5.3117,
+      "prior_variance": 0.126651,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.4593,
+      "prior_variance": 0.099642,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 2.5488,
+      "prior_variance": 0.099033,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 4.2743,
+      "prior_variance": 0.098783,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 4.1227,
+      "prior_variance": 0.099297,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 1.9347,
+      "prior_variance": 0.09181,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 5.0549,
+      "prior_variance": 0.113246,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 2.9823,
+      "prior_variance": 0.099025,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 3.6507,
+      "prior_variance": 0.0979,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 1.6642,
+      "prior_variance": 0.087028,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.6226,
+      "prior_variance": 0.091865,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.4453,
+      "prior_variance": 0.098344,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 0.8887,
+      "prior_variance": 0.085811,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.4772,
+      "prior_variance": 0.128601,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -1.1108,
+      "prior_variance": 0.106866,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.2499,
+      "prior_variance": 0.088925,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -3.415,
+      "prior_variance": 0.092488,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Changchun",
+      "path": "asia/china/jilin/changchun",
+      "prior_score": -3.3783,
+      "prior_variance": 0.096723,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -2.254,
+      "prior_variance": 0.097751,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.8435,
+      "prior_variance": 0.094612,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -9.4208,
+      "prior_variance": 0.22101,
+      "prior_n": 14
+    }
+  ]
+}

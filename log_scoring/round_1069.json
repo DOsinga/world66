@@ -1,0 +1,200 @@
+{
+  "round": 1069,
+  "timestamp": "2026-06-13T20:09:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -3.0878,
+      "prior_variance": 0.519734,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_city",
+      "prior_score": -3.4371,
+      "prior_variance": 0.403145,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.5609,
+      "prior_variance": 0.410271,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -5.5486,
+      "prior_variance": 0.500493,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -5.7307,
+      "prior_variance": 0.87583,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -3.9103,
+      "prior_variance": 0.565641,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_score": -4.9003,
+      "prior_variance": 0.605819,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -3.9921,
+      "prior_variance": 0.410042,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -5.5441,
+      "prior_variance": 0.63863,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -3.7424,
+      "prior_variance": 0.448903,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -3.2124,
+      "prior_variance": 0.582941,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -4.3574,
+      "prior_variance": 0.576795,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -4.3301,
+      "prior_variance": 0.578058,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -5.3974,
+      "prior_variance": 0.545475,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -5.841,
+      "prior_variance": 0.607195,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -3.1757,
+      "prior_variance": 0.390473,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -3.6678,
+      "prior_variance": 0.408894,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -5.4567,
+      "prior_variance": 0.619401,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -3.4009,
+      "prior_variance": 0.427723,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": -4.9401,
+      "prior_variance": 1.019708,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -3.6718,
+      "prior_variance": 0.424975,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ocotepeque",
+      "path": "northamerica/honduras/ocotepeque",
+      "prior_score": -5.7128,
+      "prior_variance": 0.411065,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -5.5556,
+      "prior_variance": 0.505343,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -5.4459,
+      "prior_variance": 0.621996,
+      "prior_n": 3
+    }
+  ]
+}

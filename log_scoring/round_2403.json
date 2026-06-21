@@ -1,0 +1,200 @@
+{
+  "round": 2403,
+  "timestamp": "2026-06-13T21:40:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 6.8152,
+      "prior_variance": 0.212378,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 5.811,
+      "prior_variance": 0.211976,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 4.6074,
+      "prior_variance": 0.259043,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 4.2556,
+      "prior_variance": 0.188859,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.4767,
+      "prior_variance": 0.239531,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 4.3213,
+      "prior_variance": 0.222602,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.2301,
+      "prior_variance": 0.219101,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -2.66,
+      "prior_variance": 0.262837,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -1.5848,
+      "prior_variance": 0.192219,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -0.9559,
+      "prior_variance": 0.177434,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.4572,
+      "prior_variance": 0.178648,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -0.4146,
+      "prior_variance": 0.158359,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks",
+      "prior_score": -1.0522,
+      "prior_variance": 0.187455,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.528,
+      "prior_variance": 0.186245,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.029,
+      "prior_variance": 0.175513,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -2.5161,
+      "prior_variance": 0.183611,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -3.122,
+      "prior_variance": 0.201607,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.8284,
+      "prior_variance": 0.167245,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -2.7624,
+      "prior_variance": 0.182714,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -3.9623,
+      "prior_variance": 0.219752,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -5.1397,
+      "prior_variance": 0.218593,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -2.9951,
+      "prior_variance": 0.192033,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.7455,
+      "prior_variance": 0.23046,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Gitega",
+      "path": "africa/burundi/gitega",
+      "prior_score": -7.5649,
+      "prior_variance": 0.273775,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2372,
+  "timestamp": "2026-06-13T21:38:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 3.2065,
+      "prior_variance": 0.271003,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.8676,
+      "prior_variance": 0.207047,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.413,
+      "prior_variance": 0.186607,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 3.9991,
+      "prior_variance": 0.213349,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 2.7358,
+      "prior_variance": 0.190991,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 5.0879,
+      "prior_variance": 0.209043,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 0.0472,
+      "prior_variance": 0.215415,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.303,
+      "prior_variance": 0.199711,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 2.5674,
+      "prior_variance": 0.215291,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -0.7712,
+      "prior_variance": 0.209753,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 1.6937,
+      "prior_variance": 0.192493,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": 0.3436,
+      "prior_variance": 0.182049,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.1998,
+      "prior_variance": 0.18307,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 0.9913,
+      "prior_variance": 0.163305,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 1.4958,
+      "prior_variance": 0.206951,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 0.9909,
+      "prior_variance": 0.182368,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.5241,
+      "prior_variance": 0.175607,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.7747,
+      "prior_variance": 0.1983,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -0.3968,
+      "prior_variance": 0.171912,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": -0.5782,
+      "prior_variance": 0.138966,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": 0.0658,
+      "prior_variance": 0.159878,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.7557,
+      "prior_variance": 0.177127,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -0.8638,
+      "prior_variance": 0.186376,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.5519,
+      "prior_variance": 0.315968,
+      "prior_n": 8
+    }
+  ]
+}

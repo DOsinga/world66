@@ -1,0 +1,200 @@
+{
+  "round": 1653,
+  "timestamp": "2026-06-13T20:44:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 9.8953,
+      "prior_variance": 0.495923,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.566,
+      "prior_variance": 0.260654,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 4.2814,
+      "prior_variance": 0.279756,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.4268,
+      "prior_variance": 0.267964,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 5.7665,
+      "prior_variance": 0.284027,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.9629,
+      "prior_variance": 0.320883,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": 0.4052,
+      "prior_variance": 0.278332,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.9215,
+      "prior_variance": 0.242409,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -1.0322,
+      "prior_variance": 0.381899,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 2.2032,
+      "prior_variance": 0.257048,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -3.7651,
+      "prior_variance": 0.399028,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.2616,
+      "prior_variance": 0.277979,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.2398,
+      "prior_variance": 0.244739,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.2233,
+      "prior_variance": 0.283744,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.9332,
+      "prior_variance": 0.249172,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -1.6848,
+      "prior_variance": 0.234616,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -2.7173,
+      "prior_variance": 0.250011,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -2.2533,
+      "prior_variance": 0.280324,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -5.8132,
+      "prior_variance": 0.325674,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -3.3339,
+      "prior_variance": 0.881039,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -7.5422,
+      "prior_variance": 0.362612,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -5.3589,
+      "prior_variance": 0.346773,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -11.3177,
+      "prior_variance": 0.590493,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": -5.466,
+      "prior_variance": 0.363426,
+      "prior_n": 5
+    }
+  ]
+}

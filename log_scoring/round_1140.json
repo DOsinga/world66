@@ -1,0 +1,200 @@
+{
+  "round": 1140,
+  "timestamp": "2026-06-13T20:13:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 12.7704,
+      "prior_variance": 0.68935,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 10.5014,
+      "prior_variance": 0.697268,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 10.2512,
+      "prior_variance": 0.584001,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 9.5491,
+      "prior_variance": 0.595801,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 9.4034,
+      "prior_variance": 0.605956,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 9.2561,
+      "prior_variance": 0.527098,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 9.6836,
+      "prior_variance": 0.468974,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Nagasaki",
+      "path": "asia/japan/kyushu/nagasaki",
+      "prior_score": 10.4236,
+      "prior_variance": 0.579126,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 9.9213,
+      "prior_variance": 0.602276,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_score": 10.6341,
+      "prior_variance": 0.573623,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 12.1596,
+      "prior_variance": 0.446359,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 8.7593,
+      "prior_variance": 0.499304,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 7.7362,
+      "prior_variance": 0.497078,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 3.3836,
+      "prior_variance": 0.456484,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 9.7533,
+      "prior_variance": 0.75325,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Magnetic Island",
+      "path": "australiaandpacific/australia/queensland/magnetic_island",
+      "prior_score": 5.954,
+      "prior_variance": 0.48217,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": -0.2263,
+      "prior_variance": 0.433101,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": -0.8773,
+      "prior_variance": 0.422095,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -4.0565,
+      "prior_variance": 0.436683,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -8.3678,
+      "prior_variance": 0.643286,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -7.9017,
+      "prior_variance": 0.42568,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -7.1342,
+      "prior_variance": 0.595233,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -7.9228,
+      "prior_variance": 0.424549,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -8.2909,
+      "prior_variance": 0.497936,
+      "prior_n": 3
+    }
+  ]
+}

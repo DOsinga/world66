@@ -1,0 +1,200 @@
+{
+  "round": 378,
+  "timestamp": "2026-06-13T19:32:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": -1.4815,
+      "prior_variance": 3.705239,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -3.5277,
+      "prior_variance": 1.717912,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -5.4028,
+      "prior_variance": 1.81656,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": -1.6223,
+      "prior_variance": 1.67024,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -2.764,
+      "prior_variance": 1.860043,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -8.0498,
+      "prior_variance": 11.367263,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -1.4484,
+      "prior_variance": 1.533239,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.8459,
+      "prior_variance": 2.183036,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -2.7175,
+      "prior_variance": 6.025145,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kondoa",
+      "path": "africa/tanzania/kondoa",
+      "prior_score": -5.7688,
+      "prior_variance": 1.554223,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -7.1921,
+      "prior_variance": 2.926408,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -11.7055,
+      "prior_variance": 3.278693,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -7.8859,
+      "prior_variance": 1.456355,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -5.8584,
+      "prior_variance": 1.439571,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -4.9098,
+      "prior_variance": 1.331427,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -10.7024,
+      "prior_variance": 3.423272,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -7.6272,
+      "prior_variance": 2.773906,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -5.4518,
+      "prior_variance": 1.493436,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -13.8874,
+      "prior_variance": 7.34918,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -7.0356,
+      "prior_variance": 1.668196,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -8.5406,
+      "prior_variance": 1.563019,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -10.146,
+      "prior_variance": 2.449449,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -13.1917,
+      "prior_variance": 7.677107,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -9.5059,
+      "prior_variance": 2.534753,
+      "prior_n": 1
+    }
+  ]
+}

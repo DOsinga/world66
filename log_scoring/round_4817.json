@@ -1,0 +1,200 @@
+{
+  "round": 4817,
+  "timestamp": "2026-06-14T00:44:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.4474,
+      "prior_variance": 0.120297,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 5.9416,
+      "prior_variance": 0.104402,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 3.1987,
+      "prior_variance": 0.096654,
+      "prior_n": 17
+    },
+    {
+      "rank": 4,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 3.9229,
+      "prior_variance": 0.092603,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 0.751,
+      "prior_variance": 0.094645,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.9964,
+      "prior_variance": 0.087141,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_score": 3.6026,
+      "prior_variance": 0.126652,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 2.8887,
+      "prior_variance": 0.09146,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 4.8538,
+      "prior_variance": 0.099037,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.0644,
+      "prior_variance": 0.096126,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.5826,
+      "prior_variance": 0.09065,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.1386,
+      "prior_variance": 0.082733,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.2212,
+      "prior_variance": 0.076104,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": 0.8882,
+      "prior_variance": 0.083065,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -0.7947,
+      "prior_variance": 0.085361,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.0262,
+      "prior_variance": 0.081824,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.4217,
+      "prior_variance": 0.082901,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.8033,
+      "prior_variance": 0.088817,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -1.8139,
+      "prior_variance": 0.076431,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.7729,
+      "prior_variance": 0.087717,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -0.9103,
+      "prior_variance": 0.093459,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -1.3741,
+      "prior_variance": 0.090798,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Tonghua",
+      "path": "asia/china/jilin/tonghua",
+      "prior_score": -3.8412,
+      "prior_variance": 0.101136,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -13.7372,
+      "prior_variance": 1.016824,
+      "prior_n": 15
+    }
+  ]
+}

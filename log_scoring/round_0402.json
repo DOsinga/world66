@@ -1,0 +1,200 @@
+{
+  "round": 402,
+  "timestamp": "2026-06-13T19:33:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_score": 0.4074,
+      "prior_variance": 1.843419,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 1.9619,
+      "prior_variance": 1.714768,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.5092,
+      "prior_variance": 1.517705,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 0.0161,
+      "prior_variance": 1.306567,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.4926,
+      "prior_variance": 1.587987,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -4.9718,
+      "prior_variance": 1.484577,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -4.8113,
+      "prior_variance": 1.438316,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -2.2987,
+      "prior_variance": 1.801172,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -6.0603,
+      "prior_variance": 2.473857,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -3.2318,
+      "prior_variance": 2.343303,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.016,
+      "prior_variance": 1.668834,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.8832,
+      "prior_variance": 1.787905,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": 0.536,
+      "prior_variance": 2.90541,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.7679,
+      "prior_variance": 1.69258,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -3.1922,
+      "prior_variance": 2.159209,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.398,
+      "prior_variance": 1.910764,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": 0.0571,
+      "prior_variance": 1.416692,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -1.3543,
+      "prior_variance": 1.540879,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.755,
+      "prior_variance": 1.650182,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -0.1259,
+      "prior_variance": 1.479375,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -6.6953,
+      "prior_variance": 2.685903,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -5.235,
+      "prior_variance": 2.659361,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -5.3913,
+      "prior_variance": 1.349733,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -8.8846,
+      "prior_variance": 2.659715,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1791,
+  "timestamp": "2026-06-13T20:52:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 12.9817,
+      "prior_variance": 0.659803,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 8.0666,
+      "prior_variance": 0.303499,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 3.9973,
+      "prior_variance": 0.312111,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.5227,
+      "prior_variance": 0.229478,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 2.0956,
+      "prior_variance": 0.219376,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 4.537,
+      "prior_variance": 0.270467,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 1.5177,
+      "prior_variance": 0.209052,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 2.1238,
+      "prior_variance": 0.215036,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.4563,
+      "prior_variance": 0.261231,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.2938,
+      "prior_variance": 0.200448,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -1.5772,
+      "prior_variance": 0.265079,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -1.3946,
+      "prior_variance": 0.218668,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bragan\u00e7a",
+      "path": "europe/portugal/bragana",
+      "prior_score": 0.1375,
+      "prior_variance": 0.213742,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.2425,
+      "prior_variance": 0.211529,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.6158,
+      "prior_variance": 0.227938,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 1.2569,
+      "prior_variance": 0.380957,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.3769,
+      "prior_variance": 0.237747,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -2.1176,
+      "prior_variance": 0.232093,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.265,
+      "prior_variance": 0.300624,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -1.2866,
+      "prior_variance": 0.238533,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -1.0117,
+      "prior_variance": 0.256381,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -4.1192,
+      "prior_variance": 0.226857,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.1209,
+      "prior_variance": 0.298126,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.9736,
+      "prior_variance": 0.57374,
+      "prior_n": 5
+    }
+  ]
+}

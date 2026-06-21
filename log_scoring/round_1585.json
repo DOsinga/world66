@@ -1,0 +1,200 @@
+{
+  "round": 1585,
+  "timestamp": "2026-06-13T20:39:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.8853,
+      "prior_variance": 0.315622,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 7.1087,
+      "prior_variance": 0.394451,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.8853,
+      "prior_variance": 0.286528,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 7.0602,
+      "prior_variance": 0.349544,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 5.3006,
+      "prior_variance": 0.321568,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Eastern Qing Tombs",
+      "path": "asia/china/hebei/eastern_qing_tombs",
+      "prior_score": -0.2026,
+      "prior_variance": 0.249329,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 4.793,
+      "prior_variance": 0.303621,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 2.0043,
+      "prior_variance": 0.299998,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 2.6262,
+      "prior_variance": 0.362595,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ajlun",
+      "path": "asia/jordan/ajlun",
+      "prior_score": -0.2908,
+      "prior_variance": 0.276453,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.0778,
+      "prior_variance": 0.304277,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.2033,
+      "prior_variance": 0.273896,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.4686,
+      "prior_variance": 0.300544,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.5983,
+      "prior_variance": 0.24526,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -1.862,
+      "prior_variance": 0.323644,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -4.9041,
+      "prior_variance": 0.316288,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.2835,
+      "prior_variance": 0.30087,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_score": -0.9065,
+      "prior_variance": 0.31535,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -3.4187,
+      "prior_variance": 0.242862,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -3.0433,
+      "prior_variance": 0.245195,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -4.7373,
+      "prior_variance": 0.549914,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -3.881,
+      "prior_variance": 0.319488,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -5.1572,
+      "prior_variance": 0.33187,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -4.4364,
+      "prior_variance": 0.339665,
+      "prior_n": 5
+    }
+  ]
+}

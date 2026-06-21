@@ -1,0 +1,200 @@
+{
+  "round": 1678,
+  "timestamp": "2026-06-13T20:45:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 4.0998,
+      "prior_variance": 0.317498,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 2.6494,
+      "prior_variance": 0.278685,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_score": 4.6695,
+      "prior_variance": 0.35283,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.7685,
+      "prior_variance": 0.285725,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 4.3327,
+      "prior_variance": 0.292646,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 1.6336,
+      "prior_variance": 0.331318,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.6213,
+      "prior_variance": 0.241919,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 1.8416,
+      "prior_variance": 0.310972,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.1039,
+      "prior_variance": 0.314507,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.8287,
+      "prior_variance": 0.264862,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.7211,
+      "prior_variance": 0.259873,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.1543,
+      "prior_variance": 0.249235,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -5.8457,
+      "prior_variance": 0.33645,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -6.8396,
+      "prior_variance": 0.497411,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lagos",
+      "path": "africa/nigeria/lagos",
+      "prior_score": -6.4476,
+      "prior_variance": 0.381919,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -5.0975,
+      "prior_variance": 0.282384,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -4.686,
+      "prior_variance": 0.293294,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -5.0535,
+      "prior_variance": 0.315268,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -6.1711,
+      "prior_variance": 0.296128,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -7.5566,
+      "prior_variance": 0.538823,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -6.2938,
+      "prior_variance": 0.309929,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -7.1817,
+      "prior_variance": 0.342123,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -9.7092,
+      "prior_variance": 0.668448,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -8.0248,
+      "prior_variance": 0.563465,
+      "prior_n": 5
+    }
+  ]
+}

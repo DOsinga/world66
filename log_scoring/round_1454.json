@@ -1,0 +1,200 @@
+{
+  "round": 1454,
+  "timestamp": "2026-06-13T20:31:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 16.7403,
+      "prior_variance": 1.039181,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 6.4287,
+      "prior_variance": 0.406164,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.9776,
+      "prior_variance": 0.360103,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 10.4382,
+      "prior_variance": 0.442938,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 5.6987,
+      "prior_variance": 0.273676,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 5.1318,
+      "prior_variance": 0.286515,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 4.7653,
+      "prior_variance": 0.297441,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lake Naivasha",
+      "path": "africa/kenya/lakes/lakenaivasha",
+      "prior_score": 4.2265,
+      "prior_variance": 0.328837,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": 4.1791,
+      "prior_variance": 0.366571,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.0139,
+      "prior_variance": 0.252448,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 5.4454,
+      "prior_variance": 0.316938,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": 0.0022,
+      "prior_variance": 0.316158,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.8034,
+      "prior_variance": 0.33837,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 1.1275,
+      "prior_variance": 0.356073,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": -0.433,
+      "prior_variance": 0.318405,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -5.0467,
+      "prior_variance": 0.481221,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 4.6955,
+      "prior_variance": 0.380191,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": 0.6314,
+      "prior_variance": 0.321826,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -1.5273,
+      "prior_variance": 0.295362,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -4.445,
+      "prior_variance": 0.446117,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -3.1078,
+      "prior_variance": 0.41483,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ballincollig",
+      "path": "europe/ireland/ballincollig",
+      "prior_score": -4.0379,
+      "prior_variance": 0.308315,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.3015,
+      "prior_variance": 0.315547,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -2.6745,
+      "prior_variance": 0.375058,
+      "prior_n": 4
+    }
+  ]
+}

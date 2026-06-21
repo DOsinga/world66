@@ -1,0 +1,200 @@
+{
+  "round": 1668,
+  "timestamp": "2026-06-13T20:45:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 9.7426,
+      "prior_variance": 0.372854,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 6.0123,
+      "prior_variance": 0.301364,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 5.9637,
+      "prior_variance": 0.378263,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 4.5715,
+      "prior_variance": 0.258557,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 5.0638,
+      "prior_variance": 0.270944,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nancy",
+      "path": "europe/france/east/lorraine/nancy",
+      "prior_score": 4.4133,
+      "prior_variance": 0.26481,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.5454,
+      "prior_variance": 0.25493,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 4.4721,
+      "prior_variance": 0.317518,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 6.4465,
+      "prior_variance": 0.388437,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_score": -0.0398,
+      "prior_variance": 0.25262,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 6.1414,
+      "prior_variance": 0.346186,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 5.2169,
+      "prior_variance": 0.361993,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 0.955,
+      "prior_variance": 0.249787,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.5891,
+      "prior_variance": 0.270626,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -3.9484,
+      "prior_variance": 0.209963,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadal_city_1",
+      "prior_score": -4.5284,
+      "prior_variance": 0.25714,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sherbro Island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.8206,
+      "prior_variance": 0.317551,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -8.5343,
+      "prior_variance": 0.387312,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Linyi",
+      "path": "asia/china/shandong_province/linyi",
+      "prior_score": -6.6701,
+      "prior_variance": 0.399045,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -6.4389,
+      "prior_variance": 0.286644,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -6.1189,
+      "prior_variance": 0.354187,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -5.1061,
+      "prior_variance": 0.258124,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/south_east/croydon",
+      "prior_score": -6.9268,
+      "prior_variance": 0.573704,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -11.4314,
+      "prior_variance": 0.687,
+      "prior_n": 5
+    }
+  ]
+}

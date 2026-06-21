@@ -1,0 +1,200 @@
+{
+  "round": 917,
+  "timestamp": "2026-06-13T20:00:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 14.7711,
+      "prior_variance": 1.294751,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 15.3383,
+      "prior_variance": 1.313926,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 14.2203,
+      "prior_variance": 1.05501,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 8.2851,
+      "prior_variance": 0.63844,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kuching",
+      "path": "asia/malaysia/sarawak/kuching",
+      "prior_score": 7.2476,
+      "prior_variance": 0.971663,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Luang Namtha",
+      "path": "asia/laos/luangnamtha",
+      "prior_score": -0.0436,
+      "prior_variance": 0.452426,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Xijiang Miao Village",
+      "path": "asia/china/guizhou/xijiang",
+      "prior_score": 3.9235,
+      "prior_variance": 0.647256,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 3.1656,
+      "prior_variance": 0.727405,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 4.2907,
+      "prior_variance": 0.754889,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 4.3001,
+      "prior_variance": 0.451631,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 13.7858,
+      "prior_variance": 0.968577,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Grande-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/grandeterre",
+      "prior_score": 9.9019,
+      "prior_variance": 0.64355,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 2.6856,
+      "prior_variance": 0.575515,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 4.907,
+      "prior_variance": 1.128852,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 1.4843,
+      "prior_variance": 0.761058,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.8481,
+      "prior_variance": 0.454713,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 4.1218,
+      "prior_variance": 0.767918,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 1.8911,
+      "prior_variance": 1.185129,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 3.8162,
+      "prior_variance": 0.640807,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 3.9454,
+      "prior_variance": 0.598424,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Healdsburg",
+      "path": "northamerica/unitedstates/california/northcoast/healdsburg",
+      "prior_score": 1.9228,
+      "prior_variance": 0.480325,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 1.1868,
+      "prior_variance": 1.17805,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 1.4944,
+      "prior_variance": 0.612242,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": -0.0314,
+      "prior_variance": 1.015783,
+      "prior_n": 3
+    }
+  ]
+}

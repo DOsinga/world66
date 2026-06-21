@@ -1,0 +1,200 @@
+{
+  "round": 644,
+  "timestamp": "2026-06-13T19:46:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -6.8097,
+      "prior_variance": 0.797798,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -8.1074,
+      "prior_variance": 1.093807,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -7.02,
+      "prior_variance": 1.23128,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -7.3698,
+      "prior_variance": 0.739636,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tacloban City",
+      "path": "asia/philippines/taclobancity",
+      "prior_score": -4.4085,
+      "prior_variance": 0.848711,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -5.5178,
+      "prior_variance": 1.00149,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -2.9844,
+      "prior_variance": 1.28387,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -6.6048,
+      "prior_variance": 0.635138,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract",
+      "prior_score": -7.367,
+      "prior_variance": 0.605671,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -5.9603,
+      "prior_variance": 0.88026,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -5.5744,
+      "prior_variance": 0.659551,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -5.1505,
+      "prior_variance": 0.763088,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -5.9671,
+      "prior_variance": 0.704073,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": -6.955,
+      "prior_variance": 1.451923,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -6.9409,
+      "prior_variance": 0.8912,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gastonia",
+      "path": "northamerica/unitedstates/northcarolina/gastonia",
+      "prior_score": -6.6501,
+      "prior_variance": 0.807011,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -7.1906,
+      "prior_variance": 1.007798,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -6.975,
+      "prior_variance": 0.864727,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -9.1103,
+      "prior_variance": 1.334874,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Weatherford",
+      "path": "northamerica/unitedstates/oklahoma/weatherford",
+      "prior_score": -9.2538,
+      "prior_variance": 1.255269,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -8.0479,
+      "prior_variance": 0.970068,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Dokki",
+      "path": "africa/egypt/dokki",
+      "prior_score": -6.7163,
+      "prior_variance": 0.825781,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -8.0043,
+      "prior_variance": 1.08327,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -8.3156,
+      "prior_variance": 0.926579,
+      "prior_n": 2
+    }
+  ]
+}

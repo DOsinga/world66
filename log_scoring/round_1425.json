@@ -1,0 +1,200 @@
+{
+  "round": 1425,
+  "timestamp": "2026-06-13T20:29:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 18.9715,
+      "prior_variance": 0.951646,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.9143,
+      "prior_variance": 0.668338,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 7.5434,
+      "prior_variance": 0.396656,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 8.5223,
+      "prior_variance": 0.597497,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 3.7219,
+      "prior_variance": 0.279166,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.5417,
+      "prior_variance": 0.447895,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.4499,
+      "prior_variance": 0.387501,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lumbini",
+      "path": "asia/nepal/lumbini",
+      "prior_score": 4.4066,
+      "prior_variance": 0.327184,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.6522,
+      "prior_variance": 0.365723,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.2211,
+      "prior_variance": 0.356198,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.0428,
+      "prior_variance": 0.411021,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 2.0434,
+      "prior_variance": 0.290597,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 3.9673,
+      "prior_variance": 0.351196,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.2408,
+      "prior_variance": 0.33226,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.3369,
+      "prior_variance": 0.400616,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.8157,
+      "prior_variance": 0.327004,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -2.2994,
+      "prior_variance": 0.36788,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 1.0605,
+      "prior_variance": 0.297456,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.689,
+      "prior_variance": 0.26946,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -2.4201,
+      "prior_variance": 0.315875,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -2.4154,
+      "prior_variance": 0.329884,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -7.3112,
+      "prior_variance": 0.378989,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -6.5999,
+      "prior_variance": 0.448263,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -10.9615,
+      "prior_variance": 0.389204,
+      "prior_n": 4
+    }
+  ]
+}

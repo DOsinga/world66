@@ -1,0 +1,200 @@
+{
+  "round": 3651,
+  "timestamp": "2026-06-13T23:09:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 3.9403,
+      "prior_variance": 0.146683,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 3.162,
+      "prior_variance": 0.114617,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 5.601,
+      "prior_variance": 0.129321,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.4586,
+      "prior_variance": 0.122067,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Piraeus",
+      "path": "europe/greece/piraeus",
+      "prior_score": -0.0117,
+      "prior_variance": 0.149037,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 3.151,
+      "prior_variance": 0.109333,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.2898,
+      "prior_variance": 0.124314,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 0.1866,
+      "prior_variance": 0.113574,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -1.7452,
+      "prior_variance": 0.123186,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 0.5828,
+      "prior_variance": 0.109312,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 1.4314,
+      "prior_variance": 0.129509,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 0.621,
+      "prior_variance": 0.10832,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -0.723,
+      "prior_variance": 0.175636,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -1.0267,
+      "prior_variance": 0.119376,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Dwarka",
+      "path": "asia/india/gujarat/dwarka",
+      "prior_score": 0.5024,
+      "prior_variance": 0.112246,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": -0.5739,
+      "prior_variance": 0.116214,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.8156,
+      "prior_variance": 0.104841,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -3.2732,
+      "prior_variance": 0.130487,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -3.5476,
+      "prior_variance": 0.13249,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.6027,
+      "prior_variance": 0.13085,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -2.6809,
+      "prior_variance": 0.134939,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -3.9932,
+      "prior_variance": 0.1287,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -7.9074,
+      "prior_variance": 0.20663,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -8.825,
+      "prior_variance": 0.257787,
+      "prior_n": 11
+    }
+  ]
+}

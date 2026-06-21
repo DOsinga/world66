@@ -1,0 +1,200 @@
+{
+  "round": 894,
+  "timestamp": "2026-06-13T19:59:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -7.8102,
+      "prior_variance": 0.775958,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -8.6199,
+      "prior_variance": 0.838978,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -6.72,
+      "prior_variance": 0.4803,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -8.996,
+      "prior_variance": 1.039177,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -9.5736,
+      "prior_variance": 1.199964,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -9.0104,
+      "prior_variance": 1.235649,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -7.3434,
+      "prior_variance": 0.773578,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -7.5412,
+      "prior_variance": 0.820708,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Meizhou",
+      "path": "asia/china/guangdong/meizhou",
+      "prior_score": -2.1845,
+      "prior_variance": 0.592898,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -7.667,
+      "prior_variance": 0.683532,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -8.2024,
+      "prior_variance": 0.630814,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -7.7899,
+      "prior_variance": 0.525101,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -7.6754,
+      "prior_variance": 0.51324,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -8.2161,
+      "prior_variance": 0.664725,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -6.0156,
+      "prior_variance": 0.711781,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -7.6695,
+      "prior_variance": 0.443474,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -8.7469,
+      "prior_variance": 0.662033,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -10.2547,
+      "prior_variance": 0.793823,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ledu",
+      "path": "asia/china/qinghai/ledu",
+      "prior_score": -6.8655,
+      "prior_variance": 0.706085,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.766,
+      "prior_variance": 0.622894,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -10.5162,
+      "prior_variance": 1.046133,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -7.4427,
+      "prior_variance": 0.80766,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.8558,
+      "prior_variance": 0.723555,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -7.6975,
+      "prior_variance": 0.695964,
+      "prior_n": 2
+    }
+  ]
+}

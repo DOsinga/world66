@@ -1,0 +1,200 @@
+{
+  "round": 2947,
+  "timestamp": "2026-06-13T22:18:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 8.4231,
+      "prior_variance": 0.21129,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -1.0878,
+      "prior_variance": 0.160891,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.3324,
+      "prior_variance": 0.159776,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -2.4907,
+      "prior_variance": 0.148328,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Zhongwei",
+      "path": "asia/china/ningxia/zhongwei",
+      "prior_score": -1.2321,
+      "prior_variance": 0.138156,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -1.519,
+      "prior_variance": 0.145588,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.9607,
+      "prior_variance": 0.142896,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.7712,
+      "prior_variance": 0.188027,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -3.1026,
+      "prior_variance": 0.145754,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.0536,
+      "prior_variance": 0.137284,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.5056,
+      "prior_variance": 0.130383,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.0299,
+      "prior_variance": 0.139565,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -1.8687,
+      "prior_variance": 0.145003,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.5942,
+      "prior_variance": 0.186801,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -1.6882,
+      "prior_variance": 0.129193,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -2.9229,
+      "prior_variance": 0.151628,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -4.0423,
+      "prior_variance": 0.186785,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -3.2692,
+      "prior_variance": 0.241391,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.0137,
+      "prior_variance": 0.157052,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Yuzhou",
+      "path": "asia/china/henan_province/yuzhou",
+      "prior_score": -5.3643,
+      "prior_variance": 0.18869,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -5.5872,
+      "prior_variance": 0.168528,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.4968,
+      "prior_variance": 0.210677,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -6.9216,
+      "prior_variance": 0.216453,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.372,
+      "prior_variance": 0.192633,
+      "prior_n": 9
+    }
+  ]
+}

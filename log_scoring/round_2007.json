@@ -1,0 +1,200 @@
+{
+  "round": 2007,
+  "timestamp": "2026-06-13T21:12:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.7945,
+      "prior_variance": 0.267163,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -1.5373,
+      "prior_variance": 0.255828,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.2646,
+      "prior_variance": 0.188598,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.6588,
+      "prior_variance": 0.176901,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.4113,
+      "prior_variance": 0.220402,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.4206,
+      "prior_variance": 0.215526,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.9065,
+      "prior_variance": 0.214582,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -1.011,
+      "prior_variance": 0.214237,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": 0.2538,
+      "prior_variance": 0.213274,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Tullamore",
+      "path": "europe/ireland/tullamore",
+      "prior_score": -2.3097,
+      "prior_variance": 0.262934,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -1.8642,
+      "prior_variance": 0.227243,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.6558,
+      "prior_variance": 0.155822,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -3.1182,
+      "prior_variance": 0.223049,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -2.9048,
+      "prior_variance": 0.343861,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_score": -3.1819,
+      "prior_variance": 0.229082,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -2.8258,
+      "prior_variance": 0.244784,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -3.1348,
+      "prior_variance": 0.180903,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -1.9689,
+      "prior_variance": 0.259624,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -3.4674,
+      "prior_variance": 0.357422,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -1.281,
+      "prior_variance": 0.246654,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -1.8712,
+      "prior_variance": 0.227823,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -6.0815,
+      "prior_variance": 0.291422,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.3245,
+      "prior_variance": 0.261548,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -6.1502,
+      "prior_variance": 0.279775,
+      "prior_n": 6
+    }
+  ]
+}

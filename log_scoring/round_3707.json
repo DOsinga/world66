@@ -1,0 +1,200 @@
+{
+  "round": 3707,
+  "timestamp": "2026-06-13T23:14:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 5.8898,
+      "prior_variance": 0.164126,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.5497,
+      "prior_variance": 0.114011,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 0.8079,
+      "prior_variance": 0.126639,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Bright",
+      "path": "australiaandpacific/australia/victoria/bright",
+      "prior_score": 2.0098,
+      "prior_variance": 0.104382,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -0.4107,
+      "prior_variance": 0.102983,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -2.5419,
+      "prior_variance": 0.1223,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -1.1993,
+      "prior_variance": 0.124768,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.6475,
+      "prior_variance": 0.119111,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -5.6937,
+      "prior_variance": 0.147264,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -4.7587,
+      "prior_variance": 0.148687,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -5.1683,
+      "prior_variance": 0.180107,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -1.8125,
+      "prior_variance": 0.111785,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -3.0103,
+      "prior_variance": 0.157388,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -2.8316,
+      "prior_variance": 0.095482,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.8146,
+      "prior_variance": 0.122958,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.2886,
+      "prior_variance": 0.101951,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.3405,
+      "prior_variance": 0.130964,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -3.7777,
+      "prior_variance": 0.155299,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -2.9812,
+      "prior_variance": 0.134386,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.2479,
+      "prior_variance": 0.131341,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -5.3341,
+      "prior_variance": 0.138718,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -6.8009,
+      "prior_variance": 0.163774,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -9.1817,
+      "prior_variance": 0.207825,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.8928,
+      "prior_variance": 0.876586,
+      "prior_n": 11
+    }
+  ]
+}

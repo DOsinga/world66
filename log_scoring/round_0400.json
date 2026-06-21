@@ -1,0 +1,200 @@
+{
+  "round": 400,
+  "timestamp": "2026-06-13T19:33:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 10.2407,
+      "prior_variance": 2.225985,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 9.4812,
+      "prior_variance": 1.940018,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 13.0156,
+      "prior_variance": 2.463878,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 7.2131,
+      "prior_variance": 1.916075,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 9.961,
+      "prior_variance": 2.379162,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 9.7014,
+      "prior_variance": 2.497952,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 10.1078,
+      "prior_variance": 1.758116,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_score": 9.6888,
+      "prior_variance": 7.756361,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 10.5883,
+      "prior_variance": 2.659205,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 9.5357,
+      "prior_variance": 3.994584,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 6.2802,
+      "prior_variance": 5.024884,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 7.6441,
+      "prior_variance": 2.216275,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 5.5007,
+      "prior_variance": 2.645939,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 5.4518,
+      "prior_variance": 2.282865,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 8.1398,
+      "prior_variance": 4.356125,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 4.6895,
+      "prior_variance": 2.032859,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 7.8031,
+      "prior_variance": 2.075921,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Qufu",
+      "path": "asia/china/shandong_province/qufu",
+      "prior_score": 5.1661,
+      "prior_variance": 1.605527,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 4.4205,
+      "prior_variance": 1.763608,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 4.5877,
+      "prior_variance": 2.249303,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 7.6943,
+      "prior_variance": 2.417497,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 4.4137,
+      "prior_variance": 2.409913,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 3.9644,
+      "prior_variance": 2.307938,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -4.1154,
+      "prior_variance": 3.15694,
+      "prior_n": 1
+    }
+  ]
+}

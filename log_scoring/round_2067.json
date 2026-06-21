@@ -1,0 +1,200 @@
+{
+  "round": 2067,
+  "timestamp": "2026-06-13T21:16:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 11.733,
+      "prior_variance": 0.432823,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": -0.9483,
+      "prior_variance": 0.630439,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 1.1984,
+      "prior_variance": 0.181228,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 1.6977,
+      "prior_variance": 0.201252,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": -0.3525,
+      "prior_variance": 0.291988,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_score": -0.1133,
+      "prior_variance": 0.245569,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": 0.2841,
+      "prior_variance": 0.225071,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.1767,
+      "prior_variance": 0.222138,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -2.1522,
+      "prior_variance": 0.188976,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -0.8613,
+      "prior_variance": 0.228263,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.8633,
+      "prior_variance": 0.215026,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -1.2737,
+      "prior_variance": 0.203982,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -3.9229,
+      "prior_variance": 0.415801,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -1.6687,
+      "prior_variance": 0.18356,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.1115,
+      "prior_variance": 0.199263,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -1.8148,
+      "prior_variance": 0.20638,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.6468,
+      "prior_variance": 0.200514,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Digha",
+      "path": "asia/india/westbengal/digha",
+      "prior_score": -2.9319,
+      "prior_variance": 0.217001,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -2.504,
+      "prior_variance": 0.21835,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.1221,
+      "prior_variance": 0.186974,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -0.8855,
+      "prior_variance": 0.217734,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": 0.6024,
+      "prior_variance": 0.208233,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -1.5916,
+      "prior_variance": 0.204877,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -2.7385,
+      "prior_variance": 0.232537,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4474,
+  "timestamp": "2026-06-14T00:15:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 7.9427,
+      "prior_variance": 0.189516,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.9029,
+      "prior_variance": 0.110425,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 2.6448,
+      "prior_variance": 0.092665,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.2843,
+      "prior_variance": 0.091632,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_score": 0.6041,
+      "prior_variance": 0.088468,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -0.5426,
+      "prior_variance": 0.099389,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -1.9791,
+      "prior_variance": 0.091267,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.6914,
+      "prior_variance": 0.09411,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -1.6758,
+      "prior_variance": 0.093557,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.5809,
+      "prior_variance": 0.090384,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": 0.0174,
+      "prior_variance": 0.08836,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Tsukuba",
+      "path": "asia/japan/honshu/tsukuba",
+      "prior_score": -0.389,
+      "prior_variance": 0.093212,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -2.0498,
+      "prior_variance": 0.114336,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.7049,
+      "prior_variance": 0.086901,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.8013,
+      "prior_variance": 0.089728,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -2.7808,
+      "prior_variance": 0.095966,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.2322,
+      "prior_variance": 0.097215,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -4.3328,
+      "prior_variance": 0.110703,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -5.0128,
+      "prior_variance": 0.103581,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.1876,
+      "prior_variance": 0.102469,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -3.7689,
+      "prior_variance": 0.103279,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -5.3296,
+      "prior_variance": 0.098355,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.3815,
+      "prior_variance": 0.123013,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.8394,
+      "prior_variance": 0.114571,
+      "prior_n": 14
+    }
+  ]
+}

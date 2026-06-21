@@ -1,0 +1,200 @@
+{
+  "round": 777,
+  "timestamp": "2026-06-13T19:53:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mykonos",
+      "path": "europe/greece/mykonos",
+      "prior_score": 12.5711,
+      "prior_variance": 0.955723,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 12.5107,
+      "prior_variance": 1.352467,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 11.5175,
+      "prior_variance": 0.831071,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 11.9737,
+      "prior_variance": 0.767783,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 11.5561,
+      "prior_variance": 1.134097,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 12.8401,
+      "prior_variance": 0.672842,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 10.6555,
+      "prior_variance": 0.686361,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 10.7029,
+      "prior_variance": 0.839736,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 10.7875,
+      "prior_variance": 1.296192,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 11.6729,
+      "prior_variance": 0.879712,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 9.0966,
+      "prior_variance": 1.033285,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 10.5012,
+      "prior_variance": 1.400177,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Courmayeur",
+      "path": "europe/italy/valledaosta/courmayeur",
+      "prior_score": 11.7022,
+      "prior_variance": 1.28044,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 10.395,
+      "prior_variance": 0.867472,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 10.5814,
+      "prior_variance": 0.987379,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 9.1895,
+      "prior_variance": 0.833472,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 11.0735,
+      "prior_variance": 0.91271,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 9.2467,
+      "prior_variance": 1.440859,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 10.3059,
+      "prior_variance": 0.684778,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 16.4523,
+      "prior_variance": 1.986563,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 9.848,
+      "prior_variance": 1.198765,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 11.7425,
+      "prior_variance": 1.514231,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 9.9123,
+      "prior_variance": 0.727309,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hiengh\u00e8ne",
+      "path": "australiaandpacific/newcaledonia/hienghene",
+      "prior_score": 1.3354,
+      "prior_variance": 0.606392,
+      "prior_n": 2
+    }
+  ]
+}

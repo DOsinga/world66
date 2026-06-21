@@ -1,0 +1,200 @@
+{
+  "round": 2069,
+  "timestamp": "2026-06-13T21:16:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 10.5252,
+      "prior_variance": 0.634507,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 10.1149,
+      "prior_variance": 0.488604,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 5.7184,
+      "prior_variance": 0.267869,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.6971,
+      "prior_variance": 0.214399,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 4.9463,
+      "prior_variance": 0.248357,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.3162,
+      "prior_variance": 0.254331,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Gudauri",
+      "path": "europe/georgia/gudauri",
+      "prior_score": 2.9444,
+      "prior_variance": 0.260192,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": -0.2438,
+      "prior_variance": 0.246196,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.3135,
+      "prior_variance": 0.212383,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": 0.047,
+      "prior_variance": 0.20489,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.2513,
+      "prior_variance": 0.210681,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 0.5689,
+      "prior_variance": 0.180494,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.7512,
+      "prior_variance": 0.183021,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth",
+      "prior_score": 1.0114,
+      "prior_variance": 0.266415,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 1.1857,
+      "prior_variance": 0.201871,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -0.8707,
+      "prior_variance": 0.196603,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -2.5272,
+      "prior_variance": 0.255817,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_score": -2.0994,
+      "prior_variance": 0.189504,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -2.0026,
+      "prior_variance": 0.212952,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.338,
+      "prior_variance": 0.243568,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -2.4198,
+      "prior_variance": 0.188086,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -2.5885,
+      "prior_variance": 0.187284,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -3.168,
+      "prior_variance": 0.252735,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.2353,
+      "prior_variance": 0.196221,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2070,
+  "timestamp": "2026-06-13T21:16:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 7.0091,
+      "prior_variance": 0.446273,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 5.1261,
+      "prior_variance": 0.237229,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 4.6059,
+      "prior_variance": 0.237213,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.3224,
+      "prior_variance": 0.231726,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 2.2822,
+      "prior_variance": 0.280252,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 1.9424,
+      "prior_variance": 0.185129,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Simmental",
+      "path": "europe/switzerland/simmental",
+      "prior_score": 1.4796,
+      "prior_variance": 0.22484,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 1.8781,
+      "prior_variance": 0.230622,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": 0.077,
+      "prior_variance": 0.178886,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.0575,
+      "prior_variance": 0.258018,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.6808,
+      "prior_variance": 0.20637,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.3649,
+      "prior_variance": 0.2285,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 0.7979,
+      "prior_variance": 0.222998,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 2.4076,
+      "prior_variance": 0.220767,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 3.3973,
+      "prior_variance": 0.294742,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.37,
+      "prior_variance": 0.207023,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 2.936,
+      "prior_variance": 0.225819,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.7315,
+      "prior_variance": 0.199516,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -3.581,
+      "prior_variance": 0.201646,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -4.6561,
+      "prior_variance": 0.231315,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -4.3513,
+      "prior_variance": 0.221192,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -5.9384,
+      "prior_variance": 0.212499,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.3822,
+      "prior_variance": 0.228269,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Fushun",
+      "path": "asia/china/liaoning/fushun",
+      "prior_score": -6.3836,
+      "prior_variance": 0.214309,
+      "prior_n": 6
+    }
+  ]
+}

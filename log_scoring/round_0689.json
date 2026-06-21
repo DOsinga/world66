@@ -1,0 +1,200 @@
+{
+  "round": 689,
+  "timestamp": "2026-06-13T19:48:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -12.5664,
+      "prior_variance": 0.673282,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -11.2168,
+      "prior_variance": 1.166295,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Santa Isabel",
+      "path": "australiaandpacific/solomonislands/santaisabel",
+      "prior_score": -10.8747,
+      "prior_variance": 0.921534,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -9.1336,
+      "prior_variance": 1.462804,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -14.5796,
+      "prior_variance": 1.646807,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -10.9158,
+      "prior_variance": 1.125742,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hargeisa",
+      "path": "africa/somaliland/hargeisa",
+      "prior_score": -14.3747,
+      "prior_variance": 1.092174,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -12.6126,
+      "prior_variance": 1.923724,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -14.1853,
+      "prior_variance": 1.30273,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -11.8352,
+      "prior_variance": 1.481564,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -12.107,
+      "prior_variance": 2.434148,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -12.1565,
+      "prior_variance": 0.652041,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -11.359,
+      "prior_variance": 1.146837,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -13.7303,
+      "prior_variance": 1.458432,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -13.2999,
+      "prior_variance": 2.025587,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -14.1512,
+      "prior_variance": 1.216423,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -14.9692,
+      "prior_variance": 1.045071,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -12.3048,
+      "prior_variance": 1.014505,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -12.6405,
+      "prior_variance": 1.755465,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -15.4607,
+      "prior_variance": 3.176981,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kenema",
+      "path": "africa/sierraleone/kenema",
+      "prior_score": -13.1749,
+      "prior_variance": 1.561647,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -13.5205,
+      "prior_variance": 1.318776,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -12.5646,
+      "prior_variance": 1.308847,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -13.8287,
+      "prior_variance": 2.077021,
+      "prior_n": 2
+    }
+  ]
+}

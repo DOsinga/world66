@@ -1,0 +1,200 @@
+{
+  "round": 1860,
+  "timestamp": "2026-06-13T20:57:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 8.2098,
+      "prior_variance": 0.299332,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 10.1797,
+      "prior_variance": 0.493081,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Oaxaca",
+      "path": "northamerica/mexico/oaxaca",
+      "prior_score": 9.1429,
+      "prior_variance": 0.455857,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 1.9366,
+      "prior_variance": 0.211164,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.8419,
+      "prior_variance": 0.211861,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 1.8615,
+      "prior_variance": 0.24263,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.9015,
+      "prior_variance": 0.21396,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -2.149,
+      "prior_variance": 0.23803,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -0.3571,
+      "prior_variance": 0.309525,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -1.4081,
+      "prior_variance": 0.24548,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": -0.219,
+      "prior_variance": 0.225021,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.2026,
+      "prior_variance": 0.22579,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": 0.1466,
+      "prior_variance": 0.225329,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -3.1443,
+      "prior_variance": 0.223333,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.045,
+      "prior_variance": 0.206908,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.3955,
+      "prior_variance": 0.233242,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.7712,
+      "prior_variance": 0.251762,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Shangrao",
+      "path": "asia/china/jiangxi/shangrao",
+      "prior_score": -3.017,
+      "prior_variance": 0.252326,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.3643,
+      "prior_variance": 0.249611,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -2.9993,
+      "prior_variance": 0.209805,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.1533,
+      "prior_variance": 0.262635,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.8366,
+      "prior_variance": 0.26238,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -10.0103,
+      "prior_variance": 0.706406,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -18.7627,
+      "prior_variance": 5.30587,
+      "prior_n": 5
+    }
+  ]
+}

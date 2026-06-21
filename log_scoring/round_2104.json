@@ -1,0 +1,200 @@
+{
+  "round": 2104,
+  "timestamp": "2026-06-13T21:18:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 5.81,
+      "prior_variance": 0.2512,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.93,
+      "prior_variance": 0.451947,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 5.1826,
+      "prior_variance": 0.204819,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 2.0653,
+      "prior_variance": 0.216235,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -1.7864,
+      "prior_variance": 0.233642,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.4051,
+      "prior_variance": 0.201166,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.7499,
+      "prior_variance": 0.234975,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.1755,
+      "prior_variance": 0.190188,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -2.3145,
+      "prior_variance": 0.218857,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -4.207,
+      "prior_variance": 0.245414,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -4.9783,
+      "prior_variance": 0.301676,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -3.3668,
+      "prior_variance": 0.207844,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.3536,
+      "prior_variance": 0.233414,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -5.1409,
+      "prior_variance": 0.229708,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.4936,
+      "prior_variance": 0.224851,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -5.4392,
+      "prior_variance": 0.265904,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ledu",
+      "path": "asia/china/qinghai/ledu",
+      "prior_score": -4.898,
+      "prior_variance": 0.201097,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -6.7921,
+      "prior_variance": 0.315082,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -5.5864,
+      "prior_variance": 0.235014,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -8.7956,
+      "prior_variance": 0.452105,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.783,
+      "prior_variance": 0.269616,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -11.8601,
+      "prior_variance": 0.522205,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -11.9837,
+      "prior_variance": 0.63566,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -11.7986,
+      "prior_variance": 0.618007,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 309,
+  "timestamp": "2026-06-13T19:29:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 11.2379,
+      "prior_variance": 3.65683,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 14.7837,
+      "prior_variance": 7.35602,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 4,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 5,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 13.1445,
+      "prior_variance": 8.04846,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 8.8854,
+      "prior_variance": 2.311116,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/north_island/waikato/waitomo",
+      "prior_score": 9.769,
+      "prior_variance": 2.744367,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 6.092,
+      "prior_variance": 1.71222,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 10,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 11,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 7.8265,
+      "prior_variance": 3.758404,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 7.3414,
+      "prior_variance": 2.117323,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 1.2694,
+      "prior_variance": 1.76164,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -1.3123,
+      "prior_variance": 1.666979,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 1.3038,
+      "prior_variance": 1.698231,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": -0.3909,
+      "prior_variance": 1.741117,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": -1.8829,
+      "prior_variance": 1.895564,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 2.3899,
+      "prior_variance": 1.713868,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -2.1801,
+      "prior_variance": 1.675012,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": 3.079,
+      "prior_variance": 1.91338,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -7.6599,
+      "prior_variance": 2.002213,
+      "prior_n": 1
+    }
+  ]
+}

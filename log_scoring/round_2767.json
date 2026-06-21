@@ -1,0 +1,200 @@
+{
+  "round": 2767,
+  "timestamp": "2026-06-13T22:05:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 1.6543,
+      "prior_variance": 0.179229,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.5401,
+      "prior_variance": 0.209796,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Sopron",
+      "path": "europe/hungary/sopron",
+      "prior_score": 1.6766,
+      "prior_variance": 0.162093,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.457,
+      "prior_variance": 0.174157,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": 0.3266,
+      "prior_variance": 0.126169,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.3956,
+      "prior_variance": 0.150697,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.0708,
+      "prior_variance": 0.155497,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 0.2495,
+      "prior_variance": 0.155147,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 1.0902,
+      "prior_variance": 0.160558,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.1957,
+      "prior_variance": 0.132032,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.1739,
+      "prior_variance": 0.155499,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.7216,
+      "prior_variance": 0.168126,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -1.0923,
+      "prior_variance": 0.1645,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.4254,
+      "prior_variance": 0.175966,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -0.4464,
+      "prior_variance": 0.160454,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -2.9165,
+      "prior_variance": 0.155228,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -0.8001,
+      "prior_variance": 0.220193,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -4.2668,
+      "prior_variance": 0.203504,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -4.7875,
+      "prior_variance": 0.16017,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.1862,
+      "prior_variance": 0.178864,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -5.7001,
+      "prior_variance": 0.151995,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -6.4258,
+      "prior_variance": 0.254979,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.1482,
+      "prior_variance": 0.164257,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -10.8613,
+      "prior_variance": 0.480927,
+      "prior_n": 8
+    }
+  ]
+}

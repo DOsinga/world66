@@ -1,0 +1,200 @@
+{
+  "round": 737,
+  "timestamp": "2026-06-13T19:51:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 7.823,
+      "prior_variance": 1.473754,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 7.355,
+      "prior_variance": 1.583791,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 7.685,
+      "prior_variance": 1.046633,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 7.9383,
+      "prior_variance": 1.012189,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 8.7212,
+      "prior_variance": 0.810958,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 9.1244,
+      "prior_variance": 0.706239,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 8.62,
+      "prior_variance": 0.754337,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 7.4537,
+      "prior_variance": 0.763838,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Nelson",
+      "path": "australiaandpacific/newzealand/nelson",
+      "prior_score": 8.4934,
+      "prior_variance": 1.055786,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 10.2569,
+      "prior_variance": 0.967944,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 8.2285,
+      "prior_variance": 0.832113,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 5.2897,
+      "prior_variance": 1.375323,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hersonissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 6.9921,
+      "prior_variance": 0.74903,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 8.4051,
+      "prior_variance": 0.752599,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 7.2837,
+      "prior_variance": 1.708382,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 4.8407,
+      "prior_variance": 1.517802,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 8.4509,
+      "prior_variance": 1.46367,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 9.53,
+      "prior_variance": 0.797089,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 5.9497,
+      "prior_variance": 0.792533,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 7.1957,
+      "prior_variance": 0.804559,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 4.2974,
+      "prior_variance": 0.953406,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 6.3365,
+      "prior_variance": 0.989243,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 6.9073,
+      "prior_variance": 0.978727,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 4.7961,
+      "prior_variance": 1.902535,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1825,
+  "timestamp": "2026-06-13T20:55:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 11.8458,
+      "prior_variance": 0.429488,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 13.6354,
+      "prior_variance": 0.582501,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 6.3197,
+      "prior_variance": 0.239948,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 6.9444,
+      "prior_variance": 0.345304,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.4155,
+      "prior_variance": 0.226965,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 5.3408,
+      "prior_variance": 0.278232,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Parco del Cilento",
+      "path": "europe/italy/campania/parcodelcilento",
+      "prior_score": 4.5309,
+      "prior_variance": 0.255642,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.6986,
+      "prior_variance": 0.212617,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 1.3812,
+      "prior_variance": 0.221258,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -0.9913,
+      "prior_variance": 0.208103,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": -0.1148,
+      "prior_variance": 0.259741,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -1.001,
+      "prior_variance": 0.216252,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 1.3777,
+      "prior_variance": 0.21643,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -1.071,
+      "prior_variance": 0.285605,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -0.3557,
+      "prior_variance": 0.272695,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.8907,
+      "prior_variance": 0.291292,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.7124,
+      "prior_variance": 0.263416,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.7479,
+      "prior_variance": 0.21776,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.4184,
+      "prior_variance": 0.320361,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -5.7245,
+      "prior_variance": 0.208151,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -7.8234,
+      "prior_variance": 0.33825,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -6.6351,
+      "prior_variance": 0.503798,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -13.514,
+      "prior_variance": 0.697055,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -11.1791,
+      "prior_variance": 0.619528,
+      "prior_n": 5
+    }
+  ]
+}

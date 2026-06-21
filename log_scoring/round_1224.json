@@ -1,0 +1,200 @@
+{
+  "round": 1224,
+  "timestamp": "2026-06-13T20:18:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 15.6161,
+      "prior_variance": 0.971706,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 15.2206,
+      "prior_variance": 0.614565,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 14.4118,
+      "prior_variance": 0.698686,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 14.9731,
+      "prior_variance": 0.66462,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Marquesas",
+      "path": "australiaandpacific/frenchpolynesia/marquesas",
+      "prior_score": 8.6807,
+      "prior_variance": 0.441327,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 9.1478,
+      "prior_variance": 0.677987,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 9.6613,
+      "prior_variance": 0.709413,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/south_island/otago/wanaka",
+      "prior_score": 8.6919,
+      "prior_variance": 0.394562,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 5.4482,
+      "prior_variance": 0.416696,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.7213,
+      "prior_variance": 0.473761,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.8549,
+      "prior_variance": 0.306957,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 14.5433,
+      "prior_variance": 0.739422,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 0.4164,
+      "prior_variance": 0.314779,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.2207,
+      "prior_variance": 0.424425,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -4.5546,
+      "prior_variance": 0.287348,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -5.1012,
+      "prior_variance": 0.608223,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -5.9111,
+      "prior_variance": 0.343724,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -5.2095,
+      "prior_variance": 0.575477,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -6.248,
+      "prior_variance": 0.360689,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -4.8073,
+      "prior_variance": 0.382862,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -8.7778,
+      "prior_variance": 0.432591,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -7.4546,
+      "prior_variance": 0.38684,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -1.1542,
+      "prior_variance": 0.39701,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -11.8235,
+      "prior_variance": 0.61829,
+      "prior_n": 3
+    }
+  ]
+}

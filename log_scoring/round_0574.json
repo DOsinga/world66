@@ -1,0 +1,200 @@
+{
+  "round": 574,
+  "timestamp": "2026-06-13T19:43:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 3.1564,
+      "prior_variance": 1.966183,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.4303,
+      "prior_variance": 0.842853,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 0.3373,
+      "prior_variance": 0.839906,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 1.7844,
+      "prior_variance": 0.772453,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 0.0131,
+      "prior_variance": 1.414702,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 1.2533,
+      "prior_variance": 1.437624,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 3.0302,
+      "prior_variance": 1.282581,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.3745,
+      "prior_variance": 0.963272,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 0.4805,
+      "prior_variance": 1.340418,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.4984,
+      "prior_variance": 1.359763,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": 0.0117,
+      "prior_variance": 0.731935,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": -0.3684,
+      "prior_variance": 1.024534,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 3.0757,
+      "prior_variance": 0.760544,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": 0.8246,
+      "prior_variance": 1.780536,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.2926,
+      "prior_variance": 0.935895,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -3.0078,
+      "prior_variance": 1.120904,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": 0.1826,
+      "prior_variance": 0.998229,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -0.5562,
+      "prior_variance": 0.940363,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.817,
+      "prior_variance": 1.023396,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -0.283,
+      "prior_variance": 1.180574,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": -1.0057,
+      "prior_variance": 0.917869,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -2.0367,
+      "prior_variance": 0.71165,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -3.3293,
+      "prior_variance": 1.147684,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": 1.6164,
+      "prior_variance": 1.397545,
+      "prior_n": 1
+    }
+  ]
+}

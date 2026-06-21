@@ -1,0 +1,200 @@
+{
+  "round": 730,
+  "timestamp": "2026-06-13T19:50:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 7.1577,
+      "prior_variance": 1.532845,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 2.6535,
+      "prior_variance": 1.07097,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 2.135,
+      "prior_variance": 1.369626,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 3.3765,
+      "prior_variance": 0.703303,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 4.4348,
+      "prior_variance": 0.75342,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 3.2115,
+      "prior_variance": 0.768726,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 1.1748,
+      "prior_variance": 1.597694,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 3.7492,
+      "prior_variance": 0.977667,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.9607,
+      "prior_variance": 1.125287,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.8284,
+      "prior_variance": 0.831558,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 4.301,
+      "prior_variance": 0.924644,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 4.9291,
+      "prior_variance": 1.345198,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.4605,
+      "prior_variance": 1.100943,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 1.937,
+      "prior_variance": 0.896058,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 3.7893,
+      "prior_variance": 1.128412,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 2.3491,
+      "prior_variance": 0.79421,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 2.2978,
+      "prior_variance": 0.939434,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 3.2255,
+      "prior_variance": 1.039711,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 2.5909,
+      "prior_variance": 0.682422,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 2.402,
+      "prior_variance": 0.664699,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": 1.7261,
+      "prior_variance": 0.748162,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 2.6833,
+      "prior_variance": 1.374024,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": 0.6435,
+      "prior_variance": 0.619928,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_score": 0.48,
+      "prior_variance": 1.172089,
+      "prior_n": 2
+    }
+  ]
+}

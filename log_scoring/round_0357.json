@@ -1,0 +1,200 @@
+{
+  "round": 357,
+  "timestamp": "2026-06-13T19:31:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/devonport",
+      "prior_score": 0.772,
+      "prior_variance": 1.713472,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine",
+      "prior_score": 3.2937,
+      "prior_variance": 1.437261,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": -0.1228,
+      "prior_variance": 1.537149,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 1.6145,
+      "prior_variance": 2.030891,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 1.8786,
+      "prior_variance": 2.152179,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Barranquilla",
+      "path": "southamerica/colombia/barranquilla",
+      "prior_score": 1.0018,
+      "prior_variance": 1.86654,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 3.7269,
+      "prior_variance": 1.9311,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -4.9518,
+      "prior_variance": 1.773521,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -5.1008,
+      "prior_variance": 1.544906,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": -0.7032,
+      "prior_variance": 2.096694,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -2.6077,
+      "prior_variance": 1.530546,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -7.8038,
+      "prior_variance": 2.79752,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -2.3803,
+      "prior_variance": 2.583298,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -1.8331,
+      "prior_variance": 2.011806,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -5.2783,
+      "prior_variance": 2.12306,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -6.0315,
+      "prior_variance": 1.962208,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -7.149,
+      "prior_variance": 2.297375,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -5.9509,
+      "prior_variance": 2.472823,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -2.6012,
+      "prior_variance": 1.534418,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -9.5821,
+      "prior_variance": 2.52349,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.2262,
+      "prior_variance": 1.724694,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -11.4999,
+      "prior_variance": 3.317427,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -11.0571,
+      "prior_variance": 8.936143,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -10.6011,
+      "prior_variance": 3.719697,
+      "prior_n": 1
+    }
+  ]
+}

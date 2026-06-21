@@ -1,0 +1,200 @@
+{
+  "round": 1302,
+  "timestamp": "2026-06-13T20:22:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 10.8206,
+      "prior_variance": 0.423296,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 7.9771,
+      "prior_variance": 0.405053,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 9.9117,
+      "prior_variance": 0.596866,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 3.0949,
+      "prior_variance": 0.32294,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.8654,
+      "prior_variance": 0.34051,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 3.2349,
+      "prior_variance": 0.309037,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 0.871,
+      "prior_variance": 0.343534,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 4.2386,
+      "prior_variance": 0.511706,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.3591,
+      "prior_variance": 0.396734,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.3855,
+      "prior_variance": 0.32916,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -1.1263,
+      "prior_variance": 0.309806,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -4.8215,
+      "prior_variance": 0.43165,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.5727,
+      "prior_variance": 0.582956,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -5.5292,
+      "prior_variance": 0.330183,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -4.9387,
+      "prior_variance": 0.317382,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -4.458,
+      "prior_variance": 0.355877,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -4.9686,
+      "prior_variance": 0.327308,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_score": -7.3431,
+      "prior_variance": 0.419967,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -7.9442,
+      "prior_variance": 0.64906,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -4.9583,
+      "prior_variance": 0.511694,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -7.0521,
+      "prior_variance": 0.38231,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -7.0644,
+      "prior_variance": 0.37854,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -11.4966,
+      "prior_variance": 2.206742,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -11.7797,
+      "prior_variance": 0.5668,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 526,
+  "timestamp": "2026-06-13T19:40:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -5.8876,
+      "prior_variance": 1.446989,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -7.0343,
+      "prior_variance": 1.641312,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Yixing",
+      "path": "asia/china/jiangsu_province/yixing",
+      "prior_score": -6.9779,
+      "prior_variance": 1.806408,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -5.117,
+      "prior_variance": 1.530372,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -9.8811,
+      "prior_variance": 1.319282,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -4.8628,
+      "prior_variance": 1.51571,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -10.6037,
+      "prior_variance": 3.177522,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -8.0717,
+      "prior_variance": 1.41447,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -10.1557,
+      "prior_variance": 2.117652,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -7.0573,
+      "prior_variance": 1.848393,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/south_east/croydon",
+      "prior_score": -7.8009,
+      "prior_variance": 1.680794,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -8.0984,
+      "prior_variance": 5.170688,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -9.2716,
+      "prior_variance": 2.381215,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -12.4921,
+      "prior_variance": 8.04969,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -7.4627,
+      "prior_variance": 4.060527,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -12.0403,
+      "prior_variance": 7.985864,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -13.6073,
+      "prior_variance": 7.474298,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -10.7126,
+      "prior_variance": 8.872224,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -9.7247,
+      "prior_variance": 3.235849,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -10.1078,
+      "prior_variance": 2.276519,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -9.295,
+      "prior_variance": 9.747889,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -7.8744,
+      "prior_variance": 1.398735,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -10.6508,
+      "prior_variance": 9.032349,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -12.5083,
+      "prior_variance": 7.981622,
+      "prior_n": 1
+    }
+  ]
+}

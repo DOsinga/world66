@@ -1,0 +1,200 @@
+{
+  "round": 1247,
+  "timestamp": "2026-06-13T20:19:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 8.6965,
+      "prior_variance": 0.568722,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 9.621,
+      "prior_variance": 0.417619,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 10.2842,
+      "prior_variance": 0.489974,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 7.4854,
+      "prior_variance": 0.480867,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 10.0561,
+      "prior_variance": 0.581162,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/stellenbosch",
+      "prior_score": 6.337,
+      "prior_variance": 0.379969,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 6.3717,
+      "prior_variance": 0.505233,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 6.957,
+      "prior_variance": 0.444583,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 7.5743,
+      "prior_variance": 0.359034,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 1.2597,
+      "prior_variance": 0.386447,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 4.3804,
+      "prior_variance": 0.440017,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -2.1086,
+      "prior_variance": 0.37869,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Apeldoorn",
+      "path": "europe/netherlands/apeldoorn",
+      "prior_score": -0.0399,
+      "prior_variance": 0.375679,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.1856,
+      "prior_variance": 0.302928,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": -0.1687,
+      "prior_variance": 0.305445,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -2.0128,
+      "prior_variance": 0.395903,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -6.6964,
+      "prior_variance": 0.403341,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -4.033,
+      "prior_variance": 0.363808,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -4.0,
+      "prior_variance": 0.531861,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -3.9378,
+      "prior_variance": 0.314878,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -5.9991,
+      "prior_variance": 0.398729,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.0111,
+      "prior_variance": 0.413115,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -1.8625,
+      "prior_variance": 0.444025,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_score": -9.2646,
+      "prior_variance": 1.036509,
+      "prior_n": 3
+    }
+  ]
+}

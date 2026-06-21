@@ -1,0 +1,200 @@
+{
+  "round": 820,
+  "timestamp": "2026-06-13T19:55:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yazd",
+      "path": "asia/iran/yazd",
+      "prior_score": 4.4728,
+      "prior_variance": 0.702157,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 4.9814,
+      "prior_variance": 0.760599,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 6.7624,
+      "prior_variance": 1.367697,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 4.456,
+      "prior_variance": 0.596907,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 4.4432,
+      "prior_variance": 0.795059,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 2.6995,
+      "prior_variance": 0.668086,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 8.6314,
+      "prior_variance": 0.935033,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 8.4901,
+      "prior_variance": 0.937762,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 2.5192,
+      "prior_variance": 0.762187,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 4.3603,
+      "prior_variance": 0.728596,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Zhaoxing",
+      "path": "asia/china/guizhou/zhaoxing",
+      "prior_score": 2.8375,
+      "prior_variance": 0.663134,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 4.4333,
+      "prior_variance": 0.680335,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 3.1022,
+      "prior_variance": 1.090438,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 5.2622,
+      "prior_variance": 0.545614,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 5.1051,
+      "prior_variance": 0.496121,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 4.6208,
+      "prior_variance": 0.598597,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 4.3804,
+      "prior_variance": 0.796181,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 4.8504,
+      "prior_variance": 0.720417,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 5.4132,
+      "prior_variance": 1.365252,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 4.9098,
+      "prior_variance": 0.781402,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 3.1886,
+      "prior_variance": 0.69083,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 6.8032,
+      "prior_variance": 1.033388,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 2.3192,
+      "prior_variance": 0.627536,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 5.5271,
+      "prior_variance": 0.631382,
+      "prior_n": 2
+    }
+  ]
+}

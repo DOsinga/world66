@@ -1,0 +1,200 @@
+{
+  "round": 1587,
+  "timestamp": "2026-06-13T20:39:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 10.0419,
+      "prior_variance": 0.431805,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 7.5999,
+      "prior_variance": 0.319557,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.2178,
+      "prior_variance": 0.348454,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.6739,
+      "prior_variance": 0.25544,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 1.3233,
+      "prior_variance": 0.262926,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 2.3619,
+      "prior_variance": 0.24748,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.7503,
+      "prior_variance": 0.244031,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 2.4576,
+      "prior_variance": 0.237262,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.7421,
+      "prior_variance": 0.296367,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.5877,
+      "prior_variance": 0.258203,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Lowicz",
+      "path": "europe/poland/lowicz",
+      "prior_score": -3.5438,
+      "prior_variance": 0.265251,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -5.8464,
+      "prior_variance": 0.261537,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -3.8115,
+      "prior_variance": 0.279419,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -2.2864,
+      "prior_variance": 0.310923,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -4.1737,
+      "prior_variance": 0.338513,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -5.1459,
+      "prior_variance": 0.24987,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -2.0677,
+      "prior_variance": 0.394885,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -6.1565,
+      "prior_variance": 0.28953,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -5.7061,
+      "prior_variance": 0.30801,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -5.5866,
+      "prior_variance": 0.328742,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.743,
+      "prior_variance": 0.314849,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -8.5971,
+      "prior_variance": 0.394382,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -10.411,
+      "prior_variance": 1.672907,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -9.6564,
+      "prior_variance": 0.32839,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1265,
+  "timestamp": "2026-06-13T20:20:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gruy\u00e8res",
+      "path": "europe/switzerland/gruyeres",
+      "prior_score": 7.4332,
+      "prior_variance": 0.522924,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 8.7542,
+      "prior_variance": 0.384709,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 5.4975,
+      "prior_variance": 0.432698,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 6.089,
+      "prior_variance": 0.370087,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 5.0889,
+      "prior_variance": 0.473969,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 6.1381,
+      "prior_variance": 0.793693,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 6.4884,
+      "prior_variance": 0.381047,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 2.0,
+      "prior_variance": 0.305761,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 5.7452,
+      "prior_variance": 0.548686,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.1406,
+      "prior_variance": 0.305911,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 5.846,
+      "prior_variance": 0.441016,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": -1.0584,
+      "prior_variance": 0.330607,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -2.9843,
+      "prior_variance": 0.483689,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 7.7128,
+      "prior_variance": 0.510827,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.6649,
+      "prior_variance": 0.35602,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -3.1346,
+      "prior_variance": 0.302942,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -4.987,
+      "prior_variance": 0.414263,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -2.6731,
+      "prior_variance": 0.619782,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -7.2899,
+      "prior_variance": 0.415928,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -7.2676,
+      "prior_variance": 0.59432,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.6339,
+      "prior_variance": 0.304184,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -6.8728,
+      "prior_variance": 0.403127,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ribeir\u00e3o Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -4.0393,
+      "prior_variance": 0.297857,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -7.2447,
+      "prior_variance": 0.593155,
+      "prior_n": 3
+    }
+  ]
+}

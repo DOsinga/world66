@@ -1,0 +1,200 @@
+{
+  "round": 3904,
+  "timestamp": "2026-06-13T23:28:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 4.8466,
+      "prior_variance": 0.145168,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.0909,
+      "prior_variance": 0.110868,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 4.8629,
+      "prior_variance": 0.123274,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.7018,
+      "prior_variance": 0.103854,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.9441,
+      "prior_variance": 0.135663,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.935,
+      "prior_variance": 0.121602,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 3.7029,
+      "prior_variance": 0.114385,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.4497,
+      "prior_variance": 0.120612,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.1229,
+      "prior_variance": 0.111036,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/massachusetts/salem",
+      "prior_score": 3.4303,
+      "prior_variance": 0.143709,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.5467,
+      "prior_variance": 0.100534,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 2.9391,
+      "prior_variance": 0.130135,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.2953,
+      "prior_variance": 0.120241,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 7.5599,
+      "prior_variance": 0.13456,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.9066,
+      "prior_variance": 0.103894,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": 0.6987,
+      "prior_variance": 0.103827,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bristol",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bristol",
+      "prior_score": 3.1748,
+      "prior_variance": 0.109878,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 2.5028,
+      "prior_variance": 0.107864,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": 0.2045,
+      "prior_variance": 0.103647,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_score": 1.6634,
+      "prior_variance": 0.115041,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -0.7482,
+      "prior_variance": 0.110899,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_island",
+      "prior_score": 2.1286,
+      "prior_variance": 0.104139,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 2.2158,
+      "prior_variance": 0.112779,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -2.0185,
+      "prior_variance": 0.106672,
+      "prior_n": 13
+    }
+  ]
+}

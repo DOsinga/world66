@@ -1,0 +1,200 @@
+{
+  "round": 1632,
+  "timestamp": "2026-06-13T20:42:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.4204,
+      "prior_variance": 0.284587,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 5.1022,
+      "prior_variance": 0.290823,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.4529,
+      "prior_variance": 0.330131,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 2.2772,
+      "prior_variance": 0.236481,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.1448,
+      "prior_variance": 0.277215,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": -0.3449,
+      "prior_variance": 0.227058,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.4842,
+      "prior_variance": 0.247753,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 3.1942,
+      "prior_variance": 0.31752,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 1.4175,
+      "prior_variance": 0.256786,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.4803,
+      "prior_variance": 0.258484,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.4629,
+      "prior_variance": 0.267864,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 1.0849,
+      "prior_variance": 0.265646,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": -0.1038,
+      "prior_variance": 0.292078,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.0231,
+      "prior_variance": 0.280495,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 1.5893,
+      "prior_variance": 0.247062,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.1583,
+      "prior_variance": 0.248187,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -0.8877,
+      "prior_variance": 0.320641,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -5.9263,
+      "prior_variance": 0.49506,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.524,
+      "prior_variance": 0.265891,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -4.0534,
+      "prior_variance": 0.250237,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -5.5202,
+      "prior_variance": 0.273128,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.8564,
+      "prior_variance": 0.244617,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -7.395,
+      "prior_variance": 0.63432,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -6.2369,
+      "prior_variance": 0.39057,
+      "prior_n": 5
+    }
+  ]
+}

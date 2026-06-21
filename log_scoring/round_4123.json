@@ -1,0 +1,200 @@
+{
+  "round": 4123,
+  "timestamp": "2026-06-13T23:45:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 1.0403,
+      "prior_variance": 0.114455,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -0.9232,
+      "prior_variance": 0.100539,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 2.6852,
+      "prior_variance": 0.105579,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.8004,
+      "prior_variance": 0.102705,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 0.6432,
+      "prior_variance": 0.106558,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -2.2981,
+      "prior_variance": 0.110527,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": -0.0283,
+      "prior_variance": 0.144311,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -0.6301,
+      "prior_variance": 0.105961,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.6385,
+      "prior_variance": 0.156926,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -2.1667,
+      "prior_variance": 0.102516,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.4194,
+      "prior_variance": 0.100576,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -3.0171,
+      "prior_variance": 0.102465,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_score": -3.7313,
+      "prior_variance": 0.104319,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.3096,
+      "prior_variance": 0.10826,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.5581,
+      "prior_variance": 0.097766,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.1418,
+      "prior_variance": 0.096126,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.686,
+      "prior_variance": 0.117535,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.0809,
+      "prior_variance": 0.109503,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -3.7382,
+      "prior_variance": 0.111556,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -3.279,
+      "prior_variance": 0.103862,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -4.05,
+      "prior_variance": 0.093912,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -4.5558,
+      "prior_variance": 0.109897,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -4.5918,
+      "prior_variance": 0.125781,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -4.3671,
+      "prior_variance": 0.109448,
+      "prior_n": 13
+    }
+  ]
+}

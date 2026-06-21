@@ -1,0 +1,200 @@
+{
+  "round": 4010,
+  "timestamp": "2026-06-13T23:36:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 10.5509,
+      "prior_variance": 0.207628,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 8.0483,
+      "prior_variance": 0.177823,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 5.5327,
+      "prior_variance": 0.152963,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Longmen Grottoes",
+      "path": "asia/china/henan_province/longmen_grottoes",
+      "prior_score": 5.0727,
+      "prior_variance": 0.124828,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 6.8994,
+      "prior_variance": 0.182767,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 4.9744,
+      "prior_variance": 0.133905,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.326,
+      "prior_variance": 0.13521,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 4.0933,
+      "prior_variance": 0.109621,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 4.6669,
+      "prior_variance": 0.116453,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 5.3781,
+      "prior_variance": 0.117327,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.9174,
+      "prior_variance": 0.117536,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 3.4794,
+      "prior_variance": 0.11286,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.6905,
+      "prior_variance": 0.104664,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 2.7012,
+      "prior_variance": 0.095284,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 3.4238,
+      "prior_variance": 0.110889,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 3.1595,
+      "prior_variance": 0.144534,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.3819,
+      "prior_variance": 0.10479,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.5212,
+      "prior_variance": 0.089105,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.4828,
+      "prior_variance": 0.088931,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -0.745,
+      "prior_variance": 0.103006,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.7013,
+      "prior_variance": 0.131158,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.1977,
+      "prior_variance": 0.118195,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4293,
+      "prior_variance": 0.099419,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Rzeszow",
+      "path": "europe/poland/rzeszow",
+      "prior_score": -1.2425,
+      "prior_variance": 0.1031,
+      "prior_n": 14
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1346,
+  "timestamp": "2026-06-13T20:25:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 12.7866,
+      "prior_variance": 0.707712,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 7.358,
+      "prior_variance": 0.496355,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 8.5089,
+      "prior_variance": 0.357226,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 6.1569,
+      "prior_variance": 0.367475,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 7.7069,
+      "prior_variance": 0.383436,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 5.905,
+      "prior_variance": 0.707541,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 4.5624,
+      "prior_variance": 0.296188,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 4.86,
+      "prior_variance": 0.411504,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 3.8476,
+      "prior_variance": 0.324002,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 5.0145,
+      "prior_variance": 0.33572,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.8486,
+      "prior_variance": 0.381785,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Luang Namtha",
+      "path": "asia/laos/luangnamtha",
+      "prior_score": 0.6827,
+      "prior_variance": 0.354992,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 0.4811,
+      "prior_variance": 0.376001,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 1.342,
+      "prior_variance": 0.347186,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": 0.76,
+      "prior_variance": 0.313253,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -2.4022,
+      "prior_variance": 0.356342,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -6.2841,
+      "prior_variance": 0.307803,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Thompson Falls",
+      "path": "northamerica/unitedstates/montana/thompson_falls",
+      "prior_score": -3.4572,
+      "prior_variance": 0.341343,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -4.2763,
+      "prior_variance": 0.36665,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -4.5586,
+      "prior_variance": 0.393422,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -4.9971,
+      "prior_variance": 0.357348,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -3.4947,
+      "prior_variance": 0.32359,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Charleroi",
+      "path": "europe/belgium/charleroi",
+      "prior_score": -5.141,
+      "prior_variance": 0.32215,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.318,
+      "prior_variance": 0.547574,
+      "prior_n": 4
+    }
+  ]
+}

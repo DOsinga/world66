@@ -1,0 +1,200 @@
+{
+  "round": 975,
+  "timestamp": "2026-06-13T20:03:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 12.4823,
+      "prior_variance": 0.801823,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 11.2911,
+      "prior_variance": 1.000603,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 8.6503,
+      "prior_variance": 0.722891,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 11.5278,
+      "prior_variance": 0.941834,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 11.1181,
+      "prior_variance": 0.668463,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 11.445,
+      "prior_variance": 0.96666,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 12.3061,
+      "prior_variance": 1.326322,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 11.303,
+      "prior_variance": 0.539053,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_score": 11.0856,
+      "prior_variance": 0.738506,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 11.103,
+      "prior_variance": 0.631136,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 12.4128,
+      "prior_variance": 0.836305,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chobe National Park",
+      "path": "africa/botswana/chobenationalpark",
+      "prior_score": 11.6176,
+      "prior_variance": 0.646777,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 11.1044,
+      "prior_variance": 2.456585,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_score": 10.6695,
+      "prior_variance": 0.618575,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 12.5054,
+      "prior_variance": 1.037192,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 11.8852,
+      "prior_variance": 0.492087,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 11.5379,
+      "prior_variance": 0.936604,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 9.6448,
+      "prior_variance": 1.022994,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 7.7769,
+      "prior_variance": 1.200153,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 9.8722,
+      "prior_variance": 1.387265,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 11.5672,
+      "prior_variance": 0.695992,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 11.0085,
+      "prior_variance": 1.105758,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 5.4995,
+      "prior_variance": 0.638092,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -4.7298,
+      "prior_variance": 0.752559,
+      "prior_n": 2
+    }
+  ]
+}

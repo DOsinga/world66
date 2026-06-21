@@ -1,0 +1,200 @@
+{
+  "round": 2045,
+  "timestamp": "2026-06-13T21:14:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.4885,
+      "prior_variance": 0.261616,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 3.2049,
+      "prior_variance": 0.214396,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.7024,
+      "prior_variance": 0.192452,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 1.7273,
+      "prior_variance": 0.257148,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 2.9483,
+      "prior_variance": 0.242818,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.2379,
+      "prior_variance": 0.249017,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.3224,
+      "prior_variance": 0.182272,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.6135,
+      "prior_variance": 0.243329,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 0.9609,
+      "prior_variance": 0.213171,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.1861,
+      "prior_variance": 0.192228,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ingleton",
+      "prior_score": 0.166,
+      "prior_variance": 0.208042,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -0.5482,
+      "prior_variance": 0.205072,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.7578,
+      "prior_variance": 0.220816,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -1.9374,
+      "prior_variance": 0.218869,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.7273,
+      "prior_variance": 0.260983,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Chengyang",
+      "path": "asia/china/guangxi/chengyang",
+      "prior_score": 2.9949,
+      "prior_variance": 0.213379,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.5696,
+      "prior_variance": 0.234405,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Danzhou",
+      "path": "asia/china/hainanisland/danzhou",
+      "prior_score": -2.0505,
+      "prior_variance": 0.259068,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 1.445,
+      "prior_variance": 0.229892,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -5.4133,
+      "prior_variance": 0.272097,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -5.0824,
+      "prior_variance": 0.260794,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.6839,
+      "prior_variance": 0.277161,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -6.3569,
+      "prior_variance": 0.298846,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sherbro Island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.4865,
+      "prior_variance": 0.256187,
+      "prior_n": 6
+    }
+  ]
+}

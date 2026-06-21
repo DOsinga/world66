@@ -1,0 +1,200 @@
+{
+  "round": 1842,
+  "timestamp": "2026-06-13T20:56:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 8.4077,
+      "prior_variance": 0.343735,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 7.2248,
+      "prior_variance": 0.307604,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 5.945,
+      "prior_variance": 0.275774,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 6.0475,
+      "prior_variance": 0.270883,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.9122,
+      "prior_variance": 0.428641,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Llangollen",
+      "path": "europe/unitedkingdom/wales/llangollen",
+      "prior_score": 2.3031,
+      "prior_variance": 0.223667,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.4571,
+      "prior_variance": 0.252799,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 0.5053,
+      "prior_variance": 0.226462,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.2934,
+      "prior_variance": 0.246225,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": -1.054,
+      "prior_variance": 0.218376,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sapo National Park",
+      "path": "africa/liberia/sapo",
+      "prior_score": -2.949,
+      "prior_variance": 0.277596,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -6.6455,
+      "prior_variance": 0.452893,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -5.5775,
+      "prior_variance": 0.294716,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -4.0181,
+      "prior_variance": 0.252568,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -4.2757,
+      "prior_variance": 0.36327,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.7167,
+      "prior_variance": 0.278132,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -1.7579,
+      "prior_variance": 0.21485,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -6.0631,
+      "prior_variance": 0.327603,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -5.1934,
+      "prior_variance": 0.221455,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -3.828,
+      "prior_variance": 0.260043,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.5099,
+      "prior_variance": 0.232697,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -5.1414,
+      "prior_variance": 0.257672,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -4.1533,
+      "prior_variance": 0.233186,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -9.0376,
+      "prior_variance": 0.357738,
+      "prior_n": 5
+    }
+  ]
+}

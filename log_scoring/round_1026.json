@@ -1,0 +1,200 @@
+{
+  "round": 1026,
+  "timestamp": "2026-06-13T20:06:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 7.8564,
+      "prior_variance": 1.393241,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 7.184,
+      "prior_variance": 0.47664,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 3.6978,
+      "prior_variance": 0.584962,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 5.1827,
+      "prior_variance": 0.884028,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 5.5982,
+      "prior_variance": 0.505835,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.6491,
+      "prior_variance": 0.551076,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": -0.7603,
+      "prior_variance": 0.500215,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 3.7145,
+      "prior_variance": 0.452512,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 3.3107,
+      "prior_variance": 0.524634,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 4.3113,
+      "prior_variance": 0.462867,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 3.4469,
+      "prior_variance": 0.542275,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 5.1071,
+      "prior_variance": 0.531082,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 6.4052,
+      "prior_variance": 0.454254,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 5.2676,
+      "prior_variance": 0.441357,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 4.2579,
+      "prior_variance": 0.489157,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 4.1003,
+      "prior_variance": 0.477658,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 4.5472,
+      "prior_variance": 0.517671,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.8275,
+      "prior_variance": 0.584067,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 4.0728,
+      "prior_variance": 0.425141,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Piren\u00f3polis",
+      "path": "southamerica/brazil/pirenopolis",
+      "prior_score": 1.8689,
+      "prior_variance": 0.43898,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 3.9672,
+      "prior_variance": 0.526969,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 3.2194,
+      "prior_variance": 0.339406,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 5.0478,
+      "prior_variance": 0.400507,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 4.191,
+      "prior_variance": 0.48045,
+      "prior_n": 3
+    }
+  ]
+}

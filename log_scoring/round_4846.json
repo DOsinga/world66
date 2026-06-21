@@ -1,0 +1,200 @@
+{
+  "round": 4846,
+  "timestamp": "2026-06-14T00:46:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 3.701,
+      "prior_variance": 0.093818,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.0706,
+      "prior_variance": 0.078489,
+      "prior_n": 17
+    },
+    {
+      "rank": 3,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.1466,
+      "prior_variance": 0.078967,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.1878,
+      "prior_variance": 0.103729,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 0.7177,
+      "prior_variance": 0.084712,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.2714,
+      "prior_variance": 0.081429,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -0.8808,
+      "prior_variance": 0.083437,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.3615,
+      "prior_variance": 0.083852,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -2.5054,
+      "prior_variance": 0.083926,
+      "prior_n": 18
+    },
+    {
+      "rank": 10,
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -0.323,
+      "prior_variance": 0.085329,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.3636,
+      "prior_variance": 0.08671,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -2.3493,
+      "prior_variance": 0.091095,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -3.5361,
+      "prior_variance": 0.09317,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -2.4291,
+      "prior_variance": 0.094799,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -2.0391,
+      "prior_variance": 0.088621,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -3.219,
+      "prior_variance": 0.084504,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.8454,
+      "prior_variance": 0.088823,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -3.9914,
+      "prior_variance": 0.092484,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.676,
+      "prior_variance": 0.108838,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -4.7618,
+      "prior_variance": 0.100202,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -4.8071,
+      "prior_variance": 0.10062,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.7969,
+      "prior_variance": 0.134377,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -5.6439,
+      "prior_variance": 0.132343,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -4.852,
+      "prior_variance": 0.106793,
+      "prior_n": 16
+    }
+  ]
+}

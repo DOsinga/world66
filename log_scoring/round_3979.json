@@ -1,0 +1,200 @@
+{
+  "round": 3979,
+  "timestamp": "2026-06-13T23:34:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 7.1061,
+      "prior_variance": 0.125986,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 7.3221,
+      "prior_variance": 0.162053,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 7.8434,
+      "prior_variance": 0.184977,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 6.0381,
+      "prior_variance": 0.147508,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_score": 5.3083,
+      "prior_variance": 0.142871,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 3.9024,
+      "prior_variance": 0.109274,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.1143,
+      "prior_variance": 0.130906,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 2.9431,
+      "prior_variance": 0.130987,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Huangguoshu Falls",
+      "path": "asia/china/guizhou/huangguoshu",
+      "prior_score": 3.5462,
+      "prior_variance": 0.103981,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.3206,
+      "prior_variance": 0.143971,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.5082,
+      "prior_variance": 0.118171,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 3.9354,
+      "prior_variance": 0.104811,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.7562,
+      "prior_variance": 0.121038,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_score": 2.9571,
+      "prior_variance": 0.108381,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderness_area",
+      "prior_score": 1.9877,
+      "prior_variance": 0.099136,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": -0.0295,
+      "prior_variance": 0.10015,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.2347,
+      "prior_variance": 0.112675,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.3793,
+      "prior_variance": 0.094889,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": 0.1684,
+      "prior_variance": 0.114018,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 1.7543,
+      "prior_variance": 0.105373,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -0.9653,
+      "prior_variance": 0.101775,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.8327,
+      "prior_variance": 0.100813,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -2.0025,
+      "prior_variance": 0.124761,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -0.8257,
+      "prior_variance": 0.121946,
+      "prior_n": 13
+    }
+  ]
+}

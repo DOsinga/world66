@@ -1,0 +1,200 @@
+{
+  "round": 2303,
+  "timestamp": "2026-06-13T21:32:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 17.1843,
+      "prior_variance": 0.921588,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 8.2717,
+      "prior_variance": 0.402993,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 8.5876,
+      "prior_variance": 0.292609,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Alghero",
+      "path": "europe/italy/sardinia/alghero",
+      "prior_score": 6.7554,
+      "prior_variance": 0.251142,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 5.3113,
+      "prior_variance": 0.21049,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 8.8133,
+      "prior_variance": 0.37679,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.4443,
+      "prior_variance": 0.230391,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Azay-le-Rideau",
+      "path": "europe/france/centre/loirevalley/azaylerideau",
+      "prior_score": 5.1023,
+      "prior_variance": 0.237199,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 5.655,
+      "prior_variance": 0.22101,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 4.8949,
+      "prior_variance": 0.254545,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 4.8063,
+      "prior_variance": 0.18967,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 5.2806,
+      "prior_variance": 0.294965,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.717,
+      "prior_variance": 0.272243,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Cairngorms",
+      "path": "europe/unitedkingdom/scotland/cairngorms",
+      "prior_score": 4.1165,
+      "prior_variance": 0.224602,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.254,
+      "prior_variance": 0.192779,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 4.9187,
+      "prior_variance": 0.217745,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.2903,
+      "prior_variance": 0.176525,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 2.0827,
+      "prior_variance": 0.212746,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.5739,
+      "prior_variance": 0.193412,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Le Carbet",
+      "path": "northamerica/thecaribbean/martinique/le_carbet",
+      "prior_score": 1.0764,
+      "prior_variance": 0.241749,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.927,
+      "prior_variance": 0.170041,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.3164,
+      "prior_variance": 0.187908,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kribi",
+      "path": "africa/cameroon/kribi",
+      "prior_score": -0.7294,
+      "prior_variance": 0.173404,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -6.2155,
+      "prior_variance": 0.204189,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1801,
+  "timestamp": "2026-06-13T20:53:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 10.3779,
+      "prior_variance": 0.413347,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 11.1472,
+      "prior_variance": 0.385096,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 1.3345,
+      "prior_variance": 0.301101,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 4.6001,
+      "prior_variance": 0.297905,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.5478,
+      "prior_variance": 0.248648,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 2.117,
+      "prior_variance": 0.283174,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 2.3895,
+      "prior_variance": 0.296584,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 2.6604,
+      "prior_variance": 0.241739,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 3.4051,
+      "prior_variance": 0.271056,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 0.7935,
+      "prior_variance": 0.220378,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.1904,
+      "prior_variance": 0.192086,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.3203,
+      "prior_variance": 0.234709,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -2.1752,
+      "prior_variance": 0.271459,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.154,
+      "prior_variance": 0.244598,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kihnu Island",
+      "path": "europe/estonia/kihnu_island",
+      "prior_score": -0.3976,
+      "prior_variance": 0.236114,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -2.5542,
+      "prior_variance": 0.234359,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ratnagiri, Lalitgiri and Udayagiri",
+      "path": "asia/india/orissa/ratnagirilalitgiri",
+      "prior_score": -0.4405,
+      "prior_variance": 0.263171,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -1.8707,
+      "prior_variance": 0.199474,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -3.845,
+      "prior_variance": 0.29792,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.5988,
+      "prior_variance": 0.23308,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Los Santos",
+      "path": "northamerica/panama/lossantos",
+      "prior_score": -3.4811,
+      "prior_variance": 0.227077,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -7.3032,
+      "prior_variance": 0.364618,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -6.8795,
+      "prior_variance": 0.343377,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -3.6725,
+      "prior_variance": 0.345407,
+      "prior_n": 5
+    }
+  ]
+}

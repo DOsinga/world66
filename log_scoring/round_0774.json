@@ -1,0 +1,200 @@
+{
+  "round": 774,
+  "timestamp": "2026-06-13T19:52:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 19.9026,
+      "prior_variance": 2.77546,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 18.8546,
+      "prior_variance": 1.936541,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 15.085,
+      "prior_variance": 3.444247,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 19.1518,
+      "prior_variance": 5.982499,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 18.2843,
+      "prior_variance": 3.062899,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 18.4633,
+      "prior_variance": 6.016764,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 19.3721,
+      "prior_variance": 6.02296,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 17.2911,
+      "prior_variance": 6.259961,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 18.5419,
+      "prior_variance": 6.227857,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 20.1245,
+      "prior_variance": 2.930279,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 17.4996,
+      "prior_variance": 2.005291,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_score": 17.1803,
+      "prior_variance": 5.579099,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 16.2625,
+      "prior_variance": 2.7588,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 16.4997,
+      "prior_variance": 1.287095,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 16.2992,
+      "prior_variance": 6.837223,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 20.3507,
+      "prior_variance": 2.781482,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey/bigsur",
+      "prior_score": 16.8092,
+      "prior_variance": 6.661159,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 16.8362,
+      "prior_variance": 6.635386,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 18.8201,
+      "prior_variance": 1.759943,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 17.2285,
+      "prior_variance": 3.227034,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 18.0923,
+      "prior_variance": 6.331858,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 9.2467,
+      "prior_variance": 1.440859,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 17.904,
+      "prior_variance": 2.326379,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 11.3484,
+      "prior_variance": 1.175748,
+      "prior_n": 2
+    }
+  ]
+}

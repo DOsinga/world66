@@ -1,0 +1,200 @@
+{
+  "round": 4770,
+  "timestamp": "2026-06-14T00:40:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.3142,
+      "prior_variance": 0.133068,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 3.2927,
+      "prior_variance": 0.08915,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.8418,
+      "prior_variance": 0.094844,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": 1.2143,
+      "prior_variance": 0.086523,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.4188,
+      "prior_variance": 0.112715,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 4.2094,
+      "prior_variance": 0.103794,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 3.6945,
+      "prior_variance": 0.093171,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.2862,
+      "prior_variance": 0.084419,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.5085,
+      "prior_variance": 0.091127,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "San Felice Circeo",
+      "path": "europe/italy/lazio/san_felice_circeo",
+      "prior_score": 2.3236,
+      "prior_variance": 0.083703,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 1.4601,
+      "prior_variance": 0.083806,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.0568,
+      "prior_variance": 0.09612,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9412,
+      "prior_variance": 0.086055,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": 0.7566,
+      "prior_variance": 0.080844,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -0.0988,
+      "prior_variance": 0.08913,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 1.3045,
+      "prior_variance": 0.116985,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.6364,
+      "prior_variance": 0.080844,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": 0.1533,
+      "prior_variance": 0.075911,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 0.3159,
+      "prior_variance": 0.085531,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.5688,
+      "prior_variance": 0.081048,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -0.6934,
+      "prior_variance": 0.085629,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -1.5965,
+      "prior_variance": 0.086364,
+      "prior_n": 17
+    },
+    {
+      "rank": 23,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.349,
+      "prior_variance": 0.114894,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -2.7829,
+      "prior_variance": 0.089289,
+      "prior_n": 16
+    }
+  ]
+}

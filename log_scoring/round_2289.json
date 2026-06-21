@@ -1,0 +1,200 @@
+{
+  "round": 2289,
+  "timestamp": "2026-06-13T21:31:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 4.2141,
+      "prior_variance": 0.207059,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 3.6882,
+      "prior_variance": 0.161442,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 2.1986,
+      "prior_variance": 0.221586,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 1.8617,
+      "prior_variance": 0.201131,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 4.1616,
+      "prior_variance": 0.198515,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.3944,
+      "prior_variance": 0.205671,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Kars & Ani",
+      "path": "asia/turkey/kars__ani",
+      "prior_score": 2.0834,
+      "prior_variance": 0.194998,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 1.0181,
+      "prior_variance": 0.191581,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 1.5504,
+      "prior_variance": 0.207196,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 2.3242,
+      "prior_variance": 0.179701,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.8213,
+      "prior_variance": 0.199051,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.4921,
+      "prior_variance": 0.203644,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.3449,
+      "prior_variance": 0.177301,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.3685,
+      "prior_variance": 0.15373,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -0.2838,
+      "prior_variance": 0.212808,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": -0.2367,
+      "prior_variance": 0.183377,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.7721,
+      "prior_variance": 0.223426,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 0.6967,
+      "prior_variance": 0.173253,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Sandav\u00e1gur",
+      "path": "europe/faroeislands/vagar/sandavgur",
+      "prior_score": 0.476,
+      "prior_variance": 0.174817,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -0.772,
+      "prior_variance": 0.197941,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Vila Nova Sintra",
+      "path": "africa/capeverde/brava/vila_nova_sintra",
+      "prior_score": -0.4173,
+      "prior_variance": 0.19107,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -1.8742,
+      "prior_variance": 0.206132,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.4653,
+      "prior_variance": 0.206745,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.5504,
+      "prior_variance": 0.197468,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1090,
+  "timestamp": "2026-06-13T20:10:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -4.6714,
+      "prior_variance": 0.403837,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -6.8828,
+      "prior_variance": 0.591342,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -4.8637,
+      "prior_variance": 0.491464,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -2.428,
+      "prior_variance": 0.431628,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -5.7739,
+      "prior_variance": 0.522863,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -2.532,
+      "prior_variance": 0.426038,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -6.8291,
+      "prior_variance": 0.470353,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -6.2853,
+      "prior_variance": 0.440264,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -7.3801,
+      "prior_variance": 0.622232,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -6.2904,
+      "prior_variance": 0.39995,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -5.429,
+      "prior_variance": 0.481442,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -7.1926,
+      "prior_variance": 0.465045,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -7.104,
+      "prior_variance": 0.654659,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -5.8983,
+      "prior_variance": 0.491936,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Parkersburg",
+      "path": "northamerica/unitedstates/westvirginia/parkersburg",
+      "prior_score": -6.777,
+      "prior_variance": 0.491622,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -5.5909,
+      "prior_variance": 0.43992,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -6.1201,
+      "prior_variance": 0.320058,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -6.676,
+      "prior_variance": 0.402899,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "New Amsterdam",
+      "path": "southamerica/guyana/newamsterdam",
+      "prior_score": -6.4507,
+      "prior_variance": 0.498698,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.6932,
+      "prior_variance": 0.422039,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -7.0724,
+      "prior_variance": 0.557614,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -6.4365,
+      "prior_variance": 0.429852,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -8.8289,
+      "prior_variance": 0.812119,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Alva",
+      "path": "northamerica/unitedstates/oklahoma/alva",
+      "prior_score": -9.4808,
+      "prior_variance": 0.517724,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 373,
+  "timestamp": "2026-06-13T19:32:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_score": 13.691,
+      "prior_variance": 7.798153,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 9.0396,
+      "prior_variance": 4.110351,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 9.5664,
+      "prior_variance": 3.987913,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 12.6478,
+      "prior_variance": 8.299305,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 8.7279,
+      "prior_variance": 2.870815,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 4.9892,
+      "prior_variance": 3.497416,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 8.2569,
+      "prior_variance": 11.67023,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sliema",
+      "path": "europe/malta/sliema",
+      "prior_score": 7.8999,
+      "prior_variance": 2.674624,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 6.5055,
+      "prior_variance": 1.957508,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 5.0975,
+      "prior_variance": 2.045994,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 10.4478,
+      "prior_variance": 2.672831,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 7.6977,
+      "prior_variance": 1.890531,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 6.3405,
+      "prior_variance": 1.927688,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 10.4055,
+      "prior_variance": 3.810981,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 5.9271,
+      "prior_variance": 1.918528,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 7.7578,
+      "prior_variance": 2.282264,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 4.7892,
+      "prior_variance": 1.763649,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 2.2296,
+      "prior_variance": 1.793479,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 3.1249,
+      "prior_variance": 1.840924,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 4.5561,
+      "prior_variance": 1.829203,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 7.6991,
+      "prior_variance": 1.753852,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 5.9607,
+      "prior_variance": 1.832871,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.0638,
+      "prior_variance": 1.695844,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -0.8522,
+      "prior_variance": 1.485137,
+      "prior_n": 1
+    }
+  ]
+}

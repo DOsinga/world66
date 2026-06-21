@@ -1,0 +1,200 @@
+{
+  "round": 1487,
+  "timestamp": "2026-06-13T20:33:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 15.3871,
+      "prior_variance": 0.863394,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 14.2936,
+      "prior_variance": 0.818368,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 11.0199,
+      "prior_variance": 0.460089,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 7.8149,
+      "prior_variance": 0.428302,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 5.6847,
+      "prior_variance": 0.443704,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.9373,
+      "prior_variance": 0.360632,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.6077,
+      "prior_variance": 0.343365,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Belfast",
+      "path": "europe/unitedkingdom/northernireland/belfast",
+      "prior_score": 4.5797,
+      "prior_variance": 0.378359,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 4.4771,
+      "prior_variance": 0.339739,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": 4.9302,
+      "prior_variance": 0.336248,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 6.8699,
+      "prior_variance": 0.471797,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 4.9448,
+      "prior_variance": 0.4659,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 3.2502,
+      "prior_variance": 0.278982,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Shakhrisabz",
+      "path": "asia/uzbekistan/shakhrisabz",
+      "prior_score": 0.5429,
+      "prior_variance": 0.322144,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 4.7745,
+      "prior_variance": 0.3162,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 4.2901,
+      "prior_variance": 0.324652,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 4.8107,
+      "prior_variance": 0.372265,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 4.1209,
+      "prior_variance": 0.341198,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nida",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_score": 0.7296,
+      "prior_variance": 0.304421,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.5114,
+      "prior_variance": 0.380207,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -2.1789,
+      "prior_variance": 0.379322,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Le Carbet",
+      "path": "northamerica/thecaribbean/martinique/le_carbet",
+      "prior_score": 2.9571,
+      "prior_variance": 0.35655,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -1.6616,
+      "prior_variance": 0.257808,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -1.5925,
+      "prior_variance": 0.332915,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2584,
+  "timestamp": "2026-06-13T21:52:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 8.696,
+      "prior_variance": 0.338984,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 7.3323,
+      "prior_variance": 0.196407,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "St. Thomas",
+      "path": "northamerica/thecaribbean/virginislands/stthomas",
+      "prior_score": 6.3185,
+      "prior_variance": 0.215508,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.7689,
+      "prior_variance": 0.194735,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 3.8509,
+      "prior_variance": 0.162686,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 8.9481,
+      "prior_variance": 0.28963,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.7274,
+      "prior_variance": 0.170161,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 4.0668,
+      "prior_variance": 0.200037,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.9072,
+      "prior_variance": 0.176351,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 5.6048,
+      "prior_variance": 0.217841,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_score": 5.4009,
+      "prior_variance": 0.198189,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 3.0709,
+      "prior_variance": 0.206222,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.1552,
+      "prior_variance": 0.175892,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.6534,
+      "prior_variance": 0.195519,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_score": 3.9323,
+      "prior_variance": 0.165789,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 4.6866,
+      "prior_variance": 0.22066,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.6398,
+      "prior_variance": 0.164227,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.4676,
+      "prior_variance": 0.157505,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.3036,
+      "prior_variance": 0.190686,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 2.8364,
+      "prior_variance": 0.163497,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 3.5127,
+      "prior_variance": 0.224759,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 3.0099,
+      "prior_variance": 0.175542,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 2.3229,
+      "prior_variance": 0.18097,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Temara",
+      "path": "africa/morocco/temara",
+      "prior_score": -3.4596,
+      "prior_variance": 0.16947,
+      "prior_n": 8
+    }
+  ]
+}

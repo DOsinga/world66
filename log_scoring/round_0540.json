@@ -1,0 +1,200 @@
+{
+  "round": 540,
+  "timestamp": "2026-06-13T19:41:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 2.722,
+      "prior_variance": 0.997344,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.2166,
+      "prior_variance": 1.416556,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 2.7306,
+      "prior_variance": 1.445257,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/westhollywood",
+      "prior_score": 3.1615,
+      "prior_variance": 1.193447,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Oswiecim",
+      "path": "europe/poland/oswiecim",
+      "prior_score": 1.5296,
+      "prior_variance": 1.466319,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 2.1926,
+      "prior_variance": 0.848274,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 0.9028,
+      "prior_variance": 1.322712,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.6108,
+      "prior_variance": 0.82299,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.4569,
+      "prior_variance": 0.983358,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.9031,
+      "prior_variance": 1.466365,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 1.0678,
+      "prior_variance": 1.508045,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": -0.4842,
+      "prior_variance": 1.232746,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": 0.7693,
+      "prior_variance": 1.537558,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimeno",
+      "prior_score": 0.6816,
+      "prior_variance": 1.326538,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -0.424,
+      "prior_variance": 1.413338,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 1.7627,
+      "prior_variance": 1.047396,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": 0.6705,
+      "prior_variance": 1.154464,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 2.0862,
+      "prior_variance": 1.688744,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 2.0505,
+      "prior_variance": 1.580222,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": 1.7127,
+      "prior_variance": 1.354938,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.3313,
+      "prior_variance": 0.868545,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.6728,
+      "prior_variance": 1.154094,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -1.5649,
+      "prior_variance": 1.170163,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": 2.0743,
+      "prior_variance": 2.364722,
+      "prior_n": 1
+    }
+  ]
+}

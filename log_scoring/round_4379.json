@@ -1,0 +1,200 @@
+{
+  "round": 4379,
+  "timestamp": "2026-06-14T00:07:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.2907,
+      "prior_variance": 0.113767,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Etretat",
+      "path": "europe/france/normandybrittany/etretat",
+      "prior_score": 5.9731,
+      "prior_variance": 0.12554,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 3.6204,
+      "prior_variance": 0.11198,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 3.5606,
+      "prior_variance": 0.095942,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Addo Elephant National Park",
+      "path": "africa/southafrica/addo_elephant_national_park",
+      "prior_score": 5.0799,
+      "prior_variance": 0.110463,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 1.2678,
+      "prior_variance": 0.116158,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 4.213,
+      "prior_variance": 0.109049,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.7345,
+      "prior_variance": 0.121377,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Exeter",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/exeter",
+      "prior_score": 1.6025,
+      "prior_variance": 0.096434,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.8848,
+      "prior_variance": 0.097974,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Sonoma",
+      "path": "northamerica/unitedstates/california/northcoast/sonoma",
+      "prior_score": 2.4101,
+      "prior_variance": 0.112314,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": -0.1825,
+      "prior_variance": 0.092157,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.5635,
+      "prior_variance": 0.145756,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": -0.6006,
+      "prior_variance": 0.09162,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -3.2585,
+      "prior_variance": 0.107029,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.2593,
+      "prior_variance": 0.105319,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -6.0421,
+      "prior_variance": 0.145102,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.6827,
+      "prior_variance": 0.132947,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_score": -5.589,
+      "prior_variance": 0.151756,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -4.6654,
+      "prior_variance": 0.105379,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -5.812,
+      "prior_variance": 0.115583,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -5.2353,
+      "prior_variance": 0.114443,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -5.407,
+      "prior_variance": 0.130646,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.0306,
+      "prior_variance": 0.143523,
+      "prior_n": 14
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1223,
+  "timestamp": "2026-06-13T20:18:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 11.4635,
+      "prior_variance": 1.111181,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 8.7183,
+      "prior_variance": 0.569555,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 7.4375,
+      "prior_variance": 0.522388,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.3988,
+      "prior_variance": 0.421026,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ba Be National Park",
+      "path": "asia/vietnam/ba_be",
+      "prior_score": 2.47,
+      "prior_variance": 0.533807,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.3051,
+      "prior_variance": 0.311674,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": 0.5981,
+      "prior_variance": 0.419986,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": -2.0162,
+      "prior_variance": 0.301489,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.3459,
+      "prior_variance": 0.421032,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 1.6505,
+      "prior_variance": 0.417631,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -2.729,
+      "prior_variance": 0.391023,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -5.2598,
+      "prior_variance": 0.606325,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -3.4247,
+      "prior_variance": 0.33949,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -4.5913,
+      "prior_variance": 0.334192,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -4.8478,
+      "prior_variance": 0.414144,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -4.125,
+      "prior_variance": 0.412519,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "San Miguel",
+      "path": "northamerica/elsalvador/sanmiguel",
+      "prior_score": -5.8498,
+      "prior_variance": 0.316735,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -5.9458,
+      "prior_variance": 0.568296,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": -7.2426,
+      "prior_variance": 0.501593,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -4.4038,
+      "prior_variance": 0.391877,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": -4.7317,
+      "prior_variance": 0.467396,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -7.2052,
+      "prior_variance": 0.424726,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.1391,
+      "prior_variance": 0.41184,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sabden",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden",
+      "prior_score": -5.2694,
+      "prior_variance": 0.507043,
+      "prior_n": 4
+    }
+  ]
+}

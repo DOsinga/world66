@@ -1,0 +1,200 @@
+{
+  "round": 1680,
+  "timestamp": "2026-06-13T20:45:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "M\u00fcnster",
+      "path": "europe/germany/northrhinewestphalia/mnster",
+      "prior_score": 3.1445,
+      "prior_variance": 0.261049,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 0.276,
+      "prior_variance": 0.210308,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 2.9903,
+      "prior_variance": 0.282901,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.4473,
+      "prior_variance": 0.260126,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.7394,
+      "prior_variance": 0.249138,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 0.6086,
+      "prior_variance": 0.273621,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.7566,
+      "prior_variance": 0.357297,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -1.155,
+      "prior_variance": 0.280772,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -2.5499,
+      "prior_variance": 0.24353,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.9589,
+      "prior_variance": 0.294422,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 0.8498,
+      "prior_variance": 0.281068,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -2.7141,
+      "prior_variance": 0.240735,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -3.95,
+      "prior_variance": 0.278187,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -0.9269,
+      "prior_variance": 0.310707,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.6401,
+      "prior_variance": 0.249301,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Poitiers",
+      "path": "europe/france/midi/aquitaine",
+      "prior_score": 1.6237,
+      "prior_variance": 0.251771,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.4381,
+      "prior_variance": 0.269054,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -2.8328,
+      "prior_variance": 0.294698,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -4.5852,
+      "prior_variance": 0.233858,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -3.7777,
+      "prior_variance": 0.319866,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -6.0796,
+      "prior_variance": 0.314621,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -7.3992,
+      "prior_variance": 0.310529,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -7.5075,
+      "prior_variance": 0.377653,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.735,
+      "prior_variance": 0.401446,
+      "prior_n": 5
+    }
+  ]
+}

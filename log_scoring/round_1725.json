@@ -1,0 +1,200 @@
+{
+  "round": 1725,
+  "timestamp": "2026-06-13T20:48:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/santa_barbara",
+      "prior_score": 7.9269,
+      "prior_variance": 0.298825,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 6.0574,
+      "prior_variance": 0.360772,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 4.3541,
+      "prior_variance": 0.269154,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 8.6045,
+      "prior_variance": 0.426108,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.2012,
+      "prior_variance": 0.423068,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 5.2305,
+      "prior_variance": 0.299881,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 4.7672,
+      "prior_variance": 0.333991,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 0.8003,
+      "prior_variance": 0.250181,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 4.9045,
+      "prior_variance": 0.292338,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_score": -0.0999,
+      "prior_variance": 0.352317,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -1.2688,
+      "prior_variance": 0.248302,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Batam",
+      "path": "asia/indonesia/batam",
+      "prior_score": -2.8793,
+      "prior_variance": 0.277112,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.9479,
+      "prior_variance": 0.282365,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -4.3407,
+      "prior_variance": 0.271438,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -4.9271,
+      "prior_variance": 0.298122,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -4.866,
+      "prior_variance": 0.26841,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -4.314,
+      "prior_variance": 0.250097,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -4.6965,
+      "prior_variance": 0.30331,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -5.3468,
+      "prior_variance": 0.385732,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Buchanan",
+      "path": "africa/liberia/buchanan",
+      "prior_score": -7.9627,
+      "prior_variance": 0.425976,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -4.5557,
+      "prior_variance": 0.25052,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -7.3986,
+      "prior_variance": 0.318746,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -7.1912,
+      "prior_variance": 0.586875,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Yixing",
+      "path": "asia/china/jiangsu_province/yixing",
+      "prior_score": -3.4941,
+      "prior_variance": 0.242639,
+      "prior_n": 5
+    }
+  ]
+}

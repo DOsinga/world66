@@ -1,0 +1,200 @@
+{
+  "round": 1072,
+  "timestamp": "2026-06-13T20:09:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.595,
+      "prior_variance": 0.416002,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": -1.5826,
+      "prior_variance": 0.487173,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -4.8559,
+      "prior_variance": 0.444028,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -2.3165,
+      "prior_variance": 0.587518,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.0033,
+      "prior_variance": 0.496126,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -2.3629,
+      "prior_variance": 0.447821,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.8706,
+      "prior_variance": 0.582078,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -2.7401,
+      "prior_variance": 0.663443,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -3.184,
+      "prior_variance": 0.417898,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -3.0883,
+      "prior_variance": 0.43982,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -2.3903,
+      "prior_variance": 0.580672,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -2.6451,
+      "prior_variance": 0.409492,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.0869,
+      "prior_variance": 0.455005,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -2.4095,
+      "prior_variance": 0.403396,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -2.9844,
+      "prior_variance": 0.460131,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.2254,
+      "prior_variance": 0.434907,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Palm Desert",
+      "path": "northamerica/unitedstates/california/deserts/palmdesert",
+      "prior_score": -2.7812,
+      "prior_variance": 0.415412,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -3.1126,
+      "prior_variance": 0.542111,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.1788,
+      "prior_variance": 0.492604,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -3.1185,
+      "prior_variance": 0.464658,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.6617,
+      "prior_variance": 0.398501,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.4939,
+      "prior_variance": 0.409155,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -1.5662,
+      "prior_variance": 0.447283,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -3.2884,
+      "prior_variance": 0.442831,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1405,
+  "timestamp": "2026-06-13T20:28:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 8.2499,
+      "prior_variance": 0.333213,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.1793,
+      "prior_variance": 0.51395,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 5.3436,
+      "prior_variance": 0.333916,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 5.0302,
+      "prior_variance": 0.363351,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 6.3753,
+      "prior_variance": 0.417614,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 7.6544,
+      "prior_variance": 0.474373,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -1.5771,
+      "prior_variance": 0.394061,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": -0.3031,
+      "prior_variance": 0.381115,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.4197,
+      "prior_variance": 0.253188,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.1818,
+      "prior_variance": 0.31645,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.6794,
+      "prior_variance": 0.302291,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.1517,
+      "prior_variance": 0.395156,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.6062,
+      "prior_variance": 0.321596,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.9348,
+      "prior_variance": 0.303988,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.7568,
+      "prior_variance": 0.336365,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.6136,
+      "prior_variance": 0.301567,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.9806,
+      "prior_variance": 0.334597,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": -2.5411,
+      "prior_variance": 0.397235,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Genk",
+      "path": "europe/belgium/genk",
+      "prior_score": -2.921,
+      "prior_variance": 0.352564,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -3.2158,
+      "prior_variance": 0.505034,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -5.4448,
+      "prior_variance": 0.353696,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -4.4177,
+      "prior_variance": 0.317239,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.6949,
+      "prior_variance": 0.312959,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -7.9903,
+      "prior_variance": 0.426152,
+      "prior_n": 4
+    }
+  ]
+}

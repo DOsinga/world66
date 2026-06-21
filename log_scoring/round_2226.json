@@ -1,0 +1,200 @@
+{
+  "round": 2226,
+  "timestamp": "2026-06-13T21:27:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.5989,
+      "prior_variance": 0.550537,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 9.6333,
+      "prior_variance": 0.382185,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 5.7728,
+      "prior_variance": 0.261657,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 5.6936,
+      "prior_variance": 0.235746,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 3.2997,
+      "prior_variance": 0.193544,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.2848,
+      "prior_variance": 0.224038,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.8245,
+      "prior_variance": 0.224475,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 4.864,
+      "prior_variance": 0.189437,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 3.1768,
+      "prior_variance": 0.19063,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.8464,
+      "prior_variance": 0.185154,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 5.8097,
+      "prior_variance": 0.227338,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 3.3366,
+      "prior_variance": 0.237977,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 2.2756,
+      "prior_variance": 0.170131,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 2.5906,
+      "prior_variance": 0.195258,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 2.5274,
+      "prior_variance": 0.194151,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.6805,
+      "prior_variance": 0.200048,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.4416,
+      "prior_variance": 0.181076,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 3.18,
+      "prior_variance": 0.204879,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": -0.5496,
+      "prior_variance": 0.223664,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -0.8632,
+      "prior_variance": 0.282694,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.5601,
+      "prior_variance": 0.199566,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.349,
+      "prior_variance": 0.180793,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.5274,
+      "prior_variance": 0.215524,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.2502,
+      "prior_variance": 0.262989,
+      "prior_n": 7
+    }
+  ]
+}

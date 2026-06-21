@@ -1,0 +1,200 @@
+{
+  "round": 2034,
+  "timestamp": "2026-06-13T21:13:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.5353,
+      "prior_variance": 0.401422,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.446,
+      "prior_variance": 0.234441,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 7.7914,
+      "prior_variance": 0.422026,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.7871,
+      "prior_variance": 0.31085,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 6.4273,
+      "prior_variance": 0.270753,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 3.7455,
+      "prior_variance": 0.228172,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.5815,
+      "prior_variance": 0.240544,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 9.6588,
+      "prior_variance": 0.402038,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 3.4478,
+      "prior_variance": 0.195044,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 1.6004,
+      "prior_variance": 0.22538,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Santa Fe de Antioquia",
+      "path": "southamerica/colombia/santafedeantioquia",
+      "prior_score": 2.2949,
+      "prior_variance": 0.188941,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Le Carbet",
+      "path": "northamerica/thecaribbean/martinique/le_carbet",
+      "prior_score": 0.9023,
+      "prior_variance": 0.284323,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.9404,
+      "prior_variance": 0.186181,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.7076,
+      "prior_variance": 0.268103,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Arvidsjaur",
+      "path": "europe/sweden/arvidsjaur",
+      "prior_score": -2.6415,
+      "prior_variance": 0.184015,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.6096,
+      "prior_variance": 0.235936,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 0.3313,
+      "prior_variance": 0.23071,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Abomey",
+      "path": "africa/benin/abomey",
+      "prior_score": -1.9296,
+      "prior_variance": 0.252941,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -0.6852,
+      "prior_variance": 0.225895,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "B\u00e9ja",
+      "path": "africa/tunisia/beja",
+      "prior_score": -3.1686,
+      "prior_variance": 0.231102,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Xingcheng",
+      "path": "asia/china/liaoning/xingcheng",
+      "prior_score": -2.3669,
+      "prior_variance": 0.230787,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.1335,
+      "prior_variance": 0.19801,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -4.097,
+      "prior_variance": 0.207995,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_score": -1.5576,
+      "prior_variance": 0.207674,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1563,
+  "timestamp": "2026-06-13T20:38:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 6.5333,
+      "prior_variance": 0.300346,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 5.3576,
+      "prior_variance": 0.315627,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 3.0493,
+      "prior_variance": 0.382677,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.5937,
+      "prior_variance": 0.302787,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.2936,
+      "prior_variance": 0.272553,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.2792,
+      "prior_variance": 0.251549,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.2334,
+      "prior_variance": 0.372622,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 1.5845,
+      "prior_variance": 0.274259,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 1.1356,
+      "prior_variance": 0.26599,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.3677,
+      "prior_variance": 0.218811,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -1.1844,
+      "prior_variance": 0.447618,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4894,
+      "prior_variance": 0.237489,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.1487,
+      "prior_variance": 0.289501,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 1.4198,
+      "prior_variance": 0.333465,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.9038,
+      "prior_variance": 0.282104,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -1.1407,
+      "prior_variance": 0.290899,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.2693,
+      "prior_variance": 0.258908,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -0.428,
+      "prior_variance": 0.302852,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -3.9661,
+      "prior_variance": 0.259654,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -5.4991,
+      "prior_variance": 0.378702,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -7.2075,
+      "prior_variance": 0.322329,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -5.5792,
+      "prior_variance": 0.272333,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -6.2011,
+      "prior_variance": 0.25643,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.5065,
+      "prior_variance": 0.291746,
+      "prior_n": 5
+    }
+  ]
+}

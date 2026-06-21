@@ -1,0 +1,200 @@
+{
+  "round": 3628,
+  "timestamp": "2026-06-13T23:08:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_score": 12.7803,
+      "prior_variance": 0.643016,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 11.1099,
+      "prior_variance": 0.430135,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 11.8902,
+      "prior_variance": 0.332326,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 6.1978,
+      "prior_variance": 0.164041,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 3.6006,
+      "prior_variance": 0.138133,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.3374,
+      "prior_variance": 0.140384,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 1.6117,
+      "prior_variance": 0.115535,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 3.1316,
+      "prior_variance": 0.109761,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.4887,
+      "prior_variance": 0.104159,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 2.4681,
+      "prior_variance": 0.126928,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.8718,
+      "prior_variance": 0.11084,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "South Caicos",
+      "path": "northamerica/turksandcaicosislands/southcaicos",
+      "prior_score": 0.6794,
+      "prior_variance": 0.184094,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 2.2008,
+      "prior_variance": 0.114361,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1776,
+      "prior_variance": 0.101145,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -2.2032,
+      "prior_variance": 0.111309,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Monnickendam",
+      "path": "europe/netherlands/monickendam",
+      "prior_score": 0.7129,
+      "prior_variance": 0.104475,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -2.947,
+      "prior_variance": 0.110493,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.4822,
+      "prior_variance": 0.107536,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.2377,
+      "prior_variance": 0.119654,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -2.8828,
+      "prior_variance": 0.128657,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -3.0309,
+      "prior_variance": 0.175771,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -2.8664,
+      "prior_variance": 0.119127,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.022,
+      "prior_variance": 0.119518,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -2.7462,
+      "prior_variance": 0.165389,
+      "prior_n": 13
+    }
+  ]
+}

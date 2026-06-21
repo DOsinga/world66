@@ -1,0 +1,200 @@
+{
+  "round": 4673,
+  "timestamp": "2026-06-14T00:32:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 8.275,
+      "prior_variance": 0.158225,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.8615,
+      "prior_variance": 0.08866,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 1.9985,
+      "prior_variance": 0.091276,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -1.4911,
+      "prior_variance": 0.10638,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.4705,
+      "prior_variance": 0.092264,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.6516,
+      "prior_variance": 0.120664,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -2.5607,
+      "prior_variance": 0.088736,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -0.8408,
+      "prior_variance": 0.08984,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.4065,
+      "prior_variance": 0.08803,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield",
+      "prior_score": -2.5161,
+      "prior_variance": 0.098725,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.8222,
+      "prior_variance": 0.095073,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.0065,
+      "prior_variance": 0.100532,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.3392,
+      "prior_variance": 0.085196,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -2.9535,
+      "prior_variance": 0.091185,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -1.9893,
+      "prior_variance": 0.082569,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -1.9218,
+      "prior_variance": 0.093673,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.1447,
+      "prior_variance": 0.102738,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.1236,
+      "prior_variance": 0.084605,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -5.0803,
+      "prior_variance": 0.131935,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -5.7248,
+      "prior_variance": 0.121196,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.1136,
+      "prior_variance": 0.1057,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -4.7122,
+      "prior_variance": 0.111486,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.1515,
+      "prior_variance": 0.111091,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -6.9931,
+      "prior_variance": 0.116828,
+      "prior_n": 15
+    }
+  ]
+}

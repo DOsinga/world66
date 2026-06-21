@@ -1,0 +1,200 @@
+{
+  "round": 2216,
+  "timestamp": "2026-06-13T21:26:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.6874,
+      "prior_variance": 0.178171,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.6195,
+      "prior_variance": 0.229758,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.4581,
+      "prior_variance": 0.200264,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 3.5704,
+      "prior_variance": 0.172267,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.3375,
+      "prior_variance": 0.180152,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 2.3119,
+      "prior_variance": 0.216423,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 4.4784,
+      "prior_variance": 0.214835,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.0709,
+      "prior_variance": 0.194365,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.7499,
+      "prior_variance": 0.215878,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -0.694,
+      "prior_variance": 0.212489,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.2629,
+      "prior_variance": 0.199345,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.7293,
+      "prior_variance": 0.179479,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.3967,
+      "prior_variance": 0.180307,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 1.1745,
+      "prior_variance": 0.179304,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.7647,
+      "prior_variance": 0.184435,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -1.4314,
+      "prior_variance": 0.196592,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.6718,
+      "prior_variance": 0.191551,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.7008,
+      "prior_variance": 0.176118,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kyaiktiyo",
+      "path": "asia/myanmar/kyaiktiyo",
+      "prior_score": 1.913,
+      "prior_variance": 0.19246,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -1.9807,
+      "prior_variance": 0.186684,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": -1.0862,
+      "prior_variance": 0.190223,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -0.1989,
+      "prior_variance": 0.250269,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -8.1798,
+      "prior_variance": 0.330517,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -10.5108,
+      "prior_variance": 0.55716,
+      "prior_n": 7
+    }
+  ]
+}

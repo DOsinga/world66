@@ -1,0 +1,200 @@
+{
+  "round": 2741,
+  "timestamp": "2026-06-13T22:03:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 13.3855,
+      "prior_variance": 0.594079,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 12.3352,
+      "prior_variance": 0.576879,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 4.8361,
+      "prior_variance": 0.160182,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.5643,
+      "prior_variance": 0.17877,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 5.2464,
+      "prior_variance": 0.182118,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": 1.4091,
+      "prior_variance": 0.170465,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 2.8308,
+      "prior_variance": 0.152295,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.9259,
+      "prior_variance": 0.158611,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.2806,
+      "prior_variance": 0.171333,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.3789,
+      "prior_variance": 0.151446,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.7553,
+      "prior_variance": 0.168072,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": 0.0746,
+      "prior_variance": 0.245735,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Speyer",
+      "path": "europe/germany/rhinelandpalatinate/speyer",
+      "prior_score": 2.7187,
+      "prior_variance": 0.184332,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.9611,
+      "prior_variance": 0.167978,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 2.7837,
+      "prior_variance": 0.158618,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.3698,
+      "prior_variance": 0.143289,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": -0.3366,
+      "prior_variance": 0.178044,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 1.7914,
+      "prior_variance": 0.152491,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 2.3363,
+      "prior_variance": 0.158593,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.2932,
+      "prior_variance": 0.13781,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 1.7214,
+      "prior_variance": 0.171682,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle",
+      "prior_score": -2.3188,
+      "prior_variance": 0.179418,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -1.8969,
+      "prior_variance": 0.162776,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.889,
+      "prior_variance": 0.170949,
+      "prior_n": 8
+    }
+  ]
+}

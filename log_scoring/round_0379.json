@@ -1,0 +1,200 @@
+{
+  "round": 379,
+  "timestamp": "2026-06-13T19:32:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 5.592,
+      "prior_variance": 2.61175,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 0.6778,
+      "prior_variance": 1.628621,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 6.9934,
+      "prior_variance": 2.491962,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 0.2599,
+      "prior_variance": 2.009786,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 0.8237,
+      "prior_variance": 1.323244,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 5.5732,
+      "prior_variance": 5.360077,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.8077,
+      "prior_variance": 1.4475,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 2.0863,
+      "prior_variance": 1.982642,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 3.0217,
+      "prior_variance": 1.819568,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": -0.094,
+      "prior_variance": 1.65066,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -1.325,
+      "prior_variance": 2.354581,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -4.6167,
+      "prior_variance": 1.796943,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.9459,
+      "prior_variance": 1.85919,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -1.3805,
+      "prior_variance": 1.62281,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.3113,
+      "prior_variance": 1.974437,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -3.6725,
+      "prior_variance": 1.475815,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -3.8059,
+      "prior_variance": 3.207576,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Guelmim",
+      "path": "africa/morocco/goulimime",
+      "prior_score": -4.6597,
+      "prior_variance": 1.668868,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -4.5154,
+      "prior_variance": 1.66619,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jining",
+      "path": "asia/china/shandong_province/jining",
+      "prior_score": -4.8268,
+      "prior_variance": 1.34316,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -7.5503,
+      "prior_variance": 2.057916,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -6.5967,
+      "prior_variance": 1.812996,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -5.7451,
+      "prior_variance": 3.092605,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -7.8924,
+      "prior_variance": 8.867944,
+      "prior_n": 1
+    }
+  ]
+}

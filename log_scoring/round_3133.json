@@ -1,0 +1,200 @@
+{
+  "round": 3133,
+  "timestamp": "2026-06-13T22:31:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 5.8039,
+      "prior_variance": 0.147559,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 4.1149,
+      "prior_variance": 0.161779,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.4823,
+      "prior_variance": 0.119256,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.7976,
+      "prior_variance": 0.123508,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.6873,
+      "prior_variance": 0.122362,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.193,
+      "prior_variance": 0.137021,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -4.1146,
+      "prior_variance": 0.139864,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -4.5196,
+      "prior_variance": 0.166876,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.8509,
+      "prior_variance": 0.133003,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Zaozhuang",
+      "path": "asia/china/shandong_province/zaozhuang",
+      "prior_score": -5.1795,
+      "prior_variance": 0.13713,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.4777,
+      "prior_variance": 0.151156,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.4937,
+      "prior_variance": 0.177182,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -5.9324,
+      "prior_variance": 0.176186,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.8203,
+      "prior_variance": 0.159822,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.3973,
+      "prior_variance": 0.169512,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -5.9305,
+      "prior_variance": 0.152825,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -5.9515,
+      "prior_variance": 0.199837,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -7.028,
+      "prior_variance": 0.180192,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -5.823,
+      "prior_variance": 0.197755,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -6.7849,
+      "prior_variance": 0.167868,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.3127,
+      "prior_variance": 0.224596,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.4013,
+      "prior_variance": 0.228774,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.6941,
+      "prior_variance": 0.23113,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -10.5737,
+      "prior_variance": 0.32307,
+      "prior_n": 10
+    }
+  ]
+}

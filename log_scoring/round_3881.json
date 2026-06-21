@@ -1,0 +1,200 @@
+{
+  "round": 3881,
+  "timestamp": "2026-06-13T23:27:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 5.7835,
+      "prior_variance": 0.13079,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 4.8786,
+      "prior_variance": 0.127775,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 2.6663,
+      "prior_variance": 0.110571,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 1.8007,
+      "prior_variance": 0.099141,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 0.6969,
+      "prior_variance": 0.100608,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9462,
+      "prior_variance": 0.107409,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -1.4452,
+      "prior_variance": 0.134494,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness",
+      "prior_score": -2.2043,
+      "prior_variance": 0.110899,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -1.7998,
+      "prior_variance": 0.100609,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Paldiski",
+      "path": "europe/estonia/paldiski",
+      "prior_score": -3.5848,
+      "prior_variance": 0.115569,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.1341,
+      "prior_variance": 0.120818,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.0814,
+      "prior_variance": 0.109363,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.4133,
+      "prior_variance": 0.125978,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -3.6531,
+      "prior_variance": 0.116941,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -5.4507,
+      "prior_variance": 0.132102,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -3.7968,
+      "prior_variance": 0.096617,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -3.0244,
+      "prior_variance": 0.101824,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.3871,
+      "prior_variance": 0.140598,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -4.6153,
+      "prior_variance": 0.1352,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham",
+      "prior_score": -4.2191,
+      "prior_variance": 0.121477,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.9224,
+      "prior_variance": 0.153455,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -6.2976,
+      "prior_variance": 0.152306,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -8.4893,
+      "prior_variance": 0.30515,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -6.7978,
+      "prior_variance": 0.172933,
+      "prior_n": 12
+    }
+  ]
+}

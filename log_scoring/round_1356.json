@@ -1,0 +1,200 @@
+{
+  "round": 1356,
+  "timestamp": "2026-06-13T20:25:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 7.7608,
+      "prior_variance": 0.357329,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tsavo East",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavoeast",
+      "prior_score": 4.0692,
+      "prior_variance": 0.329761,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 5.8392,
+      "prior_variance": 0.318006,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 5.6418,
+      "prior_variance": 0.494065,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 6.1256,
+      "prior_variance": 0.337339,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 3.5708,
+      "prior_variance": 0.345959,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Rapperswil",
+      "path": "europe/switzerland/rapperswil",
+      "prior_score": 4.644,
+      "prior_variance": 0.319396,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Varna",
+      "path": "europe/bulgaria/varna",
+      "prior_score": 4.4548,
+      "prior_variance": 0.308322,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 2.2075,
+      "prior_variance": 0.34429,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 2.4644,
+      "prior_variance": 0.338426,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.5876,
+      "prior_variance": 0.348808,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.4575,
+      "prior_variance": 0.332274,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": 0.069,
+      "prior_variance": 0.322908,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.2233,
+      "prior_variance": 0.333335,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -0.1567,
+      "prior_variance": 0.309424,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.0174,
+      "prior_variance": 0.300838,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.0669,
+      "prior_variance": 0.381107,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.6986,
+      "prior_variance": 0.323168,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -6.8405,
+      "prior_variance": 0.448533,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ede",
+      "path": "europe/netherlands/ede",
+      "prior_score": -4.3171,
+      "prior_variance": 0.402978,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -3.8111,
+      "prior_variance": 0.247488,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": 0.2077,
+      "prior_variance": 0.363697,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -5.9155,
+      "prior_variance": 0.402289,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -8.3555,
+      "prior_variance": 0.410075,
+      "prior_n": 4
+    }
+  ]
+}

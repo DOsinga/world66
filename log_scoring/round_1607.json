@@ -1,0 +1,200 @@
+{
+  "round": 1607,
+  "timestamp": "2026-06-13T20:41:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 3.9286,
+      "prior_variance": 0.29185,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 5.8373,
+      "prior_variance": 0.236099,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 5.2995,
+      "prior_variance": 0.275104,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.7149,
+      "prior_variance": 0.290272,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 5.6315,
+      "prior_variance": 0.341844,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -3.2418,
+      "prior_variance": 0.43996,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": -0.1699,
+      "prior_variance": 0.210538,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.294,
+      "prior_variance": 0.336719,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -1.7032,
+      "prior_variance": 0.338726,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -0.7295,
+      "prior_variance": 0.278565,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.7845,
+      "prior_variance": 0.308557,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 0.7677,
+      "prior_variance": 0.249581,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 1.1725,
+      "prior_variance": 0.390868,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.6014,
+      "prior_variance": 0.248218,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.7621,
+      "prior_variance": 0.254153,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -7.3909,
+      "prior_variance": 0.739141,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.0065,
+      "prior_variance": 0.312497,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -2.0286,
+      "prior_variance": 0.28542,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -4.5826,
+      "prior_variance": 0.333098,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -1.7018,
+      "prior_variance": 0.25374,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -4.2587,
+      "prior_variance": 0.314193,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -4.5116,
+      "prior_variance": 0.286777,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -4.8916,
+      "prior_variance": 0.276321,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -5.9574,
+      "prior_variance": 0.273427,
+      "prior_n": 5
+    }
+  ]
+}

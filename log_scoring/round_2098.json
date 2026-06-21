@@ -1,0 +1,200 @@
+{
+  "round": 2098,
+  "timestamp": "2026-06-13T21:18:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 5.433,
+      "prior_variance": 0.304933,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 8.3108,
+      "prior_variance": 0.262315,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 4.0391,
+      "prior_variance": 0.259953,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Perth",
+      "path": "australiaandpacific/australia/westernaustralia/perth",
+      "prior_score": 5.2975,
+      "prior_variance": 0.253252,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.1103,
+      "prior_variance": 0.20764,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.9353,
+      "prior_variance": 0.200768,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.7623,
+      "prior_variance": 0.218957,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -1.4738,
+      "prior_variance": 0.278381,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -1.4531,
+      "prior_variance": 0.188073,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol",
+      "prior_score": -1.3472,
+      "prior_variance": 0.20299,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -0.5771,
+      "prior_variance": 0.204296,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.2391,
+      "prior_variance": 0.20232,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.3473,
+      "prior_variance": 0.275749,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -2.6851,
+      "prior_variance": 0.245606,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.2189,
+      "prior_variance": 0.242064,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -5.1695,
+      "prior_variance": 0.295801,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -0.8301,
+      "prior_variance": 0.20305,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -4.6322,
+      "prior_variance": 0.239018,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -6.4276,
+      "prior_variance": 0.260924,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -4.0089,
+      "prior_variance": 0.188557,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.5898,
+      "prior_variance": 0.385173,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -4.3977,
+      "prior_variance": 0.250845,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.4536,
+      "prior_variance": 0.255528,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.3342,
+      "prior_variance": 0.371879,
+      "prior_n": 7
+    }
+  ]
+}

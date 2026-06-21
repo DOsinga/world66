@@ -1,0 +1,200 @@
+{
+  "round": 2001,
+  "timestamp": "2026-06-13T21:11:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 5.749,
+      "prior_variance": 0.25647,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 4.3019,
+      "prior_variance": 0.224493,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 3.0564,
+      "prior_variance": 0.219667,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 3.3053,
+      "prior_variance": 0.232499,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 0.3506,
+      "prior_variance": 0.327864,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 2.6895,
+      "prior_variance": 0.193861,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.2665,
+      "prior_variance": 0.19463,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.1873,
+      "prior_variance": 0.268374,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.2705,
+      "prior_variance": 0.260393,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 1.7921,
+      "prior_variance": 0.224672,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -2.1267,
+      "prior_variance": 0.220912,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.9642,
+      "prior_variance": 0.271305,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.2648,
+      "prior_variance": 0.210265,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -0.8034,
+      "prior_variance": 0.242147,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.7256,
+      "prior_variance": 0.236581,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -4.2193,
+      "prior_variance": 0.266694,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.3442,
+      "prior_variance": 0.312728,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -6.0708,
+      "prior_variance": 0.23911,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.9009,
+      "prior_variance": 0.305934,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -6.9182,
+      "prior_variance": 0.319185,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -6.507,
+      "prior_variance": 0.401642,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -8.0974,
+      "prior_variance": 0.394125,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.014,
+      "prior_variance": 0.26978,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -10.5889,
+      "prior_variance": 0.580449,
+      "prior_n": 6
+    }
+  ]
+}

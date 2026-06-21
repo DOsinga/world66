@@ -1,0 +1,200 @@
+{
+  "round": 393,
+  "timestamp": "2026-06-13T19:33:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 2.7354,
+      "prior_variance": 1.598791,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 2.4917,
+      "prior_variance": 1.971169,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 3.2641,
+      "prior_variance": 1.910823,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 2.7825,
+      "prior_variance": 1.580496,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 1.7171,
+      "prior_variance": 1.77921,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": -0.4243,
+      "prior_variance": 1.590432,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 0.9468,
+      "prior_variance": 2.333132,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 0.5928,
+      "prior_variance": 2.486171,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 1.4297,
+      "prior_variance": 1.506271,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -1.6994,
+      "prior_variance": 1.878199,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.8156,
+      "prior_variance": 2.037593,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -1.8755,
+      "prior_variance": 2.778081,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": 1.498,
+      "prior_variance": 1.44642,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 3.4149,
+      "prior_variance": 1.529103,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": 0.8003,
+      "prior_variance": 1.474306,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": -2.0589,
+      "prior_variance": 2.442157,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": 0.2114,
+      "prior_variance": 1.776407,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -0.865,
+      "prior_variance": 1.663269,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -1.364,
+      "prior_variance": 1.716754,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -3.3619,
+      "prior_variance": 1.925955,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -0.0548,
+      "prior_variance": 1.653886,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.0592,
+      "prior_variance": 1.565922,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -3.0603,
+      "prior_variance": 1.474444,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -11.0563,
+      "prior_variance": 8.939861,
+      "prior_n": 1
+    }
+  ]
+}

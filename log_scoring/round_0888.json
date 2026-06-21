@@ -1,0 +1,200 @@
+{
+  "round": 888,
+  "timestamp": "2026-06-13T19:59:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 4.1779,
+      "prior_variance": 0.50445,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 3.3063,
+      "prior_variance": 0.626337,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 1.0879,
+      "prior_variance": 0.495706,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.8623,
+      "prior_variance": 0.651632,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 3.1986,
+      "prior_variance": 0.847214,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 5.0889,
+      "prior_variance": 0.508955,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": -1.1145,
+      "prior_variance": 0.518192,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_score": 2.7346,
+      "prior_variance": 0.662801,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 3.7726,
+      "prior_variance": 0.661444,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 3.1758,
+      "prior_variance": 0.479302,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 2.3303,
+      "prior_variance": 0.722249,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 1.186,
+      "prior_variance": 0.832164,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 3.0013,
+      "prior_variance": 0.652825,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 0.7222,
+      "prior_variance": 0.643233,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 2.8287,
+      "prior_variance": 0.636506,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 2.9581,
+      "prior_variance": 0.43205,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -1.2095,
+      "prior_variance": 0.771451,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 1.8861,
+      "prior_variance": 0.441026,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.3853,
+      "prior_variance": 0.861409,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 2.1138,
+      "prior_variance": 0.66625,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 3.8175,
+      "prior_variance": 0.647849,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 2.2157,
+      "prior_variance": 0.448396,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": 0.2489,
+      "prior_variance": 0.568318,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": -0.1909,
+      "prior_variance": 0.413069,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1876,
+  "timestamp": "2026-06-13T20:58:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 6.5568,
+      "prior_variance": 0.306544,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 6.3975,
+      "prior_variance": 0.223609,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.1935,
+      "prior_variance": 0.268383,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 5.5816,
+      "prior_variance": 0.283458,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.8832,
+      "prior_variance": 0.231321,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 2.9122,
+      "prior_variance": 0.391575,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.4834,
+      "prior_variance": 0.236572,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 3.6736,
+      "prior_variance": 0.326016,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.7171,
+      "prior_variance": 0.225385,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 5.6501,
+      "prior_variance": 0.310301,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tagaytay",
+      "path": "asia/philippines/tagaytay",
+      "prior_score": 2.9262,
+      "prior_variance": 0.217036,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 3.6385,
+      "prior_variance": 0.219461,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/norderney",
+      "prior_score": 0.0792,
+      "prior_variance": 0.28838,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.0309,
+      "prior_variance": 0.204819,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": 0.0523,
+      "prior_variance": 0.209043,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 0.6187,
+      "prior_variance": 0.246978,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.226,
+      "prior_variance": 0.187202,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 3.2828,
+      "prior_variance": 0.215933,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.7253,
+      "prior_variance": 0.210364,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.9473,
+      "prior_variance": 0.212708,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 0.3438,
+      "prior_variance": 0.26756,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -2.9517,
+      "prior_variance": 0.323753,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_garhwal",
+      "prior_score": -2.677,
+      "prior_variance": 0.227611,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -9.7919,
+      "prior_variance": 0.435318,
+      "prior_n": 5
+    }
+  ]
+}

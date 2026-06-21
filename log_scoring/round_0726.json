@@ -1,0 +1,200 @@
+{
+  "round": 726,
+  "timestamp": "2026-06-13T19:50:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -2.6239,
+      "prior_variance": 0.756454,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -1.4013,
+      "prior_variance": 0.627207,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": -0.4899,
+      "prior_variance": 0.895763,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -2.88,
+      "prior_variance": 0.602323,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -2.5091,
+      "prior_variance": 1.05306,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -3.4675,
+      "prior_variance": 0.636626,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -4.1188,
+      "prior_variance": 0.7037,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -3.8896,
+      "prior_variance": 1.017074,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -2.8095,
+      "prior_variance": 0.64189,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.6928,
+      "prior_variance": 0.764332,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.9472,
+      "prior_variance": 0.621772,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -2.6346,
+      "prior_variance": 0.819363,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -2.7269,
+      "prior_variance": 0.617414,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tijuana",
+      "path": "northamerica/mexico/tijuana",
+      "prior_score": -2.1741,
+      "prior_variance": 0.689863,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.5518,
+      "prior_variance": 0.96188,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -3.0949,
+      "prior_variance": 0.764616,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -4.6746,
+      "prior_variance": 0.57678,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.2603,
+      "prior_variance": 0.665005,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -3.6273,
+      "prior_variance": 0.69602,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -4.5306,
+      "prior_variance": 1.02843,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.4598,
+      "prior_variance": 0.663284,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -3.3767,
+      "prior_variance": 0.626101,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -5.0354,
+      "prior_variance": 0.964066,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -4.6279,
+      "prior_variance": 1.39174,
+      "prior_n": 1
+    }
+  ]
+}

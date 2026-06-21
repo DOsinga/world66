@@ -1,0 +1,200 @@
+{
+  "round": 1923,
+  "timestamp": "2026-06-13T21:01:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.4399,
+      "prior_variance": 0.212669,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.9093,
+      "prior_variance": 0.245844,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 1.6936,
+      "prior_variance": 0.267574,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.2349,
+      "prior_variance": 0.210837,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -0.6703,
+      "prior_variance": 0.229481,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -0.1287,
+      "prior_variance": 0.239941,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": -1.0112,
+      "prior_variance": 0.272126,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -2.8962,
+      "prior_variance": 0.311118,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -3.6315,
+      "prior_variance": 0.367474,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -0.5198,
+      "prior_variance": 0.218462,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 0.6687,
+      "prior_variance": 0.256775,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7095,
+      "prior_variance": 0.201194,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.842,
+      "prior_variance": 0.227761,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.194,
+      "prior_variance": 0.219602,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.6133,
+      "prior_variance": 0.228456,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -2.252,
+      "prior_variance": 0.209327,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chantada",
+      "path": "europe/spain/galicia/chantada",
+      "prior_score": -2.4424,
+      "prior_variance": 0.255936,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -1.4667,
+      "prior_variance": 0.211514,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -3.8325,
+      "prior_variance": 0.246407,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.2791,
+      "prior_variance": 0.210697,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -2.5483,
+      "prior_variance": 0.206157,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.8543,
+      "prior_variance": 0.245517,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.268,
+      "prior_variance": 0.244131,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -4.0345,
+      "prior_variance": 0.244441,
+      "prior_n": 6
+    }
+  ]
+}

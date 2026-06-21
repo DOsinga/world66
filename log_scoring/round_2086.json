@@ -1,0 +1,200 @@
+{
+  "round": 2086,
+  "timestamp": "2026-06-13T21:17:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 10.4031,
+      "prior_variance": 0.429826,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Al Qahera - Cairo",
+      "path": "africa/egypt/al_qahera__cairo",
+      "prior_score": 5.7034,
+      "prior_variance": 0.332853,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 10.3721,
+      "prior_variance": 0.35571,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 10.86,
+      "prior_variance": 0.50535,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 11.1651,
+      "prior_variance": 0.640275,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 7.0813,
+      "prior_variance": 0.297531,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 6.8363,
+      "prior_variance": 0.23531,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 8.843,
+      "prior_variance": 0.364453,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 8.4023,
+      "prior_variance": 0.735379,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 7.839,
+      "prior_variance": 0.349182,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.2914,
+      "prior_variance": 0.189342,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 6.2889,
+      "prior_variance": 0.238292,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.2057,
+      "prior_variance": 0.305856,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 5.8145,
+      "prior_variance": 0.386325,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 4.9457,
+      "prior_variance": 0.209706,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 6.6969,
+      "prior_variance": 0.311846,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 6.3807,
+      "prior_variance": 0.217019,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.6787,
+      "prior_variance": 0.257159,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 4.4056,
+      "prior_variance": 0.227219,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 4.4637,
+      "prior_variance": 0.235357,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Herceg Novi",
+      "path": "europe/montenegro/hercegnovi",
+      "prior_score": 3.9944,
+      "prior_variance": 0.264274,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 6.2878,
+      "prior_variance": 0.368742,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 6.2248,
+      "prior_variance": 0.370909,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -2.2784,
+      "prior_variance": 0.210899,
+      "prior_n": 6
+    }
+  ]
+}

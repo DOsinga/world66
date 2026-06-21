@@ -1,0 +1,200 @@
+{
+  "round": 1015,
+  "timestamp": "2026-06-13T20:06:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.2856,
+      "prior_variance": 0.527023,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -1.2822,
+      "prior_variance": 0.514045,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.9181,
+      "prior_variance": 0.464865,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hull",
+      "prior_score": -2.108,
+      "prior_variance": 0.456104,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.3906,
+      "prior_variance": 0.423442,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -2.5392,
+      "prior_variance": 0.815967,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 1.5031,
+      "prior_variance": 0.5164,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.6551,
+      "prior_variance": 0.401316,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -0.9051,
+      "prior_variance": 0.442868,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": 0.0913,
+      "prior_variance": 0.41311,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": 0.6382,
+      "prior_variance": 0.526448,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -1.8225,
+      "prior_variance": 0.630046,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -1.832,
+      "prior_variance": 0.391336,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.733,
+      "prior_variance": 0.419892,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -3.7562,
+      "prior_variance": 0.358441,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.3628,
+      "prior_variance": 0.50174,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": 0.0501,
+      "prior_variance": 0.838239,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -3.2666,
+      "prior_variance": 0.730466,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -1.3504,
+      "prior_variance": 0.472637,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -5.2525,
+      "prior_variance": 0.409407,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -2.0416,
+      "prior_variance": 0.827145,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -6.9991,
+      "prior_variance": 0.59711,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -1.646,
+      "prior_variance": 0.552057,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -8.0205,
+      "prior_variance": 0.605029,
+      "prior_n": 2
+    }
+  ]
+}

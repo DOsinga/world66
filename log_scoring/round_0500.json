@@ -1,0 +1,200 @@
+{
+  "round": 500,
+  "timestamp": "2026-06-13T19:39:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 5.9834,
+      "prior_variance": 2.453183,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 4.7045,
+      "prior_variance": 1.883107,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.5251,
+      "prior_variance": 2.184634,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 4.0327,
+      "prior_variance": 1.53867,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Matamata",
+      "path": "australiaandpacific/newzealand/matamata",
+      "prior_score": 4.8145,
+      "prior_variance": 2.443294,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Qinghai Lake",
+      "path": "asia/china/qinghai/qinghai-lake",
+      "prior_score": 5.615,
+      "prior_variance": 4.128322,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 6.2287,
+      "prior_variance": 1.877693,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 4.6532,
+      "prior_variance": 2.008783,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 2.0648,
+      "prior_variance": 1.742095,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 4.3006,
+      "prior_variance": 1.627222,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 4.3,
+      "prior_variance": 2.726546,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 2.4137,
+      "prior_variance": 1.411565,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.7544,
+      "prior_variance": 1.470226,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 0.7973,
+      "prior_variance": 1.353826,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 5.3695,
+      "prior_variance": 1.531348,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 4.4943,
+      "prior_variance": 1.481871,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 2.4271,
+      "prior_variance": 1.382826,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -1.3354,
+      "prior_variance": 1.369809,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": 1.5323,
+      "prior_variance": 1.637412,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": 0.5891,
+      "prior_variance": 1.644312,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": 1.0141,
+      "prior_variance": 1.336076,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": 1.2082,
+      "prior_variance": 1.851148,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": 0.2022,
+      "prior_variance": 1.679017,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": 0.6924,
+      "prior_variance": 1.468243,
+      "prior_n": 1
+    }
+  ]
+}

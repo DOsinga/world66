@@ -1,0 +1,200 @@
+{
+  "round": 1134,
+  "timestamp": "2026-06-13T20:13:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 8.8337,
+      "prior_variance": 0.397109,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 10.4031,
+      "prior_variance": 0.455095,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 5.1566,
+      "prior_variance": 0.506789,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 8.9135,
+      "prior_variance": 0.738405,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 7.1974,
+      "prior_variance": 0.425799,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 6.5005,
+      "prior_variance": 0.413438,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 7.8071,
+      "prior_variance": 0.494813,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 5.7256,
+      "prior_variance": 0.428771,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 3.44,
+      "prior_variance": 0.620956,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 5.2689,
+      "prior_variance": 0.482984,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 9.3476,
+      "prior_variance": 0.417795,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 6.6189,
+      "prior_variance": 0.593484,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 3.1598,
+      "prior_variance": 0.387725,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 5.963,
+      "prior_variance": 0.437994,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 5.1417,
+      "prior_variance": 0.56604,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 2.8631,
+      "prior_variance": 0.39396,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 1.8744,
+      "prior_variance": 0.668455,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 8.1311,
+      "prior_variance": 0.568385,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 5.9667,
+      "prior_variance": 0.390629,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": -1.4046,
+      "prior_variance": 0.43632,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -4.8893,
+      "prior_variance": 0.56076,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -6.216,
+      "prior_variance": 0.404895,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -0.9092,
+      "prior_variance": 0.388241,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -5.7491,
+      "prior_variance": 0.394337,
+      "prior_n": 3
+    }
+  ]
+}

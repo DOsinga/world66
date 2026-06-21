@@ -1,0 +1,200 @@
+{
+  "round": 1255,
+  "timestamp": "2026-06-13T20:19:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 19.1058,
+      "prior_variance": 1.544523,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 8.0941,
+      "prior_variance": 0.481736,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 6.9191,
+      "prior_variance": 0.391164,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 5.9667,
+      "prior_variance": 0.318739,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 4.0614,
+      "prior_variance": 0.438447,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 6.0356,
+      "prior_variance": 0.438417,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 5.3418,
+      "prior_variance": 0.364679,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 4.7173,
+      "prior_variance": 0.436199,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 6.4336,
+      "prior_variance": 0.334663,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 5.0144,
+      "prior_variance": 0.418492,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 1.7719,
+      "prior_variance": 0.529887,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Libo County",
+      "path": "asia/china/guizhou/libo",
+      "prior_score": 1.3935,
+      "prior_variance": 0.296094,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ba\u0107ina Lakes",
+      "path": "europe/croatia/bacina_lakes",
+      "prior_score": 2.5856,
+      "prior_variance": 0.33092,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Muhu Island",
+      "path": "europe/estonia/muhu_island",
+      "prior_score": -0.4298,
+      "prior_variance": 0.390839,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 2.1488,
+      "prior_variance": 0.337542,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": 0.8039,
+      "prior_variance": 0.400845,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 2.3324,
+      "prior_variance": 0.314703,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -2.3228,
+      "prior_variance": 0.412919,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -1.7113,
+      "prior_variance": 0.711839,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -2.4792,
+      "prior_variance": 0.397537,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -3.0519,
+      "prior_variance": 0.322756,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -4.8524,
+      "prior_variance": 0.395008,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -4.1197,
+      "prior_variance": 0.403094,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -10.0896,
+      "prior_variance": 0.590715,
+      "prior_n": 3
+    }
+  ]
+}

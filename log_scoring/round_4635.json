@@ -1,0 +1,200 @@
+{
+  "round": 4635,
+  "timestamp": "2026-06-14T00:29:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 12.5482,
+      "prior_variance": 0.318327,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 7.229,
+      "prior_variance": 0.130186,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 7.6705,
+      "prior_variance": 0.133764,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 7.1881,
+      "prior_variance": 0.160459,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 6.0209,
+      "prior_variance": 0.105921,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 6.0407,
+      "prior_variance": 0.105385,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 5.8145,
+      "prior_variance": 0.109136,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.3563,
+      "prior_variance": 0.089118,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 5.1379,
+      "prior_variance": 0.093295,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 0.5007,
+      "prior_variance": 0.098109,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 0.6475,
+      "prior_variance": 0.086487,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -2.9098,
+      "prior_variance": 0.105585,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_score": -1.6987,
+      "prior_variance": 0.096231,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -1.0138,
+      "prior_variance": 0.086303,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -0.8254,
+      "prior_variance": 0.087892,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Oakville",
+      "path": "northamerica/canada/ontario/oakville",
+      "prior_score": -2.8334,
+      "prior_variance": 0.087737,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.6863,
+      "prior_variance": 0.087774,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -3.8687,
+      "prior_variance": 0.093557,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -3.8141,
+      "prior_variance": 0.111199,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -8.5337,
+      "prior_variance": 0.198516,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -5.5167,
+      "prior_variance": 0.154593,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -4.9336,
+      "prior_variance": 0.120704,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -9.4385,
+      "prior_variance": 0.218447,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -12.4636,
+      "prior_variance": 0.582933,
+      "prior_n": 14
+    }
+  ]
+}

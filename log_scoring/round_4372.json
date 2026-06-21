@@ -1,0 +1,200 @@
+{
+  "round": 4372,
+  "timestamp": "2026-06-14T00:07:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 6.3456,
+      "prior_variance": 0.131138,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 4.1632,
+      "prior_variance": 0.10628,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.2681,
+      "prior_variance": 0.106861,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 5.3896,
+      "prior_variance": 0.118857,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 4.2542,
+      "prior_variance": 0.112596,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/norderney",
+      "prior_score": 0.1645,
+      "prior_variance": 0.094831,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -0.3489,
+      "prior_variance": 0.083652,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -1.8062,
+      "prior_variance": 0.088885,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -1.5405,
+      "prior_variance": 0.097293,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Epinal",
+      "path": "europe/france/east/lorraine/epinal",
+      "prior_score": -1.2649,
+      "prior_variance": 0.091854,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -2.8167,
+      "prior_variance": 0.102158,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.7304,
+      "prior_variance": 0.100687,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Aizawl",
+      "path": "asia/india/mizoram/aizawl",
+      "prior_score": -3.3458,
+      "prior_variance": 0.097619,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kishtwar",
+      "path": "asia/india/jammuandkashmir/kishtwar",
+      "prior_score": -1.3048,
+      "prior_variance": 0.108314,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -2.2492,
+      "prior_variance": 0.122751,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -3.0846,
+      "prior_variance": 0.113466,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -3.4885,
+      "prior_variance": 0.098548,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -3.8463,
+      "prior_variance": 0.092858,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -3.9095,
+      "prior_variance": 0.118845,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -4.1302,
+      "prior_variance": 0.105996,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -4.6034,
+      "prior_variance": 0.108305,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -6.9839,
+      "prior_variance": 0.148466,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -5.7,
+      "prior_variance": 0.109456,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -5.8214,
+      "prior_variance": 0.119806,
+      "prior_n": 14
+    }
+  ]
+}

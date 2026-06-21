@@ -1,0 +1,200 @@
+{
+  "round": 804,
+  "timestamp": "2026-06-13T19:54:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -9.1894,
+      "prior_variance": 1.172281,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -8.8888,
+      "prior_variance": 0.709486,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -7.5268,
+      "prior_variance": 0.580329,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -7.8761,
+      "prior_variance": 0.58803,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -7.6028,
+      "prior_variance": 0.868361,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -9.8058,
+      "prior_variance": 1.006613,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -9.1768,
+      "prior_variance": 0.720016,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -8.7075,
+      "prior_variance": 1.054892,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -8.2413,
+      "prior_variance": 0.750892,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hunchun",
+      "path": "asia/china/jilin/hunchun",
+      "prior_score": -9.623,
+      "prior_variance": 0.698108,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -9.1152,
+      "prior_variance": 1.208587,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bolton",
+      "prior_score": -7.9786,
+      "prior_variance": 1.109649,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_score": -8.7771,
+      "prior_variance": 0.622068,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -9.2891,
+      "prior_variance": 1.019379,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -7.573,
+      "prior_variance": 1.148846,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -7.7338,
+      "prior_variance": 0.850837,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -9.5674,
+      "prior_variance": 0.767332,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -9.168,
+      "prior_variance": 0.743191,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -6.9799,
+      "prior_variance": 1.02718,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -9.3597,
+      "prior_variance": 1.038613,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -10.7145,
+      "prior_variance": 0.897721,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -8.9101,
+      "prior_variance": 1.207906,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -9.3218,
+      "prior_variance": 0.815074,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -9.5266,
+      "prior_variance": 0.489102,
+      "prior_n": 3
+    }
+  ]
+}

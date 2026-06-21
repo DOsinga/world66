@@ -1,0 +1,200 @@
+{
+  "round": 4256,
+  "timestamp": "2026-06-13T23:57:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 5.8667,
+      "prior_variance": 0.1227,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Thassos",
+      "path": "europe/greece/thassos_island",
+      "prior_score": 5.5959,
+      "prior_variance": 0.113041,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.4189,
+      "prior_variance": 0.107801,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 2.8685,
+      "prior_variance": 0.094928,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sal",
+      "path": "africa/capeverde/sal",
+      "prior_score": 3.6012,
+      "prior_variance": 0.105308,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Saman\u00e1",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 3.7504,
+      "prior_variance": 0.104621,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 1.461,
+      "prior_variance": 0.089516,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.2969,
+      "prior_variance": 0.101897,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": 0.5651,
+      "prior_variance": 0.097227,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 1.6254,
+      "prior_variance": 0.088858,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 5.8161,
+      "prior_variance": 0.142369,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.1467,
+      "prior_variance": 0.094828,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.1546,
+      "prior_variance": 0.104814,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": -0.3248,
+      "prior_variance": 0.096416,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -3.1642,
+      "prior_variance": 0.118827,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 1.2979,
+      "prior_variance": 0.098981,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.4756,
+      "prior_variance": 0.096603,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.635,
+      "prior_variance": 0.100565,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Manassas",
+      "path": "northamerica/unitedstates/virginia/manassas",
+      "prior_score": -2.4865,
+      "prior_variance": 0.102163,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.7021,
+      "prior_variance": 0.091056,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -2.2327,
+      "prior_variance": 0.096704,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -6.8088,
+      "prior_variance": 0.142885,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -4.9725,
+      "prior_variance": 0.126423,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.5498,
+      "prior_variance": 0.155478,
+      "prior_n": 13
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3667,
+  "timestamp": "2026-06-13T23:11:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 6.4155,
+      "prior_variance": 0.145637,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 7.3379,
+      "prior_variance": 0.161488,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 0.0871,
+      "prior_variance": 0.154695,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 6.7918,
+      "prior_variance": 0.171984,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 4.8349,
+      "prior_variance": 0.144085,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 7.5952,
+      "prior_variance": 0.209461,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 5.6541,
+      "prior_variance": 0.138554,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Cannes",
+      "path": "europe/france/cannes",
+      "prior_score": 6.7226,
+      "prior_variance": 0.16927,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.2777,
+      "prior_variance": 0.116601,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.195,
+      "prior_variance": 0.119847,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.2197,
+      "prior_variance": 0.10223,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.4932,
+      "prior_variance": 0.142196,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.5027,
+      "prior_variance": 0.134769,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -3.02,
+      "prior_variance": 0.131493,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Portland",
+      "path": "australiaandpacific/australia/victoria/portland",
+      "prior_score": -2.3524,
+      "prior_variance": 0.114968,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.5717,
+      "prior_variance": 0.137124,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -1.0225,
+      "prior_variance": 0.100415,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -4.2254,
+      "prior_variance": 0.136502,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -3.584,
+      "prior_variance": 0.108055,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.9181,
+      "prior_variance": 0.14144,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -5.0829,
+      "prior_variance": 0.116892,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.4903,
+      "prior_variance": 0.141112,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.5502,
+      "prior_variance": 0.145462,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.577,
+      "prior_variance": 0.174823,
+      "prior_n": 12
+    }
+  ]
+}

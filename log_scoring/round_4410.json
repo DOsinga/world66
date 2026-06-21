@@ -1,0 +1,200 @@
+{
+  "round": 4410,
+  "timestamp": "2026-06-14T00:10:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 8.7165,
+      "prior_variance": 0.2049,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_score": 5.6643,
+      "prior_variance": 0.111727,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.09,
+      "prior_variance": 0.103464,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 2.2368,
+      "prior_variance": 0.103006,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 2.4078,
+      "prior_variance": 0.103597,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 2.7504,
+      "prior_variance": 0.115354,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 2.4892,
+      "prior_variance": 0.091693,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.8729,
+      "prior_variance": 0.086442,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.7429,
+      "prior_variance": 0.096151,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Cooperstown",
+      "path": "northamerica/unitedstates/newyorkstate/cooperstown",
+      "prior_score": 1.4883,
+      "prior_variance": 0.086566,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.1385,
+      "prior_variance": 0.093549,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.4279,
+      "prior_variance": 0.090165,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 1.7556,
+      "prior_variance": 0.092006,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 1.2497,
+      "prior_variance": 0.087595,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.8013,
+      "prior_variance": 0.092331,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -1.4822,
+      "prior_variance": 0.085911,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 3.1538,
+      "prior_variance": 0.129358,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.8621,
+      "prior_variance": 0.113092,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Eastern Qing Tombs",
+      "path": "asia/china/hebei/eastern_qing_tombs",
+      "prior_score": 0.8057,
+      "prior_variance": 0.092668,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Angeles City",
+      "path": "asia/philippines/angelescity",
+      "prior_score": -2.2755,
+      "prior_variance": 0.10032,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.3927,
+      "prior_variance": 0.105066,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -5.7742,
+      "prior_variance": 0.108858,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -6.3868,
+      "prior_variance": 0.127777,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -9.184,
+      "prior_variance": 0.232866,
+      "prior_n": 14
+    }
+  ]
+}

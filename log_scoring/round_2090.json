@@ -1,0 +1,200 @@
+{
+  "round": 2090,
+  "timestamp": "2026-06-13T21:17:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 9.8311,
+      "prior_variance": 0.351981,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.6554,
+      "prior_variance": 0.283522,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 5.1296,
+      "prior_variance": 0.243927,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 5.0967,
+      "prior_variance": 0.248042,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Naha",
+      "path": "asia/japan/ryukyuislands/okinawaisland/naha",
+      "prior_score": 5.5598,
+      "prior_variance": 0.279701,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 3.3582,
+      "prior_variance": 0.253266,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.9858,
+      "prior_variance": 0.247433,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.2726,
+      "prior_variance": 0.22801,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 5.9735,
+      "prior_variance": 0.217915,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.6071,
+      "prior_variance": 0.195207,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Iber\u00e1 Wetlands",
+      "path": "southamerica/argentina/corrientes/iberawetlands",
+      "prior_score": 3.2922,
+      "prior_variance": 0.182748,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "\u201cAmarapura\u201d",
+      "path": "asia/myanmar/amarapura",
+      "prior_score": 0.0303,
+      "prior_variance": 0.211884,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.8233,
+      "prior_variance": 0.228975,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 1.7601,
+      "prior_variance": 0.204973,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": 1.1506,
+      "prior_variance": 0.263852,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 1.1157,
+      "prior_variance": 0.263051,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.9766,
+      "prior_variance": 0.225782,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.3019,
+      "prior_variance": 0.22004,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.5834,
+      "prior_variance": 0.189336,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.6034,
+      "prior_variance": 0.198505,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.913,
+      "prior_variance": 0.186161,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.027,
+      "prior_variance": 0.248163,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.9491,
+      "prior_variance": 0.183755,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -9.287,
+      "prior_variance": 0.504818,
+      "prior_n": 6
+    }
+  ]
+}

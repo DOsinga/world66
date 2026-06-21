@@ -1,0 +1,200 @@
+{
+  "round": 2075,
+  "timestamp": "2026-06-13T21:16:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.2577,
+      "prior_variance": 0.23052,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 6.0107,
+      "prior_variance": 0.252337,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": -0.7755,
+      "prior_variance": 0.608462,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.96,
+      "prior_variance": 0.183266,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.1047,
+      "prior_variance": 0.201796,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -4.9114,
+      "prior_variance": 0.243031,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -3.6541,
+      "prior_variance": 0.222577,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -4.9495,
+      "prior_variance": 0.310529,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -7.8309,
+      "prior_variance": 0.793466,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -5.0185,
+      "prior_variance": 0.245685,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -6.7657,
+      "prior_variance": 0.235275,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -4.9199,
+      "prior_variance": 0.212663,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -4.6169,
+      "prior_variance": 0.271303,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -4.8342,
+      "prior_variance": 0.212462,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -4.8963,
+      "prior_variance": 0.227494,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -6.0362,
+      "prior_variance": 0.354403,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -5.9439,
+      "prior_variance": 0.251573,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -6.8173,
+      "prior_variance": 0.300794,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -7.9349,
+      "prior_variance": 0.439763,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -7.6287,
+      "prior_variance": 0.41181,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -7.3274,
+      "prior_variance": 0.313073,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Porto Amboim",
+      "path": "africa/angola/porto_amboim",
+      "prior_score": -6.0937,
+      "prior_variance": 0.294088,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Pallandri",
+      "path": "asia/pakistan/azad_kashmir/pallandri",
+      "prior_score": -5.5752,
+      "prior_variance": 0.212618,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -13.0112,
+      "prior_variance": 0.677662,
+      "prior_n": 6
+    }
+  ]
+}

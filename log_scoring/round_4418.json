@@ -1,0 +1,200 @@
+{
+  "round": 4418,
+  "timestamp": "2026-06-14T00:10:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 8.8923,
+      "prior_variance": 0.161597,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 5.0814,
+      "prior_variance": 0.149834,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 3.52,
+      "prior_variance": 0.137839,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 8.0283,
+      "prior_variance": 0.188495,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 3.3888,
+      "prior_variance": 0.120233,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 1.4301,
+      "prior_variance": 0.101852,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": 0.8035,
+      "prior_variance": 0.11747,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.3058,
+      "prior_variance": 0.093808,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": -1.4635,
+      "prior_variance": 0.119654,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": -0.4462,
+      "prior_variance": 0.105402,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.8318,
+      "prior_variance": 0.096193,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.4316,
+      "prior_variance": 0.090067,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Sanya",
+      "path": "asia/china/hainanisland/sanya",
+      "prior_score": 2.7756,
+      "prior_variance": 0.097265,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": 0.1561,
+      "prior_variance": 0.108054,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3982,
+      "prior_variance": 0.088775,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -0.9405,
+      "prior_variance": 0.09074,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.2279,
+      "prior_variance": 0.114525,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.4674,
+      "prior_variance": 0.124863,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -3.0444,
+      "prior_variance": 0.106834,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -3.2088,
+      "prior_variance": 0.125453,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -2.917,
+      "prior_variance": 0.101693,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_score": -3.6024,
+      "prior_variance": 0.121826,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -4.9157,
+      "prior_variance": 0.113666,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -8.0138,
+      "prior_variance": 0.200696,
+      "prior_n": 14
+    }
+  ]
+}

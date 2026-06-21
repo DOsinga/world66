@@ -1,0 +1,200 @@
+{
+  "round": 2270,
+  "timestamp": "2026-06-13T21:30:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.1116,
+      "prior_variance": 0.239543,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 6.219,
+      "prior_variance": 0.219787,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.6769,
+      "prior_variance": 0.213729,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.3298,
+      "prior_variance": 0.177419,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Amasya",
+      "path": "asia/turkey/amasya",
+      "prior_score": 2.9252,
+      "prior_variance": 0.212931,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 1.0106,
+      "prior_variance": 0.241643,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 3.8144,
+      "prior_variance": 0.214731,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.4796,
+      "prior_variance": 0.169364,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.4763,
+      "prior_variance": 0.195363,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 2.1205,
+      "prior_variance": 0.204179,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.1137,
+      "prior_variance": 0.193393,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.3383,
+      "prior_variance": 0.176122,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 1.1371,
+      "prior_variance": 0.194411,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Penrhyn",
+      "path": "australiaandpacific/cookislands/penrhyn",
+      "prior_score": -1.5684,
+      "prior_variance": 0.231107,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.5981,
+      "prior_variance": 0.188439,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -1.2453,
+      "prior_variance": 0.231925,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": 0.0211,
+      "prior_variance": 0.220393,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.4215,
+      "prior_variance": 0.15806,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -5.1398,
+      "prior_variance": 0.220829,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.6922,
+      "prior_variance": 0.204777,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -2.4803,
+      "prior_variance": 0.264812,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -2.6575,
+      "prior_variance": 0.198678,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.9564,
+      "prior_variance": 0.187643,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -0.5835,
+      "prior_variance": 0.203008,
+      "prior_n": 7
+    }
+  ]
+}

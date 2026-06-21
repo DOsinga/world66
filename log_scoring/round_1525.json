@@ -1,0 +1,200 @@
+{
+  "round": 1525,
+  "timestamp": "2026-06-13T20:35:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krakow",
+      "path": "europe/poland/krakow",
+      "prior_score": 10.1701,
+      "prior_variance": 0.383233,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 6.1169,
+      "prior_variance": 1.116193,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 8.556,
+      "prior_variance": 0.43436,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 8.5928,
+      "prior_variance": 0.359896,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "T\u00f3rshavn",
+      "path": "europe/faroeislands/torshavn",
+      "prior_score": 4.5423,
+      "prior_variance": 0.325909,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Manitou Springs",
+      "path": "northamerica/unitedstates/colorado/manitousprings",
+      "prior_score": 3.3489,
+      "prior_variance": 0.319181,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_score": 1.9235,
+      "prior_variance": 0.314628,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.8644,
+      "prior_variance": 0.26002,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.5744,
+      "prior_variance": 0.398351,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 3.0812,
+      "prior_variance": 0.414044,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.7496,
+      "prior_variance": 0.274833,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 4.582,
+      "prior_variance": 0.260289,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -0.8188,
+      "prior_variance": 0.246953,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": -0.4795,
+      "prior_variance": 0.252878,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.4514,
+      "prior_variance": 0.239271,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -2.4054,
+      "prior_variance": 0.299479,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -2.8283,
+      "prior_variance": 0.323137,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_score": -3.0147,
+      "prior_variance": 0.25731,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.9682,
+      "prior_variance": 0.345621,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -3.9824,
+      "prior_variance": 0.242299,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -11.5539,
+      "prior_variance": 0.465094,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -9.006,
+      "prior_variance": 0.40678,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -6.1468,
+      "prior_variance": 0.27516,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -12.6455,
+      "prior_variance": 0.779034,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2160,
+  "timestamp": "2026-06-13T21:22:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 11.8868,
+      "prior_variance": 0.615119,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 7.9193,
+      "prior_variance": 0.363556,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 8.7323,
+      "prior_variance": 0.25238,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Okavango Delta",
+      "path": "africa/botswana/okavangodelta",
+      "prior_score": 8.4428,
+      "prior_variance": 0.54506,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 7.9668,
+      "prior_variance": 0.235636,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 3.3117,
+      "prior_variance": 0.220546,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 2.7207,
+      "prior_variance": 0.216831,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 1.9298,
+      "prior_variance": 0.198164,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.683,
+      "prior_variance": 0.190347,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga",
+      "prior_score": 1.681,
+      "prior_variance": 0.224487,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Tvedestrand",
+      "path": "europe/norway/tvedestrand",
+      "prior_score": -0.3919,
+      "prior_variance": 0.175446,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 0.7213,
+      "prior_variance": 0.186005,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.4573,
+      "prior_variance": 0.174647,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Manta",
+      "path": "southamerica/ecuador/manta",
+      "prior_score": -0.6986,
+      "prior_variance": 0.205881,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -2.6346,
+      "prior_variance": 0.22354,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.7305,
+      "prior_variance": 0.196248,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -2.2109,
+      "prior_variance": 0.2474,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -1.5141,
+      "prior_variance": 0.197997,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.1205,
+      "prior_variance": 0.18169,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -2.1738,
+      "prior_variance": 0.203077,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Hailar",
+      "path": "asia/china/innermongolia/hailar",
+      "prior_score": -3.0006,
+      "prior_variance": 0.17847,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -1.1657,
+      "prior_variance": 0.211354,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -3.9767,
+      "prior_variance": 0.225661,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.476,
+      "prior_variance": 0.199447,
+      "prior_n": 7
+    }
+  ]
+}

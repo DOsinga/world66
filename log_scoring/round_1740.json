@@ -1,0 +1,200 @@
+{
+  "round": 1740,
+  "timestamp": "2026-06-13T20:49:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": -0.2501,
+      "prior_variance": 0.308877,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.7996,
+      "prior_variance": 0.290767,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.3079,
+      "prior_variance": 0.370254,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.9347,
+      "prior_variance": 0.256941,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -2.1497,
+      "prior_variance": 0.429154,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": -0.4509,
+      "prior_variance": 0.226032,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.6765,
+      "prior_variance": 0.279665,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.5837,
+      "prior_variance": 0.258659,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 1.3501,
+      "prior_variance": 0.314943,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.0855,
+      "prior_variance": 0.25583,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Masterton",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton",
+      "prior_score": -2.4875,
+      "prior_variance": 0.287746,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -2.0679,
+      "prior_variance": 0.310247,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -1.3747,
+      "prior_variance": 0.275654,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.0279,
+      "prior_variance": 0.244095,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.8621,
+      "prior_variance": 0.305103,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -4.4436,
+      "prior_variance": 0.315195,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.4073,
+      "prior_variance": 0.213366,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -5.3075,
+      "prior_variance": 0.263071,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -4.6419,
+      "prior_variance": 0.261118,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.914,
+      "prior_variance": 0.251503,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -5.5461,
+      "prior_variance": 0.295446,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -6.0588,
+      "prior_variance": 0.309598,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -11.3807,
+      "prior_variance": 0.611179,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -7.8849,
+      "prior_variance": 0.470475,
+      "prior_n": 5
+    }
+  ]
+}

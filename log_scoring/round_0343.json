@@ -1,0 +1,200 @@
+{
+  "round": 343,
+  "timestamp": "2026-06-13T19:30:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": -1.8464,
+      "prior_variance": 1.74334,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -1.9033,
+      "prior_variance": 1.818712,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": -4.9629,
+      "prior_variance": 1.652364,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 4.223,
+      "prior_variance": 1.805314,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Beverley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/beverley",
+      "prior_score": -1.9736,
+      "prior_variance": 1.613238,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -9.0764,
+      "prior_variance": 2.071844,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -4.0055,
+      "prior_variance": 1.72453,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -2.2065,
+      "prior_variance": 1.77886,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -10.3576,
+      "prior_variance": 3.549865,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bayam\u00f3n",
+      "path": "northamerica/thecaribbean/puertorico/bayamon",
+      "prior_score": -6.6002,
+      "prior_variance": 2.014426,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -1.1109,
+      "prior_variance": 1.621728,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -6.2794,
+      "prior_variance": 1.559843,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -9.1509,
+      "prior_variance": 1.576112,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -6.047,
+      "prior_variance": 2.895015,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -8.3188,
+      "prior_variance": 2.716882,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -12.7578,
+      "prior_variance": 7.901597,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Chaoyang",
+      "path": "asia/china/liaoning/chaoyang",
+      "prior_score": -9.4162,
+      "prior_variance": 2.54654,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Yuzhou",
+      "path": "asia/china/henan_province/yuzhou",
+      "prior_score": -7.7439,
+      "prior_variance": 2.909222,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -9.3371,
+      "prior_variance": 2.558396,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -9.6807,
+      "prior_variance": 2.013641,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -11.6971,
+      "prior_variance": 4.770159,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -8.0727,
+      "prior_variance": 2.758955,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -10.2365,
+      "prior_variance": 2.435864,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -11.2321,
+      "prior_variance": 8.818261,
+      "prior_n": 1
+    }
+  ]
+}

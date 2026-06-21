@@ -1,0 +1,200 @@
+{
+  "round": 3101,
+  "timestamp": "2026-06-13T22:28:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 16.7423,
+      "prior_variance": 0.834071,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_score": 3.8134,
+      "prior_variance": 0.166561,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 2.0047,
+      "prior_variance": 0.132312,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.2671,
+      "prior_variance": 0.132956,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Nida",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_score": 0.7126,
+      "prior_variance": 0.128507,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Quetzaltenango",
+      "path": "northamerica/guatemala/quetzaltenango",
+      "prior_score": 0.5218,
+      "prior_variance": 0.13407,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.2496,
+      "prior_variance": 0.119613,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.0167,
+      "prior_variance": 0.138803,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.6411,
+      "prior_variance": 0.136131,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -0.9354,
+      "prior_variance": 0.122541,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.2064,
+      "prior_variance": 0.143015,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.95,
+      "prior_variance": 0.159823,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.2381,
+      "prior_variance": 0.121174,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -1.4149,
+      "prior_variance": 0.134945,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.3537,
+      "prior_variance": 0.162212,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.328,
+      "prior_variance": 0.131202,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.4247,
+      "prior_variance": 0.153052,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.7112,
+      "prior_variance": 0.139303,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -5.5421,
+      "prior_variance": 0.189688,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -5.5791,
+      "prior_variance": 0.148771,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Siedlce",
+      "path": "europe/poland/siedlce",
+      "prior_score": -3.8487,
+      "prior_variance": 0.130396,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Laguna",
+      "path": "northamerica/unitedstates/newmexico/laguna",
+      "prior_score": -4.0552,
+      "prior_variance": 0.127434,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -6.3861,
+      "prior_variance": 0.168456,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.5192,
+      "prior_variance": 0.206006,
+      "prior_n": 9
+    }
+  ]
+}

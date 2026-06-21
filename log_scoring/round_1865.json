@@ -1,0 +1,200 @@
+{
+  "round": 1865,
+  "timestamp": "2026-06-13T20:57:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 6.7824,
+      "prior_variance": 0.312069,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": -0.9772,
+      "prior_variance": 0.835344,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 5.8034,
+      "prior_variance": 0.236025,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 6.6807,
+      "prior_variance": 0.285877,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_score": 4.98,
+      "prior_variance": 0.250459,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.183,
+      "prior_variance": 0.203816,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 1.1851,
+      "prior_variance": 0.217464,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": -0.4511,
+      "prior_variance": 0.265369,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.4066,
+      "prior_variance": 0.208066,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -3.3102,
+      "prior_variance": 0.424103,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -0.579,
+      "prior_variance": 0.201668,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -2.1853,
+      "prior_variance": 0.201111,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -2.2534,
+      "prior_variance": 0.236429,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.5144,
+      "prior_variance": 0.206753,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -4.0172,
+      "prior_variance": 0.215787,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.6348,
+      "prior_variance": 0.203714,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_score": -2.9305,
+      "prior_variance": 0.234225,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.4616,
+      "prior_variance": 0.22716,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -3.1219,
+      "prior_variance": 0.251129,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -5.6663,
+      "prior_variance": 0.413542,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.7598,
+      "prior_variance": 0.275063,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.9118,
+      "prior_variance": 0.257942,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -8.9496,
+      "prior_variance": 0.482123,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -8.2892,
+      "prior_variance": 0.454937,
+      "prior_n": 5
+    }
+  ]
+}

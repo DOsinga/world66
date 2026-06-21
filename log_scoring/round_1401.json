@@ -1,0 +1,200 @@
+{
+  "round": 1401,
+  "timestamp": "2026-06-13T20:28:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 13.8488,
+      "prior_variance": 0.752678,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 6.2923,
+      "prior_variance": 0.332369,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 10.0487,
+      "prior_variance": 0.432597,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 6.8194,
+      "prior_variance": 0.405998,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.807,
+      "prior_variance": 0.372658,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.9022,
+      "prior_variance": 0.330099,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.1706,
+      "prior_variance": 0.337867,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 3.7936,
+      "prior_variance": 0.361734,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 3.0686,
+      "prior_variance": 0.339617,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 3.2921,
+      "prior_variance": 0.472467,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 2.3151,
+      "prior_variance": 0.390783,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 2.5986,
+      "prior_variance": 0.292918,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": -0.2785,
+      "prior_variance": 0.321474,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 1.2938,
+      "prior_variance": 0.329854,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -1.3492,
+      "prior_variance": 0.432495,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -2.7524,
+      "prior_variance": 0.321034,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "B\u00fckf\u00fcrd\u0151",
+      "path": "europe/hungary/bkfrd",
+      "prior_score": -1.0085,
+      "prior_variance": 0.316134,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.9099,
+      "prior_variance": 0.355935,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -4.9185,
+      "prior_variance": 0.332354,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -1.8139,
+      "prior_variance": 0.311126,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -3.0281,
+      "prior_variance": 0.331646,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -2.9534,
+      "prior_variance": 0.314599,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -8.1199,
+      "prior_variance": 0.407181,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -13.4168,
+      "prior_variance": 1.08281,
+      "prior_n": 4
+    }
+  ]
+}

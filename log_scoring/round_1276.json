@@ -1,0 +1,200 @@
+{
+  "round": 1276,
+  "timestamp": "2026-06-13T20:21:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 10.5712,
+      "prior_variance": 0.593804,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 10.6957,
+      "prior_variance": 0.681341,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 7.5995,
+      "prior_variance": 0.325948,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 13.1435,
+      "prior_variance": 1.12714,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 8.7862,
+      "prior_variance": 0.385576,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.7777,
+      "prior_variance": 0.436805,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.5823,
+      "prior_variance": 0.348278,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.4964,
+      "prior_variance": 0.294607,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.8758,
+      "prior_variance": 0.312581,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 2.2602,
+      "prior_variance": 0.418036,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.8499,
+      "prior_variance": 0.381098,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -2.9749,
+      "prior_variance": 0.373888,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -2.0753,
+      "prior_variance": 0.256351,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.7906,
+      "prior_variance": 0.426563,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.1746,
+      "prior_variance": 0.434701,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 3.3957,
+      "prior_variance": 0.379981,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -2.3179,
+      "prior_variance": 0.384755,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.843,
+      "prior_variance": 0.357538,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -4.5154,
+      "prior_variance": 0.344188,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -2.0818,
+      "prior_variance": 0.59725,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -2.0673,
+      "prior_variance": 0.292818,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gulbarga",
+      "path": "asia/india/karnataka/gulbarga",
+      "prior_score": -5.7019,
+      "prior_variance": 0.312807,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -6.8842,
+      "prior_variance": 0.387862,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -16.846,
+      "prior_variance": 1.330697,
+      "prior_n": 3
+    }
+  ]
+}

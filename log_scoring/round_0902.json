@@ -1,0 +1,200 @@
+{
+  "round": 902,
+  "timestamp": "2026-06-13T19:59:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -3.2183,
+      "prior_variance": 0.699993,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -1.9448,
+      "prior_variance": 0.613707,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -2.5685,
+      "prior_variance": 0.446026,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -3.6766,
+      "prior_variance": 0.651411,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.0653,
+      "prior_variance": 0.648142,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Schirmeck",
+      "path": "europe/france/east/alsace/schirmeck",
+      "prior_score": -3.2272,
+      "prior_variance": 0.587454,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -2.8277,
+      "prior_variance": 0.460532,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -4.8139,
+      "prior_variance": 0.914038,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": 0.1076,
+      "prior_variance": 0.449119,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -4.0774,
+      "prior_variance": 0.593435,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -3.0247,
+      "prior_variance": 0.550767,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -3.8139,
+      "prior_variance": 0.42992,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -4.1982,
+      "prior_variance": 0.470335,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -3.0469,
+      "prior_variance": 0.439695,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -5.1134,
+      "prior_variance": 0.596896,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -4.0071,
+      "prior_variance": 0.622322,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -3.8773,
+      "prior_variance": 0.594349,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -4.5869,
+      "prior_variance": 0.628268,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_score": -2.5605,
+      "prior_variance": 0.568989,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -4.2557,
+      "prior_variance": 0.645983,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -6.6072,
+      "prior_variance": 0.507229,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -9.5241,
+      "prior_variance": 0.612079,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -8.5318,
+      "prior_variance": 0.765655,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -5.5517,
+      "prior_variance": 0.657289,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1434,
+  "timestamp": "2026-06-13T20:30:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 6.7647,
+      "prior_variance": 0.352104,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.4818,
+      "prior_variance": 0.424053,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Longmen Grottoes",
+      "path": "asia/china/henan_province/longmen_grottoes",
+      "prior_score": 7.0626,
+      "prior_variance": 0.34876,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 6.4884,
+      "prior_variance": 0.363328,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 5.0221,
+      "prior_variance": 0.329943,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 4.7015,
+      "prior_variance": 0.507348,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 2.926,
+      "prior_variance": 0.466916,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 5.9256,
+      "prior_variance": 0.340566,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.9799,
+      "prior_variance": 0.318938,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": -0.3968,
+      "prior_variance": 0.367182,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -5.4326,
+      "prior_variance": 0.409207,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -2.3618,
+      "prior_variance": 0.305653,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 1.763,
+      "prior_variance": 0.32481,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": -0.4419,
+      "prior_variance": 0.334325,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -1.9373,
+      "prior_variance": 0.252763,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -2.2045,
+      "prior_variance": 0.326867,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Arlon",
+      "path": "europe/belgium/arlon",
+      "prior_score": -2.6655,
+      "prior_variance": 0.327732,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -2.4284,
+      "prior_variance": 0.352862,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -3.2388,
+      "prior_variance": 0.326461,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -5.1284,
+      "prior_variance": 0.247457,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -3.795,
+      "prior_variance": 0.296278,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -6.329,
+      "prior_variance": 0.360826,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -6.1693,
+      "prior_variance": 0.3874,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Zabadani",
+      "path": "asia/syria/zabadani",
+      "prior_score": -15.1996,
+      "prior_variance": 0.786933,
+      "prior_n": 4
+    }
+  ]
+}

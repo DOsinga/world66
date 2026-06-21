@@ -1,0 +1,200 @@
+{
+  "round": 3041,
+  "timestamp": "2026-06-13T22:24:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 8.4906,
+      "prior_variance": 0.186053,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 6.1193,
+      "prior_variance": 0.278789,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 7.1474,
+      "prior_variance": 0.195409,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Gudauri",
+      "path": "europe/georgia/gudauri",
+      "prior_score": 3.0059,
+      "prior_variance": 0.144714,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.1037,
+      "prior_variance": 0.144222,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.3221,
+      "prior_variance": 0.140521,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 4.8817,
+      "prior_variance": 0.160701,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -3.0322,
+      "prior_variance": 0.126171,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -1.4005,
+      "prior_variance": 0.142491,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.7453,
+      "prior_variance": 0.144917,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.3707,
+      "prior_variance": 0.149463,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.5433,
+      "prior_variance": 0.132533,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.6479,
+      "prior_variance": 0.129858,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.2961,
+      "prior_variance": 0.163709,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.7673,
+      "prior_variance": 0.159841,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.4807,
+      "prior_variance": 0.128853,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.159,
+      "prior_variance": 0.156491,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_score": -2.9844,
+      "prior_variance": 0.142539,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -3.3469,
+      "prior_variance": 0.117062,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -4.7066,
+      "prior_variance": 0.140953,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -3.7632,
+      "prior_variance": 0.130258,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.7298,
+      "prior_variance": 0.17683,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -5.5824,
+      "prior_variance": 0.209038,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -5.948,
+      "prior_variance": 0.195166,
+      "prior_n": 9
+    }
+  ]
+}

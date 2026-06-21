@@ -1,0 +1,200 @@
+{
+  "round": 1643,
+  "timestamp": "2026-06-13T20:43:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 7.4349,
+      "prior_variance": 0.305896,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 4.192,
+      "prior_variance": 0.321553,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 2.0091,
+      "prior_variance": 0.32264,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.8924,
+      "prior_variance": 0.273755,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 6.4299,
+      "prior_variance": 0.347171,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.7118,
+      "prior_variance": 0.511522,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 5.0681,
+      "prior_variance": 0.270079,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 0.9819,
+      "prior_variance": 0.253894,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -2.0462,
+      "prior_variance": 0.284966,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 2.0251,
+      "prior_variance": 0.2711,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -2.0982,
+      "prior_variance": 0.234269,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -2.288,
+      "prior_variance": 0.310269,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.7502,
+      "prior_variance": 0.335429,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.8653,
+      "prior_variance": 0.253941,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -6.8598,
+      "prior_variance": 0.393454,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.4978,
+      "prior_variance": 0.259817,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Golmud",
+      "path": "asia/china/qinghai/golmud",
+      "prior_score": -5.9343,
+      "prior_variance": 0.426053,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -5.9152,
+      "prior_variance": 0.317728,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -5.1464,
+      "prior_variance": 0.229254,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -4.7766,
+      "prior_variance": 0.30927,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -1.6192,
+      "prior_variance": 0.274992,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -5.1698,
+      "prior_variance": 0.262674,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -6.6252,
+      "prior_variance": 0.309191,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -4.1963,
+      "prior_variance": 0.272924,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2006,
+  "timestamp": "2026-06-13T21:11:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 3.9308,
+      "prior_variance": 0.223368,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Arnhem",
+      "path": "europe/netherlands/arnhem",
+      "prior_score": -0.1699,
+      "prior_variance": 0.204235,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -3.7208,
+      "prior_variance": 0.283549,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.6244,
+      "prior_variance": 0.267109,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.567,
+      "prior_variance": 0.202928,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.0349,
+      "prior_variance": 0.198123,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.9337,
+      "prior_variance": 0.251421,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -1.5689,
+      "prior_variance": 0.209369,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.2295,
+      "prior_variance": 0.219822,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -1.9907,
+      "prior_variance": 0.250334,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -4.0406,
+      "prior_variance": 0.215857,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -1.602,
+      "prior_variance": 0.193336,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -3.6813,
+      "prior_variance": 0.251843,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Susanville",
+      "path": "northamerica/unitedstates/california/shastacascade/susanville",
+      "prior_score": -5.313,
+      "prior_variance": 0.267298,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -4.7236,
+      "prior_variance": 0.255021,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -7.8089,
+      "prior_variance": 0.511818,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_score": -2.4465,
+      "prior_variance": 0.224128,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -5.0474,
+      "prior_variance": 0.1879,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.2993,
+      "prior_variance": 0.232895,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.0406,
+      "prior_variance": 0.451589,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -6.2324,
+      "prior_variance": 0.303548,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -8.3529,
+      "prior_variance": 0.321885,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -11.0047,
+      "prior_variance": 0.638309,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -11.9402,
+      "prior_variance": 1.277064,
+      "prior_n": 6
+    }
+  ]
+}

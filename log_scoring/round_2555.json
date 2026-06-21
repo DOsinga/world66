@@ -1,0 +1,200 @@
+{
+  "round": 2555,
+  "timestamp": "2026-06-13T21:50:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.0208,
+      "prior_variance": 0.231705,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 2.4977,
+      "prior_variance": 0.162861,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 0.7465,
+      "prior_variance": 0.161843,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -4.4554,
+      "prior_variance": 0.23573,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -1.8365,
+      "prior_variance": 0.16303,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -1.135,
+      "prior_variance": 0.191348,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.5653,
+      "prior_variance": 0.192756,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.5339,
+      "prior_variance": 0.151362,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": 0.1429,
+      "prior_variance": 0.14825,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -2.5305,
+      "prior_variance": 0.175234,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": -1.7201,
+      "prior_variance": 0.166835,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -3.1887,
+      "prior_variance": 0.160654,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -3.0603,
+      "prior_variance": 0.185263,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -3.7335,
+      "prior_variance": 0.2058,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.9818,
+      "prior_variance": 0.166176,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -2.6487,
+      "prior_variance": 0.22485,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.6775,
+      "prior_variance": 0.162226,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Meizhou",
+      "path": "asia/china/guangdong/meizhou",
+      "prior_score": -3.7457,
+      "prior_variance": 0.147272,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -3.1207,
+      "prior_variance": 0.176609,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.2547,
+      "prior_variance": 0.160944,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Baoding",
+      "path": "asia/china/hebei/baoding",
+      "prior_score": -3.3136,
+      "prior_variance": 0.177759,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -3.0976,
+      "prior_variance": 0.176377,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -6.6996,
+      "prior_variance": 0.245445,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.6777,
+      "prior_variance": 0.263367,
+      "prior_n": 8
+    }
+  ]
+}

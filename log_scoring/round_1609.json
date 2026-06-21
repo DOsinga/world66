@@ -1,0 +1,200 @@
+{
+  "round": 1609,
+  "timestamp": "2026-06-13T20:41:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 11.3413,
+      "prior_variance": 0.636943,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.6199,
+      "prior_variance": 0.385585,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.6172,
+      "prior_variance": 0.317192,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.555,
+      "prior_variance": 0.332013,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -2.0593,
+      "prior_variance": 0.266492,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 1.2054,
+      "prior_variance": 0.272541,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.3651,
+      "prior_variance": 0.237587,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -4.0838,
+      "prior_variance": 0.431709,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -2.3037,
+      "prior_variance": 0.369469,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -3.737,
+      "prior_variance": 0.256253,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.3303,
+      "prior_variance": 0.282519,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -2.2096,
+      "prior_variance": 0.264475,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -3.6528,
+      "prior_variance": 0.230687,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -3.6667,
+      "prior_variance": 0.295438,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -3.1829,
+      "prior_variance": 0.267659,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -4.1857,
+      "prior_variance": 0.293932,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.6951,
+      "prior_variance": 0.255554,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.0196,
+      "prior_variance": 0.271283,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -2.5091,
+      "prior_variance": 0.273877,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -4.1203,
+      "prior_variance": 0.285843,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -2.4694,
+      "prior_variance": 0.352363,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -4.0652,
+      "prior_variance": 0.249161,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Aylmer",
+      "path": "northamerica/canada/quebec/aylmer",
+      "prior_score": -3.596,
+      "prior_variance": 0.301248,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -4.6889,
+      "prior_variance": 0.257041,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3868,
+  "timestamp": "2026-06-13T23:25:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 12.4802,
+      "prior_variance": 0.321333,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 7.0156,
+      "prior_variance": 0.137222,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 3.346,
+      "prior_variance": 0.129353,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 4.9798,
+      "prior_variance": 0.113897,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 3.1061,
+      "prior_variance": 0.102672,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 0.8049,
+      "prior_variance": 0.111051,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 2.1204,
+      "prior_variance": 0.126212,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.7394,
+      "prior_variance": 0.107266,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.428,
+      "prior_variance": 0.105326,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.9089,
+      "prior_variance": 0.100235,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 1.7197,
+      "prior_variance": 0.097716,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.5521,
+      "prior_variance": 0.097802,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.8541,
+      "prior_variance": 0.105302,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": -0.1337,
+      "prior_variance": 0.102519,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.6345,
+      "prior_variance": 0.102046,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 1.0322,
+      "prior_variance": 0.111531,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.5744,
+      "prior_variance": 0.103956,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 3.3607,
+      "prior_variance": 0.118663,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -2.0164,
+      "prior_variance": 0.109609,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": -0.3328,
+      "prior_variance": 0.113283,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.511,
+      "prior_variance": 0.105492,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.2447,
+      "prior_variance": 0.118913,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.0071,
+      "prior_variance": 0.108065,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.7078,
+      "prior_variance": 0.113347,
+      "prior_n": 13
+    }
+  ]
+}

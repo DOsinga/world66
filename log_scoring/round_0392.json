@@ -1,0 +1,200 @@
+{
+  "round": 392,
+  "timestamp": "2026-06-13T19:33:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -2.6337,
+      "prior_variance": 1.787577,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": -1.2279,
+      "prior_variance": 1.270844,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hoorn",
+      "path": "europe/netherlands/hoorn",
+      "prior_score": 2.6938,
+      "prior_variance": 2.18553,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": -4.2516,
+      "prior_variance": 2.020206,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": -1.4418,
+      "prior_variance": 1.545678,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.072,
+      "prior_variance": 1.982192,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": -0.6466,
+      "prior_variance": 1.365688,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -5.7881,
+      "prior_variance": 2.297674,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.3559,
+      "prior_variance": 3.253901,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -4.9823,
+      "prior_variance": 1.777033,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -2.9041,
+      "prior_variance": 1.440011,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -9.9493,
+      "prior_variance": 1.986679,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -2.8761,
+      "prior_variance": 1.739734,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": 2.8835,
+      "prior_variance": 1.694687,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -4.0205,
+      "prior_variance": 1.926768,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -3.2886,
+      "prior_variance": 8.5773,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.7379,
+      "prior_variance": 1.589985,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -5.1611,
+      "prior_variance": 1.492303,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Munshausen",
+      "path": "europe/luxembourg/munshausen",
+      "prior_score": -4.4591,
+      "prior_variance": 2.083208,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -5.9876,
+      "prior_variance": 1.342227,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -5.4542,
+      "prior_variance": 1.902178,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -4.7073,
+      "prior_variance": 1.539593,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Deogad",
+      "path": "asia/india/maharashtra/konkan/deogad",
+      "prior_score": -4.9465,
+      "prior_variance": 1.987241,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -7.3297,
+      "prior_variance": 2.812894,
+      "prior_n": 1
+    }
+  ]
+}

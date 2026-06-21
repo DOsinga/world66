@@ -1,0 +1,200 @@
+{
+  "round": 2449,
+  "timestamp": "2026-06-13T21:43:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 7.083,
+      "prior_variance": 0.288446,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.1226,
+      "prior_variance": 0.199745,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -0.4712,
+      "prior_variance": 0.196151,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 2.0806,
+      "prior_variance": 0.161403,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.1364,
+      "prior_variance": 0.164254,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 2.6295,
+      "prior_variance": 0.171113,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.2671,
+      "prior_variance": 0.201894,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 0.111,
+      "prior_variance": 0.176474,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 0.6369,
+      "prior_variance": 0.211882,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.2512,
+      "prior_variance": 0.175098,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.1209,
+      "prior_variance": 0.164469,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Western Qing Tombs",
+      "path": "asia/china/hebei/western_qing_tombs",
+      "prior_score": -0.3364,
+      "prior_variance": 0.223872,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 0.3876,
+      "prior_variance": 0.226002,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -0.1427,
+      "prior_variance": 0.145733,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -1.4125,
+      "prior_variance": 0.227515,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 0.5504,
+      "prior_variance": 0.17918,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.0138,
+      "prior_variance": 0.171119,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.4858,
+      "prior_variance": 0.179682,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -1.9621,
+      "prior_variance": 0.23586,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.0736,
+      "prior_variance": 0.187758,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -6.2776,
+      "prior_variance": 0.225726,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.3086,
+      "prior_variance": 0.168544,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -7.2158,
+      "prior_variance": 0.223529,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.7161,
+      "prior_variance": 0.263531,
+      "prior_n": 7
+    }
+  ]
+}

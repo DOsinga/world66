@@ -1,0 +1,200 @@
+{
+  "round": 2480,
+  "timestamp": "2026-06-13T21:45:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.2289,
+      "prior_variance": 0.222285,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 5.4914,
+      "prior_variance": 0.248282,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.0846,
+      "prior_variance": 0.18254,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.5299,
+      "prior_variance": 0.173873,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 3.2566,
+      "prior_variance": 0.180692,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.1738,
+      "prior_variance": 0.153184,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": 0.1531,
+      "prior_variance": 0.220489,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Suwon",
+      "path": "asia/southkorea/suwon",
+      "prior_score": 2.1185,
+      "prior_variance": 0.166849,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": -0.0724,
+      "prior_variance": 0.247504,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 2.3398,
+      "prior_variance": 0.165236,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 1.8788,
+      "prior_variance": 0.2037,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Panguitch",
+      "path": "northamerica/unitedstates/utah/panguitch",
+      "prior_score": -1.7018,
+      "prior_variance": 0.16883,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Manizales",
+      "path": "southamerica/colombia/manizales",
+      "prior_score": 0.8839,
+      "prior_variance": 0.186843,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Alice Springs",
+      "path": "australiaandpacific/australia/northernterritory/alicesprings",
+      "prior_score": 1.5747,
+      "prior_variance": 0.171405,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_score": -0.3835,
+      "prior_variance": 0.143582,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.7672,
+      "prior_variance": 0.16371,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -3.8293,
+      "prior_variance": 0.205236,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": -0.2803,
+      "prior_variance": 0.241854,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -3.6388,
+      "prior_variance": 0.203704,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield",
+      "prior_score": -2.6203,
+      "prior_variance": 0.178179,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.7095,
+      "prior_variance": 0.219013,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -4.1102,
+      "prior_variance": 0.187186,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -4.9732,
+      "prior_variance": 0.215024,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -13.7219,
+      "prior_variance": 1.040848,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1852,
+  "timestamp": "2026-06-13T20:56:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 11.9086,
+      "prior_variance": 1.664956,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 10.9795,
+      "prior_variance": 0.565645,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 8.5167,
+      "prior_variance": 0.329181,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Volcanoes National Park",
+      "path": "africa/rwanda/volcanoesnationalpark",
+      "prior_score": 7.0822,
+      "prior_variance": 0.386006,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gulmarg",
+      "path": "asia/india/jammuandkashmir/gulmarg",
+      "prior_score": 3.1572,
+      "prior_variance": 0.219343,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 3.9865,
+      "prior_variance": 0.25723,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 2.7225,
+      "prior_variance": 0.269411,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 2.7667,
+      "prior_variance": 0.222119,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.4418,
+      "prior_variance": 0.242092,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 3.7694,
+      "prior_variance": 0.253768,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 2.4819,
+      "prior_variance": 0.255981,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.4266,
+      "prior_variance": 0.248102,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 1.9921,
+      "prior_variance": 0.252559,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.4996,
+      "prior_variance": 0.221035,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.4247,
+      "prior_variance": 0.267859,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -2.3195,
+      "prior_variance": 0.270334,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.951,
+      "prior_variance": 0.212986,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.4707,
+      "prior_variance": 0.264673,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -2.5362,
+      "prior_variance": 0.243236,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": 0.1083,
+      "prior_variance": 0.272555,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -2.6862,
+      "prior_variance": 0.243958,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -5.5137,
+      "prior_variance": 0.217096,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -8.0814,
+      "prior_variance": 0.417004,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -7.9923,
+      "prior_variance": 0.307087,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1478,
+  "timestamp": "2026-06-13T20:33:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 11.4399,
+      "prior_variance": 0.442772,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 9.708,
+      "prior_variance": 0.409965,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 9.6775,
+      "prior_variance": 0.355959,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 6.4133,
+      "prior_variance": 0.343984,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 5.3342,
+      "prior_variance": 0.357486,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 9.7338,
+      "prior_variance": 0.718583,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.0687,
+      "prior_variance": 0.26523,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": -0.4141,
+      "prior_variance": 0.329188,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -1.6261,
+      "prior_variance": 0.408207,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -2.5617,
+      "prior_variance": 0.328876,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Reggio di Calabria",
+      "path": "europe/italy/calabria/reggiocalabria",
+      "prior_score": -0.5514,
+      "prior_variance": 0.357147,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.5553,
+      "prior_variance": 0.343922,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": -0.0293,
+      "prior_variance": 0.247426,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -4.1447,
+      "prior_variance": 0.28542,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -3.0872,
+      "prior_variance": 0.300497,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.6838,
+      "prior_variance": 0.332832,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -4.4721,
+      "prior_variance": 0.346261,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -3.6071,
+      "prior_variance": 0.32777,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -6.0277,
+      "prior_variance": 0.326701,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.8168,
+      "prior_variance": 0.393823,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -7.9092,
+      "prior_variance": 0.428799,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -7.3734,
+      "prior_variance": 0.32671,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -12.4938,
+      "prior_variance": 0.594101,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -14.3392,
+      "prior_variance": 0.738068,
+      "prior_n": 5
+    }
+  ]
+}

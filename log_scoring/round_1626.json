@@ -1,0 +1,200 @@
+{
+  "round": 1626,
+  "timestamp": "2026-06-13T20:42:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.1918,
+      "prior_variance": 0.369453,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.6592,
+      "prior_variance": 0.244493,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 3.6358,
+      "prior_variance": 0.277047,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 1.8761,
+      "prior_variance": 0.275738,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.9234,
+      "prior_variance": 0.253927,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.2168,
+      "prior_variance": 0.25792,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.3563,
+      "prior_variance": 0.244766,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 2.7146,
+      "prior_variance": 0.314503,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Oristano",
+      "path": "europe/italy/sardinia/oristano",
+      "prior_score": 2.1819,
+      "prior_variance": 0.291747,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.9269,
+      "prior_variance": 0.355363,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Quanzhou",
+      "path": "asia/china/fujianprovince/quanzhou",
+      "prior_score": -0.1244,
+      "prior_variance": 0.247754,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.9106,
+      "prior_variance": 0.24635,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -1.6211,
+      "prior_variance": 0.29318,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.734,
+      "prior_variance": 0.311586,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.8315,
+      "prior_variance": 0.271116,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -2.8903,
+      "prior_variance": 0.242612,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.2411,
+      "prior_variance": 0.270305,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.1491,
+      "prior_variance": 0.268191,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.8025,
+      "prior_variance": 0.252896,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -4.5117,
+      "prior_variance": 0.25517,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -3.1409,
+      "prior_variance": 0.271147,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -8.8319,
+      "prior_variance": 0.367763,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -7.4178,
+      "prior_variance": 0.451,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -11.5593,
+      "prior_variance": 0.6934,
+      "prior_n": 5
+    }
+  ]
+}

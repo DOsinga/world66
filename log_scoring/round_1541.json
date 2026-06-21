@@ -1,0 +1,200 @@
+{
+  "round": 1541,
+  "timestamp": "2026-06-13T20:36:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 5.5346,
+      "prior_variance": 0.308211,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 6.1907,
+      "prior_variance": 0.638023,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 5.8614,
+      "prior_variance": 0.337256,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 6.2067,
+      "prior_variance": 0.392168,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 5.1416,
+      "prior_variance": 0.303032,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 5.26,
+      "prior_variance": 0.275962,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 5.8248,
+      "prior_variance": 0.345597,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 5.4035,
+      "prior_variance": 0.329822,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 5.0539,
+      "prior_variance": 0.341245,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.2921,
+      "prior_variance": 0.298439,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.1966,
+      "prior_variance": 0.472377,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 3.3105,
+      "prior_variance": 0.332621,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.4774,
+      "prior_variance": 0.348528,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.4216,
+      "prior_variance": 0.270677,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 6.479,
+      "prior_variance": 0.331791,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 3.9435,
+      "prior_variance": 0.274595,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 6.2364,
+      "prior_variance": 0.347545,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.2251,
+      "prior_variance": 0.446266,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tarascon-sur-Ari\u00e8ge",
+      "path": "europe/france/midi/pyrenees/tarasconsurari",
+      "prior_score": 1.0834,
+      "prior_variance": 0.252712,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -1.2721,
+      "prior_variance": 0.252654,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -1.5283,
+      "prior_variance": 0.386745,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -3.44,
+      "prior_variance": 0.263041,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -4.3005,
+      "prior_variance": 0.265468,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -5.0412,
+      "prior_variance": 0.289541,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1164,
+  "timestamp": "2026-06-13T20:14:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 4.6217,
+      "prior_variance": 0.561317,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.8438,
+      "prior_variance": 0.528126,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.9048,
+      "prior_variance": 0.564705,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 4.935,
+      "prior_variance": 0.516572,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 5.7193,
+      "prior_variance": 0.424642,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 5.6213,
+      "prior_variance": 0.572754,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 4.003,
+      "prior_variance": 0.470581,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 3.5829,
+      "prior_variance": 0.565643,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.9076,
+      "prior_variance": 0.643039,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 5.1828,
+      "prior_variance": 0.337252,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": -1.3631,
+      "prior_variance": 0.452882,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 5.8423,
+      "prior_variance": 0.435867,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 2.6875,
+      "prior_variance": 0.438355,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sevanavank",
+      "path": "europe/armenia/sevanavank",
+      "prior_score": 1.8452,
+      "prior_variance": 0.44053,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 4.4365,
+      "prior_variance": 0.480281,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 1.9596,
+      "prior_variance": 0.413307,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -2.6307,
+      "prior_variance": 0.455877,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 3.9113,
+      "prior_variance": 0.474158,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 2.6028,
+      "prior_variance": 0.461098,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.9504,
+      "prior_variance": 0.591087,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -6.6899,
+      "prior_variance": 0.551121,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -4.2693,
+      "prior_variance": 0.419252,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -6.3184,
+      "prior_variance": 0.564163,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -9.7019,
+      "prior_variance": 0.632056,
+      "prior_n": 3
+    }
+  ]
+}

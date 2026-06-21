@@ -1,0 +1,200 @@
+{
+  "round": 3808,
+  "timestamp": "2026-06-13T23:21:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 6.0164,
+      "prior_variance": 0.132448,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 4.1082,
+      "prior_variance": 0.119945,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.8442,
+      "prior_variance": 0.109528,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.9762,
+      "prior_variance": 0.102384,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.1858,
+      "prior_variance": 0.128678,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.4747,
+      "prior_variance": 0.120164,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.6515,
+      "prior_variance": 0.111867,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.5555,
+      "prior_variance": 0.096443,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 2.52,
+      "prior_variance": 0.098859,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": -0.1945,
+      "prior_variance": 0.101021,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": 0.7533,
+      "prior_variance": 0.114293,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.6252,
+      "prior_variance": 0.129401,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -0.3553,
+      "prior_variance": 0.120026,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.2378,
+      "prior_variance": 0.106505,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -2.8713,
+      "prior_variance": 0.116199,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.9583,
+      "prior_variance": 0.099987,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.9455,
+      "prior_variance": 0.129957,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -3.2315,
+      "prior_variance": 0.131725,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -2.8237,
+      "prior_variance": 0.11217,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Lang De",
+      "path": "asia/china/guizhou/lang_de",
+      "prior_score": -3.519,
+      "prior_variance": 0.119439,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 1.6338,
+      "prior_variance": 0.119499,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.2281,
+      "prior_variance": 0.138459,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -5.1156,
+      "prior_variance": 0.125364,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -5.3067,
+      "prior_variance": 0.140031,
+      "prior_n": 12
+    }
+  ]
+}

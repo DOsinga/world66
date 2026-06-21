@@ -1,0 +1,200 @@
+{
+  "round": 518,
+  "timestamp": "2026-06-13T19:40:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 0.832,
+      "prior_variance": 1.725363,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": -2.1346,
+      "prior_variance": 1.042427,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": -0.8922,
+      "prior_variance": 1.619222,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -1.4099,
+      "prior_variance": 1.101787,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -3.7471,
+      "prior_variance": 3.424176,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -2.6142,
+      "prior_variance": 1.454568,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -5.492,
+      "prior_variance": 1.996623,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -2.7311,
+      "prior_variance": 2.001517,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -3.727,
+      "prior_variance": 1.360425,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -4.7065,
+      "prior_variance": 1.229842,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -5.9188,
+      "prior_variance": 1.048236,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -3.6357,
+      "prior_variance": 1.621832,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_domingos",
+      "prior_score": -5.6067,
+      "prior_variance": 2.265451,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -3.9571,
+      "prior_variance": 2.151063,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -3.2525,
+      "prior_variance": 1.309601,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -3.244,
+      "prior_variance": 1.609135,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -2.6314,
+      "prior_variance": 1.321416,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -6.7514,
+      "prior_variance": 1.42173,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -4.0644,
+      "prior_variance": 1.78229,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -3.6435,
+      "prior_variance": 1.223725,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -5.0849,
+      "prior_variance": 1.254295,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -7.9455,
+      "prior_variance": 1.255953,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -6.544,
+      "prior_variance": 1.690094,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -5.4947,
+      "prior_variance": 1.392211,
+      "prior_n": 1
+    }
+  ]
+}

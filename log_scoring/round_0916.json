@@ -1,0 +1,200 @@
+{
+  "round": 916,
+  "timestamp": "2026-06-13T20:00:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -6.8608,
+      "prior_variance": 0.759334,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -7.1821,
+      "prior_variance": 0.598922,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -4.3345,
+      "prior_variance": 0.801785,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -5.8354,
+      "prior_variance": 0.848026,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -8.8535,
+      "prior_variance": 0.699518,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -9.8484,
+      "prior_variance": 1.133844,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -7.1328,
+      "prior_variance": 0.603902,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -8.8317,
+      "prior_variance": 1.145716,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -5.3887,
+      "prior_variance": 0.426726,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -7.9466,
+      "prior_variance": 1.044518,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -7.7819,
+      "prior_variance": 0.428005,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -7.2806,
+      "prior_variance": 0.60971,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_score": -7.9081,
+      "prior_variance": 0.445469,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -8.6655,
+      "prior_variance": 0.642472,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Al Wakrah",
+      "path": "asia/qatar/alwakrah",
+      "prior_score": -9.0089,
+      "prior_variance": 0.60064,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -5.3683,
+      "prior_variance": 0.432631,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -8.8314,
+      "prior_variance": 0.673314,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -9.1593,
+      "prior_variance": 0.642957,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -9.5656,
+      "prior_variance": 1.180356,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -10.0291,
+      "prior_variance": 0.760922,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -10.1355,
+      "prior_variance": 1.065989,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -8.3523,
+      "prior_variance": 0.621314,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -9.9803,
+      "prior_variance": 1.025933,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -12.7811,
+      "prior_variance": 1.108154,
+      "prior_n": 2
+    }
+  ]
+}

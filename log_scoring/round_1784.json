@@ -1,0 +1,200 @@
+{
+  "round": 1784,
+  "timestamp": "2026-06-13T20:52:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 7.7725,
+      "prior_variance": 0.415363,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 9.3912,
+      "prior_variance": 0.41298,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 10.7883,
+      "prior_variance": 0.557506,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 5.3212,
+      "prior_variance": 0.287957,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.601,
+      "prior_variance": 0.296821,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 1.4979,
+      "prior_variance": 0.221328,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.3312,
+      "prior_variance": 0.246984,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.3176,
+      "prior_variance": 0.272514,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.2488,
+      "prior_variance": 0.249915,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.3464,
+      "prior_variance": 0.210266,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.9259,
+      "prior_variance": 0.207765,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -4.3138,
+      "prior_variance": 0.239101,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.7329,
+      "prior_variance": 0.270568,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -4.4277,
+      "prior_variance": 0.337449,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.4763,
+      "prior_variance": 0.261645,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -5.9787,
+      "prior_variance": 0.247876,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_score": -3.6152,
+      "prior_variance": 0.232077,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -6.3137,
+      "prior_variance": 0.328828,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -5.243,
+      "prior_variance": 0.265876,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -5.7164,
+      "prior_variance": 0.242267,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -5.7326,
+      "prior_variance": 0.39996,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -4.6325,
+      "prior_variance": 0.296334,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -5.5769,
+      "prior_variance": 0.331015,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -8.4176,
+      "prior_variance": 0.432824,
+      "prior_n": 5
+    }
+  ]
+}

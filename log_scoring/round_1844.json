@@ -1,0 +1,200 @@
+{
+  "round": 1844,
+  "timestamp": "2026-06-13T20:56:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 9.4834,
+      "prior_variance": 0.685031,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 8.9385,
+      "prior_variance": 0.364746,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 5.4927,
+      "prior_variance": 0.236135,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 1.9076,
+      "prior_variance": 0.237154,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 1.6122,
+      "prior_variance": 0.226516,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.1543,
+      "prior_variance": 0.27697,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 1.095,
+      "prior_variance": 0.266073,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 2.4424,
+      "prior_variance": 0.22461,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -1.7816,
+      "prior_variance": 0.224229,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": 0.4,
+      "prior_variance": 0.212373,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": 0.358,
+      "prior_variance": 0.212405,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 2.244,
+      "prior_variance": 0.289665,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.8873,
+      "prior_variance": 0.229549,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -3.0544,
+      "prior_variance": 0.338396,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.6888,
+      "prior_variance": 0.313746,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.8363,
+      "prior_variance": 0.261625,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.7793,
+      "prior_variance": 0.213175,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.5328,
+      "prior_variance": 0.273184,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Hohhot",
+      "path": "asia/china/innermongolia/hohhot",
+      "prior_score": -1.1249,
+      "prior_variance": 0.259636,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.3825,
+      "prior_variance": 0.220542,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -8.0529,
+      "prior_variance": 0.322119,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -5.9613,
+      "prior_variance": 0.329519,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -8.0009,
+      "prior_variance": 0.458183,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -14.4219,
+      "prior_variance": 0.716001,
+      "prior_n": 5
+    }
+  ]
+}

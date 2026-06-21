@@ -1,0 +1,200 @@
+{
+  "round": 3371,
+  "timestamp": "2026-06-13T22:49:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 13.7453,
+      "prior_variance": 0.489297,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Igua\u00e7u Falls",
+      "path": "southamerica/brazil/iguacufalls",
+      "prior_score": 11.789,
+      "prior_variance": 0.309073,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.7083,
+      "prior_variance": 0.237043,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 8.4462,
+      "prior_variance": 0.286651,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 6.6004,
+      "prior_variance": 0.194529,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Corniglia",
+      "path": "europe/italy/liguria/corniglia",
+      "prior_score": 6.6852,
+      "prior_variance": 0.189642,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 5.3488,
+      "prior_variance": 0.183637,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 3.8489,
+      "prior_variance": 0.12562,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 3.4958,
+      "prior_variance": 0.162958,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.5316,
+      "prior_variance": 0.15081,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 3.3946,
+      "prior_variance": 0.124677,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 3.5105,
+      "prior_variance": 0.136347,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Shimonoseki",
+      "path": "asia/japan/honshu/shimonoseki",
+      "prior_score": 1.4654,
+      "prior_variance": 0.129437,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 1.57,
+      "prior_variance": 0.140723,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.5385,
+      "prior_variance": 0.11159,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 3.0252,
+      "prior_variance": 0.149377,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.0687,
+      "prior_variance": 0.117641,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 2.2705,
+      "prior_variance": 0.168393,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.3371,
+      "prior_variance": 0.142794,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": -2.1573,
+      "prior_variance": 0.162484,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.2478,
+      "prior_variance": 0.120825,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 1.8138,
+      "prior_variance": 0.127793,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 0.0166,
+      "prior_variance": 0.140681,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.4685,
+      "prior_variance": 0.114555,
+      "prior_n": 11
+    }
+  ]
+}

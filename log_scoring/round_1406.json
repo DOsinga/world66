@@ -1,0 +1,200 @@
+{
+  "round": 1406,
+  "timestamp": "2026-06-13T20:28:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 11.2242,
+      "prior_variance": 0.518931,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 7.7782,
+      "prior_variance": 0.415667,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 6.6664,
+      "prior_variance": 0.329498,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 4.3203,
+      "prior_variance": 0.429174,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 4.3808,
+      "prior_variance": 0.368434,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 6.4638,
+      "prior_variance": 0.451365,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Mainz",
+      "path": "europe/germany/rhinelandpalatinate/mainz",
+      "prior_score": 3.9899,
+      "prior_variance": 0.476006,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.1085,
+      "prior_variance": 0.326969,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.6715,
+      "prior_variance": 0.310006,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 4.1128,
+      "prior_variance": 0.348509,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 2.364,
+      "prior_variance": 0.313041,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Guayaquil",
+      "path": "southamerica/ecuador/guayaquil",
+      "prior_score": -0.5439,
+      "prior_variance": 0.306123,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -0.8718,
+      "prior_variance": 0.298273,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -2.0921,
+      "prior_variance": 0.298144,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -2.2196,
+      "prior_variance": 0.310442,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.7145,
+      "prior_variance": 0.299733,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -4.0309,
+      "prior_variance": 0.365608,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -4.3891,
+      "prior_variance": 0.333608,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -5.4055,
+      "prior_variance": 0.426301,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -4.0619,
+      "prior_variance": 0.302571,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Erdenet",
+      "path": "asia/mongolia/erdenet",
+      "prior_score": -6.613,
+      "prior_variance": 0.356144,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.5488,
+      "prior_variance": 0.386028,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -5.3368,
+      "prior_variance": 0.362518,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -4.9326,
+      "prior_variance": 0.555942,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1205,
+  "timestamp": "2026-06-13T20:17:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 7.0923,
+      "prior_variance": 0.435692,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 3.4232,
+      "prior_variance": 0.468387,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Coral Bay",
+      "path": "australiaandpacific/australia/westernaustralia/coral_bay",
+      "prior_score": 2.7746,
+      "prior_variance": 0.438754,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pipa",
+      "path": "southamerica/brazil/pipa",
+      "prior_score": 2.9508,
+      "prior_variance": 0.343256,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 4.6922,
+      "prior_variance": 0.351215,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 7.1274,
+      "prior_variance": 0.476831,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.7514,
+      "prior_variance": 0.369974,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 2.8343,
+      "prior_variance": 0.323413,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 3.7136,
+      "prior_variance": 0.606849,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.8305,
+      "prior_variance": 0.395846,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimeno",
+      "prior_score": 0.7929,
+      "prior_variance": 0.419876,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.8628,
+      "prior_variance": 0.477854,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Komarna",
+      "path": "europe/croatia/dalmatia/komarna",
+      "prior_score": 1.2895,
+      "prior_variance": 0.422201,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 2.7117,
+      "prior_variance": 0.430495,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -5.2091,
+      "prior_variance": 0.578799,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 6.4981,
+      "prior_variance": 0.559322,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": -0.1919,
+      "prior_variance": 0.322178,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -1.5077,
+      "prior_variance": 0.382049,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Provo",
+      "path": "northamerica/unitedstates/utah/provo",
+      "prior_score": -4.4653,
+      "prior_variance": 0.44521,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tirgu Mures",
+      "path": "europe/romania/tirgumures",
+      "prior_score": -1.2867,
+      "prior_variance": 0.430102,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -4.2736,
+      "prior_variance": 0.383038,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -3.7514,
+      "prior_variance": 0.333583,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon",
+      "prior_score": -3.9939,
+      "prior_variance": 0.415075,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -5.9159,
+      "prior_variance": 0.646232,
+      "prior_n": 3
+    }
+  ]
+}

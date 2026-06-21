@@ -1,0 +1,200 @@
+{
+  "round": 2095,
+  "timestamp": "2026-06-13T21:18:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Toja/A Toxa Island",
+      "path": "europe/spain/galicia/la_tojaa_toxa_island",
+      "prior_score": 1.9653,
+      "prior_variance": 0.213625,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.521,
+      "prior_variance": 0.219855,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 0.4411,
+      "prior_variance": 0.230588,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.4604,
+      "prior_variance": 0.175594,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 1.2558,
+      "prior_variance": 0.266304,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 0.6399,
+      "prior_variance": 0.245211,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.2336,
+      "prior_variance": 0.191673,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -2.0931,
+      "prior_variance": 0.285398,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.1364,
+      "prior_variance": 0.163191,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.0645,
+      "prior_variance": 0.18542,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.5922,
+      "prior_variance": 0.215044,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -2.2584,
+      "prior_variance": 0.238081,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -4.0865,
+      "prior_variance": 0.220719,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -3.782,
+      "prior_variance": 0.249626,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -2.9487,
+      "prior_variance": 0.258582,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.5116,
+      "prior_variance": 0.198919,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.5297,
+      "prior_variance": 0.314361,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -5.2055,
+      "prior_variance": 0.275432,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -5.6255,
+      "prior_variance": 0.240072,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Grants",
+      "path": "northamerica/unitedstates/newmexico/grants",
+      "prior_score": -4.8612,
+      "prior_variance": 0.22028,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.4119,
+      "prior_variance": 0.284254,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -6.2289,
+      "prior_variance": 0.275624,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -7.079,
+      "prior_variance": 0.264667,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.3735,
+      "prior_variance": 0.454223,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2212,
+  "timestamp": "2026-06-13T21:26:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.5138,
+      "prior_variance": 0.189345,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 8.7198,
+      "prior_variance": 0.365377,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 5.5728,
+      "prior_variance": 0.201298,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 2.9855,
+      "prior_variance": 0.239,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.5258,
+      "prior_variance": 0.198696,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.3853,
+      "prior_variance": 0.278349,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.8443,
+      "prior_variance": 0.222776,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.171,
+      "prior_variance": 0.202413,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 1.742,
+      "prior_variance": 0.17536,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.1521,
+      "prior_variance": 0.192724,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.4258,
+      "prior_variance": 0.176703,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 0.8036,
+      "prior_variance": 0.190662,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 1.0981,
+      "prior_variance": 0.217828,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -0.9855,
+      "prior_variance": 0.244886,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 1.3384,
+      "prior_variance": 0.180616,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -0.8962,
+      "prior_variance": 0.196787,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -0.4539,
+      "prior_variance": 0.187465,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.7194,
+      "prior_variance": 0.181237,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.0724,
+      "prior_variance": 0.15281,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.8317,
+      "prior_variance": 0.203842,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -1.2846,
+      "prior_variance": 0.211531,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.7563,
+      "prior_variance": 0.18054,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -2.0304,
+      "prior_variance": 0.189543,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Tongling",
+      "path": "asia/china/anhui/tongling",
+      "prior_score": -5.5243,
+      "prior_variance": 0.192305,
+      "prior_n": 7
+    }
+  ]
+}

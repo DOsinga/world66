@@ -1,0 +1,200 @@
+{
+  "round": 2374,
+  "timestamp": "2026-06-13T21:38:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 3.4157,
+      "prior_variance": 0.189392,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 5.5219,
+      "prior_variance": 0.216866,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.7979,
+      "prior_variance": 0.184064,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.0273,
+      "prior_variance": 0.160757,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -2.153,
+      "prior_variance": 0.193565,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.3832,
+      "prior_variance": 0.180547,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.5172,
+      "prior_variance": 0.159389,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -2.22,
+      "prior_variance": 0.168241,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -0.9241,
+      "prior_variance": 0.196126,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.5631,
+      "prior_variance": 0.214896,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -0.268,
+      "prior_variance": 0.208512,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.3589,
+      "prior_variance": 0.223936,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.8414,
+      "prior_variance": 0.17231,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -1.6064,
+      "prior_variance": 0.171981,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.9533,
+      "prior_variance": 0.202195,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 0.5711,
+      "prior_variance": 0.283859,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -2.9248,
+      "prior_variance": 0.368546,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -2.2982,
+      "prior_variance": 0.164578,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.2429,
+      "prior_variance": 0.155439,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.3391,
+      "prior_variance": 0.183105,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_score": -3.4573,
+      "prior_variance": 0.244279,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -4.7626,
+      "prior_variance": 0.175158,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -5.574,
+      "prior_variance": 0.307864,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.4459,
+      "prior_variance": 0.257972,
+      "prior_n": 7
+    }
+  ]
+}

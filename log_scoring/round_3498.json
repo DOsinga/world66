@@ -1,0 +1,200 @@
+{
+  "round": 3498,
+  "timestamp": "2026-06-13T22:58:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alberobello",
+      "path": "europe/italy/puglia/alberobello",
+      "prior_score": 6.0312,
+      "prior_variance": 0.131827,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 4.2993,
+      "prior_variance": 0.127458,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 3.7733,
+      "prior_variance": 0.130619,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.0454,
+      "prior_variance": 0.119028,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": -0.3036,
+      "prior_variance": 0.153275,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -0.0282,
+      "prior_variance": 0.109282,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.7486,
+      "prior_variance": 0.126871,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.6787,
+      "prior_variance": 0.123604,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Port Said",
+      "path": "africa/egypt/portsaid",
+      "prior_score": -1.8024,
+      "prior_variance": 0.128853,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -3.4501,
+      "prior_variance": 0.139838,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.5552,
+      "prior_variance": 0.144415,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -1.8627,
+      "prior_variance": 0.115051,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -5.6373,
+      "prior_variance": 0.201818,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.2002,
+      "prior_variance": 0.121558,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.2425,
+      "prior_variance": 0.226912,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -2.5526,
+      "prior_variance": 0.144277,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Zhuzhou",
+      "path": "asia/china/hunan/zhuzhou",
+      "prior_score": -5.0165,
+      "prior_variance": 0.147536,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -3.3357,
+      "prior_variance": 0.125037,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.02,
+      "prior_variance": 0.130617,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -3.8875,
+      "prior_variance": 0.128444,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.6631,
+      "prior_variance": 0.142154,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -5.035,
+      "prior_variance": 0.169022,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -3.6936,
+      "prior_variance": 0.1268,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -5.0526,
+      "prior_variance": 0.134869,
+      "prior_n": 11
+    }
+  ]
+}

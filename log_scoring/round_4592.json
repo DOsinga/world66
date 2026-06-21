@@ -1,0 +1,200 @@
+{
+  "round": 4592,
+  "timestamp": "2026-06-14T00:25:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 9.2689,
+      "prior_variance": 0.185775,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 7.424,
+      "prior_variance": 0.214295,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 3.7835,
+      "prior_variance": 0.08776,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Kampot",
+      "path": "asia/cambodia/kampot",
+      "prior_score": 2.8911,
+      "prior_variance": 0.094511,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 2.1322,
+      "prior_variance": 0.090766,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.6088,
+      "prior_variance": 0.098596,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -0.3966,
+      "prior_variance": 0.105384,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 2.8697,
+      "prior_variance": 0.086576,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.5268,
+      "prior_variance": 0.084664,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.0962,
+      "prior_variance": 0.094992,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.4576,
+      "prior_variance": 0.084551,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -0.5316,
+      "prior_variance": 0.089402,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 0.369,
+      "prior_variance": 0.086018,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.8038,
+      "prior_variance": 0.096161,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": 0.0527,
+      "prior_variance": 0.089872,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_city",
+      "prior_score": -1.5347,
+      "prior_variance": 0.090548,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -2.0156,
+      "prior_variance": 0.09879,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Grenville",
+      "path": "northamerica/thecaribbean/grenada/grenville",
+      "prior_score": -0.0896,
+      "prior_variance": 0.09455,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -4.2286,
+      "prior_variance": 0.141632,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -3.607,
+      "prior_variance": 0.105134,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.1674,
+      "prior_variance": 0.109213,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -5.6567,
+      "prior_variance": 0.124636,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Ordos",
+      "path": "asia/china/innermongolia/ordos",
+      "prior_score": -4.033,
+      "prior_variance": 0.104895,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.5394,
+      "prior_variance": 0.123095,
+      "prior_n": 15
+    }
+  ]
+}

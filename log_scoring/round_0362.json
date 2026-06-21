@@ -1,0 +1,200 @@
+{
+  "round": 362,
+  "timestamp": "2026-06-13T19:31:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 9.2742,
+      "prior_variance": 2.801321,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 13.1521,
+      "prior_variance": 4.488722,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 4.9412,
+      "prior_variance": 1.607969,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 10.1398,
+      "prior_variance": 2.115224,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 11.5761,
+      "prior_variance": 2.569959,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Avanos",
+      "path": "asia/turkey/cappadocia/avanos",
+      "prior_score": 9.4613,
+      "prior_variance": 4.588262,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 5.1998,
+      "prior_variance": 1.99098,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 4.8814,
+      "prior_variance": 1.809357,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Side",
+      "path": "asia/turkey/side",
+      "prior_score": 4.8957,
+      "prior_variance": 1.799689,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 6.0075,
+      "prior_variance": 2.173716,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 9.2104,
+      "prior_variance": 2.28573,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 7.5601,
+      "prior_variance": 2.96794,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bayeux",
+      "path": "europe/france/normandybrittany/bayeux",
+      "prior_score": 4.4751,
+      "prior_variance": 2.398042,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 9.1437,
+      "prior_variance": 2.06152,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Stirling",
+      "path": "europe/unitedkingdom/scotland/stirling",
+      "prior_score": 14.1284,
+      "prior_variance": 3.252808,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "La Spezia",
+      "path": "europe/italy/liguria/laspezia",
+      "prior_score": 7.2281,
+      "prior_variance": 1.915144,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 4.6738,
+      "prior_variance": 2.372958,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 3.0385,
+      "prior_variance": 1.614483,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 10.5069,
+      "prior_variance": 2.666693,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 5.0097,
+      "prior_variance": 1.76183,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 5.294,
+      "prior_variance": 1.756872,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 3.9073,
+      "prior_variance": 1.878104,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 6.3787,
+      "prior_variance": 1.795411,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 1.0292,
+      "prior_variance": 1.717426,
+      "prior_n": 1
+    }
+  ]
+}

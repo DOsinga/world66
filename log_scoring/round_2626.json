@@ -1,0 +1,200 @@
+{
+  "round": 2626,
+  "timestamp": "2026-06-13T21:55:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 11.6951,
+      "prior_variance": 0.429145,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 4.5698,
+      "prior_variance": 0.160168,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.2051,
+      "prior_variance": 0.228901,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.9995,
+      "prior_variance": 0.175571,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_score": 2.3867,
+      "prior_variance": 0.193884,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.9892,
+      "prior_variance": 0.180026,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 3.9123,
+      "prior_variance": 0.182581,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 2.0577,
+      "prior_variance": 0.17332,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 1.7532,
+      "prior_variance": 0.162136,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 2.7901,
+      "prior_variance": 0.192794,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.2487,
+      "prior_variance": 0.181997,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 4.0504,
+      "prior_variance": 0.179969,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.2068,
+      "prior_variance": 0.145998,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.4293,
+      "prior_variance": 0.158054,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.7856,
+      "prior_variance": 0.165586,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 4.8979,
+      "prior_variance": 0.174512,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.1231,
+      "prior_variance": 0.170666,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -1.3248,
+      "prior_variance": 0.185753,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -1.3866,
+      "prior_variance": 0.152861,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.1356,
+      "prior_variance": 0.201151,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_score": -1.9782,
+      "prior_variance": 0.222498,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -2.9195,
+      "prior_variance": 0.185576,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -4.4276,
+      "prior_variance": 0.159936,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.1707,
+      "prior_variance": 0.16999,
+      "prior_n": 9
+    }
+  ]
+}

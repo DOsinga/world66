@@ -1,0 +1,200 @@
+{
+  "round": 1180,
+  "timestamp": "2026-06-13T20:15:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 13.0036,
+      "prior_variance": 0.790271,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 11.6141,
+      "prior_variance": 0.848975,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 10.2308,
+      "prior_variance": 1.283292,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 10.6395,
+      "prior_variance": 0.464123,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_score": 7.1342,
+      "prior_variance": 0.520503,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 10.1399,
+      "prior_variance": 0.680716,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 7.3867,
+      "prior_variance": 0.478867,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 7.7957,
+      "prior_variance": 0.601226,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 10.055,
+      "prior_variance": 0.52893,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 7.0442,
+      "prior_variance": 0.783355,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ghorepani and Poon Hill",
+      "path": "asia/nepal/ghorepani_poonhil",
+      "prior_score": 11.3024,
+      "prior_variance": 0.57862,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 8.0651,
+      "prior_variance": 0.477994,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 10.8477,
+      "prior_variance": 0.644748,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 8.4541,
+      "prior_variance": 0.475455,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 10.3085,
+      "prior_variance": 0.586995,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 3.013,
+      "prior_variance": 0.402281,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 2.2218,
+      "prior_variance": 0.411466,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -2.2998,
+      "prior_variance": 0.714017,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.5764,
+      "prior_variance": 0.652964,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -4.1744,
+      "prior_variance": 0.399868,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Greiz",
+      "path": "europe/germany/thuringia/greiz",
+      "prior_score": -4.6314,
+      "prior_variance": 0.594078,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -4.1732,
+      "prior_variance": 0.35113,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -6.3815,
+      "prior_variance": 0.392082,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -8.4008,
+      "prior_variance": 0.575405,
+      "prior_n": 3
+    }
+  ]
+}

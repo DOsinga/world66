@@ -1,0 +1,200 @@
+{
+  "round": 411,
+  "timestamp": "2026-06-13T19:34:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 4.5859,
+      "prior_variance": 9.569489,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 5.5989,
+      "prior_variance": 2.308635,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.2181,
+      "prior_variance": 1.813348,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 4.1978,
+      "prior_variance": 1.568684,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 6.1381,
+      "prior_variance": 1.825061,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.5996,
+      "prior_variance": 1.437025,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Erfoud",
+      "path": "africa/morocco/erfoud",
+      "prior_score": 3.6223,
+      "prior_variance": 1.608932,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": -0.96,
+      "prior_variance": 1.964814,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Shillong",
+      "path": "asia/india/meghalaya/shillong",
+      "prior_score": 0.6609,
+      "prior_variance": 1.767657,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 3.1165,
+      "prior_variance": 1.35992,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 4.2675,
+      "prior_variance": 1.699215,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": 0.5656,
+      "prior_variance": 1.501324,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 1.6279,
+      "prior_variance": 2.287744,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 3.0235,
+      "prior_variance": 2.696328,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -0.6944,
+      "prior_variance": 1.391683,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -0.8919,
+      "prior_variance": 1.706156,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": 5.0824,
+      "prior_variance": 1.975135,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": 3.0031,
+      "prior_variance": 1.435332,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.7871,
+      "prior_variance": 1.464353,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -3.4326,
+      "prior_variance": 2.080818,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": 2.7346,
+      "prior_variance": 1.56566,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": 2.0729,
+      "prior_variance": 1.491944,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -2.1711,
+      "prior_variance": 1.475396,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Todmorden",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden",
+      "prior_score": -4.5198,
+      "prior_variance": 2.605127,
+      "prior_n": 1
+    }
+  ]
+}

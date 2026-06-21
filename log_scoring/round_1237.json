@@ -1,0 +1,200 @@
+{
+  "round": 1237,
+  "timestamp": "2026-06-13T20:18:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 10.2513,
+      "prior_variance": 0.354097,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 4.4151,
+      "prior_variance": 0.358814,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cadiz",
+      "path": "europe/spain/andalucia/cadiz",
+      "prior_score": 6.6378,
+      "prior_variance": 0.435523,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.6474,
+      "prior_variance": 0.43618,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bad Gastein",
+      "path": "europe/austria/bad_gastein",
+      "prior_score": 5.1526,
+      "prior_variance": 0.317855,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 5.4618,
+      "prior_variance": 0.4016,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Agaete",
+      "path": "europe/spain/canaryislands/grancanaria/agaete",
+      "prior_score": 3.1963,
+      "prior_variance": 0.357419,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 3.0254,
+      "prior_variance": 0.416056,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 2.5812,
+      "prior_variance": 0.323637,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -1.0246,
+      "prior_variance": 0.452204,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Mecca",
+      "path": "asia/saudiarabia/mecca",
+      "prior_score": -2.8134,
+      "prior_variance": 0.62936,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -1.7978,
+      "prior_variance": 0.314262,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -5.0146,
+      "prior_variance": 0.584257,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -6.8472,
+      "prior_variance": 0.507861,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -4.7784,
+      "prior_variance": 1.106555,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -6.7433,
+      "prior_variance": 0.346302,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -7.4977,
+      "prior_variance": 0.547309,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -7.7035,
+      "prior_variance": 0.571814,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -3.2906,
+      "prior_variance": 0.417285,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -7.5449,
+      "prior_variance": 0.584647,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -8.9837,
+      "prior_variance": 0.441198,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -8.3662,
+      "prior_variance": 0.440562,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -7.9749,
+      "prior_variance": 0.582097,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -9.1279,
+      "prior_variance": 0.792321,
+      "prior_n": 3
+    }
+  ]
+}

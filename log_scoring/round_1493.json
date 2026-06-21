@@ -1,0 +1,200 @@
+{
+  "round": 1493,
+  "timestamp": "2026-06-13T20:34:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 16.433,
+      "prior_variance": 1.928303,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 7.1731,
+      "prior_variance": 0.356855,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 7.9349,
+      "prior_variance": 0.49126,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_score": 5.2227,
+      "prior_variance": 0.371602,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 6.4648,
+      "prior_variance": 0.348322,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 7.7134,
+      "prior_variance": 0.455484,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.4262,
+      "prior_variance": 0.283862,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Shiretoko",
+      "path": "asia/japan/hokkaido/shiretoko",
+      "prior_score": 6.6826,
+      "prior_variance": 0.389195,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 8.111,
+      "prior_variance": 0.359658,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 6.3979,
+      "prior_variance": 0.391894,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 0.0935,
+      "prior_variance": 0.294627,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.9664,
+      "prior_variance": 0.249504,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.3788,
+      "prior_variance": 0.329138,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": 0.2744,
+      "prior_variance": 0.272156,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -1.1987,
+      "prior_variance": 0.34283,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -1.9387,
+      "prior_variance": 0.265169,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -4.5978,
+      "prior_variance": 0.28057,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -3.3641,
+      "prior_variance": 0.314264,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.6741,
+      "prior_variance": 0.313994,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -4.2664,
+      "prior_variance": 0.401919,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -5.6769,
+      "prior_variance": 0.364375,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Xuzhou",
+      "path": "asia/china/jiangsu_province/xuzhou",
+      "prior_score": -3.3736,
+      "prior_variance": 0.247905,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -5.1927,
+      "prior_variance": 0.305869,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -8.7119,
+      "prior_variance": 0.466477,
+      "prior_n": 4
+    }
+  ]
+}

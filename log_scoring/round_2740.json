@@ -1,0 +1,200 @@
+{
+  "round": 2740,
+  "timestamp": "2026-06-13T22:03:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 5.4563,
+      "prior_variance": 0.160245,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 4.6637,
+      "prior_variance": 0.159973,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 3.9597,
+      "prior_variance": 0.152751,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 3.6802,
+      "prior_variance": 0.205319,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.5365,
+      "prior_variance": 0.165834,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.7344,
+      "prior_variance": 0.192831,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 2.5479,
+      "prior_variance": 0.19489,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.5626,
+      "prior_variance": 0.137206,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 3.0202,
+      "prior_variance": 0.164232,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 4.7311,
+      "prior_variance": 0.174694,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 4.2704,
+      "prior_variance": 0.274143,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 1.1013,
+      "prior_variance": 0.201911,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 2.3145,
+      "prior_variance": 0.172513,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 2.4672,
+      "prior_variance": 0.226377,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.7218,
+      "prior_variance": 0.150414,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.1579,
+      "prior_variance": 0.144193,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.2093,
+      "prior_variance": 0.159728,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.8652,
+      "prior_variance": 0.157246,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.3237,
+      "prior_variance": 0.149306,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.8946,
+      "prior_variance": 0.156842,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -2.8582,
+      "prior_variance": 0.161809,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -3.8922,
+      "prior_variance": 0.177101,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Grand popo",
+      "path": "africa/benin/grandpopo",
+      "prior_score": -3.443,
+      "prior_variance": 0.17878,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -5.2481,
+      "prior_variance": 0.199483,
+      "prior_n": 8
+    }
+  ]
+}

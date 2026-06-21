@@ -1,0 +1,200 @@
+{
+  "round": 2502,
+  "timestamp": "2026-06-13T21:47:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Osaka",
+      "path": "asia/japan/honshu/osaka",
+      "prior_score": 12.958,
+      "prior_variance": 0.690027,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 6.9663,
+      "prior_variance": 0.265561,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 6.0146,
+      "prior_variance": 0.199179,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 4.9557,
+      "prior_variance": 0.212403,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 6.3885,
+      "prior_variance": 0.226701,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 6.0972,
+      "prior_variance": 0.192026,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.6756,
+      "prior_variance": 0.183364,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.9756,
+      "prior_variance": 0.219635,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 5.5435,
+      "prior_variance": 0.223957,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 6.0225,
+      "prior_variance": 0.185841,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.1658,
+      "prior_variance": 0.238388,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": 0.5826,
+      "prior_variance": 0.356672,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.3772,
+      "prior_variance": 0.167529,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 6.1205,
+      "prior_variance": 0.178237,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.1218,
+      "prior_variance": 0.194571,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 3.0643,
+      "prior_variance": 0.167273,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.5381,
+      "prior_variance": 0.166906,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 4.9927,
+      "prior_variance": 0.186528,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 4.815,
+      "prior_variance": 0.199348,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.373,
+      "prior_variance": 0.195222,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Girne (Kyrenia)",
+      "path": "asia/cyprus/northerncyprus/girnekyrene",
+      "prior_score": 3.9048,
+      "prior_variance": 0.170268,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 6.4562,
+      "prior_variance": 0.224085,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -0.1885,
+      "prior_variance": 0.144066,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -11.6798,
+      "prior_variance": 0.426352,
+      "prior_n": 7
+    }
+  ]
+}

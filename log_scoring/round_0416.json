@@ -1,0 +1,200 @@
+{
+  "round": 416,
+  "timestamp": "2026-06-13T19:34:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 9.3566,
+      "prior_variance": 10.5351,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 12.1975,
+      "prior_variance": 4.52363,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Olympic National Park",
+      "path": "northamerica/unitedstates/washington/olympicnationalpark",
+      "prior_score": 13.2914,
+      "prior_variance": 3.441945,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 9.926,
+      "prior_variance": 1.935916,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 11.8647,
+      "prior_variance": 3.55238,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 10.2986,
+      "prior_variance": 3.255929,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 13.2294,
+      "prior_variance": 8.007761,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 13.7003,
+      "prior_variance": 3.304405,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 5.3678,
+      "prior_variance": 2.514983,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ranthambore National Park",
+      "path": "asia/india/rajasthan/ranthambore",
+      "prior_score": 5.7991,
+      "prior_variance": 2.877557,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 5.8327,
+      "prior_variance": 3.678364,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 6.946,
+      "prior_variance": 1.656616,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 7.7631,
+      "prior_variance": 3.782248,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 10.9533,
+      "prior_variance": 3.705365,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.6731,
+      "prior_variance": 1.861955,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 8.712,
+      "prior_variance": 2.057159,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 11.5119,
+      "prior_variance": 2.575683,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 9.2248,
+      "prior_variance": 5.657469,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Vianden",
+      "path": "europe/luxembourg/vianden",
+      "prior_score": 8.8193,
+      "prior_variance": 2.237501,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 10.98,
+      "prior_variance": 9.281938,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 4.7019,
+      "prior_variance": 1.822146,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 6.2973,
+      "prior_variance": 1.813579,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 5.7879,
+      "prior_variance": 1.878798,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 11.9992,
+      "prior_variance": 3.533214,
+      "prior_n": 1
+    }
+  ]
+}

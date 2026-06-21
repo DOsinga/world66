@@ -1,0 +1,200 @@
+{
+  "round": 2128,
+  "timestamp": "2026-06-13T21:20:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 9.2537,
+      "prior_variance": 0.294851,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 9.7066,
+      "prior_variance": 0.569678,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Volterra",
+      "path": "europe/italy/tuscany/volterra",
+      "prior_score": 6.226,
+      "prior_variance": 0.26598,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.7216,
+      "prior_variance": 0.206076,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 4.174,
+      "prior_variance": 0.270767,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": -0.1405,
+      "prior_variance": 0.203545,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.7234,
+      "prior_variance": 0.220833,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 5.5174,
+      "prior_variance": 0.202164,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 2.2379,
+      "prior_variance": 0.187393,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 2.5727,
+      "prior_variance": 0.285942,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.121,
+      "prior_variance": 0.170564,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.7786,
+      "prior_variance": 0.18452,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 0.6977,
+      "prior_variance": 0.234597,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 0.6873,
+      "prior_variance": 0.193801,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.5416,
+      "prior_variance": 0.185518,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.7699,
+      "prior_variance": 0.205768,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.4472,
+      "prior_variance": 0.227996,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.7901,
+      "prior_variance": 0.218862,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -1.0333,
+      "prior_variance": 0.175317,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": 0.325,
+      "prior_variance": 0.262089,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -3.2338,
+      "prior_variance": 0.214668,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -0.6624,
+      "prior_variance": 0.241502,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -6.1697,
+      "prior_variance": 0.255435,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -5.4138,
+      "prior_variance": 0.320629,
+      "prior_n": 6
+    }
+  ]
+}

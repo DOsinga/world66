@@ -1,0 +1,200 @@
+{
+  "round": 871,
+  "timestamp": "2026-06-13T19:58:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 4.0475,
+      "prior_variance": 0.675972,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.9115,
+      "prior_variance": 0.768532,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 4.0371,
+      "prior_variance": 0.676296,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Hemsedal",
+      "path": "europe/norway/hemsedal",
+      "prior_score": 3.6813,
+      "prior_variance": 0.864863,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_island",
+      "prior_score": 5.2613,
+      "prior_variance": 0.71814,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 3.0849,
+      "prior_variance": 0.697571,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": 4.5954,
+      "prior_variance": 0.665634,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 4.303,
+      "prior_variance": 0.695101,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 3.3291,
+      "prior_variance": 0.47062,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 2.5146,
+      "prior_variance": 0.523404,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 3.2454,
+      "prior_variance": 0.627037,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Borca di Cadore",
+      "path": "europe/italy/veneto/borca_di_cadore",
+      "prior_score": 2.7556,
+      "prior_variance": 0.548174,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 2.9595,
+      "prior_variance": 0.462045,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.8976,
+      "prior_variance": 0.583854,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 4.8711,
+      "prior_variance": 0.569754,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 3.5993,
+      "prior_variance": 0.549007,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 4.527,
+      "prior_variance": 0.451499,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 3.177,
+      "prior_variance": 0.502276,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 4.0962,
+      "prior_variance": 0.755696,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 3.4384,
+      "prior_variance": 0.734084,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 2.5844,
+      "prior_variance": 0.664376,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 3.5164,
+      "prior_variance": 0.663788,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.8863,
+      "prior_variance": 0.757683,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 2.7397,
+      "prior_variance": 0.698465,
+      "prior_n": 2
+    }
+  ]
+}

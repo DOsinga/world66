@@ -1,0 +1,200 @@
+{
+  "round": 2240,
+  "timestamp": "2026-06-13T21:28:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.3798,
+      "prior_variance": 0.162641,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.2073,
+      "prior_variance": 0.206742,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": -0.2214,
+      "prior_variance": 0.203666,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -2.714,
+      "prior_variance": 0.255065,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -1.161,
+      "prior_variance": 0.17757,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": 0.2468,
+      "prior_variance": 0.175706,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -1.1049,
+      "prior_variance": 0.177029,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -2.5105,
+      "prior_variance": 0.192486,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -1.6731,
+      "prior_variance": 0.203622,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.5846,
+      "prior_variance": 0.231376,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.0728,
+      "prior_variance": 0.159126,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -2.7164,
+      "prior_variance": 0.21502,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.6091,
+      "prior_variance": 0.220075,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -5.2151,
+      "prior_variance": 0.368426,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -5.4793,
+      "prior_variance": 0.222819,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.8941,
+      "prior_variance": 0.204885,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -6.2046,
+      "prior_variance": 0.212588,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -7.2053,
+      "prior_variance": 0.288188,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -6.3108,
+      "prior_variance": 0.199197,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -7.9532,
+      "prior_variance": 0.276698,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -7.7916,
+      "prior_variance": 0.292167,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -7.5628,
+      "prior_variance": 0.345239,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.4179,
+      "prior_variance": 0.312049,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.2782,
+      "prior_variance": 0.551599,
+      "prior_n": 7
+    }
+  ]
+}

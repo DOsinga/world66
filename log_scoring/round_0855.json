@@ -1,0 +1,200 @@
+{
+  "round": 855,
+  "timestamp": "2026-06-13T19:57:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": 0.5811,
+      "prior_variance": 0.602986,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 2.0326,
+      "prior_variance": 0.647378,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.2627,
+      "prior_variance": 0.736576,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.3599,
+      "prior_variance": 0.538014,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": -0.4295,
+      "prior_variance": 0.845562,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.228,
+      "prior_variance": 0.466067,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.5207,
+      "prior_variance": 0.521553,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": -0.2272,
+      "prior_variance": 0.412938,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.7673,
+      "prior_variance": 0.436973,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -1.3023,
+      "prior_variance": 0.612478,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kampong Cham",
+      "path": "asia/cambodia/kampongcham",
+      "prior_score": -1.0729,
+      "prior_variance": 0.620432,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.0159,
+      "prior_variance": 0.503043,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -0.5198,
+      "prior_variance": 1.043174,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 0.5819,
+      "prior_variance": 0.659895,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -1.6544,
+      "prior_variance": 1.307388,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": 0.3039,
+      "prior_variance": 0.600858,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.3576,
+      "prior_variance": 0.723407,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -5.9164,
+      "prior_variance": 0.783468,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.4706,
+      "prior_variance": 0.675273,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -2.1235,
+      "prior_variance": 0.638829,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.7549,
+      "prior_variance": 0.610623,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -5.9351,
+      "prior_variance": 0.621233,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": 0.1686,
+      "prior_variance": 0.684557,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Anjara",
+      "path": "asia/jordan/anjara",
+      "prior_score": -1.4616,
+      "prior_variance": 0.553972,
+      "prior_n": 3
+    }
+  ]
+}

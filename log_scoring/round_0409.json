@@ -1,0 +1,200 @@
+{
+  "round": 409,
+  "timestamp": "2026-06-13T19:33:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -7.5908,
+      "prior_variance": 2.37475,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -7.1458,
+      "prior_variance": 1.904798,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -8.9361,
+      "prior_variance": 3.905409,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -7.6865,
+      "prior_variance": 2.203166,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/kentucky/franklin",
+      "prior_score": -12.2824,
+      "prior_variance": 3.177561,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -8.9006,
+      "prior_variance": 6.43779,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -5.1552,
+      "prior_variance": 2.156011,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -8.9836,
+      "prior_variance": 1.796241,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -9.0829,
+      "prior_variance": 3.755076,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -10.0571,
+      "prior_variance": 2.46161,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -9.685,
+      "prior_variance": 2.638715,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -5.3618,
+      "prior_variance": 1.738158,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -10.5123,
+      "prior_variance": 1.501085,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -6.4236,
+      "prior_variance": 2.077315,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -4.9028,
+      "prior_variance": 2.660257,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -13.4557,
+      "prior_variance": 7.549192,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -13.3719,
+      "prior_variance": 7.583368,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -14.1549,
+      "prior_variance": 7.500594,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -16.5456,
+      "prior_variance": 6.299125,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -12.4409,
+      "prior_variance": 8.074353,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -11.5467,
+      "prior_variance": 6.060993,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jefren",
+      "path": "africa/libya/jefren",
+      "prior_score": -14.2851,
+      "prior_variance": 3.174508,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -10.8734,
+      "prior_variance": 9.065746,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -13.5644,
+      "prior_variance": 7.495874,
+      "prior_n": 1
+    }
+  ]
+}

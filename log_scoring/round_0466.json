@@ -1,0 +1,200 @@
+{
+  "round": 466,
+  "timestamp": "2026-06-13T19:36:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 9.9926,
+      "prior_variance": 10.000658,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 14.547,
+      "prior_variance": 7.44537,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 11.9408,
+      "prior_variance": 2.346104,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 11.6404,
+      "prior_variance": 8.853217,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 13.1867,
+      "prior_variance": 3.366563,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Siracusa",
+      "path": "europe/italy/sicily/siracusa",
+      "prior_score": 10.2228,
+      "prior_variance": 1.941352,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 14.654,
+      "prior_variance": 4.062866,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 8.4929,
+      "prior_variance": 2.902603,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 10.1949,
+      "prior_variance": 2.697517,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 7.8639,
+      "prior_variance": 1.591912,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 11.9524,
+      "prior_variance": 3.539417,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 10.1049,
+      "prior_variance": 1.965239,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 10.3599,
+      "prior_variance": 2.681547,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 11.7243,
+      "prior_variance": 5.436283,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 7.9296,
+      "prior_variance": 1.918882,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 9.4485,
+      "prior_variance": 2.879329,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 9.1383,
+      "prior_variance": 1.861255,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 9.8956,
+      "prior_variance": 7.989491,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 7.1156,
+      "prior_variance": 1.580867,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 9.3467,
+      "prior_variance": 2.261405,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 8.7984,
+      "prior_variance": 3.178628,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 7.2024,
+      "prior_variance": 1.696248,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 9.034,
+      "prior_variance": 2.672057,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Vilcabamba",
+      "path": "southamerica/ecuador/vilcabamba",
+      "prior_score": 6.1138,
+      "prior_variance": 1.975523,
+      "prior_n": 1
+    }
+  ]
+}

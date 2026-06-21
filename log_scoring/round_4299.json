@@ -1,0 +1,200 @@
+{
+  "round": 4299,
+  "timestamp": "2026-06-14T00:01:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 4.3823,
+      "prior_variance": 0.11518,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -3.6083,
+      "prior_variance": 0.166379,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": 0.3552,
+      "prior_variance": 0.100522,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -2.8437,
+      "prior_variance": 0.141169,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -1.086,
+      "prior_variance": 0.089718,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -4.2472,
+      "prior_variance": 0.126104,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -0.8171,
+      "prior_variance": 0.088851,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -2.8945,
+      "prior_variance": 0.100274,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -2.9289,
+      "prior_variance": 0.107873,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/newyorkstate/carmel",
+      "prior_score": -4.2272,
+      "prior_variance": 0.106113,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -3.0902,
+      "prior_variance": 0.107174,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -3.6501,
+      "prior_variance": 0.112446,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.2429,
+      "prior_variance": 0.105013,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.5928,
+      "prior_variance": 0.090906,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -1.2732,
+      "prior_variance": 0.096548,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -1.9046,
+      "prior_variance": 0.107588,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.5699,
+      "prior_variance": 0.096255,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -5.1285,
+      "prior_variance": 0.104316,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -1.8574,
+      "prior_variance": 0.09594,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -5.083,
+      "prior_variance": 0.132252,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -3.3156,
+      "prior_variance": 0.120484,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -8.2717,
+      "prior_variance": 0.250154,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.5293,
+      "prior_variance": 0.401926,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -8.4027,
+      "prior_variance": 0.261265,
+      "prior_n": 13
+    }
+  ]
+}

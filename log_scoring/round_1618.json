@@ -1,0 +1,200 @@
+{
+  "round": 1618,
+  "timestamp": "2026-06-13T20:41:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 10.769,
+      "prior_variance": 0.68764,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 7.8833,
+      "prior_variance": 0.322255,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.3581,
+      "prior_variance": 0.273801,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 0.2391,
+      "prior_variance": 0.28802,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.1239,
+      "prior_variance": 0.303938,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 1.7527,
+      "prior_variance": 0.291986,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 3.4776,
+      "prior_variance": 0.261578,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.1474,
+      "prior_variance": 0.303878,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 2.5634,
+      "prior_variance": 0.285165,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Newburyport",
+      "path": "northamerica/unitedstates/massachusetts/newburyport",
+      "prior_score": 0.9596,
+      "prior_variance": 0.253449,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.2614,
+      "prior_variance": 0.29881,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -0.5681,
+      "prior_variance": 0.230347,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 1.9722,
+      "prior_variance": 0.377239,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.2897,
+      "prior_variance": 0.276215,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 2.3722,
+      "prior_variance": 0.235478,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.8484,
+      "prior_variance": 0.257629,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": -0.3043,
+      "prior_variance": 0.261051,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.2514,
+      "prior_variance": 0.232016,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.4661,
+      "prior_variance": 0.310443,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -6.7297,
+      "prior_variance": 0.30772,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -4.8502,
+      "prior_variance": 0.296077,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.8101,
+      "prior_variance": 0.250827,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -6.0891,
+      "prior_variance": 0.258052,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -6.5927,
+      "prior_variance": 0.251109,
+      "prior_n": 5
+    }
+  ]
+}

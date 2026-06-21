@@ -1,0 +1,200 @@
+{
+  "round": 2252,
+  "timestamp": "2026-06-13T21:29:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 7.5378,
+      "prior_variance": 0.308091,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.7827,
+      "prior_variance": 0.269614,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.8818,
+      "prior_variance": 0.283115,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 7.9178,
+      "prior_variance": 0.337996,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 7.4146,
+      "prior_variance": 0.286347,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bay of Islands",
+      "path": "australiaandpacific/newzealand/north_island/northland/bayofislands",
+      "prior_score": 5.9669,
+      "prior_variance": 0.213736,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.7187,
+      "prior_variance": 0.340652,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.2514,
+      "prior_variance": 0.216178,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 7.2887,
+      "prior_variance": 0.28936,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 5.7884,
+      "prior_variance": 0.211476,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 4.7782,
+      "prior_variance": 0.245674,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.8087,
+      "prior_variance": 0.234585,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 2.4497,
+      "prior_variance": 0.241817,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 5.6869,
+      "prior_variance": 0.227029,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 5.117,
+      "prior_variance": 0.211036,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 3.8276,
+      "prior_variance": 0.264893,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.4204,
+      "prior_variance": 0.193173,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 2.1365,
+      "prior_variance": 0.205349,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 1.1987,
+      "prior_variance": 0.167381,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi",
+      "prior_score": 0.5582,
+      "prior_variance": 0.178641,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Thakhek",
+      "path": "asia/laos/thakhek",
+      "prior_score": 0.6832,
+      "prior_variance": 0.253568,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.9194,
+      "prior_variance": 0.218474,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.9764,
+      "prior_variance": 0.210865,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -5.4009,
+      "prior_variance": 0.193445,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 370,
+  "timestamp": "2026-06-13T19:32:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 10.298,
+      "prior_variance": 3.347171,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 11.8518,
+      "prior_variance": 3.555756,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 3.3326,
+      "prior_variance": 1.650435,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 2.9417,
+      "prior_variance": 2.112651,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 6.1991,
+      "prior_variance": 1.662427,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.9965,
+      "prior_variance": 2.12771,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 2.9357,
+      "prior_variance": 1.516903,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 3.734,
+      "prior_variance": 1.727671,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Maun",
+      "path": "africa/botswana/maun",
+      "prior_score": 6.9143,
+      "prior_variance": 3.406586,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 0.9378,
+      "prior_variance": 1.516655,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 1.4406,
+      "prior_variance": 1.776886,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 2.3196,
+      "prior_variance": 1.674868,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 0.7549,
+      "prior_variance": 1.422098,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 2.2141,
+      "prior_variance": 1.401359,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.3968,
+      "prior_variance": 1.740766,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.8857,
+      "prior_variance": 1.968477,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.5914,
+      "prior_variance": 1.478453,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 1.3905,
+      "prior_variance": 1.424932,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 6.624,
+      "prior_variance": 1.892743,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.9218,
+      "prior_variance": 2.102359,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -1.5283,
+      "prior_variance": 1.258397,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.0879,
+      "prior_variance": 1.974678,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -1.8592,
+      "prior_variance": 1.919804,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -0.7552,
+      "prior_variance": 1.571356,
+      "prior_n": 1
+    }
+  ]
+}

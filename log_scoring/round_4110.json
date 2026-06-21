@@ -1,0 +1,200 @@
+{
+  "round": 4110,
+  "timestamp": "2026-06-13T23:44:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 12.4598,
+      "prior_variance": 0.330941,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.2954,
+      "prior_variance": 0.245679,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 7.3097,
+      "prior_variance": 0.131318,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 3.0448,
+      "prior_variance": 0.136261,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 6.4982,
+      "prior_variance": 0.183632,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.3307,
+      "prior_variance": 0.107271,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Volcanoes National Park",
+      "path": "africa/rwanda/volcanoesnationalpark",
+      "prior_score": 6.4973,
+      "prior_variance": 0.149822,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 2.1963,
+      "prior_variance": 0.094398,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.7091,
+      "prior_variance": 0.113181,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.1595,
+      "prior_variance": 0.095933,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 1.0362,
+      "prior_variance": 0.1119,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.0992,
+      "prior_variance": 0.103065,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.7966,
+      "prior_variance": 0.107982,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.0665,
+      "prior_variance": 0.105128,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.5009,
+      "prior_variance": 0.084718,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.3349,
+      "prior_variance": 0.10578,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.2583,
+      "prior_variance": 0.095419,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.2314,
+      "prior_variance": 0.124735,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.5175,
+      "prior_variance": 0.119118,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -2.5954,
+      "prior_variance": 0.143779,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.6859,
+      "prior_variance": 0.090219,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.5571,
+      "prior_variance": 0.10331,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.4466,
+      "prior_variance": 0.119222,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Kitale",
+      "path": "africa/kenya/westernkenya/kitale",
+      "prior_score": -4.0782,
+      "prior_variance": 0.108906,
+      "prior_n": 14
+    }
+  ]
+}

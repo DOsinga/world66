@@ -1,0 +1,200 @@
+{
+  "round": 1762,
+  "timestamp": "2026-06-13T20:50:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 15.2366,
+      "prior_variance": 0.868865,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 8.5073,
+      "prior_variance": 0.394094,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 8.4808,
+      "prior_variance": 0.37889,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 6.3124,
+      "prior_variance": 0.302757,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 3.861,
+      "prior_variance": 0.293549,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 2.4009,
+      "prior_variance": 0.374574,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 2.8104,
+      "prior_variance": 0.258798,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 3.2114,
+      "prior_variance": 0.293961,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -6.3735,
+      "prior_variance": 0.38115,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.5777,
+      "prior_variance": 0.222637,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": 0.1689,
+      "prior_variance": 0.265084,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -3.1907,
+      "prior_variance": 0.24307,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Guerrero Negro",
+      "path": "northamerica/mexico/guerreronegro",
+      "prior_score": -4.0562,
+      "prior_variance": 0.318107,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -3.6042,
+      "prior_variance": 0.231027,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -4.1224,
+      "prior_variance": 0.268471,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.6396,
+      "prior_variance": 0.280001,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -4.1549,
+      "prior_variance": 0.272819,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -5.228,
+      "prior_variance": 0.306123,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -3.4371,
+      "prior_variance": 0.254497,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -3.9218,
+      "prior_variance": 0.326414,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.9144,
+      "prior_variance": 0.243433,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.9804,
+      "prior_variance": 0.258887,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.4611,
+      "prior_variance": 0.373821,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -7.5481,
+      "prior_variance": 0.325515,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 325,
+  "timestamp": "2026-06-13T19:29:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 10.1964,
+      "prior_variance": 3.850768,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Rapperswil",
+      "path": "europe/switzerland/rapperswil",
+      "prior_score": 2.9977,
+      "prior_variance": 2.009518,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.516,
+      "prior_variance": 1.588051,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.3842,
+      "prior_variance": 1.747558,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 1.9815,
+      "prior_variance": 1.704531,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 7.3527,
+      "prior_variance": 3.079572,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Suwon",
+      "path": "asia/southkorea/suwon",
+      "prior_score": 1.5622,
+      "prior_variance": 1.610543,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": 0.0211,
+      "prior_variance": 1.799618,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 2.8455,
+      "prior_variance": 1.803615,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.4308,
+      "prior_variance": 1.669403,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -4.5819,
+      "prior_variance": 1.725574,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": 0.8192,
+      "prior_variance": 1.683005,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.4608,
+      "prior_variance": 1.801611,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Zhongshan",
+      "path": "asia/china/guangdong/zhongshan",
+      "prior_score": -6.4971,
+      "prior_variance": 2.025276,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -2.5046,
+      "prior_variance": 1.869927,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Putian",
+      "path": "asia/china/fujianprovince/putian",
+      "prior_score": -7.1601,
+      "prior_variance": 1.577751,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": 0.6432,
+      "prior_variance": 2.152481,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -2.3125,
+      "prior_variance": 1.700038,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -7.4913,
+      "prior_variance": 2.252092,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -4.877,
+      "prior_variance": 1.51817,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -9.208,
+      "prior_variance": 3.836857,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -9.5801,
+      "prior_variance": 2.524091,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -7.4532,
+      "prior_variance": 1.724956,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -2.2951,
+      "prior_variance": 1.587516,
+      "prior_n": 1
+    }
+  ]
+}

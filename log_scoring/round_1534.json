@@ -1,0 +1,200 @@
+{
+  "round": 1534,
+  "timestamp": "2026-06-13T20:36:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 14.0668,
+      "prior_variance": 0.551114,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 8.1149,
+      "prior_variance": 0.382662,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 7.3142,
+      "prior_variance": 0.383442,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 9.0518,
+      "prior_variance": 0.45226,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.5406,
+      "prior_variance": 0.337655,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 6.2988,
+      "prior_variance": 0.325762,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 6.2067,
+      "prior_variance": 0.392168,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 3.1576,
+      "prior_variance": 0.25987,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 3.4183,
+      "prior_variance": 0.347049,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 2.6839,
+      "prior_variance": 0.258726,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 8.785,
+      "prior_variance": 0.846189,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.3982,
+      "prior_variance": 0.251533,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.6391,
+      "prior_variance": 0.411283,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.7698,
+      "prior_variance": 0.249308,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -1.4149,
+      "prior_variance": 0.284217,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -2.0969,
+      "prior_variance": 0.337311,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 1.8409,
+      "prior_variance": 0.308864,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -2.6886,
+      "prior_variance": 0.463679,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.5661,
+      "prior_variance": 0.244966,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -1.7879,
+      "prior_variance": 0.25349,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -4.263,
+      "prior_variance": 0.336766,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.9446,
+      "prior_variance": 0.342291,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -6.3564,
+      "prior_variance": 0.340904,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -19.6512,
+      "prior_variance": 5.32568,
+      "prior_n": 4
+    }
+  ]
+}

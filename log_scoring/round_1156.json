@@ -1,0 +1,200 @@
+{
+  "round": 1156,
+  "timestamp": "2026-06-13T20:14:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 3.2981,
+      "prior_variance": 0.423343,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 1.917,
+      "prior_variance": 0.430538,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 7.0228,
+      "prior_variance": 0.455111,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 3.8019,
+      "prior_variance": 0.399947,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 0.5522,
+      "prior_variance": 0.533141,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 1.1595,
+      "prior_variance": 0.411742,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "T\u00f8nsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 1.2204,
+      "prior_variance": 0.375631,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.0636,
+      "prior_variance": 0.367463,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": 0.8657,
+      "prior_variance": 0.400307,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.5563,
+      "prior_variance": 0.334539,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 0.7868,
+      "prior_variance": 0.448359,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 2.0663,
+      "prior_variance": 0.590485,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 1.5479,
+      "prior_variance": 0.484599,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -1.2512,
+      "prior_variance": 0.36269,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.4564,
+      "prior_variance": 0.41115,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 2.2725,
+      "prior_variance": 0.463341,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.6673,
+      "prior_variance": 0.531592,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 1.6099,
+      "prior_variance": 0.581043,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 1.1574,
+      "prior_variance": 0.333525,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -1.3184,
+      "prior_variance": 0.896025,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -3.3615,
+      "prior_variance": 0.701919,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tehran",
+      "path": "asia/iran/tehran",
+      "prior_score": 0.4365,
+      "prior_variance": 0.54064,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -5.8845,
+      "prior_variance": 0.575462,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Delvina",
+      "path": "europe/albania/delvina",
+      "prior_score": -5.7392,
+      "prior_variance": 0.474106,
+      "prior_n": 3
+    }
+  ]
+}

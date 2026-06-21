@@ -1,0 +1,200 @@
+{
+  "round": 1364,
+  "timestamp": "2026-06-13T20:26:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 15.5001,
+      "prior_variance": 0.86874,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Vik",
+      "path": "europe/iceland/vik",
+      "prior_score": 7.3613,
+      "prior_variance": 0.480634,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 4.1542,
+      "prior_variance": 0.432113,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 3.0109,
+      "prior_variance": 0.640958,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.6207,
+      "prior_variance": 0.546367,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 4.6554,
+      "prior_variance": 0.355498,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 5.3894,
+      "prior_variance": 0.335152,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": -1.0845,
+      "prior_variance": 0.327988,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 0.8794,
+      "prior_variance": 0.402657,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.162,
+      "prior_variance": 0.336765,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -0.5811,
+      "prior_variance": 0.38376,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -1.4106,
+      "prior_variance": 0.309802,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 3.8237,
+      "prior_variance": 0.388802,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.3903,
+      "prior_variance": 0.337365,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.2868,
+      "prior_variance": 0.346836,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -1.6917,
+      "prior_variance": 0.449733,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -3.3476,
+      "prior_variance": 0.30513,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -4.1039,
+      "prior_variance": 0.338883,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Juchipila",
+      "path": "northamerica/mexico/juchipila",
+      "prior_score": -3.4141,
+      "prior_variance": 0.274579,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -3.2664,
+      "prior_variance": 0.301339,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.2022,
+      "prior_variance": 0.312567,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -7.0816,
+      "prior_variance": 0.400137,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -1.9948,
+      "prior_variance": 0.275322,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -12.0882,
+      "prior_variance": 0.597014,
+      "prior_n": 4
+    }
+  ]
+}

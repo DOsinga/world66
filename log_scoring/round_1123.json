@@ -1,0 +1,200 @@
+{
+  "round": 1123,
+  "timestamp": "2026-06-13T20:12:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cosseria",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cosseria",
+      "prior_score": -6.9331,
+      "prior_variance": 0.452069,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": 0.4977,
+      "prior_variance": 0.577704,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -7.6624,
+      "prior_variance": 0.627227,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -9.0796,
+      "prior_variance": 0.570731,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -8.3245,
+      "prior_variance": 0.444276,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -9.2673,
+      "prior_variance": 0.426362,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -8.1381,
+      "prior_variance": 0.466896,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -8.4085,
+      "prior_variance": 0.554207,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -6.5691,
+      "prior_variance": 0.470905,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -9.0688,
+      "prior_variance": 0.483083,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -8.261,
+      "prior_variance": 0.42142,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -8.0486,
+      "prior_variance": 0.543431,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -8.7435,
+      "prior_variance": 0.718895,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -4.7609,
+      "prior_variance": 0.382236,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -9.564,
+      "prior_variance": 0.570693,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -6.2134,
+      "prior_variance": 0.338097,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -7.499,
+      "prior_variance": 0.467717,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kadiri",
+      "path": "asia/india/andhrapradesh/kadiri",
+      "prior_score": -6.988,
+      "prior_variance": 0.368175,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -8.2667,
+      "prior_variance": 0.513478,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -9.5347,
+      "prior_variance": 0.670232,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -9.1642,
+      "prior_variance": 0.536179,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -8.7553,
+      "prior_variance": 0.461694,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -8.8074,
+      "prior_variance": 0.464716,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -8.0335,
+      "prior_variance": 0.544968,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1143,
+  "timestamp": "2026-06-13T20:13:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 3.0201,
+      "prior_variance": 0.503045,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth",
+      "prior_score": 1.581,
+      "prior_variance": 0.511985,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 5.1264,
+      "prior_variance": 0.595842,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 6.3677,
+      "prior_variance": 0.484269,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 1.4548,
+      "prior_variance": 0.327017,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.608,
+      "prior_variance": 0.488764,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_score": -2.1563,
+      "prior_variance": 0.393235,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": -0.5493,
+      "prior_variance": 0.467929,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": -1.5759,
+      "prior_variance": 0.375199,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": 1.1308,
+      "prior_variance": 0.441627,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": 0.4681,
+      "prior_variance": 0.411715,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": 1.0504,
+      "prior_variance": 0.409329,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": -1.0996,
+      "prior_variance": 0.44063,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 1.5293,
+      "prior_variance": 0.41617,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": -2.293,
+      "prior_variance": 0.511366,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 1.2532,
+      "prior_variance": 0.45011,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -4.3314,
+      "prior_variance": 0.37223,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": -1.7295,
+      "prior_variance": 0.329918,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.5708,
+      "prior_variance": 0.40095,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": 0.1735,
+      "prior_variance": 0.53127,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.3698,
+      "prior_variance": 0.404066,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -3.2463,
+      "prior_variance": 0.486737,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -5.5391,
+      "prior_variance": 0.440379,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -7.3234,
+      "prior_variance": 0.699995,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1234,
+  "timestamp": "2026-06-13T20:18:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 10.1033,
+      "prior_variance": 0.534791,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 10.3168,
+      "prior_variance": 0.405801,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 10.7948,
+      "prior_variance": 0.582228,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 9.978,
+      "prior_variance": 0.433127,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 9.7341,
+      "prior_variance": 0.617868,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 5.9236,
+      "prior_variance": 0.605694,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Rabat",
+      "path": "africa/morocco/rabat",
+      "prior_score": 5.2588,
+      "prior_variance": 0.348326,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hersonissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 4.848,
+      "prior_variance": 0.437936,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 4.683,
+      "prior_variance": 0.402511,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 1.9864,
+      "prior_variance": 0.310401,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 3.8424,
+      "prior_variance": 0.444534,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.3149,
+      "prior_variance": 0.300966,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -2.1512,
+      "prior_variance": 0.399717,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": 0.1943,
+      "prior_variance": 0.30903,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": -0.1869,
+      "prior_variance": 0.38448,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -3.7979,
+      "prior_variance": 0.29665,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.7259,
+      "prior_variance": 0.440215,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -4.6981,
+      "prior_variance": 0.42904,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -7.3614,
+      "prior_variance": 0.44151,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -9.2183,
+      "prior_variance": 0.592283,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Runyenjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -7.4649,
+      "prior_variance": 0.355756,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -6.6114,
+      "prior_variance": 0.487927,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -8.8709,
+      "prior_variance": 0.349903,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/england/norfolk/briston",
+      "prior_score": -7.9663,
+      "prior_variance": 0.570409,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1480,
+  "timestamp": "2026-06-13T20:33:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 20.6724,
+      "prior_variance": 1.159751,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Geneva",
+      "path": "europe/switzerland/geneva",
+      "prior_score": 8.7519,
+      "prior_variance": 0.392143,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 11.6431,
+      "prior_variance": 0.634539,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 8.2819,
+      "prior_variance": 1.215461,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Orbetello",
+      "path": "europe/italy/tuscany/orbetello",
+      "prior_score": 4.4368,
+      "prior_variance": 0.350392,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Bagno Vignoni",
+      "path": "europe/italy/tuscany/bagno_vignoni",
+      "prior_score": 4.2662,
+      "prior_variance": 0.308319,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 8.7438,
+      "prior_variance": 0.402708,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 5.9716,
+      "prior_variance": 0.369343,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Playa del Ingles",
+      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
+      "prior_score": 4.8584,
+      "prior_variance": 0.391374,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -1.3887,
+      "prior_variance": 0.574902,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Trujillo",
+      "path": "southamerica/peru/trujillo",
+      "prior_score": 2.7964,
+      "prior_variance": 0.318283,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 4.1592,
+      "prior_variance": 0.364727,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.6102,
+      "prior_variance": 0.322513,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 1.2447,
+      "prior_variance": 0.275035,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Porsgrunn",
+      "path": "europe/norway/porsgrunn",
+      "prior_score": -2.2621,
+      "prior_variance": 0.332234,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Jining",
+      "path": "asia/china/shandong_province/jining",
+      "prior_score": -3.9378,
+      "prior_variance": 0.312415,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -6.0883,
+      "prior_variance": 0.353594,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pajala",
+      "path": "europe/sweden/pajala",
+      "prior_score": -3.9858,
+      "prior_variance": 0.276489,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -3.8143,
+      "prior_variance": 0.344314,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.6324,
+      "prior_variance": 0.306809,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -4.929,
+      "prior_variance": 0.31608,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -6.5812,
+      "prior_variance": 0.351625,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -8.3211,
+      "prior_variance": 0.414703,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -10.9435,
+      "prior_variance": 0.612256,
+      "prior_n": 4
+    }
+  ]
+}

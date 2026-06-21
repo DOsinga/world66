@@ -1,0 +1,200 @@
+{
+  "round": 4771,
+  "timestamp": "2026-06-14T00:40:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pine Cay",
+      "path": "northamerica/turksandcaicosislands/pinecay",
+      "prior_score": 4.0923,
+      "prior_variance": 0.11252,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Salento",
+      "path": "southamerica/colombia/salento",
+      "prior_score": 5.5231,
+      "prior_variance": 0.107873,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 5.4501,
+      "prior_variance": 0.11571,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 2.3578,
+      "prior_variance": 0.090732,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.3867,
+      "prior_variance": 0.089565,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 1.4368,
+      "prior_variance": 0.085641,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 1.0587,
+      "prior_variance": 0.09012,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 1.9792,
+      "prior_variance": 0.084194,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.7681,
+      "prior_variance": 0.080652,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.2306,
+      "prior_variance": 0.088508,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.3128,
+      "prior_variance": 0.088687,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": -0.7336,
+      "prior_variance": 0.094924,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 1.4124,
+      "prior_variance": 0.083285,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.1168,
+      "prior_variance": 0.089089,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_score": -0.5738,
+      "prior_variance": 0.092339,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 0.5265,
+      "prior_variance": 0.08812,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -0.9767,
+      "prior_variance": 0.086083,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.2169,
+      "prior_variance": 0.089343,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.0013,
+      "prior_variance": 0.078589,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.1974,
+      "prior_variance": 0.082984,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.3353,
+      "prior_variance": 0.082821,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -4.4091,
+      "prior_variance": 0.119623,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Elmira",
+      "path": "northamerica/unitedstates/newyorkstate/elmira",
+      "prior_score": -5.0578,
+      "prior_variance": 0.12983,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -6.1217,
+      "prior_variance": 0.105146,
+      "prior_n": 15
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2102,
+  "timestamp": "2026-06-13T21:18:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.8539,
+      "prior_variance": 0.276296,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 6.1898,
+      "prior_variance": 0.221811,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 4.3288,
+      "prior_variance": 0.205564,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": -0.1993,
+      "prior_variance": 0.494532,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 3.0977,
+      "prior_variance": 0.237768,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -6.047,
+      "prior_variance": 0.59953,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_score": -2.3028,
+      "prior_variance": 0.19429,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -2.3904,
+      "prior_variance": 0.276648,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 1.2152,
+      "prior_variance": 0.201665,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 1.6177,
+      "prior_variance": 0.258571,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": -0.5439,
+      "prior_variance": 0.205404,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -1.5966,
+      "prior_variance": 0.224821,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -3.1783,
+      "prior_variance": 0.215551,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.6947,
+      "prior_variance": 0.182024,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.8529,
+      "prior_variance": 0.195855,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -5.7078,
+      "prior_variance": 0.234268,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -5.6652,
+      "prior_variance": 0.245189,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -4.6718,
+      "prior_variance": 0.201455,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.1805,
+      "prior_variance": 0.197555,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_score": -6.2696,
+      "prior_variance": 0.423986,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -5.5265,
+      "prior_variance": 0.350415,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -7.7859,
+      "prior_variance": 0.374844,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -5.883,
+      "prior_variance": 0.208577,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.8027,
+      "prior_variance": 0.588591,
+      "prior_n": 6
+    }
+  ]
+}

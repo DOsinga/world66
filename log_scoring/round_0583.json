@@ -1,0 +1,200 @@
+{
+  "round": 583,
+  "timestamp": "2026-06-13T19:43:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 3.0255,
+      "prior_variance": 1.262679,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 0.4162,
+      "prior_variance": 1.248738,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.8697,
+      "prior_variance": 0.697968,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": 0.9066,
+      "prior_variance": 1.337021,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.8047,
+      "prior_variance": 1.276592,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 1.8692,
+      "prior_variance": 0.766343,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.4942,
+      "prior_variance": 1.81756,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": 0.3523,
+      "prior_variance": 2.768221,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_score": -2.079,
+      "prior_variance": 0.657949,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nida",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_score": 1.0234,
+      "prior_variance": 0.901776,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 2.0618,
+      "prior_variance": 0.930089,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.8951,
+      "prior_variance": 0.717761,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_score": -1.2977,
+      "prior_variance": 0.926782,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": 0.4944,
+      "prior_variance": 0.951323,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.2458,
+      "prior_variance": 0.654177,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -3.4511,
+      "prior_variance": 0.714601,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": 0.0283,
+      "prior_variance": 1.234117,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.4853,
+      "prior_variance": 0.684956,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -2.2442,
+      "prior_variance": 0.889867,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -2.3829,
+      "prior_variance": 0.784208,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -3.7481,
+      "prior_variance": 0.542056,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -2.3526,
+      "prior_variance": 0.720895,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -0.2804,
+      "prior_variance": 0.811767,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Qom",
+      "path": "asia/iran/qom",
+      "prior_score": -5.4375,
+      "prior_variance": 1.163303,
+      "prior_n": 2
+    }
+  ]
+}

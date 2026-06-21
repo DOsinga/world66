@@ -1,0 +1,200 @@
+{
+  "round": 2000,
+  "timestamp": "2026-06-13T21:11:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dubrovnik",
+      "path": "europe/croatia/dubrovnik",
+      "prior_score": 14.0775,
+      "prior_variance": 0.566543,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 5.5843,
+      "prior_variance": 0.341813,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 0.3425,
+      "prior_variance": 0.217778,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.8286,
+      "prior_variance": 0.216997,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.4792,
+      "prior_variance": 0.223279,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.9654,
+      "prior_variance": 0.208959,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.1846,
+      "prior_variance": 0.22451,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": -0.0367,
+      "prior_variance": 0.18718,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Weizhou Island",
+      "path": "asia/china/guangxi/weizhou",
+      "prior_score": -0.8634,
+      "prior_variance": 0.240154,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -2.0299,
+      "prior_variance": 0.209947,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 1.3723,
+      "prior_variance": 0.237066,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.7358,
+      "prior_variance": 0.20648,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Norfolk",
+      "path": "northamerica/unitedstates/virginia/norfolk",
+      "prior_score": -1.1965,
+      "prior_variance": 0.189537,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -4.0049,
+      "prior_variance": 0.246653,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -0.6731,
+      "prior_variance": 0.205404,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Paraguan\u00e1 Peninsula",
+      "path": "southamerica/venezuela/paraguan_peninsu",
+      "prior_score": -1.6491,
+      "prior_variance": 0.258705,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.278,
+      "prior_variance": 0.202912,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -3.927,
+      "prior_variance": 0.19543,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.4049,
+      "prior_variance": 0.252519,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -5.0989,
+      "prior_variance": 0.25631,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ribeir\u00e3o Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -4.3373,
+      "prior_variance": 0.287388,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -2.4457,
+      "prior_variance": 0.201939,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.7414,
+      "prior_variance": 0.23496,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -5.8359,
+      "prior_variance": 0.282622,
+      "prior_n": 7
+    }
+  ]
+}

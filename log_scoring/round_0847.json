@@ -1,0 +1,200 @@
+{
+  "round": 847,
+  "timestamp": "2026-06-13T19:56:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Savona",
+      "path": "europe/italy/liguria/savona",
+      "prior_score": -0.8973,
+      "prior_variance": 0.656119,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -1.1167,
+      "prior_variance": 1.23094,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": -1.5674,
+      "prior_variance": 0.59571,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -2.0537,
+      "prior_variance": 0.598075,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 1.1309,
+      "prior_variance": 0.759943,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.4496,
+      "prior_variance": 0.630139,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -2.9499,
+      "prior_variance": 0.470451,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -2.2887,
+      "prior_variance": 0.442474,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -1.5928,
+      "prior_variance": 0.656917,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -1.4789,
+      "prior_variance": 0.537944,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -2.8182,
+      "prior_variance": 0.640318,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -2.147,
+      "prior_variance": 0.828544,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.4537,
+      "prior_variance": 0.468622,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.5749,
+      "prior_variance": 0.679292,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -6.6401,
+      "prior_variance": 0.628852,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -1.2737,
+      "prior_variance": 0.6139,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.9008,
+      "prior_variance": 0.527809,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -4.3947,
+      "prior_variance": 0.693702,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": -0.3644,
+      "prior_variance": 0.628852,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": -1.5207,
+      "prior_variance": 0.953527,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.3434,
+      "prior_variance": 0.752629,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -4.4259,
+      "prior_variance": 0.70051,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.0208,
+      "prior_variance": 0.43269,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -1.2647,
+      "prior_variance": 0.746715,
+      "prior_n": 2
+    }
+  ]
+}

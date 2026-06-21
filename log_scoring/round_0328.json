@@ -1,0 +1,200 @@
+{
+  "round": 328,
+  "timestamp": "2026-06-13T19:29:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 12.0822,
+      "prior_variance": 8.605981,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 13.3522,
+      "prior_variance": 7.95514,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 11.7578,
+      "prior_variance": 8.7898,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 12.7618,
+      "prior_variance": 8.241685,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 11.2363,
+      "prior_variance": 9.10696,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Valle de la Luna",
+      "path": "southamerica/chile/atacamadesert/valledelaluna",
+      "prior_score": 14.2785,
+      "prior_variance": 7.553457,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 12.0441,
+      "prior_variance": 2.532495,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 9.8682,
+      "prior_variance": 2.732845,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 12.9079,
+      "prior_variance": 8.167212,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 3.0614,
+      "prior_variance": 1.794204,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 4.0082,
+      "prior_variance": 1.81877,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 9.1158,
+      "prior_variance": 1.928674,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Amorgos",
+      "path": "europe/greece/amorgos",
+      "prior_score": 10.4954,
+      "prior_variance": 4.344917,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 8.2799,
+      "prior_variance": 1.863041,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 7.6581,
+      "prior_variance": 2.280337,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 6.3162,
+      "prior_variance": 1.631501,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 3.0822,
+      "prior_variance": 1.765523,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kangding",
+      "path": "asia/china/sichuanprovince/kangding",
+      "prior_score": 2.5105,
+      "prior_variance": 1.649382,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.7998,
+      "prior_variance": 1.739415,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Dinant",
+      "path": "europe/belgium/dinant",
+      "prior_score": 9.5074,
+      "prior_variance": 3.060085,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pag Island",
+      "path": "europe/croatia/pag_island",
+      "prior_score": 12.6697,
+      "prior_variance": 3.43519,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": 1.7211,
+      "prior_variance": 1.672561,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -5.9367,
+      "prior_variance": 1.85198,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -12.4666,
+      "prior_variance": 8.064967,
+      "prior_n": 1
+    }
+  ]
+}

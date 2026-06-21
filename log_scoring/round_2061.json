@@ -1,0 +1,200 @@
+{
+  "round": 2061,
+  "timestamp": "2026-06-13T21:15:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 8.6569,
+      "prior_variance": 0.326851,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 9.4463,
+      "prior_variance": 0.317943,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.7935,
+      "prior_variance": 0.36841,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 8.3656,
+      "prior_variance": 0.289685,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 9.5042,
+      "prior_variance": 0.465161,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 8.454,
+      "prior_variance": 0.451678,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phuquoc",
+      "prior_score": 6.2175,
+      "prior_variance": 0.383492,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 6.9033,
+      "prior_variance": 0.251035,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 5.8548,
+      "prior_variance": 0.300526,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.754,
+      "prior_variance": 0.206599,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.9454,
+      "prior_variance": 0.193071,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.2331,
+      "prior_variance": 0.25377,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 4.1976,
+      "prior_variance": 0.220585,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 2.7073,
+      "prior_variance": 0.196084,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 6.8294,
+      "prior_variance": 0.273688,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.3745,
+      "prior_variance": 0.175392,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 3.9596,
+      "prior_variance": 0.22433,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": -0.1382,
+      "prior_variance": 0.246619,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -1.2775,
+      "prior_variance": 0.198301,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 1.2093,
+      "prior_variance": 0.19777,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": 0.4265,
+      "prior_variance": 0.181137,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 1.3126,
+      "prior_variance": 0.213705,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -0.8631,
+      "prior_variance": 0.238517,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -5.6677,
+      "prior_variance": 0.254268,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1349,
+  "timestamp": "2026-06-13T20:25:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 10.176,
+      "prior_variance": 0.436236,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 6.7854,
+      "prior_variance": 0.318298,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 6.6464,
+      "prior_variance": 0.383374,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 4.3451,
+      "prior_variance": 0.316521,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 2.5206,
+      "prior_variance": 0.592199,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.8196,
+      "prior_variance": 0.303952,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 1.6136,
+      "prior_variance": 0.305151,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -0.8921,
+      "prior_variance": 0.302397,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -1.0043,
+      "prior_variance": 0.317833,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": 0.6929,
+      "prior_variance": 0.298763,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -2.1923,
+      "prior_variance": 0.44798,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -2.7335,
+      "prior_variance": 0.465506,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -3.1979,
+      "prior_variance": 0.32004,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -5.7205,
+      "prior_variance": 0.42292,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -5.3977,
+      "prior_variance": 0.481653,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -5.3274,
+      "prior_variance": 0.330213,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -7.9425,
+      "prior_variance": 0.421845,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -5.7863,
+      "prior_variance": 0.488789,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -7.2557,
+      "prior_variance": 0.413299,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -6.8955,
+      "prior_variance": 0.330088,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fushun",
+      "path": "asia/china/liaoning/fushun",
+      "prior_score": -7.2758,
+      "prior_variance": 0.306311,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -7.1145,
+      "prior_variance": 0.416131,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -9.4847,
+      "prior_variance": 0.444174,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -12.6453,
+      "prior_variance": 1.109599,
+      "prior_n": 4
+    }
+  ]
+}

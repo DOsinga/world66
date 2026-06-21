@@ -1,0 +1,200 @@
+{
+  "round": 1992,
+  "timestamp": "2026-06-13T21:11:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 7.4155,
+      "prior_variance": 0.317238,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 3.8515,
+      "prior_variance": 0.242116,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.4644,
+      "prior_variance": 0.24449,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 3.0221,
+      "prior_variance": 0.269822,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 4.2339,
+      "prior_variance": 0.217151,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.8355,
+      "prior_variance": 0.213606,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.7432,
+      "prior_variance": 0.280348,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.4713,
+      "prior_variance": 0.204526,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Lege Cap Ferret",
+      "path": "europe/france/aquitaine/lege_cap_ferret",
+      "prior_score": 2.2673,
+      "prior_variance": 0.238366,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.04,
+      "prior_variance": 0.326228,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 4.5998,
+      "prior_variance": 0.290244,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 0.9514,
+      "prior_variance": 0.398799,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.4848,
+      "prior_variance": 0.229101,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": 0.8101,
+      "prior_variance": 0.274386,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": 0.6131,
+      "prior_variance": 0.233142,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.9583,
+      "prior_variance": 0.203359,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 0.9839,
+      "prior_variance": 0.221948,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.5664,
+      "prior_variance": 0.258602,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -4.2521,
+      "prior_variance": 0.220502,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -0.6011,
+      "prior_variance": 0.204401,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.1371,
+      "prior_variance": 0.221928,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -3.9441,
+      "prior_variance": 0.223026,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": -3.7815,
+      "prior_variance": 0.237228,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -6.4468,
+      "prior_variance": 0.324173,
+      "prior_n": 6
+    }
+  ]
+}

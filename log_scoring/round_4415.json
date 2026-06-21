@@ -1,0 +1,200 @@
+{
+  "round": 4415,
+  "timestamp": "2026-06-14T00:10:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.2084,
+      "prior_variance": 0.092161,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.2479,
+      "prior_variance": 0.095969,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Hoorn",
+      "path": "europe/netherlands/hoorn",
+      "prior_score": 2.1983,
+      "prior_variance": 0.088746,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.8921,
+      "prior_variance": 0.093286,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 2.8867,
+      "prior_variance": 0.097122,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.2101,
+      "prior_variance": 0.08785,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -2.2961,
+      "prior_variance": 0.101434,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 1.0461,
+      "prior_variance": 0.099395,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Kaberneeme",
+      "path": "europe/estonia/kaberneeme",
+      "prior_score": -4.2192,
+      "prior_variance": 0.11152,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.0795,
+      "prior_variance": 0.104009,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_score": -3.2216,
+      "prior_variance": 0.09672,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -4.0727,
+      "prior_variance": 0.115137,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_score": -4.4912,
+      "prior_variance": 0.109085,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -5.8275,
+      "prior_variance": 0.152724,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -6.0543,
+      "prior_variance": 0.142227,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -5.8387,
+      "prior_variance": 0.17484,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.1878,
+      "prior_variance": 0.095585,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Balangir",
+      "path": "asia/india/orissa/balangir",
+      "prior_score": -5.7827,
+      "prior_variance": 0.114892,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -8.0391,
+      "prior_variance": 0.200819,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -5.5776,
+      "prior_variance": 0.104673,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -6.1948,
+      "prior_variance": 0.134125,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -7.5321,
+      "prior_variance": 0.166668,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -7.0375,
+      "prior_variance": 0.125462,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -7.2492,
+      "prior_variance": 0.160368,
+      "prior_n": 14
+    }
+  ]
+}

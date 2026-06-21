@@ -1,0 +1,200 @@
+{
+  "round": 3336,
+  "timestamp": "2026-06-13T22:46:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 4.9541,
+      "prior_variance": 0.145276,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.5688,
+      "prior_variance": 0.125399,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 1.1359,
+      "prior_variance": 0.121894,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 2.9807,
+      "prior_variance": 0.136769,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 1.9397,
+      "prior_variance": 0.14604,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.48,
+      "prior_variance": 0.115134,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.1621,
+      "prior_variance": 0.117071,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Prades",
+      "path": "europe/france/midi/pyrenees/prades",
+      "prior_score": -0.0387,
+      "prior_variance": 0.12922,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.1806,
+      "prior_variance": 0.120842,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -1.9374,
+      "prior_variance": 0.116501,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -1.1187,
+      "prior_variance": 0.135485,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -2.3344,
+      "prior_variance": 0.123935,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.2184,
+      "prior_variance": 0.117149,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.2881,
+      "prior_variance": 0.138754,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -1.9047,
+      "prior_variance": 0.12385,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -3.1764,
+      "prior_variance": 0.144021,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -4.0091,
+      "prior_variance": 0.138603,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": -1.2431,
+      "prior_variance": 0.149515,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -3.1198,
+      "prior_variance": 0.219311,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -4.6124,
+      "prior_variance": 0.176869,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -4.4939,
+      "prior_variance": 0.14415,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.8018,
+      "prior_variance": 0.134826,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -4.8374,
+      "prior_variance": 0.126942,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.5511,
+      "prior_variance": 0.154205,
+      "prior_n": 11
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 437,
+  "timestamp": "2026-06-13T19:35:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -7.0207,
+      "prior_variance": 2.570283,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -16.1966,
+      "prior_variance": 6.418502,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -9.2204,
+      "prior_variance": 5.176265,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -11.0527,
+      "prior_variance": 3.482666,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Claremore",
+      "path": "northamerica/unitedstates/oklahoma/claremore",
+      "prior_score": -12.164,
+      "prior_variance": 3.216495,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -11.3734,
+      "prior_variance": 1.788362,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -10.6339,
+      "prior_variance": 1.927362,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -11.6609,
+      "prior_variance": 2.383437,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -8.8425,
+      "prior_variance": 1.786029,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -10.0553,
+      "prior_variance": 2.502646,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -9.6081,
+      "prior_variance": 2.433345,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -14.4265,
+      "prior_variance": 2.867359,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Grays",
+      "path": "europe/unitedkingdom/england/eastern_england/grays",
+      "prior_score": -15.2877,
+      "prior_variance": 6.756971,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -8.5506,
+      "prior_variance": 3.569532,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -11.0901,
+      "prior_variance": 2.261711,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -14.1728,
+      "prior_variance": 7.206805,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -12.9634,
+      "prior_variance": 3.063385,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Qiqihar",
+      "path": "asia/china/heilongjiang/qiqihar",
+      "prior_score": -9.7883,
+      "prior_variance": 3.582505,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -11.8737,
+      "prior_variance": 1.598271,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/england/norfolk/briston",
+      "prior_score": -15.8724,
+      "prior_variance": 6.532662,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -10.6432,
+      "prior_variance": 3.462746,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -14.704,
+      "prior_variance": 6.988545,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_score": -6.0601,
+      "prior_variance": 1.837389,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -15.4317,
+      "prior_variance": 6.579208,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 427,
+  "timestamp": "2026-06-13T19:34:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 5.8022,
+      "prior_variance": 5.233142,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 4.257,
+      "prior_variance": 2.002041,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.0345,
+      "prior_variance": 4.551718,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 1.2231,
+      "prior_variance": 2.117958,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 2.0676,
+      "prior_variance": 1.734782,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": -0.7656,
+      "prior_variance": 1.907372,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 3.3696,
+      "prior_variance": 1.683013,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": -1.1549,
+      "prior_variance": 2.476189,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.055,
+      "prior_variance": 2.085391,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": 0.3434,
+      "prior_variance": 1.482204,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.8284,
+      "prior_variance": 2.034625,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Thiruvananthapuram",
+      "path": "asia/india/kerala/thiruvananthapuram",
+      "prior_score": 2.9029,
+      "prior_variance": 1.869811,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": -1.3061,
+      "prior_variance": 3.213377,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.9833,
+      "prior_variance": 1.639311,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.7382,
+      "prior_variance": 1.474312,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -1.3112,
+      "prior_variance": 1.663457,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": 1.5714,
+      "prior_variance": 1.534398,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": 0.0029,
+      "prior_variance": 2.270342,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": 0.8092,
+      "prior_variance": 2.037403,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Chiswick",
+      "path": "europe/unitedkingdom/england/south_east/chiswick",
+      "prior_score": 0.8626,
+      "prior_variance": 1.635567,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -4.6255,
+      "prior_variance": 1.56142,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": 0.8555,
+      "prior_variance": 1.836861,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -0.2503,
+      "prior_variance": 1.516752,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -0.9119,
+      "prior_variance": 2.282842,
+      "prior_n": 1
+    }
+  ]
+}

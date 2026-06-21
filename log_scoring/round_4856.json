@@ -1,0 +1,200 @@
+{
+  "round": 4856,
+  "timestamp": "2026-06-14T00:47:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 13.3756,
+      "prior_variance": 0.510006,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.6261,
+      "prior_variance": 0.088433,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 2.1691,
+      "prior_variance": 0.085522,
+      "prior_n": 17
+    },
+    {
+      "rank": 4,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.1457,
+      "prior_variance": 0.098113,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.7918,
+      "prior_variance": 0.089326,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 3.7638,
+      "prior_variance": 0.114674,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.6513,
+      "prior_variance": 0.103338,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.9588,
+      "prior_variance": 0.094298,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 5.947,
+      "prior_variance": 0.127987,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 3.3305,
+      "prior_variance": 0.094687,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Huangguoshu Falls",
+      "path": "asia/china/guizhou/huangguoshu",
+      "prior_score": 3.5495,
+      "prior_variance": 0.085058,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/redondobeach",
+      "prior_score": -1.3455,
+      "prior_variance": 0.092537,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.5694,
+      "prior_variance": 0.078435,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -4.1171,
+      "prior_variance": 0.129185,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -2.2893,
+      "prior_variance": 0.086476,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_score": -2.4523,
+      "prior_variance": 0.082336,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.3035,
+      "prior_variance": 0.112366,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -4.4814,
+      "prior_variance": 0.096347,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -4.0664,
+      "prior_variance": 0.098161,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -5.3203,
+      "prior_variance": 0.109551,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -5.4648,
+      "prior_variance": 0.107105,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Bengbu",
+      "path": "asia/china/anhui/bengbu",
+      "prior_score": -5.5208,
+      "prior_variance": 0.12388,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -6.7475,
+      "prior_variance": 0.145295,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -10.789,
+      "prior_variance": 0.447303,
+      "prior_n": 15
+    }
+  ]
+}

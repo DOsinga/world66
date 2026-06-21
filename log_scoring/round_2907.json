@@ -1,0 +1,200 @@
+{
+  "round": 2907,
+  "timestamp": "2026-06-13T22:15:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.6618,
+      "prior_variance": 0.201035,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national_park",
+      "prior_score": 5.5709,
+      "prior_variance": 0.175365,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.1899,
+      "prior_variance": 0.184963,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 2.4776,
+      "prior_variance": 0.129259,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 0.751,
+      "prior_variance": 0.149548,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.8131,
+      "prior_variance": 0.148654,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 3.2219,
+      "prior_variance": 0.144984,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -0.8747,
+      "prior_variance": 0.158599,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lania",
+      "path": "asia/cyprus/troodosmountains/lania_traditiona",
+      "prior_score": -0.3019,
+      "prior_variance": 0.133401,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": -0.2816,
+      "prior_variance": 0.1593,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -0.9853,
+      "prior_variance": 0.170439,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.8756,
+      "prior_variance": 0.140927,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -0.111,
+      "prior_variance": 0.154442,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -2.5935,
+      "prior_variance": 0.193467,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.8377,
+      "prior_variance": 0.134889,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -2.8533,
+      "prior_variance": 0.165837,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -2.0099,
+      "prior_variance": 0.197319,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 0.1848,
+      "prior_variance": 0.129688,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.8271,
+      "prior_variance": 0.158394,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -5.6766,
+      "prior_variance": 0.187656,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "New Georgia",
+      "path": "australiaandpacific/solomonislands/newgeorgia",
+      "prior_score": -3.8226,
+      "prior_variance": 0.195316,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -0.2849,
+      "prior_variance": 0.186778,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -6.6851,
+      "prior_variance": 0.241842,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -9.1956,
+      "prior_variance": 0.397726,
+      "prior_n": 9
+    }
+  ]
+}

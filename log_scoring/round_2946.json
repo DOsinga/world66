@@ -1,0 +1,200 @@
+{
+  "round": 2946,
+  "timestamp": "2026-06-13T22:18:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 8.1472,
+      "prior_variance": 0.213577,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 1.9442,
+      "prior_variance": 0.17116,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 3.0623,
+      "prior_variance": 0.189121,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.2596,
+      "prior_variance": 0.17208,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 2.1699,
+      "prior_variance": 0.160232,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Elgol",
+      "path": "europe/unitedkingdom/scotland/skye/elgol",
+      "prior_score": 3.2604,
+      "prior_variance": 0.141558,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.2567,
+      "prior_variance": 0.151116,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.649,
+      "prior_variance": 0.150114,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.9588,
+      "prior_variance": 0.157578,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.461,
+      "prior_variance": 0.141851,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.5547,
+      "prior_variance": 0.161358,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.2231,
+      "prior_variance": 0.202413,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.9031,
+      "prior_variance": 0.149654,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 1.2788,
+      "prior_variance": 0.133888,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 0.2108,
+      "prior_variance": 0.137165,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": 0.9615,
+      "prior_variance": 0.129979,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Feuchtwangen",
+      "path": "europe/germany/bavaria/romanticroad/feuchtwangen",
+      "prior_score": 0.6429,
+      "prior_variance": 0.156334,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -1.0191,
+      "prior_variance": 0.17581,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.5242,
+      "prior_variance": 0.141857,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -2.0633,
+      "prior_variance": 0.143588,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -3.3538,
+      "prior_variance": 0.182369,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -3.2692,
+      "prior_variance": 0.241391,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -5.9147,
+      "prior_variance": 0.171495,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -5.5209,
+      "prior_variance": 0.219796,
+      "prior_n": 9
+    }
+  ]
+}

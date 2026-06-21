@@ -1,0 +1,200 @@
+{
+  "round": 4667,
+  "timestamp": "2026-06-14T00:31:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 7.3631,
+      "prior_variance": 0.113977,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 2.1548,
+      "prior_variance": 0.103847,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 3.9378,
+      "prior_variance": 0.100742,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.2868,
+      "prior_variance": 0.092686,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": 0.1629,
+      "prior_variance": 0.08965,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 1.2366,
+      "prior_variance": 0.097473,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Chalong",
+      "path": "asia/thailand/phuket/chalong",
+      "prior_score": 2.511,
+      "prior_variance": 0.090872,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.082,
+      "prior_variance": 0.095728,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.1005,
+      "prior_variance": 0.078711,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 1.6319,
+      "prior_variance": 0.091397,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": 0.24,
+      "prior_variance": 0.090556,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -0.1177,
+      "prior_variance": 0.097518,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Zandvoort",
+      "path": "europe/netherlands/zandvoort",
+      "prior_score": 0.6824,
+      "prior_variance": 0.081602,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.0567,
+      "prior_variance": 0.08151,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.4654,
+      "prior_variance": 0.084709,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": -0.0446,
+      "prior_variance": 0.094061,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -0.1963,
+      "prior_variance": 0.084765,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.1803,
+      "prior_variance": 0.089189,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -2.3382,
+      "prior_variance": 0.126136,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.6303,
+      "prior_variance": 0.113314,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.7811,
+      "prior_variance": 0.091456,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.0739,
+      "prior_variance": 0.103339,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.4291,
+      "prior_variance": 0.098944,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -4.1393,
+      "prior_variance": 0.104181,
+      "prior_n": 15
+    }
+  ]
+}

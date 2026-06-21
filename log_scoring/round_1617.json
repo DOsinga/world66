@@ -1,0 +1,200 @@
+{
+  "round": 1617,
+  "timestamp": "2026-06-13T20:41:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 8.3784,
+      "prior_variance": 0.332727,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.2727,
+      "prior_variance": 0.273702,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 8.2395,
+      "prior_variance": 0.409824,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.1821,
+      "prior_variance": 0.261517,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.022,
+      "prior_variance": 0.310495,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 0.2813,
+      "prior_variance": 0.251398,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 4.9066,
+      "prior_variance": 0.251791,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 4.4025,
+      "prior_variance": 0.270997,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": 0.0258,
+      "prior_variance": 0.265405,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 0.6608,
+      "prior_variance": 0.313782,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster",
+      "prior_score": -0.301,
+      "prior_variance": 0.231499,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -1.001,
+      "prior_variance": 0.253935,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -0.0241,
+      "prior_variance": 0.330863,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -0.8664,
+      "prior_variance": 0.307497,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.537,
+      "prior_variance": 0.210082,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.6727,
+      "prior_variance": 0.278435,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -4.001,
+      "prior_variance": 0.487518,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.3109,
+      "prior_variance": 0.240179,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mohe",
+      "path": "asia/china/heilongjiang/mohe",
+      "prior_score": -2.8109,
+      "prior_variance": 0.341831,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.2499,
+      "prior_variance": 0.273137,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -4.3103,
+      "prior_variance": 0.287957,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.4269,
+      "prior_variance": 0.239452,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -5.8892,
+      "prior_variance": 0.367863,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": -7.5737,
+      "prior_variance": 0.439507,
+      "prior_n": 6
+    }
+  ]
+}

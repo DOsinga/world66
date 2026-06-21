@@ -1,0 +1,200 @@
+{
+  "round": 446,
+  "timestamp": "2026-06-13T19:35:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taunton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/taunton",
+      "prior_score": -15.0735,
+      "prior_variance": 6.581603,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -8.802,
+      "prior_variance": 1.610631,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -10.5731,
+      "prior_variance": 8.701752,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -6.7549,
+      "prior_variance": 2.90414,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -9.1025,
+      "prior_variance": 1.950685,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yichun",
+      "path": "asia/china/jiangxi/yichun",
+      "prior_score": -9.6451,
+      "prior_variance": 2.879896,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -17.1504,
+      "prior_variance": 6.101179,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -18.5003,
+      "prior_variance": 6.148158,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Enumclaw",
+      "path": "northamerica/unitedstates/washington/enumclaw",
+      "prior_score": -11.0021,
+      "prior_variance": 2.064123,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Pawhuska",
+      "path": "northamerica/unitedstates/oklahoma/pawhuska",
+      "prior_score": -5.4833,
+      "prior_variance": 3.670466,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -14.0208,
+      "prior_variance": 7.583919,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bluefield",
+      "path": "northamerica/unitedstates/westvirginia/bluefield_wv",
+      "prior_score": -10.8215,
+      "prior_variance": 2.542254,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -11.7349,
+      "prior_variance": 8.232468,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -13.5253,
+      "prior_variance": 7.413227,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -10.8289,
+      "prior_variance": 1.579291,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -12.524,
+      "prior_variance": 7.90058,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -7.4151,
+      "prior_variance": 4.402706,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -11.5433,
+      "prior_variance": 2.243655,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -9.8264,
+      "prior_variance": 3.638582,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -15.7944,
+      "prior_variance": 6.577358,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -15.7067,
+      "prior_variance": 6.601276,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -15.5918,
+      "prior_variance": 6.63461,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -11.349,
+      "prior_variance": 3.342431,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -12.4592,
+      "prior_variance": 3.138226,
+      "prior_n": 1
+    }
+  ]
+}

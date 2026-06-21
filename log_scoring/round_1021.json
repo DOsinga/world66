@@ -1,0 +1,200 @@
+{
+  "round": 1021,
+  "timestamp": "2026-06-13T20:06:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_score": 5.3613,
+      "prior_variance": 0.71718,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Portland",
+      "path": "northamerica/unitedstates/oregon/portland",
+      "prior_score": 4.8923,
+      "prior_variance": 0.654357,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 4.3508,
+      "prior_variance": 0.428947,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 2.2729,
+      "prior_variance": 0.619318,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga",
+      "prior_score": 3.5526,
+      "prior_variance": 0.504408,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.9494,
+      "prior_variance": 0.557069,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 3.6081,
+      "prior_variance": 0.491296,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 0.8042,
+      "prior_variance": 0.924859,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 4.1628,
+      "prior_variance": 0.414751,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 4.0757,
+      "prior_variance": 0.38581,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 1.7741,
+      "prior_variance": 0.432578,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.434,
+      "prior_variance": 0.444476,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 8.2287,
+      "prior_variance": 0.666107,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 3.2127,
+      "prior_variance": 0.541397,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 4.2847,
+      "prior_variance": 0.454191,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 3.4059,
+      "prior_variance": 0.458819,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.2901,
+      "prior_variance": 0.495948,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 2.9174,
+      "prior_variance": 0.580273,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 3.4073,
+      "prior_variance": 0.46353,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 3.8428,
+      "prior_variance": 0.364798,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 1.9427,
+      "prior_variance": 0.612401,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.4561,
+      "prior_variance": 0.382078,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 1.2477,
+      "prior_variance": 0.413451,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 2.0948,
+      "prior_variance": 0.474827,
+      "prior_n": 4
+    }
+  ]
+}

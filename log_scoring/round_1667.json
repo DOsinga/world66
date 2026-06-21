@@ -1,0 +1,200 @@
+{
+  "round": 1667,
+  "timestamp": "2026-06-13T20:45:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 5.1195,
+      "prior_variance": 0.271717,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 2.1784,
+      "prior_variance": 0.239699,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 0.0203,
+      "prior_variance": 0.267805,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 3.4179,
+      "prior_variance": 0.358808,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.5139,
+      "prior_variance": 0.339832,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": -1.2506,
+      "prior_variance": 0.26792,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -3.1756,
+      "prior_variance": 0.244133,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.6219,
+      "prior_variance": 0.249974,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.6615,
+      "prior_variance": 0.231904,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -5.3488,
+      "prior_variance": 0.254742,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Coquitlam",
+      "path": "northamerica/canada/britishcolumbia/vancouver/coquitlam",
+      "prior_score": -3.5443,
+      "prior_variance": 0.25964,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": -3.1868,
+      "prior_variance": 0.332963,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -5.0775,
+      "prior_variance": 0.276988,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -8.4004,
+      "prior_variance": 0.394194,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.6715,
+      "prior_variance": 0.218729,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -5.8831,
+      "prior_variance": 0.26092,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -5.2675,
+      "prior_variance": 0.33066,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -6.6766,
+      "prior_variance": 0.406423,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_score": -7.0063,
+      "prior_variance": 0.412193,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.4729,
+      "prior_variance": 0.369259,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.0732,
+      "prior_variance": 0.250469,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Gomel",
+      "path": "europe/belarus/gomel",
+      "prior_score": -5.3419,
+      "prior_variance": 0.315384,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -7.2877,
+      "prior_variance": 0.31026,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -9.7723,
+      "prior_variance": 0.524729,
+      "prior_n": 5
+    }
+  ]
+}

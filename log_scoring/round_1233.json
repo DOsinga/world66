@@ -1,0 +1,200 @@
+{
+  "round": 1233,
+  "timestamp": "2026-06-13T20:18:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 8.3059,
+      "prior_variance": 0.596815,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Canggu",
+      "path": "asia/indonesia/bali/canggu",
+      "prior_score": 8.2941,
+      "prior_variance": 0.469005,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Galera",
+      "path": "asia/philippines/puerto_galera",
+      "prior_score": 5.5867,
+      "prior_variance": 0.563989,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 7.6821,
+      "prior_variance": 0.841453,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 3.8236,
+      "prior_variance": 0.400215,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.6979,
+      "prior_variance": 0.416219,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 3.22,
+      "prior_variance": 0.415928,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 3.0869,
+      "prior_variance": 0.334504,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.3445,
+      "prior_variance": 0.380607,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/pasadena",
+      "prior_score": 3.0651,
+      "prior_variance": 0.461731,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 2.3444,
+      "prior_variance": 0.307381,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.862,
+      "prior_variance": 0.43765,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 2.0762,
+      "prior_variance": 0.356816,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -2.3417,
+      "prior_variance": 0.30848,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 2.1771,
+      "prior_variance": 0.316188,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": 1.3191,
+      "prior_variance": 0.395425,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Woods Hole",
+      "path": "northamerica/unitedstates/massachusetts/woods_hole",
+      "prior_score": -2.3718,
+      "prior_variance": 0.463338,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -4.453,
+      "prior_variance": 0.462591,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -8.6106,
+      "prior_variance": 0.590138,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.9534,
+      "prior_variance": 0.371967,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.0107,
+      "prior_variance": 0.490512,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -5.1013,
+      "prior_variance": 0.494918,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -10.9999,
+      "prior_variance": 0.670392,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -12.893,
+      "prior_variance": 0.730297,
+      "prior_n": 3
+    }
+  ]
+}

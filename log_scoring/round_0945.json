@@ -1,0 +1,200 @@
+{
+  "round": 945,
+  "timestamp": "2026-06-13T20:02:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 12.6088,
+      "prior_variance": 0.755947,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -8.6374,
+      "prior_variance": 0.859247,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -1.5723,
+      "prior_variance": 0.479745,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -2.6229,
+      "prior_variance": 0.622748,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": -3.0954,
+      "prior_variance": 0.650742,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -5.3712,
+      "prior_variance": 0.605992,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -5.5105,
+      "prior_variance": 1.413059,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -5.5444,
+      "prior_variance": 0.404821,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -6.2948,
+      "prior_variance": 0.592713,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -8.461,
+      "prior_variance": 0.579356,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -9.8211,
+      "prior_variance": 1.044526,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -7.2004,
+      "prior_variance": 1.199048,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -9.8399,
+      "prior_variance": 0.814041,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -8.9134,
+      "prior_variance": 0.56423,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -5.9119,
+      "prior_variance": 0.427881,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santa Ana",
+      "path": "northamerica/elsalvador/santaana",
+      "prior_score": -2.918,
+      "prior_variance": 0.58592,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bhadrachalam",
+      "path": "asia/india/andhrapradesh/bhadrachalam",
+      "prior_score": -8.9584,
+      "prior_variance": 0.567337,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -5.998,
+      "prior_variance": 0.430867,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -10.3614,
+      "prior_variance": 0.719792,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Maseno",
+      "path": "africa/kenya/westernkenya/maseno",
+      "prior_score": -11.1549,
+      "prior_variance": 0.711446,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -7.0953,
+      "prior_variance": 0.619692,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -4.6845,
+      "prior_variance": 0.443417,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -10.6143,
+      "prior_variance": 1.040536,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -10.9689,
+      "prior_variance": 0.666836,
+      "prior_n": 3
+    }
+  ]
+}

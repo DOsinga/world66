@@ -1,0 +1,200 @@
+{
+  "round": 4631,
+  "timestamp": "2026-06-14T00:28:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 6.8019,
+      "prior_variance": 0.146832,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 5.9529,
+      "prior_variance": 0.140581,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 5.8717,
+      "prior_variance": 0.167446,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 4.3058,
+      "prior_variance": 0.105375,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 5.4748,
+      "prior_variance": 0.102714,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.1524,
+      "prior_variance": 0.093072,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.0808,
+      "prior_variance": 0.096089,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.3869,
+      "prior_variance": 0.096752,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 3.5003,
+      "prior_variance": 0.09722,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 2.5459,
+      "prior_variance": 0.097883,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.1214,
+      "prior_variance": 0.089666,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 2.4824,
+      "prior_variance": 0.101604,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.9601,
+      "prior_variance": 0.088539,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.1891,
+      "prior_variance": 0.082295,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -0.2195,
+      "prior_variance": 0.091505,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -1.9013,
+      "prior_variance": 0.120302,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -1.4722,
+      "prior_variance": 0.106818,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -0.7524,
+      "prior_variance": 0.100391,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.2583,
+      "prior_variance": 0.09284,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_score": -3.3836,
+      "prior_variance": 0.089414,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -3.3319,
+      "prior_variance": 0.103423,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -5.2193,
+      "prior_variance": 0.108646,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.4213,
+      "prior_variance": 0.104424,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.1188,
+      "prior_variance": 0.120523,
+      "prior_n": 15
+    }
+  ]
+}

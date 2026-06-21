@@ -1,0 +1,200 @@
+{
+  "round": 1578,
+  "timestamp": "2026-06-13T20:39:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 7.3766,
+      "prior_variance": 0.338559,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 9.6701,
+      "prior_variance": 0.530776,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.1659,
+      "prior_variance": 0.275191,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 5.3856,
+      "prior_variance": 0.306882,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 1.4292,
+      "prior_variance": 0.266444,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.8662,
+      "prior_variance": 0.266487,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 2.6963,
+      "prior_variance": 0.292654,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.7688,
+      "prior_variance": 0.366881,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.3239,
+      "prior_variance": 0.317855,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -0.3022,
+      "prior_variance": 0.310884,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.5534,
+      "prior_variance": 0.222231,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.2501,
+      "prior_variance": 0.24988,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.4123,
+      "prior_variance": 0.290714,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -1.0605,
+      "prior_variance": 0.281508,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": 0.0147,
+      "prior_variance": 0.265067,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.3777,
+      "prior_variance": 0.294743,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -4.3079,
+      "prior_variance": 0.349338,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.6013,
+      "prior_variance": 0.26315,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.4663,
+      "prior_variance": 0.248761,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -3.2041,
+      "prior_variance": 0.241633,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -4.1024,
+      "prior_variance": 0.406268,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -3.9293,
+      "prior_variance": 0.326859,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -5.288,
+      "prior_variance": 0.268543,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.5705,
+      "prior_variance": 0.340089,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1679,
+  "timestamp": "2026-06-13T20:45:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 4.8756,
+      "prior_variance": 0.388661,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 4.2552,
+      "prior_variance": 0.276674,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Periyar",
+      "path": "asia/india/kerala/periyar",
+      "prior_score": 4.4248,
+      "prior_variance": 0.279419,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nevis",
+      "path": "northamerica/saintkittsandnevis/nevis",
+      "prior_score": 5.8299,
+      "prior_variance": 0.358243,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 1.1324,
+      "prior_variance": 0.301044,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": 0.083,
+      "prior_variance": 0.242491,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.6618,
+      "prior_variance": 0.293021,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -0.8778,
+      "prior_variance": 0.358143,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.963,
+      "prior_variance": 0.447524,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.1753,
+      "prior_variance": 0.265456,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -2.5589,
+      "prior_variance": 0.312961,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -1.849,
+      "prior_variance": 0.259818,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": 0.1264,
+      "prior_variance": 0.405593,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.7476,
+      "prior_variance": 0.38361,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -2.36,
+      "prior_variance": 0.274021,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.1139,
+      "prior_variance": 0.2479,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -3.819,
+      "prior_variance": 0.31493,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -5.087,
+      "prior_variance": 0.319814,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -4.3459,
+      "prior_variance": 0.230819,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -3.7587,
+      "prior_variance": 0.477724,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -4.4584,
+      "prior_variance": 0.338606,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -6.8458,
+      "prior_variance": 0.44969,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -6.2953,
+      "prior_variance": 0.2944,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -10.4008,
+      "prior_variance": 0.424463,
+      "prior_n": 5
+    }
+  ]
+}

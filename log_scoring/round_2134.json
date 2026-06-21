@@ -1,0 +1,200 @@
+{
+  "round": 2134,
+  "timestamp": "2026-06-13T21:21:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 7.5268,
+      "prior_variance": 0.302183,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 9.0623,
+      "prior_variance": 0.299553,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 2.9943,
+      "prior_variance": 0.195109,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ascoli Piceno",
+      "path": "europe/italy/marche/ascoli_piceno",
+      "prior_score": 2.5641,
+      "prior_variance": 0.32817,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Zakopane",
+      "path": "europe/poland/zakopane",
+      "prior_score": 5.0112,
+      "prior_variance": 0.225682,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.479,
+      "prior_variance": 0.209413,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.098,
+      "prior_variance": 0.186524,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.213,
+      "prior_variance": 0.188272,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.8734,
+      "prior_variance": 0.199794,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 3.0603,
+      "prior_variance": 0.220714,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.3702,
+      "prior_variance": 0.190681,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.7165,
+      "prior_variance": 0.209852,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.0127,
+      "prior_variance": 0.244797,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -0.352,
+      "prior_variance": 0.193997,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 0.1846,
+      "prior_variance": 0.197839,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.3509,
+      "prior_variance": 0.182933,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.5966,
+      "prior_variance": 0.20977,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -2.0635,
+      "prior_variance": 0.190281,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -1.7938,
+      "prior_variance": 0.176964,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.7712,
+      "prior_variance": 0.2237,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -4.2327,
+      "prior_variance": 0.236997,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -4.3144,
+      "prior_variance": 0.234502,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.336,
+      "prior_variance": 0.206904,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -5.8591,
+      "prior_variance": 0.226184,
+      "prior_n": 6
+    }
+  ]
+}

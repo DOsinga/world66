@@ -1,0 +1,200 @@
+{
+  "round": 2051,
+  "timestamp": "2026-06-13T21:15:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.8733,
+      "prior_variance": 0.293203,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 2.7727,
+      "prior_variance": 0.277551,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 6.3979,
+      "prior_variance": 0.299001,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.8171,
+      "prior_variance": 0.217101,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 1.8351,
+      "prior_variance": 0.27966,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 0.6903,
+      "prior_variance": 0.197143,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.1961,
+      "prior_variance": 0.190011,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.4003,
+      "prior_variance": 0.181848,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.4608,
+      "prior_variance": 0.251313,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.6423,
+      "prior_variance": 0.227825,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.2967,
+      "prior_variance": 0.203056,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.3415,
+      "prior_variance": 0.396572,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.6444,
+      "prior_variance": 0.223616,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -0.7093,
+      "prior_variance": 0.211387,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -3.1694,
+      "prior_variance": 0.207647,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.5207,
+      "prior_variance": 0.230728,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -1.3493,
+      "prior_variance": 0.221282,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.5382,
+      "prior_variance": 0.203612,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.8089,
+      "prior_variance": 0.209192,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.1224,
+      "prior_variance": 0.209705,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -3.7675,
+      "prior_variance": 0.225546,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.6359,
+      "prior_variance": 0.325036,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -3.2344,
+      "prior_variance": 0.318916,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -9.2692,
+      "prior_variance": 0.352878,
+      "prior_n": 6
+    }
+  ]
+}

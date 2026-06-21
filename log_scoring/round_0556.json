@@ -1,0 +1,200 @@
+{
+  "round": 556,
+  "timestamp": "2026-06-13T19:42:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": -0.6843,
+      "prior_variance": 1.225302,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": -0.2619,
+      "prior_variance": 1.444219,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": -1.5445,
+      "prior_variance": 0.712734,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.3645,
+      "prior_variance": 0.878353,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -2.7923,
+      "prior_variance": 1.517503,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -1.1772,
+      "prior_variance": 1.346954,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -1.3453,
+      "prior_variance": 1.150869,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.3,
+      "prior_variance": 0.875811,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.2544,
+      "prior_variance": 1.540344,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.7941,
+      "prior_variance": 1.496444,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -2.3559,
+      "prior_variance": 1.513412,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -6.5066,
+      "prior_variance": 1.228405,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.6249,
+      "prior_variance": 1.039214,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": -1.8305,
+      "prior_variance": 1.454761,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.5511,
+      "prior_variance": 0.690498,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -2.0797,
+      "prior_variance": 1.542417,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -2.8229,
+      "prior_variance": 1.636558,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.8735,
+      "prior_variance": 1.911579,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Condeixa",
+      "path": "europe/portugal/condeixa",
+      "prior_score": -0.6445,
+      "prior_variance": 1.900853,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias/gununsitoli",
+      "prior_score": -2.8372,
+      "prior_variance": 1.565099,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -3.7834,
+      "prior_variance": 0.638811,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hof",
+      "path": "europe/germany/bavaria/hof",
+      "prior_score": -2.1901,
+      "prior_variance": 1.497815,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -4.4603,
+      "prior_variance": 1.792795,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -3.3901,
+      "prior_variance": 0.976744,
+      "prior_n": 2
+    }
+  ]
+}

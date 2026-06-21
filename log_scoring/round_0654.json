@@ -1,0 +1,200 @@
+{
+  "round": 654,
+  "timestamp": "2026-06-13T19:47:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": -0.5115,
+      "prior_variance": 0.614149,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.931,
+      "prior_variance": 0.919325,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -3.7172,
+      "prior_variance": 0.80294,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Mulhouse",
+      "path": "europe/france/east/alsace/mulhouse",
+      "prior_score": -1.9519,
+      "prior_variance": 0.81286,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -2.2058,
+      "prior_variance": 0.949725,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 0.2606,
+      "prior_variance": 0.653764,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 0.2117,
+      "prior_variance": 0.876614,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -1.3644,
+      "prior_variance": 0.713602,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -1.676,
+      "prior_variance": 1.808189,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -1.4132,
+      "prior_variance": 0.630384,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -1.4019,
+      "prior_variance": 1.415251,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -2.0502,
+      "prior_variance": 0.635334,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -3.8472,
+      "prior_variance": 1.097811,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -1.9823,
+      "prior_variance": 0.598606,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -3.4594,
+      "prior_variance": 0.677935,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.8258,
+      "prior_variance": 0.78853,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.668,
+      "prior_variance": 0.717456,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": 0.7861,
+      "prior_variance": 0.97093,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -1.8725,
+      "prior_variance": 1.322051,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -0.202,
+      "prior_variance": 1.511,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -3.8941,
+      "prior_variance": 0.742523,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Odzun",
+      "path": "europe/armenia/odzun",
+      "prior_score": -2.1567,
+      "prior_variance": 0.712574,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -4.1209,
+      "prior_variance": 0.900883,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.0445,
+      "prior_variance": 0.865053,
+      "prior_n": 2
+    }
+  ]
+}

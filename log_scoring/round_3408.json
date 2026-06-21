@@ -1,0 +1,200 @@
+{
+  "round": 3408,
+  "timestamp": "2026-06-13T22:51:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.5235,
+      "prior_variance": 0.137984,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 6.1477,
+      "prior_variance": 0.205868,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.2051,
+      "prior_variance": 0.127417,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 0.7307,
+      "prior_variance": 0.142959,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 2.8969,
+      "prior_variance": 0.135338,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.418,
+      "prior_variance": 0.121826,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.3752,
+      "prior_variance": 0.113796,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.6608,
+      "prior_variance": 0.128137,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.8775,
+      "prior_variance": 0.127873,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 3.3832,
+      "prior_variance": 0.141494,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 3.0031,
+      "prior_variance": 0.139663,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.7858,
+      "prior_variance": 0.119472,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 3.2468,
+      "prior_variance": 0.136335,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 1.729,
+      "prior_variance": 0.137276,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.7531,
+      "prior_variance": 0.113202,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.5292,
+      "prior_variance": 0.120473,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.5415,
+      "prior_variance": 0.125048,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 0.9605,
+      "prior_variance": 0.112554,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.2194,
+      "prior_variance": 0.117587,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 2.1927,
+      "prior_variance": 0.132833,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -4.0716,
+      "prior_variance": 0.142809,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -3.3704,
+      "prior_variance": 0.125046,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -4.4309,
+      "prior_variance": 0.136367,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.4576,
+      "prior_variance": 0.140498,
+      "prior_n": 11
+    }
+  ]
+}

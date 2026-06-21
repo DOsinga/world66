@@ -1,0 +1,200 @@
+{
+  "round": 2510,
+  "timestamp": "2026-06-13T21:47:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 14.2215,
+      "prior_variance": 0.677978,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.3016,
+      "prior_variance": 0.165321,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -0.4454,
+      "prior_variance": 0.18373,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 0.8891,
+      "prior_variance": 0.170169,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.2801,
+      "prior_variance": 0.172127,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -1.4057,
+      "prior_variance": 0.205536,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Inhambane",
+      "path": "africa/mozambique/inhambane",
+      "prior_score": -0.5639,
+      "prior_variance": 0.163132,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 0.3853,
+      "prior_variance": 0.170197,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.0381,
+      "prior_variance": 0.147251,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": -0.189,
+      "prior_variance": 0.178524,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 0.2206,
+      "prior_variance": 0.180761,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -2.4375,
+      "prior_variance": 0.156139,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Homosassa",
+      "path": "northamerica/unitedstates/florida/homosassa",
+      "prior_score": -1.4208,
+      "prior_variance": 0.151956,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -2.2295,
+      "prior_variance": 0.16234,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Chantilly",
+      "path": "northamerica/unitedstates/virginia/chantilly",
+      "prior_score": -3.4282,
+      "prior_variance": 0.224244,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Jingzhou",
+      "path": "asia/china/hubei/jingzhou",
+      "prior_score": -4.1852,
+      "prior_variance": 0.165463,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -1.127,
+      "prior_variance": 0.215902,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": 0.2134,
+      "prior_variance": 0.159998,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -2.0763,
+      "prior_variance": 0.142074,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Mu'a",
+      "path": "australiaandpacific/tonga/tongatapu/mua",
+      "prior_score": -1.5223,
+      "prior_variance": 0.166332,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 0.9982,
+      "prior_variance": 0.237359,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Sabaudia",
+      "path": "europe/italy/lazio/sabaudia",
+      "prior_score": 1.28,
+      "prior_variance": 0.159848,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Gentofte",
+      "path": "europe/denmark/gentofte",
+      "prior_score": -3.9287,
+      "prior_variance": 0.323342,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.6837,
+      "prior_variance": 0.194214,
+      "prior_n": 8
+    }
+  ]
+}

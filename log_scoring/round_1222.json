@@ -1,0 +1,200 @@
+{
+  "round": 1222,
+  "timestamp": "2026-06-13T20:17:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 6.9261,
+      "prior_variance": 0.410569,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 6.57,
+      "prior_variance": 0.416741,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 2.1588,
+      "prior_variance": 0.357262,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 6.1682,
+      "prior_variance": 0.360796,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Iber\u00e1 Wetlands",
+      "path": "southamerica/argentina/corrientes/iberawetlands",
+      "prior_score": 4.128,
+      "prior_variance": 0.395463,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 6.3567,
+      "prior_variance": 0.419727,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 2.0481,
+      "prior_variance": 0.414831,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.4777,
+      "prior_variance": 0.342154,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 5.4564,
+      "prior_variance": 0.367052,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 3.6119,
+      "prior_variance": 0.344471,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 3.1748,
+      "prior_variance": 0.421547,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": 0.0498,
+      "prior_variance": 0.39453,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.9949,
+      "prior_variance": 0.320269,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Marburg",
+      "path": "europe/germany/hessen/marburg",
+      "prior_score": 2.8059,
+      "prior_variance": 0.505115,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": -0.0878,
+      "prior_variance": 0.437857,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 0.1659,
+      "prior_variance": 0.565799,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 2.0353,
+      "prior_variance": 0.357383,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.2056,
+      "prior_variance": 0.478307,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": 0.7543,
+      "prior_variance": 0.361475,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -3.4121,
+      "prior_variance": 0.473529,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -1.4557,
+      "prior_variance": 0.332242,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": -0.0306,
+      "prior_variance": 0.369893,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -3.4681,
+      "prior_variance": 0.320928,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -4.2944,
+      "prior_variance": 0.415719,
+      "prior_n": 3
+    }
+  ]
+}

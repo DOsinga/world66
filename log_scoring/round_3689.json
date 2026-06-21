@@ -1,0 +1,200 @@
+{
+  "round": 3689,
+  "timestamp": "2026-06-13T23:12:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 2.9485,
+      "prior_variance": 0.120048,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 1.7793,
+      "prior_variance": 0.12386,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.189,
+      "prior_variance": 0.111253,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -0.77,
+      "prior_variance": 0.11517,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.5459,
+      "prior_variance": 0.116533,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.9424,
+      "prior_variance": 0.149019,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -2.6748,
+      "prior_variance": 0.132654,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.2566,
+      "prior_variance": 0.112718,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -2.8474,
+      "prior_variance": 0.150117,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -1.7889,
+      "prior_variance": 0.107226,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -4.5374,
+      "prior_variance": 0.152763,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -6.6349,
+      "prior_variance": 0.261304,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -2.273,
+      "prior_variance": 0.113994,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Robertsport",
+      "path": "africa/liberia/robertsport",
+      "prior_score": -4.6547,
+      "prior_variance": 0.139025,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.7065,
+      "prior_variance": 0.117156,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.0071,
+      "prior_variance": 0.135469,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -4.9355,
+      "prior_variance": 0.13021,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -5.102,
+      "prior_variance": 0.149877,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_score": -6.2532,
+      "prior_variance": 0.154002,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -5.9002,
+      "prior_variance": 0.150261,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -4.7293,
+      "prior_variance": 0.146351,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -5.5947,
+      "prior_variance": 0.156279,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -5.9181,
+      "prior_variance": 0.169386,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.9021,
+      "prior_variance": 0.282189,
+      "prior_n": 11
+    }
+  ]
+}

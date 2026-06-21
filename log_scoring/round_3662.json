@@ -1,0 +1,200 @@
+{
+  "round": 3662,
+  "timestamp": "2026-06-13T23:10:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 9.7718,
+      "prior_variance": 0.272042,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 10.0405,
+      "prior_variance": 0.304282,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 9.9898,
+      "prior_variance": 0.263236,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 8.3057,
+      "prior_variance": 0.388257,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 9.7405,
+      "prior_variance": 0.203014,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 1.744,
+      "prior_variance": 0.132238,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 3.7308,
+      "prior_variance": 0.133742,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_score": 2.9694,
+      "prior_variance": 0.116583,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.4577,
+      "prior_variance": 0.11898,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.2001,
+      "prior_variance": 0.114475,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Sergiev Posad",
+      "path": "europe/russia/sergievposad",
+      "prior_score": 1.0658,
+      "prior_variance": 0.111234,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": 0.3567,
+      "prior_variance": 0.122599,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 1.0084,
+      "prior_variance": 0.100602,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -1.0513,
+      "prior_variance": 0.17126,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.95,
+      "prior_variance": 0.113433,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": -0.2692,
+      "prior_variance": 0.122391,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 0.6584,
+      "prior_variance": 0.13339,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -0.1788,
+      "prior_variance": 0.108586,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -0.6307,
+      "prior_variance": 0.12487,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 0.0877,
+      "prior_variance": 0.115164,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.7462,
+      "prior_variance": 0.113275,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.0228,
+      "prior_variance": 0.116475,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Vijayanagaram",
+      "path": "asia/india/andhrapradesh/vijayanagaram",
+      "prior_score": -5.3107,
+      "prior_variance": 0.139056,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -5.4044,
+      "prior_variance": 0.218622,
+      "prior_n": 11
+    }
+  ]
+}

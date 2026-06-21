@@ -1,0 +1,200 @@
+{
+  "round": 1517,
+  "timestamp": "2026-06-13T20:35:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 16.1012,
+      "prior_variance": 0.843176,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 6.0352,
+      "prior_variance": 0.350134,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 5.2112,
+      "prior_variance": 0.386846,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 6.775,
+      "prior_variance": 0.265144,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 7.1174,
+      "prior_variance": 0.426198,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Torrey",
+      "path": "northamerica/unitedstates/utah/torrey",
+      "prior_score": 4.1702,
+      "prior_variance": 0.31288,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 5.2557,
+      "prior_variance": 0.384521,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 6.0748,
+      "prior_variance": 0.392191,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.6934,
+      "prior_variance": 0.253217,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.0639,
+      "prior_variance": 0.401971,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 2.4651,
+      "prior_variance": 0.306784,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 4.4173,
+      "prior_variance": 0.283156,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 5.6004,
+      "prior_variance": 0.323395,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Gallipoli",
+      "path": "asia/turkey/gallipoli",
+      "prior_score": 3.4793,
+      "prior_variance": 0.3227,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.8152,
+      "prior_variance": 0.256026,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.5913,
+      "prior_variance": 0.260935,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.1234,
+      "prior_variance": 0.279545,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -2.2456,
+      "prior_variance": 0.257869,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -3.3473,
+      "prior_variance": 0.267325,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -2.2557,
+      "prior_variance": 0.318004,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -4.9829,
+      "prior_variance": 0.418867,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -7.7234,
+      "prior_variance": 0.538356,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -8.6077,
+      "prior_variance": 0.417937,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -11.2659,
+      "prior_variance": 0.601485,
+      "prior_n": 4
+    }
+  ]
+}

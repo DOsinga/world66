@@ -1,0 +1,200 @@
+{
+  "round": 414,
+  "timestamp": "2026-06-13T19:34:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": -0.4721,
+      "prior_variance": 1.534353,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -3.9501,
+      "prior_variance": 2.032441,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -2.7917,
+      "prior_variance": 1.62946,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/ashbourne",
+      "prior_score": -5.4876,
+      "prior_variance": 1.692283,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -2.7065,
+      "prior_variance": 3.057629,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -6.1713,
+      "prior_variance": 1.576376,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -7.411,
+      "prior_variance": 2.243756,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -9.2002,
+      "prior_variance": 3.441939,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -9.1088,
+      "prior_variance": 2.584368,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -5.8011,
+      "prior_variance": 2.424838,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -7.6052,
+      "prior_variance": 1.774333,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -4.6295,
+      "prior_variance": 1.499748,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -13.2002,
+      "prior_variance": 6.89157,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -8.8925,
+      "prior_variance": 2.058434,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -4.2663,
+      "prior_variance": 1.570532,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -6.2933,
+      "prior_variance": 4.761333,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -5.4291,
+      "prior_variance": 1.98284,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -10.0775,
+      "prior_variance": 3.61752,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -9.0441,
+      "prior_variance": 2.01114,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -8.6282,
+      "prior_variance": 3.998132,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -6.9746,
+      "prior_variance": 1.405439,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -8.6222,
+      "prior_variance": 2.388169,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -7.696,
+      "prior_variance": 1.603951,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -6.2951,
+      "prior_variance": 1.348118,
+      "prior_n": 1
+    }
+  ]
+}

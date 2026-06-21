@@ -1,0 +1,200 @@
+{
+  "round": 1415,
+  "timestamp": "2026-06-13T20:29:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 13.2639,
+      "prior_variance": 0.476757,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 9.8845,
+      "prior_variance": 0.378113,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 7.5709,
+      "prior_variance": 0.353458,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 6.4896,
+      "prior_variance": 0.333136,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 5.3582,
+      "prior_variance": 0.343842,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Troy",
+      "path": "asia/turkey/troy",
+      "prior_score": 3.6319,
+      "prior_variance": 0.403261,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Limburg an der Lahn",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": 0.3501,
+      "prior_variance": 0.31448,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": 0.7274,
+      "prior_variance": 0.299957,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.035,
+      "prior_variance": 0.370356,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -0.4891,
+      "prior_variance": 0.330967,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 0.807,
+      "prior_variance": 0.311852,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 1.2668,
+      "prior_variance": 0.293636,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sumbawa",
+      "path": "asia/indonesia/sumbawa",
+      "prior_score": -1.5529,
+      "prior_variance": 0.363723,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -4.4487,
+      "prior_variance": 0.314807,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.5104,
+      "prior_variance": 0.323918,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_city",
+      "prior_score": -2.5513,
+      "prior_variance": 0.30991,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": 0.381,
+      "prior_variance": 0.310818,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -3.3329,
+      "prior_variance": 0.295549,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -2.824,
+      "prior_variance": 0.259345,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -6.1903,
+      "prior_variance": 0.366573,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -6.1941,
+      "prior_variance": 0.525796,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "New Aberdour",
+      "path": "europe/unitedkingdom/scotland/new_aberdour",
+      "prior_score": -3.1358,
+      "prior_variance": 0.330309,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -6.9005,
+      "prior_variance": 0.403202,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -6.9026,
+      "prior_variance": 0.338861,
+      "prior_n": 4
+    }
+  ]
+}

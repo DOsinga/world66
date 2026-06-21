@@ -1,0 +1,200 @@
+{
+  "round": 1672,
+  "timestamp": "2026-06-13T20:45:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 7.1392,
+      "prior_variance": 0.470724,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 0.9695,
+      "prior_variance": 0.324165,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.3466,
+      "prior_variance": 0.294608,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 1.9494,
+      "prior_variance": 0.345666,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 2.0154,
+      "prior_variance": 0.20991,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.3858,
+      "prior_variance": 0.264025,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.6839,
+      "prior_variance": 0.284265,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Great Zimbabwe",
+      "path": "africa/zimbabwe/greatzimbabwe",
+      "prior_score": 2.2497,
+      "prior_variance": 0.221647,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -1.4779,
+      "prior_variance": 0.264738,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.6196,
+      "prior_variance": 0.294328,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 1.7152,
+      "prior_variance": 0.240485,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lancaster City",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lancaster_city",
+      "prior_score": -1.4013,
+      "prior_variance": 0.253897,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.895,
+      "prior_variance": 0.260016,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lang De",
+      "path": "asia/china/guizhou/lang_de",
+      "prior_score": -3.1047,
+      "prior_variance": 0.255407,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -2.21,
+      "prior_variance": 0.247083,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -2.9114,
+      "prior_variance": 0.251181,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Songtan",
+      "path": "asia/southkorea/songtan",
+      "prior_score": -2.6574,
+      "prior_variance": 0.244035,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -3.3728,
+      "prior_variance": 0.249317,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sapo National Park",
+      "path": "africa/liberia/sapo",
+      "prior_score": -2.6046,
+      "prior_variance": 0.34256,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_score": -4.7153,
+      "prior_variance": 0.284221,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bolton",
+      "prior_score": -4.3596,
+      "prior_variance": 0.249148,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -5.2407,
+      "prior_variance": 0.305645,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -6.5585,
+      "prior_variance": 0.492005,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -7.232,
+      "prior_variance": 0.405947,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1846,
+  "timestamp": "2026-06-13T20:56:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 10.533,
+      "prior_variance": 0.485454,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 9.4449,
+      "prior_variance": 0.416219,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Noum\u00e9a",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 3.2343,
+      "prior_variance": 0.230086,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -0.5151,
+      "prior_variance": 0.227063,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 3.0136,
+      "prior_variance": 0.229465,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.1496,
+      "prior_variance": 0.220467,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 8.0628,
+      "prior_variance": 0.345263,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 2.1192,
+      "prior_variance": 0.293525,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": -0.3112,
+      "prior_variance": 0.214521,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.504,
+      "prior_variance": 0.201258,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.7721,
+      "prior_variance": 0.257611,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cz\u0119stochowa",
+      "path": "europe/poland/czestochowa",
+      "prior_score": -0.1381,
+      "prior_variance": 0.240819,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.3551,
+      "prior_variance": 0.207474,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": -0.4009,
+      "prior_variance": 0.264855,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -3.2622,
+      "prior_variance": 0.206145,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": -0.9082,
+      "prior_variance": 0.250794,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -0.8929,
+      "prior_variance": 0.273098,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -0.9914,
+      "prior_variance": 0.214181,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.0328,
+      "prior_variance": 0.267316,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -5.2647,
+      "prior_variance": 0.29685,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -5.3167,
+      "prior_variance": 0.254382,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/south_east/gosport",
+      "prior_score": -4.3454,
+      "prior_variance": 0.212818,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -5.7128,
+      "prior_variance": 0.219,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -8.7775,
+      "prior_variance": 0.356763,
+      "prior_n": 5
+    }
+  ]
+}

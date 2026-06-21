@@ -1,0 +1,200 @@
+{
+  "round": 1613,
+  "timestamp": "2026-06-13T20:41:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 11.86,
+      "prior_variance": 0.386708,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.9302,
+      "prior_variance": 0.30142,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.8546,
+      "prior_variance": 0.264795,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 2.1003,
+      "prior_variance": 0.341849,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 6.1122,
+      "prior_variance": 0.274217,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 3.629,
+      "prior_variance": 0.30325,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.0855,
+      "prior_variance": 0.284212,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": -1.0159,
+      "prior_variance": 0.278015,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 2.799,
+      "prior_variance": 0.329814,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 2.6194,
+      "prior_variance": 0.262512,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 2.1152,
+      "prior_variance": 0.293961,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.3401,
+      "prior_variance": 0.261085,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": -0.4989,
+      "prior_variance": 0.298615,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 0.8002,
+      "prior_variance": 0.277587,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.5849,
+      "prior_variance": 0.208494,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -4.2029,
+      "prior_variance": 0.25088,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -1.9956,
+      "prior_variance": 0.276077,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -6.4276,
+      "prior_variance": 0.30337,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -6.0546,
+      "prior_variance": 0.251691,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -7.2546,
+      "prior_variance": 0.370238,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -5.6753,
+      "prior_variance": 0.264985,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -5.5903,
+      "prior_variance": 0.321697,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -6.7299,
+      "prior_variance": 0.291291,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -8.6704,
+      "prior_variance": 0.506048,
+      "prior_n": 5
+    }
+  ]
+}

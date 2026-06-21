@@ -1,0 +1,200 @@
+{
+  "round": 335,
+  "timestamp": "2026-06-13T19:30:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 12.0062,
+      "prior_variance": 8.644741,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 13.3522,
+      "prior_variance": 7.95514,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 1.7801,
+      "prior_variance": 1.630216,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lugo",
+      "path": "europe/spain/galicia/lugo",
+      "prior_score": 4.3032,
+      "prior_variance": 2.071287,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": -0.5295,
+      "prior_variance": 1.660672,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 2.4604,
+      "prior_variance": 1.934329,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": -0.9041,
+      "prior_variance": 1.704973,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -4.8633,
+      "prior_variance": 1.418228,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -5.1051,
+      "prior_variance": 2.110818,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -2.7941,
+      "prior_variance": 1.447517,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -1.8829,
+      "prior_variance": 1.941782,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -3.2346,
+      "prior_variance": 1.707961,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": 0.7703,
+      "prior_variance": 2.234324,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -6.8279,
+      "prior_variance": 1.773855,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -8.9469,
+      "prior_variance": 2.08543,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nandaihe",
+      "path": "asia/china/hebei/nandaihe",
+      "prior_score": -8.8774,
+      "prior_variance": 1.80517,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -9.1778,
+      "prior_variance": 2.509181,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -8.6529,
+      "prior_variance": 1.640301,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -9.2641,
+      "prior_variance": 2.568092,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Songyuan",
+      "path": "asia/china/jilin/songyuan",
+      "prior_score": -9.3805,
+      "prior_variance": 2.539304,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -10.7292,
+      "prior_variance": 3.472851,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -12.2497,
+      "prior_variance": 8.187183,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -7.1037,
+      "prior_variance": 1.751874,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 3.9827,
+      "prior_variance": 1.568322,
+      "prior_n": 1
+    }
+  ]
+}

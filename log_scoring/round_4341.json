@@ -1,0 +1,200 @@
+{
+  "round": 4341,
+  "timestamp": "2026-06-14T00:05:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 7.6846,
+      "prior_variance": 0.145795,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 8.9051,
+      "prior_variance": 0.159443,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 3.0218,
+      "prior_variance": 0.10591,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 2.2179,
+      "prior_variance": 0.101523,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "S'Arenal",
+      "path": "europe/spain/balearicislands/mallorca/arenal",
+      "prior_score": 1.8645,
+      "prior_variance": 0.100465,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.6658,
+      "prior_variance": 0.096148,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 1.6655,
+      "prior_variance": 0.102958,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.4016,
+      "prior_variance": 0.093237,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.0399,
+      "prior_variance": 0.098853,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.7247,
+      "prior_variance": 0.102289,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -1.3769,
+      "prior_variance": 0.153251,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": 0.0414,
+      "prior_variance": 0.105218,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.7627,
+      "prior_variance": 0.102443,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.4388,
+      "prior_variance": 0.113566,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 1.1375,
+      "prior_variance": 0.096693,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Upper Kern River",
+      "path": "northamerica/unitedstates/california/centralvalley/upper_kern_river",
+      "prior_score": -0.4705,
+      "prior_variance": 0.095152,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.0851,
+      "prior_variance": 0.110614,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.5631,
+      "prior_variance": 0.101115,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.2182,
+      "prior_variance": 0.106253,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.6834,
+      "prior_variance": 0.100018,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.6157,
+      "prior_variance": 0.088128,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -3.9129,
+      "prior_variance": 0.197608,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.5829,
+      "prior_variance": 0.093696,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Gjakova",
+      "path": "europe/serbia/kosovoprovince/gjakova",
+      "prior_score": -3.0093,
+      "prior_variance": 0.0959,
+      "prior_n": 14
+    }
+  ]
+}

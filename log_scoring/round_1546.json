@@ -1,0 +1,200 @@
+{
+  "round": 1546,
+  "timestamp": "2026-06-13T20:37:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 16.0498,
+      "prior_variance": 1.218902,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 13.009,
+      "prior_variance": 0.533618,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.3796,
+      "prior_variance": 0.455115,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 18.0477,
+      "prior_variance": 1.577922,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 4.1471,
+      "prior_variance": 0.426501,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.6042,
+      "prior_variance": 0.314939,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.1215,
+      "prior_variance": 0.245073,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Thiruvananthapuram",
+      "path": "asia/india/kerala/thiruvananthapuram",
+      "prior_score": 1.3643,
+      "prior_variance": 0.276321,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.437,
+      "prior_variance": 0.348644,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.2404,
+      "prior_variance": 0.262711,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_score": 1.044,
+      "prior_variance": 0.247305,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -1.0223,
+      "prior_variance": 0.33234,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -1.3528,
+      "prior_variance": 0.304856,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.8007,
+      "prior_variance": 0.252404,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7553,
+      "prior_variance": 0.243687,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -1.8376,
+      "prior_variance": 0.252066,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -3.3972,
+      "prior_variance": 0.391644,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.3396,
+      "prior_variance": 0.225486,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -2.543,
+      "prior_variance": 0.435349,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lo Pag\u00e1n",
+      "path": "europe/spain/murcia/lopagan",
+      "prior_score": -1.1753,
+      "prior_variance": 0.244516,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.302,
+      "prior_variance": 0.281791,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -5.2176,
+      "prior_variance": 0.319319,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_score": -4.6585,
+      "prior_variance": 0.270795,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -8.5573,
+      "prior_variance": 0.398672,
+      "prior_n": 4
+    }
+  ]
+}

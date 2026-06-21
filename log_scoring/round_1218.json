@@ -1,0 +1,200 @@
+{
+  "round": 1218,
+  "timestamp": "2026-06-13T20:17:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 7.6465,
+      "prior_variance": 0.411476,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 5.4727,
+      "prior_variance": 0.501132,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.7394,
+      "prior_variance": 0.372457,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 7.2653,
+      "prior_variance": 0.350495,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 7.1627,
+      "prior_variance": 0.350473,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 5.3919,
+      "prior_variance": 0.350569,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 7.332,
+      "prior_variance": 0.54742,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 5.7195,
+      "prior_variance": 0.360613,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 4.5243,
+      "prior_variance": 0.361477,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 4.4844,
+      "prior_variance": 0.381378,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 5.0044,
+      "prior_variance": 0.380848,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 4.8942,
+      "prior_variance": 0.453985,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 5.2605,
+      "prior_variance": 0.34522,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_score": 5.481,
+      "prior_variance": 0.400132,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.8458,
+      "prior_variance": 0.404303,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 4.6858,
+      "prior_variance": 0.457651,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -4.9258,
+      "prior_variance": 0.416979,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -5.6601,
+      "prior_variance": 0.375229,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -0.9223,
+      "prior_variance": 0.306671,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -2.4233,
+      "prior_variance": 0.3581,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -5.2241,
+      "prior_variance": 0.594783,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -4.6247,
+      "prior_variance": 0.304083,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -5.4899,
+      "prior_variance": 0.440207,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -4.6031,
+      "prior_variance": 0.312437,
+      "prior_n": 4
+    }
+  ]
+}

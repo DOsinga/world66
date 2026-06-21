@@ -1,0 +1,200 @@
+{
+  "round": 1045,
+  "timestamp": "2026-06-13T20:07:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 2.1218,
+      "prior_variance": 0.397391,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -5.7526,
+      "prior_variance": 0.66466,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -4.888,
+      "prior_variance": 0.46742,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -3.1602,
+      "prior_variance": 0.646791,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -5.3304,
+      "prior_variance": 0.662023,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -5.421,
+      "prior_variance": 0.412742,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -8.1455,
+      "prior_variance": 0.578329,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -3.2384,
+      "prior_variance": 0.595468,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -5.9108,
+      "prior_variance": 0.677096,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -8.7731,
+      "prior_variance": 0.545798,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.1255,
+      "prior_variance": 0.443432,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -7.2505,
+      "prior_variance": 0.588057,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -6.2231,
+      "prior_variance": 0.559544,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/south_east/gosport",
+      "prior_score": -6.5495,
+      "prior_variance": 0.475994,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -4.7432,
+      "prior_variance": 0.496184,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -7.5126,
+      "prior_variance": 0.666493,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -7.1549,
+      "prior_variance": 0.437824,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -6.3021,
+      "prior_variance": 0.47847,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -6.9506,
+      "prior_variance": 0.597018,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -7.4616,
+      "prior_variance": 0.541302,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -8.8661,
+      "prior_variance": 0.553929,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -5.013,
+      "prior_variance": 0.416106,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -6.8387,
+      "prior_variance": 0.569338,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -7.9025,
+      "prior_variance": 0.57847,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 864,
+  "timestamp": "2026-06-13T19:57:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 12.5769,
+      "prior_variance": 1.297695,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 11.8843,
+      "prior_variance": 0.543294,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 12.044,
+      "prior_variance": 0.90675,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 14.361,
+      "prior_variance": 1.577815,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 12.5032,
+      "prior_variance": 0.817763,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 11.4876,
+      "prior_variance": 0.737997,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 9.9847,
+      "prior_variance": 1.118321,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 12.2657,
+      "prior_variance": 0.625179,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 12.1663,
+      "prior_variance": 1.334939,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 11.2011,
+      "prior_variance": 0.837869,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ilha Grande",
+      "path": "southamerica/brazil/ilhagrande",
+      "prior_score": 10.313,
+      "prior_variance": 0.862551,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 10.8768,
+      "prior_variance": 1.051858,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Aswan",
+      "path": "africa/egypt/aswan",
+      "prior_score": 11.9486,
+      "prior_variance": 0.647073,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Noosa Heads",
+      "path": "australiaandpacific/australia/queensland/noosaheads",
+      "prior_score": 11.5334,
+      "prior_variance": 0.706079,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/napa",
+      "prior_score": 5.6128,
+      "prior_variance": 0.929781,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 11.5762,
+      "prior_variance": 1.276992,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 8.5853,
+      "prior_variance": 0.649059,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 1.4459,
+      "prior_variance": 0.940866,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 12.0642,
+      "prior_variance": 0.916753,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Delhi",
+      "path": "asia/india/delhi",
+      "prior_score": 11.2271,
+      "prior_variance": 1.430238,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 10.6855,
+      "prior_variance": 1.11145,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Namtso Lake",
+      "path": "asia/china/tibet/namtso_lake",
+      "prior_score": 10.3079,
+      "prior_variance": 1.271983,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_score": 12.7539,
+      "prior_variance": 1.260047,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 10.6099,
+      "prior_variance": 1.164607,
+      "prior_n": 2
+    }
+  ]
+}

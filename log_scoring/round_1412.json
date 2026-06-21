@@ -1,0 +1,200 @@
+{
+  "round": 1412,
+  "timestamp": "2026-06-13T20:29:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 7.0813,
+      "prior_variance": 0.691148,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 7.519,
+      "prior_variance": 0.394961,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Trinidad",
+      "path": "northamerica/thecaribbean/cuba/trinidad",
+      "prior_score": 8.7481,
+      "prior_variance": 0.417986,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 6.0647,
+      "prior_variance": 0.34934,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 8.1466,
+      "prior_variance": 0.337669,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 5.8534,
+      "prior_variance": 0.464251,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 3.0406,
+      "prior_variance": 0.355592,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 6.2998,
+      "prior_variance": 0.466247,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 0.7208,
+      "prior_variance": 0.307774,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 1.2286,
+      "prior_variance": 0.329958,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.8597,
+      "prior_variance": 0.330003,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -1.9871,
+      "prior_variance": 0.311334,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": -0.5334,
+      "prior_variance": 0.30302,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -2.3974,
+      "prior_variance": 0.334099,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.7105,
+      "prior_variance": 0.285462,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -4.075,
+      "prior_variance": 0.331345,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -2.6335,
+      "prior_variance": 0.415385,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -3.8557,
+      "prior_variance": 0.493183,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.3879,
+      "prior_variance": 0.31858,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -9.6361,
+      "prior_variance": 0.395218,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Piedras Negras",
+      "path": "northamerica/mexico/piedras_negras_co",
+      "prior_score": -6.4147,
+      "prior_variance": 0.326563,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/delta",
+      "prior_score": -4.1232,
+      "prior_variance": 0.292338,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Buchanan",
+      "path": "africa/liberia/buchanan",
+      "prior_score": -8.6045,
+      "prior_variance": 0.579977,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -8.9417,
+      "prior_variance": 0.40431,
+      "prior_n": 4
+    }
+  ]
+}

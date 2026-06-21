@@ -1,0 +1,200 @@
+{
+  "round": 1204,
+  "timestamp": "2026-06-13T20:17:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 13.2611,
+      "prior_variance": 0.632884,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 12.5272,
+      "prior_variance": 0.43707,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 6.5877,
+      "prior_variance": 0.449205,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 6.9128,
+      "prior_variance": 0.421822,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 6.6745,
+      "prior_variance": 0.453005,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 7.4309,
+      "prior_variance": 0.626401,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -5.7917,
+      "prior_variance": 0.373411,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -4.8756,
+      "prior_variance": 0.323882,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -5.317,
+      "prior_variance": 0.40767,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -5.5166,
+      "prior_variance": 0.390187,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -8.4358,
+      "prior_variance": 0.551034,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Paldiski",
+      "path": "europe/estonia/paldiski",
+      "prior_score": -4.7447,
+      "prior_variance": 0.548688,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bharuch",
+      "path": "asia/india/gujarat/bharuch",
+      "prior_score": -5.6407,
+      "prior_variance": 0.391078,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -9.3164,
+      "prior_variance": 0.587121,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -6.9189,
+      "prior_variance": 0.656883,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Dhule",
+      "path": "asia/india/maharashtra/dhule",
+      "prior_score": -6.9006,
+      "prior_variance": 0.478546,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -8.1098,
+      "prior_variance": 0.504901,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -7.8575,
+      "prior_variance": 0.40934,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/south_east/slough",
+      "prior_score": -7.1367,
+      "prior_variance": 0.485962,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -7.0607,
+      "prior_variance": 0.585672,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -3.916,
+      "prior_variance": 0.621584,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -10.213,
+      "prior_variance": 0.829636,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -11.0854,
+      "prior_variance": 0.818678,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -12.4803,
+      "prior_variance": 2.910366,
+      "prior_n": 3
+    }
+  ]
+}

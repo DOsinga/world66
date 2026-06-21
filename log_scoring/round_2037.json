@@ -1,0 +1,200 @@
+{
+  "round": 2037,
+  "timestamp": "2026-06-13T21:14:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 9.2949,
+      "prior_variance": 0.327083,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/pasadena",
+      "prior_score": 1.8501,
+      "prior_variance": 0.239261,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": -0.26,
+      "prior_variance": 0.208474,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 1.9513,
+      "prior_variance": 0.186404,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 0.7723,
+      "prior_variance": 0.270688,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 1.7806,
+      "prior_variance": 0.171766,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.6228,
+      "prior_variance": 0.216968,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.4717,
+      "prior_variance": 0.223071,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": -0.1245,
+      "prior_variance": 0.220814,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -1.7435,
+      "prior_variance": 0.217316,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -1.6879,
+      "prior_variance": 0.196686,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -4.1638,
+      "prior_variance": 0.341638,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.2569,
+      "prior_variance": 0.216201,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Porkeri",
+      "path": "europe/faroeislands/suuroy/porkeri",
+      "prior_score": -1.8817,
+      "prior_variance": 0.195537,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -1.4737,
+      "prior_variance": 0.215346,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -1.9943,
+      "prior_variance": 0.222921,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -2.1601,
+      "prior_variance": 0.197713,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.9525,
+      "prior_variance": 0.217087,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -3.4347,
+      "prior_variance": 0.233439,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.9798,
+      "prior_variance": 0.234979,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -3.5666,
+      "prior_variance": 0.219508,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -4.0473,
+      "prior_variance": 0.245637,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nantong",
+      "path": "asia/china/jiangsu_province/nantong",
+      "prior_score": -5.1262,
+      "prior_variance": 0.275551,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -5.0711,
+      "prior_variance": 0.200944,
+      "prior_n": 6
+    }
+  ]
+}

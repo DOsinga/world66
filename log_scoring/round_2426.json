@@ -1,0 +1,200 @@
+{
+  "round": 2426,
+  "timestamp": "2026-06-13T21:41:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 13.6815,
+      "prior_variance": 0.638542,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 8.1275,
+      "prior_variance": 0.261019,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 5.3074,
+      "prior_variance": 0.201063,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 5.809,
+      "prior_variance": 0.225489,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.9127,
+      "prior_variance": 0.249584,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.7414,
+      "prior_variance": 0.211843,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Taupo",
+      "path": "australiaandpacific/newzealand/central_plateau/taupo",
+      "prior_score": 5.9032,
+      "prior_variance": 0.248061,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 6.2321,
+      "prior_variance": 0.20138,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 4.5302,
+      "prior_variance": 0.211197,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.8566,
+      "prior_variance": 0.181117,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 6.3662,
+      "prior_variance": 0.220652,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 1.6283,
+      "prior_variance": 0.206338,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.4661,
+      "prior_variance": 0.174203,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 4.1658,
+      "prior_variance": 0.20445,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.0883,
+      "prior_variance": 0.180823,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -2.0087,
+      "prior_variance": 0.182431,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.4361,
+      "prior_variance": 0.182779,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.8273,
+      "prior_variance": 0.179166,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.5687,
+      "prior_variance": 0.247227,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.837,
+      "prior_variance": 0.171186,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -2.5005,
+      "prior_variance": 0.218082,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": -1.1818,
+      "prior_variance": 0.181459,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.0635,
+      "prior_variance": 0.179283,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -4.2454,
+      "prior_variance": 0.175218,
+      "prior_n": 9
+    }
+  ]
+}

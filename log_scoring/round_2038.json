@@ -1,0 +1,200 @@
+{
+  "round": 2038,
+  "timestamp": "2026-06-13T21:14:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Geirangerfjord",
+      "path": "europe/norway/geirangerfjord",
+      "prior_score": 12.4802,
+      "prior_variance": 0.488895,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 7.7786,
+      "prior_variance": 0.333857,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 9.0065,
+      "prior_variance": 0.377741,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Corcovado National Park",
+      "path": "northamerica/costarica/corcovado",
+      "prior_score": 5.6725,
+      "prior_variance": 0.275712,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 6.8259,
+      "prior_variance": 0.267401,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 6.6126,
+      "prior_variance": 0.254118,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": -0.299,
+      "prior_variance": 0.259865,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": 0.2551,
+      "prior_variance": 0.207357,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -0.7987,
+      "prior_variance": 0.258795,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 1.1124,
+      "prior_variance": 0.218012,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.7791,
+      "prior_variance": 0.251262,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.9539,
+      "prior_variance": 0.202906,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -2.7728,
+      "prior_variance": 0.313239,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -2.2994,
+      "prior_variance": 0.207861,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -1.6592,
+      "prior_variance": 0.21291,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -3.7193,
+      "prior_variance": 0.216146,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -2.449,
+      "prior_variance": 0.241827,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -0.5978,
+      "prior_variance": 0.218254,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "\u017dilina",
+      "path": "europe/slovakia/zilina",
+      "prior_score": -1.1231,
+      "prior_variance": 0.184865,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -2.7326,
+      "prior_variance": 0.218419,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Metaponto",
+      "path": "europe/italy/basilicata/metaponto",
+      "prior_score": -0.6228,
+      "prior_variance": 0.216968,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.5818,
+      "prior_variance": 0.242558,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -2.1012,
+      "prior_variance": 0.266535,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.2432,
+      "prior_variance": 0.214547,
+      "prior_n": 6
+    }
+  ]
+}

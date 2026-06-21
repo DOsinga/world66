@@ -1,0 +1,200 @@
+{
+  "round": 2380,
+  "timestamp": "2026-06-13T21:38:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 3.3819,
+      "prior_variance": 0.213997,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 3.3398,
+      "prior_variance": 0.187146,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 0.6843,
+      "prior_variance": 0.180844,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.2804,
+      "prior_variance": 0.171651,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.4189,
+      "prior_variance": 0.18977,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_score": -1.599,
+      "prior_variance": 0.232971,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.2843,
+      "prior_variance": 0.172665,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.1769,
+      "prior_variance": 0.197067,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": -1.3188,
+      "prior_variance": 0.22502,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -3.1327,
+      "prior_variance": 0.213833,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": -3.709,
+      "prior_variance": 0.200299,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.2631,
+      "prior_variance": 0.159686,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.4414,
+      "prior_variance": 0.182903,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.4174,
+      "prior_variance": 0.208186,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -5.6753,
+      "prior_variance": 0.273214,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -5.0751,
+      "prior_variance": 0.281168,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ki\u010devo",
+      "path": "europe/macedonia/kicevo",
+      "prior_score": -4.9992,
+      "prior_variance": 0.218524,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.6056,
+      "prior_variance": 0.194215,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -6.0398,
+      "prior_variance": 0.242578,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.4663,
+      "prior_variance": 0.181497,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -8.8835,
+      "prior_variance": 0.373485,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -9.271,
+      "prior_variance": 0.351101,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -10.2715,
+      "prior_variance": 0.290582,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -13.3618,
+      "prior_variance": 0.596228,
+      "prior_n": 7
+    }
+  ]
+}

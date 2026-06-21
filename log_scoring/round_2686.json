@@ -1,0 +1,200 @@
+{
+  "round": 2686,
+  "timestamp": "2026-06-13T22:00:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 9.6949,
+      "prior_variance": 0.346161,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.6641,
+      "prior_variance": 0.192026,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 5.4935,
+      "prior_variance": 0.166441,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 5.6726,
+      "prior_variance": 0.265012,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 4.6829,
+      "prior_variance": 0.143262,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 4.5548,
+      "prior_variance": 0.215378,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 3.4758,
+      "prior_variance": 0.153163,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 3.7863,
+      "prior_variance": 0.181312,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.4856,
+      "prior_variance": 0.189366,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Den Bosch",
+      "path": "europe/netherlands/denbosch",
+      "prior_score": 1.3221,
+      "prior_variance": 0.187562,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 2.1012,
+      "prior_variance": 0.143077,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.7582,
+      "prior_variance": 0.165383,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.5801,
+      "prior_variance": 0.198839,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.6691,
+      "prior_variance": 0.16247,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -0.5844,
+      "prior_variance": 0.148393,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.8481,
+      "prior_variance": 0.165466,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Punat",
+      "path": "europe/croatia/krkisland/punat",
+      "prior_score": 2.3224,
+      "prior_variance": 0.147763,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.2412,
+      "prior_variance": 0.143309,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -0.4877,
+      "prior_variance": 0.206863,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.462,
+      "prior_variance": 0.128633,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.719,
+      "prior_variance": 0.153794,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.7159,
+      "prior_variance": 0.178701,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Lamia",
+      "path": "europe/greece/lamia",
+      "prior_score": -2.3335,
+      "prior_variance": 0.17651,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -1.7698,
+      "prior_variance": 0.197955,
+      "prior_n": 8
+    }
+  ]
+}

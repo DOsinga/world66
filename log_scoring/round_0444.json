@@ -1,0 +1,200 @@
+{
+  "round": 444,
+  "timestamp": "2026-06-13T19:35:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arcachon",
+      "path": "europe/france/aquitaine/arcachon",
+      "prior_score": 2.5649,
+      "prior_variance": 2.527172,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.3721,
+      "prior_variance": 1.477674,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -3.3755,
+      "prior_variance": 1.717692,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.9527,
+      "prior_variance": 2.619325,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": -1.665,
+      "prior_variance": 1.224286,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hohhot",
+      "path": "asia/china/innermongolia/hohhot",
+      "prior_score": -0.5955,
+      "prior_variance": 1.574044,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 1.8467,
+      "prior_variance": 2.960612,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -2.0011,
+      "prior_variance": 7.636685,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": -1.7997,
+      "prior_variance": 1.35555,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -2.4018,
+      "prior_variance": 1.691312,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kremnica",
+      "path": "europe/slovakia/kremnica",
+      "prior_score": 0.0074,
+      "prior_variance": 2.092778,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -2.6865,
+      "prior_variance": 1.498413,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -4.9697,
+      "prior_variance": 1.887115,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -3.4711,
+      "prior_variance": 3.026768,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -3.1767,
+      "prior_variance": 2.265732,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": -0.9376,
+      "prior_variance": 1.62621,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.1802,
+      "prior_variance": 1.60276,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -3.3384,
+      "prior_variance": 1.43114,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -2.7863,
+      "prior_variance": 2.225737,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -3.229,
+      "prior_variance": 1.66733,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -5.8606,
+      "prior_variance": 1.405817,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.4314,
+      "prior_variance": 1.391324,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -3.8853,
+      "prior_variance": 1.476219,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -7.639,
+      "prior_variance": 2.129816,
+      "prior_n": 1
+    }
+  ]
+}

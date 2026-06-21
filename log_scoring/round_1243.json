@@ -1,0 +1,200 @@
+{
+  "round": 1243,
+  "timestamp": "2026-06-13T20:19:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 12.426,
+      "prior_variance": 0.569469,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 4.4474,
+      "prior_variance": 0.52446,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 4.4777,
+      "prior_variance": 0.362303,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -1.0007,
+      "prior_variance": 0.313656,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -2.0602,
+      "prior_variance": 0.694814,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -4.0061,
+      "prior_variance": 0.332226,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": -0.7537,
+      "prior_variance": 0.335866,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.5919,
+      "prior_variance": 0.304384,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -2.0043,
+      "prior_variance": 0.382951,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -1.5697,
+      "prior_variance": 0.308392,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.4463,
+      "prior_variance": 0.322551,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_score": -1.7068,
+      "prior_variance": 0.361619,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_score": -5.01,
+      "prior_variance": 0.538721,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": -1.0264,
+      "prior_variance": 0.330407,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -2.3298,
+      "prior_variance": 0.306098,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -2.0111,
+      "prior_variance": 0.413115,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -1.985,
+      "prior_variance": 0.430649,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -3.6371,
+      "prior_variance": 0.39016,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.2012,
+      "prior_variance": 0.333738,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -3.9255,
+      "prior_variance": 0.347869,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -4.8606,
+      "prior_variance": 0.30567,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -6.0151,
+      "prior_variance": 0.412464,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -3.6073,
+      "prior_variance": 0.461271,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -5.0308,
+      "prior_variance": 0.687633,
+      "prior_n": 3
+    }
+  ]
+}

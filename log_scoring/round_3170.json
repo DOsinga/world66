@@ -1,0 +1,200 @@
+{
+  "round": 3170,
+  "timestamp": "2026-06-13T22:33:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 5.0268,
+      "prior_variance": 0.176886,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Colorado Springs",
+      "path": "northamerica/unitedstates/colorado/coloradosprings",
+      "prior_score": 4.4028,
+      "prior_variance": 0.199057,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Matamata",
+      "path": "australiaandpacific/newzealand/matamata",
+      "prior_score": 2.8972,
+      "prior_variance": 0.136581,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 1.82,
+      "prior_variance": 0.144438,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 3.3522,
+      "prior_variance": 0.13284,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.4429,
+      "prior_variance": 0.139631,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 3.0049,
+      "prior_variance": 0.131356,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.1914,
+      "prior_variance": 0.113983,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 6.1578,
+      "prior_variance": 0.163561,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -0.7453,
+      "prior_variance": 0.148623,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 0.5417,
+      "prior_variance": 0.128791,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 2.253,
+      "prior_variance": 0.139582,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bear Lake",
+      "path": "northamerica/unitedstates/utah/bearlake",
+      "prior_score": 0.8753,
+      "prior_variance": 0.133777,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.4844,
+      "prior_variance": 0.127555,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": 0.0847,
+      "prior_variance": 0.1405,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.2463,
+      "prior_variance": 0.129729,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 2.6717,
+      "prior_variance": 0.13305,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.286,
+      "prior_variance": 0.147741,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -2.2129,
+      "prior_variance": 0.162348,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -3.0961,
+      "prior_variance": 0.148561,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.0545,
+      "prior_variance": 0.130063,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -4.2158,
+      "prior_variance": 0.164448,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -3.716,
+      "prior_variance": 0.121794,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.0452,
+      "prior_variance": 0.167027,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1674,
+  "timestamp": "2026-06-13T20:45:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 9.4856,
+      "prior_variance": 0.555544,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 9.5593,
+      "prior_variance": 0.399254,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 9.0908,
+      "prior_variance": 0.41118,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 9.8711,
+      "prior_variance": 0.460247,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 0.0355,
+      "prior_variance": 0.276475,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": -0.123,
+      "prior_variance": 0.21165,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -2.7864,
+      "prior_variance": 0.407171,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.0977,
+      "prior_variance": 0.248138,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.9562,
+      "prior_variance": 0.377163,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": 0.0475,
+      "prior_variance": 0.27867,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Charlottesville",
+      "path": "northamerica/unitedstates/virginia/charlottesville",
+      "prior_score": 0.942,
+      "prior_variance": 0.280799,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -3.6822,
+      "prior_variance": 0.248599,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": -1.4993,
+      "prior_variance": 0.247715,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.322,
+      "prior_variance": 0.241754,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -0.9993,
+      "prior_variance": 0.185593,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -2.4844,
+      "prior_variance": 0.362582,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Lancaster",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster",
+      "prior_score": -0.6084,
+      "prior_variance": 0.25828,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.6502,
+      "prior_variance": 0.28487,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -3.2337,
+      "prior_variance": 0.268736,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -2.9777,
+      "prior_variance": 0.303764,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -5.0815,
+      "prior_variance": 0.293294,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -1.6066,
+      "prior_variance": 0.248849,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -4.4017,
+      "prior_variance": 0.282817,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -7.7081,
+      "prior_variance": 0.413904,
+      "prior_n": 5
+    }
+  ]
+}

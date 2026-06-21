@@ -1,0 +1,200 @@
+{
+  "round": 483,
+  "timestamp": "2026-06-13T19:37:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -8.3215,
+      "prior_variance": 1.730823,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -11.0462,
+      "prior_variance": 1.905647,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -13.4064,
+      "prior_variance": 2.294729,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -10.3407,
+      "prior_variance": 3.997096,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -9.1696,
+      "prior_variance": 1.627714,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -11.262,
+      "prior_variance": 1.73897,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -9.5623,
+      "prior_variance": 2.027105,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -12.9889,
+      "prior_variance": 3.008144,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham",
+      "prior_score": -11.7063,
+      "prior_variance": 1.745891,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -9.6724,
+      "prior_variance": 1.61504,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -10.9042,
+      "prior_variance": 3.569974,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -12.4537,
+      "prior_variance": 8.067144,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -9.6695,
+      "prior_variance": 4.846798,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Siaya Town",
+      "path": "africa/kenya/luo_nyanza/siaya_town",
+      "prior_score": -12.257,
+      "prior_variance": 8.184019,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -9.2484,
+      "prior_variance": 4.080836,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -11.1155,
+      "prior_variance": 2.191954,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -10.3455,
+      "prior_variance": 2.425438,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -15.3918,
+      "prior_variance": 7.118463,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -9.4588,
+      "prior_variance": 5.799666,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -10.8631,
+      "prior_variance": 8.717135,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -10.5665,
+      "prior_variance": 3.060122,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -13.0167,
+      "prior_variance": 2.995753,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -15.2532,
+      "prior_variance": 6.7778,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -17.0507,
+      "prior_variance": 6.141804,
+      "prior_n": 1
+    }
+  ]
+}

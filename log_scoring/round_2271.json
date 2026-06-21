@@ -1,0 +1,200 @@
+{
+  "round": 2271,
+  "timestamp": "2026-06-13T21:30:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 11.7573,
+      "prior_variance": 0.368334,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.8114,
+      "prior_variance": 0.277077,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 6.9097,
+      "prior_variance": 0.280643,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.6275,
+      "prior_variance": 0.209098,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 3.6631,
+      "prior_variance": 0.202905,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.729,
+      "prior_variance": 0.23433,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 5.5759,
+      "prior_variance": 0.21411,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.6885,
+      "prior_variance": 0.225974,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 6.8378,
+      "prior_variance": 0.25942,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.0961,
+      "prior_variance": 0.231462,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 5.012,
+      "prior_variance": 0.230825,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 5.5777,
+      "prior_variance": 0.296519,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Popayan",
+      "path": "southamerica/colombia/popayan",
+      "prior_score": 2.4973,
+      "prior_variance": 0.212601,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.6481,
+      "prior_variance": 0.201842,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 2.6845,
+      "prior_variance": 0.194548,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 2.9762,
+      "prior_variance": 0.210841,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 2.7993,
+      "prior_variance": 0.197718,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 2.8264,
+      "prior_variance": 0.196415,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kalbarri",
+      "path": "australiaandpacific/australia/westernaustralia/kalbarri",
+      "prior_score": 1.7591,
+      "prior_variance": 0.193595,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.3307,
+      "prior_variance": 0.219365,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": -0.698,
+      "prior_variance": 0.207958,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/devonport",
+      "prior_score": 2.8272,
+      "prior_variance": 0.257502,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -0.0196,
+      "prior_variance": 0.178025,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 1.2138,
+      "prior_variance": 0.165085,
+      "prior_n": 8
+    }
+  ]
+}

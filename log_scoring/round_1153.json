@@ -1,0 +1,200 @@
+{
+  "round": 1153,
+  "timestamp": "2026-06-13T20:14:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 6.1042,
+      "prior_variance": 0.410913,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": -3.6791,
+      "prior_variance": 0.838071,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.9005,
+      "prior_variance": 0.38605,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -0.3264,
+      "prior_variance": 0.465638,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -1.0595,
+      "prior_variance": 0.332578,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": -1.4463,
+      "prior_variance": 0.491239,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -1.0716,
+      "prior_variance": 0.467912,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Freising",
+      "path": "europe/germany/bavaria/freising",
+      "prior_score": -0.9679,
+      "prior_variance": 0.455807,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Brancaster",
+      "path": "europe/unitedkingdom/england/norfolk/the_north_norfolk_coast/brancaster",
+      "prior_score": -0.3894,
+      "prior_variance": 0.292984,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -2.4924,
+      "prior_variance": 0.408604,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": 1.1181,
+      "prior_variance": 0.406997,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -0.9822,
+      "prior_variance": 0.409343,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Skanes",
+      "path": "africa/tunisia/skanes",
+      "prior_score": -0.9614,
+      "prior_variance": 0.405699,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.849,
+      "prior_variance": 0.399457,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.1058,
+      "prior_variance": 0.34704,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -3.0402,
+      "prior_variance": 0.451277,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -4.9527,
+      "prior_variance": 0.456597,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -3.3082,
+      "prior_variance": 0.408281,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -3.7253,
+      "prior_variance": 0.399385,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -5.1554,
+      "prior_variance": 0.450038,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -4.11,
+      "prior_variance": 0.404831,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -6.1665,
+      "prior_variance": 0.481947,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -6.4412,
+      "prior_variance": 0.616658,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -2.3621,
+      "prior_variance": 0.585006,
+      "prior_n": 3
+    }
+  ]
+}

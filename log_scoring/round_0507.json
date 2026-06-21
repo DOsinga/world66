@@ -1,0 +1,200 @@
+{
+  "round": 507,
+  "timestamp": "2026-06-13T19:39:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -8.023,
+      "prior_variance": 2.314019,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -7.5497,
+      "prior_variance": 4.630312,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -9.0197,
+      "prior_variance": 8.384871,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -5.278,
+      "prior_variance": 2.374959,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Yiwu",
+      "path": "asia/china/zhejiang/yiwu",
+      "prior_score": -8.9121,
+      "prior_variance": 4.916826,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -6.9067,
+      "prior_variance": 1.412546,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -7.3501,
+      "prior_variance": 2.706122,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -5.1505,
+      "prior_variance": 1.647232,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -6.1123,
+      "prior_variance": 1.827312,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_score": -5.1908,
+      "prior_variance": 1.847526,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -8.3193,
+      "prior_variance": 1.851933,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -6.5575,
+      "prior_variance": 1.295649,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ozamiz City",
+      "path": "asia/philippines/ozamizcity",
+      "prior_score": -9.1234,
+      "prior_variance": 2.964608,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -7.6948,
+      "prior_variance": 1.651317,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -10.4417,
+      "prior_variance": 3.465566,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_score": -7.481,
+      "prior_variance": 1.824449,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -8.6266,
+      "prior_variance": 1.439884,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -10.9901,
+      "prior_variance": 8.848639,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -9.052,
+      "prior_variance": 1.403646,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -9.5277,
+      "prior_variance": 2.43228,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -7.3737,
+      "prior_variance": 1.501247,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -8.6717,
+      "prior_variance": 3.765192,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -8.6619,
+      "prior_variance": 1.594587,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -11.7781,
+      "prior_variance": 8.099004,
+      "prior_n": 1
+    }
+  ]
+}

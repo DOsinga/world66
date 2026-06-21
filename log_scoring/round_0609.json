@@ -1,0 +1,200 @@
+{
+  "round": 609,
+  "timestamp": "2026-06-13T19:44:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.0682,
+      "prior_variance": 0.680331,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 0.5473,
+      "prior_variance": 1.338575,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 3.326,
+      "prior_variance": 0.956957,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 0.022,
+      "prior_variance": 0.467461,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": -0.3495,
+      "prior_variance": 0.975659,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": 0.92,
+      "prior_variance": 0.914889,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.8404,
+      "prior_variance": 0.68832,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.8364,
+      "prior_variance": 0.533979,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 2.1528,
+      "prior_variance": 0.785236,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -0.8471,
+      "prior_variance": 1.274698,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.2199,
+      "prior_variance": 1.07822,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.1723,
+      "prior_variance": 0.809668,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -2.212,
+      "prior_variance": 1.315405,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.1649,
+      "prior_variance": 1.091025,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": 1.0359,
+      "prior_variance": 1.808834,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": -0.1412,
+      "prior_variance": 1.09689,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": -0.5217,
+      "prior_variance": 0.67067,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": -0.3737,
+      "prior_variance": 1.266889,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": 0.0234,
+      "prior_variance": 0.721824,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": 0.4883,
+      "prior_variance": 0.967917,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.3112,
+      "prior_variance": 0.68748,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 1.0309,
+      "prior_variance": 1.563022,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Nangqen",
+      "path": "asia/china/qinghai/nangqen",
+      "prior_score": -1.3943,
+      "prior_variance": 0.789401,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Melilla",
+      "path": "europe/spain/melilla",
+      "prior_score": 0.1979,
+      "prior_variance": 1.747923,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1581,
+  "timestamp": "2026-06-13T20:39:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 13.5528,
+      "prior_variance": 0.41214,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.2954,
+      "prior_variance": 0.33192,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 6.0533,
+      "prior_variance": 0.536507,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.4436,
+      "prior_variance": 0.480048,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.5615,
+      "prior_variance": 0.276463,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 4.8828,
+      "prior_variance": 0.269326,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.3686,
+      "prior_variance": 0.31831,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 1.6163,
+      "prior_variance": 0.280931,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Woodstock",
+      "path": "northamerica/unitedstates/vermont/woodstock",
+      "prior_score": 1.6777,
+      "prior_variance": 0.262982,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.6681,
+      "prior_variance": 0.305016,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Widecombe-in-the-Moor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/widecombe",
+      "prior_score": 1.4175,
+      "prior_variance": 0.265396,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.97,
+      "prior_variance": 0.250106,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.4544,
+      "prior_variance": 0.289098,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.4247,
+      "prior_variance": 0.32596,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -3.9838,
+      "prior_variance": 0.500801,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": 0.6015,
+      "prior_variance": 0.282655,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.5806,
+      "prior_variance": 0.324455,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.7549,
+      "prior_variance": 0.246832,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -4.3627,
+      "prior_variance": 0.312357,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -5.5374,
+      "prior_variance": 0.381466,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Yongzhou",
+      "path": "asia/china/hunan/yongzhou",
+      "prior_score": -4.7504,
+      "prior_variance": 0.29587,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -3.3111,
+      "prior_variance": 0.300917,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -5.2406,
+      "prior_variance": 0.475523,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kinston",
+      "path": "northamerica/unitedstates/northcarolina/kinston",
+      "prior_score": -5.856,
+      "prior_variance": 0.348208,
+      "prior_n": 5
+    }
+  ]
+}

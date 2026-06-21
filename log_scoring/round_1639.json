@@ -1,0 +1,200 @@
+{
+  "round": 1639,
+  "timestamp": "2026-06-13T20:43:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 6.1623,
+      "prior_variance": 0.294381,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 6.0165,
+      "prior_variance": 0.358468,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 7.7557,
+      "prior_variance": 0.35929,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 2.666,
+      "prior_variance": 0.285262,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.1745,
+      "prior_variance": 0.238317,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 2.9808,
+      "prior_variance": 0.213908,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 6.2033,
+      "prior_variance": 0.263618,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.9159,
+      "prior_variance": 0.263376,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Oudenaarde",
+      "path": "europe/belgium/oudenaarde",
+      "prior_score": -0.1719,
+      "prior_variance": 0.316559,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 2.1936,
+      "prior_variance": 0.300318,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Ponferrada",
+      "path": "europe/spain/galicia/ponferrada",
+      "prior_score": 1.8477,
+      "prior_variance": 0.269535,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.6819,
+      "prior_variance": 0.246703,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": -0.3883,
+      "prior_variance": 0.233911,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.1926,
+      "prior_variance": 0.325136,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 1.4087,
+      "prior_variance": 0.331086,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.6485,
+      "prior_variance": 0.324796,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -2.7144,
+      "prior_variance": 0.307619,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -1.9542,
+      "prior_variance": 0.261782,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.99,
+      "prior_variance": 0.253172,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Matar\u00f3",
+      "path": "europe/spain/catalonia/mataro",
+      "prior_score": -2.4034,
+      "prior_variance": 0.270072,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -6.462,
+      "prior_variance": 0.450878,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.5811,
+      "prior_variance": 0.249241,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -6.787,
+      "prior_variance": 0.354119,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -7.7115,
+      "prior_variance": 0.315829,
+      "prior_n": 5
+    }
+  ]
+}

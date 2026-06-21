@@ -1,0 +1,200 @@
+{
+  "round": 3781,
+  "timestamp": "2026-06-13T23:19:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 8.1917,
+      "prior_variance": 0.179218,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.3935,
+      "prior_variance": 0.200955,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.2495,
+      "prior_variance": 0.131382,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Kolkata",
+      "path": "asia/india/kolkata",
+      "prior_score": 2.9371,
+      "prior_variance": 0.109204,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 2.598,
+      "prior_variance": 0.128167,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.7531,
+      "prior_variance": 0.105826,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 3.148,
+      "prior_variance": 0.156165,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 1.0528,
+      "prior_variance": 0.124881,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.9094,
+      "prior_variance": 0.105463,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.367,
+      "prior_variance": 0.104952,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.3923,
+      "prior_variance": 0.136103,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": 0.1447,
+      "prior_variance": 0.126996,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -1.5078,
+      "prior_variance": 0.099469,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.9848,
+      "prior_variance": 0.103774,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -0.8878,
+      "prior_variance": 0.116365,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -2.1809,
+      "prior_variance": 0.109992,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.9361,
+      "prior_variance": 0.126059,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -0.9526,
+      "prior_variance": 0.109797,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.8874,
+      "prior_variance": 0.139132,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": 0.0883,
+      "prior_variance": 0.110763,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -3.2998,
+      "prior_variance": 0.131374,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": -0.7468,
+      "prior_variance": 0.112893,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -3.8194,
+      "prior_variance": 0.122341,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Watonga",
+      "path": "northamerica/unitedstates/oklahoma/watonga",
+      "prior_score": -5.3801,
+      "prior_variance": 0.146983,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1087,
+  "timestamp": "2026-06-13T20:10:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.9595,
+      "prior_variance": 0.561068,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 0.7174,
+      "prior_variance": 0.500874,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 0.3795,
+      "prior_variance": 0.475175,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 0.772,
+      "prior_variance": 0.603154,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vichy",
+      "path": "europe/france/centre/auvergne/vichy",
+      "prior_score": 1.127,
+      "prior_variance": 0.438847,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 1.1893,
+      "prior_variance": 0.414024,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 2.0244,
+      "prior_variance": 0.3931,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": 0.7631,
+      "prior_variance": 0.490172,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 3.6003,
+      "prior_variance": 0.612172,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": -0.1886,
+      "prior_variance": 0.312412,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 1.6843,
+      "prior_variance": 0.411776,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.6442,
+      "prior_variance": 0.462721,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -1.2882,
+      "prior_variance": 0.596801,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.6582,
+      "prior_variance": 0.42531,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": 0.0238,
+      "prior_variance": 0.443474,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.6494,
+      "prior_variance": 0.390297,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.1122,
+      "prior_variance": 0.42364,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 0.2261,
+      "prior_variance": 0.416443,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.5922,
+      "prior_variance": 0.429398,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": -0.7872,
+      "prior_variance": 0.412848,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": 1.3064,
+      "prior_variance": 0.412338,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -2.1325,
+      "prior_variance": 0.507802,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": 0.0109,
+      "prior_variance": 1.016786,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -0.0251,
+      "prior_variance": 0.686789,
+      "prior_n": 3
+    }
+  ]
+}

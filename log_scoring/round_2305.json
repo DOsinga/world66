@@ -1,0 +1,200 @@
+{
+  "round": 2305,
+  "timestamp": "2026-06-13T21:32:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/whitevillages/setenil_de_las_bodegas",
+      "prior_score": 4.8443,
+      "prior_variance": 0.232023,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bahariya Oasis",
+      "path": "africa/egypt/bahariyaoasis",
+      "prior_score": 0.9805,
+      "prior_variance": 0.255516,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 2.7033,
+      "prior_variance": 0.221057,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.9611,
+      "prior_variance": 0.186738,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 0.6529,
+      "prior_variance": 0.209384,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.9575,
+      "prior_variance": 0.206786,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.5643,
+      "prior_variance": 0.232989,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.459,
+      "prior_variance": 0.19705,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.5308,
+      "prior_variance": 0.183059,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.4269,
+      "prior_variance": 0.178991,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": 0.0382,
+      "prior_variance": 0.188458,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 2.022,
+      "prior_variance": 0.265572,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.9978,
+      "prior_variance": 0.179338,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -1.2729,
+      "prior_variance": 0.206524,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -1.1686,
+      "prior_variance": 0.205559,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -1.8816,
+      "prior_variance": 0.213282,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": -1.4878,
+      "prior_variance": 0.192433,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Epinal",
+      "path": "europe/france/east/lorraine/epinal",
+      "prior_score": -1.0482,
+      "prior_variance": 0.185997,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Jayapura",
+      "path": "asia/indonesia/irianjaya/jaya_pura",
+      "prior_score": -2.7821,
+      "prior_variance": 0.213417,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -2.5051,
+      "prior_variance": 0.237605,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -2.6003,
+      "prior_variance": 0.271547,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -3.0025,
+      "prior_variance": 0.218133,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -3.6745,
+      "prior_variance": 0.213512,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Linyi",
+      "path": "asia/china/shandong_province/linyi",
+      "prior_score": -6.2779,
+      "prior_variance": 0.297661,
+      "prior_n": 7
+    }
+  ]
+}

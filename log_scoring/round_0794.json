@@ -1,0 +1,200 @@
+{
+  "round": 794,
+  "timestamp": "2026-06-13T19:54:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Redondo Beach",
+      "path": "northamerica/unitedstates/california/redondobeach",
+      "prior_score": -4.2346,
+      "prior_variance": 0.755803,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -8.646,
+      "prior_variance": 1.091381,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -7.3398,
+      "prior_variance": 0.820352,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -7.5008,
+      "prior_variance": 0.701579,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -7.6023,
+      "prior_variance": 0.822174,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.6512,
+      "prior_variance": 0.67528,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -3.1733,
+      "prior_variance": 0.724695,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.9601,
+      "prior_variance": 0.623287,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -5.9038,
+      "prior_variance": 0.708667,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -5.5551,
+      "prior_variance": 0.613868,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Gurabo",
+      "path": "northamerica/thecaribbean/puertorico/gurabo",
+      "prior_score": -6.9741,
+      "prior_variance": 0.576585,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -4.7599,
+      "prior_variance": 1.110673,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -7.7214,
+      "prior_variance": 1.057118,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -8.3074,
+      "prior_variance": 1.102726,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ploie\u0219ti",
+      "path": "europe/romania/ploiesti",
+      "prior_score": -5.4036,
+      "prior_variance": 0.790138,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Pite\u0219ti",
+      "path": "europe/romania/pitesti",
+      "prior_score": -9.8429,
+      "prior_variance": 1.001204,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -5.6569,
+      "prior_variance": 0.762648,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -2.9648,
+      "prior_variance": 0.848984,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -10.0906,
+      "prior_variance": 0.930847,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -5.1506,
+      "prior_variance": 0.703041,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -1.4915,
+      "prior_variance": 0.703899,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Almere",
+      "path": "europe/netherlands/almere",
+      "prior_score": -6.74,
+      "prior_variance": 0.661986,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -7.4726,
+      "prior_variance": 1.015967,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.2813,
+      "prior_variance": 0.561105,
+      "prior_n": 5
+    }
+  ]
+}

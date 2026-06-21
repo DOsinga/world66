@@ -1,0 +1,200 @@
+{
+  "round": 1887,
+  "timestamp": "2026-06-13T20:59:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 8.8674,
+      "prior_variance": 0.313628,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.4931,
+      "prior_variance": 0.329836,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 7.4117,
+      "prior_variance": 0.336028,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 4.649,
+      "prior_variance": 0.262611,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 2.5846,
+      "prior_variance": 0.235062,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 4.5217,
+      "prior_variance": 0.266407,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.9833,
+      "prior_variance": 0.303889,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 4.1203,
+      "prior_variance": 0.234557,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.8689,
+      "prior_variance": 0.242151,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 2.6625,
+      "prior_variance": 0.272445,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 1.5919,
+      "prior_variance": 0.221523,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": -0.1589,
+      "prior_variance": 0.297048,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -3.122,
+      "prior_variance": 0.257548,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.6262,
+      "prior_variance": 0.24197,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": -0.1269,
+      "prior_variance": 0.24774,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": 0.3842,
+      "prior_variance": 0.217109,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.5548,
+      "prior_variance": 0.234428,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -2.3379,
+      "prior_variance": 0.236068,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.6473,
+      "prior_variance": 0.287615,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -0.4764,
+      "prior_variance": 0.223554,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -2.3124,
+      "prior_variance": 0.213523,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.15,
+      "prior_variance": 0.268437,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -4.3618,
+      "prior_variance": 0.193016,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -5.1371,
+      "prior_variance": 0.246069,
+      "prior_n": 6
+    }
+  ]
+}

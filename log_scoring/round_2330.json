@@ -1,0 +1,200 @@
+{
+  "round": 2330,
+  "timestamp": "2026-06-13T21:34:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.6713,
+      "prior_variance": 0.246937,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.127,
+      "prior_variance": 0.218525,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.2998,
+      "prior_variance": 0.179114,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.8571,
+      "prior_variance": 0.194574,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": -1.0815,
+      "prior_variance": 0.188433,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": -0.4502,
+      "prior_variance": 0.21887,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.758,
+      "prior_variance": 0.256856,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.6707,
+      "prior_variance": 0.214195,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.4776,
+      "prior_variance": 0.183014,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.7098,
+      "prior_variance": 0.255919,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.2992,
+      "prior_variance": 0.220082,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -1.2564,
+      "prior_variance": 0.193851,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -1.5118,
+      "prior_variance": 0.15805,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -3.0732,
+      "prior_variance": 0.161913,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -3.4826,
+      "prior_variance": 0.210783,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -1.6038,
+      "prior_variance": 0.161854,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.2029,
+      "prior_variance": 0.203451,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.6405,
+      "prior_variance": 0.177345,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -5.456,
+      "prior_variance": 0.216664,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -4.8534,
+      "prior_variance": 0.272958,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -2.3836,
+      "prior_variance": 0.308986,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -4.0344,
+      "prior_variance": 0.18034,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -4.7615,
+      "prior_variance": 0.234806,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Huangshi",
+      "path": "asia/china/hubei/huangshi",
+      "prior_score": -5.5983,
+      "prior_variance": 0.285688,
+      "prior_n": 7
+    }
+  ]
+}

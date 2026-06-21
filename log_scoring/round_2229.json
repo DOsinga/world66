@@ -1,0 +1,200 @@
+{
+  "round": 2229,
+  "timestamp": "2026-06-13T21:27:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 17.5842,
+      "prior_variance": 0.835257,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 6.3688,
+      "prior_variance": 0.260808,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.7406,
+      "prior_variance": 0.234401,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 4.46,
+      "prior_variance": 0.191233,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 7.1836,
+      "prior_variance": 0.257953,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.4719,
+      "prior_variance": 0.240079,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 4.4796,
+      "prior_variance": 0.239121,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.0975,
+      "prior_variance": 0.211308,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 2.265,
+      "prior_variance": 0.247282,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.8149,
+      "prior_variance": 0.204051,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 2.9966,
+      "prior_variance": 0.208062,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.8809,
+      "prior_variance": 0.199128,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 2.678,
+      "prior_variance": 0.212279,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 1.9976,
+      "prior_variance": 0.193367,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Jelsa",
+      "path": "europe/croatia/jelsa",
+      "prior_score": 3.713,
+      "prior_variance": 0.191688,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.2313,
+      "prior_variance": 0.1841,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.455,
+      "prior_variance": 0.174801,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -1.3201,
+      "prior_variance": 0.221471,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -0.7886,
+      "prior_variance": 0.170882,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 1.0902,
+      "prior_variance": 0.186373,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -1.9158,
+      "prior_variance": 0.227843,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": -1.0363,
+      "prior_variance": 0.17708,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/gloucestershire/severn_bore",
+      "prior_score": -1.6696,
+      "prior_variance": 0.176269,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -4.9641,
+      "prior_variance": 0.21628,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 513,
+  "timestamp": "2026-06-13T19:40:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -8.1938,
+      "prior_variance": 1.730111,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": -4.3991,
+      "prior_variance": 1.451931,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -4.6392,
+      "prior_variance": 1.641786,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -3.7348,
+      "prior_variance": 1.462105,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -5.6693,
+      "prior_variance": 1.655114,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -3.7863,
+      "prior_variance": 1.260355,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": -0.2458,
+      "prior_variance": 1.375339,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -6.3879,
+      "prior_variance": 2.318227,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -4.0359,
+      "prior_variance": 1.495171,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -6.9429,
+      "prior_variance": 1.646668,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/chile/concepcion",
+      "prior_score": -9.0497,
+      "prior_variance": 1.457472,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -6.0634,
+      "prior_variance": 1.756631,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Patan",
+      "path": "asia/india/gujarat/patan",
+      "prior_score": -4.6827,
+      "prior_variance": 1.452664,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -7.9031,
+      "prior_variance": 2.759311,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -5.7699,
+      "prior_variance": 1.362534,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -6.056,
+      "prior_variance": 6.925907,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Matagalpa",
+      "path": "northamerica/nicaragua/matagalpa",
+      "prior_score": -3.6929,
+      "prior_variance": 1.890758,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -7.3681,
+      "prior_variance": 1.710701,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -6.0077,
+      "prior_variance": 2.160982,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -6.3558,
+      "prior_variance": 1.707076,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -7.5455,
+      "prior_variance": 12.071922,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -6.0542,
+      "prior_variance": 2.811279,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -8.1759,
+      "prior_variance": 2.349577,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -8.2375,
+      "prior_variance": 2.48126,
+      "prior_n": 1
+    }
+  ]
+}

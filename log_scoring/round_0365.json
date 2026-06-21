@@ -1,0 +1,200 @@
+{
+  "round": 365,
+  "timestamp": "2026-06-13T19:31:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 15.9324,
+      "prior_variance": 6.94892,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 9.6222,
+      "prior_variance": 3.972849,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 11.2348,
+      "prior_variance": 3.656995,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 9.6183,
+      "prior_variance": 1.929953,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 7.0834,
+      "prior_variance": 1.976271,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 10.1176,
+      "prior_variance": 3.372965,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 11.4531,
+      "prior_variance": 2.580616,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 9.2453,
+      "prior_variance": 9.122856,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 5.3665,
+      "prior_variance": 1.65312,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 5.7156,
+      "prior_variance": 2.010847,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 8.2569,
+      "prior_variance": 11.67023,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 10.8675,
+      "prior_variance": 5.619564,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 8.0811,
+      "prior_variance": 1.739745,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 6.9599,
+      "prior_variance": 2.489305,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 4.4886,
+      "prior_variance": 1.611616,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 6.8981,
+      "prior_variance": 1.933975,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Valldemossa",
+      "path": "europe/spain/balearicislands/mallorca/valdemossa",
+      "prior_score": 6.4266,
+      "prior_variance": 1.962612,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 3.8586,
+      "prior_variance": 1.935989,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 1.709,
+      "prior_variance": 1.711394,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 2.1241,
+      "prior_variance": 2.373716,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 4.5969,
+      "prior_variance": 1.783744,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": 1.513,
+      "prior_variance": 1.541028,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": 3.3377,
+      "prior_variance": 1.823215,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": 4.5424,
+      "prior_variance": 1.467122,
+      "prior_n": 1
+    }
+  ]
+}

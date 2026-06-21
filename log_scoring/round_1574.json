@@ -1,0 +1,200 @@
+{
+  "round": 1574,
+  "timestamp": "2026-06-13T20:38:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 6.539,
+      "prior_variance": 0.28646,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.5842,
+      "prior_variance": 0.29733,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 3.0512,
+      "prior_variance": 0.346791,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 5.8107,
+      "prior_variance": 0.29935,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 3.4442,
+      "prior_variance": 0.257843,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.5301,
+      "prior_variance": 0.277548,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 1.8667,
+      "prior_variance": 0.335856,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 2.0745,
+      "prior_variance": 0.247992,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.0089,
+      "prior_variance": 0.257101,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.7844,
+      "prior_variance": 0.393349,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.8969,
+      "prior_variance": 0.248979,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.1616,
+      "prior_variance": 0.371526,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -2.7277,
+      "prior_variance": 0.32137,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -1.2172,
+      "prior_variance": 0.263742,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Mikkeli",
+      "path": "europe/finland/mikkeli",
+      "prior_score": -1.3135,
+      "prior_variance": 0.250123,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -0.5736,
+      "prior_variance": 0.245789,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 1.2762,
+      "prior_variance": 0.244774,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -5.8013,
+      "prior_variance": 0.35706,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.6632,
+      "prior_variance": 0.274011,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -6.4192,
+      "prior_variance": 0.31656,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -5.7947,
+      "prior_variance": 0.472137,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -7.8265,
+      "prior_variance": 0.295923,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -6.4624,
+      "prior_variance": 0.398309,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -5.0312,
+      "prior_variance": 0.363992,
+      "prior_n": 5
+    }
+  ]
+}

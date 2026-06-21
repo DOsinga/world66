@@ -1,0 +1,200 @@
+{
+  "round": 2765,
+  "timestamp": "2026-06-13T22:05:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.5452,
+      "prior_variance": 0.146617,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -2.4006,
+      "prior_variance": 0.183596,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.0007,
+      "prior_variance": 0.161695,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "O Salnes",
+      "path": "europe/spain/galicia/o_salns_salnes",
+      "prior_score": 0.339,
+      "prior_variance": 0.151147,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.4413,
+      "prior_variance": 0.15767,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -1.5823,
+      "prior_variance": 0.145635,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Beverly",
+      "path": "northamerica/unitedstates/massachusetts/beverly",
+      "prior_score": -3.0383,
+      "prior_variance": 0.169198,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -2.6139,
+      "prior_variance": 0.139295,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.4496,
+      "prior_variance": 0.163542,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -5.1655,
+      "prior_variance": 0.211358,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -2.5051,
+      "prior_variance": 0.155767,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -4.32,
+      "prior_variance": 0.178281,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_score": -4.1119,
+      "prior_variance": 0.179637,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.1172,
+      "prior_variance": 0.174771,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -2.9808,
+      "prior_variance": 0.161511,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.8097,
+      "prior_variance": 0.212653,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.5409,
+      "prior_variance": 0.198704,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.2906,
+      "prior_variance": 0.173349,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.2024,
+      "prior_variance": 0.168347,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.9948,
+      "prior_variance": 0.179303,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -5.9634,
+      "prior_variance": 0.200856,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.195,
+      "prior_variance": 0.194383,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -8.2671,
+      "prior_variance": 0.272428,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -7.9029,
+      "prior_variance": 0.288264,
+      "prior_n": 8
+    }
+  ]
+}

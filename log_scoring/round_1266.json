@@ -1,0 +1,200 @@
+{
+  "round": 1266,
+  "timestamp": "2026-06-13T20:20:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Whistler",
+      "path": "northamerica/canada/britishcolumbia/whistler",
+      "prior_score": 8.2815,
+      "prior_variance": 0.382614,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Paihia",
+      "path": "australiaandpacific/newzealand/north_island/northland/paihia",
+      "prior_score": 4.0448,
+      "prior_variance": 0.374661,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 4.6154,
+      "prior_variance": 0.448096,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Quimper",
+      "path": "europe/france/normandybrittany/quimper",
+      "prior_score": 5.2429,
+      "prior_variance": 0.369492,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 4.5452,
+      "prior_variance": 0.26144,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Bregenzerwald",
+      "path": "europe/austria/bregenzerwald",
+      "prior_score": 3.3162,
+      "prior_variance": 0.328604,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.203,
+      "prior_variance": 0.388594,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 4.3018,
+      "prior_variance": 0.354562,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Porvoo",
+      "path": "europe/finland/porvoo",
+      "prior_score": 4.2083,
+      "prior_variance": 0.363963,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.9716,
+      "prior_variance": 0.31464,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 1.1877,
+      "prior_variance": 0.34577,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.3132,
+      "prior_variance": 0.352421,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 3.0243,
+      "prior_variance": 0.374005,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 4.815,
+      "prior_variance": 0.443111,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 2.3141,
+      "prior_variance": 0.329902,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 4.2816,
+      "prior_variance": 0.803257,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -2.7686,
+      "prior_variance": 0.343653,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.6647,
+      "prior_variance": 0.467402,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 4.7646,
+      "prior_variance": 0.302524,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.3919,
+      "prior_variance": 0.452695,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 4.4421,
+      "prior_variance": 0.396015,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -4.8572,
+      "prior_variance": 0.44588,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -4.4985,
+      "prior_variance": 0.305777,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -6.15,
+      "prior_variance": 0.317493,
+      "prior_n": 4
+    }
+  ]
+}

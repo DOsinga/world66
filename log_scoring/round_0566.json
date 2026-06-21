@@ -1,0 +1,200 @@
+{
+  "round": 566,
+  "timestamp": "2026-06-13T19:42:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/milfordsound",
+      "prior_score": 15.9209,
+      "prior_variance": 6.945824,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 14.2859,
+      "prior_variance": 5.640034,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 9.5829,
+      "prior_variance": 2.076832,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "El Chalt\u00e9n",
+      "path": "southamerica/argentina/patagonia/elchalten",
+      "prior_score": 12.544,
+      "prior_variance": 5.359708,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 12.9087,
+      "prior_variance": 7.834875,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 14.8439,
+      "prior_variance": 7.339687,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Rovaniemi",
+      "path": "europe/finland/rovaniemi",
+      "prior_score": 10.5556,
+      "prior_variance": 1.916388,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ciudad Perdida",
+      "path": "southamerica/colombia/ciudadperdida",
+      "prior_score": 12.5415,
+      "prior_variance": 8.359709,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 15.7883,
+      "prior_variance": 7.000012,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Hanoi",
+      "path": "asia/vietnam/hanoi",
+      "prior_score": 15.2253,
+      "prior_variance": 7.189605,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 10.1377,
+      "prior_variance": 2.139587,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 13.9695,
+      "prior_variance": 2.303067,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Orkney",
+      "path": "europe/unitedkingdom/scotland/orkney",
+      "prior_score": 10.6575,
+      "prior_variance": 2.148304,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 10.3202,
+      "prior_variance": 2.569123,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 8.6067,
+      "prior_variance": 1.850718,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_score": 12.0499,
+      "prior_variance": 2.043545,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 9.6875,
+      "prior_variance": 2.830414,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 12.5306,
+      "prior_variance": 2.535861,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 9.8506,
+      "prior_variance": 2.059371,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": 7.9236,
+      "prior_variance": 1.567989,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Weimar",
+      "path": "europe/germany/thuringia/weimar",
+      "prior_score": 9.5387,
+      "prior_variance": 1.620746,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Koloa",
+      "path": "northamerica/unitedstates/hawaii/koloa",
+      "prior_score": 10.0749,
+      "prior_variance": 1.943039,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 12.0452,
+      "prior_variance": 2.719141,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 9.9916,
+      "prior_variance": 2.044832,
+      "prior_n": 1
+    }
+  ]
+}

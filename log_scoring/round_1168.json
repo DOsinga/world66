@@ -1,0 +1,200 @@
+{
+  "round": 1168,
+  "timestamp": "2026-06-13T20:15:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 7.5175,
+      "prior_variance": 0.417122,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 3.4264,
+      "prior_variance": 0.398715,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 5.0908,
+      "prior_variance": 0.410064,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 4.0907,
+      "prior_variance": 0.529771,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.0634,
+      "prior_variance": 0.410549,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 0.6743,
+      "prior_variance": 0.36882,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.1204,
+      "prior_variance": 0.478338,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": -0.7422,
+      "prior_variance": 0.40744,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.086,
+      "prior_variance": 0.416094,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 1.1004,
+      "prior_variance": 0.362273,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.1558,
+      "prior_variance": 0.406457,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 1.5673,
+      "prior_variance": 0.325767,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -3.7192,
+      "prior_variance": 0.445634,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -2.1631,
+      "prior_variance": 0.40204,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -3.5026,
+      "prior_variance": 0.427836,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -1.2612,
+      "prior_variance": 0.42387,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ganca",
+      "path": "europe/azerbaijan/ganca",
+      "prior_score": -3.9775,
+      "prior_variance": 0.573275,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -2.5911,
+      "prior_variance": 0.406172,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -4.9919,
+      "prior_variance": 0.510153,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -6.3782,
+      "prior_variance": 0.393337,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -4.0056,
+      "prior_variance": 0.40432,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -5.8648,
+      "prior_variance": 0.480511,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -3.6506,
+      "prior_variance": 0.993646,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Forest",
+      "path": "northamerica/unitedstates/mississippi/forest",
+      "prior_score": -10.6227,
+      "prior_variance": 0.774945,
+      "prior_n": 3
+    }
+  ]
+}

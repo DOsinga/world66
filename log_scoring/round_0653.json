@@ -1,0 +1,200 @@
+{
+  "round": 653,
+  "timestamp": "2026-06-13T19:47:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 12.3758,
+      "prior_variance": 0.857736,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 9.8658,
+      "prior_variance": 0.855096,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 7.9704,
+      "prior_variance": 0.795663,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 8.9242,
+      "prior_variance": 0.83773,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 9.5715,
+      "prior_variance": 0.737444,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 10.4867,
+      "prior_variance": 1.989627,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 10.1255,
+      "prior_variance": 0.999814,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 7.7647,
+      "prior_variance": 0.710572,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 9.0883,
+      "prior_variance": 0.675878,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 9.5248,
+      "prior_variance": 0.717576,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chivay",
+      "path": "southamerica/peru/colca_canyon/chivay",
+      "prior_score": 7.7302,
+      "prior_variance": 0.742593,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 7.7963,
+      "prior_variance": 1.541133,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 9.4033,
+      "prior_variance": 0.75327,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 8.547,
+      "prior_variance": 0.742982,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 6.5269,
+      "prior_variance": 0.710689,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 6.7759,
+      "prior_variance": 0.704479,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 8.1315,
+      "prior_variance": 0.79496,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Rapperswil",
+      "path": "europe/switzerland/rapperswil",
+      "prior_score": 8.5447,
+      "prior_variance": 1.568861,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Zhouzhuang",
+      "path": "asia/china/jiangsu_province/zhouzhuang",
+      "prior_score": 7.7924,
+      "prior_variance": 0.668813,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 7.7461,
+      "prior_variance": 1.179144,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Malibu",
+      "path": "northamerica/unitedstates/california/malibu",
+      "prior_score": 9.2444,
+      "prior_variance": 0.679057,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 7.3849,
+      "prior_variance": 0.495996,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 7.0219,
+      "prior_variance": 0.595026,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_score": 7.12,
+      "prior_variance": 0.82731,
+      "prior_n": 2
+    }
+  ]
+}

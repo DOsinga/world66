@@ -1,0 +1,200 @@
+{
+  "round": 3278,
+  "timestamp": "2026-06-13T22:42:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.0712,
+      "prior_variance": 0.116409,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.5399,
+      "prior_variance": 0.124727,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -3.422,
+      "prior_variance": 0.143342,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -3.3851,
+      "prior_variance": 0.127256,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.801,
+      "prior_variance": 0.117103,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -4.1413,
+      "prior_variance": 0.147324,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -3.2566,
+      "prior_variance": 0.127915,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/connecticut/middletown",
+      "prior_score": -4.247,
+      "prior_variance": 0.135563,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -3.4057,
+      "prior_variance": 0.132092,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.1948,
+      "prior_variance": 0.126028,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.1092,
+      "prior_variance": 0.124397,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.4965,
+      "prior_variance": 0.116421,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.3918,
+      "prior_variance": 0.125435,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Nantong",
+      "path": "asia/china/jiangsu_province/nantong",
+      "prior_score": -4.6035,
+      "prior_variance": 0.145649,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Col\u00f3n",
+      "path": "northamerica/panama/colon",
+      "prior_score": -3.9882,
+      "prior_variance": 0.160737,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -4.082,
+      "prior_variance": 0.127289,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -4.5394,
+      "prior_variance": 0.135514,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -3.5538,
+      "prior_variance": 0.133442,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.4205,
+      "prior_variance": 0.173296,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -4.4184,
+      "prior_variance": 0.161369,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.3525,
+      "prior_variance": 0.123566,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -4.5207,
+      "prior_variance": 0.164525,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -4.0675,
+      "prior_variance": 0.139796,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_score": -3.7264,
+      "prior_variance": 0.144063,
+      "prior_n": 10
+    }
+  ]
+}

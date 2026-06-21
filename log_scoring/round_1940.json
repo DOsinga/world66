@@ -1,0 +1,200 @@
+{
+  "round": 1940,
+  "timestamp": "2026-06-13T21:02:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.5879,
+      "prior_variance": 0.258734,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Rehoboth Beach",
+      "path": "northamerica/unitedstates/delaware/rehobothbeach",
+      "prior_score": 0.702,
+      "prior_variance": 0.177785,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 1.0145,
+      "prior_variance": 0.216249,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -0.6276,
+      "prior_variance": 0.231835,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -2.284,
+      "prior_variance": 0.256621,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.2786,
+      "prior_variance": 0.203953,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Davao",
+      "path": "asia/philippines/mindanaoisland/davao",
+      "prior_score": -0.7336,
+      "prior_variance": 0.29379,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": -0.1653,
+      "prior_variance": 0.241139,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.5479,
+      "prior_variance": 0.210905,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.5916,
+      "prior_variance": 0.186051,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.4996,
+      "prior_variance": 0.227143,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -1.6907,
+      "prior_variance": 0.246815,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -1.1892,
+      "prior_variance": 0.202644,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -2.2397,
+      "prior_variance": 0.28684,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 0.918,
+      "prior_variance": 0.222511,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Palencia",
+      "path": "europe/spain/palencia",
+      "prior_score": -1.1391,
+      "prior_variance": 0.202633,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -2.7412,
+      "prior_variance": 0.232864,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -2.2485,
+      "prior_variance": 0.242718,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -4.694,
+      "prior_variance": 0.295745,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -0.3604,
+      "prior_variance": 0.204309,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -2.627,
+      "prior_variance": 0.218174,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.0305,
+      "prior_variance": 0.204959,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -1.9178,
+      "prior_variance": 0.204152,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -7.102,
+      "prior_variance": 0.244297,
+      "prior_n": 6
+    }
+  ]
+}

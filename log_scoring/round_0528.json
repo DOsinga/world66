@@ -1,0 +1,200 @@
+{
+  "round": 528,
+  "timestamp": "2026-06-13T19:40:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -12.9797,
+      "prior_variance": 7.677067,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -9.3059,
+      "prior_variance": 2.576637,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -6.7342,
+      "prior_variance": 2.339856,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -11.4625,
+      "prior_variance": 8.23156,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -8.6789,
+      "prior_variance": 1.923866,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -8.536,
+      "prior_variance": 1.414476,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -8.3476,
+      "prior_variance": 1.413097,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -6.7334,
+      "prior_variance": 1.597677,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -8.6456,
+      "prior_variance": 2.76279,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -7.7567,
+      "prior_variance": 1.683552,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -10.1297,
+      "prior_variance": 4.290926,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -8.6799,
+      "prior_variance": 1.805474,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -11.4053,
+      "prior_variance": 2.303363,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -8.6102,
+      "prior_variance": 1.457108,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -11.6426,
+      "prior_variance": 2.506988,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -7.5684,
+      "prior_variance": 2.047761,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -8.1434,
+      "prior_variance": 1.887731,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.6123,
+      "prior_variance": 1.886612,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -8.3726,
+      "prior_variance": 1.637343,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -7.0981,
+      "prior_variance": 1.774988,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Dezhou",
+      "path": "asia/china/shandong_province/dezhou",
+      "prior_score": -9.8591,
+      "prior_variance": 2.296243,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -10.6508,
+      "prior_variance": 9.032349,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -9.0946,
+      "prior_variance": 1.773692,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -10.5642,
+      "prior_variance": 2.112188,
+      "prior_n": 1
+    }
+  ]
+}

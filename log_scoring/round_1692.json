@@ -1,0 +1,200 @@
+{
+  "round": 1692,
+  "timestamp": "2026-06-13T20:46:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 5.7922,
+      "prior_variance": 0.331463,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 6.1947,
+      "prior_variance": 0.321346,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 7.6965,
+      "prior_variance": 0.281904,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 6.8535,
+      "prior_variance": 0.28186,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 4.8676,
+      "prior_variance": 0.343711,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.9685,
+      "prior_variance": 0.259754,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 2.0252,
+      "prior_variance": 0.305637,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 5.1651,
+      "prior_variance": 0.225867,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 4.5548,
+      "prior_variance": 0.286845,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tenby",
+      "path": "europe/unitedkingdom/wales/tenby",
+      "prior_score": 4.2036,
+      "prior_variance": 0.250228,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": 1.344,
+      "prior_variance": 0.209548,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Juist",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/juist",
+      "prior_score": -2.0532,
+      "prior_variance": 0.270309,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 1.3174,
+      "prior_variance": 0.308098,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 1.7225,
+      "prior_variance": 0.261627,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 0.186,
+      "prior_variance": 0.295449,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.8828,
+      "prior_variance": 0.255667,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -3.5053,
+      "prior_variance": 0.295123,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -1.4942,
+      "prior_variance": 0.223822,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "P\u00e4lk\u00e4ne",
+      "path": "europe/finland/plkne",
+      "prior_score": -3.4459,
+      "prior_variance": 0.287675,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -5.628,
+      "prior_variance": 0.336614,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.6429,
+      "prior_variance": 0.254861,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -5.2866,
+      "prior_variance": 0.278429,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -4.3016,
+      "prior_variance": 0.303225,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -2.8257,
+      "prior_variance": 0.240858,
+      "prior_n": 6
+    }
+  ]
+}

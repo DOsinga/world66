@@ -1,0 +1,200 @@
+{
+  "round": 2068,
+  "timestamp": "2026-06-13T21:16:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 15.3222,
+      "prior_variance": 0.793111,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.781,
+      "prior_variance": 0.342829,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.1728,
+      "prior_variance": 0.19964,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 3.3861,
+      "prior_variance": 0.19298,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.4899,
+      "prior_variance": 0.205782,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimeno",
+      "prior_score": 0.3909,
+      "prior_variance": 0.221888,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.37,
+      "prior_variance": 0.207023,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.0825,
+      "prior_variance": 0.203578,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Millesimo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/millesimo",
+      "prior_score": -1.3774,
+      "prior_variance": 0.214405,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.8865,
+      "prior_variance": 0.177051,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Stockbridge",
+      "path": "northamerica/unitedstates/massachusetts/stockbridge",
+      "prior_score": -0.2297,
+      "prior_variance": 0.197333,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.5752,
+      "prior_variance": 0.194612,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.0433,
+      "prior_variance": 0.182049,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -1.2271,
+      "prior_variance": 0.270463,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.498,
+      "prior_variance": 0.257974,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.6259,
+      "prior_variance": 0.213291,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": -0.484,
+      "prior_variance": 0.208586,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.0826,
+      "prior_variance": 0.25186,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.0688,
+      "prior_variance": 0.222643,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -2.424,
+      "prior_variance": 0.228011,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -6.7006,
+      "prior_variance": 0.345499,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -4.8849,
+      "prior_variance": 0.227224,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -8.1049,
+      "prior_variance": 0.460423,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.7086,
+      "prior_variance": 0.489883,
+      "prior_n": 6
+    }
+  ]
+}

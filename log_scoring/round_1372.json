@@ -1,0 +1,200 @@
+{
+  "round": 1372,
+  "timestamp": "2026-06-13T20:26:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 6.5826,
+      "prior_variance": 0.375508,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 4.1505,
+      "prior_variance": 0.32247,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ostia Antica",
+      "path": "europe/italy/lazio/ostiaantica",
+      "prior_score": 5.1104,
+      "prior_variance": 0.305937,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 3.2153,
+      "prior_variance": 0.31459,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.4941,
+      "prior_variance": 0.440734,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.1045,
+      "prior_variance": 0.316243,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_score": 4.2294,
+      "prior_variance": 0.326121,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 3.1253,
+      "prior_variance": 0.31488,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 2.3893,
+      "prior_variance": 0.407389,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.7839,
+      "prior_variance": 0.289581,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 3.2943,
+      "prior_variance": 0.318364,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "T\u00f8nsberg",
+      "path": "europe/norway/tonsberg",
+      "prior_score": 1.4017,
+      "prior_variance": 0.29271,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 1.8177,
+      "prior_variance": 0.403185,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.5622,
+      "prior_variance": 0.368656,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -0.2739,
+      "prior_variance": 0.315169,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": 0.4826,
+      "prior_variance": 0.313477,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 1.9782,
+      "prior_variance": 0.412878,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -2.5976,
+      "prior_variance": 0.341286,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -4.9085,
+      "prior_variance": 0.572895,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -2.9861,
+      "prior_variance": 0.323872,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.6999,
+      "prior_variance": 0.375187,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -6.5277,
+      "prior_variance": 0.369832,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -10.2463,
+      "prior_variance": 0.556449,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -9.3852,
+      "prior_variance": 0.565402,
+      "prior_n": 4
+    }
+  ]
+}

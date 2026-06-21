@@ -1,0 +1,200 @@
+{
+  "round": 1591,
+  "timestamp": "2026-06-13T20:40:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 10.8117,
+      "prior_variance": 0.725409,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Langeais",
+      "path": "europe/france/centre/loirevalley/langeais",
+      "prior_score": 3.0689,
+      "prior_variance": 0.286253,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 2.0224,
+      "prior_variance": 0.333868,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 2.5174,
+      "prior_variance": 0.251326,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -0.734,
+      "prior_variance": 0.257401,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -2.0505,
+      "prior_variance": 0.255164,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -4.0759,
+      "prior_variance": 0.278635,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.742,
+      "prior_variance": 0.270186,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.6647,
+      "prior_variance": 0.299735,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bakkhali",
+      "path": "asia/india/westbengal/bakkhali",
+      "prior_score": -3.9263,
+      "prior_variance": 0.296468,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -4.3745,
+      "prior_variance": 0.257961,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Lodwar",
+      "path": "africa/kenya/northernkenya/lodwar",
+      "prior_score": -7.8075,
+      "prior_variance": 0.442652,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -5.4932,
+      "prior_variance": 0.299105,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -5.7097,
+      "prior_variance": 0.396023,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -5.8736,
+      "prior_variance": 0.47773,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -5.6807,
+      "prior_variance": 0.281614,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -5.0231,
+      "prior_variance": 0.310345,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -5.2381,
+      "prior_variance": 0.240681,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Yancheng",
+      "path": "asia/china/jiangsu_province/yancheng",
+      "prior_score": -4.7825,
+      "prior_variance": 0.287323,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Guide",
+      "path": "asia/china/qinghai/guide",
+      "prior_score": -6.5226,
+      "prior_variance": 0.308359,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Huayang Village",
+      "path": "asia/china/shaanxi/huayang_village",
+      "prior_score": -2.8941,
+      "prior_variance": 0.257609,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.916,
+      "prior_variance": 0.357776,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -8.7162,
+      "prior_variance": 0.504462,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -7.8492,
+      "prior_variance": 0.414569,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1904,
+  "timestamp": "2026-06-13T21:00:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -2.5241,
+      "prior_variance": 0.32182,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": -1.3687,
+      "prior_variance": 0.260993,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.3102,
+      "prior_variance": 0.337594,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 2.3679,
+      "prior_variance": 0.199824,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -3.6497,
+      "prior_variance": 0.419479,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.5397,
+      "prior_variance": 0.202224,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -6.0914,
+      "prior_variance": 0.346954,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -3.6561,
+      "prior_variance": 0.24462,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.7345,
+      "prior_variance": 0.22435,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.5677,
+      "prior_variance": 0.188976,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.2357,
+      "prior_variance": 0.337554,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -3.8261,
+      "prior_variance": 0.318709,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Beichuan",
+      "path": "asia/china/sichuanprovince/beichuan",
+      "prior_score": -2.5672,
+      "prior_variance": 0.209806,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.8441,
+      "prior_variance": 0.252781,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.394,
+      "prior_variance": 0.268087,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.0122,
+      "prior_variance": 0.232549,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -5.6103,
+      "prior_variance": 0.246229,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -5.0982,
+      "prior_variance": 0.293643,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -5.8379,
+      "prior_variance": 0.230144,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -4.5998,
+      "prior_variance": 0.221705,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.6882,
+      "prior_variance": 0.242342,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -5.4548,
+      "prior_variance": 0.349859,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -4.8029,
+      "prior_variance": 0.242309,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -6.2715,
+      "prior_variance": 0.313413,
+      "prior_n": 6
+    }
+  ]
+}

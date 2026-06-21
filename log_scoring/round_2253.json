@@ -1,0 +1,200 @@
+{
+  "round": 2253,
+  "timestamp": "2026-06-13T21:29:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 6.9464,
+      "prior_variance": 0.254208,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 6.9184,
+      "prior_variance": 0.224117,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 6.1724,
+      "prior_variance": 0.206103,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.0659,
+      "prior_variance": 0.211084,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 0.4742,
+      "prior_variance": 0.247436,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.1935,
+      "prior_variance": 0.178625,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -0.4719,
+      "prior_variance": 0.198284,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": -1.9619,
+      "prior_variance": 0.189824,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.6253,
+      "prior_variance": 0.195079,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.6062,
+      "prior_variance": 0.190577,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -2.1093,
+      "prior_variance": 0.194039,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": -0.6168,
+      "prior_variance": 0.204522,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -1.6592,
+      "prior_variance": 0.185196,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.7199,
+      "prior_variance": 0.192728,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.4651,
+      "prior_variance": 0.203556,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Morgantown",
+      "path": "northamerica/unitedstates/westvirginia/morgantown",
+      "prior_score": -3.7064,
+      "prior_variance": 0.168645,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -2.8806,
+      "prior_variance": 0.183017,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -3.3242,
+      "prior_variance": 0.207511,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -4.0235,
+      "prior_variance": 0.186781,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Swindon",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swindon",
+      "prior_score": -3.6054,
+      "prior_variance": 0.234557,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -4.3849,
+      "prior_variance": 0.210975,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Oconto Area",
+      "path": "northamerica/unitedstates/wisconsin/ocontoarea",
+      "prior_score": -4.8187,
+      "prior_variance": 0.241249,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -3.1766,
+      "prior_variance": 0.208779,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -5.2257,
+      "prior_variance": 0.226121,
+      "prior_n": 7
+    }
+  ]
+}

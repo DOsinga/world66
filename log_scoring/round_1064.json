@@ -1,0 +1,200 @@
+{
+  "round": 1064,
+  "timestamp": "2026-06-13T20:09:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 0.3509,
+      "prior_variance": 0.503812,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": -0.7317,
+      "prior_variance": 0.486712,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -0.3254,
+      "prior_variance": 0.402419,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": -0.526,
+      "prior_variance": 0.389868,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Truckee",
+      "path": "northamerica/unitedstates/california/highsierra/truckee",
+      "prior_score": 0.2894,
+      "prior_variance": 0.413498,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.3463,
+      "prior_variance": 0.673711,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.2621,
+      "prior_variance": 0.479721,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -0.2468,
+      "prior_variance": 0.421217,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -1.4701,
+      "prior_variance": 0.408135,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lochinver",
+      "path": "europe/unitedkingdom/scotland/lochinver",
+      "prior_score": 0.5524,
+      "prior_variance": 0.408371,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.2874,
+      "prior_variance": 0.426332,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 1.1143,
+      "prior_variance": 0.451823,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": -1.9085,
+      "prior_variance": 0.930541,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -0.3496,
+      "prior_variance": 0.437944,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -1.6976,
+      "prior_variance": 0.429782,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_score": 1.1257,
+      "prior_variance": 0.413929,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.5144,
+      "prior_variance": 0.432642,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": 0.5442,
+      "prior_variance": 0.457814,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -1.8778,
+      "prior_variance": 0.504178,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": 1.1145,
+      "prior_variance": 0.432277,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": 0.1436,
+      "prior_variance": 0.651686,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.7792,
+      "prior_variance": 0.476916,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -1.5031,
+      "prior_variance": 0.45057,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Onzo",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/onzo",
+      "prior_score": -2.0572,
+      "prior_variance": 0.470041,
+      "prior_n": 3
+    }
+  ]
+}

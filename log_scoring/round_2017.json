@@ -1,0 +1,200 @@
+{
+  "round": 2017,
+  "timestamp": "2026-06-13T21:12:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 14.4793,
+      "prior_variance": 0.554448,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Zhangjiajie",
+      "path": "asia/china/hunan/zhangjiajie",
+      "prior_score": 8.9378,
+      "prior_variance": 0.445788,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 7.8943,
+      "prior_variance": 0.381768,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 6.2415,
+      "prior_variance": 0.278432,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.2138,
+      "prior_variance": 0.232904,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 4.3828,
+      "prior_variance": 0.210083,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 6.5929,
+      "prior_variance": 0.276994,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/lesund",
+      "prior_score": 7.8277,
+      "prior_variance": 0.32183,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.3935,
+      "prior_variance": 0.281044,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 4.272,
+      "prior_variance": 0.239054,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 5.8367,
+      "prior_variance": 0.246345,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 2.9353,
+      "prior_variance": 0.274382,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 4.8709,
+      "prior_variance": 0.25027,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 0.9606,
+      "prior_variance": 0.247555,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": 0.6754,
+      "prior_variance": 0.210183,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 4.7692,
+      "prior_variance": 0.286381,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.3477,
+      "prior_variance": 0.280485,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 1.2633,
+      "prior_variance": 0.235981,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.175,
+      "prior_variance": 0.230538,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.7134,
+      "prior_variance": 0.28216,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.4872,
+      "prior_variance": 0.209749,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -4.8698,
+      "prior_variance": 0.247708,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -2.7115,
+      "prior_variance": 0.238988,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -6.7833,
+      "prior_variance": 0.255384,
+      "prior_n": 6
+    }
+  ]
+}

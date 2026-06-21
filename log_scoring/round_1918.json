@@ -1,0 +1,200 @@
+{
+  "round": 1918,
+  "timestamp": "2026-06-13T21:01:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 1.6482,
+      "prior_variance": 0.259176,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.2082,
+      "prior_variance": 0.272891,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 3.7469,
+      "prior_variance": 0.233088,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 3.1218,
+      "prior_variance": 0.240549,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Bansk\u00e1 Stiavnica",
+      "path": "europe/slovakia/b_a_n_s_k",
+      "prior_score": 1.6927,
+      "prior_variance": 0.2586,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 2.7711,
+      "prior_variance": 0.222068,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 2.1594,
+      "prior_variance": 0.235396,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 2.8991,
+      "prior_variance": 0.236784,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.6046,
+      "prior_variance": 0.249925,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.3728,
+      "prior_variance": 0.214568,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.6317,
+      "prior_variance": 0.203569,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.3277,
+      "prior_variance": 0.213388,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.8061,
+      "prior_variance": 0.237895,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.867,
+      "prior_variance": 0.191652,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.2044,
+      "prior_variance": 0.276626,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -3.0997,
+      "prior_variance": 0.260452,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -3.5038,
+      "prior_variance": 0.213592,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.906,
+      "prior_variance": 0.25453,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -3.2562,
+      "prior_variance": 0.218249,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -2.9738,
+      "prior_variance": 0.240783,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.7484,
+      "prior_variance": 0.217751,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Albacete",
+      "path": "europe/spain/la_mancha/albacete",
+      "prior_score": -1.8087,
+      "prior_variance": 0.285126,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -3.9261,
+      "prior_variance": 0.322623,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.5916,
+      "prior_variance": 0.209835,
+      "prior_n": 6
+    }
+  ]
+}

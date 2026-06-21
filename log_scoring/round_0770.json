@@ -1,0 +1,200 @@
+{
+  "round": 770,
+  "timestamp": "2026-06-13T19:52:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -7.1327,
+      "prior_variance": 0.534404,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -5.3699,
+      "prior_variance": 1.260534,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -7.1205,
+      "prior_variance": 0.674725,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": -6.9354,
+      "prior_variance": 1.715669,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -6.4128,
+      "prior_variance": 0.90995,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -8.5024,
+      "prior_variance": 0.868248,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -6.9729,
+      "prior_variance": 1.90793,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Wuhu",
+      "path": "asia/china/anhui/wuhu",
+      "prior_score": -8.1937,
+      "prior_variance": 0.945044,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -7.4359,
+      "prior_variance": 0.678544,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -8.4557,
+      "prior_variance": 1.352474,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -8.1404,
+      "prior_variance": 0.767119,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -8.5716,
+      "prior_variance": 0.712879,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -8.398,
+      "prior_variance": 1.160302,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -7.2098,
+      "prior_variance": 0.853213,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -6.5116,
+      "prior_variance": 1.113023,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -8.8583,
+      "prior_variance": 0.70227,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -7.4098,
+      "prior_variance": 0.68772,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Palatka",
+      "path": "northamerica/unitedstates/florida/palatka",
+      "prior_score": -7.6094,
+      "prior_variance": 0.678606,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -7.5324,
+      "prior_variance": 0.674166,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -9.5216,
+      "prior_variance": 1.00229,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -10.3902,
+      "prior_variance": 0.904271,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -8.788,
+      "prior_variance": 1.024815,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -6.4337,
+      "prior_variance": 1.145606,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -7.2772,
+      "prior_variance": 0.600502,
+      "prior_n": 2
+    }
+  ]
+}

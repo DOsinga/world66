@@ -1,0 +1,200 @@
+{
+  "round": 2399,
+  "timestamp": "2026-06-13T21:39:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 5.0844,
+      "prior_variance": 0.226937,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -1.372,
+      "prior_variance": 0.192527,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -1.1357,
+      "prior_variance": 0.18115,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.4335,
+      "prior_variance": 0.153133,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.7248,
+      "prior_variance": 0.162264,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.441,
+      "prior_variance": 0.190908,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Rzeszow",
+      "path": "europe/poland/rzeszow",
+      "prior_score": -1.8053,
+      "prior_variance": 0.175699,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -2.7947,
+      "prior_variance": 0.178361,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": 0.0002,
+      "prior_variance": 0.160816,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.9573,
+      "prior_variance": 0.170111,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.35,
+      "prior_variance": 0.172361,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.2644,
+      "prior_variance": 0.1573,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -1.7618,
+      "prior_variance": 0.197977,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -2.4182,
+      "prior_variance": 0.233038,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -0.776,
+      "prior_variance": 0.23761,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -2.9869,
+      "prior_variance": 0.190209,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -5.4608,
+      "prior_variance": 0.209707,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Pandeglang",
+      "path": "asia/indonesia/banten/pandeglang",
+      "prior_score": -3.0881,
+      "prior_variance": 0.192128,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.2837,
+      "prior_variance": 0.196145,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -5.0204,
+      "prior_variance": 0.199784,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -6.0662,
+      "prior_variance": 0.30474,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -2.4828,
+      "prior_variance": 0.203031,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -5.1747,
+      "prior_variance": 0.241481,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "M'Ba\u00efki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_score": -10.1247,
+      "prior_variance": 0.329615,
+      "prior_n": 7
+    }
+  ]
+}

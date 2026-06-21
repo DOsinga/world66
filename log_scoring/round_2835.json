@@ -1,0 +1,200 @@
+{
+  "round": 2835,
+  "timestamp": "2026-06-13T22:10:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 11.4679,
+      "prior_variance": 0.881839,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.3338,
+      "prior_variance": 0.164698,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 6.9464,
+      "prior_variance": 0.229887,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Longsheng",
+      "path": "asia/china/guangxi/longsheng",
+      "prior_score": 3.6269,
+      "prior_variance": 0.186516,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.2896,
+      "prior_variance": 0.181095,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.1364,
+      "prior_variance": 0.147683,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 4.3256,
+      "prior_variance": 0.155687,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 6.4228,
+      "prior_variance": 0.159546,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 4.3819,
+      "prior_variance": 0.153713,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.6654,
+      "prior_variance": 0.172631,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -0.2781,
+      "prior_variance": 0.154595,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": -0.409,
+      "prior_variance": 0.187789,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 0.02,
+      "prior_variance": 0.147533,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.6216,
+      "prior_variance": 0.150136,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -1.2457,
+      "prior_variance": 0.147008,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_llavaneres",
+      "prior_score": -2.0115,
+      "prior_variance": 0.154287,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.2304,
+      "prior_variance": 0.144806,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.0593,
+      "prior_variance": 0.145876,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.9789,
+      "prior_variance": 0.166936,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Baganara",
+      "path": "southamerica/guyana/baganara",
+      "prior_score": -3.5026,
+      "prior_variance": 0.197747,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -3.6937,
+      "prior_variance": 0.148093,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -5.2126,
+      "prior_variance": 0.191282,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.6791,
+      "prior_variance": 0.15729,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -4.1562,
+      "prior_variance": 0.14511,
+      "prior_n": 9
+    }
+  ]
+}

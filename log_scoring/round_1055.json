@@ -1,0 +1,200 @@
+{
+  "round": 1055,
+  "timestamp": "2026-06-13T20:08:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 8.1287,
+      "prior_variance": 0.490574,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 7.086,
+      "prior_variance": 0.519719,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 8.8728,
+      "prior_variance": 0.587129,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 8.8213,
+      "prior_variance": 0.561743,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 5.4533,
+      "prior_variance": 0.532673,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.9892,
+      "prior_variance": 0.795181,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 4.2002,
+      "prior_variance": 0.443457,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 5.3897,
+      "prior_variance": 0.44051,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 4.4962,
+      "prior_variance": 0.644548,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.7823,
+      "prior_variance": 0.521087,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 6.6277,
+      "prior_variance": 0.617182,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 7.7383,
+      "prior_variance": 0.574997,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 5.8971,
+      "prior_variance": 0.510587,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 4.5588,
+      "prior_variance": 0.500653,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 7.475,
+      "prior_variance": 0.421023,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 5.3186,
+      "prior_variance": 0.51876,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/centralcoast/santacruz",
+      "prior_score": 3.7143,
+      "prior_variance": 0.679232,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 4.9336,
+      "prior_variance": 0.401063,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 0.5635,
+      "prior_variance": 0.445252,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mount Hood",
+      "path": "northamerica/unitedstates/oregon/mounthood",
+      "prior_score": 4.7815,
+      "prior_variance": 0.507263,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 2.9272,
+      "prior_variance": 0.473955,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hopkins",
+      "path": "northamerica/belize/hopkins",
+      "prior_score": 3.8985,
+      "prior_variance": 0.513036,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": 0.4704,
+      "prior_variance": 0.511236,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 3.6057,
+      "prior_variance": 0.4569,
+      "prior_n": 4
+    }
+  ]
+}

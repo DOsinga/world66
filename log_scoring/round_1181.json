@@ -1,0 +1,200 @@
+{
+  "round": 1181,
+  "timestamp": "2026-06-13T20:15:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 8.6269,
+      "prior_variance": 0.453485,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 6.4127,
+      "prior_variance": 0.465879,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.7958,
+      "prior_variance": 0.346324,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.6627,
+      "prior_variance": 0.46607,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.3484,
+      "prior_variance": 0.662344,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 3.2198,
+      "prior_variance": 0.521664,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 3.342,
+      "prior_variance": 0.464855,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.0546,
+      "prior_variance": 0.56839,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 7.343,
+      "prior_variance": 0.461508,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": -0.0087,
+      "prior_variance": 0.501055,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": -1.4836,
+      "prior_variance": 0.845939,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 3.9457,
+      "prior_variance": 0.554666,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.5278,
+      "prior_variance": 0.419574,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Belem",
+      "path": "southamerica/brazil/belem",
+      "prior_score": -0.4678,
+      "prior_variance": 0.566915,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 1.365,
+      "prior_variance": 0.356666,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "St. Helena",
+      "path": "northamerica/unitedstates/california/sthelena",
+      "prior_score": 1.6376,
+      "prior_variance": 0.491583,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.5964,
+      "prior_variance": 0.386913,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 2.2669,
+      "prior_variance": 0.427032,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 0.3815,
+      "prior_variance": 0.305545,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.4545,
+      "prior_variance": 0.359388,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -1.1551,
+      "prior_variance": 0.429487,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -3.4195,
+      "prior_variance": 0.298151,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.4705,
+      "prior_variance": 0.523366,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.0768,
+      "prior_variance": 0.477762,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 372,
+  "timestamp": "2026-06-13T19:32:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 5.7832,
+      "prior_variance": 1.734955,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 5.4715,
+      "prior_variance": 1.749505,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.1397,
+      "prior_variance": 2.191402,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 2.2702,
+      "prior_variance": 2.088548,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.3421,
+      "prior_variance": 2.414908,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 2.5333,
+      "prior_variance": 1.617891,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": -0.3209,
+      "prior_variance": 1.678747,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -1.0578,
+      "prior_variance": 1.827652,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 2.1698,
+      "prior_variance": 1.794936,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 0.2331,
+      "prior_variance": 1.479574,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": 3.8855,
+      "prior_variance": 2.230301,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 3.2091,
+      "prior_variance": 1.856761,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -1.7927,
+      "prior_variance": 1.582029,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ein Hod",
+      "path": "asia/israel/ein_hod",
+      "prior_score": -2.1304,
+      "prior_variance": 1.773882,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -1.0146,
+      "prior_variance": 1.726224,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": -0.4515,
+      "prior_variance": 1.388076,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -5.3128,
+      "prior_variance": 1.912053,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -4.079,
+      "prior_variance": 1.822296,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.5451,
+      "prior_variance": 1.893151,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -3.7457,
+      "prior_variance": 1.748081,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -9.0126,
+      "prior_variance": 2.078838,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "San Ysidro",
+      "path": "northamerica/unitedstates/california/san_ysidro",
+      "prior_score": -6.3906,
+      "prior_variance": 2.053191,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -11.4931,
+      "prior_variance": 8.648036,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -11.408,
+      "prior_variance": 7.017699,
+      "prior_n": 1
+    }
+  ]
+}

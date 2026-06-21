@@ -1,0 +1,200 @@
+{
+  "round": 514,
+  "timestamp": "2026-06-13T19:40:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": -1.1113,
+      "prior_variance": 1.568601,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -2.0609,
+      "prior_variance": 1.554951,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": -1.9899,
+      "prior_variance": 1.418918,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Harwich Port",
+      "path": "northamerica/unitedstates/massachusetts/harwichport",
+      "prior_score": -4.106,
+      "prior_variance": 2.883493,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -0.9112,
+      "prior_variance": 1.643586,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -3.4268,
+      "prior_variance": 1.488256,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -3.8732,
+      "prior_variance": 1.528908,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -1.6987,
+      "prior_variance": 1.784129,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -4.2919,
+      "prior_variance": 1.631816,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -4.3679,
+      "prior_variance": 1.832185,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -4.0566,
+      "prior_variance": 1.502976,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -3.3974,
+      "prior_variance": 1.382517,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -1.6843,
+      "prior_variance": 1.425336,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -7.2825,
+      "prior_variance": 1.610392,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -5.5235,
+      "prior_variance": 1.526101,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -7.3093,
+      "prior_variance": 2.357959,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -3.4732,
+      "prior_variance": 1.402685,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Tamanrasset",
+      "path": "africa/algeria/tamanrasset",
+      "prior_score": -2.3881,
+      "prior_variance": 1.833376,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Medenine",
+      "path": "africa/tunisia/medenine",
+      "prior_score": -7.2329,
+      "prior_variance": 1.736266,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -5.5443,
+      "prior_variance": 1.821417,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -6.5714,
+      "prior_variance": 1.90958,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -6.7645,
+      "prior_variance": 1.31925,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -7.4809,
+      "prior_variance": 1.329476,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -5.4073,
+      "prior_variance": 1.536648,
+      "prior_n": 1
+    }
+  ]
+}

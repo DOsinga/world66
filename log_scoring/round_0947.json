@@ -1,0 +1,200 @@
+{
+  "round": 947,
+  "timestamp": "2026-06-13T20:02:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -0.4982,
+      "prior_variance": 0.483809,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.9817,
+      "prior_variance": 0.437821,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 4.0909,
+      "prior_variance": 0.416205,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": -1.6693,
+      "prior_variance": 0.651746,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.036,
+      "prior_variance": 0.465678,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": -1.4568,
+      "prior_variance": 0.62011,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 1.3088,
+      "prior_variance": 0.626327,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sudak",
+      "path": "europe/ukraine/crimea/sudak",
+      "prior_score": -1.0351,
+      "prior_variance": 0.629485,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -5.3143,
+      "prior_variance": 0.821934,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Montegrotto Terme",
+      "path": "europe/italy/veneto/montegrotto_terme",
+      "prior_score": 2.3672,
+      "prior_variance": 0.670726,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": -0.7703,
+      "prior_variance": 0.675938,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.8908,
+      "prior_variance": 0.838108,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.9149,
+      "prior_variance": 0.652424,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -1.8435,
+      "prior_variance": 0.718865,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Nyk\u00f6ping",
+      "path": "europe/sweden/nykping",
+      "prior_score": -2.8026,
+      "prior_variance": 0.416303,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -3.6731,
+      "prior_variance": 0.510302,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.9567,
+      "prior_variance": 0.497937,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -4.9042,
+      "prior_variance": 0.568335,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -4.6118,
+      "prior_variance": 0.998649,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -10.0237,
+      "prior_variance": 0.997827,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -5.8037,
+      "prior_variance": 0.423712,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -5.0096,
+      "prior_variance": 0.702064,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.5968,
+      "prior_variance": 0.426126,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.6787,
+      "prior_variance": 0.489864,
+      "prior_n": 3
+    }
+  ]
+}

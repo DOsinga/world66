@@ -1,0 +1,200 @@
+{
+  "round": 424,
+  "timestamp": "2026-06-13T19:34:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 14.8643,
+      "prior_variance": 7.321112,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 12.2529,
+      "prior_variance": 3.494975,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 12.9242,
+      "prior_variance": 8.158652,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 12.94,
+      "prior_variance": 8.154531,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Delos",
+      "path": "europe/greece/delos",
+      "prior_score": 12.4965,
+      "prior_variance": 8.3773,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 10.0158,
+      "prior_variance": 3.849364,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Volcanoes National Park",
+      "path": "africa/rwanda/volcanoesnationalpark",
+      "prior_score": 6.1933,
+      "prior_variance": 1.642204,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 7.4844,
+      "prior_variance": 3.072224,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 10.7526,
+      "prior_variance": 3.74238,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 11.0827,
+      "prior_variance": 2.957876,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "La Paz",
+      "path": "southamerica/bolivia/lapaz",
+      "prior_score": 8.6827,
+      "prior_variance": 2.32742,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 9.5841,
+      "prior_variance": 2.028656,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 8.8162,
+      "prior_variance": 2.851201,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 11.5221,
+      "prior_variance": 3.607525,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Karlovy Vary",
+      "path": "europe/czechrepublic/karlovyvary",
+      "prior_score": 9.9617,
+      "prior_variance": 2.723182,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 5.1192,
+      "prior_variance": 1.945665,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 7.2427,
+      "prior_variance": 3.766673,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 6.6607,
+      "prior_variance": 2.543327,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 9.6979,
+      "prior_variance": 2.751869,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 7.638,
+      "prior_variance": 1.976046,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 5.322,
+      "prior_variance": 2.716082,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 5.8292,
+      "prior_variance": 1.600496,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 5.6702,
+      "prior_variance": 1.581207,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 3.6328,
+      "prior_variance": 3.912266,
+      "prior_n": 1
+    }
+  ]
+}

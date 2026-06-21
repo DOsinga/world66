@@ -1,0 +1,200 @@
+{
+  "round": 4140,
+  "timestamp": "2026-06-13T23:46:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.825,
+      "prior_variance": 0.101373,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 1.3598,
+      "prior_variance": 0.098033,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 1.9719,
+      "prior_variance": 0.096551,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.1411,
+      "prior_variance": 0.103745,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": -0.2009,
+      "prior_variance": 0.129642,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Niigata",
+      "path": "asia/japan/honshu/niigata",
+      "prior_score": 0.3692,
+      "prior_variance": 0.097774,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Llandudno",
+      "path": "europe/unitedkingdom/wales/llandudno",
+      "prior_score": 1.1026,
+      "prior_variance": 0.094622,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.2232,
+      "prior_variance": 0.095438,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Moganshan",
+      "path": "asia/china/zhejiang/moganshan",
+      "prior_score": 0.5455,
+      "prior_variance": 0.09334,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.6749,
+      "prior_variance": 0.111719,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.0972,
+      "prior_variance": 0.110764,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.3543,
+      "prior_variance": 0.115247,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.372,
+      "prior_variance": 0.093199,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": 0.0212,
+      "prior_variance": 0.109562,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.3192,
+      "prior_variance": 0.104849,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.2121,
+      "prior_variance": 0.092355,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.7662,
+      "prior_variance": 0.09096,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.5993,
+      "prior_variance": 0.104794,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.0827,
+      "prior_variance": 0.120571,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.1416,
+      "prior_variance": 0.095221,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -0.9881,
+      "prior_variance": 0.095018,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.3275,
+      "prior_variance": 0.097128,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -2.8785,
+      "prior_variance": 0.109796,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Poteau",
+      "path": "northamerica/unitedstates/oklahoma/poteau",
+      "prior_score": -6.1979,
+      "prior_variance": 0.176281,
+      "prior_n": 13
+    }
+  ]
+}

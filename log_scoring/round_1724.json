@@ -1,0 +1,200 @@
+{
+  "round": 1724,
+  "timestamp": "2026-06-13T20:48:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 19.8474,
+      "prior_variance": 1.249144,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 9.8257,
+      "prior_variance": 0.517241,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 10.1998,
+      "prior_variance": 0.454109,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 11.4017,
+      "prior_variance": 0.490139,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 9.8762,
+      "prior_variance": 0.543931,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.2869,
+      "prior_variance": 0.356914,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 6.1068,
+      "prior_variance": 0.40419,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 5.7591,
+      "prior_variance": 0.329478,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 2.8731,
+      "prior_variance": 0.307742,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 3.4704,
+      "prior_variance": 0.261809,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.3036,
+      "prior_variance": 0.312096,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_score": 5.9251,
+      "prior_variance": 0.306519,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 5.0413,
+      "prior_variance": 0.256533,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.77,
+      "prior_variance": 0.256295,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.0667,
+      "prior_variance": 0.265385,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.7377,
+      "prior_variance": 0.23416,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.3814,
+      "prior_variance": 0.269535,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.2486,
+      "prior_variance": 0.269463,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 3.1859,
+      "prior_variance": 0.233551,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.2321,
+      "prior_variance": 0.21705,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -1.2355,
+      "prior_variance": 0.243235,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Spring Green",
+      "path": "northamerica/unitedstates/wisconsin/spring_green",
+      "prior_score": -1.1069,
+      "prior_variance": 0.269491,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -1.229,
+      "prior_variance": 0.278665,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": 0.2966,
+      "prior_variance": 0.248381,
+      "prior_n": 5
+    }
+  ]
+}

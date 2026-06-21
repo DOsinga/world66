@@ -1,0 +1,200 @@
+{
+  "round": 3602,
+  "timestamp": "2026-06-13T23:06:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 8.7176,
+      "prior_variance": 0.186379,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.6561,
+      "prior_variance": 0.147866,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 5.4635,
+      "prior_variance": 0.13841,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 2.5475,
+      "prior_variance": 0.140246,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.0701,
+      "prior_variance": 0.119971,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 1.829,
+      "prior_variance": 0.152834,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Skogar",
+      "path": "europe/iceland/skogar",
+      "prior_score": 3.9718,
+      "prior_variance": 0.186339,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 2.0559,
+      "prior_variance": 0.129371,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Valen\u00e7a do Minho",
+      "path": "europe/portugal/valena_do_minho",
+      "prior_score": 0.9889,
+      "prior_variance": 0.114078,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": 0.3244,
+      "prior_variance": 0.119157,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.557,
+      "prior_variance": 0.11074,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 0.1188,
+      "prior_variance": 0.115188,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.0574,
+      "prior_variance": 0.123071,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.366,
+      "prior_variance": 0.11768,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.5113,
+      "prior_variance": 0.116692,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Florina",
+      "path": "europe/greece/florina",
+      "prior_score": -0.6898,
+      "prior_variance": 0.123786,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Geel",
+      "path": "europe/belgium/geel",
+      "prior_score": -3.385,
+      "prior_variance": 0.139382,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.016,
+      "prior_variance": 0.136878,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -0.924,
+      "prior_variance": 0.125257,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.3634,
+      "prior_variance": 0.123845,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.94,
+      "prior_variance": 0.119034,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.7241,
+      "prior_variance": 0.129732,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -5.1557,
+      "prior_variance": 0.152584,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -2.9244,
+      "prior_variance": 0.12903,
+      "prior_n": 12
+    }
+  ]
+}

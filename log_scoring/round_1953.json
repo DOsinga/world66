@@ -1,0 +1,200 @@
+{
+  "round": 1953,
+  "timestamp": "2026-06-13T21:08:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 9.6619,
+      "prior_variance": 0.689535,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 4.6879,
+      "prior_variance": 0.268458,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 2.2223,
+      "prior_variance": 0.207773,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.4927,
+      "prior_variance": 0.249614,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -2.2189,
+      "prior_variance": 0.227241,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.9442,
+      "prior_variance": 0.216385,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ratnagiri, Lalitgiri and Udayagiri",
+      "path": "asia/india/orissa/ratnagirilalitgiri",
+      "prior_score": -0.7498,
+      "prior_variance": 0.197216,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -1.4494,
+      "prior_variance": 0.31433,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.5969,
+      "prior_variance": 0.203063,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.3427,
+      "prior_variance": 0.213491,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -2.5013,
+      "prior_variance": 0.271393,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -0.9881,
+      "prior_variance": 0.219202,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": -1.2716,
+      "prior_variance": 0.312757,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.628,
+      "prior_variance": 0.264251,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.7737,
+      "prior_variance": 0.261292,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_score": -3.332,
+      "prior_variance": 0.255312,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Ajman",
+      "path": "asia/unitedarabemirates/ajman",
+      "prior_score": -2.1341,
+      "prior_variance": 0.220076,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -4.0357,
+      "prior_variance": 0.194382,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -5.3731,
+      "prior_variance": 0.263607,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -4.6019,
+      "prior_variance": 0.222604,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Oakdale",
+      "path": "northamerica/unitedstates/california/oakdale",
+      "prior_score": -5.5654,
+      "prior_variance": 0.316754,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Weining",
+      "path": "asia/china/guizhou/weining",
+      "prior_score": -4.4132,
+      "prior_variance": 0.321286,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -6.6524,
+      "prior_variance": 0.305407,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -5.6522,
+      "prior_variance": 0.248899,
+      "prior_n": 6
+    }
+  ]
+}

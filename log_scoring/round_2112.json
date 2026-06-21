@@ -1,0 +1,200 @@
+{
+  "round": 2112,
+  "timestamp": "2026-06-13T21:19:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 21.3789,
+      "prior_variance": 1.592001,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 8.4698,
+      "prior_variance": 0.361241,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 9.6953,
+      "prior_variance": 0.570725,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Udaipur",
+      "path": "asia/india/rajasthan/udaipur",
+      "prior_score": 7.7546,
+      "prior_variance": 0.369209,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 6.525,
+      "prior_variance": 0.276215,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.5295,
+      "prior_variance": 0.242399,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 4.5346,
+      "prior_variance": 0.222838,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 5.0142,
+      "prior_variance": 0.271516,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 6.1775,
+      "prior_variance": 0.488681,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Shiretoko",
+      "path": "asia/japan/hokkaido/shiretoko",
+      "prior_score": 6.2962,
+      "prior_variance": 0.24483,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Girdwood",
+      "path": "northamerica/unitedstates/alaska/girdwood",
+      "prior_score": 2.2244,
+      "prior_variance": 0.272567,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": 0.0265,
+      "prior_variance": 0.215209,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.5498,
+      "prior_variance": 0.271842,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Rupununi Savanna",
+      "path": "southamerica/guyana/rupununisavanna",
+      "prior_score": -0.6177,
+      "prior_variance": 0.183081,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": -0.0467,
+      "prior_variance": 0.163483,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.3523,
+      "prior_variance": 0.203102,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -1.4276,
+      "prior_variance": 0.172813,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.1959,
+      "prior_variance": 0.182337,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Shantou",
+      "path": "asia/china/guangdong/shantou",
+      "prior_score": -2.5654,
+      "prior_variance": 0.25298,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.1207,
+      "prior_variance": 0.19398,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": -3.8652,
+      "prior_variance": 0.232807,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -2.0088,
+      "prior_variance": 0.213367,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -4.4704,
+      "prior_variance": 0.274756,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -2.345,
+      "prior_variance": 0.263802,
+      "prior_n": 7
+    }
+  ]
+}

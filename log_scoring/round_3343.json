@@ -1,0 +1,200 @@
+{
+  "round": 3343,
+  "timestamp": "2026-06-13T22:47:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 1.8542,
+      "prior_variance": 0.292246,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.6776,
+      "prior_variance": 0.169281,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 5.5624,
+      "prior_variance": 0.145474,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 1.5136,
+      "prior_variance": 0.123791,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 3.7611,
+      "prior_variance": 0.122445,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 0.7574,
+      "prior_variance": 0.130156,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 1.1195,
+      "prior_variance": 0.115803,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.1113,
+      "prior_variance": 0.118673,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 1.7483,
+      "prior_variance": 0.128326,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 0.695,
+      "prior_variance": 0.128788,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 2.6378,
+      "prior_variance": 0.139768,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 0.939,
+      "prior_variance": 0.122743,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 0.7064,
+      "prior_variance": 0.121718,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/gloucestershire/forestofdean",
+      "prior_score": 0.8795,
+      "prior_variance": 0.125321,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -4.3086,
+      "prior_variance": 0.150302,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.1946,
+      "prior_variance": 0.131878,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -2.0232,
+      "prior_variance": 0.129942,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -1.4978,
+      "prior_variance": 0.119169,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Angaur",
+      "path": "australiaandpacific/palau/angaur",
+      "prior_score": 0.5324,
+      "prior_variance": 0.12612,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -4.474,
+      "prior_variance": 0.133728,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Lake Markakol",
+      "path": "asia/kazakhstan/lakemarkakol",
+      "prior_score": -1.9244,
+      "prior_variance": 0.126129,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.2614,
+      "prior_variance": 0.151051,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.5609,
+      "prior_variance": 0.179482,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -8.7919,
+      "prior_variance": 0.295894,
+      "prior_n": 10
+    }
+  ]
+}

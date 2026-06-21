@@ -1,0 +1,200 @@
+{
+  "round": 382,
+  "timestamp": "2026-06-13T19:32:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 0.7638,
+      "prior_variance": 3.23949,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 1.3621,
+      "prior_variance": 2.078017,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 1.7895,
+      "prior_variance": 1.596996,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": -0.2065,
+      "prior_variance": 1.398812,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": -0.0406,
+      "prior_variance": 1.772564,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 2.5394,
+      "prior_variance": 1.763413,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": -2.1513,
+      "prior_variance": 2.067881,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nyeri",
+      "path": "africa/kenya/centralhighlands/nyeri",
+      "prior_score": -2.3684,
+      "prior_variance": 1.962644,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -3.9741,
+      "prior_variance": 1.975859,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -3.1319,
+      "prior_variance": 1.678391,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": 0.5665,
+      "prior_variance": 1.600279,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Benic\u00e0ssim",
+      "path": "europe/spain/castellon/benicssim",
+      "prior_score": 0.5371,
+      "prior_variance": 1.656151,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -1.4088,
+      "prior_variance": 1.480456,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -0.6168,
+      "prior_variance": 2.731908,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -1.722,
+      "prior_variance": 1.476873,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.7661,
+      "prior_variance": 1.606926,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -2.8936,
+      "prior_variance": 1.755608,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -4.6486,
+      "prior_variance": 1.766234,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -2.2628,
+      "prior_variance": 1.475576,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -3.6932,
+      "prior_variance": 1.461937,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -1.6216,
+      "prior_variance": 1.413686,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.646,
+      "prior_variance": 1.468029,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -7.9971,
+      "prior_variance": 1.664209,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -14.2658,
+      "prior_variance": 7.150278,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1195,
+  "timestamp": "2026-06-13T20:16:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 15.0766,
+      "prior_variance": 0.625501,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 7.1208,
+      "prior_variance": 0.485223,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 10.2448,
+      "prior_variance": 0.433035,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.8465,
+      "prior_variance": 0.51419,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 4.967,
+      "prior_variance": 0.43525,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gulangyu",
+      "path": "asia/china/fujianprovince/gulangyu",
+      "prior_score": 4.8548,
+      "prior_variance": 0.413404,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.2705,
+      "prior_variance": 0.379258,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 6.1655,
+      "prior_variance": 0.407317,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 7.0581,
+      "prior_variance": 0.49122,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 5.9681,
+      "prior_variance": 0.328489,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 5.573,
+      "prior_variance": 0.613588,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 2.8604,
+      "prior_variance": 0.335806,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": -0.0732,
+      "prior_variance": 0.41583,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.4753,
+      "prior_variance": 0.399677,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": -0.0382,
+      "prior_variance": 0.402243,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 4.9598,
+      "prior_variance": 0.495701,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.0846,
+      "prior_variance": 0.54855,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": 0.1245,
+      "prior_variance": 0.546594,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": 0.3921,
+      "prior_variance": 0.381201,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -4.1848,
+      "prior_variance": 0.386334,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -3.5716,
+      "prior_variance": 0.484407,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Herat",
+      "path": "asia/afghanistan/herat",
+      "prior_score": -13.7377,
+      "prior_variance": 1.152827,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_score": -5.3585,
+      "prior_variance": 0.422707,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -8.1436,
+      "prior_variance": 0.669284,
+      "prior_n": 3
+    }
+  ]
+}

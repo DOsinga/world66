@@ -1,0 +1,200 @@
+{
+  "round": 2092,
+  "timestamp": "2026-06-13T21:18:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 0.974,
+      "prior_variance": 0.170717,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.5926,
+      "prior_variance": 0.200627,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -0.0449,
+      "prior_variance": 0.297118,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -6.6237,
+      "prior_variance": 0.271652,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -3.4535,
+      "prior_variance": 0.221604,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_score": -4.3127,
+      "prior_variance": 0.252212,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.6935,
+      "prior_variance": 0.245549,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -4.8068,
+      "prior_variance": 0.234496,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -5.6319,
+      "prior_variance": 0.395587,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -5.6257,
+      "prior_variance": 0.265507,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Detroit",
+      "path": "northamerica/unitedstates/michigan/detroit",
+      "prior_score": -3.9033,
+      "prior_variance": 0.210759,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.3432,
+      "prior_variance": 0.228211,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Ramallah",
+      "path": "asia/palestinianauthority/ramallah",
+      "prior_score": -6.2378,
+      "prior_variance": 0.290677,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -4.5935,
+      "prior_variance": 0.208114,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -6.3501,
+      "prior_variance": 0.280556,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.6541,
+      "prior_variance": 0.306139,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -7.2374,
+      "prior_variance": 0.323446,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -7.1479,
+      "prior_variance": 0.536006,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -6.2889,
+      "prior_variance": 0.336212,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -5.2615,
+      "prior_variance": 0.224053,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -6.716,
+      "prior_variance": 0.31169,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -8.0968,
+      "prior_variance": 0.508149,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -7.5284,
+      "prior_variance": 0.316891,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -6.1658,
+      "prior_variance": 0.258649,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1171,
+  "timestamp": "2026-06-13T20:15:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 17.0516,
+      "prior_variance": 0.813601,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Matsumoto",
+      "path": "asia/japan/honshu/matsumoto",
+      "prior_score": 9.3126,
+      "prior_variance": 0.711649,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 7.997,
+      "prior_variance": 0.488469,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.389,
+      "prior_variance": 0.386339,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.9497,
+      "prior_variance": 0.454267,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -4.6302,
+      "prior_variance": 0.406097,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -6.0687,
+      "prior_variance": 0.452945,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -5.7351,
+      "prior_variance": 0.423778,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -5.8477,
+      "prior_variance": 0.414455,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -6.5348,
+      "prior_variance": 0.413051,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -5.2617,
+      "prior_variance": 0.391011,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -5.8251,
+      "prior_variance": 0.413923,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -8.2333,
+      "prior_variance": 0.449591,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bolgatanga",
+      "path": "africa/ghana/bolgatanga",
+      "prior_score": -6.7851,
+      "prior_variance": 0.414867,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -6.0481,
+      "prior_variance": 0.434576,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -6.6975,
+      "prior_variance": 0.381978,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -3.0624,
+      "prior_variance": 0.303886,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -8.2199,
+      "prior_variance": 0.568573,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -8.1321,
+      "prior_variance": 0.556738,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -7.5708,
+      "prior_variance": 0.685723,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.646,
+      "prior_variance": 0.410193,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -10.1544,
+      "prior_variance": 0.598694,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -16.0005,
+      "prior_variance": 0.988015,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kovilpatti",
+      "path": "asia/india/tamilnadu/kovilpatti",
+      "prior_score": -6.9098,
+      "prior_variance": 0.467795,
+      "prior_n": 3
+    }
+  ]
+}

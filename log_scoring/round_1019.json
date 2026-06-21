@@ -1,0 +1,200 @@
+{
+  "round": 1019,
+  "timestamp": "2026-06-13T20:06:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -6.7676,
+      "prior_variance": 0.383081,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -6.8573,
+      "prior_variance": 0.581315,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -6.2563,
+      "prior_variance": 0.61082,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": -8.6256,
+      "prior_variance": 0.515808,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Evanston",
+      "path": "northamerica/unitedstates/wyoming/evanston",
+      "prior_score": -8.8874,
+      "prior_variance": 0.436331,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -8.8744,
+      "prior_variance": 0.724641,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -7.8321,
+      "prior_variance": 0.660389,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -6.4436,
+      "prior_variance": 0.592285,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -5.5997,
+      "prior_variance": 0.543193,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -8.6354,
+      "prior_variance": 0.5222,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -8.3819,
+      "prior_variance": 0.5628,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -8.2993,
+      "prior_variance": 0.588891,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -7.5123,
+      "prior_variance": 0.601655,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -8.7005,
+      "prior_variance": 0.393282,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -8.9619,
+      "prior_variance": 0.334344,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -7.6267,
+      "prior_variance": 0.488373,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -6.4704,
+      "prior_variance": 0.501732,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -8.4948,
+      "prior_variance": 0.397819,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -9.9303,
+      "prior_variance": 0.62711,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Wuhai",
+      "path": "asia/china/innermongolia/wuhai",
+      "prior_score": -7.5549,
+      "prior_variance": 0.383348,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sheikhupura",
+      "path": "asia/pakistan/sheikhu_pura",
+      "prior_score": -9.6061,
+      "prior_variance": 0.569074,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -7.2685,
+      "prior_variance": 0.535129,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -8.3559,
+      "prior_variance": 0.593746,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -13.0576,
+      "prior_variance": 0.454051,
+      "prior_n": 3
+    }
+  ]
+}

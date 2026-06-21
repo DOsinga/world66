@@ -1,0 +1,200 @@
+{
+  "round": 996,
+  "timestamp": "2026-06-13T20:05:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 14.1458,
+      "prior_variance": 1.55156,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 8.4499,
+      "prior_variance": 0.728499,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 4.818,
+      "prior_variance": 0.624773,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 5.8428,
+      "prior_variance": 0.751263,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 7.197,
+      "prior_variance": 0.484352,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 6.2393,
+      "prior_variance": 0.448557,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 4.6179,
+      "prior_variance": 0.451643,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 5.0382,
+      "prior_variance": 0.471149,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 5.8695,
+      "prior_variance": 0.511831,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 5.8103,
+      "prior_variance": 0.45543,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 6.6942,
+      "prior_variance": 0.424706,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.9126,
+      "prior_variance": 0.468209,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Le Puy en Velay",
+      "path": "europe/france/midi/cevennes/lepuyenvelay",
+      "prior_score": 7.3776,
+      "prior_variance": 0.460918,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 3.2037,
+      "prior_variance": 0.595062,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 7.7431,
+      "prior_variance": 0.534386,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 4.9066,
+      "prior_variance": 0.813459,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Revelstoke",
+      "path": "northamerica/canada/britishcolumbia/revelstoke",
+      "prior_score": 7.191,
+      "prior_variance": 0.731674,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 7.4534,
+      "prior_variance": 0.617718,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 3.9664,
+      "prior_variance": 0.520062,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 7.9422,
+      "prior_variance": 0.521477,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 7.1078,
+      "prior_variance": 0.478254,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 5.3263,
+      "prior_variance": 0.767931,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 6.1336,
+      "prior_variance": 0.511007,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 4.3815,
+      "prior_variance": 0.674488,
+      "prior_n": 3
+    }
+  ]
+}

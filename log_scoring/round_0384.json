@@ -1,0 +1,200 @@
+{
+  "round": 384,
+  "timestamp": "2026-06-13T19:32:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 0.0486,
+      "prior_variance": 1.624123,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -2.7198,
+      "prior_variance": 1.491707,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -1.151,
+      "prior_variance": 2.725569,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 0.8962,
+      "prior_variance": 1.786317,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -1.7579,
+      "prior_variance": 2.426431,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": 0.7855,
+      "prior_variance": 1.641378,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Coquimbo",
+      "path": "southamerica/chile/coquimbo",
+      "prior_score": 0.0766,
+      "prior_variance": 2.019309,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -9.7691,
+      "prior_variance": 1.868141,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -6.0281,
+      "prior_variance": 1.765162,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -2.5292,
+      "prior_variance": 1.459506,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -4.6305,
+      "prior_variance": 2.256603,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -2.9987,
+      "prior_variance": 1.629691,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Wakefield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield",
+      "prior_score": -5.3506,
+      "prior_variance": 1.718057,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucuman",
+      "prior_score": -5.3867,
+      "prior_variance": 2.080152,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -3.3636,
+      "prior_variance": 1.684764,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -0.8694,
+      "prior_variance": 1.566894,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Yackandandah",
+      "path": "australiaandpacific/australia/victoria/yackandandah",
+      "prior_score": -2.6655,
+      "prior_variance": 1.905182,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Larabanga",
+      "path": "africa/ghana/larabanja",
+      "prior_score": -6.947,
+      "prior_variance": 2.885493,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -6.0483,
+      "prior_variance": 1.953309,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -1.4733,
+      "prior_variance": 1.521722,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -7.8924,
+      "prior_variance": 8.867944,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dededo",
+      "path": "australiaandpacific/guam/dededo",
+      "prior_score": -5.6246,
+      "prior_variance": 2.172325,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -10.8893,
+      "prior_variance": 3.439883,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -8.665,
+      "prior_variance": 3.985575,
+      "prior_n": 1
+    }
+  ]
+}

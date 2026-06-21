@@ -1,0 +1,200 @@
+{
+  "round": 1973,
+  "timestamp": "2026-06-13T21:09:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -4.9319,
+      "prior_variance": 0.608318,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.4661,
+      "prior_variance": 0.215969,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 0.421,
+      "prior_variance": 0.200281,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -1.4775,
+      "prior_variance": 0.289889,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.5145,
+      "prior_variance": 0.189206,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -2.0546,
+      "prior_variance": 0.197771,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -2.6018,
+      "prior_variance": 0.218425,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -3.8735,
+      "prior_variance": 0.231038,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -3.9805,
+      "prior_variance": 0.242593,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -0.4177,
+      "prior_variance": 0.200553,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -3.4305,
+      "prior_variance": 0.223546,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.9191,
+      "prior_variance": 0.235129,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.0945,
+      "prior_variance": 0.253191,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -6.0835,
+      "prior_variance": 0.256275,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -5.263,
+      "prior_variance": 0.237555,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -7.1834,
+      "prior_variance": 0.291564,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -3.8675,
+      "prior_variance": 0.289383,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -6.5678,
+      "prior_variance": 0.226342,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -6.6854,
+      "prior_variance": 0.224662,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Krasnovodsk (T\u00fcrkmenba\u015fy)",
+      "path": "asia/turkmenistan/krasnovodsk",
+      "prior_score": -7.1192,
+      "prior_variance": 0.324799,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -7.5261,
+      "prior_variance": 0.308535,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -8.4554,
+      "prior_variance": 0.636225,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -10.6562,
+      "prior_variance": 0.524031,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -8.4958,
+      "prior_variance": 0.339425,
+      "prior_n": 6
+    }
+  ]
+}

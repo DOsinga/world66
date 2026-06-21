@@ -1,0 +1,200 @@
+{
+  "round": 1154,
+  "timestamp": "2026-06-13T20:14:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 7.6692,
+      "prior_variance": 0.467413,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 9.123,
+      "prior_variance": 0.495677,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 6.9453,
+      "prior_variance": 0.424123,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Guimar\u00e3es",
+      "path": "europe/portugal/guimaraes",
+      "prior_score": 6.6505,
+      "prior_variance": 0.487861,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 7.5236,
+      "prior_variance": 0.513954,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Huaraz",
+      "path": "southamerica/peru/huaraz",
+      "prior_score": 7.8935,
+      "prior_variance": 0.470654,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 7.0509,
+      "prior_variance": 0.45794,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 4.8898,
+      "prior_variance": 0.565113,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 1.3169,
+      "prior_variance": 0.454232,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 2.7187,
+      "prior_variance": 0.597927,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.9981,
+      "prior_variance": 0.425232,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 4.322,
+      "prior_variance": 0.653153,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.8298,
+      "prior_variance": 0.411978,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 2.463,
+      "prior_variance": 0.461454,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": -0.284,
+      "prior_variance": 0.3386,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 1.5351,
+      "prior_variance": 0.329903,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Oostende",
+      "path": "europe/belgium/oostende",
+      "prior_score": 2.0103,
+      "prior_variance": 0.420876,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lonavala",
+      "path": "asia/india/maharashtra/lonavala",
+      "prior_score": 0.0737,
+      "prior_variance": 0.413183,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 0.4495,
+      "prior_variance": 0.667335,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.1204,
+      "prior_variance": 0.32119,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 0.806,
+      "prior_variance": 0.457541,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -4.1992,
+      "prior_variance": 0.413426,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -1.1969,
+      "prior_variance": 0.419565,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -6.2697,
+      "prior_variance": 0.483834,
+      "prior_n": 3
+    }
+  ]
+}

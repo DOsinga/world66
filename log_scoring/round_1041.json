@@ -1,0 +1,200 @@
+{
+  "round": 1041,
+  "timestamp": "2026-06-13T20:07:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 4.5991,
+      "prior_variance": 0.547407,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 0.8511,
+      "prior_variance": 0.642875,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.5746,
+      "prior_variance": 0.673433,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 3.0093,
+      "prior_variance": 0.418208,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.6178,
+      "prior_variance": 0.486519,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 1.5014,
+      "prior_variance": 0.539433,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 2.5145,
+      "prior_variance": 0.437617,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": -0.6005,
+      "prior_variance": 1.009639,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 3.0799,
+      "prior_variance": 0.515767,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 4.5703,
+      "prior_variance": 0.548428,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 0.3644,
+      "prior_variance": 0.462704,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.7525,
+      "prior_variance": 0.542392,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Savona",
+      "path": "europe/italy/liguria/savona",
+      "prior_score": 0.1608,
+      "prior_variance": 0.453107,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 1.0353,
+      "prior_variance": 0.546956,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": 0.8815,
+      "prior_variance": 0.44133,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 4.132,
+      "prior_variance": 0.45561,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 1.4826,
+      "prior_variance": 0.756108,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.9285,
+      "prior_variance": 0.461473,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bray",
+      "path": "europe/ireland/bray",
+      "prior_score": 0.4311,
+      "prior_variance": 0.496617,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": 0.7492,
+      "prior_variance": 0.462931,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 2.9025,
+      "prior_variance": 0.461988,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": 0.3018,
+      "prior_variance": 0.560257,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -0.5082,
+      "prior_variance": 0.339549,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -1.8011,
+      "prior_variance": 0.558861,
+      "prior_n": 3
+    }
+  ]
+}

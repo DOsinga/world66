@@ -1,0 +1,200 @@
+{
+  "round": 990,
+  "timestamp": "2026-06-13T20:04:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -0.0583,
+      "prior_variance": 0.493506,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": -0.1834,
+      "prior_variance": 0.43549,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -3.6603,
+      "prior_variance": 0.450063,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kawartha Lakes",
+      "path": "northamerica/canada/ontario/kawartha_lakes",
+      "prior_score": -0.8837,
+      "prior_variance": 0.392675,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.2094,
+      "prior_variance": 0.589465,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -7.2562,
+      "prior_variance": 0.642664,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": 0.6247,
+      "prior_variance": 0.811584,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -0.9218,
+      "prior_variance": 0.495414,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": -1.3981,
+      "prior_variance": 0.347781,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kernville",
+      "path": "northamerica/unitedstates/california/centralvalley/kernville",
+      "prior_score": -1.014,
+      "prior_variance": 0.480185,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -3.7846,
+      "prior_variance": 0.463456,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_score": -3.7417,
+      "prior_variance": 0.48297,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -5.0531,
+      "prior_variance": 0.486062,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -1.9601,
+      "prior_variance": 0.530025,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.5749,
+      "prior_variance": 0.452356,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -2.3614,
+      "prior_variance": 0.484216,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Malvan",
+      "path": "asia/india/maharashtra/malvan",
+      "prior_score": -1.7966,
+      "prior_variance": 0.539828,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lang De",
+      "path": "asia/china/guizhou/lang_de",
+      "prior_score": -3.7511,
+      "prior_variance": 0.753299,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.9625,
+      "prior_variance": 0.468356,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Zuni",
+      "path": "northamerica/unitedstates/newmexico/zuni",
+      "prior_score": -4.0182,
+      "prior_variance": 0.603055,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -5.4366,
+      "prior_variance": 0.445279,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -4.6791,
+      "prior_variance": 0.675959,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.5285,
+      "prior_variance": 0.611083,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Debre Damo",
+      "path": "africa/ethiopia/debre_damo",
+      "prior_score": -1.8319,
+      "prior_variance": 0.762023,
+      "prior_n": 2
+    }
+  ]
+}

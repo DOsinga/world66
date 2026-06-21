@@ -1,0 +1,200 @@
+{
+  "round": 1752,
+  "timestamp": "2026-06-13T20:50:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 7.219,
+      "prior_variance": 0.429801,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Glencoe",
+      "path": "europe/unitedkingdom/scotland/glencoe",
+      "prior_score": 8.4035,
+      "prior_variance": 0.402492,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 2.1367,
+      "prior_variance": 0.352835,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.6708,
+      "prior_variance": 0.228431,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.8479,
+      "prior_variance": 0.253652,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 2.1351,
+      "prior_variance": 0.224734,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -1.4034,
+      "prior_variance": 0.321973,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Galichnik",
+      "path": "europe/macedonia/galichnik",
+      "prior_score": -2.0427,
+      "prior_variance": 0.255418,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kassel",
+      "path": "europe/germany/hessen/kassel",
+      "prior_score": 0.4771,
+      "prior_variance": 0.20833,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.187,
+      "prior_variance": 0.32272,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -3.0247,
+      "prior_variance": 0.30148,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.8365,
+      "prior_variance": 0.274796,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.5896,
+      "prior_variance": 0.239404,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.2385,
+      "prior_variance": 0.220887,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.4119,
+      "prior_variance": 0.241071,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": -2.0211,
+      "prior_variance": 0.251254,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.156,
+      "prior_variance": 0.261188,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Rancagua",
+      "path": "southamerica/chile/rancagua",
+      "prior_score": -2.3399,
+      "prior_variance": 0.19027,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hellevoetsluis",
+      "path": "europe/netherlands/hellevoetsluis",
+      "prior_score": -2.5398,
+      "prior_variance": 0.256893,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -5.8597,
+      "prior_variance": 0.235865,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Lititz",
+      "path": "northamerica/unitedstates/pennsylvania/lancastercounty/lititz",
+      "prior_score": -0.8244,
+      "prior_variance": 0.269993,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.2626,
+      "prior_variance": 0.263971,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -5.1452,
+      "prior_variance": 0.287442,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.8141,
+      "prior_variance": 0.371132,
+      "prior_n": 5
+    }
+  ]
+}

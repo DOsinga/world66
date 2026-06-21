@@ -1,0 +1,200 @@
+{
+  "round": 1290,
+  "timestamp": "2026-06-13T20:21:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 25.1771,
+      "prior_variance": 5.084463,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 5.3427,
+      "prior_variance": 0.332864,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Forio",
+      "path": "europe/italy/campania/ischia/forio",
+      "prior_score": 6.5606,
+      "prior_variance": 0.317723,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 2.1444,
+      "prior_variance": 0.430967,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 6.1594,
+      "prior_variance": 0.520646,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 4.2659,
+      "prior_variance": 0.305785,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 2.0797,
+      "prior_variance": 0.298153,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa",
+      "prior_score": 0.2534,
+      "prior_variance": 0.335665,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 3.136,
+      "prior_variance": 0.263447,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.7606,
+      "prior_variance": 0.310674,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.8678,
+      "prior_variance": 0.317434,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.1431,
+      "prior_variance": 0.336076,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 3.8426,
+      "prior_variance": 0.293883,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": 0.2958,
+      "prior_variance": 0.327251,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -1.4293,
+      "prior_variance": 0.327993,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": 0.2678,
+      "prior_variance": 0.311228,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -1.2182,
+      "prior_variance": 0.317146,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -4.5785,
+      "prior_variance": 0.328338,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.6434,
+      "prior_variance": 0.42382,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -11.2002,
+      "prior_variance": 0.419726,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -10.0266,
+      "prior_variance": 0.468423,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -10.5737,
+      "prior_variance": 0.4362,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -10.7986,
+      "prior_variance": 0.564524,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -11.6317,
+      "prior_variance": 0.447997,
+      "prior_n": 4
+    }
+  ]
+}

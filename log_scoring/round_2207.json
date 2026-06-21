@@ -1,0 +1,200 @@
+{
+  "round": 2207,
+  "timestamp": "2026-06-13T21:26:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.357,
+      "prior_variance": 0.219362,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 4.6653,
+      "prior_variance": 0.212889,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 1.351,
+      "prior_variance": 0.174822,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 2.9948,
+      "prior_variance": 0.181445,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.2019,
+      "prior_variance": 0.234657,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.7749,
+      "prior_variance": 0.18813,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": -0.5463,
+      "prior_variance": 0.194719,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.5655,
+      "prior_variance": 0.16901,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.443,
+      "prior_variance": 0.168932,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.7349,
+      "prior_variance": 0.197765,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.5302,
+      "prior_variance": 0.178369,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": 1.9395,
+      "prior_variance": 0.206608,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.2895,
+      "prior_variance": 0.198085,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Peiting",
+      "path": "europe/germany/bavaria/romanticroad/peiting",
+      "prior_score": -0.7762,
+      "prior_variance": 0.192271,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -2.5328,
+      "prior_variance": 0.212654,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Waqra",
+      "path": "asia/qatar/waqra",
+      "prior_score": -6.4883,
+      "prior_variance": 0.259676,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.6451,
+      "prior_variance": 0.190209,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": -1.7205,
+      "prior_variance": 0.238011,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -4.9034,
+      "prior_variance": 0.228403,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -4.582,
+      "prior_variance": 0.205474,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Szentes",
+      "path": "europe/hungary/szentes",
+      "prior_score": -4.0842,
+      "prior_variance": 0.190796,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.4486,
+      "prior_variance": 0.215856,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -6.8554,
+      "prior_variance": 0.371283,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.1336,
+      "prior_variance": 0.342957,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1520,
+  "timestamp": "2026-06-13T20:35:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 11.3717,
+      "prior_variance": 0.576586,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 6.9012,
+      "prior_variance": 0.424809,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 7.1174,
+      "prior_variance": 0.426198,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 4.2889,
+      "prior_variance": 0.27152,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Caen",
+      "path": "europe/france/normandybrittany/caen",
+      "prior_score": 3.6194,
+      "prior_variance": 0.263344,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lake Placid",
+      "path": "northamerica/unitedstates/newyorkstate/lakeplacid",
+      "prior_score": 4.5825,
+      "prior_variance": 0.324677,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.3065,
+      "prior_variance": 0.312634,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.8426,
+      "prior_variance": 0.339225,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Xishuangbanna",
+      "path": "asia/china/yunnanprovince/xishuangbanna",
+      "prior_score": 2.7668,
+      "prior_variance": 0.372182,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": 1.6689,
+      "prior_variance": 0.296747,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.6713,
+      "prior_variance": 0.328506,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 2.0592,
+      "prior_variance": 0.257116,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": 0.2444,
+      "prior_variance": 0.264313,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.4071,
+      "prior_variance": 0.269155,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": 0.0437,
+      "prior_variance": 0.308596,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.298,
+      "prior_variance": 0.298401,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.1444,
+      "prior_variance": 0.300356,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.8289,
+      "prior_variance": 0.363215,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -4.5065,
+      "prior_variance": 0.458023,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.6484,
+      "prior_variance": 0.306177,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -4.8839,
+      "prior_variance": 0.381004,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -4.2065,
+      "prior_variance": 0.283785,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -6.2614,
+      "prior_variance": 0.326065,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_score": -6.991,
+      "prior_variance": 0.315258,
+      "prior_n": 4
+    }
+  ]
+}

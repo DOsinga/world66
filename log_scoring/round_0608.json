@@ -1,0 +1,200 @@
+{
+  "round": 608,
+  "timestamp": "2026-06-13T19:44:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": -1.833,
+      "prior_variance": 1.415853,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -2.6812,
+      "prior_variance": 0.657454,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": -1.8166,
+      "prior_variance": 0.999841,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": -0.2792,
+      "prior_variance": 0.704684,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": -1.028,
+      "prior_variance": 0.78941,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kirkenes",
+      "path": "europe/norway/kirkenes",
+      "prior_score": 1.3238,
+      "prior_variance": 0.997363,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -2.0374,
+      "prior_variance": 1.146288,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": -1.2576,
+      "prior_variance": 1.559691,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": -0.759,
+      "prior_variance": 1.250459,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -2.1173,
+      "prior_variance": 0.903136,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.7948,
+      "prior_variance": 0.6868,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -1.2006,
+      "prior_variance": 1.347804,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -1.091,
+      "prior_variance": 1.007399,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.662,
+      "prior_variance": 1.382064,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": -0.8292,
+      "prior_variance": 1.626749,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -1.9662,
+      "prior_variance": 0.684354,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -0.3655,
+      "prior_variance": 1.290593,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -2.1045,
+      "prior_variance": 0.618121,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -1.4782,
+      "prior_variance": 0.868711,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Meizhou",
+      "path": "asia/china/guangdong/meizhou",
+      "prior_score": -2.0212,
+      "prior_variance": 1.325808,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.3589,
+      "prior_variance": 0.65052,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -3.8396,
+      "prior_variance": 0.86333,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -3.0217,
+      "prior_variance": 1.105412,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -2.993,
+      "prior_variance": 0.850531,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 942,
+  "timestamp": "2026-06-13T20:02:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -6.9439,
+      "prior_variance": 0.487251,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -6.6786,
+      "prior_variance": 0.731174,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -6.8787,
+      "prior_variance": 0.707792,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cathlamet",
+      "path": "northamerica/unitedstates/washington/cathlamet",
+      "prior_score": -7.3238,
+      "prior_variance": 0.416972,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -8.4185,
+      "prior_variance": 0.400164,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -3.6745,
+      "prior_variance": 0.517907,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -6.9638,
+      "prior_variance": 0.477061,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -7.5771,
+      "prior_variance": 0.659464,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -9.4209,
+      "prior_variance": 1.034558,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -10.7552,
+      "prior_variance": 0.593115,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -7.4278,
+      "prior_variance": 0.412414,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -7.2339,
+      "prior_variance": 0.415117,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -7.0936,
+      "prior_variance": 0.349802,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -8.0778,
+      "prior_variance": 0.524981,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -11.0879,
+      "prior_variance": 1.095948,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -8.8473,
+      "prior_variance": 0.583031,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -8.3898,
+      "prior_variance": 1.007102,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -7.0627,
+      "prior_variance": 0.446029,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -4.208,
+      "prior_variance": 0.58478,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -10.4968,
+      "prior_variance": 0.674572,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -7.277,
+      "prior_variance": 0.620388,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/ohio/portsmouth",
+      "prior_score": -8.2495,
+      "prior_variance": 0.642256,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -8.9975,
+      "prior_variance": 0.667916,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -9.9503,
+      "prior_variance": 1.28412,
+      "prior_n": 2
+    }
+  ]
+}

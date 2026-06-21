@@ -1,0 +1,200 @@
+{
+  "round": 1083,
+  "timestamp": "2026-06-13T20:10:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -2.8803,
+      "prior_variance": 0.521551,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.9912,
+      "prior_variance": 0.613886,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -0.4568,
+      "prior_variance": 0.53199,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 1.2125,
+      "prior_variance": 0.479114,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "De Panne",
+      "path": "europe/belgium/de_panne__belgian",
+      "prior_score": -2.1062,
+      "prior_variance": 0.456735,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Guilvinec",
+      "path": "europe/france/normandybrittany/guilvinec",
+      "prior_score": -1.6561,
+      "prior_variance": 0.35936,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -2.6344,
+      "prior_variance": 0.611882,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.7471,
+      "prior_variance": 0.495979,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -3.1663,
+      "prior_variance": 0.362789,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -0.6033,
+      "prior_variance": 0.466215,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.7004,
+      "prior_variance": 0.365652,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -2.4992,
+      "prior_variance": 0.446617,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -3.4652,
+      "prior_variance": 0.444358,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Brattleboro",
+      "path": "northamerica/unitedstates/vermont/brattleboro",
+      "prior_score": -2.2406,
+      "prior_variance": 0.393179,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.7278,
+      "prior_variance": 0.400172,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.9886,
+      "prior_variance": 0.401363,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -2.4776,
+      "prior_variance": 0.432314,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -3.4382,
+      "prior_variance": 0.473565,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -4.8669,
+      "prior_variance": 0.325566,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -3.1267,
+      "prior_variance": 0.409656,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -4.4726,
+      "prior_variance": 0.490609,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -5.1328,
+      "prior_variance": 0.428219,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.9815,
+      "prior_variance": 0.56328,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -3.3895,
+      "prior_variance": 0.417677,
+      "prior_n": 3
+    }
+  ]
+}

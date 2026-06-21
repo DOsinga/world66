@@ -1,0 +1,200 @@
+{
+  "round": 806,
+  "timestamp": "2026-06-13T19:54:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 4.0319,
+      "prior_variance": 1.166196,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 2.6168,
+      "prior_variance": 0.643234,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 0.4762,
+      "prior_variance": 0.840599,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": 1.8672,
+      "prior_variance": 0.65662,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 0.9038,
+      "prior_variance": 0.859552,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": 0.1503,
+      "prior_variance": 0.588051,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.2772,
+      "prior_variance": 0.763803,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 3.8166,
+      "prior_variance": 1.096642,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": -0.8489,
+      "prior_variance": 0.753246,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": -0.5141,
+      "prior_variance": 0.761687,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -2.208,
+      "prior_variance": 0.920983,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 1.6834,
+      "prior_variance": 0.639654,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": -0.4729,
+      "prior_variance": 1.118594,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": 0.1591,
+      "prior_variance": 0.697214,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Malindi",
+      "path": "africa/kenya/thecoast/malindi",
+      "prior_score": -0.4675,
+      "prior_variance": 0.757351,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 2.0406,
+      "prior_variance": 0.615377,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.4255,
+      "prior_variance": 0.745339,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Catskill",
+      "path": "northamerica/unitedstates/newyorkstate/catskill",
+      "prior_score": 1.0106,
+      "prior_variance": 0.552931,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": 2.086,
+      "prior_variance": 0.49579,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": 1.3921,
+      "prior_variance": 0.937493,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -1.2012,
+      "prior_variance": 0.942174,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": 0.56,
+      "prior_variance": 0.604974,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -4.2605,
+      "prior_variance": 0.77158,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -0.5225,
+      "prior_variance": 0.858762,
+      "prior_n": 2
+    }
+  ]
+}

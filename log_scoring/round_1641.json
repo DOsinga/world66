@@ -1,0 +1,200 @@
+{
+  "round": 1641,
+  "timestamp": "2026-06-13T20:43:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hersonissos",
+      "path": "europe/greece/crete/hersonnissos",
+      "prior_score": 4.545,
+      "prior_variance": 0.266887,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 3.4391,
+      "prior_variance": 0.251689,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Chilo\u00e9",
+      "path": "southamerica/chile/chiloe",
+      "prior_score": 3.0884,
+      "prior_variance": 0.270218,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 2.1421,
+      "prior_variance": 0.25662,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 1.7133,
+      "prior_variance": 0.314634,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.4238,
+      "prior_variance": 0.316342,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": -0.7508,
+      "prior_variance": 0.320564,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 1.5367,
+      "prior_variance": 0.235899,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.8525,
+      "prior_variance": 0.260126,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Dumaguete City",
+      "path": "asia/philippines/dumaguetecity",
+      "prior_score": 1.6306,
+      "prior_variance": 0.304313,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 1.1143,
+      "prior_variance": 0.288706,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": -0.4634,
+      "prior_variance": 0.302032,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.2081,
+      "prior_variance": 0.263518,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": 0.2171,
+      "prior_variance": 0.307487,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.3284,
+      "prior_variance": 0.293341,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -2.789,
+      "prior_variance": 0.27086,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.2198,
+      "prior_variance": 0.277272,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.6199,
+      "prior_variance": 0.253147,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -3.8546,
+      "prior_variance": 0.25566,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -4.0035,
+      "prior_variance": 0.411772,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -3.0115,
+      "prior_variance": 0.265481,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -6.5723,
+      "prior_variance": 0.33111,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -4.7878,
+      "prior_variance": 0.334456,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -14.9047,
+      "prior_variance": 0.929722,
+      "prior_n": 5
+    }
+  ]
+}

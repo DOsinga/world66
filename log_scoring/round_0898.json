@@ -1,0 +1,200 @@
+{
+  "round": 898,
+  "timestamp": "2026-06-13T19:59:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krka National Park",
+      "path": "europe/croatia/krka_national_park_1",
+      "prior_score": 15.4114,
+      "prior_variance": 1.43258,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 13.0878,
+      "prior_variance": 0.703329,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 12.5004,
+      "prior_variance": 0.923114,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 12.3348,
+      "prior_variance": 0.987913,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 11.7625,
+      "prior_variance": 0.797495,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 10.1571,
+      "prior_variance": 0.840331,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 10.9938,
+      "prior_variance": 0.696612,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 12.3333,
+      "prior_variance": 1.213936,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 9.5425,
+      "prior_variance": 0.583562,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 12.0146,
+      "prior_variance": 1.195197,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Zadar",
+      "path": "europe/croatia/zadar",
+      "prior_score": 10.3366,
+      "prior_variance": 0.754193,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 9.7632,
+      "prior_variance": 1.74136,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 11.9851,
+      "prior_variance": 1.037459,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Perast",
+      "path": "europe/montenegro/perast",
+      "prior_score": 12.343,
+      "prior_variance": 0.703025,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 11.2276,
+      "prior_variance": 0.730508,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 10.6863,
+      "prior_variance": 1.540109,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 10.7612,
+      "prior_variance": 2.003915,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 8.937,
+      "prior_variance": 0.924545,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 10.0591,
+      "prior_variance": 0.71498,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 10.3549,
+      "prior_variance": 1.139744,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 6.7796,
+      "prior_variance": 1.587468,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 11.7281,
+      "prior_variance": 0.529419,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 9.4361,
+      "prior_variance": 0.845783,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 10.9468,
+      "prior_variance": 1.090734,
+      "prior_n": 3
+    }
+  ]
+}

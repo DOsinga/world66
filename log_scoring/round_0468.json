@@ -1,0 +1,200 @@
+{
+  "round": 468,
+  "timestamp": "2026-06-13T19:36:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -4.8071,
+      "prior_variance": 1.358917,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -6.5638,
+      "prior_variance": 1.402151,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -7.3774,
+      "prior_variance": 1.832965,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -5.5654,
+      "prior_variance": 1.596709,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -5.3524,
+      "prior_variance": 1.876866,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -5.0324,
+      "prior_variance": 1.741033,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -4.8318,
+      "prior_variance": 1.373471,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -4.1166,
+      "prior_variance": 1.714142,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -4.9828,
+      "prior_variance": 2.345927,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Calamba",
+      "path": "asia/philippines/calamba",
+      "prior_score": -7.6436,
+      "prior_variance": 2.331592,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -6.0244,
+      "prior_variance": 1.795599,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -9.0737,
+      "prior_variance": 1.512146,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -10.0943,
+      "prior_variance": 2.120502,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -7.4686,
+      "prior_variance": 1.683231,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pingliang",
+      "path": "asia/china/gansu/pingliang",
+      "prior_score": -6.5446,
+      "prior_variance": 1.76073,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -6.9632,
+      "prior_variance": 1.467492,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -3.8481,
+      "prior_variance": 2.749033,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -9.0805,
+      "prior_variance": 1.723454,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -6.8243,
+      "prior_variance": 1.512553,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -8.216,
+      "prior_variance": 1.372944,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -8.804,
+      "prior_variance": 2.891536,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -10.3691,
+      "prior_variance": 3.463636,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -8.0222,
+      "prior_variance": 1.783548,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -8.4377,
+      "prior_variance": 1.559895,
+      "prior_n": 1
+    }
+  ]
+}

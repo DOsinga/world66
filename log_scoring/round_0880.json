@@ -1,0 +1,200 @@
+{
+  "round": 880,
+  "timestamp": "2026-06-13T19:58:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 15.7546,
+      "prior_variance": 1.450289,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 13.8839,
+      "prior_variance": 1.095093,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_score": 14.2639,
+      "prior_variance": 1.122343,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 13.4788,
+      "prior_variance": 1.26713,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 15.9581,
+      "prior_variance": 0.957697,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 17.0014,
+      "prior_variance": 2.062199,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 13.3609,
+      "prior_variance": 1.392722,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 13.2338,
+      "prior_variance": 1.288598,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 14.6777,
+      "prior_variance": 1.588157,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 13.0045,
+      "prior_variance": 1.104138,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 16.3766,
+      "prior_variance": 1.383425,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 15.7004,
+      "prior_variance": 1.434071,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 16.2145,
+      "prior_variance": 1.339563,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Giza",
+      "path": "africa/egypt/giza",
+      "prior_score": 15.9915,
+      "prior_variance": 0.824741,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 13.3105,
+      "prior_variance": 1.634056,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 14.8202,
+      "prior_variance": 1.470985,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 13.9638,
+      "prior_variance": 0.747795,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 14.2852,
+      "prior_variance": 1.149713,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 14.1648,
+      "prior_variance": 1.03197,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_score": 13.4085,
+      "prior_variance": 0.998788,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 13.4968,
+      "prior_variance": 0.897246,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 13.8147,
+      "prior_variance": 0.858093,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 7.9231,
+      "prior_variance": 0.886791,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 14.3659,
+      "prior_variance": 1.45291,
+      "prior_n": 2
+    }
+  ]
+}

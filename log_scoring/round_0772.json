@@ -1,0 +1,200 @@
+{
+  "round": 772,
+  "timestamp": "2026-06-13T19:52:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 5.1579,
+      "prior_variance": 1.511881,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 4.5052,
+      "prior_variance": 1.050379,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 4.0167,
+      "prior_variance": 0.894882,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 3.7666,
+      "prior_variance": 0.803965,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 3.2703,
+      "prior_variance": 0.970098,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": 4.2932,
+      "prior_variance": 1.334157,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.109,
+      "prior_variance": 0.887054,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 0.1211,
+      "prior_variance": 1.152615,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.6035,
+      "prior_variance": 0.880181,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 4.2447,
+      "prior_variance": 0.773073,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 2.634,
+      "prior_variance": 0.769284,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cederberg Wilderness Area",
+      "path": "africa/southafrica/cederberg_wilderness_area",
+      "prior_score": 2.6504,
+      "prior_variance": 0.871495,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 2.2439,
+      "prior_variance": 0.796458,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 2.582,
+      "prior_variance": 0.716435,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 3.8333,
+      "prior_variance": 0.539742,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_score": 3.0326,
+      "prior_variance": 0.675915,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": 0.4258,
+      "prior_variance": 0.862449,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": 1.2463,
+      "prior_variance": 0.960293,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 2.1728,
+      "prior_variance": 0.744453,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 0.1894,
+      "prior_variance": 0.907372,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 3.0044,
+      "prior_variance": 1.297206,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": 0.3327,
+      "prior_variance": 0.491345,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 2.4485,
+      "prior_variance": 0.733679,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -0.2723,
+      "prior_variance": 1.188554,
+      "prior_n": 2
+    }
+  ]
+}

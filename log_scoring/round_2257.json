@@ -1,0 +1,200 @@
+{
+  "round": 2257,
+  "timestamp": "2026-06-13T21:29:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -5.4341,
+      "prior_variance": 0.396423,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -5.2417,
+      "prior_variance": 0.309504,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.5981,
+      "prior_variance": 0.198768,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -2.713,
+      "prior_variance": 0.2011,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -3.4741,
+      "prior_variance": 0.278339,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Sulaymaniyah",
+      "path": "asia/iraq/sulaymaniyah",
+      "prior_score": -3.7035,
+      "prior_variance": 0.232907,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.6813,
+      "prior_variance": 0.226786,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.0123,
+      "prior_variance": 0.172111,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -5.0708,
+      "prior_variance": 0.214951,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -3.3237,
+      "prior_variance": 0.18538,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -5.4111,
+      "prior_variance": 0.232234,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -4.4815,
+      "prior_variance": 0.213846,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -3.3732,
+      "prior_variance": 0.200277,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -1.451,
+      "prior_variance": 0.185207,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Dschang",
+      "path": "africa/cameroon/dschang",
+      "prior_score": -4.2371,
+      "prior_variance": 0.220868,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Douala",
+      "path": "africa/cameroon/douala",
+      "prior_score": -4.9701,
+      "prior_variance": 0.220001,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -4.2256,
+      "prior_variance": 0.186778,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Jajpur",
+      "path": "asia/india/orissa/jajpur",
+      "prior_score": -5.0031,
+      "prior_variance": 0.203307,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.3203,
+      "prior_variance": 0.253073,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.2742,
+      "prior_variance": 0.260928,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -6.2461,
+      "prior_variance": 0.266703,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -5.2368,
+      "prior_variance": 0.201327,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -9.1488,
+      "prior_variance": 0.618729,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -8.643,
+      "prior_variance": 0.418126,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1599,
+  "timestamp": "2026-06-13T20:40:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 8.618,
+      "prior_variance": 0.269742,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 6.7454,
+      "prior_variance": 0.329137,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 8.938,
+      "prior_variance": 0.378559,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_score": 6.4869,
+      "prior_variance": 0.362752,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 7.1895,
+      "prior_variance": 0.369262,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 4.1824,
+      "prior_variance": 0.284192,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 7.0277,
+      "prior_variance": 0.306707,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 1.8575,
+      "prior_variance": 0.329985,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.8689,
+      "prior_variance": 0.248098,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Zipaquira",
+      "path": "southamerica/colombia/zipaquira",
+      "prior_score": 4.7914,
+      "prior_variance": 0.264209,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/oregon/newport",
+      "prior_score": -0.2549,
+      "prior_variance": 0.249291,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 0.923,
+      "prior_variance": 0.269003,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 0.6811,
+      "prior_variance": 0.309009,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.9572,
+      "prior_variance": 0.263213,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.2066,
+      "prior_variance": 0.258635,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Pe\u00f1asco",
+      "path": "northamerica/mexico/puerto_penasco",
+      "prior_score": 0.0425,
+      "prior_variance": 0.293669,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 1.524,
+      "prior_variance": 0.299649,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.5433,
+      "prior_variance": 0.31651,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -3.1922,
+      "prior_variance": 0.378013,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -7.0024,
+      "prior_variance": 0.377663,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -5.6104,
+      "prior_variance": 0.244545,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -6.9437,
+      "prior_variance": 0.442502,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -6.997,
+      "prior_variance": 0.627822,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -10.7509,
+      "prior_variance": 0.57766,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1874,
+  "timestamp": "2026-06-13T20:58:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.4876,
+      "prior_variance": 0.234847,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 5.1394,
+      "prior_variance": 0.218569,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 2.9375,
+      "prior_variance": 0.269575,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 4.6882,
+      "prior_variance": 0.261959,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": 2.7403,
+      "prior_variance": 0.232008,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.0094,
+      "prior_variance": 0.214486,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 3.2205,
+      "prior_variance": 0.237875,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 4.3403,
+      "prior_variance": 0.257183,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 2.4415,
+      "prior_variance": 0.252587,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 1.4989,
+      "prior_variance": 0.219524,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.6642,
+      "prior_variance": 0.310504,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": -0.3093,
+      "prior_variance": 0.225907,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -1.4227,
+      "prior_variance": 0.234827,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": -0.9834,
+      "prior_variance": 0.279661,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -2.2437,
+      "prior_variance": 0.229837,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.5243,
+      "prior_variance": 0.194719,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": -0.1166,
+      "prior_variance": 0.241486,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.1544,
+      "prior_variance": 0.270568,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sant Andreu de Llavaneres",
+      "path": "europe/spain/sant_andreu_de_llavaneres",
+      "prior_score": -2.1121,
+      "prior_variance": 0.226611,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.9889,
+      "prior_variance": 0.275407,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -4.2488,
+      "prior_variance": 0.265222,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.7259,
+      "prior_variance": 0.210373,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Cape Tagarit",
+      "path": "africa/mauritania/capetagarit",
+      "prior_score": -10.6111,
+      "prior_variance": 0.335377,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -7.127,
+      "prior_variance": 0.35697,
+      "prior_n": 5
+    }
+  ]
+}

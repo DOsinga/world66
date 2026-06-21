@@ -1,0 +1,200 @@
+{
+  "round": 1758,
+  "timestamp": "2026-06-13T20:50:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_score": 10.1839,
+      "prior_variance": 0.406862,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 7.2282,
+      "prior_variance": 0.325467,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 10.085,
+      "prior_variance": 0.395401,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 5.4427,
+      "prior_variance": 0.93855,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 8.2605,
+      "prior_variance": 0.364309,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 7.3563,
+      "prior_variance": 0.467214,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.6563,
+      "prior_variance": 0.258698,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 4.314,
+      "prior_variance": 0.382826,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 2.3368,
+      "prior_variance": 0.280351,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 0.5813,
+      "prior_variance": 0.23603,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.153,
+      "prior_variance": 0.244675,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": 0.6608,
+      "prior_variance": 0.206597,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -0.4239,
+      "prior_variance": 0.237911,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -1.6659,
+      "prior_variance": 0.278723,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -3.133,
+      "prior_variance": 0.293092,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bundaberg",
+      "path": "australiaandpacific/australia/queensland/bundaberg",
+      "prior_score": -1.9877,
+      "prior_variance": 0.208871,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": 0.1731,
+      "prior_variance": 0.279011,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.3319,
+      "prior_variance": 0.26513,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_score": -4.2295,
+      "prior_variance": 0.254769,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Alpharetta",
+      "path": "northamerica/unitedstates/georgia/alpharetta",
+      "prior_score": -4.0962,
+      "prior_variance": 0.419135,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -3.6046,
+      "prior_variance": 0.368409,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -4.3057,
+      "prior_variance": 0.244412,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": -5.7523,
+      "prior_variance": 0.277883,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -9.1105,
+      "prior_variance": 0.394346,
+      "prior_n": 5
+    }
+  ]
+}

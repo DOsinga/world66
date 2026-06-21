@@ -1,0 +1,200 @@
+{
+  "round": 984,
+  "timestamp": "2026-06-13T20:04:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 4.3236,
+      "prior_variance": 0.486942,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 2.2723,
+      "prior_variance": 0.610711,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 3.4144,
+      "prior_variance": 0.430352,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 1.1641,
+      "prior_variance": 0.929498,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.8659,
+      "prior_variance": 0.680536,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 2.0558,
+      "prior_variance": 0.396984,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Peel",
+      "path": "europe/isleofman/peel",
+      "prior_score": 2.1865,
+      "prior_variance": 0.58732,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 0.1492,
+      "prior_variance": 0.490818,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": -0.3914,
+      "prior_variance": 0.54662,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Folly Beach",
+      "path": "northamerica/unitedstates/southcarolina/folly_beach",
+      "prior_score": 0.066,
+      "prior_variance": 0.74377,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 1.28,
+      "prior_variance": 0.451101,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.4111,
+      "prior_variance": 0.571582,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -1.3192,
+      "prior_variance": 0.433391,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": 0.3463,
+      "prior_variance": 0.456287,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": -0.5782,
+      "prior_variance": 0.653008,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": 0.2544,
+      "prior_variance": 0.537919,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": -0.8963,
+      "prior_variance": 0.539024,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -2.8116,
+      "prior_variance": 0.455393,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.6828,
+      "prior_variance": 0.534231,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ni\u0161",
+      "path": "europe/serbia/nis",
+      "prior_score": -1.6329,
+      "prior_variance": 0.473743,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": 1.0892,
+      "prior_variance": 0.484516,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 1.9298,
+      "prior_variance": 0.474007,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -0.0487,
+      "prior_variance": 0.43525,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -4.8384,
+      "prior_variance": 0.718721,
+      "prior_n": 2
+    }
+  ]
+}

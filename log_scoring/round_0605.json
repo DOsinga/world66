@@ -1,0 +1,200 @@
+{
+  "round": 605,
+  "timestamp": "2026-06-13T19:44:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.7288,
+      "prior_variance": 1.529089,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 2.626,
+      "prior_variance": 0.836935,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 0.9543,
+      "prior_variance": 0.82618,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 0.0504,
+      "prior_variance": 1.019639,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": 0.3701,
+      "prior_variance": 0.814111,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 2.3359,
+      "prior_variance": 1.678631,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": -0.0732,
+      "prior_variance": 0.619985,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 2.4449,
+      "prior_variance": 1.382988,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Death Valley",
+      "path": "northamerica/unitedstates/california/deserts/deathvalley",
+      "prior_score": 3.6734,
+      "prior_variance": 1.927577,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.8133,
+      "prior_variance": 0.657908,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.7861,
+      "prior_variance": 0.972245,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.4113,
+      "prior_variance": 1.471832,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.9006,
+      "prior_variance": 0.93671,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -3.1022,
+      "prior_variance": 0.811578,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": 1.0698,
+      "prior_variance": 1.528317,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": 0.8437,
+      "prior_variance": 0.984046,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": 0.4633,
+      "prior_variance": 1.299855,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -2.4077,
+      "prior_variance": 0.550637,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": -0.182,
+      "prior_variance": 1.521753,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.841,
+      "prior_variance": 1.420446,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -0.6277,
+      "prior_variance": 0.616238,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": 1.1242,
+      "prior_variance": 0.866962,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.0223,
+      "prior_variance": 0.800121,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -2.0154,
+      "prior_variance": 1.710497,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1502,
+  "timestamp": "2026-06-13T20:34:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.9782,
+      "prior_variance": 0.525456,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 7.363,
+      "prior_variance": 0.362344,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 6.8903,
+      "prior_variance": 0.378721,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 4.6962,
+      "prior_variance": 0.377003,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 5.5669,
+      "prior_variance": 0.267406,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Viterbo",
+      "path": "europe/italy/lazio/viterbo",
+      "prior_score": 4.4852,
+      "prior_variance": 0.357442,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": -0.233,
+      "prior_variance": 0.351537,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": -0.342,
+      "prior_variance": 0.261384,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": 0.1717,
+      "prior_variance": 0.260508,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": -0.2343,
+      "prior_variance": 0.252449,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": -0.1569,
+      "prior_variance": 0.413526,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.4979,
+      "prior_variance": 0.320856,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -2.2538,
+      "prior_variance": 0.295035,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -2.0071,
+      "prior_variance": 0.254385,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -2.1472,
+      "prior_variance": 0.300647,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -2.3753,
+      "prior_variance": 0.299737,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -2.9372,
+      "prior_variance": 0.306205,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -4.7675,
+      "prior_variance": 0.30672,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lipa",
+      "path": "asia/philippines/lipa",
+      "prior_score": -3.7573,
+      "prior_variance": 0.356726,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.4623,
+      "prior_variance": 0.303173,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ngaound\u00e9r\u00e9",
+      "path": "africa/cameroon/ngaoundere",
+      "prior_score": -6.5326,
+      "prior_variance": 0.361669,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -4.8926,
+      "prior_variance": 0.303001,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_score": -5.8423,
+      "prior_variance": 0.327166,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -15.6734,
+      "prior_variance": 1.117862,
+      "prior_n": 4
+    }
+  ]
+}

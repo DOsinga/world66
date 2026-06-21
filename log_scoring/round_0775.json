@@ -1,0 +1,200 @@
+{
+  "round": 775,
+  "timestamp": "2026-06-13T19:53:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 1.2525,
+      "prior_variance": 0.852273,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 0.8161,
+      "prior_variance": 0.738962,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 1.6304,
+      "prior_variance": 0.780435,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 0.2222,
+      "prior_variance": 0.63332,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.7296,
+      "prior_variance": 0.643748,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bikini Atoll",
+      "path": "australiaandpacific/marshallislands/bikiniatoll",
+      "prior_score": 0.2288,
+      "prior_variance": 1.201664,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": -0.7764,
+      "prior_variance": 1.014838,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 1.5091,
+      "prior_variance": 1.216554,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": 0.8588,
+      "prior_variance": 0.929198,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 0.6942,
+      "prior_variance": 0.756007,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Limburg an der Lahn",
+      "path": "europe/germany/hessen/limburg",
+      "prior_score": 1.4435,
+      "prior_variance": 0.624888,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 3.1698,
+      "prior_variance": 0.471567,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.2131,
+      "prior_variance": 0.586455,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.6888,
+      "prior_variance": 0.813289,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bjelasica",
+      "path": "europe/montenegro/bjelasica",
+      "prior_score": 0.9646,
+      "prior_variance": 0.901123,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.2542,
+      "prior_variance": 0.879964,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": 2.1199,
+      "prior_variance": 0.727467,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.8411,
+      "prior_variance": 0.711592,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.0379,
+      "prior_variance": 0.74904,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": 2.0687,
+      "prior_variance": 0.988694,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": 1.6617,
+      "prior_variance": 0.71143,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.3275,
+      "prior_variance": 0.804595,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -1.2275,
+      "prior_variance": 0.764879,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -0.191,
+      "prior_variance": 0.724571,
+      "prior_n": 2
+    }
+  ]
+}

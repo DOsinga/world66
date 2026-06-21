@@ -1,0 +1,200 @@
+{
+  "round": 767,
+  "timestamp": "2026-06-13T19:52:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 18.0379,
+      "prior_variance": 6.330488,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nev\u015fehir",
+      "path": "asia/turkey/cappadocia/nevsehir",
+      "prior_score": 16.5292,
+      "prior_variance": 2.796893,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 18.2922,
+      "prior_variance": 2.057197,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 18.365,
+      "prior_variance": 5.921695,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 17.9772,
+      "prior_variance": 5.097209,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_score": 18.2516,
+      "prior_variance": 5.710208,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 12.8884,
+      "prior_variance": 1.309003,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 15.6709,
+      "prior_variance": 4.60335,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 16.5565,
+      "prior_variance": 6.202423,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 13.6591,
+      "prior_variance": 2.078348,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 17.2784,
+      "prior_variance": 2.042202,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 12.3735,
+      "prior_variance": 1.002966,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 12.8394,
+      "prior_variance": 1.351213,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 13.3617,
+      "prior_variance": 1.320224,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 15.1311,
+      "prior_variance": 1.297937,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 12.0039,
+      "prior_variance": 0.985006,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 13.3286,
+      "prior_variance": 1.403424,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 12.139,
+      "prior_variance": 0.684785,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "St. Thomas",
+      "path": "northamerica/thecaribbean/virginislands/stthomas",
+      "prior_score": 10.1755,
+      "prior_variance": 0.89593,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 9.7814,
+      "prior_variance": 1.424245,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Mt. Rainier National Park",
+      "path": "northamerica/unitedstates/washington/mtrainiernp",
+      "prior_score": 14.0985,
+      "prior_variance": 1.125243,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 12.9706,
+      "prior_variance": 0.750097,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Longmen Grottoes",
+      "path": "asia/china/henan_province/longmen_grottoes",
+      "prior_score": 11.3248,
+      "prior_variance": 1.166956,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 20.9426,
+      "prior_variance": 5.678758,
+      "prior_n": 2
+    }
+  ]
+}

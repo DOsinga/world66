@@ -1,0 +1,200 @@
+{
+  "round": 2251,
+  "timestamp": "2026-06-13T21:29:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 11.9032,
+      "prior_variance": 0.35688,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.3801,
+      "prior_variance": 0.22528,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 6.4668,
+      "prior_variance": 0.230265,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 2.3145,
+      "prior_variance": 0.186852,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.2337,
+      "prior_variance": 0.196291,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 3.1679,
+      "prior_variance": 0.197399,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.5148,
+      "prior_variance": 0.207398,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 2.0197,
+      "prior_variance": 0.184331,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.2994,
+      "prior_variance": 0.165078,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 4.3507,
+      "prior_variance": 0.197305,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.3318,
+      "prior_variance": 0.190534,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.8804,
+      "prior_variance": 0.206045,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": 0.1576,
+      "prior_variance": 0.193882,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.2575,
+      "prior_variance": 0.193768,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.552,
+      "prior_variance": 0.186511,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -1.1841,
+      "prior_variance": 0.189738,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": -0.1383,
+      "prior_variance": 0.233973,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.8002,
+      "prior_variance": 0.208084,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1708,
+      "prior_variance": 0.217332,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.4866,
+      "prior_variance": 0.242836,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.5787,
+      "prior_variance": 0.181469,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.7022,
+      "prior_variance": 0.196562,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.6934,
+      "prior_variance": 0.183288,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.4974,
+      "prior_variance": 0.198262,
+      "prior_n": 7
+    }
+  ]
+}

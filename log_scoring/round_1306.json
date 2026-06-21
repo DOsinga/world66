@@ -1,0 +1,200 @@
+{
+  "round": 1306,
+  "timestamp": "2026-06-13T20:22:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.6982,
+      "prior_variance": 0.301428,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 6.4578,
+      "prior_variance": 0.469489,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "St Ives",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_ives",
+      "prior_score": 6.5609,
+      "prior_variance": 0.361686,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 1.3816,
+      "prior_variance": 0.335194,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Nagahama",
+      "path": "asia/japan/honshu/nagahama",
+      "prior_score": 1.1024,
+      "prior_variance": 0.365208,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.2563,
+      "prior_variance": 0.341879,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": 0.1082,
+      "prior_variance": 0.329836,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -1.5166,
+      "prior_variance": 0.345363,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 2.1905,
+      "prior_variance": 0.42508,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -1.0957,
+      "prior_variance": 0.365481,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -2.812,
+      "prior_variance": 0.339646,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 3.9909,
+      "prior_variance": 0.452839,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -1.8362,
+      "prior_variance": 0.299958,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -1.1021,
+      "prior_variance": 0.309038,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_score": -1.5113,
+      "prior_variance": 0.303583,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -3.763,
+      "prior_variance": 0.405078,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -2.1913,
+      "prior_variance": 0.322083,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lippstadt",
+      "path": "europe/germany/northrhinewestphalia/lippstadt",
+      "prior_score": -3.2308,
+      "prior_variance": 0.449586,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.3297,
+      "prior_variance": 0.33768,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -4.9351,
+      "prior_variance": 0.368433,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -5.0421,
+      "prior_variance": 0.327471,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -10.7821,
+      "prior_variance": 0.335312,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -11.808,
+      "prior_variance": 0.616123,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Dosso",
+      "path": "africa/niger/dosso",
+      "prior_score": -11.4652,
+      "prior_variance": 0.626381,
+      "prior_n": 4
+    }
+  ]
+}

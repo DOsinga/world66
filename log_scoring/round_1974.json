@@ -1,0 +1,200 @@
+{
+  "round": 1974,
+  "timestamp": "2026-06-13T21:09:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Frankfurt",
+      "path": "europe/germany/hessen/frankfurt",
+      "prior_score": 3.2677,
+      "prior_variance": 0.22776,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 1.7616,
+      "prior_variance": 0.300775,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 6.0113,
+      "prior_variance": 0.260562,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.5934,
+      "prior_variance": 0.230792,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 6.8326,
+      "prior_variance": 0.327616,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 4.0086,
+      "prior_variance": 0.265854,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 2.8159,
+      "prior_variance": 0.181775,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.912,
+      "prior_variance": 0.215319,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.3321,
+      "prior_variance": 0.241116,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 0.9246,
+      "prior_variance": 0.252604,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.8279,
+      "prior_variance": 0.276127,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -0.7598,
+      "prior_variance": 0.277721,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.4069,
+      "prior_variance": 0.246405,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.0009,
+      "prior_variance": 0.221785,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.7426,
+      "prior_variance": 0.26679,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 1.299,
+      "prior_variance": 0.247878,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.4783,
+      "prior_variance": 0.213877,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lido di Metaponto",
+      "path": "europe/italy/basilicata/lido_di_metaponto",
+      "prior_score": -0.2792,
+      "prior_variance": 0.250806,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.0143,
+      "prior_variance": 0.226885,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.4733,
+      "prior_variance": 0.209088,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.7991,
+      "prior_variance": 0.198906,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Paldiski",
+      "path": "europe/estonia/paldiski",
+      "prior_score": -4.1414,
+      "prior_variance": 0.255259,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -4.4533,
+      "prior_variance": 0.229581,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -5.9127,
+      "prior_variance": 0.263962,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3413,
+  "timestamp": "2026-06-13T22:52:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 6.6918,
+      "prior_variance": 0.18547,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 7.6137,
+      "prior_variance": 0.191624,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 7.5229,
+      "prior_variance": 0.191037,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Henningsv\u00e6r",
+      "path": "europe/norway/lofotenislands/henningsvr",
+      "prior_score": 8.4146,
+      "prior_variance": 0.233612,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.9399,
+      "prior_variance": 0.180339,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.6282,
+      "prior_variance": 0.130311,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 2.8226,
+      "prior_variance": 0.11579,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 1.7904,
+      "prior_variance": 0.141975,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 2.0023,
+      "prior_variance": 0.136539,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.4529,
+      "prior_variance": 0.120955,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 0.8818,
+      "prior_variance": 0.120836,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.6746,
+      "prior_variance": 0.170505,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.2984,
+      "prior_variance": 0.117075,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Lanzhou",
+      "path": "asia/china/gansu/lanzhou",
+      "prior_score": -2.6715,
+      "prior_variance": 0.116993,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -3.8092,
+      "prior_variance": 0.14843,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.7681,
+      "prior_variance": 0.134376,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.2246,
+      "prior_variance": 0.127032,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": -1.4908,
+      "prior_variance": 0.120464,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.1764,
+      "prior_variance": 0.121451,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.1421,
+      "prior_variance": 0.127939,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Aizawl",
+      "path": "asia/india/mizoram/aizawl",
+      "prior_score": -3.511,
+      "prior_variance": 0.129249,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.0696,
+      "prior_variance": 0.151711,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -5.7538,
+      "prior_variance": 0.155029,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -7.7973,
+      "prior_variance": 0.244792,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4254,
+  "timestamp": "2026-06-13T23:57:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 2.951,
+      "prior_variance": 0.085998,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.3318,
+      "prior_variance": 0.108755,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.5659,
+      "prior_variance": 0.100445,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.7028,
+      "prior_variance": 0.108807,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.7309,
+      "prior_variance": 0.093419,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.3667,
+      "prior_variance": 0.09662,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": 0.6868,
+      "prior_variance": 0.12387,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.1235,
+      "prior_variance": 0.090495,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": -0.8399,
+      "prior_variance": 0.11071,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.4199,
+      "prior_variance": 0.111149,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -1.2623,
+      "prior_variance": 0.098855,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -3.3518,
+      "prior_variance": 0.104579,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -3.1929,
+      "prior_variance": 0.104714,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -4.0778,
+      "prior_variance": 0.087719,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Chaoyang",
+      "path": "asia/china/liaoning/chaoyang",
+      "prior_score": -5.341,
+      "prior_variance": 0.118594,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -4.7804,
+      "prior_variance": 0.105731,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Kwekwe",
+      "path": "africa/zimbabwe/kwekwe",
+      "prior_score": -6.7244,
+      "prior_variance": 0.119823,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -4.9725,
+      "prior_variance": 0.126423,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -5.2829,
+      "prior_variance": 0.116275,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -6.879,
+      "prior_variance": 0.139411,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_score": -7.2971,
+      "prior_variance": 0.178937,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.5491,
+      "prior_variance": 0.217559,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -10.0407,
+      "prior_variance": 0.389095,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.4099,
+      "prior_variance": 0.216074,
+      "prior_n": 13
+    }
+  ]
+}

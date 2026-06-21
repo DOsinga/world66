@@ -1,0 +1,200 @@
+{
+  "round": 1936,
+  "timestamp": "2026-06-13T21:02:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.2785,
+      "prior_variance": 0.239864,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 2.55,
+      "prior_variance": 0.220545,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.7418,
+      "prior_variance": 0.235963,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.4766,
+      "prior_variance": 0.270078,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.4119,
+      "prior_variance": 0.233657,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.2483,
+      "prior_variance": 0.242793,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.0637,
+      "prior_variance": 0.223846,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.4357,
+      "prior_variance": 0.231027,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.1711,
+      "prior_variance": 0.275608,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": -0.3938,
+      "prior_variance": 0.211331,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.4641,
+      "prior_variance": 0.257146,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.2975,
+      "prior_variance": 0.243254,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.3991,
+      "prior_variance": 0.245587,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": -0.3108,
+      "prior_variance": 0.233418,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.2539,
+      "prior_variance": 0.252407,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": 0.5444,
+      "prior_variance": 0.229152,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -1.8191,
+      "prior_variance": 0.257577,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -2.0826,
+      "prior_variance": 0.248032,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.1558,
+      "prior_variance": 0.246432,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.7406,
+      "prior_variance": 0.217309,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.1529,
+      "prior_variance": 0.221546,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.186,
+      "prior_variance": 0.20732,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -4.0001,
+      "prior_variance": 0.236832,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.5609,
+      "prior_variance": 0.396463,
+      "prior_n": 6
+    }
+  ]
+}

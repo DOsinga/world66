@@ -1,0 +1,200 @@
+{
+  "round": 4839,
+  "timestamp": "2026-06-14T00:45:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 13.5433,
+      "prior_variance": 0.403916,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 2.7723,
+      "prior_variance": 0.107009,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 1.3386,
+      "prior_variance": 0.084755,
+      "prior_n": 17
+    },
+    {
+      "rank": 4,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.1327,
+      "prior_variance": 0.098868,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 1.0619,
+      "prior_variance": 0.079317,
+      "prior_n": 17
+    },
+    {
+      "rank": 6,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.6085,
+      "prior_variance": 0.081896,
+      "prior_n": 17
+    },
+    {
+      "rank": 7,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.8408,
+      "prior_variance": 0.090087,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.0595,
+      "prior_variance": 0.097684,
+      "prior_n": 17
+    },
+    {
+      "rank": 9,
+      "title": "Tinian",
+      "path": "australiaandpacific/northernmarianaislands/tinian",
+      "prior_score": -1.0714,
+      "prior_variance": 0.092839,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Zhaoqing",
+      "path": "asia/china/guangdong/zhaoqing",
+      "prior_score": -0.1114,
+      "prior_variance": 0.088312,
+      "prior_n": 17
+    },
+    {
+      "rank": 11,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -1.6042,
+      "prior_variance": 0.075834,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Dar es Salaam",
+      "path": "africa/tanzania/daressalaam",
+      "prior_score": -0.2601,
+      "prior_variance": 0.088333,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -0.5953,
+      "prior_variance": 0.083825,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.6173,
+      "prior_variance": 0.096471,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.8515,
+      "prior_variance": 0.085124,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -2.6737,
+      "prior_variance": 0.077141,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -4.8945,
+      "prior_variance": 0.093897,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.6132,
+      "prior_variance": 0.100368,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -4.2378,
+      "prior_variance": 0.097722,
+      "prior_n": 17
+    },
+    {
+      "rank": 20,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -4.6778,
+      "prior_variance": 0.113412,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -3.7893,
+      "prior_variance": 0.090731,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -3.7912,
+      "prior_variance": 0.095158,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": -3.9401,
+      "prior_variance": 0.106611,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Mansoura",
+      "path": "africa/egypt/mansoura",
+      "prior_score": -3.8154,
+      "prior_variance": 0.09872,
+      "prior_n": 16
+    }
+  ]
+}

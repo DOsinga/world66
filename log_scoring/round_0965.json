@@ -1,0 +1,200 @@
+{
+  "round": 965,
+  "timestamp": "2026-06-13T20:03:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.9041,
+      "prior_variance": 0.705631,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -5.8072,
+      "prior_variance": 0.639006,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": -0.3811,
+      "prior_variance": 0.80407,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -3.9988,
+      "prior_variance": 0.457027,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cheongju City",
+      "path": "asia/southkorea/cheongju_city",
+      "prior_score": -2.6038,
+      "prior_variance": 0.408149,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -6.8977,
+      "prior_variance": 0.608328,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ordos",
+      "path": "asia/china/innermongolia/ordos",
+      "prior_score": -6.1316,
+      "prior_variance": 0.433112,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.3148,
+      "prior_variance": 0.614907,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -7.1974,
+      "prior_variance": 0.679787,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -6.5752,
+      "prior_variance": 0.601005,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -6.9998,
+      "prior_variance": 0.502119,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -8.1655,
+      "prior_variance": 0.525143,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tonghua",
+      "path": "asia/china/jilin/tonghua",
+      "prior_score": -5.6906,
+      "prior_variance": 0.615441,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -6.998,
+      "prior_variance": 0.647872,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -6.6223,
+      "prior_variance": 0.398032,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -6.2072,
+      "prior_variance": 0.401263,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -8.4886,
+      "prior_variance": 0.478435,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -6.4974,
+      "prior_variance": 0.450474,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/arkansas/mountain_view",
+      "prior_score": -5.2922,
+      "prior_variance": 0.459209,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -8.7644,
+      "prior_variance": 0.435212,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -6.1107,
+      "prior_variance": 0.467628,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Southaven",
+      "path": "northamerica/unitedstates/mississippi/southaven",
+      "prior_score": -7.3936,
+      "prior_variance": 0.684602,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -8.3697,
+      "prior_variance": 0.904449,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -4.0799,
+      "prior_variance": 0.888422,
+      "prior_n": 2
+    }
+  ]
+}

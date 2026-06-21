@@ -1,0 +1,200 @@
+{
+  "round": 2050,
+  "timestamp": "2026-06-13T21:15:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tikal",
+      "path": "northamerica/guatemala/tikal",
+      "prior_score": 8.2985,
+      "prior_variance": 0.297837,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phi Phi",
+      "path": "asia/thailand/kohphiphi",
+      "prior_score": 8.463,
+      "prior_variance": 0.336011,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 8.3091,
+      "prior_variance": 0.318133,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 5.3991,
+      "prior_variance": 0.328784,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 5.2006,
+      "prior_variance": 0.295501,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ghent",
+      "path": "europe/belgium/ghent",
+      "prior_score": 7.8522,
+      "prior_variance": 0.261699,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "White Sands",
+      "path": "northamerica/unitedstates/newmexico/whitesands",
+      "prior_score": 5.0787,
+      "prior_variance": 0.255807,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 1.2685,
+      "prior_variance": 0.24169,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": -0.1935,
+      "prior_variance": 0.279373,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 3.9637,
+      "prior_variance": 0.306094,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.6586,
+      "prior_variance": 0.184996,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 4.2136,
+      "prior_variance": 0.286186,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.2454,
+      "prior_variance": 0.224472,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": -0.4263,
+      "prior_variance": 0.338518,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.3084,
+      "prior_variance": 0.210814,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 1.5148,
+      "prior_variance": 0.186751,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 0.3444,
+      "prior_variance": 0.212996,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.2048,
+      "prior_variance": 0.23236,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 1.1237,
+      "prior_variance": 0.20729,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.5429,
+      "prior_variance": 0.224706,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": 0.4168,
+      "prior_variance": 0.199855,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Edmonton",
+      "path": "northamerica/canada/alberta/edmonton",
+      "prior_score": -1.266,
+      "prior_variance": 0.253615,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/newplymouth",
+      "prior_score": 0.2362,
+      "prior_variance": 0.23687,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.7176,
+      "prior_variance": 0.251256,
+      "prior_n": 6
+    }
+  ]
+}

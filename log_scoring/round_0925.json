@@ -1,0 +1,200 @@
+{
+  "round": 925,
+  "timestamp": "2026-06-13T20:01:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -11.0288,
+      "prior_variance": 0.723308,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -11.9404,
+      "prior_variance": 0.703993,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -11.4919,
+      "prior_variance": 1.075459,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Ilorin",
+      "path": "africa/nigeria/ilorin",
+      "prior_score": -9.657,
+      "prior_variance": 0.588556,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -11.6672,
+      "prior_variance": 1.048463,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -9.5498,
+      "prior_variance": 1.137071,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Misurata",
+      "path": "africa/libya/misurata",
+      "prior_score": -16.2474,
+      "prior_variance": 1.077796,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -15.6585,
+      "prior_variance": 1.045483,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -15.8522,
+      "prior_variance": 1.061247,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Assab",
+      "path": "africa/eritrea/assab",
+      "prior_score": -15.7761,
+      "prior_variance": 1.082711,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -17.0986,
+      "prior_variance": 1.154923,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -14.0865,
+      "prior_variance": 0.445626,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -15.2089,
+      "prior_variance": 0.974628,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -14.149,
+      "prior_variance": 1.539269,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -14.4758,
+      "prior_variance": 0.645439,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -17.6456,
+      "prior_variance": 1.196457,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -12.8971,
+      "prior_variance": 0.791164,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Erbent",
+      "path": "asia/turkmenistan/erbent",
+      "prior_score": -15.3684,
+      "prior_variance": 1.253638,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -14.6856,
+      "prior_variance": 1.231432,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -15.9938,
+      "prior_variance": 1.100245,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -16.7539,
+      "prior_variance": 1.033775,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -15.5963,
+      "prior_variance": 0.992195,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -17.5804,
+      "prior_variance": 0.736467,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ghazni",
+      "path": "asia/afghanistan/ghazni",
+      "prior_score": -14.8627,
+      "prior_variance": 1.302785,
+      "prior_n": 2
+    }
+  ]
+}

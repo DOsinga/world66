@@ -1,0 +1,200 @@
+{
+  "round": 1560,
+  "timestamp": "2026-06-13T20:37:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 12.317,
+      "prior_variance": 0.426242,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 6.5026,
+      "prior_variance": 0.264868,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 8.0569,
+      "prior_variance": 0.351044,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 3.1483,
+      "prior_variance": 0.282876,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake Khovsgol",
+      "path": "asia/mongolia/lakekhovsgol",
+      "prior_score": 3.6398,
+      "prior_variance": 0.354884,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.169,
+      "prior_variance": 0.281716,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.5765,
+      "prior_variance": 0.29014,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 3.2195,
+      "prior_variance": 0.279704,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -1.5455,
+      "prior_variance": 0.272535,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 2.8862,
+      "prior_variance": 0.253988,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.0188,
+      "prior_variance": 0.282612,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.8163,
+      "prior_variance": 0.310857,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Frascati",
+      "path": "europe/italy/lazio/frascati",
+      "prior_score": 2.0401,
+      "prior_variance": 0.264992,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -0.5141,
+      "prior_variance": 0.249647,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.1164,
+      "prior_variance": 0.256679,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 0.9409,
+      "prior_variance": 0.333501,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.9223,
+      "prior_variance": 0.276302,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": -0.0617,
+      "prior_variance": 0.269461,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": 1.1736,
+      "prior_variance": 0.254683,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -0.4862,
+      "prior_variance": 0.264906,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 1.1345,
+      "prior_variance": 0.246818,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Leamington Spa",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa",
+      "prior_score": -1.8203,
+      "prior_variance": 0.277981,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.9,
+      "prior_variance": 0.304528,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.5818,
+      "prior_variance": 0.338517,
+      "prior_n": 5
+    }
+  ]
+}

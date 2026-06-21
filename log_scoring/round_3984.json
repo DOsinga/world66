@@ -1,0 +1,200 @@
+{
+  "round": 3984,
+  "timestamp": "2026-06-13T23:35:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 12.7088,
+      "prior_variance": 0.336731,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 3.5553,
+      "prior_variance": 0.123789,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 4.0958,
+      "prior_variance": 0.105493,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 1.4117,
+      "prior_variance": 0.094849,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.1979,
+      "prior_variance": 0.106944,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.7936,
+      "prior_variance": 0.173647,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.3461,
+      "prior_variance": 0.099868,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.2472,
+      "prior_variance": 0.091623,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.6315,
+      "prior_variance": 0.102079,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Mapusa",
+      "path": "asia/india/goa/mapusa",
+      "prior_score": -0.7645,
+      "prior_variance": 0.103348,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.1673,
+      "prior_variance": 0.097837,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.0457,
+      "prior_variance": 0.099038,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.2639,
+      "prior_variance": 0.102658,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/jal",
+      "prior_score": 0.2258,
+      "prior_variance": 0.107076,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.1001,
+      "prior_variance": 0.102489,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.1731,
+      "prior_variance": 0.115137,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.5127,
+      "prior_variance": 0.110174,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.1727,
+      "prior_variance": 0.107742,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -3.9,
+      "prior_variance": 0.118523,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -5.5145,
+      "prior_variance": 0.123176,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Yaound\u00e9",
+      "path": "africa/cameroon/yaound",
+      "prior_score": -3.9123,
+      "prior_variance": 0.101356,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.6522,
+      "prior_variance": 0.169887,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -7.9829,
+      "prior_variance": 0.180325,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -10.3064,
+      "prior_variance": 0.421012,
+      "prior_n": 12
+    }
+  ]
+}

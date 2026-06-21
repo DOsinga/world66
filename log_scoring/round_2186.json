@@ -1,0 +1,200 @@
+{
+  "round": 2186,
+  "timestamp": "2026-06-13T21:24:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 13.3749,
+      "prior_variance": 1.014397,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 4.7657,
+      "prior_variance": 0.266178,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 6.2229,
+      "prior_variance": 0.244625,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 8.3457,
+      "prior_variance": 0.261659,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Zhangye Danxia Geological Park",
+      "path": "asia/china/gansu/zhangye_danxia",
+      "prior_score": 7.495,
+      "prior_variance": 0.339998,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Hanas Lake",
+      "path": "asia/china/xinjiangprovince/hanaslake",
+      "prior_score": 3.7115,
+      "prior_variance": 0.189267,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 5.644,
+      "prior_variance": 0.31947,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.8364,
+      "prior_variance": 0.254038,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 5.6375,
+      "prior_variance": 0.236332,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kornati National Park",
+      "path": "europe/croatia/kornati_national_park",
+      "prior_score": 5.716,
+      "prior_variance": 0.212421,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Puerto de Soller",
+      "path": "europe/spain/balearicislands/mallorca/puertodesoller",
+      "prior_score": 5.3053,
+      "prior_variance": 0.232485,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 6.3822,
+      "prior_variance": 0.223826,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 6.5198,
+      "prior_variance": 0.218465,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.6237,
+      "prior_variance": 0.211253,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 3.5107,
+      "prior_variance": 0.247869,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 3.1697,
+      "prior_variance": 0.197796,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 4.3033,
+      "prior_variance": 0.197159,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.2549,
+      "prior_variance": 0.191339,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.4355,
+      "prior_variance": 0.376901,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.8952,
+      "prior_variance": 0.224255,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Casela",
+      "path": "africa/mauritius/casela",
+      "prior_score": 2.45,
+      "prior_variance": 0.193105,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 0.652,
+      "prior_variance": 0.192929,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.3753,
+      "prior_variance": 0.176885,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.479,
+      "prior_variance": 0.209562,
+      "prior_n": 6
+    }
+  ]
+}

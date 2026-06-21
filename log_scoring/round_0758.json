@@ -1,0 +1,200 @@
+{
+  "round": 758,
+  "timestamp": "2026-06-13T19:52:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 2.5525,
+      "prior_variance": 0.735914,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "San Gerardo de Rivas",
+      "path": "northamerica/costarica/san_gerardo_de_rivas",
+      "prior_score": 3.2007,
+      "prior_variance": 0.767065,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": 1.5844,
+      "prior_variance": 0.948587,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 1.444,
+      "prior_variance": 1.049968,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Kaiping",
+      "path": "asia/china/guangdong/kaiping",
+      "prior_score": 1.4169,
+      "prior_variance": 0.814638,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 2.6217,
+      "prior_variance": 0.665367,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 1.661,
+      "prior_variance": 0.836252,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": 0.5952,
+      "prior_variance": 1.094366,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 1.1436,
+      "prior_variance": 0.687724,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": -2.6711,
+      "prior_variance": 0.885436,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.6541,
+      "prior_variance": 1.364349,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 1.961,
+      "prior_variance": 1.308194,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": 2.2456,
+      "prior_variance": 1.012383,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 2.4108,
+      "prior_variance": 1.359796,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.5784,
+      "prior_variance": 0.912975,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mailly-le-Ch\u00e2teau",
+      "path": "europe/france/east/burgundy/maillylechateau",
+      "prior_score": -0.2706,
+      "prior_variance": 0.531325,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 1.4798,
+      "prior_variance": 0.895221,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 1.9408,
+      "prior_variance": 0.672941,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.7937,
+      "prior_variance": 0.682197,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 1.2037,
+      "prior_variance": 0.788968,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": 0.0117,
+      "prior_variance": 1.166273,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 1.9246,
+      "prior_variance": 0.656321,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": 0.1104,
+      "prior_variance": 0.697211,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -0.3229,
+      "prior_variance": 0.778749,
+      "prior_n": 2
+    }
+  ]
+}

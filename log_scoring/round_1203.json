@@ -1,0 +1,200 @@
+{
+  "round": 1203,
+  "timestamp": "2026-06-13T20:16:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 14.9342,
+      "prior_variance": 1.039727,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 10.1416,
+      "prior_variance": 0.38356,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 7.133,
+      "prior_variance": 0.758957,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 8.2434,
+      "prior_variance": 0.497733,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 6.5823,
+      "prior_variance": 0.463868,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_score": 4.9633,
+      "prior_variance": 0.414412,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 0.3294,
+      "prior_variance": 0.43121,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 7.7372,
+      "prior_variance": 0.470462,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 3.9194,
+      "prior_variance": 0.481819,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 0.9098,
+      "prior_variance": 0.327186,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.9825,
+      "prior_variance": 0.500342,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Savona",
+      "path": "europe/italy/liguria/savona",
+      "prior_score": 0.4957,
+      "prior_variance": 0.344098,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": -0.127,
+      "prior_variance": 0.391951,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 2.1267,
+      "prior_variance": 0.456051,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": 1.7864,
+      "prior_variance": 0.358413,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -1.1292,
+      "prior_variance": 0.395158,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 1.5987,
+      "prior_variance": 0.375841,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": -1.6269,
+      "prior_variance": 0.324839,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -7.39,
+      "prior_variance": 0.712767,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 1.1365,
+      "prior_variance": 0.319261,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Astara",
+      "path": "europe/azerbaijan/astara",
+      "prior_score": -5.9986,
+      "prior_variance": 0.492287,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Moorkhoun",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/moorkhoun",
+      "prior_score": -5.6146,
+      "prior_variance": 0.359987,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Muskogee",
+      "path": "northamerica/unitedstates/oklahoma/muskogee",
+      "prior_score": -7.0258,
+      "prior_variance": 0.527838,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -7.4096,
+      "prior_variance": 0.450759,
+      "prior_n": 3
+    }
+  ]
+}

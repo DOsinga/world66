@@ -1,0 +1,200 @@
+{
+  "round": 2340,
+  "timestamp": "2026-06-13T21:35:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 11.8881,
+      "prior_variance": 0.321856,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Anjuna",
+      "path": "asia/india/goa/anjuna",
+      "prior_score": 4.139,
+      "prior_variance": 0.238655,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 2.7139,
+      "prior_variance": 0.225346,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 1.6391,
+      "prior_variance": 0.19054,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.1912,
+      "prior_variance": 0.212948,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.3661,
+      "prior_variance": 0.204517,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.388,
+      "prior_variance": 0.180015,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.2507,
+      "prior_variance": 0.18202,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": 0.1785,
+      "prior_variance": 0.192591,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Fishguard",
+      "path": "europe/unitedkingdom/wales/fishguard",
+      "prior_score": -1.1399,
+      "prior_variance": 0.217585,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.6467,
+      "prior_variance": 0.205919,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -3.2204,
+      "prior_variance": 0.225746,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -3.231,
+      "prior_variance": 0.208319,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -3.7204,
+      "prior_variance": 0.193565,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.9324,
+      "prior_variance": 0.181697,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -2.7926,
+      "prior_variance": 0.197889,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Zhuzhou",
+      "path": "asia/china/hunan/zhuzhou",
+      "prior_score": -5.5164,
+      "prior_variance": 0.262248,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -4.5698,
+      "prior_variance": 0.20292,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -3.8842,
+      "prior_variance": 0.200574,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -4.046,
+      "prior_variance": 0.182409,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.5815,
+      "prior_variance": 0.198921,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.2928,
+      "prior_variance": 0.171771,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -6.5821,
+      "prior_variance": 0.264359,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -10.961,
+      "prior_variance": 0.556489,
+      "prior_n": 7
+    }
+  ]
+}

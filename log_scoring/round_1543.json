@@ -1,0 +1,200 @@
+{
+  "round": 1543,
+  "timestamp": "2026-06-13T20:36:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 11.3299,
+      "prior_variance": 0.698665,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.7877,
+      "prior_variance": 0.478526,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": -1.7375,
+      "prior_variance": 0.371152,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 4.0078,
+      "prior_variance": 0.250365,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": 1.454,
+      "prior_variance": 0.305601,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": -1.1796,
+      "prior_variance": 0.424022,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.4803,
+      "prior_variance": 0.26889,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -2.8788,
+      "prior_variance": 0.302275,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -4.8249,
+      "prior_variance": 0.52712,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -3.4013,
+      "prior_variance": 0.373043,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -4.3379,
+      "prior_variance": 0.389732,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -3.1542,
+      "prior_variance": 0.308794,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Harrisburg",
+      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
+      "prior_score": -2.8289,
+      "prior_variance": 0.342509,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -4.4242,
+      "prior_variance": 0.513676,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -5.3451,
+      "prior_variance": 0.307114,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -4.7897,
+      "prior_variance": 0.314433,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bangar",
+      "path": "asia/brunei/bangar",
+      "prior_score": -4.7785,
+      "prior_variance": 0.23502,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -5.7494,
+      "prior_variance": 0.331963,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -3.1617,
+      "prior_variance": 0.257731,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.3781,
+      "prior_variance": 0.290795,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -7.3951,
+      "prior_variance": 0.40518,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.7694,
+      "prior_variance": 0.386369,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "M'Ba\u00efki",
+      "path": "africa/centralafricanrepublic/m_baiki",
+      "prior_score": -11.6428,
+      "prior_variance": 0.426023,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -9.1291,
+      "prior_variance": 1.055955,
+      "prior_n": 4
+    }
+  ]
+}

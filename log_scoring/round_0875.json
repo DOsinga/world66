@@ -1,0 +1,200 @@
+{
+  "round": 875,
+  "timestamp": "2026-06-13T19:58:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 0.212,
+      "prior_variance": 0.607423,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 1.2202,
+      "prior_variance": 0.76821,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": -0.508,
+      "prior_variance": 1.124378,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 2.208,
+      "prior_variance": 0.607112,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -1.4439,
+      "prior_variance": 1.011552,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -5.4615,
+      "prior_variance": 0.659572,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 1.1896,
+      "prior_variance": 0.585843,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": -0.1196,
+      "prior_variance": 0.630895,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.6771,
+      "prior_variance": 1.141282,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": 0.1357,
+      "prior_variance": 0.734518,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Saarbr\u00fccken",
+      "path": "europe/germany/saarland/saarbrucken",
+      "prior_score": -5.3692,
+      "prior_variance": 0.718172,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": 0.0051,
+      "prior_variance": 0.809591,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Little Bighorn",
+      "path": "northamerica/unitedstates/montana/littlebighorn",
+      "prior_score": -1.2591,
+      "prior_variance": 0.41081,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -0.7013,
+      "prior_variance": 0.611195,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -2.1638,
+      "prior_variance": 0.697024,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": -1.1758,
+      "prior_variance": 0.594481,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.7733,
+      "prior_variance": 0.450484,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.7142,
+      "prior_variance": 0.498822,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -1.44,
+      "prior_variance": 0.961494,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": -3.1204,
+      "prior_variance": 0.652319,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": 0.2982,
+      "prior_variance": 0.641741,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": 3.6836,
+      "prior_variance": 1.29545,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.2636,
+      "prior_variance": 0.642555,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -10.9877,
+      "prior_variance": 0.8865,
+      "prior_n": 2
+    }
+  ]
+}

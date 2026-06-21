@@ -1,0 +1,200 @@
+{
+  "round": 824,
+  "timestamp": "2026-06-13T19:55:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -2.0938,
+      "prior_variance": 0.477696,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -3.5105,
+      "prior_variance": 0.738447,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.7448,
+      "prior_variance": 0.868725,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -2.4818,
+      "prior_variance": 0.697127,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -3.5813,
+      "prior_variance": 0.674206,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -3.1724,
+      "prior_variance": 0.751685,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Uzhhorod",
+      "path": "europe/ukraine/uzhgorod",
+      "prior_score": -3.4761,
+      "prior_variance": 0.671342,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -2.8783,
+      "prior_variance": 0.618875,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -4.7697,
+      "prior_variance": 0.541434,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Aburi",
+      "path": "africa/ghana/aburi",
+      "prior_score": -4.4894,
+      "prior_variance": 0.650932,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -4.4257,
+      "prior_variance": 0.46077,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -2.4939,
+      "prior_variance": 0.949353,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -2.9518,
+      "prior_variance": 0.638467,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -3.0082,
+      "prior_variance": 0.629745,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -3.2345,
+      "prior_variance": 0.631559,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -2.8261,
+      "prior_variance": 0.906144,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -3.5209,
+      "prior_variance": 1.290121,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -2.3863,
+      "prior_variance": 0.689936,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gainesville",
+      "path": "northamerica/unitedstates/florida/gainesville",
+      "prior_score": -4.5158,
+      "prior_variance": 0.55097,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -3.2926,
+      "prior_variance": 0.611726,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/newmexico/san_rafael",
+      "prior_score": -2.411,
+      "prior_variance": 0.720974,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -3.5377,
+      "prior_variance": 0.654662,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Forest Grove",
+      "path": "northamerica/unitedstates/oregon/forestgrove",
+      "prior_score": -4.7741,
+      "prior_variance": 0.848163,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -5.5579,
+      "prior_variance": 0.702708,
+      "prior_n": 2
+    }
+  ]
+}

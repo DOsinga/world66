@@ -1,0 +1,200 @@
+{
+  "round": 2341,
+  "timestamp": "2026-06-13T21:35:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 2.0288,
+      "prior_variance": 0.28083,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.5518,
+      "prior_variance": 0.258224,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 3.0298,
+      "prior_variance": 0.179736,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 5.2925,
+      "prior_variance": 0.220655,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": 4.014,
+      "prior_variance": 0.177726,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 3.1976,
+      "prior_variance": 0.221444,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.2163,
+      "prior_variance": 0.2022,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "L\u00fcderitz",
+      "path": "africa/namibia/luderitz",
+      "prior_score": 0.7111,
+      "prior_variance": 0.189967,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 0.9794,
+      "prior_variance": 0.196635,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.3232,
+      "prior_variance": 0.18624,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 2.569,
+      "prior_variance": 0.183738,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": -0.1299,
+      "prior_variance": 0.164883,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.1466,
+      "prior_variance": 0.176461,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -2.8034,
+      "prior_variance": 0.275252,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.8525,
+      "prior_variance": 0.180764,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": -1.2453,
+      "prior_variance": 0.194579,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -1.7339,
+      "prior_variance": 0.158986,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -1.1318,
+      "prior_variance": 0.222388,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.543,
+      "prior_variance": 0.19734,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -1.8238,
+      "prior_variance": 0.207963,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -1.6147,
+      "prior_variance": 0.189876,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -3.1255,
+      "prior_variance": 0.206361,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.3209,
+      "prior_variance": 0.212862,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kaitaia",
+      "path": "australiaandpacific/newzealand/north_island/northland/kaitaia",
+      "prior_score": -0.5139,
+      "prior_variance": 0.186106,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1610,
+  "timestamp": "2026-06-13T20:41:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 7.8123,
+      "prior_variance": 0.355169,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 3.1037,
+      "prior_variance": 0.265751,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ptuj",
+      "path": "europe/slovenia/ptuj",
+      "prior_score": 4.1337,
+      "prior_variance": 0.271984,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 2.3915,
+      "prior_variance": 0.320613,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": 0.1191,
+      "prior_variance": 0.303855,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.9528,
+      "prior_variance": 0.319578,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.7596,
+      "prior_variance": 0.269141,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": -0.2406,
+      "prior_variance": 0.228397,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -1.0357,
+      "prior_variance": 0.299586,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Beiwudang Mountain",
+      "path": "asia/china/shanxiprovince/beiwudang",
+      "prior_score": -0.462,
+      "prior_variance": 0.241117,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.041,
+      "prior_variance": 0.229933,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.8236,
+      "prior_variance": 0.277853,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.9836,
+      "prior_variance": 0.245472,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": 0.2206,
+      "prior_variance": 0.323753,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 0.7746,
+      "prior_variance": 0.381607,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -1.8533,
+      "prior_variance": 0.261408,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": -2.4761,
+      "prior_variance": 0.280088,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -2.1851,
+      "prior_variance": 0.25005,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Encarnacion",
+      "path": "southamerica/paraguay/encarnacion",
+      "prior_score": -2.6667,
+      "prior_variance": 0.232406,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -4.0238,
+      "prior_variance": 0.313375,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.3962,
+      "prior_variance": 0.339674,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_score": -3.8401,
+      "prior_variance": 0.252594,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -5.8512,
+      "prior_variance": 0.300277,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -3.8322,
+      "prior_variance": 0.270477,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1014,
+  "timestamp": "2026-06-13T20:06:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/rivieradellepalme/zuccarello",
+      "prior_score": -0.4902,
+      "prior_variance": 0.397028,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Porretta Terme",
+      "path": "europe/italy/emiliaromagna/porretta_terme",
+      "prior_score": -1.1601,
+      "prior_variance": 0.424481,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.3725,
+      "prior_variance": 0.392669,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -2.1075,
+      "prior_variance": 0.409688,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -3.3346,
+      "prior_variance": 0.510499,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -2.6974,
+      "prior_variance": 0.595368,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Haikou",
+      "path": "asia/china/hainanisland/haikou",
+      "prior_score": -1.0255,
+      "prior_variance": 0.438047,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -3.6265,
+      "prior_variance": 0.423206,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -2.9057,
+      "prior_variance": 0.476201,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -1.3828,
+      "prior_variance": 0.40591,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -1.6174,
+      "prior_variance": 0.426708,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -0.767,
+      "prior_variance": 0.423832,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -2.4387,
+      "prior_variance": 0.544052,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -5.3101,
+      "prior_variance": 0.667353,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -2.4233,
+      "prior_variance": 0.443236,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -10.0643,
+      "prior_variance": 0.583338,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -9.1643,
+      "prior_variance": 0.412835,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -12.5037,
+      "prior_variance": 0.555196,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -17.2018,
+      "prior_variance": 1.5877,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -14.9367,
+      "prior_variance": 0.705202,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -11.0027,
+      "prior_variance": 0.609398,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -18.3028,
+      "prior_variance": 2.001371,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -16.1322,
+      "prior_variance": 0.489796,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -17.0302,
+      "prior_variance": 1.176996,
+      "prior_n": 3
+    }
+  ]
+}

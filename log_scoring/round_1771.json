@@ -1,0 +1,200 @@
+{
+  "round": 1771,
+  "timestamp": "2026-06-13T20:51:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 6.0029,
+      "prior_variance": 0.308425,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 6.0819,
+      "prior_variance": 0.284862,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 6.8284,
+      "prior_variance": 0.347136,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -0.828,
+      "prior_variance": 0.295945,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 6.5332,
+      "prior_variance": 0.310902,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 5.4431,
+      "prior_variance": 0.260721,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Orheiul Vechi",
+      "path": "europe/moldova/orheiul_vechi_2",
+      "prior_score": 0.1586,
+      "prior_variance": 0.291765,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 1.4824,
+      "prior_variance": 0.229613,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.438,
+      "prior_variance": 0.315682,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -3.2325,
+      "prior_variance": 0.403069,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.4208,
+      "prior_variance": 0.247395,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -4.2535,
+      "prior_variance": 0.255297,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -4.8489,
+      "prior_variance": 0.281474,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -6.1755,
+      "prior_variance": 0.364677,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.9441,
+      "prior_variance": 0.316188,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -2.9101,
+      "prior_variance": 0.258561,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -5.1619,
+      "prior_variance": 0.311954,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.8383,
+      "prior_variance": 0.264551,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.8304,
+      "prior_variance": 0.25758,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_score": -6.7707,
+      "prior_variance": 0.295207,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -6.4281,
+      "prior_variance": 0.385251,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -4.2872,
+      "prior_variance": 0.342496,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -4.7937,
+      "prior_variance": 0.278651,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -10.3254,
+      "prior_variance": 0.625493,
+      "prior_n": 5
+    }
+  ]
+}

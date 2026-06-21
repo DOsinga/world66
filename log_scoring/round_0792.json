@@ -1,0 +1,200 @@
+{
+  "round": 792,
+  "timestamp": "2026-06-13T19:53:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.7893,
+      "prior_variance": 1.00376,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 3.5206,
+      "prior_variance": 0.623579,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 4.1885,
+      "prior_variance": 0.791937,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 5.4793,
+      "prior_variance": 0.669346,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 3.1059,
+      "prior_variance": 0.655932,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 3.2891,
+      "prior_variance": 0.674355,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 3.0606,
+      "prior_variance": 0.607249,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kristiansand",
+      "path": "europe/norway/kristiansand",
+      "prior_score": 3.0323,
+      "prior_variance": 1.090439,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Derry / Londonderry",
+      "path": "europe/unitedkingdom/northernireland/londonderry",
+      "prior_score": 4.382,
+      "prior_variance": 0.711042,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Eureka Springs",
+      "path": "northamerica/unitedstates/arkansas/eurekasprings",
+      "prior_score": 4.2973,
+      "prior_variance": 0.665471,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": 1.8146,
+      "prior_variance": 0.637739,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 2.0112,
+      "prior_variance": 0.61577,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 3.3291,
+      "prior_variance": 0.703319,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 3.8223,
+      "prior_variance": 0.791559,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 3.8881,
+      "prior_variance": 0.498212,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 3.4636,
+      "prior_variance": 0.659674,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 1.8885,
+      "prior_variance": 1.005893,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Lipica",
+      "path": "europe/slovenia/lipica",
+      "prior_score": 3.1186,
+      "prior_variance": 0.627905,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 0.0771,
+      "prior_variance": 0.968242,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_score": 2.2511,
+      "prior_variance": 0.882881,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 2.3065,
+      "prior_variance": 0.965467,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattan_beach",
+      "prior_score": 2.3914,
+      "prior_variance": 0.597036,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": 1.9414,
+      "prior_variance": 0.927382,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 2.1625,
+      "prior_variance": 0.676293,
+      "prior_n": 3
+    }
+  ]
+}

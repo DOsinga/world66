@@ -1,0 +1,200 @@
+{
+  "round": 1830,
+  "timestamp": "2026-06-13T20:55:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 10.4529,
+      "prior_variance": 0.540946,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 10.4286,
+      "prior_variance": 0.679903,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 8.917,
+      "prior_variance": 0.464894,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 8.0629,
+      "prior_variance": 0.285583,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 7.9617,
+      "prior_variance": 0.280547,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 7.2521,
+      "prior_variance": 0.335457,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 4.999,
+      "prior_variance": 0.297232,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 4.0947,
+      "prior_variance": 0.375051,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.9853,
+      "prior_variance": 0.271485,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 3.3885,
+      "prior_variance": 0.229326,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -0.7845,
+      "prior_variance": 0.234367,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 0.5258,
+      "prior_variance": 0.208957,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Zahara de la Sierra",
+      "path": "europe/spain/andalucia/zaharadelasierra",
+      "prior_score": 3.5482,
+      "prior_variance": 0.283266,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.874,
+      "prior_variance": 0.253661,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": -0.4508,
+      "prior_variance": 0.23915,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 0.6491,
+      "prior_variance": 0.28383,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -1.8351,
+      "prior_variance": 0.237735,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": -0.5375,
+      "prior_variance": 0.241145,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 1.2619,
+      "prior_variance": 0.249737,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": 0.3901,
+      "prior_variance": 0.233966,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -0.8835,
+      "prior_variance": 0.201099,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Strumica",
+      "path": "europe/macedonia/strumica",
+      "prior_score": -2.029,
+      "prior_variance": 0.226478,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.6652,
+      "prior_variance": 0.212466,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.5023,
+      "prior_variance": 0.304153,
+      "prior_n": 6
+    }
+  ]
+}

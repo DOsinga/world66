@@ -1,0 +1,200 @@
+{
+  "round": 1905,
+  "timestamp": "2026-06-13T21:00:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 9.5162,
+      "prior_variance": 0.509004,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Postojna Caves",
+      "path": "europe/slovenia/postojnacaves",
+      "prior_score": 7.2872,
+      "prior_variance": 0.281216,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 5.53,
+      "prior_variance": 0.30605,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 4.2681,
+      "prior_variance": 0.257952,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Batumi",
+      "path": "europe/georgia/batumi",
+      "prior_score": 4.0468,
+      "prior_variance": 0.241188,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 5.4477,
+      "prior_variance": 0.247893,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Varadero",
+      "path": "northamerica/thecaribbean/cuba/varadero",
+      "prior_score": 5.1113,
+      "prior_variance": 0.228755,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Taxco",
+      "path": "northamerica/mexico/taxco",
+      "prior_score": 4.8074,
+      "prior_variance": 0.256609,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 3.9747,
+      "prior_variance": 0.263569,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.8612,
+      "prior_variance": 0.222718,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 3.1875,
+      "prior_variance": 0.226716,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 1.5039,
+      "prior_variance": 0.266991,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.5069,
+      "prior_variance": 0.319245,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": -0.2301,
+      "prior_variance": 0.219252,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Qrendi",
+      "path": "europe/malta/qrendi",
+      "prior_score": -0.0078,
+      "prior_variance": 0.236427,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.5747,
+      "prior_variance": 0.209596,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.4638,
+      "prior_variance": 0.216444,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -1.7927,
+      "prior_variance": 0.230867,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.4279,
+      "prior_variance": 0.210917,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kigoma",
+      "path": "africa/tanzania/kigoma",
+      "prior_score": -2.1167,
+      "prior_variance": 0.224655,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat",
+      "prior_score": -2.4644,
+      "prior_variance": 0.230782,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.9204,
+      "prior_variance": 0.222762,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.6735,
+      "prior_variance": 0.242882,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -7.9224,
+      "prior_variance": 0.28264,
+      "prior_n": 6
+    }
+  ]
+}

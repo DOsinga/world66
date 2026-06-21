@@ -1,0 +1,200 @@
+{
+  "round": 1895,
+  "timestamp": "2026-06-13T20:59:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 5.6934,
+      "prior_variance": 0.244489,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 9.1855,
+      "prior_variance": 0.345788,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 6.6333,
+      "prior_variance": 0.342312,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 4.3055,
+      "prior_variance": 0.354932,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 3.1952,
+      "prior_variance": 0.210483,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 3.4037,
+      "prior_variance": 0.227683,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.6746,
+      "prior_variance": 0.241527,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 3.1336,
+      "prior_variance": 0.254897,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.6306,
+      "prior_variance": 0.229619,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": 0.2371,
+      "prior_variance": 0.2642,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.3504,
+      "prior_variance": 0.238283,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -1.7227,
+      "prior_variance": 0.227429,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 4.6736,
+      "prior_variance": 0.235391,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": -2.7965,
+      "prior_variance": 0.331091,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -1.2051,
+      "prior_variance": 0.213301,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -2.0847,
+      "prior_variance": 0.243689,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -1.6544,
+      "prior_variance": 0.254399,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -2.4076,
+      "prior_variance": 0.248413,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 0.9812,
+      "prior_variance": 0.224789,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -2.2989,
+      "prior_variance": 0.217916,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.8537,
+      "prior_variance": 0.257429,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.8678,
+      "prior_variance": 0.227642,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -3.848,
+      "prior_variance": 0.242266,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -9.3937,
+      "prior_variance": 0.327658,
+      "prior_n": 6
+    }
+  ]
+}

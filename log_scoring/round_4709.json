@@ -1,0 +1,200 @@
+{
+  "round": 4709,
+  "timestamp": "2026-06-14T00:35:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 4.6583,
+      "prior_variance": 0.110573,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 4.4062,
+      "prior_variance": 0.094653,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 4.9293,
+      "prior_variance": 0.106802,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 4.3907,
+      "prior_variance": 0.103806,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 4.5637,
+      "prior_variance": 0.102558,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 1.6588,
+      "prior_variance": 0.087263,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 3.4881,
+      "prior_variance": 0.091064,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.3466,
+      "prior_variance": 0.096559,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 3.6977,
+      "prior_variance": 0.091962,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 3.398,
+      "prior_variance": 0.090105,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 2.3316,
+      "prior_variance": 0.090268,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.6947,
+      "prior_variance": 0.088966,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 0.7356,
+      "prior_variance": 0.087294,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 2.943,
+      "prior_variance": 0.090839,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.2915,
+      "prior_variance": 0.084189,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 2.7126,
+      "prior_variance": 0.104333,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 3.3856,
+      "prior_variance": 0.09103,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -4.9535,
+      "prior_variance": 0.099784,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Villa Florida",
+      "path": "southamerica/paraguay/villaflorida",
+      "prior_score": -4.8504,
+      "prior_variance": 0.098047,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -6.0755,
+      "prior_variance": 0.104648,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -6.9888,
+      "prior_variance": 0.160117,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -7.5363,
+      "prior_variance": 0.157803,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -7.8865,
+      "prior_variance": 0.145248,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -7.7,
+      "prior_variance": 0.16615,
+      "prior_n": 15
+    }
+  ]
+}

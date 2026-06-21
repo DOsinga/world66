@@ -1,0 +1,200 @@
+{
+  "round": 2789,
+  "timestamp": "2026-06-13T22:07:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 11.6005,
+      "prior_variance": 0.544294,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 4.6714,
+      "prior_variance": 0.159665,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cousin Island",
+      "path": "africa/seychelles/cousinisland",
+      "prior_score": 3.7414,
+      "prior_variance": 0.17339,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Todra Gorge",
+      "path": "africa/morocco/todragorge",
+      "prior_score": 4.8362,
+      "prior_variance": 0.164175,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 4.6,
+      "prior_variance": 0.150748,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.3743,
+      "prior_variance": 0.207291,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 3.3419,
+      "prior_variance": 0.147371,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Brighton",
+      "path": "europe/unitedkingdom/england/south_east/brighton",
+      "prior_score": 4.0759,
+      "prior_variance": 0.181536,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.6682,
+      "prior_variance": 0.15181,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.2371,
+      "prior_variance": 0.164952,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_score": 4.528,
+      "prior_variance": 0.163025,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 2.9796,
+      "prior_variance": 0.168151,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.4113,
+      "prior_variance": 0.171838,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Suwon",
+      "path": "asia/southkorea/suwon",
+      "prior_score": 2.1965,
+      "prior_variance": 0.132041,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.7895,
+      "prior_variance": 0.205815,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.4182,
+      "prior_variance": 0.146876,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.9417,
+      "prior_variance": 0.169629,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 4.3451,
+      "prior_variance": 0.170733,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 4.0474,
+      "prior_variance": 0.185518,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -2.0565,
+      "prior_variance": 0.165444,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -3.5222,
+      "prior_variance": 0.181314,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.2909,
+      "prior_variance": 0.176036,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Chatrapur",
+      "path": "asia/india/orissa/chatrapurganjam",
+      "prior_score": -6.3801,
+      "prior_variance": 0.241937,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -6.8263,
+      "prior_variance": 0.245273,
+      "prior_n": 8
+    }
+  ]
+}

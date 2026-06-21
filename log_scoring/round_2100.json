@@ -1,0 +1,200 @@
+{
+  "round": 2100,
+  "timestamp": "2026-06-13T21:18:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 14.05,
+      "prior_variance": 0.630356,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 9.0038,
+      "prior_variance": 0.297086,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Rouen",
+      "path": "europe/france/normandybrittany/rouen",
+      "prior_score": 5.0755,
+      "prior_variance": 0.250286,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 6.9025,
+      "prior_variance": 0.261731,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.1783,
+      "prior_variance": 0.248591,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 5.5885,
+      "prior_variance": 0.298137,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Wudang Mountains",
+      "path": "asia/china/hubei/wudang_mountains",
+      "prior_score": 4.8291,
+      "prior_variance": 0.19685,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "A\u00ednsa",
+      "path": "europe/spain/aragon/ainsa",
+      "prior_score": 3.4243,
+      "prior_variance": 0.248438,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 2.9753,
+      "prior_variance": 0.286215,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.6256,
+      "prior_variance": 0.250899,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 1.8771,
+      "prior_variance": 0.212729,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -2.7066,
+      "prior_variance": 0.202311,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -3.1226,
+      "prior_variance": 0.215286,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -3.4563,
+      "prior_variance": 0.246754,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.592,
+      "prior_variance": 0.196055,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -3.8394,
+      "prior_variance": 0.222717,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -5.1516,
+      "prior_variance": 0.258339,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -5.75,
+      "prior_variance": 0.319785,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -5.9414,
+      "prior_variance": 0.27308,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.2487,
+      "prior_variance": 0.22749,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -7.0293,
+      "prior_variance": 0.363933,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -7.9989,
+      "prior_variance": 0.285656,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -6.7584,
+      "prior_variance": 0.345952,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Maracaibo",
+      "path": "southamerica/venezuela/maracaibo",
+      "prior_score": -6.1484,
+      "prior_variance": 0.233702,
+      "prior_n": 6
+    }
+  ]
+}

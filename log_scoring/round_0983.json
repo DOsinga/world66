@@ -1,0 +1,200 @@
+{
+  "round": 983,
+  "timestamp": "2026-06-13T20:04:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -2.1939,
+      "prior_variance": 0.696048,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -5.1407,
+      "prior_variance": 0.955415,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bandarban",
+      "path": "asia/bangladesh/banderban_hill_tra",
+      "prior_score": -1.1458,
+      "prior_variance": 0.419541,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -2.2978,
+      "prior_variance": 0.781473,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -7.9933,
+      "prior_variance": 0.971139,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -4.5236,
+      "prior_variance": 0.519765,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.3126,
+      "prior_variance": 0.419632,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Porto-Novo",
+      "path": "africa/benin/portonovo",
+      "prior_score": -4.6357,
+      "prior_variance": 0.438485,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Barka",
+      "path": "asia/oman/barka",
+      "prior_score": -2.2512,
+      "prior_variance": 0.397848,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -6.4615,
+      "prior_variance": 0.420653,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -3.3388,
+      "prior_variance": 0.488604,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -1.6225,
+      "prior_variance": 0.472731,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -1.8783,
+      "prior_variance": 0.449217,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -3.2324,
+      "prior_variance": 0.436531,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.6738,
+      "prior_variance": 0.430734,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Vinkovci",
+      "path": "europe/croatia/vinkovci",
+      "prior_score": -4.0138,
+      "prior_variance": 0.437445,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -3.6028,
+      "prior_variance": 0.507528,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -4.2723,
+      "prior_variance": 0.480423,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -3.3881,
+      "prior_variance": 0.690507,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sarnia",
+      "path": "northamerica/canada/ontario/sarnia",
+      "prior_score": -4.7141,
+      "prior_variance": 0.644676,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.9507,
+      "prior_variance": 0.711006,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -1.6312,
+      "prior_variance": 0.48238,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -2.7987,
+      "prior_variance": 0.662485,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -5.4038,
+      "prior_variance": 1.071366,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1947,
+  "timestamp": "2026-06-13T21:07:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.1971,
+      "prior_variance": 0.218182,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -1.1069,
+      "prior_variance": 0.234652,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -2.4513,
+      "prior_variance": 0.271518,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Yell",
+      "path": "europe/unitedkingdom/scotland/shetland/yell",
+      "prior_score": -2.1199,
+      "prior_variance": 0.22339,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -1.1687,
+      "prior_variance": 0.229214,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -3.2065,
+      "prior_variance": 0.26292,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.5977,
+      "prior_variance": 0.320571,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -3.6178,
+      "prior_variance": 0.200134,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Yongzhou",
+      "path": "asia/china/hunan/yongzhou",
+      "prior_score": -4.5032,
+      "prior_variance": 0.243351,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Valgeranna",
+      "path": "europe/estonia/valgeranna",
+      "prior_score": -4.8147,
+      "prior_variance": 0.253664,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.4794,
+      "prior_variance": 0.224926,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -3.0094,
+      "prior_variance": 0.202024,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -2.8703,
+      "prior_variance": 0.23654,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.7634,
+      "prior_variance": 0.254114,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.3403,
+      "prior_variance": 0.26632,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -4.4676,
+      "prior_variance": 0.254774,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -3.0237,
+      "prior_variance": 0.247636,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -5.3038,
+      "prior_variance": 0.247014,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -6.4925,
+      "prior_variance": 0.313764,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.6291,
+      "prior_variance": 0.228243,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -5.0763,
+      "prior_variance": 0.360855,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -4.5867,
+      "prior_variance": 0.390579,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.3008,
+      "prior_variance": 0.274921,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -4.0035,
+      "prior_variance": 0.254177,
+      "prior_n": 6
+    }
+  ]
+}

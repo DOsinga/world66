@@ -1,0 +1,200 @@
+{
+  "round": 1402,
+  "timestamp": "2026-06-13T20:28:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 6.0807,
+      "prior_variance": 0.453493,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 5.9508,
+      "prior_variance": 0.674873,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 5.4535,
+      "prior_variance": 0.403975,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 4.4021,
+      "prior_variance": 0.269991,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 2.5568,
+      "prior_variance": 0.321064,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -3.3813,
+      "prior_variance": 0.298889,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chandigarh",
+      "path": "asia/india/punjab/chandigarh",
+      "prior_score": 0.0919,
+      "prior_variance": 0.304139,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -3.1247,
+      "prior_variance": 0.428582,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -3.937,
+      "prior_variance": 0.392935,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Luhuitou",
+      "path": "asia/china/hainanisland/luhuitou",
+      "prior_score": -0.2942,
+      "prior_variance": 0.345294,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -3.4696,
+      "prior_variance": 0.344493,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.5111,
+      "prior_variance": 0.515084,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -2.1388,
+      "prior_variance": 0.40969,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.8795,
+      "prior_variance": 0.313785,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -4.8289,
+      "prior_variance": 0.305236,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mawlamyaing",
+      "path": "asia/myanmar/mawlamyaing",
+      "prior_score": -4.2804,
+      "prior_variance": 0.375591,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tigzirt",
+      "path": "africa/algeria/tigzirt",
+      "prior_score": -3.0047,
+      "prior_variance": 0.381164,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -5.58,
+      "prior_variance": 0.414152,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -5.0002,
+      "prior_variance": 0.381996,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.3475,
+      "prior_variance": 0.407236,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.9506,
+      "prior_variance": 0.355177,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.2512,
+      "prior_variance": 0.325384,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Embrun",
+      "path": "northamerica/canada/ontario/embrun",
+      "prior_score": -7.5852,
+      "prior_variance": 0.479565,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -8.8146,
+      "prior_variance": 0.554784,
+      "prior_n": 4
+    }
+  ]
+}

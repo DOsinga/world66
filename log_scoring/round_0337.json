@@ -1,0 +1,200 @@
+{
+  "round": 337,
+  "timestamp": "2026-06-13T19:30:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 12.0062,
+      "prior_variance": 8.644741,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 13.835,
+      "prior_variance": 3.872723,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 8.5609,
+      "prior_variance": 2.893553,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 10.119,
+      "prior_variance": 2.706231,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 6.9893,
+      "prior_variance": 2.201505,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 5.4445,
+      "prior_variance": 1.967789,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 8.2811,
+      "prior_variance": 2.362248,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 1.5295,
+      "prior_variance": 1.70649,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 4.1273,
+      "prior_variance": 1.859517,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": -0.7104,
+      "prior_variance": 1.496129,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.445,
+      "prior_variance": 1.861157,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 1.2132,
+      "prior_variance": 1.854371,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Moshi",
+      "path": "africa/tanzania/moshi",
+      "prior_score": 1.1155,
+      "prior_variance": 1.850007,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Devil's Tower",
+      "path": "northamerica/unitedstates/wyoming/devilstower",
+      "prior_score": 4.684,
+      "prior_variance": 1.778246,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 3.687,
+      "prior_variance": 2.315065,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 4.302,
+      "prior_variance": 1.752566,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723735,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -3.6517,
+      "prior_variance": 1.687489,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -2.0967,
+      "prior_variance": 1.319649,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -3.3347,
+      "prior_variance": 2.152296,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -4.6339,
+      "prior_variance": 1.491359,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -11.2438,
+      "prior_variance": 3.367444,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Northern Virginia",
+      "path": "northamerica/unitedstates/virginia/northern",
+      "prior_score": -5.2477,
+      "prior_variance": 1.786675,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -8.085,
+      "prior_variance": 1.813723,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2796,
+  "timestamp": "2026-06-13T22:07:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 10.9362,
+      "prior_variance": 0.331055,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 10.2053,
+      "prior_variance": 0.354055,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.3377,
+      "prior_variance": 0.294331,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 8.3727,
+      "prior_variance": 0.223976,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.3034,
+      "prior_variance": 0.152933,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 1.4353,
+      "prior_variance": 0.147272,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.3016,
+      "prior_variance": 0.176246,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 0.3077,
+      "prior_variance": 0.170195,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -1.0668,
+      "prior_variance": 0.142651,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.4487,
+      "prior_variance": 0.150408,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.2045,
+      "prior_variance": 0.174516,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -1.6004,
+      "prior_variance": 0.140592,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Alibaug",
+      "path": "asia/india/maharashtra/alibaug",
+      "prior_score": -1.3298,
+      "prior_variance": 0.134299,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -0.0854,
+      "prior_variance": 0.141754,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.2899,
+      "prior_variance": 0.163042,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Lillooet",
+      "path": "northamerica/canada/britishcolumbia/lillooet",
+      "prior_score": -1.4609,
+      "prior_variance": 0.14718,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Cherchen",
+      "path": "asia/china/xinjiangprovince/cherchen",
+      "prior_score": -7.2364,
+      "prior_variance": 0.228152,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.3319,
+      "prior_variance": 0.158835,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_score": -1.2705,
+      "prior_variance": 0.145862,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -3.0705,
+      "prior_variance": 0.170497,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Calais",
+      "path": "europe/france/nord/calais",
+      "prior_score": -2.6976,
+      "prior_variance": 0.153474,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.3203,
+      "prior_variance": 0.157661,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -2.4511,
+      "prior_variance": 0.150487,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -4.4836,
+      "prior_variance": 0.198489,
+      "prior_n": 9
+    }
+  ]
+}

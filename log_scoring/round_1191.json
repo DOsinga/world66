@@ -1,0 +1,200 @@
+{
+  "round": 1191,
+  "timestamp": "2026-06-13T20:16:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.2232,
+      "prior_variance": 0.438655,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 0.9112,
+      "prior_variance": 0.337986,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.5763,
+      "prior_variance": 0.39682,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.8918,
+      "prior_variance": 0.489711,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Zhaoxing",
+      "path": "asia/china/guizhou/zhaoxing",
+      "prior_score": 3.2773,
+      "prior_variance": 0.446872,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Libo County",
+      "path": "asia/china/guizhou/libo",
+      "prior_score": 1.2729,
+      "prior_variance": 0.389287,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.7245,
+      "prior_variance": 0.376688,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -1.1754,
+      "prior_variance": 0.34619,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Trebinje",
+      "path": "europe/bosniaandherzegovina/trebinje",
+      "prior_score": 2.0032,
+      "prior_variance": 0.397207,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -0.3862,
+      "prior_variance": 0.408886,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.3617,
+      "prior_variance": 0.466212,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.5977,
+      "prior_variance": 0.425494,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -1.9404,
+      "prior_variance": 0.420465,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": 0.6924,
+      "prior_variance": 0.454111,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -5.6732,
+      "prior_variance": 0.364109,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -1.7876,
+      "prior_variance": 0.446625,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -1.2905,
+      "prior_variance": 0.556108,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -6.987,
+      "prior_variance": 1.051544,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -2.0504,
+      "prior_variance": 0.599262,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -4.1088,
+      "prior_variance": 0.35084,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -4.9634,
+      "prior_variance": 0.404705,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Smolensk",
+      "path": "europe/russia/smolensk",
+      "prior_score": -2.2562,
+      "prior_variance": 0.505278,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -7.2172,
+      "prior_variance": 0.43357,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.1184,
+      "prior_variance": 0.412423,
+      "prior_n": 3
+    }
+  ]
+}

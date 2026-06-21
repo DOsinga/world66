@@ -1,0 +1,200 @@
+{
+  "round": 740,
+  "timestamp": "2026-06-13T19:51:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -10.04,
+      "prior_variance": 0.987269,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -11.4803,
+      "prior_variance": 0.856878,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -9.5374,
+      "prior_variance": 1.342546,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -9.6928,
+      "prior_variance": 0.701762,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -9.33,
+      "prior_variance": 0.949926,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yichun",
+      "path": "asia/china/jiangxi/yichun",
+      "prior_score": -9.6339,
+      "prior_variance": 0.801799,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -11.2669,
+      "prior_variance": 0.927792,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -9.9442,
+      "prior_variance": 0.666957,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -10.0995,
+      "prior_variance": 0.807744,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -7.5275,
+      "prior_variance": 1.35667,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -11.2805,
+      "prior_variance": 0.669865,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -12.7237,
+      "prior_variance": 1.099436,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ashford",
+      "path": "northamerica/unitedstates/newyorkstate/ashford",
+      "prior_score": -12.9438,
+      "prior_variance": 0.807284,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -11.747,
+      "prior_variance": 1.149647,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -13.286,
+      "prior_variance": 0.877688,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Boaco",
+      "path": "northamerica/nicaragua/boaco",
+      "prior_score": -10.4784,
+      "prior_variance": 1.764137,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Nizamabad",
+      "path": "asia/india/andhrapradesh/nizamabad",
+      "prior_score": -10.0995,
+      "prior_variance": 1.023289,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": -11.2166,
+      "prior_variance": 1.671396,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Siping",
+      "path": "asia/china/jilin/siping",
+      "prior_score": -9.6602,
+      "prior_variance": 1.274058,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Qasr Libya",
+      "path": "africa/libya/jebelakhdar/qasr_libya",
+      "prior_score": -10.9505,
+      "prior_variance": 0.743237,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -12.3423,
+      "prior_variance": 1.058763,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -12.1462,
+      "prior_variance": 1.200453,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -11.1652,
+      "prior_variance": 1.199653,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -10.1348,
+      "prior_variance": 1.327413,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1828,
+  "timestamp": "2026-06-13T20:55:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 0.341,
+      "prior_variance": 0.237645,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.2473,
+      "prior_variance": 0.234009,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.4394,
+      "prior_variance": 0.215361,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.2444,
+      "prior_variance": 0.226169,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -0.9421,
+      "prior_variance": 0.275626,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.7286,
+      "prior_variance": 0.254922,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "St Just in Penwith",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith",
+      "prior_score": 1.3812,
+      "prior_variance": 0.221258,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.0771,
+      "prior_variance": 0.223727,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -1.0306,
+      "prior_variance": 0.236435,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Wenchang",
+      "path": "asia/china/hainanisland/wenchang",
+      "prior_score": -3.2739,
+      "prior_variance": 0.214071,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -0.8918,
+      "prior_variance": 0.20233,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.3753,
+      "prior_variance": 0.211108,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.5972,
+      "prior_variance": 0.258857,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.5649,
+      "prior_variance": 0.235624,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -1.0004,
+      "prior_variance": 0.203227,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.5754,
+      "prior_variance": 0.2463,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 0.2008,
+      "prior_variance": 0.20276,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ledbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/ledbury",
+      "prior_score": 0.4077,
+      "prior_variance": 0.257167,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Sainte-Therese",
+      "path": "northamerica/canada/quebec/saintetherese",
+      "prior_score": -5.112,
+      "prior_variance": 0.316744,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -3.4318,
+      "prior_variance": 0.222132,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -6.6811,
+      "prior_variance": 0.303278,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": -7.8582,
+      "prior_variance": 0.346368,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -9.4884,
+      "prior_variance": 0.501847,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -10.4666,
+      "prior_variance": 0.971486,
+      "prior_n": 5
+    }
+  ]
+}

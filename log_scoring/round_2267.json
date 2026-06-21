@@ -1,0 +1,200 @@
+{
+  "round": 2267,
+  "timestamp": "2026-06-13T21:30:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 5.8697,
+      "prior_variance": 0.224175,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 1.8048,
+      "prior_variance": 0.193548,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.2272,
+      "prior_variance": 0.220758,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.3249,
+      "prior_variance": 0.202556,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": 0.197,
+      "prior_variance": 0.182249,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kish island",
+      "path": "asia/iran/kishisland",
+      "prior_score": -0.2537,
+      "prior_variance": 0.20653,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/newplymouth",
+      "prior_score": -0.2798,
+      "prior_variance": 0.227724,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -4.068,
+      "prior_variance": 0.241598,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -3.2217,
+      "prior_variance": 0.176991,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -1.9131,
+      "prior_variance": 0.207312,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -2.1139,
+      "prior_variance": 0.190954,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -4.273,
+      "prior_variance": 0.199519,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.7069,
+      "prior_variance": 0.210945,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.5419,
+      "prior_variance": 0.177326,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Chongzuo",
+      "path": "asia/china/guangxi/chongzuo",
+      "prior_score": -2.6815,
+      "prior_variance": 0.173327,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Erzincan",
+      "path": "asia/turkey/erzincan",
+      "prior_score": -2.9564,
+      "prior_variance": 0.173086,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -5.5755,
+      "prior_variance": 0.215405,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -4.3898,
+      "prior_variance": 0.205072,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.9345,
+      "prior_variance": 0.164438,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -4.4294,
+      "prior_variance": 0.197496,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.862,
+      "prior_variance": 0.316341,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.9046,
+      "prior_variance": 0.236007,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -4.4293,
+      "prior_variance": 0.27947,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.3739,
+      "prior_variance": 0.205223,
+      "prior_n": 7
+    }
+  ]
+}

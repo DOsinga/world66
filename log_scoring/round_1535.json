@@ -1,0 +1,200 @@
+{
+  "round": 1535,
+  "timestamp": "2026-06-13T20:36:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 11.5328,
+      "prior_variance": 0.532425,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 8.039,
+      "prior_variance": 0.428942,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 5.8614,
+      "prior_variance": 0.337256,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 4.6183,
+      "prior_variance": 0.323331,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.6444,
+      "prior_variance": 0.256502,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -2.5951,
+      "prior_variance": 0.297425,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": -0.6833,
+      "prior_variance": 0.331321,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": -0.3079,
+      "prior_variance": 0.335001,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 2.018,
+      "prior_variance": 0.303424,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.829,
+      "prior_variance": 0.280459,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Nuku'alofa",
+      "path": "australiaandpacific/tonga/tongatapu/nukualofa",
+      "prior_score": 0.741,
+      "prior_variance": 0.240995,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.2982,
+      "prior_variance": 0.25882,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -2.0549,
+      "prior_variance": 0.321286,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 2.6765,
+      "prior_variance": 0.244169,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 1.0976,
+      "prior_variance": 0.362564,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -0.6309,
+      "prior_variance": 0.247973,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -1.823,
+      "prior_variance": 0.240701,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.9587,
+      "prior_variance": 0.317283,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.7535,
+      "prior_variance": 0.320797,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -2.4753,
+      "prior_variance": 0.289091,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -6.6425,
+      "prior_variance": 0.334743,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Birtamode",
+      "path": "asia/nepal/birtamode",
+      "prior_score": -5.4694,
+      "prior_variance": 0.330408,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -6.4417,
+      "prior_variance": 0.292958,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Fargo",
+      "path": "northamerica/unitedstates/northdakota/fargo",
+      "prior_score": -4.7731,
+      "prior_variance": 0.256683,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2647,
+  "timestamp": "2026-06-13T21:57:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.8463,
+      "prior_variance": 0.184132,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 3.0491,
+      "prior_variance": 0.190921,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 2.2804,
+      "prior_variance": 0.165107,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -4.7679,
+      "prior_variance": 0.21865,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -2.6616,
+      "prior_variance": 0.158418,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -6.4729,
+      "prior_variance": 0.212869,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -6.0315,
+      "prior_variance": 0.223335,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -5.185,
+      "prior_variance": 0.2021,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -6.3544,
+      "prior_variance": 0.244733,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -7.2669,
+      "prior_variance": 0.369596,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -8.0029,
+      "prior_variance": 0.360043,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -9.7666,
+      "prior_variance": 0.445582,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Evansville",
+      "path": "northamerica/unitedstates/indiana/evansville",
+      "prior_score": -4.7032,
+      "prior_variance": 0.182996,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.146,
+      "prior_variance": 0.171212,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -4.3216,
+      "prior_variance": 0.164057,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.2287,
+      "prior_variance": 0.170303,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -4.6863,
+      "prior_variance": 0.236131,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -6.2636,
+      "prior_variance": 0.20656,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -8.6988,
+      "prior_variance": 0.257259,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -6.9172,
+      "prior_variance": 0.202966,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_score": -9.4424,
+      "prior_variance": 0.609772,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Aqsu",
+      "path": "europe/azerbaijan/aqsu",
+      "prior_score": -7.1748,
+      "prior_variance": 0.246103,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -9.9945,
+      "prior_variance": 0.396819,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Mogadishu",
+      "path": "africa/somalia/mogadishu",
+      "prior_score": -12.6132,
+      "prior_variance": 1.570349,
+      "prior_n": 8
+    }
+  ]
+}

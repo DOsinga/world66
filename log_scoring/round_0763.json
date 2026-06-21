@@ -1,0 +1,200 @@
+{
+  "round": 763,
+  "timestamp": "2026-06-13T19:52:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iona National Park",
+      "path": "africa/angola/ionanationalpark",
+      "prior_score": -13.3444,
+      "prior_variance": 1.108247,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -12.232,
+      "prior_variance": 0.761942,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -12.3435,
+      "prior_variance": 0.636549,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -13.15,
+      "prior_variance": 1.505417,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -14.4676,
+      "prior_variance": 0.755693,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -13.9093,
+      "prior_variance": 1.383683,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/delaware/newark",
+      "prior_score": -14.4996,
+      "prior_variance": 1.283778,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -15.0482,
+      "prior_variance": 0.785862,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Washita",
+      "path": "northamerica/unitedstates/oklahoma/washita",
+      "prior_score": -14.1647,
+      "prior_variance": 0.815453,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -13.8059,
+      "prior_variance": 1.189394,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -12.8227,
+      "prior_variance": 1.121535,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -13.905,
+      "prior_variance": 1.706601,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -14.9332,
+      "prior_variance": 1.155595,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -13.7492,
+      "prior_variance": 1.327287,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Gujrat",
+      "path": "asia/pakistan/gujrat",
+      "prior_score": -14.3993,
+      "prior_variance": 1.152518,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -14.6913,
+      "prior_variance": 1.788207,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Wadi Halfa",
+      "path": "africa/sudan/wadihalfa",
+      "prior_score": -15.1857,
+      "prior_variance": 1.336997,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -14.1289,
+      "prior_variance": 0.711369,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Rajoa",
+      "path": "asia/pakistan/azad_kashmir/mirpur/rajoa",
+      "prior_score": -15.6019,
+      "prior_variance": 1.160395,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -14.6531,
+      "prior_variance": 0.722329,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -13.9665,
+      "prior_variance": 1.049206,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -15.9007,
+      "prior_variance": 0.779818,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -14.1546,
+      "prior_variance": 1.261088,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -14.8176,
+      "prior_variance": 1.318028,
+      "prior_n": 2
+    }
+  ]
+}

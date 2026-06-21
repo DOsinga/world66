@@ -1,0 +1,200 @@
+{
+  "round": 1048,
+  "timestamp": "2026-06-13T20:08:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jericho",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": 0.1132,
+      "prior_variance": 0.468894,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": 0.5037,
+      "prior_variance": 0.464774,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -1.2471,
+      "prior_variance": 0.391199,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -3.285,
+      "prior_variance": 0.450739,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -2.3289,
+      "prior_variance": 0.40368,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": -1.3334,
+      "prior_variance": 0.395549,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -2.538,
+      "prior_variance": 0.41935,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -4.8316,
+      "prior_variance": 0.662469,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Safaga",
+      "path": "africa/egypt/safaga",
+      "prior_score": -2.3997,
+      "prior_variance": 0.484569,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mount Santa Tecla",
+      "path": "europe/spain/galicia/mount_santa_tecla",
+      "prior_score": -1.7947,
+      "prior_variance": 0.627127,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -3.7741,
+      "prior_variance": 0.464614,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Orco Feglino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/orcofeglino",
+      "prior_score": -3.4293,
+      "prior_variance": 0.625742,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol",
+      "prior_score": -3.1815,
+      "prior_variance": 0.46872,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Los Alamos",
+      "path": "northamerica/unitedstates/newmexico/losalamos",
+      "prior_score": -2.8205,
+      "prior_variance": 0.583263,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -2.8178,
+      "prior_variance": 0.50575,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Nitra",
+      "path": "europe/slovakia/nitra",
+      "prior_score": -2.936,
+      "prior_variance": 0.502133,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -1.708,
+      "prior_variance": 0.409058,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -3.0487,
+      "prior_variance": 0.436396,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -5.2129,
+      "prior_variance": 0.39504,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -3.3645,
+      "prior_variance": 0.570093,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -3.1916,
+      "prior_variance": 0.535876,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -7.2898,
+      "prior_variance": 0.713876,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -5.6022,
+      "prior_variance": 1.211826,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -6.0201,
+      "prior_variance": 1.200721,
+      "prior_n": 3
+    }
+  ]
+}

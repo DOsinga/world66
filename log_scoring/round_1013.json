@@ -1,0 +1,200 @@
+{
+  "round": 1013,
+  "timestamp": "2026-06-13T20:06:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chamonix",
+      "path": "europe/france/alpes/chamonix",
+      "prior_score": 16.8859,
+      "prior_variance": 1.326172,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 6.2108,
+      "prior_variance": 0.569067,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 4.7303,
+      "prior_variance": 0.577398,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 4.7363,
+      "prior_variance": 0.472402,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Fiesole",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/fiesole",
+      "prior_score": 6.587,
+      "prior_variance": 0.507516,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 5.6936,
+      "prior_variance": 0.41237,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -10.6766,
+      "prior_variance": 1.615512,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 4.4061,
+      "prior_variance": 0.39914,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 2.741,
+      "prior_variance": 0.564661,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 5.1413,
+      "prior_variance": 0.420372,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 6.2518,
+      "prior_variance": 0.529763,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 3.4141,
+      "prior_variance": 0.502789,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Noum\u00e9a",
+      "path": "australiaandpacific/newcaledonia/noumea",
+      "prior_score": 4.0109,
+      "prior_variance": 0.441095,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 5.0793,
+      "prior_variance": 0.43037,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Train des Pignes",
+      "path": "europe/france/midi/southern_alps/train_des_pignes",
+      "prior_score": 3.7295,
+      "prior_variance": 0.414754,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 4.1137,
+      "prior_variance": 0.466872,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 3.3996,
+      "prior_variance": 0.53631,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 3.2262,
+      "prior_variance": 0.750186,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 4.0768,
+      "prior_variance": 0.476798,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 5.3424,
+      "prior_variance": 0.542671,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 3.9467,
+      "prior_variance": 0.506365,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 2.7181,
+      "prior_variance": 0.496963,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 2.1925,
+      "prior_variance": 0.751775,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -10.2221,
+      "prior_variance": 0.603567,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1608,
+  "timestamp": "2026-06-13T20:41:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.4177,
+      "prior_variance": 0.268577,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 3.4662,
+      "prior_variance": 0.359505,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 5.3049,
+      "prior_variance": 0.283357,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 3.4342,
+      "prior_variance": 0.24693,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 2.5306,
+      "prior_variance": 0.370352,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Roccavignale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/roccavignale",
+      "prior_score": -3.5214,
+      "prior_variance": 0.424433,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": -0.4346,
+      "prior_variance": 0.426494,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -1.3252,
+      "prior_variance": 0.259359,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Arbo",
+      "path": "europe/spain/galicia/arbo",
+      "prior_score": -2.4314,
+      "prior_variance": 0.248727,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ambato",
+      "path": "southamerica/ecuador/ambato",
+      "prior_score": -0.8264,
+      "prior_variance": 0.25132,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.3435,
+      "prior_variance": 0.272173,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 2.4414,
+      "prior_variance": 0.267852,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": 0.1461,
+      "prior_variance": 0.236826,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -3.384,
+      "prior_variance": 0.292302,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -2.1964,
+      "prior_variance": 0.258745,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.0624,
+      "prior_variance": 0.24606,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -4.1945,
+      "prior_variance": 0.246195,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -2.0885,
+      "prior_variance": 0.275402,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Daman",
+      "path": "asia/india/daman",
+      "prior_score": -3.4279,
+      "prior_variance": 0.272002,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -2.5657,
+      "prior_variance": 0.309378,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.8489,
+      "prior_variance": 0.29214,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -5.1557,
+      "prior_variance": 0.304801,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.9283,
+      "prior_variance": 0.239983,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -5.6919,
+      "prior_variance": 0.285616,
+      "prior_n": 5
+    }
+  ]
+}

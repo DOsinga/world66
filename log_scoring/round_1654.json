@@ -1,0 +1,200 @@
+{
+  "round": 1654,
+  "timestamp": "2026-06-13T20:44:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 7.9253,
+      "prior_variance": 0.299396,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.6731,
+      "prior_variance": 0.288298,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 3.1947,
+      "prior_variance": 0.282632,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.3917,
+      "prior_variance": 0.259868,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.1611,
+      "prior_variance": 0.261695,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.555,
+      "prior_variance": 0.320295,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 3.7489,
+      "prior_variance": 0.259334,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": -3.0149,
+      "prior_variance": 0.320699,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.5087,
+      "prior_variance": 0.235916,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -2.3002,
+      "prior_variance": 0.262623,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -4.6724,
+      "prior_variance": 0.43954,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -3.3868,
+      "prior_variance": 0.295862,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.3834,
+      "prior_variance": 0.256987,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -3.7612,
+      "prior_variance": 0.276103,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.4676,
+      "prior_variance": 0.234827,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cambridge",
+      "path": "northamerica/canada/ontario/cambridge",
+      "prior_score": -4.366,
+      "prior_variance": 0.323073,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -3.3811,
+      "prior_variance": 0.274991,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -4.2675,
+      "prior_variance": 0.267745,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -5.4947,
+      "prior_variance": 0.289119,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ounianga",
+      "path": "africa/chad/ounianga",
+      "prior_score": -5.9303,
+      "prior_variance": 0.300718,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -6.126,
+      "prior_variance": 0.336342,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -5.0435,
+      "prior_variance": 0.318342,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -5.6639,
+      "prior_variance": 0.297343,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -5.2335,
+      "prior_variance": 0.542451,
+      "prior_n": 5
+    }
+  ]
+}

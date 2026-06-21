@@ -1,0 +1,200 @@
+{
+  "round": 2714,
+  "timestamp": "2026-06-13T22:02:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 2.9881,
+      "prior_variance": 0.158222,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 2.423,
+      "prior_variance": 0.215706,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.9254,
+      "prior_variance": 0.144029,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 0.1145,
+      "prior_variance": 0.143652,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Le Havre",
+      "path": "europe/france/normandybrittany/lehavre",
+      "prior_score": 0.799,
+      "prior_variance": 0.160038,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Leibnitz",
+      "path": "europe/austria/leibnitz",
+      "prior_score": -1.3958,
+      "prior_variance": 0.135673,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "G\u00e4vle",
+      "path": "europe/sweden/gvle",
+      "prior_score": -2.1332,
+      "prior_variance": 0.153156,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -0.9749,
+      "prior_variance": 0.154042,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.5859,
+      "prior_variance": 0.142208,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Wuwei",
+      "path": "asia/china/gansu/wuwei",
+      "prior_score": -2.9572,
+      "prior_variance": 0.162297,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -3.8145,
+      "prior_variance": 0.247894,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.1295,
+      "prior_variance": 0.151979,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Sirmour",
+      "path": "asia/india/himachalpradesh/sirmour",
+      "prior_score": -3.8642,
+      "prior_variance": 0.161268,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Binan, Laguna",
+      "path": "asia/philippines/binanlaguna",
+      "prior_score": -5.3985,
+      "prior_variance": 0.196856,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Belgaum",
+      "path": "asia/india/karnataka/belgaum",
+      "prior_score": -3.9363,
+      "prior_variance": 0.159819,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.0606,
+      "prior_variance": 0.17806,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -3.3285,
+      "prior_variance": 0.186623,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.4144,
+      "prior_variance": 0.230716,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.1169,
+      "prior_variance": 0.161905,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.5464,
+      "prior_variance": 0.199649,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Swift Current",
+      "path": "northamerica/canada/saskatchewan/swift_current",
+      "prior_score": -4.141,
+      "prior_variance": 0.194452,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Mattawa",
+      "path": "northamerica/canada/ontario/mattawa",
+      "prior_score": -4.8349,
+      "prior_variance": 0.179226,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.5724,
+      "prior_variance": 0.15254,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.6146,
+      "prior_variance": 0.221556,
+      "prior_n": 8
+    }
+  ]
+}

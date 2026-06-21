@@ -1,0 +1,200 @@
+{
+  "round": 2463,
+  "timestamp": "2026-06-13T21:44:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 14.8018,
+      "prior_variance": 0.7806,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 10.9588,
+      "prior_variance": 0.606366,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 10.7994,
+      "prior_variance": 0.590896,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 7.8853,
+      "prior_variance": 0.229541,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 10.335,
+      "prior_variance": 0.28681,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": 10.4885,
+      "prior_variance": 0.336252,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.7028,
+      "prior_variance": 0.268209,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 8.451,
+      "prior_variance": 0.221296,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 10.2117,
+      "prior_variance": 0.451513,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 3.0251,
+      "prior_variance": 0.245338,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.491,
+      "prior_variance": 0.168827,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Xanthos",
+      "path": "asia/turkey/xanthos",
+      "prior_score": 1.5886,
+      "prior_variance": 0.177608,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.2284,
+      "prior_variance": 0.184395,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.3043,
+      "prior_variance": 0.158485,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 0.4992,
+      "prior_variance": 0.20301,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.2304,
+      "prior_variance": 0.186517,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.1352,
+      "prior_variance": 0.143541,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.241,
+      "prior_variance": 0.17315,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Chagford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/chagford",
+      "prior_score": 0.6525,
+      "prior_variance": 0.178977,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.8303,
+      "prior_variance": 0.170672,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -1.4498,
+      "prior_variance": 0.309151,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -1.0909,
+      "prior_variance": 0.174828,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": -0.2582,
+      "prior_variance": 0.174708,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Carlisle",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle",
+      "prior_score": -2.3414,
+      "prior_variance": 0.18298,
+      "prior_n": 8
+    }
+  ]
+}

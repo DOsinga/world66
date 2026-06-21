@@ -1,0 +1,200 @@
+{
+  "round": 535,
+  "timestamp": "2026-06-13T19:41:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": -0.6575,
+      "prior_variance": 1.729461,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton",
+      "prior_score": 1.8806,
+      "prior_variance": 1.418942,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 0.3613,
+      "prior_variance": 1.424925,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -1.2979,
+      "prior_variance": 0.803891,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.0643,
+      "prior_variance": 0.890449,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -1.1411,
+      "prior_variance": 1.013516,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.2191,
+      "prior_variance": 0.853374,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Wildwood",
+      "path": "northamerica/unitedstates/newjersey/wildwood",
+      "prior_score": -1.4167,
+      "prior_variance": 0.6731,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": -1.7363,
+      "prior_variance": 1.311788,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -2.5035,
+      "prior_variance": 1.207246,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": -0.9754,
+      "prior_variance": 0.858129,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.9357,
+      "prior_variance": 1.663153,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -2.699,
+      "prior_variance": 1.386838,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": -0.7252,
+      "prior_variance": 1.583937,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -1.6649,
+      "prior_variance": 0.862221,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -2.1544,
+      "prior_variance": 1.371136,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -0.988,
+      "prior_variance": 1.581172,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": -0.4654,
+      "prior_variance": 1.460409,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Yantai",
+      "path": "asia/china/shandong_province/yantai",
+      "prior_score": -1.8997,
+      "prior_variance": 2.791862,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -3.6592,
+      "prior_variance": 0.849333,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.7725,
+      "prior_variance": 1.435196,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.146,
+      "prior_variance": 0.969724,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": 0.2801,
+      "prior_variance": 0.962908,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -0.3785,
+      "prior_variance": 1.476002,
+      "prior_n": 1
+    }
+  ]
+}

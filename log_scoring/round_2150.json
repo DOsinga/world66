@@ -1,0 +1,200 @@
+{
+  "round": 2150,
+  "timestamp": "2026-06-13T21:22:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 14.801,
+      "prior_variance": 0.634215,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 11.1911,
+      "prior_variance": 0.484558,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 9.1011,
+      "prior_variance": 0.333945,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 5.2345,
+      "prior_variance": 0.292934,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sirmione",
+      "path": "europe/italy/lombardia/lagodigarda/sirmione",
+      "prior_score": 7.3082,
+      "prior_variance": 0.288398,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.9196,
+      "prior_variance": 0.25257,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 2.4271,
+      "prior_variance": 0.205553,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 3.087,
+      "prior_variance": 0.196028,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Deqin",
+      "path": "asia/china/yunnanprovince/deqin",
+      "prior_score": 1.1292,
+      "prior_variance": 0.210554,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 2.4558,
+      "prior_variance": 0.190357,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.3984,
+      "prior_variance": 0.191179,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 5.3425,
+      "prior_variance": 0.296056,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.0891,
+      "prior_variance": 0.209791,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 0.9668,
+      "prior_variance": 0.15879,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Dingli",
+      "path": "europe/malta/dingli",
+      "prior_score": -0.1908,
+      "prior_variance": 0.188618,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Vwaza Marsh Game Reserve",
+      "path": "africa/malawi/vwaza",
+      "prior_score": -1.0998,
+      "prior_variance": 0.269617,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bellingham",
+      "path": "northamerica/unitedstates/washington/bellingham",
+      "prior_score": -0.4329,
+      "prior_variance": 0.220314,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.3505,
+      "prior_variance": 0.209404,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -2.2054,
+      "prior_variance": 0.185926,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.2766,
+      "prior_variance": 0.20388,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 1.3378,
+      "prior_variance": 0.216912,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": -1.3136,
+      "prior_variance": 0.224204,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.1767,
+      "prior_variance": 0.188128,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -5.2968,
+      "prior_variance": 0.244572,
+      "prior_n": 6
+    }
+  ]
+}

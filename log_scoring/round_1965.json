@@ -1,0 +1,200 @@
+{
+  "round": 1965,
+  "timestamp": "2026-06-13T21:09:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/canada/ontario/niagrafalls",
+      "prior_score": 8.6976,
+      "prior_variance": 0.317488,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 5.3091,
+      "prior_variance": 0.274379,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.3132,
+      "prior_variance": 0.252385,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 2.8173,
+      "prior_variance": 0.246589,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 3.0171,
+      "prior_variance": 0.206186,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Santiago",
+      "path": "southamerica/chile/santiago",
+      "prior_score": 2.2595,
+      "prior_variance": 0.334031,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 0.3379,
+      "prior_variance": 0.304813,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 2.4705,
+      "prior_variance": 0.219483,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": -0.3166,
+      "prior_variance": 0.21949,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.7785,
+      "prior_variance": 0.187182,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -3.4472,
+      "prior_variance": 0.309213,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.9718,
+      "prior_variance": 0.281469,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.9701,
+      "prior_variance": 0.242664,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.5815,
+      "prior_variance": 0.296624,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.2876,
+      "prior_variance": 0.211495,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -2.6196,
+      "prior_variance": 0.213971,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.9523,
+      "prior_variance": 0.217728,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -3.0152,
+      "prior_variance": 0.227791,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Zhoushan",
+      "path": "asia/china/zhejiang/zhoushan",
+      "prior_score": -2.0167,
+      "prior_variance": 0.215013,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -2.1134,
+      "prior_variance": 0.233075,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -1.7305,
+      "prior_variance": 0.21259,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -1.7842,
+      "prior_variance": 0.213617,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -5.5064,
+      "prior_variance": 0.33879,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.9125,
+      "prior_variance": 0.31649,
+      "prior_n": 6
+    }
+  ]
+}

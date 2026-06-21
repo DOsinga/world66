@@ -1,0 +1,200 @@
+{
+  "round": 624,
+  "timestamp": "2026-06-13T19:45:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 9.1201,
+      "prior_variance": 0.975812,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ruaha National Park",
+      "path": "africa/tanzania/ruaha_national_park",
+      "prior_score": 9.3517,
+      "prior_variance": 0.913279,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 9.1401,
+      "prior_variance": 0.876899,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Iriomote Island",
+      "path": "asia/japan/ryukyuislands/iriomoteisland",
+      "prior_score": 6.3582,
+      "prior_variance": 0.821721,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 10.0155,
+      "prior_variance": 1.060241,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 6.9916,
+      "prior_variance": 1.055419,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 7.3527,
+      "prior_variance": 1.083993,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 10.0129,
+      "prior_variance": 0.934469,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Angers",
+      "path": "europe/france/centre/loirevalley/angers",
+      "prior_score": 4.4358,
+      "prior_variance": 1.117515,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 7.0907,
+      "prior_variance": 1.300438,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 8.2117,
+      "prior_variance": 1.996263,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 7.1997,
+      "prior_variance": 1.298639,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 5.1273,
+      "prior_variance": 1.013988,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sleeping Bear Dunes National Lakeshore",
+      "path": "northamerica/unitedstates/michigan/sleepingbear",
+      "prior_score": 4.8273,
+      "prior_variance": 0.702586,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 8.7058,
+      "prior_variance": 1.758445,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 4.673,
+      "prior_variance": 0.787481,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 6.0783,
+      "prior_variance": 1.827412,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 5.6983,
+      "prior_variance": 0.954096,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_score": 8.9359,
+      "prior_variance": 1.750068,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 6.1307,
+      "prior_variance": 0.712593,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Astorga",
+      "path": "europe/spain/northernspain/astorga",
+      "prior_score": 4.5703,
+      "prior_variance": 1.380906,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Borca di Cadore",
+      "path": "europe/italy/veneto/borca_di_cadore",
+      "prior_score": 4.0619,
+      "prior_variance": 0.738698,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 4.0493,
+      "prior_variance": 1.217018,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": 2.7307,
+      "prior_variance": 1.355277,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 840,
+  "timestamp": "2026-06-13T19:56:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 0.8203,
+      "prior_variance": 0.67484,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.5043,
+      "prior_variance": 0.738643,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": -1.6812,
+      "prior_variance": 0.531812,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": 0.3317,
+      "prior_variance": 0.789116,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 0.9921,
+      "prior_variance": 0.665177,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": -0.578,
+      "prior_variance": 0.414571,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": 1.1516,
+      "prior_variance": 0.673349,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -1.9983,
+      "prior_variance": 0.81885,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Qionghai",
+      "path": "asia/china/hainanisland/qionghai",
+      "prior_score": -0.6343,
+      "prior_variance": 0.500632,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": -0.007,
+      "prior_variance": 0.822397,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Abingdon",
+      "path": "europe/unitedkingdom/england/south_east/abingdon",
+      "prior_score": -0.553,
+      "prior_variance": 0.715856,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.9694,
+      "prior_variance": 0.637655,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.6982,
+      "prior_variance": 0.650118,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.0853,
+      "prior_variance": 0.667212,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.2937,
+      "prior_variance": 0.455466,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -0.5975,
+      "prior_variance": 0.634891,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.3501,
+      "prior_variance": 0.603314,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.5596,
+      "prior_variance": 0.669815,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": 0.547,
+      "prior_variance": 0.673165,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": 0.0205,
+      "prior_variance": 0.499311,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.8285,
+      "prior_variance": 0.886518,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -0.3211,
+      "prior_variance": 0.48206,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -0.9529,
+      "prior_variance": 0.601532,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.3531,
+      "prior_variance": 0.698098,
+      "prior_n": 2
+    }
+  ]
+}

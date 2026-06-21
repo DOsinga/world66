@@ -1,0 +1,200 @@
+{
+  "round": 2753,
+  "timestamp": "2026-06-13T22:04:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 8.631,
+      "prior_variance": 0.202986,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 8.5087,
+      "prior_variance": 0.487954,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 3.4449,
+      "prior_variance": 0.211435,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 4.2019,
+      "prior_variance": 0.159157,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.8846,
+      "prior_variance": 0.169258,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 2.7225,
+      "prior_variance": 0.138307,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 0.6074,
+      "prior_variance": 0.16588,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 3.3725,
+      "prior_variance": 0.151369,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.3076,
+      "prior_variance": 0.139861,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.7217,
+      "prior_variance": 0.154288,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.841,
+      "prior_variance": 0.15035,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 2.1128,
+      "prior_variance": 0.175664,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 0.735,
+      "prior_variance": 0.192408,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 1.2278,
+      "prior_variance": 0.172968,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.5675,
+      "prior_variance": 0.142865,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -0.3222,
+      "prior_variance": 0.175219,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": -0.4948,
+      "prior_variance": 0.197142,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": -0.9953,
+      "prior_variance": 0.136166,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "M\u00e9rida",
+      "path": "southamerica/venezuela/merida",
+      "prior_score": -0.697,
+      "prior_variance": 0.157579,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.3532,
+      "prior_variance": 0.168135,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.6392,
+      "prior_variance": 0.140465,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.527,
+      "prior_variance": 0.153067,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -4.165,
+      "prior_variance": 0.16287,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.5784,
+      "prior_variance": 0.181255,
+      "prior_n": 8
+    }
+  ]
+}

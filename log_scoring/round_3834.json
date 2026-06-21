@@ -1,0 +1,200 @@
+{
+  "round": 3834,
+  "timestamp": "2026-06-13T23:23:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 8.2158,
+      "prior_variance": 0.218666,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_score": 5.4394,
+      "prior_variance": 0.189035,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 3.5713,
+      "prior_variance": 0.136181,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 2.1753,
+      "prior_variance": 0.10356,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.8461,
+      "prior_variance": 0.138834,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.9749,
+      "prior_variance": 0.109911,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -0.3979,
+      "prior_variance": 0.101282,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": 0.1811,
+      "prior_variance": 0.092177,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": -0.8949,
+      "prior_variance": 0.131613,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.6129,
+      "prior_variance": 0.125761,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 2.9733,
+      "prior_variance": 0.105698,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.5596,
+      "prior_variance": 0.13411,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 1.2584,
+      "prior_variance": 0.104086,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.0633,
+      "prior_variance": 0.12457,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.6919,
+      "prior_variance": 0.105486,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 1.8207,
+      "prior_variance": 0.097484,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": -1.4407,
+      "prior_variance": 0.121476,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.1044,
+      "prior_variance": 0.102415,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Soutomaior",
+      "path": "europe/spain/galicia/soutomaior",
+      "prior_score": -1.8025,
+      "prior_variance": 0.111561,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -1.5612,
+      "prior_variance": 0.101193,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": 0.1619,
+      "prior_variance": 0.102592,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -1.9839,
+      "prior_variance": 0.112131,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Gonbad-e Kavus",
+      "path": "asia/iran/gonbad_kavous",
+      "prior_score": -3.3168,
+      "prior_variance": 0.104163,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -0.5918,
+      "prior_variance": 0.112593,
+      "prior_n": 13
+    }
+  ]
+}

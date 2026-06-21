@@ -1,0 +1,200 @@
+{
+  "round": 1856,
+  "timestamp": "2026-06-13T20:57:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 7.9057,
+      "prior_variance": 0.294025,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 6.5596,
+      "prior_variance": 0.29517,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 7.0002,
+      "prior_variance": 0.304094,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 6.8611,
+      "prior_variance": 0.28094,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 7.7846,
+      "prior_variance": 0.321935,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Braga",
+      "path": "europe/portugal/braga",
+      "prior_score": 5.1,
+      "prior_variance": 0.242878,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 5.0908,
+      "prior_variance": 0.260329,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 4.5671,
+      "prior_variance": 0.288909,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 3.8085,
+      "prior_variance": 0.277854,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Besan\u00e7on",
+      "path": "europe/france/east/franchecomte/besancon",
+      "prior_score": 2.4647,
+      "prior_variance": 0.210951,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Malibu",
+      "path": "northamerica/unitedstates/california/malibu",
+      "prior_score": 4.2569,
+      "prior_variance": 0.236098,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.9782,
+      "prior_variance": 0.255183,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Thurgau",
+      "path": "europe/switzerland/thurgau",
+      "prior_score": 1.3943,
+      "prior_variance": 0.210653,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.067,
+      "prior_variance": 0.235882,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ngapali",
+      "path": "asia/myanmar/ngapali",
+      "prior_score": 1.5413,
+      "prior_variance": 0.300307,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 2.5128,
+      "prior_variance": 0.257912,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.3664,
+      "prior_variance": 0.226408,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.0825,
+      "prior_variance": 0.298319,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.7299,
+      "prior_variance": 0.255618,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -2.2637,
+      "prior_variance": 0.259858,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -6.1688,
+      "prior_variance": 0.265889,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Rainbow",
+      "path": "australiaandpacific/australia/victoria/rainbow",
+      "prior_score": -5.9391,
+      "prior_variance": 0.245024,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -6.5316,
+      "prior_variance": 0.303062,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jefren",
+      "path": "africa/libya/jefren",
+      "prior_score": -9.3254,
+      "prior_variance": 0.362769,
+      "prior_n": 5
+    }
+  ]
+}

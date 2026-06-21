@@ -1,0 +1,200 @@
+{
+  "round": 1882,
+  "timestamp": "2026-06-13T20:58:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Darjeeling",
+      "path": "asia/india/westbengal/darjeeling",
+      "prior_score": 6.0295,
+      "prior_variance": 0.237779,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 5.2088,
+      "prior_variance": 0.218659,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Quanzhou",
+      "path": "asia/china/fujianprovince/quanzhou",
+      "prior_score": 0.0249,
+      "prior_variance": 0.206249,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.6849,
+      "prior_variance": 0.243236,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -3.2475,
+      "prior_variance": 0.232635,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.4833,
+      "prior_variance": 0.224017,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -3.7605,
+      "prior_variance": 0.212917,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -4.5598,
+      "prior_variance": 0.363465,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -4.954,
+      "prior_variance": 0.282399,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -3.841,
+      "prior_variance": 0.22369,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -4.8976,
+      "prior_variance": 0.24328,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -1.037,
+      "prior_variance": 0.226717,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -5.3001,
+      "prior_variance": 0.215836,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.8085,
+      "prior_variance": 0.3459,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/newyorkstate/carmel",
+      "prior_score": -4.8512,
+      "prior_variance": 0.229837,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -5.1095,
+      "prior_variance": 0.264885,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -5.1899,
+      "prior_variance": 0.29946,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -4.0918,
+      "prior_variance": 0.250068,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_score": -4.4548,
+      "prior_variance": 0.213103,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -5.0852,
+      "prior_variance": 0.361536,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ada",
+      "path": "northamerica/unitedstates/oklahoma/ada",
+      "prior_score": -5.6777,
+      "prior_variance": 0.210993,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.2157,
+      "prior_variance": 0.276794,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -4.8695,
+      "prior_variance": 0.25877,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -6.1615,
+      "prior_variance": 0.237283,
+      "prior_n": 6
+    }
+  ]
+}

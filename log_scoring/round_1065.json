@@ -1,0 +1,200 @@
+{
+  "round": 1065,
+  "timestamp": "2026-06-13T20:09:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/burbank",
+      "prior_score": -5.3689,
+      "prior_variance": 0.633648,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -6.9388,
+      "prior_variance": 1.083239,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Shreveport",
+      "path": "northamerica/unitedstates/louisiana/shreveport",
+      "prior_score": -6.5426,
+      "prior_variance": 0.565302,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -5.9092,
+      "prior_variance": 0.607928,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_score": -4.6498,
+      "prior_variance": 0.426264,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -5.9955,
+      "prior_variance": 0.531858,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Changzhou",
+      "path": "asia/china/jiangsu_province/changzhou",
+      "prior_score": -5.9021,
+      "prior_variance": 0.572781,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -7.057,
+      "prior_variance": 0.523093,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": -6.1176,
+      "prior_variance": 0.34425,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -5.5735,
+      "prior_variance": 0.410764,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop",
+      "prior_score": -7.8271,
+      "prior_variance": 0.434646,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -5.5224,
+      "prior_variance": 0.412343,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -6.3426,
+      "prior_variance": 0.480433,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -6.0865,
+      "prior_variance": 0.416062,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -7.2461,
+      "prior_variance": 0.607236,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -7.4196,
+      "prior_variance": 0.466062,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -6.2535,
+      "prior_variance": 0.501287,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -4.7722,
+      "prior_variance": 0.42045,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Parakou",
+      "path": "africa/benin/parakou",
+      "prior_score": -7.4619,
+      "prior_variance": 0.419098,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Setif",
+      "path": "africa/algeria/setif",
+      "prior_score": -5.4657,
+      "prior_variance": 0.469527,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Yarkand",
+      "path": "asia/china/xinjiangprovince/yarkand",
+      "prior_score": -6.1208,
+      "prior_variance": 0.407551,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -8.7955,
+      "prior_variance": 0.563296,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -7.3101,
+      "prior_variance": 0.481591,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -8.8476,
+      "prior_variance": 0.868998,
+      "prior_n": 3
+    }
+  ]
+}

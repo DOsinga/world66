@@ -1,0 +1,200 @@
+{
+  "round": 1472,
+  "timestamp": "2026-06-13T20:32:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Budapest",
+      "path": "europe/hungary/budapest",
+      "prior_score": 12.6897,
+      "prior_variance": 0.43181,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.8374,
+      "prior_variance": 0.354797,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 5.2593,
+      "prior_variance": 0.331595,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 3.7819,
+      "prior_variance": 0.331603,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": -1.1408,
+      "prior_variance": 0.433095,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 4.1555,
+      "prior_variance": 0.331168,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 4.1874,
+      "prior_variance": 0.291852,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 4.7179,
+      "prior_variance": 0.367604,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.7543,
+      "prior_variance": 0.417922,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.32,
+      "prior_variance": 0.347018,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Papallacta",
+      "path": "southamerica/ecuador/papallacta",
+      "prior_score": 2.0736,
+      "prior_variance": 0.309253,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 1.8783,
+      "prior_variance": 0.313369,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Isle Royale",
+      "path": "northamerica/unitedstates/michigan/isle_royale",
+      "prior_score": 3.156,
+      "prior_variance": 0.325047,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.1612,
+      "prior_variance": 0.353381,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": -0.5148,
+      "prior_variance": 0.419649,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.8699,
+      "prior_variance": 0.291113,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.5764,
+      "prior_variance": 0.308533,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -1.9181,
+      "prior_variance": 0.279371,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.4948,
+      "prior_variance": 0.368397,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": -0.5483,
+      "prior_variance": 0.387356,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": 0.2407,
+      "prior_variance": 0.311453,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -3.3816,
+      "prior_variance": 0.449013,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -3.6036,
+      "prior_variance": 0.376316,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -7.9884,
+      "prior_variance": 0.416094,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1640,
+  "timestamp": "2026-06-13T20:43:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.9635,
+      "prior_variance": 0.438221,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 5.2996,
+      "prior_variance": 0.361242,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 5.6886,
+      "prior_variance": 0.507487,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.7453,
+      "prior_variance": 0.26587,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 4.3807,
+      "prior_variance": 0.259526,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.3934,
+      "prior_variance": 0.254645,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "S\u0103p\u00e2n\u021ba",
+      "path": "europe/romania/sapinta",
+      "prior_score": 0.422,
+      "prior_variance": 0.262598,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 0.9414,
+      "prior_variance": 0.338669,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.2022,
+      "prior_variance": 0.27644,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 1.7756,
+      "prior_variance": 0.277557,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.0943,
+      "prior_variance": 0.252196,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.5375,
+      "prior_variance": 0.251322,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": -0.1995,
+      "prior_variance": 0.244357,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Huy",
+      "path": "europe/belgium/huy",
+      "prior_score": -1.3899,
+      "prior_variance": 0.269902,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": -0.56,
+      "prior_variance": 0.277548,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.1463,
+      "prior_variance": 0.247793,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Szczecin",
+      "path": "europe/poland/szczecin",
+      "prior_score": -0.884,
+      "prior_variance": 0.252096,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -1.9845,
+      "prior_variance": 0.285042,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Wanning",
+      "path": "asia/china/hainanisland/wanning",
+      "prior_score": -1.608,
+      "prior_variance": 0.253808,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.619,
+      "prior_variance": 0.312312,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -4.02,
+      "prior_variance": 0.416453,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -3.1519,
+      "prior_variance": 0.337825,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -6.0516,
+      "prior_variance": 0.303692,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -7.3249,
+      "prior_variance": 0.534307,
+      "prior_n": 5
+    }
+  ]
+}

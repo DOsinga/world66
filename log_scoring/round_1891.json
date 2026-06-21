@@ -1,0 +1,200 @@
+{
+  "round": 1891,
+  "timestamp": "2026-06-13T20:59:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.9442,
+      "prior_variance": 0.269707,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 0.9931,
+      "prior_variance": 0.248534,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 3.2742,
+      "prior_variance": 0.233003,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 0.9148,
+      "prior_variance": 0.254776,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.1888,
+      "prior_variance": 0.287562,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -2.7325,
+      "prior_variance": 0.214607,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.7641,
+      "prior_variance": 0.208945,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_score": -2.8566,
+      "prior_variance": 0.203535,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": 0.5464,
+      "prior_variance": 0.211057,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.4061,
+      "prior_variance": 0.226671,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -0.3408,
+      "prior_variance": 0.300437,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -1.6393,
+      "prior_variance": 0.201068,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.5976,
+      "prior_variance": 0.191643,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -3.3929,
+      "prior_variance": 0.241327,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -3.8747,
+      "prior_variance": 0.273281,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/california/saratoga",
+      "prior_score": -1.5794,
+      "prior_variance": 0.214756,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/kenilworth",
+      "prior_score": 1.1275,
+      "prior_variance": 0.239838,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -3.7027,
+      "prior_variance": 0.296238,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.7867,
+      "prior_variance": 0.197957,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -3.4512,
+      "prior_variance": 0.22442,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.9772,
+      "prior_variance": 0.243958,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -4.3444,
+      "prior_variance": 0.262814,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Tepelena",
+      "path": "europe/albania/tepelene",
+      "prior_score": -2.7699,
+      "prior_variance": 0.245442,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -4.3986,
+      "prior_variance": 0.291688,
+      "prior_n": 6
+    }
+  ]
+}

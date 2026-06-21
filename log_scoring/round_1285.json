@@ -1,0 +1,200 @@
+{
+  "round": 1285,
+  "timestamp": "2026-06-13T20:21:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 15.124,
+      "prior_variance": 1.435622,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 7.6104,
+      "prior_variance": 0.373725,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 4.1067,
+      "prior_variance": 0.400555,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Baden bei Wien",
+      "path": "europe/austria/baden",
+      "prior_score": 0.6853,
+      "prior_variance": 0.472072,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 1.0775,
+      "prior_variance": 0.452878,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -2.3059,
+      "prior_variance": 0.569567,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": -0.1794,
+      "prior_variance": 0.40679,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.1733,
+      "prior_variance": 0.305832,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -1.309,
+      "prior_variance": 0.328705,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.8545,
+      "prior_variance": 0.301523,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.2173,
+      "prior_variance": 0.308486,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": 1.9706,
+      "prior_variance": 0.322714,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nzulezu",
+      "path": "africa/ghana/mzulezu",
+      "prior_score": -0.3183,
+      "prior_variance": 0.318963,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -0.4522,
+      "prior_variance": 0.327137,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -1.1918,
+      "prior_variance": 0.348028,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.8055,
+      "prior_variance": 0.355012,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -3.0114,
+      "prior_variance": 0.32957,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -0.9082,
+      "prior_variance": 0.327397,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -2.2892,
+      "prior_variance": 0.634309,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -3.1612,
+      "prior_variance": 0.359475,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -7.3684,
+      "prior_variance": 0.389589,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -5.8641,
+      "prior_variance": 0.414259,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -6.4455,
+      "prior_variance": 0.309126,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Aleppo",
+      "path": "asia/syria/aleppo",
+      "prior_score": -16.7988,
+      "prior_variance": 1.096854,
+      "prior_n": 3
+    }
+  ]
+}

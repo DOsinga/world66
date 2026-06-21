@@ -1,0 +1,200 @@
+{
+  "round": 3469,
+  "timestamp": "2026-06-13T22:56:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Anchorage",
+      "path": "northamerica/unitedstates/alaska/anchorage",
+      "prior_score": 2.7971,
+      "prior_variance": 0.126614,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 3.2464,
+      "prior_variance": 0.141801,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 4.2315,
+      "prior_variance": 0.146501,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.5105,
+      "prior_variance": 0.163204,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Gudauri",
+      "path": "europe/georgia/gudauri",
+      "prior_score": 3.0556,
+      "prior_variance": 0.131146,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.8555,
+      "prior_variance": 0.107217,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 0.9542,
+      "prior_variance": 0.128785,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.1611,
+      "prior_variance": 0.116378,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 0.8158,
+      "prior_variance": 0.125938,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.3697,
+      "prior_variance": 0.123051,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 2.2604,
+      "prior_variance": 0.142485,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.7701,
+      "prior_variance": 0.130394,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Fort Worth",
+      "path": "northamerica/unitedstates/texas/fort_worth",
+      "prior_score": -0.6856,
+      "prior_variance": 0.118498,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 0.6364,
+      "prior_variance": 0.119354,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": -0.1687,
+      "prior_variance": 0.206333,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Newcastle",
+      "path": "australiaandpacific/australia/newsouthwales/newcastle",
+      "prior_score": -0.9995,
+      "prior_variance": 0.122944,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Sig\u00fcenza",
+      "path": "europe/spain/la_mancha/siguenza",
+      "prior_score": 0.6462,
+      "prior_variance": 0.113028,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": -0.0255,
+      "prior_variance": 0.123026,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.7752,
+      "prior_variance": 0.104882,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -1.0443,
+      "prior_variance": 0.12683,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.3742,
+      "prior_variance": 0.121413,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -0.7186,
+      "prior_variance": 0.119784,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -2.7134,
+      "prior_variance": 0.143291,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": -1.1742,
+      "prior_variance": 0.11869,
+      "prior_n": 11
+    }
+  ]
+}

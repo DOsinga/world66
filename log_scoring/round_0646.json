@@ -1,0 +1,200 @@
+{
+  "round": 646,
+  "timestamp": "2026-06-13T19:46:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -8.3678,
+      "prior_variance": 1.490549,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -11.2025,
+      "prior_variance": 1.70571,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -12.4629,
+      "prior_variance": 0.641504,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Depok",
+      "path": "asia/indonesia/java/depok",
+      "prior_score": -12.5864,
+      "prior_variance": 0.745792,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -12.3617,
+      "prior_variance": 0.797549,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mazar-i-Sharif",
+      "path": "asia/afghanistan/mazarisharif",
+      "prior_score": -15.5963,
+      "prior_variance": 6.666168,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -12.1515,
+      "prior_variance": 1.599592,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Conakry",
+      "path": "africa/guineeconakry/conakry",
+      "prior_score": -13.8998,
+      "prior_variance": 1.517492,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -14.5579,
+      "prior_variance": 4.367198,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -10.5081,
+      "prior_variance": 2.439978,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Zarafshan",
+      "path": "asia/uzbekistan/zarafshan",
+      "prior_score": -12.8267,
+      "prior_variance": 1.98863,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cherchen",
+      "path": "asia/china/xinjiangprovince/cherchen",
+      "prior_score": -12.1699,
+      "prior_variance": 2.273584,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -15.0181,
+      "prior_variance": 2.086752,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/south_east/crawley",
+      "prior_score": -13.3508,
+      "prior_variance": 2.565001,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -10.7754,
+      "prior_variance": 2.222117,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -12.4166,
+      "prior_variance": 2.075722,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -14.3159,
+      "prior_variance": 2.131351,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -15.4706,
+      "prior_variance": 2.926122,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -17.2193,
+      "prior_variance": 5.976465,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -11.2264,
+      "prior_variance": 1.772508,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -12.8213,
+      "prior_variance": 0.865508,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -17.3806,
+      "prior_variance": 5.944287,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -17.5248,
+      "prior_variance": 3.048032,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Massoulo",
+      "path": "africa/angola/massoulo",
+      "prior_score": -16.8069,
+      "prior_variance": 6.608565,
+      "prior_n": 2
+    }
+  ]
+}

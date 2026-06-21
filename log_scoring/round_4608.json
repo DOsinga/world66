@@ -1,0 +1,200 @@
+{
+  "round": 4608,
+  "timestamp": "2026-06-14T00:26:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 6.4986,
+      "prior_variance": 0.122351,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 7.6421,
+      "prior_variance": 0.144389,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 5.0491,
+      "prior_variance": 0.109364,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 5.5763,
+      "prior_variance": 0.121772,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 6.6363,
+      "prior_variance": 0.10655,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 7.2157,
+      "prior_variance": 0.11436,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 3.2331,
+      "prior_variance": 0.148347,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Gili Meno",
+      "path": "asia/indonesia/lombok/giliislands/gili_meno",
+      "prior_score": 4.5746,
+      "prior_variance": 0.098634,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 4.2983,
+      "prior_variance": 0.106438,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 4.3767,
+      "prior_variance": 0.093634,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 6.8744,
+      "prior_variance": 0.11072,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.1779,
+      "prior_variance": 0.103429,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.7084,
+      "prior_variance": 0.103236,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 6.1925,
+      "prior_variance": 0.128599,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 3.666,
+      "prior_variance": 0.135381,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.047,
+      "prior_variance": 0.101506,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Quer\u00e9taro",
+      "path": "northamerica/mexico/queretaro",
+      "prior_score": 3.3694,
+      "prior_variance": 0.108648,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Malia",
+      "path": "europe/greece/crete/malia",
+      "prior_score": 1.9488,
+      "prior_variance": 0.110648,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": 0.2273,
+      "prior_variance": 0.094088,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.5167,
+      "prior_variance": 0.103762,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.4471,
+      "prior_variance": 0.093837,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.8738,
+      "prior_variance": 0.078356,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -1.1231,
+      "prior_variance": 0.089087,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -7.0826,
+      "prior_variance": 0.131096,
+      "prior_n": 14
+    }
+  ]
+}

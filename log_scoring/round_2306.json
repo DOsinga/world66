@@ -1,0 +1,200 @@
+{
+  "round": 2306,
+  "timestamp": "2026-06-13T21:32:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ile d'Oleron",
+      "path": "europe/france/aquitaine/iledoleron",
+      "prior_score": 3.3364,
+      "prior_variance": 0.18748,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -0.6234,
+      "prior_variance": 0.20026,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -0.6044,
+      "prior_variance": 0.206291,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.2022,
+      "prior_variance": 0.214423,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.6824,
+      "prior_variance": 0.178591,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.5273,
+      "prior_variance": 0.169739,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.715,
+      "prior_variance": 0.18386,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Portsmouth",
+      "path": "europe/unitedkingdom/england/south_east/portsmouth",
+      "prior_score": -0.1373,
+      "prior_variance": 0.186372,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -1.2665,
+      "prior_variance": 0.162702,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -2.3707,
+      "prior_variance": 0.268644,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -0.4605,
+      "prior_variance": 0.212963,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -1.1709,
+      "prior_variance": 0.192562,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.3988,
+      "prior_variance": 0.155794,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -1.9438,
+      "prior_variance": 0.176775,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -2.7268,
+      "prior_variance": 0.194785,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -3.2324,
+      "prior_variance": 0.174213,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Makati",
+      "path": "asia/philippines/makati",
+      "prior_score": -2.1754,
+      "prior_variance": 0.162059,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.0516,
+      "prior_variance": 0.193633,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -2.1461,
+      "prior_variance": 0.190961,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.9022,
+      "prior_variance": 0.209861,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.2267,
+      "prior_variance": 0.189215,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -2.3574,
+      "prior_variance": 0.196907,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Shangluo",
+      "path": "asia/china/shaanxi/shangluo",
+      "prior_score": -4.9406,
+      "prior_variance": 0.202078,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -0.3284,
+      "prior_variance": 0.177187,
+      "prior_n": 7
+    }
+  ]
+}

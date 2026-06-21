@@ -1,0 +1,200 @@
+{
+  "round": 2082,
+  "timestamp": "2026-06-13T21:17:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sydney",
+      "path": "australiaandpacific/australia/newsouthwales/sydney",
+      "prior_score": 14.2271,
+      "prior_variance": 1.006632,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Siem Reap",
+      "path": "asia/cambodia/siemreap",
+      "prior_score": 10.3563,
+      "prior_variance": 0.597119,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.2757,
+      "prior_variance": 0.25515,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 7.1015,
+      "prior_variance": 0.328459,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 7.0813,
+      "prior_variance": 0.297531,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 5.3814,
+      "prior_variance": 0.253194,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.0692,
+      "prior_variance": 0.225287,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 4.4585,
+      "prior_variance": 0.220184,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 8.156,
+      "prior_variance": 0.333984,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.4295,
+      "prior_variance": 0.270158,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 4.0941,
+      "prior_variance": 0.299432,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.471,
+      "prior_variance": 0.220309,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 3.6271,
+      "prior_variance": 0.224533,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 1.7565,
+      "prior_variance": 0.214871,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": -0.2779,
+      "prior_variance": 0.238328,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 1.3061,
+      "prior_variance": 0.221928,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.0142,
+      "prior_variance": 0.201607,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.8399,
+      "prior_variance": 0.236053,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -6.7126,
+      "prior_variance": 0.273902,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -5.642,
+      "prior_variance": 0.22674,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Runyenjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -6.1331,
+      "prior_variance": 0.221705,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -8.8035,
+      "prior_variance": 0.35798,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Midland",
+      "path": "northamerica/unitedstates/texas/midland",
+      "prior_score": -5.6498,
+      "prior_variance": 0.267123,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.5761,
+      "prior_variance": 0.346185,
+      "prior_n": 6
+    }
+  ]
+}

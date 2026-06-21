@@ -1,0 +1,200 @@
+{
+  "round": 1116,
+  "timestamp": "2026-06-13T20:12:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 7.7791,
+      "prior_variance": 0.429879,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 9.5796,
+      "prior_variance": 0.70401,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "F\u00fcssen",
+      "path": "europe/germany/bavaria/fussen",
+      "prior_score": 10.4352,
+      "prior_variance": 0.564898,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 9.5936,
+      "prior_variance": 0.680716,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 8.7749,
+      "prior_variance": 0.499287,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 9.293,
+      "prior_variance": 0.452291,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 8.4425,
+      "prior_variance": 0.547448,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 6.2708,
+      "prior_variance": 0.626322,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 9.474,
+      "prior_variance": 0.493554,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 11.1981,
+      "prior_variance": 0.599412,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 8.449,
+      "prior_variance": 0.515675,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 7.2615,
+      "prior_variance": 0.545724,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 5.5935,
+      "prior_variance": 0.44617,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 6.9742,
+      "prior_variance": 0.666372,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 8.6979,
+      "prior_variance": 0.387375,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 9.1457,
+      "prior_variance": 0.597593,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 9.1149,
+      "prior_variance": 0.523634,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 7.8843,
+      "prior_variance": 0.389682,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 8.0511,
+      "prior_variance": 0.51165,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 9.1629,
+      "prior_variance": 0.508605,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 8.2934,
+      "prior_variance": 0.484182,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Trapani",
+      "path": "europe/italy/sicily/trapani",
+      "prior_score": 7.7197,
+      "prior_variance": 0.473427,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Puno",
+      "path": "southamerica/peru/laketiticacaarea/puno",
+      "prior_score": 8.005,
+      "prior_variance": 0.634758,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 7.2259,
+      "prior_variance": 0.640631,
+      "prior_n": 3
+    }
+  ]
+}

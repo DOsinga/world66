@@ -1,0 +1,200 @@
+{
+  "round": 1332,
+  "timestamp": "2026-06-13T20:24:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zhangjiajie",
+      "path": "asia/china/hunan/zhangjiajie",
+      "prior_score": 10.2417,
+      "prior_variance": 0.530812,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 5.4315,
+      "prior_variance": 0.520266,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 5.5826,
+      "prior_variance": 0.421645,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 3.0897,
+      "prior_variance": 0.324784,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 6.6534,
+      "prior_variance": 0.318842,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 0.609,
+      "prior_variance": 0.390674,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": 0.2977,
+      "prior_variance": 0.314879,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": 0.2926,
+      "prior_variance": 0.377997,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Magdeburg",
+      "path": "europe/germany/saxonyanhalt/magdeburg",
+      "prior_score": -1.3608,
+      "prior_variance": 0.352107,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Piatra Neam\u021b",
+      "path": "europe/romania/piatraneamt",
+      "prior_score": -0.1177,
+      "prior_variance": 0.31421,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -3.5881,
+      "prior_variance": 0.307323,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -2.8119,
+      "prior_variance": 0.36832,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -3.3356,
+      "prior_variance": 0.304401,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.3532,
+      "prior_variance": 0.443562,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -3.4498,
+      "prior_variance": 0.327165,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.8081,
+      "prior_variance": 0.310288,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -4.4285,
+      "prior_variance": 0.302739,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.7932,
+      "prior_variance": 0.310317,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.5162,
+      "prior_variance": 0.409261,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -5.8904,
+      "prior_variance": 0.343971,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -6.7719,
+      "prior_variance": 0.397505,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -5.8894,
+      "prior_variance": 0.362877,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -5.6317,
+      "prior_variance": 0.469459,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.277,
+      "prior_variance": 0.427869,
+      "prior_n": 5
+    }
+  ]
+}

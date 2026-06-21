@@ -1,0 +1,200 @@
+{
+  "round": 433,
+  "timestamp": "2026-06-13T19:35:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 5.1943,
+      "prior_variance": 1.732514,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 2.7267,
+      "prior_variance": 2.021255,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 3.6893,
+      "prior_variance": 1.551729,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 3.3824,
+      "prior_variance": 1.883343,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 1.7742,
+      "prior_variance": 1.601286,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 5.6396,
+      "prior_variance": 2.587141,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 2.4634,
+      "prior_variance": 1.441739,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 0.2731,
+      "prior_variance": 2.075589,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": -1.8327,
+      "prior_variance": 1.927676,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 3.9142,
+      "prior_variance": 1.93079,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": -2.3237,
+      "prior_variance": 1.961683,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": 0.9213,
+      "prior_variance": 1.675443,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 2.7855,
+      "prior_variance": 1.703314,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 3.3372,
+      "prior_variance": 2.58561,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Pinar del R\u00edo",
+      "path": "northamerica/thecaribbean/cuba/pinardelrio",
+      "prior_score": 1.8963,
+      "prior_variance": 1.499015,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Taierzhuang",
+      "path": "asia/china/shandong_province/taierzhuang",
+      "prior_score": 0.1,
+      "prior_variance": 1.329676,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -1.4833,
+      "prior_variance": 1.586627,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": 0.1602,
+      "prior_variance": 1.548423,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": 1.34,
+      "prior_variance": 1.475879,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": 1.2818,
+      "prior_variance": 1.708243,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": 0.392,
+      "prior_variance": 1.460835,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.8937,
+      "prior_variance": 2.116344,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -2.187,
+      "prior_variance": 1.974766,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ganish",
+      "path": "asia/pakistan/hunzavalley/ganish",
+      "prior_score": 4.0068,
+      "prior_variance": 1.623267,
+      "prior_n": 1
+    }
+  ]
+}

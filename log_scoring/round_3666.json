@@ -1,0 +1,200 @@
+{
+  "round": 3666,
+  "timestamp": "2026-06-13T23:11:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 9.592,
+      "prior_variance": 0.231283,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 10.2665,
+      "prior_variance": 0.282007,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 7.5443,
+      "prior_variance": 0.210348,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 3.5635,
+      "prior_variance": 0.125801,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 8.0625,
+      "prior_variance": 0.161867,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.5039,
+      "prior_variance": 0.122831,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 5.8524,
+      "prior_variance": 0.150898,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Kunming",
+      "path": "asia/china/yunnanprovince/kunming",
+      "prior_score": 2.5699,
+      "prior_variance": 0.117621,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.5444,
+      "prior_variance": 0.134507,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.6138,
+      "prior_variance": 0.156009,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.9187,
+      "prior_variance": 0.115126,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.1831,
+      "prior_variance": 0.11554,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 2.2784,
+      "prior_variance": 0.108831,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Trieste",
+      "path": "europe/italy/friuliveneziagiulia/trieste",
+      "prior_score": 4.7643,
+      "prior_variance": 0.117999,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 1.9527,
+      "prior_variance": 0.131511,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 2.0286,
+      "prior_variance": 0.110605,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Mi\u00f0v\u00e1gur",
+      "path": "europe/faroeislands/vagar/mivgur",
+      "prior_score": 0.9873,
+      "prior_variance": 0.124497,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Belogradchik",
+      "path": "europe/bulgaria/belogradchik",
+      "prior_score": 0.7601,
+      "prior_variance": 0.126378,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.9904,
+      "prior_variance": 0.125982,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "S\u00e3o Lu\u00eds",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 1.1783,
+      "prior_variance": 0.116054,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.6979,
+      "prior_variance": 0.127381,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -0.5562,
+      "prior_variance": 0.136873,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.4137,
+      "prior_variance": 0.120964,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Rensselaer",
+      "path": "northamerica/unitedstates/indiana/rensselaer",
+      "prior_score": -5.5894,
+      "prior_variance": 0.160544,
+      "prior_n": 12
+    }
+  ]
+}

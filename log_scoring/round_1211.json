@@ -1,0 +1,200 @@
+{
+  "round": 1211,
+  "timestamp": "2026-06-13T20:17:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Iguazu Falls",
+      "path": "southamerica/argentina/iguazufalls",
+      "prior_score": 17.4967,
+      "prior_variance": 1.061087,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 12.0421,
+      "prior_variance": 1.006085,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Marrakesh",
+      "path": "africa/morocco/marrakesh",
+      "prior_score": 13.9434,
+      "prior_variance": 0.872542,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 11.3522,
+      "prior_variance": 1.308136,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 13.4569,
+      "prior_variance": 0.729642,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chicago",
+      "path": "northamerica/unitedstates/illinois/chicago",
+      "prior_score": 11.062,
+      "prior_variance": 1.387244,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "St. Moritz",
+      "path": "europe/switzerland/stmoritz",
+      "prior_score": 11.2142,
+      "prior_variance": 0.647107,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 5.8761,
+      "prior_variance": 0.467779,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Usse",
+      "path": "europe/france/centre/loirevalley/usse",
+      "prior_score": 4.6564,
+      "prior_variance": 0.345006,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 7.6385,
+      "prior_variance": 0.539133,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo",
+      "prior_score": 1.1125,
+      "prior_variance": 0.3854,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -1.0377,
+      "prior_variance": 0.399033,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.9994,
+      "prior_variance": 0.393105,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -3.5169,
+      "prior_variance": 0.516223,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -3.1379,
+      "prior_variance": 0.403197,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Linxia",
+      "path": "asia/china/gansu/linxia",
+      "prior_score": -6.418,
+      "prior_variance": 0.402585,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -4.0467,
+      "prior_variance": 0.385898,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -9.0444,
+      "prior_variance": 0.548512,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -6.8955,
+      "prior_variance": 0.459015,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -4.8953,
+      "prior_variance": 0.410562,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -4.5117,
+      "prior_variance": 0.30063,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Chieti",
+      "path": "europe/italy/abruzzo/chieti",
+      "prior_score": -2.502,
+      "prior_variance": 0.386153,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -5.841,
+      "prior_variance": 0.952924,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Opelousas",
+      "path": "northamerica/unitedstates/louisiana/opelousas",
+      "prior_score": -4.8466,
+      "prior_variance": 0.497013,
+      "prior_n": 3
+    }
+  ]
+}

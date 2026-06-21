@@ -1,0 +1,200 @@
+{
+  "round": 3214,
+  "timestamp": "2026-06-13T22:37:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jerusalem",
+      "path": "asia/israel/jerusalem",
+      "prior_score": 11.92,
+      "prior_variance": 0.346998,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Madrid",
+      "path": "europe/spain/madrid",
+      "prior_score": 7.599,
+      "prior_variance": 0.222247,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 10.3111,
+      "prior_variance": 0.314888,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Strasbourg",
+      "path": "europe/france/east/alsace/strasbourg",
+      "prior_score": 8.5619,
+      "prior_variance": 0.227282,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 7.5515,
+      "prior_variance": 0.238548,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 8.1702,
+      "prior_variance": 0.236665,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 5.025,
+      "prior_variance": 0.178898,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.2705,
+      "prior_variance": 0.164085,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 4.2497,
+      "prior_variance": 0.146964,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 4.1074,
+      "prior_variance": 0.199018,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 6.5858,
+      "prior_variance": 0.181423,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": -0.175,
+      "prior_variance": 0.134726,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -0.8748,
+      "prior_variance": 0.145355,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.05,
+      "prior_variance": 0.126392,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -2.7194,
+      "prior_variance": 0.124173,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.3742,
+      "prior_variance": 0.120979,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.2934,
+      "prior_variance": 0.144556,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -3.017,
+      "prior_variance": 0.15465,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.6271,
+      "prior_variance": 0.174261,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -2.1274,
+      "prior_variance": 0.114379,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -4.1998,
+      "prior_variance": 0.135181,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -5.4199,
+      "prior_variance": 0.189232,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -3.9078,
+      "prior_variance": 0.205355,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.4149,
+      "prior_variance": 0.171427,
+      "prior_n": 10
+    }
+  ]
+}

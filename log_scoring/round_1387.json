@@ -1,0 +1,200 @@
+{
+  "round": 1387,
+  "timestamp": "2026-06-13T20:27:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 11.834,
+      "prior_variance": 0.426454,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 9.3928,
+      "prior_variance": 0.336462,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 8.8651,
+      "prior_variance": 0.459875,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 5.5408,
+      "prior_variance": 0.526778,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 4.6822,
+      "prior_variance": 0.32247,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Magaluf",
+      "path": "europe/spain/balearicislands/mallorca/magaluf",
+      "prior_score": -0.2064,
+      "prior_variance": 0.354461,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 4.0769,
+      "prior_variance": 0.329247,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Baliem Valley",
+      "path": "asia/indonesia/irianjaya/baliemvalley",
+      "prior_score": 0.9369,
+      "prior_variance": 0.372584,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -4.1113,
+      "prior_variance": 0.406904,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -3.6335,
+      "prior_variance": 0.381493,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 1.5298,
+      "prior_variance": 0.353551,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": -0.9988,
+      "prior_variance": 0.372633,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -2.5311,
+      "prior_variance": 0.320357,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.0783,
+      "prior_variance": 0.296658,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -3.2019,
+      "prior_variance": 0.356527,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.5266,
+      "prior_variance": 0.349309,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -4.4113,
+      "prior_variance": 0.426223,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Plattsburgh",
+      "path": "northamerica/unitedstates/newyorkstate/adirondacks/plattsburgh",
+      "prior_score": -2.9833,
+      "prior_variance": 0.389832,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.3865,
+      "prior_variance": 0.384181,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Guam\u00e1",
+      "path": "northamerica/thecaribbean/cuba/guama",
+      "prior_score": -3.2064,
+      "prior_variance": 0.399728,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -5.6647,
+      "prior_variance": 0.316049,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -3.6336,
+      "prior_variance": 0.331764,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -5.5129,
+      "prior_variance": 0.330221,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -11.3355,
+      "prior_variance": 0.418664,
+      "prior_n": 4
+    }
+  ]
+}

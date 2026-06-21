@@ -1,0 +1,200 @@
+{
+  "round": 1747,
+  "timestamp": "2026-06-13T20:49:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 7.7325,
+      "prior_variance": 0.330504,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Jost Van Dyke",
+      "path": "northamerica/britishvirginislands/jostvandyke",
+      "prior_score": 6.7493,
+      "prior_variance": 0.329747,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 7.123,
+      "prior_variance": 0.267053,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 5.5653,
+      "prior_variance": 0.281842,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 6.948,
+      "prior_variance": 0.351726,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 6.0833,
+      "prior_variance": 0.464841,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.9346,
+      "prior_variance": 0.288435,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 9.9907,
+      "prior_variance": 0.487133,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 1.4958,
+      "prior_variance": 0.22779,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.0174,
+      "prior_variance": 0.261648,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.8293,
+      "prior_variance": 0.263067,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -2.2144,
+      "prior_variance": 0.302027,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.4135,
+      "prior_variance": 0.234024,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jiuquan",
+      "path": "asia/china/gansu/jiuquan",
+      "prior_score": -4.1895,
+      "prior_variance": 0.361619,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.8917,
+      "prior_variance": 0.223278,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.2468,
+      "prior_variance": 0.273961,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Moron",
+      "path": "asia/mongolia/moron",
+      "prior_score": -4.8583,
+      "prior_variance": 0.257173,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -5.1191,
+      "prior_variance": 0.392834,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.4516,
+      "prior_variance": 0.32855,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Kitwe",
+      "path": "africa/zambia/kitwe",
+      "prior_score": -6.1056,
+      "prior_variance": 0.268591,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -5.2184,
+      "prior_variance": 0.239515,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -8.1466,
+      "prior_variance": 0.557767,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -12.9183,
+      "prior_variance": 0.578948,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -12.6602,
+      "prior_variance": 0.447293,
+      "prior_n": 5
+    }
+  ]
+}

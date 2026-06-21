@@ -1,0 +1,200 @@
+{
+  "round": 1701,
+  "timestamp": "2026-06-13T20:47:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 11.6445,
+      "prior_variance": 0.498339,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_score": 5.0725,
+      "prior_variance": 0.292849,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 5.7114,
+      "prior_variance": 0.270038,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.6327,
+      "prior_variance": 0.281406,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.8956,
+      "prior_variance": 0.255041,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 1.8759,
+      "prior_variance": 0.228459,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.6887,
+      "prior_variance": 0.251634,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.843,
+      "prior_variance": 0.256537,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.1562,
+      "prior_variance": 0.254619,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.3008,
+      "prior_variance": 0.288199,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.5639,
+      "prior_variance": 0.248995,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Wairarapa",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa",
+      "prior_score": 0.7463,
+      "prior_variance": 0.272434,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.0822,
+      "prior_variance": 0.368577,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 1.6282,
+      "prior_variance": 0.371836,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.8281,
+      "prior_variance": 0.230735,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": 0.0826,
+      "prior_variance": 0.298587,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": -0.2308,
+      "prior_variance": 0.325354,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.8738,
+      "prior_variance": 0.268528,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -0.2873,
+      "prior_variance": 0.266477,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/california/goldcountry/jackson",
+      "prior_score": -2.5075,
+      "prior_variance": 0.27301,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "East Burke",
+      "path": "northamerica/unitedstates/vermont/new_burke",
+      "prior_score": -1.8223,
+      "prior_variance": 0.252039,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.554,
+      "prior_variance": 0.248582,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -2.9553,
+      "prior_variance": 0.249436,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -3.1533,
+      "prior_variance": 0.242459,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 397,
+  "timestamp": "2026-06-13T19:33:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -2.8408,
+      "prior_variance": 1.794675,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Yverdon",
+      "path": "europe/switzerland/yverdon",
+      "prior_score": -0.7807,
+      "prior_variance": 1.710608,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -4.7045,
+      "prior_variance": 1.57516,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_score": -5.623,
+      "prior_variance": 1.511429,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -5.7516,
+      "prior_variance": 1.859351,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -6.436,
+      "prior_variance": 1.452909,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -7.6393,
+      "prior_variance": 11.848027,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -4.9548,
+      "prior_variance": 1.838926,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -0.0532,
+      "prior_variance": 1.7413,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": -7.5702,
+      "prior_variance": 3.122169,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -9.0135,
+      "prior_variance": 2.203561,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Littleton",
+      "path": "northamerica/unitedstates/newhampshire/littleton",
+      "prior_score": -7.5837,
+      "prior_variance": 1.95285,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_garhwal",
+      "prior_score": -5.106,
+      "prior_variance": 3.394029,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -7.3764,
+      "prior_variance": 1.367612,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -7.2276,
+      "prior_variance": 1.59645,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -7.4224,
+      "prior_variance": 2.251073,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -9.6612,
+      "prior_variance": 2.330756,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -5.978,
+      "prior_variance": 1.501171,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -9.0071,
+      "prior_variance": 10.639491,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -13.4967,
+      "prior_variance": 7.522238,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -12.7022,
+      "prior_variance": 7.935915,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -10.9163,
+      "prior_variance": 1.542992,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -10.3212,
+      "prior_variance": 2.421785,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_score": -13.426,
+      "prior_variance": 7.560221,
+      "prior_n": 1
+    }
+  ]
+}

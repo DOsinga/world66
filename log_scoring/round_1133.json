@@ -1,0 +1,200 @@
+{
+  "round": 1133,
+  "timestamp": "2026-06-13T20:13:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 8.6665,
+      "prior_variance": 0.565878,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.6161,
+      "prior_variance": 0.406449,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 5.2823,
+      "prior_variance": 0.544175,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 7.1293,
+      "prior_variance": 0.417316,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.4894,
+      "prior_variance": 0.325663,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.1736,
+      "prior_variance": 0.407541,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.8156,
+      "prior_variance": 0.547021,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.6116,
+      "prior_variance": 0.423566,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.4555,
+      "prior_variance": 0.410392,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.2475,
+      "prior_variance": 0.473869,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 1.1768,
+      "prior_variance": 0.433254,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 1.1633,
+      "prior_variance": 0.411998,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.8332,
+      "prior_variance": 0.426029,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_score": 0.149,
+      "prior_variance": 0.399191,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.6379,
+      "prior_variance": 0.412295,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 3.5242,
+      "prior_variance": 0.438842,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": -0.2067,
+      "prior_variance": 0.452888,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -0.9114,
+      "prior_variance": 0.514754,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 1.1307,
+      "prior_variance": 0.327763,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.9569,
+      "prior_variance": 0.421857,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -3.7254,
+      "prior_variance": 0.461398,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -1.4953,
+      "prior_variance": 0.741504,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -4.0193,
+      "prior_variance": 0.474077,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -5.1508,
+      "prior_variance": 0.382882,
+      "prior_n": 3
+    }
+  ]
+}

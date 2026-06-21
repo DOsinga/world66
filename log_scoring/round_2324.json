@@ -1,0 +1,200 @@
+{
+  "round": 2324,
+  "timestamp": "2026-06-13T21:33:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 6.8968,
+      "prior_variance": 0.214151,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 7.5395,
+      "prior_variance": 0.300432,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 7.0078,
+      "prior_variance": 0.249487,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 8.4291,
+      "prior_variance": 0.244405,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 8.639,
+      "prior_variance": 0.304481,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 6.7142,
+      "prior_variance": 0.247583,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Franz Josef",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/franzjosef",
+      "prior_score": 5.457,
+      "prior_variance": 0.224811,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 6.9457,
+      "prior_variance": 0.205077,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.1254,
+      "prior_variance": 0.221848,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 4.8181,
+      "prior_variance": 0.186631,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Thun",
+      "path": "europe/switzerland/thun",
+      "prior_score": 4.8708,
+      "prior_variance": 0.288815,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 4.602,
+      "prior_variance": 0.239201,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 3.7646,
+      "prior_variance": 0.220803,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_score": 6.0626,
+      "prior_variance": 0.247174,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 4.6527,
+      "prior_variance": 0.21471,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.8484,
+      "prior_variance": 0.181168,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 3.8182,
+      "prior_variance": 0.202713,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lerici",
+      "path": "europe/italy/liguria/lerici",
+      "prior_score": 5.0308,
+      "prior_variance": 0.202335,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 2.9767,
+      "prior_variance": 0.181749,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 4.4628,
+      "prior_variance": 0.18976,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.3252,
+      "prior_variance": 0.230836,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -4.1936,
+      "prior_variance": 0.18581,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": -2.1368,
+      "prior_variance": 0.223984,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.1741,
+      "prior_variance": 0.231496,
+      "prior_n": 7
+    }
+  ]
+}

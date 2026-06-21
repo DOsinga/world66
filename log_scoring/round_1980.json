@@ -1,0 +1,200 @@
+{
+  "round": 1980,
+  "timestamp": "2026-06-13T21:10:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.6543,
+      "prior_variance": 0.299709,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.6316,
+      "prior_variance": 0.273877,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 6.8597,
+      "prior_variance": 0.281694,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 5.8871,
+      "prior_variance": 0.31874,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 2.1395,
+      "prior_variance": 0.246981,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 5.131,
+      "prior_variance": 0.265041,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 6.0785,
+      "prior_variance": 0.223908,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 3.6343,
+      "prior_variance": 0.213168,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.2637,
+      "prior_variance": 0.242751,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.721,
+      "prior_variance": 0.210563,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bahariya Oasis",
+      "path": "africa/egypt/bahariyaoasis",
+      "prior_score": 0.732,
+      "prior_variance": 0.308278,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 4.0732,
+      "prior_variance": 0.270829,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 0.6765,
+      "prior_variance": 0.214861,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 1.7587,
+      "prior_variance": 0.242331,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 1.8944,
+      "prior_variance": 0.240732,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": -0.3803,
+      "prior_variance": 0.331264,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.5958,
+      "prior_variance": 0.280419,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -4.0217,
+      "prior_variance": 0.318332,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": -1.7394,
+      "prior_variance": 0.208713,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -4.3421,
+      "prior_variance": 0.263054,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -4.1195,
+      "prior_variance": 0.245449,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -5.4873,
+      "prior_variance": 0.245825,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -4.3191,
+      "prior_variance": 0.258531,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.204,
+      "prior_variance": 0.226041,
+      "prior_n": 6
+    }
+  ]
+}

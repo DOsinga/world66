@@ -1,0 +1,200 @@
+{
+  "round": 697,
+  "timestamp": "2026-06-13T19:49:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 19.5862,
+      "prior_variance": 5.961189,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 16.4953,
+      "prior_variance": 6.421981,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 12.2777,
+      "prior_variance": 2.401051,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 14.6594,
+      "prior_variance": 2.184573,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 12.9911,
+      "prior_variance": 1.501324,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Vancouver",
+      "path": "northamerica/canada/britishcolumbia/vancouver",
+      "prior_score": 14.6602,
+      "prior_variance": 3.42754,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 13.4777,
+      "prior_variance": 2.230751,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 14.048,
+      "prior_variance": 7.247937,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 11.8548,
+      "prior_variance": 1.398924,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 12.2104,
+      "prior_variance": 1.797085,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 15.1867,
+      "prior_variance": 2.622317,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 15.6533,
+      "prior_variance": 2.757407,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 13.3962,
+      "prior_variance": 1.276575,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_score": 10.0399,
+      "prior_variance": 1.041149,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 10.6596,
+      "prior_variance": 0.691748,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 10.8333,
+      "prior_variance": 0.932233,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Capitol Reef",
+      "path": "northamerica/unitedstates/utah/capitolreef",
+      "prior_score": 13.9643,
+      "prior_variance": 2.572451,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 9.1519,
+      "prior_variance": 1.105811,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 11.5859,
+      "prior_variance": 5.461265,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 14.1088,
+      "prior_variance": 0.868518,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 15.8784,
+      "prior_variance": 1.589674,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "S\u00e3o Paulo",
+      "path": "southamerica/brazil/saopaulo",
+      "prior_score": 10.6832,
+      "prior_variance": 1.346951,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 8.9973,
+      "prior_variance": 1.906405,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Recife",
+      "path": "southamerica/brazil/recife",
+      "prior_score": 9.2009,
+      "prior_variance": 1.159124,
+      "prior_n": 2
+    }
+  ]
+}

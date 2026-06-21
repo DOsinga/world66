@@ -1,0 +1,200 @@
+{
+  "round": 923,
+  "timestamp": "2026-06-13T20:01:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Coyote Buttes South",
+      "path": "northamerica/unitedstates/utah/south_coyote_butte",
+      "prior_score": 0.7578,
+      "prior_variance": 0.64894,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 1.908,
+      "prior_variance": 0.558995,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lake Izabal",
+      "path": "northamerica/guatemala/lakeizabal",
+      "prior_score": 4.4089,
+      "prior_variance": 0.439725,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Zagora",
+      "path": "africa/morocco/zagora",
+      "prior_score": 3.7538,
+      "prior_variance": 0.868839,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.139,
+      "prior_variance": 0.496962,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 0.6336,
+      "prior_variance": 0.602863,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 2.2844,
+      "prior_variance": 0.419391,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": -1.0313,
+      "prior_variance": 0.782315,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": -0.2341,
+      "prior_variance": 0.468119,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -2.9201,
+      "prior_variance": 0.607343,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 2.0828,
+      "prior_variance": 0.66818,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.3539,
+      "prior_variance": 0.635201,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 1.3479,
+      "prior_variance": 0.619865,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.3917,
+      "prior_variance": 0.561762,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": -1.4004,
+      "prior_variance": 0.608689,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": -0.1744,
+      "prior_variance": 0.513264,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": -0.3404,
+      "prior_variance": 0.726411,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.1458,
+      "prior_variance": 0.591669,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": 0.325,
+      "prior_variance": 0.604968,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": 0.3642,
+      "prior_variance": 0.880027,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.6593,
+      "prior_variance": 0.479596,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 1.0071,
+      "prior_variance": 0.488659,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -2.1948,
+      "prior_variance": 2.220666,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -1.4004,
+      "prior_variance": 0.592777,
+      "prior_n": 3
+    }
+  ]
+}

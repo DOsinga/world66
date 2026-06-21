@@ -1,0 +1,200 @@
+{
+  "round": 4236,
+  "timestamp": "2026-06-13T23:56:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 13.2695,
+      "prior_variance": 0.615056,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Plitvice Lakes",
+      "path": "europe/croatia/plitvice",
+      "prior_score": 11.0378,
+      "prior_variance": 0.327976,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 9.8657,
+      "prior_variance": 0.21407,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 8.157,
+      "prior_variance": 0.151791,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Ghorepani and Poon Hill",
+      "path": "asia/nepal/ghorepani_poonhil",
+      "prior_score": 7.1122,
+      "prior_variance": 0.131401,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.5428,
+      "prior_variance": 0.093605,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Marken",
+      "path": "europe/netherlands/marken",
+      "prior_score": 1.0322,
+      "prior_variance": 0.095497,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 2.4086,
+      "prior_variance": 0.102973,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.3404,
+      "prior_variance": 0.093168,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Kung\u00e4lv",
+      "path": "europe/sweden/kunglv",
+      "prior_score": -0.6198,
+      "prior_variance": 0.094656,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.6119,
+      "prior_variance": 0.125383,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 0.4382,
+      "prior_variance": 0.112829,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.403,
+      "prior_variance": 0.093235,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 1.4277,
+      "prior_variance": 0.105351,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Matanzas",
+      "path": "northamerica/thecaribbean/cuba/matanzas",
+      "prior_score": 0.128,
+      "prior_variance": 0.098321,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -2.4346,
+      "prior_variance": 0.119393,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Gaiman",
+      "path": "southamerica/argentina/gaiman",
+      "prior_score": -0.6641,
+      "prior_variance": 0.10026,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -1.155,
+      "prior_variance": 0.090611,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Badajoz",
+      "path": "europe/spain/extremadura/badajoz",
+      "prior_score": -1.3887,
+      "prior_variance": 0.115125,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -5.1061,
+      "prior_variance": 0.132307,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.6415,
+      "prior_variance": 0.136371,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": -2.4662,
+      "prior_variance": 0.094182,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.707,
+      "prior_variance": 0.102805,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -5.9417,
+      "prior_variance": 0.111519,
+      "prior_n": 14
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2400,
+  "timestamp": "2026-06-13T21:39:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": 0.1434,
+      "prior_variance": 0.170202,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.484,
+      "prior_variance": 0.164762,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.4363,
+      "prior_variance": 0.204945,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -2.5814,
+      "prior_variance": 0.17146,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Balestrino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/balestrino",
+      "prior_score": -1.8313,
+      "prior_variance": 0.222315,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_score": -0.934,
+      "prior_variance": 0.180197,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 0.8139,
+      "prior_variance": 0.19053,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -2.1776,
+      "prior_variance": 0.199343,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7026,
+      "prior_variance": 0.149859,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -1.9676,
+      "prior_variance": 0.239102,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": 0.1723,
+      "prior_variance": 0.199812,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -3.4555,
+      "prior_variance": 0.169066,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Neiva",
+      "path": "southamerica/colombia/neiva",
+      "prior_score": -3.0543,
+      "prior_variance": 0.167687,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -2.9505,
+      "prior_variance": 0.20501,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.3661,
+      "prior_variance": 0.157831,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.5249,
+      "prior_variance": 0.155613,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -4.4226,
+      "prior_variance": 0.182069,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -5.6376,
+      "prior_variance": 0.192374,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -3.8391,
+      "prior_variance": 0.188359,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -4.9973,
+      "prior_variance": 0.213344,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -1.8793,
+      "prior_variance": 0.178097,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ramadugu",
+      "path": "asia/india/andhrapradesh/ramadugu",
+      "prior_score": -9.3427,
+      "prior_variance": 0.2827,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Ju\u00e1rez",
+      "path": "northamerica/mexico/ciudadjuarez",
+      "prior_score": -8.0474,
+      "prior_variance": 0.363446,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.4568,
+      "prior_variance": 0.36968,
+      "prior_n": 7
+    }
+  ]
+}

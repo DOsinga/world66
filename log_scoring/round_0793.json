@@ -1,0 +1,200 @@
+{
+  "round": 793,
+  "timestamp": "2026-06-13T19:54:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 11.295,
+      "prior_variance": 1.627339,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 10.5438,
+      "prior_variance": 0.761169,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 9.1713,
+      "prior_variance": 0.81197,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grand Baie",
+      "path": "africa/mauritius/grandbaie",
+      "prior_score": 9.1605,
+      "prior_variance": 0.695968,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sabang Beach",
+      "path": "asia/philippines/mindoroisland/sabangbeach",
+      "prior_score": 3.162,
+      "prior_variance": 0.879149,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mirissa",
+      "path": "asia/srilanka/mirissa",
+      "prior_score": 9.1988,
+      "prior_variance": 0.937551,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "C\u00edes Islands",
+      "path": "europe/spain/galicia/cies_islands",
+      "prior_score": 11.0783,
+      "prior_variance": 0.849915,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 10.3483,
+      "prior_variance": 1.141151,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "La Gran Sabana",
+      "path": "southamerica/venezuela/lagransabana",
+      "prior_score": 9.2908,
+      "prior_variance": 1.235751,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 10.8563,
+      "prior_variance": 0.747848,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gondar",
+      "path": "africa/ethiopia/gondar",
+      "prior_score": 7.1319,
+      "prior_variance": 1.346465,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 9.8738,
+      "prior_variance": 0.866979,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Takamatsu",
+      "path": "asia/japan/shikoku/takamatsu",
+      "prior_score": 12.1102,
+      "prior_variance": 0.713636,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 9.7858,
+      "prior_variance": 0.944113,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Fenghuang",
+      "path": "asia/china/hunan/fenghuang",
+      "prior_score": 10.2246,
+      "prior_variance": 1.609355,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 5.1531,
+      "prior_variance": 0.891364,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 9.785,
+      "prior_variance": 1.282694,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 7.4525,
+      "prior_variance": 0.774994,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 9.6975,
+      "prior_variance": 1.795318,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "St Julian's",
+      "path": "europe/malta/stjulian",
+      "prior_score": 9.2769,
+      "prior_variance": 0.968633,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 8.3726,
+      "prior_variance": 1.386013,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 7.5829,
+      "prior_variance": 1.361606,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 11.4376,
+      "prior_variance": 0.729168,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": 4.822,
+      "prior_variance": 0.984817,
+      "prior_n": 2
+    }
+  ]
+}

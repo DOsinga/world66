@@ -1,0 +1,200 @@
+{
+  "round": 753,
+  "timestamp": "2026-06-13T19:51:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -13.3237,
+      "prior_variance": 1.545437,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -16.3685,
+      "prior_variance": 1.384883,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Caracas",
+      "path": "southamerica/venezuela/caracas",
+      "prior_score": -17.5318,
+      "prior_variance": 1.082445,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -16.6546,
+      "prior_variance": 1.080567,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kananga",
+      "path": "africa/congokinshasa/kananga",
+      "prior_score": -19.9404,
+      "prior_variance": 4.114542,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -17.1364,
+      "prior_variance": 0.651654,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Ahvaz",
+      "path": "asia/iran/ahvaz",
+      "prior_score": -16.7469,
+      "prior_variance": 1.032533,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -16.669,
+      "prior_variance": 1.402439,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -19.5746,
+      "prior_variance": 1.294421,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mong",
+      "path": "asia/pakistan/azad_kashmir/mong",
+      "prior_score": -18.2956,
+      "prior_variance": 2.173759,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -19.6598,
+      "prior_variance": 0.757861,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -16.3803,
+      "prior_variance": 0.668298,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -17.777,
+      "prior_variance": 0.733157,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "In Guezzam",
+      "path": "africa/algeria/inguezzam",
+      "prior_score": -17.7021,
+      "prior_variance": 0.947103,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -19.2843,
+      "prior_variance": 1.227755,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -17.7254,
+      "prior_variance": 1.208925,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sebha",
+      "path": "africa/libya/sebha",
+      "prior_score": -18.8908,
+      "prior_variance": 1.254925,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -17.0662,
+      "prior_variance": 2.007584,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -15.5996,
+      "prior_variance": 1.000997,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -18.9821,
+      "prior_variance": 1.282448,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -18.0117,
+      "prior_variance": 0.875724,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -19.1794,
+      "prior_variance": 0.650253,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kunduz",
+      "path": "asia/afghanistan/kunduz",
+      "prior_score": -17.802,
+      "prior_variance": 1.546555,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -19.5637,
+      "prior_variance": 1.191835,
+      "prior_n": 3
+    }
+  ]
+}

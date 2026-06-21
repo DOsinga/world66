@@ -1,0 +1,200 @@
+{
+  "round": 1713,
+  "timestamp": "2026-06-13T20:47:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 11.3042,
+      "prior_variance": 0.472924,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 9.7838,
+      "prior_variance": 0.318589,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.6174,
+      "prior_variance": 0.263595,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 9.361,
+      "prior_variance": 0.333588,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 6.3704,
+      "prior_variance": 0.318084,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_score": 5.5247,
+      "prior_variance": 0.291031,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.8928,
+      "prior_variance": 0.30923,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 3.2269,
+      "prior_variance": 0.327567,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.5332,
+      "prior_variance": 0.290484,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 4.1781,
+      "prior_variance": 0.295827,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 3.2887,
+      "prior_variance": 0.24387,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Cape Horn",
+      "path": "southamerica/chile/cape_horn",
+      "prior_score": 2.8134,
+      "prior_variance": 0.284053,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -2.7044,
+      "prior_variance": 0.380872,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.1382,
+      "prior_variance": 0.418894,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 3.8051,
+      "prior_variance": 0.268909,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 1.3424,
+      "prior_variance": 0.211742,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 2.4236,
+      "prior_variance": 0.246026,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 1.8957,
+      "prior_variance": 0.290127,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -1.7329,
+      "prior_variance": 0.3201,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 2.1313,
+      "prior_variance": 0.286492,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Cavite",
+      "path": "asia/philippines/cavite",
+      "prior_score": -2.9704,
+      "prior_variance": 0.255079,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -1.7236,
+      "prior_variance": 0.243213,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -6.5636,
+      "prior_variance": 0.39883,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.5131,
+      "prior_variance": 0.315498,
+      "prior_n": 5
+    }
+  ]
+}

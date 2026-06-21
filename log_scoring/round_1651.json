@@ -1,0 +1,200 @@
+{
+  "round": 1651,
+  "timestamp": "2026-06-13T20:43:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nuremberg",
+      "path": "europe/germany/bavaria/nuremberg",
+      "prior_score": 7.5365,
+      "prior_variance": 0.364667,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 6.6999,
+      "prior_variance": 0.346663,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.4358,
+      "prior_variance": 0.326172,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 5.7884,
+      "prior_variance": 0.290015,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 3.0339,
+      "prior_variance": 0.273154,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 3.6665,
+      "prior_variance": 0.287897,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 2.1033,
+      "prior_variance": 0.367412,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": -1.7904,
+      "prior_variance": 0.850889,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 2.0903,
+      "prior_variance": 0.247663,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 1.1629,
+      "prior_variance": 0.267443,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 2.3045,
+      "prior_variance": 0.273052,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -1.485,
+      "prior_variance": 0.270874,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -0.6502,
+      "prior_variance": 0.240844,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.4455,
+      "prior_variance": 0.248669,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -1.0827,
+      "prior_variance": 0.333393,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Pallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pallare",
+      "prior_score": -6.9812,
+      "prior_variance": 0.759094,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -2.5589,
+      "prior_variance": 0.24367,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Drass",
+      "path": "asia/india/jammuandkashmir/ladakh/drass",
+      "prior_score": -3.8549,
+      "prior_variance": 0.378187,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -2.421,
+      "prior_variance": 0.282083,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Enewetak Atoll",
+      "path": "australiaandpacific/marshallislands/enewetokatoll",
+      "prior_score": -5.4609,
+      "prior_variance": 0.464949,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.4542,
+      "prior_variance": 0.273718,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -3.3811,
+      "prior_variance": 0.274991,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -6.0393,
+      "prior_variance": 0.2586,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -9.6824,
+      "prior_variance": 0.413227,
+      "prior_n": 5
+    }
+  ]
+}

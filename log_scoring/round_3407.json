@@ -1,0 +1,200 @@
+{
+  "round": 3407,
+  "timestamp": "2026-06-13T22:51:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 7.2323,
+      "prior_variance": 0.187905,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Langkawi",
+      "path": "asia/malaysia/langkawi",
+      "prior_score": 7.2147,
+      "prior_variance": 0.197667,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 3.1211,
+      "prior_variance": 0.159488,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.5055,
+      "prior_variance": 0.14097,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.5705,
+      "prior_variance": 0.159059,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.3955,
+      "prior_variance": 0.140439,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Qingdao",
+      "path": "asia/china/shandong_province/qingdao",
+      "prior_score": 2.6078,
+      "prior_variance": 0.140799,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Glasgow",
+      "path": "europe/unitedkingdom/scotland/glasgow",
+      "prior_score": 4.2438,
+      "prior_variance": 0.165721,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.5502,
+      "prior_variance": 0.148576,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": 0.871,
+      "prior_variance": 0.118714,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.9101,
+      "prior_variance": 0.136386,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 2.1897,
+      "prior_variance": 0.143695,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.3032,
+      "prior_variance": 0.112134,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.8269,
+      "prior_variance": 0.125635,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 0.8327,
+      "prior_variance": 0.13301,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.7068,
+      "prior_variance": 0.124079,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.8406,
+      "prior_variance": 0.119565,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 1.4727,
+      "prior_variance": 0.12492,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.6379,
+      "prior_variance": 0.111593,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.8343,
+      "prior_variance": 0.14111,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Fredericia",
+      "path": "europe/denmark/fredericia",
+      "prior_score": -1.1973,
+      "prior_variance": 0.117207,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.2627,
+      "prior_variance": 0.125297,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.266,
+      "prior_variance": 0.125519,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.3315,
+      "prior_variance": 0.152351,
+      "prior_n": 10
+    }
+  ]
+}

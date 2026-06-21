@@ -1,0 +1,200 @@
+{
+  "round": 512,
+  "timestamp": "2026-06-13T19:39:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 14.2187,
+      "prior_variance": 7.576596,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 7.9047,
+      "prior_variance": 12.068465,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 10.2657,
+      "prior_variance": 2.471035,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 11.0072,
+      "prior_variance": 9.256129,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 14.2574,
+      "prior_variance": 3.240316,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cambridge",
+      "path": "europe/unitedkingdom/england/eastern_england/cambridge",
+      "prior_score": 11.7893,
+      "prior_variance": 8.648959,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 12.5755,
+      "prior_variance": 3.448721,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Antwerp",
+      "path": "europe/belgium/antwerp",
+      "prior_score": 14.5228,
+      "prior_variance": 3.662432,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 12.8509,
+      "prior_variance": 3.411616,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 10.6724,
+      "prior_variance": 8.547826,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 9.9899,
+      "prior_variance": 5.310076,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 9.5814,
+      "prior_variance": 3.08396,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 10.0928,
+      "prior_variance": 2.002835,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 10.1603,
+      "prior_variance": 2.211653,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 12.989,
+      "prior_variance": 3.9835,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Uxmal",
+      "path": "northamerica/mexico/yucatan/uxmal",
+      "prior_score": 13.5354,
+      "prior_variance": 6.359832,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 11.7074,
+      "prior_variance": 2.245968,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 11.7746,
+      "prior_variance": 2.96418,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Canaima National Park",
+      "path": "southamerica/venezuela/canaima",
+      "prior_score": 12.9844,
+      "prior_variance": 8.128985,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 8.8557,
+      "prior_variance": 2.17081,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Provincetown",
+      "path": "northamerica/unitedstates/massachusetts/provincetown",
+      "prior_score": 10.3547,
+      "prior_variance": 5.342082,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 10.6855,
+      "prior_variance": 1.681819,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 11.1308,
+      "prior_variance": 4.727499,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 7.8871,
+      "prior_variance": 1.506996,
+      "prior_n": 1
+    }
+  ]
+}

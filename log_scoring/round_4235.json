@@ -1,0 +1,200 @@
+{
+  "round": 4235,
+  "timestamp": "2026-06-13T23:56:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.7592,
+      "prior_variance": 0.097136,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Newquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay",
+      "prior_score": 2.6145,
+      "prior_variance": 0.097699,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.2639,
+      "prior_variance": 0.107874,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.5279,
+      "prior_variance": 0.097503,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 0.6394,
+      "prior_variance": 0.097945,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.2306,
+      "prior_variance": 0.101342,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 1.2845,
+      "prior_variance": 0.103135,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Faj\u00e3 d\u2019Agua",
+      "path": "africa/capeverde/brava/faj_dagua",
+      "prior_score": -0.2052,
+      "prior_variance": 0.094185,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.5686,
+      "prior_variance": 0.096452,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -1.3391,
+      "prior_variance": 0.115901,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -2.6667,
+      "prior_variance": 0.103758,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -2.0439,
+      "prior_variance": 0.097582,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -3.1328,
+      "prior_variance": 0.115912,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.5719,
+      "prior_variance": 0.091963,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Arbil",
+      "path": "asia/iraq/arbil",
+      "prior_score": -4.0158,
+      "prior_variance": 0.119648,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -3.7174,
+      "prior_variance": 0.105592,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Chorzow",
+      "path": "europe/poland/chorzow",
+      "prior_score": -3.2891,
+      "prior_variance": 0.100441,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -6.6539,
+      "prior_variance": 0.125974,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.6691,
+      "prior_variance": 0.104414,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -5.2258,
+      "prior_variance": 0.109011,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.6807,
+      "prior_variance": 0.12026,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -5.7842,
+      "prior_variance": 0.15543,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -4.7872,
+      "prior_variance": 0.10498,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.0232,
+      "prior_variance": 0.133348,
+      "prior_n": 14
+    }
+  ]
+}

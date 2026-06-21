@@ -1,0 +1,200 @@
+{
+  "round": 1240,
+  "timestamp": "2026-06-13T20:18:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 8.707,
+      "prior_variance": 1.024048,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 10.4354,
+      "prior_variance": 0.604572,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 7.4855,
+      "prior_variance": 0.396195,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 8.8446,
+      "prior_variance": 0.479972,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 9.2295,
+      "prior_variance": 0.549811,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 9.2845,
+      "prior_variance": 0.446804,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 9.4332,
+      "prior_variance": 0.515396,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 7.6287,
+      "prior_variance": 0.679003,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 7.7369,
+      "prior_variance": 0.472306,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 8.7905,
+      "prior_variance": 0.621449,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pakse",
+      "path": "asia/laos/pakse",
+      "prior_score": 0.1707,
+      "prior_variance": 0.433512,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Fujairah",
+      "path": "asia/unitedarabemirates/fujairah",
+      "prior_score": 1.091,
+      "prior_variance": 0.386174,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.1771,
+      "prior_variance": 0.401809,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Cesis",
+      "path": "europe/latvia/cesis",
+      "prior_score": 1.5932,
+      "prior_variance": 0.405128,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Mariehamn",
+      "path": "europe/finland/alandislands/mariehamn",
+      "prior_score": 0.9963,
+      "prior_variance": 0.307941,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.8947,
+      "prior_variance": 0.307126,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -1.0802,
+      "prior_variance": 0.397009,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -1.923,
+      "prior_variance": 0.401627,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Daugavpils",
+      "path": "europe/latvia/daugavpils",
+      "prior_score": -0.8599,
+      "prior_variance": 0.36601,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -3.8779,
+      "prior_variance": 0.397381,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -5.3167,
+      "prior_variance": 0.335017,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -7.6401,
+      "prior_variance": 0.421173,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -8.606,
+      "prior_variance": 0.387551,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -9.1851,
+      "prior_variance": 0.684105,
+      "prior_n": 3
+    }
+  ]
+}

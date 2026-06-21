@@ -1,0 +1,200 @@
+{
+  "round": 4041,
+  "timestamp": "2026-06-13T23:39:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 5.3527,
+      "prior_variance": 0.128243,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 2.7668,
+      "prior_variance": 0.130618,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 3.0626,
+      "prior_variance": 0.111777,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2737,
+      "prior_variance": 0.107573,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 1.5615,
+      "prior_variance": 0.10953,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 2.1076,
+      "prior_variance": 0.108354,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bournemouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bournemouth",
+      "prior_score": 1.3237,
+      "prior_variance": 0.106021,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 0.5906,
+      "prior_variance": 0.084372,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Manchester",
+      "path": "northamerica/unitedstates/vermont/manchester",
+      "prior_score": 0.5534,
+      "prior_variance": 0.095712,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Velez Malaga",
+      "path": "europe/spain/andalucia/velezmalaga",
+      "prior_score": -0.0964,
+      "prior_variance": 0.111767,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Shkoder",
+      "path": "europe/albania/shkoder",
+      "prior_score": 0.9147,
+      "prior_variance": 0.100956,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": 1.0111,
+      "prior_variance": 0.106994,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -0.5264,
+      "prior_variance": 0.092235,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.6912,
+      "prior_variance": 0.097349,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -2.3626,
+      "prior_variance": 0.134073,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -0.7719,
+      "prior_variance": 0.103083,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.757,
+      "prior_variance": 0.103976,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -2.1382,
+      "prior_variance": 0.098073,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -4.8085,
+      "prior_variance": 0.142403,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Qiqihar",
+      "path": "asia/china/heilongjiang/qiqihar",
+      "prior_score": -5.023,
+      "prior_variance": 0.126945,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -5.8111,
+      "prior_variance": 0.130097,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -5.4506,
+      "prior_variance": 0.112727,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -9.749,
+      "prior_variance": 0.252635,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -5.5187,
+      "prior_variance": 0.155656,
+      "prior_n": 13
+    }
+  ]
+}

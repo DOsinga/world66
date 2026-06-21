@@ -1,0 +1,200 @@
+{
+  "round": 674,
+  "timestamp": "2026-06-13T19:47:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -8.9978,
+      "prior_variance": 0.954865,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -8.9958,
+      "prior_variance": 0.926838,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -9.0277,
+      "prior_variance": 0.815945,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -9.6271,
+      "prior_variance": 1.152804,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -7.9694,
+      "prior_variance": 1.275665,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -8.4353,
+      "prior_variance": 1.140356,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Belgaum",
+      "path": "asia/india/karnataka/belgaum",
+      "prior_score": -11.0507,
+      "prior_variance": 0.774555,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -7.6421,
+      "prior_variance": 0.868601,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -9.8764,
+      "prior_variance": 1.475302,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -8.6049,
+      "prior_variance": 0.799174,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -11.5764,
+      "prior_variance": 2.040557,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -9.2844,
+      "prior_variance": 1.243914,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -11.8939,
+      "prior_variance": 1.537845,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -11.9392,
+      "prior_variance": 0.750712,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dhenkanal",
+      "path": "asia/india/orissa/dhenkanal",
+      "prior_score": -10.6439,
+      "prior_variance": 1.474368,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -11.1837,
+      "prior_variance": 1.390141,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_score": -10.844,
+      "prior_variance": 1.47627,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -15.0238,
+      "prior_variance": 2.684019,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ossetia",
+      "path": "europe/russia/ossetia",
+      "prior_score": -9.7916,
+      "prior_variance": 1.352315,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -15.8539,
+      "prior_variance": 6.019422,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Warsash",
+      "path": "europe/unitedkingdom/england/south_east/warsash",
+      "prior_score": -10.5974,
+      "prior_variance": 1.350823,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -13.9253,
+      "prior_variance": 1.428025,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -16.045,
+      "prior_variance": 6.023505,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -11.6443,
+      "prior_variance": 1.285632,
+      "prior_n": 2
+    }
+  ]
+}

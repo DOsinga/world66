@@ -1,0 +1,200 @@
+{
+  "round": 1798,
+  "timestamp": "2026-06-13T20:53:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_score": 7.2024,
+      "prior_variance": 0.345219,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 6.2064,
+      "prior_variance": 0.256455,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 6.3393,
+      "prior_variance": 0.302338,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_score": 2.5131,
+      "prior_variance": 0.249162,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 4.5801,
+      "prior_variance": 0.298201,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.3302,
+      "prior_variance": 0.26178,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Echmiadzin",
+      "path": "europe/armenia/echmiadzin",
+      "prior_score": 0.9987,
+      "prior_variance": 0.241861,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.2411,
+      "prior_variance": 0.280767,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": 0.4326,
+      "prior_variance": 0.216315,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 1.1077,
+      "prior_variance": 0.211906,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.2859,
+      "prior_variance": 0.215832,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": 0.0535,
+      "prior_variance": 0.266226,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.7294,
+      "prior_variance": 0.221714,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "San Luis Potos\u00ed",
+      "path": "northamerica/mexico/sanluispotosi",
+      "prior_score": 1.3182,
+      "prior_variance": 0.261561,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -1.4515,
+      "prior_variance": 0.211909,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -2.7727,
+      "prior_variance": 0.301586,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -0.8468,
+      "prior_variance": 0.234613,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -3.5311,
+      "prior_variance": 0.296337,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -1.644,
+      "prior_variance": 0.26945,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -4.7875,
+      "prior_variance": 0.256784,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Pudukkottai",
+      "path": "asia/india/tamilnadu/pudukkottai",
+      "prior_score": -5.5075,
+      "prior_variance": 0.272547,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Robertsport",
+      "path": "africa/liberia/robertsport",
+      "prior_score": -5.0815,
+      "prior_variance": 0.301347,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -8.2417,
+      "prior_variance": 0.382187,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -7.8245,
+      "prior_variance": 0.366586,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1465,
+  "timestamp": "2026-06-13T20:32:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Borobudur",
+      "path": "asia/indonesia/java/borobudur",
+      "prior_score": 10.3505,
+      "prior_variance": 0.601524,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 11.1935,
+      "prior_variance": 0.4969,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 10.3255,
+      "prior_variance": 0.535514,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 5.8852,
+      "prior_variance": 0.338863,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 4.7123,
+      "prior_variance": 0.346276,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 3.7239,
+      "prior_variance": 0.321432,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/napier",
+      "prior_score": 2.9926,
+      "prior_variance": 0.351485,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": 2.8309,
+      "prior_variance": 0.282485,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.6399,
+      "prior_variance": 0.373721,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bourges",
+      "path": "europe/france/centre/bourges",
+      "prior_score": 1.4981,
+      "prior_variance": 0.426191,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Cremona",
+      "path": "europe/italy/lombardia/cremona",
+      "prior_score": 3.2042,
+      "prior_variance": 0.321078,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Koszeg",
+      "path": "europe/hungary/koszeg",
+      "prior_score": 1.3563,
+      "prior_variance": 0.311296,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 0.7126,
+      "prior_variance": 0.443,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Karakul Lake",
+      "path": "asia/china/xinjiangprovince/karakullake",
+      "prior_score": 1.6198,
+      "prior_variance": 0.28355,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.0185,
+      "prior_variance": 0.381626,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": 0.1725,
+      "prior_variance": 0.384808,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -3.6916,
+      "prior_variance": 0.331376,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -1.4449,
+      "prior_variance": 0.378254,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -4.7061,
+      "prior_variance": 0.306489,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.3049,
+      "prior_variance": 0.323516,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -5.0906,
+      "prior_variance": 0.595583,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -5.5906,
+      "prior_variance": 0.461434,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.4008,
+      "prior_variance": 0.319697,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_score": -6.3835,
+      "prior_variance": 0.30423,
+      "prior_n": 4
+    }
+  ]
+}

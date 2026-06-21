@@ -1,0 +1,200 @@
+{
+  "round": 505,
+  "timestamp": "2026-06-13T19:39:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": -4.3991,
+      "prior_variance": 1.451931,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -4.2433,
+      "prior_variance": 3.639418,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Jyv\u00e4skyl\u00e4",
+      "path": "europe/finland/jyvaskyla",
+      "prior_score": -4.716,
+      "prior_variance": 1.765982,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Santar\u00e9m",
+      "path": "southamerica/brazil/santarem",
+      "prior_score": -8.0078,
+      "prior_variance": 4.261365,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -6.2463,
+      "prior_variance": 2.139226,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -6.6745,
+      "prior_variance": 4.432525,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -5.8689,
+      "prior_variance": 1.893429,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Huddersfield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/huddersfield",
+      "prior_score": -4.8903,
+      "prior_variance": 3.743319,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/arkansas/springdale",
+      "prior_score": -6.7693,
+      "prior_variance": 1.519878,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster",
+      "prior_score": -5.7953,
+      "prior_variance": 3.62677,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -6.1504,
+      "prior_variance": 1.565522,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -4.7373,
+      "prior_variance": 1.253346,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ponca City",
+      "path": "northamerica/unitedstates/oklahoma/ponca_city",
+      "prior_score": -12.8885,
+      "prior_variance": 7.473487,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -4.0379,
+      "prior_variance": 1.407763,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -6.6539,
+      "prior_variance": 1.570742,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -6.7375,
+      "prior_variance": 2.288948,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -8.8194,
+      "prior_variance": 1.309481,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Gorakhpur",
+      "path": "asia/india/uttarpradesh/gorakhpur",
+      "prior_score": -7.6125,
+      "prior_variance": 2.832767,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -8.4835,
+      "prior_variance": 1.438299,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -8.7519,
+      "prior_variance": 3.147982,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -7.706,
+      "prior_variance": 1.287495,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -5.321,
+      "prior_variance": 1.771551,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -6.622,
+      "prior_variance": 1.540621,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -11.7781,
+      "prior_variance": 8.099004,
+      "prior_n": 1
+    }
+  ]
+}

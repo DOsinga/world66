@@ -1,0 +1,200 @@
+{
+  "round": 3975,
+  "timestamp": "2026-06-13T23:34:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 10.4548,
+      "prior_variance": 0.225118,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 8.8628,
+      "prior_variance": 0.237619,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 6.4409,
+      "prior_variance": 0.134758,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.2108,
+      "prior_variance": 0.112555,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.544,
+      "prior_variance": 0.097669,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Gaziantep",
+      "path": "asia/turkey/gaziantep",
+      "prior_score": 3.2945,
+      "prior_variance": 0.114858,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 2.1012,
+      "prior_variance": 0.106083,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.1592,
+      "prior_variance": 0.102665,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -3.169,
+      "prior_variance": 0.113984,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -1.6674,
+      "prior_variance": 0.12512,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.9973,
+      "prior_variance": 0.109119,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 0.8432,
+      "prior_variance": 0.106094,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "El Malpais",
+      "path": "northamerica/unitedstates/newmexico/elmapais",
+      "prior_score": -0.3725,
+      "prior_variance": 0.113403,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/burbank",
+      "prior_score": -2.9203,
+      "prior_variance": 0.140361,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.7089,
+      "prior_variance": 0.106386,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.6372,
+      "prior_variance": 0.120149,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.0623,
+      "prior_variance": 0.103556,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Valencia",
+      "path": "southamerica/venezuela/valencia",
+      "prior_score": -5.7624,
+      "prior_variance": 0.155074,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -3.3783,
+      "prior_variance": 0.116065,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -5.914,
+      "prior_variance": 0.169187,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Namibe",
+      "path": "africa/angola/namibe",
+      "prior_score": -4.6008,
+      "prior_variance": 0.133858,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -2.9814,
+      "prior_variance": 0.111683,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "H\u00eence\u0219ti",
+      "path": "europe/moldova/hincest",
+      "prior_score": -5.6797,
+      "prior_variance": 0.125126,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -8.2928,
+      "prior_variance": 0.211046,
+      "prior_n": 12
+    }
+  ]
+}

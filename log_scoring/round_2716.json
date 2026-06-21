@@ -1,0 +1,200 @@
+{
+  "round": 2716,
+  "timestamp": "2026-06-13T22:02:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 22.8686,
+      "prior_variance": 5.525557,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Hania",
+      "path": "europe/greece/crete/hania",
+      "prior_score": 8.501,
+      "prior_variance": 0.259922,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 2.9193,
+      "prior_variance": 0.151415,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Bahir Dar",
+      "path": "africa/ethiopia/bahardar",
+      "prior_score": 1.4745,
+      "prior_variance": 0.13229,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_score": 1.149,
+      "prior_variance": 0.177626,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 1.6193,
+      "prior_variance": 0.168484,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.0926,
+      "prior_variance": 0.149066,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.7934,
+      "prior_variance": 0.141128,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 0.5681,
+      "prior_variance": 0.17679,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 0.5088,
+      "prior_variance": 0.167421,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.363,
+      "prior_variance": 0.135332,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -2.3312,
+      "prior_variance": 0.172761,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.1041,
+      "prior_variance": 0.14771,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 1.2821,
+      "prior_variance": 0.144626,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.8625,
+      "prior_variance": 0.165188,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": 0.0501,
+      "prior_variance": 0.142645,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -0.9495,
+      "prior_variance": 0.186794,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Mehring",
+      "path": "europe/germany/rhinelandpalatinate/mosel/mehring",
+      "prior_score": -0.4348,
+      "prior_variance": 0.147072,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Schiltach",
+      "path": "europe/germany/badenwrttemberg/schiltach",
+      "prior_score": 0.6571,
+      "prior_variance": 0.189741,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 0.6821,
+      "prior_variance": 0.154625,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.1043,
+      "prior_variance": 0.179861,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": 0.3418,
+      "prior_variance": 0.1421,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.4032,
+      "prior_variance": 0.158358,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lasanod",
+      "path": "africa/somaliland/lasanod",
+      "prior_score": -9.5015,
+      "prior_variance": 0.378254,
+      "prior_n": 8
+    }
+  ]
+}

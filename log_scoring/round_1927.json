@@ -1,0 +1,200 @@
+{
+  "round": 1927,
+  "timestamp": "2026-06-13T21:01:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 8.5195,
+      "prior_variance": 0.349438,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.6187,
+      "prior_variance": 0.241788,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Salt Cay",
+      "path": "northamerica/turksandcaicosislands/saltcay",
+      "prior_score": 2.987,
+      "prior_variance": 0.298965,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.1062,
+      "prior_variance": 0.273415,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 4.0124,
+      "prior_variance": 0.340246,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 4.27,
+      "prior_variance": 0.232661,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.1855,
+      "prior_variance": 0.240443,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 1.3806,
+      "prior_variance": 0.273135,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 4.4679,
+      "prior_variance": 0.22851,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.2689,
+      "prior_variance": 0.285283,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 3.4942,
+      "prior_variance": 0.225599,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 3.2915,
+      "prior_variance": 0.229181,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.0743,
+      "prior_variance": 0.237383,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Combarro",
+      "path": "europe/spain/galicia/combarro_village",
+      "prior_score": 2.6649,
+      "prior_variance": 0.234137,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1176,
+      "prior_variance": 0.197179,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.4375,
+      "prior_variance": 0.201558,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 0.6988,
+      "prior_variance": 0.213008,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Gdynia",
+      "path": "europe/poland/gdynia",
+      "prior_score": 0.448,
+      "prior_variance": 0.232006,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.6415,
+      "prior_variance": 0.202394,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.3978,
+      "prior_variance": 0.326249,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.4242,
+      "prior_variance": 0.227056,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Palanga",
+      "path": "europe/lithuania/palanga",
+      "prior_score": -0.6997,
+      "prior_variance": 0.186803,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.8192,
+      "prior_variance": 0.205354,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.0801,
+      "prior_variance": 0.198364,
+      "prior_n": 7
+    }
+  ]
+}

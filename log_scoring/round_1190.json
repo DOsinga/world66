@@ -1,0 +1,200 @@
+{
+  "round": 1190,
+  "timestamp": "2026-06-13T20:16:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 10.3884,
+      "prior_variance": 0.467186,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 10.6061,
+      "prior_variance": 0.876378,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "San Miguel de Allende",
+      "path": "northamerica/mexico/sanmigueldeallende",
+      "prior_score": 10.8602,
+      "prior_variance": 0.490898,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 6.2443,
+      "prior_variance": 0.414866,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 5.2696,
+      "prior_variance": 0.582829,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 8.4684,
+      "prior_variance": 0.423975,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 7.0317,
+      "prior_variance": 0.48253,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bridgetown",
+      "path": "northamerica/thecaribbean/barbados/bridgetown",
+      "prior_score": 9.0311,
+      "prior_variance": 0.435721,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 9.2071,
+      "prior_variance": 0.895548,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 7.0042,
+      "prior_variance": 0.496112,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Fujian Tulou",
+      "path": "asia/china/fujianprovince/tulou",
+      "prior_score": 4.3115,
+      "prior_variance": 0.404878,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_park",
+      "prior_score": -0.0015,
+      "prior_variance": 0.369299,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.4966,
+      "prior_variance": 0.408992,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 2.3698,
+      "prior_variance": 0.408456,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Lake Nicaragua",
+      "path": "northamerica/nicaragua/lakenicaragua",
+      "prior_score": -0.8101,
+      "prior_variance": 0.422262,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.3213,
+      "prior_variance": 0.450874,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Vorokhta",
+      "path": "europe/ukraine/carpathian_mountains/vorokhta",
+      "prior_score": -1.106,
+      "prior_variance": 0.401128,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -6.2403,
+      "prior_variance": 0.437478,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Brest",
+      "path": "europe/belarus/brest",
+      "prior_score": -5.2749,
+      "prior_variance": 0.448552,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -5.9422,
+      "prior_variance": 0.429064,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Mashhad",
+      "path": "asia/iran/mashhad",
+      "prior_score": -0.8879,
+      "prior_variance": 0.610128,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -7.9797,
+      "prior_variance": 0.433965,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -5.5242,
+      "prior_variance": 0.418737,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -4.1067,
+      "prior_variance": 0.668437,
+      "prior_n": 3
+    }
+  ]
+}

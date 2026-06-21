@@ -1,0 +1,200 @@
+{
+  "round": 1564,
+  "timestamp": "2026-06-13T20:38:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 12.9911,
+      "prior_variance": 0.497328,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 9.2736,
+      "prior_variance": 0.3768,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 9.874,
+      "prior_variance": 0.477198,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 4.9303,
+      "prior_variance": 0.299702,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 4.5656,
+      "prior_variance": 0.255723,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 5.3121,
+      "prior_variance": 0.351594,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 2.6301,
+      "prior_variance": 0.327354,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Stowe",
+      "path": "northamerica/unitedstates/vermont/stowe",
+      "prior_score": 4.3613,
+      "prior_variance": 0.330976,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.669,
+      "prior_variance": 0.247306,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.5403,
+      "prior_variance": 0.299413,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "South of Mombasa",
+      "path": "africa/kenya/thecoast/southofmombasa",
+      "prior_score": -0.3697,
+      "prior_variance": 0.293975,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.0805,
+      "prior_variance": 0.248874,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.3577,
+      "prior_variance": 0.250325,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -1.9045,
+      "prior_variance": 0.303703,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 0.7825,
+      "prior_variance": 0.262663,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -3.0057,
+      "prior_variance": 0.292628,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -3.4322,
+      "prior_variance": 0.328068,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Chongzuo",
+      "path": "asia/china/guangxi/chongzuo",
+      "prior_score": -2.934,
+      "prior_variance": 0.251997,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -1.6248,
+      "prior_variance": 0.277595,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -2.9173,
+      "prior_variance": 0.27698,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Karanjia & Similipal",
+      "path": "asia/india/orissa/bhubaneswar/karanjia__similip",
+      "prior_score": -3.2375,
+      "prior_variance": 0.329393,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_score": -4.0518,
+      "prior_variance": 0.263147,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fairmont",
+      "path": "northamerica/unitedstates/westvirginia/fairmont",
+      "prior_score": -6.3993,
+      "prior_variance": 0.343159,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -6.8081,
+      "prior_variance": 0.313916,
+      "prior_n": 5
+    }
+  ]
+}

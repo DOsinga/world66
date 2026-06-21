@@ -1,0 +1,200 @@
+{
+  "round": 1462,
+  "timestamp": "2026-06-13T20:32:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 9.9049,
+      "prior_variance": 0.925068,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 8.9596,
+      "prior_variance": 0.448397,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rila Monastery",
+      "path": "europe/bulgaria/rilamonastery",
+      "prior_score": 7.2873,
+      "prior_variance": 0.484248,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 5.9392,
+      "prior_variance": 0.276208,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_score": 4.6865,
+      "prior_variance": 0.343096,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Chapada dos Veadeiros",
+      "path": "southamerica/brazil/chapada_dos_veadeiros",
+      "prior_score": 3.0093,
+      "prior_variance": 0.350458,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Le Mans",
+      "path": "europe/france/centre/lemans",
+      "prior_score": 1.9318,
+      "prior_variance": 0.35689,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.6055,
+      "prior_variance": 0.321099,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 4.4924,
+      "prior_variance": 0.561405,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 0.0902,
+      "prior_variance": 0.289063,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 3.8794,
+      "prior_variance": 0.31766,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": -0.6664,
+      "prior_variance": 0.367191,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 0.1236,
+      "prior_variance": 0.340032,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -1.5457,
+      "prior_variance": 0.273384,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.541,
+      "prior_variance": 0.335785,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -1.4027,
+      "prior_variance": 0.460646,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -2.1773,
+      "prior_variance": 0.247487,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -4.0594,
+      "prior_variance": 0.334465,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -2.0786,
+      "prior_variance": 0.343354,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.7006,
+      "prior_variance": 0.315585,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": 0.097,
+      "prior_variance": 0.303071,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -5.4702,
+      "prior_variance": 0.304065,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.617,
+      "prior_variance": 0.397435,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -10.423,
+      "prior_variance": 0.770528,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 577,
+  "timestamp": "2026-06-13T19:43:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 13.0047,
+      "prior_variance": 8.079575,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 10.6956,
+      "prior_variance": 1.861678,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 9.0994,
+      "prior_variance": 2.360263,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 9.6645,
+      "prior_variance": 1.570515,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 11.2969,
+      "prior_variance": 2.700101,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 7.6607,
+      "prior_variance": 0.660529,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 7.4724,
+      "prior_variance": 2.439519,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 9.7327,
+      "prior_variance": 1.797237,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 8.3891,
+      "prior_variance": 1.34518,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 10.0861,
+      "prior_variance": 1.35274,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 10.4086,
+      "prior_variance": 1.294921,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Blois",
+      "path": "europe/france/centre/loirevalley/blois",
+      "prior_score": 8.7645,
+      "prior_variance": 4.327839,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cannon Beach",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach",
+      "prior_score": 8.9711,
+      "prior_variance": 0.855302,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 9.6927,
+      "prior_variance": 1.506997,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 8.916,
+      "prior_variance": 2.548084,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ranthambore National Park",
+      "path": "asia/india/rajasthan/ranthambore",
+      "prior_score": 8.3931,
+      "prior_variance": 1.234174,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 9.2864,
+      "prior_variance": 1.587815,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 7.6181,
+      "prior_variance": 2.32673,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 7.3653,
+      "prior_variance": 1.068625,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 7.4351,
+      "prior_variance": 1.206801,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouses",
+      "prior_score": 8.5522,
+      "prior_variance": 1.666596,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 8.0639,
+      "prior_variance": 1.965166,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 4.5347,
+      "prior_variance": 1.319353,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 7.7955,
+      "prior_variance": 1.24116,
+      "prior_n": 2
+    }
+  ]
+}

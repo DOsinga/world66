@@ -1,0 +1,200 @@
+{
+  "round": 3165,
+  "timestamp": "2026-06-13T22:33:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 10.4765,
+      "prior_variance": 0.340845,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 8.5687,
+      "prior_variance": 0.223991,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Troms\u00f8",
+      "path": "europe/norway/tromso",
+      "prior_score": 8.1813,
+      "prior_variance": 0.182819,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_score": 9.9083,
+      "prior_variance": 0.325934,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.5519,
+      "prior_variance": 0.194778,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 8.1258,
+      "prior_variance": 0.172041,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 7.9646,
+      "prior_variance": 0.227442,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 4.6051,
+      "prior_variance": 0.147809,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 7.4682,
+      "prior_variance": 0.250143,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.9804,
+      "prior_variance": 0.210446,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 2.9028,
+      "prior_variance": 0.133749,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Windsor",
+      "path": "europe/unitedkingdom/england/south_east/windsor",
+      "prior_score": 4.3424,
+      "prior_variance": 0.148216,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.7427,
+      "prior_variance": 0.129024,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Falkirk",
+      "path": "europe/unitedkingdom/scotland/falkirk",
+      "prior_score": -0.9349,
+      "prior_variance": 0.120118,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Cospicua (or Bormla)",
+      "path": "europe/malta/cottonera_or_three/cospicua_or_bormla",
+      "prior_score": 0.4745,
+      "prior_variance": 0.124612,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.7368,
+      "prior_variance": 0.137736,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.786,
+      "prior_variance": 0.149368,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -1.9786,
+      "prior_variance": 0.123721,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -0.8724,
+      "prior_variance": 0.122634,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -0.9609,
+      "prior_variance": 0.113101,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -1.6131,
+      "prior_variance": 0.140718,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.2471,
+      "prior_variance": 0.140187,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.0763,
+      "prior_variance": 0.152495,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ellensburg",
+      "path": "northamerica/unitedstates/washington/ellensburg",
+      "prior_score": -3.7342,
+      "prior_variance": 0.138774,
+      "prior_n": 10
+    }
+  ]
+}

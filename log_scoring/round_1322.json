@@ -1,0 +1,200 @@
+{
+  "round": 1322,
+  "timestamp": "2026-06-13T20:23:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 6.3572,
+      "prior_variance": 0.394078,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 8.8363,
+      "prior_variance": 0.390959,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Innsbruck",
+      "path": "europe/austria/innsbruck",
+      "prior_score": 8.8186,
+      "prior_variance": 0.464004,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.3655,
+      "prior_variance": 0.302918,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 8.0059,
+      "prior_variance": 0.386772,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sitia",
+      "path": "europe/greece/crete/sitia",
+      "prior_score": 3.4299,
+      "prior_variance": 0.326017,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.7243,
+      "prior_variance": 0.310355,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 0.0672,
+      "prior_variance": 0.405092,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.6669,
+      "prior_variance": 0.375035,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.8909,
+      "prior_variance": 0.372615,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 2.4975,
+      "prior_variance": 0.304318,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.9021,
+      "prior_variance": 0.518821,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.6382,
+      "prior_variance": 0.34933,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -6.6883,
+      "prior_variance": 0.321143,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_score": -0.8283,
+      "prior_variance": 0.405206,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Montecristo National Park",
+      "path": "northamerica/elsalvador/montecristonationalpark",
+      "prior_score": -0.9615,
+      "prior_variance": 0.308921,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -2.1789,
+      "prior_variance": 0.326546,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.0878,
+      "prior_variance": 0.376891,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -7.2787,
+      "prior_variance": 0.440034,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -7.9032,
+      "prior_variance": 0.386089,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -5.7596,
+      "prior_variance": 0.34392,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -5.9398,
+      "prior_variance": 0.344858,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -10.6521,
+      "prior_variance": 0.577988,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Baraqish",
+      "path": "asia/yemen/baraqish",
+      "prior_score": -6.4599,
+      "prior_variance": 0.552766,
+      "prior_n": 4
+    }
+  ]
+}

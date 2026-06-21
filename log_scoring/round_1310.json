@@ -1,0 +1,200 @@
+{
+  "round": 1310,
+  "timestamp": "2026-06-13T20:22:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lucca",
+      "path": "europe/italy/tuscany/lucca",
+      "prior_score": 10.5424,
+      "prior_variance": 0.467774,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 5.5423,
+      "prior_variance": 0.361775,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 0.4009,
+      "prior_variance": 0.438929,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.9621,
+      "prior_variance": 0.320271,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jurmala",
+      "path": "europe/latvia/jurmala",
+      "prior_score": 0.9195,
+      "prior_variance": 0.305739,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.2539,
+      "prior_variance": 0.377488,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -2.1245,
+      "prior_variance": 0.342643,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.6794,
+      "prior_variance": 0.330273,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -2.15,
+      "prior_variance": 0.432673,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 1.113,
+      "prior_variance": 0.344778,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.2548,
+      "prior_variance": 0.324133,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -1.3263,
+      "prior_variance": 0.39095,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.6973,
+      "prior_variance": 0.38665,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Berwick-upon-Tweed",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/berwickontweed",
+      "prior_score": 0.128,
+      "prior_variance": 0.35754,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": 1.0639,
+      "prior_variance": 0.323801,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -1.1007,
+      "prior_variance": 0.285055,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.7763,
+      "prior_variance": 0.340863,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -0.3519,
+      "prior_variance": 0.489626,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -1.3716,
+      "prior_variance": 0.307201,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.5481,
+      "prior_variance": 0.324597,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -5.6916,
+      "prior_variance": 0.33489,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Laguna",
+      "path": "northamerica/unitedstates/newmexico/laguna",
+      "prior_score": -5.9595,
+      "prior_variance": 0.307458,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -6.0294,
+      "prior_variance": 0.442425,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -4.3464,
+      "prior_variance": 0.329556,
+      "prior_n": 4
+    }
+  ]
+}

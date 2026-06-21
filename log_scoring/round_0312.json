@@ -1,0 +1,200 @@
+{
+  "round": 312,
+  "timestamp": "2026-06-13T19:29:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 13.3523,
+      "prior_variance": 7.955704,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 11.2376,
+      "prior_variance": 3.656309,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 8.2002,
+      "prior_variance": 2.369556,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 10.0801,
+      "prior_variance": 2.7101,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 11.5827,
+      "prior_variance": 8.899171,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Visby",
+      "path": "europe/sweden/visby",
+      "prior_score": 9.2677,
+      "prior_variance": 2.802093,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.4851,
+      "prior_variance": 2.349046,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Lunenburg",
+      "path": "northamerica/canada/novascotia/lunenburg",
+      "prior_score": 2.1838,
+      "prior_variance": 1.72633,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 8.281,
+      "prior_variance": 2.362259,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 4.0517,
+      "prior_variance": 1.815866,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 1.304,
+      "prior_variance": 1.698235,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 3.4276,
+      "prior_variance": 1.658056,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 3.9933,
+      "prior_variance": 1.632645,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 7.7433,
+      "prior_variance": 2.088952,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 4.4133,
+      "prior_variance": 1.615464,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 4.7022,
+      "prior_variance": 1.999153,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -0.2477,
+      "prior_variance": 1.562786,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -2.3572,
+      "prior_variance": 1.902036,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.0798,
+      "prior_variance": 1.530649,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Fiema",
+      "path": "africa/ghana/fiema",
+      "prior_score": -7.8906,
+      "prior_variance": 2.700257,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": 5.9664,
+      "prior_variance": 1.832423,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -6.8194,
+      "prior_variance": 1.990832,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723719,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -11.5483,
+      "prior_variance": 3.309218,
+      "prior_n": 1
+    }
+  ]
+}

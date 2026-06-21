@@ -1,0 +1,200 @@
+{
+  "round": 3870,
+  "timestamp": "2026-06-13T23:26:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fort Lauderdale",
+      "path": "northamerica/unitedstates/florida/fortlauderdale",
+      "prior_score": 1.3012,
+      "prior_variance": 0.10641,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 4.0338,
+      "prior_variance": 0.105142,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.3262,
+      "prior_variance": 0.103062,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.3619,
+      "prior_variance": 0.113217,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.7483,
+      "prior_variance": 0.101557,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.1196,
+      "prior_variance": 0.116929,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Montecristo National Park",
+      "path": "northamerica/elsalvador/montecristonationalpark",
+      "prior_score": -0.9729,
+      "prior_variance": 0.11919,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": 0.0615,
+      "prior_variance": 0.1037,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.5184,
+      "prior_variance": 0.113697,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -2.0655,
+      "prior_variance": 0.112655,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.8722,
+      "prior_variance": 0.111039,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -2.7623,
+      "prior_variance": 0.103433,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Oroville",
+      "path": "northamerica/unitedstates/california/shastacascade/oroville",
+      "prior_score": -4.0111,
+      "prior_variance": 0.110934,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -6.0775,
+      "prior_variance": 0.146579,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -2.7798,
+      "prior_variance": 0.101905,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Kakamega",
+      "path": "africa/kenya/westernkenya/kakamega",
+      "prior_score": -3.8977,
+      "prior_variance": 0.116846,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Sagay City",
+      "path": "asia/philippines/negrosisland/sagay_city",
+      "prior_score": -2.4995,
+      "prior_variance": 0.103969,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.5748,
+      "prior_variance": 0.117835,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.3428,
+      "prior_variance": 0.131637,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -5.7201,
+      "prior_variance": 0.127224,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Malkapur",
+      "path": "asia/india/maharashtra/malkapur",
+      "prior_score": -6.6556,
+      "prior_variance": 0.157294,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -9.2461,
+      "prior_variance": 0.26698,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -6.3191,
+      "prior_variance": 0.147891,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -7.9063,
+      "prior_variance": 0.186329,
+      "prior_n": 12
+    }
+  ]
+}

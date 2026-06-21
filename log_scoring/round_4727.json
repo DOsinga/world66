@@ -1,0 +1,200 @@
+{
+  "round": 4727,
+  "timestamp": "2026-06-14T00:36:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua",
+      "prior_score": 6.4083,
+      "prior_variance": 0.124853,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.2789,
+      "prior_variance": 0.083898,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -0.794,
+      "prior_variance": 0.092486,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 2.4381,
+      "prior_variance": 0.188856,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Skopje",
+      "path": "europe/macedonia/skopje",
+      "prior_score": 0.1768,
+      "prior_variance": 0.081776,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": 0.6461,
+      "prior_variance": 0.09036,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.2381,
+      "prior_variance": 0.084542,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 1.0317,
+      "prior_variance": 0.085814,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -0.4522,
+      "prior_variance": 0.092823,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.3002,
+      "prior_variance": 0.083825,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Nida",
+      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
+      "prior_score": 0.8327,
+      "prior_variance": 0.086423,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -1.2847,
+      "prior_variance": 0.096849,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.6794,
+      "prior_variance": 0.08955,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": -0.0084,
+      "prior_variance": 0.095604,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -0.4398,
+      "prior_variance": 0.081886,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -0.8593,
+      "prior_variance": 0.085891,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.1015,
+      "prior_variance": 0.089463,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.519,
+      "prior_variance": 0.082843,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.4967,
+      "prior_variance": 0.077985,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -1.5835,
+      "prior_variance": 0.087509,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.8328,
+      "prior_variance": 0.104215,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -4.5332,
+      "prior_variance": 0.097933,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -5.1116,
+      "prior_variance": 0.105886,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.5771,
+      "prior_variance": 0.113253,
+      "prior_n": 16
+    }
+  ]
+}

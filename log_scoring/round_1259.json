@@ -1,0 +1,200 @@
+{
+  "round": 1259,
+  "timestamp": "2026-06-13T20:20:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 11.2516,
+      "prior_variance": 0.799017,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 12.6128,
+      "prior_variance": 0.743079,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 7.4291,
+      "prior_variance": 0.521491,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 4.3392,
+      "prior_variance": 0.413809,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 4.6639,
+      "prior_variance": 0.347476,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 2.927,
+      "prior_variance": 0.374795,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.65,
+      "prior_variance": 0.301504,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 5.3716,
+      "prior_variance": 0.369551,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 1.5259,
+      "prior_variance": 0.397532,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.4065,
+      "prior_variance": 0.373914,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 1.1581,
+      "prior_variance": 0.362647,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": 2.2355,
+      "prior_variance": 0.326877,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Datia",
+      "path": "asia/india/madhyapradesh/datia",
+      "prior_score": -5.3604,
+      "prior_variance": 0.453625,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Landskrona",
+      "path": "europe/sweden/landskrona",
+      "prior_score": -0.2951,
+      "prior_variance": 0.354769,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -0.2417,
+      "prior_variance": 0.306472,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -4.2369,
+      "prior_variance": 0.460633,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.2447,
+      "prior_variance": 0.336573,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -4.7183,
+      "prior_variance": 0.371246,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ningde",
+      "path": "asia/china/fujianprovince/ningde",
+      "prior_score": -6.1926,
+      "prior_variance": 0.302421,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -5.917,
+      "prior_variance": 0.32304,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -7.1696,
+      "prior_variance": 0.76911,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -5.6042,
+      "prior_variance": 0.488176,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -7.3536,
+      "prior_variance": 0.423869,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -7.0314,
+      "prior_variance": 0.361543,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1226,
+  "timestamp": "2026-06-13T20:18:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 3.7411,
+      "prior_variance": 0.384684,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 5.4903,
+      "prior_variance": 0.455219,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 4.0221,
+      "prior_variance": 0.424998,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 4.1902,
+      "prior_variance": 0.346291,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.9205,
+      "prior_variance": 0.418875,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.5322,
+      "prior_variance": 0.465446,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bantry",
+      "path": "europe/ireland/bantry",
+      "prior_score": 1.2782,
+      "prior_variance": 0.389744,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 3.2478,
+      "prior_variance": 0.312615,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.917,
+      "prior_variance": 0.328826,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 0.781,
+      "prior_variance": 0.30357,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 2.4592,
+      "prior_variance": 0.305039,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": -0.8069,
+      "prior_variance": 0.494144,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": -1.0541,
+      "prior_variance": 0.716319,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.8661,
+      "prior_variance": 0.308047,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -6.9466,
+      "prior_variance": 0.514064,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.9573,
+      "prior_variance": 0.406167,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -6.4024,
+      "prior_variance": 0.489106,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -5.5192,
+      "prior_variance": 0.387469,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -5.4502,
+      "prior_variance": 0.318117,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -5.6963,
+      "prior_variance": 0.511209,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -4.3277,
+      "prior_variance": 0.413412,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -5.033,
+      "prior_variance": 0.431329,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lima",
+      "path": "northamerica/unitedstates/ohio/lima",
+      "prior_score": -9.1849,
+      "prior_variance": 0.482226,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -7.2159,
+      "prior_variance": 0.385272,
+      "prior_n": 3
+    }
+  ]
+}

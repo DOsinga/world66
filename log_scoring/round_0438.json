@@ -1,0 +1,200 @@
+{
+  "round": 438,
+  "timestamp": "2026-06-13T19:35:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.368,
+      "prior_variance": 1.62109,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.8623,
+      "prior_variance": 1.509993,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": -1.747,
+      "prior_variance": 1.568254,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -1.5942,
+      "prior_variance": 1.657661,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.982,
+      "prior_variance": 2.364837,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/italianriviera/albisolaandalbissola",
+      "prior_score": -2.379,
+      "prior_variance": 1.564708,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -2.512,
+      "prior_variance": 2.323733,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -3.6525,
+      "prior_variance": 1.427099,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": -2.256,
+      "prior_variance": 2.274367,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -0.7152,
+      "prior_variance": 1.398472,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -4.0187,
+      "prior_variance": 1.872631,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -1.8301,
+      "prior_variance": 1.578459,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -0.687,
+      "prior_variance": 4.019773,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.1023,
+      "prior_variance": 1.469654,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "\u201cTovo San Giacomo\u201d",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/tovosangiacomo",
+      "prior_score": 0.0672,
+      "prior_variance": 1.735167,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.0438,
+      "prior_variance": 1.715425,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.7764,
+      "prior_variance": 1.984466,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Menlo Park",
+      "path": "northamerica/unitedstates/california/menlo_park",
+      "prior_score": -4.9234,
+      "prior_variance": 2.134868,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -4.0257,
+      "prior_variance": 2.691861,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.4576,
+      "prior_variance": 3.196087,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -5.3143,
+      "prior_variance": 2.31995,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -3.7547,
+      "prior_variance": 1.563282,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -2.6479,
+      "prior_variance": 1.418417,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -3.7967,
+      "prior_variance": 2.310641,
+      "prior_n": 1
+    }
+  ]
+}

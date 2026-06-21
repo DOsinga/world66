@@ -1,0 +1,200 @@
+{
+  "round": 1121,
+  "timestamp": "2026-06-13T20:12:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 12.0445,
+      "prior_variance": 0.695176,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Taormina",
+      "path": "europe/italy/sicily/taormina",
+      "prior_score": 13.1441,
+      "prior_variance": 0.755219,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 12.6197,
+      "prior_variance": 0.571562,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 12.229,
+      "prior_variance": 0.602399,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 12.6595,
+      "prior_variance": 1.001518,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 11.7185,
+      "prior_variance": 0.633085,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pokhara",
+      "path": "asia/nepal/pokhara",
+      "prior_score": 12.6598,
+      "prior_variance": 0.792785,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 12.6233,
+      "prior_variance": 0.638007,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 13.0117,
+      "prior_variance": 0.762987,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 14.0581,
+      "prior_variance": 0.844236,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 11.669,
+      "prior_variance": 0.590083,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 13.2426,
+      "prior_variance": 1.002477,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 11.919,
+      "prior_variance": 0.691089,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 10.624,
+      "prior_variance": 0.528677,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 9.8282,
+      "prior_variance": 0.495257,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 9.3625,
+      "prior_variance": 1.129222,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 4.6506,
+      "prior_variance": 0.635894,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 6.413,
+      "prior_variance": 0.523855,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 5.9442,
+      "prior_variance": 0.748914,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Kirkwall",
+      "path": "europe/unitedkingdom/scotland/orkneys/kirkwall",
+      "prior_score": 2.097,
+      "prior_variance": 0.420914,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 0.5112,
+      "prior_variance": 0.407123,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -1.4842,
+      "prior_variance": 0.394452,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -2.4128,
+      "prior_variance": 0.49577,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -8.7797,
+      "prior_variance": 0.403802,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2055,
+  "timestamp": "2026-06-13T21:15:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 6.2011,
+      "prior_variance": 0.277656,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 6.3759,
+      "prior_variance": 0.301871,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 4.9871,
+      "prior_variance": 0.22304,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Riviera del Conero",
+      "path": "europe/italy/marche/riviera_del_conero",
+      "prior_score": 3.9596,
+      "prior_variance": 0.22433,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Maratea",
+      "path": "europe/italy/basilicata/maratea",
+      "prior_score": 3.453,
+      "prior_variance": 0.24422,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.5731,
+      "prior_variance": 0.334585,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Po\u00e1s Volcano",
+      "path": "northamerica/costarica/poas",
+      "prior_score": 6.6153,
+      "prior_variance": 0.378379,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 4.3335,
+      "prior_variance": 0.259338,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 4.0483,
+      "prior_variance": 0.204097,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": 2.6878,
+      "prior_variance": 0.216096,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pensacola Beach",
+      "path": "northamerica/unitedstates/florida/pensacola_beach",
+      "prior_score": 2.2383,
+      "prior_variance": 0.271874,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district",
+      "prior_score": 3.3044,
+      "prior_variance": 0.20022,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.2294,
+      "prior_variance": 0.219869,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": -0.0053,
+      "prior_variance": 0.222283,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 2.092,
+      "prior_variance": 0.23386,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Bishop",
+      "path": "northamerica/unitedstates/california/highsierra/bishop",
+      "prior_score": 1.4677,
+      "prior_variance": 0.188545,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.1044,
+      "prior_variance": 0.244515,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.6947,
+      "prior_variance": 0.209327,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": -0.3393,
+      "prior_variance": 0.191646,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 0.9049,
+      "prior_variance": 0.186488,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 3.7857,
+      "prior_variance": 0.240912,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 1.4143,
+      "prior_variance": 0.182696,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -1.3288,
+      "prior_variance": 0.216956,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.571,
+      "prior_variance": 0.179882,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3004,
+  "timestamp": "2026-06-13T22:22:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 5.1024,
+      "prior_variance": 0.17203,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.7052,
+      "prior_variance": 0.138001,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -2.7649,
+      "prior_variance": 0.137314,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Sighet",
+      "path": "europe/romania/sighet",
+      "prior_score": -1.8439,
+      "prior_variance": 0.151941,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.9698,
+      "prior_variance": 0.131851,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -2.2313,
+      "prior_variance": 0.154056,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -3.5767,
+      "prior_variance": 0.177539,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -4.9286,
+      "prior_variance": 0.13628,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -6.3528,
+      "prior_variance": 0.216287,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -5.8966,
+      "prior_variance": 0.202014,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.07,
+      "prior_variance": 0.174304,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.2579,
+      "prior_variance": 0.143574,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -6.771,
+      "prior_variance": 0.24265,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Park Falls",
+      "path": "northamerica/unitedstates/wisconsin/parkfalls",
+      "prior_score": -5.2967,
+      "prior_variance": 0.201908,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -6.0169,
+      "prior_variance": 0.184507,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -5.4975,
+      "prior_variance": 0.22437,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -6.7442,
+      "prior_variance": 0.224346,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -6.6865,
+      "prior_variance": 0.360889,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Dongying",
+      "path": "asia/china/shandong_province/dongying",
+      "prior_score": -5.7063,
+      "prior_variance": 0.164727,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.3879,
+      "prior_variance": 0.14479,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Ghaziabad",
+      "path": "asia/india/uttarpradesh/ghaziabad",
+      "prior_score": -6.4994,
+      "prior_variance": 0.221357,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -7.3706,
+      "prior_variance": 0.204753,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.4521,
+      "prior_variance": 0.314719,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -9.874,
+      "prior_variance": 0.358654,
+      "prior_n": 9
+    }
+  ]
+}

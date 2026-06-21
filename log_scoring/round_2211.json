@@ -1,0 +1,200 @@
+{
+  "round": 2211,
+  "timestamp": "2026-06-13T21:26:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 6.5633,
+      "prior_variance": 0.219973,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.1753,
+      "prior_variance": 0.189183,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -2.7676,
+      "prior_variance": 0.347715,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Korce",
+      "path": "europe/albania/korce",
+      "prior_score": -1.1136,
+      "prior_variance": 0.197458,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Salt Lake City",
+      "path": "northamerica/unitedstates/utah/saltlakecity",
+      "prior_score": 1.9954,
+      "prior_variance": 0.22515,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.8854,
+      "prior_variance": 0.185028,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -4.5991,
+      "prior_variance": 0.232304,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Shepparton",
+      "path": "australiaandpacific/australia/victoria/shepparton",
+      "prior_score": -4.6415,
+      "prior_variance": 0.22627,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.8797,
+      "prior_variance": 0.184591,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.1901,
+      "prior_variance": 0.193392,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Wichita",
+      "path": "northamerica/unitedstates/kansas/wichita",
+      "prior_score": -3.3641,
+      "prior_variance": 0.203936,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -4.9184,
+      "prior_variance": 0.19117,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -7.2858,
+      "prior_variance": 0.324284,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -5.0343,
+      "prior_variance": 0.312473,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -5.7056,
+      "prior_variance": 0.281193,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Rockingham",
+      "path": "northamerica/unitedstates/northcarolina/rockingham",
+      "prior_score": -6.1931,
+      "prior_variance": 0.258459,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -5.0364,
+      "prior_variance": 0.243707,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Buea",
+      "path": "africa/cameroon/buea",
+      "prior_score": -3.6725,
+      "prior_variance": 0.22732,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -4.7382,
+      "prior_variance": 0.186008,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.3366,
+      "prior_variance": 0.209057,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -7.5642,
+      "prior_variance": 0.335835,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "La Palma",
+      "path": "northamerica/panama/dariengap/la_palma",
+      "prior_score": -7.9936,
+      "prior_variance": 0.351455,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -10.95,
+      "prior_variance": 0.434119,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -10.5049,
+      "prior_variance": 0.693461,
+      "prior_n": 8
+    }
+  ]
+}

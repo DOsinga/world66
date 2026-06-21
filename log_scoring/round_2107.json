@@ -1,0 +1,200 @@
+{
+  "round": 2107,
+  "timestamp": "2026-06-13T21:19:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 12.5749,
+      "prior_variance": 0.453678,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Canyonlands",
+      "path": "northamerica/unitedstates/utah/canyonlands",
+      "prior_score": 9.4432,
+      "prior_variance": 0.401451,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 9.9462,
+      "prior_variance": 0.455821,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.9157,
+      "prior_variance": 0.282792,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": 0.3294,
+      "prior_variance": 0.271025,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 0.0635,
+      "prior_variance": 0.204282,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 2.9297,
+      "prior_variance": 0.248344,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.549,
+      "prior_variance": 0.179244,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.3315,
+      "prior_variance": 0.178411,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 1.054,
+      "prior_variance": 0.203094,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Druskininkai",
+      "path": "europe/lithuania/druskininkai",
+      "prior_score": 0.3789,
+      "prior_variance": 0.203119,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 2.3458,
+      "prior_variance": 0.214189,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Banner Elk",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/banner_elknc",
+      "prior_score": -0.129,
+      "prior_variance": 0.17466,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.4755,
+      "prior_variance": 0.194852,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -2.2143,
+      "prior_variance": 0.196929,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Hussaini",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni",
+      "prior_score": -1.1041,
+      "prior_variance": 0.249269,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": 0.0709,
+      "prior_variance": 0.214985,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.6186,
+      "prior_variance": 0.215797,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -2.327,
+      "prior_variance": 0.231019,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -3.7815,
+      "prior_variance": 0.208788,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -4.5527,
+      "prior_variance": 0.240077,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -2.8472,
+      "prior_variance": 0.225291,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -6.5485,
+      "prior_variance": 0.207141,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -4.5872,
+      "prior_variance": 0.278584,
+      "prior_n": 6
+    }
+  ]
+}

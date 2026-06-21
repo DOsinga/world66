@@ -1,0 +1,200 @@
+{
+  "round": 2066,
+  "timestamp": "2026-06-13T21:16:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 14.3753,
+      "prior_variance": 0.771201,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 8.9492,
+      "prior_variance": 0.379308,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.893,
+      "prior_variance": 0.279541,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 7.7158,
+      "prior_variance": 0.289668,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 4.6049,
+      "prior_variance": 0.201062,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 3.1901,
+      "prior_variance": 0.270309,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 6.5641,
+      "prior_variance": 0.235693,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.6893,
+      "prior_variance": 0.203245,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 4.1469,
+      "prior_variance": 0.239467,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 2.3086,
+      "prior_variance": 0.226764,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 6.1087,
+      "prior_variance": 0.253657,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.1484,
+      "prior_variance": 0.232724,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 5.3843,
+      "prior_variance": 0.221716,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 1.811,
+      "prior_variance": 0.178699,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Austin",
+      "path": "northamerica/unitedstates/texas/austin",
+      "prior_score": 3.8235,
+      "prior_variance": 0.236566,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Amarante",
+      "path": "europe/portugal/amarante",
+      "prior_score": 1.6845,
+      "prior_variance": 0.222739,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 0.4627,
+      "prior_variance": 0.288091,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -1.3029,
+      "prior_variance": 0.182188,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": 2.6886,
+      "prior_variance": 0.210445,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": -0.8076,
+      "prior_variance": 0.207795,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Montpelier",
+      "path": "northamerica/unitedstates/vermont/montpelier",
+      "prior_score": 0.6156,
+      "prior_variance": 0.182887,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": -0.9015,
+      "prior_variance": 0.309483,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -4.1195,
+      "prior_variance": 0.311739,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -5.2128,
+      "prior_variance": 0.244293,
+      "prior_n": 6
+    }
+  ]
+}

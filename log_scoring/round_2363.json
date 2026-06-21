@@ -1,0 +1,200 @@
+{
+  "round": 2363,
+  "timestamp": "2026-06-13T21:37:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lauterbrunnen",
+      "path": "europe/switzerland/lauterbrunnen",
+      "prior_score": 12.5554,
+      "prior_variance": 0.576394,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Uxmal",
+      "path": "northamerica/mexico/yucatan/uxmal",
+      "prior_score": 4.8511,
+      "prior_variance": 0.253164,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 5.6489,
+      "prior_variance": 0.232296,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 3.8803,
+      "prior_variance": 0.197628,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.6939,
+      "prior_variance": 0.221773,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.654,
+      "prior_variance": 0.195919,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Alora",
+      "path": "europe/spain/andalucia/alora",
+      "prior_score": 0.714,
+      "prior_variance": 0.175429,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.0341,
+      "prior_variance": 0.174806,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chuuk",
+      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
+      "prior_score": 1.4288,
+      "prior_variance": 0.245257,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.5116,
+      "prior_variance": 0.199368,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kragero",
+      "path": "europe/norway/kragero",
+      "prior_score": 0.9032,
+      "prior_variance": 0.162259,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 0.7603,
+      "prior_variance": 0.245635,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_score": 0.5061,
+      "prior_variance": 0.161999,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 1.8484,
+      "prior_variance": 0.231171,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -2.7672,
+      "prior_variance": 0.175829,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -1.4104,
+      "prior_variance": 0.157459,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -2.1452,
+      "prior_variance": 0.194969,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -3.1744,
+      "prior_variance": 0.151959,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -5.2085,
+      "prior_variance": 0.210825,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Soveria Mannelli",
+      "path": "europe/italy/calabria/soveria_mannelli",
+      "prior_score": -3.3785,
+      "prior_variance": 0.186532,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kropyvnytskyi",
+      "path": "europe/ukraine/kirovograd",
+      "prior_score": -6.6723,
+      "prior_variance": 0.425084,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -6.8755,
+      "prior_variance": 0.309161,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -6.0705,
+      "prior_variance": 0.254323,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -7.33,
+      "prior_variance": 0.310502,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3997,
+  "timestamp": "2026-06-13T23:35:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.1651,
+      "prior_variance": 0.118447,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.7959,
+      "prior_variance": 0.139261,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 2.4209,
+      "prior_variance": 0.103589,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.3959,
+      "prior_variance": 0.103054,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.3474,
+      "prior_variance": 0.099078,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 0.1818,
+      "prior_variance": 0.118504,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -0.6191,
+      "prior_variance": 0.099663,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -0.8708,
+      "prior_variance": 0.098012,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.3115,
+      "prior_variance": 0.105204,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.7886,
+      "prior_variance": 0.097924,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.0831,
+      "prior_variance": 0.094655,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Pisticci",
+      "path": "europe/italy/basilicata/pisticci",
+      "prior_score": -1.8416,
+      "prior_variance": 0.106164,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -2.1775,
+      "prior_variance": 0.115694,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -2.978,
+      "prior_variance": 0.130766,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -2.7894,
+      "prior_variance": 0.103044,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_score": -3.0278,
+      "prior_variance": 0.107938,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -1.0673,
+      "prior_variance": 0.125442,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.5613,
+      "prior_variance": 0.109138,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.6713,
+      "prior_variance": 0.106074,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -2.154,
+      "prior_variance": 0.114285,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.8407,
+      "prior_variance": 0.097149,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Little America",
+      "path": "northamerica/unitedstates/wyoming/little_america",
+      "prior_score": -7.1399,
+      "prior_variance": 0.14338,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -6.5296,
+      "prior_variance": 0.137031,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -10.9374,
+      "prior_variance": 0.533783,
+      "prior_n": 12
+    }
+  ]
+}

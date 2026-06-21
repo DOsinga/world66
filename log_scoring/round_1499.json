@@ -1,0 +1,200 @@
+{
+  "round": 1499,
+  "timestamp": "2026-06-13T20:34:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 5.9791,
+      "prior_variance": 0.34457,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Wieliczka",
+      "path": "europe/poland/wieliczka",
+      "prior_score": 2.972,
+      "prior_variance": 0.251473,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 4.2369,
+      "prior_variance": 0.279212,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 5.1932,
+      "prior_variance": 0.312945,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Kufstein",
+      "path": "europe/austria/kufstein",
+      "prior_score": 4.3805,
+      "prior_variance": 0.384736,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 0.9008,
+      "prior_variance": 0.258887,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 3.2705,
+      "prior_variance": 0.306902,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.6396,
+      "prior_variance": 0.379092,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.9274,
+      "prior_variance": 0.281482,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.8774,
+      "prior_variance": 0.3694,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 2.7459,
+      "prior_variance": 0.29988,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 1.8984,
+      "prior_variance": 0.298049,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_score": 1.2102,
+      "prior_variance": 0.343179,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -1.2974,
+      "prior_variance": 0.328717,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 0.3064,
+      "prior_variance": 0.306083,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Ruidoso",
+      "path": "northamerica/unitedstates/newmexico/ruidoso",
+      "prior_score": 0.0285,
+      "prior_variance": 0.31439,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -3.2444,
+      "prior_variance": 0.465187,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.6725,
+      "prior_variance": 0.311423,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -6.5612,
+      "prior_variance": 0.435923,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_score": 0.6482,
+      "prior_variance": 0.332754,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -5.0948,
+      "prior_variance": 0.375358,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.5218,
+      "prior_variance": 0.311885,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -6.6492,
+      "prior_variance": 0.327665,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -5.6718,
+      "prior_variance": 0.34225,
+      "prior_n": 4
+    }
+  ]
+}

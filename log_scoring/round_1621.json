@@ -1,0 +1,200 @@
+{
+  "round": 1621,
+  "timestamp": "2026-06-13T20:42:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 6.3582,
+      "prior_variance": 0.288003,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 7.2384,
+      "prior_variance": 0.233466,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Montepulciano",
+      "path": "europe/italy/tuscany/montepulciano",
+      "prior_score": 7.7911,
+      "prior_variance": 0.355389,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nazca",
+      "path": "southamerica/peru/nazca",
+      "prior_score": 6.3065,
+      "prior_variance": 0.352061,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Angra do Heroismo",
+      "path": "europe/portugal/theazores/angra_do_heroismo",
+      "prior_score": 6.0877,
+      "prior_variance": 0.315819,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": 4.1031,
+      "prior_variance": 0.230271,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Riccione",
+      "path": "europe/italy/emiliaromagna/riccione",
+      "prior_score": 1.3858,
+      "prior_variance": 0.280431,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 4.2973,
+      "prior_variance": 0.295716,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.6106,
+      "prior_variance": 0.298192,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": -0.219,
+      "prior_variance": 0.36323,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.6741,
+      "prior_variance": 0.294351,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Inari",
+      "path": "europe/finland/inari",
+      "prior_score": 1.679,
+      "prior_variance": 0.298174,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Fairbanks",
+      "path": "northamerica/unitedstates/alaska/fairbanks",
+      "prior_score": 1.3754,
+      "prior_variance": 0.282417,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 1.1949,
+      "prior_variance": 0.277965,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.1239,
+      "prior_variance": 0.303938,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.9911,
+      "prior_variance": 0.261897,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 2.5566,
+      "prior_variance": 0.359872,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.6958,
+      "prior_variance": 0.283361,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bizerte",
+      "path": "africa/tunisia/bizerte",
+      "prior_score": -0.8929,
+      "prior_variance": 0.251283,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -2.0419,
+      "prior_variance": 0.273203,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -0.9019,
+      "prior_variance": 0.269668,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -3.9108,
+      "prior_variance": 0.248145,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.8247,
+      "prior_variance": 0.263959,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -2.9201,
+      "prior_variance": 0.24255,
+      "prior_n": 5
+    }
+  ]
+}

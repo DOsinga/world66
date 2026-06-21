@@ -1,0 +1,200 @@
+{
+  "round": 2172,
+  "timestamp": "2026-06-13T21:23:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 10.2036,
+      "prior_variance": 0.651095,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 10.8896,
+      "prior_variance": 0.332676,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 9.2101,
+      "prior_variance": 0.607178,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 7.3211,
+      "prior_variance": 0.410696,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 9.8753,
+      "prior_variance": 0.340584,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 9.3516,
+      "prior_variance": 0.331191,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 7.9008,
+      "prior_variance": 0.293146,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 8.7774,
+      "prior_variance": 0.314646,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 6.2449,
+      "prior_variance": 0.255488,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 7.1376,
+      "prior_variance": 0.302227,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.7077,
+      "prior_variance": 0.208318,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 1.7821,
+      "prior_variance": 0.464183,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.6038,
+      "prior_variance": 0.187257,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.4461,
+      "prior_variance": 0.204742,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.6763,
+      "prior_variance": 0.224766,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_score": 2.5977,
+      "prior_variance": 0.184788,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": 0.8788,
+      "prior_variance": 0.229689,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.7895,
+      "prior_variance": 0.198712,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 2.7983,
+      "prior_variance": 0.196583,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 1.5835,
+      "prior_variance": 0.209692,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 2.0761,
+      "prior_variance": 0.232648,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 3.13,
+      "prior_variance": 0.211934,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": 0.2794,
+      "prior_variance": 0.206312,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -3.6693,
+      "prior_variance": 0.209509,
+      "prior_n": 7
+    }
+  ]
+}

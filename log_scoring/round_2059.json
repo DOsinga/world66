@@ -1,0 +1,200 @@
+{
+  "round": 2059,
+  "timestamp": "2026-06-13T21:15:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 9.3547,
+      "prior_variance": 0.499488,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 1.9824,
+      "prior_variance": 0.257059,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 0.9168,
+      "prior_variance": 0.233116,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.3086,
+      "prior_variance": 0.221166,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -1.583,
+      "prior_variance": 0.255553,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.3362,
+      "prior_variance": 0.216293,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 3.4906,
+      "prior_variance": 0.269054,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.6247,
+      "prior_variance": 0.200347,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": -0.3142,
+      "prior_variance": 0.213641,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.553,
+      "prior_variance": 0.200617,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.5039,
+      "prior_variance": 0.190418,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 1.3895,
+      "prior_variance": 0.213269,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Red Lodge",
+      "path": "northamerica/unitedstates/montana/redlodge",
+      "prior_score": -0.2471,
+      "prior_variance": 0.17857,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.6343,
+      "prior_variance": 0.222768,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.6571,
+      "prior_variance": 0.181728,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.7588,
+      "prior_variance": 0.188839,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ashtarak",
+      "path": "europe/armenia/aragatsotn_marz/ashtarak",
+      "prior_score": -2.5485,
+      "prior_variance": 0.18456,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -4.5682,
+      "prior_variance": 0.286149,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Warangal",
+      "path": "asia/india/andhrapradesh/warangal",
+      "prior_score": -2.9818,
+      "prior_variance": 0.213588,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -1.5025,
+      "prior_variance": 0.20867,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -5.9939,
+      "prior_variance": 0.277567,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -4.5193,
+      "prior_variance": 0.230115,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": -0.0705,
+      "prior_variance": 0.239769,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -8.215,
+      "prior_variance": 0.447865,
+      "prior_n": 6
+    }
+  ]
+}

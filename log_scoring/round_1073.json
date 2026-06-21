@@ -1,0 +1,200 @@
+{
+  "round": 1073,
+  "timestamp": "2026-06-13T20:09:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -1.4318,
+      "prior_variance": 0.443742,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -0.9323,
+      "prior_variance": 0.463628,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Buena Vista",
+      "path": "northamerica/unitedstates/colorado/buenavista",
+      "prior_score": 1.3352,
+      "prior_variance": 0.408827,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.8322,
+      "prior_variance": 0.79048,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Zaozhuang",
+      "path": "asia/china/shandong_province/zaozhuang",
+      "prior_score": -8.1155,
+      "prior_variance": 0.50645,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -8.17,
+      "prior_variance": 0.419631,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Pulau Sekang",
+      "path": "asia/singapore/islands/pulausekang",
+      "prior_score": -9.8206,
+      "prior_variance": 0.676325,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -8.1275,
+      "prior_variance": 0.564277,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -7.9971,
+      "prior_variance": 0.463977,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -10.8398,
+      "prior_variance": 0.585389,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -7.1925,
+      "prior_variance": 0.392298,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Goytepe",
+      "path": "europe/azerbaijan/goytepe",
+      "prior_score": -7.7693,
+      "prior_variance": 0.453841,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -10.1937,
+      "prior_variance": 0.488732,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -10.2958,
+      "prior_variance": 1.535194,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -8.5005,
+      "prior_variance": 0.619918,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Warri",
+      "path": "africa/nigeria/warri",
+      "prior_score": -9.8664,
+      "prior_variance": 0.671429,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -10.5541,
+      "prior_variance": 0.655204,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -11.6539,
+      "prior_variance": 0.655949,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -12.8898,
+      "prior_variance": 0.586668,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -13.5576,
+      "prior_variance": 0.617401,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -8.9479,
+      "prior_variance": 0.74372,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -10.3187,
+      "prior_variance": 0.578685,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -11.0789,
+      "prior_variance": 0.935079,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Williams Dam",
+      "path": "northamerica/unitedstates/williams_dam",
+      "prior_score": -9.9106,
+      "prior_variance": 0.578342,
+      "prior_n": 3
+    }
+  ]
+}

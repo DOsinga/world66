@@ -1,0 +1,200 @@
+{
+  "round": 567,
+  "timestamp": "2026-06-13T19:42:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -4.3259,
+      "prior_variance": 1.464094,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": -3.1898,
+      "prior_variance": 0.921876,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tilghman Island",
+      "path": "northamerica/unitedstates/maryland/tilghman_island",
+      "prior_score": -4.3985,
+      "prior_variance": 1.320481,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -5.9463,
+      "prior_variance": 1.128644,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ancenis",
+      "path": "europe/france/centre/loirevalley/ancenis",
+      "prior_score": -5.1495,
+      "prior_variance": 1.501331,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -5.9864,
+      "prior_variance": 1.440089,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -4.1866,
+      "prior_variance": 1.201458,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -3.5654,
+      "prior_variance": 0.81915,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -4.4104,
+      "prior_variance": 0.913413,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Belo Horizonte",
+      "path": "southamerica/brazil/belohorizonte",
+      "prior_score": -2.9472,
+      "prior_variance": 1.297138,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -6.8657,
+      "prior_variance": 1.417472,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -8.0159,
+      "prior_variance": 0.732795,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -8.4625,
+      "prior_variance": 1.301833,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -5.6534,
+      "prior_variance": 1.582276,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Akron",
+      "path": "northamerica/unitedstates/ohio/akron",
+      "prior_score": -4.2319,
+      "prior_variance": 1.251815,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -6.9695,
+      "prior_variance": 1.283703,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -8.6399,
+      "prior_variance": 1.227937,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -4.8193,
+      "prior_variance": 1.237637,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -6.6024,
+      "prior_variance": 1.107097,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -6.8624,
+      "prior_variance": 1.217965,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -10.1269,
+      "prior_variance": 4.307689,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -4.215,
+      "prior_variance": 1.459907,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -8.8155,
+      "prior_variance": 1.16381,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -12.6265,
+      "prior_variance": 7.427665,
+      "prior_n": 3
+    }
+  ]
+}

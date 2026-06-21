@@ -1,0 +1,200 @@
+{
+  "round": 1824,
+  "timestamp": "2026-06-13T20:55:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 6.4505,
+      "prior_variance": 0.278464,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "St. Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews1",
+      "prior_score": 5.9521,
+      "prior_variance": 0.294693,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 0.7991,
+      "prior_variance": 0.247003,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 2.2499,
+      "prior_variance": 0.255568,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "San Andr\u00e9s",
+      "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+      "prior_score": 5.0552,
+      "prior_variance": 0.223242,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 1.36,
+      "prior_variance": 0.241786,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 1.0121,
+      "prior_variance": 0.220853,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -0.8076,
+      "prior_variance": 0.367006,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.2682,
+      "prior_variance": 0.306762,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -1.0072,
+      "prior_variance": 0.286739,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": -0.4424,
+      "prior_variance": 0.28796,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 1.0859,
+      "prior_variance": 0.221812,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.7795,
+      "prior_variance": 0.286275,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.6047,
+      "prior_variance": 0.254714,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -0.2692,
+      "prior_variance": 0.237251,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.1392,
+      "prior_variance": 0.20957,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Changchun",
+      "path": "asia/china/jilin/changchun",
+      "prior_score": -3.8504,
+      "prior_variance": 0.21133,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -5.8893,
+      "prior_variance": 0.430114,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Mekele",
+      "path": "africa/ethiopia/mekele",
+      "prior_score": -5.1101,
+      "prior_variance": 0.306258,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -9.458,
+      "prior_variance": 0.427504,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Nguigmi",
+      "path": "africa/niger/nguigmi",
+      "prior_score": -9.534,
+      "prior_variance": 0.492971,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.3546,
+      "prior_variance": 0.269267,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -8.3299,
+      "prior_variance": 0.364895,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Tuttle",
+      "path": "northamerica/unitedstates/oklahoma/tuttle",
+      "prior_score": -7.8699,
+      "prior_variance": 0.483667,
+      "prior_n": 5
+    }
+  ]
+}

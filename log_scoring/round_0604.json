@@ -1,0 +1,200 @@
+{
+  "round": 604,
+  "timestamp": "2026-06-13T19:44:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 17.78,
+      "prior_variance": 6.398817,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 18.2936,
+      "prior_variance": 2.783408,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Santorini",
+      "path": "europe/greece/santorini",
+      "prior_score": 18.9783,
+      "prior_variance": 2.249194,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "La Digue",
+      "path": "africa/seychelles/ladigue",
+      "prior_score": 15.236,
+      "prior_variance": 7.04173,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 18.1054,
+      "prior_variance": 5.74493,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 13.51,
+      "prior_variance": 7.596308,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Jasper",
+      "path": "northamerica/canada/alberta/jasper",
+      "prior_score": 17.4965,
+      "prior_variance": 1.698592,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": 13.2814,
+      "prior_variance": 2.153801,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 15.9825,
+      "prior_variance": 3.242367,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 19.6846,
+      "prior_variance": 2.043082,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 15.9239,
+      "prior_variance": 6.535884,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 15.2432,
+      "prior_variance": 7.182875,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jiufen",
+      "path": "asia/taiwan/jiufen",
+      "prior_score": 14.1439,
+      "prior_variance": 7.538997,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 15.8902,
+      "prior_variance": 2.455691,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 15.1123,
+      "prior_variance": 6.479451,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 17.6261,
+      "prior_variance": 6.457304,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 16.8358,
+      "prior_variance": 4.386123,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 17.6851,
+      "prior_variance": 2.939728,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 17.6453,
+      "prior_variance": 1.426456,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 13.9073,
+      "prior_variance": 7.668868,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 16.7978,
+      "prior_variance": 6.113464,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 12.8216,
+      "prior_variance": 3.709946,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 14.0836,
+      "prior_variance": 6.492356,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 17.0226,
+      "prior_variance": 2.429254,
+      "prior_n": 2
+    }
+  ]
+}

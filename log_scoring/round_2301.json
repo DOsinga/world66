@@ -1,0 +1,200 @@
+{
+  "round": 2301,
+  "timestamp": "2026-06-13T21:32:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.5889,
+      "prior_variance": 0.186903,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -0.9085,
+      "prior_variance": 0.185915,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": -1.2598,
+      "prior_variance": 0.203373,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.4928,
+      "prior_variance": 0.186679,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": -0.6926,
+      "prior_variance": 0.185847,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Oregon City",
+      "path": "northamerica/unitedstates/oregon/oregoncity",
+      "prior_score": -1.8218,
+      "prior_variance": 0.162231,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.9296,
+      "prior_variance": 0.22607,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -2.0979,
+      "prior_variance": 0.224633,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -2.5049,
+      "prior_variance": 0.189859,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.6623,
+      "prior_variance": 0.180181,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.848,
+      "prior_variance": 0.203113,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ribeir\u00e3o Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -4.1372,
+      "prior_variance": 0.234311,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.5309,
+      "prior_variance": 0.207303,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -2.0449,
+      "prior_variance": 0.178087,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -1.3487,
+      "prior_variance": 0.190458,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -4.3083,
+      "prior_variance": 0.286867,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -3.7187,
+      "prior_variance": 0.292912,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.9459,
+      "prior_variance": 0.205268,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.99,
+      "prior_variance": 0.216955,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/newyorkstate/carmel",
+      "prior_score": -4.6037,
+      "prior_variance": 0.193283,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Tubar\u00e3o",
+      "path": "southamerica/brazil/tubaro",
+      "prior_score": -4.1755,
+      "prior_variance": 0.182709,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -5.0088,
+      "prior_variance": 0.20113,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -2.7654,
+      "prior_variance": 0.204441,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -7.7414,
+      "prior_variance": 0.341591,
+      "prior_n": 7
+    }
+  ]
+}

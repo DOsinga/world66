@@ -1,0 +1,200 @@
+{
+  "round": 4768,
+  "timestamp": "2026-06-14T00:40:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Talu",
+      "path": "asia/thailand/koh_talu_island",
+      "prior_score": 2.6415,
+      "prior_variance": 0.094749,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.0312,
+      "prior_variance": 0.09069,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Dwarka",
+      "path": "asia/india/gujarat/dwarka",
+      "prior_score": 0.2471,
+      "prior_variance": 0.086679,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -2.0379,
+      "prior_variance": 0.09403,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": -0.45,
+      "prior_variance": 0.085114,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -0.2752,
+      "prior_variance": 0.083258,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -2.9933,
+      "prior_variance": 0.092477,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.2853,
+      "prior_variance": 0.093538,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -1.8357,
+      "prior_variance": 0.084789,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Kerimaki",
+      "path": "europe/finland/kerimaki",
+      "prior_score": -2.4867,
+      "prior_variance": 0.089747,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Missoula",
+      "path": "northamerica/unitedstates/montana/missoula",
+      "prior_score": -0.4059,
+      "prior_variance": 0.083154,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.5252,
+      "prior_variance": 0.090149,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Tetovo",
+      "path": "europe/macedonia/tetovo",
+      "prior_score": -2.8774,
+      "prior_variance": 0.086251,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Daman",
+      "path": "asia/india/daman",
+      "prior_score": -2.8987,
+      "prior_variance": 0.089632,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.2742,
+      "prior_variance": 0.092721,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.1117,
+      "prior_variance": 0.106474,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -3.5167,
+      "prior_variance": 0.097186,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.3301,
+      "prior_variance": 0.110685,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.8236,
+      "prior_variance": 0.1116,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.4392,
+      "prior_variance": 0.127135,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Santa Maria",
+      "path": "northamerica/unitedstates/california/centralcoast/santamaria",
+      "prior_score": -2.8061,
+      "prior_variance": 0.088154,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -4.0981,
+      "prior_variance": 0.105926,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -9.6573,
+      "prior_variance": 0.329896,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -9.3923,
+      "prior_variance": 0.208717,
+      "prior_n": 15
+    }
+  ]
+}

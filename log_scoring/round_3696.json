@@ -1,0 +1,200 @@
+{
+  "round": 3696,
+  "timestamp": "2026-06-13T23:13:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 7.4819,
+      "prior_variance": 0.161425,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 5.618,
+      "prior_variance": 0.166955,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Trogir",
+      "path": "europe/croatia/trogir",
+      "prior_score": 6.8577,
+      "prior_variance": 0.164147,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 5.0707,
+      "prior_variance": 0.145652,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 6.069,
+      "prior_variance": 0.122412,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 5.869,
+      "prior_variance": 0.135256,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 6.4002,
+      "prior_variance": 0.151594,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 5.065,
+      "prior_variance": 0.13863,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 3.9823,
+      "prior_variance": 0.129903,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.2487,
+      "prior_variance": 0.122315,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 1.9333,
+      "prior_variance": 0.111349,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": 3.8803,
+      "prior_variance": 0.123462,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": 0.2597,
+      "prior_variance": 0.137083,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 3.6315,
+      "prior_variance": 0.134573,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 3.4769,
+      "prior_variance": 0.126114,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.1467,
+      "prior_variance": 0.101935,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.9727,
+      "prior_variance": 0.123168,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.9867,
+      "prior_variance": 0.120199,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 1.0228,
+      "prior_variance": 0.108114,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimeno",
+      "prior_score": 0.5112,
+      "prior_variance": 0.130257,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ternate",
+      "path": "asia/indonesia/maluku/ternate",
+      "prior_score": 1.6613,
+      "prior_variance": 0.110655,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 4.5801,
+      "prior_variance": 0.144582,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Bamenda",
+      "path": "africa/cameroon/bamenda",
+      "prior_score": -3.7331,
+      "prior_variance": 0.124572,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.6402,
+      "prior_variance": 0.142329,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1437,
+  "timestamp": "2026-06-13T20:30:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 9.684,
+      "prior_variance": 0.33308,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 1.0946,
+      "prior_variance": 0.344942,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 4.6156,
+      "prior_variance": 0.344158,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.4035,
+      "prior_variance": 0.307296,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Elvas",
+      "path": "europe/portugal/elvas",
+      "prior_score": 0.9313,
+      "prior_variance": 0.329798,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.4236,
+      "prior_variance": 0.315115,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.1426,
+      "prior_variance": 0.291206,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -2.3861,
+      "prior_variance": 0.280078,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 1.0199,
+      "prior_variance": 0.29028,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "St-Val\u00e9ry-sur-Somme",
+      "path": "europe/france/nord/st_valery_sur_somme",
+      "prior_score": 0.8189,
+      "prior_variance": 0.392286,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -0.8354,
+      "prior_variance": 0.338422,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 2.5696,
+      "prior_variance": 0.321209,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.4499,
+      "prior_variance": 0.294406,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -1.5895,
+      "prior_variance": 0.313178,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -1.5525,
+      "prior_variance": 0.339803,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.274,
+      "prior_variance": 0.303097,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.6804,
+      "prior_variance": 0.322682,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Vengurla",
+      "path": "asia/india/maharashtra/vengurla",
+      "prior_score": -6.3244,
+      "prior_variance": 0.435434,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -3.4499,
+      "prior_variance": 0.317349,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Huntington",
+      "path": "northamerica/unitedstates/westvirginia/huntington",
+      "prior_score": -5.7823,
+      "prior_variance": 0.477256,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -8.4038,
+      "prior_variance": 0.588758,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_score": -5.9937,
+      "prior_variance": 0.589093,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/pennsylvania/livermore",
+      "prior_score": -9.6981,
+      "prior_variance": 0.561837,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -10.2974,
+      "prior_variance": 0.586221,
+      "prior_n": 4
+    }
+  ]
+}

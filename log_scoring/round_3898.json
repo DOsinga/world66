@@ -1,0 +1,200 @@
+{
+  "round": 3898,
+  "timestamp": "2026-06-13T23:28:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leh",
+      "path": "asia/india/jammuandkashmir/ladakh/leh",
+      "prior_score": 7.2207,
+      "prior_variance": 0.163369,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Rapallo",
+      "path": "europe/italy/liguria/italianriviera/tigullio/rapallo",
+      "prior_score": 3.6547,
+      "prior_variance": 0.103034,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 4.7603,
+      "prior_variance": 0.134273,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 2.0824,
+      "prior_variance": 0.132725,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 2.7336,
+      "prior_variance": 0.113515,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 3.7087,
+      "prior_variance": 0.124862,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 2.4898,
+      "prior_variance": 0.118854,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_score": 3.1985,
+      "prior_variance": 0.104882,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 3.0951,
+      "prior_variance": 0.106405,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.1232,
+      "prior_variance": 0.106126,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": 0.7357,
+      "prior_variance": 0.108016,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.2195,
+      "prior_variance": 0.101304,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.2965,
+      "prior_variance": 0.110223,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -1.9055,
+      "prior_variance": 0.105714,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Dunkerque",
+      "path": "europe/france/nord/dunkerque",
+      "prior_score": -2.6013,
+      "prior_variance": 0.11575,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Zanesville",
+      "path": "northamerica/unitedstates/ohio/zanesville",
+      "prior_score": -5.7505,
+      "prior_variance": 0.167876,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -1.7203,
+      "prior_variance": 0.099282,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kara",
+      "path": "africa/togo/kara",
+      "prior_score": -4.503,
+      "prior_variance": 0.108487,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -4.9368,
+      "prior_variance": 0.128696,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -6.3805,
+      "prior_variance": 0.159542,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -7.742,
+      "prior_variance": 0.159292,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -7.7013,
+      "prior_variance": 0.364363,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -9.1301,
+      "prior_variance": 0.259002,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -8.8694,
+      "prior_variance": 0.332402,
+      "prior_n": 12
+    }
+  ]
+}

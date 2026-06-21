@@ -1,0 +1,200 @@
+{
+  "round": 524,
+  "timestamp": "2026-06-13T19:40:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/paloalto",
+      "prior_score": -5.9301,
+      "prior_variance": 1.232804,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -6.4129,
+      "prior_variance": 1.942193,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": -4.1124,
+      "prior_variance": 1.410792,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": -1.0912,
+      "prior_variance": 1.559972,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -5.2964,
+      "prior_variance": 1.170756,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -5.8273,
+      "prior_variance": 1.548793,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Roeselare",
+      "path": "europe/belgium/roeselare",
+      "prior_score": -4.2152,
+      "prior_variance": 0.769719,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -2.3978,
+      "prior_variance": 0.906429,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -3.8051,
+      "prior_variance": 1.795315,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -6.8813,
+      "prior_variance": 1.987449,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -3.511,
+      "prior_variance": 1.528904,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -7.5346,
+      "prior_variance": 1.93246,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sareyn",
+      "path": "asia/iran/sareyn",
+      "prior_score": -6.7742,
+      "prior_variance": 1.687626,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -5.9263,
+      "prior_variance": 1.968789,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -6.5857,
+      "prior_variance": 1.465748,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -6.8637,
+      "prior_variance": 1.343493,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -4.0157,
+      "prior_variance": 1.427416,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.6376,
+      "prior_variance": 1.307595,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -9.6864,
+      "prior_variance": 1.938585,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_score": -5.9703,
+      "prior_variance": 1.530251,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -5.8912,
+      "prior_variance": 1.693494,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -7.1667,
+      "prior_variance": 1.204334,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Runyenjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -8.1613,
+      "prior_variance": 0.898579,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -1.9199,
+      "prior_variance": 1.344324,
+      "prior_n": 1
+    }
+  ]
+}

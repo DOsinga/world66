@@ -1,0 +1,200 @@
+{
+  "round": 3508,
+  "timestamp": "2026-06-13T22:59:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.2138,
+      "prior_variance": 0.107586,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Boone",
+      "path": "northamerica/unitedstates/northcarolina/boone",
+      "prior_score": 0.338,
+      "prior_variance": 0.135431,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.2654,
+      "prior_variance": 0.123256,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Quarto D'Altino",
+      "path": "europe/italy/veneto/quarto_daltino",
+      "prior_score": -3.0102,
+      "prior_variance": 0.121369,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Livingston",
+      "path": "northamerica/guatemala/livingstone",
+      "prior_score": -0.7177,
+      "prior_variance": 0.129637,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -1.6251,
+      "prior_variance": 0.124958,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -4.1075,
+      "prior_variance": 0.131633,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.5642,
+      "prior_variance": 0.139311,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -2.537,
+      "prior_variance": 0.105035,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -6.396,
+      "prior_variance": 0.163969,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -4.7039,
+      "prior_variance": 0.135789,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -2.9738,
+      "prior_variance": 0.143395,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.5218,
+      "prior_variance": 0.111304,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Kuala Belait",
+      "path": "asia/brunei/kualabelait",
+      "prior_score": -4.5012,
+      "prior_variance": 0.177984,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_score": -5.1788,
+      "prior_variance": 0.156752,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -4.8751,
+      "prior_variance": 0.112248,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -5.044,
+      "prior_variance": 0.162097,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -3.3896,
+      "prior_variance": 0.167476,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -5.7668,
+      "prior_variance": 0.183335,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -6.3853,
+      "prior_variance": 0.146222,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Medina",
+      "path": "asia/saudiarabia/medina",
+      "prior_score": -7.6225,
+      "prior_variance": 0.21878,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Sakakah",
+      "path": "asia/saudiarabia/sakakah",
+      "prior_score": -6.6661,
+      "prior_variance": 0.197916,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -8.1198,
+      "prior_variance": 0.213452,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -7.107,
+      "prior_variance": 0.176155,
+      "prior_n": 11
+    }
+  ]
+}

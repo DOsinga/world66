@@ -1,0 +1,200 @@
+{
+  "round": 1948,
+  "timestamp": "2026-06-13T21:08:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.5451,
+      "prior_variance": 0.190672,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Pratolino",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/pratolino",
+      "prior_score": 0.8072,
+      "prior_variance": 0.249115,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -1.9161,
+      "prior_variance": 0.221348,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.4092,
+      "prior_variance": 0.222827,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 0.0502,
+      "prior_variance": 0.236016,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.4111,
+      "prior_variance": 0.235421,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": -0.3047,
+      "prior_variance": 0.245033,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -1.2077,
+      "prior_variance": 0.198582,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Mikolajki",
+      "path": "europe/poland/mikolajki",
+      "prior_score": -0.0847,
+      "prior_variance": 0.201936,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.7,
+      "prior_variance": 0.230028,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -2.007,
+      "prior_variance": 0.239934,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.9837,
+      "prior_variance": 0.219084,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bou Sa\u00e2da",
+      "path": "africa/algeria/bousaada",
+      "prior_score": -2.9881,
+      "prior_variance": 0.243158,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_score": -0.7815,
+      "prior_variance": 0.203143,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Sloan Canyon",
+      "path": "northamerica/unitedstates/nevada/sloan_canyon",
+      "prior_score": -2.1459,
+      "prior_variance": 0.222643,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.9263,
+      "prior_variance": 0.232949,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -5.0521,
+      "prior_variance": 0.2149,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -3.1001,
+      "prior_variance": 0.210106,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.7953,
+      "prior_variance": 0.258052,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -5.093,
+      "prior_variance": 0.245371,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.7977,
+      "prior_variance": 0.221213,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -3.4546,
+      "prior_variance": 0.314479,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mandaluyong",
+      "path": "asia/philippines/mandaluyong",
+      "prior_score": -5.9732,
+      "prior_variance": 0.443449,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Huangshi",
+      "path": "asia/china/hubei/huangshi",
+      "prior_score": -5.4727,
+      "prior_variance": 0.30946,
+      "prior_n": 6
+    }
+  ]
+}

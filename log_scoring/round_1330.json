@@ -1,0 +1,200 @@
+{
+  "round": 1330,
+  "timestamp": "2026-06-13T20:24:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ghent",
+      "path": "europe/belgium/ghent",
+      "prior_score": 9.1043,
+      "prior_variance": 0.343535,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 7.7515,
+      "prior_variance": 0.488279,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 9.1967,
+      "prior_variance": 0.391772,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 4.7817,
+      "prior_variance": 0.330424,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 6.3381,
+      "prior_variance": 0.419783,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.4386,
+      "prior_variance": 0.31337,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 2.2001,
+      "prior_variance": 0.319744,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -1.5338,
+      "prior_variance": 0.293646,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -0.7315,
+      "prior_variance": 0.347981,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": -0.4026,
+      "prior_variance": 0.358806,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Le Touquet",
+      "path": "europe/france/nord/le_touquet",
+      "prior_score": 1.733,
+      "prior_variance": 0.318297,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -2.0183,
+      "prior_variance": 0.308691,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 1.6903,
+      "prior_variance": 0.252714,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Kiltimagh",
+      "path": "europe/ireland/kiltimagh",
+      "prior_score": -3.0117,
+      "prior_variance": 0.324538,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -2.8969,
+      "prior_variance": 0.352912,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Enschede",
+      "path": "europe/netherlands/enschede",
+      "prior_score": -4.7721,
+      "prior_variance": 0.357619,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -1.0212,
+      "prior_variance": 0.381406,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -4.5265,
+      "prior_variance": 0.310584,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -4.2731,
+      "prior_variance": 0.385831,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -3.0115,
+      "prior_variance": 0.340843,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -5.0896,
+      "prior_variance": 0.600356,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Corozal",
+      "path": "northamerica/honduras/corozal_honduras",
+      "prior_score": -8.6679,
+      "prior_variance": 0.431447,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -8.5729,
+      "prior_variance": 0.582806,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.6694,
+      "prior_variance": 0.372562,
+      "prior_n": 4
+    }
+  ]
+}

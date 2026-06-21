@@ -1,0 +1,200 @@
+{
+  "round": 2327,
+  "timestamp": "2026-06-13T21:34:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 11.7896,
+      "prior_variance": 0.451947,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Lausanne",
+      "path": "europe/switzerland/lausanne",
+      "prior_score": 6.0412,
+      "prior_variance": 0.188048,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 10.1329,
+      "prior_variance": 0.374478,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.2604,
+      "prior_variance": 0.257006,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 6.1272,
+      "prior_variance": 0.213423,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 4.9425,
+      "prior_variance": 0.327411,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 6.386,
+      "prior_variance": 0.213528,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 3.5467,
+      "prior_variance": 0.260665,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 3.3021,
+      "prior_variance": 0.209803,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.0749,
+      "prior_variance": 0.175767,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": -0.0548,
+      "prior_variance": 0.167651,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": 0.0209,
+      "prior_variance": 0.182583,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.9106,
+      "prior_variance": 0.180892,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.435,
+      "prior_variance": 0.16878,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.7507,
+      "prior_variance": 0.184099,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.3081,
+      "prior_variance": 0.178884,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -0.4585,
+      "prior_variance": 0.199535,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.4291,
+      "prior_variance": 0.239556,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 2.7696,
+      "prior_variance": 0.193317,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.7402,
+      "prior_variance": 0.192018,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Ungersheim",
+      "path": "europe/france/east/alsace/ungersheim",
+      "prior_score": -2.5354,
+      "prior_variance": 0.259307,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias_selatan/teluk_dalam",
+      "prior_score": -4.4452,
+      "prior_variance": 0.179259,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.2499,
+      "prior_variance": 0.183428,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.1021,
+      "prior_variance": 0.193924,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1853,
+  "timestamp": "2026-06-13T20:56:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hoi An",
+      "path": "asia/vietnam/hoian",
+      "prior_score": 12.218,
+      "prior_variance": 0.677434,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 8.5167,
+      "prior_variance": 0.329181,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 7.5831,
+      "prior_variance": 0.360437,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 7.0228,
+      "prior_variance": 0.36752,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 5.8625,
+      "prior_variance": 0.300181,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 7.7846,
+      "prior_variance": 0.321935,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 7.4864,
+      "prior_variance": 0.359486,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 6.0261,
+      "prior_variance": 0.271152,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 7.2555,
+      "prior_variance": 0.451461,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Selinunte",
+      "path": "europe/italy/sicily/selinunte",
+      "prior_score": 5.3544,
+      "prior_variance": 0.228072,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.3868,
+      "prior_variance": 0.355239,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": 5.7123,
+      "prior_variance": 0.251307,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 6.625,
+      "prior_variance": 0.40191,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 2.8196,
+      "prior_variance": 0.339567,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 4.1523,
+      "prior_variance": 0.36788,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.5276,
+      "prior_variance": 0.308623,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.5175,
+      "prior_variance": 0.261809,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.382,
+      "prior_variance": 0.25689,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 2.6832,
+      "prior_variance": 0.235242,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": 1.0495,
+      "prior_variance": 0.227817,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 2.193,
+      "prior_variance": 0.238175,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.3277,
+      "prior_variance": 0.213409,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.2106,
+      "prior_variance": 0.197029,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": 0.0996,
+      "prior_variance": 0.230122,
+      "prior_n": 6
+    }
+  ]
+}

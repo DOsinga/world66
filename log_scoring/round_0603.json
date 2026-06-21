@@ -1,0 +1,200 @@
+{
+  "round": 603,
+  "timestamp": "2026-06-13T19:44:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 11.1815,
+      "prior_variance": 7.633459,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 11.6499,
+      "prior_variance": 1.405286,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 7.4419,
+      "prior_variance": 1.824633,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 10.7334,
+      "prior_variance": 0.967018,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Isfahan",
+      "path": "asia/iran/isfahan",
+      "prior_score": 11.027,
+      "prior_variance": 4.900121,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 10.2083,
+      "prior_variance": 0.785189,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Koyasan",
+      "path": "asia/japan/honshu/koyasan",
+      "prior_score": 16.3118,
+      "prior_variance": 6.40519,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 10.6599,
+      "prior_variance": 1.437816,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 13.09,
+      "prior_variance": 1.707917,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 11.2389,
+      "prior_variance": 3.209629,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 9.0343,
+      "prior_variance": 1.025431,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 8.3955,
+      "prior_variance": 1.51793,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Dead Sea",
+      "path": "asia/jordan/deadsea",
+      "prior_score": 12.4814,
+      "prior_variance": 1.131195,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 9.1209,
+      "prior_variance": 0.959524,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Varadero",
+      "path": "northamerica/thecaribbean/cuba/varadero",
+      "prior_score": 9.1442,
+      "prior_variance": 1.303713,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 10.1245,
+      "prior_variance": 0.903714,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 9.7338,
+      "prior_variance": 1.92407,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 7.6368,
+      "prior_variance": 1.238706,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 8.8123,
+      "prior_variance": 0.959271,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Huangguoshu Falls",
+      "path": "asia/china/guizhou/huangguoshu",
+      "prior_score": 8.8754,
+      "prior_variance": 0.858222,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 9.779,
+      "prior_variance": 1.883381,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 7.2312,
+      "prior_variance": 1.64832,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 7.8314,
+      "prior_variance": 1.586859,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Kyiv",
+      "path": "europe/ukraine/kyiv",
+      "prior_score": 10.2692,
+      "prior_variance": 2.010673,
+      "prior_n": 2
+    }
+  ]
+}

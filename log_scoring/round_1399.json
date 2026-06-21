@@ -1,0 +1,200 @@
+{
+  "round": 1399,
+  "timestamp": "2026-06-13T20:28:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 5.6027,
+      "prior_variance": 0.345527,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 6.3805,
+      "prior_variance": 0.328,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 6.9255,
+      "prior_variance": 0.373475,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.4946,
+      "prior_variance": 0.428399,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 7.7638,
+      "prior_variance": 0.398642,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 4.7756,
+      "prior_variance": 0.301713,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 4.8439,
+      "prior_variance": 0.364656,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dougga",
+      "path": "africa/tunisia/dougga",
+      "prior_score": 3.1769,
+      "prior_variance": 0.366009,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.4606,
+      "prior_variance": 0.398372,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Billund",
+      "path": "europe/denmark/billund",
+      "prior_score": 1.6063,
+      "prior_variance": 0.34314,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 3.7399,
+      "prior_variance": 0.318708,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 4.4477,
+      "prior_variance": 0.267853,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 1.2639,
+      "prior_variance": 0.353461,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": -1.2185,
+      "prior_variance": 0.34497,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -1.1711,
+      "prior_variance": 0.292061,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Cowichan Bay",
+      "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+      "prior_score": -1.113,
+      "prior_variance": 0.440068,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -1.3615,
+      "prior_variance": 0.300695,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_score": -2.6546,
+      "prior_variance": 0.3875,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -2.8841,
+      "prior_variance": 0.320984,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -3.9709,
+      "prior_variance": 0.312101,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -5.4493,
+      "prior_variance": 0.289827,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.1627,
+      "prior_variance": 0.339716,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.9,
+      "prior_variance": 0.354731,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -10.6138,
+      "prior_variance": 0.411996,
+      "prior_n": 4
+    }
+  ]
+}

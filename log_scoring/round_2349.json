@@ -1,0 +1,200 @@
+{
+  "round": 2349,
+  "timestamp": "2026-06-13T21:35:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 8.7334,
+      "prior_variance": 0.254905,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 7.4596,
+      "prior_variance": 0.233497,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 8.1803,
+      "prior_variance": 0.260555,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 5.9138,
+      "prior_variance": 0.190448,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 8.1313,
+      "prior_variance": 0.29423,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 8.3911,
+      "prior_variance": 0.290623,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua",
+      "prior_score": 7.1464,
+      "prior_variance": 0.269824,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.9457,
+      "prior_variance": 0.206126,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.8517,
+      "prior_variance": 0.225297,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.4134,
+      "prior_variance": 0.277938,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 3.0518,
+      "prior_variance": 0.233208,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Keswick",
+      "path": "europe/unitedkingdom/england/lakedistrict/keswick",
+      "prior_score": 5.3703,
+      "prior_variance": 0.22798,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 6.1097,
+      "prior_variance": 0.241754,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.3915,
+      "prior_variance": 0.260619,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 3.6133,
+      "prior_variance": 0.249586,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 4.6931,
+      "prior_variance": 0.23078,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.6184,
+      "prior_variance": 0.150128,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 5.4561,
+      "prior_variance": 0.20683,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.3927,
+      "prior_variance": 0.177739,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Noia",
+      "path": "europe/spain/galicia/noia",
+      "prior_score": 0.9016,
+      "prior_variance": 0.158726,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -1.6482,
+      "prior_variance": 0.152468,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -6.0763,
+      "prior_variance": 0.256418,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Berhampur",
+      "path": "asia/india/orissa/berhampur",
+      "prior_score": -5.9483,
+      "prior_variance": 0.227629,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.9604,
+      "prior_variance": 0.293602,
+      "prior_n": 7
+    }
+  ]
+}

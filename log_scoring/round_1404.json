@@ -1,0 +1,200 @@
+{
+  "round": 1404,
+  "timestamp": "2026-06-13T20:28:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Epidaurus",
+      "path": "europe/greece/epidaurus",
+      "prior_score": 4.8317,
+      "prior_variance": 0.463964,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 2.0161,
+      "prior_variance": 0.529803,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Kagoshima",
+      "path": "asia/japan/kagoshima",
+      "prior_score": 7.1856,
+      "prior_variance": 0.358926,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 5.6219,
+      "prior_variance": 0.377413,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 4.1171,
+      "prior_variance": 0.387988,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sarasota",
+      "path": "northamerica/unitedstates/florida/sarasota",
+      "prior_score": 2.3323,
+      "prior_variance": 0.354471,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.4726,
+      "prior_variance": 0.305959,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 2.3796,
+      "prior_variance": 0.323297,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 0.5814,
+      "prior_variance": 0.324445,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -2.2782,
+      "prior_variance": 0.409252,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 3.0762,
+      "prior_variance": 0.331287,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": -0.1667,
+      "prior_variance": 0.404378,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.3687,
+      "prior_variance": 0.309843,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Massawa",
+      "path": "africa/eritrea/massawa",
+      "prior_score": -3.6932,
+      "prior_variance": 0.292546,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Kaili",
+      "path": "asia/china/guizhou/kaili",
+      "prior_score": -3.1583,
+      "prior_variance": 0.371298,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": -0.1127,
+      "prior_variance": 0.333513,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -2.3311,
+      "prior_variance": 0.421145,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.515,
+      "prior_variance": 0.304259,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -1.8977,
+      "prior_variance": 0.315652,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -2.684,
+      "prior_variance": 0.295781,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -4.4988,
+      "prior_variance": 0.389514,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.6795,
+      "prior_variance": 0.337672,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -4.8692,
+      "prior_variance": 0.350076,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -4.1963,
+      "prior_variance": 0.392177,
+      "prior_n": 4
+    }
+  ]
+}

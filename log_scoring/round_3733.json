@@ -1,0 +1,200 @@
+{
+  "round": 3733,
+  "timestamp": "2026-06-13T23:15:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": 0.7747,
+      "prior_variance": 0.117484,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -1.8192,
+      "prior_variance": 0.125745,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.36,
+      "prior_variance": 0.112366,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.21,
+      "prior_variance": 0.126121,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.0287,
+      "prior_variance": 0.116416,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Warnem\u00fcnde",
+      "path": "europe/germany/mecklenburgwesternpomerania/warnemunde",
+      "prior_score": 0.3856,
+      "prior_variance": 0.104123,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -6.5984,
+      "prior_variance": 0.164621,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.1666,
+      "prior_variance": 0.131495,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Waiblingen",
+      "path": "europe/germany/badenwrttemberg/waiblingen",
+      "prior_score": -2.9989,
+      "prior_variance": 0.119373,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Gatineau (Hull)",
+      "path": "northamerica/canada/quebec/hull",
+      "prior_score": -1.0072,
+      "prior_variance": 0.107152,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -3.7561,
+      "prior_variance": 0.123084,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "La Crosse",
+      "path": "northamerica/unitedstates/wisconsin/lacrosse",
+      "prior_score": -2.4921,
+      "prior_variance": 0.108338,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Stara Zagora",
+      "path": "europe/bulgaria/starazagora",
+      "prior_score": -2.6125,
+      "prior_variance": 0.112715,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -2.7515,
+      "prior_variance": 0.113777,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -4.4807,
+      "prior_variance": 0.125575,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Grants Pass",
+      "path": "northamerica/unitedstates/oregon/grantspass",
+      "prior_score": -2.3256,
+      "prior_variance": 0.136134,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_score": -3.4845,
+      "prior_variance": 0.126524,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.7022,
+      "prior_variance": 0.110536,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -3.6554,
+      "prior_variance": 0.117848,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -4.622,
+      "prior_variance": 0.114592,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.3675,
+      "prior_variance": 0.122872,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -5.9155,
+      "prior_variance": 0.151567,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.6213,
+      "prior_variance": 0.141511,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ziemia Chojnicka",
+      "path": "europe/poland/ziemia_chojnicka",
+      "prior_score": -4.0456,
+      "prior_variance": 0.134077,
+      "prior_n": 11
+    }
+  ]
+}

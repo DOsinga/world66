@@ -1,0 +1,200 @@
+{
+  "round": 1976,
+  "timestamp": "2026-06-13T21:09:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 6.1394,
+      "prior_variance": 0.307124,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 6.6488,
+      "prior_variance": 0.273169,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 7.7957,
+      "prior_variance": 0.308522,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 6.4283,
+      "prior_variance": 0.332182,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.7426,
+      "prior_variance": 0.25681,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 7.0777,
+      "prior_variance": 0.253595,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 4.0742,
+      "prior_variance": 0.224164,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 4.8489,
+      "prior_variance": 0.282752,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/south_island/otago/wanaka",
+      "prior_score": 7.6115,
+      "prior_variance": 0.300051,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.3977,
+      "prior_variance": 0.281512,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Old Goa",
+      "path": "asia/india/goa/oldgoa",
+      "prior_score": 4.4213,
+      "prior_variance": 0.228867,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 3.246,
+      "prior_variance": 0.2377,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.3928,
+      "prior_variance": 0.278505,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Dendara",
+      "path": "africa/egypt/dendara",
+      "prior_score": 2.8165,
+      "prior_variance": 0.317325,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 4.5458,
+      "prior_variance": 0.328956,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mendocino",
+      "path": "northamerica/unitedstates/california/northcoast/mendocino",
+      "prior_score": 2.3252,
+      "prior_variance": 0.21693,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 3.0663,
+      "prior_variance": 0.27099,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 2.0256,
+      "prior_variance": 0.216995,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 2.8477,
+      "prior_variance": 0.27358,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 3.7103,
+      "prior_variance": 0.224141,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 2.2528,
+      "prior_variance": 0.274703,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 0.8946,
+      "prior_variance": 0.21992,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 2.759,
+      "prior_variance": 0.299158,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -5.2446,
+      "prior_variance": 0.371365,
+      "prior_n": 6
+    }
+  ]
+}

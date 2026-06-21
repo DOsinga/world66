@@ -1,0 +1,200 @@
+{
+  "round": 1714,
+  "timestamp": "2026-06-13T20:47:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 6.8531,
+      "prior_variance": 0.31931,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 5.5608,
+      "prior_variance": 0.301189,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 5.9417,
+      "prior_variance": 0.290159,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 4.1112,
+      "prior_variance": 0.460202,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 7.0862,
+      "prior_variance": 0.408002,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 6.131,
+      "prior_variance": 0.402874,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 5.358,
+      "prior_variance": 0.602314,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 2.8437,
+      "prior_variance": 0.246322,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 6.2377,
+      "prior_variance": 0.339844,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.7506,
+      "prior_variance": 0.208733,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 1.502,
+      "prior_variance": 0.31459,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 4.7188,
+      "prior_variance": 0.312444,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.3326,
+      "prior_variance": 0.265757,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 5.1723,
+      "prior_variance": 0.427188,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 6.0965,
+      "prior_variance": 0.4289,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 2.4826,
+      "prior_variance": 0.236486,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 2.9995,
+      "prior_variance": 0.313557,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Townsend",
+      "path": "northamerica/unitedstates/tennessee/smokymountains/townsend_tn_3788",
+      "prior_score": 0.4271,
+      "prior_variance": 0.250514,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.4225,
+      "prior_variance": 0.242577,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Colima",
+      "path": "northamerica/mexico/colima",
+      "prior_score": -1.3859,
+      "prior_variance": 0.263987,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lobito",
+      "path": "africa/angola/lobito",
+      "prior_score": -5.1309,
+      "prior_variance": 0.246903,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": -4.5134,
+      "prior_variance": 0.26883,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -5.1978,
+      "prior_variance": 0.300876,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -5.8875,
+      "prior_variance": 0.268934,
+      "prior_n": 5
+    }
+  ]
+}

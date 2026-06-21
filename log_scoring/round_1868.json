@@ -1,0 +1,200 @@
+{
+  "round": 1868,
+  "timestamp": "2026-06-13T20:57:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 4.3305,
+      "prior_variance": 0.271012,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Philadelphia",
+      "path": "northamerica/unitedstates/pennsylvania/philadelphia",
+      "prior_score": 5.4543,
+      "prior_variance": 0.225733,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": -0.1471,
+      "prior_variance": 0.246415,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": -0.7089,
+      "prior_variance": 0.264386,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.9417,
+      "prior_variance": 0.20645,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.5579,
+      "prior_variance": 0.244304,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.4945,
+      "prior_variance": 0.246015,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -4.0971,
+      "prior_variance": 0.247305,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.9616,
+      "prior_variance": 0.316305,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -4.1456,
+      "prior_variance": 0.270322,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.4779,
+      "prior_variance": 0.250307,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -4.6376,
+      "prior_variance": 0.326928,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -2.1516,
+      "prior_variance": 0.217583,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -3.4231,
+      "prior_variance": 0.263804,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -4.0023,
+      "prior_variance": 0.291075,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -4.3805,
+      "prior_variance": 0.252796,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -4.0941,
+      "prior_variance": 0.238688,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -6.1663,
+      "prior_variance": 0.270745,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Emi Koussi",
+      "path": "africa/chad/emikoussi",
+      "prior_score": -6.4278,
+      "prior_variance": 0.394439,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Quetta",
+      "path": "asia/pakistan/quetta",
+      "prior_score": -5.8071,
+      "prior_variance": 0.239275,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -5.9051,
+      "prior_variance": 0.310248,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.6353,
+      "prior_variance": 0.455285,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -9.7919,
+      "prior_variance": 0.435318,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -7.127,
+      "prior_variance": 0.35697,
+      "prior_n": 5
+    }
+  ]
+}

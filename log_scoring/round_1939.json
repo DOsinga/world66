@@ -1,0 +1,200 @@
+{
+  "round": 1939,
+  "timestamp": "2026-06-13T21:02:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.2288,
+      "prior_variance": 0.265753,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "South Caicos",
+      "path": "northamerica/turksandcaicosislands/southcaicos",
+      "prior_score": 2.0023,
+      "prior_variance": 0.264103,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 2.4595,
+      "prior_variance": 0.209286,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Sant Feliu de Gu\u00edxols",
+      "path": "europe/spain/catalonia/sant_feliu_de_guixols",
+      "prior_score": 2.884,
+      "prior_variance": 0.238503,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kirkwall",
+      "path": "europe/unitedkingdom/scotland/orkneys/kirkwall",
+      "prior_score": 2.4442,
+      "prior_variance": 0.240084,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 1.9566,
+      "prior_variance": 0.215395,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.2552,
+      "prior_variance": 0.309279,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.2866,
+      "prior_variance": 0.24649,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -2.3249,
+      "prior_variance": 0.339461,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.7731,
+      "prior_variance": 0.238434,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.2647,
+      "prior_variance": 0.226,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.8957,
+      "prior_variance": 0.213062,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_domingos",
+      "prior_score": -3.1794,
+      "prior_variance": 0.226204,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -0.4646,
+      "prior_variance": 0.25972,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": 0.0163,
+      "prior_variance": 0.247242,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -1.9929,
+      "prior_variance": 0.23176,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -4.2521,
+      "prior_variance": 0.22663,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "IJmuiden",
+      "path": "europe/netherlands/ijmuiden",
+      "prior_score": -2.281,
+      "prior_variance": 0.208638,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -3.6503,
+      "prior_variance": 0.210874,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/westvirginia/charleston",
+      "prior_score": -3.113,
+      "prior_variance": 0.243914,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/pennsylvania/reading",
+      "prior_score": -5.555,
+      "prior_variance": 0.246801,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -7.0136,
+      "prior_variance": 0.503383,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Norcross",
+      "path": "northamerica/unitedstates/georgia/norcross",
+      "prior_score": -6.4777,
+      "prior_variance": 0.3501,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -8.0437,
+      "prior_variance": 0.332083,
+      "prior_n": 6
+    }
+  ]
+}

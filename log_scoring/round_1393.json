@@ -1,0 +1,200 @@
+{
+  "round": 1393,
+  "timestamp": "2026-06-13T20:27:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 7.435,
+      "prior_variance": 0.610286,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Belize Barrier Reef",
+      "path": "northamerica/belize/barrierreef",
+      "prior_score": 9.1503,
+      "prior_variance": 0.467444,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 7.7139,
+      "prior_variance": 0.362427,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 8.4282,
+      "prior_variance": 0.431417,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 6.676,
+      "prior_variance": 0.627618,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Pattaya",
+      "path": "asia/thailand/pattaya",
+      "prior_score": 2.8658,
+      "prior_variance": 0.413963,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 5.4348,
+      "prior_variance": 0.324551,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Park City",
+      "path": "northamerica/unitedstates/utah/parkcity",
+      "prior_score": 5.2961,
+      "prior_variance": 0.318781,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 1.851,
+      "prior_variance": 0.401629,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 2.8314,
+      "prior_variance": 0.317413,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Harar",
+      "path": "africa/ethiopia/harar",
+      "prior_score": 3.3387,
+      "prior_variance": 0.331672,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.5998,
+      "prior_variance": 0.373306,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -4.2718,
+      "prior_variance": 0.374832,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.5508,
+      "prior_variance": 0.314922,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -3.4172,
+      "prior_variance": 0.37487,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": 1.2206,
+      "prior_variance": 0.303893,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -5.5154,
+      "prior_variance": 0.329013,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -4.1599,
+      "prior_variance": 0.305817,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Darkhan",
+      "path": "asia/mongolia/darkhan",
+      "prior_score": -7.1056,
+      "prior_variance": 0.323948,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.5551,
+      "prior_variance": 0.305066,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -6.5871,
+      "prior_variance": 0.331108,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -6.4192,
+      "prior_variance": 0.317497,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -7.7666,
+      "prior_variance": 0.498445,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -6.0847,
+      "prior_variance": 0.280963,
+      "prior_n": 5
+    }
+  ]
+}

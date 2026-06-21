@@ -1,0 +1,200 @@
+{
+  "round": 3293,
+  "timestamp": "2026-06-13T22:43:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 5.9421,
+      "prior_variance": 0.141874,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 1.8887,
+      "prior_variance": 0.138914,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 4.9263,
+      "prior_variance": 0.161327,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.8475,
+      "prior_variance": 0.132505,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 2.3868,
+      "prior_variance": 0.14038,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 1.1932,
+      "prior_variance": 0.144251,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.4025,
+      "prior_variance": 0.113633,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": 0.0404,
+      "prior_variance": 0.121905,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 0.0774,
+      "prior_variance": 0.13513,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -1.1129,
+      "prior_variance": 0.125161,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.7339,
+      "prior_variance": 0.116529,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.3144,
+      "prior_variance": 0.172247,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -0.8977,
+      "prior_variance": 0.127347,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Navoi",
+      "path": "asia/uzbekistan/navoi",
+      "prior_score": -5.6372,
+      "prior_variance": 0.147785,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.9791,
+      "prior_variance": 0.134187,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -2.9038,
+      "prior_variance": 0.130503,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -3.4816,
+      "prior_variance": 0.144058,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Yining",
+      "path": "asia/china/xinjiangprovince/yining",
+      "prior_score": -3.2783,
+      "prior_variance": 0.146889,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Akhalkalaki",
+      "path": "europe/georgia/alkhakalaki",
+      "prior_score": -3.6723,
+      "prior_variance": 0.136681,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pingliang",
+      "path": "asia/china/gansu/pingliang",
+      "prior_score": -2.8571,
+      "prior_variance": 0.117634,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -5.6781,
+      "prior_variance": 0.162573,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -5.9332,
+      "prior_variance": 0.188971,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.7503,
+      "prior_variance": 0.143062,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -5.4432,
+      "prior_variance": 0.177644,
+      "prior_n": 10
+    }
+  ]
+}

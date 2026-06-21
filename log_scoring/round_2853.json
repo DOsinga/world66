@@ -1,0 +1,200 @@
+{
+  "round": 2853,
+  "timestamp": "2026-06-13T22:11:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.3331,
+      "prior_variance": 0.154936,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 4.1731,
+      "prior_variance": 0.161681,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 2.521,
+      "prior_variance": 0.151995,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Bellinzona",
+      "path": "europe/switzerland/bellinzona",
+      "prior_score": 3.754,
+      "prior_variance": 0.151555,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka Voda",
+      "path": "europe/croatia/baka_voda",
+      "prior_score": 2.996,
+      "prior_variance": 0.145779,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.48,
+      "prior_variance": 0.163675,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Lushan",
+      "path": "asia/china/jiangxi/lushan",
+      "prior_score": 1.0292,
+      "prior_variance": 0.164482,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 1.5516,
+      "prior_variance": 0.174374,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.2162,
+      "prior_variance": 0.162794,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -0.5901,
+      "prior_variance": 0.158984,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 0.8523,
+      "prior_variance": 0.143049,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Guimaras",
+      "path": "asia/philippines/guimaras",
+      "prior_score": 0.4955,
+      "prior_variance": 0.154615,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.9729,
+      "prior_variance": 0.144089,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.4806,
+      "prior_variance": 0.150619,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -0.1267,
+      "prior_variance": 0.157133,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -1.5722,
+      "prior_variance": 0.142699,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -0.961,
+      "prior_variance": 0.153684,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.1555,
+      "prior_variance": 0.139956,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -1.0014,
+      "prior_variance": 0.160759,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -1.3756,
+      "prior_variance": 0.1345,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.1206,
+      "prior_variance": 0.146888,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.8137,
+      "prior_variance": 0.203097,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.1604,
+      "prior_variance": 0.170827,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Cherchen",
+      "path": "asia/china/xinjiangprovince/cherchen",
+      "prior_score": -6.9842,
+      "prior_variance": 0.206568,
+      "prior_n": 9
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 812,
+  "timestamp": "2026-06-13T19:55:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 8.0662,
+      "prior_variance": 1.075806,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 5.2879,
+      "prior_variance": 0.749278,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Girdwood",
+      "path": "northamerica/unitedstates/alaska/girdwood",
+      "prior_score": 5.0881,
+      "prior_variance": 0.84218,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 5.5128,
+      "prior_variance": 0.726868,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 4.981,
+      "prior_variance": 0.832717,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 5.2893,
+      "prior_variance": 1.016286,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Monopoli",
+      "path": "europe/italy/puglia/monopoli",
+      "prior_score": 6.4837,
+      "prior_variance": 0.732941,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 6.1156,
+      "prior_variance": 0.59668,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 5.7834,
+      "prior_variance": 0.686738,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 4.6531,
+      "prior_variance": 0.735556,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 6.3535,
+      "prior_variance": 0.634235,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 4.6199,
+      "prior_variance": 0.69956,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 4.5564,
+      "prior_variance": 0.757085,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 5.3862,
+      "prior_variance": 0.794723,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 3.7078,
+      "prior_variance": 0.659761,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Arcachon",
+      "path": "europe/france/aquitaine/arcachon",
+      "prior_score": 5.2583,
+      "prior_variance": 0.71329,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 5.8204,
+      "prior_variance": 0.800664,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 5.5922,
+      "prior_variance": 0.725944,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 5.5921,
+      "prior_variance": 0.909872,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 4.1986,
+      "prior_variance": 0.637569,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 4.5609,
+      "prior_variance": 0.684191,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 5.1061,
+      "prior_variance": 0.745305,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 5.4865,
+      "prior_variance": 0.691412,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Tarquinia",
+      "path": "europe/italy/lazio/tarquinia",
+      "prior_score": 5.1431,
+      "prior_variance": 0.501978,
+      "prior_n": 3
+    }
+  ]
+}

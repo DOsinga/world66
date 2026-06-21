@@ -1,0 +1,200 @@
+{
+  "round": 4470,
+  "timestamp": "2026-06-14T00:15:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 8.1132,
+      "prior_variance": 0.159967,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 6.019,
+      "prior_variance": 0.120413,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 5.4158,
+      "prior_variance": 0.109454,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 3.737,
+      "prior_variance": 0.089285,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 2.3547,
+      "prior_variance": 0.192418,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Mount Putuo",
+      "path": "asia/china/zhejiang/mount-putuo",
+      "prior_score": 2.5716,
+      "prior_variance": 0.10401,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -0.0058,
+      "prior_variance": 0.090027,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": 0.2702,
+      "prior_variance": 0.086012,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": -0.8089,
+      "prior_variance": 0.085663,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": -0.9409,
+      "prior_variance": 0.089117,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -2.0442,
+      "prior_variance": 0.099836,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -0.0953,
+      "prior_variance": 0.085819,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -0.8978,
+      "prior_variance": 0.092497,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.719,
+      "prior_variance": 0.094183,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.5715,
+      "prior_variance": 0.089994,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.6609,
+      "prior_variance": 0.085483,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -2.5462,
+      "prior_variance": 0.089601,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Sarrebourg",
+      "path": "europe/france/east/lorraine/sarrebourg",
+      "prior_score": -1.7675,
+      "prior_variance": 0.088247,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": -0.4277,
+      "prior_variance": 0.095601,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -0.9926,
+      "prior_variance": 0.095554,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -1.0004,
+      "prior_variance": 0.106613,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.4228,
+      "prior_variance": 0.095407,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Patong",
+      "path": "asia/laos/patong",
+      "prior_score": -5.1248,
+      "prior_variance": 0.123276,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.567,
+      "prior_variance": 0.148485,
+      "prior_n": 14
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1106,
+  "timestamp": "2026-06-13T20:11:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Turneffe Islands",
+      "path": "northamerica/belize/turneffeislands",
+      "prior_score": 7.2226,
+      "prior_variance": 0.463204,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 5.0935,
+      "prior_variance": 0.445747,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Cirque de Salazie",
+      "path": "africa/reunion/cirquedesalazie",
+      "prior_score": 9.5043,
+      "prior_variance": 0.58903,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 7.8603,
+      "prior_variance": 0.783426,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 3.9453,
+      "prior_variance": 0.420521,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 2.4271,
+      "prior_variance": 0.602426,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 4.8947,
+      "prior_variance": 0.394437,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cedars of Lebanon",
+      "path": "asia/lebanon/cedarsoflebanon",
+      "prior_score": 3.0297,
+      "prior_variance": 0.442542,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 7.9238,
+      "prior_variance": 0.484182,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Arcos de la Frontera",
+      "path": "europe/spain/andalucia/whitevillages/arcos_de_la_frontera",
+      "prior_score": 7.304,
+      "prior_variance": 0.424373,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 3.9591,
+      "prior_variance": 0.520169,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "S\u00e3o Lu\u00eds",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 0.3531,
+      "prior_variance": 0.423227,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 1.4873,
+      "prior_variance": 0.402316,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 7.9103,
+      "prior_variance": 0.451932,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 4.7144,
+      "prior_variance": 0.421328,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.0698,
+      "prior_variance": 0.564085,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 4.5494,
+      "prior_variance": 0.435939,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1418,
+      "prior_variance": 0.38615,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.9862,
+      "prior_variance": 0.403815,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.9854,
+      "prior_variance": 0.414321,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 1.7161,
+      "prior_variance": 0.511237,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 2.3119,
+      "prior_variance": 0.389007,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 4.039,
+      "prior_variance": 0.53027,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kelso",
+      "path": "europe/unitedkingdom/scotland/kelso",
+      "prior_score": -0.8801,
+      "prior_variance": 0.396954,
+      "prior_n": 4
+    }
+  ]
+}

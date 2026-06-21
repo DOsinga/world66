@@ -1,0 +1,200 @@
+{
+  "round": 3783,
+  "timestamp": "2026-06-13T23:19:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 5.474,
+      "prior_variance": 0.13719,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.6332,
+      "prior_variance": 0.127993,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 3.7406,
+      "prior_variance": 0.146181,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 1.5618,
+      "prior_variance": 0.117797,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/deserts/palmsprings",
+      "prior_score": 2.8639,
+      "prior_variance": 0.110133,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 2.9849,
+      "prior_variance": 0.141942,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 3.657,
+      "prior_variance": 0.131792,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ceret",
+      "path": "europe/france/midi/ceret",
+      "prior_score": 1.3117,
+      "prior_variance": 0.108877,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Gaucin",
+      "path": "europe/spain/andalucia/gaucin",
+      "prior_score": 1.3378,
+      "prior_variance": 0.10716,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 2.1223,
+      "prior_variance": 0.114173,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 3.1423,
+      "prior_variance": 0.111786,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 3.1622,
+      "prior_variance": 0.110331,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 4.981,
+      "prior_variance": 0.135401,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.2667,
+      "prior_variance": 0.102623,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.9293,
+      "prior_variance": 0.105581,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.1033,
+      "prior_variance": 0.109202,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.4424,
+      "prior_variance": 0.105385,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kazan",
+      "path": "europe/russia/kazan",
+      "prior_score": 0.3796,
+      "prior_variance": 0.125696,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 1.0324,
+      "prior_variance": 0.119229,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Lucknow",
+      "path": "asia/india/uttarpradesh/lucknow",
+      "prior_score": 1.4857,
+      "prior_variance": 0.121788,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": 1.4486,
+      "prior_variance": 0.129872,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.0481,
+      "prior_variance": 0.104373,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": -0.0352,
+      "prior_variance": 0.106443,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Taunsa Sharif",
+      "path": "asia/pakistan/taunsa_sharif",
+      "prior_score": -8.1591,
+      "prior_variance": 0.164517,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4364,
+  "timestamp": "2026-06-14T00:06:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hampi",
+      "path": "asia/india/karnataka/hampi",
+      "prior_score": 7.7017,
+      "prior_variance": 0.14024,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Jerash",
+      "path": "asia/jordan/jerash",
+      "prior_score": 5.6815,
+      "prior_variance": 0.124558,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Jeju Island",
+      "path": "asia/southkorea/chejuisland",
+      "prior_score": 8.3777,
+      "prior_variance": 0.142483,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Cat Ba Island",
+      "path": "asia/vietnam/cat_ba_island",
+      "prior_score": 4.8249,
+      "prior_variance": 0.12521,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 6.5005,
+      "prior_variance": 0.134853,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 5.9706,
+      "prior_variance": 0.115467,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 4.829,
+      "prior_variance": 0.115795,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 6.7186,
+      "prior_variance": 0.138635,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 3.9142,
+      "prior_variance": 0.131732,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 4.8349,
+      "prior_variance": 0.138316,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Luxembourg City",
+      "path": "europe/luxembourg/luxembourgcity",
+      "prior_score": 5.548,
+      "prior_variance": 0.123388,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 3.3367,
+      "prior_variance": 0.116995,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 2.8447,
+      "prior_variance": 0.094129,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.9554,
+      "prior_variance": 0.093471,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Longyearbyen",
+      "path": "europe/norway/spitsbergen/longyearbyen",
+      "prior_score": 4.2439,
+      "prior_variance": 0.121201,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 3.9041,
+      "prior_variance": 0.092793,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Arendal",
+      "path": "europe/norway/arendal",
+      "prior_score": 0.9932,
+      "prior_variance": 0.087972,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.6501,
+      "prior_variance": 0.117952,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.1127,
+      "prior_variance": 0.096239,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Kota Bharu",
+      "path": "asia/malaysia/kotabharu",
+      "prior_score": 0.6011,
+      "prior_variance": 0.088647,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.4407,
+      "prior_variance": 0.08827,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.6728,
+      "prior_variance": 0.101033,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -5.1923,
+      "prior_variance": 0.123142,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -5.7656,
+      "prior_variance": 0.105542,
+      "prior_n": 14
+    }
+  ]
+}

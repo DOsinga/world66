@@ -1,0 +1,200 @@
+{
+  "round": 622,
+  "timestamp": "2026-06-13T19:45:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 0.8951,
+      "prior_variance": 1.020323,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -2.22,
+      "prior_variance": 0.702023,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.3751,
+      "prior_variance": 0.829472,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.0595,
+      "prior_variance": 0.788853,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": -0.3458,
+      "prior_variance": 1.013337,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.5618,
+      "prior_variance": 1.522423,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": -0.2291,
+      "prior_variance": 0.708599,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_score": 0.0204,
+      "prior_variance": 0.877514,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rize",
+      "path": "asia/turkey/kackar/rize",
+      "prior_score": 0.2104,
+      "prior_variance": 0.829619,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -1.0791,
+      "prior_variance": 1.090013,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.374,
+      "prior_variance": 1.344442,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.529,
+      "prior_variance": 0.693358,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.2356,
+      "prior_variance": 1.307892,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbttel",
+      "prior_score": 0.1136,
+      "prior_variance": 0.846235,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.0912,
+      "prior_variance": 0.630643,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -0.3389,
+      "prior_variance": 0.846118,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.6302,
+      "prior_variance": 0.724939,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": 0.2634,
+      "prior_variance": 1.312141,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -3.34,
+      "prior_variance": 1.373297,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -0.334,
+      "prior_variance": 1.326505,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.7646,
+      "prior_variance": 0.937745,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hu\u00e1nuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -2.4722,
+      "prior_variance": 1.313635,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -1.0205,
+      "prior_variance": 1.217762,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.4456,
+      "prior_variance": 1.213561,
+      "prior_n": 2
+    }
+  ]
+}

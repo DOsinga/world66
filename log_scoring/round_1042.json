@@ -1,0 +1,200 @@
+{
+  "round": 1042,
+  "timestamp": "2026-06-13T20:07:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 6.5651,
+      "prior_variance": 0.469569,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Narok Town",
+      "path": "africa/kenya/nationalparksandreserves/masaimaranr/naroktown",
+      "prior_score": 3.0064,
+      "prior_variance": 0.463441,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Saint-Pierre",
+      "path": "northamerica/thecaribbean/martinique/saintpierre",
+      "prior_score": 1.6002,
+      "prior_variance": 0.424126,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Sinaia",
+      "path": "europe/romania/sinaia",
+      "prior_score": 2.4159,
+      "prior_variance": 0.458202,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 2.2262,
+      "prior_variance": 0.442567,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 2.4646,
+      "prior_variance": 0.450823,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": 0.7656,
+      "prior_variance": 0.488369,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 2.205,
+      "prior_variance": 0.590572,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Turku",
+      "path": "europe/finland/turku",
+      "prior_score": 3.473,
+      "prior_variance": 0.429568,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 3.0273,
+      "prior_variance": 0.448077,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 3.3472,
+      "prior_variance": 0.473537,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 2.2613,
+      "prior_variance": 0.452442,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 1.5924,
+      "prior_variance": 0.478173,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 2.8797,
+      "prior_variance": 0.638408,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 2.234,
+      "prior_variance": 0.534845,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Hill of Crosses",
+      "path": "europe/lithuania/hill_of_crosses",
+      "prior_score": 3.3156,
+      "prior_variance": 0.421189,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 3.9505,
+      "prior_variance": 0.433034,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lac des Bouillouses",
+      "path": "europe/france/midi/pyrenees/lac_des_bouillouses",
+      "prior_score": 3.6599,
+      "prior_variance": 0.469645,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Laguna de Apoyo",
+      "path": "northamerica/nicaragua/laguna_de_apoyo",
+      "prior_score": 2.121,
+      "prior_variance": 0.403629,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 1.3073,
+      "prior_variance": 0.532622,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.7733,
+      "prior_variance": 0.772116,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Grenville",
+      "path": "northamerica/thecaribbean/grenada/grenville",
+      "prior_score": 1.7226,
+      "prior_variance": 0.483872,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 2.2127,
+      "prior_variance": 0.643781,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 3.3861,
+      "prior_variance": 0.432584,
+      "prior_n": 3
+    }
+  ]
+}

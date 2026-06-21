@@ -1,0 +1,200 @@
+{
+  "round": 3720,
+  "timestamp": "2026-06-13T23:15:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.3107,
+      "prior_variance": 0.178225,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 6.5454,
+      "prior_variance": 0.15007,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.6913,
+      "prior_variance": 0.1296,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 4.298,
+      "prior_variance": 0.120184,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 1.0915,
+      "prior_variance": 0.132922,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 1.3464,
+      "prior_variance": 0.101837,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 1.8087,
+      "prior_variance": 0.140021,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 1.1337,
+      "prior_variance": 0.124743,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.1221,
+      "prior_variance": 0.118282,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -1.1624,
+      "prior_variance": 0.116227,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Malealea",
+      "path": "africa/lesotho/malealea",
+      "prior_score": -0.9922,
+      "prior_variance": 0.117387,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Sao Filipe",
+      "path": "africa/capeverde/so_filipe",
+      "prior_score": -0.4695,
+      "prior_variance": 0.127604,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": -0.5277,
+      "prior_variance": 0.123099,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.1034,
+      "prior_variance": 0.103012,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -0.6569,
+      "prior_variance": 0.108347,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -1.8309,
+      "prior_variance": 0.114585,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -1.6243,
+      "prior_variance": 0.130122,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.2383,
+      "prior_variance": 0.106155,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.5988,
+      "prior_variance": 0.11031,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Ko\u0142obrzeg",
+      "path": "europe/poland/koobrzeg",
+      "prior_score": -0.4,
+      "prior_variance": 0.10412,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -0.7092,
+      "prior_variance": 0.104254,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.5206,
+      "prior_variance": 0.139505,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.4901,
+      "prior_variance": 0.128937,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Baicheng",
+      "path": "asia/china/jilin/baicheng",
+      "prior_score": -5.8359,
+      "prior_variance": 0.134015,
+      "prior_n": 11
+    }
+  ]
+}

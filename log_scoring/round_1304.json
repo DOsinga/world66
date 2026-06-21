@@ -1,0 +1,200 @@
+{
+  "round": 1304,
+  "timestamp": "2026-06-13T20:22:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lillehammer",
+      "path": "europe/norway/lillehammer",
+      "prior_score": 5.0676,
+      "prior_variance": 0.298257,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 4.8415,
+      "prior_variance": 0.369046,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 2.7704,
+      "prior_variance": 0.327107,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Nijmegen",
+      "path": "europe/netherlands/nijmegen",
+      "prior_score": 0.1924,
+      "prior_variance": 0.298003,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_score": 4.8356,
+      "prior_variance": 0.297723,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": -0.4671,
+      "prior_variance": 0.323872,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 1.3121,
+      "prior_variance": 0.296846,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.499,
+      "prior_variance": 0.407036,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.9867,
+      "prior_variance": 0.325196,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.3738,
+      "prior_variance": 0.318678,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.3083,
+      "prior_variance": 0.357619,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.9577,
+      "prior_variance": 0.377092,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -0.6786,
+      "prior_variance": 0.296034,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.853,
+      "prior_variance": 0.302647,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.6242,
+      "prior_variance": 0.321557,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -2.7196,
+      "prior_variance": 0.430828,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.9054,
+      "prior_variance": 0.325019,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.6958,
+      "prior_variance": 0.4843,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -2.1366,
+      "prior_variance": 0.342835,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": -1.9493,
+      "prior_variance": 0.322583,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.5974,
+      "prior_variance": 0.479,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -1.8897,
+      "prior_variance": 0.410021,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.6994,
+      "prior_variance": 0.730282,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -7.2375,
+      "prior_variance": 0.376467,
+      "prior_n": 4
+    }
+  ]
+}

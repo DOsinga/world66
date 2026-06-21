@@ -1,0 +1,200 @@
+{
+  "round": 1524,
+  "timestamp": "2026-06-13T20:35:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "El Chalt\u00e9n",
+      "path": "southamerica/argentina/patagonia/elchalten",
+      "prior_score": 8.0459,
+      "prior_variance": 0.384759,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Bariloche",
+      "path": "southamerica/argentina/bariloche",
+      "prior_score": 7.0555,
+      "prior_variance": 0.384303,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 6.1301,
+      "prior_variance": 0.383858,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Merano",
+      "path": "europe/italy/trentinoaltoadige/merano",
+      "prior_score": 5.4124,
+      "prior_variance": 0.372215,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 3.7967,
+      "prior_variance": 0.274248,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 2.2313,
+      "prior_variance": 0.31607,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 4.5048,
+      "prior_variance": 0.359954,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.0505,
+      "prior_variance": 0.310113,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -1.079,
+      "prior_variance": 0.324005,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.3045,
+      "prior_variance": 0.261103,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Murudeshwar",
+      "path": "asia/india/karnataka/murudeshwar",
+      "prior_score": 1.4604,
+      "prior_variance": 0.279987,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": 0.6175,
+      "prior_variance": 0.341914,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Quetzaltenango",
+      "path": "northamerica/guatemala/quetzaltenango",
+      "prior_score": 1.5759,
+      "prior_variance": 0.304435,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": 1.165,
+      "prior_variance": 0.256186,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 0.8207,
+      "prior_variance": 0.446042,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.5193,
+      "prior_variance": 0.275405,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/kendal",
+      "prior_score": -0.976,
+      "prior_variance": 0.429479,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -3.765,
+      "prior_variance": 0.547772,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Coventry",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/coventry",
+      "prior_score": -1.425,
+      "prior_variance": 0.258993,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.9682,
+      "prior_variance": 0.345621,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Baoding",
+      "path": "asia/china/hebei/baoding",
+      "prior_score": -3.1035,
+      "prior_variance": 0.344634,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -5.9144,
+      "prior_variance": 0.380656,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -6.063,
+      "prior_variance": 0.397078,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Shizuishan",
+      "path": "asia/china/ningxia/shizuishan",
+      "prior_score": -7.4256,
+      "prior_variance": 0.320567,
+      "prior_n": 5
+    }
+  ]
+}

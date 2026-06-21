@@ -1,0 +1,200 @@
+{
+  "round": 1261,
+  "timestamp": "2026-06-13T20:20:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Buenos Aires",
+      "path": "southamerica/argentina/buenosaires",
+      "prior_score": 5.3461,
+      "prior_variance": 1.185549,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 8.6477,
+      "prior_variance": 0.592221,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 6.097,
+      "prior_variance": 0.482354,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 6.1099,
+      "prior_variance": 0.377008,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "T\u00e9touan",
+      "path": "africa/morocco/tetouan",
+      "prior_score": 3.7071,
+      "prior_variance": 0.40407,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": 0.4723,
+      "prior_variance": 0.354796,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Weerribben National Park",
+      "path": "europe/netherlands/weerribben_np",
+      "prior_score": -0.8322,
+      "prior_variance": 0.422423,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 1.1286,
+      "prior_variance": 0.316667,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": -0.1275,
+      "prior_variance": 0.330825,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.5817,
+      "prior_variance": 0.316011,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -1.9131,
+      "prior_variance": 0.320895,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -4.7104,
+      "prior_variance": 0.428281,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -0.0671,
+      "prior_variance": 0.417128,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lome",
+      "path": "africa/togo/lome",
+      "prior_score": -5.21,
+      "prior_variance": 0.443967,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.9941,
+      "prior_variance": 0.296455,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Manokwari",
+      "path": "asia/indonesia/irianjaya/manokwari",
+      "prior_score": -3.408,
+      "prior_variance": 0.404104,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -5.9604,
+      "prior_variance": 0.328181,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Khor",
+      "path": "asia/qatar/khor",
+      "prior_score": -7.0318,
+      "prior_variance": 0.419374,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -6.7976,
+      "prior_variance": 0.505219,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Thi\u00e8s",
+      "path": "africa/senegal/thies",
+      "prior_score": -5.5979,
+      "prior_variance": 0.453216,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -6.0625,
+      "prior_variance": 0.295828,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st",
+      "prior_score": -5.9112,
+      "prior_variance": 0.639972,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -5.9774,
+      "prior_variance": 0.558808,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cooranbong",
+      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
+      "prior_score": -7.9693,
+      "prior_variance": 0.694866,
+      "prior_n": 3
+    }
+  ]
+}

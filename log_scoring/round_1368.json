@@ -1,0 +1,200 @@
+{
+  "round": 1368,
+  "timestamp": "2026-06-13T20:26:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 10.7868,
+      "prior_variance": 0.477515,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 4.2021,
+      "prior_variance": 0.372788,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 3.692,
+      "prior_variance": 0.324036,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": -0.1065,
+      "prior_variance": 0.320202,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.6788,
+      "prior_variance": 0.320912,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 0.6224,
+      "prior_variance": 0.346147,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.8464,
+      "prior_variance": 0.305751,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 2.9882,
+      "prior_variance": 0.319427,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Fredericton",
+      "path": "northamerica/canada/newbrunswick/fredericton",
+      "prior_score": -0.741,
+      "prior_variance": 0.298396,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -1.7146,
+      "prior_variance": 0.323198,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/kentucky/lexington",
+      "prior_score": -0.2564,
+      "prior_variance": 0.330014,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -1.3042,
+      "prior_variance": 0.280887,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -3.305,
+      "prior_variance": 0.347307,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -1.6354,
+      "prior_variance": 0.332252,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -4.1794,
+      "prior_variance": 0.242336,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -3.9957,
+      "prior_variance": 0.419993,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -5.0337,
+      "prior_variance": 0.431385,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -6.0041,
+      "prior_variance": 0.655822,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -5.3916,
+      "prior_variance": 0.32019,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -5.2852,
+      "prior_variance": 0.328054,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -5.0545,
+      "prior_variance": 0.338948,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_score": -4.0605,
+      "prior_variance": 0.373472,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Bahawalpur",
+      "path": "asia/pakistan/bahawalpur",
+      "prior_score": -6.5643,
+      "prior_variance": 0.407291,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -5.1531,
+      "prior_variance": 0.397362,
+      "prior_n": 4
+    }
+  ]
+}

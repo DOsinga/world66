@@ -1,0 +1,200 @@
+{
+  "round": 3062,
+  "timestamp": "2026-06-13T22:26:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lima",
+      "path": "southamerica/peru/lima",
+      "prior_score": 5.5198,
+      "prior_variance": 0.192531,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.2858,
+      "prior_variance": 0.13537,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Seaside",
+      "path": "northamerica/unitedstates/oregon/seaside",
+      "prior_score": 0.1611,
+      "prior_variance": 0.129652,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.5383,
+      "prior_variance": 0.169926,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -3.0571,
+      "prior_variance": 0.142095,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -0.9968,
+      "prior_variance": 0.137434,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Tarapith",
+      "path": "asia/india/westbengal/tarapith",
+      "prior_score": -2.6788,
+      "prior_variance": 0.127598,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.234,
+      "prior_variance": 0.134081,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.8781,
+      "prior_variance": 0.13556,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Cape Girardeau",
+      "path": "northamerica/unitedstates/missouri/cape_girardeau",
+      "prior_score": -3.7015,
+      "prior_variance": 0.182185,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.3108,
+      "prior_variance": 0.134503,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Broken Bow",
+      "path": "northamerica/unitedstates/oklahoma/broken_bow",
+      "prior_score": -2.5805,
+      "prior_variance": 0.148157,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Samcheunpo",
+      "path": "asia/southkorea/samcheunpo",
+      "prior_score": -2.8254,
+      "prior_variance": 0.130284,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.709,
+      "prior_variance": 0.14434,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -4.6261,
+      "prior_variance": 0.19794,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Broken Arrow",
+      "path": "northamerica/unitedstates/oklahoma/broken_arrow",
+      "prior_score": -5.9069,
+      "prior_variance": 0.176067,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Oshogbo",
+      "path": "africa/nigeria/oshogbo",
+      "prior_score": -2.7106,
+      "prior_variance": 0.151201,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -3.9292,
+      "prior_variance": 0.150228,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -4.1071,
+      "prior_variance": 0.177733,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Briston",
+      "path": "europe/unitedkingdom/england/norfolk/briston",
+      "prior_score": -5.8414,
+      "prior_variance": 0.225327,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Butwal",
+      "path": "asia/nepal/butwal",
+      "prior_score": -3.2709,
+      "prior_variance": 0.139978,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Jiaxing",
+      "path": "asia/china/zhejiang/jiaxing",
+      "prior_score": -3.1842,
+      "prior_variance": 0.147362,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -6.0107,
+      "prior_variance": 0.248107,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.3457,
+      "prior_variance": 0.230114,
+      "prior_n": 9
+    }
+  ]
+}

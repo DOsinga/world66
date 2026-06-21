@@ -1,0 +1,200 @@
+{
+  "round": 3414,
+  "timestamp": "2026-06-13T22:52:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 6.9841,
+      "prior_variance": 0.154982,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 5.0243,
+      "prior_variance": 0.131251,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.7369,
+      "prior_variance": 0.154725,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 5.2003,
+      "prior_variance": 0.142043,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 3.3305,
+      "prior_variance": 0.134583,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.1108,
+      "prior_variance": 0.135847,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "St Lucia",
+      "path": "africa/southafrica/stlucia",
+      "prior_score": 0.8463,
+      "prior_variance": 0.134723,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Malia",
+      "path": "europe/greece/crete/malia",
+      "prior_score": 1.8654,
+      "prior_variance": 0.161134,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": 0.0815,
+      "prior_variance": 0.114551,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Astana",
+      "path": "asia/kazakhstan/astana",
+      "prior_score": -0.9413,
+      "prior_variance": 0.136389,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.3662,
+      "prior_variance": 0.118137,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Sefrou",
+      "path": "africa/morocco/sefrou",
+      "prior_score": -0.1152,
+      "prior_variance": 0.11599,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Dien Bien Phu",
+      "path": "asia/vietnam/dienbienphu",
+      "prior_score": -0.8632,
+      "prior_variance": 0.149332,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tsaghkadzor",
+      "path": "europe/armenia/tzakhadzor",
+      "prior_score": 0.8371,
+      "prior_variance": 0.122511,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.3182,
+      "prior_variance": 0.124534,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.4033,
+      "prior_variance": 0.122234,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.5483,
+      "prior_variance": 0.122335,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 1.056,
+      "prior_variance": 0.119362,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.8631,
+      "prior_variance": 0.118381,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -1.0599,
+      "prior_variance": 0.11945,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_score": -2.1704,
+      "prior_variance": 0.132583,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.2201,
+      "prior_variance": 0.120054,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.447,
+      "prior_variance": 0.179186,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -6.2824,
+      "prior_variance": 0.15145,
+      "prior_n": 10
+    }
+  ]
+}

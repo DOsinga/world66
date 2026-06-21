@@ -1,0 +1,200 @@
+{
+  "round": 573,
+  "timestamp": "2026-06-13T19:42:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 13.767,
+      "prior_variance": 2.207028,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 13.1786,
+      "prior_variance": 6.900538,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 11.8499,
+      "prior_variance": 1.116306,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 11.9811,
+      "prior_variance": 0.860839,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Saint Malo",
+      "path": "europe/france/normandybrittany/saintmalo",
+      "prior_score": 10.7002,
+      "prior_variance": 1.4053,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 13.2165,
+      "prior_variance": 1.987265,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 8.6132,
+      "prior_variance": 1.792373,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 7.4119,
+      "prior_variance": 2.847789,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 8.9013,
+      "prior_variance": 0.733704,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Flims",
+      "path": "europe/switzerland/flims",
+      "prior_score": 9.4403,
+      "prior_variance": 0.829512,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 8.8654,
+      "prior_variance": 0.983677,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 10.0261,
+      "prior_variance": 1.555906,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 9.1822,
+      "prior_variance": 0.917635,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 9.1404,
+      "prior_variance": 1.129585,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 8.6205,
+      "prior_variance": 0.994914,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Monreale",
+      "path": "europe/italy/sicily/monreale",
+      "prior_score": 9.8035,
+      "prior_variance": 1.159456,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 8.4164,
+      "prior_variance": 0.971568,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 8.7333,
+      "prior_variance": 1.767669,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 8.0997,
+      "prior_variance": 2.001099,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 6.5398,
+      "prior_variance": 1.048812,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 7.7956,
+      "prior_variance": 0.99706,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 7.0254,
+      "prior_variance": 2.303927,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 7.1924,
+      "prior_variance": 2.042021,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 8.057,
+      "prior_variance": 0.79268,
+      "prior_n": 2
+    }
+  ]
+}

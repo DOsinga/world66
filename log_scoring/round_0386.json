@@ -1,0 +1,200 @@
+{
+  "round": 386,
+  "timestamp": "2026-06-13T19:32:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Great Barrier Reef",
+      "path": "australiaandpacific/australia/queensland/greatbarrierreef",
+      "prior_score": 13.7526,
+      "prior_variance": 7.773315,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 14.834,
+      "prior_variance": 7.336133,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 13.337,
+      "prior_variance": 3.348841,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 12.5908,
+      "prior_variance": 3.447615,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Polignano a Mare",
+      "path": "europe/italy/puglia/polignano_a_mare",
+      "prior_score": 10.5464,
+      "prior_variance": 9.590214,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 15.515,
+      "prior_variance": 3.202901,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 13.3869,
+      "prior_variance": 3.341431,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 13.0658,
+      "prior_variance": 3.381254,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 6.5416,
+      "prior_variance": 1.803565,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bequia",
+      "path": "northamerica/saintvincentandthegrenadines/bequia",
+      "prior_score": 12.6274,
+      "prior_variance": 2.49109,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 12.204,
+      "prior_variance": 2.521213,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "San Pedro la Laguna",
+      "path": "northamerica/guatemala/lakeatitlan/san_pedro_la_laguna",
+      "prior_score": 8.506,
+      "prior_variance": 2.342377,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 7.0095,
+      "prior_variance": 1.564075,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 11.4981,
+      "prior_variance": 2.141777,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 8.9733,
+      "prior_variance": 2.304255,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 7.8519,
+      "prior_variance": 1.898939,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 8.3986,
+      "prior_variance": 1.907306,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 8.5502,
+      "prior_variance": 8.888179,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 6.6274,
+      "prior_variance": 1.691391,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 11.5429,
+      "prior_variance": 2.778106,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 5.0923,
+      "prior_variance": 1.704802,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 5.4534,
+      "prior_variance": 1.715586,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 8.2323,
+      "prior_variance": 2.366848,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tianjin",
+      "path": "asia/china/tianjin",
+      "prior_score": 1.1162,
+      "prior_variance": 1.533708,
+      "prior_n": 1
+    }
+  ]
+}

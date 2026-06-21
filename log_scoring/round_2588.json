@@ -1,0 +1,200 @@
+{
+  "round": 2588,
+  "timestamp": "2026-06-13T21:53:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amsterdam",
+      "path": "europe/netherlands/amsterdam",
+      "prior_score": 13.5103,
+      "prior_variance": 0.48038,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 4.3618,
+      "prior_variance": 0.185979,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.1423,
+      "prior_variance": 0.171394,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Cordoba",
+      "path": "southamerica/argentina/cordoba",
+      "prior_score": 2.3346,
+      "prior_variance": 0.195433,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 4.3902,
+      "prior_variance": 0.177477,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.5562,
+      "prior_variance": 0.168103,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 2.5803,
+      "prior_variance": 0.175089,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 1.5273,
+      "prior_variance": 0.192835,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 4.4344,
+      "prior_variance": 0.203233,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.5331,
+      "prior_variance": 0.189222,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 2.8372,
+      "prior_variance": 0.199834,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 3.2408,
+      "prior_variance": 0.173256,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 3.2535,
+      "prior_variance": 0.169592,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.9022,
+      "prior_variance": 0.176548,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 2.7185,
+      "prior_variance": 0.177755,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.6874,
+      "prior_variance": 0.151627,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 2.34,
+      "prior_variance": 0.145027,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.4005,
+      "prior_variance": 0.166604,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": -0.2954,
+      "prior_variance": 0.19026,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.3765,
+      "prior_variance": 0.158732,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.1625,
+      "prior_variance": 0.180609,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Taining",
+      "path": "asia/china/fujianprovince/taining",
+      "prior_score": -0.1875,
+      "prior_variance": 0.171236,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -0.9242,
+      "prior_variance": 0.157187,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Yichun",
+      "path": "asia/china/heilongjiang/yichun",
+      "prior_score": -5.792,
+      "prior_variance": 0.178824,
+      "prior_n": 8
+    }
+  ]
+}

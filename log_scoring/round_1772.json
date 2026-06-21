@@ -1,0 +1,200 @@
+{
+  "round": 1772,
+  "timestamp": "2026-06-13T20:51:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 15.6905,
+      "prior_variance": 0.788063,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Telluride",
+      "path": "northamerica/unitedstates/colorado/telluride",
+      "prior_score": 7.9519,
+      "prior_variance": 0.369457,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Dingle",
+      "path": "europe/ireland/dingle",
+      "prior_score": 5.8479,
+      "prior_variance": 0.304069,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 5.1532,
+      "prior_variance": 0.271782,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 3.3717,
+      "prior_variance": 0.270522,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 3.5439,
+      "prior_variance": 0.274706,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Punkaharju",
+      "path": "europe/finland/punkaharju",
+      "prior_score": 2.298,
+      "prior_variance": 0.205228,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.8285,
+      "prior_variance": 0.209426,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 1.5428,
+      "prior_variance": 0.351483,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 2.3718,
+      "prior_variance": 0.286703,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": -0.1319,
+      "prior_variance": 0.236046,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.3104,
+      "prior_variance": 0.21592,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": -0.5768,
+      "prior_variance": 0.260231,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.5455,
+      "prior_variance": 0.236285,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 2.6294,
+      "prior_variance": 0.244115,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -2.5588,
+      "prior_variance": 0.273891,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 2.663,
+      "prior_variance": 0.264515,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -3.0067,
+      "prior_variance": 0.222749,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/santa_rosa",
+      "prior_score": -0.9479,
+      "prior_variance": 0.285288,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -0.6125,
+      "prior_variance": 0.260434,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -3.1631,
+      "prior_variance": 0.247004,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -3.177,
+      "prior_variance": 0.221846,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Ryazan",
+      "path": "europe/russia/ryazan",
+      "prior_score": -3.2128,
+      "prior_variance": 0.257246,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -6.1755,
+      "prior_variance": 0.364677,
+      "prior_n": 5
+    }
+  ]
+}

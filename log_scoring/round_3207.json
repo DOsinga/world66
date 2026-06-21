@@ -1,0 +1,200 @@
+{
+  "round": 3207,
+  "timestamp": "2026-06-13T22:36:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 0.9499,
+      "prior_variance": 0.131433,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 0.4307,
+      "prior_variance": 0.120515,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Gerzensee",
+      "path": "europe/switzerland/gerzensee",
+      "prior_score": -1.8997,
+      "prior_variance": 0.13482,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Assur",
+      "path": "asia/iraq/assur",
+      "prior_score": -4.6896,
+      "prior_variance": 0.174896,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Tekirda\u011f",
+      "path": "asia/turkey/tekirdag",
+      "prior_score": -1.6323,
+      "prior_variance": 0.112604,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Gardenstown",
+      "path": "europe/unitedkingdom/scotland/gardenstown",
+      "prior_score": -1.1622,
+      "prior_variance": 0.130626,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -3.0862,
+      "prior_variance": 0.152958,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Trujillo",
+      "path": "northamerica/honduras/trujillo",
+      "prior_score": -1.8791,
+      "prior_variance": 0.127946,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.6802,
+      "prior_variance": 0.136672,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.3859,
+      "prior_variance": 0.146819,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.1759,
+      "prior_variance": 0.126154,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.1613,
+      "prior_variance": 0.142245,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -2.5819,
+      "prior_variance": 0.117572,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.6914,
+      "prior_variance": 0.147382,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Abilene",
+      "path": "northamerica/unitedstates/kansas/abilene",
+      "prior_score": -4.3929,
+      "prior_variance": 0.168021,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.529,
+      "prior_variance": 0.141919,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Aizawl",
+      "path": "asia/india/mizoram/aizawl",
+      "prior_score": -3.6146,
+      "prior_variance": 0.144797,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.1299,
+      "prior_variance": 0.132821,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Palembang",
+      "path": "asia/indonesia/sumatra/palembang",
+      "prior_score": -2.6821,
+      "prior_variance": 0.141685,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pristina",
+      "path": "europe/serbia/kosovoprovince/pristina",
+      "prior_score": -3.4435,
+      "prior_variance": 0.20551,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.0293,
+      "prior_variance": 0.125646,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.3887,
+      "prior_variance": 0.109321,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -4.6874,
+      "prior_variance": 0.186139,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Dodoma",
+      "path": "africa/tanzania/dodoma",
+      "prior_score": -3.6034,
+      "prior_variance": 0.167546,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2551,
+  "timestamp": "2026-06-13T21:50:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.7134,
+      "prior_variance": 0.165305,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.5298,
+      "prior_variance": 0.157817,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 2.9104,
+      "prior_variance": 0.162701,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sayram Lake",
+      "path": "asia/china/xinjiangprovince/sayramlake",
+      "prior_score": 1.3085,
+      "prior_variance": 0.155687,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.3156,
+      "prior_variance": 0.159834,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.7506,
+      "prior_variance": 0.185455,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Moray",
+      "path": "europe/unitedkingdom/scotland/moray",
+      "prior_score": -0.2251,
+      "prior_variance": 0.169394,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 0.8963,
+      "prior_variance": 0.178954,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -0.8053,
+      "prior_variance": 0.209599,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -0.6308,
+      "prior_variance": 0.267003,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.5624,
+      "prior_variance": 0.164204,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Worms",
+      "path": "europe/germany/rhinelandpalatinate/worms",
+      "prior_score": 0.8838,
+      "prior_variance": 0.192894,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.1436,
+      "prior_variance": 0.165006,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -0.74,
+      "prior_variance": 0.152802,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.071,
+      "prior_variance": 0.165945,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -1.0456,
+      "prior_variance": 0.198946,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -0.6276,
+      "prior_variance": 0.152549,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.5293,
+      "prior_variance": 0.190243,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -3.107,
+      "prior_variance": 0.181784,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.0349,
+      "prior_variance": 0.174628,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Uddevalla",
+      "path": "europe/sweden/uddevalla",
+      "prior_score": -1.7828,
+      "prior_variance": 0.143533,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.1138,
+      "prior_variance": 0.216374,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -4.9429,
+      "prior_variance": 0.23072,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -6.3225,
+      "prior_variance": 0.219339,
+      "prior_n": 8
+    }
+  ]
+}

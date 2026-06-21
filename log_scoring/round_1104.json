@@ -1,0 +1,200 @@
+{
+  "round": 1104,
+  "timestamp": "2026-06-13T20:11:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Whistler",
+      "path": "northamerica/canada/britishcolumbia/whistler",
+      "prior_score": 9.1578,
+      "prior_variance": 0.508157,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 8.8583,
+      "prior_variance": 0.533514,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.1295,
+      "prior_variance": 0.439341,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.6301,
+      "prior_variance": 0.41237,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -2.6956,
+      "prior_variance": 0.580027,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.9217,
+      "prior_variance": 0.399388,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -1.7502,
+      "prior_variance": 0.409968,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Hamilton",
+      "path": "australiaandpacific/newzealand/north_island/waikato/hamilton",
+      "prior_score": -2.2737,
+      "prior_variance": 0.466822,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -3.4111,
+      "prior_variance": 0.453226,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Jena",
+      "path": "europe/germany/thuringia/jena",
+      "prior_score": -2.6671,
+      "prior_variance": 0.417095,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -2.5353,
+      "prior_variance": 0.316345,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -2.5424,
+      "prior_variance": 0.41975,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Oujda",
+      "path": "africa/morocco/oujda",
+      "prior_score": -4.0905,
+      "prior_variance": 0.579568,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -2.633,
+      "prior_variance": 0.389843,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -2.5424,
+      "prior_variance": 0.437949,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -3.0674,
+      "prior_variance": 0.444314,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -2.7083,
+      "prior_variance": 0.440996,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -3.7194,
+      "prior_variance": 0.295231,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -3.745,
+      "prior_variance": 0.855963,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chill\u00e1n",
+      "path": "southamerica/chile/chillan",
+      "prior_score": -2.4502,
+      "prior_variance": 0.384113,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -5.3968,
+      "prior_variance": 0.516065,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": 0.1626,
+      "prior_variance": 0.456768,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -6.5193,
+      "prior_variance": 0.507451,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -6.285,
+      "prior_variance": 0.406671,
+      "prior_n": 3
+    }
+  ]
+}

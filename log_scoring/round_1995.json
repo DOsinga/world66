@@ -1,0 +1,200 @@
+{
+  "round": 1995,
+  "timestamp": "2026-06-13T21:11:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Petersburg",
+      "path": "europe/russia/stpetersburg",
+      "prior_score": 11.9026,
+      "prior_variance": 0.605976,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hamburg",
+      "path": "europe/germany/hamburg",
+      "prior_score": 1.6711,
+      "prior_variance": 0.345842,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.3634,
+      "prior_variance": 0.640998,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 9.731,
+      "prior_variance": 0.645615,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.4856,
+      "prior_variance": 0.239105,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Kotohira",
+      "path": "asia/japan/shikoku/kotohira",
+      "prior_score": 3.6147,
+      "prior_variance": 0.220059,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 2.1102,
+      "prior_variance": 0.202828,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 5.0493,
+      "prior_variance": 0.249892,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 0.5565,
+      "prior_variance": 0.255743,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.6465,
+      "prior_variance": 0.275567,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.1479,
+      "prior_variance": 0.234148,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": -0.2421,
+      "prior_variance": 0.258179,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Ferghana Valley",
+      "path": "asia/uzbekistan/ferghanavalley",
+      "prior_score": -1.2068,
+      "prior_variance": 0.223731,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 3.2312,
+      "prior_variance": 0.233597,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 0.8907,
+      "prior_variance": 0.238232,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 0.9681,
+      "prior_variance": 0.215193,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": -0.3732,
+      "prior_variance": 0.210041,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Igaliku",
+      "path": "northamerica/greenland/igaliku",
+      "prior_score": -1.748,
+      "prior_variance": 0.318225,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.6214,
+      "prior_variance": 0.223666,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": 0.1121,
+      "prior_variance": 0.206257,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Vado Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vadoligure",
+      "prior_score": -2.4699,
+      "prior_variance": 0.225272,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.3079,
+      "prior_variance": 0.27066,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -2.3244,
+      "prior_variance": 0.256421,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -3.3019,
+      "prior_variance": 0.238497,
+      "prior_n": 6
+    }
+  ]
+}

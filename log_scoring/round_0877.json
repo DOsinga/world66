@@ -1,0 +1,200 @@
+{
+  "round": 877,
+  "timestamp": "2026-06-13T19:58:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/stellenbosch",
+      "prior_score": 6.846,
+      "prior_variance": 0.790324,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 8.1919,
+      "prior_variance": 0.494028,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 4.5147,
+      "prior_variance": 0.527927,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/massachusetts/salem",
+      "prior_score": 5.5002,
+      "prior_variance": 0.722033,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 6.4939,
+      "prior_variance": 0.550269,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ayvalik",
+      "path": "asia/turkey/ayvalik",
+      "prior_score": 1.9034,
+      "prior_variance": 0.460127,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Alexandria",
+      "path": "africa/egypt/alexandria",
+      "prior_score": 6.16,
+      "prior_variance": 0.578686,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 5.3456,
+      "prior_variance": 0.921274,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 5.2795,
+      "prior_variance": 0.57009,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Blarney",
+      "path": "europe/ireland/blarney",
+      "prior_score": 5.6965,
+      "prior_variance": 0.602745,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 5.546,
+      "prior_variance": 0.580748,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 4.2288,
+      "prior_variance": 0.788886,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 5.5098,
+      "prior_variance": 0.715782,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 6.1811,
+      "prior_variance": 0.752503,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/south_east/richmond",
+      "prior_score": 3.7154,
+      "prior_variance": 0.576217,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ouzoud",
+      "path": "africa/morocco/ouzoud",
+      "prior_score": 4.4959,
+      "prior_variance": 0.716006,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 6.867,
+      "prior_variance": 0.646468,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Aljezur",
+      "path": "europe/portugal/aljezur",
+      "prior_score": 4.1373,
+      "prior_variance": 0.756459,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 5.7693,
+      "prior_variance": 0.618172,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aranjuez",
+      "path": "europe/spain/centralspain/aranjuez",
+      "prior_score": 4.8262,
+      "prior_variance": 0.690796,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 6.1276,
+      "prior_variance": 0.626197,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 5.1465,
+      "prior_variance": 0.716644,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 4.48,
+      "prior_variance": 0.480016,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 4.9673,
+      "prior_variance": 0.701553,
+      "prior_n": 2
+    }
+  ]
+}

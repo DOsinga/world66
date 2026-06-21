@@ -1,0 +1,200 @@
+{
+  "round": 582,
+  "timestamp": "2026-06-13T19:43:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 7.5681,
+      "prior_variance": 1.403548,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 7.3668,
+      "prior_variance": 0.816594,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Amman",
+      "path": "asia/jordan/amman",
+      "prior_score": 7.1541,
+      "prior_variance": 1.540498,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 8.9931,
+      "prior_variance": 2.449692,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 4.6251,
+      "prior_variance": 2.412243,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 6.6098,
+      "prior_variance": 1.616884,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 6.3496,
+      "prior_variance": 1.514934,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 7.7414,
+      "prior_variance": 1.006695,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": 6.6947,
+      "prior_variance": 0.843006,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 6.3592,
+      "prior_variance": 1.116956,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 4.8002,
+      "prior_variance": 0.631,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 6.6196,
+      "prior_variance": 0.890338,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": 5.0835,
+      "prior_variance": 1.324401,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 3.4925,
+      "prior_variance": 1.107193,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Palolem",
+      "path": "asia/india/goa/palolim",
+      "prior_score": 5.2832,
+      "prior_variance": 1.06293,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tyre",
+      "path": "asia/lebanon/tyre",
+      "prior_score": 4.4534,
+      "prior_variance": 1.469747,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 3.7401,
+      "prior_variance": 0.726625,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Samobor",
+      "path": "europe/croatia/samobor",
+      "prior_score": 4.3446,
+      "prior_variance": 1.031723,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 4.7407,
+      "prior_variance": 1.408621,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 4.1386,
+      "prior_variance": 1.52039,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 5.2238,
+      "prior_variance": 0.741973,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": 0.0925,
+      "prior_variance": 1.506763,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": 3.0386,
+      "prior_variance": 1.503033,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 3.7209,
+      "prior_variance": 1.525262,
+      "prior_n": 1
+    }
+  ]
+}

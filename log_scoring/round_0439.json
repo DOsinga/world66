@@ -1,0 +1,200 @@
+{
+  "round": 439,
+  "timestamp": "2026-06-13T19:35:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": -1.7601,
+      "prior_variance": 1.958363,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": -2.5443,
+      "prior_variance": 1.718352,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -2.7139,
+      "prior_variance": 1.36889,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -0.7843,
+      "prior_variance": 1.32397,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -4.3273,
+      "prior_variance": 2.185233,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -2.6946,
+      "prior_variance": 1.857772,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -6.9885,
+      "prior_variance": 1.425128,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -0.512,
+      "prior_variance": 2.275059,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.6799,
+      "prior_variance": 3.1966,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -4.8799,
+      "prior_variance": 3.444046,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.779,
+      "prior_variance": 2.220214,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "S\u00e1toralja\u00fajhely",
+      "path": "europe/hungary/satoraljaujhely",
+      "prior_score": -4.8745,
+      "prior_variance": 1.966866,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -6.3003,
+      "prior_variance": 2.048136,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.1357,
+      "prior_variance": 1.562016,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Bunbury",
+      "path": "australiaandpacific/australia/westernaustralia/bunbury",
+      "prior_score": -2.2903,
+      "prior_variance": 1.843106,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lu\u010denec",
+      "path": "europe/slovakia/luenec",
+      "prior_score": -3.2976,
+      "prior_variance": 1.417211,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Jhansi",
+      "path": "asia/india/uttarpradesh/jhansi",
+      "prior_score": -5.4951,
+      "prior_variance": 1.480673,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Sintok",
+      "path": "asia/malaysia/sintok",
+      "prior_score": -4.0564,
+      "prior_variance": 2.150364,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -3.1412,
+      "prior_variance": 1.521555,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -7.4697,
+      "prior_variance": 1.247778,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -8.5275,
+      "prior_variance": 2.598633,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -8.9563,
+      "prior_variance": 10.478736,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -5.2823,
+      "prior_variance": 2.74569,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -9.6433,
+      "prior_variance": 9.765514,
+      "prior_n": 1
+    }
+  ]
+}

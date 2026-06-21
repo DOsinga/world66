@@ -1,0 +1,200 @@
+{
+  "round": 1712,
+  "timestamp": "2026-06-13T20:47:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 5.8069,
+      "prior_variance": 0.275792,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 2.2774,
+      "prior_variance": 0.316285,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Chirrip\u00f3",
+      "path": "northamerica/costarica/chirripo",
+      "prior_score": 3.9756,
+      "prior_variance": 0.299531,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 2.6155,
+      "prior_variance": 0.256527,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.682,
+      "prior_variance": 0.215059,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 1.1999,
+      "prior_variance": 0.490689,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -3.067,
+      "prior_variance": 0.381674,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Lucban",
+      "path": "asia/philippines/quezon_province/lucban",
+      "prior_score": -0.7679,
+      "prior_variance": 0.256184,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -1.1852,
+      "prior_variance": 0.295292,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -3.9345,
+      "prior_variance": 0.264398,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -4.2433,
+      "prior_variance": 0.319596,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -4.7687,
+      "prior_variance": 0.381041,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": 0.4522,
+      "prior_variance": 0.309942,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.5383,
+      "prior_variance": 0.25337,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.9782,
+      "prior_variance": 0.245868,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -4.0365,
+      "prior_variance": 0.343958,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": 0.2326,
+      "prior_variance": 0.245313,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -2.9414,
+      "prior_variance": 0.314553,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -2.3322,
+      "prior_variance": 0.266548,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -3.2613,
+      "prior_variance": 0.354485,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -5.0199,
+      "prior_variance": 0.288787,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -4.5051,
+      "prior_variance": 0.308462,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Amarillo",
+      "path": "northamerica/unitedstates/texas/amarillo",
+      "prior_score": -3.3287,
+      "prior_variance": 0.298677,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -6.3759,
+      "prior_variance": 0.308697,
+      "prior_n": 5
+    }
+  ]
+}

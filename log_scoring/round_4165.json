@@ -1,0 +1,200 @@
+{
+  "round": 4165,
+  "timestamp": "2026-06-13T23:50:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 9.6801,
+      "prior_variance": 0.181509,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.1336,
+      "prior_variance": 0.113989,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Hove",
+      "path": "europe/unitedkingdom/england/south_east/hove",
+      "prior_score": -0.7315,
+      "prior_variance": 0.099569,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Leeuwarden",
+      "path": "europe/netherlands/friesland/leeuwarden",
+      "prior_score": 0.2638,
+      "prior_variance": 0.096226,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": -0.0434,
+      "prior_variance": 0.099896,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.4392,
+      "prior_variance": 0.106535,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -2.6384,
+      "prior_variance": 0.108869,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": -0.5379,
+      "prior_variance": 0.091226,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sarpi",
+      "path": "europe/georgia/sarpi",
+      "prior_score": -1.5297,
+      "prior_variance": 0.102122,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Mattighofen",
+      "path": "europe/austria/mattighofen",
+      "prior_score": -3.4725,
+      "prior_variance": 0.128822,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -3.7283,
+      "prior_variance": 0.114931,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Quiliano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/quiliano",
+      "prior_score": -1.6906,
+      "prior_variance": 0.119381,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.3732,
+      "prior_variance": 0.103048,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -3.7488,
+      "prior_variance": 0.114391,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/sunderland",
+      "prior_score": -3.6018,
+      "prior_variance": 0.107403,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -2.7279,
+      "prior_variance": 0.088343,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.4161,
+      "prior_variance": 0.113718,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -3.1615,
+      "prior_variance": 0.098624,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Suqian",
+      "path": "asia/china/jiangsu_province/suqian",
+      "prior_score": -5.4048,
+      "prior_variance": 0.145851,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -4.858,
+      "prior_variance": 0.1137,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.735,
+      "prior_variance": 0.130168,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -5.9935,
+      "prior_variance": 0.119445,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Gaoua",
+      "path": "africa/burkinafaso/gaoua",
+      "prior_score": -5.7583,
+      "prior_variance": 0.12873,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Bissau",
+      "path": "africa/guineabissau/bissau",
+      "prior_score": -5.7353,
+      "prior_variance": 0.147408,
+      "prior_n": 13
+    }
+  ]
+}

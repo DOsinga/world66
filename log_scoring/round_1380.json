@@ -1,0 +1,200 @@
+{
+  "round": 1380,
+  "timestamp": "2026-06-13T20:27:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 7.4097,
+      "prior_variance": 0.529972,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.8676,
+      "prior_variance": 0.316856,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 5.1243,
+      "prior_variance": 0.367161,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_score": 4.0257,
+      "prior_variance": 0.454445,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 6.3279,
+      "prior_variance": 0.325259,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 2.726,
+      "prior_variance": 0.317608,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Lake Balaton",
+      "path": "europe/hungary/lakebalaton",
+      "prior_score": 4.0196,
+      "prior_variance": 0.317524,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Skardu",
+      "path": "asia/pakistan/skardu",
+      "prior_score": 3.2436,
+      "prior_variance": 0.396847,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.3907,
+      "prior_variance": 0.339621,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.643,
+      "prior_variance": 0.443077,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -1.0624,
+      "prior_variance": 0.392826,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -2.1049,
+      "prior_variance": 0.310988,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mesnil-Val",
+      "path": "europe/france/normandybrittany/mesnilval",
+      "prior_score": -1.2407,
+      "prior_variance": 0.282631,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -1.1646,
+      "prior_variance": 0.256816,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.9837,
+      "prior_variance": 0.34721,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -1.6077,
+      "prior_variance": 0.504075,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Quillota",
+      "path": "southamerica/chile/quillota",
+      "prior_score": -3.1609,
+      "prior_variance": 0.406046,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -2.6203,
+      "prior_variance": 0.331733,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Magdalena de Kino",
+      "path": "northamerica/mexico/magdalena_de_kino",
+      "prior_score": -5.4741,
+      "prior_variance": 0.29675,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Greensboro",
+      "path": "northamerica/unitedstates/northcarolina/greensboro",
+      "prior_score": -4.7355,
+      "prior_variance": 0.336432,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -6.545,
+      "prior_variance": 0.407127,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Asaba, Delta State",
+      "path": "africa/nigeria/asaba_delta_state",
+      "prior_score": -7.1457,
+      "prior_variance": 0.382018,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -5.2017,
+      "prior_variance": 0.355945,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": -8.7639,
+      "prior_variance": 0.610197,
+      "prior_n": 4
+    }
+  ]
+}

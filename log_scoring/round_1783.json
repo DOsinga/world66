@@ -1,0 +1,200 @@
+{
+  "round": 1783,
+  "timestamp": "2026-06-13T20:52:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.5592,
+      "prior_variance": 0.252415,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Toulouse",
+      "path": "europe/france/midi/languedoc/toulouse",
+      "prior_score": 5.5628,
+      "prior_variance": 0.360876,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 5.5955,
+      "prior_variance": 0.331342,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 4.6719,
+      "prior_variance": 0.295706,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.3586,
+      "prior_variance": 0.230765,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 5.6014,
+      "prior_variance": 0.256868,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 4.1485,
+      "prior_variance": 0.276913,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 1.1447,
+      "prior_variance": 0.248815,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 0.6277,
+      "prior_variance": 0.33006,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.0774,
+      "prior_variance": 0.210919,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": -0.2822,
+      "prior_variance": 0.250037,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -1.4961,
+      "prior_variance": 0.384382,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 1.7379,
+      "prior_variance": 0.226862,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -1.7761,
+      "prior_variance": 0.326391,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -2.0777,
+      "prior_variance": 0.216631,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.7306,
+      "prior_variance": 0.239207,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.6237,
+      "prior_variance": 0.273501,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.3921,
+      "prior_variance": 0.248043,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -3.4258,
+      "prior_variance": 0.273066,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -0.6112,
+      "prior_variance": 0.238005,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.2726,
+      "prior_variance": 0.227713,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": -0.1888,
+      "prior_variance": 0.234658,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Ocean Shores",
+      "path": "northamerica/unitedstates/washington/ocean_shores",
+      "prior_score": -1.9805,
+      "prior_variance": 0.333152,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -3.7471,
+      "prior_variance": 0.254735,
+      "prior_n": 6
+    }
+  ]
+}

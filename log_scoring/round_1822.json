@@ -1,0 +1,200 @@
+{
+  "round": 1822,
+  "timestamp": "2026-06-13T20:54:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Agra",
+      "path": "asia/india/uttarpradesh/agra",
+      "prior_score": 10.444,
+      "prior_variance": 0.430375,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 6.5699,
+      "prior_variance": 0.337272,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "York",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york",
+      "prior_score": 7.5606,
+      "prior_variance": 0.382172,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 7.208,
+      "prior_variance": 0.291907,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 7.3888,
+      "prior_variance": 0.451,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 6.7978,
+      "prior_variance": 0.378516,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Aitutaki",
+      "path": "australiaandpacific/cookislands/aitutaki",
+      "prior_score": 9.1516,
+      "prior_variance": 0.378096,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 5.8572,
+      "prior_variance": 0.332809,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 7.5167,
+      "prior_variance": 0.27948,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 3.3317,
+      "prior_variance": 0.306418,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Giverny",
+      "path": "europe/france/normandybrittany/giverny",
+      "prior_score": 7.1005,
+      "prior_variance": 0.374865,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Pienza",
+      "path": "europe/italy/tuscany/pienza",
+      "prior_score": 7.6584,
+      "prior_variance": 0.323901,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "St Peter Port",
+      "path": "europe/channelislands/guernsey/st_peter_port",
+      "prior_score": 4.1856,
+      "prior_variance": 0.308667,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Cambados",
+      "path": "europe/spain/galicia/cambados",
+      "prior_score": 1.401,
+      "prior_variance": 0.215058,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 3.0402,
+      "prior_variance": 0.24046,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.2002,
+      "prior_variance": 0.206737,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.9247,
+      "prior_variance": 0.293974,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.7391,
+      "prior_variance": 0.238649,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -1.7383,
+      "prior_variance": 0.273732,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.4225,
+      "prior_variance": 0.242186,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -1.2603,
+      "prior_variance": 0.245576,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -5.1827,
+      "prior_variance": 0.270486,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -0.5597,
+      "prior_variance": 0.25127,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -7.0644,
+      "prior_variance": 0.293182,
+      "prior_n": 5
+    }
+  ]
+}

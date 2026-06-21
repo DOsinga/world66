@@ -1,0 +1,200 @@
+{
+  "round": 836,
+  "timestamp": "2026-06-13T19:56:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -10.5744,
+      "prior_variance": 1.423054,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -9.8874,
+      "prior_variance": 3.840423,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -8.6857,
+      "prior_variance": 0.79057,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Wytheville",
+      "path": "northamerica/unitedstates/virginia/wytheville",
+      "prior_score": -12.0326,
+      "prior_variance": 0.865438,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -9.4818,
+      "prior_variance": 0.836123,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -10.0778,
+      "prior_variance": 0.935511,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vanderhoof",
+      "path": "northamerica/canada/britishcolumbia/vanderhoof",
+      "prior_score": -11.3812,
+      "prior_variance": 1.375781,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -9.5945,
+      "prior_variance": 0.636438,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -12.3719,
+      "prior_variance": 1.532821,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Virginia",
+      "path": "northamerica/unitedstates/minnesota/virginia",
+      "prior_score": -10.0291,
+      "prior_variance": 0.766576,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -9.258,
+      "prior_variance": 0.609103,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -9.9897,
+      "prior_variance": 1.034452,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -8.5499,
+      "prior_variance": 0.598781,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -9.2549,
+      "prior_variance": 0.678618,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -12.6301,
+      "prior_variance": 1.059296,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Erlian",
+      "path": "asia/china/innermongolia/erlian",
+      "prior_score": -11.2863,
+      "prior_variance": 1.060765,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Ma'anshan",
+      "path": "asia/china/anhui/maanshan",
+      "prior_score": -8.8083,
+      "prior_variance": 0.654809,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lauro M\u00fcller",
+      "path": "southamerica/brazil/lauro_mller",
+      "prior_score": -9.0722,
+      "prior_variance": 0.70588,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -9.6517,
+      "prior_variance": 0.691713,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Pedro Bernardo",
+      "path": "europe/spain/centralspain/pedro_bernardo",
+      "prior_score": -8.555,
+      "prior_variance": 0.806864,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -8.0067,
+      "prior_variance": 0.710396,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_score": -10.6018,
+      "prior_variance": 1.139138,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -14.5662,
+      "prior_variance": 1.653665,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -9.5897,
+      "prior_variance": 1.050946,
+      "prior_n": 2
+    }
+  ]
+}

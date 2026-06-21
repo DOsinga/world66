@@ -1,0 +1,200 @@
+{
+  "round": 1388,
+  "timestamp": "2026-06-13T20:27:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 11.9268,
+      "prior_variance": 0.571442,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 6.1668,
+      "prior_variance": 0.341041,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 5.4321,
+      "prior_variance": 0.353987,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tunis",
+      "path": "africa/tunisia/tunis",
+      "prior_score": 4.5853,
+      "prior_variance": 0.357371,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Nefta",
+      "path": "africa/tunisia/nefta",
+      "prior_score": -0.528,
+      "prior_variance": 0.304292,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 1.5901,
+      "prior_variance": 0.311929,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -0.0152,
+      "prior_variance": 0.328887,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -1.7458,
+      "prior_variance": 0.377354,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -0.854,
+      "prior_variance": 0.371709,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.831,
+      "prior_variance": 0.364875,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Gegharkunik Marz",
+      "path": "europe/armenia/gegharkunik_marz",
+      "prior_score": -1.4636,
+      "prior_variance": 0.295912,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -3.0581,
+      "prior_variance": 0.460038,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Osnabr\u00fcck",
+      "path": "europe/germany/lowersaxony/osnabrck",
+      "prior_score": -2.3854,
+      "prior_variance": 0.294852,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Almelo",
+      "path": "europe/netherlands/almelo",
+      "prior_score": -4.9044,
+      "prior_variance": 0.375157,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -6.9524,
+      "prior_variance": 0.519018,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -4.2069,
+      "prior_variance": 0.310905,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Zhuzhou",
+      "path": "asia/china/hunan/zhuzhou",
+      "prior_score": -5.716,
+      "prior_variance": 0.407971,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -6.0805,
+      "prior_variance": 0.300278,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Hyderabad",
+      "path": "asia/pakistan/hyderabad",
+      "prior_score": -5.5613,
+      "prior_variance": 0.425247,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -7.906,
+      "prior_variance": 0.361029,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -6.1,
+      "prior_variance": 0.31633,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -7.1041,
+      "prior_variance": 0.383106,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -5.5097,
+      "prior_variance": 0.537982,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -11.9398,
+      "prior_variance": 0.5894,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2836,
+  "timestamp": "2026-06-13T22:10:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 6.2353,
+      "prior_variance": 0.212555,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Manuae",
+      "path": "australiaandpacific/cookislands/manuae",
+      "prior_score": -3.0334,
+      "prior_variance": 0.197435,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.495,
+      "prior_variance": 0.151561,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.8663,
+      "prior_variance": 0.151294,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.7868,
+      "prior_variance": 0.152501,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -3.0947,
+      "prior_variance": 0.15959,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.6858,
+      "prior_variance": 0.154196,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_score": -4.0154,
+      "prior_variance": 0.157251,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -3.9413,
+      "prior_variance": 0.176037,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Arcata",
+      "path": "northamerica/unitedstates/california/northcoast/arcata",
+      "prior_score": -2.3937,
+      "prior_variance": 0.153467,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Rugby, Tennessee",
+      "path": "northamerica/unitedstates/tennessee/rugby_tennessee",
+      "prior_score": -3.8762,
+      "prior_variance": 0.16821,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.7269,
+      "prior_variance": 0.142098,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.5516,
+      "prior_variance": 0.160635,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Harrisburg",
+      "path": "northamerica/unitedstates/pennsylvania/harrisburg",
+      "prior_score": -2.7579,
+      "prior_variance": 0.156925,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Eau Claire",
+      "path": "northamerica/unitedstates/wisconsin/eau_claire",
+      "prior_score": -3.3485,
+      "prior_variance": 0.138616,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.1103,
+      "prior_variance": 0.159214,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -3.8766,
+      "prior_variance": 0.16683,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -4.2425,
+      "prior_variance": 0.138798,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -3.4756,
+      "prior_variance": 0.139181,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Ulyanovsk",
+      "path": "europe/russia/ulyanovsk",
+      "prior_score": -4.3433,
+      "prior_variance": 0.188773,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.3501,
+      "prior_variance": 0.14623,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -4.4656,
+      "prior_variance": 0.151038,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -4.6704,
+      "prior_variance": 0.148256,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Salem",
+      "path": "asia/india/tamilnadu/salem",
+      "prior_score": -4.4452,
+      "prior_variance": 0.154773,
+      "prior_n": 9
+    }
+  ]
+}

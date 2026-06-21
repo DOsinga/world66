@@ -1,0 +1,200 @@
+{
+  "round": 320,
+  "timestamp": "2026-06-13T19:29:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 11.4806,
+      "prior_variance": 3.615408,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.9732,
+      "prior_variance": 1.891133,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 8.7416,
+      "prior_variance": 1.997564,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 5.9918,
+      "prior_variance": 1.991504,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Iquitos",
+      "path": "southamerica/peru/iquitos",
+      "prior_score": 5.3005,
+      "prior_variance": 2.042554,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 5.2702,
+      "prior_variance": 1.872223,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 1.932,
+      "prior_variance": 1.682871,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 3.4025,
+      "prior_variance": 1.877599,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Garni",
+      "path": "europe/armenia/garni",
+      "prior_score": 2.5675,
+      "prior_variance": 2.071744,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": 1.0478,
+      "prior_variance": 1.689346,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -10.7773,
+      "prior_variance": 3.462304,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Antillanca",
+      "path": "southamerica/chile/antillanca",
+      "prior_score": 0.9597,
+      "prior_variance": 1.978509,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": 0.4349,
+      "prior_variance": 1.67954,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -4.1112,
+      "prior_variance": 1.853496,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -5.9905,
+      "prior_variance": 1.84706,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -2.3885,
+      "prior_variance": 1.580656,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Old Deerfield",
+      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
+      "prior_score": -0.3193,
+      "prior_variance": 1.937817,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Trollh\u00e4ttan",
+      "path": "europe/sweden/trollhttan",
+      "prior_score": -3.6092,
+      "prior_variance": 1.649469,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": 4.8186,
+      "prior_variance": 1.852674,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -3.9641,
+      "prior_variance": 1.622446,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Oxnard",
+      "path": "northamerica/unitedstates/california/centralcoast/oxnard",
+      "prior_score": -6.3978,
+      "prior_variance": 2.036174,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -3.9245,
+      "prior_variance": 1.872926,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -10.2621,
+      "prior_variance": 3.574988,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -13.8505,
+      "prior_variance": 2.935182,
+      "prior_n": 1
+    }
+  ]
+}

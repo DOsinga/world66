@@ -1,0 +1,200 @@
+{
+  "round": 1566,
+  "timestamp": "2026-06-13T20:38:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 2.8742,
+      "prior_variance": 0.487634,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 2.4789,
+      "prior_variance": 0.246841,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 4.7276,
+      "prior_variance": 0.252402,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": 1.1283,
+      "prior_variance": 0.2843,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 3.3016,
+      "prior_variance": 0.260634,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Luang Namtha",
+      "path": "asia/laos/luangnamtha",
+      "prior_score": 0.9869,
+      "prior_variance": 0.293027,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.335,
+      "prior_variance": 0.309623,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 1.0888,
+      "prior_variance": 0.245269,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -2.4908,
+      "prior_variance": 0.293821,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks",
+      "prior_score": -0.9674,
+      "prior_variance": 0.306124,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Dalaman",
+      "path": "asia/turkey/dalaman",
+      "prior_score": -3.7501,
+      "prior_variance": 0.380704,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": -0.0451,
+      "prior_variance": 0.271539,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Achiltibuie",
+      "path": "europe/unitedkingdom/scotland/achiltibuie",
+      "prior_score": -0.9777,
+      "prior_variance": 0.298571,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.2216,
+      "prior_variance": 0.251113,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 1.5762,
+      "prior_variance": 0.256517,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 1.2393,
+      "prior_variance": 0.296676,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Zhuhai",
+      "path": "asia/china/guangdong/zhuhai",
+      "prior_score": -1.4457,
+      "prior_variance": 0.381997,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -1.8735,
+      "prior_variance": 0.307556,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kurukshetra",
+      "path": "asia/india/haryana/kurukshetra",
+      "prior_score": -1.3656,
+      "prior_variance": 0.4694,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Busua",
+      "path": "africa/ghana/busua_western_regi",
+      "prior_score": -1.4724,
+      "prior_variance": 0.284277,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "York",
+      "path": "northamerica/unitedstates/pennsylvania/york",
+      "prior_score": -2.9917,
+      "prior_variance": 0.278301,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -2.4141,
+      "prior_variance": 0.272064,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Sainte-Livrade-sur-Lot",
+      "path": "europe/france/midi/dordogne/stlivrade",
+      "prior_score": -4.3619,
+      "prior_variance": 0.303838,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -5.053,
+      "prior_variance": 0.680349,
+      "prior_n": 5
+    }
+  ]
+}

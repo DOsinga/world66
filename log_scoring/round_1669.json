@@ -1,0 +1,200 @@
+{
+  "round": 1669,
+  "timestamp": "2026-06-13T20:45:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_score": 8.4088,
+      "prior_variance": 0.32476,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Patong",
+      "path": "asia/thailand/phuket/patong",
+      "prior_score": 6.1983,
+      "prior_variance": 0.271601,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 7.7125,
+      "prior_variance": 0.307904,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 2.9677,
+      "prior_variance": 0.272794,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Playa Flamingo",
+      "path": "northamerica/costarica/playa_flamingo",
+      "prior_score": 4.4538,
+      "prior_variance": 0.321497,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Gokarna",
+      "path": "asia/india/karnataka/gokarna",
+      "prior_score": 2.7968,
+      "prior_variance": 0.251625,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.6821,
+      "prior_variance": 0.26062,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 4.7979,
+      "prior_variance": 0.262798,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": 4.3863,
+      "prior_variance": 0.258038,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Gothenburg",
+      "path": "europe/sweden/gothenburg",
+      "prior_score": 4.7108,
+      "prior_variance": 0.329038,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.1852,
+      "prior_variance": 0.356782,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hardangervidda National Park",
+      "path": "europe/norway/hardangerviddanationalpark",
+      "prior_score": 5.0741,
+      "prior_variance": 0.37162,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.7581,
+      "prior_variance": 0.267831,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.6907,
+      "prior_variance": 0.257092,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.7342,
+      "prior_variance": 0.265009,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.7804,
+      "prior_variance": 0.239834,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": -0.8058,
+      "prior_variance": 0.282633,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 1.0897,
+      "prior_variance": 0.259183,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kalocsa",
+      "path": "europe/hungary/kalocsa",
+      "prior_score": -0.6153,
+      "prior_variance": 0.234284,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Bethany Beach",
+      "path": "northamerica/unitedstates/delaware/bethanybeach",
+      "prior_score": -1.054,
+      "prior_variance": 0.291581,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Schweinfurt",
+      "path": "europe/germany/bavaria/schweinfurt",
+      "prior_score": -2.4627,
+      "prior_variance": 0.243619,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.6963,
+      "prior_variance": 0.479873,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -5.5388,
+      "prior_variance": 0.353148,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -6.302,
+      "prior_variance": 0.365928,
+      "prior_n": 5
+    }
+  ]
+}

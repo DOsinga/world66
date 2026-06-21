@@ -1,0 +1,200 @@
+{
+  "round": 1571,
+  "timestamp": "2026-06-13T20:38:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 7.2905,
+      "prior_variance": 0.305562,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Coron",
+      "path": "asia/philippines/coron",
+      "prior_score": 9.4244,
+      "prior_variance": 0.32887,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 7.2391,
+      "prior_variance": 0.330249,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/florida/miami",
+      "prior_score": 6.7138,
+      "prior_variance": 0.411078,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 7.6023,
+      "prior_variance": 0.289148,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.8948,
+      "prior_variance": 0.340926,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Utila",
+      "path": "northamerica/honduras/utila",
+      "prior_score": 2.7976,
+      "prior_variance": 0.309677,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 5.0971,
+      "prior_variance": 0.394492,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Cluj-Napoca",
+      "path": "europe/romania/cluj",
+      "prior_score": 3.0892,
+      "prior_variance": 0.268065,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 1.2046,
+      "prior_variance": 0.302134,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.2294,
+      "prior_variance": 0.26848,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.9002,
+      "prior_variance": 0.251836,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 3.2468,
+      "prior_variance": 0.282569,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 2.2901,
+      "prior_variance": 0.257657,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 2.2433,
+      "prior_variance": 0.268394,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -1.155,
+      "prior_variance": 0.369197,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.7186,
+      "prior_variance": 0.256141,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": -0.0806,
+      "prior_variance": 0.254213,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -5.631,
+      "prior_variance": 0.376173,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -2.4003,
+      "prior_variance": 0.264257,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Djemila",
+      "path": "africa/algeria/djemila",
+      "prior_score": 2.6685,
+      "prior_variance": 0.304922,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": 0.0459,
+      "prior_variance": 0.295354,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -7.875,
+      "prior_variance": 0.398497,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Arlit",
+      "path": "africa/niger/arlit",
+      "prior_score": -11.1723,
+      "prior_variance": 0.55613,
+      "prior_n": 5
+    }
+  ]
+}

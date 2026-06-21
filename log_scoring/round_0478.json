@@ -1,0 +1,200 @@
+{
+  "round": 478,
+  "timestamp": "2026-06-13T19:37:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": 9.666,
+      "prior_variance": 3.854523,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Amritsar",
+      "path": "asia/india/punjab/amritsar",
+      "prior_score": 8.1229,
+      "prior_variance": 3.158351,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 6.9791,
+      "prior_variance": 2.594201,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 5.7785,
+      "prior_variance": 3.605383,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 7.6043,
+      "prior_variance": 1.970749,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Aarhus",
+      "path": "europe/denmark/aarhus",
+      "prior_score": 7.2431,
+      "prior_variance": 4.017159,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 3.9308,
+      "prior_variance": 1.885917,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 6.4369,
+      "prior_variance": 1.624941,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 4.4034,
+      "prior_variance": 1.536847,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 8.2281,
+      "prior_variance": 2.761085,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 3.6788,
+      "prior_variance": 1.306941,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 7.9705,
+      "prior_variance": 1.845023,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 8.238,
+      "prior_variance": 5.826205,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 4.3034,
+      "prior_variance": 3.82635,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 4.3804,
+      "prior_variance": 2.063147,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 5.7982,
+      "prior_variance": 1.614153,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 3.8794,
+      "prior_variance": 1.752376,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 5.6427,
+      "prior_variance": 2.040559,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 3.9537,
+      "prior_variance": 1.816817,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 2.4185,
+      "prior_variance": 1.961181,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jedburgh",
+      "path": "europe/unitedkingdom/scotland/jedburgh",
+      "prior_score": 3.5023,
+      "prior_variance": 1.402519,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 2.9451,
+      "prior_variance": 1.711746,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 6.2171,
+      "prior_variance": 1.761869,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": 7.3457,
+      "prior_variance": 2.567583,
+      "prior_n": 1
+    }
+  ]
+}

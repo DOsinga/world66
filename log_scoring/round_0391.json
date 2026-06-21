@@ -1,0 +1,200 @@
+{
+  "round": 391,
+  "timestamp": "2026-06-13T19:33:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 10.5563,
+      "prior_variance": 3.779612,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 9.0792,
+      "prior_variance": 2.344935,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 6.5424,
+      "prior_variance": 1.694644,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 7.3676,
+      "prior_variance": 2.91471,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 8.2591,
+      "prior_variance": 2.935397,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 6.4405,
+      "prior_variance": 1.728261,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Saba",
+      "path": "northamerica/netherlandsantilles/saba",
+      "prior_score": 6.8751,
+      "prior_variance": 2.246739,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 3.4767,
+      "prior_variance": 1.853862,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 4.7388,
+      "prior_variance": 2.124581,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 3.633,
+      "prior_variance": 1.873175,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Llanes",
+      "path": "europe/spain/northernspain/llanes",
+      "prior_score": 2.106,
+      "prior_variance": 2.459017,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 8.7608,
+      "prior_variance": 2.321142,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 9.5113,
+      "prior_variance": 3.997841,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 3.5555,
+      "prior_variance": 1.54528,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 1.8727,
+      "prior_variance": 2.156029,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Fort William",
+      "path": "europe/unitedkingdom/scotland/fort_william",
+      "prior_score": 7.7725,
+      "prior_variance": 4.469429,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 4.3393,
+      "prior_variance": 2.721189,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 4.1662,
+      "prior_variance": 2.528062,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 2.2371,
+      "prior_variance": 1.72992,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 5.6774,
+      "prior_variance": 1.680481,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 5.3298,
+      "prior_variance": 1.654475,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Portsmouth",
+      "path": "northamerica/unitedstates/newhampshire/portsmouth",
+      "prior_score": 6.7936,
+      "prior_variance": 1.583974,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 4.1589,
+      "prior_variance": 2.106205,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 3.1085,
+      "prior_variance": 1.638681,
+      "prior_n": 1
+    }
+  ]
+}

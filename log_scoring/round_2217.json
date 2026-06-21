@@ -1,0 +1,200 @@
+{
+  "round": 2217,
+  "timestamp": "2026-06-13T21:26:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 0.6534,
+      "prior_variance": 0.216069,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.3485,
+      "prior_variance": 0.195654,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 0.8881,
+      "prior_variance": 0.180453,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Caltabellotta",
+      "path": "europe/italy/sicily/caltabellotta",
+      "prior_score": 0.4393,
+      "prior_variance": 0.199849,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.5218,
+      "prior_variance": 0.214476,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -2.7317,
+      "prior_variance": 0.237701,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.397,
+      "prior_variance": 0.21975,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -2.4931,
+      "prior_variance": 0.216128,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.2082,
+      "prior_variance": 0.161194,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -3.7613,
+      "prior_variance": 0.237276,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -3.4747,
+      "prior_variance": 0.234023,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -4.1849,
+      "prior_variance": 0.202327,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -4.3212,
+      "prior_variance": 0.204908,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -3.1487,
+      "prior_variance": 0.239868,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -4.7281,
+      "prior_variance": 0.180992,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.6157,
+      "prior_variance": 0.235655,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Chintheche",
+      "path": "africa/malawi/chintheche",
+      "prior_score": -3.2452,
+      "prior_variance": 0.183106,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Siddhpur",
+      "path": "asia/india/gujarat/siddhpur",
+      "prior_score": -3.2055,
+      "prior_variance": 0.234064,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -5.4542,
+      "prior_variance": 0.256727,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.5388,
+      "prior_variance": 0.208335,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -6.8737,
+      "prior_variance": 0.260814,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -6.6273,
+      "prior_variance": 0.237731,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -7.9432,
+      "prior_variance": 0.342854,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -5.6761,
+      "prior_variance": 0.203194,
+      "prior_n": 7
+    }
+  ]
+}

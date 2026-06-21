@@ -1,0 +1,200 @@
+{
+  "round": 1738,
+  "timestamp": "2026-06-13T20:49:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 8.5809,
+      "prior_variance": 0.408513,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Corniglia",
+      "path": "europe/italy/liguria/corniglia",
+      "prior_score": 7.4134,
+      "prior_variance": 0.528249,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ihlara Valley",
+      "path": "asia/turkey/cappadocia/ihlaravalley",
+      "prior_score": 6.2447,
+      "prior_variance": 0.298364,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Glastonbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/glastonbury",
+      "prior_score": 3.7637,
+      "prior_variance": 0.372227,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 0.8976,
+      "prior_variance": 0.253641,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.5224,
+      "prior_variance": 0.287535,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.5392,
+      "prior_variance": 0.253565,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.3111,
+      "prior_variance": 0.220496,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 1.3293,
+      "prior_variance": 0.255117,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.2562,
+      "prior_variance": 0.202586,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.466,
+      "prior_variance": 0.304316,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -1.2153,
+      "prior_variance": 0.225302,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.7089,
+      "prior_variance": 0.272695,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -0.7716,
+      "prior_variance": 0.203981,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.4818,
+      "prior_variance": 0.293705,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Neckargem\u00fcnd",
+      "path": "europe/germany/badenwrttemberg/neckargemuend",
+      "prior_score": -0.6981,
+      "prior_variance": 0.250201,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": -0.0531,
+      "prior_variance": 0.211957,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.2931,
+      "prior_variance": 0.274453,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -6.4945,
+      "prior_variance": 0.29282,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -6.1807,
+      "prior_variance": 0.286892,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -6.2407,
+      "prior_variance": 0.361493,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -4.4233,
+      "prior_variance": 0.289319,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -6.3284,
+      "prior_variance": 0.354907,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jind",
+      "path": "asia/india/haryana/jind",
+      "prior_score": -6.0751,
+      "prior_variance": 0.274588,
+      "prior_n": 5
+    }
+  ]
+}

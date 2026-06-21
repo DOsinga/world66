@@ -1,0 +1,200 @@
+{
+  "round": 4034,
+  "timestamp": "2026-06-13T23:38:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 2.9822,
+      "prior_variance": 0.109613,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 1.9912,
+      "prior_variance": 0.10229,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Brescia",
+      "path": "europe/italy/lombardia/brescia",
+      "prior_score": 2.0718,
+      "prior_variance": 0.133229,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 0.9533,
+      "prior_variance": 0.10413,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.5937,
+      "prior_variance": 0.117033,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 1.6394,
+      "prior_variance": 0.110275,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.3327,
+      "prior_variance": 0.105578,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.1569,
+      "prior_variance": 0.102163,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Townsville",
+      "path": "australiaandpacific/australia/queensland/townsville",
+      "prior_score": -0.15,
+      "prior_variance": 0.100895,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.8761,
+      "prior_variance": 0.106491,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.9345,
+      "prior_variance": 0.111049,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.8156,
+      "prior_variance": 0.144357,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -1.5698,
+      "prior_variance": 0.119712,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Jericho",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": 0.2512,
+      "prior_variance": 0.124566,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.6381,
+      "prior_variance": 0.100476,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -3.191,
+      "prior_variance": 0.115908,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -1.7868,
+      "prior_variance": 0.130642,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Khaigala",
+      "path": "asia/pakistan/azad_kashmir/rawalacoat/khaigala",
+      "prior_score": -5.7247,
+      "prior_variance": 0.142291,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -4.9216,
+      "prior_variance": 0.124706,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -5.2836,
+      "prior_variance": 0.120246,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -5.1644,
+      "prior_variance": 0.147511,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -6.7386,
+      "prior_variance": 0.151998,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -5.8939,
+      "prior_variance": 0.109515,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -6.2941,
+      "prior_variance": 0.136603,
+      "prior_n": 13
+    }
+  ]
+}

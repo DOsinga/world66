@@ -1,0 +1,200 @@
+{
+  "round": 3930,
+  "timestamp": "2026-06-13T23:30:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 4.1099,
+      "prior_variance": 0.131536,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 5.0373,
+      "prior_variance": 0.124767,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 3.93,
+      "prior_variance": 0.138588,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Daytona Beach",
+      "path": "northamerica/unitedstates/florida/daytona_beach",
+      "prior_score": -0.3355,
+      "prior_variance": 0.110778,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -0.4877,
+      "prior_variance": 0.135026,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.1964,
+      "prior_variance": 0.101281,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.1387,
+      "prior_variance": 0.100543,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.5079,
+      "prior_variance": 0.094524,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.3113,
+      "prior_variance": 0.099397,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -2.7427,
+      "prior_variance": 0.139044,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Newton Abbot",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/newtonabbot",
+      "prior_score": -2.6452,
+      "prior_variance": 0.128502,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": -1.5553,
+      "prior_variance": 0.114722,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.2935,
+      "prior_variance": 0.113934,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -4.8286,
+      "prior_variance": 0.128225,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Gulbarga",
+      "path": "asia/india/karnataka/gulbarga",
+      "prior_score": -5.0932,
+      "prior_variance": 0.109222,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Nellore",
+      "path": "asia/india/andhrapradesh/nellore",
+      "prior_score": -4.5177,
+      "prior_variance": 0.115456,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Adama",
+      "path": "africa/ethiopia/adama",
+      "prior_score": -5.2386,
+      "prior_variance": 0.12646,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Runyenjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -5.8916,
+      "prior_variance": 0.116,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -6.7632,
+      "prior_variance": 0.140351,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -6.8033,
+      "prior_variance": 0.16132,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.0762,
+      "prior_variance": 0.177372,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -6.915,
+      "prior_variance": 0.165907,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -8.9205,
+      "prior_variance": 0.181689,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -7.9296,
+      "prior_variance": 0.186904,
+      "prior_n": 12
+    }
+  ]
+}

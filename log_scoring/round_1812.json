@@ -1,0 +1,200 @@
+{
+  "round": 1812,
+  "timestamp": "2026-06-13T20:54:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ngorongoro Crater",
+      "path": "africa/tanzania/ngorongorocrater",
+      "prior_score": 11.2279,
+      "prior_variance": 0.717513,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 13.6646,
+      "prior_variance": 0.523085,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Rotorua",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua",
+      "prior_score": 7.5133,
+      "prior_variance": 0.410516,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district",
+      "prior_score": 3.2674,
+      "prior_variance": 0.231792,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 6.1945,
+      "prior_variance": 0.477166,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 4.0061,
+      "prior_variance": 0.231039,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Gir National Park",
+      "path": "asia/india/gujarat/wildlife/girnationalpark",
+      "prior_score": 2.5597,
+      "prior_variance": 0.262807,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Kashan",
+      "path": "asia/iran/kashan",
+      "prior_score": 0.8057,
+      "prior_variance": 0.284973,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 2.4684,
+      "prior_variance": 0.214342,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Luang Namtha",
+      "path": "asia/laos/luangnamtha",
+      "prior_score": 1.1441,
+      "prior_variance": 0.248835,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.4592,
+      "prior_variance": 0.241499,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.2085,
+      "prior_variance": 0.268885,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Sligo",
+      "path": "europe/ireland/sligo",
+      "prior_score": 2.5042,
+      "prior_variance": 0.2506,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 2.7929,
+      "prior_variance": 0.307133,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -1.118,
+      "prior_variance": 0.213549,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": -0.2057,
+      "prior_variance": 0.254958,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 1.4324,
+      "prior_variance": 0.206529,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -1.1498,
+      "prior_variance": 0.230037,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Xingyi",
+      "path": "asia/china/guizhou/xingyi",
+      "prior_score": -2.15,
+      "prior_variance": 0.249683,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.7772,
+      "prior_variance": 0.285125,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.6896,
+      "prior_variance": 0.241992,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chirala",
+      "path": "asia/india/andhrapradesh/chirala",
+      "prior_score": -6.2912,
+      "prior_variance": 0.250842,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mangalagiri",
+      "path": "asia/india/andhrapradesh/mangalagiri",
+      "prior_score": -5.755,
+      "prior_variance": 0.314784,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/virginia/arlington",
+      "prior_score": -3.207,
+      "prior_variance": 0.30669,
+      "prior_n": 5
+    }
+  ]
+}

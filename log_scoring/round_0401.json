@@ -1,0 +1,200 @@
+{
+  "round": 401,
+  "timestamp": "2026-06-13T19:33:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": -2.0344,
+      "prior_variance": 1.728959,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": -0.6396,
+      "prior_variance": 1.581833,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": -0.2447,
+      "prior_variance": 3.052992,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": -0.6215,
+      "prior_variance": 3.033637,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": -1.0534,
+      "prior_variance": 1.56873,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.2225,
+      "prior_variance": 1.68051,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.9343,
+      "prior_variance": 1.423958,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": -1.7435,
+      "prior_variance": 1.373246,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -4.2354,
+      "prior_variance": 1.640222,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -1.3973,
+      "prior_variance": 2.540526,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -1.924,
+      "prior_variance": 1.358529,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_score": -1.108,
+      "prior_variance": 1.511648,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -1.3835,
+      "prior_variance": 1.797211,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Guiyang",
+      "path": "asia/china/guizhou/guiyang",
+      "prior_score": -1.3164,
+      "prior_variance": 1.540336,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -2.513,
+      "prior_variance": 1.993699,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -3.7521,
+      "prior_variance": 1.428551,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.8487,
+      "prior_variance": 1.486929,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -6.7892,
+      "prior_variance": 4.474503,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -5.0821,
+      "prior_variance": 1.983187,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Para\u00f1aque",
+      "path": "asia/philippines/paranuaque",
+      "prior_score": -5.0835,
+      "prior_variance": 2.672838,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Bam",
+      "path": "asia/iran/bam",
+      "prior_score": 0.6005,
+      "prior_variance": 2.11436,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -7.5924,
+      "prior_variance": 2.878125,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -6.7425,
+      "prior_variance": 2.008219,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -7.3898,
+      "prior_variance": 1.528166,
+      "prior_n": 1
+    }
+  ]
+}

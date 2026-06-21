@@ -1,0 +1,200 @@
+{
+  "round": 2164,
+  "timestamp": "2026-06-13T21:23:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 8.7938,
+      "prior_variance": 0.547854,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -1.5861,
+      "prior_variance": 0.211227,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.5395,
+      "prior_variance": 0.18697,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -2.0559,
+      "prior_variance": 0.230815,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.3305,
+      "prior_variance": 0.20578,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.2701,
+      "prior_variance": 0.198903,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -0.9453,
+      "prior_variance": 0.181872,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.2968,
+      "prior_variance": 0.162298,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "\u00dcr\u00fcmqi",
+      "path": "asia/china/xinjiangprovince/urumqi",
+      "prior_score": -1.5511,
+      "prior_variance": 0.194999,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Minya",
+      "path": "africa/egypt/minya",
+      "prior_score": -2.6029,
+      "prior_variance": 0.197793,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.8642,
+      "prior_variance": 0.200157,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.9716,
+      "prior_variance": 0.17796,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -2.915,
+      "prior_variance": 0.19624,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -2.8095,
+      "prior_variance": 0.264657,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -2.422,
+      "prior_variance": 0.188514,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.6761,
+      "prior_variance": 0.198744,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Ferndale",
+      "path": "northamerica/unitedstates/california/northcoast/ferndale",
+      "prior_score": -2.5032,
+      "prior_variance": 0.204456,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -4.0831,
+      "prior_variance": 0.2917,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.2423,
+      "prior_variance": 0.162201,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.5613,
+      "prior_variance": 0.215627,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -6.2183,
+      "prior_variance": 0.309748,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -5.9469,
+      "prior_variance": 0.276046,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.7672,
+      "prior_variance": 0.315462,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -8.8885,
+      "prior_variance": 0.284173,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2682,
+  "timestamp": "2026-06-13T21:59:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Serengeti National Park",
+      "path": "africa/tanzania/serengetinationalpark",
+      "prior_score": 13.5876,
+      "prior_variance": 0.638188,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 4.5706,
+      "prior_variance": 0.177595,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.4131,
+      "prior_variance": 0.217733,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 2.6289,
+      "prior_variance": 0.192506,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 4.4668,
+      "prior_variance": 0.17227,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 4.2318,
+      "prior_variance": 0.163713,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.1054,
+      "prior_variance": 0.162429,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Novi Sad",
+      "path": "europe/serbia/novisad",
+      "prior_score": 3.0458,
+      "prior_variance": 0.176866,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 2.8498,
+      "prior_variance": 0.193132,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.5927,
+      "prior_variance": 0.17217,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 2.9073,
+      "prior_variance": 0.18539,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Jaffna",
+      "path": "asia/srilanka/jaffna",
+      "prior_score": 0.4511,
+      "prior_variance": 0.17827,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 2.1619,
+      "prior_variance": 0.175828,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.1453,
+      "prior_variance": 0.155039,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.1148,
+      "prior_variance": 0.152947,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 1.4925,
+      "prior_variance": 0.144305,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 1.4343,
+      "prior_variance": 0.210091,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 2.983,
+      "prior_variance": 0.150732,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "B\u00e9nouville",
+      "path": "europe/france/normandybrittany/bnouville",
+      "prior_score": 1.19,
+      "prior_variance": 0.171359,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 0.0729,
+      "prior_variance": 0.159198,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.515,
+      "prior_variance": 0.169743,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.0939,
+      "prior_variance": 0.14124,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -4.1471,
+      "prior_variance": 0.201801,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Attard",
+      "path": "europe/malta/attard",
+      "prior_score": 1.2055,
+      "prior_variance": 0.158396,
+      "prior_n": 8
+    }
+  ]
+}

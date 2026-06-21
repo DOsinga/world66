@@ -1,0 +1,200 @@
+{
+  "round": 930,
+  "timestamp": "2026-06-13T20:01:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Antonio Abad",
+      "path": "europe/spain/balearicislands/ibiza/sanantonioabad",
+      "prior_score": 2.5757,
+      "prior_variance": 1.030937,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 6.0167,
+      "prior_variance": 0.973348,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 6.6109,
+      "prior_variance": 0.90005,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Torla-Ordesa",
+      "path": "europe/spain/aragon/torla",
+      "prior_score": 9.6882,
+      "prior_variance": 0.78201,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 6.3682,
+      "prior_variance": 0.697585,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ko Samet",
+      "path": "asia/thailand/kosamet",
+      "prior_score": 5.3849,
+      "prior_variance": 0.458162,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 7.0634,
+      "prior_variance": 0.659631,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Paracas",
+      "path": "southamerica/peru/paracas",
+      "prior_score": 6.5498,
+      "prior_variance": 0.666363,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 8.42,
+      "prior_variance": 0.799456,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Broome",
+      "path": "australiaandpacific/australia/westernaustralia/broome",
+      "prior_score": 4.0544,
+      "prior_variance": 0.72899,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Morelia",
+      "path": "northamerica/mexico/morelia",
+      "prior_score": 8.492,
+      "prior_variance": 0.835013,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Villa de Leyva",
+      "path": "southamerica/colombia/villadeleyva",
+      "prior_score": 6.6924,
+      "prior_variance": 1.053218,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 4.3732,
+      "prior_variance": 0.670255,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 6.0906,
+      "prior_variance": 1.285825,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 8.0797,
+      "prior_variance": 0.746917,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 6.1015,
+      "prior_variance": 0.382772,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 8.5514,
+      "prior_variance": 1.046177,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fribourg",
+      "path": "europe/switzerland/fribourg",
+      "prior_score": 5.8318,
+      "prior_variance": 0.548511,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 7.4073,
+      "prior_variance": 0.926698,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 7.2722,
+      "prior_variance": 0.724607,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 6.6355,
+      "prior_variance": 0.670311,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 2.2662,
+      "prior_variance": 0.727032,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 3.0527,
+      "prior_variance": 0.820515,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tunja",
+      "path": "southamerica/colombia/tunja",
+      "prior_score": -2.9288,
+      "prior_variance": 0.60426,
+      "prior_n": 2
+    }
+  ]
+}

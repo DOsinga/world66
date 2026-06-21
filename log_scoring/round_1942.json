@@ -1,0 +1,200 @@
+{
+  "round": 1942,
+  "timestamp": "2026-06-13T21:02:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 9.5082,
+      "prior_variance": 0.275456,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Seville",
+      "path": "europe/spain/andalucia/seville",
+      "prior_score": 12.2713,
+      "prior_variance": 0.38856,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 12.5083,
+      "prior_variance": 0.364478,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 2.3437,
+      "prior_variance": 0.406409,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Koh Kood",
+      "path": "asia/thailand/kohchang/koh_kood",
+      "prior_score": 5.9465,
+      "prior_variance": 0.298827,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.6638,
+      "prior_variance": 0.319032,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 1.176,
+      "prior_variance": 0.249886,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.0542,
+      "prior_variance": 0.223544,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.981,
+      "prior_variance": 0.233662,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -2.283,
+      "prior_variance": 0.218735,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -1.6746,
+      "prior_variance": 0.231982,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -1.4077,
+      "prior_variance": 0.174384,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.7926,
+      "prior_variance": 0.175252,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_score": -2.7876,
+      "prior_variance": 0.215604,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -2.6123,
+      "prior_variance": 0.205146,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.5098,
+      "prior_variance": 0.203872,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Sinsheim",
+      "path": "europe/germany/badenwrttemberg/sinsheim",
+      "prior_score": -2.2397,
+      "prior_variance": 0.28684,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -1.425,
+      "prior_variance": 0.215555,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.0874,
+      "prior_variance": 0.208725,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -3.9871,
+      "prior_variance": 0.274138,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Loughborough",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/loughborough",
+      "prior_score": -3.2832,
+      "prior_variance": 0.287444,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -3.392,
+      "prior_variance": 0.293922,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Tirgu Mures",
+      "path": "europe/romania/tirgumures",
+      "prior_score": -0.9891,
+      "prior_variance": 0.249589,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.8761,
+      "prior_variance": 0.320655,
+      "prior_n": 6
+    }
+  ]
+}

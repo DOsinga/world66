@@ -1,0 +1,200 @@
+{
+  "round": 4174,
+  "timestamp": "2026-06-13T23:51:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 6.0526,
+      "prior_variance": 0.125868,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 7.3245,
+      "prior_variance": 0.195292,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Hvar",
+      "path": "europe/croatia/hvar",
+      "prior_score": 7.8565,
+      "prior_variance": 0.148844,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "St. Thomas",
+      "path": "northamerica/thecaribbean/virginislands/stthomas",
+      "prior_score": 6.042,
+      "prior_variance": 0.119396,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 5.7985,
+      "prior_variance": 0.129905,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.3181,
+      "prior_variance": 0.108677,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 3.4134,
+      "prior_variance": 0.104699,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_score": -2.8397,
+      "prior_variance": 0.107547,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -2.0114,
+      "prior_variance": 0.121942,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 4.4324,
+      "prior_variance": 0.143316,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 0.6159,
+      "prior_variance": 0.116436,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.4387,
+      "prior_variance": 0.110864,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -3.0431,
+      "prior_variance": 0.103934,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -3.4044,
+      "prior_variance": 0.133306,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Akure",
+      "path": "africa/nigeria/akure",
+      "prior_score": -5.2641,
+      "prior_variance": 0.115319,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Gulbarga",
+      "path": "asia/india/karnataka/gulbarga",
+      "prior_score": -4.9983,
+      "prior_variance": 0.10172,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Machilipatnam",
+      "path": "asia/india/andhrapradesh/machilipatnam",
+      "prior_score": -5.0191,
+      "prior_variance": 0.103934,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_score": -3.9641,
+      "prior_variance": 0.104318,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -2.7771,
+      "prior_variance": 0.093531,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.3738,
+      "prior_variance": 0.120805,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.2541,
+      "prior_variance": 0.120121,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.3924,
+      "prior_variance": 0.304032,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.1697,
+      "prior_variance": 0.263813,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Wour",
+      "path": "africa/chad/wour",
+      "prior_score": -9.7175,
+      "prior_variance": 0.20503,
+      "prior_n": 13
+    }
+  ]
+}

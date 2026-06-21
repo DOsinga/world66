@@ -1,0 +1,200 @@
+{
+  "round": 2152,
+  "timestamp": "2026-06-13T21:22:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 12.8177,
+      "prior_variance": 0.536723,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.6115,
+      "prior_variance": 0.214706,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.7594,
+      "prior_variance": 0.197838,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 7.1561,
+      "prior_variance": 0.429292,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Inis M\u00f3r",
+      "path": "europe/ireland/aranislands/inismor",
+      "prior_score": 5.7462,
+      "prior_variance": 0.233808,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Volendam",
+      "path": "europe/netherlands/volendam",
+      "prior_score": 2.9845,
+      "prior_variance": 0.195498,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ourika",
+      "path": "africa/morocco/ourika",
+      "prior_score": 2.2418,
+      "prior_variance": 0.210847,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Solo",
+      "path": "asia/indonesia/java/solo",
+      "prior_score": 1.3579,
+      "prior_variance": 0.246597,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.7469,
+      "prior_variance": 0.195487,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": 0.2365,
+      "prior_variance": 0.214674,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Huangzhong",
+      "path": "asia/china/qinghai/huangzhong",
+      "prior_score": -1.3586,
+      "prior_variance": 0.210177,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.1818,
+      "prior_variance": 0.18885,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -2.0434,
+      "prior_variance": 0.223685,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.1733,
+      "prior_variance": 0.193682,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -0.7863,
+      "prior_variance": 0.189007,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.6074,
+      "prior_variance": 0.207954,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -1.8129,
+      "prior_variance": 0.180263,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Espoo",
+      "path": "europe/finland/espoo",
+      "prior_score": -1.3768,
+      "prior_variance": 0.164319,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.7902,
+      "prior_variance": 0.300959,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Rattray Head",
+      "path": "europe/unitedkingdom/scotland/rattray_head",
+      "prior_score": -2.454,
+      "prior_variance": 0.185588,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "William Creek",
+      "path": "australiaandpacific/australia/southaustralia/william_creek",
+      "prior_score": -3.5042,
+      "prior_variance": 0.240509,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -5.8435,
+      "prior_variance": 0.268714,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -3.9771,
+      "prior_variance": 0.273772,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -6.5679,
+      "prior_variance": 0.339286,
+      "prior_n": 6
+    }
+  ]
+}

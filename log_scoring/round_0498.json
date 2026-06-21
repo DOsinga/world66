@@ -1,0 +1,200 @@
+{
+  "round": 498,
+  "timestamp": "2026-06-13T19:39:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -8.3662,
+      "prior_variance": 1.44643,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -15.4438,
+      "prior_variance": 6.8387,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -14.9194,
+      "prior_variance": 6.907027,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -9.9814,
+      "prior_variance": 3.624106,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -8.081,
+      "prior_variance": 1.51334,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -8.4463,
+      "prior_variance": 1.594695,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -9.2951,
+      "prior_variance": 1.749751,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -10.1507,
+      "prior_variance": 1.383458,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -15.2463,
+      "prior_variance": 3.258346,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -10.7359,
+      "prior_variance": 9.401775,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -10.1836,
+      "prior_variance": 1.744106,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -11.4635,
+      "prior_variance": 1.78489,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -15.6069,
+      "prior_variance": 2.704928,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -9.7897,
+      "prior_variance": 9.611185,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -9.7619,
+      "prior_variance": 3.736821,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -12.2407,
+      "prior_variance": 7.776817,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -11.718,
+      "prior_variance": 8.353997,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -12.6593,
+      "prior_variance": 2.93034,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -9.4062,
+      "prior_variance": 3.700866,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -14.103,
+      "prior_variance": 7.23391,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -10.4274,
+      "prior_variance": 5.385274,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Tobruk",
+      "path": "africa/libya/tobruk",
+      "prior_score": -12.1507,
+      "prior_variance": 3.156464,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -12.3506,
+      "prior_variance": 7.807666,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -11.8147,
+      "prior_variance": 8.591622,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4079,
+  "timestamp": "2026-06-13T23:42:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mauke",
+      "path": "australiaandpacific/cookislands/mauke",
+      "prior_score": -0.7031,
+      "prior_variance": 0.108351,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.4034,
+      "prior_variance": 0.112156,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 3.4992,
+      "prior_variance": 0.110733,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Tozeur",
+      "path": "africa/tunisia/tozeur",
+      "prior_score": 2.6769,
+      "prior_variance": 0.101804,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -1.998,
+      "prior_variance": 0.100358,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 0.9213,
+      "prior_variance": 0.117338,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Tarija",
+      "path": "southamerica/bolivia/tarija",
+      "prior_score": -0.7746,
+      "prior_variance": 0.095761,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Plodio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/plodio",
+      "prior_score": -4.1954,
+      "prior_variance": 0.131454,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Devizes",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devizes",
+      "prior_score": -1.2008,
+      "prior_variance": 0.092939,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.1716,
+      "prior_variance": 0.103551,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Diveagar",
+      "path": "asia/india/maharashtra/konkan/diveagar",
+      "prior_score": -1.5148,
+      "prior_variance": 0.103972,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.4481,
+      "prior_variance": 0.110744,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.388,
+      "prior_variance": 0.106488,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -4.8588,
+      "prior_variance": 0.118351,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "South Bend",
+      "path": "northamerica/unitedstates/indiana/south_bend",
+      "prior_score": -2.8396,
+      "prior_variance": 0.115125,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.4946,
+      "prior_variance": 0.121367,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.6883,
+      "prior_variance": 0.098548,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -5.4975,
+      "prior_variance": 0.105782,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.0386,
+      "prior_variance": 0.149316,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.7141,
+      "prior_variance": 0.125194,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.7827,
+      "prior_variance": 0.112158,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -4.8752,
+      "prior_variance": 0.119832,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -3.8538,
+      "prior_variance": 0.134078,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.8988,
+      "prior_variance": 0.173669,
+      "prior_n": 13
+    }
+  ]
+}

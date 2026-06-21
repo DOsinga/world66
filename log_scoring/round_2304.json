@@ -1,0 +1,200 @@
+{
+  "round": 2304,
+  "timestamp": "2026-06-13T21:32:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 11.8852,
+      "prior_variance": 0.445544,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.0727,
+      "prior_variance": 0.270574,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 7.7009,
+      "prior_variance": 0.232776,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 3.8772,
+      "prior_variance": 0.192491,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Culebra",
+      "path": "northamerica/thecaribbean/puertorico/culebra",
+      "prior_score": 5.5255,
+      "prior_variance": 0.237634,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.4885,
+      "prior_variance": 0.211582,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.2362,
+      "prior_variance": 0.255862,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.0169,
+      "prior_variance": 0.25414,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Fujian Tulou",
+      "path": "asia/china/fujianprovince/tulou",
+      "prior_score": 4.0168,
+      "prior_variance": 0.197813,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 4.9022,
+      "prior_variance": 0.248012,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Tintagel",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/tintagel",
+      "prior_score": 3.5958,
+      "prior_variance": 0.197525,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Mafia Island",
+      "path": "africa/tanzania/mafiaisland",
+      "prior_score": 2.5832,
+      "prior_variance": 0.165538,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": 2.2335,
+      "prior_variance": 0.211588,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Kigali",
+      "path": "africa/rwanda/kigali",
+      "prior_score": 0.8552,
+      "prior_variance": 0.18493,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 2.094,
+      "prior_variance": 0.178767,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 0.6223,
+      "prior_variance": 0.188469,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.5578,
+      "prior_variance": 0.17543,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Villach",
+      "path": "europe/austria/villach",
+      "prior_score": 2.3947,
+      "prior_variance": 0.174069,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 2.3658,
+      "prior_variance": 0.188119,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": -0.0798,
+      "prior_variance": 0.191811,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": 0.5561,
+      "prior_variance": 0.205724,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Fazao-Malfakassa National Park",
+      "path": "africa/togo/fazao",
+      "prior_score": -4.1984,
+      "prior_variance": 0.299779,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Sinj",
+      "path": "europe/croatia/sinj",
+      "prior_score": -1.1986,
+      "prior_variance": 0.227053,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.0231,
+      "prior_variance": 0.215103,
+      "prior_n": 7
+    }
+  ]
+}

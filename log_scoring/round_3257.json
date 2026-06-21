@@ -1,0 +1,200 @@
+{
+  "round": 3257,
+  "timestamp": "2026-06-13T22:40:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.5128,
+      "prior_variance": 0.193536,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 4.9533,
+      "prior_variance": 0.168017,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 7.0692,
+      "prior_variance": 0.18583,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Garmisch-Partenkirchen",
+      "path": "europe/germany/bavaria/garmischpartenkirchen",
+      "prior_score": 4.7501,
+      "prior_variance": 0.169106,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 5.8883,
+      "prior_variance": 0.16294,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.7103,
+      "prior_variance": 0.132344,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.1711,
+      "prior_variance": 0.146542,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Asheville",
+      "path": "northamerica/unitedstates/northcarolina/asheville",
+      "prior_score": 4.6648,
+      "prior_variance": 0.184288,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 5.0012,
+      "prior_variance": 0.149327,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/napier",
+      "prior_score": 3.1539,
+      "prior_variance": 0.143518,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kirkwall",
+      "path": "europe/unitedkingdom/scotland/orkneys/kirkwall",
+      "prior_score": 2.8181,
+      "prior_variance": 0.129305,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 0.9818,
+      "prior_variance": 0.168703,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.5548,
+      "prior_variance": 0.144212,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.9157,
+      "prior_variance": 0.136452,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Trevi",
+      "path": "europe/italy/umbria/trevi",
+      "prior_score": 2.0114,
+      "prior_variance": 0.13622,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Fort-de-France",
+      "path": "northamerica/thecaribbean/martinique/fortdefrance",
+      "prior_score": 3.0267,
+      "prior_variance": 0.143652,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 1.5061,
+      "prior_variance": 0.142774,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 1.1543,
+      "prior_variance": 0.124002,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": 0.2189,
+      "prior_variance": 0.139656,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": 0.1539,
+      "prior_variance": 0.13121,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": -1.8135,
+      "prior_variance": 0.12037,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -2.4864,
+      "prior_variance": 0.148648,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.6271,
+      "prior_variance": 0.188353,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Birgunj",
+      "path": "asia/nepal/birgunj_birganj",
+      "prior_score": -5.5395,
+      "prior_variance": 0.158103,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3012,
+  "timestamp": "2026-06-13T22:22:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 6.0944,
+      "prior_variance": 0.179503,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.5405,
+      "prior_variance": 0.213137,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Tashkent",
+      "path": "asia/uzbekistan/tashkent",
+      "prior_score": 0.6702,
+      "prior_variance": 0.216495,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -3.067,
+      "prior_variance": 0.136798,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -1.6929,
+      "prior_variance": 0.160873,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.5155,
+      "prior_variance": 0.154677,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -5.3228,
+      "prior_variance": 0.188681,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_score": -3.7785,
+      "prior_variance": 0.141939,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Multan",
+      "path": "asia/pakistan/multan",
+      "prior_score": -5.104,
+      "prior_variance": 0.179225,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Dire dawa",
+      "path": "africa/ethiopia/diredawa",
+      "prior_score": -4.9863,
+      "prior_variance": 0.18387,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Shangluo",
+      "path": "asia/china/shaanxi/shangluo",
+      "prior_score": -4.5645,
+      "prior_variance": 0.136256,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -5.549,
+      "prior_variance": 0.192936,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -5.2524,
+      "prior_variance": 0.15796,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -4.7085,
+      "prior_variance": 0.149695,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -7.8272,
+      "prior_variance": 0.23357,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -4.8293,
+      "prior_variance": 0.174702,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": -2.6257,
+      "prior_variance": 0.144968,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -4.4011,
+      "prior_variance": 0.174146,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -4.9513,
+      "prior_variance": 0.197599,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -6.3273,
+      "prior_variance": 0.18553,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -7.0184,
+      "prior_variance": 0.198156,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.1493,
+      "prior_variance": 0.190098,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -6.8625,
+      "prior_variance": 0.319009,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -8.0485,
+      "prior_variance": 0.517325,
+      "prior_n": 9
+    }
+  ]
+}

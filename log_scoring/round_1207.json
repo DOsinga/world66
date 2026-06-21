@@ -1,0 +1,200 @@
+{
+  "round": 1207,
+  "timestamp": "2026-06-13T20:17:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avignon",
+      "path": "europe/france/midi/provence/avignon",
+      "prior_score": 10.9224,
+      "prior_variance": 0.623401,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 8.6042,
+      "prior_variance": 0.823131,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Little Cayman",
+      "path": "northamerica/thecaribbean/caymanislands/littlecayman",
+      "prior_score": 6.8164,
+      "prior_variance": 0.522346,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ribe",
+      "path": "europe/denmark/ribe",
+      "prior_score": 3.8432,
+      "prior_variance": 0.324729,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": -0.5802,
+      "prior_variance": 0.610866,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Zlatibor",
+      "path": "europe/serbia/zlatibor",
+      "prior_score": -0.3259,
+      "prior_variance": 0.407054,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nordingr\u00e5",
+      "path": "europe/sweden/the_high_coast/nordingr",
+      "prior_score": 0.0376,
+      "prior_variance": 0.405813,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Stokmarknes",
+      "path": "europe/norway/stokmarknes",
+      "prior_score": 1.5708,
+      "prior_variance": 0.371895,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 0.1496,
+      "prior_variance": 0.556973,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 3.4336,
+      "prior_variance": 0.356866,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": -0.0624,
+      "prior_variance": 0.344573,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.4954,
+      "prior_variance": 0.360462,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -2.4293,
+      "prior_variance": 0.507397,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.8624,
+      "prior_variance": 0.417335,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -2.1088,
+      "prior_variance": 0.495992,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": 0.2179,
+      "prior_variance": 0.423619,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Derbent",
+      "path": "europe/russia/dagestan/derbent",
+      "prior_score": -0.9223,
+      "prior_variance": 0.469011,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Karnala",
+      "path": "asia/india/maharashtra/karnala",
+      "prior_score": -6.2637,
+      "prior_variance": 0.609394,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.4963,
+      "prior_variance": 0.508227,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.8919,
+      "prior_variance": 0.410154,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -3.0384,
+      "prior_variance": 0.471013,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_score": -3.104,
+      "prior_variance": 0.33678,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Benoue Park",
+      "path": "africa/cameroon/benouepark",
+      "prior_score": -4.1985,
+      "prior_variance": 0.491634,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Shahhat",
+      "path": "africa/libya/shahhat",
+      "prior_score": -6.6391,
+      "prior_variance": 0.485155,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 621,
+  "timestamp": "2026-06-13T19:45:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": -6.0739,
+      "prior_variance": 1.266734,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": -3.9472,
+      "prior_variance": 1.175243,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Vallorbes",
+      "path": "europe/switzerland/vallorbes",
+      "prior_score": -5.8458,
+      "prior_variance": 0.866187,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -6.137,
+      "prior_variance": 0.78266,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -6.9844,
+      "prior_variance": 1.222701,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -8.0608,
+      "prior_variance": 1.05968,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -8.0665,
+      "prior_variance": 1.064524,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ibri",
+      "path": "asia/oman/ibri",
+      "prior_score": -7.6882,
+      "prior_variance": 0.659488,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -9.0097,
+      "prior_variance": 0.907563,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -5.7462,
+      "prior_variance": 1.198698,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -6.0422,
+      "prior_variance": 0.795163,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -7.294,
+      "prior_variance": 1.297227,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ribeir\u00e3o Preto",
+      "path": "southamerica/brazil/ribeiraopreto",
+      "prior_score": -6.5289,
+      "prior_variance": 0.647799,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -7.0362,
+      "prior_variance": 1.657434,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -9.2096,
+      "prior_variance": 1.133534,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -6.8076,
+      "prior_variance": 1.102396,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -6.5802,
+      "prior_variance": 1.193357,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Stockholm",
+      "path": "northamerica/unitedstates/wisconsin/stockholm",
+      "prior_score": -8.6601,
+      "prior_variance": 0.464773,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Plano",
+      "path": "northamerica/unitedstates/texas/plano",
+      "prior_score": -8.4746,
+      "prior_variance": 0.61192,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -7.2306,
+      "prior_variance": 0.789238,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -8.227,
+      "prior_variance": 0.890434,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -9.1209,
+      "prior_variance": 1.116556,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -7.389,
+      "prior_variance": 0.679718,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -9.8542,
+      "prior_variance": 1.644515,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1077,
+  "timestamp": "2026-06-13T20:09:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ettal",
+      "path": "europe/germany/bavaria/ettal",
+      "prior_score": 0.9869,
+      "prior_variance": 0.421707,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -4.8703,
+      "prior_variance": 0.508561,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Opi",
+      "path": "europe/italy/abruzzo/opi",
+      "prior_score": -2.3993,
+      "prior_variance": 0.509966,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 1.2131,
+      "prior_variance": 0.419729,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -0.8542,
+      "prior_variance": 0.462313,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.2428,
+      "prior_variance": 0.356033,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": -0.0133,
+      "prior_variance": 0.360746,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Perth",
+      "path": "europe/unitedkingdom/scotland/perth",
+      "prior_score": 1.6572,
+      "prior_variance": 0.842894,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": -0.4145,
+      "prior_variance": 0.438262,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.9733,
+      "prior_variance": 0.376699,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": -0.2072,
+      "prior_variance": 0.307842,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Bitola",
+      "path": "europe/macedonia/bitola",
+      "prior_score": 1.2342,
+      "prior_variance": 0.313464,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -1.0828,
+      "prior_variance": 0.463221,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+      "path": "europe/hungary/szekesfehervar",
+      "prior_score": -1.7431,
+      "prior_variance": 0.492587,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": -0.3691,
+      "prior_variance": 0.505205,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Sidi Ifni",
+      "path": "africa/morocco/sidiifni",
+      "prior_score": 0.4341,
+      "prior_variance": 0.407289,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Larache",
+      "path": "africa/morocco/larache",
+      "prior_score": -3.0796,
+      "prior_variance": 0.364638,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": -0.5927,
+      "prior_variance": 0.551392,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.2995,
+      "prior_variance": 0.438027,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -2.8766,
+      "prior_variance": 0.453394,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Southampton",
+      "path": "europe/unitedkingdom/england/south_east/southampton",
+      "prior_score": -0.9744,
+      "prior_variance": 0.463962,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -1.3838,
+      "prior_variance": 0.623773,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -7.2635,
+      "prior_variance": 0.583261,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -0.7833,
+      "prior_variance": 0.407538,
+      "prior_n": 3
+    }
+  ]
+}

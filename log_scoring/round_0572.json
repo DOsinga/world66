@@ -1,0 +1,200 @@
+{
+  "round": 572,
+  "timestamp": "2026-06-13T19:42:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": -3.3858,
+      "prior_variance": 1.49474,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -2.4963,
+      "prior_variance": 1.694838,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": -4.7743,
+      "prior_variance": 1.487872,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -2.4115,
+      "prior_variance": 1.057291,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Salmon Arm",
+      "path": "northamerica/canada/britishcolumbia/salmonarm",
+      "prior_score": -3.2735,
+      "prior_variance": 1.497694,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Aley",
+      "path": "asia/lebanon/aley",
+      "prior_score": -3.5999,
+      "prior_variance": 1.73701,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -3.6368,
+      "prior_variance": 0.818009,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -2.3915,
+      "prior_variance": 1.678308,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -4.8246,
+      "prior_variance": 1.358236,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -1.7574,
+      "prior_variance": 0.880236,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -3.7266,
+      "prior_variance": 1.576807,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kampala",
+      "path": "africa/uganda/kampala",
+      "prior_score": -3.0595,
+      "prior_variance": 1.695394,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -4.5811,
+      "prior_variance": 1.404738,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -3.0163,
+      "prior_variance": 1.855465,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -3.0605,
+      "prior_variance": 1.369906,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_score": -4.2776,
+      "prior_variance": 1.169508,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -4.2043,
+      "prior_variance": 2.374803,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -3.3295,
+      "prior_variance": 0.78857,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -5.2651,
+      "prior_variance": 1.524674,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_score": -3.7016,
+      "prior_variance": 1.02264,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountain_view",
+      "prior_score": -3.0763,
+      "prior_variance": 1.44058,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Lake Wales",
+      "path": "northamerica/unitedstates/florida/lake_wales",
+      "prior_score": -4.4323,
+      "prior_variance": 1.707605,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.6596,
+      "prior_variance": 1.370593,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.6843,
+      "prior_variance": 0.848059,
+      "prior_n": 2
+    }
+  ]
+}

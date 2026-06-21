@@ -1,0 +1,200 @@
+{
+  "round": 1505,
+  "timestamp": "2026-06-13T20:34:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 13.4154,
+      "prior_variance": 1.062293,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 4.1714,
+      "prior_variance": 0.294344,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Siquijor",
+      "path": "asia/philippines/siquijor",
+      "prior_score": 3.9335,
+      "prior_variance": 0.409628,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 7.7338,
+      "prior_variance": 0.377918,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "H\u00f6fn",
+      "path": "europe/iceland/hofn",
+      "prior_score": 4.3869,
+      "prior_variance": 0.305936,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 4.6568,
+      "prior_variance": 0.334716,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Basse-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/basseterre",
+      "prior_score": 0.6919,
+      "prior_variance": 0.264684,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": -0.7762,
+      "prior_variance": 0.367508,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": -0.0726,
+      "prior_variance": 0.241247,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.6817,
+      "prior_variance": 0.282382,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.1636,
+      "prior_variance": 0.315089,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 1.3673,
+      "prior_variance": 0.249428,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -0.8629,
+      "prior_variance": 0.307516,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.9576,
+      "prior_variance": 0.314001,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -3.9944,
+      "prior_variance": 0.276406,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Buga",
+      "path": "southamerica/colombia/buga",
+      "prior_score": -2.1128,
+      "prior_variance": 0.310607,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.8155,
+      "prior_variance": 0.294323,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -6.555,
+      "prior_variance": 0.371778,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -5.77,
+      "prior_variance": 0.350452,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Nombre de Dios",
+      "path": "northamerica/panama/nombrededios",
+      "prior_score": -2.6556,
+      "prior_variance": 0.290457,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Zamboanga",
+      "path": "asia/philippines/zamboanga",
+      "prior_score": -2.5062,
+      "prior_variance": 0.441541,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -5.4305,
+      "prior_variance": 0.340511,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Hengyang",
+      "path": "asia/china/hunan/hengyang",
+      "prior_score": -5.6241,
+      "prior_variance": 0.369293,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -5.1843,
+      "prior_variance": 0.259009,
+      "prior_n": 5
+    }
+  ]
+}

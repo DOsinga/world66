@@ -1,0 +1,200 @@
+{
+  "round": 835,
+  "timestamp": "2026-06-13T19:56:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -8.9213,
+      "prior_variance": 2.008925,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -10.0688,
+      "prior_variance": 0.86454,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -9.0946,
+      "prior_variance": 1.099343,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -10.2087,
+      "prior_variance": 0.72953,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "San Angelo",
+      "path": "northamerica/unitedstates/texas/san_angelo",
+      "prior_score": -9.42,
+      "prior_variance": 0.719771,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -9.8536,
+      "prior_variance": 0.749604,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -11.1323,
+      "prior_variance": 1.04118,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -10.6135,
+      "prior_variance": 0.761459,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Quemado",
+      "path": "northamerica/unitedstates/newmexico/quemado",
+      "prior_score": -9.0708,
+      "prior_variance": 0.588024,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -10.2364,
+      "prior_variance": 1.058139,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -9.483,
+      "prior_variance": 0.8236,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -10.2148,
+      "prior_variance": 0.685567,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sharur",
+      "path": "europe/azerbaijan/naxcivan/sharur",
+      "prior_score": -10.9042,
+      "prior_variance": 1.091538,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -10.0934,
+      "prior_variance": 0.621489,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": -10.7299,
+      "prior_variance": 1.076486,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "San Ignacio",
+      "path": "southamerica/peru/san_ignacio",
+      "prior_score": -11.2137,
+      "prior_variance": 0.599888,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -11.1261,
+      "prior_variance": 1.076124,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -11.2404,
+      "prior_variance": 1.048143,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -10.1539,
+      "prior_variance": 0.860464,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Sanmenxia",
+      "path": "asia/china/henan_province/sanmenxia",
+      "prior_score": -9.9444,
+      "prior_variance": 1.043281,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -10.4249,
+      "prior_variance": 0.798381,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -12.3781,
+      "prior_variance": 1.490771,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -11.8024,
+      "prior_variance": 0.609198,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Soyo",
+      "path": "africa/angola/soyo",
+      "prior_score": -13.7006,
+      "prior_variance": 0.695453,
+      "prior_n": 2
+    }
+  ]
+}

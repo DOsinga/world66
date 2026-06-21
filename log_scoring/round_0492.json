@@ -1,0 +1,200 @@
+{
+  "round": 492,
+  "timestamp": "2026-06-13T19:39:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 10.3071,
+      "prior_variance": 9.74792,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 11.8089,
+      "prior_variance": 6.003188,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 12.5464,
+      "prior_variance": 3.451555,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 12.2558,
+      "prior_variance": 2.188287,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Dunhuang",
+      "path": "asia/china/gansu/dunhuang",
+      "prior_score": 13.8888,
+      "prior_variance": 7.709986,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "San Blas Islands",
+      "path": "northamerica/panama/sanblasislands",
+      "prior_score": 9.1644,
+      "prior_variance": 3.401726,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Puc\u00f3n",
+      "path": "southamerica/chile/pucan",
+      "prior_score": 9.0709,
+      "prior_variance": 2.191124,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 9.031,
+      "prior_variance": 5.064208,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 11.7308,
+      "prior_variance": 5.256401,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 7.4858,
+      "prior_variance": 1.720235,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "English Harbour",
+      "path": "northamerica/antiguaandbarbuda/englishharbour",
+      "prior_score": 13.3155,
+      "prior_variance": 3.220634,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 7.4182,
+      "prior_variance": 1.867085,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 10.3646,
+      "prior_variance": 2.582123,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Porto Cervo",
+      "path": "europe/italy/sardinia/costasmeralda/portocervo",
+      "prior_score": 14.0078,
+      "prior_variance": 7.390337,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 9.1499,
+      "prior_variance": 2.662135,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 9.7676,
+      "prior_variance": 2.105498,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "V\u00e9zelay",
+      "path": "europe/france/east/burgundy/vezelay",
+      "prior_score": 9.9487,
+      "prior_variance": 1.67969,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 10.9164,
+      "prior_variance": 3.445643,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 6.9653,
+      "prior_variance": 3.322796,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Sarawak",
+      "path": "asia/malaysia/sarawak",
+      "prior_score": 8.7586,
+      "prior_variance": 1.993933,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Breckenridge",
+      "path": "northamerica/unitedstates/colorado/breckenridge",
+      "prior_score": 12.1563,
+      "prior_variance": 2.523937,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Petchburi",
+      "path": "asia/thailand/petchburi",
+      "prior_score": 8.243,
+      "prior_variance": 5.324475,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 5.4877,
+      "prior_variance": 1.731029,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Matemwe",
+      "path": "africa/tanzania/zanzibar/matemwe",
+      "prior_score": 9.0427,
+      "prior_variance": 4.109491,
+      "prior_n": 1
+    }
+  ]
+}

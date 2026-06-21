@@ -1,0 +1,200 @@
+{
+  "round": 546,
+  "timestamp": "2026-06-13T19:41:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 8.5069,
+      "prior_variance": 2.420181,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 11.3954,
+      "prior_variance": 7.719257,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 8.8697,
+      "prior_variance": 1.843269,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 9.9423,
+      "prior_variance": 3.35314,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 11.6188,
+      "prior_variance": 1.928728,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 7.1899,
+      "prior_variance": 2.60877,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 11.4841,
+      "prior_variance": 2.540332,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 11.1252,
+      "prior_variance": 3.743054,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 6.3631,
+      "prior_variance": 1.506862,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 7.2244,
+      "prior_variance": 2.20666,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 7.5339,
+      "prior_variance": 1.700045,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 7.2398,
+      "prior_variance": 2.371075,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 8.105,
+      "prior_variance": 1.77617,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 8.2336,
+      "prior_variance": 1.550457,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 6.896,
+      "prior_variance": 1.61785,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 8.932,
+      "prior_variance": 2.766958,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Iber\u00e1 Wetlands",
+      "path": "southamerica/argentina/corrientes/iberawetlands",
+      "prior_score": 7.1238,
+      "prior_variance": 2.00143,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 9.9321,
+      "prior_variance": 1.996678,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 7.9359,
+      "prior_variance": 3.472132,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 7.3258,
+      "prior_variance": 1.829755,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 7.5386,
+      "prior_variance": 2.227574,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 7.3041,
+      "prior_variance": 2.117422,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 6.9106,
+      "prior_variance": 1.617842,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": 5.7162,
+      "prior_variance": 1.88109,
+      "prior_n": 1
+    }
+  ]
+}

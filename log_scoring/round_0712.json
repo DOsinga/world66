@@ -1,0 +1,200 @@
+{
+  "round": 712,
+  "timestamp": "2026-06-13T19:49:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 8.3494,
+      "prior_variance": 0.817395,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_score": 8.686,
+      "prior_variance": 0.739513,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 5.2614,
+      "prior_variance": 0.767998,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 5.6555,
+      "prior_variance": 0.990982,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 7.7586,
+      "prior_variance": 0.666841,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 4.4684,
+      "prior_variance": 2.196179,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_score": 5.9432,
+      "prior_variance": 0.6683,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 6.6682,
+      "prior_variance": 0.742787,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Chichicastenango",
+      "path": "northamerica/guatemala/chichicastenango",
+      "prior_score": 7.4094,
+      "prior_variance": 0.77209,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Chester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/chester",
+      "prior_score": 7.7171,
+      "prior_variance": 0.90693,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 8.1017,
+      "prior_variance": 1.170823,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Carnac",
+      "path": "europe/france/normandybrittany/carnac",
+      "prior_score": 8.4852,
+      "prior_variance": 1.249759,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 8.7398,
+      "prior_variance": 0.635623,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Malbork",
+      "path": "europe/poland/malbork",
+      "prior_score": 7.1268,
+      "prior_variance": 1.014276,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Maribor",
+      "path": "europe/slovenia/maribor",
+      "prior_score": 4.9854,
+      "prior_variance": 0.759833,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 5.0819,
+      "prior_variance": 0.714362,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 4.9466,
+      "prior_variance": 0.682144,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district",
+      "prior_score": 5.24,
+      "prior_variance": 0.945927,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Coniston",
+      "path": "europe/unitedkingdom/england/lakedistrict/coniston_1",
+      "prior_score": 6.6815,
+      "prior_variance": 0.732786,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 3.947,
+      "prior_variance": 0.74072,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Calangute",
+      "path": "asia/india/goa/calangute",
+      "prior_score": 5.4697,
+      "prior_variance": 1.489497,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 3.7514,
+      "prior_variance": 1.384287,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 5.424,
+      "prior_variance": 0.442489,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Borgarnes",
+      "path": "europe/iceland/borgarnes",
+      "prior_score": 1.4553,
+      "prior_variance": 1.957791,
+      "prior_n": 1
+    }
+  ]
+}

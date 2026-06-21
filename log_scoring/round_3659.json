@@ -1,0 +1,200 @@
+{
+  "round": 3659,
+  "timestamp": "2026-06-13T23:10:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.1804,
+      "prior_variance": 0.344568,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.4535,
+      "prior_variance": 0.138804,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.6633,
+      "prior_variance": 0.112832,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -2.933,
+      "prior_variance": 0.115126,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": -0.2725,
+      "prior_variance": 0.114804,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.0688,
+      "prior_variance": 0.117487,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Osh",
+      "path": "asia/kyrgyzstan/osh",
+      "prior_score": -0.2746,
+      "prior_variance": 0.126387,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -5.3374,
+      "prior_variance": 0.184429,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -4.6881,
+      "prior_variance": 0.145349,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -6.3416,
+      "prior_variance": 0.201219,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.7332,
+      "prior_variance": 0.162833,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Moknine",
+      "path": "africa/tunisia/moknine",
+      "prior_score": -4.7928,
+      "prior_variance": 0.119169,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.1961,
+      "prior_variance": 0.229411,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Malaita",
+      "path": "australiaandpacific/solomonislands/malaita",
+      "prior_score": -4.8875,
+      "prior_variance": 0.19926,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.168,
+      "prior_variance": 0.153587,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.8481,
+      "prior_variance": 0.244592,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Mtera",
+      "path": "africa/tanzania/mtera",
+      "prior_score": -7.1715,
+      "prior_variance": 0.188259,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -8.1476,
+      "prior_variance": 0.213089,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -7.0366,
+      "prior_variance": 0.192686,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -6.2326,
+      "prior_variance": 0.203076,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -5.0796,
+      "prior_variance": 0.123419,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -6.5145,
+      "prior_variance": 0.183725,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -8.0734,
+      "prior_variance": 0.233583,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -8.8642,
+      "prior_variance": 0.289275,
+      "prior_n": 11
+    }
+  ]
+}

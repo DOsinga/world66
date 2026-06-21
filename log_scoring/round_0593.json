@@ -1,0 +1,200 @@
+{
+  "round": 593,
+  "timestamp": "2026-06-13T19:43:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -6.0716,
+      "prior_variance": 2.119183,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -3.6374,
+      "prior_variance": 0.891977,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/ashbourne",
+      "prior_score": -3.6509,
+      "prior_variance": 0.916735,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -4.4432,
+      "prior_variance": 1.601095,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Vantaa",
+      "path": "europe/finland/vantaa",
+      "prior_score": -7.3738,
+      "prior_variance": 0.636088,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": -1.3248,
+      "prior_variance": 1.533603,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -2.845,
+      "prior_variance": 1.539077,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -5.1209,
+      "prior_variance": 0.796613,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -4.8339,
+      "prior_variance": 1.0682,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kwajalein Atoll",
+      "path": "australiaandpacific/marshallislands/kwajaleinatoll",
+      "prior_score": -6.9059,
+      "prior_variance": 0.961017,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Islamabad",
+      "path": "asia/pakistan/islamabad",
+      "prior_score": -7.6999,
+      "prior_variance": 1.274189,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -6.0835,
+      "prior_variance": 0.617577,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -4.2343,
+      "prior_variance": 0.863851,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -2.9843,
+      "prior_variance": 1.030669,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Kitsap County",
+      "path": "northamerica/unitedstates/washington/kitsap_county",
+      "prior_score": -4.2211,
+      "prior_variance": 1.502257,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -3.2576,
+      "prior_variance": 0.909611,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -7.323,
+      "prior_variance": 1.041998,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -5.0058,
+      "prior_variance": 0.845156,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Zibo",
+      "path": "asia/china/shandong_province/zibo",
+      "prior_score": -6.3334,
+      "prior_variance": 1.081563,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hami",
+      "path": "asia/china/xinjiangprovince/hami",
+      "prior_score": -6.1716,
+      "prior_variance": 1.311871,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -8.9325,
+      "prior_variance": 0.645656,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -7.1371,
+      "prior_variance": 0.681125,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -8.5054,
+      "prior_variance": 1.055513,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Termez",
+      "path": "asia/uzbekistan/termez",
+      "prior_score": -3.6112,
+      "prior_variance": 1.717809,
+      "prior_n": 1
+    }
+  ]
+}

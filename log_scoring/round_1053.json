@@ -1,0 +1,200 @@
+{
+  "round": 1053,
+  "timestamp": "2026-06-13T20:08:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Elie",
+      "path": "europe/unitedkingdom/scotland/eliefife",
+      "prior_score": -0.8431,
+      "prior_variance": 0.50246,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": -1.8751,
+      "prior_variance": 0.661136,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -4.1828,
+      "prior_variance": 0.374015,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -2.4398,
+      "prior_variance": 0.462646,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Kourou",
+      "path": "southamerica/frenchguiana/kourou",
+      "prior_score": -1.7533,
+      "prior_variance": 0.394818,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Crescent City",
+      "path": "northamerica/unitedstates/california/northcoast/crescentcity",
+      "prior_score": -3.2915,
+      "prior_variance": 0.459605,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -2.6213,
+      "prior_variance": 0.963264,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.8402,
+      "prior_variance": 0.454523,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -5.5458,
+      "prior_variance": 0.549792,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -4.2978,
+      "prior_variance": 0.469865,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -4.1228,
+      "prior_variance": 0.511292,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.6069,
+      "prior_variance": 0.420807,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ziguinchor",
+      "path": "africa/senegal/ziguinchor",
+      "prior_score": -3.1495,
+      "prior_variance": 0.581874,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -7.1962,
+      "prior_variance": 0.430151,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -5.4721,
+      "prior_variance": 0.446482,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -6.361,
+      "prior_variance": 0.557835,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -4.9262,
+      "prior_variance": 0.425268,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -6.1438,
+      "prior_variance": 0.537692,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -6.2973,
+      "prior_variance": 0.455479,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -6.8249,
+      "prior_variance": 0.693146,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Wuhu",
+      "path": "asia/china/anhui/wuhu",
+      "prior_score": -5.4955,
+      "prior_variance": 0.616043,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -5.8982,
+      "prior_variance": 0.528636,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -7.8439,
+      "prior_variance": 0.597719,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -8.6573,
+      "prior_variance": 0.620662,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3322,
+  "timestamp": "2026-06-13T22:45:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/south_island/otago/milford_sound",
+      "prior_score": 12.2028,
+      "prior_variance": 0.507459,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Bangkok",
+      "path": "asia/thailand/bangkok",
+      "prior_score": 11.8073,
+      "prior_variance": 0.953761,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 8.1883,
+      "prior_variance": 0.286904,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 5.3522,
+      "prior_variance": 0.150346,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 2.7438,
+      "prior_variance": 0.164375,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": 7.1056,
+      "prior_variance": 0.158391,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.281,
+      "prior_variance": 0.14534,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 1.6863,
+      "prior_variance": 0.119953,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kiruna",
+      "path": "europe/sweden/kiruna",
+      "prior_score": 2.9566,
+      "prior_variance": 0.12718,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bushmills",
+      "path": "europe/unitedkingdom/northernireland/bushmills",
+      "prior_score": 2.1716,
+      "prior_variance": 0.137181,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.7739,
+      "prior_variance": 0.13395,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Louisville",
+      "path": "northamerica/unitedstates/kentucky/louisville",
+      "prior_score": 0.9894,
+      "prior_variance": 0.132496,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -0.1428,
+      "prior_variance": 0.12001,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 1.9975,
+      "prior_variance": 0.122035,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.7564,
+      "prior_variance": 0.132876,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 3.0903,
+      "prior_variance": 0.125862,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.7405,
+      "prior_variance": 0.137073,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -1.3662,
+      "prior_variance": 0.157947,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Sanga",
+      "path": "africa/mali/dogoncountry/sanga",
+      "prior_score": -0.3225,
+      "prior_variance": 0.12502,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Dakhla",
+      "path": "africa/morocco/dakhla",
+      "prior_score": -0.6589,
+      "prior_variance": 0.167838,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 1.2033,
+      "prior_variance": 0.190498,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Xiangyang",
+      "path": "asia/china/hubei/xiangyang",
+      "prior_score": -4.1235,
+      "prior_variance": 0.123551,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -1.938,
+      "prior_variance": 0.114268,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.2808,
+      "prior_variance": 0.126933,
+      "prior_n": 11
+    }
+  ]
+}

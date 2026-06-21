@@ -1,0 +1,200 @@
+{
+  "round": 675,
+  "timestamp": "2026-06-13T19:48:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 10.4948,
+      "prior_variance": 0.755006,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Saint-Martin",
+      "path": "northamerica/thecaribbean/saintmartin",
+      "prior_score": 10.1354,
+      "prior_variance": 1.297361,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 10.4854,
+      "prior_variance": 1.085698,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 10.5571,
+      "prior_variance": 2.531568,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 10.7467,
+      "prior_variance": 0.944889,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 11.3261,
+      "prior_variance": 1.287704,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 8.744,
+      "prior_variance": 1.906724,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 11.5524,
+      "prior_variance": 0.790026,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 9.7407,
+      "prior_variance": 2.200671,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 11.5873,
+      "prior_variance": 1.079629,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 10.3223,
+      "prior_variance": 1.751986,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 10.1103,
+      "prior_variance": 1.786994,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 7.7159,
+      "prior_variance": 0.692768,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 9.4255,
+      "prior_variance": 0.913528,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Sveti Stefan",
+      "path": "europe/montenegro/sveti_stefan",
+      "prior_score": 10.5873,
+      "prior_variance": 0.789462,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Kanab",
+      "path": "northamerica/unitedstates/utah/kanab",
+      "prior_score": 7.349,
+      "prior_variance": 0.731411,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Gangtok",
+      "path": "asia/india/sikkim/gangtok",
+      "prior_score": 7.5713,
+      "prior_variance": 0.999122,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 10.198,
+      "prior_variance": 0.875643,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/setenil",
+      "prior_score": 8.2029,
+      "prior_variance": 1.849566,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 7.9817,
+      "prior_variance": 1.038869,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Vanua Levu",
+      "path": "australiaandpacific/fiji/vanualevu",
+      "prior_score": 9.7995,
+      "prior_variance": 0.984022,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 9.5123,
+      "prior_variance": 0.924966,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 7.9936,
+      "prior_variance": 0.90115,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Famagusta (Gazima\u011fusa)",
+      "path": "asia/cyprus/northerncyprus/famagustagazimaguza",
+      "prior_score": 6.231,
+      "prior_variance": 1.13297,
+      "prior_n": 3
+    }
+  ]
+}

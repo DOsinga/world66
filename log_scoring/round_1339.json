@@ -1,0 +1,200 @@
+{
+  "round": 1339,
+  "timestamp": "2026-06-13T20:24:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bolzano",
+      "path": "europe/italy/trentinoaltoadige/bolzano",
+      "prior_score": 6.6182,
+      "prior_variance": 0.456759,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 5.3511,
+      "prior_variance": 0.333959,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 6.2785,
+      "prior_variance": 0.403144,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Escondido",
+      "path": "northamerica/mexico/puertoescondido",
+      "prior_score": 5.589,
+      "prior_variance": 0.358911,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 5.2963,
+      "prior_variance": 0.319745,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": 0.959,
+      "prior_variance": 0.321141,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 3.7681,
+      "prior_variance": 0.325469,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Enkhuizen",
+      "path": "europe/netherlands/enkhuizen",
+      "prior_score": 2.0837,
+      "prior_variance": 0.445598,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 1.2497,
+      "prior_variance": 0.315421,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Stuttgart",
+      "path": "europe/germany/badenwrttemberg/stuttgart",
+      "prior_score": 1.8621,
+      "prior_variance": 0.328922,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 1.0467,
+      "prior_variance": 0.306243,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_score": 0.0791,
+      "prior_variance": 0.298991,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Quanzhou",
+      "path": "asia/china/fujianprovince/quanzhou",
+      "prior_score": -0.1296,
+      "prior_variance": 0.304452,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": -1.3815,
+      "prior_variance": 0.437725,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.8636,
+      "prior_variance": 0.320949,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -1.9792,
+      "prior_variance": 0.299869,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Dixcove",
+      "path": "africa/ghana/dixcove",
+      "prior_score": -3.3569,
+      "prior_variance": 0.305218,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Cyangugu",
+      "path": "africa/rwanda/chyangugu",
+      "prior_score": -2.3077,
+      "prior_variance": 0.416662,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.835,
+      "prior_variance": 0.290702,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Ledu",
+      "path": "asia/china/qinghai/ledu",
+      "prior_score": -5.8197,
+      "prior_variance": 0.32624,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_score": -4.7594,
+      "prior_variance": 0.347791,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.9982,
+      "prior_variance": 0.390051,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Des Moines",
+      "path": "northamerica/unitedstates/iowa/desmoines",
+      "prior_score": -2.5273,
+      "prior_variance": 0.295301,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/ohio/newark",
+      "prior_score": -7.1255,
+      "prior_variance": 0.325075,
+      "prior_n": 5
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 924,
+  "timestamp": "2026-06-13T20:01:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 5.3957,
+      "prior_variance": 0.628102,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Todos Santos",
+      "path": "northamerica/mexico/todos_santos",
+      "prior_score": 2.2317,
+      "prior_variance": 0.63581,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -2.735,
+      "prior_variance": 0.607317,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.9789,
+      "prior_variance": 0.466241,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Tavistock",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock",
+      "prior_score": -4.5393,
+      "prior_variance": 0.801277,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.0595,
+      "prior_variance": 0.494257,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -4.3903,
+      "prior_variance": 0.787118,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Suez",
+      "path": "africa/egypt/suez",
+      "prior_score": -6.1431,
+      "prior_variance": 1.002289,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -5.7596,
+      "prior_variance": 0.545673,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -4.3211,
+      "prior_variance": 1.078593,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -5.1279,
+      "prior_variance": 0.484077,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -4.3634,
+      "prior_variance": 0.460989,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -5.0826,
+      "prior_variance": 0.575009,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Chico",
+      "path": "northamerica/unitedstates/california/shastacascade/chico",
+      "prior_score": -4.9934,
+      "prior_variance": 0.688213,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -6.8954,
+      "prior_variance": 0.580668,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -5.2438,
+      "prior_variance": 0.703212,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -4.818,
+      "prior_variance": 0.564098,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Pepin",
+      "path": "northamerica/unitedstates/wisconsin/pepin",
+      "prior_score": -4.896,
+      "prior_variance": 0.70906,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -6.4295,
+      "prior_variance": 0.93058,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "College Park",
+      "path": "northamerica/unitedstates/maryland/college_park",
+      "prior_score": -7.5418,
+      "prior_variance": 0.4526,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -5.7222,
+      "prior_variance": 0.612914,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -9.1821,
+      "prior_variance": 0.684244,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -5.431,
+      "prior_variance": 0.634303,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Vemulawada",
+      "path": "asia/india/andhrapradesh/vemulawada",
+      "prior_score": -7.7935,
+      "prior_variance": 1.133628,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2639,
+  "timestamp": "2026-06-13T21:56:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sixt-Fer-\u00e0-Cheval",
+      "path": "europe/france/alpes/sixt_fercheval",
+      "prior_score": 3.5458,
+      "prior_variance": 0.233791,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.3262,
+      "prior_variance": 0.201159,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 4.5931,
+      "prior_variance": 0.16327,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.0179,
+      "prior_variance": 0.186503,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.4123,
+      "prior_variance": 0.146327,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.9667,
+      "prior_variance": 0.142992,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.7551,
+      "prior_variance": 0.156439,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": -0.2755,
+      "prior_variance": 0.178738,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.6538,
+      "prior_variance": 0.136778,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -3.2408,
+      "prior_variance": 0.216247,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Mountain View",
+      "path": "northamerica/unitedstates/california/mountainvieuw",
+      "prior_score": -3.2698,
+      "prior_variance": 0.170968,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -3.7661,
+      "prior_variance": 0.197678,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": -2.868,
+      "prior_variance": 0.187134,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -1.9621,
+      "prior_variance": 0.169038,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -3.5503,
+      "prior_variance": 0.164534,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Hailar",
+      "path": "asia/china/innermongolia/hailar",
+      "prior_score": -2.8447,
+      "prior_variance": 0.153064,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -4.6283,
+      "prior_variance": 0.188549,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Winter Haven",
+      "path": "northamerica/unitedstates/florida/winterhaven",
+      "prior_score": -3.8649,
+      "prior_variance": 0.16883,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.2535,
+      "prior_variance": 0.183552,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Eldoret",
+      "path": "africa/kenya/theriftvalley/eldoret",
+      "prior_score": -4.8693,
+      "prior_variance": 0.199166,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Chone",
+      "path": "southamerica/ecuador/chone",
+      "prior_score": -4.4065,
+      "prior_variance": 0.170019,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -1.2699,
+      "prior_variance": 0.174225,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Mzuzu",
+      "path": "africa/malawi/mzuzu",
+      "prior_score": -5.0991,
+      "prior_variance": 0.17106,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Beira",
+      "path": "africa/mozambique/beira",
+      "prior_score": -5.0188,
+      "prior_variance": 0.190862,
+      "prior_n": 9
+    }
+  ]
+}

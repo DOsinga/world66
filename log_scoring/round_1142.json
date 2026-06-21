@@ -1,0 +1,200 @@
+{
+  "round": 1142,
+  "timestamp": "2026-06-13T20:13:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 5.3578,
+      "prior_variance": 0.434762,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 4.6753,
+      "prior_variance": 1.062266,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kokura",
+      "path": "asia/japan/kyushu/kokura",
+      "prior_score": 0.6398,
+      "prior_variance": 0.663797,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.6409,
+      "prior_variance": 0.399463,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 1.1324,
+      "prior_variance": 0.425711,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": 0.4201,
+      "prior_variance": 0.405738,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "La Sila",
+      "path": "europe/italy/calabria/la_sila",
+      "prior_score": -0.6714,
+      "prior_variance": 0.402866,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": 0.7985,
+      "prior_variance": 0.622836,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.5659,
+      "prior_variance": 0.43403,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -3.3258,
+      "prior_variance": 0.4234,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -2.0606,
+      "prior_variance": 0.381194,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -1.5262,
+      "prior_variance": 0.456282,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -0.6865,
+      "prior_variance": 0.309237,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -1.8901,
+      "prior_variance": 0.427022,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kajaani",
+      "path": "europe/finland/kajaani",
+      "prior_score": -2.9174,
+      "prior_variance": 0.381716,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Visakhapatnam",
+      "path": "asia/india/andhrapradesh/visakhapatnam",
+      "prior_score": -3.2553,
+      "prior_variance": 0.395079,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Wudalianchi",
+      "path": "asia/china/heilongjiang/wudalianchi",
+      "prior_score": -2.943,
+      "prior_variance": 0.360561,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -3.0563,
+      "prior_variance": 0.603754,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -4.2555,
+      "prior_variance": 0.556398,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -3.2579,
+      "prior_variance": 0.368379,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Sokobanja",
+      "path": "europe/serbia/sokobanja",
+      "prior_score": -2.1188,
+      "prior_variance": 0.391528,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bugac",
+      "path": "europe/hungary/bugac",
+      "prior_score": -3.4853,
+      "prior_variance": 0.42955,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -8.1632,
+      "prior_variance": 0.585574,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.6477,
+      "prior_variance": 0.531746,
+      "prior_n": 3
+    }
+  ]
+}

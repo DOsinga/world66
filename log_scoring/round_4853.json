@@ -1,0 +1,200 @@
+{
+  "round": 4853,
+  "timestamp": "2026-06-14T00:47:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.3046,
+      "prior_variance": 0.103263,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 3.7542,
+      "prior_variance": 0.094821,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "C\u00e1ceres",
+      "path": "europe/spain/caceres",
+      "prior_score": 3.7358,
+      "prior_variance": 0.097215,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.7837,
+      "prior_variance": 0.090784,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 4.2016,
+      "prior_variance": 0.108835,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Nadi",
+      "path": "australiaandpacific/fiji/vitilevu/nadi",
+      "prior_score": 4.6382,
+      "prior_variance": 0.10022,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.1152,
+      "prior_variance": 0.085156,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Benevento",
+      "path": "europe/italy/campania/benevento",
+      "prior_score": 0.8083,
+      "prior_variance": 0.079536,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": 0.3657,
+      "prior_variance": 0.09136,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 1.5622,
+      "prior_variance": 0.090911,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.2761,
+      "prior_variance": 0.082725,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 3.1759,
+      "prior_variance": 0.090072,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": 0.9127,
+      "prior_variance": 0.100769,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 2.2052,
+      "prior_variance": 0.087503,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.7352,
+      "prior_variance": 0.086901,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.521,
+      "prior_variance": 0.078727,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Juffure",
+      "path": "africa/gambia/juffure",
+      "prior_score": -2.3246,
+      "prior_variance": 0.093968,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -3.1918,
+      "prior_variance": 0.101821,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_score": -2.285,
+      "prior_variance": 0.090651,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -2.7841,
+      "prior_variance": 0.121663,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.6739,
+      "prior_variance": 0.136371,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.5052,
+      "prior_variance": 0.08223,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -6.1744,
+      "prior_variance": 0.142469,
+      "prior_n": 17
+    },
+    {
+      "rank": 24,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.1257,
+      "prior_variance": 0.111184,
+      "prior_n": 15
+    }
+  ]
+}

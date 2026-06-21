@@ -1,0 +1,200 @@
+{
+  "round": 2062,
+  "timestamp": "2026-06-13T21:15:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 6.3491,
+      "prior_variance": 0.410972,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 7.9113,
+      "prior_variance": 0.281159,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 4.6059,
+      "prior_variance": 0.237213,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.4135,
+      "prior_variance": 0.231418,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 4.0112,
+      "prior_variance": 0.2448,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.5352,
+      "prior_variance": 0.194781,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 0.4957,
+      "prior_variance": 0.180023,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.7683,
+      "prior_variance": 0.232272,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -1.0071,
+      "prior_variance": 0.226641,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": -2.0494,
+      "prior_variance": 0.205047,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Kemij\u00e4rvi",
+      "path": "europe/finland/kemijarvi",
+      "prior_score": -2.9824,
+      "prior_variance": 0.238225,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.3009,
+      "prior_variance": 0.2206,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Viroqua",
+      "path": "northamerica/unitedstates/wisconsin/viroqua",
+      "prior_score": -4.6006,
+      "prior_variance": 0.249238,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -3.5674,
+      "prior_variance": 0.253959,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Johnstown",
+      "path": "northamerica/unitedstates/pennsylvania/johnstown",
+      "prior_score": -5.1518,
+      "prior_variance": 0.257594,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Zhongshan",
+      "path": "asia/china/guangdong/zhongshan",
+      "prior_score": -2.8159,
+      "prior_variance": 0.199604,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Pagadian City",
+      "path": "asia/philippines/pagadiancity",
+      "prior_score": -3.6298,
+      "prior_variance": 0.238476,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -3.4145,
+      "prior_variance": 0.254001,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -5.1594,
+      "prior_variance": 0.227659,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.4296,
+      "prior_variance": 0.220522,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -6.2475,
+      "prior_variance": 0.315834,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -3.5515,
+      "prior_variance": 0.265646,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Gujranwala",
+      "path": "asia/pakistan/gujranwala",
+      "prior_score": -6.8817,
+      "prior_variance": 0.323946,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -10.1783,
+      "prior_variance": 0.377583,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 951,
+  "timestamp": "2026-06-13T20:02:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 11.6234,
+      "prior_variance": 0.668338,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 8.81,
+      "prior_variance": 0.57868,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Punakha",
+      "path": "asia/bhutan/punakha",
+      "prior_score": 13.4117,
+      "prior_variance": 1.208865,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Angel Falls",
+      "path": "southamerica/venezuela/angelfalls",
+      "prior_score": 10.2778,
+      "prior_variance": 0.730736,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 9.5272,
+      "prior_variance": 0.651948,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 9.644,
+      "prior_variance": 0.776073,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 12.4098,
+      "prior_variance": 0.911357,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 8.789,
+      "prior_variance": 0.884226,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 8.4121,
+      "prior_variance": 0.476175,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 6.7785,
+      "prior_variance": 0.480296,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 5.8328,
+      "prior_variance": 0.606009,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "La Palma",
+      "path": "europe/spain/canaryislands/lapalma",
+      "prior_score": 8.3127,
+      "prior_variance": 0.639948,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 7.7393,
+      "prior_variance": 0.531197,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 7.6998,
+      "prior_variance": 1.03321,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 7.0216,
+      "prior_variance": 0.648882,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Glendalough",
+      "path": "europe/ireland/glendalough",
+      "prior_score": 8.1069,
+      "prior_variance": 0.947929,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Arlberg",
+      "path": "europe/austria/arlberg",
+      "prior_score": 7.5836,
+      "prior_variance": 0.648659,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Snowmass Village",
+      "path": "northamerica/unitedstates/colorado/snowmass_village",
+      "prior_score": 7.3926,
+      "prior_variance": 0.568017,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 8.1222,
+      "prior_variance": 0.533519,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 7.8805,
+      "prior_variance": 0.506118,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 5.0994,
+      "prior_variance": 0.728842,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 8.9818,
+      "prior_variance": 0.618276,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 1.5114,
+      "prior_variance": 0.788067,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -2.8975,
+      "prior_variance": 0.659873,
+      "prior_n": 2
+    }
+  ]
+}

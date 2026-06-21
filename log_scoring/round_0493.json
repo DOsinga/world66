@@ -1,0 +1,200 @@
+{
+  "round": 493,
+  "timestamp": "2026-06-13T19:39:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": -4.2108,
+      "prior_variance": 1.711111,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": -5.4931,
+      "prior_variance": 6.710549,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -4.7757,
+      "prior_variance": 1.354858,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -2.4617,
+      "prior_variance": 3.372996,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Fort Collins",
+      "path": "northamerica/unitedstates/colorado/fortcollins",
+      "prior_score": -4.5346,
+      "prior_variance": 2.35221,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -6.1534,
+      "prior_variance": 1.732204,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -7.1613,
+      "prior_variance": 1.478675,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -5.047,
+      "prior_variance": 1.946302,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -6.3669,
+      "prior_variance": 1.613522,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Bar-le-Duc",
+      "path": "europe/france/east/lorraine/barleduc",
+      "prior_score": -5.6168,
+      "prior_variance": 1.358312,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -5.3228,
+      "prior_variance": 1.613084,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.9307,
+      "prior_variance": 2.157221,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lincoln",
+      "path": "northamerica/unitedstates/nebraska/lincoln",
+      "prior_score": -6.3477,
+      "prior_variance": 1.552032,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -2.5371,
+      "prior_variance": 1.728277,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Mildura",
+      "path": "australiaandpacific/australia/victoria/midura",
+      "prior_score": -5.974,
+      "prior_variance": 1.653791,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -5.2678,
+      "prior_variance": 1.738454,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Touba",
+      "path": "africa/senegal/touba",
+      "prior_score": -10.1484,
+      "prior_variance": 2.384071,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -6.2089,
+      "prior_variance": 1.950611,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -5.5061,
+      "prior_variance": 1.487208,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.8765,
+      "prior_variance": 1.470831,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Ponta Grossa",
+      "path": "southamerica/brazil/ponta_grossa",
+      "prior_score": -6.4617,
+      "prior_variance": 3.727057,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -6.2088,
+      "prior_variance": 2.092634,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -6.8956,
+      "prior_variance": 2.292492,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.9363,
+      "prior_variance": 6.435815,
+      "prior_n": 1
+    }
+  ]
+}

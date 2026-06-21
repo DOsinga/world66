@@ -1,0 +1,200 @@
+{
+  "round": 4441,
+  "timestamp": "2026-06-14T00:12:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 4.3654,
+      "prior_variance": 0.10251,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 1.7186,
+      "prior_variance": 0.086458,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 1.0704,
+      "prior_variance": 0.086806,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 1.565,
+      "prior_variance": 0.095574,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 0.9807,
+      "prior_variance": 0.093068,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": 0.4363,
+      "prior_variance": 0.093482,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Star Valley (Afton)",
+      "path": "northamerica/unitedstates/wyoming/star_valley_afton",
+      "prior_score": -1.2757,
+      "prior_variance": 0.097136,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.9383,
+      "prior_variance": 0.115721,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.5934,
+      "prior_variance": 0.093461,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.2199,
+      "prior_variance": 0.093147,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Xichang",
+      "path": "asia/china/sichuanprovince/xichang",
+      "prior_score": -2.0214,
+      "prior_variance": 0.092963,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.0342,
+      "prior_variance": 0.090186,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.9717,
+      "prior_variance": 0.122901,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.5681,
+      "prior_variance": 0.09956,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -2.3815,
+      "prior_variance": 0.089723,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tarlac",
+      "path": "asia/philippines/tarlac",
+      "prior_score": -4.498,
+      "prior_variance": 0.115838,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -2.0972,
+      "prior_variance": 0.089208,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.4463,
+      "prior_variance": 0.097984,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -2.8153,
+      "prior_variance": 0.097651,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.2074,
+      "prior_variance": 0.107209,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -7.5389,
+      "prior_variance": 0.137882,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -4.3379,
+      "prior_variance": 0.120239,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -6.4139,
+      "prior_variance": 0.150737,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.0297,
+      "prior_variance": 0.128263,
+      "prior_n": 14
+    }
+  ]
+}

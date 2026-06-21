@@ -1,0 +1,200 @@
+{
+  "round": 766,
+  "timestamp": "2026-06-13T19:52:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -5.357,
+      "prior_variance": 0.690427,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -5.5612,
+      "prior_variance": 0.618138,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -6.7218,
+      "prior_variance": 1.024762,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -4.9087,
+      "prior_variance": 0.735258,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Miercurea Ciuc",
+      "path": "europe/romania/miercureaciuc",
+      "prior_score": -5.7319,
+      "prior_variance": 1.255044,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -5.0343,
+      "prior_variance": 0.935388,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sost",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/sost",
+      "prior_score": -9.5669,
+      "prior_variance": 1.319869,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sylhet",
+      "path": "asia/bangladesh/sylhet",
+      "prior_score": -6.4641,
+      "prior_variance": 0.889558,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tajpur",
+      "path": "asia/india/westbengal/mandarmani/tajpur",
+      "prior_score": -8.8705,
+      "prior_variance": 0.477484,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Guthrie",
+      "path": "northamerica/unitedstates/oklahoma/guthrie",
+      "prior_score": -7.9042,
+      "prior_variance": 0.866495,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -8.0597,
+      "prior_variance": 1.051485,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Maralal",
+      "path": "africa/kenya/northernkenya/maralal",
+      "prior_score": -8.2279,
+      "prior_variance": 0.78758,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -5.8528,
+      "prior_variance": 1.235078,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -6.1184,
+      "prior_variance": 0.468036,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -8.6935,
+      "prior_variance": 0.876238,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -4.6541,
+      "prior_variance": 0.690163,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Qasr Libya",
+      "path": "africa/libya/qasr_libya",
+      "prior_score": -5.4829,
+      "prior_variance": 1.4604,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -6.8419,
+      "prior_variance": 0.690946,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Nuevo Casas Grandes",
+      "path": "northamerica/mexico/nuevocasasgrandes",
+      "prior_score": -8.2108,
+      "prior_variance": 0.471635,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -8.893,
+      "prior_variance": 0.610646,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Topeka",
+      "path": "northamerica/unitedstates/kansas/topeka",
+      "prior_score": -8.9842,
+      "prior_variance": 0.829384,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -9.6916,
+      "prior_variance": 0.650802,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -10.1227,
+      "prior_variance": 0.981469,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -8.9875,
+      "prior_variance": 1.175047,
+      "prior_n": 2
+    }
+  ]
+}

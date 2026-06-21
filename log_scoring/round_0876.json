@@ -1,0 +1,200 @@
+{
+  "round": 876,
+  "timestamp": "2026-06-13T19:58:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 23.3304,
+      "prior_variance": 5.31372,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 22.967,
+      "prior_variance": 5.350313,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Venice",
+      "path": "europe/italy/veneto/venice",
+      "prior_score": 18.9523,
+      "prior_variance": 6.103824,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_score": 22.9633,
+      "prior_variance": 5.348816,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Machu Picchu",
+      "path": "southamerica/peru/machupicchu",
+      "prior_score": 19.4435,
+      "prior_variance": 6.013502,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 22.7842,
+      "prior_variance": 5.384324,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mount Fuji",
+      "path": "asia/japan/honshu/mount_fuji",
+      "prior_score": 18.1428,
+      "prior_variance": 2.903806,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Xi'an",
+      "path": "asia/china/shaanxi/xian",
+      "prior_score": 14.2125,
+      "prior_variance": 1.46783,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 19.6077,
+      "prior_variance": 2.81247,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Bora Bora",
+      "path": "australiaandpacific/frenchpolynesia/borabora",
+      "prior_score": 22.5456,
+      "prior_variance": 5.409801,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 21.0161,
+      "prior_variance": 5.666703,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 20.0681,
+      "prior_variance": 5.391064,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 20.2736,
+      "prior_variance": 5.824634,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Rio de Janeiro",
+      "path": "southamerica/brazil/riodejaneiro",
+      "prior_score": 21.656,
+      "prior_variance": 2.713484,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfrancisco",
+      "prior_score": 21.2201,
+      "prior_variance": 2.685949,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 18.8492,
+      "prior_variance": 6.097531,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Mexico City",
+      "path": "northamerica/mexico/mexicocity",
+      "prior_score": 17.1647,
+      "prior_variance": 1.677124,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 13.5623,
+      "prior_variance": 1.251779,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 12.6533,
+      "prior_variance": 0.90456,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Kaua'i",
+      "path": "northamerica/unitedstates/hawaii/kauai",
+      "prior_score": 23.4159,
+      "prior_variance": 5.287109,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kitzb\u00fchel",
+      "path": "europe/austria/kitzbuehel",
+      "prior_score": 12.4052,
+      "prior_variance": 0.819344,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 17.174,
+      "prior_variance": 1.685738,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 11.3573,
+      "prior_variance": 0.79361,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -2.4121,
+      "prior_variance": 0.816469,
+      "prior_n": 2
+    }
+  ]
+}

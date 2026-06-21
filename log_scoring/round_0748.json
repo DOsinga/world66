@@ -1,0 +1,200 @@
+{
+  "round": 748,
+  "timestamp": "2026-06-13T19:51:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": -3.962,
+      "prior_variance": 0.776469,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -5.5806,
+      "prior_variance": 1.313881,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Doncaster",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster",
+      "prior_score": -6.0626,
+      "prior_variance": 0.996111,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -5.5614,
+      "prior_variance": 0.850224,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -4.8562,
+      "prior_variance": 1.178735,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -5.3109,
+      "prior_variance": 0.681638,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -5.1513,
+      "prior_variance": 1.223007,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "San Crist\u00f3bal",
+      "path": "southamerica/venezuela/san_cristobal",
+      "prior_score": -8.7236,
+      "prior_variance": 0.654868,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -7.3295,
+      "prior_variance": 0.722035,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -6.3113,
+      "prior_variance": 0.814508,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Tonghua",
+      "path": "asia/china/jilin/tonghua",
+      "prior_score": -7.0638,
+      "prior_variance": 1.266771,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -6.856,
+      "prior_variance": 0.739305,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Zottegem",
+      "path": "europe/belgium/zottegem",
+      "prior_score": -7.4838,
+      "prior_variance": 0.856243,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mol",
+      "path": "europe/belgium/mol",
+      "prior_score": -6.1467,
+      "prior_variance": 1.01671,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Riedstadt",
+      "path": "europe/germany/hessen/riedstadt",
+      "prior_score": -9.4926,
+      "prior_variance": 0.671014,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -6.2322,
+      "prior_variance": 0.643214,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -8.7655,
+      "prior_variance": 0.627707,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -8.7485,
+      "prior_variance": 0.622834,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -6.9585,
+      "prior_variance": 1.277684,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -8.8287,
+      "prior_variance": 0.709575,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Gafsa",
+      "path": "africa/tunisia/gafsa",
+      "prior_score": -7.406,
+      "prior_variance": 0.648985,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -5.2818,
+      "prior_variance": 1.00474,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -8.74,
+      "prior_variance": 1.356266,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -7.1325,
+      "prior_variance": 0.756747,
+      "prior_n": 2
+    }
+  ]
+}

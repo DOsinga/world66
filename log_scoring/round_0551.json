@@ -1,0 +1,200 @@
+{
+  "round": 551,
+  "timestamp": "2026-06-13T19:41:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jakarta",
+      "path": "asia/indonesia/java/jakarta",
+      "prior_score": -5.1599,
+      "prior_variance": 2.742876,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -6.4521,
+      "prior_variance": 1.0078,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "San Rafael",
+      "path": "northamerica/unitedstates/california/sanrafael",
+      "prior_score": -7.5654,
+      "prior_variance": 0.814784,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -5.9594,
+      "prior_variance": 0.718547,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -6.0913,
+      "prior_variance": 1.497014,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -4.2719,
+      "prior_variance": 1.614755,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -7.2719,
+      "prior_variance": 1.924078,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -5.2877,
+      "prior_variance": 1.597815,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -5.5037,
+      "prior_variance": 0.715114,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -7.4984,
+      "prior_variance": 0.659914,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hartford",
+      "path": "northamerica/unitedstates/connecticut/hartford",
+      "prior_score": -7.132,
+      "prior_variance": 1.40178,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -7.7574,
+      "prior_variance": 2.088994,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -9.4859,
+      "prior_variance": 1.085846,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -7.4534,
+      "prior_variance": 1.097194,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -6.9536,
+      "prior_variance": 0.821956,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -8.9051,
+      "prior_variance": 2.479049,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Rayagada",
+      "path": "asia/india/orissa/rayagada",
+      "prior_score": -10.582,
+      "prior_variance": 1.179199,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -9.0912,
+      "prior_variance": 2.353658,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -7.8396,
+      "prior_variance": 1.87107,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/arkansas/texarkana",
+      "prior_score": -7.1637,
+      "prior_variance": 1.731401,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -10.0478,
+      "prior_variance": 3.532378,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -10.4504,
+      "prior_variance": 1.279428,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/south_east/slough",
+      "prior_score": -8.345,
+      "prior_variance": 2.049445,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Haththikuchchi",
+      "path": "asia/srilanka/haththikuchchi",
+      "prior_score": -6.7352,
+      "prior_variance": 2.763142,
+      "prior_n": 1
+    }
+  ]
+}

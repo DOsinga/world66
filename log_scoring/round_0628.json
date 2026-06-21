@@ -1,0 +1,200 @@
+{
+  "round": 628,
+  "timestamp": "2026-06-13T19:45:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 1.0162,
+      "prior_variance": 0.836351,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": -0.02,
+      "prior_variance": 1.035331,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.2465,
+      "prior_variance": 0.620384,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -0.4821,
+      "prior_variance": 0.69358,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.1801,
+      "prior_variance": 1.021344,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": -0.8552,
+      "prior_variance": 0.69111,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Workum",
+      "path": "europe/netherlands/friesland/workum",
+      "prior_score": -0.6586,
+      "prior_variance": 0.66643,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.6281,
+      "prior_variance": 0.683144,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_score": -1.4126,
+      "prior_variance": 0.804188,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.16,
+      "prior_variance": 0.563586,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": 0.8028,
+      "prior_variance": 1.440402,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi",
+      "prior_score": 1.051,
+      "prior_variance": 0.425338,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.2675,
+      "prior_variance": 0.665742,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": -0.126,
+      "prior_variance": 0.625426,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Loksado",
+      "path": "asia/indonesia/loksado",
+      "prior_score": 1.1449,
+      "prior_variance": 1.779803,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Laguna",
+      "path": "southamerica/brazil/laguna",
+      "prior_score": -0.0285,
+      "prior_variance": 0.756323,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.6575,
+      "prior_variance": 0.786322,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": 0.4443,
+      "prior_variance": 1.02682,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -0.7704,
+      "prior_variance": 0.775884,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -0.5526,
+      "prior_variance": 0.852472,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -0.0684,
+      "prior_variance": 0.467542,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Siauliai",
+      "path": "europe/lithuania/siauliai",
+      "prior_score": -0.1096,
+      "prior_variance": 0.457935,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -0.5817,
+      "prior_variance": 0.631586,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Villahermosa",
+      "path": "northamerica/mexico/villahermosa",
+      "prior_score": -1.2034,
+      "prior_variance": 0.657852,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3973,
+  "timestamp": "2026-06-13T23:33:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.5184,
+      "prior_variance": 0.135105,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Cabanaconde",
+      "path": "southamerica/peru/colca_canyon/cabanaconde",
+      "prior_score": 5.2294,
+      "prior_variance": 0.146248,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 5.99,
+      "prior_variance": 0.140054,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 5.3278,
+      "prior_variance": 0.104017,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 4.025,
+      "prior_variance": 0.113538,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.1457,
+      "prior_variance": 0.124249,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mindo",
+      "path": "southamerica/ecuador/mindo",
+      "prior_score": 3.167,
+      "prior_variance": 0.118302,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": 0.2134,
+      "prior_variance": 0.089817,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Terracina",
+      "path": "europe/italy/lazio/terracina",
+      "prior_score": 1.9583,
+      "prior_variance": 0.101659,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 1.4408,
+      "prior_variance": 0.097261,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Predeal",
+      "path": "europe/romania/predeal",
+      "prior_score": -0.7756,
+      "prior_variance": 0.115141,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Changde",
+      "path": "asia/china/hunan/changde",
+      "prior_score": -3.8738,
+      "prior_variance": 0.098331,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -2.629,
+      "prior_variance": 0.098299,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -0.8267,
+      "prior_variance": 0.104666,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.8137,
+      "prior_variance": 0.110717,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.8004,
+      "prior_variance": 0.103573,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -6.1582,
+      "prior_variance": 0.150042,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.0752,
+      "prior_variance": 0.115882,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/south_east/harrow",
+      "prior_score": -4.3729,
+      "prior_variance": 0.110647,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Khyber",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/khyber",
+      "prior_score": -3.092,
+      "prior_variance": 0.124223,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Redmond",
+      "path": "northamerica/unitedstates/washington/redmond",
+      "prior_score": -3.2946,
+      "prior_variance": 0.132206,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -9.3379,
+      "prior_variance": 0.242295,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -6.865,
+      "prior_variance": 0.172009,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.656,
+      "prior_variance": 0.407175,
+      "prior_n": 12
+    }
+  ]
+}

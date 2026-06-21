@@ -1,0 +1,200 @@
+{
+  "round": 4191,
+  "timestamp": "2026-06-13T23:52:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 8.6499,
+      "prior_variance": 0.176369,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Canmore",
+      "path": "northamerica/canada/alberta/canmore",
+      "prior_score": 5.3025,
+      "prior_variance": 0.116546,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Basel",
+      "path": "europe/switzerland/basel",
+      "prior_score": 5.5014,
+      "prior_variance": 0.128491,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Graz",
+      "path": "europe/austria/graz",
+      "prior_score": 5.6666,
+      "prior_variance": 0.117323,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.1853,
+      "prior_variance": 0.116532,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.2336,
+      "prior_variance": 0.132648,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 6.6234,
+      "prior_variance": 0.152198,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 8.3294,
+      "prior_variance": 0.167762,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 2.8962,
+      "prior_variance": 0.096139,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 2.5784,
+      "prior_variance": 0.143077,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Bocas del Toro",
+      "path": "northamerica/panama/bocasdeltoro",
+      "prior_score": 4.6253,
+      "prior_variance": 0.099818,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.7198,
+      "prior_variance": 0.100005,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.7532,
+      "prior_variance": 0.09967,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -1.9331,
+      "prior_variance": 0.097807,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -3.1363,
+      "prior_variance": 0.109446,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Joplin",
+      "path": "northamerica/unitedstates/missouri/joplin",
+      "prior_score": -4.2442,
+      "prior_variance": 0.118692,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Morgan Hill",
+      "path": "northamerica/unitedstates/california/morgan_hill",
+      "prior_score": -3.6123,
+      "prior_variance": 0.099513,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.1458,
+      "prior_variance": 0.094578,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -6.6711,
+      "prior_variance": 0.156443,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Hotan",
+      "path": "asia/china/xinjiangprovince/hotan",
+      "prior_score": -5.4262,
+      "prior_variance": 0.165408,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -5.1456,
+      "prior_variance": 0.157797,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.5798,
+      "prior_variance": 0.133946,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Reynosa",
+      "path": "northamerica/mexico/reynosa",
+      "prior_score": -6.2259,
+      "prior_variance": 0.165525,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -6.1255,
+      "prior_variance": 0.130006,
+      "prior_n": 13
+    }
+  ]
+}

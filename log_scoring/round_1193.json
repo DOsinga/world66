@@ -1,0 +1,200 @@
+{
+  "round": 1193,
+  "timestamp": "2026-06-13T20:16:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 12.6973,
+      "prior_variance": 0.6538,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 10.4666,
+      "prior_variance": 0.491013,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "La Fortuna",
+      "path": "northamerica/costarica/lafortuna",
+      "prior_score": 10.1167,
+      "prior_variance": 0.52432,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 10.7893,
+      "prior_variance": 0.587717,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 11.6473,
+      "prior_variance": 0.603204,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Jaisalmer",
+      "path": "asia/india/rajasthan/jaisalmer",
+      "prior_score": 10.6787,
+      "prior_variance": 0.894152,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 11.5292,
+      "prior_variance": 0.615617,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "P\u00e9cs",
+      "path": "europe/hungary/pecs",
+      "prior_score": 4.3977,
+      "prior_variance": 0.537524,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.0897,
+      "prior_variance": 0.440338,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.2761,
+      "prior_variance": 0.346207,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 7.5294,
+      "prior_variance": 0.411946,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -2.3002,
+      "prior_variance": 0.452262,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Mandamados",
+      "path": "europe/greece/lesbos/mandamados",
+      "prior_score": -0.166,
+      "prior_variance": 0.466712,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -0.5654,
+      "prior_variance": 0.323436,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Trinidad",
+      "path": "northamerica/unitedstates/california/northcoast/trinidad",
+      "prior_score": -2.8282,
+      "prior_variance": 0.449467,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_score": -3.357,
+      "prior_variance": 0.494506,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -4.4237,
+      "prior_variance": 0.386695,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -4.6893,
+      "prior_variance": 0.406558,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/massachusetts/springfield",
+      "prior_score": -4.3248,
+      "prior_variance": 0.328846,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -11.4224,
+      "prior_variance": 0.563598,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Daqing",
+      "path": "asia/china/heilongjiang/daqing",
+      "prior_score": -6.3216,
+      "prior_variance": 0.471626,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -5.9133,
+      "prior_variance": 0.428439,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -8.2582,
+      "prior_variance": 0.462323,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Lugansk",
+      "path": "europe/ukraine/lugansk",
+      "prior_score": -14.7741,
+      "prior_variance": 0.995724,
+      "prior_n": 3
+    }
+  ]
+}

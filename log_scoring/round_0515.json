@@ -1,0 +1,200 @@
+{
+  "round": 515,
+  "timestamp": "2026-06-13T19:40:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 10.7338,
+      "prior_variance": 5.930516,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_score": 9.3983,
+      "prior_variance": 2.264421,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 10.0809,
+      "prior_variance": 1.833328,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sighisoara",
+      "path": "europe/romania/sighisoara",
+      "prior_score": 7.5432,
+      "prior_variance": 2.072411,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 10.0686,
+      "prior_variance": 2.656984,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Huacachina",
+      "path": "southamerica/peru/huacachina",
+      "prior_score": 9.3078,
+      "prior_variance": 1.553657,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 9.7479,
+      "prior_variance": 3.791419,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_score": 9.1659,
+      "prior_variance": 1.614527,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 11.8474,
+      "prior_variance": 8.738813,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 10.3283,
+      "prior_variance": 2.368879,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Monterey",
+      "path": "northamerica/unitedstates/california/centralcoast/monterey",
+      "prior_score": 14.8215,
+      "prior_variance": 7.336359,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 12.5719,
+      "prior_variance": 8.336048,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Tulamben",
+      "path": "asia/indonesia/bali/tulamben",
+      "prior_score": 8.7331,
+      "prior_variance": 1.807632,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 8.6166,
+      "prior_variance": 4.694598,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 10.5825,
+      "prior_variance": 2.126986,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Stykkisholmur",
+      "path": "europe/iceland/stykkisholmur",
+      "prior_score": 7.9967,
+      "prior_variance": 1.584944,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 7.7302,
+      "prior_variance": 2.081371,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Christchurch",
+      "path": "australiaandpacific/newzealand/canterbury/christchurch",
+      "prior_score": 6.1858,
+      "prior_variance": 1.668038,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Olbia",
+      "path": "europe/italy/sardinia/olbia",
+      "prior_score": 7.4197,
+      "prior_variance": 1.536455,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lovina",
+      "path": "asia/indonesia/bali/lovina",
+      "prior_score": 10.1125,
+      "prior_variance": 3.580238,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 5.3425,
+      "prior_variance": 3.719711,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Nemrut Dagi",
+      "path": "asia/turkey/nemrutdagi",
+      "prior_score": 9.7461,
+      "prior_variance": 2.286469,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 10.8587,
+      "prior_variance": 3.184715,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Angra dos Reis",
+      "path": "southamerica/brazil/angradosreis",
+      "prior_score": 5.44,
+      "prior_variance": 1.917716,
+      "prior_n": 1
+    }
+  ]
+}

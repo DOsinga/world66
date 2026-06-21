@@ -1,0 +1,200 @@
+{
+  "round": 1983,
+  "timestamp": "2026-06-13T21:10:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -1.1913,
+      "prior_variance": 0.34203,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 6.1659,
+      "prior_variance": 0.282687,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Rab Island",
+      "path": "europe/croatia/rabisland",
+      "prior_score": 6.4096,
+      "prior_variance": 0.244201,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.5848,
+      "prior_variance": 0.238043,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Santo Stefano di Sessanio",
+      "path": "europe/italy/abruzzo/santo_stefano_di_sessanio",
+      "prior_score": 2.929,
+      "prior_variance": 0.22185,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.8501,
+      "prior_variance": 0.244694,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Roswell",
+      "path": "northamerica/unitedstates/newmexico/roswell",
+      "prior_score": 1.0996,
+      "prior_variance": 0.219922,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Vaishno Devi",
+      "path": "asia/india/jammuandkashmir/vaishnodevi",
+      "prior_score": 0.0657,
+      "prior_variance": 0.216269,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.365,
+      "prior_variance": 0.186446,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 1.229,
+      "prior_variance": 0.228321,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.4701,
+      "prior_variance": 0.212846,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 1.0768,
+      "prior_variance": 0.189881,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -0.7639,
+      "prior_variance": 0.243618,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Espiritu Santo",
+      "path": "australiaandpacific/vanuatu/espiritusanto",
+      "prior_score": 1.5227,
+      "prior_variance": 0.222579,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 0.2941,
+      "prior_variance": 0.224769,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -0.9616,
+      "prior_variance": 0.232808,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Portsmouth",
+      "path": "northamerica/thecaribbean/dominica/portsmouth",
+      "prior_score": -0.2975,
+      "prior_variance": 0.213086,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": -0.2027,
+      "prior_variance": 0.194878,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Grenville",
+      "path": "northamerica/thecaribbean/grenada/grenville",
+      "prior_score": 0.4904,
+      "prior_variance": 0.263516,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Be'er Sheva",
+      "path": "asia/israel/beer_sheva",
+      "prior_score": -2.4687,
+      "prior_variance": 0.209863,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Churachandpur",
+      "path": "asia/india/manipur/churachandpur",
+      "prior_score": -5.9088,
+      "prior_variance": 0.239827,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -5.6979,
+      "prior_variance": 0.287011,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Ghat",
+      "path": "africa/libya/ghat",
+      "prior_score": -9.6277,
+      "prior_variance": 3.416396,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.4806,
+      "prior_variance": 1.446338,
+      "prior_n": 6
+    }
+  ]
+}

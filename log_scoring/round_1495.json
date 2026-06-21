@@ -1,0 +1,200 @@
+{
+  "round": 1495,
+  "timestamp": "2026-06-13T20:34:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "West Caicos",
+      "path": "northamerica/turksandcaicosislands/westcaicos",
+      "prior_score": 7.1883,
+      "prior_variance": 0.428606,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 3.733,
+      "prior_variance": 0.356135,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 5.6527,
+      "prior_variance": 0.332721,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "St Andrews",
+      "path": "europe/unitedkingdom/scotland/standrews",
+      "prior_score": 5.8889,
+      "prior_variance": 0.306275,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pictured Rocks",
+      "path": "northamerica/unitedstates/michigan/picturedrock",
+      "prior_score": 5.2018,
+      "prior_variance": 0.300211,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 5.6282,
+      "prior_variance": 0.284905,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": -6.1673,
+      "prior_variance": 0.714727,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.5851,
+      "prior_variance": 0.362471,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Auli",
+      "path": "asia/india/uttaranchal/auli",
+      "prior_score": 2.422,
+      "prior_variance": 0.308529,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tsurphu Monastery",
+      "path": "asia/china/tibet/tsurphu_monastery",
+      "prior_score": 1.9069,
+      "prior_variance": 0.326823,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -0.8569,
+      "prior_variance": 0.38916,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 3.5131,
+      "prior_variance": 0.258197,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.1836,
+      "prior_variance": 0.348968,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -2.8976,
+      "prior_variance": 0.248689,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -2.577,
+      "prior_variance": 0.329975,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -4.0957,
+      "prior_variance": 0.567984,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": 0.1986,
+      "prior_variance": 0.296191,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Birmingham",
+      "path": "northamerica/unitedstates/alabama/birmingham",
+      "prior_score": -3.1398,
+      "prior_variance": 0.235561,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -4.0726,
+      "prior_variance": 0.463467,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Brazzaville",
+      "path": "africa/congobrazzaville/brazzaville",
+      "prior_score": -5.9384,
+      "prior_variance": 0.370323,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -5.9202,
+      "prior_variance": 0.445839,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.9577,
+      "prior_variance": 0.278117,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -8.8716,
+      "prior_variance": 0.536051,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -12.4213,
+      "prior_variance": 0.581506,
+      "prior_n": 4
+    }
+  ]
+}

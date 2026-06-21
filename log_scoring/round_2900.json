@@ -1,0 +1,200 @@
+{
+  "round": 2900,
+  "timestamp": "2026-06-13T22:15:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -1.0778,
+      "prior_variance": 0.1935,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.4754,
+      "prior_variance": 0.170006,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Provins",
+      "path": "europe/france/east/champagne/provins",
+      "prior_score": 4.2736,
+      "prior_variance": 0.151206,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Brasilia",
+      "path": "southamerica/brazil/brasilia",
+      "prior_score": 0.9297,
+      "prior_variance": 0.176852,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "\u201cOlinda\u201d",
+      "path": "southamerica/brazil/olinda",
+      "prior_score": 0.7081,
+      "prior_variance": 0.348523,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Basse-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/basseterre",
+      "prior_score": 1.3297,
+      "prior_variance": 0.149499,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 2.4812,
+      "prior_variance": 0.142356,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 2.6267,
+      "prior_variance": 0.132165,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": 0.9651,
+      "prior_variance": 0.174219,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.1861,
+      "prior_variance": 0.139015,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -0.2203,
+      "prior_variance": 0.190367,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.7286,
+      "prior_variance": 0.137001,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Virginia Beach",
+      "path": "northamerica/unitedstates/virginia/virginiabeach",
+      "prior_score": 1.2987,
+      "prior_variance": 0.135643,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.2887,
+      "prior_variance": 0.175415,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.8228,
+      "prior_variance": 0.236667,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 2.6525,
+      "prior_variance": 0.154107,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Guadalajara",
+      "path": "europe/spain/la_mancha/guadalajara",
+      "prior_score": -0.684,
+      "prior_variance": 0.133356,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.9975,
+      "prior_variance": 0.151088,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -1.3714,
+      "prior_variance": 0.147295,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "McCloud",
+      "path": "northamerica/unitedstates/california/shastacascade/mccloud",
+      "prior_score": -2.3902,
+      "prior_variance": 0.138394,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Kaiserslautern",
+      "path": "europe/germany/rhinelandpalatinate/kaiserslautern",
+      "prior_score": -2.5668,
+      "prior_variance": 0.160189,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Bojentsi",
+      "path": "europe/bulgaria/bojencite",
+      "prior_score": -0.477,
+      "prior_variance": 0.135973,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Tonawanda",
+      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
+      "prior_score": -5.9857,
+      "prior_variance": 0.160869,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Broccostella",
+      "path": "europe/italy/lazio/broccostella",
+      "prior_score": -3.7383,
+      "prior_variance": 0.195441,
+      "prior_n": 9
+    }
+  ]
+}

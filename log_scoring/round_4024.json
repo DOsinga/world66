@@ -1,0 +1,200 @@
+{
+  "round": 4024,
+  "timestamp": "2026-06-13T23:37:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_score": 13.4228,
+      "prior_variance": 0.890099,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "St. John",
+      "path": "northamerica/thecaribbean/virginislands/stjohn",
+      "prior_score": 6.9229,
+      "prior_variance": 0.12497,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 5.2289,
+      "prior_variance": 0.139681,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kolkata",
+      "path": "asia/india/kolkata",
+      "prior_score": 2.9888,
+      "prior_variance": 0.102062,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/xalapa",
+      "prior_score": 0.3392,
+      "prior_variance": 0.095933,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 3.0416,
+      "prior_variance": 0.109299,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Livorno",
+      "path": "europe/italy/tuscany/livorno",
+      "prior_score": 0.8728,
+      "prior_variance": 0.116404,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.7831,
+      "prior_variance": 0.097044,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.9788,
+      "prior_variance": 0.097981,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.2718,
+      "prior_variance": 0.102128,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Khajjiar",
+      "path": "asia/india/himachalpradesh/khajjiar",
+      "prior_score": 2.1966,
+      "prior_variance": 0.104459,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.807,
+      "prior_variance": 0.10194,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 0.8299,
+      "prior_variance": 0.102287,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": 0.285,
+      "prior_variance": 0.110448,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.2443,
+      "prior_variance": 0.116092,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.8225,
+      "prior_variance": 0.116198,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": -0.0481,
+      "prior_variance": 0.101807,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -1.03,
+      "prior_variance": 0.107956,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.1899,
+      "prior_variance": 0.100638,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Arroyo de la Miel",
+      "path": "europe/spain/andalucia/arroyodelamiel",
+      "prior_score": -1.0653,
+      "prior_variance": 0.110691,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -0.6471,
+      "prior_variance": 0.103678,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -2.6083,
+      "prior_variance": 0.109166,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -3.287,
+      "prior_variance": 0.114987,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -5.7677,
+      "prior_variance": 0.151926,
+      "prior_n": 13
+    }
+  ]
+}

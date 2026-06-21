@@ -1,0 +1,200 @@
+{
+  "round": 1558,
+  "timestamp": "2026-06-13T20:37:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 6.1111,
+      "prior_variance": 0.276423,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Einsiedeln",
+      "path": "europe/switzerland/einsiedeln",
+      "prior_score": 2.4329,
+      "prior_variance": 0.298704,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.993,
+      "prior_variance": 0.324902,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga",
+      "prior_score": 2.1575,
+      "prior_variance": 0.345703,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 0.8578,
+      "prior_variance": 0.300652,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 1.1113,
+      "prior_variance": 0.259134,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 0.4591,
+      "prior_variance": 0.324401,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.3524,
+      "prior_variance": 0.26172,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 0.4541,
+      "prior_variance": 0.392813,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.4223,
+      "prior_variance": 0.248346,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 2.7054,
+      "prior_variance": 0.27207,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Royal Bardia National Park",
+      "path": "asia/nepal/royal_bardia_national_park",
+      "prior_score": 3.3671,
+      "prior_variance": 0.249546,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.4372,
+      "prior_variance": 0.337946,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": 0.1563,
+      "prior_variance": 0.263743,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Ezulwini Valley",
+      "path": "africa/swaziland/ezulwinivalley",
+      "prior_score": -0.7669,
+      "prior_variance": 0.264364,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -4.5512,
+      "prior_variance": 0.285888,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -1.6096,
+      "prior_variance": 0.251529,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": -1.5641,
+      "prior_variance": 0.33804,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -1.7144,
+      "prior_variance": 0.302524,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Raahe",
+      "path": "europe/finland/raahe",
+      "prior_score": -3.7245,
+      "prior_variance": 0.334072,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -10.1117,
+      "prior_variance": 1.700603,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -11.3885,
+      "prior_variance": 0.629351,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_score": -10.9038,
+      "prior_variance": 0.700534,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -12.4626,
+      "prior_variance": 0.41048,
+      "prior_n": 5
+    }
+  ]
+}

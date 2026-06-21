@@ -1,0 +1,200 @@
+{
+  "round": 1835,
+  "timestamp": "2026-06-13T20:55:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -1.3396,
+      "prior_variance": 0.219661,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -2.4211,
+      "prior_variance": 0.205432,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.2598,
+      "prior_variance": 0.211786,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.0502,
+      "prior_variance": 0.223078,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Karak",
+      "path": "asia/jordan/karak",
+      "prior_score": -0.1253,
+      "prior_variance": 0.23945,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Jammu",
+      "path": "asia/india/jammuandkashmir/jammu",
+      "prior_score": -0.9626,
+      "prior_variance": 0.203102,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": -0.6447,
+      "prior_variance": 0.240453,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.7986,
+      "prior_variance": 0.396338,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Taiyuan",
+      "path": "asia/china/shanxiprovince/taiyuan",
+      "prior_score": -2.7456,
+      "prior_variance": 0.208851,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Putian",
+      "path": "asia/china/fujianprovince/putian",
+      "prior_score": -4.7126,
+      "prior_variance": 0.291648,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": -0.39,
+      "prior_variance": 0.232825,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Borongan",
+      "path": "asia/philippines/samarisland/borongan",
+      "prior_score": -4.4477,
+      "prior_variance": 0.223887,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -3.9883,
+      "prior_variance": 0.206944,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -4.4099,
+      "prior_variance": 0.268907,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "May Pen",
+      "path": "northamerica/jamaica/maypen",
+      "prior_score": -4.6442,
+      "prior_variance": 0.308093,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -6.0018,
+      "prior_variance": 0.353102,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -5.3454,
+      "prior_variance": 0.247776,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -4.8449,
+      "prior_variance": 0.195883,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "La Paz Centro",
+      "path": "northamerica/nicaragua/la_paz_centro",
+      "prior_score": -5.2478,
+      "prior_variance": 0.326371,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -5.4387,
+      "prior_variance": 0.263328,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Yuzhou",
+      "path": "asia/china/henan_province/yuzhou",
+      "prior_score": -5.8583,
+      "prior_variance": 0.298412,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -8.4001,
+      "prior_variance": 0.5442,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -9.5793,
+      "prior_variance": 0.638341,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Berb\u00e9rati",
+      "path": "africa/centralafricanrepublic/berberati",
+      "prior_score": -11.2335,
+      "prior_variance": 0.484389,
+      "prior_n": 5
+    }
+  ]
+}

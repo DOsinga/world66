@@ -1,0 +1,200 @@
+{
+  "round": 3219,
+  "timestamp": "2026-06-13T22:37:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 0.3834,
+      "prior_variance": 0.182847,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.2548,
+      "prior_variance": 0.135031,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Tsilivi",
+      "path": "europe/greece/zakinthos/tsilivi",
+      "prior_score": 3.3272,
+      "prior_variance": 0.142125,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Kelowna",
+      "path": "northamerica/canada/britishcolumbia/kelowna",
+      "prior_score": 2.2198,
+      "prior_variance": 0.151813,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.1626,
+      "prior_variance": 0.132253,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Praia do Forte",
+      "path": "southamerica/brazil/praia_do_forte",
+      "prior_score": 2.2218,
+      "prior_variance": 0.13361,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -0.4146,
+      "prior_variance": 0.123041,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.3644,
+      "prior_variance": 0.122443,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.753,
+      "prior_variance": 0.135401,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Sukarara",
+      "path": "asia/indonesia/lombok/sukarara",
+      "prior_score": -1.4217,
+      "prior_variance": 0.116457,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/buena_park",
+      "prior_score": -2.7884,
+      "prior_variance": 0.149718,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.3642,
+      "prior_variance": 0.115194,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.7619,
+      "prior_variance": 0.127194,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -2.0414,
+      "prior_variance": 0.156986,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/northcarolina/durham",
+      "prior_score": -1.6396,
+      "prior_variance": 0.152618,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -0.8322,
+      "prior_variance": 0.122994,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.7338,
+      "prior_variance": 0.130873,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -4.0672,
+      "prior_variance": 0.157397,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -4.2821,
+      "prior_variance": 0.166154,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -2.8143,
+      "prior_variance": 0.130437,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -1.4397,
+      "prior_variance": 0.126708,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.8143,
+      "prior_variance": 0.15015,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -5.511,
+      "prior_variance": 0.185087,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.1004,
+      "prior_variance": 0.204803,
+      "prior_n": 10
+    }
+  ]
+}

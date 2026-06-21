@@ -1,0 +1,200 @@
+{
+  "round": 756,
+  "timestamp": "2026-06-13T19:52:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/south_island/otago/milford_sound",
+      "prior_score": 16.78,
+      "prior_variance": 6.50729,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 14.1347,
+      "prior_variance": 1.675351,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 11.5432,
+      "prior_variance": 0.919932,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Virgin Gorda",
+      "path": "northamerica/britishvirginislands/virgingorda",
+      "prior_score": 12.9014,
+      "prior_variance": 1.292069,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 10.8518,
+      "prior_variance": 1.312957,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 11.1742,
+      "prior_variance": 1.89214,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 12.2006,
+      "prior_variance": 1.037481,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Taketomi Island",
+      "path": "asia/japan/ryukyuislands/taketomiisland",
+      "prior_score": 11.6364,
+      "prior_variance": 1.5931,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tobago",
+      "path": "northamerica/trinidadandtobago/tobago",
+      "prior_score": 9.7041,
+      "prior_variance": 0.731957,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 11.413,
+      "prior_variance": 1.502105,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 10.1213,
+      "prior_variance": 1.515156,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 11.0875,
+      "prior_variance": 2.137335,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 10.8265,
+      "prior_variance": 1.21795,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 8.9238,
+      "prior_variance": 1.717298,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 14.6929,
+      "prior_variance": 6.862142,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Tours",
+      "path": "europe/france/centre/loirevalley/tours",
+      "prior_score": 9.7808,
+      "prior_variance": 1.496154,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 10.9785,
+      "prior_variance": 1.070196,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 12.6745,
+      "prior_variance": 2.298572,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Mount Tai",
+      "path": "asia/china/shandong_province/mount_tai",
+      "prior_score": 10.4691,
+      "prior_variance": 1.253284,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Funchal",
+      "path": "europe/portugal/funchal",
+      "prior_score": 12.3436,
+      "prior_variance": 1.983176,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 9.6449,
+      "prior_variance": 1.147815,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Asolo",
+      "path": "europe/italy/veneto/asolo",
+      "prior_score": 10.0668,
+      "prior_variance": 0.88641,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 8.7849,
+      "prior_variance": 1.179677,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Caceres",
+      "path": "europe/spain/extremadura/caceres",
+      "prior_score": 10.9077,
+      "prior_variance": 2.062973,
+      "prior_n": 2
+    }
+  ]
+}

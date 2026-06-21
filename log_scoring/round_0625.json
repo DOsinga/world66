@@ -1,0 +1,200 @@
+{
+  "round": 625,
+  "timestamp": "2026-06-13T19:45:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Odessa",
+      "path": "europe/ukraine/odessa",
+      "prior_score": -0.2919,
+      "prior_variance": 1.023365,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": -1.4399,
+      "prior_variance": 0.692726,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Kingston",
+      "path": "northamerica/jamaica/kingston",
+      "prior_score": 1.2916,
+      "prior_variance": 0.713646,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.748,
+      "prior_variance": 0.602324,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": 0.7424,
+      "prior_variance": 0.807659,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 0.7291,
+      "prior_variance": 0.841975,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 0.9792,
+      "prior_variance": 0.626466,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.9252,
+      "prior_variance": 0.727186,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 1.9064,
+      "prior_variance": 0.848914,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "San Vito",
+      "path": "northamerica/costarica/san_vito",
+      "prior_score": -0.0893,
+      "prior_variance": 0.998701,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": 0.3378,
+      "prior_variance": 0.742944,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.2042,
+      "prior_variance": 0.674904,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 1.8167,
+      "prior_variance": 0.733797,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Barnstaple",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple",
+      "prior_score": -1.0804,
+      "prior_variance": 0.668878,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 2.0022,
+      "prior_variance": 0.669586,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": 0.8166,
+      "prior_variance": 0.908807,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -2.2344,
+      "prior_variance": 0.78213,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Schleswig",
+      "path": "europe/germany/schleswigholstein/schleswig",
+      "prior_score": -1.1636,
+      "prior_variance": 1.075158,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.919,
+      "prior_variance": 1.105323,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": 0.6272,
+      "prior_variance": 0.645004,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Sonora",
+      "path": "northamerica/mexico/sonora",
+      "prior_score": -2.106,
+      "prior_variance": 0.771427,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -0.577,
+      "prior_variance": 0.796984,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -1.0118,
+      "prior_variance": 1.425564,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.608,
+      "prior_variance": 0.66784,
+      "prior_n": 3
+    }
+  ]
+}

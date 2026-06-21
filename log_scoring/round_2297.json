@@ -1,0 +1,200 @@
+{
+  "round": 2297,
+  "timestamp": "2026-06-13T21:32:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 11.0066,
+      "prior_variance": 0.854474,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 5.9743,
+      "prior_variance": 0.214675,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 6.0229,
+      "prior_variance": 0.212722,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 5.8428,
+      "prior_variance": 0.21247,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 4.0741,
+      "prior_variance": 0.23739,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 4.1877,
+      "prior_variance": 0.245681,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 1.4454,
+      "prior_variance": 0.164238,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 0.5799,
+      "prior_variance": 0.207935,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 2.8301,
+      "prior_variance": 0.241174,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Lake Tanganyika",
+      "path": "africa/tanzania/laketanganyika",
+      "prior_score": 1.3147,
+      "prior_variance": 0.182234,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.5215,
+      "prior_variance": 0.162392,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.3518,
+      "prior_variance": 0.191488,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.6737,
+      "prior_variance": 0.163752,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ruili",
+      "path": "asia/china/yunnanprovince/ruili",
+      "prior_score": -3.1868,
+      "prior_variance": 0.192569,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Kenilworth",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/kenilworth",
+      "prior_score": -0.2822,
+      "prior_variance": 0.207519,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -2.2476,
+      "prior_variance": 0.173153,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.4974,
+      "prior_variance": 0.173641,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.4502,
+      "prior_variance": 0.182408,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_score": -4.3955,
+      "prior_variance": 0.175638,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Maseru",
+      "path": "africa/lesotho/maseru",
+      "prior_score": -4.0578,
+      "prior_variance": 0.221572,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -5.0829,
+      "prior_variance": 0.281162,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -4.7796,
+      "prior_variance": 0.220804,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Visalia",
+      "path": "northamerica/unitedstates/california/centralvalley/visalia",
+      "prior_score": -4.9381,
+      "prior_variance": 0.217319,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Tjuchem",
+      "path": "europe/netherlands/tjuchum",
+      "prior_score": -6.6123,
+      "prior_variance": 0.330684,
+      "prior_n": 7
+    }
+  ]
+}

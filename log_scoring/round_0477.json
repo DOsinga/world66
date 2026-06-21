@@ -1,0 +1,200 @@
+{
+  "round": 477,
+  "timestamp": "2026-06-13T19:37:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pampatar",
+      "path": "southamerica/venezuela/margaritaisland/pampatar",
+      "prior_score": -6.3346,
+      "prior_variance": 2.524623,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": -4.8764,
+      "prior_variance": 1.439909,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": -4.7876,
+      "prior_variance": 1.581333,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Saint-\u00c9tienne",
+      "path": "europe/france/alpes/stetienne",
+      "prior_score": -5.1319,
+      "prior_variance": 1.564481,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -4.6044,
+      "prior_variance": 1.733413,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Nieuwpoort",
+      "path": "europe/belgium/nieuwpoort",
+      "prior_score": -3.3348,
+      "prior_variance": 1.732269,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -5.5799,
+      "prior_variance": 1.390551,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Eastport",
+      "path": "northamerica/unitedstates/maine/eastport",
+      "prior_score": -5.515,
+      "prior_variance": 1.697746,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -4.7965,
+      "prior_variance": 1.705239,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -6.4776,
+      "prior_variance": 1.711675,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -4.7777,
+      "prior_variance": 2.379132,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Sheboygan",
+      "path": "northamerica/unitedstates/wisconsin/sheboygan",
+      "prior_score": -6.3233,
+      "prior_variance": 5.301242,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -5.5982,
+      "prior_variance": 1.593661,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -6.1163,
+      "prior_variance": 1.324414,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -7.9546,
+      "prior_variance": 1.324004,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -7.5642,
+      "prior_variance": 2.242288,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -6.9687,
+      "prior_variance": 1.28945,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Cheboksary",
+      "path": "europe/russia/chuvashia/cheboksary",
+      "prior_score": -7.808,
+      "prior_variance": 3.570111,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Woldingham",
+      "path": "europe/unitedkingdom/england/south_east/woldingham",
+      "prior_score": -8.726,
+      "prior_variance": 10.337657,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -6.2239,
+      "prior_variance": 2.302213,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Chittagong",
+      "path": "asia/bangladesh/chittagong",
+      "prior_score": -6.8906,
+      "prior_variance": 3.984154,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -9.6695,
+      "prior_variance": 4.846798,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -10.2301,
+      "prior_variance": 3.730206,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Agua Prieta",
+      "path": "northamerica/mexico/aguaprieta",
+      "prior_score": -13.0028,
+      "prior_variance": 1.936815,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1803,
+  "timestamp": "2026-06-13T20:53:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 6.1714,
+      "prior_variance": 0.315346,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Abu Dhabi",
+      "path": "asia/unitedarabemirates/abudhabi",
+      "prior_score": 4.8457,
+      "prior_variance": 0.324719,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 8.013,
+      "prior_variance": 0.837661,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Chiavari",
+      "path": "europe/italy/liguria/italianriviera/tigullio/chiavari",
+      "prior_score": 3.2915,
+      "prior_variance": 0.24846,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2767,
+      "prior_variance": 0.199281,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Shillong",
+      "path": "asia/india/meghalaya/shillong",
+      "prior_score": 1.9052,
+      "prior_variance": 0.222705,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.0291,
+      "prior_variance": 0.259648,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Vlore",
+      "path": "europe/albania/vlore",
+      "prior_score": 1.7834,
+      "prior_variance": 0.264787,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 1.4881,
+      "prior_variance": 0.300593,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 2.5494,
+      "prior_variance": 0.233995,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.6718,
+      "prior_variance": 0.252299,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Hjo",
+      "path": "europe/sweden/hjo",
+      "prior_score": 0.0613,
+      "prior_variance": 0.214949,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": -0.1136,
+      "prior_variance": 0.222877,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 1.0604,
+      "prior_variance": 0.278799,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_score": -0.9351,
+      "prior_variance": 0.211005,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Oceanside",
+      "path": "northamerica/unitedstates/california/oceanside",
+      "prior_score": -0.6,
+      "prior_variance": 0.275879,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.8012,
+      "prior_variance": 0.22154,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Bartlesville",
+      "path": "northamerica/unitedstates/oklahoma/bartlesville",
+      "prior_score": -4.626,
+      "prior_variance": 0.234969,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Indialantic",
+      "path": "northamerica/unitedstates/florida/indialantic",
+      "prior_score": -3.532,
+      "prior_variance": 0.233313,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Karelian Isthmus",
+      "path": "europe/russia/karelian_isthmus",
+      "prior_score": -3.2497,
+      "prior_variance": 0.283138,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -5.0262,
+      "prior_variance": 0.254328,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -7.875,
+      "prior_variance": 0.380032,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.7565,
+      "prior_variance": 0.394867,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -7.1714,
+      "prior_variance": 0.294898,
+      "prior_n": 5
+    }
+  ]
+}

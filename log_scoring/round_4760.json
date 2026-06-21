@@ -1,0 +1,200 @@
+{
+  "round": 4760,
+  "timestamp": "2026-06-14T00:39:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 19.3008,
+      "prior_variance": 1.366915,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 7.1863,
+      "prior_variance": 0.184058,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "La Rochelle",
+      "path": "europe/france/aquitaine/larochelle",
+      "prior_score": 5.471,
+      "prior_variance": 0.119111,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Tel Aviv",
+      "path": "asia/israel/telaviv",
+      "prior_score": 5.1937,
+      "prior_variance": 0.139218,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.5479,
+      "prior_variance": 0.084315,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 4.2585,
+      "prior_variance": 0.091849,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Tabarka",
+      "path": "africa/tunisia/tabarka",
+      "prior_score": 0.154,
+      "prior_variance": 0.088838,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.3285,
+      "prior_variance": 0.093966,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Lucignano",
+      "path": "europe/italy/tuscany/lucignano",
+      "prior_score": 0.0417,
+      "prior_variance": 0.310706,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/avebury",
+      "prior_score": 3.4768,
+      "prior_variance": 0.093788,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 2.1993,
+      "prior_variance": 0.087805,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.2826,
+      "prior_variance": 0.085106,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Prizren",
+      "path": "europe/serbia/kosovoprovince/prizren",
+      "prior_score": 1.3378,
+      "prior_variance": 0.091486,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -0.1691,
+      "prior_variance": 0.08147,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": -0.2673,
+      "prior_variance": 0.084343,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": -0.871,
+      "prior_variance": 0.094656,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Georgetown",
+      "path": "southamerica/guyana/georgetown",
+      "prior_score": -2.7387,
+      "prior_variance": 0.114891,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -0.6026,
+      "prior_variance": 0.110725,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.0631,
+      "prior_variance": 0.102936,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.518,
+      "prior_variance": 0.086538,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Manti",
+      "path": "northamerica/unitedstates/utah/manti",
+      "prior_score": -2.9424,
+      "prior_variance": 0.089947,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Buea",
+      "path": "africa/cameroon/buea",
+      "prior_score": -3.4721,
+      "prior_variance": 0.098727,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -5.2327,
+      "prior_variance": 0.110867,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -4.9702,
+      "prior_variance": 0.110681,
+      "prior_n": 16
+    }
+  ]
+}

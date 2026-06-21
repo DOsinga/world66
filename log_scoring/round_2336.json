@@ -1,0 +1,200 @@
+{
+  "round": 2336,
+  "timestamp": "2026-06-13T21:34:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Canggu",
+      "path": "asia/indonesia/bali/canggu",
+      "prior_score": 7.2158,
+      "prior_variance": 0.265461,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Dijon",
+      "path": "europe/france/east/burgundy/dijon",
+      "prior_score": 4.1635,
+      "prior_variance": 0.219373,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Plovdiv",
+      "path": "europe/bulgaria/plovdiv",
+      "prior_score": 4.9167,
+      "prior_variance": 0.211695,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Aosta",
+      "path": "europe/italy/valledaosta/aosta",
+      "prior_score": 4.5586,
+      "prior_variance": 0.200524,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.815,
+      "prior_variance": 0.19237,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Hautvillers",
+      "path": "europe/france/east/champagne/hautvillers",
+      "prior_score": 2.2619,
+      "prior_variance": 0.2268,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 1.8763,
+      "prior_variance": 0.180641,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 1.9858,
+      "prior_variance": 0.302475,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 2.0058,
+      "prior_variance": 0.167645,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.9921,
+      "prior_variance": 0.200474,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -0.5015,
+      "prior_variance": 0.160496,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.1192,
+      "prior_variance": 0.186738,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 0.9266,
+      "prior_variance": 0.187227,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.1684,
+      "prior_variance": 0.171665,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Cosenza",
+      "path": "europe/italy/calabria/cosenza",
+      "prior_score": 0.9492,
+      "prior_variance": 0.186543,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": -1.5353,
+      "prior_variance": 0.260202,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 1.0375,
+      "prior_variance": 0.185187,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 1.1299,
+      "prior_variance": 0.166115,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Skerries",
+      "path": "europe/ireland/skerries",
+      "prior_score": -0.4016,
+      "prior_variance": 0.158381,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Vilafranca del Bierzo",
+      "path": "europe/spain/galicia/vilafranca_del_bierzo",
+      "prior_score": -0.2571,
+      "prior_variance": 0.167707,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -1.6474,
+      "prior_variance": 0.190392,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.5177,
+      "prior_variance": 0.189012,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -4.1686,
+      "prior_variance": 0.191649,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.3916,
+      "prior_variance": 0.271555,
+      "prior_n": 7
+    }
+  ]
+}

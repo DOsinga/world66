@@ -1,0 +1,200 @@
+{
+  "round": 356,
+  "timestamp": "2026-06-13T19:31:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 1.7974,
+      "prior_variance": 1.996038,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 0.9753,
+      "prior_variance": 1.673676,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 6.8741,
+      "prior_variance": 1.681493,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 5.6645,
+      "prior_variance": 2.447355,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": 0.0012,
+      "prior_variance": 1.647803,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Rainbow Beach",
+      "path": "australiaandpacific/australia/queensland/rainbow_beach",
+      "prior_score": 4.1185,
+      "prior_variance": 1.757887,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 6.0347,
+      "prior_variance": 2.750315,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 0.5095,
+      "prior_variance": 1.740453,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": 3.3093,
+      "prior_variance": 2.157191,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 2.9134,
+      "prior_variance": 1.339768,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": 2.1878,
+      "prior_variance": 1.370967,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.8104,
+      "prior_variance": 1.68166,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -6.2269,
+      "prior_variance": 2.283231,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Anamur",
+      "path": "asia/turkey/anamur",
+      "prior_score": -0.644,
+      "prior_variance": 1.401953,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -0.9997,
+      "prior_variance": 1.764923,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -3.7361,
+      "prior_variance": 3.709742,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 5.3265,
+      "prior_variance": 2.040585,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Phuntsholing",
+      "path": "asia/bhutan/phuntsholing",
+      "prior_score": -0.0808,
+      "prior_variance": 1.901214,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -4.1891,
+      "prior_variance": 1.899701,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Schonwald im Schwarzwald",
+      "path": "europe/germany/badenwrttemberg/schonwald_im_schwarzwald",
+      "prior_score": -6.8237,
+      "prior_variance": 1.832186,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -7.3584,
+      "prior_variance": 3.350579,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -5.398,
+      "prior_variance": 2.570323,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -3.9216,
+      "prior_variance": 1.419604,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -4.4003,
+      "prior_variance": 1.852027,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 544,
+  "timestamp": "2026-06-13T19:41:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Songan",
+      "path": "asia/indonesia/bali/songan",
+      "prior_score": 2.3517,
+      "prior_variance": 1.465472,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.8555,
+      "prior_variance": 1.682523,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 5.7621,
+      "prior_variance": 1.934792,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 0.7623,
+      "prior_variance": 1.351842,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Andong",
+      "path": "asia/southkorea/andong",
+      "prior_score": 3.4356,
+      "prior_variance": 2.286063,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 5.2055,
+      "prior_variance": 0.807532,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Pelling",
+      "path": "asia/india/sikkim/pelling",
+      "prior_score": 5.9222,
+      "prior_variance": 1.009656,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.3937,
+      "prior_variance": 2.020479,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 5.0619,
+      "prior_variance": 0.904369,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": 3.9853,
+      "prior_variance": 2.367392,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 3.3719,
+      "prior_variance": 0.68225,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 3.3153,
+      "prior_variance": 0.809,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.9052,
+      "prior_variance": 1.909723,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 3.862,
+      "prior_variance": 1.730029,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 3.5674,
+      "prior_variance": 1.739856,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Palmi",
+      "path": "europe/italy/calabria/palmi",
+      "prior_score": 1.4266,
+      "prior_variance": 1.465007,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Ithaca",
+      "path": "northamerica/unitedstates/newyorkstate/ithaca_tompkins_c",
+      "prior_score": 1.528,
+      "prior_variance": 1.209948,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.1362,
+      "prior_variance": 1.469269,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Skala Kalloni",
+      "path": "europe/greece/lesbos/skalakalloni",
+      "prior_score": 0.7634,
+      "prior_variance": 0.785543,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": 0.6735,
+      "prior_variance": 1.698071,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Yaremche",
+      "path": "europe/ukraine/yaremche",
+      "prior_score": 2.059,
+      "prior_variance": 0.772447,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Les Crosets",
+      "path": "europe/switzerland/lescrosets",
+      "prior_score": 3.8737,
+      "prior_variance": 1.38873,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 3.4458,
+      "prior_variance": 1.415519,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": 2.1083,
+      "prior_variance": 1.550618,
+      "prior_n": 1
+    }
+  ]
+}

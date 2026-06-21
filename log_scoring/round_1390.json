@@ -1,0 +1,200 @@
+{
+  "round": 1390,
+  "timestamp": "2026-06-13T20:27:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 9.2225,
+      "prior_variance": 0.441406,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 9.8946,
+      "prior_variance": 0.408473,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -6.7228,
+      "prior_variance": 0.398136,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.5664,
+      "prior_variance": 0.311982,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.476,
+      "prior_variance": 0.310637,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 0.462,
+      "prior_variance": 0.259736,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 4.4042,
+      "prior_variance": 0.363436,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Basse-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/basseterre",
+      "prior_score": 0.4955,
+      "prior_variance": 0.331167,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 0.4561,
+      "prior_variance": 0.30397,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -1.2385,
+      "prior_variance": 0.4685,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.8653,
+      "prior_variance": 0.251432,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Crieff",
+      "path": "europe/unitedkingdom/scotland/crieff",
+      "prior_score": -0.0805,
+      "prior_variance": 0.332525,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.8522,
+      "prior_variance": 0.317193,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 1.0804,
+      "prior_variance": 0.318999,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Tamberma",
+      "path": "africa/togo/tamberma",
+      "prior_score": -2.7661,
+      "prior_variance": 0.310866,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Canoa",
+      "path": "southamerica/ecuador/canoa",
+      "prior_score": -1.1324,
+      "prior_variance": 0.305703,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Altay Prefecture",
+      "path": "asia/china/xinjiangprovince/altayprefecture",
+      "prior_score": -1.6341,
+      "prior_variance": 0.471172,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Bloemendaal",
+      "path": "europe/netherlands/bloemendaal",
+      "prior_score": -1.371,
+      "prior_variance": 0.330784,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -0.5045,
+      "prior_variance": 0.272973,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -6.4724,
+      "prior_variance": 0.394243,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -3.1023,
+      "prior_variance": 0.282795,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -10.2264,
+      "prior_variance": 0.466411,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Jalandhar",
+      "path": "asia/india/punjab/jalandhar",
+      "prior_score": -5.0261,
+      "prior_variance": 0.328861,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -7.7222,
+      "prior_variance": 0.309634,
+      "prior_n": 4
+    }
+  ]
+}

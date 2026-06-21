@@ -1,0 +1,200 @@
+{
+  "round": 503,
+  "timestamp": "2026-06-13T19:39:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lac Abbe",
+      "path": "africa/djibouti/lakeabbe",
+      "prior_score": -1.0958,
+      "prior_variance": 1.773293,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -3.7796,
+      "prior_variance": 1.518674,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": -2.1089,
+      "prior_variance": 1.575399,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Kisumu",
+      "path": "africa/kenya/westernkenya/kisumu",
+      "prior_score": -4.1837,
+      "prior_variance": 1.255968,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Bijapur",
+      "path": "asia/india/karnataka/bijapur",
+      "prior_score": -4.4128,
+      "prior_variance": 1.678229,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -2.4376,
+      "prior_variance": 1.729666,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -1.7655,
+      "prior_variance": 1.579773,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Barra de Tijuca",
+      "path": "southamerica/brazil/barra_de_tijuca",
+      "prior_score": -3.9254,
+      "prior_variance": 1.865782,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Torquay",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/torquay",
+      "prior_score": -0.3215,
+      "prior_variance": 1.467179,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": -1.3398,
+      "prior_variance": 1.393296,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Narragansett",
+      "path": "northamerica/unitedstates/rhodeisland/narragansett",
+      "prior_score": -4.0243,
+      "prior_variance": 1.397554,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Cape Lookout",
+      "path": "northamerica/unitedstates/northcarolina/capelookout",
+      "prior_score": -1.5151,
+      "prior_variance": 1.774114,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -4.0163,
+      "prior_variance": 1.472286,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -4.7571,
+      "prior_variance": 1.773986,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Saranac Lake",
+      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
+      "prior_score": -2.8446,
+      "prior_variance": 1.530428,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_score": -2.3252,
+      "prior_variance": 2.594758,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -1.516,
+      "prior_variance": 1.628464,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Nexo",
+      "path": "europe/denmark/nexo",
+      "prior_score": -2.2622,
+      "prior_variance": 1.625212,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Logan",
+      "path": "northamerica/unitedstates/utah/logan",
+      "prior_score": -3.563,
+      "prior_variance": 1.588617,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -4.2915,
+      "prior_variance": 1.842836,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Guatemala City",
+      "path": "northamerica/guatemala/guatemalacity",
+      "prior_score": -4.3941,
+      "prior_variance": 1.376139,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -2.7628,
+      "prior_variance": 1.800638,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Harrow",
+      "path": "europe/unitedkingdom/england/south_east/harrow",
+      "prior_score": -5.689,
+      "prior_variance": 2.131373,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -4.1944,
+      "prior_variance": 1.454975,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1707,
+  "timestamp": "2026-06-13T20:47:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bologna",
+      "path": "europe/italy/emiliaromagna/bologna",
+      "prior_score": 9.3808,
+      "prior_variance": 0.305563,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 8.3869,
+      "prior_variance": 0.427282,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 2.8952,
+      "prior_variance": 0.35048,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -1.0996,
+      "prior_variance": 0.345866,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Buffalo",
+      "path": "northamerica/unitedstates/newyorkstate/buffalo",
+      "prior_score": -2.1611,
+      "prior_variance": 0.274289,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 1.7091,
+      "prior_variance": 0.24292,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_score": -1.1648,
+      "prior_variance": 0.287981,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "\u017dminj",
+      "path": "europe/croatia/zminj",
+      "prior_score": -1.6543,
+      "prior_variance": 0.26531,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -2.2896,
+      "prior_variance": 0.307023,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Deva",
+      "path": "europe/romania/deva",
+      "prior_score": -2.4561,
+      "prior_variance": 0.206128,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.8997,
+      "prior_variance": 0.312923,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.2177,
+      "prior_variance": 0.30139,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -3.5244,
+      "prior_variance": 0.238352,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Palmira",
+      "path": "southamerica/colombia/palmira",
+      "prior_score": -5.5753,
+      "prior_variance": 0.250647,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.9163,
+      "prior_variance": 0.330127,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -4.7619,
+      "prior_variance": 0.257607,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ruili",
+      "path": "asia/china/yunnanprovince/ruili",
+      "prior_score": -3.1963,
+      "prior_variance": 0.276146,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Silvassa",
+      "path": "asia/india/dadraandnagarhaveli/silvassa",
+      "prior_score": -6.2266,
+      "prior_variance": 0.316611,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Benxi",
+      "path": "asia/china/liaoning/benxi",
+      "prior_score": -5.7591,
+      "prior_variance": 0.234668,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Chillicothe",
+      "path": "northamerica/unitedstates/ohio/chillicothe",
+      "prior_score": -4.5811,
+      "prior_variance": 0.321578,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Youngstown",
+      "path": "northamerica/unitedstates/ohio/youngstown",
+      "prior_score": -6.5706,
+      "prior_variance": 0.268381,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Sri Ganganagar",
+      "path": "asia/india/rajasthan/sriganganagar",
+      "prior_score": -7.4757,
+      "prior_variance": 0.422193,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -5.5158,
+      "prior_variance": 0.373439,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.9898,
+      "prior_variance": 0.239825,
+      "prior_n": 5
+    }
+  ]
+}

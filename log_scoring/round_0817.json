@@ -1,0 +1,200 @@
+{
+  "round": 817,
+  "timestamp": "2026-06-13T19:55:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -3.0,
+      "prior_variance": 0.798202,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -3.2567,
+      "prior_variance": 0.619944,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Vernal",
+      "path": "northamerica/unitedstates/utah/vernal",
+      "prior_score": -3.1668,
+      "prior_variance": 0.795184,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -4.0664,
+      "prior_variance": 0.700233,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -2.6699,
+      "prior_variance": 0.708204,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": -4.776,
+      "prior_variance": 1.007758,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Banjarmasin",
+      "path": "asia/indonesia/banjarmasin",
+      "prior_score": -4.2219,
+      "prior_variance": 0.744619,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Tela",
+      "path": "northamerica/honduras/tela",
+      "prior_score": -2.7666,
+      "prior_variance": 0.855645,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -3.1292,
+      "prior_variance": 0.596761,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -3.2789,
+      "prior_variance": 0.637297,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -2.2113,
+      "prior_variance": 0.739063,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ivano-Frankivsk",
+      "path": "europe/ukraine/ivanofrankivsk",
+      "prior_score": -4.3276,
+      "prior_variance": 0.625482,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -3.0233,
+      "prior_variance": 0.614323,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Osorno",
+      "path": "southamerica/chile/osorno",
+      "prior_score": -4.8766,
+      "prior_variance": 1.029035,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Den Helder",
+      "path": "europe/netherlands/denhelder",
+      "prior_score": -3.8531,
+      "prior_variance": 0.769421,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -3.8436,
+      "prior_variance": 0.68114,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zhengzhou",
+      "path": "asia/china/henan_province/zhengzhou",
+      "prior_score": -3.8912,
+      "prior_variance": 0.583932,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -3.0504,
+      "prior_variance": 0.80069,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -3.8856,
+      "prior_variance": 0.65212,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.9734,
+      "prior_variance": 0.417023,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Ansbach",
+      "path": "europe/germany/bavaria/ansbach",
+      "prior_score": -2.7121,
+      "prior_variance": 0.626243,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Mosonmagyar\u00f3v\u00e1r",
+      "path": "europe/hungary/mosonmagyarovar",
+      "prior_score": -5.1487,
+      "prior_variance": 0.466799,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -4.128,
+      "prior_variance": 0.61684,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -4.4652,
+      "prior_variance": 0.674876,
+      "prior_n": 4
+    }
+  ]
+}

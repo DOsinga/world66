@@ -1,0 +1,200 @@
+{
+  "round": 4185,
+  "timestamp": "2026-06-13T23:52:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 10.8475,
+      "prior_variance": 0.312405,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Fernando de Noronha",
+      "path": "southamerica/brazil/fernando_de_noronha",
+      "prior_score": 9.4651,
+      "prior_variance": 0.227428,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.1918,
+      "prior_variance": 0.135661,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 5.6801,
+      "prior_variance": 0.141162,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Salvador",
+      "path": "southamerica/brazil/salvador",
+      "prior_score": 4.9314,
+      "prior_variance": 0.144746,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "White Mountains",
+      "path": "northamerica/unitedstates/newhampshire/whitemountains",
+      "prior_score": 3.9893,
+      "prior_variance": 0.11878,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.1046,
+      "prior_variance": 0.094185,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": 0.1918,
+      "prior_variance": 0.131395,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.0928,
+      "prior_variance": 0.093235,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.8278,
+      "prior_variance": 0.095979,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Killington",
+      "path": "northamerica/unitedstates/vermont/killington",
+      "prior_score": 1.5766,
+      "prior_variance": 0.102387,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 0.1781,
+      "prior_variance": 0.097015,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Khujand",
+      "path": "asia/tajikistan/khojend",
+      "prior_score": -1.894,
+      "prior_variance": 0.111558,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -0.9489,
+      "prior_variance": 0.096495,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.2983,
+      "prior_variance": 0.112802,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Wenzhou",
+      "path": "asia/china/zhejiang/wenzhou",
+      "prior_score": -3.7605,
+      "prior_variance": 0.117967,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Clitheroe",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/clitheroe",
+      "prior_score": -0.9506,
+      "prior_variance": 0.095295,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -3.7352,
+      "prior_variance": 0.108545,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -3.4018,
+      "prior_variance": 0.129088,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -4.6953,
+      "prior_variance": 0.112934,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.5026,
+      "prior_variance": 0.16728,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.3953,
+      "prior_variance": 0.139959,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/missouri/bowling_green",
+      "prior_score": -6.6332,
+      "prior_variance": 0.187165,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.1538,
+      "prior_variance": 0.149098,
+      "prior_n": 13
+    }
+  ]
+}

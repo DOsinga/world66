@@ -1,0 +1,200 @@
+{
+  "round": 2623,
+  "timestamp": "2026-06-13T21:55:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saksun",
+      "path": "europe/faroeislands/streymoy/saksun",
+      "prior_score": 3.941,
+      "prior_variance": 0.215841,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.7944,
+      "prior_variance": 0.1581,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Ithaca",
+      "path": "europe/greece/ithaca",
+      "prior_score": 5.6673,
+      "prior_variance": 0.174458,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 5.098,
+      "prior_variance": 0.202084,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.9223,
+      "prior_variance": 0.161149,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 3.577,
+      "prior_variance": 0.198735,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 3.3073,
+      "prior_variance": 0.144673,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.1272,
+      "prior_variance": 0.171393,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.2629,
+      "prior_variance": 0.22045,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 2.1546,
+      "prior_variance": 0.173008,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.0129,
+      "prior_variance": 0.185356,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": -0.0689,
+      "prior_variance": 0.21302,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga",
+      "prior_score": 1.5482,
+      "prior_variance": 0.192026,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 5.5807,
+      "prior_variance": 0.18494,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 1.9307,
+      "prior_variance": 0.185775,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": -0.5384,
+      "prior_variance": 0.153858,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 1.8558,
+      "prior_variance": 0.152936,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.241,
+      "prior_variance": 0.171047,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 0.359,
+      "prior_variance": 0.200584,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Malia",
+      "path": "europe/greece/crete/malia",
+      "prior_score": 2.2401,
+      "prior_variance": 0.182462,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.6403,
+      "prior_variance": 0.137186,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -2.7942,
+      "prior_variance": 0.191673,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -4.8887,
+      "prior_variance": 0.174489,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.8356,
+      "prior_variance": 0.186246,
+      "prior_n": 8
+    }
+  ]
+}

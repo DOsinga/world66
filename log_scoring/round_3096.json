@@ -1,0 +1,200 @@
+{
+  "round": 3096,
+  "timestamp": "2026-06-13T22:28:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 8.7056,
+      "prior_variance": 0.24573,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 5.9092,
+      "prior_variance": 0.182431,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 5.6161,
+      "prior_variance": 0.174156,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.1563,
+      "prior_variance": 0.150557,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 4.2753,
+      "prior_variance": 0.154612,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Kings Canyon",
+      "path": "northamerica/unitedstates/california/highsierra/kingscanyon",
+      "prior_score": 5.4957,
+      "prior_variance": 0.229395,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.681,
+      "prior_variance": 0.159023,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Shaoxing",
+      "path": "asia/china/zhejiang/shaoxing",
+      "prior_score": -0.0483,
+      "prior_variance": 0.125192,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kuala Terengganu",
+      "path": "asia/malaysia/kuala_terengganu",
+      "prior_score": 0.835,
+      "prior_variance": 0.127293,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.3478,
+      "prior_variance": 0.126529,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.2911,
+      "prior_variance": 0.136017,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 0.4455,
+      "prior_variance": 0.147258,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -3.4639,
+      "prior_variance": 0.192316,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -2.4301,
+      "prior_variance": 0.169457,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -2.4236,
+      "prior_variance": 0.127461,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.5799,
+      "prior_variance": 0.127039,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.6381,
+      "prior_variance": 0.122791,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Hawes and Gayle",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle",
+      "prior_score": -0.2315,
+      "prior_variance": 0.146913,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Spokane",
+      "path": "northamerica/unitedstates/washington/spokane",
+      "prior_score": -1.6333,
+      "prior_variance": 0.133069,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -1.0727,
+      "prior_variance": 0.123287,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": -1.8069,
+      "prior_variance": 0.154467,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -2.9053,
+      "prior_variance": 0.131624,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -3.5683,
+      "prior_variance": 0.186024,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -7.461,
+      "prior_variance": 0.186199,
+      "prior_n": 9
+    }
+  ]
+}

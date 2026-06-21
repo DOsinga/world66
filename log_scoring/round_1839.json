@@ -1,0 +1,200 @@
+{
+  "round": 1839,
+  "timestamp": "2026-06-13T20:56:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hallstatt",
+      "path": "europe/austria/hallstatt",
+      "prior_score": 10.6815,
+      "prior_variance": 0.672222,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 7.6958,
+      "prior_variance": 0.373132,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -1.4265,
+      "prior_variance": 0.200048,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.2075,
+      "prior_variance": 0.231931,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.2982,
+      "prior_variance": 0.263288,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -5.3058,
+      "prior_variance": 0.595786,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -4.3719,
+      "prior_variance": 0.359402,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Villa Serrana",
+      "path": "southamerica/uruguay/villaserrana",
+      "prior_score": -2.2683,
+      "prior_variance": 0.227455,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.2755,
+      "prior_variance": 0.450183,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.5808,
+      "prior_variance": 0.205885,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Karesuando",
+      "path": "europe/sweden/karesuando",
+      "prior_score": -3.1286,
+      "prior_variance": 0.324526,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Saint Croix River",
+      "path": "northamerica/unitedstates/minnesota/saintcroixriver",
+      "prior_score": -2.0651,
+      "prior_variance": 0.209543,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -2.0317,
+      "prior_variance": 0.217105,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -3.4127,
+      "prior_variance": 0.24777,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -5.3202,
+      "prior_variance": 0.380679,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -3.9579,
+      "prior_variance": 0.236904,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Chongzuo",
+      "path": "asia/china/guangxi/chongzuo",
+      "prior_score": -2.6768,
+      "prior_variance": 0.209104,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.8837,
+      "prior_variance": 0.245751,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -4.3889,
+      "prior_variance": 0.247868,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.2467,
+      "prior_variance": 0.250069,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.7028,
+      "prior_variance": 0.269898,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Panev\u0117\u017eys",
+      "path": "europe/lithuania/panevezys",
+      "prior_score": -4.9645,
+      "prior_variance": 0.294728,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Vologda",
+      "path": "europe/russia/vologda_region/vologda",
+      "prior_score": -4.2218,
+      "prior_variance": 0.268603,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -10.4444,
+      "prior_variance": 0.366386,
+      "prior_n": 5
+    }
+  ]
+}

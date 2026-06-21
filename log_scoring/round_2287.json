@@ -1,0 +1,200 @@
+{
+  "round": 2287,
+  "timestamp": "2026-06-13T21:31:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 0.9814,
+      "prior_variance": 0.18053,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 0.8746,
+      "prior_variance": 0.17089,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Gorski Kotar",
+      "path": "europe/croatia/gorski_kotar",
+      "prior_score": 1.6301,
+      "prior_variance": 0.186099,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.4498,
+      "prior_variance": 0.193413,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Wasserbillig",
+      "path": "europe/luxembourg/wasserbillig",
+      "prior_score": -3.2436,
+      "prior_variance": 0.26576,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -4.2577,
+      "prior_variance": 0.209763,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Regina",
+      "path": "northamerica/canada/saskatchewan/regina",
+      "prior_score": -3.3411,
+      "prior_variance": 0.1804,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -4.8648,
+      "prior_variance": 0.220315,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Marietta",
+      "path": "northamerica/unitedstates/georgia/marietta",
+      "prior_score": -3.3585,
+      "prior_variance": 0.188205,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -3.706,
+      "prior_variance": 0.209966,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -7.4186,
+      "prior_variance": 0.414406,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -5.154,
+      "prior_variance": 0.247638,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.8363,
+      "prior_variance": 0.202264,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ankang",
+      "path": "asia/china/shaanxi/ankang",
+      "prior_score": -3.9043,
+      "prior_variance": 0.194836,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Yiwu",
+      "path": "asia/china/zhejiang/yiwu",
+      "prior_score": -4.6809,
+      "prior_variance": 0.326902,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/thecaribbean/haiti/gonaveisland",
+      "prior_score": -5.1229,
+      "prior_variance": 0.173168,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -6.2839,
+      "prior_variance": 0.234281,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.5142,
+      "prior_variance": 0.277642,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Tobruk",
+      "path": "africa/libya/tobruk",
+      "prior_score": -8.0182,
+      "prior_variance": 0.272535,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Kaedi",
+      "path": "africa/mauritania/kaedi",
+      "prior_score": -9.0508,
+      "prior_variance": 0.305446,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Biankouma",
+      "path": "africa/ivorycoast/biankouma",
+      "prior_score": -6.8723,
+      "prior_variance": 0.235533,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -7.9844,
+      "prior_variance": 0.268558,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.2732,
+      "prior_variance": 0.389103,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Sadarak",
+      "path": "europe/azerbaijan/naxcivan/sadarak",
+      "prior_score": -7.4014,
+      "prior_variance": 0.259458,
+      "prior_n": 7
+    }
+  ]
+}

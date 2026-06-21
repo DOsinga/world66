@@ -1,0 +1,200 @@
+{
+  "round": 4284,
+  "timestamp": "2026-06-14T00:00:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 9.1786,
+      "prior_variance": 0.181219,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Samarkand",
+      "path": "asia/uzbekistan/samarkand",
+      "prior_score": 7.2538,
+      "prior_variance": 0.140439,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Bath",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/bath",
+      "prior_score": 5.5021,
+      "prior_variance": 0.135117,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 0.4849,
+      "prior_variance": 0.10688,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sabang Island",
+      "path": "asia/indonesia/aceh/sabang_island",
+      "prior_score": 1.1029,
+      "prior_variance": 0.105199,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 2.894,
+      "prior_variance": 0.092948,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Ajmer",
+      "path": "asia/india/rajasthan/ajmer",
+      "prior_score": 1.5824,
+      "prior_variance": 0.102004,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -2.1753,
+      "prior_variance": 0.146799,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.6747,
+      "prior_variance": 0.098344,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.0582,
+      "prior_variance": 0.098796,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.8728,
+      "prior_variance": 0.131289,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -1.011,
+      "prior_variance": 0.114629,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet",
+      "prior_score": -0.4059,
+      "prior_variance": 0.094856,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.7123,
+      "prior_variance": 0.096891,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "La Palma",
+      "path": "northamerica/elsalvador/lapalma",
+      "prior_score": -3.3001,
+      "prior_variance": 0.124941,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Ver\u00edn",
+      "path": "europe/spain/galicia/vern",
+      "prior_score": -2.2845,
+      "prior_variance": 0.110142,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Qingyang",
+      "path": "asia/china/gansu/qingyang",
+      "prior_score": -4.0953,
+      "prior_variance": 0.101186,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.4579,
+      "prior_variance": 0.103256,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.2179,
+      "prior_variance": 0.124217,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -1.7347,
+      "prior_variance": 0.099378,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.5621,
+      "prior_variance": 0.095592,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -1.5296,
+      "prior_variance": 0.091275,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.4737,
+      "prior_variance": 0.132651,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.3618,
+      "prior_variance": 0.155135,
+      "prior_n": 14
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1354,
+  "timestamp": "2026-06-13T20:25:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 7.29,
+      "prior_variance": 0.337368,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 0.4312,
+      "prior_variance": 0.553949,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.3136,
+      "prior_variance": 0.385521,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Mysore",
+      "path": "asia/india/karnataka/mysore",
+      "prior_score": 7.3917,
+      "prior_variance": 0.354661,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.384,
+      "prior_variance": 0.363894,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.4299,
+      "prior_variance": 0.395383,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 3.5715,
+      "prior_variance": 0.350369,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 2.9451,
+      "prior_variance": 0.314711,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Roses",
+      "path": "europe/spain/catalonia/roses",
+      "prior_score": 3.7365,
+      "prior_variance": 0.344418,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.1654,
+      "prior_variance": 0.305257,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 4.5784,
+      "prior_variance": 0.386434,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 1.3266,
+      "prior_variance": 0.455082,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.0742,
+      "prior_variance": 0.387645,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": 0.5122,
+      "prior_variance": 0.438458,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 0.9991,
+      "prior_variance": 0.38971,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -3.5211,
+      "prior_variance": 0.406423,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": 2.4956,
+      "prior_variance": 0.339881,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.3453,
+      "prior_variance": 0.416333,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -2.2218,
+      "prior_variance": 0.445745,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Ontinyent",
+      "path": "europe/spain/ontinyent",
+      "prior_score": -2.6362,
+      "prior_variance": 0.321948,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -4.8143,
+      "prior_variance": 0.429229,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -5.7008,
+      "prior_variance": 0.335537,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.6421,
+      "prior_variance": 0.320289,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.7143,
+      "prior_variance": 0.360104,
+      "prior_n": 4
+    }
+  ]
+}

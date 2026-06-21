@@ -1,0 +1,200 @@
+{
+  "round": 1569,
+  "timestamp": "2026-06-13T20:38:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ravenna",
+      "path": "europe/italy/emiliaromagna/ravenna",
+      "prior_score": 6.6007,
+      "prior_variance": 0.27015,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 5.4624,
+      "prior_variance": 0.472852,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 3.9998,
+      "prior_variance": 0.285258,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 6.887,
+      "prior_variance": 0.296874,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 6.3387,
+      "prior_variance": 0.305578,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 5.2879,
+      "prior_variance": 0.282518,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.8049,
+      "prior_variance": 0.283623,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Tirupati",
+      "path": "asia/india/andhrapradesh/tirupathi_1",
+      "prior_score": -0.467,
+      "prior_variance": 0.331961,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.1927,
+      "prior_variance": 0.466792,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 3.019,
+      "prior_variance": 0.291452,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": 0.1978,
+      "prior_variance": 0.309301,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Banc d'Arguin National Park",
+      "path": "africa/mauritania/arguinbanknationalpark",
+      "prior_score": -0.6965,
+      "prior_variance": 0.304309,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -1.7039,
+      "prior_variance": 0.330606,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.9656,
+      "prior_variance": 0.32787,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -2.6561,
+      "prior_variance": 0.32329,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Dewey Beach",
+      "path": "northamerica/unitedstates/delaware/dewey_beach",
+      "prior_score": -3.3852,
+      "prior_variance": 0.267325,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -3.5873,
+      "prior_variance": 0.296651,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.3058,
+      "prior_variance": 0.259781,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -4.5661,
+      "prior_variance": 0.323635,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Sudbury",
+      "path": "northamerica/canada/ontario/sudbury",
+      "prior_score": -3.7753,
+      "prior_variance": 0.339282,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Sz\u00e9phalom",
+      "path": "europe/hungary/szephalom",
+      "prior_score": -5.0916,
+      "prior_variance": 0.341074,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.378,
+      "prior_variance": 0.438258,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -9.3337,
+      "prior_variance": 0.393947,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 3.701,
+      "prior_variance": 0.317991,
+      "prior_n": 5
+    }
+  ]
+}

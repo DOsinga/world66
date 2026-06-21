@@ -1,0 +1,200 @@
+{
+  "round": 1664,
+  "timestamp": "2026-06-13T20:44:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 12.6843,
+      "prior_variance": 0.467479,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.0513,
+      "prior_variance": 0.300209,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 4.8013,
+      "prior_variance": 0.306169,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 2.4121,
+      "prior_variance": 0.249963,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Wernigerode",
+      "path": "europe/germany/saxonyanhalt/wernigerode",
+      "prior_score": 2.3809,
+      "prior_variance": 0.236376,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.46,
+      "prior_variance": 0.265888,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 2.2173,
+      "prior_variance": 0.295964,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Djiguibombo",
+      "path": "africa/mali/dogoncountry/djiguibombo",
+      "prior_score": -2.6556,
+      "prior_variance": 0.291735,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.4758,
+      "prior_variance": 0.232155,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 2.4612,
+      "prior_variance": 0.402154,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.7066,
+      "prior_variance": 0.250502,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -2.1223,
+      "prior_variance": 0.267551,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.9287,
+      "prior_variance": 0.259417,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Klaipeda",
+      "path": "europe/lithuania/klaipeda",
+      "prior_score": 0.9483,
+      "prior_variance": 0.262736,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 5.6373,
+      "prior_variance": 0.301068,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Joensuu",
+      "path": "europe/finland/joensuu",
+      "prior_score": -1.1721,
+      "prior_variance": 0.219745,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -2.2325,
+      "prior_variance": 0.330657,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Njombe",
+      "path": "africa/tanzania/njombe",
+      "prior_score": -4.9924,
+      "prior_variance": 0.261432,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Guiping",
+      "path": "asia/china/guangxi/guiping",
+      "prior_score": -4.5485,
+      "prior_variance": 0.396021,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Roanoke",
+      "path": "northamerica/unitedstates/virginia/roanoke",
+      "prior_score": -2.2578,
+      "prior_variance": 0.259157,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "State College",
+      "path": "northamerica/unitedstates/pennsylvania/state_college",
+      "prior_score": -3.9753,
+      "prior_variance": 0.266891,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -4.0513,
+      "prior_variance": 0.267831,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Kaduna",
+      "path": "africa/nigeria/kaduna",
+      "prior_score": -7.6423,
+      "prior_variance": 0.32774,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -7.6893,
+      "prior_variance": 0.341987,
+      "prior_n": 5
+    }
+  ]
+}

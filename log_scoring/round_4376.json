@@ -1,0 +1,200 @@
+{
+  "round": 4376,
+  "timestamp": "2026-06-14T00:07:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Arezzo",
+      "path": "europe/italy/tuscany/arezzo",
+      "prior_score": 4.5342,
+      "prior_variance": 0.092779,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.7282,
+      "prior_variance": 0.090449,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Vasto",
+      "path": "europe/italy/abruzzo/vasto",
+      "prior_score": 2.0497,
+      "prior_variance": 0.095905,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 2.9732,
+      "prior_variance": 0.117231,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 3.1247,
+      "prior_variance": 0.11392,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.8462,
+      "prior_variance": 0.099353,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.1861,
+      "prior_variance": 0.106692,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": 0.064,
+      "prior_variance": 0.093562,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Roseau",
+      "path": "northamerica/thecaribbean/dominica/roseau",
+      "prior_score": 0.7719,
+      "prior_variance": 0.104376,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 0.3345,
+      "prior_variance": 0.092202,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": 0.098,
+      "prior_variance": 0.090021,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Combe Martin",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/combe_martin",
+      "prior_score": -0.3579,
+      "prior_variance": 0.10858,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Paramaribo",
+      "path": "southamerica/suriname/paramaribo",
+      "prior_score": 0.4579,
+      "prior_variance": 0.101825,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Corregidor",
+      "path": "asia/philippines/corregidor",
+      "prior_score": 0.619,
+      "prior_variance": 0.091548,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -0.5253,
+      "prior_variance": 0.109054,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.3868,
+      "prior_variance": 0.10168,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": 0.0456,
+      "prior_variance": 0.101021,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -1.3648,
+      "prior_variance": 0.112339,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -1.7155,
+      "prior_variance": 0.08662,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.511,
+      "prior_variance": 0.086854,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Huayang Village",
+      "path": "asia/china/shaanxi/huayang_village",
+      "prior_score": -3.9812,
+      "prior_variance": 0.102216,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -2.5525,
+      "prior_variance": 0.093453,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -3.8463,
+      "prior_variance": 0.092858,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Dosso",
+      "path": "africa/niger/dosso",
+      "prior_score": -9.1717,
+      "prior_variance": 0.216299,
+      "prior_n": 14
+    }
+  ]
+}

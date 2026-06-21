@@ -1,0 +1,200 @@
+{
+  "round": 1174,
+  "timestamp": "2026-06-13T20:15:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 11.4269,
+      "prior_variance": 0.706034,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Lake Louise",
+      "path": "northamerica/canada/alberta/lake_louise",
+      "prior_score": 15.5632,
+      "prior_variance": 0.792988,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 12.3217,
+      "prior_variance": 0.603121,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Andermatt",
+      "path": "europe/switzerland/andermatt",
+      "prior_score": 5.9974,
+      "prior_variance": 0.492714,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/north_island/waikato/waitomo",
+      "prior_score": 8.0465,
+      "prior_variance": 0.645562,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 6.5094,
+      "prior_variance": 0.446571,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Penang",
+      "path": "asia/malaysia/penang",
+      "prior_score": 10.9603,
+      "prior_variance": 0.825718,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 7.1701,
+      "prior_variance": 0.470046,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Riga",
+      "path": "europe/latvia/riga",
+      "prior_score": 9.2647,
+      "prior_variance": 0.612815,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 5.2561,
+      "prior_variance": 0.371591,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Providencia",
+      "path": "southamerica/colombia/sanandresandprovidencia/providencia",
+      "prior_score": 7.9509,
+      "prior_variance": 0.44454,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 4.3376,
+      "prior_variance": 0.417777,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 2.6661,
+      "prior_variance": 0.447022,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 5.2522,
+      "prior_variance": 0.413129,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 4.5152,
+      "prior_variance": 0.57547,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 4.9681,
+      "prior_variance": 0.48436,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 3.5138,
+      "prior_variance": 0.454969,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 2.448,
+      "prior_variance": 0.368001,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.8726,
+      "prior_variance": 0.424682,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Quezon City",
+      "path": "asia/philippines/quezoncity",
+      "prior_score": -4.8871,
+      "prior_variance": 0.294282,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -3.2518,
+      "prior_variance": 0.507564,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -6.2731,
+      "prior_variance": 0.566296,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Delphi",
+      "path": "northamerica/unitedstates/indiana/delphi",
+      "prior_score": -6.0985,
+      "prior_variance": 0.459198,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -14.066,
+      "prior_variance": 0.494625,
+      "prior_n": 3
+    }
+  ]
+}

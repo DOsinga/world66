@@ -1,0 +1,200 @@
+{
+  "round": 2049,
+  "timestamp": "2026-06-13T21:15:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Kenya National Park",
+      "path": "africa/kenya/nationalparksandreserves/mountkenyanp",
+      "prior_score": 4.4658,
+      "prior_variance": 0.265077,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 5.3788,
+      "prior_variance": 0.241311,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Morbihan",
+      "path": "europe/france/normandybrittany/morbihan",
+      "prior_score": 5.4799,
+      "prior_variance": 0.247028,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 5.4681,
+      "prior_variance": 0.299533,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 4.5771,
+      "prior_variance": 0.239816,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Antequera",
+      "path": "europe/spain/andalucia/antequera",
+      "prior_score": 3.4854,
+      "prior_variance": 0.227939,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Cochem",
+      "path": "europe/germany/rhinelandpalatinate/mosel/cochem",
+      "prior_score": 3.8318,
+      "prior_variance": 0.243587,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.6613,
+      "prior_variance": 0.176881,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.2969,
+      "prior_variance": 0.213156,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 2.6173,
+      "prior_variance": 0.216516,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 2.5099,
+      "prior_variance": 0.267567,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/northernspain/vitoria",
+      "prior_score": 2.1762,
+      "prior_variance": 0.210876,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Djanet",
+      "path": "africa/algeria/djanet",
+      "prior_score": 0.2356,
+      "prior_variance": 0.200151,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 1.9583,
+      "prior_variance": 0.180059,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 1.5617,
+      "prior_variance": 0.273614,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.1733,
+      "prior_variance": 0.218517,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.7625,
+      "prior_variance": 0.209504,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.2464,
+      "prior_variance": 0.186623,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 2.9927,
+      "prior_variance": 0.205141,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.9732,
+      "prior_variance": 0.242091,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.1141,
+      "prior_variance": 0.222925,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.771,
+      "prior_variance": 0.205177,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Macduff",
+      "path": "europe/unitedkingdom/scotland/macduff",
+      "prior_score": -1.7307,
+      "prior_variance": 0.245172,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -7.7301,
+      "prior_variance": 0.338954,
+      "prior_n": 6
+    }
+  ]
+}

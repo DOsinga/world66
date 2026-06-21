@@ -1,0 +1,200 @@
+{
+  "round": 1362,
+  "timestamp": "2026-06-13T20:26:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 10.4459,
+      "prior_variance": 0.611418,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 7.2549,
+      "prior_variance": 0.492071,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Amboise",
+      "path": "europe/france/centre/loirevalley/amboise",
+      "prior_score": 7.7543,
+      "prior_variance": 0.528686,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Vi\u00f1ales",
+      "path": "northamerica/thecaribbean/cuba/vinales",
+      "prior_score": 7.4685,
+      "prior_variance": 0.369198,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.7549,
+      "prior_variance": 0.424364,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 3.701,
+      "prior_variance": 0.335626,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Pentecost",
+      "path": "australiaandpacific/vanuatu/pentecost",
+      "prior_score": 0.3195,
+      "prior_variance": 0.414459,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Reggio Emilia",
+      "path": "europe/italy/emiliaromagna/reggioemilia",
+      "prior_score": 1.4577,
+      "prior_variance": 0.316841,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.9256,
+      "prior_variance": 0.323204,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 2.6257,
+      "prior_variance": 0.524162,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 3.3779,
+      "prior_variance": 0.321132,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": 0.0576,
+      "prior_variance": 0.321083,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 0.1004,
+      "prior_variance": 0.350672,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 1.5264,
+      "prior_variance": 0.298118,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -2.2085,
+      "prior_variance": 0.340753,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.3907,
+      "prior_variance": 0.304541,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -1.3902,
+      "prior_variance": 0.326784,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.8571,
+      "prior_variance": 0.345608,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": 0.8419,
+      "prior_variance": 0.386011,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Saskatoon",
+      "path": "northamerica/canada/saskatchewan/saskatoon",
+      "prior_score": -2.981,
+      "prior_variance": 0.340826,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.2074,
+      "prior_variance": 0.248448,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -3.7077,
+      "prior_variance": 0.338529,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "New Brunswick",
+      "path": "northamerica/unitedstates/newjersey/newbrunswick",
+      "prior_score": -4.5239,
+      "prior_variance": 0.482486,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -11.0496,
+      "prior_variance": 0.556243,
+      "prior_n": 4
+    }
+  ]
+}

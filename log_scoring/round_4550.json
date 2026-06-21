@@ -1,0 +1,200 @@
+{
+  "round": 4550,
+  "timestamp": "2026-06-14T00:21:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 5.187,
+      "prior_variance": 0.139718,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 4.393,
+      "prior_variance": 0.098884,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.6757,
+      "prior_variance": 0.107837,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Castries",
+      "path": "northamerica/saintlucia/castries",
+      "prior_score": 3.4799,
+      "prior_variance": 0.114548,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 3.812,
+      "prior_variance": 0.098374,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Orleans",
+      "path": "europe/france/centre/loirevalley/orleans",
+      "prior_score": 2.227,
+      "prior_variance": 0.112131,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.9215,
+      "prior_variance": 0.087723,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Tiberias",
+      "path": "asia/israel/tiberias",
+      "prior_score": 2.3364,
+      "prior_variance": 0.094362,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Skagway",
+      "path": "northamerica/unitedstates/alaska/skagway",
+      "prior_score": 4.1233,
+      "prior_variance": 0.107044,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kullu",
+      "path": "asia/india/himachalpradesh/kullu",
+      "prior_score": 1.901,
+      "prior_variance": 0.087768,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.0853,
+      "prior_variance": 0.105632,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Donegal",
+      "path": "europe/ireland/donegal",
+      "prior_score": 3.3372,
+      "prior_variance": 0.094543,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.2353,
+      "prior_variance": 0.085603,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.6244,
+      "prior_variance": 0.089596,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 0.2975,
+      "prior_variance": 0.090914,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "The Entrance",
+      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
+      "prior_score": -0.7872,
+      "prior_variance": 0.093736,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.1788,
+      "prior_variance": 0.092477,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.5361,
+      "prior_variance": 0.086948,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Drammen",
+      "path": "europe/norway/drammen",
+      "prior_score": -1.0795,
+      "prior_variance": 0.083061,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -2.9582,
+      "prior_variance": 0.109921,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -3.9402,
+      "prior_variance": 0.092141,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Foster City",
+      "path": "northamerica/unitedstates/california/foster_city",
+      "prior_score": -5.2886,
+      "prior_variance": 0.109745,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -3.1613,
+      "prior_variance": 0.10339,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.395,
+      "prior_variance": 0.12222,
+      "prior_n": 15
+    }
+  ]
+}

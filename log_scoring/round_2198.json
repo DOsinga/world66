@@ -1,0 +1,200 @@
+{
+  "round": 2198,
+  "timestamp": "2026-06-13T21:25:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 11.7427,
+      "prior_variance": 0.667324,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 9.3245,
+      "prior_variance": 0.288693,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Jaipur",
+      "path": "asia/india/rajasthan/jaipur",
+      "prior_score": 9.979,
+      "prior_variance": 0.534286,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 4.7459,
+      "prior_variance": 0.195838,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 1.7202,
+      "prior_variance": 0.242648,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Lake Kariba",
+      "path": "africa/zimbabwe/lakekariba",
+      "prior_score": -0.7765,
+      "prior_variance": 0.193395,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 2.5285,
+      "prior_variance": 0.2125,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 3.1417,
+      "prior_variance": 0.220739,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chengyang",
+      "path": "asia/china/guangxi/chengyang",
+      "prior_score": 1.4619,
+      "prior_variance": 0.204913,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton",
+      "prior_score": 1.5451,
+      "prior_variance": 0.215293,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.2085,
+      "prior_variance": 0.183774,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "San Juan Capistrano",
+      "path": "northamerica/unitedstates/california/orangecounty/san_juan_capistrano",
+      "prior_score": 0.7649,
+      "prior_variance": 0.216077,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.2079,
+      "prior_variance": 0.19711,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.1989,
+      "prior_variance": 0.186711,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.0077,
+      "prior_variance": 0.210499,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.096,
+      "prior_variance": 0.242267,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": -0.2553,
+      "prior_variance": 0.167229,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -0.7283,
+      "prior_variance": 0.269691,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Link\u00f6ping",
+      "path": "europe/sweden/linkping",
+      "prior_score": -0.8473,
+      "prior_variance": 0.206909,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": 0.1702,
+      "prior_variance": 0.223002,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.5057,
+      "prior_variance": 0.19461,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.4758,
+      "prior_variance": 0.198358,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -1.0284,
+      "prior_variance": 0.206357,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Umatac",
+      "path": "australiaandpacific/guam/umatac",
+      "prior_score": -0.9718,
+      "prior_variance": 0.182869,
+      "prior_n": 7
+    }
+  ]
+}

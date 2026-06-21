@@ -1,0 +1,200 @@
+{
+  "round": 1198,
+  "timestamp": "2026-06-13T20:16:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Bosphorus",
+      "path": "asia/turkey/istanbul/thebosphorus",
+      "prior_score": 12.7669,
+      "prior_variance": 0.578145,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 4.9724,
+      "prior_variance": 0.420731,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 4.0566,
+      "prior_variance": 0.363888,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.2512,
+      "prior_variance": 0.371731,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": -0.1655,
+      "prior_variance": 0.402954,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 6.7507,
+      "prior_variance": 0.463107,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.8702,
+      "prior_variance": 0.452995,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": -0.1981,
+      "prior_variance": 0.413318,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Jingdezhen",
+      "path": "asia/china/jiangxi/jingdezhen",
+      "prior_score": 1.5707,
+      "prior_variance": 0.403153,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Bandiagara",
+      "path": "africa/mali/dogoncountry/bandiagara",
+      "prior_score": -2.1387,
+      "prior_variance": 0.498961,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Tidore",
+      "path": "asia/indonesia/maluku/tidore",
+      "prior_score": -1.0809,
+      "prior_variance": 0.395854,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -1.5756,
+      "prior_variance": 0.408398,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kottayam",
+      "path": "asia/india/kerala/kottayam",
+      "prior_score": -3.6817,
+      "prior_variance": 0.39257,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Phidim",
+      "path": "asia/nepal/phidim",
+      "prior_score": -4.5553,
+      "prior_variance": 0.379418,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Sfax",
+      "path": "africa/tunisia/sfax",
+      "prior_score": -6.2533,
+      "prior_variance": 0.471559,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Paranagu\u00e1",
+      "path": "southamerica/brazil/paranagu",
+      "prior_score": -4.3104,
+      "prior_variance": 0.318369,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -7.0677,
+      "prior_variance": 0.292958,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -7.5374,
+      "prior_variance": 0.416363,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Buraimi",
+      "path": "asia/oman/buraimi",
+      "prior_score": -5.469,
+      "prior_variance": 0.529998,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Port Clinton",
+      "path": "northamerica/unitedstates/ohio/port_clinton",
+      "prior_score": -4.849,
+      "prior_variance": 0.397581,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Rochdale",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/rochdale",
+      "prior_score": -6.7608,
+      "prior_variance": 0.518751,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Sunnyvale",
+      "path": "northamerica/unitedstates/california/sunnyvale",
+      "prior_score": -5.2609,
+      "prior_variance": 0.388674,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -5.8623,
+      "prior_variance": 0.388993,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wynnewood",
+      "path": "northamerica/unitedstates/oklahoma/wynnewood",
+      "prior_score": -9.9418,
+      "prior_variance": 0.440377,
+      "prior_n": 4
+    }
+  ]
+}

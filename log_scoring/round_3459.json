@@ -1,0 +1,200 @@
+{
+  "round": 3459,
+  "timestamp": "2026-06-13T22:55:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gij\u00f3n",
+      "path": "europe/spain/northernspain/gijon",
+      "prior_score": 1.9077,
+      "prior_variance": 0.128179,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.0593,
+      "prior_variance": 0.122267,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.8242,
+      "prior_variance": 0.125894,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.7267,
+      "prior_variance": 0.120224,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.7722,
+      "prior_variance": 0.114917,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Bojkovice",
+      "path": "europe/czechrepublic/bojkovice",
+      "prior_score": -2.5922,
+      "prior_variance": 0.15253,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -2.7929,
+      "prior_variance": 0.121744,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -3.6619,
+      "prior_variance": 0.132032,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -4.0259,
+      "prior_variance": 0.151812,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.3973,
+      "prior_variance": 0.113556,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -2.2546,
+      "prior_variance": 0.117127,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Little Rock",
+      "path": "northamerica/unitedstates/arkansas/littlerock",
+      "prior_score": -3.2746,
+      "prior_variance": 0.131681,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/newyorkstate/jamestown_and_surr",
+      "prior_score": -3.3042,
+      "prior_variance": 0.129402,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.6797,
+      "prior_variance": 0.119094,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Nonthaburi",
+      "path": "asia/thailand/nonthaburi_2",
+      "prior_score": -3.4767,
+      "prior_variance": 0.128634,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Bluefields",
+      "path": "northamerica/nicaragua/bluefields",
+      "prior_score": -3.196,
+      "prior_variance": 0.135488,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -3.2716,
+      "prior_variance": 0.151725,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop",
+      "prior_score": -4.942,
+      "prior_variance": 0.188467,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -4.793,
+      "prior_variance": 0.148524,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -3.0027,
+      "prior_variance": 0.139133,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Chifeng",
+      "path": "asia/china/innermongolia/chifeng",
+      "prior_score": -4.0072,
+      "prior_variance": 0.126599,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -5.9766,
+      "prior_variance": 0.138361,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -5.7483,
+      "prior_variance": 0.147302,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.7397,
+      "prior_variance": 0.250209,
+      "prior_n": 11
+    }
+  ]
+}

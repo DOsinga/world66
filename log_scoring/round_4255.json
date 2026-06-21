@@ -1,0 +1,200 @@
+{
+  "round": 4255,
+  "timestamp": "2026-06-13T23:57:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 9.3324,
+      "prior_variance": 0.227145,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Montreal",
+      "path": "northamerica/canada/quebec/montreal",
+      "prior_score": 6.5131,
+      "prior_variance": 0.129839,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 8.8045,
+      "prior_variance": 0.227068,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 0.88,
+      "prior_variance": 0.11003,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "St. Simons Island",
+      "path": "northamerica/unitedstates/georgia/stsimonsisland",
+      "prior_score": 0.5085,
+      "prior_variance": 0.102472,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Big Pine Key",
+      "path": "northamerica/unitedstates/florida/big_pine_key",
+      "prior_score": 0.2608,
+      "prior_variance": 0.097359,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 3.9888,
+      "prior_variance": 0.101731,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 2.9983,
+      "prior_variance": 0.106432,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ventimiglia",
+      "path": "europe/italy/liguria/italianriviera/ventimiglia",
+      "prior_score": 1.4585,
+      "prior_variance": 0.100621,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Dover",
+      "path": "europe/unitedkingdom/england/south_east/dover",
+      "prior_score": -0.0606,
+      "prior_variance": 0.098558,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": 0.5931,
+      "prior_variance": 0.102062,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 0.6528,
+      "prior_variance": 0.088751,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Egerszal\u00f3k",
+      "path": "europe/hungary/egerszalok",
+      "prior_score": 0.474,
+      "prior_variance": 0.086267,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -1.3559,
+      "prior_variance": 0.087466,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.626,
+      "prior_variance": 0.090731,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.5183,
+      "prior_variance": 0.104866,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Dogubeyazit",
+      "path": "asia/turkey/dogubeyazit",
+      "prior_score": -0.7385,
+      "prior_variance": 0.10244,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.8227,
+      "prior_variance": 0.096713,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": 0.3291,
+      "prior_variance": 0.093901,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Timimoun",
+      "path": "africa/algeria/timimoun",
+      "prior_score": -2.4523,
+      "prior_variance": 0.133366,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -0.4236,
+      "prior_variance": 0.108186,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": 0.0821,
+      "prior_variance": 0.130165,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.2837,
+      "prior_variance": 0.105987,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.2412,
+      "prior_variance": 0.17506,
+      "prior_n": 14
+    }
+  ]
+}

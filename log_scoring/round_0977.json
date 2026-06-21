@@ -1,0 +1,200 @@
+{
+  "round": 977,
+  "timestamp": "2026-06-13T20:04:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orlando",
+      "path": "northamerica/unitedstates/florida/orlando",
+      "prior_score": 8.2819,
+      "prior_variance": 1.297673,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 4.1416,
+      "prior_variance": 0.425385,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 7.1916,
+      "prior_variance": 0.67874,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Neuchatel",
+      "path": "europe/switzerland/neuchatel",
+      "prior_score": 5.7015,
+      "prior_variance": 0.89137,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 6.2422,
+      "prior_variance": 0.892115,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 5.948,
+      "prior_variance": 0.5297,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 5.547,
+      "prior_variance": 0.421915,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 4.6032,
+      "prior_variance": 0.469345,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 4.5121,
+      "prior_variance": 0.516573,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 4.3636,
+      "prior_variance": 0.505518,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Grazalema",
+      "path": "europe/spain/andalucia/grazalema",
+      "prior_score": 5.632,
+      "prior_variance": 0.499605,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Lessinia",
+      "path": "europe/italy/veneto/lessinia",
+      "prior_score": 2.5003,
+      "prior_variance": 0.449223,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Saman\u00e1",
+      "path": "northamerica/dominicanrepublic/samana",
+      "prior_score": 3.9538,
+      "prior_variance": 0.366557,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 5.6053,
+      "prior_variance": 0.698596,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 6.2428,
+      "prior_variance": 1.379781,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Fort-de-France",
+      "path": "northamerica/thecaribbean/martinique/fortdefrance",
+      "prior_score": 3.5705,
+      "prior_variance": 0.544357,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 7.1372,
+      "prior_variance": 0.461635,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chamarel",
+      "path": "africa/mauritius/chamarel",
+      "prior_score": 6.9586,
+      "prior_variance": 0.421064,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 4.9298,
+      "prior_variance": 0.592184,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Dahab",
+      "path": "africa/egypt/dahab",
+      "prior_score": 5.8886,
+      "prior_variance": 0.465146,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.0207,
+      "prior_variance": 0.895465,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 6.3827,
+      "prior_variance": 0.742379,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Montevideo",
+      "path": "southamerica/uruguay/montevideo",
+      "prior_score": 4.9539,
+      "prior_variance": 0.668698,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": 0.7545,
+      "prior_variance": 0.452335,
+      "prior_n": 3
+    }
+  ]
+}

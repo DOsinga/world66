@@ -1,0 +1,200 @@
+{
+  "round": 1823,
+  "timestamp": "2026-06-13T20:54:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ilulissat",
+      "path": "northamerica/greenland/ilulissat",
+      "prior_score": 6.3844,
+      "prior_variance": 0.303337,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 5.2323,
+      "prior_variance": 0.249404,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 3.8274,
+      "prior_variance": 0.260324,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 5.7956,
+      "prior_variance": 0.291242,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.7446,
+      "prior_variance": 0.292609,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.6821,
+      "prior_variance": 0.282261,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/massachusetts/salem",
+      "prior_score": 4.8599,
+      "prior_variance": 0.278018,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Murter",
+      "path": "europe/croatia/murter",
+      "prior_score": 2.6084,
+      "prior_variance": 0.273643,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 4.1133,
+      "prior_variance": 0.253241,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 4.7636,
+      "prior_variance": 0.289435,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Acitrezza",
+      "path": "europe/italy/sicily/acitrezza",
+      "prior_score": 2.2295,
+      "prior_variance": 0.177083,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 0.6608,
+      "prior_variance": 0.216755,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Circeo National Park",
+      "path": "europe/italy/lazio/ciceo_national_par",
+      "prior_score": 2.7825,
+      "prior_variance": 0.209076,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Cabo Rojo",
+      "path": "northamerica/thecaribbean/puertorico/caborojo",
+      "prior_score": 3.9211,
+      "prior_variance": 0.278525,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 1.9068,
+      "prior_variance": 0.204537,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mayotte",
+      "path": "africa/comoros/mayotte",
+      "prior_score": 0.9787,
+      "prior_variance": 0.248279,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.7684,
+      "prior_variance": 0.254268,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Kaiping",
+      "path": "asia/china/guangdong/kaiping",
+      "prior_score": 1.3498,
+      "prior_variance": 0.277494,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_city",
+      "prior_score": -1.9696,
+      "prior_variance": 0.214295,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Bujumbura",
+      "path": "africa/burundi/bujumbura",
+      "prior_score": -5.4734,
+      "prior_variance": 0.345781,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -7.0644,
+      "prior_variance": 0.293182,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Chandler",
+      "path": "northamerica/unitedstates/oklahoma/chandler",
+      "prior_score": -7.2959,
+      "prior_variance": 0.304202,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -7.3268,
+      "prior_variance": 0.429848,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -9.4884,
+      "prior_variance": 0.501847,
+      "prior_n": 5
+    }
+  ]
+}

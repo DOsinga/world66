@@ -1,0 +1,200 @@
+{
+  "round": 1020,
+  "timestamp": "2026-06-13T20:06:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 2.3647,
+      "prior_variance": 0.588501,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.9289,
+      "prior_variance": 0.615426,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Perpignan",
+      "path": "europe/france/midi/languedoc/perpignan",
+      "prior_score": 2.1018,
+      "prior_variance": 0.49397,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.6356,
+      "prior_variance": 0.486319,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.9118,
+      "prior_variance": 0.480589,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Fortaleza",
+      "path": "southamerica/brazil/fortaleza",
+      "prior_score": 1.3002,
+      "prior_variance": 0.46476,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": -0.9323,
+      "prior_variance": 0.603594,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Spa",
+      "path": "europe/belgium/spa",
+      "prior_score": 1.0908,
+      "prior_variance": 0.835957,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 1.6855,
+      "prior_variance": 0.473295,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 2.9985,
+      "prior_variance": 0.531185,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Helsingborg",
+      "path": "europe/sweden/helsingborg",
+      "prior_score": 0.2994,
+      "prior_variance": 0.477288,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 2.1349,
+      "prior_variance": 0.438063,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 1.1722,
+      "prior_variance": 0.423585,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Vlieland",
+      "path": "europe/netherlands/waddenislands/vlieland_island",
+      "prior_score": 1.2084,
+      "prior_variance": 0.659907,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Denizli",
+      "path": "asia/turkey/denizli",
+      "prior_score": 0.3325,
+      "prior_variance": 0.448805,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 1.5581,
+      "prior_variance": 0.492129,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "South Padre Island",
+      "path": "northamerica/unitedstates/texas/southpadreisland",
+      "prior_score": 1.2214,
+      "prior_variance": 0.431749,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "El Rocio",
+      "path": "europe/spain/andalucia/el_rocio",
+      "prior_score": 2.3209,
+      "prior_variance": 0.437928,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": -0.0152,
+      "prior_variance": 0.454691,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 2.3607,
+      "prior_variance": 0.429072,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 1.1763,
+      "prior_variance": 0.40193,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": 0.6554,
+      "prior_variance": 0.684337,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 2.1103,
+      "prior_variance": 0.469033,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ry",
+      "path": "europe/denmark/ry",
+      "prior_score": -1.6402,
+      "prior_variance": 0.415396,
+      "prior_n": 3
+    }
+  ]
+}

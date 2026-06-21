@@ -1,0 +1,200 @@
+{
+  "round": 2283,
+  "timestamp": "2026-06-13T21:31:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Babylon",
+      "path": "asia/iraq/babylon",
+      "prior_score": -3.8667,
+      "prior_variance": 0.206031,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 0.2797,
+      "prior_variance": 0.266604,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Alwar",
+      "path": "asia/india/rajasthan/alwar",
+      "prior_score": 0.6484,
+      "prior_variance": 0.167536,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.9187,
+      "prior_variance": 0.208001,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.1735,
+      "prior_variance": 0.17346,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Gelephu",
+      "path": "asia/bhutan/gelephu",
+      "prior_score": -2.0682,
+      "prior_variance": 0.273671,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.9606,
+      "prior_variance": 0.175836,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.9076,
+      "prior_variance": 0.192315,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -3.5734,
+      "prior_variance": 0.220866,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -3.9366,
+      "prior_variance": 0.203094,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.3455,
+      "prior_variance": 0.159354,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -2.0867,
+      "prior_variance": 0.192346,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.9392,
+      "prior_variance": 0.225969,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.3408,
+      "prior_variance": 0.198812,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -4.7864,
+      "prior_variance": 0.226004,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -6.7654,
+      "prior_variance": 0.219521,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -4.5556,
+      "prior_variance": 0.199123,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -3.6564,
+      "prior_variance": 0.217004,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Danzhou",
+      "path": "asia/china/hainanisland/danzhou",
+      "prior_score": -1.8454,
+      "prior_variance": 0.217224,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -5.3453,
+      "prior_variance": 0.218068,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Crawley",
+      "path": "europe/unitedkingdom/england/south_east/crawley",
+      "prior_score": -7.1315,
+      "prior_variance": 0.280401,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Adel",
+      "path": "northamerica/unitedstates/iowa/adel",
+      "prior_score": -6.7256,
+      "prior_variance": 0.2984,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.3227,
+      "prior_variance": 0.396162,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -8.3665,
+      "prior_variance": 0.324919,
+      "prior_n": 7
+    }
+  ]
+}

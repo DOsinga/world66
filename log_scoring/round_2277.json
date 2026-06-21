@@ -1,0 +1,200 @@
+{
+  "round": 2277,
+  "timestamp": "2026-06-13T21:30:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 10.5204,
+      "prior_variance": 0.307348,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.9762,
+      "prior_variance": 0.254184,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Glen Canyon",
+      "path": "northamerica/unitedstates/utah/glencanyon",
+      "prior_score": 5.8952,
+      "prior_variance": 0.210222,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 4.9696,
+      "prior_variance": 0.190846,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.9643,
+      "prior_variance": 0.257965,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 8.7695,
+      "prior_variance": 0.524235,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 4.995,
+      "prior_variance": 0.212562,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.0593,
+      "prior_variance": 0.208313,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 4.1167,
+      "prior_variance": 0.201221,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 3.5075,
+      "prior_variance": 0.20124,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 4.2947,
+      "prior_variance": 0.224871,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/virginia/jamestown",
+      "prior_score": 0.1507,
+      "prior_variance": 0.23479,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Matara",
+      "path": "asia/srilanka/matara",
+      "prior_score": 1.4895,
+      "prior_variance": 0.200944,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Xanthi",
+      "path": "europe/greece/xanthi",
+      "prior_score": 1.0843,
+      "prior_variance": 0.168362,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Ashgabat",
+      "path": "asia/turkmenistan/ashgabat",
+      "prior_score": -1.0546,
+      "prior_variance": 0.276963,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.9141,
+      "prior_variance": 0.214449,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -1.3659,
+      "prior_variance": 0.239178,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "St. Catharines",
+      "path": "northamerica/canada/ontario/stcatharines",
+      "prior_score": -2.5614,
+      "prior_variance": 0.194949,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -3.3875,
+      "prior_variance": 0.21134,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Zoetermeer",
+      "path": "europe/netherlands/zoetermeer",
+      "prior_score": -5.2943,
+      "prior_variance": 0.249546,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.5507,
+      "prior_variance": 0.23221,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Vandalia",
+      "path": "northamerica/unitedstates/illinois/vandalia",
+      "prior_score": -6.6091,
+      "prior_variance": 0.331581,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -6.1199,
+      "prior_variance": 0.220631,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mahdishar",
+      "path": "asia/iran/mahdishar",
+      "prior_score": -9.5721,
+      "prior_variance": 0.349022,
+      "prior_n": 7
+    }
+  ]
+}

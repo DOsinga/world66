@@ -1,0 +1,200 @@
+{
+  "round": 2361,
+  "timestamp": "2026-06-13T21:37:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 8.1143,
+      "prior_variance": 0.257343,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "White Villages",
+      "path": "europe/spain/andalucia/whitevillages",
+      "prior_score": 6.9933,
+      "prior_variance": 0.24858,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Brisbane",
+      "path": "australiaandpacific/australia/queensland/brisbane",
+      "prior_score": 3.255,
+      "prior_variance": 0.219514,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Eilat",
+      "path": "asia/israel/eliat",
+      "prior_score": 4.3357,
+      "prior_variance": 0.190771,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Rincon",
+      "path": "northamerica/thecaribbean/puertorico/rincon",
+      "prior_score": 3.3371,
+      "prior_variance": 0.163362,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Islas del Rosario",
+      "path": "southamerica/colombia/islasdelrosario",
+      "prior_score": 3.3955,
+      "prior_variance": 0.207025,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 3.1925,
+      "prior_variance": 0.180719,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 1.9337,
+      "prior_variance": 0.199373,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Houston",
+      "path": "northamerica/unitedstates/texas/houston",
+      "prior_score": -0.7303,
+      "prior_variance": 0.232656,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 1.0527,
+      "prior_variance": 0.191734,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "La Serena",
+      "path": "southamerica/chile/laserena",
+      "prior_score": 0.5781,
+      "prior_variance": 0.215821,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -1.1215,
+      "prior_variance": 0.250826,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 2.026,
+      "prior_variance": 0.163456,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 0.1099,
+      "prior_variance": 0.205135,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 1.8562,
+      "prior_variance": 0.185263,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Chilika Lake",
+      "path": "asia/india/orissa/chilika",
+      "prior_score": 0.8936,
+      "prior_variance": 0.165853,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.6656,
+      "prior_variance": 0.181375,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -2.3453,
+      "prior_variance": 0.185439,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -2.1866,
+      "prior_variance": 0.183759,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.5491,
+      "prior_variance": 0.190099,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": 0.1802,
+      "prior_variance": 0.164683,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -2.2718,
+      "prior_variance": 0.210912,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -3.7823,
+      "prior_variance": 0.178344,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/arizona/miami",
+      "prior_score": -6.2434,
+      "prior_variance": 0.280943,
+      "prior_n": 7
+    }
+  ]
+}

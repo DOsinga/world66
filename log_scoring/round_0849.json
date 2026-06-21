@@ -1,0 +1,200 @@
+{
+  "round": 849,
+  "timestamp": "2026-06-13T19:57:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 5.3726,
+      "prior_variance": 0.623938,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_score": 10.7048,
+      "prior_variance": 0.764017,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 9.9569,
+      "prior_variance": 1.083621,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 11.0264,
+      "prior_variance": 0.834676,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 10.0382,
+      "prior_variance": 1.222778,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Patan",
+      "path": "asia/nepal/patan",
+      "prior_score": 9.9207,
+      "prior_variance": 1.301919,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 6.8378,
+      "prior_variance": 0.635343,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Zelve",
+      "path": "asia/turkey/cappadocia/zelve",
+      "prior_score": 10.9389,
+      "prior_variance": 1.264092,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 9.6941,
+      "prior_variance": 1.058764,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 5.8256,
+      "prior_variance": 0.788411,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 9.2749,
+      "prior_variance": 1.110076,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 7.2616,
+      "prior_variance": 0.986015,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 5.2017,
+      "prior_variance": 0.703397,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 5.2851,
+      "prior_variance": 0.818237,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Orebi\u0107",
+      "path": "europe/croatia/peljesac/orebic",
+      "prior_score": 8.7625,
+      "prior_variance": 0.823578,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 9.814,
+      "prior_variance": 0.895807,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sitges",
+      "path": "europe/spain/catalonia/sitges",
+      "prior_score": 8.4459,
+      "prior_variance": 1.084945,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 6.9866,
+      "prior_variance": 0.683861,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Port Grimaud",
+      "path": "europe/france/midi/provence/portgrimaud",
+      "prior_score": 4.4249,
+      "prior_variance": 0.619726,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 4.6781,
+      "prior_variance": 0.437352,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bod\u00f8",
+      "path": "europe/norway/bodo",
+      "prior_score": 7.6893,
+      "prior_variance": 0.854181,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 3.3186,
+      "prior_variance": 0.897245,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/gatlinburg",
+      "prior_score": 8.8354,
+      "prior_variance": 1.368094,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 2.2438,
+      "prior_variance": 0.672667,
+      "prior_n": 2
+    }
+  ]
+}

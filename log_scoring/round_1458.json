@@ -1,0 +1,200 @@
+{
+  "round": 1458,
+  "timestamp": "2026-06-13T20:31:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 8.9711,
+      "prior_variance": 0.449326,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 9.3947,
+      "prior_variance": 0.606084,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Big Sur",
+      "path": "northamerica/unitedstates/california/big_sur",
+      "prior_score": 9.322,
+      "prior_variance": 0.444438,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.8234,
+      "prior_variance": 0.357369,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.1951,
+      "prior_variance": 0.422913,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Carvoeiro",
+      "path": "europe/portugal/algarve/carvoeiro",
+      "prior_score": 5.4541,
+      "prior_variance": 0.33987,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 4.1529,
+      "prior_variance": 0.273591,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 3.8055,
+      "prior_variance": 0.266025,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Montpellier",
+      "path": "europe/france/midi/languedoc/montpellier",
+      "prior_score": 4.758,
+      "prior_variance": 0.329447,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Timisoara",
+      "path": "europe/romania/timisoara",
+      "prior_score": 0.0019,
+      "prior_variance": 0.253294,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.9349,
+      "prior_variance": 0.339597,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Grand Etang Forest Reserve",
+      "path": "northamerica/thecaribbean/grenada/grandetangforestreserve",
+      "prior_score": 1.9893,
+      "prior_variance": 0.387288,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 2.6378,
+      "prior_variance": 0.334754,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 2.9449,
+      "prior_variance": 0.283249,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Baler",
+      "path": "asia/philippines/baler",
+      "prior_score": 1.2989,
+      "prior_variance": 0.274185,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_score": -0.0781,
+      "prior_variance": 0.274961,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Nelson",
+      "path": "northamerica/canada/britishcolumbia/nelson",
+      "prior_score": 0.8096,
+      "prior_variance": 0.306746,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.6859,
+      "prior_variance": 0.263281,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.8591,
+      "prior_variance": 0.346523,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -3.6028,
+      "prior_variance": 0.40837,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Bominaco",
+      "path": "europe/italy/abruzzo/bominaco",
+      "prior_score": -0.437,
+      "prior_variance": 0.313173,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Belgrade Lakes",
+      "path": "northamerica/unitedstates/maine/belgrade_lakes",
+      "prior_score": -1.8942,
+      "prior_variance": 0.245179,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -3.7302,
+      "prior_variance": 0.373143,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -6.4964,
+      "prior_variance": 0.419914,
+      "prior_n": 4
+    }
+  ]
+}

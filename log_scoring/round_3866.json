@@ -1,0 +1,200 @@
+{
+  "round": 3866,
+  "timestamp": "2026-06-13T23:25:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Gallen",
+      "path": "europe/switzerland/saintgallen",
+      "prior_score": 1.98,
+      "prior_variance": 0.120374,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Alcal\u00e1 de Henares",
+      "path": "europe/spain/centralspain/alcaladehenares",
+      "prior_score": 3.061,
+      "prior_variance": 0.116454,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.0321,
+      "prior_variance": 0.101696,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Ayr",
+      "path": "europe/unitedkingdom/scotland/ayr",
+      "prior_score": 0.6408,
+      "prior_variance": 0.110221,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.2836,
+      "prior_variance": 0.105098,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.5348,
+      "prior_variance": 0.109889,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mussoorie",
+      "path": "asia/india/uttaranchal/mussoorie",
+      "prior_score": 2.2974,
+      "prior_variance": 0.109813,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.6634,
+      "prior_variance": 0.103077,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/kendal",
+      "prior_score": -1.2934,
+      "prior_variance": 0.112045,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": 0.1313,
+      "prior_variance": 0.102868,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Bhitarkanika National Park",
+      "path": "asia/india/orissa/bhitarkanika",
+      "prior_score": -0.3262,
+      "prior_variance": 0.123624,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -0.4863,
+      "prior_variance": 0.124221,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.2588,
+      "prior_variance": 0.095665,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -2.3091,
+      "prior_variance": 0.110626,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -1.7101,
+      "prior_variance": 0.098626,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.1719,
+      "prior_variance": 0.120593,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tanjay",
+      "path": "asia/philippines/negrosisland/tanjay",
+      "prior_score": -4.3206,
+      "prior_variance": 0.116545,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -3.9905,
+      "prior_variance": 0.130561,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -4.7406,
+      "prior_variance": 0.121967,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Mentor",
+      "path": "northamerica/unitedstates/ohio/mentor",
+      "prior_score": -5.1033,
+      "prior_variance": 0.125699,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.8146,
+      "prior_variance": 0.127497,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Maduo",
+      "path": "asia/china/qinghai/maduo",
+      "prior_score": -4.9254,
+      "prior_variance": 0.134246,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -5.5992,
+      "prior_variance": 0.124597,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Ida Grove",
+      "path": "northamerica/unitedstates/iowa/idagrove",
+      "prior_score": -7.7257,
+      "prior_variance": 0.288228,
+      "prior_n": 12
+    }
+  ]
+}

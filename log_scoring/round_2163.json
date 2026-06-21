@@ -1,0 +1,200 @@
+{
+  "round": 2163,
+  "timestamp": "2026-06-13T21:23:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.9161,
+      "prior_variance": 0.333129,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 4.1486,
+      "prior_variance": 0.207777,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.3309,
+      "prior_variance": 0.172209,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/gloucestershire/forestofdean",
+      "prior_score": 0.7727,
+      "prior_variance": 0.223225,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.4083,
+      "prior_variance": 0.234452,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.5794,
+      "prior_variance": 0.179147,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.6526,
+      "prior_variance": 0.184758,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.8424,
+      "prior_variance": 0.184743,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.4045,
+      "prior_variance": 0.222009,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -1.5576,
+      "prior_variance": 0.2662,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -2.8859,
+      "prior_variance": 0.329709,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.222,
+      "prior_variance": 0.222441,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.8997,
+      "prior_variance": 0.196594,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -2.268,
+      "prior_variance": 0.197109,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -2.0001,
+      "prior_variance": 0.1689,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -3.7756,
+      "prior_variance": 0.314108,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.3702,
+      "prior_variance": 0.212477,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.2221,
+      "prior_variance": 0.232103,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -3.2228,
+      "prior_variance": 0.182792,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.2006,
+      "prior_variance": 0.212689,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.8167,
+      "prior_variance": 0.202695,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -6.1038,
+      "prior_variance": 0.224071,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -5.6758,
+      "prior_variance": 0.263563,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -13.1856,
+      "prior_variance": 0.724136,
+      "prior_n": 6
+    }
+  ]
+}

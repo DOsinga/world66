@@ -1,0 +1,200 @@
+{
+  "round": 865,
+  "timestamp": "2026-06-13T19:57:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phoenix",
+      "path": "northamerica/unitedstates/arizona/phoenix",
+      "prior_score": -4.5127,
+      "prior_variance": 0.742261,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -7.3552,
+      "prior_variance": 1.112136,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -2.6217,
+      "prior_variance": 0.637372,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Cavan",
+      "path": "europe/ireland/cavan",
+      "prior_score": -5.4981,
+      "prior_variance": 1.17035,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Neubrandenburg",
+      "path": "europe/germany/mecklenburgwesternpomerania/neubrandenburg",
+      "prior_score": -2.5871,
+      "prior_variance": 0.857852,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -6.2854,
+      "prior_variance": 0.435442,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -8.0056,
+      "prior_variance": 0.638727,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -6.9883,
+      "prior_variance": 0.683182,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -1.9386,
+      "prior_variance": 0.589103,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -8.9548,
+      "prior_variance": 0.579839,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -5.9489,
+      "prior_variance": 0.625081,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Fergus Falls",
+      "path": "northamerica/unitedstates/minnesota/fergus_falls",
+      "prior_score": -6.931,
+      "prior_variance": 0.639305,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Dover-Foxcroft",
+      "path": "northamerica/unitedstates/maine/doverfoxcroft",
+      "prior_score": -7.8448,
+      "prior_variance": 0.484501,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -4.8185,
+      "prior_variance": 0.679658,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -0.0629,
+      "prior_variance": 0.620592,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -5.2647,
+      "prior_variance": 0.732183,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -5.137,
+      "prior_variance": 0.702613,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -8.3745,
+      "prior_variance": 0.610725,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -4.3128,
+      "prior_variance": 0.669177,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -7.7719,
+      "prior_variance": 0.712759,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Rajsamand",
+      "path": "asia/india/rajasthan/rajsamand",
+      "prior_score": -0.7963,
+      "prior_variance": 0.664794,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -3.9608,
+      "prior_variance": 0.650972,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Croydon",
+      "path": "europe/unitedkingdom/england/south_east/croydon",
+      "prior_score": -7.4507,
+      "prior_variance": 0.638201,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -6.4229,
+      "prior_variance": 0.660532,
+      "prior_n": 2
+    }
+  ]
+}

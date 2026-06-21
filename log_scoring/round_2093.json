@@ -1,0 +1,200 @@
+{
+  "round": 2093,
+  "timestamp": "2026-06-13T21:18:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 10.4424,
+      "prior_variance": 0.434468,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 9.1185,
+      "prior_variance": 0.282878,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 7.462,
+      "prior_variance": 0.48674,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Virgin Gorda",
+      "path": "northamerica/britishvirginislands/virgingorda",
+      "prior_score": 8.0369,
+      "prior_variance": 0.431729,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Lake George",
+      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
+      "prior_score": 2.3896,
+      "prior_variance": 0.270534,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 3.9449,
+      "prior_variance": 0.27196,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 1.8829,
+      "prior_variance": 0.218574,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Bastogne",
+      "path": "europe/belgium/bastogne",
+      "prior_score": -0.0717,
+      "prior_variance": 0.322356,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Wuhan",
+      "path": "asia/china/hubei/wuhan",
+      "prior_score": -1.9351,
+      "prior_variance": 0.206783,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -3.3787,
+      "prior_variance": 0.25303,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -2.4849,
+      "prior_variance": 0.226063,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.6762,
+      "prior_variance": 0.340665,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -1.7385,
+      "prior_variance": 0.195225,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Ballymena",
+      "path": "europe/unitedkingdom/northernireland/ballymena",
+      "prior_score": -3.7395,
+      "prior_variance": 0.271329,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -5.2804,
+      "prior_variance": 0.347428,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Barquisimeto",
+      "path": "southamerica/venezuela/barquisimeto",
+      "prior_score": -5.567,
+      "prior_variance": 0.243818,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.4367,
+      "prior_variance": 0.238085,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -5.967,
+      "prior_variance": 0.241542,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Tangshan",
+      "path": "asia/china/hebei/tangshan",
+      "prior_score": -5.6973,
+      "prior_variance": 0.232806,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Gen. Trias",
+      "path": "asia/philippines/gentrias",
+      "prior_score": -6.0219,
+      "prior_variance": 0.277787,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_score": -6.462,
+      "prior_variance": 0.318042,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -7.0405,
+      "prior_variance": 0.226407,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -10.8482,
+      "prior_variance": 0.362248,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -8.2489,
+      "prior_variance": 0.423309,
+      "prior_n": 6
+    }
+  ]
+}

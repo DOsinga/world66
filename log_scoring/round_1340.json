@@ -1,0 +1,200 @@
+{
+  "round": 1340,
+  "timestamp": "2026-06-13T20:24:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 11.2134,
+      "prior_variance": 0.666269,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ajanta Caves",
+      "path": "asia/india/maharashtra/ajanta_caves",
+      "prior_score": 9.2487,
+      "prior_variance": 0.398505,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Rovinj",
+      "path": "europe/croatia/rovinj",
+      "prior_score": 9.7639,
+      "prior_variance": 0.421422,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Island Vis",
+      "path": "europe/croatia/island_vis",
+      "prior_score": 6.9459,
+      "prior_variance": 0.363649,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 9.5559,
+      "prior_variance": 0.453897,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kabelv\u00e5g",
+      "path": "europe/norway/lofotenislands/kabelvg",
+      "prior_score": 6.9711,
+      "prior_variance": 0.451599,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 9.3853,
+      "prior_variance": 0.435383,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 5.6044,
+      "prior_variance": 0.307899,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Grand Gaube",
+      "path": "africa/mauritius/grand_gaube",
+      "prior_score": 4.4133,
+      "prior_variance": 0.475414,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.0273,
+      "prior_variance": 0.319967,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.9313,
+      "prior_variance": 0.35575,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.1783,
+      "prior_variance": 0.34836,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 0.227,
+      "prior_variance": 0.30963,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Sanl\u00facar de Barrameda",
+      "path": "europe/spain/andalucia/sanlcar",
+      "prior_score": 3.7421,
+      "prior_variance": 0.300145,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.3396,
+      "prior_variance": 0.309216,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -5.2181,
+      "prior_variance": 0.343136,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Geelong",
+      "path": "australiaandpacific/australia/victoria/geelong",
+      "prior_score": -0.6267,
+      "prior_variance": 0.304901,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Hassan Abdal",
+      "path": "asia/pakistan/hassan_abdal",
+      "prior_score": -4.5312,
+      "prior_variance": 0.391615,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Copiap\u00f3",
+      "path": "southamerica/chile/copiapo",
+      "prior_score": -5.1148,
+      "prior_variance": 0.518167,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.9969,
+      "prior_variance": 0.444854,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Maadi",
+      "path": "africa/egypt/maadi",
+      "prior_score": -5.0251,
+      "prior_variance": 0.39027,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -6.9452,
+      "prior_variance": 0.418241,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -7.8252,
+      "prior_variance": 0.603992,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Turkmenbashi",
+      "path": "asia/turkmenistan/turkmenbashi",
+      "prior_score": -6.6358,
+      "prior_variance": 0.409822,
+      "prior_n": 4
+    }
+  ]
+}

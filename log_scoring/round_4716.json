@@ -1,0 +1,200 @@
+{
+  "round": 4716,
+  "timestamp": "2026-06-14T00:35:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Punta Cana",
+      "path": "northamerica/dominicanrepublic/punta_cana",
+      "prior_score": 6.237,
+      "prior_variance": 0.102107,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 4.95,
+      "prior_variance": 0.100225,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 2.9591,
+      "prior_variance": 0.104165,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 4.3855,
+      "prior_variance": 0.100156,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 4.4876,
+      "prior_variance": 0.091819,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Passau",
+      "path": "europe/germany/bavaria/passau",
+      "prior_score": 4.1418,
+      "prior_variance": 0.105803,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 3.9512,
+      "prior_variance": 0.091098,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.3375,
+      "prior_variance": 0.084418,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Metz",
+      "path": "europe/france/east/lorraine/metz",
+      "prior_score": 2.6909,
+      "prior_variance": 0.093353,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 3.8924,
+      "prior_variance": 0.086486,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 2.7008,
+      "prior_variance": 0.090618,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "San Ignacio",
+      "path": "northamerica/belize/sanignacio",
+      "prior_score": 2.9716,
+      "prior_variance": 0.103796,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Isafjordur",
+      "path": "europe/iceland/isafjordur",
+      "prior_score": 3.1361,
+      "prior_variance": 0.089756,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.2868,
+      "prior_variance": 0.082488,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 1.8133,
+      "prior_variance": 0.088501,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Neretva River",
+      "path": "europe/bosniaandherzegovina/neretva_river_1",
+      "prior_score": 1.3695,
+      "prior_variance": 0.092281,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": -0.4471,
+      "prior_variance": 0.090945,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.4149,
+      "prior_variance": 0.131369,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.3635,
+      "prior_variance": 0.086731,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -1.9956,
+      "prior_variance": 0.088283,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Scotts Bluff",
+      "path": "northamerica/unitedstates/nebraska/scottsbluff",
+      "prior_score": -2.669,
+      "prior_variance": 0.091081,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Anatom",
+      "path": "australiaandpacific/vanuatu/anatom",
+      "prior_score": -0.2334,
+      "prior_variance": 0.096718,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -2.6426,
+      "prior_variance": 0.086948,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -5.1452,
+      "prior_variance": 0.103384,
+      "prior_n": 15
+    }
+  ]
+}

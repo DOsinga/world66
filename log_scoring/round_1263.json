@@ -1,0 +1,200 @@
+{
+  "round": 1263,
+  "timestamp": "2026-06-13T20:20:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Vito di Cadore",
+      "path": "europe/italy/veneto/san_vito_di_cadore",
+      "prior_score": 4.1242,
+      "prior_variance": 0.369655,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Asti",
+      "path": "europe/italy/piemonte/asti",
+      "prior_score": 4.3859,
+      "prior_variance": 0.42516,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Kumamoto",
+      "path": "asia/japan/kyushu/kumamoto",
+      "prior_score": 6.36,
+      "prior_variance": 0.423484,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Brno",
+      "path": "europe/czechrepublic/brno",
+      "prior_score": 2.5742,
+      "prior_variance": 0.51824,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Llangollen",
+      "path": "europe/unitedkingdom/wales/llangollen",
+      "prior_score": 2.2667,
+      "prior_variance": 0.341192,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -2.0726,
+      "prior_variance": 0.320124,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Granada",
+      "path": "northamerica/nicaragua/granada",
+      "prior_score": 3.3824,
+      "prior_variance": 0.345816,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -1.04,
+      "prior_variance": 0.314954,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Terrassa",
+      "path": "europe/spain/catalonia/terrassa",
+      "prior_score": -2.3311,
+      "prior_variance": 0.564115,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Bochnia",
+      "path": "europe/poland/bochnia",
+      "prior_score": -3.2949,
+      "prior_variance": 0.393686,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.5613,
+      "prior_variance": 0.41535,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": 0.0664,
+      "prior_variance": 0.369513,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -6.604,
+      "prior_variance": 0.659925,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -2.7378,
+      "prior_variance": 0.364444,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -3.5564,
+      "prior_variance": 0.397741,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Hamilton",
+      "path": "northamerica/unitedstates/ohio/hamilton",
+      "prior_score": -6.998,
+      "prior_variance": 0.389512,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -8.3582,
+      "prior_variance": 0.607118,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -9.6589,
+      "prior_variance": 0.423365,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -7.2676,
+      "prior_variance": 0.59432,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -6.3969,
+      "prior_variance": 0.840857,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -7.9602,
+      "prior_variance": 0.4481,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Saint-Marc",
+      "path": "northamerica/thecaribbean/haiti/saintmarc",
+      "prior_score": -9.7628,
+      "prior_variance": 0.492229,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -7.9791,
+      "prior_variance": 0.559107,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -11.6765,
+      "prior_variance": 0.6179,
+      "prior_n": 4
+    }
+  ]
+}

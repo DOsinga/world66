@@ -1,0 +1,200 @@
+{
+  "round": 2136,
+  "timestamp": "2026-06-13T21:21:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milos",
+      "path": "europe/greece/milos",
+      "prior_score": 8.9029,
+      "prior_variance": 0.425112,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Pamukkale",
+      "path": "asia/turkey/gallipoli_troy/pamukkale",
+      "prior_score": 8.2914,
+      "prior_variance": 0.292299,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 9.6175,
+      "prior_variance": 0.447815,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Khumbu",
+      "path": "asia/nepal/khumbu",
+      "prior_score": 14.2366,
+      "prior_variance": 0.980037,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 7.0534,
+      "prior_variance": 0.397311,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 7.3986,
+      "prior_variance": 0.327678,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Deauville",
+      "path": "europe/france/normandybrittany/deauville",
+      "prior_score": 4.1737,
+      "prior_variance": 0.193761,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.389,
+      "prior_variance": 0.199214,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 4.7544,
+      "prior_variance": 0.225069,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 2.7824,
+      "prior_variance": 0.204592,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 3.8596,
+      "prior_variance": 0.261709,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": -0.1844,
+      "prior_variance": 0.181641,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Biha\u0107",
+      "path": "europe/bosniaandherzegovina/bihac",
+      "prior_score": -0.6005,
+      "prior_variance": 0.190261,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.8069,
+      "prior_variance": 0.178953,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -2.008,
+      "prior_variance": 0.181428,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -0.8394,
+      "prior_variance": 0.233206,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": 0.0117,
+      "prior_variance": 0.182262,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Lohals",
+      "path": "europe/denmark/lohals",
+      "prior_score": -2.248,
+      "prior_variance": 0.193535,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.3224,
+      "prior_variance": 0.205346,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Ottery St Mary",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/otterystmary",
+      "prior_score": -3.2157,
+      "prior_variance": 0.19705,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Arcadia",
+      "path": "northamerica/unitedstates/california/arcadia",
+      "prior_score": -3.2109,
+      "prior_variance": 0.184556,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -4.055,
+      "prior_variance": 0.206351,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -14.3865,
+      "prior_variance": 0.877886,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Nampo",
+      "path": "asia/northkorea/nanpo",
+      "prior_score": -11.6241,
+      "prior_variance": 1.531478,
+      "prior_n": 7
+    }
+  ]
+}

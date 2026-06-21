@@ -1,0 +1,200 @@
+{
+  "round": 564,
+  "timestamp": "2026-06-13T19:42:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -0.4541,
+      "prior_variance": 1.680626,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": -1.4596,
+      "prior_variance": 0.94132,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": -3.7856,
+      "prior_variance": 1.30185,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -3.4784,
+      "prior_variance": 1.213281,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": -3.2008,
+      "prior_variance": 1.468957,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -3.1286,
+      "prior_variance": 1.300512,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": -1.4374,
+      "prior_variance": 0.982684,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": -2.6987,
+      "prior_variance": 0.911911,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -3.0484,
+      "prior_variance": 1.215387,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Coquitlam",
+      "path": "northamerica/canada/britishcolumbia/vancouver/coquitlam",
+      "prior_score": -4.9188,
+      "prior_variance": 1.182089,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -1.5232,
+      "prior_variance": 0.884124,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -3.8685,
+      "prior_variance": 1.27473,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -4.6089,
+      "prior_variance": 1.097217,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -4.8841,
+      "prior_variance": 1.099414,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -6.2118,
+      "prior_variance": 1.138602,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -3.7132,
+      "prior_variance": 0.763914,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.662,
+      "prior_variance": 0.936805,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -7.841,
+      "prior_variance": 1.202309,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -7.8525,
+      "prior_variance": 0.688077,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -6.97,
+      "prior_variance": 1.457592,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -7.7514,
+      "prior_variance": 0.735052,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -8.3505,
+      "prior_variance": 1.365979,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -7.4612,
+      "prior_variance": 1.445883,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -7.6283,
+      "prior_variance": 2.065966,
+      "prior_n": 1
+    }
+  ]
+}

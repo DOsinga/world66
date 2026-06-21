@@ -1,0 +1,200 @@
+{
+  "round": 828,
+  "timestamp": "2026-06-13T19:55:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 2.4895,
+      "prior_variance": 1.338975,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Trojmiasto",
+      "path": "europe/poland/trojmiasto",
+      "prior_score": 3.4742,
+      "prior_variance": 0.743083,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": 3.77,
+      "prior_variance": 0.441448,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.3466,
+      "prior_variance": 0.420741,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 3.4943,
+      "prior_variance": 0.665186,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gaziantep",
+      "path": "asia/turkey/gaziantep",
+      "prior_score": 3.4915,
+      "prior_variance": 0.651567,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 3.1464,
+      "prior_variance": 0.453946,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 3.8249,
+      "prior_variance": 0.693519,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 4.1194,
+      "prior_variance": 0.570124,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Reno",
+      "path": "northamerica/unitedstates/nevada/reno",
+      "prior_score": 2.2243,
+      "prior_variance": 0.571013,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 2.7199,
+      "prior_variance": 0.939065,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Bandar Seri Begawan",
+      "path": "asia/brunei/bandarseribegawan",
+      "prior_score": 2.6969,
+      "prior_variance": 0.681435,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 2.1033,
+      "prior_variance": 1.003064,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 2.7915,
+      "prior_variance": 0.650282,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 3.2727,
+      "prior_variance": 0.781925,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 2.5938,
+      "prior_variance": 0.660658,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": 2.2793,
+      "prior_variance": 0.616352,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Fogo",
+      "path": "africa/capeverde/fogo",
+      "prior_score": 3.1134,
+      "prior_variance": 0.480764,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 2.107,
+      "prior_variance": 0.807378,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": 1.7132,
+      "prior_variance": 0.624759,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Oualidia",
+      "path": "africa/morocco/oualidia",
+      "prior_score": 3.7973,
+      "prior_variance": 0.673338,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 2.6728,
+      "prior_variance": 0.583991,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 1.9139,
+      "prior_variance": 0.599746,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 1.3816,
+      "prior_variance": 1.130587,
+      "prior_n": 2
+    }
+  ]
+}

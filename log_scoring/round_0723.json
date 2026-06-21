@@ -1,0 +1,200 @@
+{
+  "round": 723,
+  "timestamp": "2026-06-13T19:50:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -6.9074,
+      "prior_variance": 0.729183,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Witten",
+      "path": "europe/germany/northrhinewestphalia/witten",
+      "prior_score": -10.5749,
+      "prior_variance": 0.793012,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Hagen",
+      "path": "europe/germany/northrhinewestphalia/hagen",
+      "prior_score": -7.9602,
+      "prior_variance": 0.596216,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st",
+      "prior_score": -8.3215,
+      "prior_variance": 1.186319,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Newark",
+      "path": "northamerica/unitedstates/newjersey/newark",
+      "prior_score": -9.3815,
+      "prior_variance": 0.619259,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -8.0721,
+      "prior_variance": 0.955125,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Iroquois Falls",
+      "path": "northamerica/canada/ontario/iroquoisfalls",
+      "prior_score": -9.1722,
+      "prior_variance": 1.106993,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/southdakota/madison",
+      "prior_score": -9.7654,
+      "prior_variance": 0.966296,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -10.3021,
+      "prior_variance": 1.098104,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Mopti",
+      "path": "africa/mali/mopti",
+      "prior_score": -7.2454,
+      "prior_variance": 0.86548,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -6.2771,
+      "prior_variance": 0.78704,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -9.2033,
+      "prior_variance": 0.580617,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "General Santos City",
+      "path": "asia/philippines/generalsantoscity",
+      "prior_score": -10.5616,
+      "prior_variance": 1.282645,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Buea",
+      "path": "africa/cameroon/buea",
+      "prior_score": -7.5266,
+      "prior_variance": 1.553011,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -9.0719,
+      "prior_variance": 1.003646,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Changde",
+      "path": "asia/china/hunan/changde",
+      "prior_score": -7.8523,
+      "prior_variance": 0.680424,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -9.5148,
+      "prior_variance": 1.09232,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -8.5123,
+      "prior_variance": 1.005631,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Mandsaur",
+      "path": "asia/india/madhyapradesh/mandsaur",
+      "prior_score": -11.3725,
+      "prior_variance": 1.318074,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -9.7222,
+      "prior_variance": 0.648082,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Guide",
+      "path": "asia/china/qinghai/guide",
+      "prior_score": -9.4904,
+      "prior_variance": 0.898714,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ferizaj",
+      "path": "europe/serbia/kosovoprovince/ferizaj",
+      "prior_score": -11.3655,
+      "prior_variance": 1.356767,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -9.0841,
+      "prior_variance": 0.852808,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -8.769,
+      "prior_variance": 1.494598,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1176,
+  "timestamp": "2026-06-13T20:15:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 8.425,
+      "prior_variance": 0.474294,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 9.0992,
+      "prior_variance": 0.553759,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 4.1917,
+      "prior_variance": 0.479549,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.7226,
+      "prior_variance": 0.396237,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.5293,
+      "prior_variance": 0.468526,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Madurai",
+      "path": "asia/india/tamilnadu/madurai",
+      "prior_score": 5.9733,
+      "prior_variance": 1.453579,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 1.7669,
+      "prior_variance": 0.520942,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.9932,
+      "prior_variance": 0.335244,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -2.8808,
+      "prior_variance": 0.444295,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.5891,
+      "prior_variance": 0.803662,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Blagoevgrad",
+      "path": "europe/bulgaria/blagoevgrad",
+      "prior_score": -4.7439,
+      "prior_variance": 0.463132,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_score": -3.7285,
+      "prior_variance": 0.463135,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -3.1753,
+      "prior_variance": 0.401457,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -1.3163,
+      "prior_variance": 0.299504,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Libreville",
+      "path": "africa/gabon/libreville",
+      "prior_score": -7.0286,
+      "prior_variance": 0.790924,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -5.11,
+      "prior_variance": 0.488763,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -4.9375,
+      "prior_variance": 0.594446,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.2133,
+      "prior_variance": 0.288676,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -5.6424,
+      "prior_variance": 0.500866,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -6.7992,
+      "prior_variance": 0.576287,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -7.567,
+      "prior_variance": 0.460932,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -4.144,
+      "prior_variance": 0.462498,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -5.7304,
+      "prior_variance": 0.471494,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "\u201cMorgan City\u201d",
+      "path": "northamerica/unitedstates/louisiana/morgan_city",
+      "prior_score": -5.7776,
+      "prior_variance": 0.392468,
+      "prior_n": 3
+    }
+  ]
+}

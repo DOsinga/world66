@@ -1,0 +1,200 @@
+{
+  "round": 2078,
+  "timestamp": "2026-06-13T21:17:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "path": "europe/iceland/jokulsarlon",
+      "prior_score": 10.4833,
+      "prior_variance": 0.496835,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.9352,
+      "prior_variance": 0.333484,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Negril",
+      "path": "northamerica/jamaica/negril",
+      "prior_score": 6.3052,
+      "prior_variance": 0.255891,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Lefkada",
+      "path": "europe/greece/levkas",
+      "prior_score": 8.479,
+      "prior_variance": 0.355971,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 5.3585,
+      "prior_variance": 0.263778,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 5.959,
+      "prior_variance": 0.32686,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.9905,
+      "prior_variance": 0.240256,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 4.9183,
+      "prior_variance": 0.293152,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 3.366,
+      "prior_variance": 0.244614,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.8826,
+      "prior_variance": 0.246239,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 0.4628,
+      "prior_variance": 0.359844,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 2.9072,
+      "prior_variance": 0.245529,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Hawkshead",
+      "path": "europe/unitedkingdom/england/lakedistrict/hawkshead",
+      "prior_score": 2.1368,
+      "prior_variance": 0.239695,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.7423,
+      "prior_variance": 0.20266,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 1.872,
+      "prior_variance": 0.256674,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.3614,
+      "prior_variance": 0.197053,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -0.9854,
+      "prior_variance": 0.220272,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Wolfsburg",
+      "path": "europe/germany/lowersaxony/wolfsburg",
+      "prior_score": -2.1915,
+      "prior_variance": 0.180708,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -1.2297,
+      "prior_variance": 0.253421,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.648,
+      "prior_variance": 0.207576,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Urbana-Champaign",
+      "path": "northamerica/unitedstates/illinois/urbanachampaign",
+      "prior_score": -3.924,
+      "prior_variance": 0.216327,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -6.8179,
+      "prior_variance": 0.243915,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Bibala",
+      "path": "africa/angola/bibala",
+      "prior_score": -8.0549,
+      "prior_variance": 0.290123,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -7.5612,
+      "prior_variance": 0.338148,
+      "prior_n": 6
+    }
+  ]
+}

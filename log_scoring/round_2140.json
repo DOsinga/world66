@@ -1,0 +1,200 @@
+{
+  "round": 2140,
+  "timestamp": "2026-06-13T21:21:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rock Islands",
+      "path": "australiaandpacific/palau/rockislands",
+      "prior_score": 11.6069,
+      "prior_variance": 0.595545,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Moskenes",
+      "path": "europe/norway/lofotenislands/moskenes",
+      "prior_score": 8.6451,
+      "prior_variance": 0.456336,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Cefal\u00f9",
+      "path": "europe/italy/sicily/cefalu",
+      "prior_score": 8.8264,
+      "prior_variance": 0.301161,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 11.6124,
+      "prior_variance": 0.413904,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Hue",
+      "path": "asia/vietnam/hue",
+      "prior_score": 7.5516,
+      "prior_variance": 0.273622,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.2962,
+      "prior_variance": 0.39757,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 6.7925,
+      "prior_variance": 0.210353,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.6127,
+      "prior_variance": 0.179475,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.5729,
+      "prior_variance": 0.210051,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 4.0064,
+      "prior_variance": 0.196707,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hatteras Island",
+      "path": "northamerica/unitedstates/northcarolina/hatteras_island",
+      "prior_score": 2.8391,
+      "prior_variance": 0.178041,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.4408,
+      "prior_variance": 0.198631,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.4097,
+      "prior_variance": 0.189831,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.6581,
+      "prior_variance": 0.189154,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "St. John's",
+      "path": "northamerica/canada/newfoundland/stjohns",
+      "prior_score": 0.819,
+      "prior_variance": 0.213317,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 0.9156,
+      "prior_variance": 0.181409,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Fulda",
+      "path": "europe/germany/hessen/fulda",
+      "prior_score": -0.4823,
+      "prior_variance": 0.235518,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.1049,
+      "prior_variance": 0.20858,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Arouca",
+      "path": "europe/portugal/arouca",
+      "prior_score": 0.7392,
+      "prior_variance": 0.225286,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Hahndorf",
+      "path": "australiaandpacific/australia/southaustralia/handorf",
+      "prior_score": 0.8248,
+      "prior_variance": 0.203873,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.2835,
+      "prior_variance": 0.23777,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -2.1659,
+      "prior_variance": 0.321816,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 1.2254,
+      "prior_variance": 0.20231,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": 0.3556,
+      "prior_variance": 0.231173,
+      "prior_n": 6
+    }
+  ]
+}

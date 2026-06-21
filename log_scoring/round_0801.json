@@ -1,0 +1,200 @@
+{
+  "round": 801,
+  "timestamp": "2026-06-13T19:54:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marathon",
+      "path": "europe/greece/marathon",
+      "prior_score": 1.0256,
+      "prior_variance": 0.71272,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": -1.7623,
+      "prior_variance": 0.715973,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Termoli",
+      "path": "europe/italy/molise/termoli",
+      "prior_score": 0.9094,
+      "prior_variance": 0.797951,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": 0.1535,
+      "prior_variance": 0.881509,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Quetzaltenango (Xela)",
+      "path": "northamerica/guatemala/quezaltenango",
+      "prior_score": 0.9112,
+      "prior_variance": 0.841673,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": -2.0,
+      "prior_variance": 0.727258,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": 1.4995,
+      "prior_variance": 0.687707,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.7833,
+      "prior_variance": 0.756599,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Tianyahaijiao",
+      "path": "asia/china/hainanisland/tianyahaijiao",
+      "prior_score": 2.1011,
+      "prior_variance": 0.90694,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.9229,
+      "prior_variance": 0.706092,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Crystal River",
+      "path": "northamerica/unitedstates/florida/crystalriver",
+      "prior_score": 1.7572,
+      "prior_variance": 0.951805,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": 0.2357,
+      "prior_variance": 0.919763,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 1.2985,
+      "prior_variance": 0.800866,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Medjugorje",
+      "path": "europe/bosniaandherzegovina/medjugorje",
+      "prior_score": 0.8408,
+      "prior_variance": 0.723933,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -1.8171,
+      "prior_variance": 0.77617,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "K\u00e4smu",
+      "path": "europe/estonia/ksmu",
+      "prior_score": 1.4895,
+      "prior_variance": 0.757081,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": 0.9625,
+      "prior_variance": 0.965119,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Osiglia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/osiglia",
+      "prior_score": -0.4605,
+      "prior_variance": 0.771083,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lieser",
+      "path": "europe/germany/rhinelandpalatinate/mosel/lieser",
+      "prior_score": 1.5951,
+      "prior_variance": 0.616966,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Ormond Beach",
+      "path": "northamerica/unitedstates/florida/ormond_beach",
+      "prior_score": -3.6913,
+      "prior_variance": 0.639881,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": 0.2196,
+      "prior_variance": 0.612482,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": 0.02,
+      "prior_variance": 0.67066,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -0.5788,
+      "prior_variance": 0.641848,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ponta do Sol",
+      "path": "africa/capeverde/santo_antao/ponto_do_sol",
+      "prior_score": -0.4606,
+      "prior_variance": 0.579132,
+      "prior_n": 2
+    }
+  ]
+}

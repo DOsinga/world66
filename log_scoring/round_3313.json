@@ -1,0 +1,200 @@
+{
+  "round": 3313,
+  "timestamp": "2026-06-13T22:44:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.2155,
+      "prior_variance": 0.149892,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 3.3068,
+      "prior_variance": 0.148195,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Freiburg",
+      "path": "europe/germany/badenwrttemberg/freiburg",
+      "prior_score": 3.9358,
+      "prior_variance": 0.183912,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.064,
+      "prior_variance": 0.120955,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Adelboden",
+      "path": "europe/switzerland/adelboden",
+      "prior_score": 5.2039,
+      "prior_variance": 0.143113,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Corte",
+      "path": "europe/france/corsica/corte",
+      "prior_score": 3.7008,
+      "prior_variance": 0.132785,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Nyungwe National Park",
+      "path": "africa/rwanda/nyungwe_national_park",
+      "prior_score": 2.7209,
+      "prior_variance": 0.136294,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.8014,
+      "prior_variance": 0.120299,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.8917,
+      "prior_variance": 0.130217,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Borjomi",
+      "path": "europe/georgia/borjomi",
+      "prior_score": 3.1199,
+      "prior_variance": 0.136546,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 0.624,
+      "prior_variance": 0.125121,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 2.0236,
+      "prior_variance": 0.128219,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.1934,
+      "prior_variance": 0.124902,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 2.9327,
+      "prior_variance": 0.152366,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -1.9967,
+      "prior_variance": 0.227666,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.421,
+      "prior_variance": 0.115997,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Pithoragarh",
+      "path": "asia/india/uttaranchal/pithoragarh",
+      "prior_score": 0.0677,
+      "prior_variance": 0.111485,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -1.5025,
+      "prior_variance": 0.141909,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 0.0325,
+      "prior_variance": 0.132486,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.004,
+      "prior_variance": 0.138055,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Civitavecchia",
+      "path": "europe/italy/lazio/civitavecchia",
+      "prior_score": -1.1082,
+      "prior_variance": 0.138882,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -2.5098,
+      "prior_variance": 0.154301,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Miglionico",
+      "path": "europe/italy/basilicata/miglionico",
+      "prior_score": -1.8608,
+      "prior_variance": 0.146476,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -3.1908,
+      "prior_variance": 0.153519,
+      "prior_n": 11
+    }
+  ]
+}

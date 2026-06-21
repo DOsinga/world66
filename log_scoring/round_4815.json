@@ -1,0 +1,200 @@
+{
+  "round": 4815,
+  "timestamp": "2026-06-14T00:44:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 8.9881,
+      "prior_variance": 0.18213,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 7.5579,
+      "prior_variance": 0.177029,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Fez",
+      "path": "africa/morocco/fez",
+      "prior_score": 8.2495,
+      "prior_variance": 0.20361,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Pollensa",
+      "path": "europe/spain/balearicislands/mallorca/pollensa",
+      "prior_score": 5.3719,
+      "prior_variance": 0.112998,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baska",
+      "prior_score": 3.8082,
+      "prior_variance": 0.091863,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 2.7397,
+      "prior_variance": 0.083404,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "M'Hamid el Ghislane",
+      "path": "africa/morocco/mhamid_el_ghislane",
+      "prior_score": 0.136,
+      "prior_variance": 0.084242,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Vama Veche",
+      "path": "europe/romania/vama_veche",
+      "prior_score": -0.8359,
+      "prior_variance": 0.071938,
+      "prior_n": 18
+    },
+    {
+      "rank": 9,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -2.561,
+      "prior_variance": 0.09547,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.785,
+      "prior_variance": 0.102891,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -3.2312,
+      "prior_variance": 0.09067,
+      "prior_n": 18
+    },
+    {
+      "rank": 12,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -3.1429,
+      "prior_variance": 0.090227,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Galati",
+      "path": "europe/romania/galati",
+      "prior_score": -3.3815,
+      "prior_variance": 0.083108,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.8398,
+      "prior_variance": 0.088302,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -1.9564,
+      "prior_variance": 0.08416,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -2.8673,
+      "prior_variance": 0.085504,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -3.3947,
+      "prior_variance": 0.081852,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.2562,
+      "prior_variance": 0.101163,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -6.1339,
+      "prior_variance": 0.130612,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Hugo",
+      "path": "northamerica/unitedstates/oklahoma/hugo",
+      "prior_score": -6.3149,
+      "prior_variance": 0.13189,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.476,
+      "prior_variance": 0.098795,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -7.4538,
+      "prior_variance": 0.140683,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -7.8416,
+      "prior_variance": 0.177313,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.5801,
+      "prior_variance": 0.177095,
+      "prior_n": 15
+    }
+  ]
+}

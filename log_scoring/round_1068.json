@@ -1,0 +1,200 @@
+{
+  "round": 1068,
+  "timestamp": "2026-06-13T20:09:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.3293,
+      "prior_variance": 0.307482,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -2.8331,
+      "prior_variance": 0.64221,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.0114,
+      "prior_variance": 0.46364,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.347,
+      "prior_variance": 0.483298,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": -2.716,
+      "prior_variance": 0.462729,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Jakobstad",
+      "path": "europe/finland/jakobstad",
+      "prior_score": -1.8046,
+      "prior_variance": 0.468938,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Laren",
+      "path": "europe/netherlands/laren",
+      "prior_score": -2.6394,
+      "prior_variance": 0.398836,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Sonneberg",
+      "path": "europe/germany/thuringia/sonneberg",
+      "prior_score": -3.806,
+      "prior_variance": 0.47159,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Komarom",
+      "path": "europe/hungary/komarom",
+      "prior_score": -1.9408,
+      "prior_variance": 0.594191,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -2.1619,
+      "prior_variance": 0.705738,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -2.5254,
+      "prior_variance": 0.434119,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Bridgton",
+      "path": "northamerica/unitedstates/maine/bridgton",
+      "prior_score": -1.4755,
+      "prior_variance": 0.428857,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.7955,
+      "prior_variance": 0.419537,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gjakova",
+      "path": "europe/serbia/kosovoprovince/gjakova",
+      "prior_score": -5.9976,
+      "prior_variance": 0.39177,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Toli Pir",
+      "path": "asia/pakistan/azad_kashmir/toli_pir_rawalakot",
+      "prior_score": -5.1084,
+      "prior_variance": 0.536916,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Yanji",
+      "path": "asia/china/jilin/yanji",
+      "prior_score": -5.2851,
+      "prior_variance": 0.393288,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Purmerend",
+      "path": "europe/netherlands/purmerend",
+      "prior_score": -4.3113,
+      "prior_variance": 0.422082,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -5.9891,
+      "prior_variance": 0.658305,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/newhampshire/dover",
+      "prior_score": -7.3724,
+      "prior_variance": 0.817478,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -5.6178,
+      "prior_variance": 0.367369,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -6.1858,
+      "prior_variance": 0.411265,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Prince Albert",
+      "path": "northamerica/canada/saskatchewan/prince_albert",
+      "prior_score": -5.9498,
+      "prior_variance": 0.603897,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -4.4239,
+      "prior_variance": 0.424015,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Cuautla",
+      "path": "northamerica/mexico/cuatla",
+      "prior_score": -5.3485,
+      "prior_variance": 0.419527,
+      "prior_n": 3
+    }
+  ]
+}

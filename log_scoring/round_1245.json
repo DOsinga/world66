@@ -1,0 +1,200 @@
+{
+  "round": 1245,
+  "timestamp": "2026-06-13T20:19:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zermatt",
+      "path": "europe/switzerland/zermatt",
+      "prior_score": 15.9467,
+      "prior_variance": 0.874224,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "St. Croix",
+      "path": "northamerica/thecaribbean/virginislands/stcroix",
+      "prior_score": 4.8243,
+      "prior_variance": 0.504537,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 6.2283,
+      "prior_variance": 0.525544,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.5051,
+      "prior_variance": 0.451589,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.8762,
+      "prior_variance": 0.449976,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 3.9644,
+      "prior_variance": 0.427964,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Zhangye",
+      "path": "asia/china/gansu/zhangye",
+      "prior_score": 5.7681,
+      "prior_variance": 0.874221,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Kuelap",
+      "path": "southamerica/peru/kuelap",
+      "prior_score": 6.3534,
+      "prior_variance": 0.419758,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -3.3032,
+      "prior_variance": 0.429105,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -3.325,
+      "prior_variance": 0.40418,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Apolonia",
+      "path": "europe/albania/apolonia",
+      "prior_score": 0.3766,
+      "prior_variance": 0.430708,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -3.7337,
+      "prior_variance": 0.352832,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -2.8523,
+      "prior_variance": 0.324848,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -3.8381,
+      "prior_variance": 0.426817,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -3.1295,
+      "prior_variance": 0.324824,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kigoma",
+      "path": "africa/tanzania/kigoma",
+      "prior_score": -2.515,
+      "prior_variance": 0.412279,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -5.0786,
+      "prior_variance": 0.396817,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Stung Treng",
+      "path": "asia/cambodia/stung_treng",
+      "prior_score": -2.6532,
+      "prior_variance": 0.328245,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -6.5382,
+      "prior_variance": 0.635844,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -4.7813,
+      "prior_variance": 0.305781,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -5.2776,
+      "prior_variance": 0.378389,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -8.6935,
+      "prior_variance": 0.623799,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Obreg\u00f3n",
+      "path": "northamerica/mexico/ciudad_obregn",
+      "prior_score": -6.0137,
+      "prior_variance": 0.375517,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -16.8929,
+      "prior_variance": 1.250537,
+      "prior_n": 3
+    }
+  ]
+}

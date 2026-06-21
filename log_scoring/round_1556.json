@@ -1,0 +1,200 @@
+{
+  "round": 1556,
+  "timestamp": "2026-06-13T20:37:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Taipei",
+      "path": "asia/taiwan/taipei",
+      "prior_score": 9.5514,
+      "prior_variance": 0.43426,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_score": 3.7249,
+      "prior_variance": 0.358301,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 2.2971,
+      "prior_variance": 0.296802,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.8423,
+      "prior_variance": 0.275977,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 4.5427,
+      "prior_variance": 0.299116,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Pantelleria",
+      "path": "europe/italy/sicily/pantelleria",
+      "prior_score": 3.2436,
+      "prior_variance": 0.281568,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 4.3246,
+      "prior_variance": 0.277256,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": 1.2247,
+      "prior_variance": 0.248843,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.7331,
+      "prior_variance": 0.286231,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Malvern Hills",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/malvern_hills",
+      "prior_score": 0.6114,
+      "prior_variance": 0.247446,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 2.0886,
+      "prior_variance": 0.329729,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Qiyun Mountain",
+      "path": "asia/china/anhui/qiyun_mountain",
+      "prior_score": 3.1052,
+      "prior_variance": 0.285431,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.5393,
+      "prior_variance": 0.257337,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Al Hoceima",
+      "path": "africa/morocco/alhoceima",
+      "prior_score": 0.7063,
+      "prior_variance": 0.245166,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Legazpi City",
+      "path": "asia/philippines/bicol",
+      "prior_score": -2.0081,
+      "prior_variance": 0.272632,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -0.9248,
+      "prior_variance": 0.29347,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Ipiales",
+      "path": "southamerica/colombia/ipiales",
+      "prior_score": -0.9564,
+      "prior_variance": 0.320117,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kalambo Falls",
+      "path": "africa/zambia/kalambofalls",
+      "prior_score": -0.6251,
+      "prior_variance": 0.272527,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -3.2436,
+      "prior_variance": 0.240355,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -3.0362,
+      "prior_variance": 0.269619,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Changzhou",
+      "path": "asia/china/jiangsu_province/changzhou",
+      "prior_score": -4.3449,
+      "prior_variance": 0.301098,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Oss",
+      "path": "europe/netherlands/oss",
+      "prior_score": -5.5076,
+      "prior_variance": 0.367144,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bobo-dioulasso",
+      "path": "africa/burkinafaso/bobodioulasso",
+      "prior_score": -4.3542,
+      "prior_variance": 0.409542,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -8.1346,
+      "prior_variance": 0.422607,
+      "prior_n": 4
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1999,
+  "timestamp": "2026-06-13T21:11:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00cele des Pins",
+      "path": "australiaandpacific/newcaledonia/iledespins",
+      "prior_score": 7.9848,
+      "prior_variance": 0.399637,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 7.2058,
+      "prior_variance": 0.253351,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 7.2061,
+      "prior_variance": 0.295457,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 8.3029,
+      "prior_variance": 0.314378,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Terceira",
+      "path": "europe/portugal/theazores/terceira",
+      "prior_score": 5.4437,
+      "prior_variance": 0.261289,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 3.0347,
+      "prior_variance": 0.224532,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 4.9406,
+      "prior_variance": 0.262748,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 6.2871,
+      "prior_variance": 0.277497,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 4.253,
+      "prior_variance": 0.25963,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Barossa Valley",
+      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
+      "prior_score": 5.0031,
+      "prior_variance": 0.215492,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 0.8689,
+      "prior_variance": 0.201791,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 2.5577,
+      "prior_variance": 0.244272,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.5342,
+      "prior_variance": 0.216168,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.6963,
+      "prior_variance": 0.228797,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 1.2979,
+      "prior_variance": 0.259635,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Cooperstown",
+      "path": "northamerica/unitedstates/newyorkstate/cooperstown",
+      "prior_score": 1.2266,
+      "prior_variance": 0.228423,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Thakhek",
+      "path": "asia/laos/thakhek",
+      "prior_score": 0.4761,
+      "prior_variance": 0.301245,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Memphis",
+      "path": "northamerica/unitedstates/tennessee/memphis",
+      "prior_score": 3.1238,
+      "prior_variance": 0.215185,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.7114,
+      "prior_variance": 0.235536,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.4768,
+      "prior_variance": 0.191985,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -2.9186,
+      "prior_variance": 0.224919,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Fort Smith",
+      "path": "northamerica/unitedstates/arkansas/fortsmith",
+      "prior_score": -3.993,
+      "prior_variance": 0.243245,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Offenbach am Main",
+      "path": "europe/germany/hessen/offenbachammain",
+      "prior_score": -3.7096,
+      "prior_variance": 0.238595,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -7.6037,
+      "prior_variance": 0.430779,
+      "prior_n": 6
+    }
+  ]
+}

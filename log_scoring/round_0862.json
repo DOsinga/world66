@@ -1,0 +1,200 @@
+{
+  "round": 862,
+  "timestamp": "2026-06-13T19:57:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cervinia",
+      "path": "europe/italy/valledaosta/cervinia",
+      "prior_score": 6.8031,
+      "prior_variance": 0.654321,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 7.0687,
+      "prior_variance": 0.709972,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -3.6597,
+      "prior_variance": 0.907999,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Aba (Ngawa)",
+      "path": "asia/china/sichuanprovince/aba",
+      "prior_score": -3.7115,
+      "prior_variance": 0.760323,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -2.8482,
+      "prior_variance": 0.631956,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -4.8634,
+      "prior_variance": 0.49011,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -2.3387,
+      "prior_variance": 0.504581,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -4.5566,
+      "prior_variance": 0.531535,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -2.0375,
+      "prior_variance": 0.44689,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -2.3875,
+      "prior_variance": 0.642976,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -2.466,
+      "prior_variance": 0.771185,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -2.7669,
+      "prior_variance": 0.591087,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.9231,
+      "prior_variance": 0.429148,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -2.1119,
+      "prior_variance": 0.688472,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Ruili",
+      "path": "asia/china/yunnanprovince/ruili",
+      "prior_score": -4.4239,
+      "prior_variance": 0.667175,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": 0.0009,
+      "prior_variance": 0.443567,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -3.6123,
+      "prior_variance": 0.70512,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -2.8948,
+      "prior_variance": 0.517117,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Sundsvall",
+      "path": "europe/sweden/sundsvall",
+      "prior_score": -1.3659,
+      "prior_variance": 0.708841,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": -1.613,
+      "prior_variance": 0.436617,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -3.2819,
+      "prior_variance": 0.593495,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -3.9044,
+      "prior_variance": 0.701027,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Belmopan",
+      "path": "northamerica/belize/belmopan",
+      "prior_score": -2.6139,
+      "prior_variance": 0.638569,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -2.6287,
+      "prior_variance": 0.628218,
+      "prior_n": 2
+    }
+  ]
+}

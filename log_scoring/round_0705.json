@@ -1,0 +1,200 @@
+{
+  "round": 705,
+  "timestamp": "2026-06-13T19:49:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -14.2007,
+      "prior_variance": 1.317731,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -16.7002,
+      "prior_variance": 1.260838,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -15.5857,
+      "prior_variance": 2.006267,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Guymon",
+      "path": "northamerica/unitedstates/oklahoma/guymon",
+      "prior_score": -14.1137,
+      "prior_variance": 1.555635,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Williston",
+      "path": "northamerica/unitedstates/northdakota/williston",
+      "prior_score": -15.3173,
+      "prior_variance": 1.161476,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -14.8831,
+      "prior_variance": 1.140928,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Sargodha",
+      "path": "asia/pakistan/sargodha",
+      "prior_score": -15.7403,
+      "prior_variance": 1.068829,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Norus",
+      "path": "asia/kyrgyzstan/norus",
+      "prior_score": -15.8594,
+      "prior_variance": 1.02689,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -17.3358,
+      "prior_variance": 1.263039,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -16.1142,
+      "prior_variance": 1.072184,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -15.1762,
+      "prior_variance": 1.190534,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -18.9795,
+      "prior_variance": 1.561743,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Mirebalais",
+      "path": "northamerica/thecaribbean/haiti/mirebalais",
+      "prior_score": -18.3645,
+      "prior_variance": 1.036436,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -18.7811,
+      "prior_variance": 1.007281,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bossaso",
+      "path": "africa/somalia/bossaso",
+      "prior_score": -18.6707,
+      "prior_variance": 1.180642,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -16.3033,
+      "prior_variance": 2.518401,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sanaa",
+      "path": "asia/yemen/sanaa",
+      "prior_score": -16.835,
+      "prior_variance": 3.707416,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -17.9788,
+      "prior_variance": 1.621135,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Kidal",
+      "path": "africa/mali/kidal",
+      "prior_score": -18.8323,
+      "prior_variance": 1.313704,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -17.4401,
+      "prior_variance": 1.274299,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -16.7243,
+      "prior_variance": 1.184767,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -18.2908,
+      "prior_variance": 2.992676,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -17.9635,
+      "prior_variance": 1.162938,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -15.727,
+      "prior_variance": 2.360949,
+      "prior_n": 2
+    }
+  ]
+}

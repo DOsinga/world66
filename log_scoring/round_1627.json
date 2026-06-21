@@ -1,0 +1,200 @@
+{
+  "round": 1627,
+  "timestamp": "2026-06-13T20:42:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.3259,
+      "prior_variance": 0.330361,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.729,
+      "prior_variance": 0.293006,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 4.3454,
+      "prior_variance": 0.253022,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Mirador del Rio",
+      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
+      "prior_score": 3.7699,
+      "prior_variance": 0.245449,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Kampot",
+      "path": "asia/cambodia/kampot",
+      "prior_score": 2.7159,
+      "prior_variance": 0.281036,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 1.202,
+      "prior_variance": 0.262066,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 2.8479,
+      "prior_variance": 0.402335,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Dwarka",
+      "path": "asia/india/gujarat/dwarka",
+      "prior_score": 0.5072,
+      "prior_variance": 0.27488,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Kratie",
+      "path": "asia/cambodia/kratie",
+      "prior_score": 0.7571,
+      "prior_variance": 0.242122,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Manhattan Beach",
+      "path": "northamerica/unitedstates/california/manhattenbeach",
+      "prior_score": -0.4043,
+      "prior_variance": 0.247034,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Ras Al Khaimah",
+      "path": "asia/unitedarabemirates/rasalkhaimah",
+      "prior_score": 2.6142,
+      "prior_variance": 0.272049,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 2.5566,
+      "prior_variance": 0.359872,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 0.6677,
+      "prior_variance": 0.297291,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -2.4223,
+      "prior_variance": 0.33998,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": 0.149,
+      "prior_variance": 0.254246,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Apollonia",
+      "path": "africa/libya/apollonia",
+      "prior_score": -2.1514,
+      "prior_variance": 0.375804,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -2.1794,
+      "prior_variance": 0.263296,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.3925,
+      "prior_variance": 0.249405,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -0.8026,
+      "prior_variance": 0.315657,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -2.5678,
+      "prior_variance": 0.274378,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/palo_alto",
+      "prior_score": -1.0285,
+      "prior_variance": 0.302726,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -0.8413,
+      "prior_variance": 0.258897,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -4.8502,
+      "prior_variance": 0.296077,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -2.5078,
+      "prior_variance": 0.240724,
+      "prior_n": 5
+    }
+  ]
+}

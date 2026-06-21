@@ -1,0 +1,200 @@
+{
+  "round": 390,
+  "timestamp": "2026-06-13T19:32:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 8.174,
+      "prior_variance": 2.348983,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Rodrigues",
+      "path": "africa/mauritius/rodrigues",
+      "prior_score": 6.2736,
+      "prior_variance": 1.778673,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Sayulita",
+      "path": "northamerica/mexico/sayulita",
+      "prior_score": 4.2755,
+      "prior_variance": 2.321745,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 5.1176,
+      "prior_variance": 2.33732,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 1.2272,
+      "prior_variance": 1.320736,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Harvard Glacier",
+      "path": "northamerica/unitedstates/alaska/harvard_glacier",
+      "prior_score": 3.6273,
+      "prior_variance": 1.640035,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.065,
+      "prior_variance": 1.833065,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 9.1948,
+      "prior_variance": 2.811561,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Gaeta",
+      "path": "europe/italy/lazio/gaeta__ulysses_ri",
+      "prior_score": 4.532,
+      "prior_variance": 1.529938,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 5.0777,
+      "prior_variance": 1.998187,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Tokaj",
+      "path": "europe/hungary/tokaj",
+      "prior_score": 4.1386,
+      "prior_variance": 2.325134,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Hammerfest",
+      "path": "europe/norway/hammerfest",
+      "prior_score": 3.3863,
+      "prior_variance": 1.535481,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Lublin",
+      "path": "europe/poland/lublin",
+      "prior_score": -0.3406,
+      "prior_variance": 1.488301,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": -0.393,
+      "prior_variance": 1.439572,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 1.8906,
+      "prior_variance": 1.635971,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.3286,
+      "prior_variance": 1.734813,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": 1.6446,
+      "prior_variance": 1.817203,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": -0.2256,
+      "prior_variance": 2.057835,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 4.8587,
+      "prior_variance": 1.839213,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 1.0623,
+      "prior_variance": 2.251974,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -2.6131,
+      "prior_variance": 2.472397,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Port Elizabeth",
+      "path": "africa/southafrica/portelizabeth",
+      "prior_score": 0.422,
+      "prior_variance": 1.709985,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_score": 1.5587,
+      "prior_variance": 1.591259,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -4.8896,
+      "prior_variance": 2.354198,
+      "prior_n": 1
+    }
+  ]
+}

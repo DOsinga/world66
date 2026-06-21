@@ -1,0 +1,200 @@
+{
+  "round": 1275,
+  "timestamp": "2026-06-13T20:21:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint Barth\u00e9lemy",
+      "path": "northamerica/thecaribbean/saintbartholomy",
+      "prior_score": 9.4919,
+      "prior_variance": 0.359145,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 6.1462,
+      "prior_variance": 0.398163,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 4.5225,
+      "prior_variance": 0.370797,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 9.0308,
+      "prior_variance": 0.428718,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Salamanca",
+      "path": "europe/spain/centralspain/salamanca",
+      "prior_score": 8.4292,
+      "prior_variance": 0.57136,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Santa Barbara",
+      "path": "northamerica/unitedstates/california/centralcoast/santabarbara",
+      "prior_score": 7.7176,
+      "prior_variance": 0.489248,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lake Titicaca",
+      "path": "southamerica/bolivia/laketiticaca",
+      "prior_score": 8.8103,
+      "prior_variance": 0.379545,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 5.2342,
+      "prior_variance": 0.479195,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 4.7982,
+      "prior_variance": 0.319376,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/goldenears",
+      "prior_score": 0.9214,
+      "prior_variance": 0.299209,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": 0.3127,
+      "prior_variance": 0.29478,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Vard\u00f8",
+      "path": "europe/norway/vardo",
+      "prior_score": -0.1222,
+      "prior_variance": 0.365704,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.8099,
+      "prior_variance": 0.315668,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -0.8472,
+      "prior_variance": 0.345226,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.4151,
+      "prior_variance": 0.332227,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 2.7715,
+      "prior_variance": 0.297174,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -4.8312,
+      "prior_variance": 0.467246,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -2.5054,
+      "prior_variance": 0.373802,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Laguna Niguel",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunaniguel",
+      "prior_score": -4.3203,
+      "prior_variance": 0.351422,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -3.1199,
+      "prior_variance": 0.435612,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Zhangzhou",
+      "path": "asia/china/fujianprovince/zhangzhou",
+      "prior_score": -1.9617,
+      "prior_variance": 0.296575,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -4.3229,
+      "prior_variance": 0.392185,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Asuncion",
+      "path": "southamerica/paraguay/asuncion",
+      "prior_score": -1.5031,
+      "prior_variance": 0.342884,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Tuguegarao City",
+      "path": "asia/philippines/tuguegaraocity",
+      "prior_score": -5.4933,
+      "prior_variance": 0.483539,
+      "prior_n": 4
+    }
+  ]
+}

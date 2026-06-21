@@ -1,0 +1,200 @@
+{
+  "round": 1385,
+  "timestamp": "2026-06-13T20:27:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 8.7538,
+      "prior_variance": 0.341087,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 6.8677,
+      "prior_variance": 0.360522,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Uxmal",
+      "path": "northamerica/mexico/yucatan/uxmal",
+      "prior_score": 4.7974,
+      "prior_variance": 0.488464,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Roat\u00e1n",
+      "path": "northamerica/honduras/bayislands/roatan",
+      "prior_score": 6.0746,
+      "prior_variance": 0.352205,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Ninh Binh",
+      "path": "asia/vietnam/ninh_binh",
+      "prior_score": 5.4624,
+      "prior_variance": 0.417361,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 5.5058,
+      "prior_variance": 0.493371,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Trincomalee",
+      "path": "asia/srilanka/trincomalee",
+      "prior_score": 4.1246,
+      "prior_variance": 0.335829,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Balicasag Island",
+      "path": "asia/philippines/bohol/balicasag",
+      "prior_score": 6.6148,
+      "prior_variance": 0.276892,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": -0.2123,
+      "prior_variance": 0.304905,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 2.0485,
+      "prior_variance": 0.309008,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Zahara de la Sierra",
+      "path": "europe/spain/andalucia/zaharadelasierra",
+      "prior_score": 4.351,
+      "prior_variance": 0.324501,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Atacames",
+      "path": "southamerica/ecuador/atacames",
+      "prior_score": -0.7587,
+      "prior_variance": 0.308899,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Shrewsbury",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/shrewsbury",
+      "prior_score": 1.324,
+      "prior_variance": 0.300137,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.7292,
+      "prior_variance": 0.303179,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Lidk\u00f6ping",
+      "path": "europe/sweden/lidkping",
+      "prior_score": -1.7431,
+      "prior_variance": 0.300539,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -4.1726,
+      "prior_variance": 0.295687,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -1.9031,
+      "prior_variance": 0.310818,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -4.279,
+      "prior_variance": 0.346603,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.8209,
+      "prior_variance": 0.376231,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.5177,
+      "prior_variance": 0.307882,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -5.4825,
+      "prior_variance": 0.580032,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Aligarh",
+      "path": "asia/india/uttarpradesh/aligarh",
+      "prior_score": -6.5117,
+      "prior_variance": 0.340302,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -5.7696,
+      "prior_variance": 0.47608,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Myoyangsan",
+      "path": "asia/northkorea/myoyangsan",
+      "prior_score": -6.3153,
+      "prior_variance": 0.549949,
+      "prior_n": 4
+    }
+  ]
+}

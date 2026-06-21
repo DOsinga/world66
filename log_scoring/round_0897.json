@@ -1,0 +1,200 @@
+{
+  "round": 897,
+  "timestamp": "2026-06-13T19:59:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petra",
+      "path": "asia/jordan/petra",
+      "prior_score": 18.3949,
+      "prior_variance": 2.045594,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Palawan Island",
+      "path": "asia/philippines/palawanisland",
+      "prior_score": 15.7903,
+      "prior_variance": 4.033345,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Ngorongoro Crater",
+      "path": "africa/tanzania/ngorongorocrater",
+      "prior_score": 13.352,
+      "prior_variance": 1.593356,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 16.0693,
+      "prior_variance": 1.229381,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 13.6299,
+      "prior_variance": 1.13369,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 13.5684,
+      "prior_variance": 2.589833,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 12.7528,
+      "prior_variance": 2.619978,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Capri",
+      "path": "europe/italy/campania/capri",
+      "prior_score": 13.9824,
+      "prior_variance": 1.009561,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Hydra",
+      "path": "europe/greece/hydra",
+      "prior_score": 12.0505,
+      "prior_variance": 1.544479,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 13.5866,
+      "prior_variance": 1.100816,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 12.3378,
+      "prior_variance": 1.308004,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 12.0833,
+      "prior_variance": 1.221258,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Lijiang",
+      "path": "asia/china/yunnanprovince/lijiang",
+      "prior_score": 14.7369,
+      "prior_variance": 1.615882,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 9.7866,
+      "prior_variance": 1.117217,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 14.4748,
+      "prior_variance": 1.004245,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 11.0433,
+      "prior_variance": 1.566954,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sedona",
+      "path": "northamerica/unitedstates/arizona/sedona",
+      "prior_score": 12.1412,
+      "prior_variance": 0.790613,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 13.0388,
+      "prior_variance": 1.011035,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tallinn",
+      "path": "europe/estonia/tallinn",
+      "prior_score": 14.0285,
+      "prior_variance": 1.361042,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 11.9124,
+      "prior_variance": 0.827215,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 15.0105,
+      "prior_variance": 1.460339,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 12.1584,
+      "prior_variance": 0.660877,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 11.9541,
+      "prior_variance": 1.0569,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 13.2823,
+      "prior_variance": 0.826122,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 887,
+  "timestamp": "2026-06-13T19:59:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -9.3367,
+      "prior_variance": 0.822562,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Dili",
+      "path": "asia/easttimor/dili",
+      "prior_score": -8.5184,
+      "prior_variance": 0.897067,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bartica",
+      "path": "southamerica/guyana/bartica",
+      "prior_score": -10.2814,
+      "prior_variance": 0.757428,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -11.2441,
+      "prior_variance": 0.680167,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -9.1701,
+      "prior_variance": 0.542831,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -10.0377,
+      "prior_variance": 0.715016,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Troy",
+      "path": "northamerica/unitedstates/newyorkstate/troy",
+      "prior_score": -7.7005,
+      "prior_variance": 0.583564,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Onstwedde",
+      "path": "europe/netherlands/onstwedde",
+      "prior_score": -10.8218,
+      "prior_variance": 1.055276,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -11.4713,
+      "prior_variance": 1.065058,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -10.8908,
+      "prior_variance": 0.619268,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -12.5454,
+      "prior_variance": 1.119712,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "McPherson",
+      "path": "northamerica/unitedstates/kansas/mcpherson",
+      "prior_score": -11.4108,
+      "prior_variance": 1.091509,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Clovis",
+      "path": "northamerica/unitedstates/newmexico/clovis",
+      "prior_score": -9.4978,
+      "prior_variance": 0.644043,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Ardmore",
+      "path": "northamerica/unitedstates/oklahoma/ardmore",
+      "prior_score": -9.2895,
+      "prior_variance": 1.381198,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -9.8971,
+      "prior_variance": 1.170554,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Oologah",
+      "path": "northamerica/unitedstates/oklahoma/oolagah",
+      "prior_score": -9.9487,
+      "prior_variance": 0.82779,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Berrien Springs",
+      "path": "northamerica/unitedstates/michigan/berrien_springs",
+      "prior_score": -9.3628,
+      "prior_variance": 1.128543,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Sterling",
+      "path": "northamerica/unitedstates/utah/sterling",
+      "prior_score": -9.856,
+      "prior_variance": 1.090259,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Flint",
+      "path": "northamerica/unitedstates/michigan/flint",
+      "prior_score": -13.2332,
+      "prior_variance": 1.088461,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Dera Ismail Khan",
+      "path": "asia/pakistan/dera_ismail_khan",
+      "prior_score": -13.618,
+      "prior_variance": 1.708436,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -11.1315,
+      "prior_variance": 0.491289,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -8.4726,
+      "prior_variance": 1.100668,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Corrush",
+      "path": "europe/albania/mallakaster/corrush",
+      "prior_score": -11.4976,
+      "prior_variance": 0.918374,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Hisar",
+      "path": "asia/tajikistan/hisar",
+      "prior_score": -8.4888,
+      "prior_variance": 0.637027,
+      "prior_n": 3
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2193,
+  "timestamp": "2026-06-13T21:25:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 17.2198,
+      "prior_variance": 1.454368,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 5.2315,
+      "prior_variance": 0.19703,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Arusha",
+      "path": "africa/tanzania/arusha",
+      "prior_score": 4.0746,
+      "prior_variance": 0.222346,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.7989,
+      "prior_variance": 0.381118,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tagbilaran",
+      "path": "asia/philippines/bohol/tagbilaran",
+      "prior_score": 3.1087,
+      "prior_variance": 0.243812,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.8935,
+      "prior_variance": 0.210724,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": -0.0275,
+      "prior_variance": 0.170887,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.4727,
+      "prior_variance": 0.161887,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 2.1689,
+      "prior_variance": 0.18366,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.417,
+      "prior_variance": 0.197067,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.6025,
+      "prior_variance": 0.188131,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.0465,
+      "prior_variance": 0.205391,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 2.8885,
+      "prior_variance": 0.205347,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Arras",
+      "path": "europe/france/nord/arras",
+      "prior_score": 0.5821,
+      "prior_variance": 0.185365,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Falaise",
+      "path": "europe/france/normandybrittany/falaise",
+      "prior_score": 2.0993,
+      "prior_variance": 0.194368,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Dortmund",
+      "path": "europe/germany/northrhinewestphalia/dortmund",
+      "prior_score": -1.908,
+      "prior_variance": 0.196681,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Banyoles",
+      "path": "europe/spain/catalonia/banyoles",
+      "prior_score": 0.2441,
+      "prior_variance": 0.183155,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 3.0966,
+      "prior_variance": 0.213031,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 1.2373,
+      "prior_variance": 0.239211,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Lanzhou",
+      "path": "asia/china/gansu/lanzhou",
+      "prior_score": -3.0251,
+      "prior_variance": 0.185776,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": -1.249,
+      "prior_variance": 0.184933,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -2.6436,
+      "prior_variance": 0.202793,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -6.3796,
+      "prior_variance": 0.217718,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -6.756,
+      "prior_variance": 0.271428,
+      "prior_n": 6
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 2684,
+  "timestamp": "2026-06-13T21:59:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.7411,
+      "prior_variance": 0.242181,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Tbilisi",
+      "path": "europe/georgia/tbilisi",
+      "prior_score": 7.8306,
+      "prior_variance": 0.510348,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.7428,
+      "prior_variance": 0.187425,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 3.7883,
+      "prior_variance": 0.163571,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Demre (Myra)",
+      "path": "asia/turkey/demre",
+      "prior_score": 1.6662,
+      "prior_variance": 0.14702,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Nuoro",
+      "path": "europe/italy/sardinia/nuoro",
+      "prior_score": 1.0603,
+      "prior_variance": 0.149635,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Mazara del Vallo",
+      "path": "europe/italy/sicily/mazara_del_vallo",
+      "prior_score": 0.948,
+      "prior_variance": 0.153001,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Meknes",
+      "path": "africa/morocco/meknes",
+      "prior_score": 3.8105,
+      "prior_variance": 0.195261,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -3.2974,
+      "prior_variance": 0.166479,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Invercargill",
+      "path": "australiaandpacific/newzealand/south_island/otago/invercargill",
+      "prior_score": -1.0081,
+      "prior_variance": 0.151784,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -1.61,
+      "prior_variance": 0.158361,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": -0.6287,
+      "prior_variance": 0.149054,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -3.7234,
+      "prior_variance": 0.199143,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Cruden Bay",
+      "path": "europe/unitedkingdom/scotland/cruden_bay",
+      "prior_score": -0.6462,
+      "prior_variance": 0.160558,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -3.2425,
+      "prior_variance": 0.182018,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.3506,
+      "prior_variance": 0.143799,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Awash National Park",
+      "path": "africa/ethiopia/awashnationalpark",
+      "prior_score": 0.2777,
+      "prior_variance": 0.14891,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -3.6758,
+      "prior_variance": 0.148947,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -1.9035,
+      "prior_variance": 0.174701,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Masbate",
+      "path": "asia/philippines/masbate",
+      "prior_score": -2.6166,
+      "prior_variance": 0.162606,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Stavoren",
+      "path": "europe/netherlands/friesland/stavoren",
+      "prior_score": -2.1648,
+      "prior_variance": 0.166628,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Dnipro",
+      "path": "europe/ukraine/dnepropetrovsk",
+      "prior_score": -4.3474,
+      "prior_variance": 0.197318,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -2.8984,
+      "prior_variance": 0.163827,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Ravensthorpe",
+      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
+      "prior_score": -5.3186,
+      "prior_variance": 0.266962,
+      "prior_n": 8
+    }
+  ]
+}

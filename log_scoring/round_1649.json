@@ -1,0 +1,200 @@
+{
+  "round": 1649,
+  "timestamp": "2026-06-13T20:43:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North Cascades NP",
+      "path": "northamerica/unitedstates/washington/northcascadesnp",
+      "prior_score": 6.4222,
+      "prior_variance": 0.330655,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 4.2104,
+      "prior_variance": 0.251242,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.0519,
+      "prior_variance": 0.290605,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 0.8474,
+      "prior_variance": 0.273959,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 0.8251,
+      "prior_variance": 0.268732,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.4758,
+      "prior_variance": 0.205344,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 3.4632,
+      "prior_variance": 0.285612,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.8062,
+      "prior_variance": 0.254761,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.8201,
+      "prior_variance": 0.25298,
+      "prior_n": 6
+    },
+    {
+      "rank": 10,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 1.0454,
+      "prior_variance": 0.246188,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": 0.2181,
+      "prior_variance": 0.269233,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -2.0823,
+      "prior_variance": 0.254054,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -1.4676,
+      "prior_variance": 0.338761,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -2.2165,
+      "prior_variance": 0.242567,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -3.4809,
+      "prior_variance": 0.312413,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -2.7997,
+      "prior_variance": 0.23019,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -3.1819,
+      "prior_variance": 0.308369,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -2.2703,
+      "prior_variance": 0.267894,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.697,
+      "prior_variance": 0.239947,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Linxia",
+      "path": "asia/china/gansu/linxia",
+      "prior_score": -5.2648,
+      "prior_variance": 0.270189,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Ordubad",
+      "path": "europe/azerbaijan/naxcivan/ordubad",
+      "prior_score": -4.678,
+      "prior_variance": 0.254959,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -5.082,
+      "prior_variance": 0.337497,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -4.1537,
+      "prior_variance": 0.258924,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.4663,
+      "prior_variance": 0.352311,
+      "prior_n": 5
+    }
+  ]
+}

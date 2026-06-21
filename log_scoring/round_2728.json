@@ -1,0 +1,200 @@
+{
+  "round": 2728,
+  "timestamp": "2026-06-13T22:02:58",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.1459,
+      "prior_variance": 0.148,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": -0.0037,
+      "prior_variance": 0.157116,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 1.9411,
+      "prior_variance": 0.187678,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -2.6793,
+      "prior_variance": 0.17678,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Nanyuki",
+      "path": "africa/kenya/centralhighlands/nanyuki",
+      "prior_score": 0.7199,
+      "prior_variance": 0.142312,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Timbuktu",
+      "path": "africa/mali/timbuktu",
+      "prior_score": -0.464,
+      "prior_variance": 0.218415,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": -0.2639,
+      "prior_variance": 0.160563,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Yaroslavl",
+      "path": "europe/russia/yaroslavl",
+      "prior_score": -0.03,
+      "prior_variance": 0.185422,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 1.4518,
+      "prior_variance": 0.150284,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.1564,
+      "prior_variance": 0.1282,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -0.7222,
+      "prior_variance": 0.139939,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ojo Caliente",
+      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
+      "prior_score": 0.1479,
+      "prior_variance": 0.16883,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Chama",
+      "path": "northamerica/unitedstates/newmexico/chama",
+      "prior_score": -0.9307,
+      "prior_variance": 0.172293,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.6042,
+      "prior_variance": 0.188415,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ladispoli",
+      "path": "europe/italy/lazio/ladispoli",
+      "prior_score": -2.4036,
+      "prior_variance": 0.201962,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -2.0755,
+      "prior_variance": 0.157547,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -2.3389,
+      "prior_variance": 0.167519,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.0864,
+      "prior_variance": 0.178159,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pinellas Trail",
+      "path": "northamerica/unitedstates/florida/tampabayarea/pinellastrail",
+      "prior_score": -2.4596,
+      "prior_variance": 0.162246,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Subic",
+      "path": "asia/philippines/subic",
+      "prior_score": -2.183,
+      "prior_variance": 0.16454,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.271,
+      "prior_variance": 0.16201,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.0121,
+      "prior_variance": 0.165129,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Liupanshui",
+      "path": "asia/china/guizhou/liupanshui",
+      "prior_score": -5.0415,
+      "prior_variance": 0.166334,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -5.8165,
+      "prior_variance": 0.212034,
+      "prior_n": 8
+    }
+  ]
+}

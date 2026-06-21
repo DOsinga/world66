@@ -1,0 +1,200 @@
+{
+  "round": 1202,
+  "timestamp": "2026-06-13T20:16:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tofino",
+      "path": "northamerica/canada/britishcolumbia/tofino",
+      "prior_score": 7.9002,
+      "prior_variance": 0.338904,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 9.8588,
+      "prior_variance": 0.74048,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 6.3823,
+      "prior_variance": 0.409687,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 3.9755,
+      "prior_variance": 0.430589,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.8465,
+      "prior_variance": 0.51419,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 4.2942,
+      "prior_variance": 0.500659,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 1.9329,
+      "prior_variance": 0.418808,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 5.3668,
+      "prior_variance": 0.358144,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 2.7118,
+      "prior_variance": 0.336995,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 4.3059,
+      "prior_variance": 0.447715,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 2.8939,
+      "prior_variance": 0.364416,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Vrboska",
+      "path": "europe/croatia/vrboska",
+      "prior_score": 3.9564,
+      "prior_variance": 0.32993,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 3.5033,
+      "prior_variance": 0.347644,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 1.8946,
+      "prior_variance": 0.440153,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 5.1285,
+      "prior_variance": 0.449085,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "\u0141\u00f3d\u017a",
+      "path": "europe/poland/lodz",
+      "prior_score": -2.5882,
+      "prior_variance": 0.40979,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 1.4894,
+      "prior_variance": 0.622937,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -1.1787,
+      "prior_variance": 0.499997,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": 0.9949,
+      "prior_variance": 0.543151,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -2.2571,
+      "prior_variance": 0.395414,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Xeger",
+      "path": "asia/china/tibet/xeger",
+      "prior_score": -4.1813,
+      "prior_variance": 0.58871,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nema",
+      "path": "africa/mauritania/nema",
+      "prior_score": -12.5505,
+      "prior_variance": 0.596737,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -5.8085,
+      "prior_variance": 0.682166,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -7.4137,
+      "prior_variance": 0.556888,
+      "prior_n": 3
+    }
+  ]
+}

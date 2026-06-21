@@ -1,0 +1,200 @@
+{
+  "round": 1102,
+  "timestamp": "2026-06-13T20:11:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lyon",
+      "path": "europe/france/alpes/lyon",
+      "prior_score": 8.2043,
+      "prior_variance": 0.433724,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 4.9352,
+      "prior_variance": 0.422539,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 0.4456,
+      "prior_variance": 0.705582,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": -0.2037,
+      "prior_variance": 0.417023,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Vielsam",
+      "path": "europe/belgium/vielsam",
+      "prior_score": -6.178,
+      "prior_variance": 0.728235,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -3.2705,
+      "prior_variance": 0.433053,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 2.647,
+      "prior_variance": 0.448629,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 1.6332,
+      "prior_variance": 0.439008,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.6299,
+      "prior_variance": 0.465908,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -2.5174,
+      "prior_variance": 0.437424,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": 1.8595,
+      "prior_variance": 0.349479,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 4.0482,
+      "prior_variance": 0.416518,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Novi Beograd",
+      "path": "europe/serbia/novi_beograd",
+      "prior_score": -5.3354,
+      "prior_variance": 0.42284,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Gurabo",
+      "path": "northamerica/thecaribbean/puertorico/gurabo",
+      "prior_score": -4.6564,
+      "prior_variance": 0.389855,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Erie",
+      "path": "northamerica/unitedstates/pennsylvania/erie",
+      "prior_score": -3.7008,
+      "prior_variance": 0.336241,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kamianiec",
+      "path": "europe/belarus/kamianiec_litosk",
+      "prior_score": -10.5155,
+      "prior_variance": 0.44493,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Quinte West",
+      "path": "northamerica/canada/ontario/quintewest",
+      "prior_score": -5.9047,
+      "prior_variance": 0.456496,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Balikpapan",
+      "path": "asia/indonesia/kalimantan/balikpapan",
+      "prior_score": -5.0889,
+      "prior_variance": 0.387135,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -4.5829,
+      "prior_variance": 0.428045,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -12.0358,
+      "prior_variance": 0.755565,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -12.0079,
+      "prior_variance": 0.644524,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Jefren",
+      "path": "africa/libya/jefren",
+      "prior_score": -11.7871,
+      "prior_variance": 0.57188,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bilma",
+      "path": "africa/niger/bilma",
+      "prior_score": -13.553,
+      "prior_variance": 1.045797,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -13.1769,
+      "prior_variance": 0.565151,
+      "prior_n": 3
+    }
+  ]
+}

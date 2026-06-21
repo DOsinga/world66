@@ -1,0 +1,200 @@
+{
+  "round": 2178,
+  "timestamp": "2026-06-13T21:24:04",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Antibes",
+      "path": "europe/france/midi/cotedazur/antibes",
+      "prior_score": 7.2447,
+      "prior_variance": 0.295958,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 4.4874,
+      "prior_variance": 0.242321,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Jablanac",
+      "path": "europe/croatia/jablanac",
+      "prior_score": 0.8513,
+      "prior_variance": 0.210972,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Grasmere",
+      "path": "europe/unitedkingdom/england/lakedistrict/grasmere",
+      "prior_score": 4.9317,
+      "prior_variance": 0.237254,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9026,
+      "prior_variance": 0.21793,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 1.0347,
+      "prior_variance": 0.186812,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": -0.6685,
+      "prior_variance": 0.220607,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Ilh\u00e9us",
+      "path": "southamerica/brazil/lheus",
+      "prior_score": 0.9954,
+      "prior_variance": 0.180783,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Tanjung Pinang",
+      "path": "asia/indonesia/bintan/tanjung_pinang",
+      "prior_score": -0.9151,
+      "prior_variance": 0.194898,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Chetumal",
+      "path": "northamerica/mexico/chetumal",
+      "prior_score": -1.8672,
+      "prior_variance": 0.187754,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hiawassee",
+      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
+      "prior_score": -2.0189,
+      "prior_variance": 0.209828,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -3.5506,
+      "prior_variance": 0.20115,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Bolton",
+      "path": "northamerica/unitedstates/massachusetts/bolton",
+      "prior_score": -4.0978,
+      "prior_variance": 0.199379,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -3.9165,
+      "prior_variance": 0.291053,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -4.2585,
+      "prior_variance": 0.275866,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.9586,
+      "prior_variance": 0.23606,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -5.3144,
+      "prior_variance": 0.303686,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Farmington",
+      "path": "northamerica/unitedstates/newmexico/farmington",
+      "prior_score": -4.3706,
+      "prior_variance": 0.200336,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -5.9905,
+      "prior_variance": 0.255198,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.6365,
+      "prior_variance": 0.220885,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -6.7007,
+      "prior_variance": 0.324726,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Khorramabad",
+      "path": "asia/iran/khoram_abad",
+      "prior_score": -4.4558,
+      "prior_variance": 0.182674,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Skikda",
+      "path": "africa/algeria/skikda",
+      "prior_score": -6.0091,
+      "prior_variance": 0.287093,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -8.2547,
+      "prior_variance": 0.370244,
+      "prior_n": 6
+    }
+  ]
+}

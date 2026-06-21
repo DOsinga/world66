@@ -1,0 +1,200 @@
+{
+  "round": 1003,
+  "timestamp": "2026-06-13T20:05:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 2.4259,
+      "prior_variance": 0.76168,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_score": -5.8285,
+      "prior_variance": 0.484639,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Buea",
+      "path": "africa/cameroon/buea",
+      "prior_score": -6.2659,
+      "prior_variance": 0.582399,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kinshasa",
+      "path": "africa/congokinshasa/kinshasa",
+      "prior_score": -9.5133,
+      "prior_variance": 1.26146,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Quelimane",
+      "path": "africa/mozambique/quelimane",
+      "prior_score": -4.3932,
+      "prior_variance": 0.424083,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -7.9582,
+      "prior_variance": 0.466486,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Changchun",
+      "path": "asia/china/jilin/changchun",
+      "prior_score": -4.7722,
+      "prior_variance": 0.45033,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Danbury",
+      "path": "northamerica/unitedstates/connecticut/danbury",
+      "prior_score": -5.939,
+      "prior_variance": 0.567735,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Purwokerto",
+      "path": "asia/indonesia/java/purwokerto",
+      "prior_score": -7.0031,
+      "prior_variance": 0.58937,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Tiruvarur",
+      "path": "asia/india/tamilnadu/tiruvarur",
+      "prior_score": -6.8333,
+      "prior_variance": 0.417255,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wausau",
+      "path": "northamerica/unitedstates/wisconsin/wausau",
+      "prior_score": -6.0081,
+      "prior_variance": 0.471273,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Holly",
+      "path": "northamerica/unitedstates/michigan/holly",
+      "prior_score": -6.3253,
+      "prior_variance": 0.482131,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -8.1053,
+      "prior_variance": 0.419677,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -7.544,
+      "prior_variance": 0.550602,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Krishnanagar",
+      "path": "asia/india/westbengal/krishnanagar",
+      "prior_score": -6.0795,
+      "prior_variance": 0.543849,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Gurdaspur",
+      "path": "asia/india/punjab/gurdaspur",
+      "prior_score": -6.4487,
+      "prior_variance": 0.337665,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -7.6563,
+      "prior_variance": 0.45921,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Alcains",
+      "path": "europe/portugal/castelo_branco/alcains",
+      "prior_score": -7.776,
+      "prior_variance": 0.501182,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -6.9985,
+      "prior_variance": 0.583978,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -7.0722,
+      "prior_variance": 0.550223,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Baotou",
+      "path": "asia/china/innermongolia/baotou",
+      "prior_score": -6.773,
+      "prior_variance": 0.562098,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -8.9421,
+      "prior_variance": 0.485515,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -12.5191,
+      "prior_variance": 1.966108,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.381,
+      "prior_variance": 0.599576,
+      "prior_n": 2
+    }
+  ]
+}

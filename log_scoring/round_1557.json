@@ -1,0 +1,200 @@
+{
+  "round": 1557,
+  "timestamp": "2026-06-13T20:37:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 12.317,
+      "prior_variance": 0.426242,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Girdwood",
+      "path": "northamerica/unitedstates/alaska/girdwood",
+      "prior_score": 3.4612,
+      "prior_variance": 0.34233,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bumthang",
+      "path": "asia/bhutan/bumthang",
+      "prior_score": 5.3238,
+      "prior_variance": 0.266637,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.8704,
+      "prior_variance": 0.2726,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Bridgeport",
+      "path": "northamerica/unitedstates/california/highsierra/bridgeport",
+      "prior_score": -0.6983,
+      "prior_variance": 0.320733,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.5173,
+      "prior_variance": 0.240264,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 2.5083,
+      "prior_variance": 0.365586,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.1195,
+      "prior_variance": 0.279041,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.7153,
+      "prior_variance": 0.258917,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet",
+      "prior_score": -1.0313,
+      "prior_variance": 0.297794,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Tin Mal",
+      "path": "africa/morocco/tinmal",
+      "prior_score": 0.4992,
+      "prior_variance": 0.278153,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Eugene",
+      "path": "northamerica/unitedstates/oregon/eugene",
+      "prior_score": -0.8577,
+      "prior_variance": 0.246494,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -2.3868,
+      "prior_variance": 0.256031,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -3.4447,
+      "prior_variance": 0.301532,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.3245,
+      "prior_variance": 0.264724,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Xikou",
+      "path": "asia/china/zhejiang/xikou",
+      "prior_score": -2.1238,
+      "prior_variance": 0.256089,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Baoding",
+      "path": "asia/china/hebei/baoding",
+      "prior_score": -3.3766,
+      "prior_variance": 0.319573,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -7.0071,
+      "prior_variance": 0.379463,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Donnybrook",
+      "path": "australiaandpacific/australia/westernaustralia/donnybrook",
+      "prior_score": -5.7122,
+      "prior_variance": 0.522614,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Tequesta",
+      "path": "northamerica/unitedstates/florida/tequesta",
+      "prior_score": -4.3801,
+      "prior_variance": 0.372069,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": -8.1346,
+      "prior_variance": 0.422607,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Miami",
+      "path": "northamerica/unitedstates/oklahoma/miami",
+      "prior_score": -6.6286,
+      "prior_variance": 0.65689,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -10.0979,
+      "prior_variance": 0.688481,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -9.1453,
+      "prior_variance": 0.770222,
+      "prior_n": 5
+    }
+  ]
+}

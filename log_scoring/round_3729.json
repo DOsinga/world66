@@ -1,0 +1,200 @@
+{
+  "round": 3729,
+  "timestamp": "2026-06-13T23:15:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 16.1992,
+      "prior_variance": 1.383934,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Santa Fe",
+      "path": "northamerica/unitedstates/newmexico/santafe",
+      "prior_score": 5.8339,
+      "prior_variance": 0.127026,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 5.4752,
+      "prior_variance": 0.133352,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Noosa Heads",
+      "path": "australiaandpacific/australia/queensland/noosaheads",
+      "prior_score": 4.8347,
+      "prior_variance": 0.118383,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 3.0615,
+      "prior_variance": 0.171541,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Koror",
+      "path": "australiaandpacific/palau/koror",
+      "prior_score": 6.246,
+      "prior_variance": 0.154541,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 4.5787,
+      "prior_variance": 0.13066,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Dunedin",
+      "path": "australiaandpacific/newzealand/south_island/otago/dunedin",
+      "prior_score": 3.8443,
+      "prior_variance": 0.131469,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 3.2425,
+      "prior_variance": 0.125827,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Wuzhen",
+      "path": "asia/china/zhejiang/wuzhen",
+      "prior_score": 3.7492,
+      "prior_variance": 0.109848,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.0951,
+      "prior_variance": 0.125094,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 3.0593,
+      "prior_variance": 0.114414,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 2.461,
+      "prior_variance": 0.119511,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.6454,
+      "prior_variance": 0.121789,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.0686,
+      "prior_variance": 0.112343,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Castro Marim",
+      "path": "europe/portugal/castro_marim",
+      "prior_score": 0.5668,
+      "prior_variance": 0.107954,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Gauja National Park",
+      "path": "europe/latvia/gauja_national_park",
+      "prior_score": 0.9186,
+      "prior_variance": 0.10989,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 1.6182,
+      "prior_variance": 0.140553,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 1.3901,
+      "prior_variance": 0.119987,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Epinal",
+      "path": "europe/france/east/lorraine/epinal",
+      "prior_score": -1.389,
+      "prior_variance": 0.104187,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -2.8319,
+      "prior_variance": 0.112943,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -1.8565,
+      "prior_variance": 0.107013,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Jharsuguda",
+      "path": "asia/india/orissa/jharsuguda",
+      "prior_score": -6.6578,
+      "prior_variance": 0.150574,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.0272,
+      "prior_variance": 0.191625,
+      "prior_n": 11
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 743,
+  "timestamp": "2026-06-13T19:51:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 8.6366,
+      "prior_variance": 1.205063,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 7.6701,
+      "prior_variance": 1.563728,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 9.7435,
+      "prior_variance": 0.674375,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 10.1794,
+      "prior_variance": 1.706816,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 7.5897,
+      "prior_variance": 0.917474,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 8.3274,
+      "prior_variance": 0.927224,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 2.9318,
+      "prior_variance": 1.335384,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 8.8905,
+      "prior_variance": 1.197476,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 6.2228,
+      "prior_variance": 0.797707,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 6.4984,
+      "prior_variance": 0.688669,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 6.7695,
+      "prior_variance": 1.224192,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 7.38,
+      "prior_variance": 1.016031,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 8.4574,
+      "prior_variance": 1.294168,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 6.3547,
+      "prior_variance": 0.780424,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 9.6424,
+      "prior_variance": 1.613409,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 6.4549,
+      "prior_variance": 1.246399,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 5.2817,
+      "prior_variance": 0.828666,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 7.4326,
+      "prior_variance": 0.745618,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 7.731,
+      "prior_variance": 0.92456,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 4.5357,
+      "prior_variance": 0.881042,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 10.1782,
+      "prior_variance": 1.872608,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 4.5426,
+      "prior_variance": 1.25471,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 6.9343,
+      "prior_variance": 0.781004,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": 4.5189,
+      "prior_variance": 0.870199,
+      "prior_n": 2
+    }
+  ]
+}

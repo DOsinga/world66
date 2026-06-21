@@ -1,0 +1,200 @@
+{
+  "round": 1476,
+  "timestamp": "2026-06-13T20:33:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tayrona National Park",
+      "path": "southamerica/colombia/tayrona",
+      "prior_score": 8.1777,
+      "prior_variance": 0.351644,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 8.8025,
+      "prior_variance": 0.401141,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Ishigaki Island",
+      "path": "asia/japan/ryukyuislands/ishigakiisland",
+      "prior_score": 8.6901,
+      "prior_variance": 0.346487,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "La Graciosa",
+      "path": "europe/spain/canaryislands/isla_graciosa",
+      "prior_score": 5.2832,
+      "prior_variance": 0.378286,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 6.0961,
+      "prior_variance": 0.515875,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 8.4354,
+      "prior_variance": 0.317874,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 1.2446,
+      "prior_variance": 0.433356,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 2.6311,
+      "prior_variance": 0.317004,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.3546,
+      "prior_variance": 0.259198,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Bantayan",
+      "path": "asia/philippines/cebu/bantayan",
+      "prior_score": -0.4786,
+      "prior_variance": 0.489083,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.1885,
+      "prior_variance": 0.369552,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 1.0839,
+      "prior_variance": 0.252073,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Itasca State Park",
+      "path": "northamerica/unitedstates/minnesota/itascastatepark",
+      "prior_score": -0.2156,
+      "prior_variance": 0.310529,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.3666,
+      "prior_variance": 0.523962,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Macaya Peak National Park",
+      "path": "northamerica/thecaribbean/haiti/macayapeaknationalpark",
+      "prior_score": -4.4806,
+      "prior_variance": 0.341144,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -1.2111,
+      "prior_variance": 0.346428,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.6157,
+      "prior_variance": 0.254178,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -3.2374,
+      "prior_variance": 0.289432,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -4.9363,
+      "prior_variance": 0.575941,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.9149,
+      "prior_variance": 0.305012,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -2.0402,
+      "prior_variance": 0.340001,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Reedley",
+      "path": "northamerica/unitedstates/california/centralvalley/reedley",
+      "prior_score": -6.4081,
+      "prior_variance": 0.343477,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Maradi",
+      "path": "africa/niger/maradi",
+      "prior_score": -8.3358,
+      "prior_variance": 0.58211,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -12.2213,
+      "prior_variance": 0.514882,
+      "prior_n": 4
+    }
+  ]
+}

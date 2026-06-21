@@ -1,0 +1,200 @@
+{
+  "round": 536,
+  "timestamp": "2026-06-13T19:41:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 16.8785,
+      "prior_variance": 6.652091,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Edinburgh",
+      "path": "europe/unitedkingdom/scotland/edinburgh",
+      "prior_score": 14.6935,
+      "prior_variance": 7.383476,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 15.1134,
+      "prior_variance": 7.226539,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Neuschwanstein",
+      "path": "europe/germany/bavaria/neuschwanstein",
+      "prior_score": 16.2386,
+      "prior_variance": 6.845105,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 16.7449,
+      "prior_variance": 6.680478,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Monterosso al Mare",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
+      "prior_score": 13.7182,
+      "prior_variance": 7.78923,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 16.5692,
+      "prior_variance": 6.739138,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Washington D.C.",
+      "path": "northamerica/unitedstates/washingtondc",
+      "prior_score": 16.2044,
+      "prior_variance": 6.861036,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 17.6677,
+      "prior_variance": 6.429149,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Jiuzhaigou",
+      "path": "asia/china/sichuanprovince/jiuzhaigou",
+      "prior_score": 14.9883,
+      "prior_variance": 7.27703,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 14.0965,
+      "prior_variance": 2.428782,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Zurich",
+      "path": "europe/switzerland/zurich",
+      "prior_score": 14.6354,
+      "prior_variance": 7.411376,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 12.3233,
+      "prior_variance": 2.918624,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 16.7498,
+      "prior_variance": 6.689516,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 14.0277,
+      "prior_variance": 3.614761,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 11.8904,
+      "prior_variance": 2.743,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 17.8723,
+      "prior_variance": 5.534658,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 11.0331,
+      "prior_variance": 4.943579,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Chenonceau",
+      "path": "europe/france/centre/loirevalley/chenonceau",
+      "prior_score": 12.4704,
+      "prior_variance": 3.462716,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 11.4102,
+      "prior_variance": 9.011509,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Whistler",
+      "path": "northamerica/canada/britishcolumbia/whistler",
+      "prior_score": 13.7059,
+      "prior_variance": 6.409455,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Shangri-La",
+      "path": "asia/china/yunnanprovince/shangrila",
+      "prior_score": 13.0785,
+      "prior_variance": 3.32254,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 11.7764,
+      "prior_variance": 8.781009,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 11.6373,
+      "prior_variance": 3.592007,
+      "prior_n": 1
+    }
+  ]
+}

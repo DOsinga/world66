@@ -1,0 +1,200 @@
+{
+  "round": 4647,
+  "timestamp": "2026-06-14T00:29:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Milford Sound",
+      "path": "australiaandpacific/newzealand/south_island/otago/milford_sound",
+      "prior_score": 11.8773,
+      "prior_variance": 0.353472,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 11.5191,
+      "prior_variance": 0.288429,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Verbier",
+      "path": "europe/switzerland/verbier",
+      "prior_score": 6.6789,
+      "prior_variance": 0.132183,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 5.0839,
+      "prior_variance": 0.104501,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Kekova",
+      "path": "asia/turkey/kekova",
+      "prior_score": 4.7763,
+      "prior_variance": 0.103764,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 5.7749,
+      "prior_variance": 0.108597,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 3.387,
+      "prior_variance": 0.098657,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Comillas",
+      "path": "europe/spain/cantabria/comillas",
+      "prior_score": 2.9619,
+      "prior_variance": 0.096544,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lake Constance",
+      "path": "europe/germany/badenwrttemberg/lakeconstance",
+      "prior_score": 3.6139,
+      "prior_variance": 0.099228,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 3.4623,
+      "prior_variance": 0.098286,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Toronto",
+      "path": "northamerica/canada/ontario/toronto",
+      "prior_score": 4.3875,
+      "prior_variance": 0.122815,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": 3.3074,
+      "prior_variance": 0.093521,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 1.9054,
+      "prior_variance": 0.099927,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Irkutsk",
+      "path": "europe/russia/irkutsk",
+      "prior_score": 0.6495,
+      "prior_variance": 0.087324,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kotka",
+      "path": "europe/finland/kotka",
+      "prior_score": -1.5023,
+      "prior_variance": 0.082496,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Wanganui",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/wanganui",
+      "prior_score": -1.2355,
+      "prior_variance": 0.079064,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -2.7918,
+      "prior_variance": 0.088461,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -2.6684,
+      "prior_variance": 0.09623,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Anapa",
+      "path": "europe/russia/the_black_sea_coas/anapa",
+      "prior_score": -3.2987,
+      "prior_variance": 0.097345,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -5.2434,
+      "prior_variance": 0.120531,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -4.8465,
+      "prior_variance": 0.109503,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Suifenhe",
+      "path": "asia/china/heilongjiang/suifenhe",
+      "prior_score": -4.7242,
+      "prior_variance": 0.114688,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Koumbi Saleh",
+      "path": "africa/mauritania/koumbisaleh",
+      "prior_score": -8.6878,
+      "prior_variance": 0.196917,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -8.084,
+      "prior_variance": 0.158146,
+      "prior_n": 14
+    }
+  ]
+}

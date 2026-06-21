@@ -1,0 +1,200 @@
+{
+  "round": 1352,
+  "timestamp": "2026-06-13T20:25:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 6.7258,
+      "prior_variance": 0.322143,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.3665,
+      "prior_variance": 0.371197,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Cayo Largo",
+      "path": "northamerica/thecaribbean/cuba/cayolargo",
+      "prior_score": 5.3665,
+      "prior_variance": 0.37295,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.465,
+      "prior_variance": 0.304363,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 0.4177,
+      "prior_variance": 0.439192,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 2.5154,
+      "prior_variance": 0.300741,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.5129,
+      "prior_variance": 0.41328,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": -0.6842,
+      "prior_variance": 0.309994,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Anzio",
+      "path": "europe/italy/lazio/anzio",
+      "prior_score": 1.1819,
+      "prior_variance": 0.341535,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Cattolica",
+      "path": "europe/italy/emiliaromagna/cattolica",
+      "prior_score": 0.942,
+      "prior_variance": 0.316884,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": 2.1986,
+      "prior_variance": 0.328966,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -1.4519,
+      "prior_variance": 0.336342,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -2.4717,
+      "prior_variance": 0.421801,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Huancabamba",
+      "path": "southamerica/peru/huancabamba",
+      "prior_score": -2.035,
+      "prior_variance": 0.292667,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Arta",
+      "path": "europe/greece/arta",
+      "prior_score": 0.0384,
+      "prior_variance": 0.396106,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "San Juan del R\u00edo",
+      "path": "northamerica/mexico/sanjuandelro",
+      "prior_score": -4.8067,
+      "prior_variance": 0.449262,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Belmar",
+      "path": "northamerica/unitedstates/newjersey/belmar",
+      "prior_score": -2.0929,
+      "prior_variance": 0.341058,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.9696,
+      "prior_variance": 0.363758,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Zalakaros",
+      "path": "europe/hungary/zalakaros",
+      "prior_score": -1.1891,
+      "prior_variance": 0.316534,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.8978,
+      "prior_variance": 0.460074,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Wolferton",
+      "path": "europe/unitedkingdom/england/norfolk/wolferton",
+      "prior_score": -5.1665,
+      "prior_variance": 0.486563,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Basso Veronese",
+      "path": "europe/italy/veneto/bassoveronese",
+      "prior_score": -2.4892,
+      "prior_variance": 0.368161,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.2812,
+      "prior_variance": 0.32087,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -6.6695,
+      "prior_variance": 0.423058,
+      "prior_n": 4
+    }
+  ]
+}

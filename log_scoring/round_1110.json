@@ -1,0 +1,200 @@
+{
+  "round": 1110,
+  "timestamp": "2026-06-13T20:11:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.5893,
+      "prior_variance": 0.387669,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -1.6589,
+      "prior_variance": 0.366259,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.9845,
+      "prior_variance": 0.574274,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 0.412,
+      "prior_variance": 0.769646,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -2.9614,
+      "prior_variance": 0.473586,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Petaling Jaya",
+      "path": "asia/malaysia/petalingjaya",
+      "prior_score": -3.6338,
+      "prior_variance": 0.48274,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Butare",
+      "path": "africa/rwanda/butare",
+      "prior_score": -2.2768,
+      "prior_variance": 0.444932,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.058,
+      "prior_variance": 0.43671,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -1.3183,
+      "prior_variance": 0.432504,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Borrego Springs",
+      "path": "northamerica/unitedstates/california/deserts/borregosprings",
+      "prior_score": -1.5628,
+      "prior_variance": 0.398696,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Williams",
+      "path": "northamerica/unitedstates/arizona/williams",
+      "prior_score": -0.5017,
+      "prior_variance": 0.432553,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Portsoy",
+      "path": "europe/unitedkingdom/scotland/portsoy",
+      "prior_score": -1.0063,
+      "prior_variance": 0.366747,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Argentona",
+      "path": "europe/spain/catalonia/argentona",
+      "prior_score": -2.2596,
+      "prior_variance": 0.442925,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.1641,
+      "prior_variance": 0.317371,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.4589,
+      "prior_variance": 0.436891,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Ramsgate",
+      "path": "europe/unitedkingdom/england/south_east/ramsgate",
+      "prior_score": -1.7008,
+      "prior_variance": 0.334851,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Danzhou",
+      "path": "asia/china/hainanisland/danzhou",
+      "prior_score": -2.1093,
+      "prior_variance": 0.515359,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Jublains",
+      "path": "europe/france/normandybrittany/jublains",
+      "prior_score": -2.5385,
+      "prior_variance": 0.464877,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Salinas",
+      "path": "northamerica/unitedstates/california/salinas",
+      "prior_score": -4.3951,
+      "prior_variance": 0.473654,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -5.3593,
+      "prior_variance": 0.396449,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -6.0079,
+      "prior_variance": 0.976051,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -7.0204,
+      "prior_variance": 0.574671,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -3.6132,
+      "prior_variance": 0.387075,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.2517,
+      "prior_variance": 0.46691,
+      "prior_n": 3
+    }
+  ]
+}

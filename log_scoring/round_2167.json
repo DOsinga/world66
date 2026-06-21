@@ -1,0 +1,200 @@
+{
+  "round": 2167,
+  "timestamp": "2026-06-13T21:23:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "New York",
+      "path": "northamerica/unitedstates/newyorkstate/newyork",
+      "prior_score": 15.2228,
+      "prior_variance": 0.771894,
+      "prior_n": 6
+    },
+    {
+      "rank": 2,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_score": 3.2488,
+      "prior_variance": 0.275788,
+      "prior_n": 6
+    },
+    {
+      "rank": 3,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.2143,
+      "prior_variance": 0.215367,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 2.3049,
+      "prior_variance": 0.164301,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Plomari",
+      "path": "europe/greece/lesbos/plomari",
+      "prior_score": 0.4477,
+      "prior_variance": 0.194041,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.6047,
+      "prior_variance": 0.342807,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Darmstadt",
+      "path": "europe/germany/hessen/darmstadt",
+      "prior_score": -0.9589,
+      "prior_variance": 0.181143,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Saint John",
+      "path": "northamerica/canada/newbrunswick/saintjohn",
+      "prior_score": -0.9411,
+      "prior_variance": 0.18099,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.8697,
+      "prior_variance": 0.1997,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.7248,
+      "prior_variance": 0.191436,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": -0.5517,
+      "prior_variance": 0.170039,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.9724,
+      "prior_variance": 0.203671,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": 0.3389,
+      "prior_variance": 0.219642,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -4.3877,
+      "prior_variance": 0.339698,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "N\u00f5va",
+      "path": "europe/estonia/nva",
+      "prior_score": -5.0165,
+      "prior_variance": 0.18692,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Hubli",
+      "path": "asia/india/karnataka/hubli",
+      "prior_score": -5.7867,
+      "prior_variance": 0.242584,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Caloocan",
+      "path": "asia/philippines/caloocan",
+      "prior_score": -6.1199,
+      "prior_variance": 0.278674,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -6.093,
+      "prior_variance": 0.255979,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Uzgen",
+      "path": "asia/kyrgyzstan/uzgen",
+      "prior_score": -4.5721,
+      "prior_variance": 0.283487,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -6.1707,
+      "prior_variance": 0.314415,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.267,
+      "prior_variance": 0.316995,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -9.1392,
+      "prior_variance": 0.502732,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -7.2658,
+      "prior_variance": 0.349553,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -10.4108,
+      "prior_variance": 0.616174,
+      "prior_n": 6
+    }
+  ]
+}

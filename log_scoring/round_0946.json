@@ -1,0 +1,200 @@
+{
+  "round": 946,
+  "timestamp": "2026-06-13T20:02:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barbuda",
+      "path": "northamerica/antiguaandbarbuda/barbuda",
+      "prior_score": 4.8978,
+      "prior_variance": 0.602614,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Sumba",
+      "path": "asia/indonesia/sumba",
+      "prior_score": 3.1839,
+      "prior_variance": 0.685121,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.7997,
+      "prior_variance": 0.590821,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/vinadelmar",
+      "prior_score": 3.6006,
+      "prior_variance": 0.421938,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Mt. Wutai",
+      "path": "asia/china/shanxiprovince/mtwutai",
+      "prior_score": 6.3427,
+      "prior_variance": 0.559137,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district",
+      "prior_score": 4.069,
+      "prior_variance": 0.503964,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 2.5145,
+      "prior_variance": 0.643193,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Bighorn Canyon",
+      "path": "northamerica/unitedstates/montana/bighorncanyon",
+      "prior_score": 0.587,
+      "prior_variance": 0.997035,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 2.7897,
+      "prior_variance": 0.503447,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Spotorno",
+      "path": "europe/italy/liguria/italianriviera/spotorno",
+      "prior_score": 2.3996,
+      "prior_variance": 0.621044,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.1426,
+      "prior_variance": 0.643346,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -2.3394,
+      "prior_variance": 0.4611,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Osijek",
+      "path": "europe/croatia/osijek",
+      "prior_score": 1.6949,
+      "prior_variance": 0.419963,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": -0.0379,
+      "prior_variance": 0.507194,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": -0.3457,
+      "prior_variance": 0.633371,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -2.2513,
+      "prior_variance": 0.472154,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -4.333,
+      "prior_variance": 0.768884,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Paga",
+      "path": "africa/ghana/paga",
+      "prior_score": -3.8764,
+      "prior_variance": 0.49133,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": 0.6499,
+      "prior_variance": 0.793798,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -5.4278,
+      "prior_variance": 2.00037,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -1.3367,
+      "prior_variance": 0.847626,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.1615,
+      "prior_variance": 0.697306,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Buea",
+      "path": "africa/cameroon/buea",
+      "prior_score": -6.6779,
+      "prior_variance": 0.641185,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Vinita",
+      "path": "northamerica/unitedstates/oklahoma/vinita",
+      "prior_score": -9.3032,
+      "prior_variance": 0.724228,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4133,
+  "timestamp": "2026-06-13T23:46:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 7.0065,
+      "prior_variance": 0.152582,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 4.3668,
+      "prior_variance": 0.102986,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Canggu",
+      "path": "asia/indonesia/bali/canggu",
+      "prior_score": 6.7638,
+      "prior_variance": 0.13992,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Garmisch-Partenkirchen",
+      "path": "europe/germany/bavaria/garmischpartenkirchen",
+      "prior_score": 4.9036,
+      "prior_variance": 0.123196,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 4.5993,
+      "prior_variance": 0.116408,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pitigliano",
+      "path": "europe/italy/tuscany/pitigliano",
+      "prior_score": 4.4749,
+      "prior_variance": 0.129103,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 3.4647,
+      "prior_variance": 0.111177,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 3.0243,
+      "prior_variance": 0.114062,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Mandeville",
+      "path": "northamerica/jamaica/mandeville",
+      "prior_score": -1.4051,
+      "prior_variance": 0.095927,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 1.0399,
+      "prior_variance": 0.106625,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -2.6278,
+      "prior_variance": 0.141157,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.5702,
+      "prior_variance": 0.118445,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sault Ste. Marie",
+      "path": "northamerica/canada/ontario/sault_ste_marie",
+      "prior_score": -2.1185,
+      "prior_variance": 0.107266,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -1.8365,
+      "prior_variance": 0.095542,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.9885,
+      "prior_variance": 0.109051,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Laval",
+      "path": "europe/france/centre/loirevalley/laval",
+      "prior_score": -0.5654,
+      "prior_variance": 0.101496,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -3.7481,
+      "prior_variance": 0.102953,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -4.0394,
+      "prior_variance": 0.098675,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.6791,
+      "prior_variance": 0.142126,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Boaz",
+      "path": "northamerica/unitedstates/alabama/boaz",
+      "prior_score": -6.3341,
+      "prior_variance": 0.146553,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Watford",
+      "path": "europe/unitedkingdom/england/south_east/watford",
+      "prior_score": -5.1514,
+      "prior_variance": 0.146362,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -5.761,
+      "prior_variance": 0.165383,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -5.4445,
+      "prior_variance": 0.120284,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -4.5539,
+      "prior_variance": 0.11709,
+      "prior_n": 14
+    }
+  ]
+}

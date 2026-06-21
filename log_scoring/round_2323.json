@@ -1,0 +1,200 @@
+{
+  "round": 2323,
+  "timestamp": "2026-06-13T21:33:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.2694,
+      "prior_variance": 0.301217,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.047,
+      "prior_variance": 0.256972,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Voss",
+      "path": "europe/norway/voss",
+      "prior_score": 3.8531,
+      "prior_variance": 0.233128,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 5.246,
+      "prior_variance": 0.218652,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 1.1467,
+      "prior_variance": 0.218303,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.8293,
+      "prior_variance": 0.200897,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.9318,
+      "prior_variance": 0.157329,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Sos del Rey Cat\u00f3lico",
+      "path": "europe/spain/aragon/sosdelreycatl",
+      "prior_score": 1.3109,
+      "prior_variance": 0.189423,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.6874,
+      "prior_variance": 0.180639,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Quetzaltenango",
+      "path": "northamerica/guatemala/quetzaltenango",
+      "prior_score": 0.2853,
+      "prior_variance": 0.21449,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": -0.6722,
+      "prior_variance": 0.251335,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.7611,
+      "prior_variance": 0.223348,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Fraserburgh",
+      "path": "europe/unitedkingdom/scotland/fraserburgh",
+      "prior_score": -3.6071,
+      "prior_variance": 0.202053,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Gerlach",
+      "path": "northamerica/unitedstates/nevada/gerlach",
+      "prior_score": -4.9834,
+      "prior_variance": 0.300901,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.5323,
+      "prior_variance": 0.19128,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -3.4954,
+      "prior_variance": 0.173831,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Pirkkala",
+      "path": "europe/finland/pirkkala",
+      "prior_score": -5.0237,
+      "prior_variance": 0.233375,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Kent",
+      "path": "northamerica/unitedstates/ohio/kent",
+      "prior_score": -5.071,
+      "prior_variance": 0.225304,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -3.8818,
+      "prior_variance": 0.186879,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -5.1506,
+      "prior_variance": 0.242042,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -4.9275,
+      "prior_variance": 0.187455,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -7.0477,
+      "prior_variance": 0.313482,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -4.4837,
+      "prior_variance": 0.184431,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Erigavo",
+      "path": "africa/somaliland/erigavo",
+      "prior_score": -7.2514,
+      "prior_variance": 0.38331,
+      "prior_n": 7
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 695,
+  "timestamp": "2026-06-13T19:49:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/sanjose",
+      "prior_score": -8.0391,
+      "prior_variance": 0.721302,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Tallahassee",
+      "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee",
+      "prior_score": -7.7932,
+      "prior_variance": 1.206737,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -8.2519,
+      "prior_variance": 0.723544,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -9.1123,
+      "prior_variance": 1.100978,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Cedar Rapids",
+      "path": "northamerica/unitedstates/iowa/cedarrapids",
+      "prior_score": -9.4011,
+      "prior_variance": 1.062319,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -10.2824,
+      "prior_variance": 1.13943,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -8.6728,
+      "prior_variance": 1.03691,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Magdalena",
+      "path": "northamerica/unitedstates/newmexico/magdalena",
+      "prior_score": -9.6088,
+      "prior_variance": 0.740879,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Porirua",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua",
+      "prior_score": -7.3495,
+      "prior_variance": 0.926301,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Alibag",
+      "path": "asia/india/alibaug",
+      "prior_score": -7.7511,
+      "prior_variance": 1.014255,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Honda",
+      "path": "southamerica/colombia/honda",
+      "prior_score": -10.0802,
+      "prior_variance": 0.731595,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -7.3291,
+      "prior_variance": 1.082715,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -9.5292,
+      "prior_variance": 0.646431,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Anshan",
+      "path": "asia/china/liaoning/anshan",
+      "prior_score": -10.4117,
+      "prior_variance": 1.180734,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Jinzhou",
+      "path": "asia/china/liaoning/jinzhou",
+      "prior_score": -9.288,
+      "prior_variance": 0.772846,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Barrackpore",
+      "path": "asia/india/westbengal/barrackpore",
+      "prior_score": -8.1085,
+      "prior_variance": 0.998147,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bagh",
+      "path": "asia/pakistan/azad_kashmir/bagh",
+      "prior_score": -10.9029,
+      "prior_variance": 0.910961,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Myllykoski",
+      "path": "europe/finland/myllykoski",
+      "prior_score": -12.6531,
+      "prior_variance": 0.911117,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -11.0263,
+      "prior_variance": 1.426465,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -12.1539,
+      "prior_variance": 0.65818,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -9.9427,
+      "prior_variance": 1.212812,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -10.4998,
+      "prior_variance": 1.222335,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -12.18,
+      "prior_variance": 0.731539,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Luba",
+      "path": "africa/equatorialguinea/luba",
+      "prior_score": -12.0698,
+      "prior_variance": 0.9032,
+      "prior_n": 3
+    }
+  ]
+}

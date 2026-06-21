@@ -1,0 +1,200 @@
+{
+  "round": 872,
+  "timestamp": "2026-06-13T19:58:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tarangire National Park",
+      "path": "africa/tanzania/tarangire_np",
+      "prior_score": 8.6186,
+      "prior_variance": 1.004898,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Eleuthera",
+      "path": "northamerica/bahamas/eleuthera",
+      "prior_score": 10.0678,
+      "prior_variance": 1.131752,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 9.4912,
+      "prior_variance": 0.717006,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 7.4377,
+      "prior_variance": 1.292275,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 9.0919,
+      "prior_variance": 0.683712,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 9.5684,
+      "prior_variance": 0.983953,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 9.9961,
+      "prior_variance": 1.264223,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 9.2148,
+      "prior_variance": 0.644879,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 8.9603,
+      "prior_variance": 1.00155,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 7.3429,
+      "prior_variance": 0.69224,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 7.8473,
+      "prior_variance": 0.737335,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 8.8696,
+      "prior_variance": 1.4131,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 8.0762,
+      "prior_variance": 1.140172,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 8.9711,
+      "prior_variance": 0.689488,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Glendale",
+      "path": "europe/unitedkingdom/scotland/skye/glendale",
+      "prior_score": 8.469,
+      "prior_variance": 1.002927,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Ouarzazate",
+      "path": "africa/morocco/ouarzazate",
+      "prior_score": 8.1416,
+      "prior_variance": 0.690449,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 8.7302,
+      "prior_variance": 0.728453,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 7.551,
+      "prior_variance": 0.736046,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Setenil de las Bodegas",
+      "path": "europe/spain/andalucia/whitevillages/setenil_de_las_bodegas",
+      "prior_score": 8.0877,
+      "prior_variance": 0.85815,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 7.5278,
+      "prior_variance": 0.949958,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 7.3828,
+      "prior_variance": 0.42051,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 8.2851,
+      "prior_variance": 0.963541,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 12.3489,
+      "prior_variance": 0.710044,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Playa Blanca",
+      "path": "europe/spain/canaryislands/lanzarote/playa_blanca",
+      "prior_score": 7.6567,
+      "prior_variance": 0.882042,
+      "prior_n": 2
+    }
+  ]
+}

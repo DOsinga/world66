@@ -1,0 +1,200 @@
+{
+  "round": 1210,
+  "timestamp": "2026-06-13T20:17:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 9.7559,
+      "prior_variance": 0.617628,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Kuala Lumpur",
+      "path": "asia/malaysia/kualalumpur",
+      "prior_score": 9.0618,
+      "prior_variance": 0.566848,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Nashville",
+      "path": "northamerica/unitedstates/tennessee/nashville",
+      "prior_score": 6.0399,
+      "prior_variance": 0.517185,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Gozo",
+      "path": "europe/malta/gozo",
+      "prior_score": 7.9673,
+      "prior_variance": 0.443653,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Nuwara Eliya",
+      "path": "asia/srilanka/nuwaraeliya",
+      "prior_score": 6.4022,
+      "prior_variance": 0.385408,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Mae Hong Son",
+      "path": "asia/thailand/maehongson",
+      "prior_score": 5.0852,
+      "prior_variance": 0.5321,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "High Atlas",
+      "path": "africa/morocco/high_atlas",
+      "prior_score": 8.6652,
+      "prior_variance": 0.630537,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 7.7727,
+      "prior_variance": 0.569444,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 6.8572,
+      "prior_variance": 0.406905,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 8.9156,
+      "prior_variance": 0.480798,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 9.7513,
+      "prior_variance": 0.675756,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 6.9436,
+      "prior_variance": 0.480458,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Lindau",
+      "path": "europe/germany/bavaria/lindau",
+      "prior_score": 6.6834,
+      "prior_variance": 0.477478,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 0.8276,
+      "prior_variance": 0.431452,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 7.6917,
+      "prior_variance": 0.494109,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Salers",
+      "path": "europe/france/centre/auvergne/salers",
+      "prior_score": 1.8155,
+      "prior_variance": 0.415936,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/rivieramaya/puerto_aventuras",
+      "prior_score": 4.7982,
+      "prior_variance": 0.478289,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.7776,
+      "prior_variance": 0.336447,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -1.3157,
+      "prior_variance": 0.340982,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -1.3762,
+      "prior_variance": 0.392877,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -1.692,
+      "prior_variance": 0.382281,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -5.5815,
+      "prior_variance": 0.405092,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -2.3549,
+      "prior_variance": 0.307622,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -13.3396,
+      "prior_variance": 1.106066,
+      "prior_n": 3
+    }
+  ]
+}

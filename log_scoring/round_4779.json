@@ -1,0 +1,200 @@
+{
+  "round": 4779,
+  "timestamp": "2026-06-14T00:41:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Reykjavik",
+      "path": "europe/iceland/reykjavik",
+      "prior_score": 10.4642,
+      "prior_variance": 0.1955,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 8.4564,
+      "prior_variance": 0.153253,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Trento",
+      "path": "europe/italy/trentinoaltoadige/trento",
+      "prior_score": 4.4165,
+      "prior_variance": 0.103067,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 3.1707,
+      "prior_variance": 0.088022,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Marsala",
+      "path": "europe/italy/sicily/marsala",
+      "prior_score": 3.7493,
+      "prior_variance": 0.089133,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 2.5288,
+      "prior_variance": 0.094118,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.717,
+      "prior_variance": 0.082876,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 1.7592,
+      "prior_variance": 0.085753,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 2.425,
+      "prior_variance": 0.098069,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Kedarnath",
+      "path": "asia/india/uttaranchal/kedarnath",
+      "prior_score": 1.9386,
+      "prior_variance": 0.108249,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Santo Domingo",
+      "path": "northamerica/dominicanrepublic/santodomingo",
+      "prior_score": 2.696,
+      "prior_variance": 0.088848,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.1505,
+      "prior_variance": 0.089143,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": 0.0534,
+      "prior_variance": 0.095496,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -0.7631,
+      "prior_variance": 0.099677,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 1.2597,
+      "prior_variance": 0.087634,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 1.3276,
+      "prior_variance": 0.079508,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": -2.1037,
+      "prior_variance": 0.090465,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.2529,
+      "prior_variance": 0.077301,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.1325,
+      "prior_variance": 0.100471,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Qusar",
+      "path": "europe/azerbaijan/qusar",
+      "prior_score": -2.4259,
+      "prior_variance": 0.08128,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Riffa",
+      "path": "asia/bahrain/riffa",
+      "prior_score": -3.237,
+      "prior_variance": 0.092925,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.7392,
+      "prior_variance": 0.125458,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Kyzylorda",
+      "path": "asia/kazakhstan/kyzylorda",
+      "prior_score": -5.9976,
+      "prior_variance": 0.138397,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.0677,
+      "prior_variance": 0.140549,
+      "prior_n": 15
+    }
+  ]
+}

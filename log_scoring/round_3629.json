@@ -1,0 +1,200 @@
+{
+  "round": 3629,
+  "timestamp": "2026-06-13T23:08:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 10.581,
+      "prior_variance": 0.272897,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Sharm el-Sheikh",
+      "path": "africa/egypt/sharmelsheikh",
+      "prior_score": 4.9492,
+      "prior_variance": 0.123224,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 2.6078,
+      "prior_variance": 0.158828,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.9758,
+      "prior_variance": 0.12381,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.4605,
+      "prior_variance": 0.146078,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.4474,
+      "prior_variance": 0.117972,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.4929,
+      "prior_variance": 0.113966,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Borgio Verezzi",
+      "path": "europe/italy/liguria/rivieradellepalme/borgioverezzi",
+      "prior_score": 1.3459,
+      "prior_variance": 0.112792,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": 0.1105,
+      "prior_variance": 0.147121,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.8066,
+      "prior_variance": 0.124874,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": 0.0806,
+      "prior_variance": 0.120927,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Arugam Bay",
+      "path": "asia/srilanka/arugam_bay",
+      "prior_score": 3.7241,
+      "prior_variance": 0.132494,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.1612,
+      "prior_variance": 0.120788,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.6823,
+      "prior_variance": 0.103146,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Lourdes",
+      "path": "europe/france/midi/pyrenees/lourdes",
+      "prior_score": 3.0772,
+      "prior_variance": 0.124371,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Turrialba",
+      "path": "northamerica/costarica/turrialba",
+      "prior_score": 0.5561,
+      "prior_variance": 0.104441,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Praia Verde",
+      "path": "europe/portugal/algarve/praia_verde",
+      "prior_score": 1.4362,
+      "prior_variance": 0.120501,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": 0.0883,
+      "prior_variance": 0.114134,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.4615,
+      "prior_variance": 0.104623,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Minsk",
+      "path": "europe/belarus/minsk",
+      "prior_score": -0.6315,
+      "prior_variance": 0.106729,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Cox's Bazar",
+      "path": "asia/bangladesh/coxsbazar",
+      "prior_score": 0.9589,
+      "prior_variance": 0.129517,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -2.1419,
+      "prior_variance": 0.100742,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 1.4218,
+      "prior_variance": 0.115108,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -5.6026,
+      "prior_variance": 0.155644,
+      "prior_n": 11
+    }
+  ]
+}

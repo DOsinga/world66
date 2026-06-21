@@ -1,0 +1,200 @@
+{
+  "round": 4342,
+  "timestamp": "2026-06-14T00:05:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 8.2262,
+      "prior_variance": 0.200711,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 5.6653,
+      "prior_variance": 0.122937,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.3869,
+      "prior_variance": 0.099059,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Tineghir",
+      "path": "africa/morocco/tineghir",
+      "prior_score": 2.0324,
+      "prior_variance": 0.09563,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.0748,
+      "prior_variance": 0.102431,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Yorktown",
+      "path": "northamerica/unitedstates/virginia/yorktown",
+      "prior_score": 1.3896,
+      "prior_variance": 0.100152,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 1.3352,
+      "prior_variance": 0.087832,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": -0.1394,
+      "prior_variance": 0.086057,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Yichang",
+      "path": "asia/china/hubei/yichang",
+      "prior_score": -1.4864,
+      "prior_variance": 0.099572,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 0.3613,
+      "prior_variance": 0.102891,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.7286,
+      "prior_variance": 0.094206,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": -0.2417,
+      "prior_variance": 0.086077,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": -0.0879,
+      "prior_variance": 0.105101,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_score": 0.6884,
+      "prior_variance": 0.096984,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Marsa Matruh",
+      "path": "africa/egypt/marsa_matroh",
+      "prior_score": -0.8943,
+      "prior_variance": 0.096397,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.2725,
+      "prior_variance": 0.090844,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.1453,
+      "prior_variance": 0.091055,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Midsland",
+      "path": "europe/netherlands/waddenislands/terschelling/midsland",
+      "prior_score": 0.0823,
+      "prior_variance": 0.098347,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -0.6497,
+      "prior_variance": 0.09139,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.068,
+      "prior_variance": 0.089274,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.8107,
+      "prior_variance": 0.092703,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "S\u00e1rv\u00e1r",
+      "path": "europe/hungary/sarvar",
+      "prior_score": -0.6566,
+      "prior_variance": 0.09224,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.0187,
+      "prior_variance": 0.095196,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_score": -2.1173,
+      "prior_variance": 0.086364,
+      "prior_n": 14
+    }
+  ]
+}

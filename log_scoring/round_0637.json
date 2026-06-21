@@ -1,0 +1,200 @@
+{
+  "round": 637,
+  "timestamp": "2026-06-13T19:46:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Faro",
+      "path": "europe/portugal/algarve/faro",
+      "prior_score": 7.1898,
+      "prior_variance": 1.677787,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Willemstad",
+      "path": "northamerica/netherlandsantilles/curacao/willemstad",
+      "prior_score": 7.3161,
+      "prior_variance": 1.230654,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 10.6497,
+      "prior_variance": 1.297195,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Phnom Penh",
+      "path": "asia/cambodia/phnompenh",
+      "prior_score": 8.9821,
+      "prior_variance": 0.755723,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Izmir",
+      "path": "asia/turkey/izmir",
+      "prior_score": 6.4089,
+      "prior_variance": 0.890359,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Mui Ne - Phan Thiet",
+      "path": "asia/vietnam/muine__phan_thiet",
+      "prior_score": 6.0936,
+      "prior_variance": 0.692526,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 6.7363,
+      "prior_variance": 0.93772,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 5.8096,
+      "prior_variance": 0.893173,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 6.3069,
+      "prior_variance": 0.684325,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Shaolin Monastery",
+      "path": "asia/china/henan_province/shaolin_monastery",
+      "prior_score": 6.9746,
+      "prior_variance": 1.004612,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Qufu",
+      "path": "asia/china/shandong_province/qufu",
+      "prior_score": 5.8772,
+      "prior_variance": 0.713324,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 6.5027,
+      "prior_variance": 0.692557,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Salalah",
+      "path": "asia/oman/salalah",
+      "prior_score": 6.7584,
+      "prior_variance": 0.781612,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 7.3647,
+      "prior_variance": 1.664809,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 6.5971,
+      "prior_variance": 0.81925,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Forde",
+      "path": "europe/norway/forde",
+      "prior_score": 5.6579,
+      "prior_variance": 1.185173,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 6.8798,
+      "prior_variance": 0.904567,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 7.2197,
+      "prior_variance": 1.017412,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Bibione",
+      "path": "europe/italy/veneto/bibione",
+      "prior_score": 6.5807,
+      "prior_variance": 1.631539,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 5.682,
+      "prior_variance": 0.723916,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hoch Ybrig",
+      "path": "europe/switzerland/hoch_ybrig",
+      "prior_score": 6.1106,
+      "prior_variance": 1.770077,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 4.4941,
+      "prior_variance": 0.497181,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 4.7222,
+      "prior_variance": 0.921126,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 3.9817,
+      "prior_variance": 0.841183,
+      "prior_n": 2
+    }
+  ]
+}

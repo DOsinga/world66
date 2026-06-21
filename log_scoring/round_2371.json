@@ -1,0 +1,200 @@
+{
+  "round": 2371,
+  "timestamp": "2026-06-13T21:37:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 9.9568,
+      "prior_variance": 0.302091,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Leysin",
+      "path": "europe/switzerland/leysin",
+      "prior_score": 2.3456,
+      "prior_variance": 0.187903,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Nairobi",
+      "path": "africa/kenya/nairobi",
+      "prior_score": 0.2528,
+      "prior_variance": 0.21369,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Tai national park",
+      "path": "africa/ivorycoast/tainationalpark",
+      "prior_score": -1.5519,
+      "prior_variance": 0.315968,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Iona National Park",
+      "path": "africa/angola/ionanationalpark",
+      "prior_score": -4.9099,
+      "prior_variance": 0.308915,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Pohnpei",
+      "path": "australiaandpacific/micronesiafederatedstatesof/pohnpei",
+      "prior_score": -0.0713,
+      "prior_variance": 0.162966,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Wuzhishan",
+      "path": "asia/china/hainanisland/wuzhishan",
+      "prior_score": -1.7921,
+      "prior_variance": 0.182376,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.5947,
+      "prior_variance": 0.161781,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.1317,
+      "prior_variance": 0.181084,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -2.8075,
+      "prior_variance": 0.183971,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -5.7638,
+      "prior_variance": 0.303883,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.844,
+      "prior_variance": 0.213159,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Annaba",
+      "path": "africa/algeria/annaba",
+      "prior_score": -3.0453,
+      "prior_variance": 0.214988,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Worcester",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/worcester",
+      "prior_score": -2.9009,
+      "prior_variance": 0.264994,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -3.1043,
+      "prior_variance": 0.179849,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Red Deer",
+      "path": "northamerica/canada/alberta/reddeer",
+      "prior_score": -3.8541,
+      "prior_variance": 0.173025,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Hengelo",
+      "path": "europe/netherlands/hengelo",
+      "prior_score": -3.8817,
+      "prior_variance": 0.198967,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.8195,
+      "prior_variance": 0.199,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -2.868,
+      "prior_variance": 0.185139,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.1961,
+      "prior_variance": 0.213788,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -5.8593,
+      "prior_variance": 0.253512,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Glen Rock",
+      "path": "northamerica/unitedstates/newjersey/glen_rock",
+      "prior_score": -6.446,
+      "prior_variance": 0.264299,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.2997,
+      "prior_variance": 0.244772,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Borj Mokhtar",
+      "path": "africa/algeria/borjmokhtar",
+      "prior_score": -9.8348,
+      "prior_variance": 0.474482,
+      "prior_n": 7
+    }
+  ]
+}

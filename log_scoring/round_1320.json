@@ -1,0 +1,200 @@
+{
+  "round": 1320,
+  "timestamp": "2026-06-13T20:23:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 2.8932,
+      "prior_variance": 0.338283,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 5.3538,
+      "prior_variance": 0.399145,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 4.0804,
+      "prior_variance": 0.415551,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.445,
+      "prior_variance": 0.331191,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Burghausen",
+      "path": "europe/germany/bavaria/burghausen",
+      "prior_score": 4.907,
+      "prior_variance": 0.319185,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 4.6492,
+      "prior_variance": 0.346873,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -2.0361,
+      "prior_variance": 0.42247,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Southampton",
+      "path": "northamerica/bermuda/southampton",
+      "prior_score": 3.4094,
+      "prior_variance": 0.371752,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 2.6705,
+      "prior_variance": 0.348622,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 3.7446,
+      "prior_variance": 0.386892,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 0.9053,
+      "prior_variance": 0.322542,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Olympic Valley",
+      "path": "northamerica/unitedstates/california/olympic_valley",
+      "prior_score": 3.8768,
+      "prior_variance": 0.356674,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Jujuy",
+      "path": "southamerica/argentina/jujuy",
+      "prior_score": 3.1234,
+      "prior_variance": 0.315154,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.0181,
+      "prior_variance": 0.30745,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.3184,
+      "prior_variance": 0.360755,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 3.399,
+      "prior_variance": 0.472493,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.6727,
+      "prior_variance": 0.396125,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -1.2839,
+      "prior_variance": 0.431468,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.6357,
+      "prior_variance": 0.352907,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -6.4929,
+      "prior_variance": 0.470889,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Asansol",
+      "path": "asia/india/westbengal/asansol",
+      "prior_score": -8.3576,
+      "prior_variance": 0.433473,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -5.1245,
+      "prior_variance": 0.429404,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -5.694,
+      "prior_variance": 0.303936,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Gillingham",
+      "path": "europe/unitedkingdom/england/south_east/gillingham",
+      "prior_score": -6.8368,
+      "prior_variance": 0.40154,
+      "prior_n": 4
+    }
+  ]
+}

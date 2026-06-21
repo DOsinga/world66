@@ -1,0 +1,200 @@
+{
+  "round": 1043,
+  "timestamp": "2026-06-13T20:07:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Panama Canal",
+      "path": "northamerica/panama/panamacanal",
+      "prior_score": 9.0235,
+      "prior_variance": 0.4382,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Cannes",
+      "path": "europe/france/cannes",
+      "prior_score": 8.3334,
+      "prior_variance": 0.480053,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Yountville",
+      "path": "northamerica/unitedstates/california/yountville",
+      "prior_score": 3.7691,
+      "prior_variance": 0.420786,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Newport Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/newportbeach",
+      "prior_score": 2.1637,
+      "prior_variance": 0.499712,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Palm Cove",
+      "path": "australiaandpacific/australia/queensland/palmcove",
+      "prior_score": 5.1448,
+      "prior_variance": 0.609934,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bellinzona",
+      "path": "europe/switzerland/bellinzona",
+      "prior_score": 5.8705,
+      "prior_variance": 0.414232,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 4.5605,
+      "prior_variance": 0.435582,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.2775,
+      "prior_variance": 0.615241,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_score": 4.433,
+      "prior_variance": 0.414032,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Pe\u00f1\u00edscola",
+      "path": "europe/spain/castellon/peniscola",
+      "prior_score": 4.483,
+      "prior_variance": 0.395726,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 1.5972,
+      "prior_variance": 0.538983,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Volos",
+      "path": "europe/greece/volos",
+      "prior_score": 4.0995,
+      "prior_variance": 0.502386,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 2.1546,
+      "prior_variance": 0.448941,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Dra\u010de",
+      "path": "europe/croatia/peljesac/drace",
+      "prior_score": 2.1797,
+      "prior_variance": 0.472293,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 1.8552,
+      "prior_variance": 0.407662,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 3.3526,
+      "prior_variance": 0.443586,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 1.6131,
+      "prior_variance": 0.421505,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 5.1438,
+      "prior_variance": 0.402271,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Songpan",
+      "path": "asia/china/sichuanprovince/songpan",
+      "prior_score": 3.1176,
+      "prior_variance": 0.550989,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 4.8324,
+      "prior_variance": 0.571796,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 3.2114,
+      "prior_variance": 0.43664,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 0.6875,
+      "prior_variance": 0.409164,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": -2.0097,
+      "prior_variance": 0.686548,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Ripon",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon",
+      "prior_score": 1.8628,
+      "prior_variance": 0.44593,
+      "prior_n": 3
+    }
+  ]
+}

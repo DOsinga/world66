@@ -1,0 +1,200 @@
+{
+  "round": 619,
+  "timestamp": "2026-06-13T19:45:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 7.5763,
+      "prior_variance": 2.134302,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 9.1521,
+      "prior_variance": 0.929085,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 5.926,
+      "prior_variance": 0.80867,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Royal Chitwan National Park",
+      "path": "asia/nepal/royalchitwannationalpark",
+      "prior_score": 8.3726,
+      "prior_variance": 1.31892,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Dharamsala",
+      "path": "asia/india/himachalpradesh/dharamsala",
+      "prior_score": 6.4031,
+      "prior_variance": 1.668226,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 7.6118,
+      "prior_variance": 0.978315,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "KwaZulu-Natal",
+      "path": "africa/southafrica/kwazulu_natal",
+      "prior_score": 9.2988,
+      "prior_variance": 0.85961,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 6.9942,
+      "prior_variance": 1.025398,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Ars-en-R\u00e9",
+      "path": "europe/france/aquitaine/ile_de_r/ars_en_r",
+      "prior_score": 7.0344,
+      "prior_variance": 0.790195,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 7.438,
+      "prior_variance": 1.203459,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Garmisch-Partenkirchen",
+      "path": "europe/germany/bavaria/garmischpartenkirchen",
+      "prior_score": 9.7308,
+      "prior_variance": 1.754293,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 8.0281,
+      "prior_variance": 1.125478,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Palm Beach",
+      "path": "northamerica/unitedstates/florida/palm_beach",
+      "prior_score": 7.2578,
+      "prior_variance": 1.090182,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 8.6239,
+      "prior_variance": 1.187566,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 6.3513,
+      "prior_variance": 1.774477,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 7.7994,
+      "prior_variance": 0.676398,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Do\u00f1ana National Park",
+      "path": "europe/spain/andalucia/doana_national_p",
+      "prior_score": 7.0445,
+      "prior_variance": 1.526827,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Ullapool",
+      "path": "europe/unitedkingdom/scotland/ullapool",
+      "prior_score": 5.4301,
+      "prior_variance": 0.922632,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 7.6363,
+      "prior_variance": 1.162979,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": 4.4418,
+      "prior_variance": 1.233925,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 9.1152,
+      "prior_variance": 1.851383,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 7.0494,
+      "prior_variance": 1.678424,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 4.7707,
+      "prior_variance": 0.766119,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 5.2865,
+      "prior_variance": 0.872768,
+      "prior_n": 2
+    }
+  ]
+}

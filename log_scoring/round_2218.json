@@ -1,0 +1,200 @@
+{
+  "round": 2218,
+  "timestamp": "2026-06-13T21:26:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rasdhoo",
+      "path": "asia/maldives/ari_atoll/rasdhoo",
+      "prior_score": 7.9133,
+      "prior_variance": 0.300456,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Cancun",
+      "path": "northamerica/mexico/cancun",
+      "prior_score": 5.9623,
+      "prior_variance": 0.277838,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Hilo",
+      "path": "northamerica/unitedstates/hawaii/hilo",
+      "prior_score": 3.8485,
+      "prior_variance": 0.238891,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Portoferraio",
+      "path": "europe/italy/tuscany/elba/portoferraio",
+      "prior_score": 4.6193,
+      "prior_variance": 0.197231,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.6454,
+      "prior_variance": 0.200139,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.2091,
+      "prior_variance": 0.241852,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Ouray",
+      "path": "northamerica/unitedstates/colorado/ouray",
+      "prior_score": 4.17,
+      "prior_variance": 0.20133,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.1868,
+      "prior_variance": 0.199571,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.3465,
+      "prior_variance": 0.208511,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 3.2439,
+      "prior_variance": 0.198779,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Condado",
+      "path": "northamerica/thecaribbean/puertorico/condado",
+      "prior_score": 2.6805,
+      "prior_variance": 0.200048,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Tequila",
+      "path": "northamerica/mexico/tequila",
+      "prior_score": 0.8937,
+      "prior_variance": 0.232271,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_score": 2.9872,
+      "prior_variance": 0.205216,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 2.2259,
+      "prior_variance": 0.203928,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 2.736,
+      "prior_variance": 0.166264,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 2.4937,
+      "prior_variance": 0.193091,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.4874,
+      "prior_variance": 0.288425,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 2.0157,
+      "prior_variance": 0.203471,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.4057,
+      "prior_variance": 0.263081,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 2.3937,
+      "prior_variance": 0.185925,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 1.2613,
+      "prior_variance": 0.213327,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.8546,
+      "prior_variance": 0.197609,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.9965,
+      "prior_variance": 0.168519,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Gunungsitoli",
+      "path": "asia/indonesia/nias_selatan/gunungsitoli",
+      "prior_score": -3.8069,
+      "prior_variance": 0.206178,
+      "prior_n": 7
+    }
+  ]
+}

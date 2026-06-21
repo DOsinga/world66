@@ -1,0 +1,200 @@
+{
+  "round": 4489,
+  "timestamp": "2026-06-14T00:16:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.6505,
+      "prior_variance": 0.193711,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.5892,
+      "prior_variance": 0.137776,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Teotihuacan",
+      "path": "northamerica/mexico/teotihuacan",
+      "prior_score": 8.1564,
+      "prior_variance": 0.171452,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Knossos",
+      "path": "europe/greece/crete/knossos",
+      "prior_score": 7.073,
+      "prior_variance": 0.121317,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Verona",
+      "path": "europe/italy/veneto/verona",
+      "prior_score": 7.7786,
+      "prior_variance": 0.139948,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Charleston",
+      "path": "northamerica/unitedstates/southcarolina/charleston",
+      "prior_score": 5.968,
+      "prior_variance": 0.129394,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Napa",
+      "path": "northamerica/unitedstates/california/napa",
+      "prior_score": 4.8005,
+      "prior_variance": 0.132507,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.6602,
+      "prior_variance": 0.113829,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Livingstone",
+      "path": "africa/zambia/livingstone",
+      "prior_score": 4.3439,
+      "prior_variance": 0.106933,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Tivoli",
+      "path": "europe/italy/lazio/tivoli",
+      "prior_score": 5.7552,
+      "prior_variance": 0.114045,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 4.9171,
+      "prior_variance": 0.107391,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.0521,
+      "prior_variance": 0.121974,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": 0.3271,
+      "prior_variance": 0.121081,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.5896,
+      "prior_variance": 0.091898,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Martigny",
+      "path": "europe/switzerland/martigny",
+      "prior_score": 2.7151,
+      "prior_variance": 0.093418,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.4706,
+      "prior_variance": 0.101244,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -3.1289,
+      "prior_variance": 0.119788,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.921,
+      "prior_variance": 0.089258,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.4386,
+      "prior_variance": 0.089467,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Almada",
+      "path": "europe/portugal/almada",
+      "prior_score": -0.7706,
+      "prior_variance": 0.091,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Moers",
+      "path": "europe/germany/northrhinewestphalia/moers",
+      "prior_score": -3.6328,
+      "prior_variance": 0.096818,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.0786,
+      "prior_variance": 0.097133,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -1.2197,
+      "prior_variance": 0.09683,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Enid",
+      "path": "northamerica/unitedstates/oklahoma/enid",
+      "prior_score": -5.1868,
+      "prior_variance": 0.123983,
+      "prior_n": 14
+    }
+  ]
+}

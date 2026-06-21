@@ -1,0 +1,200 @@
+{
+  "round": 1136,
+  "timestamp": "2026-06-13T20:13:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kenmare",
+      "path": "europe/ireland/kenmare",
+      "prior_score": 2.4033,
+      "prior_variance": 0.444014,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district",
+      "prior_score": 1.3433,
+      "prior_variance": 0.311132,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.664,
+      "prior_variance": 0.430595,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 3.1598,
+      "prior_variance": 0.578502,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 4.1721,
+      "prior_variance": 0.432718,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 1.4367,
+      "prior_variance": 0.311401,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.1457,
+      "prior_variance": 0.417896,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.9135,
+      "prior_variance": 0.414023,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Steingaden",
+      "path": "europe/germany/bavaria/romanticroad/steingaden",
+      "prior_score": 3.0667,
+      "prior_variance": 0.45618,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Prespa",
+      "path": "europe/greece/prespa",
+      "prior_score": 1.2193,
+      "prior_variance": 0.416646,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": -0.6527,
+      "prior_variance": 0.311604,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.5931,
+      "prior_variance": 0.500868,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Delray Beach",
+      "path": "northamerica/unitedstates/florida/delray_beach",
+      "prior_score": 0.6653,
+      "prior_variance": 0.557216,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bibbona",
+      "path": "europe/italy/tuscany/bibbona",
+      "prior_score": 1.8995,
+      "prior_variance": 0.405561,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -1.6203,
+      "prior_variance": 0.460377,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 2.7331,
+      "prior_variance": 0.646752,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": 1.7022,
+      "prior_variance": 0.42158,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.3658,
+      "prior_variance": 0.449963,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -2.9949,
+      "prior_variance": 0.432671,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.6502,
+      "prior_variance": 0.421396,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -2.5727,
+      "prior_variance": 0.46047,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 1.6631,
+      "prior_variance": 0.371244,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": -0.326,
+      "prior_variance": 0.652312,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -1.6825,
+      "prior_variance": 0.856549,
+      "prior_n": 3
+    }
+  ]
+}

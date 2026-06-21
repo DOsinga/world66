@@ -1,0 +1,200 @@
+{
+  "round": 2569,
+  "timestamp": "2026-06-13T21:51:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tutukaka / Poor Knights",
+      "path": "australiaandpacific/newzealand/north_island/northland/titikakapoor_knig",
+      "prior_score": 2.9695,
+      "prior_variance": 0.191512,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Uz\u00e8s",
+      "path": "europe/france/midi/ardeche/uzes",
+      "prior_score": 1.8705,
+      "prior_variance": 0.197921,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 3.8688,
+      "prior_variance": 0.175329,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.9679,
+      "prior_variance": 0.163607,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 1.3881,
+      "prior_variance": 0.16142,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Tirana",
+      "path": "europe/albania/tirana",
+      "prior_score": 1.8119,
+      "prior_variance": 0.16887,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 1.9032,
+      "prior_variance": 0.156304,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": -0.1203,
+      "prior_variance": 0.190927,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Syunik",
+      "path": "europe/armenia/syunik",
+      "prior_score": -0.3883,
+      "prior_variance": 0.146102,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Quba",
+      "path": "europe/azerbaijan/quba",
+      "prior_score": -0.3008,
+      "prior_variance": 0.168519,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Hpa-an",
+      "path": "asia/myanmar/hpa_an",
+      "prior_score": 0.96,
+      "prior_variance": 0.180609,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 0.5594,
+      "prior_variance": 0.186227,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.3148,
+      "prior_variance": 0.173482,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.7243,
+      "prior_variance": 0.138008,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.7682,
+      "prior_variance": 0.248164,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Nkhata Bay",
+      "path": "africa/malawi/nkhata_bay",
+      "prior_score": -0.2237,
+      "prior_variance": 0.149827,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Juan Griego",
+      "path": "southamerica/venezuela/margaritaisland/juangriego",
+      "prior_score": -0.7421,
+      "prior_variance": 0.189003,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Nashik",
+      "path": "asia/india/maharashtra/nashik",
+      "prior_score": -0.3582,
+      "prior_variance": 0.164025,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Zunyi",
+      "path": "asia/china/guizhou/zunyi",
+      "prior_score": -3.6395,
+      "prior_variance": 0.198862,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Brenham",
+      "path": "northamerica/unitedstates/texas/brenham",
+      "prior_score": -3.0878,
+      "prior_variance": 0.181706,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -2.6154,
+      "prior_variance": 0.15647,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.6455,
+      "prior_variance": 0.149446,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -3.069,
+      "prior_variance": 0.173155,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Masachapa",
+      "path": "northamerica/nicaragua/masachapa",
+      "prior_score": -4.155,
+      "prior_variance": 0.183065,
+      "prior_n": 8
+    }
+  ]
+}

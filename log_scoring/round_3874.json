@@ -1,0 +1,200 @@
+{
+  "round": 3874,
+  "timestamp": "2026-06-13T23:26:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 5.2145,
+      "prior_variance": 0.132414,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 4.4413,
+      "prior_variance": 0.129276,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.3194,
+      "prior_variance": 0.128333,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Stone Forest (Shilin)",
+      "path": "asia/china/yunnanprovince/shilin",
+      "prior_score": 4.4065,
+      "prior_variance": 0.115937,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 3.2401,
+      "prior_variance": 0.10742,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Andorra la Vella",
+      "path": "europe/andorra/andorralavella",
+      "prior_score": 2.694,
+      "prior_variance": 0.108651,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 3.0283,
+      "prior_variance": 0.147159,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bour",
+      "path": "europe/faroeislands/vagar/bour",
+      "prior_score": 1.7854,
+      "prior_variance": 0.110428,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.3298,
+      "prior_variance": 0.11626,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Herm",
+      "path": "europe/channelislands/herm",
+      "prior_score": 1.8503,
+      "prior_variance": 0.114024,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Portobelo",
+      "path": "northamerica/panama/portobelo",
+      "prior_score": 1.4389,
+      "prior_variance": 0.108063,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Panchgani",
+      "path": "asia/india/maharashtra/panchgani",
+      "prior_score": 0.5311,
+      "prior_variance": 0.09633,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kangra",
+      "path": "asia/india/himachalpradesh/kangra",
+      "prior_score": 1.0725,
+      "prior_variance": 0.111754,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Husavik",
+      "path": "europe/iceland/husavik",
+      "prior_score": 3.1007,
+      "prior_variance": 0.176952,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.9677,
+      "prior_variance": 0.103432,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Smolyan",
+      "path": "europe/bulgaria/rhodopemountains/smolyan",
+      "prior_score": -0.1803,
+      "prior_variance": 0.098455,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": 0.0039,
+      "prior_variance": 0.097878,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Friedrichshafen",
+      "path": "europe/germany/badenwrttemberg/friedrichshafen",
+      "prior_score": -0.1542,
+      "prior_variance": 0.101106,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": 0.3945,
+      "prior_variance": 0.105263,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "La Trinit\u00e9",
+      "path": "northamerica/thecaribbean/martinique/latrinite",
+      "prior_score": 1.183,
+      "prior_variance": 0.123693,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -2.5364,
+      "prior_variance": 0.154361,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.1892,
+      "prior_variance": 0.13259,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.1081,
+      "prior_variance": 0.131798,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.9047,
+      "prior_variance": 0.171302,
+      "prior_n": 12
+    }
+  ]
+}

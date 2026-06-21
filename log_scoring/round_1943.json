@@ -1,0 +1,200 @@
+{
+  "round": 1943,
+  "timestamp": "2026-06-13T21:02:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 5.5777,
+      "prior_variance": 0.232598,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Arequipa",
+      "path": "southamerica/peru/arequipa",
+      "prior_score": 5.4422,
+      "prior_variance": 0.291372,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 5.1921,
+      "prior_variance": 0.231602,
+      "prior_n": 6
+    },
+    {
+      "rank": 4,
+      "title": "Mahabalipuram",
+      "path": "asia/india/tamilnadu/mahabalipuram",
+      "prior_score": 3.7649,
+      "prior_variance": 0.296633,
+      "prior_n": 6
+    },
+    {
+      "rank": 5,
+      "title": "Fish River Canyon National Park",
+      "path": "africa/namibia/fishrivercanyonnationalpark",
+      "prior_score": 5.0193,
+      "prior_variance": 0.248524,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Axum",
+      "path": "africa/ethiopia/axum",
+      "prior_score": 3.9565,
+      "prior_variance": 0.277903,
+      "prior_n": 6
+    },
+    {
+      "rank": 7,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.4477,
+      "prior_variance": 0.289836,
+      "prior_n": 6
+    },
+    {
+      "rank": 8,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -1.0479,
+      "prior_variance": 0.307686,
+      "prior_n": 6
+    },
+    {
+      "rank": 9,
+      "title": "Carloforte",
+      "path": "europe/italy/sardinia/isoladisanpietro/carloforte",
+      "prior_score": 3.0702,
+      "prior_variance": 0.17959,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -1.5847,
+      "prior_variance": 0.234941,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Fraser's Hill",
+      "path": "asia/malaysia/frasers_hill",
+      "prior_score": 1.241,
+      "prior_variance": 0.236905,
+      "prior_n": 6
+    },
+    {
+      "rank": 12,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.7639,
+      "prior_variance": 0.211499,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Rueil-Malmaison",
+      "path": "europe/france/around_paris/rueilmalmaison",
+      "prior_score": -1.4194,
+      "prior_variance": 0.235362,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Whiting Bay",
+      "path": "europe/unitedkingdom/scotland/arran/whiting_bay",
+      "prior_score": -1.2558,
+      "prior_variance": 0.205567,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": 0.1144,
+      "prior_variance": 0.223185,
+      "prior_n": 6
+    },
+    {
+      "rank": 16,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -1.1814,
+      "prior_variance": 0.27074,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -1.1686,
+      "prior_variance": 0.207678,
+      "prior_n": 6
+    },
+    {
+      "rank": 18,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.8154,
+      "prior_variance": 0.246377,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Sveg",
+      "path": "europe/sweden/sveg",
+      "prior_score": -2.2989,
+      "prior_variance": 0.241624,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Santuario Nacional Tabaconas Namballe",
+      "path": "southamerica/peru/san_ignacio/santuario_nacional_tabaconas_namballe",
+      "prior_score": -3.3423,
+      "prior_variance": 0.48386,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_score": -1.0566,
+      "prior_variance": 0.264454,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Kluang",
+      "path": "asia/malaysia/kluang",
+      "prior_score": -3.355,
+      "prior_variance": 0.203156,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -2.7655,
+      "prior_variance": 0.259949,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Sikasso",
+      "path": "africa/mali/sikasso",
+      "prior_score": -7.1583,
+      "prior_variance": 0.344864,
+      "prior_n": 6
+    }
+  ]
+}

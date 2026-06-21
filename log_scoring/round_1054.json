@@ -1,0 +1,200 @@
+{
+  "round": 1054,
+  "timestamp": "2026-06-13T20:08:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": -1.4913,
+      "prior_variance": 0.543907,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 4.378,
+      "prior_variance": 0.611785,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -1.3135,
+      "prior_variance": 0.420845,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Mahdia",
+      "path": "africa/tunisia/mahdia",
+      "prior_score": 1.029,
+      "prior_variance": 0.321529,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Schoelcher",
+      "path": "northamerica/thecaribbean/martinique/schoelcher",
+      "prior_score": -0.5872,
+      "prior_variance": 0.425389,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": -0.5894,
+      "prior_variance": 0.544373,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.2414,
+      "prior_variance": 0.421416,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Suceava",
+      "path": "europe/romania/suceava",
+      "prior_score": -1.7301,
+      "prior_variance": 0.409474,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.4881,
+      "prior_variance": 0.479074,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Val-David",
+      "path": "northamerica/canada/quebec/valdavid",
+      "prior_score": -0.6904,
+      "prior_variance": 0.501796,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Visoko",
+      "path": "europe/bosniaandherzegovina/visoko_1",
+      "prior_score": -2.1143,
+      "prior_variance": 0.406059,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -3.3144,
+      "prior_variance": 0.410882,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": 0.6582,
+      "prior_variance": 0.325974,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_score": -0.649,
+      "prior_variance": 0.428577,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Longreach",
+      "path": "australiaandpacific/australia/queensland/longreach",
+      "prior_score": -1.4362,
+      "prior_variance": 0.413935,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -2.5279,
+      "prior_variance": 0.530982,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -2.423,
+      "prior_variance": 0.562428,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -0.6298,
+      "prior_variance": 0.473313,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -2.4148,
+      "prior_variance": 0.447899,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Aalsmeer",
+      "path": "europe/netherlands/aalsmeer",
+      "prior_score": -1.4926,
+      "prior_variance": 0.385885,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -5.0106,
+      "prior_variance": 0.563175,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.0167,
+      "prior_variance": 0.521462,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -1.3666,
+      "prior_variance": 0.425787,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Kavieng",
+      "path": "asia/papuanewguinea/newireland/kavieng",
+      "prior_score": -2.092,
+      "prior_variance": 0.439561,
+      "prior_n": 3
+    }
+  ]
+}

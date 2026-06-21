@@ -1,0 +1,200 @@
+{
+  "round": 736,
+  "timestamp": "2026-06-13T19:51:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": -2.0834,
+      "prior_variance": 1.494217,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Jupiter",
+      "path": "northamerica/unitedstates/florida/jupiter",
+      "prior_score": -1.9233,
+      "prior_variance": 0.625186,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Santa Clara",
+      "path": "northamerica/unitedstates/california/santaclara",
+      "prior_score": -4.4768,
+      "prior_variance": 0.695668,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -1.531,
+      "prior_variance": 0.750965,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": -2.1297,
+      "prior_variance": 0.886739,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Hag\u00e5t\u00f1a (Agana)",
+      "path": "australiaandpacific/guam/agana",
+      "prior_score": -2.6408,
+      "prior_variance": 0.845626,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Gotska Sand\u00f6n",
+      "path": "europe/sweden/gotska_sandn",
+      "prior_score": -2.8723,
+      "prior_variance": 0.63803,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pskov",
+      "path": "europe/russia/pskov",
+      "prior_score": -2.1827,
+      "prior_variance": 0.796307,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -3.6003,
+      "prior_variance": 0.623248,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Ellsworth",
+      "path": "northamerica/unitedstates/maine/ellsworth",
+      "prior_score": -2.726,
+      "prior_variance": 0.659076,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_score": -4.3447,
+      "prior_variance": 0.654338,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Dubuque",
+      "path": "northamerica/unitedstates/iowa/dubuque",
+      "prior_score": -4.7919,
+      "prior_variance": 0.757182,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -3.9718,
+      "prior_variance": 0.952178,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -4.4448,
+      "prior_variance": 0.726162,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -4.0262,
+      "prior_variance": 0.837223,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -4.0747,
+      "prior_variance": 0.626974,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Chernihiv",
+      "path": "europe/ukraine/chernihiv",
+      "prior_score": -3.1663,
+      "prior_variance": 1.264457,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -3.3687,
+      "prior_variance": 0.684561,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gadiara",
+      "path": "asia/india/westbengal/mandarmani/gadiara",
+      "prior_score": -3.2166,
+      "prior_variance": 0.71585,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Aqtau",
+      "path": "asia/kazakhstan/aqtau",
+      "prior_score": -5.0354,
+      "prior_variance": 0.964066,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Tongchuan",
+      "path": "asia/china/shaanxi/tongchuan",
+      "prior_score": -4.8001,
+      "prior_variance": 0.758729,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -2.6418,
+      "prior_variance": 0.913591,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -1.722,
+      "prior_variance": 0.735475,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Giusvalla",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/giusvalla",
+      "prior_score": -4.0782,
+      "prior_variance": 0.656307,
+      "prior_n": 2
+    }
+  ]
+}

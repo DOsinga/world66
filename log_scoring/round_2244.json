@@ -1,0 +1,200 @@
+{
+  "round": 2244,
+  "timestamp": "2026-06-13T21:28:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": -0.2027,
+      "prior_variance": 0.247912,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.5641,
+      "prior_variance": 0.183753,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Haliburton",
+      "path": "northamerica/canada/ontario/haliburton",
+      "prior_score": -0.8691,
+      "prior_variance": 0.172518,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Cape Croker",
+      "path": "northamerica/canada/ontario/capecrokerfirst",
+      "prior_score": -2.4036,
+      "prior_variance": 0.191272,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2705,
+      "prior_variance": 0.163099,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.5041,
+      "prior_variance": 0.21739,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Khor Virap",
+      "path": "europe/armenia/khorvirap",
+      "prior_score": 2.5922,
+      "prior_variance": 0.181423,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -2.7603,
+      "prior_variance": 0.17244,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.8773,
+      "prior_variance": 0.210832,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.818,
+      "prior_variance": 0.224748,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Talavera de la Reina",
+      "path": "europe/spain/centralspain/talaveradelareina",
+      "prior_score": -2.4202,
+      "prior_variance": 0.179854,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -2.8051,
+      "prior_variance": 0.177735,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Valledupar",
+      "path": "southamerica/colombia/valledupar",
+      "prior_score": -1.8681,
+      "prior_variance": 0.182442,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.7118,
+      "prior_variance": 0.191627,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.498,
+      "prior_variance": 0.190683,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.1647,
+      "prior_variance": 0.181929,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Tingambato",
+      "path": "northamerica/mexico/tingambato",
+      "prior_score": -3.4201,
+      "prior_variance": 0.189807,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -2.6862,
+      "prior_variance": 0.222511,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.7869,
+      "prior_variance": 0.235988,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -4.632,
+      "prior_variance": 0.186306,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -5.4926,
+      "prior_variance": 0.191942,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.6395,
+      "prior_variance": 0.199061,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Huaihua",
+      "path": "asia/china/hunan/huaihua",
+      "prior_score": -4.5897,
+      "prior_variance": 0.190355,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.9102,
+      "prior_variance": 0.311945,
+      "prior_n": 7
+    }
+  ]
+}

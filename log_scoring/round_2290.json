@@ -1,0 +1,200 @@
+{
+  "round": 2290,
+  "timestamp": "2026-06-13T21:31:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kilkenny",
+      "path": "europe/ireland/kilkenny",
+      "prior_score": 4.4502,
+      "prior_variance": 0.212416,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.0778,
+      "prior_variance": 0.203271,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Valen\u00e7ay",
+      "path": "europe/france/centre/loirevalley/valencay",
+      "prior_score": 0.8231,
+      "prior_variance": 0.245305,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.5376,
+      "prior_variance": 0.227105,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Colva",
+      "path": "asia/india/goa/colva",
+      "prior_score": 1.4454,
+      "prior_variance": 0.164238,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Tawang",
+      "path": "asia/india/arunachalpradesh/tawang",
+      "prior_score": 1.8088,
+      "prior_variance": 0.179814,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.8156,
+      "prior_variance": 0.220902,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Potosi",
+      "path": "southamerica/bolivia/potosi",
+      "prior_score": 3.739,
+      "prior_variance": 0.204919,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Prizren",
+      "path": "europe/serbia/kosovoprovince/prizren",
+      "prior_score": 1.2875,
+      "prior_variance": 0.189177,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 2.2636,
+      "prior_variance": 0.157322,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": -0.6106,
+      "prior_variance": 0.202425,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Nyika National Park",
+      "path": "africa/malawi/nyika",
+      "prior_score": 0.4413,
+      "prior_variance": 0.180338,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.5045,
+      "prior_variance": 0.165572,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Grand Marais",
+      "path": "northamerica/unitedstates/minnesota/grand_marais",
+      "prior_score": 0.6504,
+      "prior_variance": 0.197873,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Nora",
+      "path": "europe/sweden/nora",
+      "prior_score": -0.2554,
+      "prior_variance": 0.164987,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": 0.1098,
+      "prior_variance": 0.23946,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -0.4935,
+      "prior_variance": 0.197229,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Santa Cruz",
+      "path": "southamerica/bolivia/santacruz",
+      "prior_score": -1.756,
+      "prior_variance": 0.222781,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -1.1975,
+      "prior_variance": 0.178569,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -2.2195,
+      "prior_variance": 0.217462,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -6.7638,
+      "prior_variance": 0.291,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -5.8283,
+      "prior_variance": 0.223151,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.427,
+      "prior_variance": 0.172226,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -3.9583,
+      "prior_variance": 0.197612,
+      "prior_n": 7
+    }
+  ]
+}

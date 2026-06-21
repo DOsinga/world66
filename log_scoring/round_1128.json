@@ -1,0 +1,200 @@
+{
+  "round": 1128,
+  "timestamp": "2026-06-13T20:12:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "London",
+      "path": "europe/unitedkingdom/england/london",
+      "prior_score": 19.2058,
+      "prior_variance": 0.817666,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 0.4956,
+      "prior_variance": 0.499318,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Al Ain",
+      "path": "asia/unitedarabemirates/al_ain",
+      "prior_score": 0.8524,
+      "prior_variance": 0.399895,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.8768,
+      "prior_variance": 0.366601,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 0.5726,
+      "prior_variance": 0.434293,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Bahchisaray",
+      "path": "europe/ukraine/crimea/bahchisaray",
+      "prior_score": 0.4572,
+      "prior_variance": 0.432085,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Hac\u0131bekta\u015f",
+      "path": "asia/turkey/cappadocia/hacibektas",
+      "prior_score": -1.0259,
+      "prior_variance": 0.376983,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -1.4891,
+      "prior_variance": 0.341159,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 0.483,
+      "prior_variance": 0.304004,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Swanage",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/swanage",
+      "prior_score": 0.7327,
+      "prior_variance": 0.530205,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -0.6188,
+      "prior_variance": 0.42145,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": 0.0188,
+      "prior_variance": 0.514068,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.5091,
+      "prior_variance": 0.470842,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -1.4242,
+      "prior_variance": 0.421772,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "San Carlos (Sonora)",
+      "path": "northamerica/mexico/san_carlos_sonora",
+      "prior_score": 0.2227,
+      "prior_variance": 0.352501,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": -1.2426,
+      "prior_variance": 0.551138,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": 0.4925,
+      "prior_variance": 0.343695,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": -0.1726,
+      "prior_variance": 0.406993,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": -0.272,
+      "prior_variance": 0.393961,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Sylvan Lake",
+      "path": "northamerica/canada/alberta/sylvan_lake",
+      "prior_score": -2.357,
+      "prior_variance": 0.428873,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Breil/Brigels",
+      "path": "europe/switzerland/breilbrigels",
+      "prior_score": -0.8665,
+      "prior_variance": 0.574975,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -1.7514,
+      "prior_variance": 0.409526,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Goi\u00e2nia",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": -4.2407,
+      "prior_variance": 0.471999,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Pretoria",
+      "path": "africa/southafrica/pretoria",
+      "prior_score": -0.1534,
+      "prior_variance": 0.439432,
+      "prior_n": 3
+    }
+  ]
+}

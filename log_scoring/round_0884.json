@@ -1,0 +1,200 @@
+{
+  "round": 884,
+  "timestamp": "2026-06-13T19:58:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Everest Base Camp (Tibet)",
+      "path": "asia/china/tibet/everest_base_camp",
+      "prior_score": 9.8476,
+      "prior_variance": 0.84296,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 9.4023,
+      "prior_variance": 0.726363,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Khiva",
+      "path": "asia/uzbekistan/khiva",
+      "prior_score": 10.4813,
+      "prior_variance": 0.525465,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Thimphu",
+      "path": "asia/bhutan/thimphu",
+      "prior_score": 8.4465,
+      "prior_variance": 0.579572,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Nyingchi",
+      "path": "asia/china/tibet/nyingchi",
+      "prior_score": 8.0069,
+      "prior_variance": 1.663583,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 9.7192,
+      "prior_variance": 0.895733,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Salento",
+      "path": "southamerica/colombia/salento",
+      "prior_score": 8.4913,
+      "prior_variance": 0.924787,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 8.7299,
+      "prior_variance": 0.817403,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Brasov",
+      "path": "europe/romania/brasov",
+      "prior_score": 11.2859,
+      "prior_variance": 0.744315,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 10.4178,
+      "prior_variance": 0.744528,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 9.8615,
+      "prior_variance": 1.16449,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Calvi",
+      "path": "europe/france/corsica/calvi",
+      "prior_score": 10.7008,
+      "prior_variance": 0.702147,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 8.7261,
+      "prior_variance": 0.930858,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Makarska",
+      "path": "europe/croatia/dalmatia/makarska",
+      "prior_score": 10.1296,
+      "prior_variance": 0.952178,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "St. George's",
+      "path": "northamerica/thecaribbean/grenada/stgeorges",
+      "prior_score": 8.0963,
+      "prior_variance": 0.754165,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 9.6429,
+      "prior_variance": 0.675243,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Potsdam",
+      "path": "europe/germany/brandenburg/potsdam",
+      "prior_score": 8.5132,
+      "prior_variance": 0.805176,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 7.7973,
+      "prior_variance": 0.730355,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Trakai",
+      "path": "europe/lithuania/trakai",
+      "prior_score": 9.5558,
+      "prior_variance": 0.728096,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 9.5434,
+      "prior_variance": 0.778025,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 9.6192,
+      "prior_variance": 0.761701,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 8.1908,
+      "prior_variance": 0.885571,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Los Angeles",
+      "path": "northamerica/unitedstates/california/losangeles",
+      "prior_score": 9.372,
+      "prior_variance": 2.105381,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": -1.8779,
+      "prior_variance": 0.653153,
+      "prior_n": 2
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 461,
+  "timestamp": "2026-06-13T19:36:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maastricht",
+      "path": "europe/netherlands/maastricht",
+      "prior_score": 5.5428,
+      "prior_variance": 2.126694,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Sibenik",
+      "path": "europe/croatia/sibenik",
+      "prior_score": 5.1644,
+      "prior_variance": 1.495138,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Winchester",
+      "path": "europe/unitedkingdom/england/south_east/winchester",
+      "prior_score": 1.3115,
+      "prior_variance": 1.508686,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 2.426,
+      "prior_variance": 1.48367,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 4.2251,
+      "prior_variance": 1.43341,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 4.6193,
+      "prior_variance": 1.575082,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 3.9334,
+      "prior_variance": 1.634892,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 2.5965,
+      "prior_variance": 1.586682,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 1.586,
+      "prior_variance": 2.056271,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 3.238,
+      "prior_variance": 1.652866,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 2.5088,
+      "prior_variance": 1.476517,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Castellana Grotte",
+      "path": "europe/italy/puglia/castellana_grotte",
+      "prior_score": 5.3013,
+      "prior_variance": 1.670396,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 4.9708,
+      "prior_variance": 3.043599,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Lanciano",
+      "path": "europe/italy/abruzzo/lanciano",
+      "prior_score": 1.362,
+      "prior_variance": 1.590719,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 3.4908,
+      "prior_variance": 1.51619,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 3.6239,
+      "prior_variance": 1.656445,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -1.9267,
+      "prior_variance": 6.551153,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Arcos de Valdevez",
+      "path": "europe/portugal/arcos_de_valdevez",
+      "prior_score": 0.2463,
+      "prior_variance": 2.100128,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.9823,
+      "prior_variance": 1.548378,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -0.1152,
+      "prior_variance": 1.579091,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Jericho",
+      "path": "asia/palestinianauthority/jerico",
+      "prior_score": 3.3617,
+      "prior_variance": 2.776843,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Biak",
+      "path": "asia/indonesia/irianjaya/biak",
+      "prior_score": 1.6324,
+      "prior_variance": 1.604184,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": 1.0718,
+      "prior_variance": 1.718256,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": 3.1982,
+      "prior_variance": 1.766247,
+      "prior_n": 1
+    }
+  ]
+}

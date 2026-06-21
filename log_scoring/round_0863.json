@@ -1,0 +1,200 @@
+{
+  "round": 863,
+  "timestamp": "2026-06-13T19:57:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -1.7665,
+      "prior_variance": 0.587408,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.6416,
+      "prior_variance": 0.681146,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Cabinda",
+      "path": "africa/angola/cabinda",
+      "prior_score": -13.7855,
+      "prior_variance": 1.10893,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Yola",
+      "path": "africa/nigeria/yola",
+      "prior_score": -14.1541,
+      "prior_variance": 1.301631,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Semipalatinsk",
+      "path": "asia/kazakhstan/semipalatinsk",
+      "prior_score": -12.0843,
+      "prior_variance": 1.237022,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Batabat",
+      "path": "europe/azerbaijan/naxcivan/batabat",
+      "prior_score": -10.9542,
+      "prior_variance": 0.616117,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -13.1183,
+      "prior_variance": 0.959105,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Lodhran",
+      "path": "asia/pakistan/lodhran",
+      "prior_score": -13.6672,
+      "prior_variance": 1.221035,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -14.4896,
+      "prior_variance": 1.713087,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Kamra",
+      "path": "asia/pakistan/kamra",
+      "prior_score": -15.5483,
+      "prior_variance": 1.127275,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -21.0372,
+      "prior_variance": 1.869719,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -15.428,
+      "prior_variance": 2.533944,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -14.4246,
+      "prior_variance": 0.812521,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -16.6414,
+      "prior_variance": 1.2872,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -14.2293,
+      "prior_variance": 1.133434,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Donetsk",
+      "path": "europe/ukraine/donetsk",
+      "prior_score": -19.7218,
+      "prior_variance": 5.933861,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -18.1138,
+      "prior_variance": 5.757259,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Thola",
+      "path": "asia/yemen/thola",
+      "prior_score": -19.9879,
+      "prior_variance": 5.42879,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -22.1926,
+      "prior_variance": 2.150387,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -22.0544,
+      "prior_variance": 5.035787,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -20.888,
+      "prior_variance": 1.256654,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Dhuusamarreeb",
+      "path": "africa/somalia/dusa_mareb",
+      "prior_score": -20.6544,
+      "prior_variance": 2.152092,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -23.8244,
+      "prior_variance": 4.551306,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -24.3804,
+      "prior_variance": 4.392545,
+      "prior_n": 3
+    }
+  ]
+}

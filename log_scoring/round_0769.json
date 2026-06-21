@@ -1,0 +1,200 @@
+{
+  "round": 769,
+  "timestamp": "2026-06-13T19:52:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fort de Soto",
+      "path": "northamerica/unitedstates/florida/tampabayarea/fortdesoto",
+      "prior_score": -1.3115,
+      "prior_variance": 0.609066,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 0.5355,
+      "prior_variance": 0.907517,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Efate",
+      "path": "australiaandpacific/vanuatu/efate",
+      "prior_score": 1.8233,
+      "prior_variance": 0.715828,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Misano Adriatico",
+      "path": "europe/italy/emiliaromagna/misanoadriatico",
+      "prior_score": 0.0326,
+      "prior_variance": 0.739294,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": -0.5621,
+      "prior_variance": 0.862874,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": -0.2841,
+      "prior_variance": 0.632732,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Mito",
+      "path": "asia/japan/honshu/mito",
+      "prior_score": 0.9566,
+      "prior_variance": 0.967502,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": -0.5948,
+      "prior_variance": 0.619234,
+      "prior_n": 2
+    },
+    {
+      "rank": 9,
+      "title": "Douglas",
+      "path": "europe/isleofman/douglas",
+      "prior_score": -0.7187,
+      "prior_variance": 0.720203,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.3278,
+      "prior_variance": 0.639844,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Hastings",
+      "path": "europe/unitedkingdom/england/south_east/hastings",
+      "prior_score": -0.2313,
+      "prior_variance": 0.606349,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 0.5967,
+      "prior_variance": 0.97269,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 1.7377,
+      "prior_variance": 0.804676,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Kelaa M'Gouna",
+      "path": "africa/morocco/kelaa_mgouna",
+      "prior_score": 1.9002,
+      "prior_variance": 1.04612,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "S\u00e3o Lu\u00eds",
+      "path": "southamerica/brazil/sao_luis",
+      "prior_score": 1.303,
+      "prior_variance": 0.861962,
+      "prior_n": 2
+    },
+    {
+      "rank": 16,
+      "title": "Mariana",
+      "path": "southamerica/brazil/mariana",
+      "prior_score": -1.1415,
+      "prior_variance": 0.658799,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Windhoek",
+      "path": "africa/namibia/windhoek",
+      "prior_score": 0.762,
+      "prior_variance": 0.610309,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.3956,
+      "prior_variance": 0.725851,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": -1.2148,
+      "prior_variance": 0.576947,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Hurricane",
+      "path": "northamerica/unitedstates/utah/hurricane",
+      "prior_score": -2.2544,
+      "prior_variance": 0.790051,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -2.7441,
+      "prior_variance": 1.379721,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -3.4525,
+      "prior_variance": 0.650737,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -0.6203,
+      "prior_variance": 1.327947,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Guyuan",
+      "path": "asia/china/ningxia/guyuan",
+      "prior_score": -13.15,
+      "prior_variance": 1.505417,
+      "prior_n": 1
+    }
+  ]
+}

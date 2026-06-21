@@ -1,0 +1,200 @@
+{
+  "round": 1160,
+  "timestamp": "2026-06-13T20:14:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kos",
+      "path": "europe/greece/kos",
+      "prior_score": 7.936,
+      "prior_variance": 0.628426,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Omi\u0161",
+      "path": "europe/croatia/dalmatia/omi",
+      "prior_score": 6.6151,
+      "prior_variance": 1.105462,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Malibu",
+      "path": "northamerica/unitedstates/california/malibu",
+      "prior_score": 5.0134,
+      "prior_variance": 0.440228,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Oita",
+      "path": "asia/japan/kyushu/oita",
+      "prior_score": -4.4692,
+      "prior_variance": 0.586158,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Mindo",
+      "path": "southamerica/ecuador/mindo",
+      "prior_score": 2.9339,
+      "prior_variance": 0.475653,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 0.8051,
+      "prior_variance": 0.415951,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Iquique",
+      "path": "southamerica/chile/iquique",
+      "prior_score": 2.064,
+      "prior_variance": 0.439579,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "P\u00e9zenas",
+      "path": "europe/france/midi/languedoc/pezenas",
+      "prior_score": 2.6009,
+      "prior_variance": 0.421711,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": 0.0294,
+      "prior_variance": 0.325081,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Melide",
+      "path": "europe/spain/galicia/melide",
+      "prior_score": 1.2458,
+      "prior_variance": 0.397173,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -1.0777,
+      "prior_variance": 0.514124,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 3.7434,
+      "prior_variance": 0.444506,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Ballarat",
+      "path": "australiaandpacific/australia/victoria/ballarat",
+      "prior_score": 1.7946,
+      "prior_variance": 0.442483,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Bozeman",
+      "path": "northamerica/unitedstates/montana/bozeman",
+      "prior_score": 2.8217,
+      "prior_variance": 0.78269,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": -0.6729,
+      "prior_variance": 0.426134,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Trichy",
+      "path": "asia/india/tamilnadu/trichy",
+      "prior_score": -0.8708,
+      "prior_variance": 0.398361,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Lambayeque",
+      "path": "southamerica/peru/lambayeque",
+      "prior_score": 0.1254,
+      "prior_variance": 0.317338,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Pune",
+      "path": "asia/india/maharashtra/pune",
+      "prior_score": -0.7567,
+      "prior_variance": 0.395108,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": 0.1824,
+      "prior_variance": 0.453018,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Handa Island",
+      "path": "europe/unitedkingdom/scotland/handa_island",
+      "prior_score": -3.9877,
+      "prior_variance": 0.425463,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -1.5328,
+      "prior_variance": 0.518699,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Butte",
+      "path": "northamerica/unitedstates/montana/butte",
+      "prior_score": -2.1561,
+      "prior_variance": 0.445692,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": 0.0219,
+      "prior_variance": 0.515609,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Staraya Ladoga",
+      "path": "europe/russia/staraya_ladoga",
+      "prior_score": -1.7268,
+      "prior_variance": 0.461535,
+      "prior_n": 3
+    }
+  ]
+}

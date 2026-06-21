@@ -1,0 +1,200 @@
+{
+  "round": 1665,
+  "timestamp": "2026-06-13T20:44:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 8.3936,
+      "prior_variance": 0.315039,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/nationalparksandreserves/amobselinp",
+      "prior_score": 10.0953,
+      "prior_variance": 0.374257,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 2.2671,
+      "prior_variance": 0.291811,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 2.9316,
+      "prior_variance": 0.306085,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.6906,
+      "prior_variance": 0.309249,
+      "prior_n": 5
+    },
+    {
+      "rank": 6,
+      "title": "Kildare",
+      "path": "europe/ireland/kildare",
+      "prior_score": 0.0995,
+      "prior_variance": 0.253675,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/rivieradellepalme/zuccarello",
+      "prior_score": 0.0771,
+      "prior_variance": 0.235249,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "Quweira",
+      "path": "asia/jordan/wadirum/quweira",
+      "prior_score": 2.701,
+      "prior_variance": 0.280114,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": -0.0275,
+      "prior_variance": 0.260751,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.4271,
+      "prior_variance": 0.258229,
+      "prior_n": 6
+    },
+    {
+      "rank": 11,
+      "title": "Mamaia",
+      "path": "europe/romania/mamaia",
+      "prior_score": -1.2773,
+      "prior_variance": 0.3664,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Kanyakumari",
+      "path": "asia/india/tamilnadu/kanya_kumari",
+      "prior_score": 1.0264,
+      "prior_variance": 0.273355,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -2.7987,
+      "prior_variance": 0.246394,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Marktl am Inn",
+      "path": "europe/germany/bavaria/marktl_am_inn",
+      "prior_score": -3.3226,
+      "prior_variance": 0.360941,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -3.4029,
+      "prior_variance": 0.260683,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -1.6826,
+      "prior_variance": 0.269438,
+      "prior_n": 5
+    },
+    {
+      "rank": 17,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/alabama/huntsville",
+      "prior_score": -2.9391,
+      "prior_variance": 0.243187,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -2.5371,
+      "prior_variance": 0.268743,
+      "prior_n": 5
+    },
+    {
+      "rank": 19,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -6.3707,
+      "prior_variance": 0.320581,
+      "prior_n": 5
+    },
+    {
+      "rank": 20,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.9527,
+      "prior_variance": 0.284187,
+      "prior_n": 5
+    },
+    {
+      "rank": 21,
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -4.9796,
+      "prior_variance": 0.239655,
+      "prior_n": 6
+    },
+    {
+      "rank": 22,
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -4.2141,
+      "prior_variance": 0.279029,
+      "prior_n": 5
+    },
+    {
+      "rank": 23,
+      "title": "Chardzhou",
+      "path": "asia/turkmenistan/chardzhou",
+      "prior_score": -6.8886,
+      "prior_variance": 0.418116,
+      "prior_n": 5
+    },
+    {
+      "rank": 24,
+      "title": "Epulu",
+      "path": "africa/congokinshasa/epulu",
+      "prior_score": -5.0695,
+      "prior_variance": 0.322355,
+      "prior_n": 5
+    }
+  ]
+}

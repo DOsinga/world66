@@ -1,0 +1,200 @@
+{
+  "round": 861,
+  "timestamp": "2026-06-13T19:57:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 7.1612,
+      "prior_variance": 1.06912,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 4.8707,
+      "prior_variance": 0.804634,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 5.9072,
+      "prior_variance": 1.131222,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 6.338,
+      "prior_variance": 0.742166,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 6.5832,
+      "prior_variance": 0.913853,
+      "prior_n": 2
+    },
+    {
+      "rank": 6,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 5.1399,
+      "prior_variance": 1.20758,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 4.476,
+      "prior_variance": 0.761395,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 4.3242,
+      "prior_variance": 0.631329,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 5.5586,
+      "prior_variance": 0.719713,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 7.0838,
+      "prior_variance": 0.983859,
+      "prior_n": 2
+    },
+    {
+      "rank": 11,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 3.4519,
+      "prior_variance": 0.694555,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 4.7961,
+      "prior_variance": 0.683111,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 6.4589,
+      "prior_variance": 0.59346,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 4.4244,
+      "prior_variance": 0.543126,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 5.0535,
+      "prior_variance": 0.664416,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 7.5492,
+      "prior_variance": 0.654569,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 5.176,
+      "prior_variance": 0.538408,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 2.707,
+      "prior_variance": 0.559757,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 4.7982,
+      "prior_variance": 0.691537,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.8725,
+      "prior_variance": 0.802123,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 6.215,
+      "prior_variance": 1.322704,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 6.5452,
+      "prior_variance": 0.886945,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.2723,
+      "prior_variance": 0.603701,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 1.3924,
+      "prior_variance": 0.794533,
+      "prior_n": 2
+    }
+  ]
+}

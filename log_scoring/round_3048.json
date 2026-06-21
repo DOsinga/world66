@@ -1,0 +1,200 @@
+{
+  "round": 3048,
+  "timestamp": "2026-06-13T22:25:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pr\u00edncipe",
+      "path": "africa/saotomeandprincipe/principe",
+      "prior_score": 2.1992,
+      "prior_variance": 0.13871,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.8825,
+      "prior_variance": 0.143428,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 3.1129,
+      "prior_variance": 0.141094,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Santa Rosa de Cop\u00e1n",
+      "path": "northamerica/honduras/santarosadecop",
+      "prior_score": -1.7966,
+      "prior_variance": 0.128527,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cobourg",
+      "path": "northamerica/canada/ontario/cobourg",
+      "prior_score": -1.2346,
+      "prior_variance": 0.127058,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Nukulaelae atoll",
+      "path": "australiaandpacific/tuvalu/nukulaelaeatoll",
+      "prior_score": -3.3464,
+      "prior_variance": 0.209762,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Pyay",
+      "path": "asia/myanmar/pyay",
+      "prior_score": -3.6556,
+      "prior_variance": 0.147049,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Nablus",
+      "path": "asia/palestinianauthority/nablus",
+      "prior_score": -4.9755,
+      "prior_variance": 0.158004,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.5271,
+      "prior_variance": 0.124873,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/michigan/jackson",
+      "prior_score": -5.9606,
+      "prior_variance": 0.168694,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.9581,
+      "prior_variance": 0.177979,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Okmulgee",
+      "path": "northamerica/unitedstates/oklahoma/okmulgee",
+      "prior_score": -6.1458,
+      "prior_variance": 0.179196,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -6.1006,
+      "prior_variance": 0.185454,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -6.2801,
+      "prior_variance": 0.175185,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.7231,
+      "prior_variance": 0.148755,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Los Banos",
+      "path": "asia/philippines/losbanos",
+      "prior_score": -3.5606,
+      "prior_variance": 0.128009,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -5.7363,
+      "prior_variance": 0.173753,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Jiamusi",
+      "path": "asia/china/heilongjiang/jiamusi",
+      "prior_score": -6.7926,
+      "prior_variance": 0.309306,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.3787,
+      "prior_variance": 0.198534,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -5.7888,
+      "prior_variance": 0.159469,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Yanbu",
+      "path": "asia/saudiarabia/yanbu",
+      "prior_score": -6.2478,
+      "prior_variance": 0.18791,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.954,
+      "prior_variance": 0.434235,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -8.101,
+      "prior_variance": 0.217378,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -8.7915,
+      "prior_variance": 0.302691,
+      "prior_n": 9
+    }
+  ]
+}

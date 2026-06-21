@@ -1,0 +1,200 @@
+{
+  "round": 316,
+  "timestamp": "2026-06-13T19:29:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Guilin",
+      "path": "asia/china/guangxi/guilin",
+      "prior_score": 9.1131,
+      "prior_variance": 10.768069,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Longji Rice Terraces",
+      "path": "asia/china/guangxi/longji",
+      "prior_score": 10.0604,
+      "prior_variance": 3.879484,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 13.7398,
+      "prior_variance": 7.784527,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 9.5444,
+      "prior_variance": 2.771459,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Kalimpong",
+      "path": "asia/india/westbengal/kalimpong",
+      "prior_score": 5.581,
+      "prior_variance": 1.702749,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "St. Johann in Tirol",
+      "path": "europe/austria/st_johann_in_tirol",
+      "prior_score": 6.9325,
+      "prior_variance": 2.548909,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_score": 2.4333,
+      "prior_variance": 1.754328,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 4.4947,
+      "prior_variance": 1.8267,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 11.9,
+      "prior_variance": 3.54842,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Le Sidobre",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre",
+      "prior_score": 0.3939,
+      "prior_variance": 1.712147,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Nurburgring",
+      "path": "europe/germany/rhinelandpalatinate/nurburgring",
+      "prior_score": 2.1933,
+      "prior_variance": 1.826649,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 0.1948,
+      "prior_variance": 1.624359,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": -1.3,
+      "prior_variance": 1.667703,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Daraga",
+      "path": "asia/philippines/daraga",
+      "prior_score": -5.7992,
+      "prior_variance": 2.056547,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Cuernavaca",
+      "path": "northamerica/mexico/cuernavaca",
+      "prior_score": 3.9405,
+      "prior_variance": 1.82311,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.9531,
+      "prior_variance": 1.638634,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -1.7202,
+      "prior_variance": 1.458667,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Alamogordo",
+      "path": "northamerica/unitedstates/newmexico/alamogordo",
+      "prior_score": -3.0923,
+      "prior_variance": 1.820311,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Gallup",
+      "path": "northamerica/unitedstates/newmexico/gallup",
+      "prior_score": -4.0054,
+      "prior_variance": 1.723719,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -8.4919,
+      "prior_variance": 1.652336,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -6.1952,
+      "prior_variance": 1.828251,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -7.2075,
+      "prior_variance": 1.41696,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Port Sudan",
+      "path": "africa/sudan/portsudan",
+      "prior_score": -13.0148,
+      "prior_variance": 7.564058,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Mangyongdae",
+      "path": "asia/northkorea/mangyongdae",
+      "prior_score": -13.3629,
+      "prior_variance": 7.591847,
+      "prior_n": 1
+    }
+  ]
+}

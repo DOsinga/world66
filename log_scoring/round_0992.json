@@ -1,0 +1,200 @@
+{
+  "round": 992,
+  "timestamp": "2026-06-13T20:04:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 9.811,
+      "prior_variance": 0.638061,
+      "prior_n": 2
+    },
+    {
+      "rank": 2,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 13.7607,
+      "prior_variance": 1.360633,
+      "prior_n": 2
+    },
+    {
+      "rank": 3,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 10.7282,
+      "prior_variance": 0.423507,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Fethiye",
+      "path": "asia/turkey/fethiye",
+      "prior_score": 6.9548,
+      "prior_variance": 0.491432,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Cairngorms",
+      "path": "europe/unitedkingdom/scotland/cairngorms",
+      "prior_score": 5.2021,
+      "prior_variance": 0.46847,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 7.0139,
+      "prior_variance": 0.572264,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 5.1734,
+      "prior_variance": 0.57935,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 5.4184,
+      "prior_variance": 0.635875,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Taos",
+      "path": "northamerica/unitedstates/newmexico/taos",
+      "prior_score": 7.5251,
+      "prior_variance": 0.648477,
+      "prior_n": 2
+    },
+    {
+      "rank": 10,
+      "title": "Anuradhapura",
+      "path": "asia/srilanka/anuradapura",
+      "prior_score": 6.0623,
+      "prior_variance": 0.507111,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Viganj",
+      "path": "europe/croatia/peljesac/viganj",
+      "prior_score": 6.0715,
+      "prior_variance": 0.486149,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 4.9403,
+      "prior_variance": 0.644151,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.5468,
+      "prior_variance": 0.734717,
+      "prior_n": 5
+    },
+    {
+      "rank": 14,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 5.8506,
+      "prior_variance": 0.687511,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 6.0126,
+      "prior_variance": 0.861096,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cape Breton",
+      "path": "northamerica/canada/novascotia/capebreton",
+      "prior_score": 6.9377,
+      "prior_variance": 0.650429,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Sousse",
+      "path": "africa/tunisia/sousse",
+      "prior_score": 3.9666,
+      "prior_variance": 0.619422,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 6.1111,
+      "prior_variance": 0.467887,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 4.1268,
+      "prior_variance": 0.528074,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "North Vancouver",
+      "path": "northamerica/canada/britishcolumbia/northvancouver",
+      "prior_score": 2.527,
+      "prior_variance": 0.532139,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 6.6141,
+      "prior_variance": 0.483488,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 2.4719,
+      "prior_variance": 0.713453,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Bonn",
+      "path": "europe/germany/northrhinewestphalia/bonn",
+      "prior_score": 1.8768,
+      "prior_variance": 0.876407,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.9397,
+      "prior_variance": 0.763419,
+      "prior_n": 2
+    }
+  ]
+}

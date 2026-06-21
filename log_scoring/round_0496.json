@@ -1,0 +1,200 @@
+{
+  "round": 496,
+  "timestamp": "2026-06-13T19:39:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 5.7829,
+      "prior_variance": 1.817573,
+      "prior_n": 1
+    },
+    {
+      "rank": 2,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 5.4987,
+      "prior_variance": 1.588487,
+      "prior_n": 1
+    },
+    {
+      "rank": 3,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.1788,
+      "prior_variance": 1.916327,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Zahara de la Sierra",
+      "path": "europe/spain/andalucia/zaharadelasierra",
+      "prior_score": 7.0306,
+      "prior_variance": 2.074977,
+      "prior_n": 1
+    },
+    {
+      "rank": 5,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 5.8214,
+      "prior_variance": 1.590427,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Landsberg am Lech",
+      "path": "europe/germany/bavaria/romanticroad/landsbergamlech",
+      "prior_score": 4.877,
+      "prior_variance": 1.973015,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 3.7967,
+      "prior_variance": 1.716852,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Xidi",
+      "path": "asia/china/anhui/xidi",
+      "prior_score": 3.4626,
+      "prior_variance": 1.527546,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Tokushima",
+      "path": "asia/japan/shikoku/tokushima",
+      "prior_score": 5.6456,
+      "prior_variance": 1.40122,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Iraklion",
+      "path": "europe/greece/crete/iraklion",
+      "prior_score": 8.3824,
+      "prior_variance": 2.589013,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Valle Gran Rey",
+      "path": "europe/spain/canaryislands/lagomera/vallegranrey",
+      "prior_score": 5.3715,
+      "prior_variance": 1.664965,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Santa Fe de Antioquia",
+      "path": "southamerica/colombia/santafedeantioquia",
+      "prior_score": 4.4246,
+      "prior_variance": 1.486597,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 5.0084,
+      "prior_variance": 1.344161,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 4.4841,
+      "prior_variance": 1.905511,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Puerto Morelos",
+      "path": "northamerica/mexico/puerto_morelos",
+      "prior_score": 3.2372,
+      "prior_variance": 1.41944,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 5.1598,
+      "prior_variance": 1.949203,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 5.2474,
+      "prior_variance": 3.554748,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 5.421,
+      "prior_variance": 2.01923,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "Cha-am",
+      "path": "asia/thailand/chaam",
+      "prior_score": 2.6281,
+      "prior_variance": 1.999938,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": 2.0428,
+      "prior_variance": 1.603467,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Permet",
+      "path": "europe/albania/permet",
+      "prior_score": 4.1296,
+      "prior_variance": 1.79516,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Dege",
+      "path": "asia/china/sichuanprovince/dege",
+      "prior_score": 4.2573,
+      "prior_variance": 1.520419,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": 1.7093,
+      "prior_variance": 1.429376,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": 4.0442,
+      "prior_variance": 1.674403,
+      "prior_n": 1
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 1312,
+  "timestamp": "2026-06-13T20:23:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 8.8283,
+      "prior_variance": 0.364913,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 12.0672,
+      "prior_variance": 0.515622,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 8.4344,
+      "prior_variance": 0.485108,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 3.9193,
+      "prior_variance": 0.301287,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 0.489,
+      "prior_variance": 0.375979,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Kunitachi, Tokyo",
+      "path": "asia/japan/kunitachi_tokyo",
+      "prior_score": -2.3434,
+      "prior_variance": 0.289202,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.3481,
+      "prior_variance": 0.297459,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Algeciras",
+      "path": "europe/spain/andalucia/algeciras",
+      "prior_score": -0.4116,
+      "prior_variance": 0.427011,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Huehuetenango",
+      "path": "northamerica/guatemala/huehuetenango",
+      "prior_score": -3.0548,
+      "prior_variance": 0.282038,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.7972,
+      "prior_variance": 0.400391,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Ogden",
+      "path": "northamerica/unitedstates/utah/ogden",
+      "prior_score": -2.1158,
+      "prior_variance": 0.307085,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Burbank",
+      "path": "northamerica/unitedstates/california/burbank",
+      "prior_score": -4.4869,
+      "prior_variance": 0.453947,
+      "prior_n": 5
+    },
+    {
+      "rank": 13,
+      "title": "Salto",
+      "path": "southamerica/uruguay/salto",
+      "prior_score": -4.0473,
+      "prior_variance": 0.384859,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.3191,
+      "prior_variance": 0.311395,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Bemidji",
+      "path": "northamerica/unitedstates/minnesota/bemidji",
+      "prior_score": -3.3188,
+      "prior_variance": 0.308849,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.093,
+      "prior_variance": 0.408567,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ostrava",
+      "path": "europe/czechrepublic/ostrava",
+      "prior_score": -2.1087,
+      "prior_variance": 0.3028,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -4.1876,
+      "prior_variance": 0.304514,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Potenza",
+      "path": "europe/italy/basilicata/potenza",
+      "prior_score": -2.6014,
+      "prior_variance": 0.309972,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Motta S. Anastasia",
+      "path": "europe/italy/sicily/motta_s_anastasia",
+      "prior_score": -4.1477,
+      "prior_variance": 0.367138,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -3.9489,
+      "prior_variance": 0.511,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Anantnag",
+      "path": "asia/india/jammuandkashmir/anantnag",
+      "prior_score": -2.5185,
+      "prior_variance": 0.359245,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -6.9002,
+      "prior_variance": 0.498054,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -6.3129,
+      "prior_variance": 0.326097,
+      "prior_n": 4
+    }
+  ]
+}

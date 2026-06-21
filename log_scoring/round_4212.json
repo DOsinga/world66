@@ -1,0 +1,200 @@
+{
+  "round": 4212,
+  "timestamp": "2026-06-13T23:54:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Francisco",
+      "path": "northamerica/unitedstates/california/sanfrancisco",
+      "prior_score": 11.0905,
+      "prior_variance": 0.354283,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 7.8368,
+      "prior_variance": 0.194569,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 9.6019,
+      "prior_variance": 0.18728,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 7.6678,
+      "prior_variance": 0.141555,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 7.6719,
+      "prior_variance": 0.170207,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 7.9068,
+      "prior_variance": 0.163422,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 6.6376,
+      "prior_variance": 0.111961,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Moscow",
+      "path": "europe/russia/moscow",
+      "prior_score": 2.8139,
+      "prior_variance": 0.160823,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.6019,
+      "prior_variance": 0.098893,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 1.8042,
+      "prior_variance": 0.122447,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 2.9302,
+      "prior_variance": 0.100196,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.4534,
+      "prior_variance": 0.093623,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.7622,
+      "prior_variance": 0.095048,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Murnau am Staffelsee",
+      "path": "europe/germany/bavaria/murnau_am_staffelsee",
+      "prior_score": 1.0046,
+      "prior_variance": 0.107496,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -1.9093,
+      "prior_variance": 0.092861,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -2.9551,
+      "prior_variance": 0.10563,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Nuuk",
+      "path": "northamerica/greenland/nuuk",
+      "prior_score": 0.9113,
+      "prior_variance": 0.088625,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.9823,
+      "prior_variance": 0.111524,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Aizawl",
+      "path": "asia/india/mizoram/aizawl",
+      "prior_score": -3.459,
+      "prior_variance": 0.104489,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Garlenda",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/garlenda",
+      "prior_score": -1.124,
+      "prior_variance": 0.107463,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -3.0851,
+      "prior_variance": 0.094996,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -2.6868,
+      "prior_variance": 0.1075,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -3.7251,
+      "prior_variance": 0.101413,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "'Eua",
+      "path": "australiaandpacific/tonga/eua",
+      "prior_score": -1.2311,
+      "prior_variance": 0.113397,
+      "prior_n": 14
+    }
+  ]
+}

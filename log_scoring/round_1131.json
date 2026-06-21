@@ -1,0 +1,200 @@
+{
+  "round": 1131,
+  "timestamp": "2026-06-13T20:12:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shanghai",
+      "path": "asia/china/shanghai",
+      "prior_score": 10.1071,
+      "prior_variance": 0.593688,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 11.7905,
+      "prior_variance": 0.752026,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Bwindi Impenetrable Forest",
+      "path": "africa/uganda/bwindi",
+      "prior_score": 4.8727,
+      "prior_variance": 0.43886,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 4.2064,
+      "prior_variance": 0.461859,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Jbeil (Byblos)",
+      "path": "asia/lebanon/jbeilbyblos",
+      "prior_score": 5.4117,
+      "prior_variance": 0.512757,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 1.2285,
+      "prior_variance": 0.473026,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "La Gran Sabana",
+      "path": "southamerica/venezuela/lagransabana",
+      "prior_score": 7.6864,
+      "prior_variance": 0.621311,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.5374,
+      "prior_variance": 0.462309,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 4.6044,
+      "prior_variance": 0.422306,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Linlithgow",
+      "path": "europe/unitedkingdom/scotland/linlithgow",
+      "prior_score": 0.9953,
+      "prior_variance": 0.396841,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Blumenau",
+      "path": "southamerica/brazil/blumenal",
+      "prior_score": -1.5278,
+      "prior_variance": 0.423777,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Santa Clara",
+      "path": "northamerica/thecaribbean/cuba/santaclara",
+      "prior_score": -0.7578,
+      "prior_variance": 0.438955,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Mexican Hat",
+      "path": "northamerica/unitedstates/utah/mexican_hat",
+      "prior_score": -0.0043,
+      "prior_variance": 0.457204,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Del Mar",
+      "path": "northamerica/unitedstates/california/delmar",
+      "prior_score": 2.6177,
+      "prior_variance": 0.696954,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.3791,
+      "prior_variance": 0.336224,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -0.8693,
+      "prior_variance": 0.610446,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -3.3047,
+      "prior_variance": 0.438752,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Bucaramanga",
+      "path": "southamerica/colombia/bucaramanga",
+      "prior_score": -1.8979,
+      "prior_variance": 0.393769,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Miskolc",
+      "path": "europe/hungary/miskolc",
+      "prior_score": -0.7525,
+      "prior_variance": 0.437119,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.5103,
+      "prior_variance": 0.414232,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Long Beach Island",
+      "path": "northamerica/unitedstates/newjersey/longbeachisland",
+      "prior_score": -0.9883,
+      "prior_variance": 0.446859,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Traunstein",
+      "path": "europe/germany/bavaria/traunstein",
+      "prior_score": -1.2527,
+      "prior_variance": 0.394834,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.4918,
+      "prior_variance": 0.45584,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Sapo National Park",
+      "path": "africa/liberia/sapo",
+      "prior_score": -3.2427,
+      "prior_variance": 0.408485,
+      "prior_n": 4
+    }
+  ]
+}

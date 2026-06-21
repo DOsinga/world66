@@ -1,0 +1,200 @@
+{
+  "round": 1172,
+  "timestamp": "2026-06-13T20:15:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chengdu",
+      "path": "asia/china/sichuanprovince/chengdu",
+      "prior_score": 9.8223,
+      "prior_variance": 0.526523,
+      "prior_n": 3
+    },
+    {
+      "rank": 2,
+      "title": "Brioni Islands",
+      "path": "europe/croatia/brioniislands",
+      "prior_score": 4.1897,
+      "prior_variance": 0.416882,
+      "prior_n": 3
+    },
+    {
+      "rank": 3,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -4.0657,
+      "prior_variance": 0.461734,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 2.4103,
+      "prior_variance": 0.347853,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet",
+      "prior_score": -1.4185,
+      "prior_variance": 0.350853,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Nkob",
+      "path": "africa/morocco/nkob",
+      "prior_score": 1.3145,
+      "prior_variance": 0.472236,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Granby",
+      "path": "northamerica/canada/quebec/granby",
+      "prior_score": -3.1061,
+      "prior_variance": 0.390942,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Tsumeb, Gateway to the North and Etosha",
+      "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha",
+      "prior_score": -4.1154,
+      "prior_variance": 0.39753,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -2.6788,
+      "prior_variance": 0.404994,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/maine/augusta",
+      "prior_score": -4.0152,
+      "prior_variance": 0.330377,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -5.3088,
+      "prior_variance": 0.422409,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Meizhou",
+      "path": "asia/china/guangdong/meizhou",
+      "prior_score": -4.1951,
+      "prior_variance": 0.461184,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Belgaum",
+      "path": "asia/india/karnataka/belgaum",
+      "prior_score": -6.1493,
+      "prior_variance": 0.426544,
+      "prior_n": 3
+    },
+    {
+      "rank": 14,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/england/suffolk/lowestoft",
+      "prior_score": -4.9747,
+      "prior_variance": 0.409673,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Chelyabinsk",
+      "path": "europe/russia/ural/south_ural/chelyabinsk",
+      "prior_score": -6.7684,
+      "prior_variance": 0.635787,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/tennessee/cleveland",
+      "prior_score": -5.4578,
+      "prior_variance": 0.408289,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -8.0473,
+      "prior_variance": 0.556063,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Dade City",
+      "path": "northamerica/unitedstates/florida/pasco_county/dade_city",
+      "prior_score": -7.3605,
+      "prior_variance": 0.467757,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -7.7498,
+      "prior_variance": 0.702085,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -8.7457,
+      "prior_variance": 0.472512,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Kotli",
+      "path": "asia/pakistan/azad_kashmir/kotli",
+      "prior_score": -9.5213,
+      "prior_variance": 0.604407,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Bafata",
+      "path": "africa/guineabissau/bafata",
+      "prior_score": -10.2635,
+      "prior_variance": 0.598856,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Jenin",
+      "path": "asia/palestinianauthority/jenin",
+      "prior_score": -11.1111,
+      "prior_variance": 0.632573,
+      "prior_n": 3
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -14.3504,
+      "prior_variance": 1.364008,
+      "prior_n": 3
+    }
+  ]
+}

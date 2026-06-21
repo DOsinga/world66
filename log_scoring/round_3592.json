@@ -1,0 +1,200 @@
+{
+  "round": 3592,
+  "timestamp": "2026-06-13T23:05:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Northern Drakensberg",
+      "path": "africa/southafrica/drakensberg/northern_drakensberg",
+      "prior_score": 2.7419,
+      "prior_variance": 0.241051,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Kazbegi",
+      "path": "europe/georgia/kazbegi",
+      "prior_score": 5.9602,
+      "prior_variance": 0.148913,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Bogota",
+      "path": "southamerica/colombia/bogota",
+      "prior_score": 3.7784,
+      "prior_variance": 0.122017,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Ayutthaya",
+      "path": "asia/thailand/ayutthaya",
+      "prior_score": 7.5553,
+      "prior_variance": 0.301819,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 1.2855,
+      "prior_variance": 0.126459,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.3888,
+      "prior_variance": 0.123732,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Manaus",
+      "path": "southamerica/brazil/manaus",
+      "prior_score": 2.4011,
+      "prior_variance": 0.119178,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 7.0134,
+      "prior_variance": 0.153233,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Karimunjawa",
+      "path": "asia/indonesia/java/karimunjawa",
+      "prior_score": 2.8458,
+      "prior_variance": 0.113208,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 3.4834,
+      "prior_variance": 0.126261,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Bouillon",
+      "path": "europe/belgium/bouillon",
+      "prior_score": 1.8492,
+      "prior_variance": 0.11302,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.5974,
+      "prior_variance": 0.114265,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "M\u00e9rida",
+      "path": "europe/spain/extremadura/merida",
+      "prior_score": 4.6512,
+      "prior_variance": 0.126196,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.5519,
+      "prior_variance": 0.117944,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "St. Augustine",
+      "path": "northamerica/unitedstates/florida/northeastflorida/staugustine",
+      "prior_score": 2.8908,
+      "prior_variance": 0.236739,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Congonhas",
+      "path": "southamerica/brazil/congonhas",
+      "prior_score": 0.2877,
+      "prior_variance": 0.106077,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Karlskrona",
+      "path": "europe/sweden/karlskrona",
+      "prior_score": 1.5407,
+      "prior_variance": 0.130478,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Chonju",
+      "path": "asia/southkorea/chonju",
+      "prior_score": 0.5052,
+      "prior_variance": 0.119494,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Deventer",
+      "path": "europe/netherlands/deventer",
+      "prior_score": 0.4621,
+      "prior_variance": 0.124954,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 2.1824,
+      "prior_variance": 0.142284,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Choroni",
+      "path": "southamerica/venezuela/choroni",
+      "prior_score": -0.3369,
+      "prior_variance": 0.131662,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.8286,
+      "prior_variance": 0.118899,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -3.864,
+      "prior_variance": 0.13185,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Koszalin",
+      "path": "europe/poland/koszalin",
+      "prior_score": -3.3575,
+      "prior_variance": 0.111757,
+      "prior_n": 12
+    }
+  ]
+}

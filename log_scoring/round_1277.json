@@ -1,0 +1,200 @@
+{
+  "round": 1277,
+  "timestamp": "2026-06-13T20:21:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 9.1471,
+      "prior_variance": 0.350599,
+      "prior_n": 4
+    },
+    {
+      "rank": 2,
+      "title": "Chantilly",
+      "path": "europe/france/nord/chantilly",
+      "prior_score": 3.5278,
+      "prior_variance": 0.456799,
+      "prior_n": 4
+    },
+    {
+      "rank": 3,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 6.668,
+      "prior_variance": 0.329278,
+      "prior_n": 4
+    },
+    {
+      "rank": 4,
+      "title": "Bergeggi",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bergeggi",
+      "prior_score": 1.7479,
+      "prior_variance": 0.624267,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.861,
+      "prior_variance": 0.314235,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 2.3663,
+      "prior_variance": 0.338166,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": -0.2268,
+      "prior_variance": 0.385463,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Dilijan",
+      "path": "europe/armenia/tavush_marz/dilijan",
+      "prior_score": 0.605,
+      "prior_variance": 0.329277,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Mahabaleshwar",
+      "path": "asia/india/maharashtra/mahabaleshwar",
+      "prior_score": 1.7265,
+      "prior_variance": 0.336573,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 3.2215,
+      "prior_variance": 0.327873,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 1.5824,
+      "prior_variance": 0.309783,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Albany",
+      "path": "australiaandpacific/australia/westernaustralia/albany",
+      "prior_score": 1.8964,
+      "prior_variance": 0.387573,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Nanaimo",
+      "path": "northamerica/canada/britishcolumbia/nanaimo",
+      "prior_score": -0.9067,
+      "prior_variance": 0.354807,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": -0.2719,
+      "prior_variance": 0.439236,
+      "prior_n": 4
+    },
+    {
+      "rank": 15,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 0.677,
+      "prior_variance": 0.316146,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
+      "title": "Crotone",
+      "path": "europe/italy/calabria/crotone",
+      "prior_score": 0.1598,
+      "prior_variance": 0.334389,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 0.5403,
+      "prior_variance": 0.527076,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Panama City",
+      "path": "northamerica/unitedstates/florida/panama_city",
+      "prior_score": -1.871,
+      "prior_variance": 0.3336,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Anyang",
+      "path": "asia/china/henan_province/anyang",
+      "prior_score": -3.3409,
+      "prior_variance": 0.311444,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 2.9255,
+      "prior_variance": 0.335945,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -3.232,
+      "prior_variance": 0.306098,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Ja\u00fa National Park",
+      "path": "southamerica/brazil/ja_nacional_park",
+      "prior_score": 0.367,
+      "prior_variance": 0.391393,
+      "prior_n": 4
+    },
+    {
+      "rank": 23,
+      "title": "Cuman\u00e1",
+      "path": "southamerica/venezuela/cumana",
+      "prior_score": -5.6042,
+      "prior_variance": 0.372156,
+      "prior_n": 4
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -14.1242,
+      "prior_variance": 0.626563,
+      "prior_n": 3
+    }
+  ]
+}

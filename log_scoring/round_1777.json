@@ -1,0 +1,200 @@
+{
+  "round": 1777,
+  "timestamp": "2026-06-13T20:51:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Grand Canyon",
+      "path": "northamerica/unitedstates/arizona/grandcanyon",
+      "prior_score": 15.2063,
+      "prior_variance": 0.478972,
+      "prior_n": 5
+    },
+    {
+      "rank": 2,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 11.5394,
+      "prior_variance": 0.47169,
+      "prior_n": 5
+    },
+    {
+      "rank": 3,
+      "title": "Bergen",
+      "path": "europe/norway/bergen",
+      "prior_score": 8.5168,
+      "prior_variance": 0.328688,
+      "prior_n": 5
+    },
+    {
+      "rank": 4,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 6.8712,
+      "prior_variance": 0.295807,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 4.7245,
+      "prior_variance": 0.288038,
+      "prior_n": 6
+    },
+    {
+      "rank": 6,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 5.3349,
+      "prior_variance": 0.379334,
+      "prior_n": 5
+    },
+    {
+      "rank": 7,
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 4.1085,
+      "prior_variance": 0.275549,
+      "prior_n": 5
+    },
+    {
+      "rank": 8,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 7.8295,
+      "prior_variance": 0.388521,
+      "prior_n": 5
+    },
+    {
+      "rank": 9,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 2.6258,
+      "prior_variance": 0.252058,
+      "prior_n": 5
+    },
+    {
+      "rank": 10,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": -0.1342,
+      "prior_variance": 0.261201,
+      "prior_n": 5
+    },
+    {
+      "rank": 11,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -3.255,
+      "prior_variance": 0.294247,
+      "prior_n": 5
+    },
+    {
+      "rank": 12,
+      "title": "Charlotte",
+      "path": "northamerica/unitedstates/northcarolina/charlotte",
+      "prior_score": -3.0076,
+      "prior_variance": 0.208185,
+      "prior_n": 6
+    },
+    {
+      "rank": 13,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -2.1534,
+      "prior_variance": 0.257266,
+      "prior_n": 6
+    },
+    {
+      "rank": 14,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.6611,
+      "prior_variance": 0.31997,
+      "prior_n": 6
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -2.7518,
+      "prior_variance": 0.266184,
+      "prior_n": 5
+    },
+    {
+      "rank": 16,
+      "title": "Burlingame",
+      "path": "northamerica/unitedstates/california/burlingame",
+      "prior_score": -3.6302,
+      "prior_variance": 0.236036,
+      "prior_n": 6
+    },
+    {
+      "rank": 17,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.5757,
+      "prior_variance": 0.296116,
+      "prior_n": 5
+    },
+    {
+      "rank": 18,
+      "title": "Tobia",
+      "path": "southamerica/colombia/tobia",
+      "prior_score": -1.8394,
+      "prior_variance": 0.239803,
+      "prior_n": 6
+    },
+    {
+      "rank": 19,
+      "title": "Ordos",
+      "path": "asia/china/innermongolia/ordos",
+      "prior_score": -3.9246,
+      "prior_variance": 0.215103,
+      "prior_n": 6
+    },
+    {
+      "rank": 20,
+      "title": "Bah\u00eda Blanca",
+      "path": "southamerica/argentina/bahiablanca",
+      "prior_score": -3.563,
+      "prior_variance": 0.220845,
+      "prior_n": 6
+    },
+    {
+      "rank": 21,
+      "title": "Gladstone",
+      "path": "australiaandpacific/australia/queensland/gladstone",
+      "prior_score": -4.3133,
+      "prior_variance": 0.278314,
+      "prior_n": 5
+    },
+    {
+      "rank": 22,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -2.7559,
+      "prior_variance": 0.249698,
+      "prior_n": 6
+    },
+    {
+      "rank": 23,
+      "title": "Mena Creek",
+      "path": "australiaandpacific/australia/queensland/mena_creek",
+      "prior_score": -3.3191,
+      "prior_variance": 0.206612,
+      "prior_n": 6
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.193,
+      "prior_variance": 0.461782,
+      "prior_n": 5
+    }
+  ]
+}

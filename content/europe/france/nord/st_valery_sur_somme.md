@@ -10,6 +10,8 @@ latitude: 50.188701
 loc_type: city
 longitude: 1.627915
 score: 0.44
+snippet: Hilltop Somme Bay town with medieval lanes and William the Conqueror history
+  above the estuary
 title: St-Valéry-sur-Somme
 type: location
 ---

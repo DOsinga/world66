@@ -10,6 +10,8 @@ latitude: 68.1529
 loc_type: city
 longitude: 14.2007
 score: 0.64
+snippet: Lofoten fishing village spread across islets beneath Mount Vågakaillen and
+  the Vestfjord
 sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r
 - https://en.wikipedia.org/wiki/Operation_Claymore

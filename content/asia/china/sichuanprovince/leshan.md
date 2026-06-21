@@ -9,6 +9,8 @@ latitude: 29.5452
 loc_type: city
 longitude: 103.7659
 score: 0.55
+snippet: Sichuan river city dominated by the cliff-carved Leshan Giant Buddha at three
+  rivers' meeting point
 title: Leshan
 type: location
 ---

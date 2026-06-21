@@ -10,6 +10,8 @@ latitude: 8.102853
 loc_type: city
 longitude: -63.546956
 score: 0.31
+snippet: Colonial Orinoco River city whose pastel historic centre faces Venezuela's
+  southern wilderness
 title: Ciudad Bolívar
 type: location
 ---

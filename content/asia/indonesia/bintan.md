@@ -8,6 +8,8 @@ latitude: 1.07
 loc_type: region
 longitude: 104.52
 score: 0.51
+snippet: Riau Archipelago island near Singapore, split between resort beaches and
+  Tanjung Pinang's local life
 title: Bintan
 type: location
 ---

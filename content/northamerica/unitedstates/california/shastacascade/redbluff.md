@@ -10,6 +10,8 @@ latitude: 40.178428
 loc_type: city
 longitude: -122.235923
 score: 0.29
+snippet: Sacramento River town at the southern Shasta Cascade, with Victorian streets
+  and ranch-country roots
 title: Red Bluff
 type: location
 ---

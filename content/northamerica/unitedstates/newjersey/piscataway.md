@@ -6,6 +6,8 @@ latitude: 40.546433
 loc_type: city
 longitude: -74.466054
 score: 0.22
+snippet: Central New Jersey township shaped by Rutgers campuses, suburban neighborhoods,
+  and the Raritan River plain
 title: Piscataway
 type: location
 ---

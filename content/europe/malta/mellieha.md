@@ -9,6 +9,8 @@ latitude: 35.9588
 loc_type: city
 longitude: 14.3637
 score: 0.52
+snippet: Northern Maltese hill town above the island's broadest sandy beach and ferry
+  routes to Gozo
 title: Mellieha
 type: location
 ---

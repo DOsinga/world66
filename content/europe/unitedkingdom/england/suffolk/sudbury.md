@@ -10,6 +10,8 @@ latitude: 52.040152
 loc_type: city
 longitude: 0.72995
 score: 0.31
+snippet: Suffolk market town on the River Stour, best known as Thomas Gainsborough's
+  birthplace
 title: Sudbury
 type: location
 ---

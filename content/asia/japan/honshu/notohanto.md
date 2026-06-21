@@ -10,6 +10,8 @@ latitude: 37.1833
 loc_type: city
 longitude: 136.8833
 score: 0.53
+snippet: Rural Sea of Japan peninsula of fishing villages, rugged coasts, and Wajima
+  lacquerware.
 title: Noto Peninsula
 type: location
 ---

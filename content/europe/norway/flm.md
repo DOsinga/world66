@@ -10,6 +10,8 @@ latitude: 60.863
 loc_type: city
 longitude: 7.1132
 score: 0.66
+snippet: Tiny fjord village at the Aurlandsfjord, known for the steep Flåmsbana railway
+  to Myrdal.
 title: Flåm
 type: location
 ---

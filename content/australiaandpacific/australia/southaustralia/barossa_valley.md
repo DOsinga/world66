@@ -9,6 +9,8 @@ latitude: -34.600905
 loc_type: city
 longitude: 138.890809
 score: 0.53
+snippet: South Australian wine region north of Adelaide, marked by German settler
+  food traditions and cellar doors.
 title: Barossa Valley
 type: location
 ---

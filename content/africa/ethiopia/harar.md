@@ -9,6 +9,8 @@ latitude: 9.31184
 loc_type: city
 longitude: 42.128445
 score: 0.49
+snippet: Walled Ethiopian holy city whose Jugol encloses mosques, shrines, and medieval
+  lanes.
 sources:
 - https://en.wikipedia.org/wiki/Harar_Jugol
 - https://en.wikipedia.org/wiki/Arthur_Rimbaud

@@ -12,6 +12,8 @@ latitude: 7.090992
 loc_type: city
 longitude: 171.381635
 score: 0.4
+snippet: Marshallese capital atoll where the D-U-D urban strip runs along a narrow
+  coral lagoon.
 title: Majuro
 type: location
 ---

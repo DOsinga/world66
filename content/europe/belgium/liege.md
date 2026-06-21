@@ -10,6 +10,8 @@ latitude: 50.6453
 loc_type: city
 longitude: 5.5735
 score: 0.44
+snippet: Fiery Walloon city on the Meuse, shaped by revolt, steel, and a compact old
+  centre.
 title: Liege
 type: location
 ---

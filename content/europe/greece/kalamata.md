@@ -2,8 +2,8 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-04
-  poi_cleanup: '2026-04-21'
   location_enrich: 2026-05-22
+  poi_cleanup: '2026-04-21'
 image: kalamata.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kalamata,_Peloponnese,_Greece.jpg
@@ -11,6 +11,8 @@ latitude: 37.037271
 loc_type: city
 longitude: 22.110707
 score: 0.53
+snippet: Peloponnese city and Messenian capital whose surrounding plain gives its
+  name to Kalamata olives.
 title: Kalamata
 type: location
 ---

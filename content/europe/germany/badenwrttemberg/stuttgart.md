@@ -11,6 +11,7 @@ latitude: 48.778449
 loc_type: city
 longitude: 9.180013
 score: 0.47
+snippet: Swabian capital set in a vineyard-lined bowl, home to Mercedes-Benz and Porsche.
 title: Stuttgart
 type: location
 ---

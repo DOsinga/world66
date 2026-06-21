@@ -4,13 +4,15 @@ done:
 latitude: 12.1192
 loc_type: city
 longitude: -61.6264
+score: 0.41
+snippet: Workaday Grenadian east-coast town where the Saturday market shows the island
+  beyond resort rhythms.
 sources:
 - https://en.wikipedia.org/wiki/Grenville,_Grenada
 - https://www.puregrenada.com/product/lake-antoine/
 - https://new.millsarchive.org/mills/index/14474
 title: Grenville
 type: location
-score: 0.41
 ---
 
 Grenville is the east-coast counterweight to St. George's: less polished, more workaday, and far more useful if you want to see how Grenada moves when cruise ships are not setting the rhythm. The town sits on Grenville Bay in Saint Andrew parish, with minibuses, market stalls, fish vendors, and school uniforms giving it the feel of a proper local hub rather than a beach resort.

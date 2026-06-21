@@ -10,6 +10,8 @@ latitude: 47.372
 loc_type: city
 longitude: 18.209
 score: 0.29
+snippet: Small Fejér wine town known for Ezerjó whites and hillside cellar rows near
+  Budapest.
 title: Mór
 type: location
 ---

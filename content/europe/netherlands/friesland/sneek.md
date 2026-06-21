@@ -11,6 +11,8 @@ latitude: 53.0335
 loc_type: city
 longitude: 5.6611
 score: 0.39
+snippet: Frisian watersports town on canals and lakes, centred on the Sneekermeer
+  and Sneekweek regatta.
 title: Sneek
 type: location
 ---

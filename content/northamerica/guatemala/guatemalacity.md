@@ -3,16 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-22'
+image: guatemalacity.jpg
+image_attribution: Fernando Reyes Palencia
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Guatemala_City_Vista_2014.jpg
 latitude: 14.6349
 loc_type: city
 longitude: -90.5069
 score: 0.33
+snippet: Highland Central American capital with a mild valley climate and an underrated
+  historic centre.
 title: Guatemala City
 type: location
-image: guatemalacity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Guatemala_City_Vista_2014.jpg
-image_license: CC BY-SA 2.0
-image_attribution: Fernando Reyes Palencia
 ---
 
 Guatemala City is the capital and by far the largest city in Central America (excluding Mexico), with a metropolitan population over 3 million. It sits in a wide valley at about 1,500 metres elevation, giving it a mild climate year-round.

@@ -10,6 +10,7 @@ latitude: 21.27028
 loc_type: city
 longitude: 40.415831
 score: 0.36
+snippet: High Hejaz mountain city known for cool summer air and rose-water production.
 title: Ta’if
 type: location
 ---

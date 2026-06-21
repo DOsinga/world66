@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 22.385005
+loc_type: region
 longitude: 71.745261
 score: 0.48
+snippet: Western Indian coastal state of Gandhi heritage, ancient ports, salt marshes,
+  and Jain temples.
 title: Gujarat
 type: location
-loc_type: region
 ---
 
 Gujarat stretches along India's western coast with 1,600 kilometres of Arabian Sea shoreline, making it the state with the longest coastline in the country. It is the land of Mahatma Gandhi and Sardar Vallabhbhai Patel, and its history as a trading hub goes back thousands of years -- the ancient port city of Lothal was part of the Indus Valley Civilisation.

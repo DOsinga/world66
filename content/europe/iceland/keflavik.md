@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
 latitude: 63.9999
-longitude: -22.5565
-title: Keflavík
-type: location
-score: 0.42
 loc_type: city
+longitude: -22.5565
+score: 0.42
+snippet: Reykjanes fishing town beside Iceland’s international airport, often paired
+  with Blue Lagoon stopovers.
 sources:
 - https://en.wikipedia.org/wiki/Keflavík
 - https://www.visitreykjanes.is/en/service/the-icelandic-museum-of-rock-n-roll
+title: Keflavík
+type: location
 ---
 
 Keflavík is the town most visitors to Iceland see first — Keflavík International Airport, which handles most of the country's international flights, is on the Reykjanes Peninsula just outside town. Keflavík itself is a fishing and service town of about 15,000 people, unpretentious and functional.

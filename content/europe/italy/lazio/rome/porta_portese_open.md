@@ -1,12 +1,13 @@
 ---
-address: Viale Trastevere
+address: Via Portuense, Rome
 done:
   poi_cleanup: '2026-04-19'
-latitude: 41.881
-longitude: 12.475
+latitude: 41.8793
+longitude: 12.4692
 opening_hours: Sundays 07:00-13:00
 score: 6.7
-snippet: Rome's sprawling Sunday-morning flea market in Trastevere
+snippet: Rome's largest Sunday flea market, spreading from the ancient gate along
+  Via Portuense
 tags:
 - shopping
 - shop

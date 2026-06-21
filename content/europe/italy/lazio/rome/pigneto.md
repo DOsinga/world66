@@ -1,15 +1,17 @@
 ---
 image: pigneto.jpg
-image_license: Public Domain
-image_source: https://commons.wikimedia.org/wiki/File:Guerrilla_gardening_in_Pigneto_(Rome).JPG
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Vallo_Ferroviario_Pigneto.JPG
 latitude: 41.889
 longitude: 12.529
-snippet: Working-class quarter turned aperitivo hotspot, with street art and a weekend farmers' market
+snippet: Working-class quarter turned aperitivo hotspot, with street art and a weekend
+  farmers' market
 tags:
 - things_to_do
 - neighbourhood
 title: Pigneto
 type: neighbourhood
+image_attribution: Patafisik
 ---
 
 Pigneto grew up in the 1930s as a working-class quarter on the eastern edge of Rome, its brick tenements housing factory workers from the nearby industrial zone. Pier Paolo Pasolini filmed his 1961 debut Accattone on these streets, and the neighbourhood has never fully shaken its outsider identity — which is exactly why it became Rome's most interesting place to eat and drink in the evenings.

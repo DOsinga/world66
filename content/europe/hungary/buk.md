@@ -10,8 +10,6 @@ latitude: 47.383396
 loc_type: city
 longitude: 16.753305
 score: 0.37
-snippet: Small western Hungarian village known for the Bükfürdő thermal spa near the
-  Austrian border
 title: Bük
 type: location
 ---

@@ -10,8 +10,6 @@ latitude: 27.743508
 loc_type: city
 longitude: -18.03818
 score: 0.47
-snippet: Remote Canary Island of volcanic cliffs and wind-bent junipers, once marking
-  Europe's prime meridian
 title: El Hierro
 type: location
 ---

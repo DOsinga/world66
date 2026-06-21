@@ -11,8 +11,6 @@ latitude: 34.693757
 loc_type: city
 longitude: 135.501454
 score: 0.74
-snippet: Extroverted Japanese metropolis of street food, entertainment districts,
-  and merchant-city energy
 title: Osaka
 type: location
 ---

@@ -10,8 +10,6 @@ latitude: 15.338967
 loc_type: city
 longitude: 38.932676
 score: 0.37
-snippet: Highland Eritrean capital known for Italian modernist architecture and cool
-  plateau streets
 title: Asmara
 type: location
 ---

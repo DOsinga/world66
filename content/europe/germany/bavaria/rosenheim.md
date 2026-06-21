@@ -10,8 +10,6 @@ latitude: 47.853927
 loc_type: city
 longitude: 12.127262
 score: 0.4
-snippet: Bavarian market town on the Inn and Mangfall, known for arcaded streets and
-  a locally loved autumn beer festival
 title: Rosenheim
 type: location
 ---

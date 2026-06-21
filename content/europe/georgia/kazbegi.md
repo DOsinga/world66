@@ -9,8 +9,6 @@ latitude: 42.658
 loc_type: city
 longitude: 44.6408
 score: 0.59
-snippet: Caucasus mountain region around Stepantsminda, framed by Mount Kazbek and
-  Gergeti Trinity Church
 title: Kazbegi
 type: location
 ---

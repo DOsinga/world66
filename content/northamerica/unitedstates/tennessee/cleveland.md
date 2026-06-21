@@ -6,8 +6,6 @@ latitude: 35.1595
 loc_type: city
 longitude: -84.8766
 score: 0.29
-snippet: Southeastern Tennessee college town with a preserved courthouse core and
-  access to Ocoee River rafting
 title: Cleveland
 type: location
 ---

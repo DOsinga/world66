@@ -11,8 +11,6 @@ latitude: 39.166326
 loc_type: city
 longitude: -119.767037
 score: 0.36
-snippet: Nevada state capital beneath the Sierra Nevada, with frontier streets and
-  Comstock Lode history
 title: Carson City
 type: location
 ---

@@ -10,8 +10,6 @@ latitude: -16.234392
 loc_type: city
 longitude: 167.499172
 score: 0.38
-snippet: Large Vanuatu island of rugged jungle and exceptional linguistic diversity,
-  known for traditional Nambas cultures
 title: Malakula
 type: location
 ---

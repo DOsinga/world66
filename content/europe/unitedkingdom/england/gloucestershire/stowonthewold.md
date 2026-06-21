@@ -9,8 +9,6 @@ latitude: 51.930343
 loc_type: city
 longitude: -1.723015
 score: 0.51
-snippet: Cotswold market town on the Fosse Way, known for its large sheep-trading
-  square
 title: Stow-on-the-Wold
 type: location
 ---

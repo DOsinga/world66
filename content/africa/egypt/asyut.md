@@ -10,8 +10,6 @@ latitude: 27.183282
 loc_type: city
 longitude: 31.185384
 score: 0.28
-snippet: Upper Egyptian Nile city and transport hub, close to important Coptic monasteries
-  and cliffside tombs
 title: Asyut
 type: location
 ---

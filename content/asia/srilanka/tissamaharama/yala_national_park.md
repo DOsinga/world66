@@ -2,13 +2,11 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 6.570972
-loc_type: feature
 longitude: 81.507282
-score: 0.55
-snippet: Sri Lankan national park of dry forest and lagoons, known for leopards, elephants,
-  and jeep safaris
 title: Yala National Park
 type: location
+score: 0.55
+loc_type: feature
 ---
 
 Yala is Sri Lanka's most visited national park and one of its wildest corners. The park stretches across nearly 1,300 square kilometres of dry monsoon forest, scrubland, and lagoons along the island's southeast coast, and it holds one of the highest densities of leopards anywhere in the world.

@@ -10,8 +10,6 @@ latitude: -7.7743
 loc_type: city
 longitude: 35.4826
 score: 0.36
-snippet: Southern Highlands capital on a cool escarpment, used as a gateway to Ruaha
-  and Udzungwa
 title: Iringa
 type: location
 ---

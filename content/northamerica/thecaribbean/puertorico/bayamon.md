@@ -5,8 +5,6 @@ latitude: 18.3985
 loc_type: city
 longitude: -66.1553
 score: 0.33
-snippet: Puerto Rican city southwest of San Juan, with a family-friendly science park
-  and lively sports culture
 title: Bayamón
 type: location
 ---

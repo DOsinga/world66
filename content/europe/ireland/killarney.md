@@ -2,18 +2,16 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
-image: killarney.jpg
-image_attribution: Alphonse Dousseau
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:DV405_no.253_Killarney.png
 latitude: 52.059575
 loc_type: city
 longitude: -9.505322
 score: 0.61
-snippet: Irish tourist town and base for lakes, mountains, and the trails of Killarney
-  National Park
 title: Killarney
 type: location
+image: killarney.jpg
+image_source: https://commons.wikimedia.org/wiki/File:DV405_no.253_Killarney.png
+image_license: CC0
+image_attribution: Alphonse Dousseau
 ---
 
 Killarney is the main base for exploring southwest Ireland's lake and mountain scenery — the [national park](/europe/ireland/killarney/killarney_national_park), the [Gap of Dunloe](/europe/ireland/killarney/gap_of_dunloe), and the Ring of Kerry all start from here. The town itself is not especially beautiful, but it has been hosting visitors for over two hundred years and does it well: there are pubs, restaurants, and places to stay in every price range.

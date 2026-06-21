@@ -10,8 +10,6 @@ latitude: 40.558729
 loc_type: city
 longitude: 8.315321
 score: 0.61
-snippet: Walled Sardinian port with Catalan Gothic architecture, sea-facing bastions,
-  and an Algherese-speaking heritage
 title: Alghero
 type: location
 ---

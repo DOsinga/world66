@@ -6,8 +6,6 @@ latitude: 40.723475
 loc_type: city
 longitude: 8.561267
 score: 0.48
-snippet: Northern Sardinian city with Spanish Gothic alleys, Baroque churches, and
-  a strong archaeological museum
 title: Sassari
 type: location
 ---

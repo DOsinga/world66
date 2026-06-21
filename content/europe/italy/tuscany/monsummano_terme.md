@@ -10,8 +10,6 @@ latitude: 43.8707
 loc_type: city
 longitude: 10.814
 score: 0.43
-snippet: Small Tuscan spa town known for Grotta Giusti, a natural thermal cave lined
-  with stalactites
 title: Monsummano Terme
 type: location
 ---

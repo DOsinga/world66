@@ -10,8 +10,6 @@ latitude: 14.8715
 loc_type: city
 longitude: -24.7315
 score: 0.41
-snippet: Small Brava fishing village wedged between volcanic cliffs and a sheltered
-  Atlantic bay
 title: Fajã d’Agua
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 40.586356
 loc_type: city
 longitude: -122.391675
 score: 0.31
+snippet: Northern California valley city and base for Mount Shasta, Lassen, and Sacramento
+  River trails
 title: Redding
 type: location
 ---

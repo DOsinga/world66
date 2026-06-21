@@ -9,6 +9,8 @@ latitude: 47.261479
 loc_type: city
 longitude: 0.466713
 score: 0.56
+snippet: Small Loire Valley town known for a Renaissance château reflected in the
+  Indre River
 title: Azay-le-Rideau
 type: location
 ---

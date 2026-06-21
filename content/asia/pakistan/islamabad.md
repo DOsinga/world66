@@ -12,6 +12,8 @@ latitude: 33.693812
 loc_type: city
 longitude: 73.065151
 score: 0.36
+snippet: Planned Pakistani capital beneath the Margalla Hills, green and gridded beside
+  chaotic Rawalpindi
 title: Islamabad
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 59.2674
 loc_type: city
 longitude: 10.4076
 score: 0.46
+snippet: Old Norwegian fjord city where Viking-age history gathers around Slottsfjellet
+  and the waterfront quays
 sources:
 - https://en.wikipedia.org/wiki/T%C3%B8nsberg
 - https://en.wikipedia.org/wiki/T%C3%B8nsberg_Fortress

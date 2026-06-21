@@ -5,6 +5,8 @@ latitude: 44.350931
 loc_type: region
 longitude: 3.858481
 score: 0.58
+snippet: Wild southern French mountain region of chestnut forests, river valleys,
+  and Stevenson Trail walking country
 title: Cévennes
 type: location
 ---

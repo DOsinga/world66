@@ -11,6 +11,8 @@ latitude: 17.2514
 loc_type: city
 longitude: -88.7669
 score: 0.38
+snippet: Small inland capital of Belize, purpose-built after Hurricane Hattie damaged
+  low-lying Belize City
 title: Belmopan
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -51.693062
 loc_type: city
 longitude: -57.856525
 score: 0.47
+snippet: Tiny Falkland Islands capital and harbour town, with British-painted houses
+  far out in the South Atlantic
 title: Stanley
 type: location
 ---

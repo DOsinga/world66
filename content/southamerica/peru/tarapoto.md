@@ -11,6 +11,8 @@ latitude: -6.48772
 loc_type: city
 longitude: -76.359871
 score: 0.41
+snippet: High-Amazon city of palms and waterfalls, gateway to the forested San Martín
+  plateau
 title: Tarapoto
 type: location
 ---

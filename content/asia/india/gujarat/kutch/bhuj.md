@@ -10,6 +10,8 @@ latitude: 23.247245
 loc_type: city
 longitude: 69.668339
 score: 0.4
+snippet: Kutch base city with palaces, earthquake memory, and craft villages spread
+  across the surrounding desert region
 title: Bhuj
 type: location
 ---

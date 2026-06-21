@@ -10,6 +10,8 @@ latitude: 51.467923
 loc_type: city
 longitude: 4.469826
 score: 0.3
+snippet: Quiet Kempen border town shaped by Dutch crossings, wooded heathland, and
+  a notable railway history
 title: Essen
 type: location
 ---

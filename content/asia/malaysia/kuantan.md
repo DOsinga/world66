@@ -6,6 +6,8 @@ latitude: 3.7974
 loc_type: city
 longitude: 103.3219
 score: 0.41
+snippet: Working east-coast Malaysian city and Pahang capital, with beaches and craft
+  villages close by
 title: Kuantan
 type: location
 ---

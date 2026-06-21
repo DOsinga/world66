@@ -10,6 +10,8 @@ latitude: 44.3652
 loc_type: city
 longitude: 9.1463
 score: 0.43
+snippet: Small Ligurian coastal town in the Paradise Gulf, famous for focaccia col
+  formaggio
 title: Recco
 type: location
 ---

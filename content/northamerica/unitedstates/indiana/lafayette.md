@@ -6,6 +6,8 @@ latitude: 40.4167
 loc_type: city
 longitude: -86.8753
 score: 0.28
+snippet: Indiana Wabash River college city paired with West Lafayette and dominated
+  by Purdue University
 title: Lafayette
 type: location
 ---

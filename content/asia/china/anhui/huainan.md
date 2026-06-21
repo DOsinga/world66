@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Tongfei_Gate,_Shou_County.
 latitude: 32.62
 loc_type: city
 longitude: 117.0
+score: 0.24
+snippet: Industrial Anhui city on the Huaihe plain, anchored by coal and ancient Shou
+  County nearby
 sources:
 - https://en.wikivoyage.org/wiki/Huainan
 title: Huainan
 type: location
-score: 0.24
 ---
 
 Huainan is an industrial city in north-central Anhui — coal, chemicals, electricity, and pharmaceuticals are its economic foundations, and it makes no great effort to disguise this. The landscape along the railway reflects the city's history: processing plants, cooling towers, and the flat agricultural plain that stretches across the Huaihe valley. Most travelers pass through without stopping, which is not unreasonable.

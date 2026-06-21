@@ -10,6 +10,8 @@ latitude: 32.195995
 loc_type: city
 longitude: -84.139909
 score: 0.32
+snippet: Small Georgia village defined by the Civil War prison preserved at Andersonville
+  National Historic Site
 title: Andersonville
 type: location
 ---

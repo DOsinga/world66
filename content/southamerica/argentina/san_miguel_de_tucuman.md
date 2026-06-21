@@ -10,6 +10,8 @@ latitude: -26.8083
 loc_type: city
 longitude: -65.2176
 score: 0.37
+snippet: Northwestern Argentine provincial capital where the country's independence
+  was declared in 1816
 title: San Miguel de Tucumán
 type: location
 ---

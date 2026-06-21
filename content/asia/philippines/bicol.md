@@ -10,6 +10,8 @@ latitude: 13.1391
 loc_type: city
 longitude: 123.7438
 score: 0.4
+snippet: Albay provincial capital at the foot of Mayon Volcano, gateway to Bicol volcanic
+  landscapes
 title: Legazpi City
 type: location
 ---

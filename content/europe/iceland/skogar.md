@@ -9,6 +9,8 @@ latitude: 63.526951
 loc_type: city
 longitude: -19.49443
 score: 0.53
+snippet: Small south-coast Icelandic settlement at the foot of Skógafoss waterfall
+  and former sea cliffs
 title: Skogar
 type: location
 ---

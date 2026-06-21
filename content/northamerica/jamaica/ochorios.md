@@ -9,6 +9,8 @@ latitude: 18.4104
 loc_type: city
 longitude: -77.1024
 score: 0.57
+snippet: Jamaican cruise port and waterfall town on the north coast, named from Spanish
+  Las Chorreras
 title: Ocho Rios
 type: location
 ---

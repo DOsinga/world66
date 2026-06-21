@@ -9,6 +9,8 @@ latitude: 40.2112
 loc_type: city
 longitude: -8.4295
 score: 0.58
+snippet: Old Portuguese university city on the Mondego River, shaped by students,
+  hills, and Baroque libraries
 title: Coimbra
 type: location
 ---

@@ -5,7 +5,7 @@ score: 7.0
 tags:
 - things_to_do
 - sight
-- osterbro
+- indre_by
 title: Amaliehaven
 type: poi
 ---

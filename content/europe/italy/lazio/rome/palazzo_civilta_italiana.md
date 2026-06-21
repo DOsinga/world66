@@ -2,8 +2,9 @@
 address: Quadrato della Concordia, Rome
 latitude: 41.8367
 longitude: 12.4651
-score: 9.0
-snippet: Mussolini's Square Colosseum — 216 identical arched windows across six storeys of white travertine
+score: 8.5
+snippet: Mussolini's Square Colosseum — 216 identical arched windows across six storeys
+  of white travertine
 tags:
 - things_to_do
 - monument

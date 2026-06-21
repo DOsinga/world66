@@ -295,8 +295,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
         )
         for loc in linked_locations:
-            loc_img = _image_path(loc, branch)
-            loc.image_url = f'/content-image/{loc_img}{branch_qs}' if loc_img else None
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []

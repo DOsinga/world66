@@ -8,8 +8,6 @@ latitude: 31.929235
 loc_type: region
 longitude: 77.182846
 score: 0.63
-snippet: Himalayan state in northern India, known for hill stations, temples, Tibetan
-  culture, and mountain valleys.
 title: Himachal Pradesh
 type: location
 ---

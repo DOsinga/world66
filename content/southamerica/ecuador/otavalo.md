@@ -9,8 +9,6 @@ latitude: 0.222764
 loc_type: city
 longitude: -78.245427
 score: 0.52
-snippet: Andean town north of Quito, famous for its Otavaleño textile market and nearby
-  volcanic landscapes.
 title: Otavalo
 type: location
 ---

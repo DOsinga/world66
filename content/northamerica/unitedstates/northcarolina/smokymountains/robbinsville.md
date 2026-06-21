@@ -10,8 +10,6 @@ latitude: 35.32276
 loc_type: city
 longitude: -83.806999
 score: 0.38
-snippet: Remote Smoky Mountains county seat near Lake Santeetlah, Fontana Lake, and
-  the Cherohala Skyway.
 title: Robbinsville
 type: location
 ---

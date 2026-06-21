@@ -12,8 +12,6 @@ latitude: 52.5348
 loc_type: city
 longitude: 17.5826
 score: 0.38
-snippet: Historic Polish capital east of Poznań, centred on the cathedral and its
-  Romanesque bronze doors.
 title: Gniezno
 type: location
 ---

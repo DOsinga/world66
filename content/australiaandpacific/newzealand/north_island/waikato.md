@@ -5,8 +5,6 @@ latitude: -37.7833
 loc_type: region
 longitude: 175.2833
 score: 0.57
-snippet: North Island region of dairy country and limestone caves, named for New Zealand’s
-  longest river.
 title: Waikato
 type: location
 ---

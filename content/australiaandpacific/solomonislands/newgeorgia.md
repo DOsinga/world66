@@ -3,18 +3,16 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-30'
 latitude: -8.35
-loc_type: city
 longitude: 157.5833
+title: New Georgia
+type: location
 score: 0.33
-snippet: Largest island in the Solomon Islands’ Western Province, edged by Roviana
-  Lagoon and WWII history.
+loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/New_Georgia_campaign
 - https://en.wikipedia.org/wiki/Munda,_Solomon_Islands
 - https://en.wikipedia.org/wiki/Rendova_Island
 - https://en.wikipedia.org/wiki/New_Georgia_Islands
-title: New Georgia
-type: location
 ---
 
 New Georgia is the largest island in the Western Province of the [Solomon Islands](/australiaandpacific/solomonislands) and the hub of some of the best diving in the Pacific. The island sits at the edge of [Roviana Lagoon](/australiaandpacific/solomonislands/newgeorgia/roviana_lagoon) — a sheltered expanse of turquoise water enclosed by barrier reefs — where pristine coral walls drop into deep blue water teeming with sharks, barracuda, manta rays, and sea turtles. Visibility regularly exceeds 30 metres.

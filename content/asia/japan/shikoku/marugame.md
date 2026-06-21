@@ -10,8 +10,6 @@ latitude: 34.288813
 loc_type: city
 longitude: 133.798242
 score: 0.43
-snippet: Small Kagawa city on Shikoku, known for its original hilltop castle and traditional
-  uchiwa fans.
 title: Marugame
 type: location
 ---

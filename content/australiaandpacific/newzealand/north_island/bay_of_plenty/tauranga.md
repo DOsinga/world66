@@ -9,8 +9,6 @@ latitude: -37.685901
 loc_type: city
 longitude: 176.167505
 score: 0.46
-snippet: Bay of Plenty harbour city, backed by orchards and linked to the beach resort
-  of Mount Maunganui.
 title: Tauranga
 type: location
 ---

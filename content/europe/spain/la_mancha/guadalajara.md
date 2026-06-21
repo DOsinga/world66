@@ -9,8 +9,6 @@ latitude: 40.633
 loc_type: city
 longitude: -3.167
 score: 0.4
-snippet: Provincial capital east of Madrid, known for the Isabelline Gothic Palacio
-  del Infantado.
 title: Guadalajara
 type: location
 ---

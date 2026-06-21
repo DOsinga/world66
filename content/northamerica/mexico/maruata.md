@@ -10,8 +10,6 @@ latitude: 18.273235
 loc_type: city
 longitude: -103.348683
 score: 0.36
-snippet: Tiny Michoacán fishing village with remote Pacific beaches, rock monoliths,
-  and sea turtle nesting sites.
 title: Maruata
 type: location
 ---

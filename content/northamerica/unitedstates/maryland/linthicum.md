@@ -6,8 +6,6 @@ latitude: 39.203909
 loc_type: city
 longitude: -76.659709
 score: 0.2
-snippet: Anne Arundel County commuter suburb near BWI, with railroad-era village fabric
-  and historic farmhouses.
 title: Linthicum
 type: location
 ---

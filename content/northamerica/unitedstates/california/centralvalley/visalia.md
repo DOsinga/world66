@@ -10,8 +10,6 @@ latitude: 36.3302
 loc_type: city
 longitude: -119.2921
 score: 0.27
-snippet: San Joaquin Valley city and practical gateway to Sequoia and Kings Canyon
-  national parks.
 title: Visalia
 type: location
 ---

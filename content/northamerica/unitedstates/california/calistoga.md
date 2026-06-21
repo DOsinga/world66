@@ -8,8 +8,6 @@ latitude: 38.578797
 loc_type: city
 longitude: -122.579705
 score: 0.48
-snippet: Small Napa Valley town at Mount St. Helena, defined by geothermal springs,
-  mud baths, and wineries.
 title: Calistoga
 type: location
 ---

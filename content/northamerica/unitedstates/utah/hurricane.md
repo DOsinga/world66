@@ -11,8 +11,6 @@ latitude: 37.1753
 loc_type: city
 longitude: -113.2899
 score: 0.38
-snippet: Small southern Utah town near red-rock desert, used as a quieter base for
-  Zion National Park.
 title: Hurricane
 type: location
 ---

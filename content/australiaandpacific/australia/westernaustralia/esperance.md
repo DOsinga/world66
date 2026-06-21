@@ -10,8 +10,6 @@ latitude: -33.858228
 loc_type: city
 longitude: 121.893161
 score: 0.49
-snippet: Remote south-coast town in Western Australia, base for turquoise beaches
-  and Cape Le Grand National Park.
 title: Esperance
 type: location
 ---

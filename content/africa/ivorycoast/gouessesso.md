@@ -6,8 +6,6 @@ latitude: 7.761147
 loc_type: city
 longitude: -7.652709
 score: 0.18
-snippet: Small Yacouba village west of Biankouma, in hill country known for Dan masks
-  and stilt-dancers.
 title: Gouessesso
 type: location
 ---

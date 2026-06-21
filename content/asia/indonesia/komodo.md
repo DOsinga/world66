@@ -10,8 +10,6 @@ latitude: -8.589191
 loc_type: feature
 longitude: 119.462412
 score: 0.65
-snippet: Island in Komodo National Park, home to Komodo dragons and rich marine life
-  in surrounding currents.
 sources:
 - https://en.wikipedia.org/wiki/Komodo_National_Park
 - https://en.wikipedia.org/wiki/Komodo_(island)

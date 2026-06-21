@@ -6,8 +6,6 @@ latitude: 39.119731
 loc_type: city
 longitude: 48.595135
 score: 0.21
-snippet: Small southern Azerbaijani town, formerly Prishib, with Russian-era wooden
-  houses and garrison history.
 sources:
 - https://en.wikipedia.org/wiki/G%C3%B6yt%C9%99p%C9%99,_Jalilabad
 title: Goytepe

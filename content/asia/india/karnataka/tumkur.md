@@ -10,8 +10,6 @@ latitude: 13.340077
 loc_type: city
 longitude: 77.100621
 score: 0.26
-snippet: Commercial town northwest of Bangalore, known for Siddhaganga Matha and the
-  nearby Devarayanadurga Hills.
 title: Tumkur
 type: location
 ---

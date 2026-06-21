@@ -11,8 +11,6 @@ latitude: 39.076
 loc_type: city
 longitude: 45.9228
 score: 0.29
-snippet: Mountain town in Nakhchivan, noted for preserved mosques and a long printing
-  and cultural tradition.
 title: Ordubad
 type: location
 ---

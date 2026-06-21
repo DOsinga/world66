@@ -1,15 +1,13 @@
 ---
+title: Ahmednagar
+type: location
+latitude: 19.0948
+longitude: 74.748
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-29'
-latitude: 19.0948
-loc_type: city
-longitude: 74.748
 score: 0.27
-snippet: Deccan city northeast of Pune, founded in 1494 and anchored by the moat-ringed
-  Ahmednagar Fort.
-title: Ahmednagar
-type: location
+loc_type: city
 ---
 
 Ahmednagar — usually just called Nagar — sits about 120 km northeast of [Pune](/asia/india/maharashtra/pune) in the dry Deccan plateau. Founded in 1494 by Ahmad Nizam Shah I after his victory over the Bahmani Sultanate, the city was once the capital of a powerful medieval kingdom. Today it is a mid-sized Maharashtrian city surrounded by farmland, unremarkable at first glance but with enough history layered into its streets to reward a short stop.

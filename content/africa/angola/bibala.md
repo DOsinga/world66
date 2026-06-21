@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bibala,_landscape-1.jpg
 latitude: -14.7667
 loc_type: city
 longitude: 13.35
+score: 0.19
+snippet: Small inland Angolan town where railway history meets the climb from desert
+  coast to highlands.
 sources:
 - https://en.wikipedia.org/wiki/Bibala
 - https://hpip.org/pt/Contents/Place/245
 - https://www.destinonamibe.com/en/locais-interesse/bibala/serra-leba.html
 title: Bibala
 type: location
-score: 0.19
 ---
 
 Bibala is a small inland town in Namibe province, sitting between the desert coast and the highlands around Lubango. It is not a polished destination, but it matters as a hinge in southern Angola: the railway came through here, the old road climbs towards the escarpment, and the landscape begins to shift from dry lowland to cooler upland country.

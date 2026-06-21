@@ -6,6 +6,8 @@ latitude: 19.7957
 loc_type: region
 longitude: -70.688
 score: 0.56
+snippet: North-coast Dominican resort region, where Amber Coast beaches sit below
+  mountains and Victorian Puerto Plata.
 title: Puerto Plata
 type: location
 ---

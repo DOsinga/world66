@@ -10,6 +10,8 @@ latitude: 41.750287
 loc_type: city
 longitude: 23.487341
 score: 0.35
+snippet: University town in southwestern Bulgaria, with Varosha’s old quarter and
+  a lively student atmosphere.
 title: Blagoevgrad
 type: location
 ---

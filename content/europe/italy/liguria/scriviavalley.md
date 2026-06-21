@@ -9,6 +9,8 @@ latitude: 44.55
 loc_type: city
 longitude: 8.97
 score: 0.39
+snippet: Inland Ligurian valley of chestnut woods, small towns, and old routes toward
+  the Giovi pass.
 sources:
 - https://en.wikipedia.org/wiki/Scrivia
 - https://en.wikipedia.org/wiki/Casella,_Liguria

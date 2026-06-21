@@ -10,6 +10,8 @@ latitude: 32.537792
 loc_type: city
 longitude: 44.427003
 score: 0.34
+snippet: Ancient Mesopotamian city whose ruins recall Nebuchadnezzar, the Ishtar Gate,
+  and imperial Babylon.
 title: Babylon
 type: location
 ---

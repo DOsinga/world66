@@ -10,6 +10,8 @@ latitude: 58.75
 loc_type: city
 longitude: 11.4167
 score: 0.44
+snippet: Bohuslän municipality on Sweden’s west coast, famous for Bronze Age rock
+  carvings at Vitlycke.
 title: Tanum
 type: location
 ---

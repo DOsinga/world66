@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Roccamorice,_eremo_di_Sant
 latitude: 42.086944
 loc_type: feature
 longitude: 14.0875
+score: 0.49
+snippet: Wild Abruzzo mountain massif of limestone ridges, beech forest, wolf country,
+  and hermitages.
 sources:
 - https://en.wikipedia.org/wiki/Maiella
 - https://en.wikipedia.org/wiki/Maiella_National_Park
 - https://en.wikipedia.org/wiki/Monte_Amaro
 title: Majella
 type: location
-score: 0.49
 ---
 
 The Majella, often written Maiella in Italian, is the wilder, quieter mountain mass south of the Gran Sasso. From [Pescara](/europe/italy/abruzzo/pescara) it looks close enough to touch on a clear day, but the range quickly becomes serious: high limestone ridges, beech forest, wolf country, deep gorges, and villages that feel very far from the Adriatic beach resorts.

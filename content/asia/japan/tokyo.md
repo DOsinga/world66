@@ -12,6 +12,8 @@ latitude: 35.67686
 loc_type: city
 longitude: 139.763895
 score: 0.98
+snippet: Vast Japanese capital where distinct neighbourhoods, rail networks, shrines,
+  and neon districts interlock.
 title: Tokyo
 type: location
 ---

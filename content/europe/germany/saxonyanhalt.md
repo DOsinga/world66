@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 51.928098
+loc_type: region
 longitude: 11.681224
 score: 0.46
+snippet: Central German region of cathedrals, Reformation towns, Bauhaus design, and
+  Harz foothills.
 title: Saxony-Anhalt
 type: location
-loc_type: region
 ---
 
 Saxony-Anhalt regained its status as a regional state in 1990, when the reunification of East and West Germany took place. It has now more than 2.5 million inhabitants and 21 municipalities.

@@ -12,6 +12,8 @@ latitude: 14.7717
 loc_type: city
 longitude: -88.7794
 score: 0.37
+snippet: Colonial highland town in western Honduras, the centre of the country's cigar
+  industry and a base for Copán ruins.
 title: Santa Rosa de Copán
 type: location
 ---

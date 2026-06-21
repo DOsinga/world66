@@ -6,6 +6,8 @@ latitude: 35.1595
 loc_type: city
 longitude: -84.8766
 score: 0.29
+snippet: Small Tennessee city near the Cherokee National Forest, the closest town
+  to the Ocoee River Olympic whitewater course.
 title: Cleveland
 type: location
 ---

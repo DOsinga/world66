@@ -18,6 +18,8 @@ sources:
 - https://en.wikipedia.org/wiki/Temple_of_Artemis
 title: Ephesus
 type: location
+snippet: Ancient Aegean city near Selçuk, famed for Roman streets and the Library
+  of Celsus.
 ---
 
 Ephesus is one of the largest and best-preserved ancient cities in the Mediterranean world, located near the town of Selçuk on Turkey's Aegean coast. At its height in the Roman imperial period it had a population of perhaps 200,000 people and was the most important city in the Roman province of Asia — wealthier, larger, and more culturally significant than most cities anywhere in the ancient world. Its ruins cover several square kilometres and include a theatre that seated 25,000, the iconic two-storey facade of the [Library of Celsus](/asia/turkey/ephesus/library_of_celsus), marble-paved streets, public latrines, gymnasia, and the [Terrace Houses](/asia/turkey/ephesus/terrace_houses) where Roman domestic spaces survive with mosaics and frescoed walls still intact.

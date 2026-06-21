@@ -9,6 +9,8 @@ sources:
 title: Hailar
 type: location
 score: 0.33
+snippet: Inner Mongolian gateway city to the Hulunbuir Steppe, where grasslands stretch
+  beyond the Hailar River.
 ---
 
 Hailar is the main city of Hulunbuir Prefecture, the vast northeastern swathe of Inner Mongolia that contains the region's best grasslands. The city itself — a mid-sized Chinese administrative centre on the banks of the Hailar River — is less important than where it puts you: within easy reach of the Hulunbuir Steppe, one of the genuinely spectacular grasslands of the world, where the grass is tall, the sky is enormous, and the density of pastoral life is something not found in the more touristed grassland areas near Hohhot.

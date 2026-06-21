@@ -8,6 +8,7 @@ longitude: 84.9482
 score: 0.33
 title: Tomsk
 type: location
+snippet: Siberian university city on the Tom River, known for its ornate wooden houses.
 ---
 
 Tomsk is one of Siberia's oldest and most attractive cities, founded in 1604 as a fortress on the Tom River. Unlike most Siberian cities, which were rebuilt in Soviet concrete, Tomsk preserved a remarkable collection of wooden houses — ornately carved, painted in faded pastels, and leaning slightly with age. The [wooden architecture](/europe/russia/tomsk/wooden_architecture) alone makes it worth a detour.

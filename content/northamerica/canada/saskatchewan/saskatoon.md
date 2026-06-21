@@ -12,6 +12,8 @@ longitude: -106.6608
 score: 0.37
 title: Saskatoon
 type: location
+snippet: Prairie river city in Saskatchewan, known for its South Saskatchewan bridges
+  and Meewasin trails.
 ---
 
 Saskatoon sits on the banks of the South Saskatchewan River in the heart of the prairies, about 520 km southeast of Edmonton and 780 km northwest of Winnipeg. Seven bridges span the river within city limits, giving the city its unofficial nickname — the "City of Bridges." With a population of around 250,000, it is the largest city in Saskatchewan and an agricultural and university hub for the surrounding region.

@@ -12,6 +12,8 @@ longitude: 84.9864
 score: 0.24
 title: Chatrapur
 type: location
+snippet: Southern Odisha administrative town on the Chennai-Howrah line, a base for
+  Ganjam coast trips.
 ---
 
 Chatrapur (also spelled Chhatrapur) is the headquarters of Ganjam District in southern [Odisha](/asia/india/orissa), a small administrative town on the Chennai-Howrah main line. It sits on NH-5 between Berhampur and Bhubaneswar, making it easy to reach by both rail and road. The town itself is quiet and unassuming, but it serves as a base for exploring the southern Odisha coast and the hilly hinterland of Ganjam.

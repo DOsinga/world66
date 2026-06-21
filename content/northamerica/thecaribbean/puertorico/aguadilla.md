@@ -11,6 +11,8 @@ longitude: -67.1541
 score: 0.45
 title: Aguadilla
 type: location
+snippet: Northwest Puerto Rican surf town with Atlantic breaks, cliffs, and Mona Passage
+  sunsets.
 ---
 
 Aguadilla sits on the northwest corner of [Puerto Rico](/northamerica/thecaribbean/puertorico), where the Atlantic meets the Caribbean. It is best known for its surfing — Crash Boat Beach and the breaks around Wilderness draw surfers from across the island and beyond. The annual world surfing championship events held here are a testament to the quality of the waves.

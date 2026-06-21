@@ -10,6 +10,8 @@ latitude: 43.837425
 loc_type: city
 longitude: 4.360069
 score: 0.57
+snippet: Provençal city defined by exceptionally preserved Roman monuments, from its
+  arena to the Maison Carrée.
 title: Nîmes
 type: location
 ---

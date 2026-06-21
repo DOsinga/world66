@@ -10,6 +10,8 @@ latitude: -22.306166
 loc_type: city
 longitude: -42.493418
 score: 0.39
+snippet: Brazilian mountain resort near Rio de Janeiro, founded by Swiss emigrants
+  in the Serra Fluminense.
 title: Nova Friburgo
 type: location
 ---

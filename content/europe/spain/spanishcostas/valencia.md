@@ -9,6 +9,8 @@ latitude: 39.4697
 loc_type: city
 longitude: -0.3763
 score: 0.63
+snippet: Mediterranean Spanish city where paella, Gothic silk-trade wealth, and Turia
+  gardens define the centre.
 sources:
 - https://en.wikipedia.org/wiki/Valencia
 - https://en.wikivoyage.org/wiki/Valencia

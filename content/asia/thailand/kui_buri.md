@@ -11,6 +11,8 @@ latitude: 12.069553
 loc_type: city
 longitude: 99.872073
 score: 0.38
+snippet: Quiet Thai coastal district where wild elephants feed near pineapple fields
+  inland from empty Gulf beaches.
 title: Kui Buri
 type: location
 ---

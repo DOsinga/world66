@@ -10,6 +10,8 @@ latitude: 22.0099
 loc_type: city
 longitude: 100.8036
 score: 0.5
+snippet: Subtropical Yunnan region where Dai culture, tea forests, and Mekong lowlands
+  meet Southeast Asia.
 title: Xishuangbanna
 type: location
 ---

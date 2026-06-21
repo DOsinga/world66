@@ -1,18 +1,20 @@
 ---
-title: Xanthos
+image: xanthos.jpg
+image_attribution: Dosseman
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Xanthos_south_of_Decumanus_7230.jpg
 latitude: 36.3559
-longitude: 29.3188
-type: location
 loc_type: city
+longitude: 29.3188
 score: 0.48
+snippet: Ancient Lycian capital in the Xanthos valley, with tombs, inscriptions, and
+  a dramatic siege history.
 tags:
 - ancient_ruins
 - history
 - unesco
-image: xanthos.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Xanthos_south_of_Decumanus_7230.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Dosseman
+title: Xanthos
+type: location
 ---
 
 Xanthos, in the Xanthos River valley about 230 km west of Antalya, was the capital of ancient Lycia — one of the most powerful and culturally distinct city-states of the ancient Mediterranean. The city has one of the most dramatic histories of any ancient site in Turkey: besieged twice, its citizens chose mass suicide over surrender, both times gathering their families into the citadel and burning it down before sallying out to die fighting.

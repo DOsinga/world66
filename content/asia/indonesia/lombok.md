@@ -9,6 +9,8 @@ latitude: -8.583564
 loc_type: region
 longitude: 116.358082
 score: 0.69
+snippet: Lesser Sunda island east of Bali, centred on Mount Rinjani and Sasak village
+  culture.
 sources:
 - https://en.wikipedia.org/wiki/Lombok
 - https://en.wikivoyage.org/wiki/Lombok

@@ -10,6 +10,8 @@ latitude: -25.692532
 loc_type: city
 longitude: -54.441114
 score: 0.83
+snippet: Border-straddling waterfall system where subtropical forest drops into the
+  roaring Garganta del Diablo.
 title: Iguazu Falls
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 38.4044
 loc_type: city
 longitude: 14.9618
 score: 0.58
+snippet: Aeolian island where sulphur fumaroles, bubbling mud, and a climbable crater
+  define the arrival.
 title: Vulcano
 type: location
 ---

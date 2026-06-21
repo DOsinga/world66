@@ -10,6 +10,8 @@ latitude: 32.0769
 loc_type: city
 longitude: 76.2986
 score: 0.45
+snippet: Himachal valley town below the Dhauladhar range, with fort ruins and Pahari
+  painting heritage.
 title: Kangra
 type: location
 ---

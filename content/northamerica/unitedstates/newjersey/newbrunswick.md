@@ -10,6 +10,8 @@ latitude: 40.495137
 loc_type: city
 longitude: -74.443925
 score: 0.3
+snippet: Raritan River college city shaped by Rutgers University, theatre stages,
+  and colonial-era churches.
 title: New Brunswick
 type: location
 ---

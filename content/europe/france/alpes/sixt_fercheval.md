@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 latitude: 46.0547
-longitude: 6.7754
-title: Sixt-Fer-à-Cheval
-type: location
-score: 0.54
 loc_type: city
+longitude: 6.7754
+score: 0.54
+snippet: Haute-Savoie mountain village at a horseshoe cirque ringed by cliffs and
+  waterfalls.
 sources:
 - https://en.wikipedia.org/wiki/Sixt-Fer-%C3%A0-Cheval
 - https://en.wikipedia.org/wiki/Sixt_Abbey
 - https://en.wikipedia.org/wiki/Mont_Buet
+title: Sixt-Fer-à-Cheval
+type: location
 ---
 
 Sixt-Fer-à-Cheval sits at the dead end of a long valley road through [Samoëns](/europe/france/alpes/samoens), deep in the Haute-Savoie — close to [Chamonix](/europe/france/alpes/chamonix) as the crow flies but a world away in atmosphere. Mont Blanc is visible from a tent pitched here, yet the crowds are not. That contrast is precisely the point.

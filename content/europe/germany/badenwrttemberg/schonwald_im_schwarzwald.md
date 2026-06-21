@@ -8,8 +8,9 @@ latitude: 48.105768
 loc_type: city
 longitude: 8.195194
 score: 0.37
+snippet: High Black Forest spa village surrounded by central Schwarzwald walking and
+  ski trails.
 title: Schonwald im Schwarzwald
-snippet: High Black Forest health-resort village surrounded by central Schwarzwald walking and ski trails.
 type: location
 ---
 

@@ -12,6 +12,8 @@ title: Auxerre
 type: location
 score: 0.44
 loc_type: city
+snippet: Burgundy river town with medieval church towers, half-timbered lanes, and
+  Chablis vineyards nearby.
 ---
 
 Auxerre is a handsome old town on the river Yonne in northern Burgundy, best known for its skyline of medieval church towers and its proximity to the Chablis wine region. The old centre is compact and walkable, with half-timbered houses, a Gothic cathedral (Saint-Étienne, with fine stained glass), and a clock tower spanning the main street.

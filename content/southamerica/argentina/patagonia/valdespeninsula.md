@@ -7,6 +7,8 @@ title: Valdes Peninsula
 type: location
 score: 0.56
 loc_type: feature
+snippet: Patagonian peninsula of cold beaches and rich marine wildlife, from whales
+  to sea lions.
 ---
 
 Miles and miles of unspoiled beaches and some of the richest marine wildlife in South America -- that is what Valdes Peninsula offers. Since it is often too cold and windy to sunbathe, you are probably here to watch the animals, and on that front it delivers spectacularly.

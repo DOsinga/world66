@@ -1,14 +1,14 @@
 ---
-title: Calzada del Cerro Arcades
-type: poi
-latitude: 23.1255
-longitude: -82.3798
+latitude: 23.117
+longitude: -82.372
 score: 7.8
 tags:
 - things_to_do
 - sight
 - architecture
 - cerro
+title: Calzada del Cerro Arcades
+type: poi
 ---
 
 The Calzada del Cerro is one of Havana's most architecturally significant streets — a long avenue lined continuously with 19th-century neoclassical mansions whose ground floors open onto covered arcades (portales). In their heyday these portales sheltered pedestrians from tropical rains; today they shelter residents sitting outside in the evenings and informal trade.

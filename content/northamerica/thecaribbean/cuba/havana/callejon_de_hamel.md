@@ -1,6 +1,6 @@
 ---
 latitude: 23.139
-longitude: -82.37
+longitude: -82.375
 score: 7.5
 story: 'The alley was created by Salvador González Escalona, a Cuban artist who began
   painting murals here in 1990 and has not stopped since. The imagery draws on Santería

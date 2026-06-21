@@ -1,6 +1,6 @@
 ---
-latitude: 22.9901
-longitude: -82.3769
+latitude: 23.023
+longitude: -82.358
 score: 7.8
 tags:
 - day_trips

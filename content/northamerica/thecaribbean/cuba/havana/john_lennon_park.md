@@ -1,6 +1,6 @@
 ---
-latitude: 23.1272
-longitude: -82.3883
+latitude: 23.132
+longitude: -82.4
 score: 6.8
 snippet: A small Vedado square with a bronze John Lennon on a park bench — his glasses
   kept under guard and placed on the statue for photos, having been stolen too many

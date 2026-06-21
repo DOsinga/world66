@@ -1,13 +1,13 @@
 ---
-title: Marina Hemingway
-type: poi
-latitude: 23.0896
-longitude: -82.5028
+latitude: 23.092
+longitude: -82.494
 score: 7.4
 tags:
 - things_to_do
 - sight
 - playa
+title: Marina Hemingway
+type: poi
 ---
 
 Marina Hemingway, 15 kilometres west of central Havana in the Playa municipality, is Cuba's main international marina and one of the few places where foreign yachts can legally enter Cuban waters. The complex — built in the 1950s around a series of canals cut into the coastline — contains docking facilities, a small hotel, restaurants, and shops catering primarily to the sailing community.

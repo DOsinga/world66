@@ -1,7 +1,7 @@
 ---
 address: Plaza de la Revolución, Vedado
-latitude: 23.1186
-longitude: -82.3861
+latitude: 23.131
+longitude: -82.389
 score: 8.2
 snippet: Havana's vast ceremonial square, home to the 137-metre José Martí Memorial
   and the iconic steel silhouette of Che Guevara on the Ministry of the Interior facade.

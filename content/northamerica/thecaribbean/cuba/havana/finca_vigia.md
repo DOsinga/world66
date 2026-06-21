@@ -1,6 +1,6 @@
 ---
-latitude: 23.1
-longitude: -82.2856
+latitude: 23.068
+longitude: -82.296
 score: 7.8
 story: 'Hemingway kept his Nobel Prize medal not in a vault but on the altar of the
   Church of the Virgen del Cobre in Santiago de Cuba, donated to the Cuban people

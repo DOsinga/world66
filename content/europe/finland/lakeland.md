@@ -14,6 +14,8 @@ sources:
 - https://visitlakelandfinland.com/lake-saimaa-region/
 title: Finnish Lakeland
 type: location
+snippet: Vast Finnish lake district where forest and water form Europe's largest inland
+  patchwork.
 ---
 
 The Finnish Lakeland — Järvi-Suomi in Finnish — is the largest lake district in Europe: an enormous patchwork of water and forest covering the southern interior of the country from Tampere in the west to the Russian border in the east. Finland has around 188,000 lakes, and most of them are here. The region is defined less by any single city than by the relationship between land and water, which in places becomes so intertwined that it is hard to say whether you are on an island or a peninsula.

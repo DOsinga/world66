@@ -12,6 +12,8 @@ longitude: -0.1999
 score: 0.46
 title: Falaise
 type: location
+snippet: Norman town dominated by William the Conqueror's castle and scarred by the
+  1944 Falaise Pocket.
 ---
 
 Falaise is the birthplace of William the Conqueror, and his [castle][chateau] still dominates the town from its rocky spur above the valley. The Anglo-Norman keeps, the city walls, and the ramparts flanked by towers give the place a genuinely medieval silhouette — not prettified, but powerful.

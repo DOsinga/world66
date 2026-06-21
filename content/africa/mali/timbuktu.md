@@ -8,6 +8,8 @@ latitude: 16.7716
 loc_type: city
 longitude: -3.0087
 score: 0.37
+snippet: Saharan city of mud-brick mosques and manuscript libraries, once central
+  to Islamic scholarship and trade
 title: Timbuktu
 type: location
 ---

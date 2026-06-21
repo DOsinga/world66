@@ -6,6 +6,8 @@ latitude: 40.723475
 loc_type: city
 longitude: 8.561267
 score: 0.48
+snippet: Northern Sardinian city of Spanish Gothic lanes, Baroque churches, and Nuragic
+  archaeological collections
 title: Sassari
 type: location
 ---

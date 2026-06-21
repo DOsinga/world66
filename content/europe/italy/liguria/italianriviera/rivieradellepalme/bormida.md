@@ -10,6 +10,8 @@ latitude: 44.278261
 loc_type: city
 longitude: 8.234199
 score: 0.37
+snippet: Ligurian hinterland commune in the Bormida di Pallare valley, with churches
+  and pallone elastico traditions
 title: Bormida
 type: location
 ---

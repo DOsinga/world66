@@ -5,6 +5,8 @@ latitude: 78.719852
 loc_type: region
 longitude: 20.349333
 score: 0.67
+snippet: Largest island in the Svalbard archipelago, shaped by Arctic fjords, glaciers,
+  and polar landscapes.
 title: Spitsbergen
 type: location
 ---

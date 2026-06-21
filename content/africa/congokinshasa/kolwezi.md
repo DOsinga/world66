@@ -9,6 +9,8 @@ latitude: -10.717
 loc_type: city
 longitude: 25.467
 score: 0.18
+snippet: Katanga mining city in southern DR Congo, built around major cobalt and copper
+  deposits.
 title: Kolwezi
 type: location
 ---

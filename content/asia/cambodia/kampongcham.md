@@ -10,6 +10,8 @@ latitude: 11.9904
 loc_type: city
 longitude: 105.4635
 score: 0.4
+snippet: Mekong River port city northeast of Phnom Penh, known for Wat Nokor and provincial
+  Khmer life.
 title: Kampong Cham
 type: location
 ---

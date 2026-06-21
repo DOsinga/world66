@@ -11,6 +11,8 @@ latitude: 37.2638
 loc_type: city
 longitude: -122.023
 score: 0.36
+snippet: Santa Cruz Mountains foothill town in the South Bay, with redwood hills and
+  wine-country roots.
 title: Saratoga
 type: location
 ---

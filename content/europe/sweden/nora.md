@@ -10,6 +10,8 @@ latitude: 59.533333
 loc_type: city
 longitude: 15.016667
 score: 0.41
+snippet: Preserved Bergslagen mining town with cobbled streets, wooden houses, and
+  a historic railway.
 title: Nora
 type: location
 ---

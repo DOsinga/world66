@@ -9,6 +9,8 @@ latitude: 52.0622
 loc_type: city
 longitude: 4.4901
 score: 0.27
+snippet: Planned Randstad city between The Hague and Gouda, grown from a small village
+  after the war.
 sources:
 - https://en.wikipedia.org/wiki/Zoetermeer
 title: Zoetermeer

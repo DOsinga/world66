@@ -10,6 +10,8 @@ latitude: -27.366468
 loc_type: city
 longitude: -70.332275
 score: 0.32
+snippet: Atacama mining city in a green river valley surrounded by some of Chile's
+  driest desert.
 title: Copiapó
 type: location
 ---

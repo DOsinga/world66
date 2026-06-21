@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:HengshanMountains.JPG
 latitude: 27.3017
 loc_type: feature
 longitude: 112.6847
+score: 0.46
+snippet: Southern Sacred Mountain in Hunan, with Taoist and Buddhist temples across
+  72 named summits.
 sources:
 - https://en.wikivoyage.org/wiki/Mount_Heng_(Hunan)
 title: Mount Heng
 type: location
-score: 0.46
 ---
 
 Mount Heng, the Southern Sacred Mountain of China's five Taoist peaks, spreads across a range of 72 named summits in central [Hunan](/asia/china/hunan), with Zhurong Peak at 1,300 metres as the highest. It has been a site of religious practice since at least the Han dynasty: Taoism arrived first, Buddhism followed around 421 AD, and the two traditions have coexisted on the mountain ever since, which is unusual enough to be worth noting. The Buddhist Tiantai school that originated here spread to Japan and across Southeast Asia; the mountain effectively exported a significant portion of East Asian Buddhism.

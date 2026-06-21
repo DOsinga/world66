@@ -9,6 +9,8 @@ latitude: 70.6634
 loc_type: city
 longitude: 23.6821
 score: 0.47
+snippet: Finnmark island city at 70 degrees north, rebuilt after fires and wartime
+  destruction.
 title: Hammerfest
 type: location
 ---

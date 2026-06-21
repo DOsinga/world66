@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-14'
+image: alberobello.jpg
+image_attribution: Bernard Gagnon
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Alberobello,_Italy_01.jpg
 latitude: 40.784124
 loc_type: city
 longitude: 17.237703
 score: 0.6
+snippet: Puglian town famous for trulli, the whitewashed cone-roofed houses of its
+  historic centre.
 title: Alberobello
 type: location
-image: alberobello.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Alberobello,_Italy_01.jpg
-image_license: CC0
-image_attribution: Bernard Gagnon
 ---
 
 At first sight, you might think that you ended up in a fairytale and that within ample seconds, several dwarfs and elfs will come out of the white washed little houses with their cone-shaped roofs. When you come to think about it, you know that you’ve arrived in Alberobella.

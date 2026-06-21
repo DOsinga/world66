@@ -1,12 +1,14 @@
 ---
-title: The Lakes
-type: location
-latitude: -0.5
-longitude: 36.3
 done:
   location_cleanup: 2026-04-05
-score: 0.48
+latitude: -0.5
 loc_type: region
+longitude: 36.3
+score: 0.48
+snippet: Rift Valley lake region in Kenya, strung with alkaline and freshwater habitats
+  rich in birdlife.
+title: The Lakes
+type: location
 ---
 
 Running down the centre of Kenya is the **Great Rift Valley**, the enormous geological trench that splits East Africa from the Red Sea to Mozambique. Along its length are strung a series of lakes — some alkaline and shallow, some freshwater and deep — that together make up one of the most extraordinary concentrations of birdlife and wildlife on earth. Several of the lakes, and the valleys between them, are protected as national parks or reserves, and they are the reason many safari itineraries north-west of Nairobi exist at all.

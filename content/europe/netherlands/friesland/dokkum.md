@@ -10,6 +10,8 @@ latitude: 53.324351
 loc_type: city
 longitude: 5.999231
 score: 0.41
+snippet: Canal-ringed Frisian city associated with Boniface's 754 martyrdom and old
+  naval history.
 title: Dokkum
 type: location
 ---

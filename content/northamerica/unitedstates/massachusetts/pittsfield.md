@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pittsfield,_Massachusetts_
 latitude: 42.45
 loc_type: city
 longitude: -73.25
+score: 0.35
+snippet: Berkshires city with working-town roots, cultural institutions, lakes, and
+  nearby wooded ridges.
 sources:
 - https://en.wikipedia.org/wiki/Pittsfield,_Massachusetts
 - https://berkshirehistory.org/herman-melville-arrowhead/arrowhead-collection/
@@ -15,7 +18,6 @@ sources:
 - https://en.wikipedia.org/wiki/Hancock_Shaker_Village
 title: Pittsfield
 type: location
-score: 0.35
 ---
 
 Pittsfield is the practical capital of the Berkshires, less polished than Stockbridge and less precious than some of the smaller hill towns. That is part of its appeal. It has working-city bones, good cultural institutions, and quick access to the wooded ridges and lakes that make western [Massachusetts](/northamerica/unitedstates/massachusetts) so inviting.

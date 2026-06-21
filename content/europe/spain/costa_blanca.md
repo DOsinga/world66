@@ -8,6 +8,8 @@ latitude: 38.3452
 loc_type: region
 longitude: -0.481
 score: 0.64
+snippet: Mediterranean coast of Alicante province, mixing resort beaches, white towns,
+  and rugged limestone headlands.
 title: Costa Blanca
 type: location
 ---

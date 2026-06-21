@@ -6,6 +6,8 @@ latitude: 44.3983
 loc_type: city
 longitude: 0.5925
 score: 0.33
+snippet: Quiet Lot-et-Garonne market town on the Lot, surrounded by orchards and Agen-prune
+  country.
 title: Sainte-Livrade-sur-Lot
 type: location
 ---

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 35.269768
+loc_type: region
 longitude: -120.653701
 score: 0.66
+snippet: California coastal region of cliffs, mission towns, vineyards, and the scenic
+  Big Sur drive.
 title: Central Coast
 type: location
-loc_type: region
 ---
 
 California's Central Coast runs roughly 400 miles between Los Angeles and San Francisco, taking in a landscape that shifts from Ventura's agricultural plains through the mission towns of Santa Barbara and San Luis Obispo, past the dramatic cliffs of Big Sur, to the Monterey Peninsula in the north. It is one of the most scenically varied stretches of coastline in North America.

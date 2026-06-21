@@ -10,6 +10,8 @@ latitude: 36.000504
 loc_type: city
 longitude: -96.104961
 score: 0.24
+snippet: Route 66 town in Creek County, shaped by railroads, oil, glassmaking, and
+  preserved early downtown blocks.
 title: Sapulpa
 type: location
 ---

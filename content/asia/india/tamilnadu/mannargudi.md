@@ -9,6 +9,8 @@ latitude: 10.663459
 loc_type: city
 longitude: 79.451485
 score: 0.28
+snippet: Temple town in the Cauvery Delta, centred on the large Rajagopalaswamy Temple
+  and its Haridra Nadhi tank.
 title: Mannargudi
 type: location
 ---

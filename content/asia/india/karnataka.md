@@ -9,6 +9,8 @@ latitude: 14.956205
 loc_type: region
 longitude: 75.789674
 score: 0.59
+snippet: Varied Indian state spanning Bangalore, Hampi, Coorg, and major temple architecture
+  across the Deccan.
 title: Karnataka
 type: location
 ---

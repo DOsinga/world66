@@ -9,6 +9,8 @@ latitude: 43.443497
 loc_type: city
 longitude: 16.692277
 score: 0.55
+snippet: Dalmatian town at the Cetina River mouth, beneath cliffs once used by local
+  pirates.
 title: Omis
 type: location
 ---

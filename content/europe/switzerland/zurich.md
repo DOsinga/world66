@@ -11,6 +11,8 @@ latitude: 47.374449
 loc_type: city
 longitude: 8.541042
 score: 0.63
+snippet: Switzerland’s largest city, set where the River Limmat leaves Lake Zürich
+  and shaped by finance and trade.
 title: Zurich
 type: location
 ---

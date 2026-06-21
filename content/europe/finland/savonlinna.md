@@ -11,6 +11,8 @@ latitude: 61.869874
 loc_type: city
 longitude: 28.880045
 score: 0.5
+snippet: Lake-district town built on islands, centred on the 15th-century Olavinlinna
+  fortress.
 title: Savonlinna
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 54.035836
 loc_type: city
 longitude: 19.03685
 score: 0.53
+snippet: Polish town dominated by Malbork Castle, the world's largest brick Gothic
+  fortress.
 title: Malbork
 type: location
 ---

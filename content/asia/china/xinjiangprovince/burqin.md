@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Burqin,_Altay,_Xinjiang,_C
 latitude: 47.7045
 loc_type: city
 longitude: 86.8752
+score: 0.38
+snippet: Northern Xinjiang service town near the Irtysh River, gateway to Kanas, Hemu,
+  and Altay mountain valleys.
 sources:
 - https://en.wikivoyage.org/wiki/Burqin
 - https://en.wikipedia.org/wiki/Burqin_County
 title: Burqin
 type: location
-score: 0.38
 ---
 
 Burqin is the service town for northern Xinjiang's mountain country, the place where travellers fill up on fuel, noodles, and sleep before pushing on to Kanas, Hemu, or the Altay valleys. It sits near the Irtysh River, closer in feeling to Kazakhstan, Mongolia, and Siberia than to the desert cities most people imagine when they hear Xinjiang.

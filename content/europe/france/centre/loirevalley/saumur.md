@@ -12,6 +12,8 @@ latitude: 47.2596
 loc_type: city
 longitude: -0.0785
 score: 0.53
+snippet: Loire Valley town known for its château, cavalry school, tuffeau cellars,
+  and sparkling wine.
 title: Saumur
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 47.132701
 loc_type: city
 longitude: 24.496395
 score: 0.38
+snippet: Transylvanian town with Saxon roots, a central church tower, and ties to
+  Dracula literary lore.
 title: Bistrita
 type: location
 ---

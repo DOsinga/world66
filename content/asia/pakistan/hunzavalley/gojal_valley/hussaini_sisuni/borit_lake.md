@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 36.430774
+loc_type: feature
 longitude: 74.862402
+score: 0.39
+snippet: High-altitude lake in Gojal Valley, near Hussaini village and the Karakoram's
+  stark mountain scenery.
 title: Borit Lake
 type: location
-score: 0.39
-loc_type: feature
 ---
 
 Borit Lake (also spelled Borith Lake) is a shallow saline lake in the Gojal area of Upper Hunza. Fed from underground sources with no visible inlet or outlet, it sits in unusual stillness and draws a broad range of migratory birds.

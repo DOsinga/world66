@@ -10,6 +10,8 @@ latitude: 12.563493
 loc_type: city
 longitude: -16.272461
 score: 0.32
+snippet: Main town of Senegal’s Casamance region, set beside the river amid forests,
+  mangroves, and Diola culture.
 title: Ziguinchor
 type: location
 ---

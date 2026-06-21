@@ -6,6 +6,8 @@ latitude: 34.2996
 loc_type: city
 longitude: -108.1325
 score: 0.27
+snippet: Remote New Mexico settlement on US 60, known for pie and the Continental
+  Divide Trail.
 title: Pie Town
 type: location
 ---

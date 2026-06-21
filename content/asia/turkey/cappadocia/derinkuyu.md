@@ -9,6 +9,8 @@ latitude: 38.400309
 loc_type: city
 longitude: 34.699588
 score: 0.59
+snippet: Cappadocian town known for its vast underground city carved through multiple
+  subterranean levels.
 title: Derinkuyu
 type: location
 ---

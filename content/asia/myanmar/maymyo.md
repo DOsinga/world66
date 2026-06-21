@@ -10,6 +10,8 @@ latitude: 22.0331
 loc_type: city
 longitude: 96.4667
 score: 0.4
+snippet: Shan Hills hill station also known as Pyin Oo Lwin, with colonial houses
+  and botanical gardens.
 title: Maymyo
 type: location
 ---

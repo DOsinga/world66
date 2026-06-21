@@ -10,6 +10,8 @@ latitude: 47.339044
 loc_type: city
 longitude: 0.510456
 score: 0.56
+snippet: Loire Valley village whose château is renowned for formal Renaissance gardens
+  and geometric kitchen plots.
 title: Villandry
 type: location
 ---

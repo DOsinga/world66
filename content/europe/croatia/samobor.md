@@ -11,6 +11,7 @@ longitude: 15.70971
 score: 0.47
 title: Samobor
 type: location
+snippet: Small town west of Zagreb, known for its pastel square, kremšnita, and hilltop castle ruins.
 ---
 
 Samobor is a pretty little town about 25 minutes west of [Zagreb](/europe/croatia/zagreb), right on the edge of the Žumberak hills near the Slovenian border. It makes an easy half-day trip from the capital and is where Zagrebčani go for a Sunday stroll and cake.

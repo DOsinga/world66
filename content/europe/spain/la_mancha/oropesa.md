@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Oropesa,_Toled
 latitude: 39.917514
 loc_type: city
 longitude: -5.174724
-score: 0.46
+score: 0.38
 title: Oropesa
 type: location
 ---

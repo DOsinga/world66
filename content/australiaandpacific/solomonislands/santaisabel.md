@@ -5,7 +5,7 @@ done:
 latitude: -8.0412
 loc_type: city
 longitude: 159.2113
-score: 0.38
+score: 0.3
 title: Santa Isabel
 type: location
 ---

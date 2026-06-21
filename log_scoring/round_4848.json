@@ -1,0 +1,200 @@
+{
+  "round": 4848,
+  "timestamp": "2026-06-14T00:46:35",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yosemite",
+      "path": "northamerica/unitedstates/california/highsierra/yosemite",
+      "prior_score": 12.0006,
+      "prior_variance": 0.301988,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Murren",
+      "path": "europe/switzerland/murren",
+      "prior_score": 7.9177,
+      "prior_variance": 0.187169,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Koh Lanta",
+      "path": "asia/thailand/kohlanta",
+      "prior_score": 5.9834,
+      "prior_variance": 0.103316,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 8.364,
+      "prior_variance": 0.163168,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Gardone",
+      "path": "europe/italy/lombardia/lagodigarda/gardone",
+      "prior_score": 4.4646,
+      "prior_variance": 0.098846,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 3.3385,
+      "prior_variance": 0.107164,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.7188,
+      "prior_variance": 0.079571,
+      "prior_n": 17
+    },
+    {
+      "rank": 8,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.7951,
+      "prior_variance": 0.080389,
+      "prior_n": 17
+    },
+    {
+      "rank": 9,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 1.3666,
+      "prior_variance": 0.08307,
+      "prior_n": 17
+    },
+    {
+      "rank": 10,
+      "title": "Jajce",
+      "path": "europe/bosniaandherzegovina/jajce",
+      "prior_score": 2.0991,
+      "prior_variance": 0.081778,
+      "prior_n": 17
+    },
+    {
+      "rank": 11,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.9007,
+      "prior_variance": 0.084767,
+      "prior_n": 17
+    },
+    {
+      "rank": 12,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 2.4565,
+      "prior_variance": 0.082902,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Devonport",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/devonport",
+      "prior_score": 1.6076,
+      "prior_variance": 0.0968,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.0878,
+      "prior_variance": 0.078369,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": -2.1688,
+      "prior_variance": 0.132785,
+      "prior_n": 17
+    },
+    {
+      "rank": 16,
+      "title": "Valdivia",
+      "path": "southamerica/chile/valdivia",
+      "prior_score": 1.4072,
+      "prior_variance": 0.082102,
+      "prior_n": 17
+    },
+    {
+      "rank": 17,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.5849,
+      "prior_variance": 0.083214,
+      "prior_n": 17
+    },
+    {
+      "rank": 18,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.7845,
+      "prior_variance": 0.092912,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.5086,
+      "prior_variance": 0.093632,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.7325,
+      "prior_variance": 0.098737,
+      "prior_n": 17
+    },
+    {
+      "rank": 21,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.301,
+      "prior_variance": 0.089088,
+      "prior_n": 17
+    },
+    {
+      "rank": 22,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -3.9136,
+      "prior_variance": 0.107275,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -3.2149,
+      "prior_variance": 0.098153,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Tieni-Siabli",
+      "path": "africa/ivorycoast/tienisiabli",
+      "prior_score": -8.5441,
+      "prior_variance": 0.192892,
+      "prior_n": 15
+    }
+  ]
+}

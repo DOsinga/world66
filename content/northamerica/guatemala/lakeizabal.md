@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Festung_am_Lago_Izabal,Gua
 latitude: 15.5
 loc_type: feature
 longitude: -89.1667
-score: 0.49
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Lake_Izabal
 - https://en.wikipedia.org/wiki/Castillo_de_San_Felipe_de_Lara

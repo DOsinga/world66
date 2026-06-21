@@ -1,0 +1,200 @@
+{
+  "round": 3727,
+  "timestamp": "2026-06-13T23:15:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Split",
+      "path": "europe/croatia/split",
+      "prior_score": 9.6987,
+      "prior_variance": 0.262124,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Shenzhen",
+      "path": "asia/china/guangdong/shenzhen",
+      "prior_score": -0.7741,
+      "prior_variance": 0.132508,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 0.4426,
+      "prior_variance": 0.10163,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": -0.4916,
+      "prior_variance": 0.13758,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": -0.2238,
+      "prior_variance": 0.096286,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Grebbestad",
+      "path": "europe/sweden/grebbestad",
+      "prior_score": 0.1483,
+      "prior_variance": 0.104771,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.179,
+      "prior_variance": 0.11482,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": -0.3452,
+      "prior_variance": 0.099257,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.2881,
+      "prior_variance": 0.107778,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 0.4655,
+      "prior_variance": 0.106043,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.3293,
+      "prior_variance": 0.11111,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Novgorod",
+      "path": "europe/russia/novgorod",
+      "prior_score": 0.2009,
+      "prior_variance": 0.134956,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": -0.5741,
+      "prior_variance": 0.107221,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 0.2287,
+      "prior_variance": 0.115266,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "New Westminster",
+      "path": "northamerica/canada/britishcolumbia/newwestminster",
+      "prior_score": -2.0928,
+      "prior_variance": 0.113407,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -2.2683,
+      "prior_variance": 0.149096,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.4512,
+      "prior_variance": 0.109641,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kengtung",
+      "path": "asia/myanmar/kengtung",
+      "prior_score": -1.1279,
+      "prior_variance": 0.123805,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": -0.8448,
+      "prior_variance": 0.104998,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Majuro",
+      "path": "australiaandpacific/marshallislands/majuro",
+      "prior_score": -0.5182,
+      "prior_variance": 0.134561,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.5116,
+      "prior_variance": 0.129935,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Cotonou",
+      "path": "africa/benin/cotonou",
+      "prior_score": -4.078,
+      "prior_variance": 0.120741,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -7.3551,
+      "prior_variance": 0.2012,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Toledo",
+      "path": "northamerica/unitedstates/ohio/toledo",
+      "prior_score": -4.5238,
+      "prior_variance": 0.151437,
+      "prior_n": 12
+    }
+  ]
+}

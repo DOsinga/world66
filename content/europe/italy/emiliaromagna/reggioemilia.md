@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Reggio_Emilia
 title: Reggio Emilia
 type: location
+score: 0.47
 ---
 
 Reggio Emilia is one of the quieter triumphs of the Po Valley — prosperous, cultured, and almost entirely overlooked by tourists who rush straight from Bologna to Milan. The city claims a central place in Italian history: it was here, on 7 January 1797, that the tricolour flag was officially adopted as the symbol of a unified Italian state. The [Sala del Tricolore](/europe/italy/emiliaromagna/reggioemilia/sala_del_tricolore), still in use as the city's council chamber, marks the spot.

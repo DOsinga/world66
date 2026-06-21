@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Passangers_aboard_a_flight
 latitude: -16.234392
 loc_type: city
 longitude: 167.499172
-score: 0.45
+score: 0.38
 title: Malakula
 type: location
 ---

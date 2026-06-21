@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mirante_-_Itapema_-_panora
 latitude: -27.09472
 loc_type: city
 longitude: -48.613778
-score: 0.47
+score: 0.41
 title: Itapema
 type: location
 ---

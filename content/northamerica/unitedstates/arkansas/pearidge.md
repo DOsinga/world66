@@ -5,7 +5,7 @@ latitude: 36.451504
 longitude: -94.116215
 title: Pea Ridge
 type: location
-score: 0.33
+score: 0.26
 loc_type: city
 ---
 

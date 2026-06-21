@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bathhouse_Row,_Lamar,_Hot_
 latitude: 34.5037
 loc_type: city
 longitude: -93.0552
-score: 0.48
+score: 0.45
 title: Hot Springs
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Fairbanks_A
 latitude: 64.837845
 loc_type: city
 longitude: -147.716675
-score: 0.53
+score: 0.46
 title: Fairbanks
 type: location
 ---

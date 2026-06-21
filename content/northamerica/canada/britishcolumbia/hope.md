@@ -5,7 +5,7 @@ done:
 latitude: 49.38
 loc_type: city
 longitude: -121.4416
-score: 0.4
+score: 0.36
 title: Hope
 type: location
 ---

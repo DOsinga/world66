@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9.jpg
 latitude: 4.1755
 loc_type: city
 longitude: 73.5093
-score: 0.65
+score: 0.5
 title: Malé
 type: location
 ---

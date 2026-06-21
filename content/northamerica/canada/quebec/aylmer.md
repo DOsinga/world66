@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22490717@N02/43856423895
 latitude: 45.3953
 loc_type: city
 longitude: -75.8478
-score: 0.34
+score: 0.31
 title: Aylmer
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 949,
-  "timestamp": "2026-04-12T16:08:53",
+  "timestamp": "2026-06-13T20:02:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 184,
-      "prior_n": 8
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.0366,
+      "prior_variance": 0.492837,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Shinjuku",
-      "path": "asia/japan/tokyo/shinjuku",
-      "prior_rank": 408,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Cajamarca",
+      "path": "southamerica/peru/cajamarca",
+      "prior_score": 3.9286,
+      "prior_variance": 0.553427,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Jeju Island",
-      "path": "asia/southkorea/chejuisland",
-      "prior_rank": 261,
-      "prior_wins": 43,
-      "prior_n": 2
+      "title": "Samaipata",
+      "path": "southamerica/bolivia/samaipata",
+      "prior_score": 5.2592,
+      "prior_variance": 0.492364,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "San Sebasti\u00e1n",
-      "path": "europe/spain/basque_country_eus/sansebastian",
-      "prior_rank": 112,
-      "prior_wins": 64,
+      "title": "Vittoriosa",
+      "path": "europe/malta/cottonera_or_three/vittoriosa",
+      "prior_score": 4.268,
+      "prior_variance": 0.474536,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Ithaca",
-      "path": "europe/greece/ithaca",
-      "prior_rank": 1261,
-      "prior_wins": 76,
-      "prior_n": 4
+      "title": "Agropoli",
+      "path": "europe/italy/campania/agropoli",
+      "prior_score": 3.2377,
+      "prior_variance": 0.443429,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Alghero",
-      "path": "europe/italy/sardinia/alghero",
-      "prior_rank": 1929,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 3.8826,
+      "prior_variance": 0.508019,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Tivoli",
-      "path": "europe/italy/lazio/tivoli",
-      "prior_rank": 1836,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 4.3857,
+      "prior_variance": 0.858194,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Denmark",
-      "path": "europe/denmark",
-      "prior_rank": 224,
-      "prior_wins": 44,
+      "title": "Sligachan",
+      "path": "europe/unitedkingdom/scotland/skye/sligachan",
+      "prior_score": 6.917,
+      "prior_variance": 0.817934,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Cafayate",
-      "path": "southamerica/argentina/cafayate",
-      "prior_rank": 1722,
-      "prior_wins": 88,
-      "prior_n": 5
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 1.8193,
+      "prior_variance": 0.466491,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Paraty",
-      "path": "southamerica/brazil/paraty",
-      "prior_rank": 1046,
-      "prior_wins": 59,
+      "title": "Khao Takiab Beach",
+      "path": "asia/thailand/khao_takiab_beach",
+      "prior_score": 2.1437,
+      "prior_variance": 0.726138,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Thurgau",
-      "path": "europe/switzerland/thurgau",
-      "prior_rank": 2376,
-      "prior_wins": 16,
-      "prior_n": 1
+      "title": "Simatai",
+      "path": "asia/china/simatai",
+      "prior_score": 4.3066,
+      "prior_variance": 0.442404,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Hessen",
-      "path": "europe/germany/hessen",
-      "prior_rank": 4312,
-      "prior_wins": 22,
+      "title": "Tzfat",
+      "path": "asia/israel/tzfat",
+      "prior_score": 4.281,
+      "prior_variance": 0.790019,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Lake George",
-      "path": "northamerica/unitedstates/newyorkstate/lakegeorge",
-      "prior_rank": 1055,
-      "prior_wins": 59,
-      "prior_n": 3
+      "title": "Levoca",
+      "path": "europe/slovakia/levoca",
+      "prior_score": 2.8581,
+      "prior_variance": 0.363793,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Varese",
-      "path": "europe/italy/lombardia/varese",
-      "prior_rank": 3700,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 3.7045,
+      "prior_variance": 0.547638,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Ch\u00e2lons-en-Champagne",
-      "path": "europe/france/east/champagne/chalonssurmarne",
-      "prior_rank": 5342,
-      "prior_wins": 16,
-      "prior_n": 2
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 3.6305,
+      "prior_variance": 0.835931,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Kapiti Coast",
-      "path": "australiaandpacific/newzealand/kapiti_coast",
-      "prior_rank": 4266,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Szeged",
+      "path": "europe/hungary/szeged",
+      "prior_score": 3.2663,
+      "prior_variance": 0.656022,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Tuy [Tui]",
-      "path": "europe/spain/northernspain/tuy_tui",
-      "prior_rank": 4277,
-      "prior_wins": 22,
+      "title": "Silent Valley National Park",
+      "path": "asia/india/kerala/silent_valley_national_park",
+      "prior_score": 5.0279,
+      "prior_variance": 0.609463,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Quang Tri",
-      "path": "asia/vietnam/quang_tri",
-      "prior_rank": 6027,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Torrevieja",
+      "path": "europe/spain/costa_blanca/torrevieja",
+      "prior_score": 3.383,
+      "prior_variance": 0.501947,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Rakitnica Canyon",
-      "path": "europe/bosniaandherzegovina/rakitnica_canyon",
-      "prior_rank": 5217,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Torre del Mar",
+      "path": "europe/spain/andalucia/torredelmar",
+      "prior_score": 2.6606,
+      "prior_variance": 0.628384,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "N\u00e4vekvarn",
-      "path": "europe/sweden/nvekvarn",
-      "prior_rank": 6854,
-      "prior_wins": 12,
+      "title": "Minneapolis",
+      "path": "northamerica/unitedstates/minnesota/minneapolis",
+      "prior_score": 4.1418,
+      "prior_variance": 0.517393,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Trobriand Islands",
-      "path": "asia/papuanewguinea/trobriand_islands",
-      "prior_rank": 2984,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 2.7945,
+      "prior_variance": 0.49923,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Basconcobe",
-      "path": "northamerica/mexico/basconcobe",
-      "prior_rank": 7318,
-      "prior_wins": 3,
-      "prior_n": 1
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": -1.9589,
+      "prior_variance": 0.711508,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Arno Atoll",
-      "path": "australiaandpacific/marshallislands/arnoatoll",
-      "prior_rank": 3193,
-      "prior_wins": 87,
-      "prior_n": 7
+      "title": "Pankisi Gorge",
+      "path": "europe/georgia/pankisi",
+      "prior_score": -3.8392,
+      "prior_variance": 0.798412,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "pheroani",
-      "path": "asia/pakistan/dera_ghazi_khan/pheroani",
-      "prior_rank": 8223,
-      "prior_wins": 2,
-      "prior_n": 3
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -4.346,
+      "prior_variance": 0.681705,
+      "prior_n": 2
     }
   ]
 }

@@ -7,7 +7,7 @@ done:
 latitude: 47.474
 loc_type: city
 longitude: -0.5516
-score: 0.55
+score: 0.5
 title: Angers
 type: location
 ---

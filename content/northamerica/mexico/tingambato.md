@@ -5,7 +5,7 @@ done:
 latitude: 19.506387
 loc_type: city
 longitude: -101.85337
-score: 0.34
+score: 0.32
 title: Tingambato
 type: location
 ---

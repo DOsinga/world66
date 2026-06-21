@@ -1,0 +1,200 @@
+{
+  "round": 3357,
+  "timestamp": "2026-06-13T22:48:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.3997,
+      "prior_variance": 0.189207,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.7963,
+      "prior_variance": 0.161365,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_score": 4.3943,
+      "prior_variance": 0.22146,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 3.3696,
+      "prior_variance": 0.120876,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "G\u00f6rlitz",
+      "path": "europe/germany/saxony/grlitz",
+      "prior_score": 3.1669,
+      "prior_variance": 0.116155,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Warwick",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/warwick",
+      "prior_score": 0.5279,
+      "prior_variance": 0.188441,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.5014,
+      "prior_variance": 0.118007,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 2.7101,
+      "prior_variance": 0.142981,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Merritt Island National Wildlife Refuge",
+      "path": "northamerica/unitedstates/florida/merritt_island_national_wildlife_refuge",
+      "prior_score": -0.0486,
+      "prior_variance": 0.113567,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.3861,
+      "prior_variance": 0.113533,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.9842,
+      "prior_variance": 0.118916,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.4028,
+      "prior_variance": 0.116087,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.0339,
+      "prior_variance": 0.115385,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.7314,
+      "prior_variance": 0.122285,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.7586,
+      "prior_variance": 0.131626,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Helen",
+      "path": "northamerica/unitedstates/georgia/helen",
+      "prior_score": -1.0244,
+      "prior_variance": 0.162904,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": -0.1039,
+      "prior_variance": 0.122538,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.6217,
+      "prior_variance": 0.109933,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.5657,
+      "prior_variance": 0.127261,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Freudenstadt",
+      "path": "europe/germany/badenwrttemberg/freudenstadt",
+      "prior_score": -0.0626,
+      "prior_variance": 0.11371,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.1927,
+      "prior_variance": 0.119715,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -1.3582,
+      "prior_variance": 0.118499,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Karula National Park",
+      "path": "europe/estonia/karula_national_park",
+      "prior_score": -0.1543,
+      "prior_variance": 0.11476,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Campina Grande",
+      "path": "southamerica/brazil/campinagrande",
+      "prior_score": -2.948,
+      "prior_variance": 0.127995,
+      "prior_n": 11
+    }
+  ]
+}

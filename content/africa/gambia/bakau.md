@@ -5,7 +5,7 @@ done:
 latitude: 13.477453
 loc_type: city
 longitude: -16.677909
-score: 0.42
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Bakau
 title: Bakau

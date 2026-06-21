@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyscrapers_in_Limassol.jp
 latitude: 34.68529
 loc_type: city
 longitude: 33.033266
-score: 0.65
+score: 0.53
 title: Limassol
 type: location
 ---

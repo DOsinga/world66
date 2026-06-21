@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 56.682765
 longitude: -5.101455
-score: 0.68
+score: 0.61
 title: Glencoe
 type: location
 loc_type: feature

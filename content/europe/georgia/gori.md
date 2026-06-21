@@ -6,7 +6,7 @@ done:
 latitude: 41.981847
 loc_type: city
 longitude: 44.111781
-score: 0.46
+score: 0.39
 title: Gori
 type: location
 ---

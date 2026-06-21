@@ -5,7 +5,7 @@ done:
 latitude: 36.1675
 loc_type: city
 longitude: 54.338
-score: 0.29
+score: 0.26
 title: Damghan
 type: location
 ---

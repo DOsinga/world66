@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tigress_in_Bandhavgarh_NP.
 latitude: 23.6889
 loc_type: city
 longitude: 80.9685
-score: 0.56
+score: 0.48
 title: Bandhavgarh
 type: location
 ---

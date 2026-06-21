@@ -5,10 +5,10 @@ done:
 latitude: 49.747741
 loc_type: city
 longitude: 13.377525
-score: 0.54
+score: 0.49
 image: cathedral_st_bartholomew.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Plze%C5%88_Cathedral_of_Saint_Bartholomew-0146.jpg"
-image_license: "CC BY-SA 4.0"
+image_source: https://commons.wikimedia.org/wiki/File:Plze%C5%88_Cathedral_of_Saint_Bartholomew-0146.jpg
+image_license: CC BY-SA 4.0
 sources:
 - https://en.wikipedia.org/wiki/Plze%C5%88
 - https://en.wikipedia.org/wiki/Pilsner_Urquell_Brewery

@@ -5,7 +5,7 @@ done:
 latitude: 49.5418
 loc_type: city
 longitude: -124.7945
-score: 0.47
+score: 0.37
 title: Denman Island
 type: location
 image: denman_island.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 25.6907
 loc_type: city
 longitude: 100.1639
-score: 0.65
+score: 0.55
 title: Dali
 type: location
 image: dali.jpg

@@ -3,7 +3,7 @@ title: Gawthorpe Hall
 type: location
 latitude: 53.802752
 longitude: -2.294802
-score: 0.44
+score: 0.38
 loc_type: feature
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Forteresse_Jadida_01.JPG
 latitude: 33.243331
 loc_type: city
 longitude: -8.49884
-score: 0.53
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/El_Jadida
 - https://en.wikipedia.org/wiki/Portuguese_Cistern_(Mazagan)

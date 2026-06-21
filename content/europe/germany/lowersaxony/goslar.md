@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beeindruckende_Fachwerkbau
 latitude: 51.905994
 loc_type: city
 longitude: 10.426628
-score: 0.59
+score: 0.52
 title: Goslar
 type: location
 ---

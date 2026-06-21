@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_Street_in_Central_Cit
 latitude: 39.801932
 loc_type: city
 longitude: -105.514163
-score: 0.42
+score: 0.38
 title: Central City
 type: location
 ---

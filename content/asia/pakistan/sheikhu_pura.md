@@ -5,7 +5,7 @@ latitude: 31.7131
 longitude: 73.985
 title: Sheikhupura
 type: location
-score: 0.27
+score: 0.22
 loc_type: city
 ---
 

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:7245_Laren,_Netherlands_-_
 latitude: 52.256589
 loc_type: city
 longitude: 5.225193
-score: 0.42
+score: 0.37
 title: Laren
 type: location
 ---

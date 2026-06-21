@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/64073077@N06/54190330743
 latitude: -34.1834
 loc_type: city
 longitude: 142.1628
-score: 0.43
+score: 0.35
 title: Mildura
 type: location
 ---

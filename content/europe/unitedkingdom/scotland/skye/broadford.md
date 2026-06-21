@@ -5,7 +5,7 @@ done:
 latitude: 57.241015
 loc_type: city
 longitude: -5.90618
-score: 0.57
+score: 0.49
 title: Broadford
 type: location
 image: broadford.jpg

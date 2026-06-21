@@ -5,7 +5,7 @@ latitude: 59.958954
 longitude: 16.010719
 title: Engelsberg
 type: location
-score: 0.4
+score: 0.33
 loc_type: city
 ---
 

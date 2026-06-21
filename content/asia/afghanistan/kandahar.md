@@ -5,7 +5,7 @@ done:
 latitude: 31.6205
 loc_type: city
 longitude: 65.7158
-score: 0.11
+score: 0.04
 title: Kandahar
 type: location
 ---

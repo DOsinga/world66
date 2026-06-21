@@ -1,0 +1,200 @@
+{
+  "round": 2999,
+  "timestamp": "2026-06-13T22:21:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 13.7744,
+      "prior_variance": 0.737061,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tortola",
+      "path": "northamerica/britishvirginislands/tortola",
+      "prior_score": 5.4845,
+      "prior_variance": 0.171384,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.4792,
+      "prior_variance": 0.160044,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 5.0112,
+      "prior_variance": 0.177682,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": 4.3906,
+      "prior_variance": 0.142793,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9ribel",
+      "path": "europe/france/alpes/meribel",
+      "prior_score": 6.25,
+      "prior_variance": 0.171403,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Suzhou",
+      "path": "asia/china/jiangsu_province/suzhou",
+      "prior_score": 5.5085,
+      "prior_variance": 0.17519,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Vejer de la Frontera",
+      "path": "europe/spain/andalucia/vejer",
+      "prior_score": 3.6173,
+      "prior_variance": 0.135393,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Ioannina",
+      "path": "europe/greece/ioannina",
+      "prior_score": 3.8292,
+      "prior_variance": 0.142427,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 4.0993,
+      "prior_variance": 0.151009,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Khasab",
+      "path": "asia/oman/musandampeninsula/khasab",
+      "prior_score": 3.1538,
+      "prior_variance": 0.161243,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "St Vincent Island",
+      "path": "northamerica/saintvincentandthegrenadines/stvincentisland",
+      "prior_score": 4.1208,
+      "prior_variance": 0.145642,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 1.2204,
+      "prior_variance": 0.137894,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Oruro",
+      "path": "southamerica/bolivia/oruro",
+      "prior_score": -0.0133,
+      "prior_variance": 0.134732,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Arrecife",
+      "path": "europe/spain/canaryislands/lanzarote/arrecife",
+      "prior_score": 2.7024,
+      "prior_variance": 0.116421,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Bayonne",
+      "path": "europe/france/midi/basqueregion/bayonne",
+      "prior_score": 3.2357,
+      "prior_variance": 0.15053,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 10.4663,
+      "prior_variance": 0.366651,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -2.0048,
+      "prior_variance": 0.160736,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.9105,
+      "prior_variance": 0.115359,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.8075,
+      "prior_variance": 0.13282,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -3.2556,
+      "prior_variance": 0.153913,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.589,
+      "prior_variance": 0.165795,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -1.3051,
+      "prior_variance": 0.154122,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -11.5911,
+      "prior_variance": 0.426828,
+      "prior_n": 9
+    }
+  ]
+}

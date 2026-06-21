@@ -6,7 +6,7 @@ done:
 latitude: 54.017193
 loc_type: city
 longitude: 23.977228
-score: 0.49
+score: 0.42
 title: Druskininkai
 type: location
 ---

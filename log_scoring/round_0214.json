@@ -1,200 +1,200 @@
 {
   "round": 214,
-  "timestamp": "2026-04-12T09:07:11",
+  "timestamp": "2026-06-13T19:24:45",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Yellowstone",
-      "path": "northamerica/unitedstates/montana/yellowstone",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Pamukkale",
-      "path": "asia/turkey/gallipoli_troy/pamukkale",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Gasadalur",
+      "path": "europe/faroeislands/vagar/gasadalur",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Ellora",
-      "path": "asia/india/maharashtra/ellora",
-      "prior_mu": 21.9334,
-      "prior_sigma": 4.0007,
-      "prior_n": 3
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Sirmione",
-      "path": "europe/italy/lombardia/lagodigarda/sirmione",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Honfleur",
-      "path": "europe/france/normandybrittany/honfleur",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
-      "prior_n": 1
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Hersonnissos",
-      "path": "europe/greece/crete/hersonnissos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mount Fanjing",
+      "path": "asia/china/guizhou/mount_fanjing",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Costa di Maratea",
-      "path": "europe/italy/basilicata/costa_di_maratea",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Gelati Monastery",
+      "path": "europe/georgia/gelati",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Paracas",
-      "path": "southamerica/peru/paracas",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/tahoe_city",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Bogota",
-      "path": "southamerica/colombia/bogota",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Whitby",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Almaty",
-      "path": "asia/kazakhstan/almaty",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Albuquerque",
-      "path": "northamerica/unitedstates/newmexico/albuquerque",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Tubingen",
-      "path": "europe/germany/badenwrttemberg/tubingen",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Cetti Bay",
-      "path": "australiaandpacific/guam/cettibay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ancona",
+      "path": "europe/italy/marche/ancona",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Chisinau",
-      "path": "europe/moldova/chisinau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Naxxar",
-      "path": "europe/malta/naxxar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Albany",
-      "path": "northamerica/unitedstates/newyorkstate/albany",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Guadalteba",
+      "path": "europe/spain/andalucia/guadalteba",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Northern Virginia",
-      "path": "northamerica/unitedstates/virginia/northern",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Mirande",
-      "path": "europe/france/midi/pyrenees/mirande",
-      "prior_mu": 21.8239,
-      "prior_sigma": 4.8175,
-      "prior_n": 2
+      "title": "Winchester",
+      "path": "northamerica/unitedstates/virginia/winchester",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Zurzach",
-      "path": "europe/switzerland/zurzach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/westvirginia/wheeling",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Bettendorf",
-      "path": "northamerica/unitedstates/iowa/bettendorf",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Newport",
-      "path": "northamerica/unitedstates/southcarolina/newport",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "neguac",
-      "path": "northamerica/canada/newbrunswick/neguac",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Jabbeke",
+      "path": "europe/belgium/jabbeke",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Ada",
-      "path": "northamerica/unitedstates/oklahoma/ada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Orel",
+      "path": "europe/russia/orel",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Giridih",
-      "path": "asia/india/jharkhand/giridih",
-      "prior_mu": 22.1036,
-      "prior_sigma": 5.7547,
-      "prior_n": 1
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

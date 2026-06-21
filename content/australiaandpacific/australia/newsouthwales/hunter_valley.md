@@ -5,7 +5,7 @@ done:
 latitude: -32.450678
 loc_type: city
 longitude: 150.926241
-score: 0.59
+score: 0.51
 title: Hunter Valley
 type: location
 image: hunter_valley.jpg

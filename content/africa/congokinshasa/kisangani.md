@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16935515@N00/2293424781
 latitude: 0.5153
 loc_type: city
 longitude: 25.191
-score: 0.27
+score: 0.2
 title: Kisangani
 type: location
 ---

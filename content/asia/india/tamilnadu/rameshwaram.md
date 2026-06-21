@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ram_mandir_rameshwaram_ind
 latitude: 9.284466
 loc_type: city
 longitude: 79.312555
-score: 0.56
+score: 0.46
 title: Rameshwaram
 type: location
 ---

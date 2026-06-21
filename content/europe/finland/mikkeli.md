@@ -6,7 +6,7 @@ latitude: 61.687782
 longitude: 27.273192
 title: Mikkeli
 type: location
-score: 0.45
+score: 0.38
 loc_type: city
 image: mikkeli.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mikkeli_%22Skyline%22_at_dusk.jpg

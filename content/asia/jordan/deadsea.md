@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dead_Sea,_Jordanian_Shore.
 latitude: 31.640634
 loc_type: feature
 longitude: 35.574684
-score: 0.67
+score: 0.6
 title: Dead Sea
 type: location
 ---

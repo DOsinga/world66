@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Konni_02.jpg
 latitude: 13.7916
 loc_type: city
 longitude: 5.2478
-score: 0.21
+score: 0.18
 title: Birnin Konni
 type: location
 ---

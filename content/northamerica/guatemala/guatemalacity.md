@@ -6,7 +6,7 @@ done:
 latitude: 14.6349
 loc_type: city
 longitude: -90.5069
-score: 0.41
+score: 0.33
 title: Guatemala City
 type: location
 image: guatemalacity.jpg

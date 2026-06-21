@@ -1,0 +1,200 @@
+{
+  "round": 3513,
+  "timestamp": "2026-06-13T22:59:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Siargao",
+      "path": "asia/philippines/siargao",
+      "prior_score": 6.9623,
+      "prior_variance": 0.166128,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.4163,
+      "prior_variance": 0.129763,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavalo",
+      "prior_score": 3.6934,
+      "prior_variance": 0.145832,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 2.5548,
+      "prior_variance": 0.119269,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Goslar",
+      "path": "europe/germany/lowersaxony/goslar",
+      "prior_score": 3.7611,
+      "prior_variance": 0.13215,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.3034,
+      "prior_variance": 0.110104,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.7327,
+      "prior_variance": 0.116757,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.3419,
+      "prior_variance": 0.121333,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Cap Skirring",
+      "path": "africa/senegal/capskirring",
+      "prior_score": 0.2922,
+      "prior_variance": 0.119459,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.4152,
+      "prior_variance": 0.113015,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Watchet",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/watchet",
+      "prior_score": -0.4619,
+      "prior_variance": 0.12173,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Northampton",
+      "path": "northamerica/unitedstates/massachusetts/northhampton",
+      "prior_score": -1.5451,
+      "prior_variance": 0.11581,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Snagov Lake",
+      "path": "europe/romania/snagovlake",
+      "prior_score": -1.0267,
+      "prior_variance": 0.131573,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -1.2805,
+      "prior_variance": 0.145352,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.433,
+      "prior_variance": 0.132553,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/delaware/wilmington",
+      "prior_score": -3.8123,
+      "prior_variance": 0.154927,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.5978,
+      "prior_variance": 0.147245,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Nuevo Laredo",
+      "path": "northamerica/mexico/nuevolaredo",
+      "prior_score": -7.3779,
+      "prior_variance": 0.197786,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.9452,
+      "prior_variance": 0.13003,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -2.8418,
+      "prior_variance": 0.134765,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -5.8315,
+      "prior_variance": 0.138588,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Upper Falls",
+      "path": "northamerica/unitedstates/westvirginia/upper_falls",
+      "prior_score": -5.3309,
+      "prior_variance": 0.151459,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -6.4763,
+      "prior_variance": 0.280939,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -6.8981,
+      "prior_variance": 0.173886,
+      "prior_n": 11
+    }
+  ]
+}

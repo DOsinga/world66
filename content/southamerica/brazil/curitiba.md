@@ -8,7 +8,7 @@ image: ''
 latitude: -25.4296
 loc_type: city
 longitude: -49.2713
-score: 0.51
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Curitiba
 - https://en.wikipedia.org/wiki/Oscar_Niemeyer_Museum

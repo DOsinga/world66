@@ -1,15 +1,16 @@
 ---
-title: "Bánh Mì Huỳnh Hoa"
-type: poi
-tags:
-  - eating_out
-  - restaurant
-  - vietnamese
-  - street_food
 latitude: 10.7756
 longitude: 106.6929
-snippet: "The most-lauded banh mi stall in Saigon, with a permanent queue outside"
 score: 7.5
+snippet: The most-lauded banh mi stall in Saigon, with a permanent queue outside
+tags:
+- eating_out
+- restaurant
+- vietnamese
+- street_food
+- ben_thanh
+title: Bánh Mì Huỳnh Hoa
+type: poi
 ---
 
 Bánh mì — the Vietnamese baguette sandwich — is one of the greatest products of French colonialism, a crispy baguette stuffed with pâté, pickled vegetables, coriander, and various meats. Bánh Mì Huỳnh Hoa on Lê Thị Riêng Street has been selling what many consider the best version in the city since the 1970s.

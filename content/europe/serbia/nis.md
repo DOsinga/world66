@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Ni%C5%A1
 title: Niš
 type: location
+score: 0.42
 ---
 
 Niš is Serbia's third-largest city and one of the oldest in the Balkans, sitting in a wide valley where the Nišava river carves a path through the hills of southeastern Serbia. It was the Roman city of Naissus, birthplace of the Emperor Constantine the Great around 272 AD, and you don't have to look hard to feel that weight of history — there are Roman ruins just outside the centre, an Ottoman fortress on the riverbank, and a tower of human skulls on the eastern approach to town. Not your typical city break, but entirely unforgettable.

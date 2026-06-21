@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Dege
 title: Dege
 type: location
+score: 0.38
 ---
 
 Dege is a Tibetan town at 3,100 metres near the upper Jinsha River, not far from the border with Tibet Autonomous Region, and the journey to reach it is as significant as the destination itself. Two days by bus from Kangding, through passes that exceed 4,000 metres and along river valleys of extraordinary drama, Dege sits at the far edge of what most travellers reach in Sichuan. That remoteness is part of what has preserved it.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:House_of_Ghetaldic-Gonduli
 latitude: 43.008044
 loc_type: city
 longitude: 17.273354
-score: 0.56
+score: 0.46
 title: Trpanj
 type: location
 ---

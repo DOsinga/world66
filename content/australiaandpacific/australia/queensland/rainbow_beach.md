@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carlow_Sand_Blow,_Rainbow_
 latitude: -25.905661
 loc_type: city
 longitude: 153.074391
-score: 0.58
+score: 0.49
 title: Rainbow Beach
 type: location
 ---

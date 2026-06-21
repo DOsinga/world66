@@ -8,14 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Rab1.jpg
 latitude: 44.775687
 loc_type: city
 longitude: 14.734712
-score: 0.67
+score: 0.57
 title: Rab Island
 type: location
 sources:
-  - https://en.wikipedia.org/wiki/Rab_(island)
-  - https://en.wikipedia.org/wiki/Rab_(town)
-  - https://en.wikipedia.org/wiki/Lopar,_Croatia
-  - https://en.wikipedia.org/wiki/Rab_concentration_camp
+- https://en.wikipedia.org/wiki/Rab_(island)
+- https://en.wikipedia.org/wiki/Rab_(town)
+- https://en.wikipedia.org/wiki/Lopar,_Croatia
+- https://en.wikipedia.org/wiki/Rab_concentration_camp
 ---
 
 Rab is one of the most beautiful islands in the Kvarner Gulf, a green, forested island with sandy beaches — a rarity on the Croatian coast — and a perfectly preserved medieval old town. The town of Rab sits on a narrow peninsula, its skyline defined by [four bell towers](/europe/croatia/rabisland/things_to_do/rab_old_town) rising above terracotta roofs, and its streets lined with Renaissance palaces, churches dating from the eleventh to the sixteenth century, and quiet stone lanes. Quieter and less expensive than Hvar or Korčula, it is one of the underrated islands of the northern Adriatic.

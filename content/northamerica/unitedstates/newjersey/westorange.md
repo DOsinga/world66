@@ -5,7 +5,7 @@ done:
 latitude: 40.799
 loc_type: city
 longitude: -74.239
-score: 0.36
+score: 0.31
 title: West Orange
 type: location
 ---

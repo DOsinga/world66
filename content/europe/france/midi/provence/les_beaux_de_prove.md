@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baux_de_Provence.jpg
 latitude: 43.7444
 loc_type: city
 longitude: 4.7952
-score: 0.68
+score: 0.57
 title: Les Baux-de-Provence
 type: location
 ---

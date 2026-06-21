@@ -1,0 +1,200 @@
+{
+  "round": 3706,
+  "timestamp": "2026-06-13T23:14:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 8.2589,
+      "prior_variance": 0.183261,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Inle Lake",
+      "path": "asia/myanmar/inlelake",
+      "prior_score": 5.3502,
+      "prior_variance": 0.127071,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Borromean Islands",
+      "path": "europe/italy/lombardia/lagomaggiore/islands",
+      "prior_score": 6.2858,
+      "prior_variance": 0.150657,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Honfleur",
+      "path": "europe/france/normandybrittany/honfleur",
+      "prior_score": 5.4127,
+      "prior_variance": 0.150113,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Piran",
+      "path": "europe/slovenia/piran",
+      "prior_score": 5.9808,
+      "prior_variance": 0.140165,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 4.4554,
+      "prior_variance": 0.156157,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.6933,
+      "prior_variance": 0.128929,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Gotland",
+      "path": "europe/sweden/gotland",
+      "prior_score": 4.4235,
+      "prior_variance": 0.122035,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 4.542,
+      "prior_variance": 0.126367,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Budva",
+      "path": "europe/montenegro/budva",
+      "prior_score": 4.5641,
+      "prior_variance": 0.137614,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 4.4213,
+      "prior_variance": 0.147491,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Alicante",
+      "path": "europe/spain/spanishcostas/alicante",
+      "prior_score": 4.8105,
+      "prior_variance": 0.138894,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.0875,
+      "prior_variance": 0.115682,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.3469,
+      "prior_variance": 0.102019,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "The New Forest",
+      "path": "europe/unitedkingdom/england/south_east/the_new_forest",
+      "prior_score": 2.8392,
+      "prior_variance": 0.118151,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Champ\u00e9ry",
+      "path": "europe/switzerland/champery",
+      "prior_score": 4.9073,
+      "prior_variance": 0.132478,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.7501,
+      "prior_variance": 0.106774,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 1.9512,
+      "prior_variance": 0.1178,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.4695,
+      "prior_variance": 0.098067,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Viseu",
+      "path": "europe/portugal/viseu",
+      "prior_score": 1.2354,
+      "prior_variance": 0.124086,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -5.2379,
+      "prior_variance": 0.122181,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Karagandy",
+      "path": "asia/kazakhstan/karagandy",
+      "prior_score": -5.7449,
+      "prior_variance": 0.133971,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.5221,
+      "prior_variance": 0.15823,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -4.3033,
+      "prior_variance": 0.104679,
+      "prior_n": 12
+    }
+  ]
+}

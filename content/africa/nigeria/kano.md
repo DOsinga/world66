@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KanofromDalaHill.jpg
 latitude: 11.993998
 loc_type: city
 longitude: 8.521974
-score: 0.37
+score: 0.29
 title: Kano
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PALACIO_LEGISLATIVO_01.JPG
 latitude: -34.905892
 loc_type: city
 longitude: -56.19131
-score: 0.59
+score: 0.49
 title: Montevideo
 type: location
 ---

@@ -6,7 +6,7 @@ done:
 latitude: 45.539711
 loc_type: city
 longitude: 10.220347
-score: 0.56
+score: 0.48
 title: Brescia
 type: location
 image: brescia.jpg

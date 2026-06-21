@@ -1,200 +1,200 @@
 {
   "round": 1464,
-  "timestamp": "2026-04-12T22:29:05",
+  "timestamp": "2026-06-13T20:32:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The Panhandle",
-      "path": "northamerica/unitedstates/florida/thepanhandle",
-      "prior_rank": 2844,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Honolulu",
+      "path": "northamerica/unitedstates/hawaii/honolulu",
+      "prior_score": 13.5741,
+      "prior_variance": 0.769694,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Cape May",
-      "path": "northamerica/unitedstates/newjersey/cape_may",
-      "prior_rank": 3012,
-      "prior_wins": 40,
-      "prior_n": 3
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 9.9816,
+      "prior_variance": 0.520101,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Roscoff",
-      "path": "europe/france/normandybrittany/roscoff",
-      "prior_rank": 4881,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Skiathos",
+      "path": "europe/greece/skiathos",
+      "prior_score": 8.8404,
+      "prior_variance": 0.40672,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Vidoy",
-      "path": "europe/faroeislands/vidoy",
-      "prior_rank": 6557,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "Formentera",
+      "path": "europe/spain/balearicislands/formentera",
+      "prior_score": 10.1146,
+      "prior_variance": 0.59292,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Brancaster",
-      "path": "europe/unitedkingdom/norfolk/the_north_norfolk/brancaster",
-      "prior_rank": 5955,
-      "prior_wins": 33,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 11.1371,
+      "prior_variance": 0.500278,
       "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Moray",
-      "path": "europe/unitedkingdom/scotland/moray",
-      "prior_rank": 1903,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.8824,
+      "prior_variance": 0.32129,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Elgin",
-      "path": "europe/unitedkingdom/scotland/elgin",
-      "prior_rank": 4929,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Boumalne Dad\u00e8s",
+      "path": "africa/morocco/boumalne",
+      "prior_score": 2.3123,
+      "prior_variance": 0.405192,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Youghal",
-      "path": "europe/ireland/cork/youghal",
-      "prior_rank": 5041,
-      "prior_wins": 39,
+      "title": "Curitiba",
+      "path": "southamerica/brazil/curitiba",
+      "prior_score": 0.8011,
+      "prior_variance": 0.319731,
       "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "L\u00fcneburg",
-      "path": "europe/germany/lowersaxony/luneburg",
-      "prior_rank": 2843,
-      "prior_wins": 41,
-      "prior_n": 3
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.0894,
+      "prior_variance": 0.2565,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Ohio's Amish Country",
-      "path": "northamerica/unitedstates/ohio/ohios_amish_count",
-      "prior_rank": 1624,
-      "prior_wins": 64,
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 1.3501,
+      "prior_variance": 0.308263,
       "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Bellaria",
-      "path": "europe/italy/emiliaromagna/bellaria",
-      "prior_rank": 5892,
-      "prior_wins": 25,
-      "prior_n": 3
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.2264,
+      "prior_variance": 0.319214,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Eleusis",
-      "path": "europe/greece/eleusis",
-      "prior_rank": 3911,
-      "prior_wins": 47,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -4.5205,
+      "prior_variance": 0.309135,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Bellingen",
-      "path": "australiaandpacific/australia/newsouthwales/bellingen",
-      "prior_rank": 4979,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -5.5906,
+      "prior_variance": 0.461434,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Livingston",
-      "path": "northamerica/guatemala/livingstone",
-      "prior_rank": 1161,
-      "prior_wins": 68,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -3.6164,
+      "prior_variance": 0.316769,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Whangarei",
-      "path": "australiaandpacific/newzealand/whangarei",
-      "prior_rank": 3546,
-      "prior_wins": 37,
-      "prior_n": 3
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.6055,
+      "prior_variance": 0.301835,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Wisconsin Dells",
-      "path": "northamerica/unitedstates/wisconsin/wisconsindells",
-      "prior_rank": 3975,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/ohio/hudson",
+      "prior_score": -5.6778,
+      "prior_variance": 0.354012,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Palencia",
-      "path": "europe/spain/palencia",
-      "prior_rank": 7064,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/newyorkstate/carmel",
+      "prior_score": -5.2226,
+      "prior_variance": 0.329246,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Tashkent",
-      "path": "asia/uzbekistan/tashkent",
-      "prior_rank": 3875,
-      "prior_wins": 47,
+      "title": "Valdosta",
+      "path": "northamerica/unitedstates/georgia/valdosta",
+      "prior_score": -5.1693,
+      "prior_variance": 0.295293,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Dehradun",
-      "path": "asia/india/uttaranchal/dehradun",
-      "prior_rank": 4111,
-      "prior_wins": 80,
-      "prior_n": 7
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -4.0083,
+      "prior_variance": 0.314224,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Bandarban",
-      "path": "asia/bangladesh/banderban_hill_tra",
-      "prior_rank": 5528,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Brcko District",
+      "path": "europe/bosniaandherzegovina/brcko_district",
+      "prior_score": -4.2332,
+      "prior_variance": 0.441457,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Pulau Nias",
-      "path": "asia/indonesia/sumatra/pulaunias",
-      "prior_rank": 3711,
-      "prior_wins": 36,
-      "prior_n": 3
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": 0.6756,
+      "prior_variance": 0.296748,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Kampala",
-      "path": "africa/uganda/kampala",
-      "prior_rank": 3582,
-      "prior_wins": 49,
+      "title": "Sumgait",
+      "path": "europe/azerbaijan/sumgait",
+      "prior_score": -7.001,
+      "prior_variance": 0.663889,
       "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Chennai",
-      "path": "asia/india/tamilnadu/chennai",
-      "prior_rank": 1604,
-      "prior_wins": 80,
+      "title": "Hansi",
+      "path": "asia/india/haryana/hansi",
+      "prior_score": -7.116,
+      "prior_variance": 0.357629,
       "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "abdaal",
-      "path": "africa/somaliland/abdaal",
-      "prior_rank": 7894,
-      "prior_wins": 14,
-      "prior_n": 5
+      "title": "Bargarh",
+      "path": "asia/india/orissa/bargarh",
+      "prior_score": -6.5715,
+      "prior_variance": 0.331509,
+      "prior_n": 4
     }
   ]
 }

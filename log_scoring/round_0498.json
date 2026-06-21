@@ -1,200 +1,200 @@
 {
   "round": 498,
-  "timestamp": "2026-04-12T09:41:06",
+  "timestamp": "2026-06-13T19:39:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bruges",
-      "path": "europe/belgium/bruges",
-      "prior_mu": 32.0246,
-      "prior_sigma": 4.7695,
-      "prior_n": 4
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -8.3662,
+      "prior_variance": 1.44643,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Brussels",
-      "path": "europe/belgium/brussels",
-      "prior_mu": 29.8087,
-      "prior_sigma": 4.8962,
-      "prior_n": 3
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -15.4438,
+      "prior_variance": 6.8387,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Ghent",
-      "path": "europe/belgium/ghent",
-      "prior_mu": 23.9016,
-      "prior_sigma": 4.0328,
-      "prior_n": 3
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -14.9194,
+      "prior_variance": 6.907027,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Antwerp",
-      "path": "europe/belgium/antwerp",
-      "prior_mu": 26.154,
-      "prior_sigma": 4.6957,
-      "prior_n": 2
+      "title": "Great Egg Harbor",
+      "path": "northamerica/unitedstates/newjersey/greateggharbor",
+      "prior_score": -9.9814,
+      "prior_variance": 3.624106,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Bouillon",
-      "path": "europe/belgium/bouillon",
-      "prior_mu": 21.2336,
-      "prior_sigma": 3.7522,
-      "prior_n": 3
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -8.081,
+      "prior_variance": 1.51334,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Durbuy",
-      "path": "europe/belgium/durbuy",
-      "prior_mu": 21.0687,
-      "prior_sigma": 2.7861,
-      "prior_n": 5
+      "title": "Rizhao",
+      "path": "asia/china/shandong_province/rizhao",
+      "prior_score": -8.4463,
+      "prior_variance": 1.594695,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Spa",
-      "path": "europe/belgium/spa",
-      "prior_mu": 22.0366,
-      "prior_sigma": 4.5627,
-      "prior_n": 2
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -9.2951,
+      "prior_variance": 1.749751,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Waterloo",
-      "path": "europe/belgium/waterloo",
-      "prior_mu": 21.6596,
-      "prior_sigma": 4.5713,
-      "prior_n": 2
+      "title": "Huai'an",
+      "path": "asia/china/jiangsu_province/huaian",
+      "prior_score": -10.1507,
+      "prior_variance": 1.383458,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Knokke",
-      "path": "europe/belgium/knokke",
-      "prior_mu": 22.1132,
-      "prior_sigma": 5.4508,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -15.2463,
+      "prior_variance": 3.258346,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Lier",
-      "path": "europe/belgium/lier",
-      "prior_mu": 22.6582,
-      "prior_sigma": 5.9373,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -10.7359,
+      "prior_variance": 9.401775,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Oudenaarde",
-      "path": "europe/belgium/oudenaarde",
-      "prior_mu": 21.5393,
-      "prior_sigma": 4.7157,
-      "prior_n": 2
+      "title": "Siguatepeque",
+      "path": "northamerica/honduras/siguatepeque",
+      "prior_score": -10.1836,
+      "prior_variance": 1.744106,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "East Belgium",
-      "path": "europe/belgium/east_belgium",
-      "prior_mu": 20.9834,
-      "prior_sigma": 3.6559,
-      "prior_n": 3
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -11.4635,
+      "prior_variance": 1.78489,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Aalst",
-      "path": "europe/belgium/aalst",
-      "prior_mu": 20.9745,
-      "prior_sigma": 3.5067,
-      "prior_n": 3
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -15.6069,
+      "prior_variance": 2.704928,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Soignies",
-      "path": "europe/belgium/soignies",
-      "prior_mu": 21.7492,
-      "prior_sigma": 4.3854,
-      "prior_n": 2
+      "title": "Rensselaer, Indiana",
+      "path": "northamerica/unitedstates/rensselaer_indiana",
+      "prior_score": -9.7897,
+      "prior_variance": 9.611185,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Sint-Niklaas",
-      "path": "europe/belgium/sintniklaas",
-      "prior_mu": 22.2448,
-      "prior_sigma": 5.5383,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -9.7619,
+      "prior_variance": 3.736821,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Genk",
-      "path": "europe/belgium/genk",
-      "prior_mu": 20.9223,
-      "prior_sigma": 3.8455,
-      "prior_n": 3
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -12.2407,
+      "prior_variance": 7.776817,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Roeselare",
-      "path": "europe/belgium/roeselare",
-      "prior_mu": 20.5972,
-      "prior_sigma": 3.1064,
-      "prior_n": 5
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -11.718,
+      "prior_variance": 8.353997,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Beauvoorde",
-      "path": "europe/belgium/veurne/beauvoorde",
-      "prior_mu": 21.2644,
-      "prior_sigma": 3.7507,
-      "prior_n": 3
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -12.6593,
+      "prior_variance": 2.93034,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Gembloux",
-      "path": "europe/belgium/gembloux",
-      "prior_mu": 21.1029,
-      "prior_sigma": 3.5751,
-      "prior_n": 4
+      "title": "Khobar",
+      "path": "asia/saudiarabia/khobar",
+      "prior_score": -9.4062,
+      "prior_variance": 3.700866,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Hasti\u00e8re",
-      "path": "europe/belgium/hastiere",
-      "prior_mu": 22.2581,
-      "prior_sigma": 5.4108,
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -14.103,
+      "prior_variance": 7.23391,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Wervik",
-      "path": "europe/belgium/wervik",
-      "prior_mu": 21.9212,
-      "prior_sigma": 5.7249,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -10.4274,
+      "prior_variance": 5.385274,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Beveren",
-      "path": "europe/belgium/beveren",
-      "prior_mu": 21.5708,
-      "prior_sigma": 5.3313,
+      "title": "Tobruk",
+      "path": "africa/libya/tobruk",
+      "prior_score": -12.1507,
+      "prior_variance": 3.156464,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Essen",
-      "path": "europe/belgium/essen",
-      "prior_mu": 21.9769,
-      "prior_sigma": 5.6838,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -12.3506,
+      "prior_variance": 7.807666,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Hoeselt",
-      "path": "europe/belgium/hoeselt",
-      "prior_mu": 21.1613,
-      "prior_sigma": 4.601,
-      "prior_n": 2
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -11.8147,
+      "prior_variance": 8.591622,
+      "prior_n": 1
     }
   ]
 }

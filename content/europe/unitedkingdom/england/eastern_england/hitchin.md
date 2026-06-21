@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_Street,_Hitchin_-_g
 latitude: 51.9487
 loc_type: city
 longitude: -0.2779
-score: 0.35
+score: 0.33
 title: Hitchin
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 44.050505
 loc_type: city
 longitude: -123.095051
-score: 0.5
+score: 0.39
 title: Eugene
 type: location
 image: eugene.jpg

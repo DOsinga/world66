@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%A2timents_de_la_ville
 latitude: 9.5511
 loc_type: city
 longitude: 1.1862
-score: 0.28
+score: 0.27
 title: Kara
 type: location
 ---

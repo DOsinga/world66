@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guisi_coast_(Nueva_Valenci
 latitude: 10.5731
 loc_type: city
 longitude: 122.6239
-score: 0.52
+score: 0.42
 title: Guimaras
 type: location
 ---

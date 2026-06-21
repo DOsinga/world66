@@ -5,7 +5,7 @@ done:
 latitude: 58.622638
 loc_type: city
 longitude: 8.931236
-score: 0.49
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Tvedestrand
 title: Tvedestrand

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guildford_MMB_08_Cathedral
 latitude: 51.235607
 loc_type: city
 longitude: -0.573206
-score: 0.48
+score: 0.4
 title: Guildford
 type: location
 ---

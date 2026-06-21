@@ -1,199 +1,199 @@
 {
   "round": 489,
-  "timestamp": "2026-04-12T09:32:49",
+  "timestamp": "2026-06-13T19:38:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Henningsv\u00e6r",
-      "path": "europe/norway/lofotenislands/henningsvr",
-      "prior_mu": 25.8334,
-      "prior_sigma": 6.1233,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": -7.8052,
+      "prior_variance": 2.790453,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Moskenes",
-      "path": "europe/norway/lofotenislands/moskenes",
-      "prior_mu": 26.0028,
-      "prior_sigma": 6.0815,
+      "title": "Cairo Montenotte",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cairomontenotte",
+      "prior_score": -5.4585,
+      "prior_variance": 1.452529,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Kabelv\u00e5g",
-      "path": "europe/norway/lofotenislands/kabelvg",
-      "prior_mu": 22.6378,
-      "prior_sigma": 4.4121,
-      "prior_n": 2
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -8.7121,
+      "prior_variance": 3.399758,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "\u00c5lesund",
-      "path": "europe/norway/lesund",
-      "prior_mu": 23.4892,
-      "prior_sigma": 4.536,
-      "prior_n": 2
+      "title": "San Jose",
+      "path": "northamerica/unitedstates/california/san_jose",
+      "prior_score": -10.1021,
+      "prior_variance": 9.321962,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Oslo",
-      "path": "europe/norway/oslo",
-      "prior_mu": 21.566,
-      "prior_sigma": 3.7562,
-      "prior_n": 3
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -6.9588,
+      "prior_variance": 1.867783,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "\u00c5ndalsnes",
-      "path": "europe/norway/ndalsnes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -12.6109,
+      "prior_variance": 6.183085,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Hemsedal",
-      "path": "europe/norway/hemsedal",
-      "prior_mu": 23.0811,
-      "prior_sigma": 5.9845,
+      "title": "Dover",
+      "path": "northamerica/unitedstates/delaware/dover",
+      "prior_score": -9.0961,
+      "prior_variance": 1.998012,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Alta",
-      "path": "europe/norway/alta",
-      "prior_mu": 21.7693,
-      "prior_sigma": 5.6138,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -9.858,
+      "prior_variance": 1.586225,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Tysfjord",
-      "path": "europe/norway/tysfjord",
-      "prior_mu": 22.7223,
-      "prior_sigma": 5.9498,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -9.8906,
+      "prior_variance": 3.364329,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Agder",
-      "path": "europe/norway/southernnorways/agder",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Benguela",
+      "path": "africa/angola/benguela",
+      "prior_score": -11.167,
+      "prior_variance": 8.575184,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Southern Norway (Sorlandet)",
-      "path": "europe/norway/southernnorways",
-      "prior_mu": 23.1527,
-      "prior_sigma": 5.9772,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -8.6232,
+      "prior_variance": 10.056811,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Arendal",
-      "path": "europe/norway/arendal",
-      "prior_mu": 22.5254,
-      "prior_sigma": 5.6517,
+      "title": "Willows",
+      "path": "northamerica/unitedstates/california/willows",
+      "prior_score": -10.8459,
+      "prior_variance": 4.185236,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Grimstad",
-      "path": "europe/norway/grimstad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Del City",
+      "path": "northamerica/unitedstates/oklahoma/del_city",
+      "prior_score": -12.5844,
+      "prior_variance": 7.922915,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Kristiansund",
-      "path": "europe/norway/kristiansund",
-      "prior_mu": 22.5126,
-      "prior_sigma": 5.9117,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -10.1958,
+      "prior_variance": 9.584662,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Mosj\u00f8en",
-      "path": "europe/norway/mosjen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "North Platte",
+      "path": "northamerica/unitedstates/nebraska/northplatte",
+      "prior_score": -9.7949,
+      "prior_variance": 2.185856,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Stokmarknes",
-      "path": "europe/norway/stokmarknes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -14.158,
+      "prior_variance": 7.501871,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Forde",
-      "path": "europe/norway/forde",
-      "prior_mu": 22.5512,
-      "prior_sigma": 5.9157,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -11.4626,
+      "prior_variance": 2.976149,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Sandefjord",
-      "path": "europe/norway/sandefjord",
-      "prior_mu": 22.4484,
-      "prior_sigma": 5.515,
+      "title": "Birnin Konni",
+      "path": "africa/niger/birninkonni",
+      "prior_score": -10.7132,
+      "prior_variance": 9.340168,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Moss",
-      "path": "europe/norway/moss",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Benghazi",
+      "path": "africa/libya/benghazi",
+      "prior_score": -8.609,
+      "prior_variance": 10.33279,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Straume",
-      "path": "europe/norway/straume",
-      "prior_mu": 22.5448,
-      "prior_sigma": 5.671,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -8.0381,
+      "prior_variance": 3.912462,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Surnadal",
-      "path": "europe/norway/surnadal",
-      "prior_mu": 22.0675,
-      "prior_sigma": 5.7498,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -7.2871,
+      "prior_variance": 1.730078,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Norway",
-      "path": "europe/norway",
-      "prior_mu": 22.258,
-      "prior_sigma": 5.9246,
-      "prior_n": 2
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -8.63,
+      "prior_variance": 10.581113,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "norway",
-      "path": "europe/norway/norway_1",
-      "prior_mu": 28.9217,
-      "prior_sigma": 4.5636,
-      "prior_n": 4
+      "title": "Maimana",
+      "path": "asia/afghanistan/maimana",
+      "prior_score": -12.2663,
+      "prior_variance": 7.884296,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "CqoEEEHbAlhJ",
-      "path": "europe/norway/kongsberg/cqoeeehbalhj",
-      "prior_mu": 23.5636,
-      "prior_sigma": 5.579,
+      "title": "Jalalabad",
+      "path": "asia/afghanistan/jalalabad",
+      "prior_score": -16.1384,
+      "prior_variance": 4.229443,
       "prior_n": 1
     }
   ]

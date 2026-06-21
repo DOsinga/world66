@@ -6,7 +6,7 @@ latitude: -8.88
 longitude: 13.23
 title: Massoulo
 type: location
-score: 0.17
+score: 0.11
 loc_type: city
 ---
 

@@ -1,0 +1,200 @@
+{
+  "round": 2527,
+  "timestamp": "2026-06-13T21:48:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karbala",
+      "path": "asia/iraq/karbala",
+      "prior_score": -3.8173,
+      "prior_variance": 0.205976,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Shobak",
+      "path": "asia/jordan/shobak",
+      "prior_score": 0.96,
+      "prior_variance": 0.187153,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Duluth",
+      "path": "northamerica/unitedstates/minnesota/duluth",
+      "prior_score": -0.2335,
+      "prior_variance": 0.152693,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -3.9726,
+      "prior_variance": 0.380319,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Ardabil",
+      "path": "asia/iran/ardabil",
+      "prior_score": -2.601,
+      "prior_variance": 0.167938,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_score": -5.4162,
+      "prior_variance": 0.2301,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.9101,
+      "prior_variance": 0.192731,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Irbid",
+      "path": "asia/jordan/irbid",
+      "prior_score": -3.9666,
+      "prior_variance": 0.157776,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Bintulu",
+      "path": "asia/malaysia/bintulu",
+      "prior_score": -3.8915,
+      "prior_variance": 0.155093,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -3.4991,
+      "prior_variance": 0.14539,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Moclips",
+      "path": "northamerica/unitedstates/washington/moclips",
+      "prior_score": -3.0496,
+      "prior_variance": 0.171707,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Knoll Lake",
+      "path": "northamerica/unitedstates/arizona/knoll_lake",
+      "prior_score": -5.1728,
+      "prior_variance": 0.196565,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Hagerman",
+      "path": "northamerica/unitedstates/idaho/hagerman",
+      "prior_score": -4.2584,
+      "prior_variance": 0.207513,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -5.5845,
+      "prior_variance": 0.241592,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -3.9111,
+      "prior_variance": 0.158818,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Mississauga",
+      "path": "northamerica/canada/ontario/mississauga",
+      "prior_score": -4.5096,
+      "prior_variance": 0.166422,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/southcarolina/florence",
+      "prior_score": -5.7065,
+      "prior_variance": 0.227558,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.2606,
+      "prior_variance": 0.184595,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -6.4091,
+      "prior_variance": 0.235179,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -5.0342,
+      "prior_variance": 0.193921,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sosnowiec",
+      "path": "europe/poland/sosnowiec",
+      "prior_score": -4.9872,
+      "prior_variance": 0.228278,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.5172,
+      "prior_variance": 0.2376,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -6.9907,
+      "prior_variance": 0.579096,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Slutsk",
+      "path": "europe/belarus/slutsk",
+      "prior_score": -7.9248,
+      "prior_variance": 0.341122,
+      "prior_n": 8
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 44.840798
 loc_type: city
 longitude: -93.298163
-score: 0.4
+score: 0.34
 title: Bloomington
 type: location
 ---

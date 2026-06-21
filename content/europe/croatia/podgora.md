@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Podgora.jpg
 latitude: 43.243347
 loc_type: city
 longitude: 17.075071
-score: 0.54
+score: 0.46
 title: Podgora
 type: location
 ---

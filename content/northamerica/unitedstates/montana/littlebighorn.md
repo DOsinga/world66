@@ -5,7 +5,7 @@ latitude: 45.5695
 longitude: -107.4283
 title: Little Bighorn
 type: location
-score: 0.48
+score: 0.4
 loc_type: feature
 ---
 

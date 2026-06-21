@@ -9,7 +9,7 @@ image_attribution: Zemzina on Flickr
 latitude: 60.4673
 loc_type: city
 longitude: 26.9459
-score: 0.44
+score: 0.37
 title: Kotka
 type: location
 ---

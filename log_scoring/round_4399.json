@@ -1,0 +1,200 @@
+{
+  "round": 4399,
+  "timestamp": "2026-06-14T00:09:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 7.8849,
+      "prior_variance": 0.153681,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Camogli",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/camogli",
+      "prior_score": 4.9757,
+      "prior_variance": 0.10569,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Koh Tao",
+      "path": "asia/thailand/kohtao",
+      "prior_score": 7.3744,
+      "prior_variance": 0.1407,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Lake Toba",
+      "path": "asia/indonesia/sumatra/laketoba",
+      "prior_score": 5.4218,
+      "prior_variance": 0.096493,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Auckland",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/auckland",
+      "prior_score": 5.7058,
+      "prior_variance": 0.139747,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Berkeley",
+      "path": "northamerica/unitedstates/california/berkeley",
+      "prior_score": 1.5103,
+      "prior_variance": 0.103074,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 2.5472,
+      "prior_variance": 0.085934,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Almonaster La Real",
+      "path": "europe/spain/andalucia/almonaster_la_real",
+      "prior_score": -0.4078,
+      "prior_variance": 0.093044,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.1515,
+      "prior_variance": 0.096736,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Lilongwe",
+      "path": "africa/malawi/lilongwe",
+      "prior_score": -3.5356,
+      "prior_variance": 0.085036,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -1.8419,
+      "prior_variance": 0.089366,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -4.1659,
+      "prior_variance": 0.116847,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.3924,
+      "prior_variance": 0.092729,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Berkhamsted",
+      "path": "europe/unitedkingdom/england/south_east/berkhampsted",
+      "prior_score": -2.5939,
+      "prior_variance": 0.100309,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Harper",
+      "path": "africa/liberia/harper",
+      "prior_score": -6.2678,
+      "prior_variance": 0.120268,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.2454,
+      "prior_variance": 0.120166,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -4.9361,
+      "prior_variance": 0.123942,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.3253,
+      "prior_variance": 0.098692,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Pingxiang",
+      "path": "asia/china/jiangxi/pingxiang",
+      "prior_score": -4.8644,
+      "prior_variance": 0.111802,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/washington/auburn",
+      "prior_score": -5.4314,
+      "prior_variance": 0.122941,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Auburn",
+      "path": "northamerica/unitedstates/newyorkstate/auburn",
+      "prior_score": -4.0783,
+      "prior_variance": 0.09117,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -5.2847,
+      "prior_variance": 0.104861,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.8408,
+      "prior_variance": 0.126324,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Wigan",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/wigan",
+      "prior_score": -3.6509,
+      "prior_variance": 0.122033,
+      "prior_n": 14
+    }
+  ]
+}

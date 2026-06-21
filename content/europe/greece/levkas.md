@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20100726_Kalamitsi_Beach_I
 latitude: 38.8337
 loc_type: city
 longitude: 20.7069
-score: 0.7
+score: 0.62
 title: Lefkada
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brindisi_-_monumento_al_Ma
 latitude: 40.63586
 loc_type: city
 longitude: 17.688498
-score: 0.57
+score: 0.46
 title: Brindisi
 type: location
 ---

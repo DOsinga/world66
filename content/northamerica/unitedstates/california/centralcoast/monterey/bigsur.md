@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 36.1437
 longitude: -121.5646
-score: 0.71
+score: 0.66
 title: Big Sur
 type: location
 loc_type: feature

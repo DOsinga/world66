@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Honfleur_Harbour,_June_201
 latitude: 49.419722
 loc_type: city
 longitude: 0.233889
-score: 0.65
+score: 0.57
 title: Honfleur
 type: location
 ---

@@ -9,7 +9,7 @@ image_attribution: Maksym Kozlenko
 latitude: -41.780162
 loc_type: city
 longitude: 172.188707
-score: 0.48
+score: 0.43
 title: Buller
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Virginia_State_Capito
 latitude: 38.3498
 loc_type: city
 longitude: -81.6326
-score: 0.41
+score: 0.33
 title: Charleston
 type: location
 ---

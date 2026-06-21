@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Long-Tail_Boats_on_Patong_
 latitude: 7.8994
 loc_type: city
 longitude: 98.3087
-score: 0.68
+score: 0.58
 title: Patong
 type: location
 ---

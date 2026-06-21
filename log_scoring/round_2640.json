@@ -1,0 +1,200 @@
+{
+  "round": 2640,
+  "timestamp": "2026-06-13T21:56:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Eilat",
+      "path": "asia/israel/eilat",
+      "prior_score": 3.9043,
+      "prior_variance": 0.167415,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Mooloolaba",
+      "path": "australiaandpacific/australia/queensland/mooloolaba",
+      "prior_score": 1.8437,
+      "prior_variance": 0.174658,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.0328,
+      "prior_variance": 0.17918,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Armagh",
+      "path": "europe/unitedkingdom/northernireland/armagh",
+      "prior_score": 0.4692,
+      "prior_variance": 0.159467,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Corner Brook",
+      "path": "northamerica/canada/newfoundland/cornerbrook",
+      "prior_score": -1.8935,
+      "prior_variance": 0.149615,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.314,
+      "prior_variance": 0.168587,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.8561,
+      "prior_variance": 0.195883,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.4618,
+      "prior_variance": 0.170639,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -3.7154,
+      "prior_variance": 0.160195,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.6564,
+      "prior_variance": 0.156909,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Redlands",
+      "path": "northamerica/unitedstates/california/inlandempire/redlands",
+      "prior_score": -3.7216,
+      "prior_variance": 0.15375,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -4.2098,
+      "prior_variance": 0.176205,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Shiprock",
+      "path": "northamerica/unitedstates/newmexico/shiprock",
+      "prior_score": -1.5098,
+      "prior_variance": 0.151481,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.7055,
+      "prior_variance": 0.187043,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Maruata",
+      "path": "northamerica/mexico/maruata",
+      "prior_score": -1.5759,
+      "prior_variance": 0.148919,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -2.3042,
+      "prior_variance": 0.159951,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Daman",
+      "path": "asia/india/daman",
+      "prior_score": -3.142,
+      "prior_variance": 0.157636,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.9422,
+      "prior_variance": 0.178799,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Springer Mountain",
+      "path": "northamerica/unitedstates/georgia/springermountain",
+      "prior_score": -2.8157,
+      "prior_variance": 0.154799,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -3.3078,
+      "prior_variance": 0.168477,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -4.0298,
+      "prior_variance": 0.158428,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.5808,
+      "prior_variance": 0.199403,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -5.9793,
+      "prior_variance": 0.215215,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -8.384,
+      "prior_variance": 0.239249,
+      "prior_n": 8
+    }
+  ]
+}

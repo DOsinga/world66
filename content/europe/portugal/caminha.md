@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caminha_-_Portugal_(147845
 latitude: 41.87576
 loc_type: city
 longitude: -8.838838
-score: 0.54
+score: 0.45
 title: Caminha
 type: location
 ---

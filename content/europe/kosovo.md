@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€, adopted unilaterally)
   Median Age: "30 — youngest population in Europe"
   Independence: Declared 2008
-score: 0.44
+score: 0.51
 loc_type: country
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crkva_sv._Euzebija_i_Polio
 latitude: 45.288377
 loc_type: city
 longitude: 18.804525
-score: 0.41
+score: 0.33
 title: Vinkovci
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 43.530965
 longitude: 6.467668
 title: Train des Pignes
 type: location
-score: 0.55
+score: 0.49
 loc_type: feature
 ---
 

@@ -6,7 +6,7 @@ latitude: 34.898621
 longitude: -117.024431
 title: Barstow
 type: location
-score: 0.32
+score: 0.27
 loc_type: city
 image: barstow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barstow,_CA_train_station_(287198996)_(cropped).jpg

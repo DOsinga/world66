@@ -5,7 +5,7 @@ done:
 latitude: 37.084184
 loc_type: city
 longitude: -94.513339
-score: 0.38
+score: 0.29
 title: Joplin
 type: location
 ---

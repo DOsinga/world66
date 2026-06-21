@@ -1,200 +1,200 @@
 {
   "round": 546,
-  "timestamp": "2026-04-12T10:36:56",
+  "timestamp": "2026-06-13T19:41:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Uluru-Kata Tjuta National Park",
-      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
-      "prior_mu": 32.6326,
-      "prior_sigma": 6.1699,
-      "prior_n": 2
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 8.5069,
+      "prior_variance": 2.420181,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Melbourne",
-      "path": "australiaandpacific/australia/victoria/melbourne",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 11.3954,
+      "prior_variance": 7.719257,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Gold Coast",
-      "path": "australiaandpacific/australia/queensland/goldcoast",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 8.8697,
+      "prior_variance": 1.843269,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Katoomba",
-      "path": "australiaandpacific/australia/newsouthwales/katoomba",
-      "prior_mu": 23.7414,
-      "prior_sigma": 6.0977,
+      "title": "Sukhothai",
+      "path": "asia/thailand/sukhothai",
+      "prior_score": 9.9423,
+      "prior_variance": 3.35314,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Barossa Valley",
-      "path": "australiaandpacific/australia/southaustralia/barossa_valley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St Maarten",
+      "path": "northamerica/netherlandsantilles/stmaarten",
+      "prior_score": 11.6188,
+      "prior_variance": 1.928728,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "ryder",
-      "path": "australiaandpacific/australia/queensland/greatbarrierreef/ryder",
-      "prior_mu": 22.4614,
-      "prior_sigma": 5.7824,
+      "title": "Miyako Island",
+      "path": "asia/japan/ryukyuislands/miyakoisland",
+      "prior_score": 7.1899,
+      "prior_variance": 2.60877,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Magnetic Island",
-      "path": "australiaandpacific/australia/queensland/magnetic_island",
-      "prior_mu": 22.4264,
-      "prior_sigma": 5.9003,
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 11.4841,
+      "prior_variance": 2.540332,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Springbrook",
-      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
-      "prior_mu": 22.5934,
-      "prior_sigma": 5.9483,
+      "title": "Vigan",
+      "path": "asia/philippines/vigan",
+      "prior_score": 11.1252,
+      "prior_variance": 3.743054,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Southeast Tasmania",
-      "path": "australiaandpacific/australia/tasmania/southeast",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Martha's Vineyard",
+      "path": "northamerica/unitedstates/massachusetts/marthasvineyard",
+      "prior_score": 6.3631,
+      "prior_variance": 1.506862,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "West Coast",
-      "path": "australiaandpacific/australia/tasmania/westcoast",
-      "prior_mu": 22.2696,
-      "prior_sigma": 4.0065,
-      "prior_n": 3
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 7.2244,
+      "prior_variance": 2.20666,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Darwin",
-      "path": "australiaandpacific/australia/northernterritory/darwin",
-      "prior_mu": 22.6696,
-      "prior_sigma": 5.9455,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 7.5339,
+      "prior_variance": 1.700045,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Esperance",
-      "path": "australiaandpacific/australia/westernaustralia/esperance",
-      "prior_mu": 22.8642,
-      "prior_sigma": 5.5707,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 7.2398,
+      "prior_variance": 2.371075,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "National Parks",
-      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
-      "prior_mu": 22.2952,
-      "prior_sigma": 5.9498,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 8.105,
+      "prior_variance": 1.77617,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "National Parks",
-      "path": "australiaandpacific/australia/queensland/nationalparks",
-      "prior_mu": 22.103,
-      "prior_sigma": 4.5284,
-      "prior_n": 2
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 8.2336,
+      "prior_variance": 1.550457,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Geelong",
-      "path": "australiaandpacific/australia/victoria/geelong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 6.896,
+      "prior_variance": 1.61785,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Bowral",
-      "path": "australiaandpacific/australia/newsouthwales/bowral",
-      "prior_mu": 21.5845,
-      "prior_sigma": 3.9755,
-      "prior_n": 3
+      "title": "Mijas",
+      "path": "europe/spain/andalucia/mijas",
+      "prior_score": 8.932,
+      "prior_variance": 2.766958,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Mildura",
-      "path": "australiaandpacific/australia/victoria/midura",
-      "prior_mu": 22.3541,
-      "prior_sigma": 5.7748,
+      "title": "Iber\u00e1 Wetlands",
+      "path": "southamerica/argentina/corrientes/iberawetlands",
+      "prior_score": 7.1238,
+      "prior_variance": 2.00143,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "William Creek",
-      "path": "australiaandpacific/australia/southaustralia/william_creek",
-      "prior_mu": 22.2957,
-      "prior_sigma": 5.6724,
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 9.9321,
+      "prior_variance": 1.996678,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Bowen",
-      "path": "australiaandpacific/australia/newsouthwales/bowen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 7.9359,
+      "prior_variance": 3.472132,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Ravensthorpe",
-      "path": "australiaandpacific/australia/westernaustralia/ravensthorpe",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 7.3258,
+      "prior_variance": 1.829755,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Roma",
-      "path": "australiaandpacific/australia/queensland/roma",
-      "prior_mu": 22.5119,
-      "prior_sigma": 5.9499,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 7.5386,
+      "prior_variance": 2.227574,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Gympie",
-      "path": "australiaandpacific/australia/queensland/gympie",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shanhaiguan",
+      "path": "asia/china/hebei/shanhaiguan",
+      "prior_score": 7.3041,
+      "prior_variance": 2.117422,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Carina",
-      "path": "australiaandpacific/australia/queensland/carina",
-      "prior_mu": 21.6972,
-      "prior_sigma": 4.8375,
-      "prior_n": 2
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 6.9106,
+      "prior_variance": 1.617842,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Cooranbong",
-      "path": "australiaandpacific/australia/newsouthwales/cooranbong_nsw",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "East Caicos",
+      "path": "northamerica/turksandcaicosislands/eastcaicos",
+      "prior_score": 5.7162,
+      "prior_variance": 1.88109,
+      "prior_n": 1
     }
   ]
 }

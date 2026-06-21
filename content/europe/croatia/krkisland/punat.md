@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Punat_krk.jpg
 latitude: 45.019588
 loc_type: city
 longitude: 14.631247
-score: 0.55
+score: 0.48
 title: Punat
 type: location
 ---

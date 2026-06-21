@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20080409-ScottsdaleAZ-Arts
 latitude: 33.494219
 loc_type: city
 longitude: -111.926018
-score: 0.57
+score: 0.49
 title: Scottsdale
 type: location
 ---

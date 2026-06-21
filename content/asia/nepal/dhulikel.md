@@ -5,7 +5,7 @@ done:
 latitude: 27.6206
 loc_type: city
 longitude: 85.5561
-score: 0.57
+score: 0.48
 sources:
 - https://en.wikipedia.org/wiki/Dhulikhel
 title: Dhulikhel

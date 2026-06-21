@@ -5,7 +5,7 @@ done:
 latitude: 36.191174
 loc_type: city
 longitude: 44.009414
-score: 0.31
+score: 0.3
 title: Arbil
 type: location
 ---

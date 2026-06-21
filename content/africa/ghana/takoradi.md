@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_of_Takoradi_Railway_
 latitude: 4.887401
 loc_type: city
 longitude: -1.751932
-score: 0.4
+score: 0.31
 title: Takoradi
 type: location
 ---

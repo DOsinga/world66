@@ -5,7 +5,7 @@ latitude: 34.424697
 longitude: -111.088127
 title: Knoll Lake
 type: location
-score: 0.37
+score: 0.29
 loc_type: feature
 ---
 

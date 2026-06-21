@@ -5,7 +5,7 @@ done:
 latitude: 45.442681
 loc_type: city
 longitude: 2.505324
-score: 0.55
+score: 0.45
 title: Château de Val
 type: location
 ---

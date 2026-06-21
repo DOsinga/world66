@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Marais_Lake_Dusk.jpg
 latitude: 47.750467
 loc_type: city
 longitude: -90.334675
-score: 0.53
+score: 0.43
 title: Grand Marais
 type: location
 ---

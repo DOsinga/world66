@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hotel_beach_with_a_small_m
 latitude: 27.2222
 loc_type: city
 longitude: 33.8307
-score: 0.57
+score: 0.52
 title: Hurghada
 type: location
 ---

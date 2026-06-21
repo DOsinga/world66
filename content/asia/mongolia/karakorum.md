@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_05.jp
 latitude: 47.203657
 loc_type: city
 longitude: 102.843645
-score: 0.53
+score: 0.47
 title: Karakorum
 type: location
 ---

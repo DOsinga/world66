@@ -1,200 +1,200 @@
 {
   "round": 691,
-  "timestamp": "2026-04-12T10:43:07",
+  "timestamp": "2026-06-13T19:48:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Toledo",
-      "path": "europe/spain/centralspain/toledo",
-      "prior_mu": 22.5152,
-      "prior_sigma": 4.0308,
-      "prior_n": 3
-    },
-    {
-      "rank": 2,
-      "title": "Salamanca",
-      "path": "europe/spain/centralspain/salamanca",
-      "prior_mu": 23.049,
-      "prior_sigma": 4.9035,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 6.9851,
+      "prior_variance": 0.75011,
       "prior_n": 2
     },
     {
+      "rank": 2,
+      "title": "Kj\u00f6lur Route",
+      "path": "europe/iceland/kjolurroute",
+      "prior_score": 5.8082,
+      "prior_variance": 0.51009,
+      "prior_n": 3
+    },
+    {
       "rank": 3,
-      "title": "Ronda",
-      "path": "europe/spain/andalucia/ronda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Qingcheng Mountain",
+      "path": "asia/china/sichuanprovince/qingchengshan",
+      "prior_score": 8.0685,
+      "prior_variance": 1.957787,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Cadiz",
-      "path": "europe/spain/cadiz",
-      "prior_mu": 23.6052,
-      "prior_sigma": 5.7615,
-      "prior_n": 1
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 6.0293,
+      "prior_variance": 1.400345,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "C\u00edes Islands",
-      "path": "europe/spain/galicia/cies_islands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Talamanca",
+      "path": "northamerica/costarica/talamanca",
+      "prior_score": 5.9817,
+      "prior_variance": 1.296224,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "White Villages",
-      "path": "europe/spain/andalucia/whitevillages",
-      "prior_mu": 24.3918,
-      "prior_sigma": 6.0304,
-      "prior_n": 1
+      "title": "Ocho Rios",
+      "path": "northamerica/jamaica/ochorios",
+      "prior_score": 7.8646,
+      "prior_variance": 0.674049,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Mirador del Rio",
-      "path": "europe/spain/canaryislands/lanzarote/miradordelrio",
-      "prior_mu": 22.3656,
-      "prior_sigma": 5.9023,
-      "prior_n": 1
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 7.1466,
+      "prior_variance": 0.999677,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Pontevedra City",
-      "path": "europe/spain/galicia/pontevedra_city",
-      "prior_mu": 22.3628,
-      "prior_sigma": 5.5542,
-      "prior_n": 1
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.7696,
+      "prior_variance": 0.879124,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Baiona",
-      "path": "europe/spain/galicia/baiona",
-      "prior_mu": 22.7347,
-      "prior_sigma": 5.6602,
-      "prior_n": 1
+      "title": "Pilion",
+      "path": "europe/greece/pilion",
+      "prior_score": 4.7579,
+      "prior_variance": 0.787267,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Ribeira Sacra",
-      "path": "europe/spain/galicia/ribeira_sacra",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ramsau / Dachstein",
+      "path": "europe/austria/ramsaudachstein",
+      "prior_score": 8.0426,
+      "prior_variance": 0.83574,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Carmona",
-      "path": "europe/spain/andalucia/carmona",
-      "prior_mu": 22.7457,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Berat",
+      "path": "europe/albania/berat",
+      "prior_score": 6.5586,
+      "prior_variance": 0.916694,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Astorga",
-      "path": "europe/spain/northernspain/astorga",
-      "prior_mu": 22.681,
-      "prior_sigma": 5.5607,
+      "title": "Melk",
+      "path": "europe/austria/melk",
+      "prior_score": 7.3986,
+      "prior_variance": 1.615738,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Ciudad Rodrigo",
-      "path": "europe/spain/centralspain/ciudadrodrigo",
-      "prior_mu": 22.5854,
-      "prior_sigma": 5.8906,
-      "prior_n": 1
+      "title": "Les Eyzies de Tayac",
+      "path": "europe/france/midi/dordogne/les_eyzies_de_taya",
+      "prior_score": 7.1707,
+      "prior_variance": 0.887429,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "La Coru\u00f1a",
-      "path": "europe/spain/galicia/lacoruna",
-      "prior_mu": 22.9888,
-      "prior_sigma": 5.969,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 6.042,
+      "prior_variance": 1.617042,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Aragon",
-      "path": "europe/spain/aragon",
-      "prior_mu": 23.5608,
-      "prior_sigma": 4.7525,
+      "title": "Ixtapa-Zihuatanejo",
+      "path": "northamerica/mexico/ixtapazihuatanejo",
+      "prior_score": 7.0727,
+      "prior_variance": 0.817727,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Torrevieja",
-      "path": "europe/spain/costa_blanca/torrevieja",
-      "prior_mu": 20.6221,
-      "prior_sigma": 3.1295,
-      "prior_n": 5
+      "title": "Lake Maninjau",
+      "path": "asia/indonesia/lake_maninjau",
+      "prior_score": 3.5425,
+      "prior_variance": 0.565433,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "costa dorada",
-      "path": "europe/spain/catalonia/costa_dorada",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 4.3406,
+      "prior_variance": 1.180927,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Elche",
-      "path": "europe/spain/spanishcostas/elche",
-      "prior_mu": 21.4113,
-      "prior_sigma": 3.9476,
-      "prior_n": 3
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 5.7433,
+      "prior_variance": 0.800539,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "S'Arenal",
-      "path": "europe/spain/balearicislands/mallorca/arenal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "D\u00e9nia",
+      "path": "europe/spain/spanishcostas/denia",
+      "prior_score": 5.8218,
+      "prior_variance": 1.405218,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Canillas de Aceituno",
-      "path": "europe/spain/canillas_de_aceitu",
-      "prior_mu": 22.4317,
-      "prior_sigma": 5.7827,
-      "prior_n": 1
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 6.1742,
+      "prior_variance": 0.794556,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Palencia",
-      "path": "europe/spain/palencia",
-      "prior_mu": 22.5746,
-      "prior_sigma": 5.3901,
-      "prior_n": 1
+      "title": "Laigueglia",
+      "path": "europe/italy/liguria/rivieradellepalme/laigueglia",
+      "prior_score": 6.3261,
+      "prior_variance": 0.703921,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Pedro Bernardo",
-      "path": "europe/spain/centralspain/pedro_bernardo",
-      "prior_mu": 18.2451,
-      "prior_sigma": 6.743,
-      "prior_n": 1
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 4.0973,
+      "prior_variance": 0.737178,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Roqetas de mar",
-      "path": "europe/spain/andalucia/roqetasdemar",
-      "prior_mu": 17.1971,
-      "prior_sigma": 4.6039,
-      "prior_n": 3
+      "title": "Ludwigsburg",
+      "path": "europe/germany/badenwrttemberg/ludwigsburg",
+      "prior_score": 3.9682,
+      "prior_variance": 0.733158,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Tarancon",
-      "path": "europe/spain/la_mancha/tarancon",
-      "prior_mu": 19.2939,
-      "prior_sigma": 4.3421,
-      "prior_n": 3
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": 5.2516,
+      "prior_variance": 1.626617,
+      "prior_n": 1
     }
   ]
 }

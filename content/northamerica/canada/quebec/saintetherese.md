@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coll%C3%A8ge_Lionel-Groulx
 latitude: 45.634292
 loc_type: city
 longitude: -73.836238
-score: 0.36
+score: 0.29
 title: Sainte-Therese
 type: location
 ---

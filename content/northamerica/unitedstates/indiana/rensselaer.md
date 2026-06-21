@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jasper_County_Courthouse_R
 latitude: 40.9367
 loc_type: city
 longitude: -87.1508
-score: 0.31
+score: 0.25
 title: Rensselaer
 type: location
 ---

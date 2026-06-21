@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Karlsr
 latitude: 49.0069
 loc_type: city
 longitude: 8.4037
-score: 0.5
+score: 0.42
 title: Karlsruhe
 type: location
 ---

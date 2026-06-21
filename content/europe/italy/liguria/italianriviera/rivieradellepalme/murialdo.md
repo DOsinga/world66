@@ -5,7 +5,7 @@ done:
 latitude: 44.3166
 loc_type: city
 longitude: 8.1643
-score: 0.35
+score: 0.32
 title: Murialdo
 type: location
 ---

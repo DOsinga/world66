@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnold_Kats_State_Concert_
 latitude: 55.0288
 loc_type: city
 longitude: 82.9227
-score: 0.33
+score: 0.3
 title: Novosibirsk
 type: location
 ---

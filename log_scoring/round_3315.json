@@ -1,0 +1,200 @@
+{
+  "round": 3315,
+  "timestamp": "2026-06-13T22:44:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 7.3514,
+      "prior_variance": 0.257824,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Sognefjorden",
+      "path": "europe/norway/sognefjorden",
+      "prior_score": 9.7784,
+      "prior_variance": 0.287576,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Berlin",
+      "path": "europe/germany/berlin",
+      "prior_score": 9.1869,
+      "prior_variance": 0.335425,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 7.9412,
+      "prior_variance": 0.21308,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 6.9033,
+      "prior_variance": 0.182686,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 5.3449,
+      "prior_variance": 0.128549,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.055,
+      "prior_variance": 0.133863,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": 0.1613,
+      "prior_variance": 0.136269,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Chengyang",
+      "path": "asia/china/guangxi/chengyang",
+      "prior_score": 1.7278,
+      "prior_variance": 0.132421,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bojnice",
+      "path": "europe/slovakia/bojnice",
+      "prior_score": 1.928,
+      "prior_variance": 0.125975,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -1.1612,
+      "prior_variance": 0.132188,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Monta\u00f1ita",
+      "path": "southamerica/ecuador/montanita",
+      "prior_score": 1.4403,
+      "prior_variance": 0.138759,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Turda",
+      "path": "europe/romania/turda",
+      "prior_score": 0.0488,
+      "prior_variance": 0.135051,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 1.4161,
+      "prior_variance": 0.119781,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Udine",
+      "path": "europe/italy/friuliveneziagiulia/udine",
+      "prior_score": 2.3737,
+      "prior_variance": 0.125729,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Warkworth",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/warksworth",
+      "prior_score": 0.5716,
+      "prior_variance": 0.121066,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9858,
+      "prior_variance": 0.127407,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.2459,
+      "prior_variance": 0.170012,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.68,
+      "prior_variance": 0.1195,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.8866,
+      "prior_variance": 0.161259,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.5971,
+      "prior_variance": 0.11633,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": -0.5949,
+      "prior_variance": 0.128409,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Bangor, Wales",
+      "path": "europe/unitedkingdom/wales/bangor_wales",
+      "prior_score": -1.6596,
+      "prior_variance": 0.139977,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.5379,
+      "prior_variance": 0.125066,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4127,
+  "timestamp": "2026-06-13T23:45:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u010cesk\u00fd Krumlov",
+      "path": "europe/czechrepublic/ceskykrumlov",
+      "prior_score": 7.8049,
+      "prior_variance": 0.196676,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Karnak",
+      "path": "africa/egypt/karnak",
+      "prior_score": 7.7249,
+      "prior_variance": 0.182496,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 4.9149,
+      "prior_variance": 0.107793,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bilbao",
+      "path": "europe/spain/basque_country_euskadi/bilbao",
+      "prior_score": 5.8377,
+      "prior_variance": 0.153516,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Tomar",
+      "path": "europe/portugal/tomar",
+      "prior_score": 4.4272,
+      "prior_variance": 0.114689,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 3.953,
+      "prior_variance": 0.116531,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 2.9697,
+      "prior_variance": 0.112642,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Nosy Be",
+      "path": "africa/madagascar/nosybe",
+      "prior_score": 3.4231,
+      "prior_variance": 0.118869,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Seward",
+      "path": "northamerica/unitedstates/alaska/seward",
+      "prior_score": 2.9885,
+      "prior_variance": 0.139046,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Aberystwyth",
+      "path": "europe/unitedkingdom/wales/aberystwyth",
+      "prior_score": 1.1941,
+      "prior_variance": 0.095895,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_score": 1.7734,
+      "prior_variance": 0.102976,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Boothbay Harbor",
+      "path": "northamerica/unitedstates/maine/boothbay_harbor",
+      "prior_score": 2.2661,
+      "prior_variance": 0.100085,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 0.1481,
+      "prior_variance": 0.098807,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.7838,
+      "prior_variance": 0.102826,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.1754,
+      "prior_variance": 0.092808,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -0.9803,
+      "prior_variance": 0.10778,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.0644,
+      "prior_variance": 0.133207,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Sibari",
+      "path": "europe/italy/calabria/sybaris_marine",
+      "prior_score": -2.983,
+      "prior_variance": 0.133383,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.4194,
+      "prior_variance": 0.100576,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -1.6151,
+      "prior_variance": 0.103191,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.6754,
+      "prior_variance": 0.131395,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.6594,
+      "prior_variance": 0.110082,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Togoville",
+      "path": "africa/togo/togoville",
+      "prior_score": -4.0895,
+      "prior_variance": 0.157817,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Yekaterinburg",
+      "path": "europe/russia/ekaterinoburg",
+      "prior_score": -1.8222,
+      "prior_variance": 0.148911,
+      "prior_n": 13
+    }
+  ]
+}

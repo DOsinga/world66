@@ -1,200 +1,200 @@
 {
   "round": 1183,
-  "timestamp": "2026-04-12T22:13:53",
+  "timestamp": "2026-06-13T20:15:48",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sulawesi",
-      "path": "asia/indonesia/sulawesi",
-      "prior_rank": 1779,
-      "prior_wins": 49,
+      "title": "Bran",
+      "path": "europe/romania/bran",
+      "prior_score": 5.0214,
+      "prior_variance": 0.461764,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Lake Malawi",
-      "path": "africa/malawi/lakemalawi",
-      "prior_rank": 1520,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": -0.3212,
+      "prior_variance": 0.474392,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Kuroshima",
-      "path": "asia/japan/ryukyuislands/kuroshima",
-      "prior_rank": 2350,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -0.8187,
+      "prior_variance": 0.440045,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Karimunjawa",
-      "path": "asia/indonesia/java/karimunjawa",
-      "prior_rank": 1954,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Dandong",
+      "path": "asia/china/liaoning/dandong",
+      "prior_score": -3.6573,
+      "prior_variance": 0.394154,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Mrauk-U",
-      "path": "asia/myanmar/mrauku",
-      "prior_rank": 2142,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": -3.4085,
+      "prior_variance": 0.578633,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Otavalo",
-      "path": "southamerica/ecuador/otavalo",
-      "prior_rank": 1403,
-      "prior_wins": 52,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -2.6804,
+      "prior_variance": 0.389145,
       "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Kullu",
-      "path": "asia/india/himachalpradesh/kullu",
-      "prior_rank": 2436,
-      "prior_wins": 45,
+      "title": "San Pedro de Macor\u00eds",
+      "path": "northamerica/dominicanrepublic/san_pedro",
+      "prior_score": -3.353,
+      "prior_variance": 0.396276,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Mono Lake",
-      "path": "northamerica/unitedstates/california/highsierra/monolake",
-      "prior_rank": 2647,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -6.0282,
+      "prior_variance": 0.442455,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Revelstoke",
-      "path": "northamerica/canada/britishcolumbia/revelstoke",
-      "prior_rank": 1803,
-      "prior_wins": 49,
-      "prior_n": 3
-    },
-    {
-      "rank": 10,
-      "title": "Girne (Kyrenia)",
-      "path": "asia/cyprus/northerncyprus/girnekyrene",
-      "prior_rank": 2726,
-      "prior_wins": 43,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Clare",
-      "path": "europe/ireland/clare",
-      "prior_rank": 1230,
-      "prior_wins": 71,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -3.8281,
+      "prior_variance": 0.443621,
       "prior_n": 4
     },
     {
+      "rank": 10,
+      "title": "Kokkola",
+      "path": "europe/finland/kokkola",
+      "prior_score": -3.9181,
+      "prior_variance": 0.337068,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Outjo",
+      "path": "africa/namibia/outjo",
+      "prior_score": -4.4236,
+      "prior_variance": 0.440771,
+      "prior_n": 3
+    },
+    {
       "rank": 12,
-      "title": "North York Moors",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/north_york_moors",
-      "prior_rank": 4767,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -4.4667,
+      "prior_variance": 0.460804,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Su Nuraxi di Barumini",
-      "path": "europe/italy/sardinia/sunuraxi",
-      "prior_rank": 1963,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Calais",
+      "path": "europe/france/nord/calais",
+      "prior_score": -3.1572,
+      "prior_variance": 0.525231,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Extremadura",
-      "path": "europe/spain/extremadura",
-      "prior_rank": 4126,
-      "prior_wins": 34,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -5.4869,
+      "prior_variance": 0.72512,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Carpathian Mountains",
-      "path": "europe/ukraine/carpathian_mountai",
-      "prior_rank": 1740,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Mestre",
+      "path": "europe/italy/veneto/mestre",
+      "prior_score": -5.3237,
+      "prior_variance": 0.521292,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Bakuriani",
-      "path": "europe/georgia/bakuriani",
-      "prior_rank": 1993,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "IJlst",
+      "path": "europe/netherlands/friesland/ijlst",
+      "prior_score": -3.823,
+      "prior_variance": 0.528574,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Savognin",
-      "path": "europe/switzerland/savognin",
-      "prior_rank": 2904,
-      "prior_wins": 42,
+      "title": "Dundalk",
+      "path": "europe/ireland/dundalk",
+      "prior_score": -4.1703,
+      "prior_variance": 0.56197,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Bayonne",
-      "path": "europe/france/midi/basqueregion/bayonne",
-      "prior_rank": 3289,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Albany",
+      "path": "northamerica/unitedstates/newyorkstate/albany",
+      "prior_score": -3.5299,
+      "prior_variance": 0.481193,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Nancy",
-      "path": "europe/france/east/lorraine/nancy",
-      "prior_rank": 1325,
-      "prior_wins": 35,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Den Bosch",
-      "path": "europe/netherlands/denbosch",
-      "prior_rank": 821,
-      "prior_wins": 95,
-      "prior_n": 5
-    },
-    {
-      "rank": 21,
-      "title": "Malmo",
-      "path": "europe/sweden/malmo",
-      "prior_rank": 1330,
-      "prior_wins": 35,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Bad Mergentheim",
-      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
-      "prior_rank": 1919,
-      "prior_wins": 32,
-      "prior_n": 2
-    },
-    {
-      "rank": 23,
-      "title": "\u00d6sterlen",
-      "path": "europe/sweden/sterlen",
-      "prior_rank": 1804,
-      "prior_wins": 49,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -3.474,
+      "prior_variance": 0.486732,
       "prior_n": 3
     },
     {
+      "rank": 20,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -5.0229,
+      "prior_variance": 0.42614,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Costa Mesa",
+      "path": "northamerica/unitedstates/california/orangecounty/costamesa",
+      "prior_score": -3.6214,
+      "prior_variance": 0.446255,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Weaverville",
+      "path": "northamerica/unitedstates/california/shastacascade/weaverville",
+      "prior_score": -6.0567,
+      "prior_variance": 0.457546,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Metlaoui",
+      "path": "africa/tunisia/metlaoui",
+      "prior_score": -4.3901,
+      "prior_variance": 0.416809,
+      "prior_n": 4
+    },
+    {
       "rank": 24,
-      "title": "Santa Ponsa",
-      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
-      "prior_rank": 3295,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Aberdeen",
+      "path": "northamerica/unitedstates/southdakota/aberdeen",
+      "prior_score": -6.3345,
+      "prior_variance": 0.550015,
+      "prior_n": 3
     }
   ]
 }

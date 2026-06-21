@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-09-08_Sakurajima_Sunr
 latitude: 31.5216
 loc_type: city
 longitude: 130.5474
-score: 0.64
+score: 0.57
 title: Kagoshima
 type: location
 ---

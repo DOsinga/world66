@@ -1,0 +1,200 @@
+{
+  "round": 2523,
+  "timestamp": "2026-06-13T21:48:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 3.0576,
+      "prior_variance": 0.180428,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "El Jem",
+      "path": "africa/tunisia/eljem",
+      "prior_score": 2.3661,
+      "prior_variance": 0.182673,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 1.5158,
+      "prior_variance": 0.17516,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 2.4962,
+      "prior_variance": 0.191224,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Katahdin",
+      "path": "northamerica/unitedstates/maine/katahdin",
+      "prior_score": 1.5487,
+      "prior_variance": 0.16345,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.3786,
+      "prior_variance": 0.156617,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Cahors",
+      "path": "europe/france/midi/dordogne/cahors",
+      "prior_score": 2.2625,
+      "prior_variance": 0.171727,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Platja d'Aro",
+      "path": "europe/spain/catalonia/platjadaro",
+      "prior_score": 2.1156,
+      "prior_variance": 0.171635,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 0.6123,
+      "prior_variance": 0.187775,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.0694,
+      "prior_variance": 0.159909,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Jounieh",
+      "path": "asia/lebanon/jounieh",
+      "prior_score": 0.1177,
+      "prior_variance": 0.152835,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": -0.3056,
+      "prior_variance": 0.157531,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -1.2067,
+      "prior_variance": 0.231354,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Ghulkin Gojal",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal",
+      "prior_score": 0.0014,
+      "prior_variance": 0.192203,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Pemba",
+      "path": "africa/mozambique/pemba",
+      "prior_score": -0.7822,
+      "prior_variance": 0.231095,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 1.1255,
+      "prior_variance": 0.176518,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.3735,
+      "prior_variance": 0.152107,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -2.0954,
+      "prior_variance": 0.143118,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bangalore",
+      "path": "asia/india/karnataka/bangalore",
+      "prior_score": -0.8657,
+      "prior_variance": 0.158002,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Bhopal",
+      "path": "asia/india/madhyapradesh/bhopal",
+      "prior_score": -1.7608,
+      "prior_variance": 0.175527,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -0.7077,
+      "prior_variance": 0.172011,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Qingtongxia",
+      "path": "asia/china/ningxia/qingtongxia",
+      "prior_score": -5.1537,
+      "prior_variance": 0.182891,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -5.0349,
+      "prior_variance": 0.272751,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -6.2284,
+      "prior_variance": 0.230908,
+      "prior_n": 8
+    }
+  ]
+}

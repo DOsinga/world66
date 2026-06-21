@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nantucket-08-2004.jpg
 latitude: 41.284441
 loc_type: city
 longitude: -70.09842
-score: 0.61
+score: 0.57
 title: Nantucket
 type: location
 ---

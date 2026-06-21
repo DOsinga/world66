@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-05-23'
 latitude: 58.869622
 longitude: 9.414214
-score: 0.54
+score: 0.45
 title: Kragero
 type: location
 loc_type: city

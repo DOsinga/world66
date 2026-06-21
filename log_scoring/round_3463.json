@@ -1,0 +1,200 @@
+{
+  "round": 3463,
+  "timestamp": "2026-06-13T22:55:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Naxos",
+      "path": "europe/greece/naxos",
+      "prior_score": 7.0627,
+      "prior_variance": 0.172894,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "San Vito Lo Capo",
+      "path": "europe/italy/sicily/san_vito_lo_capo",
+      "prior_score": 4.7637,
+      "prior_variance": 0.142979,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 3.9619,
+      "prior_variance": 0.112215,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 2.7164,
+      "prior_variance": 0.114453,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.3816,
+      "prior_variance": 0.124358,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 3.9511,
+      "prior_variance": 0.147203,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Leuven",
+      "path": "europe/belgium/leuven",
+      "prior_score": 3.3072,
+      "prior_variance": 0.127615,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Broadford",
+      "path": "europe/unitedkingdom/scotland/skye/broadford",
+      "prior_score": 2.3956,
+      "prior_variance": 0.117131,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 2.7301,
+      "prior_variance": 0.126197,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Pigeon Forge and Gatlinburg",
+      "path": "northamerica/unitedstates/tennessee/pigeonforgegatlinburg",
+      "prior_score": 2.4978,
+      "prior_variance": 0.127817,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Santiago de Cuba",
+      "path": "northamerica/thecaribbean/cuba/santiagodecuba",
+      "prior_score": 2.081,
+      "prior_variance": 0.121074,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 2.6599,
+      "prior_variance": 0.143335,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kaohsiung",
+      "path": "asia/taiwan/kaohsiung",
+      "prior_score": 2.5231,
+      "prior_variance": 0.140489,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Andros",
+      "path": "europe/greece/andros",
+      "prior_score": 3.0424,
+      "prior_variance": 0.141776,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 0.5457,
+      "prior_variance": 0.120682,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.3587,
+      "prior_variance": 0.108147,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.8246,
+      "prior_variance": 0.127687,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.2965,
+      "prior_variance": 0.117246,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 0.6353,
+      "prior_variance": 0.119269,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.45,
+      "prior_variance": 0.111368,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Long Beach Peninsula",
+      "path": "northamerica/unitedstates/washington/long_beach_peninsula",
+      "prior_score": -0.2871,
+      "prior_variance": 0.111963,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": -0.1133,
+      "prior_variance": 0.108021,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.2622,
+      "prior_variance": 0.110865,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Salto de Agua",
+      "path": "northamerica/mexico/yucatan/saltodeagua",
+      "prior_score": -5.221,
+      "prior_variance": 0.15512,
+      "prior_n": 10
+    }
+  ]
+}

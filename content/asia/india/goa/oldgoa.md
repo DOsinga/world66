@@ -5,7 +5,7 @@ done:
 latitude: 15.502333
 loc_type: city
 longitude: 73.911743
-score: 0.63
+score: 0.53
 sources:
 - https://en.wikipedia.org/wiki/Old_Goa
 - https://en.wikipedia.org/wiki/Churches_and_convents_of_Goa

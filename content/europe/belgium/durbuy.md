@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Durbuy_vu_du_jardin_de_l%2
 latitude: 50.352412
 loc_type: city
 longitude: 5.456248
-score: 0.56
+score: 0.48
 title: Durbuy
 type: location
 ---

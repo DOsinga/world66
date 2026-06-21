@@ -5,7 +5,7 @@ done:
 latitude: 46.5608
 loc_type: city
 longitude: 17.1222
-score: 0.41
+score: 0.38
 title: Zalakaros
 type: location
 ---

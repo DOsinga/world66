@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zelve_Cappadocia.JPG
 latitude: 38.690615
 loc_type: city
 longitude: 34.871202
-score: 0.7
+score: 0.6
 sources:
 - https://en.wikipedia.org/wiki/Zelve_Monastery
 title: Zelve

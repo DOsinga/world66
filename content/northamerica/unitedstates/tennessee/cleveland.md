@@ -5,7 +5,7 @@ done:
 latitude: 35.1595
 loc_type: city
 longitude: -84.8766
-score: 0.33
+score: 0.29
 title: Cleveland
 type: location
 ---

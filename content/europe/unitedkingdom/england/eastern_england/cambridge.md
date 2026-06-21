@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambridge_-_Kings_College_
 latitude: 52.205531
 loc_type: city
 longitude: 0.118664
-score: 0.7
+score: 0.6
 title: Cambridge
 type: location
 ---

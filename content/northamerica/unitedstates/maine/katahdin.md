@@ -5,7 +5,7 @@ latitude: 45.9038
 longitude: -68.9215
 title: Katahdin
 type: location
-score: 0.52
+score: 0.46
 loc_type: feature
 ---
 

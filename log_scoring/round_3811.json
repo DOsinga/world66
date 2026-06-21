@@ -1,0 +1,200 @@
+{
+  "round": 3811,
+  "timestamp": "2026-06-13T23:21:47",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Perhentian Islands",
+      "path": "asia/malaysia/perhentianislands",
+      "prior_score": 5.9175,
+      "prior_variance": 0.159724,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Favignana",
+      "path": "europe/italy/sicily/favignana",
+      "prior_score": 5.2213,
+      "prior_variance": 0.129114,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_qurico_d_orci",
+      "prior_score": 5.6587,
+      "prior_variance": 0.129155,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Mostar",
+      "path": "europe/bosniaandherzegovina/mostar",
+      "prior_score": 6.5339,
+      "prior_variance": 0.169566,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Jiufen",
+      "path": "asia/taiwan/jiufen",
+      "prior_score": 7.5022,
+      "prior_variance": 0.168693,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tarifa",
+      "path": "europe/spain/andalucia/tarifa",
+      "prior_score": 3.9807,
+      "prior_variance": 0.113839,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Locarno",
+      "path": "europe/switzerland/locarno",
+      "prior_score": 5.1066,
+      "prior_variance": 0.120449,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ferrara",
+      "path": "europe/italy/emiliaromagna/ferrara",
+      "prior_score": 3.9946,
+      "prior_variance": 0.124014,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 4.0171,
+      "prior_variance": 0.134707,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Kuching",
+      "path": "asia/malaysia/kuching",
+      "prior_score": 4.3745,
+      "prior_variance": 0.130439,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Dublin",
+      "path": "europe/ireland/dublin",
+      "prior_score": 7.2664,
+      "prior_variance": 0.141349,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 2.8373,
+      "prior_variance": 0.140209,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Jiayuguan",
+      "path": "asia/china/gansu/jiayuguan",
+      "prior_score": 2.111,
+      "prior_variance": 0.114365,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 6.0164,
+      "prior_variance": 0.132448,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Delft",
+      "path": "europe/netherlands/delft",
+      "prior_score": 4.9712,
+      "prior_variance": 0.157409,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Hverager\u00f0i",
+      "path": "europe/iceland/hveragerdi",
+      "prior_score": 3.0241,
+      "prior_variance": 0.115314,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.8876,
+      "prior_variance": 0.112746,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.3282,
+      "prior_variance": 0.119861,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": 0.0803,
+      "prior_variance": 0.110813,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.5992,
+      "prior_variance": 0.103197,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Zarzis",
+      "path": "africa/tunisia/zarzis",
+      "prior_score": -1.6222,
+      "prior_variance": 0.108209,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Zugdidi",
+      "path": "europe/georgia/zugdidi",
+      "prior_score": -2.6661,
+      "prior_variance": 0.12852,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Benton",
+      "path": "northamerica/unitedstates/pennsylvania/benton",
+      "prior_score": -6.7389,
+      "prior_variance": 0.193518,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kayes",
+      "path": "africa/mali/kayes",
+      "prior_score": -6.9317,
+      "prior_variance": 0.149779,
+      "prior_n": 12
+    }
+  ]
+}

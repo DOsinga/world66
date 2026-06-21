@@ -5,7 +5,7 @@ done:
 latitude: 56.4605
 loc_type: city
 longitude: -2.9702
-score: 0.48
+score: 0.4
 title: Dundee
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Texarkana_April_2016_029_(
 latitude: 33.4467
 loc_type: city
 longitude: -94.0771
-score: 0.31
+score: 0.25
 title: Texarkana
 type: location
 ---

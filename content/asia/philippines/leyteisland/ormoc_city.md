@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ormoc_seaside_view_2.jpg
 latitude: 11.009
 loc_type: city
 longitude: 124.6094
-score: 0.41
+score: 0.34
 title: Ormoc City
 type: location
 ---

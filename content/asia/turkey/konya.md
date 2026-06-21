@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ince_Minareli_Medrese_01.j
 latitude: 37.8728
 loc_type: city
 longitude: 32.4925
-score: 0.51
+score: 0.46
 title: Konya
 type: location
 ---

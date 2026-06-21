@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/57481190@N00/282521989
 latitude: 6.345601
 loc_type: city
 longitude: -58.592656
-score: 0.38
+score: 0.31
 title: Baganara
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 46.780476
 loc_type: city
 longitude: 15.5407
-score: 0.47
+score: 0.38
 title: Leibnitz
 type: location
 ---

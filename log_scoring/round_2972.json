@@ -1,0 +1,200 @@
+{
+  "round": 2972,
+  "timestamp": "2026-06-13T22:20:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Angkor Wat",
+      "path": "asia/cambodia/angkorwat",
+      "prior_score": 16.5866,
+      "prior_variance": 1.404662,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Uyuni",
+      "path": "southamerica/bolivia/uyuni",
+      "prior_score": 6.743,
+      "prior_variance": 0.296868,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 12.4101,
+      "prior_variance": 0.625278,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 6.864,
+      "prior_variance": 0.17615,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 5.4699,
+      "prior_variance": 0.219135,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.2494,
+      "prior_variance": 0.238119,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.6912,
+      "prior_variance": 0.164019,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 3.6935,
+      "prior_variance": 0.145902,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kochi",
+      "path": "asia/india/kerala/kochi",
+      "prior_score": 5.4524,
+      "prior_variance": 0.177648,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Gili Meno",
+      "path": "asia/indonesia/lombok/giliislands/gili_meno",
+      "prior_score": 4.9397,
+      "prior_variance": 0.155445,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Vardzia",
+      "path": "europe/georgia/vardzia",
+      "prior_score": 4.6856,
+      "prior_variance": 0.206273,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 2.6212,
+      "prior_variance": 0.17961,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.6478,
+      "prior_variance": 0.144895,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 4.6246,
+      "prior_variance": 0.146093,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Laguardia",
+      "path": "europe/spain/northernspain/laguardiarioja",
+      "prior_score": 2.0628,
+      "prior_variance": 0.136738,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Queyras",
+      "path": "europe/france/alpes/queyras",
+      "prior_score": 0.9978,
+      "prior_variance": 0.335756,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Montaione",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montaione",
+      "prior_score": 1.4345,
+      "prior_variance": 0.147361,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Golden",
+      "path": "northamerica/canada/britishcolumbia/golden",
+      "prior_score": 1.5645,
+      "prior_variance": 0.165381,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Hameln",
+      "path": "europe/germany/lowersaxony/hameln",
+      "prior_score": 2.6436,
+      "prior_variance": 0.153032,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Tournai",
+      "path": "europe/belgium/tournai",
+      "prior_score": 0.9035,
+      "prior_variance": 0.150749,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -0.907,
+      "prior_variance": 0.166969,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.5265,
+      "prior_variance": 0.141811,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.9014,
+      "prior_variance": 0.164007,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Isiolo",
+      "path": "africa/kenya/centralhighlands/isiolo",
+      "prior_score": -4.9713,
+      "prior_variance": 0.156898,
+      "prior_n": 9
+    }
+  ]
+}

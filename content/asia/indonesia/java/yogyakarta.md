@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eastern_face_of_west_gate,
 latitude: -7.797068
 loc_type: city
 longitude: 110.370529
-score: 0.71
+score: 0.62
 title: Yogyakarta
 type: location
 ---

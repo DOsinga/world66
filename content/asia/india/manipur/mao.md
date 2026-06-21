@@ -5,7 +5,7 @@ done:
 latitude: 25.27
 loc_type: city
 longitude: 93.87
-score: 0.29
+score: 0.22
 title: Mao
 type: location
 ---

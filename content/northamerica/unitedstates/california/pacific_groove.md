@@ -5,7 +5,7 @@ done:
 latitude: 36.6177
 loc_type: city
 longitude: -121.9166
-score: 0.6
+score: 0.47
 title: Pacific Grove
 type: location
 ---

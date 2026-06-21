@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Quebrada_de_Humahuaca_02.j
 latitude: -23.204027
 loc_type: city
 longitude: -65.348776
-score: 0.59
+score: 0.5
 title: Humahuaca
 type: location
 ---

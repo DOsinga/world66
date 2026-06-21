@@ -1,0 +1,200 @@
+{
+  "round": 3422,
+  "timestamp": "2026-06-13T22:52:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.7213,
+      "prior_variance": 0.141419,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": 2.0173,
+      "prior_variance": 0.127311,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.2967,
+      "prior_variance": 0.125013,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Bellinzona",
+      "path": "europe/switzerland/bellinzona",
+      "prior_score": 3.4238,
+      "prior_variance": 0.120347,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Ravensburg",
+      "path": "europe/germany/badenwrttemberg/ravensburg",
+      "prior_score": 0.8052,
+      "prior_variance": 0.115214,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.5415,
+      "prior_variance": 0.125048,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 1.5934,
+      "prior_variance": 0.14936,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Organ Pipe Cactus National Monument",
+      "path": "northamerica/unitedstates/arizona/organ_pipe_cactus_national_monument",
+      "prior_score": 0.8236,
+      "prior_variance": 0.116781,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.2114,
+      "prior_variance": 0.130085,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.4629,
+      "prior_variance": 0.114719,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.5028,
+      "prior_variance": 0.115059,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -1.8995,
+      "prior_variance": 0.16918,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -0.7172,
+      "prior_variance": 0.14348,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -3.3559,
+      "prior_variance": 0.157431,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Coro",
+      "path": "southamerica/venezuela/coro",
+      "prior_score": -1.1209,
+      "prior_variance": 0.137464,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.6958,
+      "prior_variance": 0.117821,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Shimoga",
+      "path": "asia/india/karnataka/shimoga",
+      "prior_score": -2.9203,
+      "prior_variance": 0.140898,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Cochabamba",
+      "path": "southamerica/bolivia/cochabamba",
+      "prior_score": -0.6105,
+      "prior_variance": 0.126694,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Palangka Raya",
+      "path": "asia/indonesia/kalimantan/palangka_raya",
+      "prior_score": -4.2979,
+      "prior_variance": 0.112401,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Mexicali",
+      "path": "northamerica/mexico/mexicali",
+      "prior_score": -4.8082,
+      "prior_variance": 0.151635,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Adrar",
+      "path": "africa/algeria/adrar",
+      "prior_score": -7.1147,
+      "prior_variance": 0.160987,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -8.5396,
+      "prior_variance": 0.222108,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.6662,
+      "prior_variance": 0.189248,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.4946,
+      "prior_variance": 0.277363,
+      "prior_n": 10
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 19.802089
 loc_type: city
 longitude: 0.725313
-score: 0.13
+score: 0.1
 title: Kidal
 type: location
 ---

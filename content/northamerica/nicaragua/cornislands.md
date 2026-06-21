@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12955651@N07/5682924605
 latitude: 12.1694
 loc_type: city
 longitude: -83.0418
-score: 0.52
+score: 0.45
 title: Corn Islands
 type: location
 ---

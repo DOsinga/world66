@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baguio_Cathedral_of_the_Ph
 latitude: 16.4023
 loc_type: city
 longitude: 120.596
-score: 0.55
+score: 0.49
 title: Baguio
 type: location
 ---

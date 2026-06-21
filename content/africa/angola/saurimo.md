@@ -6,12 +6,12 @@ latitude: -9.65893
 longitude: 20.398112
 title: Saurimo
 type: location
-score: 0.26
+score: 0.18
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Saurimo
-  - https://en.wikipedia.org/wiki/Catoca_diamond_mine
-  - https://en.wikipedia.org/wiki/Chokwe_people
+- https://en.wikipedia.org/wiki/Saurimo
+- https://en.wikipedia.org/wiki/Catoca_diamond_mine
+- https://en.wikipedia.org/wiki/Chokwe_people
 ---
 
 Saurimo is the provincial capital of Lunda Sul, deep in eastern Angola's diamond country. The city sits on the Lunda Plateau at around 1,100 metres, straddling the main road from Luanda and the north-south route linking Lunda Norte — and the DRC border beyond — with Moxico province. That crossroads position gives it a restless energy: long-distance truckers and traders stop here, diamond industry workers come and go, and the market hums even in the dry-season heat.

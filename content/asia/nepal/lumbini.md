@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lumbini,_Buddha%27s_birthp
 latitude: 27.4696
 loc_type: city
 longitude: 83.2759
-score: 0.57
+score: 0.51
 title: Lumbini
 type: location
 ---

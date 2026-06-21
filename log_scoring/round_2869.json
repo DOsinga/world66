@@ -1,0 +1,200 @@
+{
+  "round": 2869,
+  "timestamp": "2026-06-13T22:12:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Sebasti\u00e1n",
+      "path": "europe/spain/basque_country_euskadi/sansebastian",
+      "prior_score": 9.9573,
+      "prior_variance": 0.346486,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Agrigento",
+      "path": "europe/italy/sicily/agrigento",
+      "prior_score": 7.761,
+      "prior_variance": 0.21906,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 4.8342,
+      "prior_variance": 0.172395,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 3.7221,
+      "prior_variance": 0.154744,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 6.0916,
+      "prior_variance": 0.21024,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Mammoth Lakes",
+      "path": "northamerica/unitedstates/california/highsierra/mammothlakes",
+      "prior_score": 3.8831,
+      "prior_variance": 0.15634,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Nizwa",
+      "path": "asia/oman/nizwa",
+      "prior_score": 4.17,
+      "prior_variance": 0.163577,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 4.3802,
+      "prior_variance": 0.197949,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Sendai",
+      "path": "asia/japan/honshu/sendai",
+      "prior_score": 3.943,
+      "prior_variance": 0.182028,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Cafayate",
+      "path": "southamerica/argentina/cafayate",
+      "prior_score": 4.5171,
+      "prior_variance": 0.163478,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 1.2258,
+      "prior_variance": 0.200574,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.6146,
+      "prior_variance": 0.133132,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 2.1439,
+      "prior_variance": 0.139139,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Nairobi National Park",
+      "path": "africa/kenya/nationalparksandreserves/nairobinp",
+      "prior_score": 3.8728,
+      "prior_variance": 0.169435,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Ponte da Barca",
+      "path": "europe/portugal/ponte_da_barca",
+      "prior_score": 0.4671,
+      "prior_variance": 0.141615,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": 1.7568,
+      "prior_variance": 0.159314,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": -0.2646,
+      "prior_variance": 0.138651,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Armenia",
+      "path": "southamerica/colombia/armenia",
+      "prior_score": -1.5748,
+      "prior_variance": 0.146372,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.2128,
+      "prior_variance": 0.260355,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Rumsiskes",
+      "path": "europe/lithuania/rumsiskes",
+      "prior_score": -1.8597,
+      "prior_variance": 0.154428,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -4.0867,
+      "prior_variance": 0.16904,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.3198,
+      "prior_variance": 0.139161,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "V\u00f5su",
+      "path": "europe/estonia/vsu",
+      "prior_score": -1.7418,
+      "prior_variance": 0.162053,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Burao",
+      "path": "africa/somaliland/burao",
+      "prior_score": -10.5271,
+      "prior_variance": 0.319296,
+      "prior_n": 9
+    }
+  ]
+}

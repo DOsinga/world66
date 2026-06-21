@@ -1,0 +1,200 @@
+{
+  "round": 4081,
+  "timestamp": "2026-06-13T23:42:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Malaga",
+      "path": "europe/spain/andalucia/malaga",
+      "prior_score": 5.7903,
+      "prior_variance": 0.13078,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Les Baux-de-Provence",
+      "path": "europe/france/midi/provence/les_beaux_de_prove",
+      "prior_score": 5.1431,
+      "prior_variance": 0.113068,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Ordesa National Park",
+      "path": "europe/spain/aragon/ordesa_national_park",
+      "prior_score": 5.9759,
+      "prior_variance": 0.130093,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 6.6279,
+      "prior_variance": 0.146279,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Santa Monica",
+      "path": "northamerica/unitedstates/california/santamonica",
+      "prior_score": 4.4319,
+      "prior_variance": 0.145902,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 6.8695,
+      "prior_variance": 0.122411,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.1611,
+      "prior_variance": 0.104601,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 4.9727,
+      "prior_variance": 0.109418,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.8785,
+      "prior_variance": 0.092477,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Everglades",
+      "path": "northamerica/unitedstates/florida/everglades",
+      "prior_score": 4.2581,
+      "prior_variance": 0.113383,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kaieteur Falls",
+      "path": "southamerica/guyana/kaieteurfalls",
+      "prior_score": 5.0231,
+      "prior_variance": 0.116509,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Grevenmacher",
+      "path": "europe/luxembourg/grevenmacher",
+      "prior_score": -0.7572,
+      "prior_variance": 0.100703,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.8206,
+      "prior_variance": 0.110493,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.5184,
+      "prior_variance": 0.120143,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Cleveland",
+      "path": "northamerica/unitedstates/ohio/cleveland",
+      "prior_score": -2.173,
+      "prior_variance": 0.101232,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.1047,
+      "prior_variance": 0.104366,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -3.6132,
+      "prior_variance": 0.102171,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Le\u00f3n",
+      "path": "northamerica/mexico/len",
+      "prior_score": -2.8634,
+      "prior_variance": 0.132508,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Lake Ngami",
+      "path": "africa/botswana/lakengami",
+      "prior_score": -2.635,
+      "prior_variance": 0.114781,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Abuja",
+      "path": "africa/nigeria/abuja",
+      "prior_score": -3.604,
+      "prior_variance": 0.110454,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -2.1501,
+      "prior_variance": 0.147081,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -8.2361,
+      "prior_variance": 0.193121,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "BaliGubadle",
+      "path": "africa/somaliland/baligubadle",
+      "prior_score": -9.0181,
+      "prior_variance": 0.244859,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Tindouf",
+      "path": "africa/algeria/tindouf",
+      "prior_score": -8.6116,
+      "prior_variance": 0.2577,
+      "prior_n": 13
+    }
+  ]
+}

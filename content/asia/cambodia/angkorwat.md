@@ -8,7 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:2016_Angkor,_Angkor_Wat,_Brama_Angkor_Wat_(30).jpg
 latitude: 13.4125
 longitude: 103.867
-score: 0.84
+score: 0.85
 title: Angkor Wat
 type: location
 loc_type: feature

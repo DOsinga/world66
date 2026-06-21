@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Spring_Park_2023.jpg
 latitude: 34.7304
 loc_type: city
 longitude: -86.5861
-score: 0.46
+score: 0.36
 title: Huntsville
 type: location
 ---

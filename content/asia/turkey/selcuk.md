@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%
 latitude: 37.9514
 loc_type: city
 longitude: 27.3685
-score: 0.62
+score: 0.56
 title: Selcuk
 type: location
 ---

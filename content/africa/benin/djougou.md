@@ -4,7 +4,7 @@ done:
 latitude: 9.7107
 loc_type: city
 longitude: 1.6652
-score: 0.32
+score: 0.21
 title: Djougou
 todo_location_cleanup: done
 type: location

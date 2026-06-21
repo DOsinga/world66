@@ -5,7 +5,7 @@ done:
 latitude: 37.6485
 loc_type: city
 longitude: -118.9721
-score: 0.63
+score: 0.54
 title: Mammoth Lakes
 type: location
 image: mammothlakes.jpg

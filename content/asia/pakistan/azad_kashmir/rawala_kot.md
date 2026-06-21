@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rawalakot,ajk_nat.jpg
 latitude: 33.8577
 loc_type: city
 longitude: 73.7615
-score: 0.42
+score: 0.34
 title: Rawalakot
 type: location
 ---

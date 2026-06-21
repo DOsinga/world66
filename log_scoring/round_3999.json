@@ -1,0 +1,200 @@
+{
+  "round": 3999,
+  "timestamp": "2026-06-13T23:36:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 6.7921,
+      "prior_variance": 0.127183,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 6.4813,
+      "prior_variance": 0.14162,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Bridgetown",
+      "path": "northamerica/thecaribbean/barbados/bridgetown",
+      "prior_score": 6.2032,
+      "prior_variance": 0.126599,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.232,
+      "prior_variance": 0.118166,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.805,
+      "prior_variance": 0.099207,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Cavaillon",
+      "path": "europe/france/midi/provence/cavaillon",
+      "prior_score": 0.2895,
+      "prior_variance": 0.098875,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 2.3023,
+      "prior_variance": 0.101755,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.0194,
+      "prior_variance": 0.102191,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Al\u00e8s",
+      "path": "europe/france/midi/cevennes/ales",
+      "prior_score": -0.6005,
+      "prior_variance": 0.098713,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.4268,
+      "prior_variance": 0.112383,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.1925,
+      "prior_variance": 0.096464,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.0719,
+      "prior_variance": 0.089597,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.6644,
+      "prior_variance": 0.10707,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": -0.667,
+      "prior_variance": 0.102902,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Bielsko-Bia\u0142a",
+      "path": "europe/poland/bielsko",
+      "prior_score": -1.94,
+      "prior_variance": 0.098888,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Lake Malawi",
+      "path": "africa/malawi/lakemalawi",
+      "prior_score": 1.4132,
+      "prior_variance": 0.121682,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Laramie",
+      "path": "northamerica/unitedstates/wyoming/laramie",
+      "prior_score": -2.4151,
+      "prior_variance": 0.103673,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.0447,
+      "prior_variance": 0.111524,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "T\u00e2rgu Jiu",
+      "path": "europe/romania/tirgujiu",
+      "prior_score": -2.0947,
+      "prior_variance": 0.115448,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -3.0847,
+      "prior_variance": 0.101282,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Old Fort",
+      "path": "northamerica/unitedstates/northcarolina/old_fort",
+      "prior_score": -3.3319,
+      "prior_variance": 0.127406,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -6.9321,
+      "prior_variance": 0.13845,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -8.6125,
+      "prior_variance": 0.175657,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Hadjer Hadid",
+      "path": "africa/chad/hadjer_hadid",
+      "prior_score": -10.1329,
+      "prior_variance": 0.304826,
+      "prior_n": 13
+    }
+  ]
+}

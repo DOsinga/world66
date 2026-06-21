@@ -5,7 +5,7 @@ done:
 latitude: 14.5862
 loc_type: city
 longitude: -87.8317
-score: 0.38
+score: 0.3
 title: Siguatepeque
 type: location
 ---

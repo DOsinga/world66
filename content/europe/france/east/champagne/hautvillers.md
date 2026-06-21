@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vestiges-Abbaye-Hautviller
 latitude: 49.083047
 loc_type: city
 longitude: 3.943338
-score: 0.58
+score: 0.5
 title: Hautvillers
 type: location
 ---

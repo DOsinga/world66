@@ -5,7 +5,7 @@ latitude: 21.1243
 longitude: 70.7932
 title: Gir National Park
 type: location
-score: 0.58
+score: 0.49
 loc_type: feature
 ---
 

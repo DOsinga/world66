@@ -1,200 +1,200 @@
 {
   "round": 2163,
-  "timestamp": "2026-04-13T16:16:20",
+  "timestamp": "2026-06-13T21:23:08",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Glacier National Park",
-      "path": "northamerica/unitedstates/montana/glaciernp",
-      "prior_score": 8.7511,
-      "prior_variance": 0.32934,
+      "title": "Kilimanjaro",
+      "path": "africa/tanzania/kilimanjaro",
+      "prior_score": 6.9161,
+      "prior_variance": 0.333129,
       "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Lake District",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict",
-      "prior_score": 6.286,
-      "prior_variance": 0.380032,
-      "prior_n": 5
-    },
-    {
-      "rank": 3,
-      "title": "Toledo",
-      "path": "europe/spain/la_mancha/toledo",
-      "prior_score": 6.7708,
-      "prior_variance": 0.355663,
-      "prior_n": 5
-    },
-    {
-      "rank": 4,
-      "title": "Postojna Caves",
-      "path": "europe/slovenia/postojnacaves",
-      "prior_score": 5.3813,
-      "prior_variance": 0.233584,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 4.1486,
+      "prior_variance": 0.207777,
       "prior_n": 7
     },
     {
+      "rank": 3,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.3309,
+      "prior_variance": 0.172209,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/gloucestershire/forestofdean",
+      "prior_score": 0.7727,
+      "prior_variance": 0.223225,
+      "prior_n": 6
+    },
+    {
       "rank": 5,
-      "title": "Cyprus",
-      "path": "asia/cyprus",
-      "prior_score": 5.8713,
-      "prior_variance": 0.27929,
-      "prior_n": 5
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.4083,
+      "prior_variance": 0.234452,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Playa del Ingles",
-      "path": "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles",
-      "prior_score": 4.3682,
-      "prior_variance": 0.339904,
-      "prior_n": 5
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.5794,
+      "prior_variance": 0.179147,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Frankfurt",
-      "path": "europe/germany/hesse/frankfurt",
-      "prior_score": 2.1147,
-      "prior_variance": 0.248723,
-      "prior_n": 6
+      "title": "Bankas",
+      "path": "africa/mali/dogoncountry/bankas",
+      "prior_score": -1.6526,
+      "prior_variance": 0.184758,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Friesland",
-      "path": "europe/netherlands/friesland",
-      "prior_score": 0.639,
-      "prior_variance": 0.178479,
-      "prior_n": 8
+      "title": "Rakvere",
+      "path": "europe/estonia/rakvere",
+      "prior_score": -0.8424,
+      "prior_variance": 0.184743,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "The Panhandle",
-      "path": "northamerica/unitedstates/florida/thepanhandle",
-      "prior_score": 0.1159,
-      "prior_variance": 0.2833,
-      "prior_n": 6
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.4045,
+      "prior_variance": 0.222009,
+      "prior_n": 8
     },
     {
       "rank": 10,
-      "title": "Gokarna",
-      "path": "asia/india/karnataka/gokarna",
-      "prior_score": 3.1802,
-      "prior_variance": 0.260474,
-      "prior_n": 5
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -1.5576,
+      "prior_variance": 0.2662,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Bigfork",
-      "path": "northamerica/unitedstates/montana/bigfork",
-      "prior_score": 0.9283,
-      "prior_variance": 0.21375,
-      "prior_n": 6
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -2.8859,
+      "prior_variance": 0.329709,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Gilgit",
-      "path": "asia/pakistan/gilgit",
-      "prior_score": -0.8085,
-      "prior_variance": 0.24062,
-      "prior_n": 6
+      "title": "Pforzheim",
+      "path": "europe/germany/badenwrttemberg/pforzheim",
+      "prior_score": -3.222,
+      "prior_variance": 0.222441,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Pune",
-      "path": "asia/india/maharashtra/pune",
-      "prior_score": -0.9139,
-      "prior_variance": 0.225449,
-      "prior_n": 6
+      "title": "Lingshui",
+      "path": "asia/china/hainanisland/lingshui",
+      "prior_score": -2.8997,
+      "prior_variance": 0.196594,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Ia\u0219i",
-      "path": "europe/romania/iasi",
-      "prior_score": 0.5692,
-      "prior_variance": 0.25043,
-      "prior_n": 5
+      "title": "Guwahati",
+      "path": "asia/india/assam/guwahati",
+      "prior_score": -2.268,
+      "prior_variance": 0.197109,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Batam",
-      "path": "asia/indonesia/batam",
-      "prior_score": -1.8653,
-      "prior_variance": 0.285455,
-      "prior_n": 5
+      "title": "Yueyang",
+      "path": "asia/china/hunan/yueyang",
+      "prior_score": -2.0001,
+      "prior_variance": 0.1689,
+      "prior_n": 8
     },
     {
       "rank": 16,
-      "title": "Podgorica",
-      "path": "europe/montenegro/podgorica",
-      "prior_score": -1.043,
-      "prior_variance": 0.226747,
-      "prior_n": 6
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -3.7756,
+      "prior_variance": 0.314108,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Rungstedlund",
-      "path": "europe/denmark/rungstedlund",
-      "prior_score": -0.1434,
-      "prior_variance": 0.29791,
-      "prior_n": 6
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.3702,
+      "prior_variance": 0.212477,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "V\u00e4ster\u00e5s",
-      "path": "europe/sweden/vsters",
-      "prior_score": -0.9815,
-      "prior_variance": 0.222938,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.2221,
+      "prior_variance": 0.232103,
       "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Karnala",
-      "path": "asia/india/maharashtra/karnala",
-      "prior_score": -2.6054,
-      "prior_variance": 0.27668,
-      "prior_n": 5
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -3.2228,
+      "prior_variance": 0.182792,
+      "prior_n": 8
     },
     {
       "rank": 20,
-      "title": "Bielsko-Bia\u0142a",
-      "path": "europe/poland/bielsko",
-      "prior_score": -1.3253,
-      "prior_variance": 0.205126,
-      "prior_n": 6
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -3.2006,
+      "prior_variance": 0.212689,
+      "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Joensuu",
-      "path": "europe/finland/joensuu",
-      "prior_score": -0.762,
-      "prior_variance": 0.253223,
-      "prior_n": 5
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.8167,
+      "prior_variance": 0.202695,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Basso Veronese",
-      "path": "europe/italy/veneto/bassoveronese",
-      "prior_score": -1.5966,
-      "prior_variance": 0.311255,
-      "prior_n": 5
+      "title": "Coventry",
+      "path": "northamerica/unitedstates/rhodeisland/coventry",
+      "prior_score": -6.1038,
+      "prior_variance": 0.224071,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Gostivar",
-      "path": "europe/macedonia/gostivar",
-      "prior_score": -4.1997,
-      "prior_variance": 0.281257,
-      "prior_n": 5
+      "title": "Baranovichi",
+      "path": "europe/belarus/baranovichi",
+      "prior_score": -5.6758,
+      "prior_variance": 0.263563,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Virginia",
-      "path": "northamerica/unitedstates/minnesota/virginia",
-      "prior_score": -5.3067,
-      "prior_variance": 0.270035,
-      "prior_n": 5
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -13.1856,
+      "prior_variance": 0.724136,
+      "prior_n": 6
     }
   ]
 }

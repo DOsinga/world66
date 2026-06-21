@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Miyakojima_sky_view.jpg
 latitude: 24.813957
 loc_type: city
 longitude: 125.305579
-score: 0.72
+score: 0.56
 title: Miyako Island
 type: location
 ---

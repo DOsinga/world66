@@ -1,0 +1,200 @@
+{
+  "round": 3264,
+  "timestamp": "2026-06-13T22:40:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.5864,
+      "prior_variance": 0.161159,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Dujiangyan",
+      "path": "asia/china/sichuanprovince/dujiangyan",
+      "prior_score": 2.4777,
+      "prior_variance": 0.141314,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": 0.0024,
+      "prior_variance": 0.146957,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Maputo",
+      "path": "africa/mozambique/maputo",
+      "prior_score": -1.4504,
+      "prior_variance": 0.119455,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 0.5057,
+      "prior_variance": 0.140219,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -1.0976,
+      "prior_variance": 0.132667,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "S\u00e3o Vicente",
+      "path": "africa/capeverde/saovicente",
+      "prior_score": 0.1011,
+      "prior_variance": 0.128196,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.3895,
+      "prior_variance": 0.165544,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Engelsberg",
+      "path": "europe/sweden/engelsberg",
+      "prior_score": -3.4619,
+      "prior_variance": 0.117576,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Tupelo",
+      "path": "northamerica/unitedstates/mississippi/tupelo",
+      "prior_score": -2.4449,
+      "prior_variance": 0.138648,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pinedale",
+      "path": "northamerica/unitedstates/wyoming/pinedale_wyoming",
+      "prior_score": -1.7825,
+      "prior_variance": 0.125852,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.4022,
+      "prior_variance": 0.128617,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.9646,
+      "prior_variance": 0.144241,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Lethbridge",
+      "path": "northamerica/canada/alberta/lethbridge",
+      "prior_score": -3.1036,
+      "prior_variance": 0.13494,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ulsan",
+      "path": "asia/southkorea/ulsan",
+      "prior_score": -2.3965,
+      "prior_variance": 0.117726,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.9934,
+      "prior_variance": 0.141896,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": -0.9432,
+      "prior_variance": 0.124393,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_score": -3.1682,
+      "prior_variance": 0.16246,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -3.1436,
+      "prior_variance": 0.132158,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -5.1378,
+      "prior_variance": 0.197833,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Xinyu",
+      "path": "asia/china/jiangxi/xinyu",
+      "prior_score": -5.5543,
+      "prior_variance": 0.132351,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Corum",
+      "path": "asia/turkey/corum",
+      "prior_score": -3.1419,
+      "prior_variance": 0.12539,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.2434,
+      "prior_variance": 0.13734,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -5.9125,
+      "prior_variance": 0.206926,
+      "prior_n": 10
+    }
+  ]
+}

@@ -4,7 +4,7 @@ done:
 latitude: 59.1037
 loc_type: city
 longitude: 9.7364
-score: 0.45
+score: 0.35
 title: Porsgrunn
 type: location
 ---

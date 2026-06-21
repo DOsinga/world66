@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis
 latitude: 43.661
 loc_type: city
 longitude: 7.1513
-score: 0.58
+score: 0.49
 title: Cagnes-sur-Mer
 type: location
 ---

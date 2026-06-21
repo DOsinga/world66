@@ -5,12 +5,12 @@ done:
 latitude: 54.7174
 loc_type: city
 longitude: 8.4958
-score: 0.54
+score: 0.47
 title: North Frisian Islands
 type: location
 sources:
-  - https://en.wikipedia.org/wiki/North_Frisian_Islands
-  - https://en.wikipedia.org/wiki/Wadden_Sea
+- https://en.wikipedia.org/wiki/North_Frisian_Islands
+- https://en.wikipedia.org/wiki/Wadden_Sea
 image: north_frisian_islands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
 image_license: CC BY-SA 3.0

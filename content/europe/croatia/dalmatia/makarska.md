@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Urbanisti%C4%8Dka_cjelina_
 latitude: 43.293976
 loc_type: city
 longitude: 17.020242
-score: 0.67
+score: 0.57
 title: Makarska
 type: location
 ---

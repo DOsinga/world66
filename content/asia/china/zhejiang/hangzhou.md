@@ -7,7 +7,7 @@ done:
 latitude: 30.248963
 loc_type: city
 longitude: 120.205234
-score: 0.68
+score: 0.61
 sources:
 - https://en.wikipedia.org/wiki/Hangzhou
 - https://en.wikipedia.org/wiki/West_Lake

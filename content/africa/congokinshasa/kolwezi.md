@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kamoto_Mine_-_panoramio.jp
 latitude: -10.717
 loc_type: city
 longitude: 25.467
-score: 0.21
+score: 0.18
 title: Kolwezi
 type: location
 ---

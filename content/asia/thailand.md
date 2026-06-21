@@ -8,7 +8,7 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:HS-TUC_(12168910266).jpg
 latitude: 14.897192
 longitude: 100.83273
-score: 0.86
+score: 0.90
 title: Thailand
 type: location
 quick_facts:

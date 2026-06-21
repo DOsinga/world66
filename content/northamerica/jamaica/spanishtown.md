@@ -5,7 +5,7 @@ done:
 latitude: 17.991
 loc_type: city
 longitude: -76.9554
-score: 0.43
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Spanish_Town
 - https://en.wikipedia.org/wiki/Phillippo_Baptist_Church

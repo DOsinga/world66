@@ -6,7 +6,7 @@ latitude: 43.206848
 longitude: 12.074615
 title: Tuoro sul Trasimeno
 type: location
-score: 0.47
+score: 0.44
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazara_del_Vallo_-_Porto_-
 latitude: 37.6537
 loc_type: city
 longitude: 12.5887
-score: 0.52
+score: 0.45
 title: Mazara del Vallo
 type: location
 ---

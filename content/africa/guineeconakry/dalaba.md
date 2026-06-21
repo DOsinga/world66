@@ -5,7 +5,7 @@ done:
 latitude: 10.962459
 loc_type: city
 longitude: -9.192616
-score: 0.34
+score: 0.28
 sources:
 - https://en.wikivoyage.org/wiki/Dalaba
 title: Dalaba

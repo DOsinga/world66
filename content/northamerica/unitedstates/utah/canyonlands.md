@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 38.2136
 longitude: -109.8932
-score: 0.75
+score: 0.66
 title: Canyonlands
 type: location
 loc_type: feature

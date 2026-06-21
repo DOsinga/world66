@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/96719020@N03/13130140345
 latitude: 44.244679
 loc_type: city
 longitude: 28.623062
-score: 0.47
+score: 0.41
 title: Mamaia
 type: location
 ---

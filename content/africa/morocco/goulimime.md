@@ -5,7 +5,7 @@ done:
 latitude: 28.9833
 loc_type: city
 longitude: -10.05
-score: 0.41
+score: 0.32
 title: Guelmim
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 39.838819
 loc_type: city
 longitude: 45.671264
-score: 0.45
+score: 0.39
 title: Jermuk
 type: location
 image: jermuk.jpg

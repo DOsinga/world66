@@ -6,7 +6,7 @@ latitude: 37.516723
 longitude: -110.745501
 title: Bullfrog Marina
 type: location
-score: 0.44
+score: 0.35
 loc_type: city
 image: bullfrog_marina.jpg
 image_source: https://www.flickr.com/photos/88123769@N02/14091907751

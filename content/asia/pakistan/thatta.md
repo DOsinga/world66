@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PK_Thatta_asv2020-02_img03
 latitude: 24.7469
 loc_type: city
 longitude: 67.924
-score: 0.39
+score: 0.34
 title: Thatta
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/30244009@N00/5812860484
 latitude: 65.011791
 loc_type: city
 longitude: 25.470197
-score: 0.48
+score: 0.42
 title: Oulu
 type: location
 ---

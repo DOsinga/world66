@@ -6,7 +6,7 @@ latitude: -11.831382
 longitude: 34.169301
 title: Chintheche
 type: location
-score: 0.26
+score: 0.33
 loc_type: city
 ---
 

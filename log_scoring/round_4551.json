@@ -1,0 +1,200 @@
+{
+  "round": 4551,
+  "timestamp": "2026-06-14T00:21:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yakushima",
+      "path": "asia/japan/kagoshima/yakushima",
+      "prior_score": 6.7313,
+      "prior_variance": 0.135708,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cannes",
+      "path": "europe/france/cannes",
+      "prior_score": 6.2938,
+      "prior_variance": 0.120781,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 6.8857,
+      "prior_variance": 0.127263,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.6865,
+      "prior_variance": 0.088793,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 2.8765,
+      "prior_variance": 0.087838,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Paphos",
+      "path": "asia/cyprus/paphos",
+      "prior_score": 5.6353,
+      "prior_variance": 0.111988,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 3.7882,
+      "prior_variance": 0.091273,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.5611,
+      "prior_variance": 0.09351,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 2.845,
+      "prior_variance": 0.10189,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ein Gedi",
+      "path": "asia/israel/ein_gedi",
+      "prior_score": 2.218,
+      "prior_variance": 0.097625,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.0934,
+      "prior_variance": 0.103065,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Eilat",
+      "path": "asia/israel/eliat",
+      "prior_score": 3.4936,
+      "prior_variance": 0.097731,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 2.6118,
+      "prior_variance": 0.112174,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Bradford",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/bradford",
+      "prior_score": -2.5283,
+      "prior_variance": 0.095353,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/southcarolina/columbia",
+      "prior_score": -2.554,
+      "prior_variance": 0.088212,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "San Salvador",
+      "path": "northamerica/elsalvador/sansalvador",
+      "prior_score": -2.8041,
+      "prior_variance": 0.108829,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -2.4116,
+      "prior_variance": 0.101896,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -4.4093,
+      "prior_variance": 0.111081,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.538,
+      "prior_variance": 0.092672,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Srinagar (Pauri Garhwal)",
+      "path": "asia/india/uttaranchal/srinagar_pauri_garhwal",
+      "prior_score": -2.3336,
+      "prior_variance": 0.108482,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Warren",
+      "path": "northamerica/unitedstates/newhampshire/warren",
+      "prior_score": -5.5227,
+      "prior_variance": 0.108487,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.0892,
+      "prior_variance": 0.124792,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Cherepovets",
+      "path": "europe/russia/cherepovets",
+      "prior_score": -6.8709,
+      "prior_variance": 0.144198,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kankan",
+      "path": "africa/guineeconakry/kankan",
+      "prior_score": -6.9286,
+      "prior_variance": 0.116028,
+      "prior_n": 14
+    }
+  ]
+}

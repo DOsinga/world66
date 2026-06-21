@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Comodoro_Rivadavia,_Chubut
 latitude: -45.8632
 loc_type: city
 longitude: -67.4753
-score: 0.41
+score: 0.3
 title: Comodoro Rivadavia
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cevennes_Florac_Mimente_de
 latitude: 44.324
 loc_type: city
 longitude: 3.594
-score: 0.52
+score: 0.45
 title: Florac
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Oak
 latitude: 37.804456
 loc_type: city
 longitude: -122.271356
-score: 0.37
+score: 0.34
 title: Oakland
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4282,
+  "timestamp": "2026-06-13T23:59:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 8.0284,
+      "prior_variance": 0.169323,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 5.3626,
+      "prior_variance": 0.12575,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Akumal",
+      "path": "northamerica/mexico/akumal",
+      "prior_score": 3.9114,
+      "prior_variance": 0.096601,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Epernay",
+      "path": "europe/france/east/champagne/epernay",
+      "prior_score": 4.8568,
+      "prior_variance": 0.101681,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Montecatini Terme",
+      "path": "europe/italy/tuscany/montecatiniterme",
+      "prior_score": 3.1044,
+      "prior_variance": 0.092033,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Puno",
+      "path": "southamerica/peru/puno",
+      "prior_score": 3.8018,
+      "prior_variance": 0.098825,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Alappuzha",
+      "path": "asia/india/kerala/alappuzha",
+      "prior_score": 4.5134,
+      "prior_variance": 0.111409,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 0.4347,
+      "prior_variance": 0.118771,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Esztergom",
+      "path": "europe/hungary/esztergom",
+      "prior_score": 2.4942,
+      "prior_variance": 0.109052,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 2.5709,
+      "prior_variance": 0.101185,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.2553,
+      "prior_variance": 0.091032,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Blanes",
+      "path": "europe/spain/blanes",
+      "prior_score": 0.6399,
+      "prior_variance": 0.099104,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Pointe-\u00e0-Pitre",
+      "path": "northamerica/thecaribbean/guadeloupe/pointeapitre",
+      "prior_score": 0.9525,
+      "prior_variance": 0.10169,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 0.3929,
+      "prior_variance": 0.09978,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ankara",
+      "path": "asia/turkey/ankara",
+      "prior_score": -0.1973,
+      "prior_variance": 0.113727,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.5861,
+      "prior_variance": 0.098143,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.1652,
+      "prior_variance": 0.106318,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.5773,
+      "prior_variance": 0.095754,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Teres\u00f3polis",
+      "path": "southamerica/brazil/teresopolis",
+      "prior_score": 0.4616,
+      "prior_variance": 0.087565,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.8458,
+      "prior_variance": 0.113651,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.0877,
+      "prior_variance": 0.09907,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Kusu Island",
+      "path": "asia/singapore/islands/kusuisland",
+      "prior_score": -0.8761,
+      "prior_variance": 0.104963,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.5473,
+      "prior_variance": 0.09589,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -7.6125,
+      "prior_variance": 0.166461,
+      "prior_n": 14
+    }
+  ]
+}

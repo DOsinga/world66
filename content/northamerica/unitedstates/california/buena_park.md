@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7156765@N05/51050270688
 latitude: 33.870413
 loc_type: city
 longitude: -117.996217
-score: 0.45
+score: 0.35
 title: Buena Park
 type: location
 ---

@@ -6,7 +6,7 @@ done:
 latitude: 48.1455
 loc_type: city
 longitude: 4.7933
-score: 0.44
+score: 0.38
 title: Clairvaux
 type: location
 ---

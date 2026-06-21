@@ -5,7 +5,7 @@ done:
 latitude: 39.5167
 loc_type: city
 longitude: 2.75
-score: 0.52
+score: 0.48
 title: S'Arenal
 type: location
 image: arenal.jpg

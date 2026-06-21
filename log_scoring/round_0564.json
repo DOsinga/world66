@@ -1,200 +1,200 @@
 {
   "round": 564,
-  "timestamp": "2026-04-12T10:37:38",
+  "timestamp": "2026-06-13T19:42:27",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Dubrovnik",
-      "path": "europe/croatia/dubrovnik",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Alexandria",
+      "path": "northamerica/unitedstates/virginia/alexandria",
+      "prior_score": -0.4541,
+      "prior_variance": 1.680626,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Krka National Park",
-      "path": "europe/croatia/krka_national_park_1",
-      "prior_mu": 25.3662,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Burgas",
+      "path": "europe/bulgaria/burgas",
+      "prior_score": -1.4596,
+      "prior_variance": 0.94132,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Zagreb",
-      "path": "europe/croatia/zagreb",
-      "prior_mu": 25.5952,
-      "prior_sigma": 5.416,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Island Vis",
-      "path": "europe/croatia/island_vis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 5,
-      "title": "Rab Island",
-      "path": "europe/croatia/rabisland",
-      "prior_mu": 23.6734,
-      "prior_sigma": 4.5737,
-      "prior_n": 2
-    },
-    {
-      "rank": 6,
-      "title": "Lo\u0161inj",
-      "path": "europe/croatia/losinjisland",
-      "prior_mu": 24.7822,
-      "prior_sigma": 6.2992,
+      "title": "Reus",
+      "path": "europe/spain/catalonia/reus",
+      "prior_score": -3.7856,
+      "prior_variance": 1.30185,
       "prior_n": 1
     },
     {
+      "rank": 4,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -3.4784,
+      "prior_variance": 1.213281,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Tena",
+      "path": "southamerica/ecuador/tena",
+      "prior_score": -3.2008,
+      "prior_variance": 1.468957,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -3.1286,
+      "prior_variance": 1.300512,
+      "prior_n": 2
+    },
+    {
       "rank": 7,
-      "title": "Porec",
-      "path": "europe/croatia/porec",
-      "prior_mu": 22.2205,
-      "prior_sigma": 2.7175,
-      "prior_n": 6
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": -1.4374,
+      "prior_variance": 0.982684,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Makarska",
-      "path": "europe/croatia/makarska",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": -2.6987,
+      "prior_variance": 0.911911,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Miljet Island",
-      "path": "europe/croatia/miljet_island",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -3.0484,
+      "prior_variance": 1.215387,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Omi\u0161",
-      "path": "europe/croatia/dalmatia/omi",
-      "prior_mu": 22.3318,
-      "prior_sigma": 4.8297,
+      "title": "Coquitlam",
+      "path": "northamerica/canada/britishcolumbia/vancouver/coquitlam",
+      "prior_score": -4.9188,
+      "prior_variance": 1.182089,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Vrbnik",
-      "path": "europe/croatia/krkisland/vrbnik",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -1.5232,
+      "prior_variance": 0.884124,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Rijeka",
-      "path": "europe/croatia/rijeka",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -3.8685,
+      "prior_variance": 1.27473,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Murter",
-      "path": "europe/croatia/murter",
-      "prior_mu": 22.6552,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -4.6089,
+      "prior_variance": 1.097217,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Gradac",
-      "path": "europe/croatia/makarskariviera/gradac",
-      "prior_mu": 21.8833,
-      "prior_sigma": 4.0224,
-      "prior_n": 3
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -4.8841,
+      "prior_variance": 1.099414,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Podstrana",
-      "path": "europe/croatia/podstrana",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Solihull",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/solihull",
+      "prior_score": -6.2118,
+      "prior_variance": 1.138602,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "\u017divogo\u0161\u0107e",
-      "path": "europe/croatia/zivogosce",
-      "prior_mu": 22.4428,
-      "prior_sigma": 5.9509,
-      "prior_n": 1
+      "title": "Blaricum",
+      "path": "europe/netherlands/blaricum",
+      "prior_score": -3.7132,
+      "prior_variance": 0.763914,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Palagru\u017ea",
-      "path": "europe/croatia/korcula/palagruza_island",
-      "prior_mu": 21.7088,
-      "prior_sigma": 4.742,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.662,
+      "prior_variance": 0.936805,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Island \u0160olta",
-      "path": "europe/croatia/island_solta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 19,
-      "title": "Samobor",
-      "path": "europe/croatia/samobor",
-      "prior_mu": 22.6955,
-      "prior_sigma": 5.9499,
+      "title": "Sant Mateu",
+      "path": "europe/spain/castellon/san_mateu",
+      "prior_score": -7.841,
+      "prior_variance": 1.202309,
       "prior_n": 1
     },
     {
+      "rank": 19,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -7.8525,
+      "prior_variance": 0.688077,
+      "prior_n": 2
+    },
+    {
       "rank": 20,
-      "title": "Neretva",
-      "path": "europe/croatia/neretva",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -6.97,
+      "prior_variance": 1.457592,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Sinj",
-      "path": "europe/croatia/sinj",
-      "prior_mu": 21.6653,
-      "prior_sigma": 4.6575,
+      "title": "Rourkela",
+      "path": "asia/india/orissa/rourkela",
+      "prior_score": -7.7514,
+      "prior_variance": 0.735052,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Karlovac",
-      "path": "europe/croatia/karlovac",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Malange",
+      "path": "africa/angola/malange",
+      "prior_score": -8.3505,
+      "prior_variance": 1.365979,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Velika Gorica",
-      "path": "europe/croatia/velikagorica",
-      "prior_mu": 22.6014,
-      "prior_sigma": 5.9499,
+      "title": "Chibi",
+      "path": "asia/china/hubei/chibi",
+      "prior_score": -7.4612,
+      "prior_variance": 1.445883,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "\u017dminj",
-      "path": "europe/croatia/zminj",
-      "prior_mu": 21.8767,
-      "prior_sigma": 4.7891,
-      "prior_n": 2
+      "title": "Hamm",
+      "path": "europe/germany/northrhinewestphalia/hamm",
+      "prior_score": -7.6283,
+      "prior_variance": 2.065966,
+      "prior_n": 1
     }
   ]
 }

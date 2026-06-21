@@ -5,7 +5,7 @@ done:
 latitude: 26.5333
 loc_type: city
 longitude: -78.6996
-score: 0.54
+score: 0.46
 title: Freeport
 type: location
 image: freeport.jpg

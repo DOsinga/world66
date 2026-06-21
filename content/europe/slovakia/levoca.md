@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leutschau_-_Rathaus_und_Do
 latitude: 49.025087
 loc_type: city
 longitude: 20.58871
-score: 0.53
+score: 0.47
 title: Levoca
 type: location
 ---

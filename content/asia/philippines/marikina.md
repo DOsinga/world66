@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marikina_Church.jpg
 latitude: 14.633108
 loc_type: city
 longitude: 121.099354
-score: 0.38
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Marikina
 - https://en.wikipedia.org/wiki/Marikina_Shoe_Museum

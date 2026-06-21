@@ -1,0 +1,200 @@
+{
+  "round": 4369,
+  "timestamp": "2026-06-14T00:07:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Orange",
+      "path": "europe/france/midi/provence/orange",
+      "prior_score": 3.6662,
+      "prior_variance": 0.09766,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 2.6429,
+      "prior_variance": 0.095032,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Spreewald",
+      "path": "europe/germany/brandenburg/spreewald",
+      "prior_score": 2.3391,
+      "prior_variance": 0.097495,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": 0.1382,
+      "prior_variance": 0.117111,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": 0.9801,
+      "prior_variance": 0.099044,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Frederikshavn",
+      "path": "europe/denmark/fredrikshavn",
+      "prior_score": -2.0615,
+      "prior_variance": 0.105245,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Omagh",
+      "path": "europe/unitedkingdom/northernireland/omagh",
+      "prior_score": -2.458,
+      "prior_variance": 0.105233,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.6033,
+      "prior_variance": 0.103854,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.6446,
+      "prior_variance": 0.1095,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Zhengding",
+      "path": "asia/china/hebei/zhengding",
+      "prior_score": -1.6614,
+      "prior_variance": 0.093431,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Morondava",
+      "path": "africa/madagascar/morondava",
+      "prior_score": -0.4709,
+      "prior_variance": 0.104628,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Weizhou Island",
+      "path": "asia/china/guangxi/weizhou",
+      "prior_score": -0.629,
+      "prior_variance": 0.097834,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.0722,
+      "prior_variance": 0.088237,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -3.6025,
+      "prior_variance": 0.105351,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.3346,
+      "prior_variance": 0.100271,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Lucena",
+      "path": "asia/philippines/quezon_province/lucena",
+      "prior_score": -4.0987,
+      "prior_variance": 0.117449,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.2338,
+      "prior_variance": 0.093507,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Cassadaga",
+      "path": "northamerica/unitedstates/florida/cassadaga",
+      "prior_score": -2.9345,
+      "prior_variance": 0.103891,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Latakia",
+      "path": "asia/syria/latakia",
+      "prior_score": -5.75,
+      "prior_variance": 0.152291,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Payyanur",
+      "path": "asia/india/kerala/payyanur",
+      "prior_score": -4.0113,
+      "prior_variance": 0.102524,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Bhera",
+      "path": "asia/pakistan/bhera",
+      "prior_score": -7.1383,
+      "prior_variance": 0.126243,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Tsunda",
+      "path": "europe/georgia/tsunda",
+      "prior_score": -7.2292,
+      "prior_variance": 0.140613,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "In Salah",
+      "path": "africa/algeria/insalah",
+      "prior_score": -7.1873,
+      "prior_variance": 0.14346,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.1348,
+      "prior_variance": 0.170848,
+      "prior_n": 15
+    }
+  ]
+}

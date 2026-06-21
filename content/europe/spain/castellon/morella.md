@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/75727216@N00/755646075
 latitude: 40.618828
 loc_type: city
 longitude: -0.099803
-score: 0.58
+score: 0.49
 title: Morella
 type: location
 ---

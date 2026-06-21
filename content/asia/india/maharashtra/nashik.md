@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buddhist_monks_at_the_Pand
 latitude: 20.011247
 loc_type: city
 longitude: 73.790236
-score: 0.45
+score: 0.38
 title: Nashik
 type: location
 ---

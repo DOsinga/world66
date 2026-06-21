@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inn_Rosenheim.jpeg
 latitude: 47.853927
 loc_type: city
 longitude: 12.127262
-score: 0.51
+score: 0.4
 title: Rosenheim
 type: location
 ---

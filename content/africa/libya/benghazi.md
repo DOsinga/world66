@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Daawa_alIslamiyah2.JPG
 latitude: 32.12
 loc_type: city
 longitude: 20.0812
-score: 0.2
+score: 0.16
 title: Benghazi
 type: location
 ---

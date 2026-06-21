@@ -1,0 +1,200 @@
+{
+  "round": 3216,
+  "timestamp": "2026-06-13T22:37:11",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "San Gimignano",
+      "path": "europe/italy/tuscany/sangimignano",
+      "prior_score": 7.8929,
+      "prior_variance": 0.166347,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 6.016,
+      "prior_variance": 0.147471,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 3.9634,
+      "prior_variance": 0.18708,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Hamilton",
+      "path": "northamerica/bermuda/hamilton_capital",
+      "prior_score": 4.7967,
+      "prior_variance": 0.15926,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.2314,
+      "prior_variance": 0.13355,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 2.9054,
+      "prior_variance": 0.132325,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.2953,
+      "prior_variance": 0.138431,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.7733,
+      "prior_variance": 0.149899,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Beaufort",
+      "path": "europe/luxembourg/beaufort",
+      "prior_score": -0.7318,
+      "prior_variance": 0.16833,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bennington",
+      "path": "northamerica/unitedstates/vermont/bennington",
+      "prior_score": -0.1203,
+      "prior_variance": 0.137059,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Ben Lomond",
+      "path": "northamerica/unitedstates/california/ben_lomond_califo",
+      "prior_score": -0.8134,
+      "prior_variance": 0.13926,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bolton-by-Bowland",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl",
+      "prior_score": -2.1519,
+      "prior_variance": 0.126219,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Le Blanc",
+      "path": "europe/france/centre/loirevalley/le_blanc",
+      "prior_score": -2.3721,
+      "prior_variance": 0.138313,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -3.4428,
+      "prior_variance": 0.125315,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.6493,
+      "prior_variance": 0.12836,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Banjamarsin",
+      "path": "asia/indonesia/kalimantan/banjamarsin",
+      "prior_score": -3.047,
+      "prior_variance": 0.140766,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Bacolod",
+      "path": "asia/philippines/negrosisland/bacolod",
+      "prior_score": -1.5383,
+      "prior_variance": 0.133245,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.5945,
+      "prior_variance": 0.150378,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.3372,
+      "prior_variance": 0.121981,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Hobe Sound",
+      "path": "northamerica/unitedstates/florida/hobe_sound",
+      "prior_score": -2.6738,
+      "prior_variance": 0.136577,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Bangor",
+      "path": "northamerica/unitedstates/maine/bangor",
+      "prior_score": -2.6927,
+      "prior_variance": 0.145118,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Greenville Junction",
+      "path": "northamerica/unitedstates/maine/greenville_junction",
+      "prior_score": -2.6174,
+      "prior_variance": 0.131004,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Greenock",
+      "path": "europe/unitedkingdom/scotland/greenock",
+      "prior_score": -2.5265,
+      "prior_variance": 0.136913,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.3661,
+      "prior_variance": 0.149592,
+      "prior_n": 10
+    }
+  ]
+}

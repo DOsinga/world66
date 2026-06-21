@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Har_Ki_Pauri,_Haridwar.jpg
 latitude: 29.9457
 loc_type: city
 longitude: 78.1642
-score: 0.58
+score: 0.5
 title: Haridwar
 type: location
 ---

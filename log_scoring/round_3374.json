@@ -1,0 +1,200 @@
+{
+  "round": 3374,
+  "timestamp": "2026-06-13T22:49:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hakone",
+      "path": "asia/japan/honshu/hakone",
+      "prior_score": 10.3364,
+      "prior_variance": 0.281656,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 6.0098,
+      "prior_variance": 0.155009,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Urubamba",
+      "path": "southamerica/peru/urubamba",
+      "prior_score": 5.3715,
+      "prior_variance": 0.155767,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": 0.0585,
+      "prior_variance": 0.139896,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 1.1725,
+      "prior_variance": 0.126761,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.7453,
+      "prior_variance": 0.123938,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.0637,
+      "prior_variance": 0.117358,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Foyers",
+      "path": "europe/unitedkingdom/scotland/foyers_loch_ness",
+      "prior_score": 0.3869,
+      "prior_variance": 0.123416,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 0.1276,
+      "prior_variance": 0.131263,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Pindaya",
+      "path": "asia/myanmar/pindaya",
+      "prior_score": 0.8401,
+      "prior_variance": 0.128045,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Petersburg",
+      "path": "northamerica/unitedstates/alaska/petersburg",
+      "prior_score": -0.1787,
+      "prior_variance": 0.119951,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mount Gambier",
+      "path": "australiaandpacific/australia/southaustralia/mount_gambier",
+      "prior_score": -0.4135,
+      "prior_variance": 0.122533,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/nevada/virginiacity",
+      "prior_score": -0.3743,
+      "prior_variance": 0.150105,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -2.045,
+      "prior_variance": 0.144065,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -2.637,
+      "prior_variance": 0.121016,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -0.9879,
+      "prior_variance": 0.132096,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -2.2883,
+      "prior_variance": 0.12374,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.8797,
+      "prior_variance": 0.116854,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Columbia",
+      "path": "northamerica/unitedstates/missouri/columbia",
+      "prior_score": -3.4434,
+      "prior_variance": 0.147209,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Lynchburg",
+      "path": "northamerica/unitedstates/virginia/lynchburg",
+      "prior_score": -3.3396,
+      "prior_variance": 0.128071,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Heerde",
+      "path": "europe/netherlands/heerde",
+      "prior_score": -4.005,
+      "prior_variance": 0.133825,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Moss",
+      "path": "europe/norway/moss",
+      "prior_score": -1.8051,
+      "prior_variance": 0.113186,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -6.8602,
+      "prior_variance": 0.173633,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -5.8155,
+      "prior_variance": 0.178104,
+      "prior_n": 10
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 3922,
+  "timestamp": "2026-06-13T23:29:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ceillac",
+      "path": "europe/france/alpes/ceillac",
+      "prior_score": 2.4792,
+      "prior_variance": 0.105354,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.6831,
+      "prior_variance": 0.098276,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Narva-J\u00f5esuu",
+      "path": "europe/estonia/narvajesuu",
+      "prior_score": -1.7677,
+      "prior_variance": 0.108581,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -2.7667,
+      "prior_variance": 0.135413,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Hull",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hull",
+      "prior_score": -1.2606,
+      "prior_variance": 0.113835,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Rochester",
+      "path": "northamerica/unitedstates/newyorkstate/rochester",
+      "prior_score": -2.0481,
+      "prior_variance": 0.102201,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Longueuil",
+      "path": "northamerica/canada/quebec/longueuil",
+      "prior_score": -3.3063,
+      "prior_variance": 0.108452,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Livermore",
+      "path": "northamerica/unitedstates/california/livermore",
+      "prior_score": -2.929,
+      "prior_variance": 0.131169,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Santa Clarita",
+      "path": "northamerica/unitedstates/california/santaclarita",
+      "prior_score": -4.1656,
+      "prior_variance": 0.142355,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.3206,
+      "prior_variance": 0.10069,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -2.8837,
+      "prior_variance": 0.111368,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -2.0996,
+      "prior_variance": 0.101886,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Barretos",
+      "path": "southamerica/brazil/barretos",
+      "prior_score": -4.3368,
+      "prior_variance": 0.129453,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Laayoune",
+      "path": "africa/morocco/elayoune",
+      "prior_score": -4.2483,
+      "prior_variance": 0.143948,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -2.4914,
+      "prior_variance": 0.107416,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Changde",
+      "path": "asia/china/hunan/changde",
+      "prior_score": -3.9232,
+      "prior_variance": 0.106708,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Ullal",
+      "path": "asia/india/karnataka/konkan_coast/ullal",
+      "prior_score": -3.5616,
+      "prior_variance": 0.101926,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kota",
+      "path": "asia/india/rajasthan/kota",
+      "prior_score": -3.4745,
+      "prior_variance": 0.111327,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -3.2709,
+      "prior_variance": 0.12315,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Weiser",
+      "path": "northamerica/unitedstates/idaho/weiser",
+      "prior_score": -4.5703,
+      "prior_variance": 0.132841,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "B\u00e9char",
+      "path": "africa/algeria/bechar",
+      "prior_score": -5.3588,
+      "prior_variance": 0.151725,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Meghri",
+      "path": "europe/armenia/syunik_marz/meghri",
+      "prior_score": -3.0299,
+      "prior_variance": 0.103703,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Muzaffarabad",
+      "path": "asia/pakistan/azad_kashmir/muzaffar_abad",
+      "prior_score": -4.366,
+      "prior_variance": 0.142717,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -14.0625,
+      "prior_variance": 1.020343,
+      "prior_n": 12
+    }
+  ]
+}

@@ -5,7 +5,7 @@ latitude: 48.72
 longitude: 87.02
 title: Hanas Lake
 type: location
-score: 0.59
+score: 0.51
 loc_type: feature
 ---
 

@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Thakhek
 title: Thakhek
 type: location
+score: 0.44
 ---
 
 Thakhek is the capital of Khammouane Province, a relaxed town on the Mekong River in central Laos, facing the Thai city of Nakhon Phanom across the water. The town has a pleasant colonial-era centre — French-built shophouses around a central fountain square — and a waterfront that catches a good breeze in the evenings. Most travellers arrive either for the town's relaxed ambience or as the starting point for the Thakhek Loop, one of the most celebrated motorbike routes in Southeast Asia.

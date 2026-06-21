@@ -5,7 +5,7 @@ done:
 latitude: 22.152726
 loc_type: city
 longitude: 113.558394
-score: 0.57
+score: 0.4
 title: Taipa
 type: location
 ---

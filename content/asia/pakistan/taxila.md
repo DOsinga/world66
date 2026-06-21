@@ -7,7 +7,7 @@ done:
 latitude: 33.7462
 loc_type: city
 longitude: 72.8397
-score: 0.48
+score: 0.4
 title: Taxila
 type: location
 image: taxila.jpg

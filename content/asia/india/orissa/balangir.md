@@ -5,7 +5,7 @@ done:
 latitude: 20.6717
 loc_type: city
 longitude: 83.4846
-score: 0.29
+score: 0.24
 title: Balangir
 type: location
 image: balangir.jpg

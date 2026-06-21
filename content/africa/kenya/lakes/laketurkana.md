@@ -5,7 +5,7 @@ latitude: 3.5259
 longitude: 36.0743
 title: Lake Turkana
 type: location
-score: 0.45
+score: 0.41
 loc_type: feature
 ---
 

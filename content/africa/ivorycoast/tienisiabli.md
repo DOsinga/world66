@@ -5,7 +5,7 @@ done:
 latitude: 7.6833
 loc_type: city
 longitude: -7.5167
-score: 0.23
+score: 0.16
 title: Tieni-Siabli
 type: location
 ---

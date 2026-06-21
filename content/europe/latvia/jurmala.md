@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jomas_Street,_Jurmala,_Lat
 latitude: 56.972716
 loc_type: city
 longitude: 23.788698
-score: 0.52
+score: 0.45
 title: Jurmala
 type: location
 ---

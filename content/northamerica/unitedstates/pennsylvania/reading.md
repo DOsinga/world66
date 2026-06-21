@@ -5,7 +5,7 @@ done:
 latitude: 40.3353
 loc_type: city
 longitude: -75.9279
-score: 0.34
+score: 0.28
 title: Reading
 type: location
 ---

@@ -16,7 +16,7 @@ quick_facts:
   Language: "English widely spoken"
   Cocoa Production: "2nd globally"
   Lake Volta: "largest man-made lake by area"
-score: 0.36
+score: 0.60
 loc_type: country
 ---
 

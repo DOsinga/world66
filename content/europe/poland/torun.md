@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stare_Miasto,_Ratusz_Staro
 latitude: 53.010272
 loc_type: city
 longitude: 18.604809
-score: 0.57
+score: 0.5
 title: Toruń
 type: location
 ---

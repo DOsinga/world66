@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_das_Rathaus_und_
 latitude: 50.776351
 loc_type: city
 longitude: 6.083862
-score: 0.57
+score: 0.51
 title: Aachen
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 908,
-  "timestamp": "2026-04-12T14:49:00",
+  "timestamp": "2026-06-13T20:00:13",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Daisetsuzan",
-      "path": "asia/japan/hokkaido/daisetsuzan",
-      "prior_score": 6.4318,
-      "prior_variance": 1.76496,
-      "prior_n": 1
-    },
-    {
-      "rank": 2,
-      "title": "Alishan",
-      "path": "asia/taiwan/alishan",
-      "prior_score": 6.4898,
-      "prior_variance": 1.013835,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 9.8405,
+      "prior_variance": 0.735614,
       "prior_n": 2
     },
     {
+      "rank": 2,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 6.3105,
+      "prior_variance": 0.647764,
+      "prior_n": 3
+    },
+    {
       "rank": 3,
-      "title": "Figueres",
-      "path": "europe/spain/catalonia/figueres",
-      "prior_score": 5.6591,
-      "prior_variance": 1.541497,
-      "prior_n": 1
+      "title": "Hongcun",
+      "path": "asia/china/anhui/hongcun",
+      "prior_score": 6.5242,
+      "prior_variance": 0.676132,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Sevanavank",
-      "path": "europe/armenia/sevanavank",
-      "prior_score": 1.8538,
-      "prior_variance": 0.268193,
-      "prior_n": 5
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 6.8802,
+      "prior_variance": 0.562793,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Greater Wellington",
-      "path": "australiaandpacific/newzealand/greater_wellington",
-      "prior_score": 3.2187,
-      "prior_variance": 1.267568,
-      "prior_n": 1
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 3.6292,
+      "prior_variance": 0.464218,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Canterbury",
-      "path": "australiaandpacific/newzealand/south_island/canterbury",
-      "prior_score": 4.463,
-      "prior_variance": 1.374456,
-      "prior_n": 1
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 5.8778,
+      "prior_variance": 0.661674,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Kyrgyzstan",
-      "path": "asia/kyrgyzstan",
-      "prior_score": 4.9464,
-      "prior_variance": 1.457822,
-      "prior_n": 1
+      "title": "Jianmen Shudao",
+      "path": "asia/china/sichuanprovince/jianmen_shudao",
+      "prior_score": 7.0112,
+      "prior_variance": 0.839962,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Alexandria",
-      "path": "northamerica/unitedstates/virginia/alexandria",
-      "prior_score": -3.8632,
-      "prior_variance": 0.460589,
+      "title": "Socotra",
+      "path": "asia/yemen/socotra",
+      "prior_score": 4.9629,
+      "prior_variance": 1.142106,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "\u017divogo\u0161\u0107e",
-      "path": "europe/croatia/zivogosce",
-      "prior_score": 2.6484,
-      "prior_variance": 0.721002,
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 5.5647,
+      "prior_variance": 0.648292,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Indianopolis",
-      "path": "northamerica/unitedstates/indiana/indianopolis",
-      "prior_score": -2.3506,
-      "prior_variance": 1.314984,
-      "prior_n": 1
+      "title": "Quedlinburg",
+      "path": "europe/germany/saxonyanhalt/quedlinburg",
+      "prior_score": 2.9126,
+      "prior_variance": 0.739196,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Corner Brook",
-      "path": "northamerica/canada/newfoundland/cornerbrook",
-      "prior_score": -2.7709,
-      "prior_variance": 1.457953,
-      "prior_n": 1
+      "title": "Kakum National Park",
+      "path": "africa/ghana/kakumnaturereserve",
+      "prior_score": 6.0431,
+      "prior_variance": 0.671685,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Gisborne",
-      "path": "australiaandpacific/newzealand/eastland/gisborne",
-      "prior_score": -0.3186,
-      "prior_variance": 1.399363,
-      "prior_n": 1
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 3.6365,
+      "prior_variance": 0.482763,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Engelsberg",
-      "path": "europe/sweden/engelsberg",
-      "prior_score": -0.8919,
-      "prior_variance": 1.284577,
-      "prior_n": 1
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.9818,
+      "prior_variance": 1.36537,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Wolfsburg",
-      "path": "europe/germany/lowersaxony/wolfsburg",
-      "prior_score": -3.4381,
-      "prior_variance": 2.189994,
-      "prior_n": 1
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 4.5791,
+      "prior_variance": 0.614177,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Odder",
-      "path": "europe/denmark/odder",
-      "prior_score": -3.3397,
-      "prior_variance": 1.376039,
-      "prior_n": 1
+      "title": "Bad Ischl",
+      "path": "europe/austria/badischl",
+      "prior_score": 6.1833,
+      "prior_variance": 0.671331,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "La Ceiba",
-      "path": "northamerica/honduras/laceiba",
-      "prior_score": -0.8662,
-      "prior_variance": 1.398445,
-      "prior_n": 1
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 3.6887,
+      "prior_variance": 0.491497,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Higuey",
-      "path": "northamerica/dominicanrepublic/higuey",
-      "prior_score": -3.4675,
-      "prior_variance": 0.670321,
+      "title": "Conversano",
+      "path": "europe/italy/puglia/conversano",
+      "prior_score": 3.3498,
+      "prior_variance": 0.908863,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Cartersville",
-      "path": "northamerica/unitedstates/georgia/cartersville",
-      "prior_score": -4.1392,
-      "prior_variance": 1.410564,
-      "prior_n": 1
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 3.4305,
+      "prior_variance": 1.066131,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Akhalkalaki",
-      "path": "europe/georgia/alkhakalaki",
-      "prior_score": -2.4463,
-      "prior_variance": 1.190154,
-      "prior_n": 1
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 2.8373,
+      "prior_variance": 0.588596,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Pristina",
-      "path": "europe/serbia/kosovoprovince/pristina",
-      "prior_score": -3.4582,
-      "prior_variance": 1.213576,
-      "prior_n": 1
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.5668,
+      "prior_variance": 0.517336,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "igheem",
-      "path": "africa/morocco/igheem",
-      "prior_score": -6.971,
-      "prior_variance": 1.205301,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 2.5819,
+      "prior_variance": 0.802929,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Bafata",
-      "path": "africa/guineabissau/bafata",
-      "prior_score": -8.7613,
-      "prior_variance": 1.939802,
-      "prior_n": 2
+      "title": "Marina di Campo",
+      "path": "europe/italy/tuscany/elba/marinadicampo",
+      "prior_score": 7.4121,
+      "prior_variance": 0.729355,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Bangladesh",
-      "path": "asia/bangladesh",
-      "prior_score": -8.2774,
-      "prior_variance": 1.265587,
-      "prior_n": 1
+      "title": "Benalmadena",
+      "path": "europe/spain/spanishcostas/benalmadena",
+      "prior_score": 6.2332,
+      "prior_variance": 0.686409,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Kaltinec",
-      "path": "europe/bulgaria/gornaoryahovica/kaltinec",
-      "prior_score": -14.5004,
-      "prior_variance": 7.117071,
-      "prior_n": 1
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": 6.9482,
+      "prior_variance": 0.65266,
+      "prior_n": 2
     }
   ]
 }

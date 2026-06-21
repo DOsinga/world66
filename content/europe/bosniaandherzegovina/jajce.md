@@ -4,7 +4,7 @@ done:
 latitude: 44.3403
 loc_type: city
 longitude: 17.2703
-score: 0.55
+score: 0.48
 title: Jajce
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2604,
+  "timestamp": "2026-06-13T21:54:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 14.6259,
+      "prior_variance": 0.625107,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 7.992,
+      "prior_variance": 0.241174,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Stavanger",
+      "path": "europe/norway/stavanger",
+      "prior_score": 4.4443,
+      "prior_variance": 0.200601,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Le\u00f3n",
+      "path": "europe/spain/northernspain/leon",
+      "prior_score": 4.4692,
+      "prior_variance": 0.17854,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 4.6764,
+      "prior_variance": 0.196362,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.2191,
+      "prior_variance": 0.201799,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 4.7877,
+      "prior_variance": 0.153482,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 5.0013,
+      "prior_variance": 0.168273,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 4.6544,
+      "prior_variance": 0.180185,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 1.9391,
+      "prior_variance": 0.216341,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 2.5142,
+      "prior_variance": 0.216179,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 4.7993,
+      "prior_variance": 0.168595,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": 5.9828,
+      "prior_variance": 0.216821,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 3.3491,
+      "prior_variance": 0.175347,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Sassari",
+      "path": "europe/italy/sardinia/sassari",
+      "prior_score": 2.1475,
+      "prior_variance": 0.190732,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Bayreuth",
+      "path": "europe/germany/bavaria/bayreuth",
+      "prior_score": 1.8199,
+      "prior_variance": 0.149497,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": 0.1325,
+      "prior_variance": 0.148276,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Constanta",
+      "path": "europe/romania/constanta",
+      "prior_score": 0.0555,
+      "prior_variance": 0.155464,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Port Aransas",
+      "path": "northamerica/unitedstates/texas/port_aransas",
+      "prior_score": 0.373,
+      "prior_variance": 0.144048,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Linosa",
+      "path": "europe/italy/sicily/pelagianislands/linosa",
+      "prior_score": 0.5835,
+      "prior_variance": 0.204367,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -3.5435,
+      "prior_variance": 0.176678,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Corozal Town",
+      "path": "northamerica/belize/corozaltown",
+      "prior_score": -1.772,
+      "prior_variance": 0.151029,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -1.9879,
+      "prior_variance": 0.136569,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -1.6217,
+      "prior_variance": 0.16864,
+      "prior_n": 8
+    }
+  ]
+}

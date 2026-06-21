@@ -5,7 +5,7 @@ latitude: 51.264018
 longitude: 7.178037
 title: Wuppertal
 type: location
-score: 0.45
+score: 0.38
 loc_type: city
 image: wuppertal.jpg
 image_source: https://www.flickr.com/photos/99785739@N00/13922373205

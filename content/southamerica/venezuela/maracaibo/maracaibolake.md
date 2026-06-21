@@ -5,7 +5,7 @@ latitude: 10.025111
 longitude: -71.616313
 title: Maracaibo Lake
 type: location
-score: 0.34
+score: 0.28
 loc_type: feature
 ---
 

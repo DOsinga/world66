@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Petermann_Ranges_(AU),_Ulu
 latitude: -25.3444
 loc_type: city
 longitude: 131.0369
-score: 0.78
+score: 0.7
 title: Uluru-Kata Tjuta National Park
 type: location
 ---

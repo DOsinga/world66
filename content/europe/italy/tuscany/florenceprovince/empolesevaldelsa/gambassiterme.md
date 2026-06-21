@@ -5,7 +5,7 @@ done:
 latitude: 43.539113
 loc_type: city
 longitude: 10.954075
-score: 0.48
+score: 0.41
 title: Gambassi Terme
 type: location
 image: gambassiterme.jpg

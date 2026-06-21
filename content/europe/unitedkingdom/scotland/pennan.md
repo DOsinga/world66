@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pennan.JPG
 latitude: 57.678811
 loc_type: city
 longitude: -2.260532
-score: 0.5
+score: 0.41
 title: Pennan
 type: location
 ---

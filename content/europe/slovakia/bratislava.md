@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Slovakia_bratislava.jpg
 latitude: 48.1559
 loc_type: city
 longitude: 17.1314
-score: 0.63
+score: 0.54
 title: Bratislava
 type: location
 ---

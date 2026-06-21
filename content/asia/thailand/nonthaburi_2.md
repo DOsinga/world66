@@ -7,7 +7,7 @@ done:
 latitude: 13.8611
 loc_type: city
 longitude: 100.5147
-score: 0.37
+score: 0.32
 title: Nonthaburi
 type: location
 image: nonthaburi_2.jpg

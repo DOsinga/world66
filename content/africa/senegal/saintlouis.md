@@ -7,7 +7,7 @@ done:
 latitude: 16.0228
 loc_type: city
 longitude: -16.4897
-score: 0.47
+score: 0.46
 title: Saint-Louis
 type: location
 ---

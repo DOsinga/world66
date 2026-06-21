@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/63479603@N00/53882618513
 latitude: -33.581345
 loc_type: city
 longitude: 120.04735
-score: 0.31
+score: 0.25
 title: Ravensthorpe
 type: location
 ---

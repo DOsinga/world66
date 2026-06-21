@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/76696276@N00/30398935911
 latitude: 51.437
 loc_type: city
 longitude: 7.3351
-score: 0.37
+score: 0.3
 title: Witten
 type: location
 ---

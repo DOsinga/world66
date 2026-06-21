@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/11629603@N04/52860925442
 latitude: 39.1852
 loc_type: city
 longitude: -78.1652
-score: 0.4
+score: 0.36
 title: Winchester
 type: location
 ---

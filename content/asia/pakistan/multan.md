@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/29176783@N04/10613721143
 latitude: 30.197838
 loc_type: city
 longitude: 71.471968
-score: 0.37
+score: 0.29
 title: Multan
 type: location
 ---

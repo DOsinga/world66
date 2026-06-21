@@ -1,0 +1,200 @@
+{
+  "round": 4164,
+  "timestamp": "2026-06-13T23:50:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 3.9773,
+      "prior_variance": 0.123463,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Bolifushi",
+      "path": "asia/maldives/south_male_atoll/bolifushi",
+      "prior_score": 3.805,
+      "prior_variance": 0.125424,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Cur\u00fa National Wildlife Refuge",
+      "path": "northamerica/costarica/cur_national_par",
+      "prior_score": 2.0898,
+      "prior_variance": 0.110332,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": -0.0378,
+      "prior_variance": 0.104223,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ponte de Lima",
+      "path": "europe/portugal/ponte_de_lima",
+      "prior_score": 3.4317,
+      "prior_variance": 0.091022,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Caminha",
+      "path": "europe/portugal/caminha",
+      "prior_score": 0.8904,
+      "prior_variance": 0.101543,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.0809,
+      "prior_variance": 0.121702,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Klagenfurt",
+      "path": "europe/austria/klagenfurt",
+      "prior_score": 1.8548,
+      "prior_variance": 0.100092,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 1.7837,
+      "prior_variance": 0.101389,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "L\u00fcneburg",
+      "path": "europe/germany/lowersaxony/luneburg",
+      "prior_score": 1.7003,
+      "prior_variance": 0.108475,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.4086,
+      "prior_variance": 0.113978,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 0.3617,
+      "prior_variance": 0.097913,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.3822,
+      "prior_variance": 0.097042,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.9989,
+      "prior_variance": 0.106463,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -1.0167,
+      "prior_variance": 0.126091,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Qui Nhon",
+      "path": "asia/vietnam/qui_nhon",
+      "prior_score": 0.0216,
+      "prior_variance": 0.110686,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 1.641,
+      "prior_variance": 0.10068,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Maymyo",
+      "path": "asia/myanmar/maymyo",
+      "prior_score": -0.5785,
+      "prior_variance": 0.09247,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Harappa",
+      "path": "asia/pakistan/harappa",
+      "prior_score": -1.5923,
+      "prior_variance": 0.115102,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Tula",
+      "path": "europe/russia/tula",
+      "prior_score": -3.7295,
+      "prior_variance": 0.124699,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.8077,
+      "prior_variance": 0.108491,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -2.8046,
+      "prior_variance": 0.109232,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Khabarovsk",
+      "path": "europe/russia/khabarovsk",
+      "prior_score": -3.0902,
+      "prior_variance": 0.112187,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -8.2968,
+      "prior_variance": 0.244594,
+      "prior_n": 14
+    }
+  ]
+}

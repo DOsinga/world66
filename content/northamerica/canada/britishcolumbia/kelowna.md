@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Okanagan_Lake,_Kelowna,_BC
 latitude: 49.8879
 loc_type: city
 longitude: -119.4959
-score: 0.55
+score: 0.49
 title: Kelowna
 type: location
 ---

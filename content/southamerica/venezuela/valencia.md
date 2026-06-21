@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/35922810@N06/3638131922
 latitude: 10.170026
 loc_type: city
 longitude: -68.000399
-score: 0.34
+score: 0.25
 title: Valencia
 type: location
 ---

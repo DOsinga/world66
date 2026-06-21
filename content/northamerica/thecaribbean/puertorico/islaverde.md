@@ -4,7 +4,7 @@ done:
 latitude: 18.4494
 loc_type: city
 longitude: -66.0017
-score: 0.5
+score: 0.44
 title: Isla Verde
 type: location
 image: islaverde.jpg

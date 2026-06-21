@@ -5,7 +5,7 @@ latitude: 36.8796
 longitude: -111.5341
 title: Glen Canyon
 type: location
-score: 0.67
+score: 0.59
 loc_type: feature
 ---
 

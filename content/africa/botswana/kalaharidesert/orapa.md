@@ -5,7 +5,7 @@ done:
 latitude: -21.336196
 loc_type: city
 longitude: 25.364964
-score: 0.27
+score: 0.18
 title: Orapa
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4452,
+  "timestamp": "2026-06-14T00:13:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.5624,
+      "prior_variance": 0.151539,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 2.2162,
+      "prior_variance": 0.108597,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Marciana Marina",
+      "path": "europe/italy/tuscany/elba/marcianamarina",
+      "prior_score": 2.6004,
+      "prior_variance": 0.088203,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 2.4652,
+      "prior_variance": 0.097223,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Santiago Atitlan",
+      "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+      "prior_score": 4.0507,
+      "prior_variance": 0.109102,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Molde",
+      "path": "europe/norway/molde",
+      "prior_score": 2.272,
+      "prior_variance": 0.087906,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Benidorm",
+      "path": "europe/spain/spanishcostas/benidorm",
+      "prior_score": 1.517,
+      "prior_variance": 0.108944,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.5162,
+      "prior_variance": 0.098579,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Rinc\u00f3n del Mar",
+      "path": "southamerica/colombia/rincon_del_mar",
+      "prior_score": -1.4308,
+      "prior_variance": 0.103538,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.7463,
+      "prior_variance": 0.100035,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.0863,
+      "prior_variance": 0.098277,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Lysekil",
+      "path": "europe/sweden/lysekil",
+      "prior_score": 0.5643,
+      "prior_variance": 0.091221,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 1.2555,
+      "prior_variance": 0.084308,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -0.9731,
+      "prior_variance": 0.089166,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Sandanski",
+      "path": "europe/bulgaria/sandanski",
+      "prior_score": -0.9282,
+      "prior_variance": 0.098583,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Hig\u00fcey",
+      "path": "northamerica/dominicanrepublic/higuey",
+      "prior_score": -2.1638,
+      "prior_variance": 0.104141,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": -0.76,
+      "prior_variance": 0.092119,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.2439,
+      "prior_variance": 0.098114,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": -0.2941,
+      "prior_variance": 0.092246,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -1.3865,
+      "prior_variance": 0.119648,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -0.6615,
+      "prior_variance": 0.095429,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -1.2789,
+      "prior_variance": 0.080592,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -1.5228,
+      "prior_variance": 0.105403,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Tillaberi",
+      "path": "africa/niger/tillaberi",
+      "prior_score": -9.3036,
+      "prior_variance": 0.246765,
+      "prior_n": 14
+    }
+  ]
+}

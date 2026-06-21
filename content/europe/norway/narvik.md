@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narvik_harbour_2014.jpg
 latitude: 68.43838
 loc_type: city
 longitude: 17.427198
-score: 0.58
+score: 0.5
 title: Narvik
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:OLD_CLOVIS_POST_OFFICE-1.j
 latitude: 34.4055
 loc_type: city
 longitude: -103.2051
-score: 0.29
+score: 0.22
 title: Clovis
 type: location
 ---

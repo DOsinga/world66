@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autostadt,_Wolfsburg_Gel%C
 latitude: 52.420559
 loc_type: city
 longitude: 10.786168
-score: 0.41
+score: 0.36
 title: Wolfsburg
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 11.85
 longitude: -64.6167
 title: Isla la Blanquilla
 type: location
-score: 0.38
+score: 0.33
 loc_type: feature
 ---
 

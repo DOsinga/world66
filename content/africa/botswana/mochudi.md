@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mochudi.jpg
 latitude: -24.38286
 loc_type: city
 longitude: 26.14895
-score: 0.36
+score: 0.3
 title: Mochudi
 type: location
 ---

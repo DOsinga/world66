@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-09-21_View_of_Nice_1.
 latitude: 43.700936
 loc_type: city
 longitude: 7.268391
-score: 0.79
+score: 0.69
 title: Nice
 type: location
 ---

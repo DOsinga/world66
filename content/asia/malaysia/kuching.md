@@ -6,7 +6,7 @@ done:
 latitude: 1.5598
 loc_type: city
 longitude: 110.3453
-score: 0.64
+score: 0.54
 title: Kuching
 type: location
 ---

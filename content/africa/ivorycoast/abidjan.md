@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/22168167@N00/4035612169
 latitude: 5.3204
 loc_type: city
 longitude: -4.0161
-score: 0.37
+score: 0.34
 title: Abidjan
 type: location
 ---

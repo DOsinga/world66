@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blandwood_Mansion,_Greensb
 latitude: 36.072635
 loc_type: city
 longitude: -79.791975
-score: 0.38
+score: 0.29
 title: Greensboro
 type: location
 ---

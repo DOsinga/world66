@@ -5,7 +5,7 @@ done:
 latitude: 53.6947
 loc_type: city
 longitude: 17.5579
-score: 0.4
+score: 0.29
 title: Ziemia Chojnicka
 type: location
 ---

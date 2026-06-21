@@ -1,200 +1,200 @@
 {
   "round": 957,
-  "timestamp": "2026-04-12T16:09:14",
+  "timestamp": "2026-06-13T20:02:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 184,
-      "prior_n": 8
-    },
-    {
-      "rank": 2,
-      "title": "Yokohama",
-      "path": "asia/japan/honshu/yokohama",
-      "prior_rank": 60,
-      "prior_wins": 57,
+      "title": "W\u00fcrzburg",
+      "path": "europe/germany/bavaria/wurzburg",
+      "prior_score": 6.5575,
+      "prior_variance": 0.499366,
       "prior_n": 3
     },
     {
+      "rank": 2,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": 6.3845,
+      "prior_variance": 1.17965,
+      "prior_n": 2
+    },
+    {
       "rank": 3,
-      "title": "Playa del Carmen",
-      "path": "northamerica/mexico/yucatan/playadelcarmen",
-      "prior_rank": 669,
-      "prior_wins": 84,
-      "prior_n": 4
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 3.5574,
+      "prior_variance": 0.419688,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Carvoeiro",
-      "path": "europe/portugal/algarve/carvoeiro",
-      "prior_rank": 928,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Comox Valley",
+      "path": "northamerica/canada/britishcolumbia/comox_valley",
+      "prior_score": 1.1281,
+      "prior_variance": 0.453932,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Sibenik",
-      "path": "europe/croatia/sibenik",
-      "prior_rank": 760,
-      "prior_wins": 41,
-      "prior_n": 2
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 1.5631,
+      "prior_variance": 0.55763,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Estonia",
-      "path": "europe/estonia",
-      "prior_rank": 8014,
-      "prior_wins": 2,
-      "prior_n": 2
+      "title": "Oudtshoorn",
+      "path": "africa/southafrica/oudtshoorn",
+      "prior_score": 0.7119,
+      "prior_variance": 0.420969,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "South Dakota",
-      "path": "northamerica/unitedstates/southdakota",
-      "prior_rank": 2865,
-      "prior_wins": 44,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 0.55,
+      "prior_variance": 0.453431,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Angra dos Reis",
-      "path": "southamerica/brazil/angradosreis",
-      "prior_rank": 2421,
-      "prior_wins": 46,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 0.8809,
+      "prior_variance": 0.621344,
       "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Taranaki",
-      "path": "australiaandpacific/newzealand/taranaki",
-      "prior_rank": 3115,
-      "prior_wins": 14,
-      "prior_n": 1
+      "title": "Valkenburg",
+      "path": "europe/netherlands/valkenburg",
+      "prior_score": 1.872,
+      "prior_variance": 0.616772,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Lac des Bouillouses",
-      "path": "europe/france/midi/pyrenees/lac_des_bouillouse",
-      "prior_rank": 2584,
-      "prior_wins": 46,
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 1.4868,
+      "prior_variance": 0.513952,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Coniston",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/coniston_1",
-      "prior_rank": 1116,
-      "prior_wins": 39,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 2.7452,
+      "prior_variance": 0.948516,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Chuuk",
-      "path": "australiaandpacific/micronesiafederatedstatesof/chuuk",
-      "prior_rank": 5173,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Savognin",
+      "path": "europe/switzerland/savognin",
+      "prior_score": 0.3692,
+      "prior_variance": 0.41092,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Ocracoke Island",
-      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
-      "prior_rank": 2015,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.6724,
+      "prior_variance": 0.592511,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Scalea",
-      "path": "europe/italy/calabria/scalea",
-      "prior_rank": 5133,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": -0.7218,
+      "prior_variance": 0.494406,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Set\u00fabal",
-      "path": "europe/portugal/setubal",
-      "prior_rank": 3899,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 1.7207,
+      "prior_variance": 0.441459,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Astorga",
-      "path": "europe/spain/astorga",
-      "prior_rank": 2427,
-      "prior_wins": 102,
-      "prior_n": 7
+      "title": "Trikala",
+      "path": "europe/greece/trikala",
+      "prior_score": 2.1358,
+      "prior_variance": 0.433664,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "L\u2019Aquila",
-      "path": "europe/italy/abruzzo/aquila",
-      "prior_rank": 4249,
-      "prior_wins": 11,
-      "prior_n": 1
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": 1.5385,
+      "prior_variance": 0.684958,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Leeuwarden",
-      "path": "europe/netherlands/friesland/leeuwarden",
-      "prior_rank": 3150,
-      "prior_wins": 98,
-      "prior_n": 7
+      "title": "Heddal",
+      "path": "europe/norway/heddal",
+      "prior_score": -0.0432,
+      "prior_variance": 0.405009,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Solentiname Islands",
-      "path": "northamerica/nicaragua/solentiname_island",
-      "prior_rank": 4534,
-      "prior_wins": 20,
+      "title": "Jacmel",
+      "path": "northamerica/thecaribbean/haiti/jacmel",
+      "prior_score": -2.7156,
+      "prior_variance": 1.520369,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "San Jose",
-      "path": "northamerica/unitedstates/california/san_jose",
-      "prior_rank": 6051,
-      "prior_wins": 13,
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.7582,
+      "prior_variance": 0.68056,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Vijayawada",
-      "path": "asia/india/andhrapradesh/vijayawada",
-      "prior_rank": 6416,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -0.5568,
+      "prior_variance": 0.479491,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Rochdale",
-      "path": "europe/unitedkingdom/england/manchester_liverp/rochdale",
-      "prior_rank": 7813,
-      "prior_wins": 5,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": 0.178,
+      "prior_variance": 0.522311,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Borj Mokhtar",
-      "path": "africa/algeria/borjmokhtar",
-      "prior_rank": 8091,
-      "prior_wins": 2,
-      "prior_n": 3
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": -1.445,
+      "prior_variance": 0.597928,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Nablus",
-      "path": "asia/palestinianauthority/nablus",
-      "prior_rank": 7353,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": 1.6474,
+      "prior_variance": 0.469254,
+      "prior_n": 3
     }
   ]
 }

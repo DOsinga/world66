@@ -5,7 +5,7 @@ done:
 latitude: 44.336213
 loc_type: city
 longitude: 5.245032
-score: 0.41
+score: 0.32
 title: Rochebrune
 type: location
 ---

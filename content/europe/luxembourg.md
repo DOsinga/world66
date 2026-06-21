@@ -15,7 +15,7 @@ quick_facts:
   Public Transport: Free since 2020
   Non-Luxembourgish Residents: "Nearly 50%"
   Languages in Daily Use: "3 — Luxembourgish, French, German"
-score: 0.64
+score: 0.48
 loc_type: country
 ---
 

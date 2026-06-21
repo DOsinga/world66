@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stamsund_Hafen.jpg
 latitude: 68.130075
 loc_type: city
 longitude: 13.849229
-score: 0.61
+score: 0.52
 title: Stamsund
 type: location
 ---

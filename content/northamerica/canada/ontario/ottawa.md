@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parliament-Ottawa.jpg
 latitude: 45.4215
 loc_type: city
 longitude: -75.6972
-score: 0.6
+score: 0.48
 title: Ottawa
 type: location
 ---

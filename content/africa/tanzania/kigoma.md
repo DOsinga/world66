@@ -10,6 +10,7 @@ loc_type: city
 longitude: 29.6333
 title: Kigoma
 type: location
+score: 0.37
 ---
 
 Kigoma is the main Tanzanian town on **[Lake Tanganyika](/africa/tanzania/laketanganyika)**, tucked into a wooded hillside above one of the deepest and most ancient lakes on earth. It is a long way from anywhere — most travellers arrive on the old German-built railway from [Dar es Salaam](/africa/tanzania/daressalaam), a journey of two or three nights that ends with the train rolling down to the shore through stands of oil palm and mango. The town itself is small and unhurried, a working port with a single main street, a busy fishing harbour, and the kind of warm equatorial light that makes the lake look almost theatrical at sunset.

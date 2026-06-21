@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/27454212@N00/27519272353
 latitude: 67.6548
 loc_type: city
 longitude: 12.7262
-score: 0.67
+score: 0.58
 title: Værøy
 type: location
 ---

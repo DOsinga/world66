@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B0%D1%83%D0%B7%D
 latitude: 43.290362
 loc_type: city
 longitude: 68.258408
-score: 0.52
+score: 0.41
 title: Turkestan
 type: location
 ---

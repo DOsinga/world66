@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zakynthos_May_2009_Tsilivi
 latitude: 37.812344
 loc_type: city
 longitude: 20.871852
-score: 0.63
+score: 0.52
 title: Tsilivi
 type: location
 ---

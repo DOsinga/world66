@@ -7,7 +7,7 @@ done:
 latitude: 31.929089
 loc_type: city
 longitude: -4.434081
-score: 0.45
+score: 0.38
 title: Errachidia
 type: location
 ---

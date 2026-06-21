@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Partial_View_of_North-East
 latitude: 25.098265
 loc_type: city
 longitude: 94.363167
-score: 0.34
+score: 0.28
 title: Ukhrul
 type: location
 ---

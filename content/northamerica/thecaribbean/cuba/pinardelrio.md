@@ -5,7 +5,7 @@ done:
 latitude: 22.4167
 loc_type: city
 longitude: -83.6956
-score: 0.53
+score: 0.42
 title: Pinar del Río
 type: location
 ---

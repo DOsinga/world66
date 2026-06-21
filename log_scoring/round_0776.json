@@ -1,200 +1,200 @@
 {
   "round": 776,
-  "timestamp": "2026-04-12T10:47:36",
+  "timestamp": "2026-06-13T19:53:05",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Huang Shan",
-      "path": "asia/china/huang_shan",
-      "prior_mu": 25.6714,
-      "prior_sigma": 5.2851,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 4.0656,
+      "prior_variance": 1.068406,
       "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Leshan",
-      "path": "asia/china/sichuanprovince/leshan",
-      "prior_mu": 23.3594,
-      "prior_sigma": 4.8528,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 4.1352,
+      "prior_variance": 1.137358,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Kizhi",
-      "path": "europe/russia/karelia/kizhi",
-      "prior_mu": 22.8469,
-      "prior_sigma": 6.0118,
-      "prior_n": 1
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 4.7966,
+      "prior_variance": 1.198556,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Les Eyzies",
-      "path": "europe/france/aquitaine/leseyzies",
-      "prior_mu": 21.5345,
-      "prior_sigma": 4.0214,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 5.9063,
+      "prior_variance": 0.613399,
       "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Vichy",
-      "path": "europe/france/centre/auvergne/vichy",
-      "prior_mu": 23.1653,
-      "prior_sigma": 5.6795,
-      "prior_n": 1
-    },
-    {
-      "rank": 6,
-      "title": "Radstadt",
-      "path": "europe/austria/radstadt",
-      "prior_mu": 22.6626,
-      "prior_sigma": 5.9351,
-      "prior_n": 1
-    },
-    {
-      "rank": 7,
-      "title": "Oderzo",
-      "path": "europe/italy/veneto/oderzo",
-      "prior_mu": 21.8639,
-      "prior_sigma": 5.7174,
-      "prior_n": 1
-    },
-    {
-      "rank": 8,
-      "title": "Pulau Sekang",
-      "path": "asia/singapore/islands/pulausekang",
-      "prior_mu": 19.5124,
-      "prior_sigma": 4.145,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 1.2753,
+      "prior_variance": 1.14193,
       "prior_n": 3
     },
     {
+      "rank": 6,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 3.1976,
+      "prior_variance": 0.719171,
+      "prior_n": 2
+    },
+    {
+      "rank": 7,
+      "title": "Huanchaco",
+      "path": "southamerica/peru/huanchaco",
+      "prior_score": 4.2235,
+      "prior_variance": 0.813411,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Murchison Falls",
+      "path": "africa/uganda/rakai_district/murchison_falls",
+      "prior_score": 2.2833,
+      "prior_variance": 0.780744,
+      "prior_n": 2
+    },
+    {
       "rank": 9,
-      "title": "Clitheroe",
-      "path": "europe/unitedkingdom/england/clitheroe",
-      "prior_mu": 21.8559,
-      "prior_sigma": 4.7023,
+      "title": "Manado",
+      "path": "asia/indonesia/sulawesi/manado",
+      "prior_score": 2.3925,
+      "prior_variance": 0.972724,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Monkstown",
-      "path": "europe/ireland/cork/monkstown",
-      "prior_mu": 22.2892,
-      "prior_sigma": 5.4241,
-      "prior_n": 1
+      "title": "Coorg",
+      "path": "asia/india/karnataka/coorg",
+      "prior_score": 4.2379,
+      "prior_variance": 0.759381,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Espoo",
-      "path": "europe/finland/espoo",
-      "prior_mu": 21.7561,
-      "prior_sigma": 4.6411,
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 3.7209,
+      "prior_variance": 0.701849,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Karelia",
-      "path": "europe/russia/karelia",
-      "prior_mu": 22.2014,
-      "prior_sigma": 5.4954,
-      "prior_n": 1
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 3.9849,
+      "prior_variance": 0.638041,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Kielce",
-      "path": "europe/poland/kielce",
-      "prior_mu": 22.7378,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 4.6889,
+      "prior_variance": 0.821609,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Bahia de Caraquez",
-      "path": "southamerica/ecuador/bahiadecaraquez",
-      "prior_mu": 22.504,
-      "prior_sigma": 5.4192,
-      "prior_n": 1
+      "title": "Kaunas",
+      "path": "europe/lithuania/kaunas",
+      "prior_score": 5.3314,
+      "prior_variance": 0.622804,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Niulakita island",
-      "path": "australiaandpacific/tuvalu/niulakitaisland",
-      "prior_mu": 16.4143,
-      "prior_sigma": 4.5444,
-      "prior_n": 3
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 3.2441,
+      "prior_variance": 0.806948,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Mashhad",
-      "path": "asia/iran/mashhad",
-      "prior_mu": 22.5374,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
+      "title": "Middelburg",
+      "path": "europe/netherlands/middelburg",
+      "prior_score": 6.0208,
+      "prior_variance": 0.750842,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Jinotega",
-      "path": "northamerica/nicaragua/jinotega",
-      "prior_mu": 22.6766,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 2.4462,
+      "prior_variance": 0.679436,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Samarinda",
-      "path": "asia/indonesia/kalimantan/samarinda",
-      "prior_mu": 21.5819,
-      "prior_sigma": 4.5089,
+      "title": "Valence",
+      "path": "europe/france/alpes/valence",
+      "prior_score": 1.9267,
+      "prior_variance": 1.107321,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Tipping",
-      "path": "northamerica/costarica/travelinformation/tipping",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": 2.8958,
+      "prior_variance": 0.906097,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Monroe",
-      "path": "northamerica/unitedstates/louisiana/monroe",
-      "prior_mu": 22.2616,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 3.7018,
+      "prior_variance": 0.663871,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Santa Ana",
-      "path": "northamerica/unitedstates/california/orangecounty/santaana",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Leavenworth",
+      "path": "northamerica/unitedstates/washington/leavenworth",
+      "prior_score": 2.9799,
+      "prior_variance": 0.748705,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Tumkur",
-      "path": "asia/india/karnataka/tumkur",
-      "prior_mu": 17.8333,
-      "prior_sigma": 6.7588,
-      "prior_n": 1
+      "title": "Annot",
+      "path": "europe/france/midi/southern_alps/annot",
+      "prior_score": 3.164,
+      "prior_variance": 0.969789,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Massingir",
-      "path": "africa/mozambique/massingir",
-      "prior_mu": 22.5762,
-      "prior_sigma": 5.6652,
-      "prior_n": 1
+      "title": "Eastbourne",
+      "path": "europe/unitedkingdom/england/south_east/eastbourne",
+      "prior_score": 3.6046,
+      "prior_variance": 0.617264,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Togo",
-      "path": "africa/togo",
-      "prior_mu": 22.2473,
-      "prior_sigma": 5.5217,
-      "prior_n": 1
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": -0.2621,
+      "prior_variance": 0.85771,
+      "prior_n": 2
     }
   ]
 }

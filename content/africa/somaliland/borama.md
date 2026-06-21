@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borama,_Awdal,_Somaliland.
 latitude: 9.9387
 loc_type: city
 longitude: 43.1841
-score: 0.28
+score: 0.18
 title: Borama
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mont-Laurier01.JPG
 latitude: 46.552407
 loc_type: city
 longitude: -75.49689
-score: 0.4
+score: 0.32
 title: Mont-Laurier
 type: location
 ---

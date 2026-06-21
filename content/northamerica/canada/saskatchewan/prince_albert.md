@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Prince_Albert_National_Par
 latitude: 53.202029
 loc_type: city
 longitude: -105.755896
-score: 0.34
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Prince_Albert,_Saskatchewan
 - https://en.wikipedia.org/wiki/Prince_Albert_National_Park

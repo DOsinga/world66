@@ -6,7 +6,7 @@ latitude: 4.378938
 longitude: -7.706099
 title: Harper
 type: location
-score: 0.28
+score: 0.23
 loc_type: city
 ---
 

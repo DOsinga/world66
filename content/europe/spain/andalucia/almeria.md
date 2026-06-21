@@ -13,6 +13,7 @@ sources:
 - https://www.turismodealmeria.org/
 title: Almería
 type: location
+score: 0.48
 ---
 
 Almería is the dry, bright eastern edge of Andalucía, a port city where the old Moorish frontier, a working harbour, and the desert landscapes of Cabo de Gata all meet. It is less polished than [Granada](/europe/spain/andalucia/granada) or [Seville](/europe/spain/andalucia/seville), and that is part of the appeal: the city still feels local, sun-baked, and faintly maritime rather than dressed for visitors.

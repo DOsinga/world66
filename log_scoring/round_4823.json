@@ -1,0 +1,200 @@
+{
+  "round": 4823,
+  "timestamp": "2026-06-14T00:44:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.179,
+      "prior_variance": 0.221566,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.1379,
+      "prior_variance": 0.174124,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Rum",
+      "path": "asia/jordan/wadirum/rum",
+      "prior_score": 7.7637,
+      "prior_variance": 0.162218,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Urbino",
+      "path": "europe/italy/marche/urbino",
+      "prior_score": 3.7448,
+      "prior_variance": 0.088852,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 3.4659,
+      "prior_variance": 0.090751,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Nassau",
+      "path": "northamerica/bahamas/nassau",
+      "prior_score": 4.1454,
+      "prior_variance": 0.087028,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 3.5714,
+      "prior_variance": 0.107669,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Ciudad Rodrigo",
+      "path": "europe/spain/centralspain/ciudadrodrigo",
+      "prior_score": 1.1048,
+      "prior_variance": 0.081348,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.6333,
+      "prior_variance": 0.085286,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -1.0434,
+      "prior_variance": 0.082716,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Wangerooge",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/wangerooge",
+      "prior_score": 0.1855,
+      "prior_variance": 0.084896,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Leighlinbridge",
+      "path": "europe/ireland/carlow/leighlinbridge",
+      "prior_score": -2.4059,
+      "prior_variance": 0.094325,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Kakheti",
+      "path": "europe/georgia/kakheti",
+      "prior_score": 2.9984,
+      "prior_variance": 0.104169,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": 0.0761,
+      "prior_variance": 0.087989,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Mangilao",
+      "path": "australiaandpacific/guam/mangilao",
+      "prior_score": -2.6565,
+      "prior_variance": 0.087372,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -3.8395,
+      "prior_variance": 0.102036,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Udayagiri",
+      "path": "asia/india/orissa/udayagiri",
+      "prior_score": -4.7561,
+      "prior_variance": 0.115731,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kasungu",
+      "path": "africa/malawi/zombaplateau/kasungu",
+      "prior_score": -5.7017,
+      "prior_variance": 0.129624,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Lozovik",
+      "path": "europe/serbia/lozovik",
+      "prior_score": -7.8664,
+      "prior_variance": 0.138667,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -7.1216,
+      "prior_variance": 0.137962,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.4527,
+      "prior_variance": 0.148054,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Kita",
+      "path": "africa/mali/kita",
+      "prior_score": -8.1974,
+      "prior_variance": 0.177305,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Kiffa",
+      "path": "africa/mauritania/kiffa",
+      "prior_score": -7.8667,
+      "prior_variance": 0.158442,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -7.9145,
+      "prior_variance": 0.161857,
+      "prior_n": 15
+    }
+  ]
+}

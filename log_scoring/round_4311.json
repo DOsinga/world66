@@ -1,0 +1,200 @@
+{
+  "round": 4311,
+  "timestamp": "2026-06-14T00:02:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paros",
+      "path": "europe/greece/paros",
+      "prior_score": 8.2971,
+      "prior_variance": 0.161095,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Halong City",
+      "path": "asia/vietnam/halong_city",
+      "prior_score": 4.3654,
+      "prior_variance": 0.137574,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.1982,
+      "prior_variance": 0.097232,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 2.7539,
+      "prior_variance": 0.091949,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Baracoa",
+      "path": "northamerica/thecaribbean/cuba/baracoa",
+      "prior_score": 3.1532,
+      "prior_variance": 0.112664,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district",
+      "prior_score": 0.5363,
+      "prior_variance": 0.101782,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 2.4274,
+      "prior_variance": 0.095769,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Laxey",
+      "path": "europe/unitedkingdom/manisleof/laxey",
+      "prior_score": -0.1788,
+      "prior_variance": 0.093719,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Joshua Tree",
+      "path": "northamerica/unitedstates/california/deserts/joshuatree",
+      "prior_score": 4.1666,
+      "prior_variance": 0.110315,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Sun Valley",
+      "path": "northamerica/unitedstates/idaho/sunvalley",
+      "prior_score": 2.5238,
+      "prior_variance": 0.111325,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Sharyn Canyon",
+      "path": "asia/kazakhstan/sharyn_canyon",
+      "prior_score": 2.5458,
+      "prior_variance": 0.104152,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -1.3403,
+      "prior_variance": 0.101104,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.1465,
+      "prior_variance": 0.090921,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.7152,
+      "prior_variance": 0.106727,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Angel Fire",
+      "path": "northamerica/unitedstates/newmexico/angelfire",
+      "prior_score": -1.2585,
+      "prior_variance": 0.105348,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Resistencia",
+      "path": "southamerica/argentina/resistencia",
+      "prior_score": -3.1169,
+      "prior_variance": 0.104375,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -4.7608,
+      "prior_variance": 0.115206,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Nurek",
+      "path": "asia/tajikistan/nurek",
+      "prior_score": -5.4908,
+      "prior_variance": 0.139196,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Waynoka",
+      "path": "northamerica/unitedstates/oklahoma/waynoka",
+      "prior_score": -6.3471,
+      "prior_variance": 0.114157,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "San Mateo",
+      "path": "northamerica/unitedstates/california/sanmateo",
+      "prior_score": -3.6393,
+      "prior_variance": 0.11508,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -5.7605,
+      "prior_variance": 0.141349,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -8.2137,
+      "prior_variance": 0.176666,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.4056,
+      "prior_variance": 0.219682,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bouar",
+      "path": "africa/centralafricanrepublic/bouar",
+      "prior_score": -8.5368,
+      "prior_variance": 0.16695,
+      "prior_n": 13
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4169,
+  "timestamp": "2026-06-13T23:50:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 10.6841,
+      "prior_variance": 0.374264,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/chichenitza",
+      "prior_score": 10.3121,
+      "prior_variance": 0.251787,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Ushuaia",
+      "path": "southamerica/argentina/patagonia/ushuaia",
+      "prior_score": 6.912,
+      "prior_variance": 0.162784,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Cozumel",
+      "path": "northamerica/mexico/cozumel",
+      "prior_score": 6.9422,
+      "prior_variance": 0.132932,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Manu National Park",
+      "path": "southamerica/peru/manunationalpark",
+      "prior_score": 4.6122,
+      "prior_variance": 0.124578,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.5925,
+      "prior_variance": 0.145485,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.4534,
+      "prior_variance": 0.108931,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "San Quirico d'Orcia",
+      "path": "europe/italy/tuscany/san_quirico_dorcia",
+      "prior_score": 5.1819,
+      "prior_variance": 0.132254,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Hardangervidda National Park",
+      "path": "europe/norway/hardangerviddanationalpark",
+      "prior_score": 4.4566,
+      "prior_variance": 0.120834,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Galway",
+      "path": "europe/ireland/galway",
+      "prior_score": 6.9124,
+      "prior_variance": 0.139912,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Zakynthos City",
+      "path": "europe/greece/zakinthos/zakynthoscity",
+      "prior_score": 4.6338,
+      "prior_variance": 0.109169,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 2.9578,
+      "prior_variance": 0.091234,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Asian Side (Kad\u0131k\u00f6y)",
+      "path": "asia/turkey/asianpart",
+      "prior_score": 2.8135,
+      "prior_variance": 0.102363,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Diano Marina",
+      "path": "europe/italy/liguria/dianomarina",
+      "prior_score": 1.907,
+      "prior_variance": 0.095963,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Kuopio",
+      "path": "europe/finland/kuopio",
+      "prior_score": -0.0569,
+      "prior_variance": 0.101871,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Lunenburg",
+      "path": "northamerica/canada/novascotia/lunenburg",
+      "prior_score": 3.6911,
+      "prior_variance": 0.108113,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Loja",
+      "path": "southamerica/ecuador/loja",
+      "prior_score": -0.5137,
+      "prior_variance": 0.094212,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.2055,
+      "prior_variance": 0.095299,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Domburg",
+      "path": "europe/netherlands/domburg",
+      "prior_score": 0.3927,
+      "prior_variance": 0.093868,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": 0.1706,
+      "prior_variance": 0.114353,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Elgin",
+      "path": "europe/unitedkingdom/scotland/elgin",
+      "prior_score": -0.4347,
+      "prior_variance": 0.099926,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Xinglong",
+      "path": "asia/china/hainanisland/xinglong",
+      "prior_score": -2.5575,
+      "prior_variance": 0.10414,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -6.7685,
+      "prior_variance": 0.143099,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -6.3386,
+      "prior_variance": 0.127166,
+      "prior_n": 13
+    }
+  ]
+}

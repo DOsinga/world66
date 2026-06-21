@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Washington_State_Capitol_a
 latitude: 47.045102
 loc_type: city
 longitude: -122.895008
-score: 0.46
+score: 0.38
 title: Olympia
 type: location
 ---

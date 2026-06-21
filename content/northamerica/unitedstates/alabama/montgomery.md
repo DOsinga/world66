@@ -5,7 +5,7 @@ done:
 latitude: 32.377711
 loc_type: city
 longitude: -86.309078
-score: 0.4
+score: 0.34
 title: Montgomery
 type: location
 ---

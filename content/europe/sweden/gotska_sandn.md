@@ -5,7 +5,7 @@ latitude: 58.367546
 longitude: 19.257578
 title: Gotska Sandön
 type: location
-score: 0.4
+score: 0.38
 loc_type: feature
 ---
 

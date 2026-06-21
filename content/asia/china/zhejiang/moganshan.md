@@ -8,6 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Moganshan
 title: Moganshan
 type: location
+score: 0.43
 ---
 
 Moganshan is a forested ridge in the hills between Hangzhou and Huzhou that has served as a retreat from summer heat since the late nineteenth century, when foreign missionaries and Shanghai businessmen built [stone villas](/asia/china/zhejiang/moganshan/colonial_villas) among the bamboo. The colonial-era architecture — dozens of stone houses with tile roofs and deep verandas — survives remarkably intact, tucked into the hillside along lanes that feel less like China than like a hill station in the Nilgiris. The temperature runs five degrees cooler than the cities below, which explains everything about the mountain's history.

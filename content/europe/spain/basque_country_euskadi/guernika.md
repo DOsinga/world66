@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbol_de_Gernika_d%C3%ADa.
 latitude: 43.316667
 loc_type: city
 longitude: -2.666667
-score: 0.56
+score: 0.48
 title: Guernika
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2786,
+  "timestamp": "2026-06-13T22:07:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Victoria Falls",
+      "path": "africa/zimbabwe/victoriafalls",
+      "prior_score": 11.1705,
+      "prior_variance": 0.51676,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Haifa",
+      "path": "asia/israel/haifa",
+      "prior_score": 3.7168,
+      "prior_variance": 0.162636,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Darwin",
+      "path": "australiaandpacific/australia/northernterritory/darwin",
+      "prior_score": 0.9359,
+      "prior_variance": 0.168705,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Jeddah",
+      "path": "asia/saudiarabia/jeddah",
+      "prior_score": 0.7438,
+      "prior_variance": 0.145086,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.0761,
+      "prior_variance": 0.176907,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Whangarei",
+      "path": "australiaandpacific/newzealand/whangarei",
+      "prior_score": 0.7627,
+      "prior_variance": 0.143518,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": -0.3025,
+      "prior_variance": 0.153081,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.0922,
+      "prior_variance": 0.188622,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 2.5104,
+      "prior_variance": 0.173968,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district",
+      "prior_score": 0.8947,
+      "prior_variance": 0.149922,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Den Burg",
+      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
+      "prior_score": 0.8752,
+      "prior_variance": 0.155568,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Palazzuolo sul Senio",
+      "path": "europe/italy/tuscany/florenceprovince/altomugelloarea/palazzuolo_sul_senio",
+      "prior_score": -0.3196,
+      "prior_variance": 0.183019,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Cerveteri",
+      "path": "europe/italy/lazio/cerveteri",
+      "prior_score": 0.9784,
+      "prior_variance": 0.195729,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Ceriale",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/ceriale",
+      "prior_score": -0.1363,
+      "prior_variance": 0.180657,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.0048,
+      "prior_variance": 0.165654,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "G\u00f6ttingen",
+      "path": "europe/germany/lowersaxony/goettingen",
+      "prior_score": -0.6304,
+      "prior_variance": 0.153745,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 1.0096,
+      "prior_variance": 0.136394,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.7881,
+      "prior_variance": 0.14794,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Virginia City",
+      "path": "northamerica/unitedstates/montana/virginiacity",
+      "prior_score": -0.7492,
+      "prior_variance": 0.151505,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.6301,
+      "prior_variance": 0.147852,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Freetown Peninsula",
+      "path": "africa/sierraleone/freetown_peninsula",
+      "prior_score": -2.2195,
+      "prior_variance": 0.168431,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.4397,
+      "prior_variance": 0.166598,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Comodoro Rivadavia",
+      "path": "southamerica/argentina/patagonia/comodoro_rivadavia",
+      "prior_score": -3.8413,
+      "prior_variance": 0.170212,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "El Merj",
+      "path": "africa/libya/elmerj",
+      "prior_score": -8.1162,
+      "prior_variance": 0.262953,
+      "prior_n": 8
+    }
+  ]
+}

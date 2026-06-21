@@ -5,7 +5,7 @@ latitude: 37.650107
 longitude: 24.026282
 title: Cape Sounion
 type: location
-score: 0.65
+score: 0.58
 loc_type: feature
 ---
 

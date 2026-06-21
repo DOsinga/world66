@@ -1,0 +1,200 @@
+{
+  "round": 2715,
+  "timestamp": "2026-06-13T22:02:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Krabi Town",
+      "path": "asia/thailand/krabi/krabitown",
+      "prior_score": 5.1797,
+      "prior_variance": 0.250228,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Chambord",
+      "path": "europe/france/centre/loirevalley/chambord",
+      "prior_score": 7.3746,
+      "prior_variance": 0.205797,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 0.857,
+      "prior_variance": 0.144892,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -0.3607,
+      "prior_variance": 0.168034,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Manilva",
+      "path": "europe/spain/andalucia/manilva",
+      "prior_score": -0.5724,
+      "prior_variance": 0.134608,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Punta del Este",
+      "path": "southamerica/uruguay/puntadeleste",
+      "prior_score": 4.2264,
+      "prior_variance": 0.175655,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.0512,
+      "prior_variance": 0.162528,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": -0.3151,
+      "prior_variance": 0.150284,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -0.5765,
+      "prior_variance": 0.152894,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Karpenisi",
+      "path": "europe/greece/karpenisi",
+      "prior_score": 0.6508,
+      "prior_variance": 0.164203,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Sandur",
+      "path": "europe/faroeislands/sandoy/sandur",
+      "prior_score": 0.2039,
+      "prior_variance": 0.150684,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "San Rafael",
+      "path": "southamerica/argentina/san_rafael",
+      "prior_score": -1.4045,
+      "prior_variance": 0.180986,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Lule\u00e5",
+      "path": "europe/sweden/lulea",
+      "prior_score": -0.6309,
+      "prior_variance": 0.161824,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Flensburg",
+      "path": "europe/germany/schleswigholstein/flensburg",
+      "prior_score": -0.339,
+      "prior_variance": 0.16529,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.5968,
+      "prior_variance": 0.163952,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -0.3971,
+      "prior_variance": 0.188896,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 0.2991,
+      "prior_variance": 0.152334,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 0.5512,
+      "prior_variance": 0.1489,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.0127,
+      "prior_variance": 0.165205,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Bellows Falls",
+      "path": "northamerica/unitedstates/vermont/bellowsfalls",
+      "prior_score": -3.2454,
+      "prior_variance": 0.229929,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -3.6556,
+      "prior_variance": 0.183493,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.1646,
+      "prior_variance": 0.164361,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": -2.1853,
+      "prior_variance": 0.25149,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Thurnau",
+      "path": "europe/germany/bavaria/thurnau",
+      "prior_score": -3.3145,
+      "prior_variance": 0.169257,
+      "prior_n": 9
+    }
+  ]
+}

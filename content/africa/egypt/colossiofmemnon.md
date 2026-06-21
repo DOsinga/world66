@@ -5,7 +5,7 @@ latitude: 25.720495
 longitude: 32.610441
 title: Colossi of Memnon
 type: location
-score: 0.6
+score: 0.55
 loc_type: feature
 ---
 

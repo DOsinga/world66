@@ -5,7 +5,7 @@ done:
 latitude: 36.99292
 loc_type: city
 longitude: -86.442868
-score: 0.4
+score: 0.33
 title: Bowling Green
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4197,
+  "timestamp": "2026-06-13T23:53:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 5.8045,
+      "prior_variance": 0.142812,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 7.0557,
+      "prior_variance": 0.127038,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 7.5008,
+      "prior_variance": 0.150592,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 7.7831,
+      "prior_variance": 0.169387,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "San Diego",
+      "path": "northamerica/unitedstates/california/sandiego",
+      "prior_score": 6.2317,
+      "prior_variance": 0.147622,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Brela",
+      "path": "europe/croatia/brela",
+      "prior_score": 4.4624,
+      "prior_variance": 0.113517,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "La Roque-Gageac",
+      "path": "europe/france/midi/dordogne/laroquegageac",
+      "prior_score": 4.4768,
+      "prior_variance": 0.108527,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 3.798,
+      "prior_variance": 0.096418,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ba\u00f1os",
+      "path": "southamerica/ecuador/banos",
+      "prior_score": 5.2434,
+      "prior_variance": 0.126206,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 5.4551,
+      "prior_variance": 0.114733,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 4.8796,
+      "prior_variance": 0.116744,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Wuyishan",
+      "path": "asia/china/fujianprovince/wuyishan",
+      "prior_score": 3.3076,
+      "prior_variance": 0.108886,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.3126,
+      "prior_variance": 0.113883,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.1585,
+      "prior_variance": 0.10785,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Ravenglass",
+      "path": "europe/unitedkingdom/england/lakedistrict/ravenglass",
+      "prior_score": 0.1336,
+      "prior_variance": 0.093465,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": -0.4087,
+      "prior_variance": 0.098209,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Cagayan de Oro",
+      "path": "asia/philippines/mindanaoisland/cagayandeoro",
+      "prior_score": -1.3805,
+      "prior_variance": 0.097348,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.567,
+      "prior_variance": 0.095764,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Bandar-e Anzali",
+      "path": "asia/iran/bandareanzali",
+      "prior_score": -3.4362,
+      "prior_variance": 0.102192,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Hu\u00e1nuco",
+      "path": "southamerica/peru/huanuco",
+      "prior_score": -1.5505,
+      "prior_variance": 0.096247,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -2.2261,
+      "prior_variance": 0.100376,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -5.529,
+      "prior_variance": 0.123487,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Lawton",
+      "path": "northamerica/unitedstates/oklahoma/lawton",
+      "prior_score": -5.6524,
+      "prior_variance": 0.144188,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Bakersfield",
+      "path": "northamerica/unitedstates/california/centralvalley/bakersfield",
+      "prior_score": -5.4152,
+      "prior_variance": 0.127767,
+      "prior_n": 14
+    }
+  ]
+}

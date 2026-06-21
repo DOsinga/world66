@@ -1,0 +1,200 @@
+{
+  "round": 2410,
+  "timestamp": "2026-06-13T21:40:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 6.445,
+      "prior_variance": 0.214107,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 6.4125,
+      "prior_variance": 0.305304,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Albarrac\u00edn",
+      "path": "europe/spain/aragon/albarracin",
+      "prior_score": 6.8147,
+      "prior_variance": 0.270846,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 4.189,
+      "prior_variance": 0.162553,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 5.2024,
+      "prior_variance": 0.235774,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.4742,
+      "prior_variance": 0.176823,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Tsomgo Lake",
+      "path": "asia/india/sikkim/chaggutsomgolake",
+      "prior_score": 2.3493,
+      "prior_variance": 0.192763,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.2435,
+      "prior_variance": 0.281497,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 1.6209,
+      "prior_variance": 0.198301,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 3.2956,
+      "prior_variance": 0.172799,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 4.0258,
+      "prior_variance": 0.19127,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Almaty",
+      "path": "asia/kazakhstan/almaty",
+      "prior_score": 2.5279,
+      "prior_variance": 0.222843,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.7969,
+      "prior_variance": 0.204069,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.7872,
+      "prior_variance": 0.191969,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "New Plymouth",
+      "path": "australiaandpacific/newzealand/north_island/whanganui_region/newplymouth",
+      "prior_score": -0.3337,
+      "prior_variance": 0.19725,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/pasadena",
+      "prior_score": 2.1254,
+      "prior_variance": 0.183932,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.2955,
+      "prior_variance": 0.201436,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Wangdue Phodrang",
+      "path": "asia/bhutan/wangdiphodrang",
+      "prior_score": 1.5931,
+      "prior_variance": 0.20676,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Vordingborg",
+      "path": "europe/denmark/vordingborg",
+      "prior_score": -1.4788,
+      "prior_variance": 0.187744,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Grand Junction",
+      "path": "northamerica/unitedstates/colorado/grandjunction",
+      "prior_score": -0.6052,
+      "prior_variance": 0.177661,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Bo'ao",
+      "path": "asia/china/hainanisland/boao",
+      "prior_score": -1.8706,
+      "prior_variance": 0.212115,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bhagalpur",
+      "path": "asia/india/bihar/bhagalpur",
+      "prior_score": -6.343,
+      "prior_variance": 0.203804,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Chickasaw",
+      "path": "northamerica/unitedstates/oklahoma/chickasaw",
+      "prior_score": -8.0893,
+      "prior_variance": 0.335063,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Kolwezi",
+      "path": "africa/congokinshasa/kolwezi",
+      "prior_score": -8.4295,
+      "prior_variance": 0.263603,
+      "prior_n": 7
+    }
+  ]
+}

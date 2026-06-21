@@ -13,7 +13,7 @@ quick_facts:
   Language: "French essential"
   Birthplace of Voodoo: "West African origin"
   Ethnic Groups: "42"
-score: 0.38
+score: 0.49
 loc_type: country
 ---
 

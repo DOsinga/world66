@@ -1,0 +1,200 @@
+{
+  "round": 4597,
+  "timestamp": "2026-06-14T00:25:37",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.0222,
+      "prior_variance": 0.253072,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Torres del Paine",
+      "path": "southamerica/argentina/patagonia/torresdelpaine",
+      "prior_score": 9.2043,
+      "prior_variance": 0.239515,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 8.4404,
+      "prior_variance": 0.162451,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 6.7656,
+      "prior_variance": 0.123317,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Lake Bohinj",
+      "path": "europe/slovenia/lakebohinj",
+      "prior_score": 6.4732,
+      "prior_variance": 0.130431,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.4819,
+      "prior_variance": 0.106943,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.3728,
+      "prior_variance": 0.101376,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 4.1126,
+      "prior_variance": 0.104905,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.2237,
+      "prior_variance": 0.092875,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.8674,
+      "prior_variance": 0.102745,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.4593,
+      "prior_variance": 0.089597,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Moray",
+      "path": "southamerica/peru/moray",
+      "prior_score": 2.9699,
+      "prior_variance": 0.122493,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Humahuaca",
+      "path": "southamerica/argentina/humahuaca",
+      "prior_score": 2.8444,
+      "prior_variance": 0.09045,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": 2.1482,
+      "prior_variance": 0.097069,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "R\u00fcgen",
+      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
+      "prior_score": 2.3533,
+      "prior_variance": 0.092001,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Chaka Lake",
+      "path": "asia/china/qinghai/chaka-lake",
+      "prior_score": 3.0324,
+      "prior_variance": 0.098488,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Mulanje Mountains",
+      "path": "africa/malawi/mulanje_mountains",
+      "prior_score": 1.1748,
+      "prior_variance": 0.09591,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.2856,
+      "prior_variance": 0.099986,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 1.1382,
+      "prior_variance": 0.10814,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Okemah",
+      "path": "northamerica/unitedstates/oklahoma/okemah",
+      "prior_score": -6.1613,
+      "prior_variance": 0.136882,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -7.3743,
+      "prior_variance": 0.179715,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Lebanon",
+      "path": "northamerica/unitedstates/indiana/lebanon",
+      "prior_score": -5.4642,
+      "prior_variance": 0.114137,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Manteca",
+      "path": "northamerica/unitedstates/california/centralvalley/manteca",
+      "prior_score": -6.8016,
+      "prior_variance": 0.147635,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kismayu",
+      "path": "africa/somalia/kismayu",
+      "prior_score": -11.8194,
+      "prior_variance": 0.522001,
+      "prior_n": 14
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aww,_Metropolitan,_Jayapur
 latitude: -2.5388
 loc_type: city
 longitude: 140.7037
-score: 0.41
+score: 0.33
 title: Jayapura
 type: location
 ---

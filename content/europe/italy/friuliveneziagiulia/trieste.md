@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trieste_(28766391880).jpg
 latitude: 45.649648
 loc_type: city
 longitude: 13.777278
-score: 0.62
+score: 0.54
 title: Trieste
 type: location
 ---

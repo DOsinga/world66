@@ -6,7 +6,7 @@ latitude: 31.690798
 longitude: -106.425321
 title: Juarez
 type: location
-score: 0.28
+score: 0.19
 loc_type: city
 image: juarez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Ciudad_Ju%C3%A1rez_y_Misi%C3%B3n_de_Guadalupe.jpg

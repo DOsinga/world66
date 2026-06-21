@@ -1,200 +1,200 @@
 {
   "round": 414,
-  "timestamp": "2026-04-12T09:29:51",
+  "timestamp": "2026-06-13T19:34:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Yellowknife",
-      "path": "northamerica/canada/northwestterritories/yellowknife",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ashland",
+      "path": "northamerica/unitedstates/oregon/ashland",
+      "prior_score": -0.4721,
+      "prior_variance": 1.534353,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Nelson",
-      "path": "northamerica/canada/britishcolumbia/nelson",
-      "prior_mu": 22.4442,
-      "prior_sigma": 5.5623,
+      "title": "Holmavik",
+      "path": "europe/iceland/holmavik",
+      "prior_score": -3.9501,
+      "prior_variance": 2.032441,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Kingston",
-      "path": "northamerica/canada/ontario/kingston",
-      "prior_mu": 22.9807,
-      "prior_sigma": 5.6961,
+      "title": "Diksmuide",
+      "path": "europe/belgium/diksmuide",
+      "prior_score": -2.7917,
+      "prior_variance": 1.62946,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Nanaimo",
-      "path": "northamerica/canada/britishcolumbia/nanaimo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ashbourne",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/ashbourne",
+      "prior_score": -5.4876,
+      "prior_variance": 1.692283,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Saint John",
-      "path": "northamerica/canada/newbrunswick/saintjohn",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -2.7065,
+      "prior_variance": 3.057629,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Cobourg",
-      "path": "northamerica/canada/ontario/cobourg",
-      "prior_mu": 22.1501,
-      "prior_sigma": 5.7517,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -6.1713,
+      "prior_variance": 1.576376,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Chemainus",
-      "path": "northamerica/canada/britishcolumbia/victoria/chemainus",
-      "prior_mu": 22.6077,
-      "prior_sigma": 5.9345,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -7.411,
+      "prior_variance": 2.243756,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "campbell river",
-      "path": "northamerica/canada/britishcolumbia/campbell_river",
-      "prior_mu": 22.7196,
-      "prior_sigma": 5.9495,
+      "title": "Goldfield",
+      "path": "northamerica/unitedstates/nevada/goldfield",
+      "prior_score": -9.2002,
+      "prior_variance": 3.441939,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Haliburton",
-      "path": "northamerica/canada/ontario/haliburton",
-      "prior_mu": 22.893,
-      "prior_sigma": 5.7248,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -9.1088,
+      "prior_variance": 2.584368,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Kenora",
-      "path": "northamerica/canada/ontario/kenora",
-      "prior_mu": 22.0235,
-      "prior_sigma": 5.7393,
+      "title": "Dego",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/dego",
+      "prior_score": -5.8011,
+      "prior_variance": 2.424838,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "North Bay",
-      "path": "northamerica/canada/ontario/north_bay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gioia Tauro",
+      "path": "europe/italy/calabria/gioia_tauro",
+      "prior_score": -7.6052,
+      "prior_variance": 1.774333,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Brandon",
-      "path": "northamerica/canada/manitoba/brandon",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -4.6295,
+      "prior_variance": 1.499748,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Sarnia",
-      "path": "northamerica/canada/ontario/sarnia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -13.2002,
+      "prior_variance": 6.89157,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Delta",
-      "path": "northamerica/canada/britishcolumbia/vancouver/delta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Henderson",
+      "path": "northamerica/unitedstates/nevada/henderson",
+      "prior_score": -8.8925,
+      "prior_variance": 2.058434,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Mattawa",
-      "path": "northamerica/canada/ontario/mattawa",
-      "prior_mu": 22.7074,
-      "prior_sigma": 5.948,
+      "title": "Foshan",
+      "path": "asia/china/guangdong/foshan",
+      "prior_score": -4.2663,
+      "prior_variance": 1.570532,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Alberta",
-      "path": "northamerica/canada/alberta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Panzhihua",
+      "path": "asia/china/sichuanprovince/panzhihua",
+      "prior_score": -6.2933,
+      "prior_variance": 4.761333,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Moose Jaw",
-      "path": "northamerica/canada/saskatchewan/moose_jaw",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -5.4291,
+      "prior_variance": 1.98284,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Universities",
-      "path": "northamerica/canada/alberta/edmonton/universities",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Buckingham",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
+      "prior_score": -10.0775,
+      "prior_variance": 3.61752,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Port Burwell",
-      "path": "northamerica/canada/ontario/port_burwell",
-      "prior_mu": 22.6911,
-      "prior_sigma": 5.9459,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -9.0441,
+      "prior_variance": 2.01114,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Naufrage",
-      "path": "northamerica/canada/princeedwardisland/naufrage",
-      "prior_mu": 22.1959,
-      "prior_sigma": 5.7732,
+      "title": "Jid Hafs",
+      "path": "asia/bahrain/jid_hafs",
+      "prior_score": -8.6282,
+      "prior_variance": 3.998132,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "100 Mile House",
-      "path": "northamerica/canada/britishcolumbia/100milehouse",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Balkh",
+      "path": "asia/afghanistan/balkh",
+      "prior_score": -6.9746,
+      "prior_variance": 1.405439,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Cold Lake",
-      "path": "northamerica/canada/alberta/coldlake",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Keren",
+      "path": "africa/eritrea/keren",
+      "prior_score": -8.6222,
+      "prior_variance": 2.388169,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Arviat",
-      "path": "northamerica/canada/nunavut/arviat",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Marib",
+      "path": "asia/yemen/marib",
+      "prior_score": -7.696,
+      "prior_variance": 1.603951,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Legal",
-      "path": "northamerica/canada/alberta/legal",
-      "prior_mu": 16.4377,
-      "prior_sigma": 4.6536,
-      "prior_n": 3
+      "title": "Anjalankoski",
+      "path": "europe/finland/anjalankoski",
+      "prior_score": -6.2951,
+      "prior_variance": 1.348118,
+      "prior_n": 1
     }
   ]
 }

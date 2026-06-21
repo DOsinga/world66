@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amarante_(30224415431).jpg
 latitude: 41.269932
 loc_type: city
 longitude: -8.080456
-score: 0.55
+score: 0.47
 title: Amarante
 type: location
 ---

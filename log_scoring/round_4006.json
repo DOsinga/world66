@@ -1,0 +1,200 @@
+{
+  "round": 4006,
+  "timestamp": "2026-06-13T23:36:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.1199,
+      "prior_variance": 0.262177,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Belitung",
+      "path": "asia/indonesia/belitung",
+      "prior_score": 2.7046,
+      "prior_variance": 0.128679,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 3.9073,
+      "prior_variance": 0.116589,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Pontine Islands",
+      "path": "europe/italy/lazio/pontineislands",
+      "prior_score": 3.7604,
+      "prior_variance": 0.116465,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": 0.7673,
+      "prior_variance": 0.121802,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 1.7935,
+      "prior_variance": 0.099969,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bodh Gaya",
+      "path": "asia/india/bihar/bodhgaya",
+      "prior_score": 3.2376,
+      "prior_variance": 0.108357,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": 3.3237,
+      "prior_variance": 0.103306,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.5502,
+      "prior_variance": 0.110468,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Koper",
+      "path": "europe/slovenia/koper",
+      "prior_score": 2.1062,
+      "prior_variance": 0.104587,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Nyangshwe",
+      "path": "asia/myanmar/nyangshwe",
+      "prior_score": -2.2757,
+      "prior_variance": 0.121561,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Biel-Bienne",
+      "path": "europe/switzerland/bielbienne",
+      "prior_score": -0.9931,
+      "prior_variance": 0.106525,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton",
+      "prior_score": 1.6732,
+      "prior_variance": 0.117128,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Nevada City",
+      "path": "northamerica/unitedstates/california/goldcountry/nevadacity",
+      "prior_score": 0.3142,
+      "prior_variance": 0.09843,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.6077,
+      "prior_variance": 0.103179,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -1.5552,
+      "prior_variance": 0.106254,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -2.8973,
+      "prior_variance": 0.103638,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Heerenveen",
+      "path": "europe/netherlands/friesland/heerenveen",
+      "prior_score": -2.0593,
+      "prior_variance": 0.101924,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Acapulco",
+      "path": "northamerica/mexico/acapulco",
+      "prior_score": -1.7529,
+      "prior_variance": 0.179103,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Managua",
+      "path": "northamerica/nicaragua/managua",
+      "prior_score": -3.1337,
+      "prior_variance": 0.109285,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Cobram",
+      "path": "australiaandpacific/australia/victoria/cobram",
+      "prior_score": -4.5458,
+      "prior_variance": 0.119301,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Tatta Pani",
+      "path": "asia/pakistan/azad_kashmir/tatta_pani",
+      "prior_score": -4.7128,
+      "prior_variance": 0.131496,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -6.2354,
+      "prior_variance": 0.130038,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Middletown",
+      "path": "northamerica/unitedstates/delaware/middletown",
+      "prior_score": -5.8712,
+      "prior_variance": 0.154931,
+      "prior_n": 13
+    }
+  ]
+}

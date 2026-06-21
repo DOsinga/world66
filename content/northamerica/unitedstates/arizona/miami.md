@@ -5,7 +5,7 @@ done:
 latitude: 33.3992
 loc_type: city
 longitude: -110.8687
-score: 0.3
+score: 0.24
 title: Miami
 type: location
 ---

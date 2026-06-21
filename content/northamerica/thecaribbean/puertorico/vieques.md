@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vieques_SunBayBeach.jpg
 latitude: 18.1263
 loc_type: city
 longitude: -65.4401
-score: 0.63
+score: 0.53
 title: Vieques
 type: location
 ---

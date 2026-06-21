@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kerimaki_church_exterior.j
 latitude: 61.912084
 loc_type: city
 longitude: 29.281483
-score: 0.41
+score: 0.34
 title: Kerimaki
 type: location
 ---

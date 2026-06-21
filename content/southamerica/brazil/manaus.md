@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Manaus_amazonas.jpg
 latitude: -3.131633
 loc_type: city
 longitude: -59.982504
-score: 0.52
+score: 0.49
 title: Manaus
 type: location
 ---

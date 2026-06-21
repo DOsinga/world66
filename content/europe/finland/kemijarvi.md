@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Islands_of_transition_zone
 latitude: 66.716118
 loc_type: city
 longitude: 27.433353
-score: 0.37
+score: 0.35
 title: Kemijärvi
 type: location
 ---

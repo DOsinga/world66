@@ -5,7 +5,7 @@ done:
 latitude: 60.607
 loc_type: city
 longitude: 15.6323
-score: 0.5
+score: 0.43
 title: Falun
 type: location
 ---

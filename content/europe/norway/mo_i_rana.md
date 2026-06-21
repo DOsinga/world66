@@ -3,7 +3,8 @@ title: Mo i Rana
 type: location
 loc_type: city
 latitude: 66.3127
-longitude: 14.1450
+longitude: 14.145
+score: 0.39
 ---
 
 Mo i Rana is a Norwegian city on the Ranfjord, just north of the Arctic Circle in Nordland county. With a population of around 25,000, it is the third-largest city in northern Norway. The city grew up around iron and steel manufacturing — the Rana steelworks was one of Norway's largest industrial complexes through the 20th century — but it has since diversified and retains a practical, working-town character rather than a tourist-resort one.

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/5137405310
 latitude: 49.192244
 loc_type: city
 longitude: 16.611338
-score: 0.56
+score: 0.48
 title: Brno
 type: location
 ---

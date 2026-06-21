@@ -9,7 +9,7 @@ image: dodona.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%22%C3%84ltestes_Orkaelheiligtum%22_in_Griechenland_ist_die_Eiche_von_Dodona._19.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Holger Uwe Schmitt
-score: 0.53
+score: 0.47
 loc_type: feature
 ---
 

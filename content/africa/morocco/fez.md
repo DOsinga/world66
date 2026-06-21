@@ -11,7 +11,7 @@ image_attribution: Wowan1978
 latitude: 34.0181
 loc_type: city
 longitude: -5.0078
-score: 0.73
+score: 0.66
 title: Fez
 type: location
 ---

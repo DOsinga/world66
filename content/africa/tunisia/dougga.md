@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dougga,_Beja.jpg
 latitude: 36.4222
 loc_type: feature
 longitude: 9.2183
-score: 0.57
+score: 0.5
 title: Dougga
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inuyama_Castle_and_Kiso_Ri
 latitude: 35.360973
 loc_type: city
 longitude: 136.984549
-score: 0.63
+score: 0.54
 title: Inuyama
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 19.893
 loc_type: city
 longitude: -70.952
-score: 0.43
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Luper%C3%B3n,_Dominican_Republic
 - https://en.wikipedia.org/wiki/La_Isabela

@@ -5,7 +5,7 @@ latitude: 32.636483
 longitude: 14.290983
 title: Leptis Magna
 type: location
-score: 0.48
+score: 0.43
 loc_type: feature
 ---
 

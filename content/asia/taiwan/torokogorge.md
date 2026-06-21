@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190417_Taroko_Gorge-13.j
 latitude: 24.157617
 loc_type: feature
 longitude: 121.617428
-score: 0.8
+score: 0.68
 title: Taroko Gorge
 type: location
 ---

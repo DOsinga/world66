@@ -1,0 +1,200 @@
+{
+  "round": 4022,
+  "timestamp": "2026-06-13T23:37:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 5.8025,
+      "prior_variance": 0.131863,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Saumur",
+      "path": "europe/france/centre/loirevalley/saumur",
+      "prior_score": 3.6741,
+      "prior_variance": 0.101294,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Cuenca",
+      "path": "europe/spain/centralspain/cuenca",
+      "prior_score": 3.5581,
+      "prior_variance": 0.107774,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Porches",
+      "path": "europe/portugal/algarve/porches",
+      "prior_score": 2.0204,
+      "prior_variance": 0.102008,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Naples",
+      "path": "northamerica/unitedstates/florida/naples",
+      "prior_score": -0.2041,
+      "prior_variance": 0.130481,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Chattanooga",
+      "path": "northamerica/unitedstates/tennessee/chattanooga",
+      "prior_score": 2.4863,
+      "prior_variance": 0.108218,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Grand Rapids",
+      "path": "northamerica/unitedstates/michigan/grandrapids",
+      "prior_score": -1.2902,
+      "prior_variance": 0.101055,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -1.1783,
+      "prior_variance": 0.105005,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.2124,
+      "prior_variance": 0.107477,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Keelung",
+      "path": "asia/taiwan/keelung",
+      "prior_score": -0.1638,
+      "prior_variance": 0.119633,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Sihanoukville",
+      "path": "asia/cambodia/sihanoukville",
+      "prior_score": -2.2368,
+      "prior_variance": 0.104824,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sheridan",
+      "path": "northamerica/unitedstates/wyoming/sheridan",
+      "prior_score": -1.3304,
+      "prior_variance": 0.091521,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Timaru",
+      "path": "australiaandpacific/newzealand/timaru",
+      "prior_score": -1.9589,
+      "prior_variance": 0.105545,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Concord",
+      "path": "northamerica/unitedstates/newhampshire/concord",
+      "prior_score": -2.2371,
+      "prior_variance": 0.113475,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -1.8234,
+      "prior_variance": 0.099971,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Borit Lake",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni/borit_lake",
+      "prior_score": -0.8491,
+      "prior_variance": 0.116421,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -1.8552,
+      "prior_variance": 0.110282,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.325,
+      "prior_variance": 0.096585,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Lee County",
+      "path": "northamerica/unitedstates/florida/lee_county_florida",
+      "prior_score": -1.0137,
+      "prior_variance": 0.109075,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Tuzla",
+      "path": "europe/bosniaandherzegovina/tuzla",
+      "prior_score": -1.28,
+      "prior_variance": 0.09069,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -3.0933,
+      "prior_variance": 0.110916,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kingsburg",
+      "path": "northamerica/unitedstates/california/kingsburg",
+      "prior_score": -4.8253,
+      "prior_variance": 0.114928,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Pontinvrea",
+      "path": "europe/italy/liguria/rivieradellepalme/pontinvrea",
+      "prior_score": -2.2115,
+      "prior_variance": 0.103885,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Ru\u017eomberok",
+      "path": "europe/slovakia/ruomberok",
+      "prior_score": -2.5641,
+      "prior_variance": 0.103397,
+      "prior_n": 14
+    }
+  ]
+}

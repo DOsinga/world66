@@ -4,7 +4,7 @@ done:
 latitude: 26.077495
 loc_type: city
 longitude: 119.291821
-score: 0.47
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Fuzhou
 title: Fuzhou

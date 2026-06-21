@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20091211_-_Puerto_Penasco_
 latitude: 31.530172
 loc_type: city
 longitude: -113.389719
-score: 0.49
+score: 0.42
 title: Puerto Peñasco
 type: location
 ---

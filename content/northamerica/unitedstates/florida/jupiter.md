@@ -5,7 +5,7 @@ done:
 latitude: 26.9342
 loc_type: city
 longitude: -80.0942
-score: 0.48
+score: 0.4
 title: Jupiter
 type: location
 ---

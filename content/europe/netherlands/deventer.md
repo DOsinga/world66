@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atlas_de_Wit_1698-pl057-De
 latitude: 52.252
 loc_type: city
 longitude: 6.161
-score: 0.52
+score: 0.44
 title: Deventer
 type: location
 ---

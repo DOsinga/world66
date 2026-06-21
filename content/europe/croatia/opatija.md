@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Opatija_Statue.jpg
 latitude: 45.3369
 loc_type: city
 longitude: 14.3053
-score: 0.62
+score: 0.53
 title: Opatija
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4393,
+  "timestamp": "2026-06-14T00:08:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bordeaux",
+      "path": "europe/france/aquitaine/bordeaux",
+      "prior_score": 7.1421,
+      "prior_variance": 0.119226,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_score": 6.7707,
+      "prior_variance": 0.129294,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Berchtesgaden",
+      "path": "europe/germany/bavaria/berchtesgaden",
+      "prior_score": 5.1956,
+      "prior_variance": 0.117456,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 3.6285,
+      "prior_variance": 0.10865,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 3.3451,
+      "prior_variance": 0.104177,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/languedoc/nmes",
+      "prior_score": 5.0202,
+      "prior_variance": 0.110382,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Playa de Palma",
+      "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+      "prior_score": 2.626,
+      "prior_variance": 0.111743,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Siguniang Mountain",
+      "path": "asia/china/sichuanprovince/siguniangshan",
+      "prior_score": 2.1533,
+      "prior_variance": 0.105731,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 4.0211,
+      "prior_variance": 0.105251,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.0463,
+      "prior_variance": 0.113889,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.6193,
+      "prior_variance": 0.093956,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Waterloo",
+      "path": "europe/belgium/waterloo",
+      "prior_score": 1.5688,
+      "prior_variance": 0.092616,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.2404,
+      "prior_variance": 0.096972,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Lefko\u015fa",
+      "path": "asia/cyprus/northerncyprus/levkosa",
+      "prior_score": 0.0009,
+      "prior_variance": 0.087437,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/gloucestershire/tewkesbury",
+      "prior_score": 0.9408,
+      "prior_variance": 0.099944,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Diyarbakir",
+      "path": "asia/turkey/diyarbakir",
+      "prior_score": 0.1984,
+      "prior_variance": 0.115016,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Portsmouth",
+      "path": "northamerica/thecaribbean/dominica/portsmouth",
+      "prior_score": 0.1283,
+      "prior_variance": 0.090345,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.2144,
+      "prior_variance": 0.096982,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -3.1589,
+      "prior_variance": 0.096674,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -3.7145,
+      "prior_variance": 0.093499,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Hotan",
+      "path": "asia/china/xinjiangprovince/hotan",
+      "prior_score": -5.3948,
+      "prior_variance": 0.147362,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.1307,
+      "prior_variance": 0.135514,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Blantyre",
+      "path": "africa/malawi/blantyre",
+      "prior_score": -4.5928,
+      "prior_variance": 0.107227,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Dingzhou",
+      "path": "asia/china/hebei/dingzhou",
+      "prior_score": -5.514,
+      "prior_variance": 0.109492,
+      "prior_n": 14
+    }
+  ]
+}

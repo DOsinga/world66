@@ -5,7 +5,7 @@ done:
 latitude: 50.815278
 loc_type: city
 longitude: 5.18589
-score: 0.46
+score: 0.39
 title: Sint-Truiden
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dungarpur_II_018.jpg
 latitude: 23.8539
 loc_type: city
 longitude: 73.7087
-score: 0.41
+score: 0.36
 title: Dungarpur
 type: location
 ---

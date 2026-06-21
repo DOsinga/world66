@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/77650784@N04/17225625051
 latitude: 53.027735
 loc_type: city
 longitude: 27.551975
-score: 0.27
+score: 0.18
 title: Slutsk
 type: location
 ---

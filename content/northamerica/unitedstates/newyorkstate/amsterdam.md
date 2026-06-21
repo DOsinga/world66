@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_NY_View.jpg
 latitude: 42.936223
 loc_type: city
 longitude: -74.190582
-score: 0.32
+score: 0.25
 title: Amsterdam
 type: location
 ---

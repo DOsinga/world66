@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/10029936275
 latitude: -12.8275
 loc_type: city
 longitude: 45.1662
-score: 0.45
+score: 0.44
 title: Mayotte
 type: location
 ---

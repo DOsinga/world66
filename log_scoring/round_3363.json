@@ -1,0 +1,200 @@
+{
+  "round": 3363,
+  "timestamp": "2026-06-13T22:48:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ljubljana",
+      "path": "europe/slovenia/ljubljana",
+      "prior_score": 6.7442,
+      "prior_variance": 0.154539,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 8.0557,
+      "prior_variance": 0.165095,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Ephesus",
+      "path": "asia/turkey/ephesus",
+      "prior_score": 8.8434,
+      "prior_variance": 0.223853,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 6.313,
+      "prior_variance": 0.151679,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 7.43,
+      "prior_variance": 0.184491,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Pisa",
+      "path": "europe/italy/tuscany/pisa",
+      "prior_score": 7.6733,
+      "prior_variance": 0.152826,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Galle",
+      "path": "asia/srilanka/galle",
+      "prior_score": 7.0744,
+      "prior_variance": 0.192693,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 6.8794,
+      "prior_variance": 0.188203,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 6.534,
+      "prior_variance": 0.195171,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Playa del Carmen",
+      "path": "northamerica/mexico/playadelcarmen",
+      "prior_score": 6.3147,
+      "prior_variance": 0.176861,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 6.0286,
+      "prior_variance": 0.170819,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Nelson Bays",
+      "path": "australiaandpacific/newzealand/south_island/nelson_bays",
+      "prior_score": 4.8877,
+      "prior_variance": 0.146435,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.7397,
+      "prior_variance": 0.159851,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 4.6178,
+      "prior_variance": 0.161535,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Tokashiki Island",
+      "path": "asia/japan/ryukyuislands/tokashikiisland",
+      "prior_score": 5.9082,
+      "prior_variance": 0.153172,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 2.44,
+      "prior_variance": 0.232374,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.9428,
+      "prior_variance": 0.130612,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Adelaide",
+      "path": "australiaandpacific/australia/southaustralia/adelaide",
+      "prior_score": 4.2154,
+      "prior_variance": 0.143449,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": -0.0138,
+      "prior_variance": 0.124503,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Canberra",
+      "path": "australiaandpacific/australia/australiancapitalterritory/canberra",
+      "prior_score": 0.591,
+      "prior_variance": 0.119532,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Alpe d'Huez",
+      "path": "europe/france/alpes/alpdhuez",
+      "prior_score": 4.1999,
+      "prior_variance": 0.148853,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Qiandao Lake",
+      "path": "asia/china/zhejiang/qiandaohu",
+      "prior_score": 0.7673,
+      "prior_variance": 0.120128,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.8334,
+      "prior_variance": 0.125617,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -2.8908,
+      "prior_variance": 0.123393,
+      "prior_n": 11
+    }
+  ]
+}

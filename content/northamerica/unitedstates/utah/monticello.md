@@ -5,7 +5,7 @@ done:
 latitude: 37.8722
 loc_type: city
 longitude: -109.3428
-score: 0.38
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Monticello,_Utah
 title: Monticello

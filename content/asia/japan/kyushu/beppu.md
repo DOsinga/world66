@@ -5,7 +5,7 @@ done:
 latitude: 33.284575
 loc_type: city
 longitude: 131.491306
-score: 0.66
+score: 0.58
 title: Beppu
 type: location
 image: beppu.jpg

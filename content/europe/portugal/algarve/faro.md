@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2021_12_12_arne_mueseler_0
 latitude: 37.016294
 loc_type: city
 longitude: -7.935182
-score: 0.61
+score: 0.55
 title: Faro
 type: location
 ---

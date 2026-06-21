@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mallare-santuario_dell%27e
 latitude: 44.291
 loc_type: city
 longitude: 8.2966
-score: 0.36
+score: 0.31
 title: Mallare
 type: location
 ---

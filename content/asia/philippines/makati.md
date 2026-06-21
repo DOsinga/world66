@@ -6,7 +6,7 @@ latitude: 14.5568
 longitude: 121.0211
 title: Makati
 type: location
-score: 0.45
+score: 0.36
 loc_type: city
 ---
 

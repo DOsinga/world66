@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-01'
 latitude: 14.96
 longitude: 145.635
-score: 0.43
+score: 0.39
 title: Tinian
 type: location
 loc_type: city

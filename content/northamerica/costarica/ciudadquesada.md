@@ -4,7 +4,7 @@ done:
 latitude: 10.325
 loc_type: city
 longitude: -84.4313
-score: 0.45
+score: 0.39
 title: Ciudad Quesada
 type: location
 ---

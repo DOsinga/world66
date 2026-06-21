@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergerac_-_View_in_late_af
 latitude: 44.8535
 loc_type: city
 longitude: 0.4875
-score: 0.57
+score: 0.5
 title: Bergerac
 type: location
 ---

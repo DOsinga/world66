@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Elie_Harbour_-_geograph.or
 latitude: 56.190452
 loc_type: city
 longitude: -2.820247
-score: 0.49
+score: 0.42
 title: Elie
 type: location
 ---

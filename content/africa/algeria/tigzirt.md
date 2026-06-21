@@ -5,7 +5,7 @@ done:
 latitude: 36.892661
 loc_type: city
 longitude: 4.126179
-score: 0.41
+score: 0.33
 title: Tigzirt
 type: location
 ---

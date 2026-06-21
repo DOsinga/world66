@@ -1,0 +1,200 @@
+{
+  "round": 3675,
+  "timestamp": "2026-06-13T23:11:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 10.6685,
+      "prior_variance": 0.288995,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Palermo",
+      "path": "europe/italy/sicily/palermo",
+      "prior_score": 7.7876,
+      "prior_variance": 0.221541,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Bodnath",
+      "path": "asia/nepal/bodnath",
+      "prior_score": 4.7519,
+      "prior_variance": 0.124663,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Roussillon",
+      "path": "europe/france/midi/provence/roussillon",
+      "prior_score": 4.2996,
+      "prior_variance": 0.117297,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 4.0966,
+      "prior_variance": 0.113952,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Borgo Maggiore",
+      "path": "europe/sanmarino/borgomaggiore",
+      "prior_score": 1.7588,
+      "prior_variance": 0.120469,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 2.6043,
+      "prior_variance": 0.11099,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.3076,
+      "prior_variance": 0.106857,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Radstadt",
+      "path": "europe/austria/radstadt",
+      "prior_score": 1.177,
+      "prior_variance": 0.123063,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Morgins",
+      "path": "europe/switzerland/morgins",
+      "prior_score": 1.7107,
+      "prior_variance": 0.116656,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Haapsalu",
+      "path": "europe/estonia/haapsalu",
+      "prior_score": 0.9152,
+      "prior_variance": 0.11729,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Trashigang",
+      "path": "asia/bhutan/tashigang",
+      "prior_score": 0.5132,
+      "prior_variance": 0.128759,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.6224,
+      "prior_variance": 0.122517,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Contadora",
+      "path": "northamerica/panama/contadora",
+      "prior_score": 1.2856,
+      "prior_variance": 0.128019,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": -0.0231,
+      "prior_variance": 0.122296,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Lake Yojoa",
+      "path": "northamerica/honduras/lakeyojoa",
+      "prior_score": 0.0944,
+      "prior_variance": 0.103444,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.2426,
+      "prior_variance": 0.114761,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": 0.1699,
+      "prior_variance": 0.114908,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.451,
+      "prior_variance": 0.119371,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -4.4923,
+      "prior_variance": 0.119303,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.2365,
+      "prior_variance": 0.115109,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Port Harcourt",
+      "path": "africa/nigeria/portharcourt",
+      "prior_score": -6.0928,
+      "prior_variance": 0.170733,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Cangzhou",
+      "path": "asia/china/hebei/cangzhou",
+      "prior_score": -5.7755,
+      "prior_variance": 0.141068,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Worthington",
+      "path": "northamerica/unitedstates/ohio/worthington",
+      "prior_score": -6.4675,
+      "prior_variance": 0.166368,
+      "prior_n": 11
+    }
+  ]
+}

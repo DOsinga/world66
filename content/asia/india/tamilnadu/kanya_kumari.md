@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vivekananda_Rock_Memorial,
 latitude: 8.077516
 loc_type: city
 longitude: 77.552346
-score: 0.56
+score: 0.46
 title: Kanyakumari
 type: location
 ---

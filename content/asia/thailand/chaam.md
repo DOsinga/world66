@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cha_Am_Beach.jpg
 latitude: 12.799
 loc_type: city
 longitude: 99.9698
-score: 0.55
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Cha-am_district
 - https://en.wikipedia.org/wiki/Mrigadayavan_Palace

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:M%C3%B6r%C3%B6nHauptplatz.
 latitude: 49.628481
 loc_type: city
 longitude: 100.174557
-score: 0.35
+score: 0.26
 title: Moron
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 2331,
-  "timestamp": "2026-04-13T16:31:51",
+  "timestamp": "2026-06-13T21:34:28",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Doha",
-      "path": "asia/qatar/doha",
-      "prior_score": 2.0939,
-      "prior_variance": 0.282549,
-      "prior_n": 6
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailuakona",
+      "prior_score": 8.1465,
+      "prior_variance": 0.243966,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Valence",
-      "path": "europe/france/alpes/valence",
-      "prior_score": 0.9695,
-      "prior_variance": 0.229867,
-      "prior_n": 6
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 5.1466,
+      "prior_variance": 0.214175,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Palo Alto",
-      "path": "northamerica/unitedstates/california/palo_alto",
-      "prior_score": -2.5289,
-      "prior_variance": 0.194419,
+      "title": "St. George's",
+      "path": "northamerica/thecaribbean/grenada/stgeorges",
+      "prior_score": 5.3204,
+      "prior_variance": 0.21465,
       "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Saratoga",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/saratoga",
-      "prior_score": -1.5083,
-      "prior_variance": 0.206086,
-      "prior_n": 6
-    },
-    {
-      "rank": 5,
-      "title": "Oudtshoorn",
-      "path": "africa/southafrica/oudtshoorn",
-      "prior_score": 2.8562,
-      "prior_variance": 0.202902,
-      "prior_n": 6
-    },
-    {
-      "rank": 6,
-      "title": "Eastland",
-      "path": "australiaandpacific/newzealand/eastland",
-      "prior_score": -1.2051,
-      "prior_variance": 0.203718,
-      "prior_n": 6
-    },
-    {
-      "rank": 7,
-      "title": "Pisco",
-      "path": "southamerica/peru/pisco",
-      "prior_score": -1.6973,
-      "prior_variance": 0.2487,
-      "prior_n": 6
-    },
-    {
-      "rank": 8,
-      "title": "Bah\u00eda Blanca",
-      "path": "southamerica/argentina/bahiablanca",
-      "prior_score": -2.6534,
-      "prior_variance": 0.216484,
-      "prior_n": 6
-    },
-    {
-      "rank": 9,
-      "title": "Coventry",
-      "path": "europe/unitedkingdom/england/coventry",
-      "prior_score": -2.4761,
-      "prior_variance": 0.244413,
+      "title": "Hurtigruten",
+      "path": "europe/norway/hurtigruten",
+      "prior_score": 9.1487,
+      "prior_variance": 0.341748,
       "prior_n": 7
     },
     {
+      "rank": 5,
+      "title": "Skelligs",
+      "path": "europe/ireland/skelligs",
+      "prior_score": 6.8835,
+      "prior_variance": 0.187949,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Mikumi National Park",
+      "path": "africa/tanzania/mikuminationalpark",
+      "prior_score": 5.0993,
+      "prior_variance": 0.26133,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Yala National Park",
+      "path": "asia/srilanka/tissamaharama/yala_national_park",
+      "prior_score": 5.3991,
+      "prior_variance": 0.201375,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Mirissa",
+      "path": "asia/srilanka/mirissa",
+      "prior_score": 6.3689,
+      "prior_variance": 0.262791,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Kardamili",
+      "path": "europe/greece/mani/kardamili",
+      "prior_score": 4.3635,
+      "prior_variance": 0.193484,
+      "prior_n": 8
+    },
+    {
       "rank": 10,
-      "title": "Sosnowiec",
-      "path": "europe/poland/sosnowiec",
-      "prior_score": -4.6364,
-      "prior_variance": 0.216533,
-      "prior_n": 6
+      "title": "Si Phan Don (4,000 Islands)",
+      "path": "asia/laos/si_phan_don",
+      "prior_score": 4.5634,
+      "prior_variance": 0.213345,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Los Santos",
-      "path": "northamerica/panama/lossantos",
-      "prior_score": -2.5543,
-      "prior_variance": 0.255211,
-      "prior_n": 6
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 4.9569,
+      "prior_variance": 0.198549,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Dayton",
-      "path": "northamerica/unitedstates/ohio/dayton",
-      "prior_score": -4.2301,
-      "prior_variance": 0.268502,
-      "prior_n": 6
+      "title": "Laax",
+      "path": "europe/switzerland/laax",
+      "prior_score": 4.1798,
+      "prior_variance": 0.171757,
+      "prior_n": 8
     },
     {
       "rank": 13,
-      "title": "Cumberland",
-      "path": "northamerica/unitedstates/maryland/cumberland",
-      "prior_score": -3.5387,
-      "prior_variance": 0.177438,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 4.428,
+      "prior_variance": 0.225683,
       "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Wasilla",
-      "path": "northamerica/unitedstates/alaska/wasilla",
-      "prior_score": -3.2087,
-      "prior_variance": 0.243935,
-      "prior_n": 6
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 5.3443,
+      "prior_variance": 0.25016,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Ontario",
-      "path": "northamerica/unitedstates/california/ontario",
-      "prior_score": -5.3456,
-      "prior_variance": 0.337564,
-      "prior_n": 6
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 4.1302,
+      "prior_variance": 0.251515,
+      "prior_n": 8
     },
     {
       "rank": 16,
-      "title": "Port Richey",
-      "path": "northamerica/unitedstates/florida/portrichey",
-      "prior_score": -4.1658,
-      "prior_variance": 0.258393,
-      "prior_n": 6
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.1386,
+      "prior_variance": 0.196277,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Kadiri",
-      "path": "asia/india/andhrapradesh/kadiri",
-      "prior_score": -5.3398,
-      "prior_variance": 0.227864,
-      "prior_n": 6
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.5559,
+      "prior_variance": 0.252671,
+      "prior_n": 8
     },
     {
       "rank": 18,
-      "title": "Skikda",
-      "path": "africa/algeria/skikda",
-      "prior_score": -5.2965,
-      "prior_variance": 0.223318,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 3.9444,
+      "prior_variance": 0.214629,
       "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Cabot",
-      "path": "northamerica/unitedstates/arkansas/cabot",
-      "prior_score": -6.3,
-      "prior_variance": 0.302114,
-      "prior_n": 6
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 3.8607,
+      "prior_variance": 0.182644,
+      "prior_n": 7
     },
     {
       "rank": 20,
-      "title": "Hadramawt",
-      "path": "asia/yemen/hadramawt",
-      "prior_score": -9.4739,
-      "prior_variance": 0.405417,
-      "prior_n": 6
+      "title": "Zhenyuan",
+      "path": "asia/china/guizhou/zhenyuan",
+      "prior_score": 3.5078,
+      "prior_variance": 0.180958,
+      "prior_n": 8
     },
     {
       "rank": 21,
-      "title": "Gaza Strip",
-      "path": "asia/palestinianauthority/gazastrip",
-      "prior_score": -12.8294,
-      "prior_variance": 1.115471,
-      "prior_n": 6
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 3.6676,
+      "prior_variance": 0.185766,
+      "prior_n": 8
     },
     {
       "rank": 22,
-      "title": "My homepage",
-      "path": "europe/france/val_disere/my_homepage",
-      "prior_score": -4.3262,
-      "prior_variance": 0.503486,
-      "prior_n": 6
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.0602,
+      "prior_variance": 0.204856,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Tcby",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/tcby",
-      "prior_score": -13.419,
-      "prior_variance": 0.793809,
-      "prior_n": 6
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -3.3977,
+      "prior_variance": 0.172172,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Blue Star Cafe",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
-      "prior_score": -12.0019,
-      "prior_variance": 1.339841,
-      "prior_n": 6
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -5.992,
+      "prior_variance": 0.196249,
+      "prior_n": 7
     }
   ]
 }

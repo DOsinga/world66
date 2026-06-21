@@ -5,7 +5,7 @@ done:
 latitude: 59.6454
 loc_type: city
 longitude: -151.5446
-score: 0.56
+score: 0.48
 title: Homer
 type: location
 image: homer.jpg

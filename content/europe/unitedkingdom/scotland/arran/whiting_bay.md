@@ -10,7 +10,7 @@ image: whiting_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Whiting_Bay,_Arran.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mike Peel (www.mikepeel.net)
-score: 0.45
+score: 0.4
 loc_type: city
 ---
 

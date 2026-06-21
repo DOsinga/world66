@@ -1,0 +1,200 @@
+{
+  "round": 3127,
+  "timestamp": "2026-06-13T22:30:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 11.9956,
+      "prior_variance": 0.501715,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Cape Town",
+      "path": "africa/southafrica/capetown",
+      "prior_score": 13.3673,
+      "prior_variance": 0.414361,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Havana",
+      "path": "northamerica/thecaribbean/cuba/havana",
+      "prior_score": 8.66,
+      "prior_variance": 0.206894,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 10.6133,
+      "prior_variance": 0.327142,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "St. Anton",
+      "path": "europe/austria/stanton",
+      "prior_score": 6.0106,
+      "prior_variance": 0.156155,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 5.8352,
+      "prior_variance": 0.174783,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.3114,
+      "prior_variance": 0.141382,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 4.0594,
+      "prior_variance": 0.155019,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 0.8125,
+      "prior_variance": 0.187685,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 1.8935,
+      "prior_variance": 0.141933,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Potrero",
+      "path": "northamerica/costarica/potrero",
+      "prior_score": 0.9427,
+      "prior_variance": 0.131703,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.5284,
+      "prior_variance": 0.133647,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Prescott",
+      "path": "northamerica/unitedstates/arizona/prescott",
+      "prior_score": 0.3931,
+      "prior_variance": 0.139396,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": 0.2147,
+      "prior_variance": 0.141442,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Sandefjord",
+      "path": "europe/norway/sandefjord",
+      "prior_score": -0.3524,
+      "prior_variance": 0.138535,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cape Maclear",
+      "path": "africa/malawi/capemaclear",
+      "prior_score": -0.8204,
+      "prior_variance": 0.139994,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.3516,
+      "prior_variance": 0.133755,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Rutland",
+      "path": "northamerica/unitedstates/vermont/rutland",
+      "prior_score": -2.3965,
+      "prior_variance": 0.13782,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": -0.4217,
+      "prior_variance": 0.133174,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -3.1341,
+      "prior_variance": 0.132539,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.3325,
+      "prior_variance": 0.131815,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Debre Zeit",
+      "path": "africa/ethiopia/debre_zeit",
+      "prior_score": -2.3988,
+      "prior_variance": 0.153574,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "San-P\u00e9dro",
+      "path": "africa/ivorycoast/sanpedro",
+      "prior_score": -4.3913,
+      "prior_variance": 0.16597,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Chaparral",
+      "path": "northamerica/unitedstates/newmexico/chaparral",
+      "prior_score": -7.4745,
+      "prior_variance": 0.222229,
+      "prior_n": 9
+    }
+  ]
+}

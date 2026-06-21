@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Donegal_Castle_Front_view.
 latitude: 54.653792
 loc_type: city
 longitude: -8.110262
-score: 0.62
+score: 0.51
 title: Donegal
 type: location
 ---

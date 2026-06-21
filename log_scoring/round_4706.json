@@ -1,0 +1,200 @@
+{
+  "round": 4706,
+  "timestamp": "2026-06-14T00:34:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montreux",
+      "path": "europe/switzerland/montreux",
+      "prior_score": 6.8984,
+      "prior_variance": 0.10647,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 4.9275,
+      "prior_variance": 0.093269,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.133,
+      "prior_variance": 0.115447,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Locorotondo",
+      "path": "europe/italy/puglia/locorotondo",
+      "prior_score": 4.0348,
+      "prior_variance": 0.090881,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.7423,
+      "prior_variance": 0.092857,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 2.0504,
+      "prior_variance": 0.097384,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Jiuhua Mountain",
+      "path": "asia/china/anhui/jiuhua_mountain",
+      "prior_score": 2.3102,
+      "prior_variance": 0.099934,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Bursa",
+      "path": "asia/turkey/bursa",
+      "prior_score": 3.1855,
+      "prior_variance": 0.091316,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lahore",
+      "path": "asia/pakistan/lahore",
+      "prior_score": 0.9071,
+      "prior_variance": 0.095785,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Chiriqu\u00ed",
+      "path": "northamerica/panama/chiriqui",
+      "prior_score": 1.0892,
+      "prior_variance": 0.09951,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": 0.3157,
+      "prior_variance": 0.094198,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": 0.4065,
+      "prior_variance": 0.08157,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 1.5186,
+      "prior_variance": 0.082197,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Osoyoos",
+      "path": "northamerica/canada/britishcolumbia/osoyoos",
+      "prior_score": 0.6328,
+      "prior_variance": 0.0897,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -2.0987,
+      "prior_variance": 0.081718,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Vernon",
+      "path": "northamerica/canada/britishcolumbia/vernon",
+      "prior_score": -0.698,
+      "prior_variance": 0.097427,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.3121,
+      "prior_variance": 0.089971,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Rajshahi",
+      "path": "asia/bangladesh/rajshahi",
+      "prior_score": -4.1035,
+      "prior_variance": 0.096266,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.3442,
+      "prior_variance": 0.090166,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Bukit Mertajam",
+      "path": "asia/malaysia/bukitmertajam",
+      "prior_score": -3.6518,
+      "prior_variance": 0.099402,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Wawa",
+      "path": "northamerica/canada/ontario/wawa",
+      "prior_score": -3.2432,
+      "prior_variance": 0.087761,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Sedalia",
+      "path": "northamerica/unitedstates/missouri/sedalia",
+      "prior_score": -3.903,
+      "prior_variance": 0.098189,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/indiana/richmond",
+      "prior_score": -4.7604,
+      "prior_variance": 0.111097,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -4.9465,
+      "prior_variance": 0.101565,
+      "prior_n": 16
+    }
+  ]
+}

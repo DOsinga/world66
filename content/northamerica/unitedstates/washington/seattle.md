@@ -8,11 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Seattle_Center_as_night_fa
 latitude: 47.603832
 loc_type: city
 longitude: -122.330062
-score: 0.64
+score: 0.59
 sources:
-  - https://en.wikipedia.org/wiki/Seattle
-  - https://en.wikipedia.org/wiki/Pike_Place_Market
-  - https://en.wikipedia.org/wiki/Space_Needle
+- https://en.wikipedia.org/wiki/Seattle
+- https://en.wikipedia.org/wiki/Pike_Place_Market
+- https://en.wikipedia.org/wiki/Space_Needle
 title: Seattle
 type: location
 ---

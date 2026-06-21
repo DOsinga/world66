@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pueblo_Bonito_Aerial.JPG
 latitude: 36.2668
 loc_type: city
 longitude: -107.7456
-score: 0.32
+score: 0.26
 title: Nageezi
 type: location
 ---

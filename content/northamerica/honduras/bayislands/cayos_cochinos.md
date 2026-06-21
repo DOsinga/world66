@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayos_Cochinos_Lighthouse_
 latitude: 15.96
 loc_type: city
 longitude: -86.48
-score: 0.6
+score: 0.5
 title: Cayos Cochinos
 type: location
 ---

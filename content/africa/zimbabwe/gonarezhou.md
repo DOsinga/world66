@@ -5,7 +5,7 @@ done:
 latitude: -21.681491
 loc_type: feature
 longitude: 31.834654
-score: 0.5
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Gonarezhou_National_Park
 - https://gonarezhou.org/

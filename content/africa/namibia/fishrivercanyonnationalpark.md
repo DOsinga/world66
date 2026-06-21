@@ -1,9 +1,10 @@
 ---
-title: "Fish River Canyon National Park"
+title: Fish River Canyon National Park
 type: location
 loc_type: feature
 latitude: -27.7833
 longitude: 17.6167
+score: 0.54
 ---
 
 Fish River Canyon is the second-largest canyon in the world and Namibia's most dramatic natural landmark. The canyon stretches 160 kilometres through the south of the country, dropping over 550 metres at its deepest, with the Fish River cutting through ancient Precambrian rock at the bottom.

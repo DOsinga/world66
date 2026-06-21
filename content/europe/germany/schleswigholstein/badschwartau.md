@@ -5,7 +5,7 @@ done:
 latitude: 53.919643
 loc_type: city
 longitude: 10.697869
-score: 0.36
+score: 0.3
 title: Bad Schwartau
 type: location
 image: badschwartau.jpg

@@ -1,120 +1,200 @@
 {
   "round": 703,
-  "timestamp": "2026-04-12T10:43:39",
+  "timestamp": "2026-06-13T19:49:30",
   "model": "claude-sonnet-4-6",
-  "batch_size": 14,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Negril",
-      "path": "northamerica/jamaica/negril",
-      "prior_mu": 25.2081,
-      "prior_sigma": 6.1715,
+      "title": "Ottawa",
+      "path": "northamerica/canada/ontario/ottawa",
+      "prior_score": 2.024,
+      "prior_variance": 1.784876,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Montego Bay",
-      "path": "northamerica/jamaica/montegobay",
-      "prior_mu": 23.7789,
-      "prior_sigma": 5.8469,
-      "prior_n": 1
-    },
-    {
-      "rank": 3,
-      "title": "Ocho Rios",
-      "path": "northamerica/jamaica/ochorios",
-      "prior_mu": 21.923,
-      "prior_sigma": 4.0454,
-      "prior_n": 3
-    },
-    {
-      "rank": 4,
-      "title": "Port Antonio",
-      "path": "northamerica/jamaica/portantonio",
-      "prior_mu": 22.6044,
-      "prior_sigma": 5.5859,
-      "prior_n": 1
-    },
-    {
-      "rank": 5,
-      "title": "Blue Mountains",
-      "path": "northamerica/jamaica/bluemountains",
-      "prior_mu": 21.6718,
-      "prior_sigma": 4.8212,
+      "title": "Vicenza",
+      "path": "europe/italy/veneto/vicenza",
+      "prior_score": 4.1424,
+      "prior_variance": 0.848621,
       "prior_n": 2
     },
     {
-      "rank": 6,
-      "title": "Jamaica",
-      "path": "northamerica/jamaica",
-      "prior_mu": 29.7232,
-      "prior_sigma": 3.5807,
-      "prior_n": 7
+      "rank": 3,
+      "title": "Chichester",
+      "path": "europe/unitedkingdom/england/south_east/chichester",
+      "prior_score": 1.6598,
+      "prior_variance": 1.24011,
+      "prior_n": 2
     },
     {
-      "rank": 7,
-      "title": "Oracabessa",
-      "path": "northamerica/jamaica/oracabessa",
-      "prior_mu": 22.6036,
-      "prior_sigma": 5.7782,
+      "rank": 4,
+      "title": "Newcastle upon Tyne",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne",
+      "prior_score": 1.4828,
+      "prior_variance": 0.665005,
+      "prior_n": 2
+    },
+    {
+      "rank": 5,
+      "title": "Hildesheim",
+      "path": "europe/germany/lowersaxony/hildesheim",
+      "prior_score": 0.3328,
+      "prior_variance": 1.688802,
       "prior_n": 1
     },
     {
-      "rank": 8,
-      "title": "Port Royal",
-      "path": "northamerica/jamaica/portroyal",
-      "prior_mu": 21.3736,
-      "prior_sigma": 3.8958,
+      "rank": 6,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -2.2358,
+      "prior_variance": 0.689005,
       "prior_n": 3
     },
     {
+      "rank": 7,
+      "title": "Narsarsuaq",
+      "path": "northamerica/greenland/narsarsuaq",
+      "prior_score": 0.2195,
+      "prior_variance": 0.935879,
+      "prior_n": 2
+    },
+    {
+      "rank": 8,
+      "title": "Yuntaishan",
+      "path": "asia/china/henan_province/yuntaishan",
+      "prior_score": 3.2753,
+      "prior_variance": 0.85173,
+      "prior_n": 2
+    },
+    {
       "rank": 9,
-      "title": "Falmouth",
-      "path": "northamerica/jamaica/falmouth",
-      "prior_mu": 22.4926,
-      "prior_sigma": 5.7825,
-      "prior_n": 1
+      "title": "Tam Giang Lagoon",
+      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
+      "prior_score": 4.0232,
+      "prior_variance": 0.929986,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Kingston",
-      "path": "northamerica/jamaica/kingston",
-      "prior_mu": 21.7876,
-      "prior_sigma": 4.8353,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 0.9361,
+      "prior_variance": 0.647259,
       "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Cockpit Country",
-      "path": "northamerica/jamaica/cockpitcountry",
-      "prior_mu": 21.8,
-      "prior_sigma": 4.8323,
-      "prior_n": 2
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.8807,
+      "prior_variance": 1.524925,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Mandeville",
-      "path": "northamerica/jamaica/mandeville",
-      "prior_mu": 21.8298,
-      "prior_sigma": 4.4716,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.9088,
+      "prior_variance": 0.868284,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Spanish Town",
-      "path": "northamerica/jamaica/spanishtown",
-      "prior_mu": 22.4851,
-      "prior_sigma": 5.7809,
-      "prior_n": 1
+      "title": "O Grove",
+      "path": "europe/spain/galicia/o_grove",
+      "prior_score": 1.3068,
+      "prior_variance": 0.734924,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "May Pen",
-      "path": "northamerica/jamaica/maypen",
-      "prior_mu": 18.2433,
-      "prior_sigma": 6.7103,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.3379,
+      "prior_variance": 0.783629,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Albisola and Albissola",
+      "path": "europe/italy/liguria/albisolaandalbissola",
+      "prior_score": -0.2736,
+      "prior_variance": 1.637437,
       "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 1.723,
+      "prior_variance": 1.079607,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Pordenone",
+      "path": "europe/italy/friuliveneziagiulia/pordenone",
+      "prior_score": -0.3304,
+      "prior_variance": 0.667359,
+      "prior_n": 2
+    },
+    {
+      "rank": 18,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": 1.7096,
+      "prior_variance": 0.825171,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/massachusetts/lexington",
+      "prior_score": -0.7939,
+      "prior_variance": 1.240245,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Feodosia",
+      "path": "europe/ukraine/crimea/feodosia",
+      "prior_score": 1.6759,
+      "prior_variance": 1.081134,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -1.3268,
+      "prior_variance": 1.227039,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Sisaket",
+      "path": "asia/thailand/sisaket",
+      "prior_score": -0.5671,
+      "prior_variance": 1.367388,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": 1.2178,
+      "prior_variance": 1.586538,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -1.3004,
+      "prior_variance": 0.489798,
+      "prior_n": 3
     }
   ]
 }

@@ -1,0 +1,200 @@
+{
+  "round": 2746,
+  "timestamp": "2026-06-13T22:04:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Georgetown",
+      "path": "asia/malaysia/georgetown",
+      "prior_score": 6.678,
+      "prior_variance": 0.205168,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Wroclaw",
+      "path": "europe/poland/wroclaw",
+      "prior_score": 5.4982,
+      "prior_variance": 0.189045,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "St. Louis",
+      "path": "northamerica/unitedstates/missouri/stlouis",
+      "prior_score": -0.6219,
+      "prior_variance": 0.213984,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Aveiro",
+      "path": "europe/portugal/aveiro",
+      "prior_score": 4.7988,
+      "prior_variance": 0.20821,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Lincoln",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/lincoln",
+      "prior_score": 0.3876,
+      "prior_variance": 0.192015,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 0.968,
+      "prior_variance": 0.126896,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Sm\u00e5land",
+      "path": "europe/sweden/smaaland",
+      "prior_score": 0.5332,
+      "prior_variance": 0.149111,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Cape Kaliakra",
+      "path": "europe/bulgaria/cape_kaliakra",
+      "prior_score": 0.5864,
+      "prior_variance": 0.136934,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Kruje",
+      "path": "europe/albania/kruje",
+      "prior_score": 0.855,
+      "prior_variance": 0.158041,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.2173,
+      "prior_variance": 0.147223,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kayseri",
+      "path": "asia/turkey/kayseri",
+      "prior_score": -0.3727,
+      "prior_variance": 0.142449,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": -1.7204,
+      "prior_variance": 0.159071,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -0.7606,
+      "prior_variance": 0.147382,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bistrita",
+      "path": "europe/romania/bistrita",
+      "prior_score": -1.7833,
+      "prior_variance": 0.135188,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Curepipe",
+      "path": "africa/mauritius/curepipe",
+      "prior_score": -1.2924,
+      "prior_variance": 0.169194,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Courtenay",
+      "path": "northamerica/canada/britishcolumbia/courtenay",
+      "prior_score": -1.1963,
+      "prior_variance": 0.140292,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Wrangell",
+      "path": "northamerica/unitedstates/alaska/wrangell",
+      "prior_score": -1.0407,
+      "prior_variance": 0.146943,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Epinal",
+      "path": "europe/france/east/lorraine/epinal",
+      "prior_score": -1.2421,
+      "prior_variance": 0.141013,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -2.7486,
+      "prior_variance": 0.146765,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Jamestown",
+      "path": "northamerica/unitedstates/california/goldcountry/jamestown",
+      "prior_score": -1.4014,
+      "prior_variance": 0.161454,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -1.5925,
+      "prior_variance": 0.135334,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Fermoy",
+      "path": "europe/ireland/fermoy",
+      "prior_score": -3.3067,
+      "prior_variance": 0.185453,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Hoboken",
+      "path": "northamerica/unitedstates/newjersey/hoboken",
+      "prior_score": -2.7042,
+      "prior_variance": 0.171431,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.3578,
+      "prior_variance": 0.205933,
+      "prior_n": 8
+    }
+  ]
+}

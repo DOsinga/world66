@@ -1,0 +1,200 @@
+{
+  "round": 2485,
+  "timestamp": "2026-06-13T21:45:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 6.955,
+      "prior_variance": 0.243077,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Denali National Park",
+      "path": "northamerica/unitedstates/alaska/denalipark",
+      "prior_score": 9.1996,
+      "prior_variance": 0.288687,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 6.5985,
+      "prior_variance": 0.364964,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 7.1404,
+      "prior_variance": 0.219671,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Kihei",
+      "path": "northamerica/unitedstates/hawaii/kihei",
+      "prior_score": 5.959,
+      "prior_variance": 0.190067,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 4.5189,
+      "prior_variance": 0.1881,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Trancoso",
+      "path": "southamerica/brazil/trancoso",
+      "prior_score": 2.5246,
+      "prior_variance": 0.195995,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 5.0794,
+      "prior_variance": 0.22323,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 2.9175,
+      "prior_variance": 0.176461,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Zahara de la Sierra",
+      "path": "europe/spain/andalucia/zaharadelasierra",
+      "prior_score": 2.8763,
+      "prior_variance": 0.21746,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 1.8385,
+      "prior_variance": 0.185059,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 3.867,
+      "prior_variance": 0.177101,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Ribeira Grande",
+      "path": "europe/portugal/theazores/so_miguel/ribeira_grande",
+      "prior_score": 2.8866,
+      "prior_variance": 0.170099,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 1.5513,
+      "prior_variance": 0.177254,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.3204,
+      "prior_variance": 0.183912,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Tahoe City",
+      "path": "northamerica/unitedstates/california/highsierra/tahoecity",
+      "prior_score": 3.7744,
+      "prior_variance": 0.202309,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.7128,
+      "prior_variance": 0.176664,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 3.2805,
+      "prior_variance": 0.169845,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 1.0546,
+      "prior_variance": 0.156437,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Echternach",
+      "path": "europe/luxembourg/echternach",
+      "prior_score": 1.2934,
+      "prior_variance": 0.157231,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.5925,
+      "prior_variance": 0.173514,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Hannover",
+      "path": "europe/germany/lowersaxony/hannover",
+      "prior_score": 0.0112,
+      "prior_variance": 0.184929,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Dushanbe",
+      "path": "asia/tajikistan/dushanbe",
+      "prior_score": -3.2385,
+      "prior_variance": 0.28377,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Budville",
+      "path": "northamerica/unitedstates/newmexico/budville",
+      "prior_score": -7.2832,
+      "prior_variance": 0.315495,
+      "prior_n": 7
+    }
+  ]
+}

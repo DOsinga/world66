@@ -5,7 +5,7 @@ done:
 latitude: 48.474
 loc_type: city
 longitude: -122.328
-score: 0.34
+score: 0.32
 title: Burlington
 type: location
 ---

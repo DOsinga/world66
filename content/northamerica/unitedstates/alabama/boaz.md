@@ -5,7 +5,7 @@ done:
 latitude: 34.198328
 loc_type: city
 longitude: -86.164942
-score: 0.32
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/Boaz,_Alabama
 title: Boaz

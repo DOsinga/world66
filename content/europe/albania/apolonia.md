@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apollonia,_Albania_(by_Pud
 latitude: 40.723362
 loc_type: city
 longitude: 19.471828
-score: 0.52
+score: 0.45
 title: Apolonia
 type: location
 ---

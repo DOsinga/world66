@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hveragerdi10.JPG
 latitude: 63.9976
 loc_type: city
 longitude: -21.1868
-score: 0.56
+score: 0.51
 title: Hveragerði
 type: location
 ---

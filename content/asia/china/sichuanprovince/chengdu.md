@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E9%9B%AA%E5%B1%B1%E4%B8%8
 latitude: 30.5728
 loc_type: city
 longitude: 104.0668
-score: 0.71
+score: 0.59
 title: Chengdu
 type: location
 ---

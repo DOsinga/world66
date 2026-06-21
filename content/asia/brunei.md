@@ -16,7 +16,7 @@ quick_facts:
   Alcohol: Banned
 title: Brunei
 type: location
-score: 0.5
+score: 0.38
 loc_type: country
 ---
 

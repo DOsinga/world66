@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Camargue
 title: Camargue
 type: location
+score: 0.54
 ---
 
 The Camargue is one of the great European wildernesses — a vast delta where the Rhône meets the Mediterranean, spreading into 930 square kilometres of salt lagoons, rice paddies, reed beds, and marshland. It is home to [wild white horses](/europe/france/midi/camargue/camargue_white_horses), [black bulls](/europe/france/midi/camargue/camargue_bulls), and the [largest flamingo colony](/europe/france/midi/camargue/flamingo_colony) in Europe. The landscape is flat, ancient, and unlike anything else in France.

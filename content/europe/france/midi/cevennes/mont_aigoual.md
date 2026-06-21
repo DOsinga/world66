@@ -5,7 +5,7 @@ latitude: 44.1216
 longitude: 3.5814
 title: Mont Aigoual
 type: location
-score: 0.53
+score: 0.44
 loc_type: feature
 ---
 

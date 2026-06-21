@@ -5,7 +5,7 @@ done:
 latitude: 39.0921
 loc_type: city
 longitude: -122.6275
-score: 0.35
+score: 0.3
 title: Clear Lake
 type: location
 ---

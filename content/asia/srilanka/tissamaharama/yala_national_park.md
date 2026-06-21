@@ -5,7 +5,7 @@ latitude: 6.570972
 longitude: 81.507282
 title: Yala National Park
 type: location
-score: 0.65
+score: 0.55
 loc_type: feature
 ---
 

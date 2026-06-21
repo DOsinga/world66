@@ -7,7 +7,7 @@ done:
 latitude: 52.4797
 loc_type: city
 longitude: -1.9027
-score: 0.45
+score: 0.39
 title: Birmingham
 type: location
 ---

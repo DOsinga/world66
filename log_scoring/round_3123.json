@@ -1,0 +1,200 @@
+{
+  "round": 3123,
+  "timestamp": "2026-06-13T22:30:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Magione",
+      "path": "europe/italy/umbria/magione",
+      "prior_score": -0.9088,
+      "prior_variance": 0.141782,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -2.2112,
+      "prior_variance": 0.169607,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.9298,
+      "prior_variance": 0.129743,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -1.0321,
+      "prior_variance": 0.127655,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "V\u00e4nersborg",
+      "path": "europe/sweden/vnersborg",
+      "prior_score": -1.221,
+      "prior_variance": 0.128855,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.4148,
+      "prior_variance": 0.132656,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.7793,
+      "prior_variance": 0.135611,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": -0.9227,
+      "prior_variance": 0.127039,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -1.8851,
+      "prior_variance": 0.134635,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Chihuahua",
+      "path": "northamerica/mexico/chihuahua",
+      "prior_score": -1.4179,
+      "prior_variance": 0.139358,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -1.6603,
+      "prior_variance": 0.1292,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Turkestan",
+      "path": "asia/kazakhstan/turkestan",
+      "prior_score": -0.327,
+      "prior_variance": 0.138123,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Aksu-Zhabagly",
+      "path": "asia/kazakhstan/aksuzhabagly",
+      "prior_score": -2.2374,
+      "prior_variance": 0.178352,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.0233,
+      "prior_variance": 0.124686,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.333,
+      "prior_variance": 0.128333,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": 0.1257,
+      "prior_variance": 0.132794,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Ningde",
+      "path": "asia/china/fujianprovince/ningde",
+      "prior_score": -4.5906,
+      "prior_variance": 0.151227,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ouadane",
+      "path": "africa/mauritania/ouadane",
+      "prior_score": -3.27,
+      "prior_variance": 0.188254,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -5.896,
+      "prior_variance": 0.165751,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -9.5723,
+      "prior_variance": 0.319678,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Sherbro Island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -5.743,
+      "prior_variance": 0.176107,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -10.5709,
+      "prior_variance": 0.468909,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Kaesong",
+      "path": "asia/northkorea/kaesong",
+      "prior_score": -8.1324,
+      "prior_variance": 0.308288,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -12.6538,
+      "prior_variance": 0.52514,
+      "prior_n": 9
+    }
+  ]
+}

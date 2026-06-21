@@ -5,7 +5,7 @@ done:
 latitude: 3.5894
 loc_type: city
 longitude: 98.6742
-score: 0.41
+score: 0.37
 title: Medan
 type: location
 ---

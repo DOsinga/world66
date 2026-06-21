@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:L%27Aquila_2011_by-RaBoe-1
 latitude: 42.34892
 loc_type: city
 longitude: 13.397967
-score: 0.53
+score: 0.46
 title: L’Aquila
 type: location
 ---

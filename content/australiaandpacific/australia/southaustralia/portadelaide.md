@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Adelaide_150th_ann
 latitude: -34.8343
 loc_type: city
 longitude: 138.5124
-score: 0.43
+score: 0.34
 title: Port Adelaide
 type: location
 ---

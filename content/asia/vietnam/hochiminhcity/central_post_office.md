@@ -1,23 +1,26 @@
 ---
-title: "Saigon Central Post Office"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
-  - landmark
 latitude: 10.7798
 longitude: 106.6993
-snippet: "Grand French colonial post office designed by the Eiffel firm, still operating as a post office"
-story: >
-  The enormous map of Cochinchine et Cambodge (southern Vietnam and Cambodia) painted
-  on the interior wall of the post office dates from the 1890s and was originally
-  intended as a practical reference for postal routes. It survived intact through the
-  French colonial period, the American War, and reunification — 130 years of history
-  on a post office wall.
-sources:
-  - https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Central_Post_Office
 score: 8.7
+snippet: Grand French colonial post office designed by the Eiffel firm, still operating
+  as a post office
+sources:
+- https://en.wikipedia.org/wiki/Ho_Chi_Minh_City_Central_Post_Office
+story: 'The enormous map of Cochinchine et Cambodge (southern Vietnam and Cambodia)
+  painted on the interior wall of the post office dates from the 1890s and was originally
+  intended as a practical reference for postal routes. It survived intact through
+  the French colonial period, the American War, and reunification — 130 years of history
+  on a post office wall.
+
+  '
+tags:
+- things_to_do
+- sight
+- architecture
+- landmark
+- district_1
+title: Saigon Central Post Office
+type: poi
 ---
 
 The Central Post Office next to Notre-Dame Cathedral is one of the finest colonial buildings in Vietnam — a grand vaulted hall designed in the 1880s by architects from the firm of Gustave Eiffel, with iron-and-glass architecture that recalls the Eiffel Tower's structural language. The scale is impressive: a single barrel-vaulted nave over 60 metres long, lined with telephone booths and postal counters still in operation.

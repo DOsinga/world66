@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naruto_whirlpools_20170609
 latitude: 34.066667
 loc_type: city
 longitude: 134.55
-score: 0.58
+score: 0.5
 title: Tokushima
 type: location
 ---

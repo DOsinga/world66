@@ -1,200 +1,200 @@
 {
   "round": 743,
-  "timestamp": "2026-04-12T10:46:09",
+  "timestamp": "2026-06-13T19:51:28",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Fiordland",
-      "path": "australiaandpacific/newzealand/otago/fiordland",
-      "prior_mu": 29.9221,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Sapa",
+      "path": "asia/vietnam/sapa",
+      "prior_score": 8.6366,
+      "prior_variance": 1.205063,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Krakow",
-      "path": "europe/poland/krakow",
-      "prior_mu": 31.3692,
-      "prior_sigma": 6.4963,
+      "title": "Nagarkot",
+      "path": "asia/nepal/nagarkot",
+      "prior_score": 7.6701,
+      "prior_variance": 1.563728,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Denmark",
-      "path": "europe/denmark",
-      "prior_mu": 29.6543,
-      "prior_sigma": 7.0011,
-      "prior_n": 1
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 9.7435,
+      "prior_variance": 0.674375,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Kowloon",
-      "path": "asia/china/hongkong/kowloon",
-      "prior_mu": 22.7367,
-      "prior_sigma": 3.9961,
-      "prior_n": 3
+      "title": "Surin Beach",
+      "path": "asia/thailand/phuket/surin",
+      "prior_score": 10.1794,
+      "prior_variance": 1.706816,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Hue",
-      "path": "asia/vietnam/hue",
-      "prior_mu": 24.13,
-      "prior_sigma": 6.0011,
-      "prior_n": 1
+      "title": "Sidi bou said",
+      "path": "africa/tunisia/sidibousaid",
+      "prior_score": 7.5897,
+      "prior_variance": 0.917474,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Marsala",
-      "path": "europe/italy/sicily/marsala",
-      "prior_mu": 21.6314,
-      "prior_sigma": 3.8054,
-      "prior_n": 3
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 8.3274,
+      "prior_variance": 0.927224,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Jbeil (Byblos)",
-      "path": "asia/lebanon/jbeilbyblos",
-      "prior_mu": 23.2086,
-      "prior_sigma": 5.7831,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 2.9318,
+      "prior_variance": 1.335384,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Gettysburg",
-      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
-      "prior_mu": 23.3263,
-      "prior_sigma": 5.613,
-      "prior_n": 1
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 8.8905,
+      "prior_variance": 1.197476,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "New Caledonia",
-      "path": "australiaandpacific/newcaledonia",
-      "prior_mu": 22.3654,
-      "prior_sigma": 4.3627,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 6.2228,
+      "prior_variance": 0.797707,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Anegada",
-      "path": "northamerica/britishvirginislands/anegada",
-      "prior_mu": 22.4503,
-      "prior_sigma": 5.9101,
-      "prior_n": 1
+      "title": "Qingyan Ancient Town",
+      "path": "asia/china/guizhou/qingyan",
+      "prior_score": 6.4984,
+      "prior_variance": 0.688669,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "St. Omer",
-      "path": "europe/france/nord/stomer",
-      "prior_mu": 21.7253,
-      "prior_sigma": 4.2309,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 6.7695,
+      "prior_variance": 1.224192,
       "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Catanzaro",
-      "path": "europe/italy/calabria/catanzaro",
-      "prior_mu": 22.2486,
-      "prior_sigma": 5.6754,
-      "prior_n": 1
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 7.38,
+      "prior_variance": 1.016031,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Corozal Town",
-      "path": "northamerica/belize/corozaltown",
-      "prior_mu": 22.6993,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Cambridge",
+      "path": "northamerica/unitedstates/massachusetts/cambridge",
+      "prior_score": 8.4574,
+      "prior_variance": 1.294168,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Shannan",
-      "path": "asia/china/tibet/Shannan",
-      "prior_mu": 21.5747,
-      "prior_sigma": 4.634,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 6.3547,
+      "prior_variance": 0.780424,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Vitebsk",
-      "path": "europe/belarus/vitebsk",
-      "prior_mu": 23.0607,
-      "prior_sigma": 5.994,
-      "prior_n": 1
+      "title": "Linz",
+      "path": "europe/austria/linz",
+      "prior_score": 9.6424,
+      "prior_variance": 1.613409,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Bamako",
-      "path": "africa/mali/bamako",
-      "prior_mu": 22.5895,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 6.4549,
+      "prior_variance": 1.246399,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Jambi",
-      "path": "asia/indonesia/jambi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 5.2817,
+      "prior_variance": 0.828666,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Filadelfia",
-      "path": "southamerica/paraguay/filadelfia",
-      "prior_mu": 22.5654,
-      "prior_sigma": 5.7731,
-      "prior_n": 1
+      "title": "Niagara-on-the-Lake",
+      "path": "northamerica/canada/ontario/niagara_on_the_lake",
+      "prior_score": 7.4326,
+      "prior_variance": 0.745618,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Pakistan",
-      "path": "asia/pakistan",
-      "prior_mu": 22.1511,
-      "prior_sigma": 5.7714,
-      "prior_n": 1
+      "title": "Gettysburg",
+      "path": "northamerica/unitedstates/pennsylvania/gettysburg",
+      "prior_score": 7.731,
+      "prior_variance": 0.92456,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Bissau",
-      "path": "africa/guineabissau/bissau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tombstone",
+      "path": "northamerica/unitedstates/arizona/tombstone",
+      "prior_score": 4.5357,
+      "prior_variance": 0.881042,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Benghazi",
-      "path": "africa/libya/benghazi",
-      "prior_mu": 18.1716,
-      "prior_sigma": 6.6683,
-      "prior_n": 1
+      "title": "Karon",
+      "path": "asia/thailand/phuket/karon",
+      "prior_score": 10.1782,
+      "prior_variance": 1.872608,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Laurel",
-      "path": "northamerica/unitedstates/mississippi/laurel",
-      "prior_mu": 22.1434,
-      "prior_sigma": 5.9119,
-      "prior_n": 1
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 4.5426,
+      "prior_variance": 1.25471,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Phenix City",
-      "path": "northamerica/unitedstates/alabama/phenix_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 6.9343,
+      "prior_variance": 0.781004,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Courchevel",
-      "path": "europe/switzerland/courchevel",
-      "prior_mu": 22.1977,
-      "prior_sigma": 5.7541,
-      "prior_n": 1
+      "title": "Cannonville",
+      "path": "northamerica/unitedstates/utah/cannonville",
+      "prior_score": 4.5189,
+      "prior_variance": 0.870199,
+      "prior_n": 2
     }
   ]
 }

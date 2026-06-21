@@ -11,6 +11,12 @@ The overview is the most important page. It should make someone want to visit �
 3. Be honest — if infrastructure is rough or safety is a concern, say so
 4. Be opinionated — if something is great, say it's great
 
+## Sub-national structure
+
+Large countries may use one region level between the country page and individual cities or features. Keep the country overview focused on the big planning picture: the regions, the major routes, and the highlights worth linking onward to.
+
+The canonical hierarchy and `loc_type` rules live in LOCATIONS.md, including the exceptions for major country-level cities and the United Kingdom.
+
 ## Required sections
 
 Every country should have these five sections. They answer the questions every traveler asks first.

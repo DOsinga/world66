@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Tampa,_Florida.jp
 latitude: 27.9506
 loc_type: city
 longitude: -82.4572
-score: 0.54
+score: 0.41
 title: Tampa
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherrapunji_waterfalls_(In
 latitude: 25.277734
 loc_type: city
 longitude: 91.729242
-score: 0.55
+score: 0.46
 sources:
 - https://en.wikipedia.org/wiki/Cherrapunji
 title: Cherrapunji

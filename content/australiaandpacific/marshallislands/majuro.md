@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eneko_Islet_02.JPG
 latitude: 7.090992
 loc_type: city
 longitude: 171.381635
-score: 0.47
+score: 0.4
 title: Majuro
 type: location
 ---

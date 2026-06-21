@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Huangyaguan_05_(4921058465
 latitude: 40.2467
 loc_type: city
 longitude: 117.4518
-score: 0.45
+score: 0.41
 title: Huangyaguan
 type: location
 ---

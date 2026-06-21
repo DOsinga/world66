@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/59081381@N03/52430409908
 latitude: 40.266311
 loc_type: city
 longitude: -76.886112
-score: 0.37
+score: 0.35
 title: Harrisburg
 type: location
 ---

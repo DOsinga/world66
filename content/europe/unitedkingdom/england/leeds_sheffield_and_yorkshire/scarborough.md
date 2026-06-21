@@ -5,7 +5,7 @@ done:
 latitude: 54.282001
 loc_type: city
 longitude: -0.401187
-score: 0.53
+score: 0.45
 title: Scarborough
 type: location
 ---

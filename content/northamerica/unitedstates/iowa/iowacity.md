@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iowa_City_Clinton_St.jpg
 latitude: 41.6612
 loc_type: city
 longitude: -91.5299
-score: 0.39
+score: 0.33
 title: Iowa City
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mehring_Rathaus_Bachstra%C
 latitude: 49.798
 loc_type: city
 longitude: 6.8253
-score: 0.48
+score: 0.41
 title: Mehring
 type: location
 ---

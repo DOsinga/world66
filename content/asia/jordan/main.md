@@ -5,7 +5,7 @@ latitude: 31.680476
 longitude: 35.732646
 title: Ma'in
 type: location
-score: 0.49
+score: 0.43
 loc_type: feature
 ---
 

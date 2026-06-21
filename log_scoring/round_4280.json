@@ -1,0 +1,200 @@
+{
+  "round": 4280,
+  "timestamp": "2026-06-13T23:59:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 10.0186,
+      "prior_variance": 0.202571,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 10.8133,
+      "prior_variance": 0.311862,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Annapurna Region",
+      "path": "asia/nepal/annapurna",
+      "prior_score": 10.9053,
+      "prior_variance": 0.404782,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "San Pedro de Atacama",
+      "path": "southamerica/chile/sanpedrodeatacama",
+      "prior_score": 7.0419,
+      "prior_variance": 0.147202,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Raja Ampat",
+      "path": "asia/indonesia/rajaampat",
+      "prior_score": 10.6089,
+      "prior_variance": 0.266465,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pamukkale",
+      "path": "asia/turkey/pamukale",
+      "prior_score": 8.573,
+      "prior_variance": 0.168754,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.444,
+      "prior_variance": 0.111839,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Lake Baringo",
+      "path": "africa/kenya/lakes/lakebaringo",
+      "prior_score": 1.0033,
+      "prior_variance": 0.108305,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Pescasseroli",
+      "path": "europe/italy/abruzzo/pescasseroli",
+      "prior_score": 1.669,
+      "prior_variance": 0.101115,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 1.7667,
+      "prior_variance": 0.124902,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Dungarpur",
+      "path": "asia/india/rajasthan/dungarpur",
+      "prior_score": -1.8845,
+      "prior_variance": 0.090807,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.3184,
+      "prior_variance": 0.105199,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Hat Yai",
+      "path": "asia/thailand/hatyai",
+      "prior_score": 0.2073,
+      "prior_variance": 0.088433,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 2.2289,
+      "prior_variance": 0.105087,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -1.7625,
+      "prior_variance": 0.118258,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tampa",
+      "path": "northamerica/unitedstates/florida/tampabayarea/tampa",
+      "prior_score": 0.1319,
+      "prior_variance": 0.114349,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 0.9343,
+      "prior_variance": 0.097599,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 0.8464,
+      "prior_variance": 0.088585,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Falun",
+      "path": "europe/sweden/falun",
+      "prior_score": 0.5089,
+      "prior_variance": 0.091843,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Kissimmee",
+      "path": "northamerica/unitedstates/florida/kissimmee",
+      "prior_score": -0.5819,
+      "prior_variance": 0.125492,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 0.9052,
+      "prior_variance": 0.087135,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Rosslare",
+      "path": "europe/ireland/rosslare",
+      "prior_score": -2.0289,
+      "prior_variance": 0.086533,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -1.6244,
+      "prior_variance": 0.104677,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -4.2294,
+      "prior_variance": 0.110922,
+      "prior_n": 14
+    }
+  ]
+}

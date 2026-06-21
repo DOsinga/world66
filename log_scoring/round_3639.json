@@ -1,0 +1,200 @@
+{
+  "round": 3639,
+  "timestamp": "2026-06-13T23:09:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Schaffhausen",
+      "path": "europe/switzerland/schaffhausen",
+      "prior_score": 3.6031,
+      "prior_variance": 0.141356,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 3.0085,
+      "prior_variance": 0.109325,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.1116,
+      "prior_variance": 0.110479,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 3.0156,
+      "prior_variance": 0.139877,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Zomba Plateau",
+      "path": "africa/malawi/zombaplateau",
+      "prior_score": 0.2216,
+      "prior_variance": 0.112792,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Cha Am",
+      "path": "asia/thailand/cha_am",
+      "prior_score": 1.2029,
+      "prior_variance": 0.114225,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Chautauqua",
+      "path": "northamerica/unitedstates/newyorkstate/chautauqua",
+      "prior_score": 0.0726,
+      "prior_variance": 0.105245,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Lappeenranta",
+      "path": "europe/finland/lappeenranta",
+      "prior_score": 0.1445,
+      "prior_variance": 0.101708,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Iloilo",
+      "path": "asia/philippines/iloilo",
+      "prior_score": 0.1991,
+      "prior_variance": 0.12043,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Balboa",
+      "path": "northamerica/panama/balboa",
+      "prior_score": -0.2193,
+      "prior_variance": 0.121013,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Durres",
+      "path": "europe/albania/durres",
+      "prior_score": 0.1493,
+      "prior_variance": 0.10632,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Swansea",
+      "path": "europe/unitedkingdom/wales/swansea",
+      "prior_score": -1.0825,
+      "prior_variance": 0.111641,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Horsens",
+      "path": "europe/denmark/horsens",
+      "prior_score": -0.9721,
+      "prior_variance": 0.101591,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.3945,
+      "prior_variance": 0.128226,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Furong",
+      "path": "asia/china/hunan/furong",
+      "prior_score": -1.1187,
+      "prior_variance": 0.140061,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Hindeloopen",
+      "path": "europe/netherlands/friesland/hindeloopen",
+      "prior_score": -0.1251,
+      "prior_variance": 0.106082,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford",
+      "prior_score": -2.0873,
+      "prior_variance": 0.122867,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.3481,
+      "prior_variance": 0.108841,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Warren Dunes",
+      "path": "northamerica/unitedstates/michigan/warrendunes",
+      "prior_score": -1.3165,
+      "prior_variance": 0.116926,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -1.8805,
+      "prior_variance": 0.11048,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Medan",
+      "path": "asia/indonesia/sumatra/medan",
+      "prior_score": -1.7567,
+      "prior_variance": 0.107059,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -1.8514,
+      "prior_variance": 0.103993,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Saputara",
+      "path": "asia/india/gujarat/saputara",
+      "prior_score": -1.1949,
+      "prior_variance": 0.113006,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Port-au-Prince",
+      "path": "northamerica/thecaribbean/haiti/portauprince",
+      "prior_score": -7.1935,
+      "prior_variance": 0.229596,
+      "prior_n": 11
+    }
+  ]
+}

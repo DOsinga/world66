@@ -5,7 +5,7 @@ done:
 latitude: -3.695943
 loc_type: city
 longitude: 128.178785
-score: 0.48
+score: 0.4
 title: Ambon
 type: location
 ---

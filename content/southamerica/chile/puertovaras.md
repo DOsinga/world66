@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Varas,_Chile_(10986
 latitude: -41.317802
 loc_type: city
 longitude: -72.982907
-score: 0.62
+score: 0.52
 title: Puerto Varas
 type: location
 ---

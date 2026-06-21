@@ -1,0 +1,200 @@
+{
+  "round": 4694,
+  "timestamp": "2026-06-14T00:33:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 11.4292,
+      "prior_variance": 0.272636,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 0.1378,
+      "prior_variance": 0.086313,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Coimbra",
+      "path": "europe/portugal/coimbra",
+      "prior_score": 5.375,
+      "prior_variance": 0.118024,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.9051,
+      "prior_variance": 0.083547,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Ujjain",
+      "path": "asia/india/madhyapradesh/ujjain",
+      "prior_score": 1.2367,
+      "prior_variance": 0.087919,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Laugharne",
+      "path": "europe/unitedkingdom/wales/laugharne",
+      "prior_score": 0.1551,
+      "prior_variance": 0.078109,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Siolim",
+      "path": "asia/india/goa/siolim",
+      "prior_score": 0.1279,
+      "prior_variance": 0.083998,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": -0.0335,
+      "prior_variance": 0.102525,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -0.2594,
+      "prior_variance": 0.087635,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -1.6428,
+      "prior_variance": 0.100347,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Laosicheng",
+      "path": "asia/china/hunan/laosicheng",
+      "prior_score": -0.8481,
+      "prior_variance": 0.096199,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -0.4913,
+      "prior_variance": 0.096412,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Augusta",
+      "path": "northamerica/unitedstates/georgia/augusta",
+      "prior_score": -2.2234,
+      "prior_variance": 0.094048,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Playa Bergantin",
+      "path": "northamerica/dominicanrepublic/puertoplata/playabergantin",
+      "prior_score": -0.1071,
+      "prior_variance": 0.088678,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -1.441,
+      "prior_variance": 0.093036,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -2.8982,
+      "prior_variance": 0.088883,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Brodnica",
+      "path": "europe/poland/brodnica",
+      "prior_score": -3.5012,
+      "prior_variance": 0.09393,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -3.139,
+      "prior_variance": 0.092749,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Wuhu",
+      "path": "asia/china/anhui/wuhu",
+      "prior_score": -4.1751,
+      "prior_variance": 0.101027,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Jilin City",
+      "path": "asia/china/jilin/jilin_city",
+      "prior_score": -3.4102,
+      "prior_variance": 0.088398,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Brandon",
+      "path": "northamerica/canada/manitoba/brandon",
+      "prior_score": -4.7098,
+      "prior_variance": 0.125943,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Irvine",
+      "path": "northamerica/unitedstates/california/orangecounty/irvine",
+      "prior_score": -4.1825,
+      "prior_variance": 0.109781,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -5.7399,
+      "prior_variance": 0.098945,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.1802,
+      "prior_variance": 0.096682,
+      "prior_n": 15
+    }
+  ]
+}

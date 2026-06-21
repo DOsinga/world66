@@ -10,7 +10,7 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:West_side_of_Taha'a_atoll_-_fishing_inside_the_reef_-_panoramio.jpg
 latitude: -17.679742
 longitude: -149.406843
-score: 0.79
+score: 0.69
 title: French Polynesia
 type: location
 quick_facts:

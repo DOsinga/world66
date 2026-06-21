@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/33704098@N00/5995800992
 latitude: -25.0891
 loc_type: city
 longitude: -50.1602
-score: 0.38
+score: 0.31
 title: Ponta Grossa
 type: location
 ---

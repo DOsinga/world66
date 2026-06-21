@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Healdsburg_California,_201
 latitude: 38.610681
 loc_type: city
 longitude: -122.870138
-score: 0.54
+score: 0.45
 title: Healdsburg
 type: location
 ---

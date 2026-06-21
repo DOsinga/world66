@@ -1,0 +1,200 @@
+{
+  "round": 3106,
+  "timestamp": "2026-06-13T22:29:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 9.1678,
+      "prior_variance": 0.275248,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Medellin",
+      "path": "southamerica/colombia/medellin",
+      "prior_score": 4.1929,
+      "prior_variance": 0.195025,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Bikaner",
+      "path": "asia/india/rajasthan/bikaner",
+      "prior_score": 2.7678,
+      "prior_variance": 0.127317,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Danakil Depression",
+      "path": "africa/ethiopia/danakilsdepression",
+      "prior_score": -0.8586,
+      "prior_variance": 0.175472,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Bovec",
+      "path": "europe/slovenia/bovec",
+      "prior_score": 3.6129,
+      "prior_variance": 0.1984,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Montt",
+      "path": "southamerica/chile/puertomontt",
+      "prior_score": 0.9516,
+      "prior_variance": 0.13729,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 2.3234,
+      "prior_variance": 0.135285,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 2.0255,
+      "prior_variance": 0.149439,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 0.5952,
+      "prior_variance": 0.154747,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 2.9076,
+      "prior_variance": 0.145832,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 1.1703,
+      "prior_variance": 0.158062,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Castello d'Empuries",
+      "path": "europe/spain/catalonia/castello_de_ampurias",
+      "prior_score": 0.6014,
+      "prior_variance": 0.143494,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 1.7338,
+      "prior_variance": 0.148601,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Eindhoven",
+      "path": "europe/netherlands/eindhoven",
+      "prior_score": 0.3526,
+      "prior_variance": 0.177874,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Marblehead",
+      "path": "northamerica/unitedstates/massachusetts/marblehead",
+      "prior_score": -0.2921,
+      "prior_variance": 0.155853,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 0.9839,
+      "prior_variance": 0.135817,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Fredrikstad",
+      "path": "europe/norway/fredrikstad",
+      "prior_score": 2.8808,
+      "prior_variance": 0.13343,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Oland",
+      "path": "europe/sweden/oland",
+      "prior_score": 1.2934,
+      "prior_variance": 0.138417,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Naro Moru",
+      "path": "africa/kenya/centralhighlands/naromoru",
+      "prior_score": -1.4738,
+      "prior_variance": 0.126734,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": -0.3565,
+      "prior_variance": 0.12792,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Iraq al-Amir",
+      "path": "asia/jordan/iraqalamir",
+      "prior_score": -0.4585,
+      "prior_variance": 0.13027,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Ch\u00e2lons-en-Champagne",
+      "path": "europe/france/east/champagne/chalonssurmarne",
+      "prior_score": -1.2491,
+      "prior_variance": 0.135243,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Nakhon Pathom",
+      "path": "asia/thailand/nakhon_pathom",
+      "prior_score": -0.384,
+      "prior_variance": 0.138167,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Duitama",
+      "path": "southamerica/colombia/duitama",
+      "prior_score": -3.2567,
+      "prior_variance": 0.152399,
+      "prior_n": 10
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sora-Broccostella-Carnello
 latitude: 41.702731
 loc_type: city
 longitude: 13.63782
-score: 0.38
+score: 0.31
 title: Broccostella
 type: location
 ---

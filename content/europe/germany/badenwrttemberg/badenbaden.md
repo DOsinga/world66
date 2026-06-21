@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baden-Baden_10-2015_img24_
 latitude: 48.761072
 loc_type: city
 longitude: 8.239959
-score: 0.65
+score: 0.55
 title: Baden-Baden
 type: location
 ---

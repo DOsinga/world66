@@ -1,0 +1,200 @@
+{
+  "round": 2582,
+  "timestamp": "2026-06-13T21:52:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Munich",
+      "path": "europe/germany/bavaria/munich",
+      "prior_score": 10.7281,
+      "prior_variance": 0.378491,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Toraja Highland",
+      "path": "asia/indonesia/sulawesi/toraja_highland",
+      "prior_score": 3.4246,
+      "prior_variance": 0.216337,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Akaroa",
+      "path": "australiaandpacific/newzealand/canterbury/akaroa",
+      "prior_score": 4.29,
+      "prior_variance": 0.185953,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 5.5779,
+      "prior_variance": 0.198035,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Airlie Beach",
+      "path": "australiaandpacific/australia/queensland/airliebeach",
+      "prior_score": 4.0838,
+      "prior_variance": 0.189343,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.3463,
+      "prior_variance": 0.159514,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.8805,
+      "prior_variance": 0.17078,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Soria",
+      "path": "europe/spain/soria",
+      "prior_score": 0.0801,
+      "prior_variance": 0.158262,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Kharkiv",
+      "path": "europe/ukraine/kharkiv",
+      "prior_score": -4.9685,
+      "prior_variance": 0.299086,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -1.5959,
+      "prior_variance": 0.163544,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -3.3556,
+      "prior_variance": 0.178872,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Montgomery",
+      "path": "northamerica/unitedstates/alabama/montgomery",
+      "prior_score": -2.9034,
+      "prior_variance": 0.187386,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Panjin",
+      "path": "asia/china/liaoning/panjin",
+      "prior_score": -2.4646,
+      "prior_variance": 0.175511,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -3.1135,
+      "prior_variance": 0.178777,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -3.6182,
+      "prior_variance": 0.189019,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Rajkot",
+      "path": "asia/india/gujarat/rajkot",
+      "prior_score": -3.4343,
+      "prior_variance": 0.155441,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Ny\u00edregyh\u00e1za",
+      "path": "europe/hungary/nyiregyhaza",
+      "prior_score": -3.3242,
+      "prior_variance": 0.169304,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Prince George",
+      "path": "northamerica/canada/britishcolumbia/princegeorge",
+      "prior_score": -3.8402,
+      "prior_variance": 0.178222,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Tempe",
+      "path": "northamerica/unitedstates/arizona/tempe",
+      "prior_score": -3.4566,
+      "prior_variance": 0.1561,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Holwerd",
+      "path": "europe/netherlands/friesland/holwerd",
+      "prior_score": -2.3965,
+      "prior_variance": 0.16156,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -2.9905,
+      "prior_variance": 0.188146,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Black River Falls",
+      "path": "northamerica/unitedstates/wisconsin/black_river_falls",
+      "prior_score": -4.7085,
+      "prior_variance": 0.189507,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -5.9777,
+      "prior_variance": 0.206635,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.3645,
+      "prior_variance": 0.271508,
+      "prior_n": 8
+    }
+  ]
+}

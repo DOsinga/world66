@@ -1,200 +1,200 @@
 {
   "round": 948,
-  "timestamp": "2026-04-12T16:08:51",
+  "timestamp": "2026-06-13T20:02:33",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 184,
-      "prior_n": 8
+      "title": "Khyber Pass",
+      "path": "asia/pakistan/khyberpass",
+      "prior_score": -5.4734,
+      "prior_variance": 0.515424,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Annecy",
-      "path": "europe/france/alpes/annecy",
-      "prior_rank": 129,
-      "prior_wins": 83,
-      "prior_n": 4
-    },
-    {
-      "rank": 3,
-      "title": "Cote d'Azur",
-      "path": "europe/france/midi/cotedazur",
-      "prior_rank": 59,
-      "prior_wins": 114,
-      "prior_n": 5
-    },
-    {
-      "rank": 4,
-      "title": "Takayama",
-      "path": "asia/japan/honshu/takayama",
-      "prior_rank": 236,
-      "prior_wins": 44,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -3.7149,
+      "prior_variance": 0.6453,
       "prior_n": 2
     },
     {
+      "rank": 3,
+      "title": "Serres",
+      "path": "europe/greece/prefecture_of_serres/serres",
+      "prior_score": -4.4556,
+      "prior_variance": 0.588744,
+      "prior_n": 2
+    },
+    {
+      "rank": 4,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -3.5683,
+      "prior_variance": 0.415899,
+      "prior_n": 4
+    },
+    {
       "rank": 5,
-      "title": "Cappadocia",
-      "path": "asia/turkey/cappadocia",
-      "prior_rank": 25,
-      "prior_wins": 65,
+      "title": "Lachhmangarh",
+      "path": "asia/india/rajasthan/lachhmangarh",
+      "prior_score": -2.5391,
+      "prior_variance": 0.412958,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Canyonlands",
-      "path": "northamerica/unitedstates/utah/canyonlands",
-      "prior_rank": 93,
-      "prior_wins": 22,
-      "prior_n": 1
-    },
-    {
-      "rank": 7,
-      "title": "Greve in Chianti",
-      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
-      "prior_rank": 1013,
-      "prior_wins": 19,
-      "prior_n": 1
-    },
-    {
-      "rank": 8,
-      "title": "Utrecht",
-      "path": "europe/netherlands/utrecht",
-      "prior_rank": 545,
-      "prior_wins": 192,
-      "prior_n": 9
-    },
-    {
-      "rank": 9,
-      "title": "Arugam Bay",
-      "path": "asia/srilanka/arugam_bay",
-      "prior_rank": 1212,
-      "prior_wins": 85,
-      "prior_n": 5
-    },
-    {
-      "rank": 10,
-      "title": "Isla Negra",
-      "path": "southamerica/chile/isla_negra",
-      "prior_rank": 2907,
-      "prior_wins": 29,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -5.6288,
+      "prior_variance": 0.666669,
       "prior_n": 2
     },
     {
+      "rank": 7,
+      "title": "Nangqen",
+      "path": "asia/china/qinghai/nangqen",
+      "prior_score": -1.8669,
+      "prior_variance": 0.470242,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -5.6672,
+      "prior_variance": 0.872746,
+      "prior_n": 3
+    },
+    {
+      "rank": 9,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -5.0747,
+      "prior_variance": 0.497826,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Lochem",
+      "path": "europe/netherlands/lochem",
+      "prior_score": -2.7691,
+      "prior_variance": 0.51147,
+      "prior_n": 3
+    },
+    {
       "rank": 11,
-      "title": "Bardufoss",
-      "path": "europe/norway/bardufoss",
-      "prior_rank": 5863,
-      "prior_wins": 21,
+      "title": "Penguin",
+      "path": "australiaandpacific/australia/tasmania/northwest/penguin",
+      "prior_score": -1.7137,
+      "prior_variance": 0.415927,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Sefrou",
-      "path": "africa/morocco/sefrou",
-      "prior_rank": 5020,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -5.9379,
+      "prior_variance": 0.426377,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Kuantan",
-      "path": "asia/malaysia/kuantan",
-      "prior_rank": 4961,
-      "prior_wins": 27,
+      "title": "Wickenburg",
+      "path": "northamerica/unitedstates/arizona/wickenburg",
+      "prior_score": -3.9269,
+      "prior_variance": 0.425533,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Figuig",
-      "path": "africa/morocco/figuig",
-      "prior_rank": 3835,
-      "prior_wins": 12,
-      "prior_n": 1
+      "title": "Caxias do Sul",
+      "path": "southamerica/brazil/caxias_do_sul",
+      "prior_score": -5.0451,
+      "prior_variance": 0.629256,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Guilvinec",
-      "path": "europe/france/normandybrittany/guilvinec",
-      "prior_rank": 4795,
-      "prior_wins": 29,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -4.8209,
+      "prior_variance": 0.580045,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Los Mochis",
-      "path": "northamerica/mexico/losmochis",
-      "prior_rank": 3537,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -6.4546,
+      "prior_variance": 1.101295,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Indialantic",
-      "path": "northamerica/unitedstates/florida/indialantic",
-      "prior_rank": 3943,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -4.7027,
+      "prior_variance": 0.430478,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Metairie",
-      "path": "northamerica/unitedstates/louisiana/metairie",
-      "prior_rank": 7316,
-      "prior_wins": 6,
+      "title": "Sibu",
+      "path": "asia/malaysia/sibu",
+      "prior_score": -5.3604,
+      "prior_variance": 0.630764,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Ciechanow",
-      "path": "europe/poland/ciechanow",
-      "prior_rank": 8187,
-      "prior_wins": 18,
-      "prior_n": 4
+      "title": "Nagpur",
+      "path": "asia/india/maharashtra/nagpur",
+      "prior_score": -6.2516,
+      "prior_variance": 0.621937,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Tonawanda",
-      "path": "northamerica/unitedstates/newyorkstate/tonawanda",
-      "prior_rank": 6243,
-      "prior_wins": 12,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Karachi",
-      "path": "asia/pakistan/karachi",
-      "prior_rank": 7477,
-      "prior_wins": 5,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Nema",
-      "path": "africa/mauritania/nema",
-      "prior_rank": 7968,
-      "prior_wins": 2,
-      "prior_n": 2
-    },
-    {
-      "rank": 23,
-      "title": "pheroani",
-      "path": "asia/pakistan/dera_ghazi_khan/pheroani",
-      "prior_rank": 8223,
-      "prior_wins": 2,
+      "title": "Preston",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston",
+      "prior_score": -5.5685,
+      "prior_variance": 0.831951,
       "prior_n": 3
     },
     {
+      "rank": 21,
+      "title": "Canton",
+      "path": "northamerica/unitedstates/ohio/canton",
+      "prior_score": -4.6477,
+      "prior_variance": 0.400321,
+      "prior_n": 3
+    },
+    {
+      "rank": 22,
+      "title": "Karratha",
+      "path": "australiaandpacific/australia/westernaustralia/karratha",
+      "prior_score": -5.2073,
+      "prior_variance": 0.448382,
+      "prior_n": 3
+    },
+    {
+      "rank": 23,
+      "title": "Alaverdi",
+      "path": "europe/armenia/alaverdi",
+      "prior_score": -1.975,
+      "prior_variance": 0.656306,
+      "prior_n": 2
+    },
+    {
       "rank": 24,
-      "title": "Blue Star Cafe",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/bluestarcafe",
-      "prior_rank": 8213,
-      "prior_wins": 7,
-      "prior_n": 4
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -8.5025,
+      "prior_variance": 1.041603,
+      "prior_n": 2
     }
   ]
 }

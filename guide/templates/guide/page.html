@@ -13,7 +13,7 @@
     {% if forloop.last %}
       <span class="current">{{ name }}</span>
     {% else %}
-      <a href="/{{ path }}">{{ name }}</a>
+      <a href="{{ url_prefix }}/{{ path }}">{{ name }}</a>
     {% endif %}
     {% endif %}
   {% endfor %}
@@ -446,7 +446,7 @@
   <p class="poi-elsewhere-label">Other places in {{ context_nav.title }}</p>
   <ul class="poi-elsewhere-list">
     {% for poi in nav_siblings %}{% if poi.slug != page.slug %}
-    <li><a href="/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
+    <li><a href="{{ url_prefix }}/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
 </div>

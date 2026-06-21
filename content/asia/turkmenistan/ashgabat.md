@@ -6,7 +6,7 @@ latitude: 37.937832
 longitude: 58.235947
 title: Ashgabat
 type: location
-score: 0.45
+score: 0.37
 loc_type: city
 ---
 

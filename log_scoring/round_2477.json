@@ -1,0 +1,200 @@
+{
+  "round": 2477,
+  "timestamp": "2026-06-13T21:45:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.2316,
+      "prior_variance": 0.397288,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "The Gal\u00e1pagos Islands",
+      "path": "southamerica/ecuador/galapagosislands/theislands",
+      "prior_score": 14.0101,
+      "prior_variance": 0.840241,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Tintagel",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/tintagel",
+      "prior_score": 3.5258,
+      "prior_variance": 0.16788,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Wilderness",
+      "path": "africa/southafrica/gardenroute/wilderness",
+      "prior_score": 3.3782,
+      "prior_variance": 0.181522,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Saariselk\u00e4",
+      "path": "europe/finland/saariselk",
+      "prior_score": 3.0262,
+      "prior_variance": 0.163177,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Bastia",
+      "path": "europe/france/corsica/bastia",
+      "prior_score": 3.9192,
+      "prior_variance": 0.201224,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "St Helier",
+      "path": "europe/channelislands/jersey/sthelier",
+      "prior_score": 0.647,
+      "prior_variance": 0.168335,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.9288,
+      "prior_variance": 0.161601,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "My Son",
+      "path": "asia/vietnam/myson",
+      "prior_score": 3.5932,
+      "prior_variance": 0.208058,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.7842,
+      "prior_variance": 0.160592,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 2.1383,
+      "prior_variance": 0.167314,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 2.6228,
+      "prior_variance": 0.250952,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -0.4364,
+      "prior_variance": 0.157695,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -1.2603,
+      "prior_variance": 0.175412,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Sepik River",
+      "path": "asia/papuanewguinea/sepikriver",
+      "prior_score": 1.3928,
+      "prior_variance": 0.209876,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.5986,
+      "prior_variance": 0.17567,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Akhaltsikhe",
+      "path": "europe/georgia/alkhatsikhe",
+      "prior_score": -0.4715,
+      "prior_variance": 0.175698,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Jinggangshan",
+      "path": "asia/china/jiangxi/jinggangshan",
+      "prior_score": -0.3292,
+      "prior_variance": 0.176028,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Chaves",
+      "path": "europe/portugal/chaves",
+      "prior_score": 0.4461,
+      "prior_variance": 0.171137,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Curtea de Arges",
+      "path": "europe/romania/curtea_de_arges",
+      "prior_score": 0.2567,
+      "prior_variance": 0.160565,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Chitral",
+      "path": "asia/pakistan/chitral",
+      "prior_score": -2.3577,
+      "prior_variance": 0.229085,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 0.5029,
+      "prior_variance": 0.184367,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Ekaterinburg",
+      "path": "europe/russia/ural/ekaterinburg",
+      "prior_score": -1.8038,
+      "prior_variance": 0.176746,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "New London",
+      "path": "northamerica/unitedstates/wisconsin/new_london",
+      "prior_score": -5.5913,
+      "prior_variance": 0.19511,
+      "prior_n": 7
+    }
+  ]
+}

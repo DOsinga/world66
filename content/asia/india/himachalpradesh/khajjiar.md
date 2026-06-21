@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Khajjiar_,Chamba
 latitude: 32.5486
 loc_type: city
 longitude: 76.0597
-score: 0.56
+score: 0.48
 title: Khajjiar
 type: location
 ---

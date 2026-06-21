@@ -4,7 +4,7 @@ done:
 latitude: 8.7139
 loc_type: city
 longitude: 77.7567
-score: 0.41
+score: 0.31
 title: Tirunelveli
 type: location
 ---

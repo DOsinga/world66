@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Graz_(35932179023).jpg
 latitude: 47.0709
 loc_type: city
 longitude: 15.4383
-score: 0.65
+score: 0.59
 title: Graz
 type: location
 ---

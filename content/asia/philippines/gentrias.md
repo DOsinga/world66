@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-14'
 latitude: 14.386121
 longitude: 120.880285
-score: 0.32
+score: 0.26
 title: Gen. Trias
 type: location
 loc_type: city

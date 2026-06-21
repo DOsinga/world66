@@ -5,7 +5,7 @@ done:
 latitude: 42.7597
 loc_type: city
 longitude: -105.3822
-score: 0.32
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Douglas,_Wyoming
 - https://conversecountytourism.com

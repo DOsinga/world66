@@ -6,7 +6,7 @@ latitude: 42.874675
 longitude: -100.550616
 title: Valentine
 type: location
-score: 0.34
+score: 0.29
 loc_type: city
 ---
 

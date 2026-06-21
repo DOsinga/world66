@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Handan
 title: Handan
 type: location
+score: 0.29
 ---
 
 Handan is one of the oldest continuously inhabited cities in northern China, capital of the Zhao state for more than 150 years during the Warring States period and a major cultural centre long before the Qin unification. Over 1,500 Chinese idioms are said to have originated here, a claim that sounds like local boosterism until you start checking and find that it is basically true. The city takes this heritage seriously: there are plaques and monuments throughout the centre commemorating the proverbs, and [Congtai Park](/asia/china/hebei/handan/congtai_park) preserves what remains of the old royal platform where the Zhao kings reportedly reviewed their troops.

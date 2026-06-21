@@ -6,7 +6,7 @@ done:
 latitude: 39.438582
 loc_type: city
 longitude: 45.607133
-score: 0.32
+score: 0.23
 sources:
 - https://en.wikipedia.org/wiki/%C5%9Eahbuz
 title: Shahbuz

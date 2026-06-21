@@ -5,7 +5,7 @@ done:
 latitude: 39.2547
 loc_type: city
 longitude: 45.519
-score: 0.33
+score: 0.28
 title: Babek
 type: location
 image: babek.jpg

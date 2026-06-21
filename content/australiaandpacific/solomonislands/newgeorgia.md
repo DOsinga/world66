@@ -6,13 +6,13 @@ latitude: -8.35
 longitude: 157.5833
 title: New Georgia
 type: location
-score: 0.4
+score: 0.33
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/New_Georgia_campaign
-  - https://en.wikipedia.org/wiki/Munda,_Solomon_Islands
-  - https://en.wikipedia.org/wiki/Rendova_Island
-  - https://en.wikipedia.org/wiki/New_Georgia_Islands
+- https://en.wikipedia.org/wiki/New_Georgia_campaign
+- https://en.wikipedia.org/wiki/Munda,_Solomon_Islands
+- https://en.wikipedia.org/wiki/Rendova_Island
+- https://en.wikipedia.org/wiki/New_Georgia_Islands
 ---
 
 New Georgia is the largest island in the Western Province of the [Solomon Islands](/australiaandpacific/solomonislands) and the hub of some of the best diving in the Pacific. The island sits at the edge of [Roviana Lagoon](/australiaandpacific/solomonislands/newgeorgia/roviana_lagoon) — a sheltered expanse of turquoise water enclosed by barrier reefs — where pristine coral walls drop into deep blue water teeming with sharks, barracuda, manta rays, and sea turtles. Visibility regularly exceeds 30 metres.

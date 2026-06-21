@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bod%C3%B8_2006.jpg
 latitude: 67.2844
 loc_type: city
 longitude: 14.3818
-score: 0.53
+score: 0.48
 title: Bodø
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 33.941213
 loc_type: city
 longitude: -84.213531
-score: 0.33
+score: 0.24
 title: Norcross
 type: location
 image: norcross.jpg

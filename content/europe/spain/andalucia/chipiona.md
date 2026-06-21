@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Chipiona,_Espa%C3%B1
 latitude: 36.735545
 loc_type: city
 longitude: -6.434822
-score: 0.52
+score: 0.46
 title: Chipiona
 type: location
 ---

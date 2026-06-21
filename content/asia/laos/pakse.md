@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Multiple_rows_of_golden_st
 latitude: 15.120146
 loc_type: city
 longitude: 105.804397
-score: 0.54
+score: 0.47
 title: Pakse
 type: location
 ---

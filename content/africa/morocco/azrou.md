@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Azrou,college.jpg
 latitude: 33.4339
 loc_type: city
 longitude: -5.2226
-score: 0.48
+score: 0.4
 title: Azrou
 type: location
 ---

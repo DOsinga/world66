@@ -5,7 +5,7 @@ done:
 latitude: 31.385648
 loc_type: city
 longitude: 75.30533
-score: 0.38
+score: 0.33
 title: Kapurthala
 type: location
 ---

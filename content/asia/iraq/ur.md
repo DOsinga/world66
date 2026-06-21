@@ -5,7 +5,7 @@ latitude: 30.961335
 longitude: 46.105388
 title: Ur
 type: location
-score: 0.33
+score: 0.34
 loc_type: feature
 ---
 

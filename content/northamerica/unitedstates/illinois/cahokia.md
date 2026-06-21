@@ -9,7 +9,7 @@ latitude: 38.5662
 longitude: -90.1794
 title: Cahokia
 type: location
-score: 0.36
+score: 0.32
 loc_type: city
 ---
 

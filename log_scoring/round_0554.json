@@ -1,152 +1,200 @@
 {
   "round": 554,
-  "timestamp": "2026-04-12T10:37:14",
+  "timestamp": "2026-06-13T19:41:57",
   "model": "claude-sonnet-4-6",
-  "batch_size": 18,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Bled",
-      "path": "europe/slovenia/bled",
-      "prior_mu": 29.4473,
-      "prior_sigma": 7.1948,
+      "title": "Tianchi",
+      "path": "asia/china/xinjiangprovince/tianchi",
+      "prior_score": 4.2613,
+      "prior_variance": 1.555058,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Ljubljana",
-      "path": "europe/slovenia/ljubljana",
-      "prior_mu": 23.5614,
-      "prior_sigma": 6.0689,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 4.6786,
+      "prior_variance": 1.675374,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Piran",
-      "path": "europe/slovenia/piran",
-      "prior_mu": 24.5492,
-      "prior_sigma": 4.3998,
-      "prior_n": 3
+      "title": "Jakar",
+      "path": "asia/bhutan/jakar",
+      "prior_score": 4.933,
+      "prior_variance": 1.495002,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Postojna Caves",
-      "path": "europe/slovenia/postojnacaves",
-      "prior_mu": 22.7342,
-      "prior_sigma": 4.7567,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 4.1524,
+      "prior_variance": 0.688058,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Lake Bohinj",
-      "path": "europe/slovenia/lakebohinj",
-      "prior_mu": 22.3824,
-      "prior_sigma": 4.7737,
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 6.9659,
+      "prior_variance": 1.081659,
       "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Slovenia",
-      "path": "europe/slovenia",
-      "prior_mu": 23.515,
-      "prior_sigma": 4.8162,
-      "prior_n": 2
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_island",
+      "prior_score": 5.5017,
+      "prior_variance": 1.593624,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Bovec",
-      "path": "europe/slovenia/bovec",
-      "prior_mu": 22.6464,
-      "prior_sigma": 4.0982,
-      "prior_n": 3
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 5.2694,
+      "prior_variance": 1.319505,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Ptuj",
-      "path": "europe/slovenia/ptuj",
-      "prior_mu": 21.6273,
-      "prior_sigma": 4.6095,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 2.8499,
+      "prior_variance": 0.727663,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Portoroz",
-      "path": "europe/slovenia/portoroz",
-      "prior_mu": 22.6472,
-      "prior_sigma": 5.9509,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 3.4617,
+      "prior_variance": 1.268466,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Koper",
-      "path": "europe/slovenia/koper",
-      "prior_mu": 22.502,
-      "prior_sigma": 5.95,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 2.8495,
+      "prior_variance": 1.604826,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Maribor",
-      "path": "europe/slovenia/maribor",
-      "prior_mu": 22.8829,
-      "prior_sigma": 5.9499,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 5.4086,
+      "prior_variance": 2.095995,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Izola",
-      "path": "europe/slovenia/izola",
-      "prior_mu": 22.4354,
-      "prior_sigma": 5.9499,
+      "title": "Brodick",
+      "path": "europe/unitedkingdom/scotland/arran/brodick",
+      "prior_score": 2.9249,
+      "prior_variance": 1.403321,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Lipica",
-      "path": "europe/slovenia/lipica",
-      "prior_mu": 21.7155,
-      "prior_sigma": 4.8383,
+      "title": "R\u00eda de Vigo",
+      "path": "europe/spain/galicia/ria_of_vigo",
+      "prior_score": 6.1816,
+      "prior_variance": 1.946796,
       "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Celje",
-      "path": "europe/slovenia/celje",
-      "prior_mu": 20.874,
-      "prior_sigma": 2.3536,
-      "prior_n": 7
-    },
-    {
-      "rank": 15,
-      "title": "Nova Gorica",
-      "path": "europe/slovenia/nova_gorica",
-      "prior_mu": 21.5566,
-      "prior_sigma": 3.9074,
-      "prior_n": 3
-    },
-    {
-      "rank": 16,
-      "title": "Savinja and \u0160alek Valley",
-      "path": "europe/slovenia/savinja_and_alek",
-      "prior_mu": 22.1395,
-      "prior_sigma": 5.9499,
+      "title": "R\u00fcdesheim",
+      "path": "europe/germany/hessen/rudesheim",
+      "prior_score": 4.2536,
+      "prior_variance": 1.363166,
       "prior_n": 1
     },
     {
-      "rank": 17,
-      "title": "Novo Mesto",
-      "path": "europe/slovenia/novo_mesto",
-      "prior_mu": 21.8835,
-      "prior_sigma": 4.6298,
+      "rank": 15,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 2.7916,
+      "prior_variance": 1.763419,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Mount Shasta",
+      "path": "northamerica/unitedstates/california/shastacascade/mountshasta",
+      "prior_score": 2.4538,
+      "prior_variance": 1.002383,
       "prior_n": 2
     },
     {
+      "rank": 17,
+      "title": "Kumasi",
+      "path": "africa/ghana/kumasi",
+      "prior_score": 4.4518,
+      "prior_variance": 1.380306,
+      "prior_n": 1
+    },
+    {
       "rank": 18,
-      "title": "Jesenice",
-      "path": "europe/slovenia/jesenice",
-      "prior_mu": 19.7109,
-      "prior_sigma": 4.2027,
-      "prior_n": 3
+      "title": "Williamsburg",
+      "path": "northamerica/unitedstates/virginia/williamsburg",
+      "prior_score": 5.9461,
+      "prior_variance": 1.168002,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Clearwater",
+      "path": "northamerica/unitedstates/florida/clearwater",
+      "prior_score": 6.4564,
+      "prior_variance": 1.829491,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 2.3496,
+      "prior_variance": 1.697093,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 3.4492,
+      "prior_variance": 1.468371,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Trnava",
+      "path": "europe/slovakia/trnava",
+      "prior_score": 3.374,
+      "prior_variance": 0.662308,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Guildford",
+      "path": "europe/unitedkingdom/england/south_east/guildford",
+      "prior_score": 1.5356,
+      "prior_variance": 1.477705,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Zennor",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor",
+      "prior_score": 5.4095,
+      "prior_variance": 1.070585,
+      "prior_n": 2
     }
   ]
 }

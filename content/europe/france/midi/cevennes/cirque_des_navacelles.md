@@ -5,7 +5,7 @@ latitude: 43.892762
 longitude: 3.509978
 title: Cirque des Navacelles
 type: location
-score: 0.56
+score: 0.51
 loc_type: feature
 ---
 

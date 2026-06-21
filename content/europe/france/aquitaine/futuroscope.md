@@ -5,7 +5,7 @@ latitude: 46.670389
 longitude: 0.370111
 title: Futuroscope
 type: location
-score: 0.53
+score: 0.45
 loc_type: feature
 ---
 

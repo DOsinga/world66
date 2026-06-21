@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taxco,_Guerrero,_Mexico_(N
 latitude: 18.5566
 loc_type: city
 longitude: -99.6053
-score: 0.61
+score: 0.55
 title: Taxco
 type: location
 ---

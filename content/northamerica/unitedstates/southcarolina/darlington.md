@@ -5,7 +5,7 @@ done:
 latitude: 34.3609
 loc_type: city
 longitude: -79.9439
-score: 0.31
+score: 0.25
 title: Darlington
 type: location
 ---

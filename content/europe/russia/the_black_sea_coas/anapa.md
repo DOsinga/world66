@@ -5,7 +5,7 @@ done:
 latitude: 44.894272
 loc_type: city
 longitude: 37.316887
-score: 0.36
+score: 0.32
 title: Anapa
 type: location
 ---

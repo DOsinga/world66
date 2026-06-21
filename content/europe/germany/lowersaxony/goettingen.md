@@ -5,7 +5,7 @@ done:
 latitude: 51.5328
 loc_type: city
 longitude: 9.9352
-score: 0.47
+score: 0.42
 title: Göttingen
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Christ_The_King_Cathedral_
 latitude: 7.447078
 loc_type: city
 longitude: 125.809485
-score: 0.35
+score: 0.3
 title: Tagum City
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Himeji_Castle_0804_1.jpg
 latitude: 34.815353
 loc_type: city
 longitude: 134.685479
-score: 0.73
+score: 0.65
 title: Himeji
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 29.4336
 loc_type: city
 longitude: 48.321
-score: 0.39
+score: 0.33
 title: Failaka Island
 type: location
 ---

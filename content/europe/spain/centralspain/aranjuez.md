@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aranjuez_PalacioReal_Plaza
 latitude: 40.032229
 loc_type: city
 longitude: -3.60401
-score: 0.58
+score: 0.51
 title: Aranjuez
 type: location
 ---

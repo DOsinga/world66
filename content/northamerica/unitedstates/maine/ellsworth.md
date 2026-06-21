@@ -5,7 +5,7 @@ done:
 latitude: 44.5434
 loc_type: city
 longitude: -68.4195
-score: 0.38
+score: 0.33
 title: Ellsworth
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3019,
+  "timestamp": "2026-06-13T22:23:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Denpasar",
+      "path": "asia/indonesia/bali/denpasar",
+      "prior_score": 5.0044,
+      "prior_variance": 0.191749,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Valencia",
+      "path": "europe/spain/spanishcostas/valencia",
+      "prior_score": 7.7684,
+      "prior_variance": 0.225277,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.1544,
+      "prior_variance": 0.140975,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.8033,
+      "prior_variance": 0.151564,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Bocca di Magra",
+      "path": "europe/italy/liguria/bocca_di_magra",
+      "prior_score": -0.1093,
+      "prior_variance": 0.131602,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "St-Pons-de-Thomi\u00e8res",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/st_pons_de_thomieres",
+      "prior_score": -0.8451,
+      "prior_variance": 0.120043,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 3.1918,
+      "prior_variance": 0.158414,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -1.2519,
+      "prior_variance": 0.154463,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -1.5046,
+      "prior_variance": 0.137285,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -3.4548,
+      "prior_variance": 0.177964,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.7786,
+      "prior_variance": 0.205925,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -3.4449,
+      "prior_variance": 0.157407,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Shenyang",
+      "path": "asia/china/liaoning/shenyang",
+      "prior_score": -2.402,
+      "prior_variance": 0.141488,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bougainville",
+      "path": "asia/papuanewguinea/bougainville",
+      "prior_score": -4.3455,
+      "prior_variance": 0.152207,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -3.2636,
+      "prior_variance": 0.141056,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lakeland",
+      "path": "northamerica/unitedstates/florida/lakeland",
+      "prior_score": -2.6149,
+      "prior_variance": 0.133751,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Tamale",
+      "path": "africa/ghana/tamale",
+      "prior_score": -4.1184,
+      "prior_variance": 0.153573,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.5638,
+      "prior_variance": 0.168336,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Taizhou",
+      "path": "asia/china/jiangsu_province/taizhou",
+      "prior_score": -4.5369,
+      "prior_variance": 0.149241,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Shawnee",
+      "path": "northamerica/unitedstates/oklahoma/shawnee",
+      "prior_score": -5.8461,
+      "prior_variance": 0.168489,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Nagore",
+      "path": "asia/india/tamilnadu/nagore",
+      "prior_score": -4.1065,
+      "prior_variance": 0.134654,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -5.7406,
+      "prior_variance": 0.182781,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": -4.5393,
+      "prior_variance": 0.146613,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.7486,
+      "prior_variance": 0.157898,
+      "prior_n": 9
+    }
+  ]
+}

@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sognefjord
 title: Sognefjorden
 type: location
+score: 0.71
 ---
 
 Sognefjorden is the longest and deepest fjord in Norway — 205 kilometres from the sea to the head of the valley at Skjolden, and over 1,300 metres deep in places. It is the fjord that most Norwegians think of when they think of fjords: enormous, flanked by mountains rising 1,700 metres straight from the water, with farms and villages perched on narrow shelves of flat ground wherever the cliffs relent. The UNESCO World Heritage designation covers the Nærøyfjord arm and the Geirangerfjord together — these are considered the finest examples of fjord scenery anywhere in the world.

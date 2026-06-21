@@ -1,0 +1,200 @@
+{
+  "round": 2879,
+  "timestamp": "2026-06-13T22:13:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Florence",
+      "path": "europe/italy/tuscany/florence",
+      "prior_score": 16.6534,
+      "prior_variance": 0.901928,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Salerno",
+      "path": "europe/italy/campania/salerno",
+      "prior_score": 2.8725,
+      "prior_variance": 0.215294,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 2.5228,
+      "prior_variance": 0.204258,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.4134,
+      "prior_variance": 0.147033,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Olduvai Gorge",
+      "path": "africa/tanzania/olduvaigorge",
+      "prior_score": 1.7829,
+      "prior_variance": 0.136412,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.0492,
+      "prior_variance": 0.144948,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Valladolid",
+      "path": "europe/spain/centralspain/valladolid",
+      "prior_score": 2.1616,
+      "prior_variance": 0.151979,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Visegrad",
+      "path": "europe/hungary/visegrad",
+      "prior_score": 1.8286,
+      "prior_variance": 0.192101,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Mosj\u00f8en",
+      "path": "europe/norway/mosjen",
+      "prior_score": -0.3784,
+      "prior_variance": 0.141067,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hokitika",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/hokitika",
+      "prior_score": -0.2502,
+      "prior_variance": 0.16129,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Gobustan",
+      "path": "europe/azerbaijan/gobustan",
+      "prior_score": 1.5562,
+      "prior_variance": 0.133159,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Junagadh",
+      "path": "asia/india/gujarat/junagadh",
+      "prior_score": -0.1334,
+      "prior_variance": 0.156946,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.6442,
+      "prior_variance": 0.15951,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": 0.429,
+      "prior_variance": 0.150142,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Rose-Hill",
+      "path": "africa/mauritius/rosehill",
+      "prior_score": -0.8901,
+      "prior_variance": 0.153014,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Raleighvallen",
+      "path": "southamerica/suriname/raleighvallen",
+      "prior_score": -0.4227,
+      "prior_variance": 0.153369,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.5337,
+      "prior_variance": 0.171374,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Ybor City",
+      "path": "northamerica/unitedstates/florida/tampabayarea/yborcity",
+      "prior_score": -0.4246,
+      "prior_variance": 0.161168,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.3239,
+      "prior_variance": 0.126705,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Carlsbad",
+      "path": "northamerica/unitedstates/california/carlsbad",
+      "prior_score": 1.0224,
+      "prior_variance": 0.133427,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Yarmouth",
+      "path": "northamerica/unitedstates/massachusetts/yarmouth",
+      "prior_score": -1.0904,
+      "prior_variance": 0.163714,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": 0.4962,
+      "prior_variance": 0.128598,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sainte-Croix-en-Jarez",
+      "path": "europe/france/centre/saintecroixenja",
+      "prior_score": -0.0048,
+      "prior_variance": 0.175215,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.6017,
+      "prior_variance": 0.143648,
+      "prior_n": 9
+    }
+  ]
+}

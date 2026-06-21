@@ -1,200 +1,200 @@
 {
   "round": 1115,
-  "timestamp": "2026-04-12T22:10:23",
+  "timestamp": "2026-06-13T20:12:02",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Pingyao",
-      "path": "asia/china/shanxiprovince/pingyao",
-      "prior_rank": 1248,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Moorea",
+      "path": "australiaandpacific/frenchpolynesia/moorea",
+      "prior_score": 14.3396,
+      "prior_variance": 0.762924,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Uzbekistan",
-      "path": "asia/uzbekistan",
-      "prior_rank": 2725,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Grindelwald",
+      "path": "europe/switzerland/grindelwald",
+      "prior_score": 14.4809,
+      "prior_variance": 0.706176,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Death Valley",
-      "path": "northamerica/unitedstates/california/deserts/deathvalley",
-      "prior_rank": 2139,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 12.1171,
+      "prior_variance": 0.724064,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Jujuy",
-      "path": "southamerica/argentina/jujuy",
-      "prior_rank": 1114,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Fl\u00e5m",
+      "path": "europe/norway/flm",
+      "prior_score": 10.8893,
+      "prior_variance": 1.152839,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Troy",
-      "path": "asia/turkey/troy",
-      "prior_rank": 2467,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Phang Nga Bay",
+      "path": "asia/thailand/phangngabay",
+      "prior_score": 13.0911,
+      "prior_variance": 0.594006,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Ilha do Mel",
-      "path": "southamerica/brazil/ilha_do_mel",
-      "prior_rank": 1900,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Sorrento",
+      "path": "europe/italy/campania/sorrento",
+      "prior_score": 11.8649,
+      "prior_variance": 1.115969,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Cape May",
-      "path": "northamerica/unitedstates/newjersey/cape_may",
-      "prior_rank": 4080,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Kefalonia",
+      "path": "europe/greece/kefalonia",
+      "prior_score": 10.8606,
+      "prior_variance": 0.788301,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Jablanac",
-      "path": "europe/croatia/jablanac",
-      "prior_rank": 4068,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": 13.8709,
+      "prior_variance": 1.696712,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Casamicciola Terme",
-      "path": "europe/italy/campania/ischia/casamicciola",
-      "prior_rank": 3302,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 8.7645,
+      "prior_variance": 0.434974,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Metsovo",
-      "path": "europe/greece/metsovo",
-      "prior_rank": 3164,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Mustique",
+      "path": "northamerica/saintvincentandthegrenadines/mustique",
+      "prior_score": 7.6445,
+      "prior_variance": 0.424778,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Aracena",
-      "path": "europe/spain/andalucia/aracena",
-      "prior_rank": 2487,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Unawatuna",
+      "path": "asia/srilanka/unawatuna",
+      "prior_score": 7.7892,
+      "prior_variance": 0.437954,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Sariska National Park",
-      "path": "asia/india/rajasthan/sariskanationalpark",
-      "prior_rank": 2738,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 7.7925,
+      "prior_variance": 0.688882,
+      "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Somnath",
-      "path": "asia/india/gujarat/somnath",
-      "prior_rank": 2052,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Picos de Europa",
+      "path": "europe/spain/northernspain/picosdeeuropa",
+      "prior_score": 7.3686,
+      "prior_variance": 0.49549,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Frisian Islands",
-      "path": "europe/denmark/vadehavet/frisian_islands_in",
-      "prior_rank": 2541,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Bar Harbor",
+      "path": "northamerica/unitedstates/maine/bar_harbor",
+      "prior_score": 8.802,
+      "prior_variance": 0.625288,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Traverse City",
-      "path": "northamerica/unitedstates/michigan/traverse_city",
-      "prior_rank": 1139,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Otranto",
+      "path": "europe/italy/puglia/otranto",
+      "prior_score": 7.2236,
+      "prior_variance": 0.585058,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Folly Beach",
-      "path": "northamerica/unitedstates/southcarolina/folly_beach",
-      "prior_rank": 1271,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 7.6679,
+      "prior_variance": 0.467858,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Punta Arenas",
-      "path": "southamerica/chile/puntaarenas",
-      "prior_rank": 2504,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 6.2166,
+      "prior_variance": 0.501522,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Skala Kalloni",
-      "path": "europe/greece/lesbos/skalakalloni",
-      "prior_rank": 3539,
-      "prior_wins": 38,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 5.0932,
+      "prior_variance": 0.542662,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Niigata",
-      "path": "asia/japan/honshu/niigata",
-      "prior_rank": 2053,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 6.999,
+      "prior_variance": 0.569439,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Skomv\u00e6r",
-      "path": "europe/norway/lofotenislands/skomvr",
-      "prior_rank": 1010,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 7.9324,
+      "prior_variance": 0.558219,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Catanzaro",
-      "path": "europe/italy/calabria/catanzaro",
-      "prior_rank": 4415,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Campeche",
+      "path": "northamerica/mexico/yucatan/campeche_campeche",
+      "prior_score": 6.6277,
+      "prior_variance": 0.463677,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Lochinver",
-      "path": "europe/unitedkingdom/scotland/lochinver",
-      "prior_rank": 2724,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 5.5015,
+      "prior_variance": 0.497089,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Kackar",
-      "path": "asia/turkey/kackar",
-      "prior_rank": 5435,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 6.405,
+      "prior_variance": 0.674886,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "'Eua",
-      "path": "australiaandpacific/tonga/eua",
-      "prior_rank": 4880,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Papeete",
+      "path": "australiaandpacific/frenchpolynesia/tahiti/papeete",
+      "prior_score": 9.4013,
+      "prior_variance": 0.469665,
+      "prior_n": 3
     }
   ]
 }

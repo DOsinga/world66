@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sinnamary.jpg
 latitude: 5.377056
 loc_type: city
 longitude: -52.957159
-score: 0.39
+score: 0.29
 title: Sinnamary
 type: location
 ---

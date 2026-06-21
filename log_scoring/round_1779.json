@@ -1,200 +1,200 @@
 {
   "round": 1779,
-  "timestamp": "2026-04-13T10:50:21",
+  "timestamp": "2026-06-13T20:51:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Osaka",
-      "path": "asia/japan/honshu/osaka",
-      "prior_score": 10.9431,
-      "prior_variance": 0.709002,
-      "prior_n": 4
+      "title": "Glacier National Park",
+      "path": "northamerica/unitedstates/montana/glaciernp",
+      "prior_score": 11.4341,
+      "prior_variance": 0.487506,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Jiuzhaigou",
-      "path": "asia/china/sichuanprovince/jiuzhaigou",
-      "prior_score": 8.4378,
-      "prior_variance": 0.378965,
-      "prior_n": 5
+      "title": "Windermere",
+      "path": "europe/unitedkingdom/england/lakedistrict/windermere",
+      "prior_score": 4.0494,
+      "prior_variance": 0.297936,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Costa Brava",
-      "path": "europe/spain/costa_brava",
-      "prior_score": 7.4601,
-      "prior_variance": 0.365294,
-      "prior_n": 4
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.7946,
+      "prior_variance": 0.360768,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Exumas",
-      "path": "northamerica/bahamas/exumas",
-      "prior_score": 10.4497,
-      "prior_variance": 0.546181,
-      "prior_n": 5
+      "title": "Pushkar",
+      "path": "asia/india/rajasthan/pushkar",
+      "prior_score": 5.2058,
+      "prior_variance": 0.240059,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Rum",
-      "path": "asia/jordan/wadirum/rum",
-      "prior_score": 1.1467,
-      "prior_variance": 0.499646,
-      "prior_n": 4
+      "title": "Modena",
+      "path": "europe/italy/emiliaromagna/modena",
+      "prior_score": 4.7325,
+      "prior_variance": 0.302019,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Vail",
-      "path": "northamerica/unitedstates/colorado/vail",
-      "prior_score": 5.963,
-      "prior_variance": 0.359966,
-      "prior_n": 4
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.9427,
+      "prior_variance": 0.249898,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Como",
-      "path": "europe/italy/lombardia/como",
-      "prior_score": 8.5566,
-      "prior_variance": 0.698955,
-      "prior_n": 4
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 4.5684,
+      "prior_variance": 0.293793,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Ancash",
-      "path": "southamerica/peru/ancash",
-      "prior_score": 1.978,
-      "prior_variance": 0.579707,
-      "prior_n": 5
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.2854,
+      "prior_variance": 0.29796,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Quepos",
-      "path": "northamerica/costarica/quepos",
-      "prior_score": 4.8422,
-      "prior_variance": 0.384283,
-      "prior_n": 4
+      "title": "Dusseldorf",
+      "path": "europe/germany/northrhinewestphalia/dusseldorf",
+      "prior_score": 1.5443,
+      "prior_variance": 0.253013,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Talkeetna",
-      "path": "northamerica/unitedstates/alaska/talkeetna",
-      "prior_score": 2.706,
-      "prior_variance": 0.453943,
-      "prior_n": 4
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.561,
+      "prior_variance": 0.323275,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Hisaronu",
-      "path": "asia/turkey/hisaronu",
-      "prior_score": 1.7401,
-      "prior_variance": 0.291182,
-      "prior_n": 5
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 3.3933,
+      "prior_variance": 0.255848,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Hastings",
-      "path": "australiaandpacific/newzealand/hawkes_bay/hastings",
-      "prior_score": 1.4153,
-      "prior_variance": 0.246621,
+      "title": "Whitehorse",
+      "path": "northamerica/canada/the_yukon_territory/whitehorse",
+      "prior_score": 1.6157,
+      "prior_variance": 0.262032,
       "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Apostle Islands",
-      "path": "northamerica/unitedstates/michigan/apostleislands",
-      "prior_score": -4.2313,
-      "prior_variance": 0.67795,
-      "prior_n": 4
+      "title": "Sur",
+      "path": "asia/oman/sur",
+      "prior_score": 1.8072,
+      "prior_variance": 0.279015,
+      "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Morlaix",
-      "path": "europe/france/normandybrittany/morlaix",
-      "prior_score": 0.6275,
-      "prior_variance": 0.302126,
-      "prior_n": 4
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.4097,
+      "prior_variance": 0.22606,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Grevenmacher",
-      "path": "europe/luxembourg/grevenmacher",
-      "prior_score": -0.4286,
-      "prior_variance": 0.302779,
-      "prior_n": 4
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.654,
+      "prior_variance": 0.331036,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Machynlleth",
-      "path": "europe/unitedkingdom/wales/machynlleth",
-      "prior_score": -0.3634,
-      "prior_variance": 0.30816,
-      "prior_n": 4
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.4465,
+      "prior_variance": 0.262228,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Ingleton",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
-      "prior_score": 1.5397,
-      "prior_variance": 0.292645,
-      "prior_n": 4
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.6899,
+      "prior_variance": 0.274569,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "S\u00f6dert\u00e4lje",
-      "path": "europe/sweden/sdertlje",
-      "prior_score": -3.3417,
-      "prior_variance": 0.384819,
-      "prior_n": 4
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.8211,
+      "prior_variance": 0.520279,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Muskegon",
-      "path": "northamerica/unitedstates/michigan/muskegon",
-      "prior_score": -2.9794,
-      "prior_variance": 0.37253,
-      "prior_n": 4
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -3.2619,
+      "prior_variance": 0.245061,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "Montrose",
-      "path": "northamerica/unitedstates/texas/houston/montrose",
-      "prior_score": -1.9938,
-      "prior_variance": 0.310816,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.8017,
+      "prior_variance": 0.274389,
       "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Greenhithe",
-      "path": "europe/unitedkingdom/england/greenhithe",
-      "prior_score": -4.513,
-      "prior_variance": 0.334672,
-      "prior_n": 4
-    },
-    {
-      "rank": 22,
-      "title": "Madhya Pradesh",
-      "path": "asia/india/madhyapradesh",
-      "prior_score": -0.5923,
-      "prior_variance": 0.383079,
+      "title": "Brazosport Area",
+      "path": "northamerica/unitedstates/texas/brazosportarea",
+      "prior_score": -5.1794,
+      "prior_variance": 0.246179,
       "prior_n": 5
     },
     {
+      "rank": 22,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.5886,
+      "prior_variance": 0.326158,
+      "prior_n": 6
+    },
+    {
       "rank": 23,
-      "title": "Hoshangabad",
-      "path": "asia/india/madhyapradesh/hoshangabad",
-      "prior_score": -5.032,
-      "prior_variance": 0.279399,
-      "prior_n": 4
+      "title": "Franklin",
+      "path": "northamerica/unitedstates/indiana/franklin",
+      "prior_score": -6.392,
+      "prior_variance": 0.301884,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "sarainkhet sarson",
-      "path": "asia/india/uttaranchal/sarainkhet_sarson",
-      "prior_score": -7.6475,
-      "prior_variance": 0.426335,
-      "prior_n": 4
+      "title": "Meshkin-Shahr",
+      "path": "asia/iran/meshkinshahr",
+      "prior_score": -6.0184,
+      "prior_variance": 0.302613,
+      "prior_n": 5
     }
   ]
 }

@@ -15,7 +15,7 @@ quick_facts:
   Independent Travel: "Not permitted — government guides mandatory"
 done:
   country_cleanup: 2026-03-29
-score: 0.19
+score: 0.26
 loc_type: country
 ---
 

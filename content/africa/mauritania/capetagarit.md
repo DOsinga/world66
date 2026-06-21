@@ -5,7 +5,7 @@ done:
 latitude: 20.167451
 loc_type: city
 longitude: -16.224841
-score: 0.23
+score: 0.14
 title: Cape Tagarit
 type: location
 ---

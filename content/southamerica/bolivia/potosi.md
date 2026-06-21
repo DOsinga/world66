@@ -5,7 +5,7 @@ done:
 latitude: -19.58929
 loc_type: city
 longitude: -65.753471
-score: 0.62
+score: 0.52
 title: Potosi
 type: location
 image: potosi.jpg

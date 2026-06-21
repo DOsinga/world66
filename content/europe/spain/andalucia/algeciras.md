@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahia_de_Algeciras.jpg
 latitude: 36.1312
 loc_type: city
 longitude: -5.4474
-score: 0.46
+score: 0.38
 title: Algeciras
 type: location
 ---

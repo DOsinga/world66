@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rothenburg_BW_4.JPG
 latitude: 49.3779
 loc_type: city
 longitude: 10.1808
-score: 0.7
+score: 0.62
 title: Rothenburg ob der Tauber
 type: location
 ---

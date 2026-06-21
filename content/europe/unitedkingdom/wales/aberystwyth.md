@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aberystwyth_shore.jpg
 latitude: 52.4145
 loc_type: city
 longitude: -4.0811
-score: 0.53
+score: 0.46
 title: Aberystwyth
 type: location
 ---

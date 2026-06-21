@@ -1,0 +1,200 @@
+{
+  "round": 3943,
+  "timestamp": "2026-06-13T23:31:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.5034,
+      "prior_variance": 0.140427,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Qu\u00e9bec City",
+      "path": "northamerica/canada/quebec/quebeccity",
+      "prior_score": 8.2328,
+      "prior_variance": 0.247017,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 6.5073,
+      "prior_variance": 0.138142,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Garmisch-Partenkirchen",
+      "path": "europe/germany/bavaria/garmischpartenkirchen",
+      "prior_score": 4.8197,
+      "prior_variance": 0.134541,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 4.3097,
+      "prior_variance": 0.113213,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Ellora",
+      "path": "asia/india/maharashtra/ellora",
+      "prior_score": 6.49,
+      "prior_variance": 0.130964,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Harbin",
+      "path": "asia/china/heilongjiang/harbin",
+      "prior_score": 3.0568,
+      "prior_variance": 0.115736,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Odense",
+      "path": "europe/denmark/odense",
+      "prior_score": 1.9037,
+      "prior_variance": 0.097154,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 3.2718,
+      "prior_variance": 0.117777,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Puerto de la Cruz",
+      "path": "europe/spain/canaryislands/tenerife/puertodelacruz",
+      "prior_score": 5.2236,
+      "prior_variance": 0.124605,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Puerto de Alcudia",
+      "path": "europe/spain/balearicislands/mallorca/puertodealcudia",
+      "prior_score": 3.4711,
+      "prior_variance": 0.155961,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Kinderdijk",
+      "path": "europe/netherlands/kinderdijk",
+      "prior_score": 4.8381,
+      "prior_variance": 0.120077,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 2.0371,
+      "prior_variance": 0.09966,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": 0.2089,
+      "prior_variance": 0.09684,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.0816,
+      "prior_variance": 0.126962,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 2.7867,
+      "prior_variance": 0.105818,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.4361,
+      "prior_variance": 0.12555,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 2.6689,
+      "prior_variance": 0.11785,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.2421,
+      "prior_variance": 0.108985,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Zhangguying Village",
+      "path": "asia/china/hunan/zhangguying",
+      "prior_score": 0.7218,
+      "prior_variance": 0.114727,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.211,
+      "prior_variance": 0.102881,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Wind River Canyon",
+      "path": "northamerica/unitedstates/wyoming/windrivercanyon",
+      "prior_score": 1.5606,
+      "prior_variance": 0.107793,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -4.9387,
+      "prior_variance": 0.142406,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.6423,
+      "prior_variance": 0.113181,
+      "prior_n": 12
+    }
+  ]
+}

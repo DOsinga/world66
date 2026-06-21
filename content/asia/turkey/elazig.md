@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El%C3%A2z%C4%B1%C4%9F,_El%
 latitude: 38.674444
 loc_type: city
 longitude: 39.222778
-score: 0.35
+score: 0.3
 title: Elazığ
 type: location
 ---

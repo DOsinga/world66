@@ -7,7 +7,7 @@ image_attribution: Editorpana
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Taboga_island.jpg
 loc_type: city
-score: 0.5
+score: 0.44
 title: Taboga
 type: location
 ---

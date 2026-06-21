@@ -5,7 +5,7 @@ done:
 latitude: 57.430746
 loc_type: city
 longitude: -2.39241
-score: 0.44
+score: 0.35
 title: Fyvie
 type: location
 ---

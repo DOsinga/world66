@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carmona-IMG_20240925_18431
 latitude: 37.4718
 loc_type: city
 longitude: -5.6413
-score: 0.6
+score: 0.52
 title: Carmona
 type: location
 ---

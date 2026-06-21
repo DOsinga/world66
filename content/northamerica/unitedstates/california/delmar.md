@@ -5,7 +5,7 @@ done:
 latitude: 32.959489
 loc_type: city
 longitude: -117.265315
-score: 0.49
+score: 0.45
 title: Del Mar
 type: location
 ---

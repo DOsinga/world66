@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dortmund_Panorama.jpg
 latitude: 51.514227
 loc_type: city
 longitude: 7.465279
-score: 0.43
+score: 0.38
 title: Dortmund
 type: location
 ---

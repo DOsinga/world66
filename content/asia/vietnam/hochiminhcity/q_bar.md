@@ -3,13 +3,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 10.7769
 longitude: 106.7032
-snippet: Stylish cocktail bar opposite the Opera House
+score: 6.1
+snippet: Stylish cocktail bar opposite the Opera House — one of HCMC's most polished
+  late-night venues
 tags:
 - bars_and_cafes
 - bar
+- district_1
 title: Q Bar
 type: poi
-score: 6.1
 ---
 
 A sleek lounge bar set in the basement opposite the Opera House on Lam Son Square, Q Bar has been a fixture of Saigon's nightlife scene since the late 1990s. The interior is minimalist and moody, with low lighting and comfortable seating that draws a mix of expats and well-heeled locals.

@@ -5,7 +5,7 @@ done:
 latitude: 42.3251
 loc_type: city
 longitude: -72.6317
-score: 0.44
+score: 0.37
 title: Northampton
 type: location
 ---

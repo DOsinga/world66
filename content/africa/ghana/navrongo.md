@@ -5,7 +5,7 @@ done:
 latitude: 10.8928
 loc_type: city
 longitude: -1.0884
-score: 0.34
+score: 0.27
 title: Navrongo
 type: location
 ---

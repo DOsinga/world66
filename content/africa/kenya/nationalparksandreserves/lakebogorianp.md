@@ -5,7 +5,7 @@ latitude: 0.25
 longitude: 36.1
 title: Lake Bogoria N.P.
 type: location
-score: 0.51
+score: 0.5
 loc_type: feature
 ---
 

@@ -10,7 +10,7 @@ image_source: HP Harmsen
 latitude: -1.3312
 loc_type: city
 longitude: 31.8126
-score: 0.4
+score: 0.33
 title: Bukoba
 type: location
 ---

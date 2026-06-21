@@ -5,7 +5,7 @@ latitude: 11.1667
 longitude: 41.8833
 title: Lac Abbe
 type: location
-score: 0.5
+score: 0.44
 loc_type: feature
 ---
 

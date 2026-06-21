@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Comstock_House,_Santa_Rosa
 latitude: 38.440492
 loc_type: city
 longitude: -122.714105
-score: 0.44
+score: 0.36
 title: Santa Rosa
 type: location
 ---

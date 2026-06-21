@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CelleLigure_veduta.jpg
 latitude: 44.3463
 loc_type: city
 longitude: 8.5444
-score: 0.58
+score: 0.48
 title: Celle Ligure
 type: location
 ---

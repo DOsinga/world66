@@ -5,7 +5,7 @@ done:
 latitude: 12.8667
 loc_type: city
 longitude: -61.1833
-score: 0.69
+score: 0.55
 title: Mustique
 type: location
 ---

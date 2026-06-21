@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_Nuestra_Se%C3
 latitude: 21.1516
 loc_type: city
 longitude: -100.9369
-score: 0.49
+score: 0.42
 title: Dolores Hidalgo
 type: location
 ---

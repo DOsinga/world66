@@ -6,7 +6,7 @@ latitude: 21.500642
 longitude: 86.919884
 title: Balasore
 type: location
-score: 0.3
+score: 0.27
 loc_type: city
 image: balasore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Emami_Jagannath_Temple,_Balasore,_Odisha.jpg

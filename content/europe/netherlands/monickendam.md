@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/28657878@N05/2692922629
 latitude: 52.457699
 loc_type: city
 longitude: 5.038892
-score: 0.48
+score: 0.44
 title: Monnickendam
 type: location
 ---

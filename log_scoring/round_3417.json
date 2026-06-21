@@ -1,0 +1,200 @@
+{
+  "round": 3417,
+  "timestamp": "2026-06-13T22:52:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": 4.8352,
+      "prior_variance": 0.146705,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 0.8918,
+      "prior_variance": 0.116109,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.0905,
+      "prior_variance": 0.106023,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.1583,
+      "prior_variance": 0.12488,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Vormsi Island",
+      "path": "europe/estonia/vormsi_island",
+      "prior_score": -1.0442,
+      "prior_variance": 0.115537,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -1.2159,
+      "prior_variance": 0.113139,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.5022,
+      "prior_variance": 0.113511,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -3.0535,
+      "prior_variance": 0.177002,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Alaminos",
+      "path": "asia/philippines/alaminos",
+      "prior_score": -0.1119,
+      "prior_variance": 0.116951,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -0.9412,
+      "prior_variance": 0.123664,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.602,
+      "prior_variance": 0.125802,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Umm el Jimal",
+      "path": "asia/jordan/ummeljimal",
+      "prior_score": -1.8545,
+      "prior_variance": 0.134918,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Richmond",
+      "path": "australiaandpacific/newzealand/richmond",
+      "prior_score": -2.2442,
+      "prior_variance": 0.113057,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Eureka, CA",
+      "path": "northamerica/unitedstates/california/eureka_ca",
+      "prior_score": -0.995,
+      "prior_variance": 0.117617,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Mazsalaca",
+      "path": "europe/latvia/mazsalaca",
+      "prior_score": -3.4028,
+      "prior_variance": 0.121474,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -2.8849,
+      "prior_variance": 0.120446,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.4046,
+      "prior_variance": 0.124991,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -3.3612,
+      "prior_variance": 0.148057,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Lake of the Ozarks",
+      "path": "northamerica/unitedstates/missouri/lake_of_the_ozarks",
+      "prior_score": -1.691,
+      "prior_variance": 0.108832,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -2.9877,
+      "prior_variance": 0.131091,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "La Ceiba",
+      "path": "northamerica/honduras/laceiba",
+      "prior_score": -2.0349,
+      "prior_variance": 0.119044,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -3.3322,
+      "prior_variance": 0.156837,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Greenville",
+      "path": "africa/liberia/greenville",
+      "prior_score": -8.0005,
+      "prior_variance": 0.236348,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -6.5158,
+      "prior_variance": 0.204112,
+      "prior_n": 10
+    }
+  ]
+}

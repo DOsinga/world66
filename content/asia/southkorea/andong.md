@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Andong
 title: Andong
 type: location
+score: 0.5
 ---
 
 Andong is the most Confucian city in South Korea, a distinction it wears with pride. Inland in North Gyeongsang Province, it sits where the Nakdong River winds through forested hills and rice-growing valleys. The city considers itself the spiritual capital of Korean traditional culture — it's where lineage associations still hold their ancestral rites, where Joseon-era aristocratic clans maintained their estates, and where the scholar Yi Hwang (pen name Toegye) shaped the moral framework that defined Korean society for four hundred years.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brisbane_CBD_seen_from_Kan
 latitude: -27.465991
 loc_type: city
 longitude: 153.020563
-score: 0.61
+score: 0.51
 title: Brisbane
 type: location
 ---

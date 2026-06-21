@@ -5,7 +5,7 @@ done:
 latitude: 38.538
 loc_type: city
 longitude: -75.0589
-score: 0.46
+score: 0.38
 title: Bethany Beach
 type: location
 ---

@@ -6,7 +6,7 @@ image: samarinda.jpg
 latitude: -0.5018
 loc_type: city
 longitude: 117.1393
-score: 0.37
+score: 0.3
 sources:
 - https://en.wikipedia.org/wiki/Samarinda
 title: Samarinda

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chanzo_cha_usafiri_Njombe_
 latitude: -9.3333
 loc_type: city
 longitude: 34.7667
-score: 0.37
+score: 0.3
 title: Njombe
 type: location
 ---

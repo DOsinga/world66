@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Watamu_Beach,_Kenya.JPG
 latitude: -3.3505
 loc_type: city
 longitude: 40.0166
-score: 0.59
+score: 0.46
 title: Watamu
 type: location
 ---

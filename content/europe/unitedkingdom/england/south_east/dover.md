@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dover_from_the_top_of_Dove
 latitude: 51.125127
 loc_type: city
 longitude: 1.313423
-score: 0.51
+score: 0.41
 title: Dover
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4397,
+  "timestamp": "2026-06-14T00:09:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Peak District",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district",
+      "prior_score": 3.2723,
+      "prior_variance": 0.099166,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Red River Gorge",
+      "path": "northamerica/unitedstates/kentucky/redrivergorge",
+      "prior_score": 1.78,
+      "prior_variance": 0.094361,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Fornells",
+      "path": "europe/spain/balearicislands/menorca/fornells",
+      "prior_score": 3.7508,
+      "prior_variance": 0.090239,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Lake Bracciano",
+      "path": "europe/italy/lazio/lakebracciano",
+      "prior_score": 2.5252,
+      "prior_variance": 0.089826,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 1.6923,
+      "prior_variance": 0.092368,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Bor\u00f0oy",
+      "path": "europe/faroeislands/bordoy",
+      "prior_score": 2.2698,
+      "prior_variance": 0.098945,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.2189,
+      "prior_variance": 0.098805,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Oualata",
+      "path": "africa/mauritania/oulata",
+      "prior_score": -2.866,
+      "prior_variance": 0.113202,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 1.1831,
+      "prior_variance": 0.098078,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -2.8537,
+      "prior_variance": 0.094983,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Richelieu",
+      "path": "europe/france/centre/richelieu",
+      "prior_score": -1.1494,
+      "prior_variance": 0.105404,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Calama",
+      "path": "southamerica/chile/calama",
+      "prior_score": -2.6391,
+      "prior_variance": 0.100782,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Surinam",
+      "path": "africa/mauritius/surinam",
+      "prior_score": -5.823,
+      "prior_variance": 0.128183,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -2.8517,
+      "prior_variance": 0.096262,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Limbe",
+      "path": "africa/cameroon/limbe",
+      "prior_score": -3.0357,
+      "prior_variance": 0.100833,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": -1.7037,
+      "prior_variance": 0.102879,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.2634,
+      "prior_variance": 0.101646,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Elaz\u0131\u011f",
+      "path": "asia/turkey/elazig",
+      "prior_score": -3.9371,
+      "prior_variance": 0.121452,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ellicott City",
+      "path": "northamerica/unitedstates/maryland/ellicott_city",
+      "prior_score": -2.736,
+      "prior_variance": 0.114863,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -2.6206,
+      "prior_variance": 0.095503,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Hrazdan",
+      "path": "europe/armenia/kotayk_marz/hrazdan",
+      "prior_score": -4.2164,
+      "prior_variance": 0.100711,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Cottbus",
+      "path": "europe/germany/brandenburg/cottbus",
+      "prior_score": -2.5691,
+      "prior_variance": 0.122817,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -2.9636,
+      "prior_variance": 0.097309,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -4.6526,
+      "prior_variance": 0.119519,
+      "prior_n": 14
+    }
+  ]
+}

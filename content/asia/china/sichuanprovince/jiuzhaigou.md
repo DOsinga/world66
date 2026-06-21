@@ -5,7 +5,7 @@ latitude: 33.30716
 longitude: 103.932599
 title: Jiuzhaigou
 type: location
-score: 0.74
+score: 0.69
 loc_type: feature
 ---
 

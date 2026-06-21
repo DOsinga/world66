@@ -5,7 +5,7 @@ done:
 latitude: 49.7235
 loc_type: city
 longitude: -2.196
-score: 0.52
+score: 0.44
 sources:
 - https://en.wikipedia.org/wiki/Alderney
 - https://en.wikipedia.org/wiki/Alderney_Railway

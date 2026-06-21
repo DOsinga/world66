@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Locarno_porto_-_panoramio.
 latitude: 46.1696
 loc_type: city
 longitude: 8.7955
-score: 0.66
+score: 0.57
 title: Locarno
 type: location
 ---

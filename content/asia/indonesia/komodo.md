@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_kom
 latitude: -8.589191
 loc_type: feature
 longitude: 119.462412
-score: 0.74
+score: 0.65
 sources:
 - https://en.wikipedia.org/wiki/Komodo_National_Park
 - https://en.wikipedia.org/wiki/Komodo_(island)

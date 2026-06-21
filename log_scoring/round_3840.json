@@ -1,0 +1,200 @@
+{
+  "round": 3840,
+  "timestamp": "2026-06-13T23:23:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Portofino",
+      "path": "europe/italy/liguria/portofino",
+      "prior_score": 7.8182,
+      "prior_variance": 0.146322,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 8.8157,
+      "prior_variance": 0.24518,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "New Orleans",
+      "path": "northamerica/unitedstates/louisiana/neworleans",
+      "prior_score": 7.8183,
+      "prior_variance": 0.171232,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 5.9355,
+      "prior_variance": 0.170806,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Fontainebleau",
+      "path": "europe/france/around_paris/fontainebleau",
+      "prior_score": 3.6374,
+      "prior_variance": 0.10209,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pitlochry",
+      "path": "europe/unitedkingdom/scotland/pitlochry",
+      "prior_score": 3.7583,
+      "prior_variance": 0.119316,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Lochranza",
+      "path": "europe/unitedkingdom/scotland/arran/lochranza",
+      "prior_score": 1.1387,
+      "prior_variance": 0.112526,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Beziers",
+      "path": "europe/france/midi/languedoc/beziers",
+      "prior_score": 1.1118,
+      "prior_variance": 0.107143,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Pontrieux",
+      "path": "europe/france/normandybrittany/pontrieux",
+      "prior_score": 0.1921,
+      "prior_variance": 0.098097,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 0.693,
+      "prior_variance": 0.109069,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": -1.2322,
+      "prior_variance": 0.12656,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Pomposa",
+      "path": "europe/italy/emiliaromagna/pomposa",
+      "prior_score": -1.3073,
+      "prior_variance": 0.12227,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_score": -2.9821,
+      "prior_variance": 0.115396,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Carunchio",
+      "path": "europe/italy/abruzzo/carunchio",
+      "prior_score": -2.2462,
+      "prior_variance": 0.127641,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Travnik",
+      "path": "europe/bosniaandherzegovina/travnik",
+      "prior_score": 0.1082,
+      "prior_variance": 0.101162,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": 0.0832,
+      "prior_variance": 0.113714,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Satun",
+      "path": "asia/thailand/satun",
+      "prior_score": -0.1757,
+      "prior_variance": 0.123355,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucuman",
+      "prior_score": -1.4588,
+      "prior_variance": 0.106947,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Samarra",
+      "path": "asia/iraq/samarra",
+      "prior_score": -3.1464,
+      "prior_variance": 0.159933,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Kapurthala",
+      "path": "asia/india/punjab/kapurthala",
+      "prior_score": -2.9742,
+      "prior_variance": 0.115091,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Pauri",
+      "path": "asia/india/uttaranchal/pauri",
+      "prior_score": -1.9092,
+      "prior_variance": 0.095526,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -5.9305,
+      "prior_variance": 0.130677,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -4.5506,
+      "prior_variance": 0.12509,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Sanandaj",
+      "path": "asia/iran/sanandaj",
+      "prior_score": -4.7254,
+      "prior_variance": 0.14981,
+      "prior_n": 12
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "round": 4587,
+  "timestamp": "2026-06-14T00:24:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "El Escorial",
+      "path": "europe/spain/centralspain/elescorial",
+      "prior_score": 2.7754,
+      "prior_variance": 0.088512,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Trpanj",
+      "path": "europe/croatia/trpanj",
+      "prior_score": 1.4667,
+      "prior_variance": 0.084739,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "St. Kitts",
+      "path": "northamerica/saintkittsandnevis/st_kitts",
+      "prior_score": 4.0138,
+      "prior_variance": 0.100503,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/westhollywood",
+      "prior_score": 1.7445,
+      "prior_variance": 0.114712,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Scottsdale",
+      "path": "northamerica/unitedstates/arizona/scottsdale",
+      "prior_score": 2.2938,
+      "prior_variance": 0.11411,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.5424,
+      "prior_variance": 0.095605,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Dalat",
+      "path": "asia/vietnam/dalat",
+      "prior_score": 4.6999,
+      "prior_variance": 0.09767,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ko\u0161ice",
+      "path": "europe/slovakia/kosice",
+      "prior_score": 2.1009,
+      "prior_variance": 0.099003,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.3514,
+      "prior_variance": 0.173598,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Gisenyi",
+      "path": "africa/rwanda/gisenyi",
+      "prior_score": -1.8319,
+      "prior_variance": 0.097449,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.0349,
+      "prior_variance": 0.093169,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Burnaby",
+      "path": "northamerica/canada/britishcolumbia/burnaby",
+      "prior_score": -2.2798,
+      "prior_variance": 0.08759,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Tipova Monastery",
+      "path": "europe/moldova/chirileni/lalovatipova",
+      "prior_score": -2.1254,
+      "prior_variance": 0.092078,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Jamnagar",
+      "path": "asia/india/gujarat/jamnagar",
+      "prior_score": -2.9642,
+      "prior_variance": 0.089166,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -4.9145,
+      "prior_variance": 0.122034,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Iowa City",
+      "path": "northamerica/unitedstates/iowa/iowacity",
+      "prior_score": -2.8834,
+      "prior_variance": 0.099997,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Hermosillo",
+      "path": "northamerica/mexico/hermosillo",
+      "prior_score": -3.6137,
+      "prior_variance": 0.103628,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tully",
+      "path": "australiaandpacific/australia/queensland/tully",
+      "prior_score": -3.3151,
+      "prior_variance": 0.099648,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Vinnytsia",
+      "path": "europe/ukraine/vinnista",
+      "prior_score": -4.6798,
+      "prior_variance": 0.118824,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -4.7131,
+      "prior_variance": 0.105596,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -6.6158,
+      "prior_variance": 0.145533,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ikom",
+      "path": "africa/nigeria/ikom",
+      "prior_score": -6.4337,
+      "prior_variance": 0.113015,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Port Moresby",
+      "path": "asia/papuanewguinea/portmoresby",
+      "prior_score": -6.3115,
+      "prior_variance": 0.128061,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Mubi",
+      "path": "africa/nigeria/mubi",
+      "prior_score": -8.6578,
+      "prior_variance": 0.148331,
+      "prior_n": 14
+    }
+  ]
+}

@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 3.4516
 longitude: -76.532
-score: 0.48
+score: 0.42
 title: Cali
 type: location
 loc_type: city

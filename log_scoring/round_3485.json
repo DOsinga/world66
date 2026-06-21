@@ -1,0 +1,200 @@
+{
+  "round": 3485,
+  "timestamp": "2026-06-13T22:57:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Assisi",
+      "path": "europe/italy/umbria/assisi",
+      "prior_score": 7.3456,
+      "prior_variance": 0.225545,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Orvieto",
+      "path": "europe/italy/umbria/orvieto",
+      "prior_score": 5.7687,
+      "prior_variance": 0.143122,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 5.178,
+      "prior_variance": 0.137156,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_score": 4.7846,
+      "prior_variance": 0.124226,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 2.7494,
+      "prior_variance": 0.128239,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Cop\u00e1n",
+      "path": "northamerica/honduras/copan",
+      "prior_score": 4.3052,
+      "prior_variance": 0.147631,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.4474,
+      "prior_variance": 0.126777,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 1.4681,
+      "prior_variance": 0.108358,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.6211,
+      "prior_variance": 0.139824,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bimini",
+      "path": "northamerica/bahamas/bimini",
+      "prior_score": 3.0637,
+      "prior_variance": 0.122376,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Longsheng",
+      "path": "asia/china/guangxi/longsheng",
+      "prior_score": 3.5562,
+      "prior_variance": 0.146834,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "La Romana",
+      "path": "northamerica/dominicanrepublic/la_romana",
+      "prior_score": 1.9637,
+      "prior_variance": 0.124316,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Mangawhai Heads",
+      "path": "australiaandpacific/newzealand/mangawhaiheads",
+      "prior_score": 0.6399,
+      "prior_variance": 0.12852,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Ardenica",
+      "path": "europe/albania/ardenica",
+      "prior_score": -1.2626,
+      "prior_variance": 0.112976,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Malay",
+      "path": "asia/philippines/aklan/malay",
+      "prior_score": -4.1584,
+      "prior_variance": 0.139608,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Northbridge",
+      "path": "australiaandpacific/australia/westernaustralia/northbridge",
+      "prior_score": -3.155,
+      "prior_variance": 0.13891,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Sorell",
+      "path": "australiaandpacific/australia/tasmania/sorell",
+      "prior_score": -3.2948,
+      "prior_variance": 0.119861,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Petaluma",
+      "path": "northamerica/unitedstates/california/northcoast/petaluma",
+      "prior_score": -2.7192,
+      "prior_variance": 0.124387,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -2.0455,
+      "prior_variance": 0.120316,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Pea Ridge",
+      "path": "northamerica/unitedstates/arkansas/pearidge",
+      "prior_score": -5.5591,
+      "prior_variance": 0.144293,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Tajpur",
+      "path": "asia/india/westbengal/mandarmani/tajpur",
+      "prior_score": -4.1274,
+      "prior_variance": 0.130028,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Wia Wia Reserve",
+      "path": "southamerica/suriname/wiawiareserve",
+      "prior_score": -2.8127,
+      "prior_variance": 0.117149,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Orapa",
+      "path": "africa/botswana/kalaharidesert/orapa",
+      "prior_score": -7.8111,
+      "prior_variance": 0.233905,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -8.5456,
+      "prior_variance": 0.239582,
+      "prior_n": 11
+    }
+  ]
+}

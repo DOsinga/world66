@@ -20,7 +20,7 @@ quick_facts:
   Origin: Granitic (unique worldwide)
 done:
   country_cleanup: 2026-03-31
-score: 0.81
+score: 0.62
 loc_type: country
 ---
 

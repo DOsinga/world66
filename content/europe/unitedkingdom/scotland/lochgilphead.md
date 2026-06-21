@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochgilphead1.jpg
 latitude: 56.037502
 loc_type: city
 longitude: -5.43309
-score: 0.44
+score: 0.37
 title: Lochgilphead
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 43.5448
 longitude: -80.2482
 title: Guelph and area
 type: location
-score: 0.4
+score: 0.34
 loc_type: city
 ---
 

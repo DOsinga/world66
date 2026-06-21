@@ -5,7 +5,7 @@ done:
 latitude: 34.6851
 loc_type: city
 longitude: 135.805
-score: 0.77
+score: 0.72
 title: Nara
 type: location
 image: nara.jpg

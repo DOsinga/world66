@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blagoevgrad.Downtown.jpg
 latitude: 41.750287
 loc_type: city
 longitude: 23.487341
-score: 0.45
+score: 0.35
 title: Blagoevgrad
 type: location
 ---

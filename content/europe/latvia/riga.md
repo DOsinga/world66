@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Riga_(33844464828).jpg
 latitude: 56.949398
 loc_type: city
 longitude: 24.105185
-score: 0.66
+score: 0.59
 title: Riga
 type: location
 ---

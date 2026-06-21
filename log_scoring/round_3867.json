@@ -1,0 +1,200 @@
+{
+  "round": 3867,
+  "timestamp": "2026-06-13T23:25:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cortona",
+      "path": "europe/italy/tuscany/cortona",
+      "prior_score": 6.8922,
+      "prior_variance": 0.126528,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.2733,
+      "prior_variance": 0.109243,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 6.7038,
+      "prior_variance": 0.135088,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 4.4709,
+      "prior_variance": 0.130061,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Banaue",
+      "path": "asia/philippines/banaue",
+      "prior_score": 4.7414,
+      "prior_variance": 0.12769,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.7501,
+      "prior_variance": 0.117131,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": 0.1103,
+      "prior_variance": 0.120058,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.8806,
+      "prior_variance": 0.111784,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.9101,
+      "prior_variance": 0.115083,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Fianarantsoa",
+      "path": "africa/madagascar/fianarantsoa",
+      "prior_score": -3.3304,
+      "prior_variance": 0.125755,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.4342,
+      "prior_variance": 0.12529,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -3.0489,
+      "prior_variance": 0.113722,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Las Pinas City",
+      "path": "asia/philippines/las_pinas_city",
+      "prior_score": -4.3152,
+      "prior_variance": 0.111931,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Shijiazhuang",
+      "path": "asia/china/hebei/shijiazhuang",
+      "prior_score": -5.5075,
+      "prior_variance": 0.132712,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Clear Lake",
+      "path": "northamerica/unitedstates/california/northcoast/clearlake",
+      "prior_score": -4.0233,
+      "prior_variance": 0.126461,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Prairie du Rocher",
+      "path": "northamerica/unitedstates/illinois/prairie_du_rocher",
+      "prior_score": -4.2238,
+      "prior_variance": 0.133034,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Ramanathapuram",
+      "path": "asia/india/tamilnadu/ramanathapuram",
+      "prior_score": -4.5815,
+      "prior_variance": 0.113768,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Guam\u00e1",
+      "path": "northamerica/thecaribbean/cuba/guama",
+      "prior_score": -3.8584,
+      "prior_variance": 0.133013,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Man",
+      "path": "africa/ivorycoast/man",
+      "prior_score": -5.503,
+      "prior_variance": 0.147681,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -6.0312,
+      "prior_variance": 0.143355,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Pavlodar",
+      "path": "asia/kazakhstan/pavlodar",
+      "prior_score": -4.6517,
+      "prior_variance": 0.126531,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Delaware",
+      "path": "northamerica/unitedstates/ohio/delaware",
+      "prior_score": -5.4472,
+      "prior_variance": 0.145569,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Bethany",
+      "path": "northamerica/unitedstates/oklahoma/bethany",
+      "prior_score": -6.7689,
+      "prior_variance": 0.195766,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Coshocton",
+      "path": "northamerica/unitedstates/ohio/coshocton",
+      "prior_score": -5.2747,
+      "prior_variance": 0.126231,
+      "prior_n": 12
+    }
+  ]
+}

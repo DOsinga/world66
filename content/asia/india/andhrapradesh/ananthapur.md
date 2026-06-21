@@ -10,7 +10,7 @@ image_attribution: Maheshrig
 latitude: 14.6819
 loc_type: city
 longitude: 77.6006
-score: 0.3
+score: 0.24
 title: Anantapur
 type: location
 ---

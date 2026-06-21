@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Çıralı_coast_from_top_o
 latitude: 36.395012
 loc_type: city
 longitude: 30.473564
-score: 0.6
+score: 0.51
 title: Olympos
 type: location
 ---

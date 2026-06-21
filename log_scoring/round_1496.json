@@ -1,200 +1,200 @@
 {
   "round": 1496,
-  "timestamp": "2026-04-13T10:25:48",
+  "timestamp": "2026-06-13T20:34:10",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Selfoss",
-      "path": "europe/iceland/selfoss",
-      "prior_score": -0.1678,
-      "prior_variance": 0.596943,
-      "prior_n": 3
+      "title": "Komodo Island",
+      "path": "asia/indonesia/komodo_island",
+      "prior_score": 10.3742,
+      "prior_variance": 0.546023,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Wels",
-      "path": "europe/austria/wels",
-      "prior_score": -0.6948,
-      "prior_variance": 0.328968,
-      "prior_n": 4
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 9.5704,
+      "prior_variance": 0.338576,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Norfolk Island",
-      "path": "australiaandpacific/norfolkisland",
-      "prior_score": -1.0723,
-      "prior_variance": 0.387986,
-      "prior_n": 3
+      "title": "Halkidiki",
+      "path": "europe/greece/halkidiki",
+      "prior_score": 5.6527,
+      "prior_variance": 0.332721,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Grand-Bassam",
-      "path": "africa/ivorycoast/grandbassam",
-      "prior_score": -2.5005,
-      "prior_variance": 0.650975,
-      "prior_n": 3
+      "title": "Giethoorn",
+      "path": "europe/netherlands/giethoorn",
+      "prior_score": 5.2227,
+      "prior_variance": 0.371602,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Yantra",
-      "path": "europe/bulgaria/gornaoryahovica/yantra",
-      "prior_score": -4.2752,
-      "prior_variance": 0.561227,
-      "prior_n": 3
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 5.1421,
+      "prior_variance": 0.493968,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Pajala",
-      "path": "europe/sweden/pajala",
-      "prior_score": -4.5983,
-      "prior_variance": 0.391347,
-      "prior_n": 4
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.5251,
+      "prior_variance": 0.373506,
+      "prior_n": 5
     },
     {
       "rank": 7,
-      "title": "Jid Hafs",
-      "path": "asia/bahrain/jid_hafs",
-      "prior_score": -6.5709,
-      "prior_variance": 0.642251,
-      "prior_n": 3
+      "title": "Lake Elmenteita",
+      "path": "africa/kenya/lakes/lakeelmenteita",
+      "prior_score": 2.5016,
+      "prior_variance": 0.348827,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Jiangxi",
-      "path": "asia/china/jiangxi",
-      "prior_score": -2.5974,
-      "prior_variance": 0.314913,
-      "prior_n": 4
+      "title": "Sabratha",
+      "path": "africa/libya/sabratha",
+      "prior_score": -1.5396,
+      "prior_variance": 0.309671,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Monte Sereno",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/monte_sereno",
-      "prior_score": -9.3336,
-      "prior_variance": 1.018454,
-      "prior_n": 3
+      "title": "Hortob\u00e1gy",
+      "path": "europe/hungary/hortobagy",
+      "prior_score": 0.2468,
+      "prior_variance": 0.267526,
+      "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Delaware",
-      "path": "northamerica/unitedstates/ohio/delaware",
-      "prior_score": -6.4726,
-      "prior_variance": 0.408528,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Fog Lifter Caffe",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
-      "prior_score": -13.1795,
-      "prior_variance": 2.026144,
+      "title": "Olot",
+      "path": "europe/spain/catalonia/olot",
+      "prior_score": -0.5478,
+      "prior_variance": 0.292409,
       "prior_n": 4
     },
     {
+      "rank": 11,
+      "title": "Ia\u0219i",
+      "path": "europe/romania/iasi",
+      "prior_score": -0.5026,
+      "prior_variance": 0.335081,
+      "prior_n": 5
+    },
+    {
       "rank": 12,
-      "title": "Tuttle",
-      "path": "northamerica/unitedstates/oklahoma/tuttle",
-      "prior_score": -7.4292,
-      "prior_variance": 0.927166,
-      "prior_n": 3
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -0.5872,
+      "prior_variance": 0.333676,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Chowchilla",
-      "path": "northamerica/unitedstates/california/centralvalley/chowchilla",
-      "prior_score": -7.1579,
-      "prior_variance": 0.446214,
-      "prior_n": 3
+      "title": "Bardineto",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bardineto",
+      "prior_score": -2.71,
+      "prior_variance": 0.388011,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Daviston",
-      "path": "northamerica/unitedstates/alabama/daviston",
-      "prior_score": -10.2081,
-      "prior_variance": 0.545998,
-      "prior_n": 3
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 1.2457,
+      "prior_variance": 0.375729,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Khongjom",
-      "path": "asia/india/manipur/khongjom",
-      "prior_score": -8.5039,
-      "prior_variance": 0.560117,
-      "prior_n": 3
+      "title": "Abidjan",
+      "path": "africa/ivorycoast/abidjan",
+      "prior_score": -4.0293,
+      "prior_variance": 0.370834,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Kwekwe",
-      "path": "africa/zimbabwe/kwekwe",
-      "prior_score": -7.8765,
-      "prior_variance": 0.570538,
-      "prior_n": 3
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -2.6278,
+      "prior_variance": 0.26515,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "Faisalabad",
-      "path": "asia/unitedarabemirates/sharjah/faisalabad",
-      "prior_score": -8.0649,
-      "prior_variance": 0.496718,
+      "title": "Moncton",
+      "path": "northamerica/canada/newbrunswick/moncton",
+      "prior_score": -1.4355,
+      "prior_variance": 0.260175,
       "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Nigeria",
-      "path": "africa/nigeria",
-      "prior_score": -8.1226,
-      "prior_variance": 0.505329,
+      "title": "Essen",
+      "path": "europe/belgium/essen",
+      "prior_score": -5.4823,
+      "prior_variance": 0.305597,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Bouar",
-      "path": "africa/centralafricanrepublic/bouar",
-      "prior_score": -11.0516,
-      "prior_variance": 0.49595,
-      "prior_n": 4
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.5812,
+      "prior_variance": 0.286145,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "tibbi miana",
-      "path": "asia/pakistan/dera_ghazi_khan/tibbi_miana",
-      "prior_score": -11.6201,
-      "prior_variance": 0.541692,
-      "prior_n": 3
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -5.8068,
+      "prior_variance": 0.437274,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "TORDHER",
-      "path": "asia/pakistan/karachi/tordher",
-      "prior_score": -10.0768,
-      "prior_variance": 0.734489,
-      "prior_n": 3
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -5.0803,
+      "prior_variance": 0.322001,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Mahala",
-      "path": "asia/pakistan/nowshera/kheshgi/mahala",
-      "prior_score": -11.0123,
-      "prior_variance": 0.616076,
-      "prior_n": 3
+      "title": "Kokshetau",
+      "path": "asia/kazakhstan/kokshetau",
+      "prior_score": -5.2152,
+      "prior_variance": 0.308139,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Mosul",
-      "path": "asia/iraq/mosul",
-      "prior_score": -12.1649,
-      "prior_variance": 0.650272,
-      "prior_n": 3
+      "title": "Kingman",
+      "path": "northamerica/unitedstates/arizona/kingman",
+      "prior_score": -4.797,
+      "prior_variance": 0.349739,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Nampo",
-      "path": "asia/northkorea/nanpo",
-      "prior_score": -11.387,
-      "prior_variance": 0.752704,
-      "prior_n": 5
+      "title": "Toms River",
+      "path": "northamerica/unitedstates/newjersey/toms_river",
+      "prior_score": -5.2336,
+      "prior_variance": 0.34685,
+      "prior_n": 4
     }
   ]
 }

@@ -5,7 +5,7 @@ done:
 latitude: 48.257092
 loc_type: city
 longitude: -0.496392
-score: 0.39
+score: 0.37
 title: Jublains
 type: location
 ---

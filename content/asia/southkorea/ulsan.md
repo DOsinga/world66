@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KKPC_ulsan_resin_01.jpg
 latitude: 35.5384
 loc_type: city
 longitude: 129.3114
-score: 0.39
+score: 0.34
 title: Ulsan
 type: location
 ---

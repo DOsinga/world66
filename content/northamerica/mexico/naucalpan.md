@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AcueductoRemedios,_Naucalp
 latitude: 19.478836
 loc_type: city
 longitude: -99.232799
-score: 0.3
+score: 0.24
 sources:
 - https://en.wikipedia.org/wiki/Naucalpan
 - https://en.wikipedia.org/wiki/Torres_de_Sat%C3%A9lite

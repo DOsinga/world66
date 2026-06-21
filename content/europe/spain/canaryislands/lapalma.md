@@ -5,7 +5,7 @@ done:
 latitude: 28.655116
 loc_type: city
 longitude: -17.857269
-score: 0.65
+score: 0.55
 title: La Palma
 type: location
 ---

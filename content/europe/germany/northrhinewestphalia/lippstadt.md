@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-05_Lippstadt_Wassertu
 latitude: 51.674707
 loc_type: city
 longitude: 8.347194
-score: 0.4
+score: 0.32
 sources:
 - https://en.wikipedia.org/wiki/Lippstadt
 - https://historisches-lippstadt.de/marienkirche/

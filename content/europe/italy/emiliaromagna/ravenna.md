@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ravenna_Cattedrale_Metropo
 latitude: 44.364061
 loc_type: city
 longitude: 12.05901
-score: 0.68
+score: 0.57
 title: Ravenna
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barrackpore_Government_Hou
 latitude: 22.764162
 loc_type: city
 longitude: 88.377609
-score: 0.34
+score: 0.28
 title: Barrackpore
 type: location
 ---

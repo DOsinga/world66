@@ -5,7 +5,7 @@ done:
 latitude: 38.9429
 loc_type: city
 longitude: 34.5609
-score: 0.52
+score: 0.43
 title: Hacıbektaş
 type: location
 ---

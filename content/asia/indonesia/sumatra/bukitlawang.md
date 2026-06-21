@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Orang_utan_and_man.jpg
 latitude: 3.548
 loc_type: city
 longitude: 98.1272
-score: 0.57
+score: 0.52
 title: Bukit Lawang
 type: location
 ---

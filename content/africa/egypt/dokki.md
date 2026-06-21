@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza-Nile.JPG
 latitude: 30.038895
 loc_type: city
 longitude: 31.212556
-score: 0.35
+score: 0.25
 title: Dokki
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2832,
+  "timestamp": "2026-06-13T22:10:28",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 10.9257,
+      "prior_variance": 0.288058,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Hangzhou",
+      "path": "asia/china/zhejiang/hangzhou",
+      "prior_score": 7.1935,
+      "prior_variance": 0.204844,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Camargue",
+      "path": "europe/france/midi/camargue",
+      "prior_score": 4.0153,
+      "prior_variance": 0.159933,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Opatija",
+      "path": "europe/croatia/opatija",
+      "prior_score": 3.773,
+      "prior_variance": 0.175169,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.0763,
+      "prior_variance": 0.141379,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": 2.1777,
+      "prior_variance": 0.203418,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 2.895,
+      "prior_variance": 0.154434,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Viareggio",
+      "path": "europe/italy/tuscany/viareggio",
+      "prior_score": 3.788,
+      "prior_variance": 0.154861,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Esperance",
+      "path": "australiaandpacific/australia/westernaustralia/esperance",
+      "prior_score": 2.2394,
+      "prior_variance": 0.175563,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 2.0318,
+      "prior_variance": 0.167458,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Qinghai Lake",
+      "path": "asia/china/qinghai/qinghai-lake",
+      "prior_score": 3.0871,
+      "prior_variance": 0.178452,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.5546,
+      "prior_variance": 0.138981,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.9604,
+      "prior_variance": 0.142616,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.5565,
+      "prior_variance": 0.147446,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.3123,
+      "prior_variance": 0.15379,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.2619,
+      "prior_variance": 0.14822,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.375,
+      "prior_variance": 0.139764,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -2.9762,
+      "prior_variance": 0.181073,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": 0.7228,
+      "prior_variance": 0.147597,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Chitradurga",
+      "path": "asia/india/karnataka/chitradurga",
+      "prior_score": -1.7099,
+      "prior_variance": 0.147452,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Grove",
+      "path": "northamerica/unitedstates/oklahoma/grove",
+      "prior_score": -4.7489,
+      "prior_variance": 0.215551,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Kabli",
+      "path": "europe/estonia/kabli",
+      "prior_score": -5.3589,
+      "prior_variance": 0.192807,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -6.9578,
+      "prior_variance": 0.236054,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.6884,
+      "prior_variance": 0.262684,
+      "prior_n": 8
+    }
+  ]
+}

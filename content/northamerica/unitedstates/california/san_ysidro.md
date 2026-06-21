@@ -5,7 +5,7 @@ done:
 latitude: 32.552
 loc_type: city
 longitude: -117.0431
-score: 0.33
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/San_Ysidro,_San_Diego
 - https://en.wikipedia.org/wiki/San_Ysidro_Port_of_Entry

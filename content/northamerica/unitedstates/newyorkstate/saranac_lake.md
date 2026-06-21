@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Knollwood_Club_on_Lower_Sa
 latitude: 44.329661
 loc_type: city
 longitude: -74.13112
-score: 0.49
+score: 0.38
 title: Saranac Lake
 type: location
 ---

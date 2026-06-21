@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Medieval_wall_in_Vitoria-G
 latitude: 42.846509
 loc_type: city
 longitude: -2.672403
-score: 0.55
+score: 0.46
 title: Vitoria-Gasteiz
 todo_location_cleanup: done
 type: location

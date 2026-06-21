@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiefsgame.jpg
 latitude: 39.1001
 loc_type: city
 longitude: -94.5782
-score: 0.46
+score: 0.39
 title: Kansas City
 type: location
 ---

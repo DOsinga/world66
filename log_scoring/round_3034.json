@@ -1,0 +1,200 @@
+{
+  "round": 3034,
+  "timestamp": "2026-06-13T22:24:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c5lesund",
+      "path": "europe/norway/alesund",
+      "prior_score": 6.1126,
+      "prior_variance": 0.168496,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Tropea",
+      "path": "europe/italy/calabria/tropea",
+      "prior_score": 5.3713,
+      "prior_variance": 0.168205,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "B\u00fazios",
+      "path": "southamerica/brazil/buzios",
+      "prior_score": 4.3539,
+      "prior_variance": 0.174041,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.716,
+      "prior_variance": 0.143485,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.2587,
+      "prior_variance": 0.139181,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.5578,
+      "prior_variance": 0.132412,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Umag",
+      "path": "europe/croatia/umag",
+      "prior_score": 2.7624,
+      "prior_variance": 0.141677,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/big_bear_lake",
+      "prior_score": 1.6366,
+      "prior_variance": 0.166587,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 0.8989,
+      "prior_variance": 0.142111,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": -0.0386,
+      "prior_variance": 0.137415,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 1.8215,
+      "prior_variance": 0.14675,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": 0.1435,
+      "prior_variance": 0.148593,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Vodo di Cadore",
+      "path": "europe/italy/veneto/vodo_di_cadore",
+      "prior_score": 0.7219,
+      "prior_variance": 0.137799,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 0.7703,
+      "prior_variance": 0.161057,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.8122,
+      "prior_variance": 0.153454,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.3653,
+      "prior_variance": 0.163523,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Tengchong",
+      "path": "asia/china/yunnanprovince/tengchong",
+      "prior_score": 1.4816,
+      "prior_variance": 0.141129,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Lieksa",
+      "path": "europe/finland/lieksa",
+      "prior_score": -1.9076,
+      "prior_variance": 0.142037,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Old Rag Mountain",
+      "path": "northamerica/unitedstates/virginia/old_rag_mountain",
+      "prior_score": 0.9033,
+      "prior_variance": 0.167784,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.1835,
+      "prior_variance": 0.159101,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.4275,
+      "prior_variance": 0.137758,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Miri",
+      "path": "asia/malaysia/miri",
+      "prior_score": -0.8755,
+      "prior_variance": 0.117629,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Mwanza",
+      "path": "africa/tanzania/mwanza",
+      "prior_score": -0.9911,
+      "prior_variance": 0.160822,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.481,
+      "prior_variance": 0.177034,
+      "prior_n": 10
+    }
+  ]
+}

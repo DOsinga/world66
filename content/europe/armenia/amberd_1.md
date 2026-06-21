@@ -5,7 +5,7 @@ latitude: 40.239984
 longitude: 44.271155
 title: Amberd
 type: location
-score: 0.52
+score: 0.44
 loc_type: feature
 ---
 

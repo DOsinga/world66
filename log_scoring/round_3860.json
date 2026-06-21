@@ -1,0 +1,200 @@
+{
+  "round": 3860,
+  "timestamp": "2026-06-13T23:25:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kyoto",
+      "path": "asia/japan/honshu/kyoto",
+      "prior_score": 20.09,
+      "prior_variance": 1.602464,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Ravello",
+      "path": "europe/italy/campania/ravello",
+      "prior_score": 7.1534,
+      "prior_variance": 0.168469,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Segovia",
+      "path": "europe/spain/centralspain/segovia",
+      "prior_score": 5.939,
+      "prior_variance": 0.152442,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 5.495,
+      "prior_variance": 0.158205,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Merzouga",
+      "path": "africa/morocco/merzouga",
+      "prior_score": 5.677,
+      "prior_variance": 0.153528,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 4.0759,
+      "prior_variance": 0.150533,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 3.216,
+      "prior_variance": 0.126388,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Groningen",
+      "path": "europe/netherlands/groningen",
+      "prior_score": 1.4422,
+      "prior_variance": 0.118628,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 1.2653,
+      "prior_variance": 0.121251,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 3.0174,
+      "prior_variance": 0.110985,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.414,
+      "prior_variance": 0.107262,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Lakes Region",
+      "path": "northamerica/unitedstates/newhampshire/lakes",
+      "prior_score": 0.4703,
+      "prior_variance": 0.0999,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Imst",
+      "path": "europe/austria/imst",
+      "prior_score": 0.8263,
+      "prior_variance": 0.110351,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Oradea",
+      "path": "europe/romania/oradea",
+      "prior_score": 1.4354,
+      "prior_variance": 0.110008,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Richmond",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/richmond_yorks",
+      "prior_score": -0.7724,
+      "prior_variance": 0.120804,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Roenne",
+      "path": "europe/denmark/roenne",
+      "prior_score": 0.0362,
+      "prior_variance": 0.106764,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bremgarten",
+      "path": "europe/switzerland/bremgarten",
+      "prior_score": -0.6765,
+      "prior_variance": 0.106954,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Karaikudi",
+      "path": "asia/india/tamilnadu/karaikudi",
+      "prior_score": -2.7229,
+      "prior_variance": 0.128633,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Kui Buri",
+      "path": "asia/thailand/kui_buri",
+      "prior_score": -1.4584,
+      "prior_variance": 0.131772,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -1.4326,
+      "prior_variance": 0.106509,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Courth\u00e9zon",
+      "path": "europe/france/alpes/courthezon",
+      "prior_score": -2.6362,
+      "prior_variance": 0.126531,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Meuse",
+      "path": "europe/france/east/lorraine/meuse",
+      "prior_score": -2.5809,
+      "prior_variance": 0.115092,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -5.8566,
+      "prior_variance": 0.128916,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.2909,
+      "prior_variance": 0.189773,
+      "prior_n": 12
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tavistock,_Abbey_Chapel_an
 latitude: 50.5499
 loc_type: city
 longitude: -4.1444
-score: 0.48
+score: 0.4
 title: Tavistock
 type: location
 ---

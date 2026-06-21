@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chenini_,_village_berbere_
 latitude: 32.910703
 loc_type: city
 longitude: 10.261552
-score: 0.5
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Chenini
 - https://en.wikipedia.org/wiki/Ksar_Chenini

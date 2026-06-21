@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chad_Clothes_sewer_Ab%C3%A
 latitude: 13.8292
 loc_type: city
 longitude: 20.8324
-score: 0.21
+score: 0.17
 title: Abeche
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/126826552@N05/51355656466
 latitude: 60.608075
 loc_type: city
 longitude: -1.16171
-score: 0.41
+score: 0.38
 title: Yell
 type: location
 ---

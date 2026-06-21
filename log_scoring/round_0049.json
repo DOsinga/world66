@@ -1,200 +1,200 @@
 {
   "round": 49,
-  "timestamp": "2026-04-11T19:26:12",
+  "timestamp": "2026-06-13T19:17:14",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "The Gal\u00e1pagos Islands",
-      "path": "southamerica/ecuador/galapagosislands/theislands",
-      "prior_mu": 29.93,
-      "prior_sigma": 6.9,
-      "prior_n": 1
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "South Island",
-      "path": "australiaandpacific/newzealand/south_island",
-      "prior_mu": 31.54,
-      "prior_sigma": 4.87,
-      "prior_n": 4
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Kilimanjaro",
-      "path": "africa/tanzania/kilimanjaro",
-      "prior_mu": 27.21,
-      "prior_sigma": 5.47,
-      "prior_n": 2
+      "title": "Gili Islands",
+      "path": "asia/indonesia/lombok/giliislands",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Ayutthaya",
-      "path": "asia/thailand/ayutthaya",
-      "prior_mu": 29.6,
-      "prior_sigma": 4.68,
-      "prior_n": 3
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Bergamo",
-      "path": "europe/italy/lombardia/bergamo",
-      "prior_mu": 26.2,
-      "prior_sigma": 4.97,
-      "prior_n": 2
+      "title": "Tamarindo",
+      "path": "northamerica/costarica/tamarindo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Laos",
-      "path": "asia/laos",
-      "prior_mu": 24.48,
-      "prior_sigma": 4.74,
-      "prior_n": 2
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Mui Ne - Phan Thiet",
-      "path": "asia/vietnam/muine__phan_thiet",
-      "prior_mu": 22.32,
-      "prior_sigma": 5.79,
-      "prior_n": 1
+      "title": "Kritsa",
+      "path": "europe/greece/crete/kritsa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Taichung",
-      "path": "asia/taiwan/taichung",
-      "prior_mu": 22.61,
-      "prior_sigma": 5.68,
-      "prior_n": 1
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Umag",
-      "path": "europe/croatia/umag",
-      "prior_mu": 23.4,
-      "prior_sigma": 6.03,
-      "prior_n": 1
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Ein Hod",
-      "path": "asia/israel/ein_hod",
-      "prior_mu": 22.48,
-      "prior_sigma": 5.57,
-      "prior_n": 1
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Sumbawa",
-      "path": "asia/indonesia/sumbawa",
-      "prior_mu": 22.59,
-      "prior_sigma": 5.53,
-      "prior_n": 1
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Abomey",
-      "path": "africa/benin/abomey",
-      "prior_mu": 21.52,
-      "prior_sigma": 4.71,
-      "prior_n": 2
+      "title": "Wolfenb\u00fcttel",
+      "path": "europe/germany/lowersaxony/wolfenbuettel",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Aliano",
-      "path": "europe/italy/basilicata/aliano",
-      "prior_mu": 21.61,
-      "prior_sigma": 3.78,
-      "prior_n": 3
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/illinois/springfield",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Randers",
-      "path": "europe/denmark/randers",
-      "prior_mu": 21.93,
-      "prior_sigma": 5.66,
-      "prior_n": 1
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "S\u00e1rv\u00e1r",
-      "path": "europe/hungary/sarvar",
-      "prior_mu": 21.25,
-      "prior_sigma": 4.64,
-      "prior_n": 2
+      "title": "Oakland",
+      "path": "northamerica/unitedstates/california/oakland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Kokrobite",
-      "path": "africa/ghana/kokrobite",
-      "prior_mu": 22.73,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Guaratuba",
+      "path": "southamerica/brazil/guratuba",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Dschang",
-      "path": "africa/cameroon/dschang",
-      "prior_mu": 21.33,
-      "prior_sigma": 4.43,
-      "prior_n": 2
+      "title": "Cagayan de Oro City",
+      "path": "asia/philippines/cagayan_de_oro_city",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Paraguay",
-      "path": "southamerica/paraguay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Goi\u00e2nia",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Sanandaj",
-      "path": "asia/iran/sanandaj",
-      "prior_mu": 20.42,
-      "prior_sigma": 5.63,
-      "prior_n": 1
+      "title": "New Iberia",
+      "path": "northamerica/unitedstates/louisiana/newiberia",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "James Island",
-      "path": "northamerica/unitedstates/southcarolina/james_island",
-      "prior_mu": 21.67,
-      "prior_sigma": 4.57,
-      "prior_n": 2
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Florence",
-      "path": "northamerica/unitedstates/alabama/florence",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Scranton",
-      "path": "northamerica/unitedstates/pennsylvania/scranton",
-      "prior_mu": 22.65,
-      "prior_sigma": 5.68,
-      "prior_n": 1
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "A perfect day",
-      "path": "europe/czechrepublic/prague/aperfectday",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "anis yaroo khosa",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
-      "prior_mu": 13.94,
-      "prior_sigma": 5.74,
-      "prior_n": 2
+      "title": "Mao",
+      "path": "asia/india/manipur/mao",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

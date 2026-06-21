@@ -1,200 +1,200 @@
 {
   "round": 528,
-  "timestamp": "2026-04-12T09:45:40",
+  "timestamp": "2026-06-13T19:40:44",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Amsterdam",
-      "path": "europe/netherlands/amsterdam",
-      "prior_mu": 37.4888,
-      "prior_sigma": 4.1324,
-      "prior_n": 8
+      "title": "Saksk\u00f8bing",
+      "path": "europe/denmark/sakskobing",
+      "prior_score": -12.9797,
+      "prior_variance": 7.677067,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Keukenhof",
-      "path": "europe/netherlands/keukenhof",
-      "prior_mu": 29.3211,
-      "prior_sigma": 3.4841,
-      "prior_n": 6
+      "title": "Bernau bei Berlin",
+      "path": "europe/germany/brandenburg/bernau_bei_berlin",
+      "prior_score": -9.3059,
+      "prior_variance": 2.576637,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "The Hague",
-      "path": "europe/netherlands/thehague",
-      "prior_mu": 24.0884,
-      "prior_sigma": 2.7841,
-      "prior_n": 5
+      "title": "Gera",
+      "path": "europe/germany/thuringia/gera",
+      "prior_score": -6.7342,
+      "prior_variance": 2.339856,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Delft",
-      "path": "europe/netherlands/delft",
-      "prior_mu": 23.159,
-      "prior_sigma": 2.6027,
-      "prior_n": 6
+      "title": "Thetford",
+      "path": "europe/unitedkingdom/england/eastern_england/thetfordnorfolk",
+      "prior_score": -11.4625,
+      "prior_variance": 8.23156,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Scheveningen",
-      "path": "europe/netherlands/scheveningen",
-      "prior_mu": 21.0417,
-      "prior_sigma": 2.4257,
-      "prior_n": 7
+      "title": "Tskhavati",
+      "path": "europe/georgia/tskhavati",
+      "prior_score": -8.6789,
+      "prior_variance": 1.923866,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "De Hoge Veluwe",
-      "path": "europe/netherlands/dehogeveluwe",
-      "prior_mu": 22.8356,
-      "prior_sigma": 2.5267,
-      "prior_n": 7
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -8.536,
+      "prior_variance": 1.414476,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Volendam",
-      "path": "europe/netherlands/volendam",
-      "prior_mu": 20.7689,
-      "prior_sigma": 2.5579,
-      "prior_n": 6
+      "title": "Kerrville",
+      "path": "northamerica/unitedstates/texas/kerrville",
+      "prior_score": -8.3476,
+      "prior_variance": 1.413097,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Edam",
-      "path": "europe/netherlands/edam",
-      "prior_mu": 21.2052,
-      "prior_sigma": 2.812,
-      "prior_n": 5
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -6.7334,
+      "prior_variance": 1.597677,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Valkenburg",
-      "path": "europe/netherlands/valkenburg",
-      "prior_mu": 21.2584,
-      "prior_sigma": 2.8909,
-      "prior_n": 5
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -8.6456,
+      "prior_variance": 2.76279,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Leeuwarden",
-      "path": "europe/netherlands/friesland/leeuwarden",
-      "prior_mu": 21.1345,
-      "prior_sigma": 2.724,
-      "prior_n": 5
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -7.7567,
+      "prior_variance": 1.683552,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Domburg",
-      "path": "europe/netherlands/domburg",
-      "prior_mu": 21.1839,
-      "prior_sigma": 2.9565,
-      "prior_n": 4
+      "title": "Salisbury",
+      "path": "northamerica/unitedstates/northcarolina/salisbury",
+      "prior_score": -10.1297,
+      "prior_variance": 4.290926,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Dordrecht",
-      "path": "europe/netherlands/dordrecht",
-      "prior_mu": 20.8343,
-      "prior_sigma": 2.5065,
-      "prior_n": 6
+      "title": "Huntsville",
+      "path": "northamerica/unitedstates/utah/huntsville",
+      "prior_score": -8.6799,
+      "prior_variance": 1.805474,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Woudsend",
-      "path": "europe/netherlands/friesland/woudsend",
-      "prior_mu": 20.5272,
-      "prior_sigma": 2.3301,
-      "prior_n": 8
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -11.4053,
+      "prior_variance": 2.303363,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Holwerd",
-      "path": "europe/netherlands/friesland/holwerd",
-      "prior_mu": 20.1173,
-      "prior_sigma": 2.7314,
-      "prior_n": 5
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -8.6102,
+      "prior_variance": 1.457108,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Lochem",
-      "path": "europe/netherlands/lochem",
-      "prior_mu": 20.328,
-      "prior_sigma": 2.2999,
-      "prior_n": 7
+      "title": "Killeen",
+      "path": "northamerica/unitedstates/texas/killeen",
+      "prior_score": -11.6426,
+      "prior_variance": 2.506988,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Purmerend",
-      "path": "europe/netherlands/purmerend",
-      "prior_mu": 19.8499,
-      "prior_sigma": 2.5284,
-      "prior_n": 6
+      "title": "Samara",
+      "path": "europe/russia/samara",
+      "prior_score": -7.5684,
+      "prior_variance": 2.047761,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Hengelo",
-      "path": "europe/netherlands/hengelo",
-      "prior_mu": 20.7639,
-      "prior_sigma": 2.8954,
-      "prior_n": 5
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -8.1434,
+      "prior_variance": 1.887731,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Heerde",
-      "path": "europe/netherlands/heerde",
-      "prior_mu": 20.2634,
-      "prior_sigma": 2.8726,
-      "prior_n": 5
+      "title": "Saylac (Zeila)",
+      "path": "africa/somaliland/saylac_zeila",
+      "prior_score": -7.6123,
+      "prior_variance": 1.886612,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Ossendrecht",
-      "path": "europe/netherlands/ossendrecht",
-      "prior_mu": 21.0241,
-      "prior_sigma": 3.354,
-      "prior_n": 4
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -8.3726,
+      "prior_variance": 1.637343,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Zoetermeer",
-      "path": "europe/netherlands/zoetermeer",
-      "prior_mu": 18.4364,
-      "prior_sigma": 2.5227,
-      "prior_n": 7
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -7.0981,
+      "prior_variance": 1.774988,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Ouderkerk aan den IJssel",
-      "path": "europe/netherlands/ouderkerk_aan_den",
-      "prior_mu": 18.4367,
-      "prior_sigma": 2.5641,
-      "prior_n": 7
+      "title": "Dezhou",
+      "path": "asia/china/shandong_province/dezhou",
+      "prior_score": -9.8591,
+      "prior_variance": 2.296243,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Wierden",
-      "path": "europe/netherlands/wierden",
-      "prior_mu": 18.8648,
-      "prior_sigma": 3.3288,
-      "prior_n": 4
+      "title": "Henryetta",
+      "path": "northamerica/unitedstates/oklahoma/henryetta",
+      "prior_score": -10.6508,
+      "prior_variance": 9.032349,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Tjuchum",
-      "path": "europe/netherlands/tjuchum",
-      "prior_mu": 14.9335,
-      "prior_sigma": 2.6358,
-      "prior_n": 9
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -9.0946,
+      "prior_variance": 1.773692,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "weerp",
-      "path": "europe/netherlands/weerp",
-      "prior_mu": 13.3012,
-      "prior_sigma": 3.5429,
-      "prior_n": 5
+      "title": "Eagle Bend",
+      "path": "northamerica/unitedstates/minnesota/eaglebend",
+      "prior_score": -10.5642,
+      "prior_variance": 2.112188,
+      "prior_n": 1
     }
   ]
 }

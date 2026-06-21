@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Hoh Xil
 type: location
+score: 0.36
 ---
 
 Hoh Xil — also written Kekexili — is the largest and highest plateau in the world outside Antarctica, a UNESCO World Heritage Site covering approximately 45,000 square kilometres of northwestern Qinghai at altitudes between 4,500 and 6,000 metres. It is one of the last great wilderness areas on earth: virtually uninhabited by humans, extraordinarily rich in wildlife, and so remote and hostile that most of it has never been properly surveyed.

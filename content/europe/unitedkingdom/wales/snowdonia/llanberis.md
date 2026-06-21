@@ -5,7 +5,7 @@ done:
 latitude: 53.121276
 loc_type: city
 longitude: -4.127748
-score: 0.54
+score: 0.5
 title: Llanberis
 type: location
 ---

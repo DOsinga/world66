@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Col%C3%A9gio_Anchieta_em_N
 latitude: -22.306166
 loc_type: city
 longitude: -42.493418
-score: 0.43
+score: 0.39
 title: Nova Friburgo
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:So_Cal_Coastline_photo_D_R
 latitude: 33.617009
 loc_type: city
 longitude: -117.92944
-score: 0.57
+score: 0.45
 title: Newport Beach
 type: location
 ---

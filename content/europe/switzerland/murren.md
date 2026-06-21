@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_M%C3%BCrren_2022.jpg
 latitude: 46.55914
 loc_type: city
 longitude: 7.892879
-score: 0.8
+score: 0.66
 title: Murren
 type: location
 ---

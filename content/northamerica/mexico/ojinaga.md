@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21328181@N00/314141173
 latitude: 29.545625
 loc_type: city
 longitude: -104.58711
-score: 0.32
+score: 0.26
 title: Ojinaga
 type: location
 ---

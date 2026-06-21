@@ -11,6 +11,7 @@ loc_type: city
 longitude: 78.2968
 title: Rishikesh
 type: location
+score: 0.57
 ---
 
 Rishikesh is where the Ganges descends from the Himalayas into the plains, and the geography explains everything about the place. The river runs cold and powerful from the mountains here, and the town that has grown along its banks is split between two identities that exist in constant, productive tension: ancient pilgrimage centre and modern capital of international yoga tourism. Both are entirely genuine.

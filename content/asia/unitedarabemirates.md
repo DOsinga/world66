@@ -1,4 +1,5 @@
 ---
+score: 0.60
 title: "United Arab Emirates"
 type: location
 loc_type: country

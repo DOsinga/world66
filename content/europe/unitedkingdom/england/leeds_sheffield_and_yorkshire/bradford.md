@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bradford_Flickr_2016.jpg
 latitude: 53.794423
 loc_type: city
 longitude: -1.751919
-score: 0.4
+score: 0.34
 title: Bradford
 type: location
 ---

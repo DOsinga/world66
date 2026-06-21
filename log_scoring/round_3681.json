@@ -1,0 +1,200 @@
+{
+  "round": 3681,
+  "timestamp": "2026-06-13T23:12:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Flakstad",
+      "path": "europe/norway/lofotenislands/flakstad",
+      "prior_score": 6.3924,
+      "prior_variance": 0.182139,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Uchisar",
+      "path": "asia/turkey/cappadocia/uchisar",
+      "prior_score": 8.8577,
+      "prior_variance": 0.184058,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Nice",
+      "path": "europe/france/midi/cotedazur/nice",
+      "prior_score": 9.117,
+      "prior_variance": 0.178733,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.4628,
+      "prior_variance": 0.186005,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 6.9436,
+      "prior_variance": 0.157146,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Antalya",
+      "path": "asia/turkey/antalya",
+      "prior_score": 7.136,
+      "prior_variance": 0.161173,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 4.6563,
+      "prior_variance": 0.144691,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Concarneau",
+      "path": "europe/france/normandybrittany/concarneau",
+      "prior_score": 3.4227,
+      "prior_variance": 0.119492,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": 3.4359,
+      "prior_variance": 0.114119,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Paso Robles",
+      "path": "northamerica/unitedstates/california/paso_robels",
+      "prior_score": 2.195,
+      "prior_variance": 0.11014,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Monza",
+      "path": "europe/italy/lombardia/monza",
+      "prior_score": 1.4931,
+      "prior_variance": 0.111392,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.9777,
+      "prior_variance": 0.113623,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Coquimbo",
+      "path": "southamerica/chile/coquimbo",
+      "prior_score": -0.1316,
+      "prior_variance": 0.099828,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Vaitupu Island",
+      "path": "australiaandpacific/tuvalu/vaitupuisland",
+      "prior_score": -3.8807,
+      "prior_variance": 0.179632,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.2432,
+      "prior_variance": 0.115951,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Xai-Xai",
+      "path": "africa/mozambique/xaixai",
+      "prior_score": -5.586,
+      "prior_variance": 0.129247,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Nagapattinam",
+      "path": "asia/india/tamilnadu/nagapattinam",
+      "prior_score": -4.0028,
+      "prior_variance": 0.12859,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Mangatarem",
+      "path": "asia/philippines/mangatarem",
+      "prior_score": -4.6889,
+      "prior_variance": 0.113471,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Tirunelveli",
+      "path": "asia/india/tamilnadu/tirunelveli",
+      "prior_score": -3.5902,
+      "prior_variance": 0.132379,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Sumedang",
+      "path": "asia/indonesia/java/sumedang",
+      "prior_score": -3.4581,
+      "prior_variance": 0.106594,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -6.0679,
+      "prior_variance": 0.135043,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": -4.5567,
+      "prior_variance": 0.137433,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Moorhead",
+      "path": "northamerica/unitedstates/minnesota/moorhead",
+      "prior_score": -5.1246,
+      "prior_variance": 0.145883,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Santan\u00ed",
+      "path": "southamerica/paraguay/santan",
+      "prior_score": -6.4573,
+      "prior_variance": 0.166436,
+      "prior_n": 12
+    }
+  ]
+}

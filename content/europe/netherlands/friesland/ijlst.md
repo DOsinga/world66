@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20140502_Ee_IJlst_Fr_NL.jp
 latitude: 53.010137
 loc_type: city
 longitude: 5.623324
-score: 0.41
+score: 0.34
 title: IJlst
 type: location
 ---

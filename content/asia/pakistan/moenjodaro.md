@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_picture_of_The_Great_Bat
 latitude: 27.3217
 loc_type: city
 longitude: 68.1366
-score: 0.44
+score: 0.39
 title: Moenjodaro
 type: location
 ---

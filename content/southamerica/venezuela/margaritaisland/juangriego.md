@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Juan_Griego_Atardecer.jpg
 latitude: 11.0821
 loc_type: city
 longitude: -63.9652
-score: 0.48
+score: 0.37
 title: Juan Griego
 type: location
 ---

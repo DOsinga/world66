@@ -5,7 +5,7 @@ done:
 latitude: 36.873167
 loc_type: city
 longitude: -4.082126
-score: 0.46
+score: 0.37
 title: Canillas de Aceituno
 type: location
 image: canillas_de_aceituno.jpg

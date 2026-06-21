@@ -5,7 +5,7 @@ latitude: 55.4565
 longitude: 12.1819
 title: Køge
 type: location
-score: 0.5
+score: 0.4
 loc_type: city
 ---
 

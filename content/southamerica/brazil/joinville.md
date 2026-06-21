@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bairro_Iriri%C3%BA_e_zona_
 latitude: -26.30449
 loc_type: city
 longitude: -48.848673
-score: 0.42
+score: 0.34
 title: Joinville
 type: location
 ---

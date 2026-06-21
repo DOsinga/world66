@@ -5,7 +5,7 @@ done:
 latitude: 15.759086
 loc_type: city
 longitude: 121.562725
-score: 0.51
+score: 0.43
 title: Baler
 type: location
 ---

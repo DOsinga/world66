@@ -5,7 +5,7 @@ done:
 latitude: 43.6241
 loc_type: city
 longitude: 11.461
-score: 0.47
+score: 0.38
 title: Figline
 type: location
 ---

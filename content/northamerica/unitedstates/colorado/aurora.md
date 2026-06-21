@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherry_Creek_Lake.jpg
 latitude: 39.729432
 loc_type: city
 longitude: -104.831917
-score: 0.35
+score: 0.29
 title: Aurora
 type: location
 ---

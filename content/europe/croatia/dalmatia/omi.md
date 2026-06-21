@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Omi%C5%A1_city_panorama_(2
 latitude: 43.443497
 loc_type: city
 longitude: 16.692277
-score: 0.64
+score: 0.54
 title: Omiš
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Toxa_Galicia.jpg
 latitude: 42.4475
 loc_type: city
 longitude: -8.8406
-score: 0.58
+score: 0.48
 title: La Toja/A Toxa Island
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3844,
+  "timestamp": "2026-06-13T23:24:14",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kailua-Kona",
+      "path": "northamerica/unitedstates/hawaii/kailua",
+      "prior_score": 7.1133,
+      "prior_variance": 0.13356,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Polignano a Mare",
+      "path": "europe/italy/puglia/polignano_a_mare",
+      "prior_score": 6.4789,
+      "prior_variance": 0.154461,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 4.0558,
+      "prior_variance": 0.11835,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "\u201cAlgonquin Park\u201d",
+      "path": "northamerica/canada/algonquin_park",
+      "prior_score": 3.9721,
+      "prior_variance": 0.113439,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Homer",
+      "path": "northamerica/unitedstates/alaska/homer",
+      "prior_score": 2.2999,
+      "prior_variance": 0.118976,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.8494,
+      "prior_variance": 0.118676,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Matmata",
+      "path": "africa/tunisia/matmata",
+      "prior_score": 1.2552,
+      "prior_variance": 0.104576,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -0.1714,
+      "prior_variance": 0.11835,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Castelfranco Veneto",
+      "path": "europe/italy/veneto/castelfrancoveneto",
+      "prior_score": 0.4829,
+      "prior_variance": 0.107994,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Portsmouth",
+      "path": "northamerica/thecaribbean/dominica/portsmouth",
+      "prior_score": 0.0018,
+      "prior_variance": 0.104073,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Pulau Nias",
+      "path": "asia/indonesia/sumatra/pulaunias",
+      "prior_score": -1.4822,
+      "prior_variance": 0.112265,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Narsaq",
+      "path": "northamerica/greenland/narsaq",
+      "prior_score": -1.5481,
+      "prior_variance": 0.169186,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.0829,
+      "prior_variance": 0.097623,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Gallivare",
+      "path": "europe/sweden/gallivare",
+      "prior_score": -0.3426,
+      "prior_variance": 0.102543,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": -0.3601,
+      "prior_variance": 0.097307,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.0991,
+      "prior_variance": 0.101946,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Hunedoara",
+      "path": "europe/romania/hunedoara",
+      "prior_score": -0.4197,
+      "prior_variance": 0.105037,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -1.2163,
+      "prior_variance": 0.107068,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -1.006,
+      "prior_variance": 0.112382,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Isernia",
+      "path": "europe/italy/molise/isernia",
+      "prior_score": -1.1829,
+      "prior_variance": 0.11185,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Cholet",
+      "path": "europe/france/centre/loirevalley/cholet",
+      "prior_score": -1.985,
+      "prior_variance": 0.139116,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Price",
+      "path": "northamerica/unitedstates/utah/price",
+      "prior_score": -4.2118,
+      "prior_variance": 0.111815,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -5.4292,
+      "prior_variance": 0.121878,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Eluru",
+      "path": "asia/india/andhrapradesh/eluru",
+      "prior_score": -5.4425,
+      "prior_variance": 0.150767,
+      "prior_n": 12
+    }
+  ]
+}

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_at_Cuszo_Peru.jp
 latitude: -13.516954
 loc_type: city
 longitude: -71.979271
-score: 0.83
+score: 0.74
 title: Cuzco
 type: location
 ---

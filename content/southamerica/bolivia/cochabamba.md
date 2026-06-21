@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_Municipal_de
 latitude: -17.3895
 loc_type: city
 longitude: -66.1568
-score: 0.47
+score: 0.39
 title: Cochabamba
 type: location
 ---

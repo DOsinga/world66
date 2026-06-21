@@ -1,0 +1,200 @@
+{
+  "round": 4009,
+  "timestamp": "2026-06-13T23:36:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 18.2369,
+      "prior_variance": 1.40126,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 5.8614,
+      "prior_variance": 0.180781,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 6.3738,
+      "prior_variance": 0.130315,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "El Calafate",
+      "path": "southamerica/argentina/patagonia/calafate",
+      "prior_score": 7.7678,
+      "prior_variance": 0.180143,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Denali National Park and Preserve",
+      "path": "northamerica/unitedstates/alaska/denali_national_park_and_preserve",
+      "prior_score": 8.3002,
+      "prior_variance": 0.172558,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Phong Nha - Ke Bang",
+      "path": "asia/vietnam/phong_nha__ke_ban",
+      "prior_score": 6.7532,
+      "prior_variance": 0.142355,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 7.5915,
+      "prior_variance": 0.192697,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Akureyri",
+      "path": "europe/iceland/akureyri",
+      "prior_score": 5.2614,
+      "prior_variance": 0.11758,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 5.8594,
+      "prior_variance": 0.127741,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.9178,
+      "prior_variance": 0.104561,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 0.9913,
+      "prior_variance": 0.103836,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 5.5327,
+      "prior_variance": 0.152963,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Arraial da Ajuda",
+      "path": "southamerica/brazil/arraial_da_ajuda",
+      "prior_score": 3.7012,
+      "prior_variance": 0.107509,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Canouan",
+      "path": "northamerica/saintvincentandthegrenadines/canouan",
+      "prior_score": 3.9803,
+      "prior_variance": 0.120555,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 1.6971,
+      "prior_variance": 0.108681,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Buckskin Gulch",
+      "path": "northamerica/unitedstates/utah/buckskin_gulch",
+      "prior_score": 3.6742,
+      "prior_variance": 0.134169,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Halifax",
+      "path": "northamerica/canada/novascotia/halifax",
+      "prior_score": 1.7471,
+      "prior_variance": 0.117615,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "San Luis Obispo",
+      "path": "northamerica/unitedstates/california/centralcoast/sanluisobispo",
+      "prior_score": 3.1014,
+      "prior_variance": 0.120732,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 2.0294,
+      "prior_variance": 0.101673,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Kavala",
+      "path": "europe/greece/kavala",
+      "prior_score": 2.9315,
+      "prior_variance": 0.108268,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Kingston",
+      "path": "northamerica/canada/ontario/kingston",
+      "prior_score": 0.1935,
+      "prior_variance": 0.101967,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 1.9828,
+      "prior_variance": 0.095402,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.5473,
+      "prior_variance": 0.094286,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 2.8815,
+      "prior_variance": 0.097056,
+      "prior_n": 13
+    }
+  ]
+}

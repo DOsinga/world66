@@ -1,0 +1,200 @@
+{
+  "round": 2749,
+  "timestamp": "2026-06-13T22:04:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Landmannalaugar",
+      "path": "europe/iceland/landmannalaugar",
+      "prior_score": 7.144,
+      "prior_variance": 0.28383,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Ella",
+      "path": "asia/srilanka/ella",
+      "prior_score": 6.7019,
+      "prior_variance": 0.257766,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Pashupatinath",
+      "path": "asia/nepal/pashupatinath",
+      "prior_score": 3.9016,
+      "prior_variance": 0.16617,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 3.9295,
+      "prior_variance": 0.17164,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Souillac",
+      "path": "africa/mauritius/souillac",
+      "prior_score": 2.6829,
+      "prior_variance": 0.180023,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.7564,
+      "prior_variance": 0.149016,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 1.2598,
+      "prior_variance": 0.138452,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Vila Nova de Gaia",
+      "path": "europe/portugal/vilanovadegaia",
+      "prior_score": 3.0713,
+      "prior_variance": 0.151574,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Harz Mountains",
+      "path": "europe/germany/lowersaxony/harz_mountains",
+      "prior_score": 3.6167,
+      "prior_variance": 0.194018,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 4.1951,
+      "prior_variance": 0.165249,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 2.0513,
+      "prior_variance": 0.15489,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 5.2657,
+      "prior_variance": 0.184219,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.2238,
+      "prior_variance": 0.151689,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Salmon River",
+      "path": "northamerica/unitedstates/idaho/salmon_river",
+      "prior_score": -0.9934,
+      "prior_variance": 0.179391,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Sebastopol",
+      "path": "northamerica/unitedstates/california/northcoast/sebastopol",
+      "prior_score": -1.2251,
+      "prior_variance": 0.146531,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.9686,
+      "prior_variance": 0.148079,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": -0.2697,
+      "prior_variance": 0.143249,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Twickenham",
+      "path": "europe/unitedkingdom/england/south_east/twickenham",
+      "prior_score": -1.1561,
+      "prior_variance": 0.173981,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.475,
+      "prior_variance": 0.163926,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Pasto",
+      "path": "southamerica/colombia/pasto",
+      "prior_score": -2.5877,
+      "prior_variance": 0.181342,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Fyvie",
+      "path": "europe/unitedkingdom/scotland/fyvie",
+      "prior_score": -3.6711,
+      "prior_variance": 0.226812,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Pori",
+      "path": "europe/finland/pori",
+      "prior_score": -1.3673,
+      "prior_variance": 0.144454,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -4.9806,
+      "prior_variance": 0.198353,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Shendi",
+      "path": "africa/sudan/shendi",
+      "prior_score": -8.1363,
+      "prior_variance": 0.260053,
+      "prior_n": 8
+    }
+  ]
+}

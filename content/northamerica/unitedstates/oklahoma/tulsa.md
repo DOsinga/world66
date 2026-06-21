@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20240905_1015_1st_Methodis
 latitude: 36.156312
 loc_type: city
 longitude: -95.992752
-score: 0.42
+score: 0.33
 title: Tulsa
 type: location
 ---

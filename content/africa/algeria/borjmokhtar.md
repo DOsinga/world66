@@ -5,7 +5,7 @@ done:
 latitude: 21.3294
 loc_type: city
 longitude: 0.9531
-score: 0.21
+score: 0.12
 title: Borj Mokhtar
 type: location
 ---

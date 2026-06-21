@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/87690240@N03/52599635409
 latitude: 7.8141
 loc_type: city
 longitude: 98.2989
-score: 0.69
+score: 0.59
 title: Kata
 type: location
 ---

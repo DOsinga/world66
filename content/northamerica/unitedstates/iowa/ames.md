@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ames_Iowa_Main_Street_(ban
 latitude: 42.026757
 loc_type: city
 longitude: -93.617045
-score: 0.32
+score: 0.3
 title: Ames
 type: location
 ---

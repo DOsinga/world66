@@ -7,7 +7,7 @@ done:
 latitude: 41.7553
 loc_type: city
 longitude: -124.2018
-score: 0.43
+score: 0.36
 title: Crescent City
 type: location
 ---

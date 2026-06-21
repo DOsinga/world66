@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mainzer_Dom_Blaue_Stunde_(
 latitude: 49.9995
 loc_type: city
 longitude: 8.2736
-score: 0.58
+score: 0.5
 title: Mainz
 type: location
 ---

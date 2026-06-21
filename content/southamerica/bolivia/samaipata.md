@@ -5,7 +5,7 @@ done:
 latitude: -18.179655
 loc_type: city
 longitude: -63.875825
-score: 0.54
+score: 0.47
 title: Samaipata
 type: location
 ---

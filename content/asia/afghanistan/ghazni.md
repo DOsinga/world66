@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:66-172_Ghazni_Afghanistan_
 latitude: 33.544897
 loc_type: city
 longitude: 68.413211
-score: 0.18
+score: 0.08
 title: Ghazni
 type: location
 ---

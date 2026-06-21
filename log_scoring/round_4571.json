@@ -1,0 +1,200 @@
+{
+  "round": 4571,
+  "timestamp": "2026-06-14T00:23:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Porto",
+      "path": "europe/portugal/porto",
+      "prior_score": 9.6083,
+      "prior_variance": 0.268014,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 8.9599,
+      "prior_variance": 0.169346,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Marmaris",
+      "path": "asia/turkey/marmaris",
+      "prior_score": 3.9712,
+      "prior_variance": 0.089415,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Haarlem",
+      "path": "europe/netherlands/haarlem",
+      "prior_score": 3.3452,
+      "prior_variance": 0.108693,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Westport",
+      "path": "europe/ireland/westport",
+      "prior_score": 2.8178,
+      "prior_variance": 0.095492,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.6158,
+      "prior_variance": 0.118798,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.7836,
+      "prior_variance": 0.108976,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Uwajima",
+      "path": "asia/japan/shikoku/uwajima",
+      "prior_score": 0.2666,
+      "prior_variance": 0.098229,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Weizhou Island",
+      "path": "asia/china/guangxi/weizhou",
+      "prior_score": -0.6765,
+      "prior_variance": 0.090396,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Huayang Village",
+      "path": "asia/china/shaanxi/huayang_village",
+      "prior_score": -3.9081,
+      "prior_variance": 0.095749,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -1.7922,
+      "prior_variance": 0.085558,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": -1.9359,
+      "prior_variance": 0.086288,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.0254,
+      "prior_variance": 0.08986,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -2.076,
+      "prior_variance": 0.103031,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Sabadell",
+      "path": "europe/spain/catalonia/sabadell",
+      "prior_score": -2.8751,
+      "prior_variance": 0.097119,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.4979,
+      "prior_variance": 0.091819,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.8423,
+      "prior_variance": 0.095746,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.3743,
+      "prior_variance": 0.109732,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Keighley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley",
+      "prior_score": -3.4932,
+      "prior_variance": 0.087928,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Grande Prairie",
+      "path": "northamerica/canada/alberta/grande_prairie",
+      "prior_score": -3.3532,
+      "prior_variance": 0.116454,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -4.9571,
+      "prior_variance": 0.098806,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.8023,
+      "prior_variance": 0.138174,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": -7.4134,
+      "prior_variance": 0.143178,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -10.8115,
+      "prior_variance": 0.453376,
+      "prior_n": 14
+    }
+  ]
+}

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bundeshaus_Bern_2009,_Floo
 latitude: 46.948474
 loc_type: city
 longitude: 7.452175
-score: 0.72
+score: 0.6
 title: Bern
 type: location
 ---

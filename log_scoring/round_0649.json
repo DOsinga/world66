@@ -1,200 +1,200 @@
 {
   "round": 649,
-  "timestamp": "2026-04-12T10:41:17",
+  "timestamp": "2026-06-13T19:46:50",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Santorini",
-      "path": "europe/greece/santorini",
-      "prior_mu": 32.1941,
-      "prior_sigma": 6.4963,
-      "prior_n": 2
+      "title": "Juneau",
+      "path": "northamerica/unitedstates/alaska/juneau",
+      "prior_score": 2.3976,
+      "prior_variance": 1.840154,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Athens",
-      "path": "europe/greece/athens",
-      "prior_mu": 31.4906,
-      "prior_sigma": 6.369,
+      "title": "Gobi Desert",
+      "path": "asia/mongolia/gobidesert",
+      "prior_score": 2.0441,
+      "prior_variance": 0.927976,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Rhodes City",
-      "path": "europe/greece/rhodes/rhodescity",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "N\u00eemes",
+      "path": "europe/france/midi/provence/nimes",
+      "prior_score": 6.1394,
+      "prior_variance": 1.111298,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Hania",
-      "path": "europe/greece/crete/hania",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 4.3368,
+      "prior_variance": 1.612216,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Kefalonia",
-      "path": "europe/greece/kefalonia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 1.8389,
+      "prior_variance": 1.208001,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Naxos",
-      "path": "europe/greece/naxos",
-      "prior_mu": 25.5761,
-      "prior_sigma": 5.2326,
+      "title": "Samara",
+      "path": "northamerica/costarica/samara",
+      "prior_score": 3.2855,
+      "prior_variance": 0.953325,
       "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Paros",
-      "path": "europe/greece/paros",
-      "prior_mu": 23.7353,
-      "prior_sigma": 5.9853,
-      "prior_n": 1
+      "title": "Tofo",
+      "path": "africa/mozambique/tofo",
+      "prior_score": 1.5194,
+      "prior_variance": 0.673433,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Skiathos",
-      "path": "europe/greece/skiathos",
-      "prior_mu": 26.5909,
-      "prior_sigma": 5.0075,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 4.0793,
+      "prior_variance": 0.899438,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Rethimno",
-      "path": "europe/greece/crete/rethimno",
-      "prior_mu": 24.9536,
-      "prior_sigma": 3.3044,
-      "prior_n": 4
+      "title": "Plze\u0148",
+      "path": "europe/czechrepublic/plzen",
+      "prior_score": 3.8195,
+      "prior_variance": 1.266615,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Kalambaka",
-      "path": "europe/greece/kalambaka",
-      "prior_mu": 23.4558,
-      "prior_sigma": 5.662,
-      "prior_n": 1
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 4.3077,
+      "prior_variance": 0.922092,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Samos",
-      "path": "europe/greece/samos",
-      "prior_mu": 24.6109,
-      "prior_sigma": 5.8429,
-      "prior_n": 1
+      "title": "Roskilde",
+      "path": "europe/denmark/roskilde",
+      "prior_score": 5.2626,
+      "prior_variance": 0.948725,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Thassos",
-      "path": "europe/greece/thassos_island",
-      "prior_mu": 24.3096,
-      "prior_sigma": 4.8919,
+      "title": "Carbost",
+      "path": "europe/unitedkingdom/scotland/skye/carbost",
+      "prior_score": 1.7778,
+      "prior_variance": 0.714503,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Halkidiki",
-      "path": "europe/greece/halkidiki",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Haghpat",
+      "path": "europe/armenia/haghpat",
+      "prior_score": 0.9488,
+      "prior_variance": 1.014243,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Patmos",
-      "path": "europe/greece/patmos",
-      "prior_mu": 26.2139,
-      "prior_sigma": 5.2781,
+      "title": "Waterford",
+      "path": "europe/ireland/waterford",
+      "prior_score": 2.8458,
+      "prior_variance": 0.826984,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Poros",
-      "path": "europe/greece/poros",
-      "prior_mu": 23.4038,
-      "prior_sigma": 5.0121,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagnessurmer",
+      "prior_score": 2.7487,
+      "prior_variance": 1.030772,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Fiskardo",
-      "path": "europe/greece/cephalonia/fiskardo",
-      "prior_mu": 23.0397,
-      "prior_sigma": 5.9829,
-      "prior_n": 1
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 1.6924,
+      "prior_variance": 1.004167,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Paxi",
-      "path": "europe/greece/paxi",
-      "prior_mu": 22.758,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Atenas",
+      "path": "northamerica/costarica/atenas_costa_rica",
+      "prior_score": 1.1351,
+      "prior_variance": 0.61976,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Stoupa",
-      "path": "europe/greece/mani/stoupa",
-      "prior_mu": 24.0052,
-      "prior_sigma": 5.7706,
-      "prior_n": 1
+      "title": "Dun Laoghaire",
+      "path": "europe/ireland/dun_laoghaire",
+      "prior_score": 0.7149,
+      "prior_variance": 1.152749,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Mistra",
-      "path": "europe/greece/mistra",
-      "prior_mu": 22.5926,
-      "prior_sigma": 5.9126,
-      "prior_n": 1
+      "title": "Mont Aigoual",
+      "path": "europe/france/midi/cevennes/mont_aigoual",
+      "prior_score": 0.9333,
+      "prior_variance": 0.64736,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Dion",
-      "path": "europe/greece/dion",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Toirano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/toirano",
+      "prior_score": 0.7348,
+      "prior_variance": 1.556522,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Greece",
-      "path": "europe/greece",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": 1.2547,
+      "prior_variance": 1.839565,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Trikala",
-      "path": "europe/greece/trikala",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": 0.1718,
+      "prior_variance": 0.648667,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Xanthi",
-      "path": "europe/greece/xanthi",
-      "prior_mu": 21.7486,
-      "prior_sigma": 4.5241,
+      "title": "Soroca",
+      "path": "europe/moldova/soroca",
+      "prior_score": -1.0116,
+      "prior_variance": 0.703447,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Mandamados",
-      "path": "europe/greece/lesbos/mandamados",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Taboga",
+      "path": "northamerica/panama/taboga",
+      "prior_score": 0.4659,
+      "prior_variance": 1.349552,
+      "prior_n": 1
     }
   ]
 }

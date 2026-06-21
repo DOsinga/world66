@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Tiger_Leaping_Gorge
 title: Tiger Leaping Gorge
 type: location
+score: 0.63
 ---
 
 Tiger Leaping Gorge cuts between two of Yunnan's great snow mountains — Jade Dragon to the south at 5,596 metres, Haba to the north at 5,396 — with the upper Yangtze River thundering through the gap below. The gorge is among the deepest in the world by some measurements, and the two-to-three day [high trail](/asia/china/yunnanprovince/tiger_leaping_gorge/high_trail) along the north rim is consistently rated among the finest walks in China. It draws serious trekkers and casual hikers alike, partly because the logistics are straightforward and partly because the scenery is relentlessly dramatic from the first hour.

@@ -5,7 +5,7 @@ done:
 latitude: 12.4878
 loc_type: city
 longitude: -61.4417
-score: 0.52
+score: 0.4
 title: Windward
 type: location
 ---

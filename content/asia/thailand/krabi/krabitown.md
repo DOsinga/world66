@@ -4,7 +4,7 @@ done:
 latitude: 8.063464
 loc_type: city
 longitude: 98.916235
-score: 0.67
+score: 0.6
 title: Krabi Town
 type: location
 ---

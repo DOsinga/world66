@@ -9,7 +9,7 @@ latitude: 40.7376
 longitude: -114.0314
 title: Wendover
 type: location
-score: 0.33
+score: 0.24
 loc_type: city
 ---
 

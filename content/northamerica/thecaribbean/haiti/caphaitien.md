@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap-Haitien_seen_from_Morn
 latitude: 19.7572
 loc_type: city
 longitude: -72.2041
-score: 0.41
+score: 0.36
 title: Cap-Haïtien
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Rica_-_Puerto_Viejo_
 latitude: 9.6333
 loc_type: city
 longitude: -82.8333
-score: 0.59
+score: 0.49
 title: Talamanca
 type: location
 ---

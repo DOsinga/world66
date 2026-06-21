@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Views_from_Visegr%C3%A1d_C
 latitude: 47.7846
 loc_type: city
 longitude: 18.9703
-score: 0.55
+score: 0.46
 title: Visegrad
 type: location
 ---

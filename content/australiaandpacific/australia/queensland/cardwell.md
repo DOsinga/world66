@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cardwell_Hinchinbrook_Chan
 latitude: -18.2706
 loc_type: city
 longitude: 146.0164
-score: 0.44
+score: 0.35
 title: Cardwell
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AricaViewCoast.jpg
 latitude: -18.478529
 loc_type: city
 longitude: -70.321139
-score: 0.5
+score: 0.41
 title: Arica
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 39.541089
 loc_type: city
 longitude: 21.466158
-score: 0.46
+score: 0.41
 title: Pertouli
 type: location
 ---

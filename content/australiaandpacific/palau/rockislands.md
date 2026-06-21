@@ -4,7 +4,7 @@ done:
 image_attribution: Unknown authorUnknown author
 latitude: 7.3418
 longitude: 134.4693
-score: 0.8
+score: 0.72
 title: Rock Islands
 type: location
 loc_type: feature

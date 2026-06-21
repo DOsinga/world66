@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melk_-_Stift_(1).JPG
 latitude: 48.227207
 loc_type: city
 longitude: 15.336999
-score: 0.63
+score: 0.55
 title: Melk
 type: location
 ---

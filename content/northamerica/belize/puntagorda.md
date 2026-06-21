@@ -9,7 +9,7 @@ latitude: 16.1003
 longitude: -88.8079
 title: Punta Gorda
 type: location
-score: 0.47
+score: 0.41
 loc_type: city
 ---
 

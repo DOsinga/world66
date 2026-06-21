@@ -5,7 +5,7 @@ done:
 latitude: 46.49272
 loc_type: city
 longitude: -80.991211
-score: 0.39
+score: 0.33
 title: Sudbury
 type: location
 ---

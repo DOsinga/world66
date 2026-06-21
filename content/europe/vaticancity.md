@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatic
 latitude: 41.9029
 loc_type: country
 longitude: 12.4534
+score: 0.55
 title: Vatican City
 type: location
 ---

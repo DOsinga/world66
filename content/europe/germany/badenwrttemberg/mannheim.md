@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Sankt_Se
 latitude: 49.4875
 loc_type: city
 longitude: 8.466
-score: 0.46
+score: 0.39
 title: Mannheim
 type: location
 ---

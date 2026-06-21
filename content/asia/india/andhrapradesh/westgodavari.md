@@ -5,7 +5,7 @@ done:
 latitude: 16.6443
 loc_type: city
 longitude: 81.5885
-score: 0.27
+score: 0.26
 title: West Godavari
 type: location
 ---

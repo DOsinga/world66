@@ -1,0 +1,200 @@
+{
+  "round": 4521,
+  "timestamp": "2026-06-14T00:19:23",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ofu",
+      "path": "australiaandpacific/americansamoa/ofu",
+      "prior_score": 0.5567,
+      "prior_variance": 0.138287,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.2917,
+      "prior_variance": 0.092163,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.0671,
+      "prior_variance": 0.088635,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 1.0917,
+      "prior_variance": 0.09803,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.0616,
+      "prior_variance": 0.088868,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Taipa",
+      "path": "asia/china/taipa",
+      "prior_score": -0.7719,
+      "prior_variance": 0.101969,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Daegu",
+      "path": "asia/southkorea/dae_gu",
+      "prior_score": -0.1644,
+      "prior_variance": 0.095495,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.7559,
+      "prior_variance": 0.088695,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Tanum",
+      "path": "europe/sweden/tanum",
+      "prior_score": 0.6624,
+      "prior_variance": 0.084107,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -1.6018,
+      "prior_variance": 0.089972,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -1.8712,
+      "prior_variance": 0.094071,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.3987,
+      "prior_variance": 0.087145,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Esquel",
+      "path": "southamerica/argentina/esquel",
+      "prior_score": 0.8341,
+      "prior_variance": 0.092945,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Echuca",
+      "path": "australiaandpacific/australia/victoria/echuca",
+      "prior_score": 0.4177,
+      "prior_variance": 0.084081,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": -0.422,
+      "prior_variance": 0.098858,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Taxila",
+      "path": "asia/pakistan/taxila",
+      "prior_score": -0.5907,
+      "prior_variance": 0.110339,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -0.9595,
+      "prior_variance": 0.105409,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.296,
+      "prior_variance": 0.08789,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Zalantun",
+      "path": "asia/china/innermongolia/zalantun",
+      "prior_score": -3.0722,
+      "prior_variance": 0.10173,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Teluk Dalam",
+      "path": "asia/indonesia/nias/teleuk_dalam",
+      "prior_score": -3.256,
+      "prior_variance": 0.085825,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.2769,
+      "prior_variance": 0.089184,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Basingstoke",
+      "path": "europe/unitedkingdom/england/south_east/basingstoke",
+      "prior_score": -5.6813,
+      "prior_variance": 0.143683,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -6.7656,
+      "prior_variance": 0.144339,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Garowe",
+      "path": "africa/somalia/garowe",
+      "prior_score": -9.9117,
+      "prior_variance": 0.340877,
+      "prior_n": 14
+    }
+  ]
+}

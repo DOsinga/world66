@@ -5,7 +5,7 @@ done:
 latitude: 51.727036
 loc_type: city
 longitude: 36.192248
-score: 0.3
+score: 0.24
 title: Kursk
 type: location
 image: kursk.jpg

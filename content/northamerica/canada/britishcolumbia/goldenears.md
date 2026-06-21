@@ -5,7 +5,7 @@ done:
 latitude: 49.358
 loc_type: city
 longitude: -122.478
-score: 0.54
+score: 0.44
 title: Golden Ears
 type: location
 ---

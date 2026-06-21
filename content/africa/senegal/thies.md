@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gare_ferroviaire_de_Thi%C3
 latitude: 14.791461
 loc_type: city
 longitude: -16.925605
-score: 0.36
+score: 0.29
 title: Thiès
 type: location
 ---

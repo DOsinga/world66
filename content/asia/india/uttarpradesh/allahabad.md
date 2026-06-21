@@ -5,7 +5,7 @@ done:
 latitude: 25.4381
 loc_type: city
 longitude: 81.8338
-score: 0.39
+score: 0.38
 title: Allahabad
 type: location
 image: allahabad.jpg

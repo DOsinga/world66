@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/7521861232
 latitude: -13.709981
 loc_type: city
 longitude: -76.202979
-score: 0.43
+score: 0.36
 title: Pisco
 type: location
 ---

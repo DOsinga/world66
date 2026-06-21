@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2023-10-09_Drum_Tower_of_X
 latitude: 34.2658
 loc_type: city
 longitude: 108.9541
-score: 0.74
+score: 0.65
 title: Xi'an
 type: location
 ---

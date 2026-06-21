@@ -5,7 +5,7 @@ done:
 latitude: 11.7769
 loc_type: city
 longitude: -86.5128
-score: 0.35
+score: 0.29
 title: Masachapa
 type: location
 ---

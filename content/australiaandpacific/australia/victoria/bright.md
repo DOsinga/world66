@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bright,_Vic_autumn.jpg
 latitude: -36.7285
 loc_type: city
 longitude: 146.9608
-score: 0.54
+score: 0.47
 title: Bright
 type: location
 ---

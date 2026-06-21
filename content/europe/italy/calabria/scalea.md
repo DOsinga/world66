@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Scalea_centro.jpg
 latitude: 39.8144
 loc_type: city
 longitude: 15.7914
-score: 0.5
+score: 0.44
 title: Scalea
 type: location
 ---

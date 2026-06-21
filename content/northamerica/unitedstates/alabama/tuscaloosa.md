@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bama_Theatre_Tuscaloosa_Al
 latitude: 33.209561
 loc_type: city
 longitude: -87.567526
-score: 0.36
+score: 0.29
 title: Tuscaloosa
 type: location
 ---

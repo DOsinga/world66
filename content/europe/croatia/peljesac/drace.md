@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Drace.jpg
 latitude: 42.929683
 loc_type: city
 longitude: 17.448626
-score: 0.55
+score: 0.47
 title: Drače
 type: location
 ---

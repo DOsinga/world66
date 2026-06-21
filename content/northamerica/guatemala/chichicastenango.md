@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 15.1167
 longitude: -91.1333
+score: 0.52
 ---
 
 Chichicastenango is a highland Maya town in the Quiché department of Guatemala, best known for its twice-weekly market — one of the largest and most colourful indigenous markets in Central America, held every Thursday and Sunday in the streets and central plaza. Vendors spread out from the main square carrying hand-woven textiles, carved masks, pottery, and produce, and the smell of copal incense drifts through the stalls from dawn until afternoon.

@@ -1,0 +1,200 @@
+{
+  "round": 3016,
+  "timestamp": "2026-06-13T22:22:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 10.2226,
+      "prior_variance": 0.351467,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kruger National Park",
+      "path": "africa/southafrica/krugernationalpark",
+      "prior_score": 10.4465,
+      "prior_variance": 0.345141,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Bandhavgarh",
+      "path": "asia/india/madhyapradesh/bandhavgarh",
+      "prior_score": 2.0646,
+      "prior_variance": 0.144129,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Stoupa",
+      "path": "europe/greece/mani/stoupa",
+      "prior_score": 3.8238,
+      "prior_variance": 0.18011,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 1.0756,
+      "prior_variance": 0.133569,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Vila do Conde",
+      "path": "europe/portugal/viladoconde",
+      "prior_score": 1.2099,
+      "prior_variance": 0.11693,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.2851,
+      "prior_variance": 0.154713,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Odelouca",
+      "path": "europe/portugal/algarve/odelouca",
+      "prior_score": -1.946,
+      "prior_variance": 0.181243,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": -0.3813,
+      "prior_variance": 0.155391,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "\u00d6rebro",
+      "path": "europe/sweden/rebro",
+      "prior_score": 0.2647,
+      "prior_variance": 0.133382,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.3985,
+      "prior_variance": 0.131393,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Wageningen",
+      "path": "europe/netherlands/wageningen",
+      "prior_score": -2.5633,
+      "prior_variance": 0.142386,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Latina",
+      "path": "europe/italy/lazio/latina",
+      "prior_score": -3.018,
+      "prior_variance": 0.176096,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Nottingham",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/nottingham",
+      "prior_score": 0.2169,
+      "prior_variance": 0.149695,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Soignies",
+      "path": "europe/belgium/soignies",
+      "prior_score": -2.5819,
+      "prior_variance": 0.15797,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lower Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt",
+      "prior_score": -3.1424,
+      "prior_variance": 0.141896,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Tehuacan",
+      "path": "northamerica/mexico/tehuacan",
+      "prior_score": -3.2963,
+      "prior_variance": 0.159625,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Patiala",
+      "path": "asia/india/punjab/patiala",
+      "prior_score": -2.5272,
+      "prior_variance": 0.141779,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cuttack",
+      "path": "asia/india/orissa/cuttack",
+      "prior_score": -3.168,
+      "prior_variance": 0.139234,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Novosibirsk",
+      "path": "europe/russia/novosibirsk",
+      "prior_score": -4.5227,
+      "prior_variance": 0.19773,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.5074,
+      "prior_variance": 0.146677,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -5.2134,
+      "prior_variance": 0.164751,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_score": -7.3653,
+      "prior_variance": 0.299047,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Morwell",
+      "path": "australiaandpacific/australia/victoria/morwell",
+      "prior_score": -5.7979,
+      "prior_variance": 0.173402,
+      "prior_n": 9
+    }
+  ]
+}

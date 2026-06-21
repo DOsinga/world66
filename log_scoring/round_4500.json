@@ -1,0 +1,200 @@
+{
+  "round": 4500,
+  "timestamp": "2026-06-14T00:17:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Meteora",
+      "path": "europe/greece/meteora",
+      "prior_score": 10.8397,
+      "prior_variance": 0.285114,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Miami Beach",
+      "path": "northamerica/unitedstates/florida/miamibeach",
+      "prior_score": 5.8672,
+      "prior_variance": 0.113869,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 4.7069,
+      "prior_variance": 0.109362,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Aspen",
+      "path": "northamerica/unitedstates/colorado/aspen",
+      "prior_score": 6.5201,
+      "prior_variance": 0.118248,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Mandalay",
+      "path": "asia/myanmar/mandalay",
+      "prior_score": 2.7296,
+      "prior_variance": 0.089769,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 3.713,
+      "prior_variance": 0.101653,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Napier",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/napier",
+      "prior_score": 3.1814,
+      "prior_variance": 0.092815,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Poros",
+      "path": "europe/greece/poros",
+      "prior_score": 3.9947,
+      "prior_variance": 0.094637,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 1.9541,
+      "prior_variance": 0.099907,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Ensenada",
+      "path": "northamerica/mexico/ensenada",
+      "prior_score": 2.1232,
+      "prior_variance": 0.09402,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Patras",
+      "path": "europe/greece/patras",
+      "prior_score": 1.6285,
+      "prior_variance": 0.083649,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.3033,
+      "prior_variance": 0.089946,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -1.8221,
+      "prior_variance": 0.092834,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Chishui",
+      "path": "asia/china/guizhou/chishui",
+      "prior_score": -0.8927,
+      "prior_variance": 0.098737,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.6858,
+      "prior_variance": 0.086409,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.232,
+      "prior_variance": 0.094754,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.599,
+      "prior_variance": 0.098329,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Vijayawada",
+      "path": "asia/india/andhrapradesh/vijayawada",
+      "prior_score": -3.2985,
+      "prior_variance": 0.09067,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.8776,
+      "prior_variance": 0.112821,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -2.272,
+      "prior_variance": 0.099794,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Ballincollig",
+      "path": "europe/ireland/ballincollig",
+      "prior_score": -3.3651,
+      "prior_variance": 0.089603,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Manzini",
+      "path": "africa/swaziland/manzini",
+      "prior_score": -3.7008,
+      "prior_variance": 0.089583,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Hartlepool",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/hartlepool",
+      "prior_score": -4.3325,
+      "prior_variance": 0.094218,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -4.0019,
+      "prior_variance": 0.101618,
+      "prior_n": 15
+    }
+  ]
+}

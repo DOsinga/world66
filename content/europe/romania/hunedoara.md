@@ -5,7 +5,7 @@ done:
 latitude: 45.7954
 loc_type: city
 longitude: 22.9452
-score: 0.48
+score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Hunedoara
 - https://en.wikipedia.org/wiki/Corvin_Castle

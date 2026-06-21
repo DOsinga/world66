@@ -4,13 +4,13 @@ type: location
 latitude: -21.16636
 longitude: 27.502515
 todo_location_cleanup: done
-score: 0.34
+score: 0.28
 loc_type: city
 done:
   location_enrich: '2026-06-01'
 sources:
-  - https://en.wikipedia.org/wiki/Francistown
-  - https://en.wikipedia.org/wiki/Supa_Ngwao_Museum
+- https://en.wikipedia.org/wiki/Francistown
+- https://en.wikipedia.org/wiki/Supa_Ngwao_Museum
 ---
 
 Francistown is Botswana's second-largest city and its oldest urban settlement, sitting over 400 km north of [Gaborone](/africa/botswana/gaborone) in the country's northeast corner. The city owes its existence to gold: in the 1860s the Tati Concession attracted prospectors in what was one of the first gold rushes in southern Africa, predating Johannesburg by two decades. It was named after Daniel Francis, who held the original mining concession, and the bones of that mining-town past still show in the older parts of the city centre.

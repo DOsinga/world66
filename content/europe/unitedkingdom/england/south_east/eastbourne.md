@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/69135870@N00/54533722662
 latitude: 50.766437
 loc_type: city
 longitude: 0.278155
-score: 0.49
+score: 0.43
 title: Eastbourne
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fantasy_Motel--Wildwood,_N
 latitude: 38.9918
 loc_type: city
 longitude: -74.8148
-score: 0.46
+score: 0.38
 title: Wildwood
 type: location
 ---

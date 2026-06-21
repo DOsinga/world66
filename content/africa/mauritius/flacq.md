@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146871317@N06/29427100945
 latitude: -20.221731
 loc_type: city
 longitude: 57.722325
-score: 0.55
+score: 0.45
 title: Flacq
 type: location
 ---

@@ -14,6 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Kasane
 title: Chobe National Park
 type: location
+score: 0.61
 ---
 
 Chobe National Park is Botswana's first national park and one of Africa's finest wildlife areas. It covers nearly 11,000 square kilometres of northern Botswana and encompasses several distinct ecosystems: the Chobe River floodplain in the north, the Savuti marsh in the centre, and the remote Linyanti wetlands in the west. The park has the highest concentration of elephants in Africa — estimates range from 50,000 to over 120,000, depending on the season. In the late afternoon along the [Chobe River waterfront](/africa/botswana/chobenationalpark/chobe_riverfront), seeing hundreds of elephants drinking simultaneously while hippos yawn in the shallows and fish eagles cry overhead is one of the genuinely overwhelming wildlife spectacles on the continent.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laulasmaa_-_panoramio.jpg
 latitude: 59.370955
 loc_type: city
 longitude: 24.24225
-score: 0.44
+score: 0.34
 title: Laulasmaa
 type: location
 ---

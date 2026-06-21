@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21446942@N00/51419236003
 latitude: 32.6497
 loc_type: city
 longitude: -16.9087
-score: 0.71
+score: 0.59
 title: Funchal
 type: location
 ---

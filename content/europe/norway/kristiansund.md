@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kristiansund_panorama_harb
 latitude: 63.1109
 loc_type: city
 longitude: 7.7281
-score: 0.52
+score: 0.46
 title: Kristiansund
 type: location
 ---

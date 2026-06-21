@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Key_Largo,_FL_33037,_USA_-
 latitude: 25.0861
 loc_type: city
 longitude: -80.4476
-score: 0.63
+score: 0.5
 title: Key Largo
 type: location
 ---

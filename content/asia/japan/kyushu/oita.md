@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oita_Station_%E5%A4%A7%E5%
 latitude: 33.239386
 loc_type: city
 longitude: 131.609652
-score: 0.57
+score: 0.43
 title: Oita
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2475,
+  "timestamp": "2026-06-13T21:45:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 9.6435,
+      "prior_variance": 0.392452,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 8.0216,
+      "prior_variance": 0.286351,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Rhodes City",
+      "path": "europe/greece/rhodes/rhodescity",
+      "prior_score": 8.9736,
+      "prior_variance": 0.389592,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Saint-R\u00e9my-de-Provence",
+      "path": "europe/france/midi/provence/saint_remy_de_provence",
+      "prior_score": 6.8822,
+      "prior_variance": 0.234151,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 2.2469,
+      "prior_variance": 0.205246,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 5.1245,
+      "prior_variance": 0.216428,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Avatoru",
+      "path": "australiaandpacific/frenchpolynesia/rangiroa/avatoru",
+      "prior_score": 5.4129,
+      "prior_variance": 0.182472,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Rimini",
+      "path": "europe/italy/emiliaromagna/rimini",
+      "prior_score": 4.928,
+      "prior_variance": 0.187641,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "La Spezia",
+      "path": "europe/italy/tuscany/lunigiana/la_spezia",
+      "prior_score": 2.5542,
+      "prior_variance": 0.158386,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Saint-Louis",
+      "path": "africa/senegal/saintlouis",
+      "prior_score": 1.7662,
+      "prior_variance": 0.175791,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Jaca",
+      "path": "europe/spain/aragon/jaca",
+      "prior_score": 2.4043,
+      "prior_variance": 0.160911,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 1.055,
+      "prior_variance": 0.187718,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Trang",
+      "path": "asia/thailand/trang",
+      "prior_score": 2.2989,
+      "prior_variance": 0.208177,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.3294,
+      "prior_variance": 0.178451,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.3224,
+      "prior_variance": 0.19616,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Tralee",
+      "path": "europe/ireland/tralee",
+      "prior_score": 0.6444,
+      "prior_variance": 0.1784,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 1.878,
+      "prior_variance": 0.166595,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Tandil",
+      "path": "southamerica/argentina/tandil",
+      "prior_score": 0.2628,
+      "prior_variance": 0.168364,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 1.9383,
+      "prior_variance": 0.181108,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.6792,
+      "prior_variance": 0.166126,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": -0.1084,
+      "prior_variance": 0.165778,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.7308,
+      "prior_variance": 0.177086,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Diano San Pietro",
+      "path": "europe/italy/liguria/dianosanpietro",
+      "prior_score": -1.473,
+      "prior_variance": 0.171014,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "M\u00f3r",
+      "path": "europe/hungary/mor",
+      "prior_score": -4.6938,
+      "prior_variance": 0.234557,
+      "prior_n": 7
+    }
+  ]
+}

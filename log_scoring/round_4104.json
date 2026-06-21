@@ -1,0 +1,200 @@
+{
+  "round": 4104,
+  "timestamp": "2026-06-13T23:43:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bamiyan",
+      "path": "asia/afghanistan/bamian",
+      "prior_score": -1.5047,
+      "prior_variance": 0.121266,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Djenn\u00e9",
+      "path": "africa/mali/djenne",
+      "prior_score": 0.5668,
+      "prior_variance": 0.113267,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Danakil Depression",
+      "path": "africa/eritrea/danakildepression",
+      "prior_score": -1.693,
+      "prior_variance": 0.144264,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Wayanad",
+      "path": "asia/india/kerala/wayanad",
+      "prior_score": 2.5555,
+      "prior_variance": 0.12651,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Ouirgane",
+      "path": "africa/morocco/ouirgane",
+      "prior_score": 0.829,
+      "prior_variance": 0.105114,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "El Castillo",
+      "path": "northamerica/nicaragua/elcastillo",
+      "prior_score": -0.1313,
+      "prior_variance": 0.112603,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Kerkennah Islands",
+      "path": "africa/tunisia/kerkennahislands",
+      "prior_score": -0.8001,
+      "prior_variance": 0.099006,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.0888,
+      "prior_variance": 0.09354,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Thuan An Beach",
+      "path": "asia/vietnam/hue/aroundhue/thuananbeach",
+      "prior_score": -0.1486,
+      "prior_variance": 0.094891,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Karwar",
+      "path": "asia/india/karnataka/karwar_1",
+      "prior_score": -0.316,
+      "prior_variance": 0.091624,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -2.7052,
+      "prior_variance": 0.111144,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -2.2909,
+      "prior_variance": 0.120994,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mazag\u00f3n",
+      "path": "europe/spain/andalucia/mazagon",
+      "prior_score": -0.4699,
+      "prior_variance": 0.090714,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.4923,
+      "prior_variance": 0.100867,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Surat Thani",
+      "path": "asia/thailand/surat_thani",
+      "prior_score": 0.0814,
+      "prior_variance": 0.109741,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.381,
+      "prior_variance": 0.092454,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Teramo",
+      "path": "europe/italy/abruzzo/teramo",
+      "prior_score": -0.211,
+      "prior_variance": 0.09915,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -0.8541,
+      "prior_variance": 0.111518,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Pittsburgh",
+      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
+      "prior_score": 0.9288,
+      "prior_variance": 0.13285,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Bahia De Kino",
+      "path": "northamerica/mexico/bahiadekino",
+      "prior_score": -2.0716,
+      "prior_variance": 0.112186,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.7947,
+      "prior_variance": 0.095642,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Cirebon",
+      "path": "asia/indonesia/cirebon",
+      "prior_score": -1.8237,
+      "prior_variance": 0.098007,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Bowling Green",
+      "path": "northamerica/unitedstates/kentucky/bowlinggreen",
+      "prior_score": -2.6424,
+      "prior_variance": 0.108402,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Nukus",
+      "path": "asia/uzbekistan/nukus",
+      "prior_score": -4.7387,
+      "prior_variance": 0.139792,
+      "prior_n": 13
+    }
+  ]
+}

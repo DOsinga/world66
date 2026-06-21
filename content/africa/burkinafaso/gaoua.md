@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Scene_-_Gaoua_-_Bur
 latitude: 10.3303
 loc_type: city
 longitude: -3.1796
-score: 0.31
+score: 0.24
 title: Gaoua
 type: location
 ---

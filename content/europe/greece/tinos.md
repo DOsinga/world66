@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tinos_panagia_evangelistri
 latitude: 37.601713
 loc_type: city
 longitude: 25.154022
-score: 0.61
+score: 0.56
 title: Tinos
 type: location
 ---

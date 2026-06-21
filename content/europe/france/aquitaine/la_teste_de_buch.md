@@ -5,7 +5,7 @@ done:
 latitude: 44.631694
 loc_type: city
 longitude: -1.149132
-score: 0.52
+score: 0.47
 title: La Teste de Buch
 type: location
 ---

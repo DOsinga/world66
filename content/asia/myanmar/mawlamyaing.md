@@ -5,7 +5,7 @@ done:
 latitude: 16.490803
 loc_type: city
 longitude: 97.628483
-score: 0.41
+score: 0.34
 title: Mawlamyaing
 type: location
 ---

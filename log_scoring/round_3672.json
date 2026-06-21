@@ -1,0 +1,200 @@
+{
+  "round": 3672,
+  "timestamp": "2026-06-13T23:11:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pompeii",
+      "path": "europe/italy/campania/pompeii",
+      "prior_score": 9.8311,
+      "prior_variance": 0.194592,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 10.3494,
+      "prior_variance": 0.23438,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassonne",
+      "prior_score": 8.209,
+      "prior_variance": 0.152001,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 4.5921,
+      "prior_variance": 0.178586,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Wakatobi",
+      "path": "asia/indonesia/wakatobi",
+      "prior_score": 2.8445,
+      "prior_variance": 0.130149,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "R\u00edas Baixas",
+      "path": "europe/spain/galicia/ras_baixas",
+      "prior_score": 3.2612,
+      "prior_variance": 0.125307,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Kinsale",
+      "path": "europe/ireland/kinsale",
+      "prior_score": 4.1951,
+      "prior_variance": 0.116001,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Mellieha",
+      "path": "europe/malta/mellieha",
+      "prior_score": 3.7346,
+      "prior_variance": 0.12901,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Teguise",
+      "path": "europe/spain/canaryislands/lanzarote/teguise",
+      "prior_score": 3.1831,
+      "prior_variance": 0.11554,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Abaco",
+      "path": "northamerica/bahamas/abaco",
+      "prior_score": 4.3438,
+      "prior_variance": 0.123147,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Eilat",
+      "path": "asia/israel/eliat",
+      "prior_score": 3.6433,
+      "prior_variance": 0.129829,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Beirut",
+      "path": "asia/lebanon/beirut",
+      "prior_score": 1.9388,
+      "prior_variance": 0.140483,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 3.9188,
+      "prior_variance": 0.126716,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.6452,
+      "prior_variance": 0.139463,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.5153,
+      "prior_variance": 0.121731,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Yangon",
+      "path": "asia/myanmar/yangon",
+      "prior_score": 2.1193,
+      "prior_variance": 0.130061,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": 0.0312,
+      "prior_variance": 0.117483,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 1.8427,
+      "prior_variance": 0.113354,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Joao Pessoa",
+      "path": "southamerica/brazil/joaopessoa",
+      "prior_score": 0.3465,
+      "prior_variance": 0.121132,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Liberia",
+      "path": "northamerica/costarica/liberia",
+      "prior_score": -0.3902,
+      "prior_variance": 0.116519,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Newry",
+      "path": "europe/unitedkingdom/northernireland/newry",
+      "prior_score": -1.8215,
+      "prior_variance": 0.107835,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.6805,
+      "prior_variance": 0.114321,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Buz\u0103u",
+      "path": "europe/romania/buzau",
+      "prior_score": -3.008,
+      "prior_variance": 0.104932,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Largo",
+      "path": "northamerica/unitedstates/florida/largo",
+      "prior_score": -3.923,
+      "prior_variance": 0.130867,
+      "prior_n": 12
+    }
+  ]
+}

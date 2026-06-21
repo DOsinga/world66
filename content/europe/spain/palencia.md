@@ -5,7 +5,7 @@ done:
 latitude: 42.409632
 loc_type: city
 longitude: -4.6161
-score: 0.5
+score: 0.4
 title: Palencia
 type: location
 ---

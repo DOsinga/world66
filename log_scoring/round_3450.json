@@ -1,0 +1,200 @@
+{
+  "round": 3450,
+  "timestamp": "2026-06-13T22:54:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Barcelona",
+      "path": "europe/spain/catalonia/barcelona",
+      "prior_score": 16.3034,
+      "prior_variance": 1.40679,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 5.2432,
+      "prior_variance": 0.155106,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Patmos",
+      "path": "europe/greece/patmos",
+      "prior_score": 6.0005,
+      "prior_variance": 0.142075,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Dali",
+      "path": "asia/china/yunnanprovince/dali",
+      "prior_score": 4.779,
+      "prior_variance": 0.15616,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Chapada Diamantina",
+      "path": "southamerica/brazil/chapadadiamantina",
+      "prior_score": 4.5259,
+      "prior_variance": 0.13389,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 5.324,
+      "prior_variance": 0.13201,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 3.8725,
+      "prior_variance": 0.138616,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 2.4729,
+      "prior_variance": 0.115672,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Silves",
+      "path": "europe/portugal/silves",
+      "prior_score": 2.4559,
+      "prior_variance": 0.132611,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.1302,
+      "prior_variance": 0.131514,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Pietra Ligure",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pietraligure",
+      "prior_score": 2.0206,
+      "prior_variance": 0.12279,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 4.3452,
+      "prior_variance": 0.141828,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.2367,
+      "prior_variance": 0.118353,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tonder",
+      "path": "europe/denmark/tonder",
+      "prior_score": -1.5653,
+      "prior_variance": 0.128052,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Larissa",
+      "path": "europe/greece/larissa",
+      "prior_score": -1.7328,
+      "prior_variance": 0.122736,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.6428,
+      "prior_variance": 0.121081,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.3599,
+      "prior_variance": 0.122985,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lahaska",
+      "path": "northamerica/unitedstates/pennsylvania/bucks_county/lahaska",
+      "prior_score": -1.8567,
+      "prior_variance": 0.120535,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Catanzaro",
+      "path": "europe/italy/calabria/catanzaro",
+      "prior_score": -1.3024,
+      "prior_variance": 0.134611,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Deer Lodge",
+      "path": "northamerica/unitedstates/montana/deer_lodge_1",
+      "prior_score": -4.0426,
+      "prior_variance": 0.157075,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Zufre",
+      "path": "europe/spain/andalucia/zufre",
+      "prior_score": -2.1322,
+      "prior_variance": 0.11552,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": -2.5764,
+      "prior_variance": 0.152127,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Wadi Matkhandoush",
+      "path": "africa/libya/idehan_murzuq_mur",
+      "prior_score": -6.8339,
+      "prior_variance": 0.184492,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -1.9516,
+      "prior_variance": 0.176031,
+      "prior_n": 11
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Aransas,_Texas.jpg
 latitude: 27.833217
 loc_type: city
 longitude: -97.061832
-score: 0.49
+score: 0.43
 title: Port Aransas
 type: location
 ---

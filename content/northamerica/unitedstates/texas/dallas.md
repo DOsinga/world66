@@ -4,7 +4,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 32.7767
 longitude: -96.797
-score: 0.45
+score: 0.39
 title: Dallas
 type: location
 loc_type: city

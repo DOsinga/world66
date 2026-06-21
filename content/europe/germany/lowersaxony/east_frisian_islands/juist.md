@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Juist_(vie
 latitude: 53.678448
 loc_type: city
 longitude: 6.995608
-score: 0.48
+score: 0.4
 title: Juist
 type: location
 ---

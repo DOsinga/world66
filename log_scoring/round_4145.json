@@ -1,0 +1,200 @@
+{
+  "round": 4145,
+  "timestamp": "2026-06-13T23:47:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.7352,
+      "prior_variance": 0.096624,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Calais",
+      "path": "europe/france/nord/calais",
+      "prior_score": -2.3451,
+      "prior_variance": 0.100355,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Mont-de-Marsan",
+      "path": "europe/france/aquitaine/montdemarsan",
+      "prior_score": -1.6001,
+      "prior_variance": 0.112906,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -3.0233,
+      "prior_variance": 0.115613,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.2546,
+      "prior_variance": 0.089379,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Jigongshan",
+      "path": "asia/china/henan_province/jigongshan",
+      "prior_score": -2.0402,
+      "prior_variance": 0.112291,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Winnipeg",
+      "path": "northamerica/canada/manitoba/winnipeg",
+      "prior_score": -1.7735,
+      "prior_variance": 0.092156,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Frankfort",
+      "path": "northamerica/unitedstates/kentucky/frankfort",
+      "prior_score": -2.6088,
+      "prior_variance": 0.116105,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -2.7539,
+      "prior_variance": 0.126194,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.0304,
+      "prior_variance": 0.10004,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Isla la Blanquilla",
+      "path": "southamerica/venezuela/isla_la_blanquilla",
+      "prior_score": -3.2382,
+      "prior_variance": 0.130224,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Ghardaia",
+      "path": "africa/algeria/ghardaia",
+      "prior_score": -1.1468,
+      "prior_variance": 0.123081,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -4.3948,
+      "prior_variance": 0.156905,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Carlton",
+      "path": "australiaandpacific/australia/victoria/carlton",
+      "prior_score": -2.0746,
+      "prior_variance": 0.111918,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Dieppe",
+      "path": "northamerica/canada/newbrunswick/dieppe",
+      "prior_score": -3.9238,
+      "prior_variance": 0.100688,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Welland",
+      "path": "northamerica/canada/ontario/welland",
+      "prior_score": -4.2752,
+      "prior_variance": 0.116231,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Hoshangabad",
+      "path": "asia/india/madhyapradesh/hoshangabad",
+      "prior_score": -4.9942,
+      "prior_variance": 0.116259,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.0814,
+      "prior_variance": 0.126636,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Arnun",
+      "path": "asia/lebanon/arnun",
+      "prior_score": -6.4171,
+      "prior_variance": 0.159884,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Santa Rosa",
+      "path": "southamerica/peru/northern_pacific_t/jan/santa_rosa",
+      "prior_score": -5.9839,
+      "prior_variance": 0.102884,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Alturas",
+      "path": "northamerica/unitedstates/california/shastacascade/alturas",
+      "prior_score": -5.6422,
+      "prior_variance": 0.141819,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Fort Scott",
+      "path": "northamerica/unitedstates/kansas/fortscott",
+      "prior_score": -4.8413,
+      "prior_variance": 0.111816,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Wellington",
+      "path": "northamerica/unitedstates/kansas/wellington",
+      "prior_score": -6.978,
+      "prior_variance": 0.16876,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Pennsville",
+      "path": "northamerica/unitedstates/newjersey/pennsville",
+      "prior_score": -5.579,
+      "prior_variance": 0.139383,
+      "prior_n": 13
+    }
+  ]
+}

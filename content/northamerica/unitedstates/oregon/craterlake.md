@@ -5,7 +5,7 @@ latitude: 42.941523
 longitude: -122.098771
 title: Crater Lake
 type: location
-score: 0.67
+score: 0.58
 loc_type: feature
 ---
 

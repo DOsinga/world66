@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maroochydore.jpg
 latitude: -26.6557
 loc_type: city
 longitude: 153.0947
-score: 0.53
+score: 0.43
 title: Maroochydore
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 8.304002
 longitude: 13.892703
 title: Benoue Park
 type: location
-score: 0.37
+score: 0.34
 loc_type: feature
 ---
 

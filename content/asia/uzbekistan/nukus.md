@@ -5,7 +5,7 @@ done:
 latitude: 42.460023
 loc_type: city
 longitude: 59.61766
-score: 0.32
+score: 0.28
 title: Nukus
 type: location
 ---

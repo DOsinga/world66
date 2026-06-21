@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skats_no_Vidzemes_koncertz
 latitude: 57.313171
 loc_type: city
 longitude: 25.274855
-score: 0.51
+score: 0.45
 title: Cesis
 type: location
 ---

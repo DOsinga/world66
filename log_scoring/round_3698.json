@@ -1,0 +1,200 @@
+{
+  "round": 3698,
+  "timestamp": "2026-06-13T23:13:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": 12.7629,
+      "prior_variance": 0.38564,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Chichen Itza",
+      "path": "northamerica/mexico/yucatan/chichen_itza",
+      "prior_score": 9.076,
+      "prior_variance": 0.23607,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 7.6741,
+      "prior_variance": 0.316553,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Phu Quoc",
+      "path": "asia/vietnam/phu_quoc",
+      "prior_score": 5.5544,
+      "prior_variance": 0.148182,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Wanaka",
+      "path": "australiaandpacific/newzealand/south_island/otago/wanaka",
+      "prior_score": 6.9385,
+      "prior_variance": 0.175566,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Courchevel",
+      "path": "europe/france/alpes/courchevel",
+      "prior_score": 5.8372,
+      "prior_variance": 0.150641,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Valparaiso",
+      "path": "southamerica/chile/valparaiso",
+      "prior_score": 5.047,
+      "prior_variance": 0.120087,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Ouarzazate",
+      "path": "africa/morocco/ouarzazate",
+      "prior_score": 3.745,
+      "prior_variance": 0.136924,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Chocolate Hills",
+      "path": "asia/philippines/bohol/chocolatehills",
+      "prior_score": 5.8638,
+      "prior_variance": 0.122537,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bukit Lawang",
+      "path": "asia/indonesia/sumatra/bukitlawang",
+      "prior_score": 3.341,
+      "prior_variance": 0.11787,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Qinghai Lake",
+      "path": "asia/china/qinghai/qinghai-lake",
+      "prior_score": 2.5912,
+      "prior_variance": 0.125553,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Stresa",
+      "path": "europe/italy/piemonte/stresa",
+      "prior_score": 5.8375,
+      "prior_variance": 0.143053,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Trier",
+      "path": "europe/germany/rhinelandpalatinate/trier",
+      "prior_score": 4.3431,
+      "prior_variance": 0.139455,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Gubbio",
+      "path": "europe/italy/umbria/gubbio",
+      "prior_score": 3.8166,
+      "prior_variance": 0.131618,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Consuegra",
+      "path": "europe/spain/la_mancha/consuegra",
+      "prior_score": 2.4799,
+      "prior_variance": 0.113212,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 1.7227,
+      "prior_variance": 0.125366,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Chipiona",
+      "path": "europe/spain/andalucia/chipiona",
+      "prior_score": 1.051,
+      "prior_variance": 0.110146,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 1.1241,
+      "prior_variance": 0.10232,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Pella",
+      "path": "europe/greece/pella",
+      "prior_score": 0.5548,
+      "prior_variance": 0.099727,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Silkeborg",
+      "path": "europe/denmark/silkeborg",
+      "prior_score": 1.1269,
+      "prior_variance": 0.118049,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "De Hoge Veluwe",
+      "path": "europe/netherlands/dehogeveluwe",
+      "prior_score": 2.8627,
+      "prior_variance": 0.10857,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Baltrum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/baltrum",
+      "prior_score": -0.3422,
+      "prior_variance": 0.123007,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.304,
+      "prior_variance": 0.113842,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Thatta",
+      "path": "asia/pakistan/thatta",
+      "prior_score": -2.662,
+      "prior_variance": 0.119065,
+      "prior_n": 12
+    }
+  ]
+}

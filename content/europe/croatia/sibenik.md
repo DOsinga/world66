@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:240529_St_Nicholas_Fortres
 latitude: 43.7341
 loc_type: city
 longitude: 15.8945
-score: 0.68
+score: 0.58
 title: Sibenik
 type: location
 ---

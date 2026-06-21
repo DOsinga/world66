@@ -15,7 +15,7 @@ quick_facts:
   Great Barrier Reef Length: 2,300 km
   Indigenous Culture: 65,000+ years old
   Population: 27 million
-score: 0.93
+score: 0.90
 title: Australia
 type: location
 ---

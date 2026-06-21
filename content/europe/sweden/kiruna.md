@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kiruna_kyrka_2011.jpg
 latitude: 67.8558
 loc_type: city
 longitude: 20.2253
-score: 0.55
+score: 0.49
 sources:
 - https://en.wikipedia.org/wiki/Kiruna
 - https://en.wikipedia.org/wiki/Kiruna_mine

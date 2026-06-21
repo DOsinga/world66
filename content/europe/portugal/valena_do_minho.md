@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_de_Valen%C3%A7a_de
 latitude: 42.027305
 loc_type: city
 longitude: -8.64042
-score: 0.51
+score: 0.45
 title: Valença do Minho
 type: location
 ---

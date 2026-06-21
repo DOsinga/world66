@@ -6,7 +6,7 @@ done:
 latitude: 7.573
 loc_type: city
 longitude: 99.042
-score: 0.67
+score: 0.6
 title: Koh Lanta
 type: location
 image: kohlanta.jpg

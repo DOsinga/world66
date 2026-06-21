@@ -5,7 +5,7 @@ done:
 latitude: 41.2564
 loc_type: city
 longitude: 46.8006
-score: 0.34
+score: 0.28
 sources:
 - https://en.wikipedia.org/wiki/Qakh_(city)
 - https://en.wikivoyage.org/wiki/Qax

@@ -4,7 +4,7 @@ done:
 latitude: 52.161594
 loc_type: city
 longitude: 22.281253
-score: 0.33
+score: 0.3
 title: Siedlce
 type: location
 image: siedlce.jpg

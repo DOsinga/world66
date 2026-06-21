@@ -1,4 +1,5 @@
 ---
+score: 0.47
 title: Palestinian Authority
 type: location
 loc_type: country

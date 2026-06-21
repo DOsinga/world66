@@ -5,7 +5,7 @@ done:
 latitude: 35.325
 loc_type: city
 longitude: -108.4878
-score: 0.27
+score: 0.2
 title: Ramah
 type: location
 image: ramah.jpg

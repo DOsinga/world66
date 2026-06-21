@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg
 latitude: -26.497644
 loc_type: city
 longitude: 31.375082
-score: 0.39
+score: 0.31
 title: Manzini
 type: location
 ---

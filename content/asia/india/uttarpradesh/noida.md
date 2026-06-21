@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.
 latitude: 28.5706
 loc_type: city
 longitude: 77.3272
-score: 0.27
+score: 0.24
 title: Noida
 type: location
 ---

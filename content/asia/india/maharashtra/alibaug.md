@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alibaug_Beach.jpg
 latitude: 18.649843
 loc_type: city
 longitude: 72.876547
-score: 0.44
+score: 0.38
 title: Alibaug
 type: location
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 44.3472
 loc_type: city
 longitude: 8.1647
-score: 0.42
+score: 0.37
 title: Roccavignale
 todo_location_cleanup: done
 type: location

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DeTianPuBu.jpg
 latitude: 22.856111
 loc_type: feature
 longitude: 106.722222
-score: 0.55
+score: 0.51
 title: Detian Waterfall
 type: location
 ---

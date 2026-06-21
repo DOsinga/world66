@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Penang_Malaysia-_Cheong-Fa
 latitude: 5.406501
 loc_type: city
 longitude: 100.255908
-score: 0.72
+score: 0.62
 title: Penang
 type: location
 ---

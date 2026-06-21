@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lord_Shiva_statue_at_Murud
 latitude: 14.094361
 loc_type: city
 longitude: 74.482261
-score: 0.51
+score: 0.44
 title: Murudeshwar
 type: location
 ---

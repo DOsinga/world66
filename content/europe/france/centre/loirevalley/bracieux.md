@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bracieux_halle.jpg
 latitude: 47.548913
 loc_type: city
 longitude: 1.542704
-score: 0.5
+score: 0.43
 title: Bracieux
 type: location
 ---

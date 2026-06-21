@@ -1,0 +1,200 @@
+{
+  "round": 3534,
+  "timestamp": "2026-06-13T23:00:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Calgary",
+      "path": "northamerica/canada/alberta/calgary",
+      "prior_score": 0.8138,
+      "prior_variance": 0.117553,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Chamdo",
+      "path": "asia/china/tibet/chamdo",
+      "prior_score": -0.4549,
+      "prior_variance": 0.111729,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 2.0005,
+      "prior_variance": 0.121851,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Kurunegala",
+      "path": "asia/srilanka/kurunegala",
+      "prior_score": -0.8186,
+      "prior_variance": 0.115162,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Berck sur Mer",
+      "path": "europe/france/nord/bercksurmer",
+      "prior_score": -0.9357,
+      "prior_variance": 0.112919,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Kendal",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/kendal",
+      "prior_score": -1.2139,
+      "prior_variance": 0.124971,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Cortez",
+      "path": "northamerica/unitedstates/colorado/cortez",
+      "prior_score": -1.4173,
+      "prior_variance": 0.109955,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.6429,
+      "prior_variance": 0.138536,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Arlington",
+      "path": "northamerica/unitedstates/texas/arlington",
+      "prior_score": -4.0583,
+      "prior_variance": 0.134324,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Imbituba",
+      "path": "southamerica/brazil/imbituba",
+      "prior_score": -1.758,
+      "prior_variance": 0.126796,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Bellevue",
+      "path": "northamerica/unitedstates/washington/bellevue",
+      "prior_score": -2.3524,
+      "prior_variance": 0.116519,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Souris",
+      "path": "northamerica/canada/princeedwardisland/souris",
+      "prior_score": -2.8853,
+      "prior_variance": 0.116664,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Mohe",
+      "path": "asia/china/heilongjiang/mohe",
+      "prior_score": -2.0305,
+      "prior_variance": 0.142039,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -1.7205,
+      "prior_variance": 0.093022,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Mota del Cuervo",
+      "path": "europe/spain/la_mancha/mota_del_cuervo",
+      "prior_score": -1.4172,
+      "prior_variance": 0.104714,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Contursi Terme",
+      "path": "europe/italy/campania/contursi_terme",
+      "prior_score": -2.6545,
+      "prior_variance": 0.143165,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Arwad Island",
+      "path": "asia/syria/arwadisland",
+      "prior_score": -3.7687,
+      "prior_variance": 0.169006,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Tell City",
+      "path": "northamerica/unitedstates/indiana/tell_city",
+      "prior_score": -5.4419,
+      "prior_variance": 0.166152,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -5.7522,
+      "prior_variance": 0.152525,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Datil",
+      "path": "northamerica/unitedstates/newmexico/datil",
+      "prior_score": -6.4,
+      "prior_variance": 0.220539,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Khan Tengri",
+      "path": "asia/kazakhstan/khan_tengri",
+      "prior_score": -3.4355,
+      "prior_variance": 0.237518,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -7.7996,
+      "prior_variance": 0.256121,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Al Qatrun",
+      "path": "africa/libya/alqatrun",
+      "prior_score": -9.794,
+      "prior_variance": 0.329403,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Tikrit",
+      "path": "asia/iraq/tikrit",
+      "prior_score": -9.2616,
+      "prior_variance": 0.262198,
+      "prior_n": 11
+    }
+  ]
+}

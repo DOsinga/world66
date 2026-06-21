@@ -1,0 +1,200 @@
+{
+  "round": 4261,
+  "timestamp": "2026-06-13T23:58:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 10.0118,
+      "prior_variance": 0.262816,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": 5.0623,
+      "prior_variance": 0.124613,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.7143,
+      "prior_variance": 0.12207,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "\u00c7avu\u015fin",
+      "path": "asia/turkey/cappadocia/cavusin",
+      "prior_score": 5.7333,
+      "prior_variance": 0.141076,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 5.1835,
+      "prior_variance": 0.118383,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Munnar",
+      "path": "asia/india/kerala/munnar",
+      "prior_score": 4.3295,
+      "prior_variance": 0.1019,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 4.7884,
+      "prior_variance": 0.116182,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Hobart",
+      "path": "australiaandpacific/australia/tasmania/hobart",
+      "prior_score": 4.9259,
+      "prior_variance": 0.110875,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Altaussee",
+      "path": "europe/austria/altaussee",
+      "prior_score": 4.155,
+      "prior_variance": 0.100453,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Malibu",
+      "path": "northamerica/unitedstates/california/malibu",
+      "prior_score": 3.4465,
+      "prior_variance": 0.115018,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Zagreb",
+      "path": "europe/croatia/zagreb",
+      "prior_score": 4.843,
+      "prior_variance": 0.121347,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Gythio",
+      "path": "europe/greece/mani/gythio",
+      "prior_score": 2.493,
+      "prior_variance": 0.102415,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Avebury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/avebury",
+      "prior_score": 3.4988,
+      "prior_variance": 0.10819,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Warsaw",
+      "path": "europe/poland/warsaw",
+      "prior_score": 3.0461,
+      "prior_variance": 0.11643,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.8702,
+      "prior_variance": 0.095662,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Changbaishan Nature Reserve",
+      "path": "asia/china/jilin/changbaishan",
+      "prior_score": 2.2936,
+      "prior_variance": 0.107363,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Malmo",
+      "path": "europe/sweden/malmo",
+      "prior_score": 1.7778,
+      "prior_variance": 0.09409,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ulm",
+      "path": "europe/germany/badenwrttemberg/ulm",
+      "prior_score": 2.8856,
+      "prior_variance": 0.093927,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Mangalore",
+      "path": "asia/india/karnataka/konkan_coast/mangalore",
+      "prior_score": -0.405,
+      "prior_variance": 0.086584,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Vejle",
+      "path": "europe/denmark/vejle",
+      "prior_score": -0.3448,
+      "prior_variance": 0.094677,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.5659,
+      "prior_variance": 0.102851,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -2.7455,
+      "prior_variance": 0.109273,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -5.9201,
+      "prior_variance": 0.122965,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.7389,
+      "prior_variance": 0.128386,
+      "prior_n": 14
+    }
+  ]
+}

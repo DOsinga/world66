@@ -1,0 +1,200 @@
+{
+  "round": 3447,
+  "timestamp": "2026-06-13T22:54:34",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Su Nuraxi di Barumini",
+      "path": "europe/italy/sardinia/sunuraxi",
+      "prior_score": 3.0014,
+      "prior_variance": 0.119713,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.0427,
+      "prior_variance": 0.119447,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Morlaix",
+      "path": "europe/france/normandybrittany/morlaix",
+      "prior_score": 0.8995,
+      "prior_variance": 0.109467,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": 0.0368,
+      "prior_variance": 0.10561,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Lier",
+      "path": "europe/belgium/lier",
+      "prior_score": -0.7578,
+      "prior_variance": 0.116142,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Podgora",
+      "path": "europe/croatia/podgora",
+      "prior_score": 1.2759,
+      "prior_variance": 0.144369,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Isla Negra",
+      "path": "southamerica/chile/isla_negra",
+      "prior_score": 0.9089,
+      "prior_variance": 0.115588,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "P\u00f3voa de Varzim",
+      "path": "europe/portugal/pvoa_de_varzim",
+      "prior_score": 0.258,
+      "prior_variance": 0.118265,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Lambertville",
+      "path": "northamerica/unitedstates/newjersey/lambertville",
+      "prior_score": -0.8074,
+      "prior_variance": 0.109861,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.8242,
+      "prior_variance": 0.135004,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Vratsa",
+      "path": "europe/bulgaria/vratza",
+      "prior_score": -1.3171,
+      "prior_variance": 0.133833,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Sonora",
+      "path": "northamerica/unitedstates/california/goldcountry/sonora",
+      "prior_score": -1.0195,
+      "prior_variance": 0.11401,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Wollongong",
+      "path": "australiaandpacific/australia/newsouthwales/wollongong",
+      "prior_score": 0.1026,
+      "prior_variance": 0.117209,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bogor",
+      "path": "asia/indonesia/java/bogor",
+      "prior_score": -0.2235,
+      "prior_variance": 0.120479,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.2176,
+      "prior_variance": 0.118852,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Agat",
+      "path": "australiaandpacific/guam/agat",
+      "prior_score": -2.4279,
+      "prior_variance": 0.127094,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Patriata",
+      "path": "asia/pakistan/patriata",
+      "prior_score": -1.2165,
+      "prior_variance": 0.110827,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Banyumulek",
+      "path": "asia/indonesia/lombok/banyumulek",
+      "prior_score": -2.1617,
+      "prior_variance": 0.12865,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Baishan",
+      "path": "asia/china/jilin/baishan",
+      "prior_score": -4.315,
+      "prior_variance": 0.111373,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -0.9217,
+      "prior_variance": 0.111769,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Dalaba",
+      "path": "africa/guineeconakry/dalaba",
+      "prior_score": -4.9395,
+      "prior_variance": 0.178257,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -1.7401,
+      "prior_variance": 0.164405,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Banfora",
+      "path": "africa/burkinafaso/banfora",
+      "prior_score": -4.745,
+      "prior_variance": 0.129947,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -9.2925,
+      "prior_variance": 0.307617,
+      "prior_n": 10
+    }
+  ]
+}

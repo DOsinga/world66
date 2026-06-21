@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 52.1638
 longitude: 10.5375
+score: 0.39
 ---
 
 Wolfenbüttel is a small town in Lower Saxony, about 12 kilometres south of Braunschweig, best known for two things: one of the finest research libraries in the world, and being the home of Jägermeister. The combination is unusual but somehow fitting — this is a place that takes its intellectual heritage and its herbal liqueur with equal seriousness.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Villa_de_Leyva_Boyaca_22.J
 latitude: 5.662
 loc_type: city
 longitude: -73.5284
-score: 0.62
+score: 0.53
 title: Villa de Leyva
 type: location
 ---

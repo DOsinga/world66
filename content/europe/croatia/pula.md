@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pula_Aerial_View.jpg
 latitude: 44.870228
 loc_type: city
 longitude: 13.845531
-score: 0.7
+score: 0.62
 title: Pula
 type: location
 ---

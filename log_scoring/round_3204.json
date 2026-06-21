@@ -1,0 +1,200 @@
+{
+  "round": 3204,
+  "timestamp": "2026-06-13T22:36:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.3228,
+      "prior_variance": 0.131561,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Besal\u00fa",
+      "path": "europe/spain/catalonia/besal",
+      "prior_score": 4.0667,
+      "prior_variance": 0.128081,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Tubingen",
+      "path": "europe/germany/badenwrttemberg/tubingen",
+      "prior_score": 3.0565,
+      "prior_variance": 0.129025,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.2259,
+      "prior_variance": 0.140061,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Diamante",
+      "path": "europe/italy/calabria/diamante_1",
+      "prior_score": -0.1792,
+      "prior_variance": 0.135817,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Gambassi Terme",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme",
+      "prior_score": -0.0674,
+      "prior_variance": 0.12328,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Klek",
+      "path": "europe/croatia/dalmatia/klek",
+      "prior_score": -0.9224,
+      "prior_variance": 0.145434,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Qaqortoq",
+      "path": "northamerica/greenland/qaqortoq",
+      "prior_score": -0.1024,
+      "prior_variance": 0.181009,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": -0.2629,
+      "prior_variance": 0.131291,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": -0.2198,
+      "prior_variance": 0.149022,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.7372,
+      "prior_variance": 0.122297,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Praia",
+      "path": "africa/capeverde/saotiago/praia",
+      "prior_score": -0.0596,
+      "prior_variance": 0.110371,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Sunriver",
+      "path": "northamerica/unitedstates/oregon/sunriver",
+      "prior_score": 0.2314,
+      "prior_variance": 0.132784,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.2913,
+      "prior_variance": 0.129641,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Medora",
+      "path": "northamerica/unitedstates/northdakota/medora",
+      "prior_score": -1.4381,
+      "prior_variance": 0.124558,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Coos Bay",
+      "path": "northamerica/unitedstates/oregon/coos_bay",
+      "prior_score": -1.6832,
+      "prior_variance": 0.140659,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Chinguetti",
+      "path": "africa/mauritania/chinguetti",
+      "prior_score": -1.1289,
+      "prior_variance": 0.149605,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Ngazidja",
+      "path": "africa/comoros/ngazidja",
+      "prior_score": -2.2608,
+      "prior_variance": 0.124423,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Monterrey",
+      "path": "northamerica/mexico/monterrey",
+      "prior_score": -1.6684,
+      "prior_variance": 0.152297,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -3.0512,
+      "prior_variance": 0.121404,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Lormes",
+      "path": "europe/france/east/burgundy/lormes",
+      "prior_score": -2.4292,
+      "prior_variance": 0.191632,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Bor\u00e5s",
+      "path": "europe/sweden/bors",
+      "prior_score": -2.1981,
+      "prior_variance": 0.13566,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Yabuli",
+      "path": "asia/china/heilongjiang/yabuli",
+      "prior_score": -2.499,
+      "prior_variance": 0.136582,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -3.4681,
+      "prior_variance": 0.180643,
+      "prior_n": 10
+    }
+  ]
+}

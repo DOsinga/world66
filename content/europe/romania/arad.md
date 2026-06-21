@@ -6,7 +6,7 @@ latitude: 46.175379
 longitude: 21.319634
 title: Arad
 type: location
-score: 0.42
+score: 0.37
 loc_type: city
 ---
 

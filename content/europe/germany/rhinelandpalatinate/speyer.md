@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Speyer_-_Altstadt_-_Altpoe
 latitude: 49.316555
 loc_type: city
 longitude: 8.433615
-score: 0.56
+score: 0.49
 title: Speyer
 type: location
 ---

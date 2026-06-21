@@ -1,0 +1,200 @@
+{
+  "round": 3388,
+  "timestamp": "2026-06-13T22:50:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Appalachian Trail",
+      "path": "northamerica/unitedstates/apalachiantrail",
+      "prior_score": 4.5968,
+      "prior_variance": 0.148634,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 4.8722,
+      "prior_variance": 0.146083,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Stromboli",
+      "path": "europe/italy/sicily/aeolianislands/stromboli",
+      "prior_score": 6.2803,
+      "prior_variance": 0.175851,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Inverness",
+      "path": "europe/unitedkingdom/scotland/inverness",
+      "prior_score": 4.3862,
+      "prior_variance": 0.19353,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "La Baule",
+      "path": "europe/france/centre/loirevalley/labaule",
+      "prior_score": 2.0023,
+      "prior_variance": 0.130827,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.1523,
+      "prior_variance": 0.115268,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Dambulla",
+      "path": "asia/srilanka/dambulla",
+      "prior_score": 4.1143,
+      "prior_variance": 0.130448,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Vestmanna",
+      "path": "europe/faroeislands/streymoy/vestmanna",
+      "prior_score": 1.0434,
+      "prior_variance": 0.141797,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": 0.0319,
+      "prior_variance": 0.12067,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ordos",
+      "path": "asia/china/innermongolia/ordos",
+      "prior_score": -4.0857,
+      "prior_variance": 0.138031,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/delta",
+      "prior_score": -4.0541,
+      "prior_variance": 0.128994,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Francistown",
+      "path": "africa/botswana/francistown",
+      "prior_score": -4.6903,
+      "prior_variance": 0.126794,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Stoke-on-Trent",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stokeontrent_st",
+      "prior_score": -5.0606,
+      "prior_variance": 0.174993,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Testico",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
+      "prior_score": -4.5021,
+      "prior_variance": 0.169695,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_score": -5.7745,
+      "prior_variance": 0.159352,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -7.6157,
+      "prior_variance": 0.229812,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Metula",
+      "path": "asia/israel/metula",
+      "prior_score": -3.6815,
+      "prior_variance": 0.142499,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Los Teques",
+      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
+      "prior_score": -6.6379,
+      "prior_variance": 0.137046,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Awjila",
+      "path": "africa/libya/awjila",
+      "prior_score": -9.6166,
+      "prior_variance": 0.2646,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Ghat",
+      "path": "africa/libya/ghat",
+      "prior_score": -8.152,
+      "prior_variance": 0.379207,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Bangui",
+      "path": "africa/centralafricanrepublic/bangui",
+      "prior_score": -8.2147,
+      "prior_variance": 0.256694,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.169,
+      "prior_variance": 0.191595,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Gao",
+      "path": "africa/mali/gao",
+      "prior_score": -6.9846,
+      "prior_variance": 0.186909,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -10.853,
+      "prior_variance": 0.293119,
+      "prior_n": 10
+    }
+  ]
+}

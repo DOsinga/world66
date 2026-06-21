@@ -5,7 +5,7 @@ done:
 latitude: 34.430195
 loc_type: city
 longitude: 70.460128
-score: 0.15
+score: 0.09
 sources:
 - https://en.wikipedia.org/wiki/Jalalabad
 title: Jalalabad

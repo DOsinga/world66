@@ -5,7 +5,7 @@ done:
 latitude: 63.825657
 loc_type: city
 longitude: 20.263074
-score: 0.48
+score: 0.39
 title: Umeå
 type: location
 image: ume.jpg

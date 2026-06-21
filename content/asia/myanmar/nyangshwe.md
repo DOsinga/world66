@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inle_Lake,_Fisherman,_Myan
 latitude: 20.632
 loc_type: city
 longitude: 96.901
-score: 0.41
+score: 0.34
 title: Nyangshwe
 type: location
 ---

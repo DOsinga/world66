@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_bueu_1.jpg
 latitude: 42.45
 loc_type: city
 longitude: -8.73
-score: 0.65
+score: 0.52
 title: Rías Baixas
 type: location
 ---

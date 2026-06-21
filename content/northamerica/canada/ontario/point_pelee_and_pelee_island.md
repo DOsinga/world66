@@ -5,7 +5,7 @@ latitude: 41.9534
 longitude: -82.5129
 title: Point Pelee and Pelee Island
 type: location
-score: 0.43
+score: 0.4
 loc_type: feature
 ---
 

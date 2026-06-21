@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A
 latitude: 19.0414
 loc_type: city
 longitude: -98.2063
-score: 0.64
+score: 0.53
 title: Puebla
 type: location
 ---

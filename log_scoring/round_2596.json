@@ -1,0 +1,200 @@
+{
+  "round": 2596,
+  "timestamp": "2026-06-13T21:53:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Melbourne",
+      "path": "australiaandpacific/australia/victoria/melbourne",
+      "prior_score": 7.8928,
+      "prior_variance": 0.235529,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "L\u00fcbeck",
+      "path": "europe/germany/schleswigholstein/lubeck",
+      "prior_score": 3.2927,
+      "prior_variance": 0.193137,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Maijishan Grottoes",
+      "path": "asia/china/gansu/maijishan",
+      "prior_score": 3.8207,
+      "prior_variance": 0.176049,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Rochester",
+      "path": "europe/unitedkingdom/england/south_east/rochester",
+      "prior_score": 0.5215,
+      "prior_variance": 0.165369,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Pacaya Volcano",
+      "path": "northamerica/guatemala/pacaya_volcano",
+      "prior_score": 3.8307,
+      "prior_variance": 0.16184,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Allahabad",
+      "path": "asia/india/uttarpradesh/allahabad",
+      "prior_score": -1.2955,
+      "prior_variance": 0.145718,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Dachau",
+      "path": "europe/germany/bavaria/dachau",
+      "prior_score": -2.4016,
+      "prior_variance": 0.254195,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -1.2622,
+      "prior_variance": 0.195158,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 0.8788,
+      "prior_variance": 0.184509,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Novo Mesto",
+      "path": "europe/slovenia/novo_mesto",
+      "prior_score": -0.2036,
+      "prior_variance": 0.168248,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Otavalo",
+      "path": "southamerica/ecuador/otavaloimbabura",
+      "prior_score": 4.5249,
+      "prior_variance": 0.189047,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.6269,
+      "prior_variance": 0.163948,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Harlingen",
+      "path": "europe/netherlands/friesland/harlingen",
+      "prior_score": -1.9299,
+      "prior_variance": 0.171008,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": 0.7996,
+      "prior_variance": 0.150305,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -1.8351,
+      "prior_variance": 0.194319,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -1.9046,
+      "prior_variance": 0.189805,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Saly",
+      "path": "africa/senegal/saly",
+      "prior_score": -0.4943,
+      "prior_variance": 0.145808,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Oukaimeden",
+      "path": "africa/morocco/oukaimeden",
+      "prior_score": -0.4329,
+      "prior_variance": 0.227064,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.7393,
+      "prior_variance": 0.205734,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Baton Rouge",
+      "path": "northamerica/unitedstates/louisiana/batonrouge",
+      "prior_score": -1.3498,
+      "prior_variance": 0.186611,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sandgate",
+      "path": "australiaandpacific/australia/queensland/sandgate",
+      "prior_score": -2.2613,
+      "prior_variance": 0.19293,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.3675,
+      "prior_variance": 0.160443,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -4.8919,
+      "prior_variance": 0.209556,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -6.2674,
+      "prior_variance": 0.198924,
+      "prior_n": 8
+    }
+  ]
+}

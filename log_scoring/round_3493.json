@@ -1,0 +1,200 @@
+{
+  "round": 3493,
+  "timestamp": "2026-06-13T22:57:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nantucket",
+      "path": "northamerica/unitedstates/massachusetts/nantucket",
+      "prior_score": 5.1324,
+      "prior_variance": 0.137489,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Sun Moon Lake",
+      "path": "asia/taiwan/sunmoonlake",
+      "prior_score": 5.4324,
+      "prior_variance": 0.130377,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 6.3816,
+      "prior_variance": 0.193923,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": 5.1651,
+      "prior_variance": 0.153961,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Vinci",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/vinci",
+      "prior_score": 2.901,
+      "prior_variance": 0.136171,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Vi\u00f1a del Mar",
+      "path": "southamerica/chile/beaches_1/via_del_mar_chi",
+      "prior_score": 3.245,
+      "prior_variance": 0.1288,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Marie-Galante",
+      "path": "northamerica/thecaribbean/guadeloupe/mariegalante",
+      "prior_score": 2.3738,
+      "prior_variance": 0.154821,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 0.7985,
+      "prior_variance": 0.120663,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Bragan\u00e7a",
+      "path": "europe/portugal/bragana",
+      "prior_score": 0.2385,
+      "prior_variance": 0.113733,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Rivers of the Doubs",
+      "path": "europe/france/east/franchecomte/fabulous_rivers",
+      "prior_score": 1.4168,
+      "prior_variance": 0.116521,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 0.5393,
+      "prior_variance": 0.125269,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Set\u00fabal",
+      "path": "europe/portugal/setubal",
+      "prior_score": 0.9258,
+      "prior_variance": 0.111372,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -0.8182,
+      "prior_variance": 0.119499,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Taichung",
+      "path": "asia/taiwan/taichung",
+      "prior_score": 2.9579,
+      "prior_variance": 0.145731,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Lautoka",
+      "path": "australiaandpacific/fiji/vitilevu/lautoka",
+      "prior_score": 0.5259,
+      "prior_variance": 0.108199,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Dakar",
+      "path": "africa/senegal/dakar",
+      "prior_score": 1.7849,
+      "prior_variance": 0.122426,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.5604,
+      "prior_variance": 0.114208,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.5209,
+      "prior_variance": 0.138088,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Semarang",
+      "path": "asia/indonesia/java/semarang",
+      "prior_score": 0.1045,
+      "prior_variance": 0.111563,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.7095,
+      "prior_variance": 0.153909,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Mina de S\u00e3o Domingos",
+      "path": "europe/portugal/mina_de_sao_domingos",
+      "prior_score": -2.3929,
+      "prior_variance": 0.120485,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kisangani",
+      "path": "africa/congokinshasa/kisangani",
+      "prior_score": -7.332,
+      "prior_variance": 0.167939,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "An Nasiriyah",
+      "path": "asia/iraq/annasiriyah",
+      "prior_score": -9.2869,
+      "prior_variance": 0.309055,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -9.0036,
+      "prior_variance": 0.256234,
+      "prior_n": 11
+    }
+  ]
+}

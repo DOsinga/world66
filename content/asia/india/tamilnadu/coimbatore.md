@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CHIL_SEZ.jpg
 latitude: 11.001812
 loc_type: city
 longitude: 76.962842
-score: 0.4
+score: 0.34
 title: Coimbatore
 type: location
 ---

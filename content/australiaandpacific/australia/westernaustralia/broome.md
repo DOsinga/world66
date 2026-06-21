@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MK-07628-33_Gantheaume_Poi
 latitude: -17.956691
 loc_type: city
 longitude: 122.224018
-score: 0.58
+score: 0.52
 title: Broome
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 36.7468
 loc_type: city
 longitude: -5.1609
-score: 0.64
+score: 0.63
 title: White Villages
 type: location
 ---

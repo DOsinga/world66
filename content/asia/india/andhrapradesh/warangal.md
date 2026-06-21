@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Badrakali_Temple_Warangal.
 latitude: 17.982064
 loc_type: city
 longitude: 79.597095
-score: 0.37
+score: 0.34
 title: Warangal
 type: location
 ---

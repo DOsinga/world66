@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caledonian_Isles_Departing
 latitude: 55.577516
 loc_type: city
 longitude: -5.150686
-score: 0.56
+score: 0.47
 title: Brodick
 type: location
 ---

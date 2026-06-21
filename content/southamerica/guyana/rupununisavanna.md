@@ -5,7 +5,7 @@ latitude: 3.5
 longitude: -59.5
 title: Rupununi Savanna
 type: location
-score: 0.44
+score: 0.4
 loc_type: feature
 ---
 

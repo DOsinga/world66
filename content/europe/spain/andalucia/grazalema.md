@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:TejadosGrazalema.jpg
 latitude: 36.758389
 loc_type: city
 longitude: -5.366074
-score: 0.59
+score: 0.52
 title: Grazalema
 type: location
 ---

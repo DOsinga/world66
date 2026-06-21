@@ -5,7 +5,7 @@ done:
 latitude: -1.2399
 loc_type: city
 longitude: 116.8593
-score: 0.37
+score: 0.32
 title: Balikpapan
 type: location
 image: balikpapan.jpg

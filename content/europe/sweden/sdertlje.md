@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/142171772@N06/30066163783
 latitude: 59.196429
 loc_type: city
 longitude: 17.627166
-score: 0.4
+score: 0.29
 title: Södertälje
 type: location
 ---

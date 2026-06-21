@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gerzensee_und_Berner_Alpen
 latitude: 46.838094
 loc_type: city
 longitude: 7.543132
-score: 0.41
+score: 0.36
 title: Gerzensee
 type: location
 ---

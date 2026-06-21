@@ -1,0 +1,200 @@
+{
+  "round": 3015,
+  "timestamp": "2026-06-13T22:22:50",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 6.7911,
+      "prior_variance": 0.160894,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.6153,
+      "prior_variance": 0.158859,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "De Zaanse Schans",
+      "path": "europe/netherlands/dezaanseschans",
+      "prior_score": 5.3505,
+      "prior_variance": 0.178271,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.4955,
+      "prior_variance": 0.144387,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Mantua",
+      "path": "europe/italy/lombardia/mantua",
+      "prior_score": 5.3157,
+      "prior_variance": 0.209721,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Boulder",
+      "path": "northamerica/unitedstates/colorado/boulder",
+      "prior_score": 3.2126,
+      "prior_variance": 0.220473,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 5.1447,
+      "prior_variance": 0.183325,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Nha Trang",
+      "path": "asia/vietnam/nhatrang",
+      "prior_score": 5.2848,
+      "prior_variance": 0.135983,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 3.6537,
+      "prior_variance": 0.151839,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.4416,
+      "prior_variance": 0.126551,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Ostende",
+      "path": "europe/belgium/ostende",
+      "prior_score": 0.1662,
+      "prior_variance": 0.148778,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Kalinga",
+      "path": "asia/philippines/kalinga",
+      "prior_score": -1.856,
+      "prior_variance": 0.149118,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 0.5092,
+      "prior_variance": 0.136319,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Henry Mountains",
+      "path": "northamerica/unitedstates/utah/henry_mountains",
+      "prior_score": -1.4348,
+      "prior_variance": 0.179918,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Sorong",
+      "path": "asia/indonesia/irianjaya/sorong",
+      "prior_score": -3.1559,
+      "prior_variance": 0.13202,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cuiab\u00e1",
+      "path": "southamerica/brazil/cuiaba",
+      "prior_score": -2.5511,
+      "prior_variance": 0.137584,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -3.1471,
+      "prior_variance": 0.138927,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.5587,
+      "prior_variance": 0.124265,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -2.5774,
+      "prior_variance": 0.138789,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -2.0749,
+      "prior_variance": 0.149536,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -2.8169,
+      "prior_variance": 0.137545,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.1394,
+      "prior_variance": 0.154493,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -5.9895,
+      "prior_variance": 0.165904,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Murmansk",
+      "path": "europe/russia/murmansk",
+      "prior_score": -2.6246,
+      "prior_variance": 0.158548,
+      "prior_n": 9
+    }
+  ]
+}

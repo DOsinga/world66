@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sophia_panorama_2.jpg
 latitude: 59.2187
 loc_type: city
 longitude: 39.8914
-score: 0.34
+score: 0.29
 title: Vologda
 type: location
 ---

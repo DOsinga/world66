@@ -5,7 +5,7 @@ done:
 latitude: 5.95
 loc_type: city
 longitude: 15.6
-score: 0.18
+score: 0.16
 title: Bouar
 type: location
 ---

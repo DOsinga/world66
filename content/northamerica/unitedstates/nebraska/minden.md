@@ -5,7 +5,7 @@ done:
 latitude: 40.4994
 loc_type: city
 longitude: -98.9514
-score: 0.28
+score: 0.24
 title: Minden
 type: location
 ---

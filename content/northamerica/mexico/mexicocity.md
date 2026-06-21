@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Av._de_la_Republica,_Mexic
 latitude: 19.4326
 loc_type: city
 longitude: -99.1332
-score: 0.69
+score: 0.53
 title: Mexico City
 type: location
 ---

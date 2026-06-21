@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banga,_Calamba,_Laguna,_Ma
 latitude: 14.206022
 loc_type: city
 longitude: 121.15565
-score: 0.4
+score: 0.34
 title: Calamba
 type: location
 ---

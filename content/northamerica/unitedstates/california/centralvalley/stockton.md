@@ -5,7 +5,7 @@ done:
 latitude: 37.957702
 loc_type: city
 longitude: -121.290779
-score: 0.28
+score: 0.21
 title: Stockton
 type: location
 ---

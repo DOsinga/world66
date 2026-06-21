@@ -5,7 +5,7 @@ done:
 latitude: 39.203909
 loc_type: city
 longitude: -76.659709
-score: 0.29
+score: 0.2
 title: Linthicum
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherepovets,_Russia_(Unspl
 latitude: 59.1242
 loc_type: city
 longitude: 37.9123
-score: 0.28
+score: 0.21
 title: Cherepovets
 type: location
 ---

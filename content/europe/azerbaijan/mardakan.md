@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mardakan_Castle,_Baku_Azer
 latitude: 40.493588
 loc_type: city
 longitude: 50.149548
-score: 0.33
+score: 0.3
 title: Mardakan
 type: location
 ---

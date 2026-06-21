@@ -5,7 +5,7 @@ done:
 latitude: 32.482001
 loc_type: city
 longitude: 72.911052
-score: 0.24
+score: 0.2
 title: Bhera
 type: location
 ---

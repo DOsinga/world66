@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Butler_Street,_Tully,_with
 latitude: -17.942923
 loc_type: city
 longitude: 145.928582
-score: 0.37
+score: 0.31
 title: Tully
 type: location
 ---

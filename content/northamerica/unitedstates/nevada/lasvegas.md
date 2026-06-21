@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_Decembe
 latitude: 36.167426
 loc_type: city
 longitude: -115.148413
-score: 0.69
+score: 0.67
 title: Las Vegas
 type: location
 ---

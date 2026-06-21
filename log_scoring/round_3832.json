@@ -1,0 +1,200 @@
+{
+  "round": 3832,
+  "timestamp": "2026-06-13T23:23:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sentosa",
+      "path": "asia/singapore/islands/sentosa",
+      "prior_score": 4.8385,
+      "prior_variance": 0.131396,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Yokohama",
+      "path": "asia/japan/honshu/yokohama",
+      "prior_score": 6.6164,
+      "prior_variance": 0.157335,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Fukuoka",
+      "path": "asia/japan/kyushu/fukuoka_city",
+      "prior_score": 6.907,
+      "prior_variance": 0.143271,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Villandry",
+      "path": "europe/france/centre/loirevalley/villandry",
+      "prior_score": 5.0801,
+      "prior_variance": 0.122941,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Portovenere",
+      "path": "europe/italy/liguria/portovenere",
+      "prior_score": 6.3793,
+      "prior_variance": 0.132845,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.6038,
+      "prior_variance": 0.115039,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Laguardia",
+      "path": "europe/spain/basque_country_euskadi/laguardia",
+      "prior_score": 1.2543,
+      "prior_variance": 0.120686,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Val Ferret",
+      "path": "europe/switzerland/val_ferret",
+      "prior_score": 4.0228,
+      "prior_variance": 0.107842,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Ouro Preto",
+      "path": "southamerica/brazil/ouropreto",
+      "prior_score": 5.3716,
+      "prior_variance": 0.133029,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": 0.3313,
+      "prior_variance": 0.108396,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.3246,
+      "prior_variance": 0.132108,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -2.0158,
+      "prior_variance": 0.122565,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -0.3684,
+      "prior_variance": 0.120143,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Corumb\u00e1",
+      "path": "southamerica/brazil/corumb",
+      "prior_score": -1.8696,
+      "prior_variance": 0.11819,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Omo River",
+      "path": "africa/ethiopia/omoriver",
+      "prior_score": -2.7318,
+      "prior_variance": 0.157403,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "London, Ontario",
+      "path": "northamerica/canada/ontario/london",
+      "prior_score": -3.0743,
+      "prior_variance": 0.11606,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tuscaloosa",
+      "path": "northamerica/unitedstates/alabama/tuscaloosa",
+      "prior_score": -4.2031,
+      "prior_variance": 0.164687,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Brigham City",
+      "path": "northamerica/unitedstates/utah/brigham_city",
+      "prior_score": -3.6422,
+      "prior_variance": 0.114835,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Helmshore",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore",
+      "prior_score": -4.077,
+      "prior_variance": 0.101148,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Bedford",
+      "path": "northamerica/unitedstates/indiana/bedford",
+      "prior_score": -5.7553,
+      "prior_variance": 0.129383,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Krasnodar",
+      "path": "europe/russia/krasnodar",
+      "prior_score": -3.4941,
+      "prior_variance": 0.111613,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Kulgam",
+      "path": "asia/india/jammuandkashmir/kulgam",
+      "prior_score": -6.1621,
+      "prior_variance": 0.136138,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -7.765,
+      "prior_variance": 0.211583,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Khamis",
+      "path": "asia/saudiarabia/khamis",
+      "prior_score": -7.0532,
+      "prior_variance": 0.202384,
+      "prior_n": 12
+    }
+  ]
+}

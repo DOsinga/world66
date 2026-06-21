@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_Bolivar_A_Chavez.j
 latitude: 12.1364
 loc_type: city
 longitude: -86.2514
-score: 0.38
+score: 0.32
 title: Managua
 type: location
 ---

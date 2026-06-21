@@ -1,0 +1,200 @@
+{
+  "round": 3441,
+  "timestamp": "2026-06-13T22:54:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Verdon Gorge",
+      "path": "europe/france/midi/verdongorge",
+      "prior_score": 7.3269,
+      "prior_variance": 0.176123,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.8944,
+      "prior_variance": 0.149281,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.5914,
+      "prior_variance": 0.13365,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 5.8835,
+      "prior_variance": 0.149003,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.8252,
+      "prior_variance": 0.13151,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Marbella",
+      "path": "europe/spain/andalucia/marbella",
+      "prior_score": 5.2505,
+      "prior_variance": 0.148696,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Crans-Montana",
+      "path": "europe/switzerland/crans_montana",
+      "prior_score": 5.3272,
+      "prior_variance": 0.155363,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Puerto del Carmen",
+      "path": "europe/spain/canaryislands/lanzarote/puertodelcarmen",
+      "prior_score": 4.0973,
+      "prior_variance": 0.123197,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 3.5717,
+      "prior_variance": 0.139706,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ani",
+      "path": "europe/armenia/ani",
+      "prior_score": 2.6874,
+      "prior_variance": 0.13927,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 4.7596,
+      "prior_variance": 0.124566,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.5091,
+      "prior_variance": 0.146258,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.1226,
+      "prior_variance": 0.127628,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.3084,
+      "prior_variance": 0.132845,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "North-East Tasmania",
+      "path": "australiaandpacific/australia/tasmania/northeast",
+      "prior_score": 1.3772,
+      "prior_variance": 0.133317,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": 1.5414,
+      "prior_variance": 0.13269,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Callander",
+      "path": "europe/unitedkingdom/scotland/callander",
+      "prior_score": 1.9359,
+      "prior_variance": 0.120848,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "R\u00f8st",
+      "path": "europe/norway/lofotenislands/rost",
+      "prior_score": 2.0095,
+      "prior_variance": 0.119825,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -2.21,
+      "prior_variance": 0.108256,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 1.0208,
+      "prior_variance": 0.128166,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 1.2103,
+      "prior_variance": 0.118535,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": -1.4052,
+      "prior_variance": 0.139649,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Rosenheim",
+      "path": "europe/germany/bavaria/rosenheim",
+      "prior_score": -0.5429,
+      "prior_variance": 0.139554,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Sekondi",
+      "path": "africa/ghana/sekondi",
+      "prior_score": -3.7855,
+      "prior_variance": 0.13494,
+      "prior_n": 11
+    }
+  ]
+}

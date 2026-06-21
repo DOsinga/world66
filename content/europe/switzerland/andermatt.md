@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0372_Andermatt_im_Urser
 latitude: 46.63405
 loc_type: city
 longitude: 8.594815
-score: 0.66
+score: 0.51
 title: Andermatt
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoggar_dpuis_assekrem.jpg
 latitude: 24.375344
 loc_type: city
 longitude: 4.320844
-score: 0.39
+score: 0.33
 title: Tamanrasset
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 29.956142
 loc_type: city
 longitude: -90.073393
-score: 0.71
+score: 0.65
 sources:
 - https://en.wikipedia.org/wiki/New_Orleans
 - https://en.wikipedia.org/wiki/French_Quarter

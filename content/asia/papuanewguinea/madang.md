@@ -5,7 +5,7 @@ done:
 latitude: -5.2183
 loc_type: city
 longitude: 145.7961
-score: 0.43
+score: 0.38
 title: Madang
 type: location
 ---

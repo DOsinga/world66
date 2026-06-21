@@ -5,7 +5,7 @@ latitude: 29.3332
 longitude: -103.1942
 title: Big Bend National Park
 type: location
-score: 0.62
+score: 0.57
 loc_type: feature
 ---
 

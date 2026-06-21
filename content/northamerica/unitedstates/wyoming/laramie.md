@@ -5,7 +5,7 @@ done:
 latitude: 41.311644
 loc_type: city
 longitude: -105.591788
-score: 0.42
+score: 0.35
 title: Laramie
 type: location
 ---

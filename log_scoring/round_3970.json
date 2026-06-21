@@ -1,0 +1,200 @@
+{
+  "round": 3970,
+  "timestamp": "2026-06-13T23:33:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.4028,
+      "prior_variance": 0.103322,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Sravanabelagola",
+      "path": "asia/india/karnataka/sravanabelagola",
+      "prior_score": 0.2183,
+      "prior_variance": 0.102665,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Hershey",
+      "path": "northamerica/unitedstates/pennsylvania/hershey",
+      "prior_score": -0.1829,
+      "prior_variance": 0.102607,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -1.3236,
+      "prior_variance": 0.109322,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.2152,
+      "prior_variance": 0.104743,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mitiaro",
+      "path": "australiaandpacific/cookislands/mitiaro",
+      "prior_score": -1.7534,
+      "prior_variance": 0.132621,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Pulau Hantu",
+      "path": "asia/singapore/islands/pulauhantu",
+      "prior_score": -1.4238,
+      "prior_variance": 0.132196,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": -0.0568,
+      "prior_variance": 0.106506,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Nabeul",
+      "path": "africa/tunisia/nabeul",
+      "prior_score": -0.2982,
+      "prior_variance": 0.102296,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Tianyahaijiao",
+      "path": "asia/china/hainanisland/tianyahaijiao",
+      "prior_score": 0.2657,
+      "prior_variance": 0.119649,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Hastings",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/hastings",
+      "prior_score": 1.0963,
+      "prior_variance": 0.092846,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Grand Portage",
+      "path": "northamerica/unitedstates/minnesota/grandportage",
+      "prior_score": -1.8899,
+      "prior_variance": 0.109962,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": -0.2807,
+      "prior_variance": 0.107639,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Xining",
+      "path": "asia/china/qinghai/xining",
+      "prior_score": -0.8152,
+      "prior_variance": 0.117461,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Donaueschingen",
+      "path": "europe/germany/badenwrttemberg/donaueschingen",
+      "prior_score": -1.2714,
+      "prior_variance": 0.108717,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "V\u00e4ster\u00e5s",
+      "path": "europe/sweden/vsters",
+      "prior_score": -0.9425,
+      "prior_variance": 0.120113,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/northcarolina/wilmington",
+      "prior_score": 0.0737,
+      "prior_variance": 0.110254,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.1425,
+      "prior_variance": 0.111888,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Dayton",
+      "path": "northamerica/unitedstates/ohio/dayton",
+      "prior_score": -4.0859,
+      "prior_variance": 0.125133,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -4.4811,
+      "prior_variance": 0.113394,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -4.9269,
+      "prior_variance": 0.136125,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -5.2986,
+      "prior_variance": 0.130914,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Anantapur",
+      "path": "asia/india/andhrapradesh/ananthapur",
+      "prior_score": -5.7863,
+      "prior_variance": 0.132523,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -10.5086,
+      "prior_variance": 0.279813,
+      "prior_n": 12
+    }
+  ]
+}

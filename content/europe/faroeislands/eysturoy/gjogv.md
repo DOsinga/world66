@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Eysturoy,_G
 latitude: 62.325743
 loc_type: city
 longitude: -6.943029
-score: 0.57
+score: 0.53
 title: Gjogv
 type: location
 ---

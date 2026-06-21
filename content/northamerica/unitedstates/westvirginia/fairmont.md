@@ -6,7 +6,7 @@ latitude: 39.484898
 longitude: -80.142654
 title: Fairmont
 type: location
-score: 0.31
+score: 0.26
 loc_type: city
 ---
 

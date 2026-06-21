@@ -1,103 +1,199 @@
 {
   "round": 4,
-  "timestamp": "2026-04-11T15:39:56",
+  "timestamp": "2026-06-13T19:15:17",
   "model": "claude-sonnet-4-6",
-  "batch_size": 12,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "South Island",
-      "path": "australiaandpacific/newzealand/south_island",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Kobe",
+      "path": "asia/japan/honshu/kobe",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Marquesas",
-      "path": "australiaandpacific/frenchpolynesia/marquesas",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Colmar",
+      "path": "europe/france/east/alsace/colmar",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Quimper",
-      "path": "europe/france/normandybrittany/quimper",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Bergamo",
+      "path": "europe/italy/lombardia/bergamo",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Ba\u0161ka",
-      "path": "europe/croatia/baska",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "United States",
-      "path": "northamerica/unitedstates",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Paro",
+      "path": "asia/bhutan/paro",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Tsumeb, Gateway to the North and Etosha",
-      "path": "africa/namibia/tsumeb_gateway_to",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Arenal",
+      "path": "northamerica/costarica/arenal",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Swift Current",
-      "path": "northamerica/canada/saskatchewan/swift_current",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Caernarfon",
+      "path": "europe/unitedkingdom/wales/caernarfon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Xeger",
-      "path": "asia/china/tibet/xeger",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Toru\u0144",
+      "path": "europe/poland/torun",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "1",
-      "path": "europe/georgia/tbilisi/1",
-      "prior_mu": 18.34,
-      "prior_sigma": 6.76,
-      "prior_n": 1
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Fakobly",
-      "path": "africa/ivorycoast/fakobly",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "hamdani sadat jaba",
-      "path": "asia/pakistan/soon_valley/hamdani_sadat_jaba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Santa Ynez",
+      "path": "northamerica/unitedstates/california/centralcoast/santaynez",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "anis yaroo khosa",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/anis_yaroo_khosa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.33,
+      "title": "Udon Thani",
+      "path": "asia/thailand/udonthani",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 13,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 14,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 15,
+      "title": "Ghadames",
+      "path": "africa/libya/ghadhames",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 16,
+      "title": "Oberhof",
+      "path": "europe/germany/thuringia/oberhof",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 17,
+      "title": "Vemdalen",
+      "path": "europe/sweden/vemdalen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 18,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 19,
+      "title": "Jingmen",
+      "path": "asia/china/hubei/jingmen",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 20,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 21,
+      "title": "Balasore",
+      "path": "asia/india/orissa/balasore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 22,
+      "title": "Nzerekore",
+      "path": "africa/guineeconakry/nzerekore",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 23,
+      "title": "Lae",
+      "path": "asia/papuanewguinea/lae",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
+    },
+    {
+      "rank": 24,
+      "title": "Streator",
+      "path": "northamerica/unitedstates/illinois/streator",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

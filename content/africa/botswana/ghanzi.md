@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterber
 latitude: -22.145794
 loc_type: city
 longitude: 22.761083
-score: 0.3
+score: 0.27
 title: Ghanzi
 type: location
 ---

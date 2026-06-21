@@ -6,7 +6,7 @@ done:
 latitude: 53.546205
 loc_type: city
 longitude: -113.491241
-score: 0.44
+score: 0.4
 title: Edmonton
 type: location
 image: edmonton.jpg

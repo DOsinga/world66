@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agrigento_dalla_Valle_dei_
 latitude: 37.3123
 loc_type: city
 longitude: 13.5747
-score: 0.68
+score: 0.64
 sources:
 - https://en.wikipedia.org/wiki/Agrigento
 - https://en.wikipedia.org/wiki/Valle_dei_Templi

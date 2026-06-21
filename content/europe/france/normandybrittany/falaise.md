@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau-falaise-calvados.j
 latitude: 48.8965
 loc_type: city
 longitude: -0.1999
-score: 0.45
+score: 0.46
 title: Falaise
 type: location
 ---

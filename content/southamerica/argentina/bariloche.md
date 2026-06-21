@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/35034346917@N01/861286250
 latitude: -41.1335
 loc_type: city
 longitude: -71.3101
-score: 0.73
+score: 0.61
 title: Bariloche
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3947,
+  "timestamp": "2026-06-13T23:31:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mirissa",
+      "path": "asia/srilanka/mirissa",
+      "prior_score": 5.6887,
+      "prior_variance": 0.122839,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 2.6722,
+      "prior_variance": 0.102176,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Pigna",
+      "path": "europe/italy/liguria/nerviavalley/pigna",
+      "prior_score": 0.8038,
+      "prior_variance": 0.106898,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bear Lake",
+      "path": "northamerica/unitedstates/utah/bearlake",
+      "prior_score": 0.8622,
+      "prior_variance": 0.108423,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Magaliesburg",
+      "path": "africa/southafrica/gauteng/magaliesburg",
+      "prior_score": -0.3359,
+      "prior_variance": 0.095609,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Bakau",
+      "path": "africa/gambia/bakau",
+      "prior_score": -2.0654,
+      "prior_variance": 0.116282,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.7443,
+      "prior_variance": 0.12309,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -4.3495,
+      "prior_variance": 0.111804,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.4392,
+      "prior_variance": 0.141814,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Dhaka",
+      "path": "asia/bangladesh/dhaka",
+      "prior_score": -4.293,
+      "prior_variance": 0.118957,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Wa",
+      "path": "africa/ghana/wa",
+      "prior_score": -5.2136,
+      "prior_variance": 0.11429,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Petrolia",
+      "path": "northamerica/canada/ontario/petrolia",
+      "prior_score": -5.7181,
+      "prior_variance": 0.135772,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Warsaw",
+      "path": "northamerica/unitedstates/indiana/warsaw",
+      "prior_score": -5.5101,
+      "prior_variance": 0.121627,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Steubenville",
+      "path": "northamerica/unitedstates/ohio/steubenville",
+      "prior_score": -5.7964,
+      "prior_variance": 0.135136,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -6.1194,
+      "prior_variance": 0.140627,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -7.6528,
+      "prior_variance": 0.18631,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.6433,
+      "prior_variance": 0.182882,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Buffalo Gap",
+      "path": "northamerica/unitedstates/texas/buffalo_gap",
+      "prior_score": -7.1206,
+      "prior_variance": 0.164434,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Nowshera",
+      "path": "asia/pakistan/nowshera",
+      "prior_score": -6.8358,
+      "prior_variance": 0.152578,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Germa",
+      "path": "africa/libya/germa",
+      "prior_score": -7.371,
+      "prior_variance": 0.187457,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Senafe",
+      "path": "africa/eritrea/senafe",
+      "prior_score": -7.1867,
+      "prior_variance": 0.153015,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -5.3099,
+      "prior_variance": 0.152299,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Janaale",
+      "path": "africa/somalia/gendershe",
+      "prior_score": -13.4998,
+      "prior_variance": 1.000681,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.5065,
+      "prior_variance": 0.212798,
+      "prior_n": 14
+    }
+  ]
+}

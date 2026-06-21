@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:360%C2%B0_Sihanoukville_Ci
 latitude: 10.622
 loc_type: city
 longitude: 103.5223
-score: 0.43
+score: 0.35
 title: Sihanoukville
 type: location
 ---

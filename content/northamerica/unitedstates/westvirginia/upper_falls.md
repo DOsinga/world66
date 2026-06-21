@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/181920661@N03/53793743909
 latitude: 38.152
 loc_type: city
 longitude: -81.734
-score: 0.32
+score: 0.26
 title: Upper Falls
 type: location
 ---

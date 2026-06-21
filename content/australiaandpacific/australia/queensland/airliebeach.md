@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/81131278@N00/260306870
 latitude: -20.272494
 loc_type: city
 longitude: 148.718147
-score: 0.66
+score: 0.54
 title: Airlie Beach
 type: location
 ---

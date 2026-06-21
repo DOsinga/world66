@@ -5,7 +5,7 @@ done:
 latitude: 44.0061
 loc_type: city
 longitude: -97.1142
-score: 0.31
+score: 0.28
 title: Madison
 type: location
 ---

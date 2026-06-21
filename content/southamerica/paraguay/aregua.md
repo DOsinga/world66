@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aregua_church_040.jpg
 latitude: -25.2953
 loc_type: city
 longitude: -57.4147
-score: 0.44
+score: 0.36
 title: Areguá
 type: location
 ---

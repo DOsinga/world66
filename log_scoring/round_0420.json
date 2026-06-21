@@ -1,48 +1,200 @@
 {
   "round": 420,
-  "timestamp": "2026-04-12T09:30:06",
+  "timestamp": "2026-06-13T19:34:31",
   "model": "claude-sonnet-4-6",
-  "batch_size": 5,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Monrovia",
-      "path": "africa/liberia/monrovia",
-      "prior_mu": 22.1999,
-      "prior_sigma": 5.7582,
+      "title": "Mount Emei",
+      "path": "asia/china/sichuanprovince/mount_emei",
+      "prior_score": 6.0979,
+      "prior_variance": 2.168247,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Harper",
-      "path": "africa/liberia/harper",
-      "prior_mu": 18.9807,
-      "prior_sigma": 5.2248,
-      "prior_n": 2
+      "title": "Konark",
+      "path": "asia/india/orissa/konark",
+      "prior_score": 1.2596,
+      "prior_variance": 1.379641,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Greenville",
-      "path": "africa/liberia/greenville",
-      "prior_mu": 19.1679,
-      "prior_sigma": 5.2566,
-      "prior_n": 2
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_score": 3.1984,
+      "prior_variance": 1.836755,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Gbarnga",
-      "path": "africa/liberia/gbarnga",
-      "prior_mu": 13.0138,
-      "prior_sigma": 5.3745,
-      "prior_n": 3
+      "title": "Portimao",
+      "path": "europe/portugal/portimao",
+      "prior_score": 3.9865,
+      "prior_variance": 2.262442,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Liberia",
-      "path": "africa/liberia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Portland Maine",
+      "path": "northamerica/unitedstates/maine/portlandmaine",
+      "prior_score": 2.0888,
+      "prior_variance": 1.913091,
+      "prior_n": 1
+    },
+    {
+      "rank": 6,
+      "title": "New Paltz",
+      "path": "northamerica/unitedstates/newyorkstate/new_paltz",
+      "prior_score": -0.9863,
+      "prior_variance": 1.745615,
+      "prior_n": 1
+    },
+    {
+      "rank": 7,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 1.639,
+      "prior_variance": 1.467474,
+      "prior_n": 1
+    },
+    {
+      "rank": 8,
+      "title": "Ma'in",
+      "path": "asia/jordan/main",
+      "prior_score": 0.9154,
+      "prior_variance": 1.568546,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Sariska National Park",
+      "path": "asia/india/rajasthan/sariskanationalpark",
+      "prior_score": 4.5833,
+      "prior_variance": 2.477581,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Scalea",
+      "path": "europe/italy/calabria/scalea",
+      "prior_score": 4.1429,
+      "prior_variance": 1.442473,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 2.6965,
+      "prior_variance": 1.388768,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 3.6831,
+      "prior_variance": 1.600634,
+      "prior_n": 1
+    },
+    {
+      "rank": 13,
+      "title": "Pineto",
+      "path": "europe/italy/abruzzo/pineto",
+      "prior_score": 3.3879,
+      "prior_variance": 1.593921,
+      "prior_n": 1
+    },
+    {
+      "rank": 14,
+      "title": "Ross of Mull",
+      "path": "europe/unitedkingdom/scotland/isle_of_mull/ross_of_mull",
+      "prior_score": -0.0411,
+      "prior_variance": 1.560966,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Lleyn Peninsula",
+      "path": "europe/unitedkingdom/wales/lleyn_peninsula",
+      "prior_score": 3.553,
+      "prior_variance": 1.582017,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -0.5952,
+      "prior_variance": 1.378926,
+      "prior_n": 1
+    },
+    {
+      "rank": 17,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 2.6021,
+      "prior_variance": 2.148343,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "V\u00e1gur",
+      "path": "europe/faroeislands/suuroy/vgur",
+      "prior_score": 2.2805,
+      "prior_variance": 1.755771,
+      "prior_n": 1
+    },
+    {
+      "rank": 19,
+      "title": "G\u00f6d\u00f6ll\u0151",
+      "path": "europe/hungary/godollo",
+      "prior_score": 0.7886,
+      "prior_variance": 1.634773,
+      "prior_n": 1
+    },
+    {
+      "rank": 20,
+      "title": "Masaya",
+      "path": "northamerica/nicaragua/masaya",
+      "prior_score": 0.3561,
+      "prior_variance": 1.693426,
+      "prior_n": 1
+    },
+    {
+      "rank": 21,
+      "title": "Viipuri (Vyborg)",
+      "path": "europe/finland/viipuri",
+      "prior_score": 1.4057,
+      "prior_variance": 3.541346,
+      "prior_n": 1
+    },
+    {
+      "rank": 22,
+      "title": "Gaborone",
+      "path": "africa/botswana/gaborone",
+      "prior_score": 0.4203,
+      "prior_variance": 1.733906,
+      "prior_n": 1
+    },
+    {
+      "rank": 23,
+      "title": "Ruhnu Island",
+      "path": "europe/estonia/ruhnu_island",
+      "prior_score": 0.9004,
+      "prior_variance": 1.607837,
+      "prior_n": 1
+    },
+    {
+      "rank": 24,
+      "title": "Banamichi",
+      "path": "northamerica/mexico/banamichi",
+      "prior_score": 1.2356,
+      "prior_variance": 1.771095,
+      "prior_n": 1
     }
   ]
 }

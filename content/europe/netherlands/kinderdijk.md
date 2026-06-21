@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg
 latitude: 51.888695
 loc_type: city
 longitude: 4.635697
-score: 0.62
+score: 0.56
 title: Kinderdijk
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3226,
+  "timestamp": "2026-06-13T22:37:51",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Glenridding",
+      "path": "europe/unitedkingdom/england/lakedistrict/glenridding",
+      "prior_score": 2.575,
+      "prior_variance": 0.122521,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "The Ridgeway",
+      "path": "europe/unitedkingdom/england/south_east/ridgeway",
+      "prior_score": 0.0809,
+      "prior_variance": 0.133704,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Loano",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
+      "prior_score": 1.3437,
+      "prior_variance": 0.116627,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -0.8334,
+      "prior_variance": 0.1321,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -1.6862,
+      "prior_variance": 0.126206,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Dahlak Islands",
+      "path": "africa/eritrea/dahlakislands",
+      "prior_score": -2.6476,
+      "prior_variance": 0.176944,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Elche",
+      "path": "europe/spain/spanishcostas/elche",
+      "prior_score": 0.1907,
+      "prior_variance": 0.14492,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Porthcawl",
+      "path": "europe/unitedkingdom/wales/porthcawl",
+      "prior_score": -0.9327,
+      "prior_variance": 0.129918,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Kiel",
+      "path": "europe/germany/schleswigholstein/kiel",
+      "prior_score": -0.4227,
+      "prior_variance": 0.135136,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": -0.3118,
+      "prior_variance": 0.126209,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Lewes",
+      "path": "northamerica/unitedstates/delaware/lewes",
+      "prior_score": -1.5603,
+      "prior_variance": 0.131518,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Eleusis",
+      "path": "europe/greece/eleusis",
+      "prior_score": -1.7995,
+      "prior_variance": 0.132151,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.5959,
+      "prior_variance": 0.134064,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Santiago de los Caballeros",
+      "path": "northamerica/dominicanrepublic/santiago_de_los_caballeros",
+      "prior_score": -1.626,
+      "prior_variance": 0.149423,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -1.8383,
+      "prior_variance": 0.109949,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -1.6947,
+      "prior_variance": 0.135851,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.8091,
+      "prior_variance": 0.119009,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sarreguemines",
+      "path": "europe/france/east/lorraine/sarreguemines",
+      "prior_score": -2.6401,
+      "prior_variance": 0.130819,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Lawrence",
+      "path": "australiaandpacific/newzealand/south_island/otago/lawrence_gateway",
+      "prior_score": -3.0885,
+      "prior_variance": 0.146919,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Paran\u00e1",
+      "path": "southamerica/argentina/parana",
+      "prior_score": -1.0046,
+      "prior_variance": 0.127079,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kramfors",
+      "path": "europe/sweden/kramfors",
+      "prior_score": -3.0273,
+      "prior_variance": 0.131048,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Northampton",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/northampton",
+      "prior_score": -3.2571,
+      "prior_variance": 0.138771,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Srikakulam",
+      "path": "asia/india/andhrapradesh/srikakulam",
+      "prior_score": -5.7734,
+      "prior_variance": 0.181334,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Anand",
+      "path": "asia/india/gujarat/anand",
+      "prior_score": -4.7502,
+      "prior_variance": 0.155534,
+      "prior_n": 11
+    }
+  ]
+}

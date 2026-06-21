@@ -5,7 +5,7 @@ done:
 latitude: 63.8391
 loc_type: city
 longitude: 23.1337
-score: 0.4
+score: 0.36
 title: Kokkola
 type: location
 image: kokkola.jpg

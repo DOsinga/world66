@@ -1,199 +1,199 @@
 {
   "round": 488,
-  "timestamp": "2026-04-12T09:32:47",
+  "timestamp": "2026-06-13T19:38:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cairns",
-      "path": "australiaandpacific/australia/queensland/cairns",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -4.8418,
+      "prior_variance": 1.40876,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Palm Cove",
-      "path": "australiaandpacific/australia/queensland/palmcove",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Anton Valley",
+      "path": "northamerica/panama/antonvalley",
+      "prior_score": 2.3048,
+      "prior_variance": 1.735959,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Katoomba",
-      "path": "australiaandpacific/australia/newsouthwales/katoomba",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -2.7296,
+      "prior_variance": 1.819522,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Perth",
-      "path": "australiaandpacific/australia/westernaustralia/perth",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -2.7276,
+      "prior_variance": 1.256179,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Port Macquarie",
-      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
-      "prior_mu": 22.524,
-      "prior_sigma": 5.9114,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -4.6559,
+      "prior_variance": 1.598567,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Bright",
-      "path": "australiaandpacific/australia/victoria/bright",
-      "prior_mu": 22.6301,
-      "prior_sigma": 5.4235,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -4.6918,
+      "prior_variance": 2.952927,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Narooma",
-      "path": "australiaandpacific/australia/newsouthwales/narooma",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -3.8231,
+      "prior_variance": 1.646035,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Busselton",
-      "path": "australiaandpacific/australia/westernaustralia/bussleton",
-      "prior_mu": 22.6442,
-      "prior_sigma": 5.9401,
+      "title": "Ilmenau",
+      "path": "europe/germany/thuringia/ilmenau",
+      "prior_score": -5.5382,
+      "prior_variance": 1.971181,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Maroochydore",
-      "path": "australiaandpacific/australia/queensland/maroochydore",
-      "prior_mu": 22.6916,
-      "prior_sigma": 5.946,
+      "title": "Kuwait City",
+      "path": "asia/kuwait/kuwaitcity",
+      "prior_score": -5.483,
+      "prior_variance": 1.534483,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "North-East Tasmania",
-      "path": "australiaandpacific/australia/tasmania/northeast",
-      "prior_mu": 22.726,
-      "prior_sigma": 5.9503,
+      "title": "Fortuna",
+      "path": "northamerica/unitedstates/california/northcoast/fortuna",
+      "prior_score": -7.2118,
+      "prior_variance": 1.605188,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "West Coast",
-      "path": "australiaandpacific/australia/tasmania/westcoast",
-      "prior_mu": 22.7435,
-      "prior_sigma": 5.9524,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -7.0612,
+      "prior_variance": 1.469396,
       "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "North-West",
-      "path": "australiaandpacific/australia/tasmania/northwest",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -5.768,
+      "prior_variance": 2.424546,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Devonport Tasmania Australia",
-      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
-      "prior_mu": 22.7063,
-      "prior_sigma": 5.9479,
+      "title": "Failaka Island",
+      "path": "asia/kuwait/failaka",
+      "prior_score": -6.1018,
+      "prior_variance": 1.736655,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Victor Harbor",
-      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
-      "prior_mu": 22.9019,
-      "prior_sigma": 5.7248,
+      "title": "Changzhou",
+      "path": "asia/china/jiangsu_province/changzhou",
+      "prior_score": -7.7523,
+      "prior_variance": 2.186445,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Wollongong",
-      "path": "australiaandpacific/australia/newsouthwales/wollongong",
-      "prior_mu": 22.9011,
-      "prior_sigma": 5.6085,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -6.9993,
+      "prior_variance": 1.623974,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Coober Pedy",
-      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
-      "prior_mu": 22.0785,
-      "prior_sigma": 5.5024,
+      "title": "Qingyuan",
+      "path": "asia/china/guangdong/qingyuan",
+      "prior_score": -5.0879,
+      "prior_variance": 2.672018,
       "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Cardwell",
-      "path": "australiaandpacific/australia/queensland/cardwell",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mahasarakham",
+      "path": "asia/thailand/mahasarakham",
+      "prior_score": -4.896,
+      "prior_variance": 1.945393,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Elanora",
-      "path": "australiaandpacific/australia/queensland/elanora",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.2711,
+      "prior_variance": 1.526839,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Beaudesert",
-      "path": "australiaandpacific/australia/queensland/beaudesert",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shusha",
+      "path": "europe/azerbaijan/naxcivan/shusha",
+      "prior_score": -5.7986,
+      "prior_variance": 1.790821,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Bunbury",
-      "path": "australiaandpacific/australia/westernaustralia/bunbury",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
+      "title": "Narayangarh",
+      "path": "asia/nepal/narayangarh",
+      "prior_score": -4.9812,
+      "prior_variance": 1.379728,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Yackandandah",
-      "path": "australiaandpacific/australia/victoria/yackandandah",
-      "prior_mu": 21.8358,
-      "prior_sigma": 4.3726,
-      "prior_n": 2
+      "title": "Tyumen",
+      "path": "europe/russia/tyumen",
+      "prior_score": -8.507,
+      "prior_variance": 1.701878,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "William Creek",
-      "path": "australiaandpacific/australia/southaustralia/william_creek",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -7.3019,
+      "prior_variance": 1.445505,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Reservoir",
-      "path": "australiaandpacific/australia/victoria/reservoir",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -6.4286,
+      "prior_variance": 1.459444,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "BuBRrsLK",
-      "path": "australiaandpacific/australia/tasmania/cooktown/bubrrslk",
-      "prior_mu": 17.3762,
-      "prior_sigma": 6.5838,
+      "title": "Sherbro Island",
+      "path": "africa/sierraleone/sherbroisland",
+      "prior_score": -4.5912,
+      "prior_variance": 2.202342,
       "prior_n": 1
     }
   ]

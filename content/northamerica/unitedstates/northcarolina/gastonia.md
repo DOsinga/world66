@@ -5,7 +5,7 @@ done:
 latitude: 35.262265
 loc_type: city
 longitude: -81.183819
-score: 0.35
+score: 0.27
 title: Gastonia
 type: location
 ---

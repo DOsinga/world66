@@ -5,7 +5,7 @@ latitude: 36.099206
 longitude: 43.328611
 title: Nimrud
 type: location
-score: 0.15
+score: 0.17
 loc_type: feature
 ---
 

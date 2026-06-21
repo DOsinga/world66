@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilique_Sainte-Th%C3%A9r
 latitude: 49.146083
 loc_type: city
 longitude: 0.225517
-score: 0.49
+score: 0.44
 title: Lisieux
 type: location
 ---

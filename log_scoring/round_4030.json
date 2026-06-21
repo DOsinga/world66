@@ -1,0 +1,200 @@
+{
+  "round": 4030,
+  "timestamp": "2026-06-13T23:38:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Positano",
+      "path": "europe/italy/campania/positano",
+      "prior_score": 9.9261,
+      "prior_variance": 0.218652,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Praslin",
+      "path": "africa/seychelles/praslin",
+      "prior_score": 10.1229,
+      "prior_variance": 0.413602,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Madeira",
+      "path": "europe/portugal/madeira",
+      "prior_score": 7.8593,
+      "prior_variance": 0.167971,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Matera",
+      "path": "europe/italy/basilicata/matera",
+      "prior_score": 7.8962,
+      "prior_variance": 0.174159,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Manuel Antonio",
+      "path": "northamerica/costarica/manuelantonio",
+      "prior_score": 7.7841,
+      "prior_variance": 0.121135,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 5.3659,
+      "prior_variance": 0.144877,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 3.9261,
+      "prior_variance": 0.120003,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 3.2906,
+      "prior_variance": 0.109311,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Garden of the Gods",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/gardenofgods",
+      "prior_score": 6.6423,
+      "prior_variance": 0.136023,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Big Bend National Park",
+      "path": "northamerica/unitedstates/texas/big_bend_national_park",
+      "prior_score": 5.4072,
+      "prior_variance": 0.117671,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 4.4744,
+      "prior_variance": 0.107554,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 3.9452,
+      "prior_variance": 0.123349,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Rishikesh",
+      "path": "asia/india/uttaranchal/rishikesh",
+      "prior_score": 5.3411,
+      "prior_variance": 0.118738,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Gyantse",
+      "path": "asia/china/tibet/gyantse",
+      "prior_score": 2.5702,
+      "prior_variance": 0.12428,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Pamplona",
+      "path": "europe/spain/navarre/pamplona",
+      "prior_score": 3.8115,
+      "prior_variance": 0.134974,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Burgos",
+      "path": "europe/spain/northernspain/burgos",
+      "prior_score": 4.2715,
+      "prior_variance": 0.107597,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Bari",
+      "path": "europe/italy/puglia/bari",
+      "prior_score": 4.0872,
+      "prior_variance": 0.106687,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 2.6708,
+      "prior_variance": 0.094433,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Hurghada",
+      "path": "africa/egypt/hurghada",
+      "prior_score": 3.4931,
+      "prior_variance": 0.119261,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 3.7641,
+      "prior_variance": 0.114923,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 1.0022,
+      "prior_variance": 0.138859,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Pistoia",
+      "path": "europe/italy/tuscany/pistoia",
+      "prior_score": 3.4407,
+      "prior_variance": 0.106691,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.4361,
+      "prior_variance": 0.095382,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Vadodara",
+      "path": "asia/india/gujarat/vadodara",
+      "prior_score": -1.6457,
+      "prior_variance": 0.101011,
+      "prior_n": 13
+    }
+  ]
+}

@@ -6,7 +6,7 @@ latitude: 15.627022
 longitude: 73.765685
 title: Siolim
 type: location
-score: 0.49
+score: 0.42
 loc_type: city
 image: siolim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Photo_from_Siolim,_Bardez,_an_urbanising_village_area_in_North_Goa_20.jpg

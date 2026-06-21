@@ -5,7 +5,7 @@ latitude: 44.2515
 longitude: 3.231
 title: Gorges du Tarn
 type: location
-score: 0.6
+score: 0.52
 loc_type: feature
 ---
 

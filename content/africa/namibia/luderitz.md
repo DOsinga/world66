@@ -5,7 +5,7 @@ done:
 latitude: -26.650009
 loc_type: city
 longitude: 15.157266
-score: 0.51
+score: 0.44
 title: Lüderitz
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hua_Shan
 title: Hua Shan
 type: location
+score: 0.58
 ---
 
 Hua Shan — the West Sacred Mountain, one of China's five Taoist holy peaks — is either the most terrifying or the most exhilarating hike in China, depending on your relationship with heights and your willingness to trust an iron chain bolted into a cliff face. The mountain rises sharply from the North China Plain, its five peaks connected by paths that at several points reduce to narrow notches in near-vertical rock, with chains to hold and exposure on both sides. The [Changkong Zhandao](/asia/china/shaanxi/hua_shan/changkong_zhandao) — the "Vast Sky Plank Walk," a thirteenth-century wooden pathway mounted on wooden pegs hammered into a sheer rock face — requires a safety harness and inspires real terror in the people crossing it. This is not metaphor; you watch people freeze.

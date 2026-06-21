@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/49861480217
 latitude: 17.1175
 loc_type: city
 longitude: -61.8456
-score: 0.6
+score: 0.53
 title: St. John's
 type: location
 ---

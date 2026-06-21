@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS-42_Taif,_Mecca_and_Jed
 latitude: 21.27028
 loc_type: city
 longitude: 40.415831
-score: 0.43
+score: 0.36
 title: Ta’if
 type: location
 ---

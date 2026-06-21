@@ -1,0 +1,200 @@
+{
+  "round": 4405,
+  "timestamp": "2026-06-14T00:09:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 7.3897,
+      "prior_variance": 0.115793,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.8218,
+      "prior_variance": 0.124661,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Grande-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/grandeterre",
+      "prior_score": 4.1578,
+      "prior_variance": 0.104131,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Chefchaouen",
+      "path": "africa/morocco/chaouen",
+      "prior_score": 8.1516,
+      "prior_variance": 0.149329,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Rothenburg ob der Tauber",
+      "path": "europe/germany/bavaria/rothenburg",
+      "prior_score": 6.951,
+      "prior_variance": 0.14084,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.3508,
+      "prior_variance": 0.108528,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Oslo",
+      "path": "europe/norway/oslo",
+      "prior_score": 5.5969,
+      "prior_variance": 0.112009,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -1.9653,
+      "prior_variance": 0.172621,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Olympos",
+      "path": "asia/turkey/olympos",
+      "prior_score": 3.4097,
+      "prior_variance": 0.097958,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Inis Me\u00e1in",
+      "path": "europe/ireland/aranislands/inismeain",
+      "prior_score": 1.6203,
+      "prior_variance": 0.101227,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Avoca",
+      "path": "europe/ireland/avoca",
+      "prior_score": -0.3178,
+      "prior_variance": 0.1013,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 2.2536,
+      "prior_variance": 0.087542,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 1.859,
+      "prior_variance": 0.095629,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.3718,
+      "prior_variance": 0.092765,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Cullen",
+      "path": "europe/unitedkingdom/scotland/cullen",
+      "prior_score": -0.4405,
+      "prior_variance": 0.088523,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -0.4582,
+      "prior_variance": 0.086104,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.0481,
+      "prior_variance": 0.092661,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Arenzano",
+      "path": "europe/italy/liguria/italianriviera/arenzano",
+      "prior_score": 0.6216,
+      "prior_variance": 0.103746,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.8622,
+      "prior_variance": 0.099387,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Naga City",
+      "path": "asia/philippines/naga_city",
+      "prior_score": -2.1438,
+      "prior_variance": 0.098826,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.033,
+      "prior_variance": 0.087919,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Babek",
+      "path": "europe/azerbaijan/naxcivan/babek",
+      "prior_score": -4.3519,
+      "prior_variance": 0.09493,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -4.2273,
+      "prior_variance": 0.108407,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -3.4711,
+      "prior_variance": 0.113115,
+      "prior_n": 14
+    }
+  ]
+}

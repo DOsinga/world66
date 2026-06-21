@@ -5,7 +5,7 @@ done:
 latitude: 22.050384
 loc_type: city
 longitude: -159.558862
-score: 0.82
+score: 0.74
 title: Kaua'i
 type: location
 sources:

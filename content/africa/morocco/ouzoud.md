@@ -5,7 +5,7 @@ latitude: 32.015355
 longitude: -6.71923
 title: Ouzoud
 type: location
-score: 0.6
+score: 0.52
 loc_type: feature
 ---
 

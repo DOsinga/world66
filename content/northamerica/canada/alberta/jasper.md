@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Jasper_corner_of_
 latitude: 52.8737
 loc_type: city
 longitude: -117.9543
-score: 0.75
+score: 0.7
 title: Jasper
 type: location
 ---

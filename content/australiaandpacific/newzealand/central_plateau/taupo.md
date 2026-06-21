@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Taupo_and_Waikato_Riv
 latitude: -38.6866
 loc_type: city
 longitude: 176.0695
-score: 0.63
+score: 0.54
 title: Taupo
 type: location
 ---

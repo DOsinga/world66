@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/73643373@N00/123305372
 latitude: 17.988466
 loc_type: city
 longitude: -92.936633
-score: 0.41
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Villahermosa
 title: Villahermosa

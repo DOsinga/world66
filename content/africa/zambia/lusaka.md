@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lusaka.JPG
 latitude: -15.416339
 loc_type: city
 longitude: 28.281841
-score: 0.38
+score: 0.32
 title: Lusaka
 type: location
 ---

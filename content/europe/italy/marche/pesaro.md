@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/31491420081
 latitude: 43.909811
 loc_type: city
 longitude: 12.913123
-score: 0.55
+score: 0.45
 title: Pesaro
 type: location
 ---

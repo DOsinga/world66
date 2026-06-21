@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cup_mark,_Gobustan_01.jpg
 latitude: 40.082678
 loc_type: city
 longitude: 49.412082
-score: 0.51
+score: 0.44
 title: Gobustan
 type: location
 ---

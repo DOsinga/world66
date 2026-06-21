@@ -5,7 +5,7 @@ done:
 latitude: 29.333333
 loc_type: city
 longitude: -110.666667
-score: 0.42
+score: 0.34
 title: Sonora
 type: location
 ---

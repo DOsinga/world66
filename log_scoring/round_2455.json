@@ -1,0 +1,200 @@
+{
+  "round": 2455,
+  "timestamp": "2026-06-13T21:43:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kotor",
+      "path": "europe/montenegro/kotor",
+      "prior_score": 9.518,
+      "prior_variance": 0.265818,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Komodo",
+      "path": "asia/indonesia/komodo",
+      "prior_score": 7.931,
+      "prior_variance": 0.279457,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 10.6903,
+      "prior_variance": 0.355667,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.4696,
+      "prior_variance": 0.166114,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 0.8379,
+      "prior_variance": 0.229662,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.1641,
+      "prior_variance": 0.155421,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.0334,
+      "prior_variance": 0.201448,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Victor",
+      "path": "northamerica/unitedstates/idaho/teton_valley/victor",
+      "prior_score": -1.6209,
+      "prior_variance": 0.190176,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Bluff",
+      "path": "northamerica/unitedstates/utah/bluff",
+      "prior_score": -0.7191,
+      "prior_variance": 0.163166,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": 0.0811,
+      "prior_variance": 0.18539,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.5751,
+      "prior_variance": 0.16397,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Tiantai Mountain",
+      "path": "asia/china/zhejiang/tiantaishan",
+      "prior_score": 0.6706,
+      "prior_variance": 0.165497,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 1.0699,
+      "prior_variance": 0.169159,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.4629,
+      "prior_variance": 0.163644,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.1629,
+      "prior_variance": 0.211084,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Liepaja",
+      "path": "europe/latvia/liepaja",
+      "prior_score": -0.5698,
+      "prior_variance": 0.16424,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.3128,
+      "prior_variance": 0.210264,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Grand-Bassam",
+      "path": "africa/ivorycoast/grandbassam",
+      "prior_score": -0.4548,
+      "prior_variance": 0.183271,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Nasino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/nasino",
+      "prior_score": -2.7941,
+      "prior_variance": 0.25375,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": -0.1162,
+      "prior_variance": 0.205289,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Valcea",
+      "path": "europe/romania/valcea",
+      "prior_score": -2.3277,
+      "prior_variance": 0.161261,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Karimnagar",
+      "path": "asia/india/andhrapradesh/karimnagar",
+      "prior_score": -5.2025,
+      "prior_variance": 0.189918,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Bolton",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bolton",
+      "prior_score": -4.0128,
+      "prior_variance": 0.189933,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -11.2068,
+      "prior_variance": 0.638553,
+      "prior_n": 7
+    }
+  ]
+}

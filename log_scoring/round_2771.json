@@ -1,0 +1,200 @@
+{
+  "round": 2771,
+  "timestamp": "2026-06-13T22:06:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monteverde",
+      "path": "northamerica/costarica/monteverde",
+      "prior_score": 6.7033,
+      "prior_variance": 0.204067,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Gallinara Island Regional Park",
+      "path": "europe/italy/liguria/gallinarapark",
+      "prior_score": 0.4055,
+      "prior_variance": 0.199436,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.2857,
+      "prior_variance": 0.157948,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Maroochydore",
+      "path": "australiaandpacific/australia/queensland/maroochydore",
+      "prior_score": 1.0992,
+      "prior_variance": 0.144588,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.5016,
+      "prior_variance": 0.176498,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 2.1462,
+      "prior_variance": 0.165014,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Hormuz Island",
+      "path": "asia/iran/hormuz_island",
+      "prior_score": 0.5883,
+      "prior_variance": 0.152286,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Abkhazia",
+      "path": "europe/georgia/abkhazia",
+      "prior_score": -1.8071,
+      "prior_variance": 0.198758,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Coburg",
+      "path": "europe/germany/bavaria/coburg",
+      "prior_score": 0.6322,
+      "prior_variance": 0.152384,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Gorkha",
+      "path": "asia/nepal/gorkha_gurkha",
+      "prior_score": 1.5922,
+      "prior_variance": 0.161964,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -5.7071,
+      "prior_variance": 0.260183,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Shymkent",
+      "path": "asia/kazakhstan/shimkent",
+      "prior_score": -5.0129,
+      "prior_variance": 0.21892,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -4.7099,
+      "prior_variance": 0.185154,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Gold River",
+      "path": "northamerica/canada/britishcolumbia/gold_river_britis",
+      "prior_score": -4.3458,
+      "prior_variance": 0.172345,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -3.7634,
+      "prior_variance": 0.160067,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Iba",
+      "path": "asia/philippines/iba",
+      "prior_score": -4.0308,
+      "prior_variance": 0.161079,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -4.9965,
+      "prior_variance": 0.184124,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -4.9294,
+      "prior_variance": 0.192908,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Monroe",
+      "path": "northamerica/unitedstates/louisiana/monroe",
+      "prior_score": -5.5242,
+      "prior_variance": 0.194062,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Sunderland",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/sunderland",
+      "prior_score": -3.735,
+      "prior_variance": 0.153596,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -3.6677,
+      "prior_variance": 0.192433,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Al Khums",
+      "path": "africa/libya/al_khums",
+      "prior_score": -7.1462,
+      "prior_variance": 0.251462,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Linfen",
+      "path": "asia/china/shanxiprovince/linfen",
+      "prior_score": -6.8692,
+      "prior_variance": 0.257892,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "J\u00e9r\u00e9mie",
+      "path": "northamerica/thecaribbean/haiti/jeremie",
+      "prior_score": -5.478,
+      "prior_variance": 0.201167,
+      "prior_n": 8
+    }
+  ]
+}

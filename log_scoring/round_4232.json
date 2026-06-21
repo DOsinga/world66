@@ -1,0 +1,200 @@
+{
+  "round": 4232,
+  "timestamp": "2026-06-13T23:55:56",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Seminyak",
+      "path": "asia/indonesia/bali/seminyak",
+      "prior_score": 6.9243,
+      "prior_variance": 0.146968,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 6.9847,
+      "prior_variance": 0.127064,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 3.895,
+      "prior_variance": 0.116624,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Santillana del Mar",
+      "path": "europe/spain/cantabria/santillana_del_mar",
+      "prior_score": 3.3196,
+      "prior_variance": 0.090202,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sesimbra",
+      "path": "europe/portugal/sesimbra",
+      "prior_score": 3.6396,
+      "prior_variance": 0.119406,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Puerto Varas",
+      "path": "southamerica/chile/puertovaras",
+      "prior_score": 3.4996,
+      "prior_variance": 0.096759,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": 1.222,
+      "prior_variance": 0.109537,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Zhangmu",
+      "path": "asia/china/tibet/zhangmu",
+      "prior_score": -3.0855,
+      "prior_variance": 0.10912,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Khaplu",
+      "path": "asia/pakistan/khaplu",
+      "prior_score": -1.9508,
+      "prior_variance": 0.114761,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Moka",
+      "path": "africa/mauritius/moka",
+      "prior_score": -0.3029,
+      "prior_variance": 0.099486,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.4022,
+      "prior_variance": 0.087361,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Nospelt",
+      "path": "europe/luxembourg/nospelt",
+      "prior_score": -3.0129,
+      "prior_variance": 0.111686,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "San Fernando",
+      "path": "northamerica/trinidadandtobago/sanfernando",
+      "prior_score": -2.0038,
+      "prior_variance": 0.099542,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Hrodna (Grodno)",
+      "path": "europe/belarus/hrodna_grodno",
+      "prior_score": -2.1382,
+      "prior_variance": 0.089373,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Yamoussoukro",
+      "path": "africa/ivorycoast/yamoussoukro",
+      "prior_score": -2.6822,
+      "prior_variance": 0.114033,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Nanyang",
+      "path": "asia/china/henan_province/nanyang",
+      "prior_score": -4.9995,
+      "prior_variance": 0.105543,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -5.9289,
+      "prior_variance": 0.106019,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.3149,
+      "prior_variance": 0.099695,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Masally",
+      "path": "europe/azerbaijan/masally",
+      "prior_score": -6.0643,
+      "prior_variance": 0.12633,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "The Qalas",
+      "path": "asia/uzbekistan/theqalas",
+      "prior_score": -5.5922,
+      "prior_variance": 0.129198,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Davidson",
+      "path": "northamerica/unitedstates/northcarolina/davidson",
+      "prior_score": -3.6737,
+      "prior_variance": 0.129224,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -5.4789,
+      "prior_variance": 0.146671,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Westminster",
+      "path": "northamerica/unitedstates/colorado/westminster",
+      "prior_score": -5.2991,
+      "prior_variance": 0.129718,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.5421,
+      "prior_variance": 0.12152,
+      "prior_n": 14
+    }
+  ]
+}

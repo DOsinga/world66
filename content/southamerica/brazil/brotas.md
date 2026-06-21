@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brotas-SP_-_panoramio.jpg
 latitude: -22.2841
 loc_type: city
 longitude: -48.1267
-score: 0.48
+score: 0.39
 title: Brotas
 type: location
 ---

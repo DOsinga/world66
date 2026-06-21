@@ -5,7 +5,7 @@ done:
 latitude: 0.5631
 loc_type: city
 longitude: 97.8195
-score: 0.4
+score: 0.32
 title: Teluk Dalam
 type: location
 ---

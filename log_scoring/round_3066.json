@@ -1,0 +1,200 @@
+{
+  "round": 3066,
+  "timestamp": "2026-06-13T22:26:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 10.9063,
+      "prior_variance": 0.572149,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 8.6293,
+      "prior_variance": 0.237083,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Ios",
+      "path": "europe/greece/ios",
+      "prior_score": 6.0317,
+      "prior_variance": 0.161815,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Skopelos",
+      "path": "europe/greece/skopelos",
+      "prior_score": 6.254,
+      "prior_variance": 0.205131,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 3.13,
+      "prior_variance": 0.136343,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Namur",
+      "path": "europe/belgium/namur",
+      "prior_score": 1.2559,
+      "prior_variance": 0.154149,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.7018,
+      "prior_variance": 0.131765,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.3115,
+      "prior_variance": 0.140801,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Brindisi",
+      "path": "europe/italy/puglia/brindisi",
+      "prior_score": 1.604,
+      "prior_variance": 0.134204,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": -0.0032,
+      "prior_variance": 0.133434,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Gonio",
+      "path": "europe/georgia/gonio",
+      "prior_score": -0.5346,
+      "prior_variance": 0.14356,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Hecho",
+      "path": "europe/spain/aragon/hecho",
+      "prior_score": -0.0057,
+      "prior_variance": 0.136808,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Cortegana",
+      "path": "europe/spain/andalucia/cortegana",
+      "prior_score": -1.2797,
+      "prior_variance": 0.132609,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Almerimar",
+      "path": "europe/spain/andalucia/almerimar",
+      "prior_score": -1.5733,
+      "prior_variance": 0.137882,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Franeker",
+      "path": "europe/netherlands/friesland/franeker",
+      "prior_score": -1.4358,
+      "prior_variance": 0.13196,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.4805,
+      "prior_variance": 0.179783,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.3199,
+      "prior_variance": 0.161951,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.1448,
+      "prior_variance": 0.126262,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.494,
+      "prior_variance": 0.138803,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Salt",
+      "path": "asia/jordan/salt",
+      "prior_score": -1.4216,
+      "prior_variance": 0.141595,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.4459,
+      "prior_variance": 0.183743,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Navrongo",
+      "path": "africa/ghana/navrongo",
+      "prior_score": -5.323,
+      "prior_variance": 0.141053,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -6.0303,
+      "prior_variance": 0.169078,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Durgapur",
+      "path": "asia/india/westbengal/durgapur",
+      "prior_score": -6.1753,
+      "prior_variance": 0.204934,
+      "prior_n": 9
+    }
+  ]
+}

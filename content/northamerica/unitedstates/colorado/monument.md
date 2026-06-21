@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2nd_Street_in_Monument_Col
 latitude: 39.0917
 loc_type: city
 longitude: -104.8728
-score: 0.36
+score: 0.29
 title: Monument
 type: location
 ---

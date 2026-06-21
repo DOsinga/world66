@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_de_Bombas_de_Ponce_
 latitude: 18.0111
 loc_type: city
 longitude: -66.6141
-score: 0.51
+score: 0.45
 title: Ponce
 type: location
 ---

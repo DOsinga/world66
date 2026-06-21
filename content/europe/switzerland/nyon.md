@@ -7,7 +7,7 @@ done:
 latitude: 46.3821
 loc_type: city
 longitude: 6.2403
-score: 0.6
+score: 0.5
 title: Nyon
 type: location
 image: nyon.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kramfors,_Sweden_-_panoram
 latitude: 62.9333
 loc_type: city
 longitude: 17.8
-score: 0.37
+score: 0.32
 title: Kramfors
 type: location
 ---

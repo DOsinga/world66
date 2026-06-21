@@ -1,0 +1,200 @@
+{
+  "round": 2845,
+  "timestamp": "2026-06-13T22:11:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Heidelberg",
+      "path": "europe/germany/badenwrttemberg/heidelberg",
+      "prior_score": 6.9911,
+      "prior_variance": 0.175903,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.1662,
+      "prior_variance": 0.163825,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Cheverny",
+      "path": "europe/france/centre/loirevalley/cheverny",
+      "prior_score": 4.2574,
+      "prior_variance": 0.173631,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 4.7159,
+      "prior_variance": 0.17,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Lalibela",
+      "path": "africa/ethiopia/lalibela",
+      "prior_score": 6.8685,
+      "prior_variance": 0.210735,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 6.1201,
+      "prior_variance": 0.255061,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Harrogate",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate",
+      "prior_score": 3.2904,
+      "prior_variance": 0.154025,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Augsburg",
+      "path": "europe/germany/bavaria/augsburg",
+      "prior_score": 3.2374,
+      "prior_variance": 0.229589,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.2034,
+      "prior_variance": 0.181134,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Hengdian World Studios",
+      "path": "asia/china/zhejiang/hengdian",
+      "prior_score": 0.6698,
+      "prior_variance": 0.153005,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.4631,
+      "prior_variance": 0.163146,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "San Juan del Sur",
+      "path": "northamerica/nicaragua/sanjuandelsur",
+      "prior_score": 1.0375,
+      "prior_variance": 0.13918,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Jelenia G\u00f3ra",
+      "path": "europe/poland/jelenia_gra",
+      "prior_score": -0.38,
+      "prior_variance": 0.143022,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.5751,
+      "prior_variance": 0.142764,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -2.0818,
+      "prior_variance": 0.148325,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -0.7598,
+      "prior_variance": 0.150009,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Llangefni",
+      "path": "europe/unitedkingdom/wales/llangefni",
+      "prior_score": -2.7041,
+      "prior_variance": 0.140287,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.4018,
+      "prior_variance": 0.126138,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Longnan",
+      "path": "asia/china/gansu/longnan",
+      "prior_score": -4.6486,
+      "prior_variance": 0.14226,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Yarkand",
+      "path": "asia/china/xinjiangprovince/yarkand",
+      "prior_score": -5.006,
+      "prior_variance": 0.144405,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Bad Schwartau",
+      "path": "europe/germany/schleswigholstein/badschwartau",
+      "prior_score": -3.4507,
+      "prior_variance": 0.18399,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Carlisle",
+      "path": "northamerica/unitedstates/pennsylvania/carlisle",
+      "prior_score": -4.3458,
+      "prior_variance": 0.145522,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Kano",
+      "path": "africa/nigeria/kano",
+      "prior_score": -4.2944,
+      "prior_variance": 0.178949,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Pointe-Noire",
+      "path": "africa/congobrazzaville/pointenoire",
+      "prior_score": -4.5242,
+      "prior_variance": 0.171509,
+      "prior_n": 9
+    }
+  ]
+}

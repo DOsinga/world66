@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146295563@N08/52175095412
 latitude: 53.020564
 loc_type: city
 longitude: -2.229993
-score: 0.33
+score: 0.26
 title: Stoke-on-Trent
 type: location
 ---

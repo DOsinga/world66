@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_die_Winterthurer
 latitude: 47.499172
 loc_type: city
 longitude: 8.72915
-score: 0.53
+score: 0.44
 title: Winterthur
 type: location
 ---

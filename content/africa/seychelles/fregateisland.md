@@ -5,7 +5,7 @@ latitude: -4.585896
 longitude: 55.940228
 title: Fregate Island
 type: location
-score: 0.7
+score: 0.6
 loc_type: feature
 ---
 

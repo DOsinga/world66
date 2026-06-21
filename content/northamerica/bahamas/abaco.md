@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hopetown-lighthouse.jpg
 latitude: 26.4667
 loc_type: city
 longitude: -77.0833
-score: 0.61
+score: 0.54
 sources:
 - https://en.wikipedia.org/wiki/Abaco_Islands
 - https://en.wikipedia.org/wiki/Elbow_Cay

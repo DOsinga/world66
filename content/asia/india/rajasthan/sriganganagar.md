@@ -5,7 +5,7 @@ done:
 latitude: 29.932
 loc_type: city
 longitude: 73.8723
-score: 0.28
+score: 0.24
 title: Sri Ganganagar
 type: location
 ---

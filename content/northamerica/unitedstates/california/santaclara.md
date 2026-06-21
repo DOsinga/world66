@@ -5,7 +5,7 @@ done:
 latitude: 37.354113
 loc_type: city
 longitude: -121.955174
-score: 0.37
+score: 0.32
 title: Santa Clara
 type: location
 ---

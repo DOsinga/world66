@@ -15,7 +15,7 @@ quick_facts:
   Area: "21 km² — world's 3rd smallest country"
   Interior Landscape: Moonscape from phosphate mining
   Tourists Per Year: A few hundred
-score: 0.36
+score: 0.18
 loc_type: country
 ---
 

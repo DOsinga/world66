@@ -5,7 +5,7 @@ latitude: 2.278463
 longitude: 31.685853
 title: Murchison Falls
 type: location
-score: 0.52
+score: 0.44
 loc_type: feature
 ---
 

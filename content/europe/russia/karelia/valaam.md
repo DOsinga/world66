@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Ladoga._Valaam._Valaa
 latitude: 61.388986
 loc_type: city
 longitude: 30.944978
-score: 0.42
+score: 0.4
 title: Valaam
 type: location
 ---

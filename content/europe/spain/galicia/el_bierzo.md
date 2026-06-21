@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Las_M%C
 latitude: 42.65265
 loc_type: city
 longitude: -6.623184
-score: 0.53
+score: 0.45
 title: El Bierzo
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 33.861799
 loc_type: city
 longitude: 73.828321
-score: 0.42
+score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Toli_Pir,_Rawalakot
 - https://en.wikipedia.org/wiki/Banjosa_Lake,_Rawalakot

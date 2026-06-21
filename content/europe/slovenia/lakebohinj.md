@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Bohinj.jpg
 latitude: 46.282265
 loc_type: city
 longitude: 13.864531
-score: 0.67
+score: 0.61
 title: Lake Bohinj
 type: location
 ---

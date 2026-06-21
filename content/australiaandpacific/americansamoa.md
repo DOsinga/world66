@@ -16,7 +16,7 @@ quick_facts:
   Currency: US dollar
   Number of Islands: "7"
   National Park Visitors per Year: "Fewer than 30,000"
-score: 0.49
+score: 0.38
 loc_type: country
 ---
 

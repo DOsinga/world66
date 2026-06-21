@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paderborn_Dom_asv2024-05_i
 latitude: 51.717704
 loc_type: city
 longitude: 8.752653
-score: 0.47
+score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Paderborn
 title: Paderborn

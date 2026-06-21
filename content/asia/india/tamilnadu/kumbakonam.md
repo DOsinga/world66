@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumbakonam_Mahamaham_Tank.
 latitude: 10.960411
 loc_type: city
 longitude: 79.382086
-score: 0.48
+score: 0.4
 title: Kumbakonam
 type: location
 ---

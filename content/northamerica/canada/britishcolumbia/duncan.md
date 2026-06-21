@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duncan_Totem_Poles_(569683
 latitude: 48.7787
 loc_type: city
 longitude: -123.708
-score: 0.37
+score: 0.35
 title: Duncan
 type: location
 ---

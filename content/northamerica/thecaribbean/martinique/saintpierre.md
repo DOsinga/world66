@@ -5,7 +5,7 @@ done:
 latitude: 14.7419
 loc_type: city
 longitude: -61.1775
-score: 0.58
+score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique
 title: Saint-Pierre

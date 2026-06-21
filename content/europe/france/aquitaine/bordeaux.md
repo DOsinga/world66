@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bordeaux_Bourse_R01.jpg
 latitude: 44.8378
 loc_type: city
 longitude: -0.5792
-score: 0.74
+score: 0.63
 title: Bordeaux
 type: location
 ---

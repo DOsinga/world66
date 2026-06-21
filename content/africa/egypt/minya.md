@@ -5,7 +5,7 @@ done:
 latitude: 28.119444
 loc_type: city
 longitude: 30.744444
-score: 0.44
+score: 0.35
 title: Minya
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 9.467466
 longitude: 98.830042
 title: Surat Thani
 type: location
-score: 0.5
+score: 0.42
 loc_type: city
 ---
 

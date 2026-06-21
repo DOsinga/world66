@@ -5,7 +5,7 @@ done:
 latitude: 10.072844
 loc_type: city
 longitude: 78.779519
-score: 0.42
+score: 0.33
 title: Karaikudi
 type: location
 ---

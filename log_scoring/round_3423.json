@@ -1,0 +1,200 @@
+{
+  "round": 3423,
+  "timestamp": "2026-06-13T22:52:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Zug",
+      "path": "europe/switzerland/zug",
+      "prior_score": 1.4481,
+      "prior_variance": 0.117344,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.0529,
+      "prior_variance": 0.139472,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.3525,
+      "prior_variance": 0.155656,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Sheki",
+      "path": "europe/azerbaijan/saki",
+      "prior_score": 2.5042,
+      "prior_variance": 0.131867,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": 0.0458,
+      "prior_variance": 0.11154,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Lemmer",
+      "path": "europe/netherlands/friesland/lemmer",
+      "prior_score": -1.366,
+      "prior_variance": 0.119032,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -3.0903,
+      "prior_variance": 0.142647,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -1.2777,
+      "prior_variance": 0.122816,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -2.9996,
+      "prior_variance": 0.140653,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Scrivia Valley",
+      "path": "europe/italy/liguria/scriviavalley",
+      "prior_score": -0.6894,
+      "prior_variance": 0.143139,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -1.783,
+      "prior_variance": 0.137566,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Netanya",
+      "path": "asia/israel/nethanya",
+      "prior_score": -1.2385,
+      "prior_variance": 0.119288,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Tsaghkadzor Ski Resort",
+      "path": "europe/armenia/kotayk_marz/hrazdan/tsaghkadzor_ski_resort",
+      "prior_score": -0.6123,
+      "prior_variance": 0.126497,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.6407,
+      "prior_variance": 0.111103,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Imilchil",
+      "path": "africa/morocco/imilchil",
+      "prior_score": -0.7493,
+      "prior_variance": 0.16385,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Holgu\u00edn",
+      "path": "northamerica/thecaribbean/cuba/holguin",
+      "prior_score": -0.3238,
+      "prior_variance": 0.119837,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Temuka",
+      "path": "australiaandpacific/newzealand/canterbury/temuka",
+      "prior_score": -3.4517,
+      "prior_variance": 0.156549,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Jacksonville",
+      "path": "northamerica/unitedstates/florida/northeastflorida/jacksonville",
+      "prior_score": -2.7661,
+      "prior_variance": 0.125076,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Campinas",
+      "path": "southamerica/brazil/campinas",
+      "prior_score": -3.7975,
+      "prior_variance": 0.124474,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Embu",
+      "path": "africa/kenya/centralhighlands/embu",
+      "prior_score": -3.2943,
+      "prior_variance": 0.135352,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.4182,
+      "prior_variance": 0.131922,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -5.4653,
+      "prior_variance": 0.18415,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.1715,
+      "prior_variance": 0.257267,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Galdogob",
+      "path": "africa/somalia/galdogob",
+      "prior_score": -10.5097,
+      "prior_variance": 0.434655,
+      "prior_n": 10
+    }
+  ]
+}

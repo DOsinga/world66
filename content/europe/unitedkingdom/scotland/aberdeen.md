@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%2B_%22Silver_City%22_wird
 latitude: 57.148243
 loc_type: city
 longitude: -2.092809
-score: 0.51
+score: 0.44
 title: Aberdeen
 type: location
 ---

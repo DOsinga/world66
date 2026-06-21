@@ -1,0 +1,200 @@
+{
+  "round": 4196,
+  "timestamp": "2026-06-13T23:53:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Himeji",
+      "path": "asia/japan/honshu/himeji",
+      "prior_score": 7.2896,
+      "prior_variance": 0.154933,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 7.6978,
+      "prior_variance": 0.149113,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Chiang Rai",
+      "path": "asia/thailand/chiangrai",
+      "prior_score": 6.0161,
+      "prior_variance": 0.138867,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bodrum",
+      "path": "asia/turkey/bodrum",
+      "prior_score": 6.2838,
+      "prior_variance": 0.115489,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 5.7615,
+      "prior_variance": 0.123642,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Finale Ligure",
+      "path": "europe/italy/liguria/italianriviera/finaleligure",
+      "prior_score": 3.7929,
+      "prior_variance": 0.112218,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 4.0695,
+      "prior_variance": 0.100951,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Stamsund",
+      "path": "europe/norway/lofotenislands/stamsund",
+      "prior_score": 3.3783,
+      "prior_variance": 0.13163,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Rishikesh",
+      "path": "asia/india/uttarpradesh/rishikesh",
+      "prior_score": 4.2727,
+      "prior_variance": 0.105169,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Itacar\u00e9",
+      "path": "southamerica/brazil/itacare",
+      "prior_score": 2.8626,
+      "prior_variance": 0.108523,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Bend",
+      "path": "northamerica/unitedstates/oregon/bend",
+      "prior_score": 2.5546,
+      "prior_variance": 0.115319,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Hua Hin",
+      "path": "asia/thailand/huahin",
+      "prior_score": 4.816,
+      "prior_variance": 0.114558,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "San Jose del Cabo",
+      "path": "northamerica/mexico/sanjosedelcabo",
+      "prior_score": 3.4745,
+      "prior_variance": 0.109032,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.9614,
+      "prior_variance": 0.098581,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Chachapoyas",
+      "path": "southamerica/peru/chachapoyas",
+      "prior_score": 3.0191,
+      "prior_variance": 0.114166,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.0702,
+      "prior_variance": 0.100841,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.1567,
+      "prior_variance": 0.092138,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Point Pelee and Pelee Island",
+      "path": "northamerica/canada/ontario/point_pelee_and_pelee_island",
+      "prior_score": -0.7075,
+      "prior_variance": 0.107194,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.0404,
+      "prior_variance": 0.087909,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Pucallpa",
+      "path": "southamerica/peru/pucallpa",
+      "prior_score": -3.3702,
+      "prior_variance": 0.099305,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Benin City",
+      "path": "africa/nigeria/benincity",
+      "prior_score": -4.2772,
+      "prior_variance": 0.12049,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Riyadh",
+      "path": "asia/saudiarabia/riyadh",
+      "prior_score": -4.2928,
+      "prior_variance": 0.118285,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -5.5169,
+      "prior_variance": 0.123263,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Waltham Cross",
+      "path": "europe/unitedkingdom/england/eastern_england/walthamcross",
+      "prior_score": -5.651,
+      "prior_variance": 0.172362,
+      "prior_n": 13
+    }
+  ]
+}

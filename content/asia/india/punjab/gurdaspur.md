@@ -6,11 +6,11 @@ latitude: 31.903726
 longitude: 75.227559
 title: Gurdaspur
 type: location
-score: 0.32
+score: 0.28
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Gurdaspur_district
-  - https://en.wikipedia.org/wiki/Dera_Baba_Nanak
+- https://en.wikipedia.org/wiki/Gurdaspur_district
+- https://en.wikipedia.org/wiki/Dera_Baba_Nanak
 ---
 
 Gurdaspur is a border district in northern Punjab, sitting close to the Pakistani frontier and serving historically as a gateway to Kashmir. The district's history runs deep — from ancient habitation through Mughal rule to the Sikh kingdoms and the British Raj. The 1947 Partition cut through it with particular violence; the new border drew families, friends, and communities apart in ways still felt today.

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carson_Mansion_Eureka_Cali
 latitude: 40.8021
 loc_type: city
 longitude: -124.1637
-score: 0.47
+score: 0.39
 title: Eureka
 type: location
 ---

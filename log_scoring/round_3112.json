@@ -1,0 +1,200 @@
+{
+  "round": 3112,
+  "timestamp": "2026-06-13T22:29:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huancayo",
+      "path": "southamerica/peru/huancayo",
+      "prior_score": 0.9526,
+      "prior_variance": 0.135967,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lochgilphead",
+      "path": "europe/unitedkingdom/scotland/lochgilphead",
+      "prior_score": -1.74,
+      "prior_variance": 0.142515,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Simferopol",
+      "path": "europe/ukraine/crimea/simferopol",
+      "prior_score": -2.8008,
+      "prior_variance": 0.143448,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -1.961,
+      "prior_variance": 0.120976,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/oregon/florence",
+      "prior_score": -1.0486,
+      "prior_variance": 0.12552,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.6856,
+      "prior_variance": 0.129777,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Duncan",
+      "path": "northamerica/canada/britishcolumbia/duncan",
+      "prior_score": -2.4341,
+      "prior_variance": 0.138357,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.4282,
+      "prior_variance": 0.136579,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Bochum",
+      "path": "europe/germany/northrhinewestphalia/bochum",
+      "prior_score": -2.9419,
+      "prior_variance": 0.132297,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ipswich",
+      "path": "europe/unitedkingdom/england/suffolk/ipswich",
+      "prior_score": -2.63,
+      "prior_variance": 0.161824,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Palo Alto",
+      "path": "northamerica/unitedstates/california/paloalto",
+      "prior_score": -2.4519,
+      "prior_variance": 0.140372,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "The Woodlands",
+      "path": "northamerica/unitedstates/texas/the_woodlands",
+      "prior_score": -4.9088,
+      "prior_variance": 0.149768,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -3.0866,
+      "prior_variance": 0.13817,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -2.4194,
+      "prior_variance": 0.122381,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.1161,
+      "prior_variance": 0.150883,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Dagupan City",
+      "path": "asia/philippines/dagupancity",
+      "prior_score": -3.361,
+      "prior_variance": 0.144749,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Morelos",
+      "path": "northamerica/mexico/morelos",
+      "prior_score": -4.1143,
+      "prior_variance": 0.150677,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Honiara",
+      "path": "australiaandpacific/solomonislands/honiara",
+      "prior_score": -1.1835,
+      "prior_variance": 0.143062,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Sawantwadi",
+      "path": "asia/india/maharashtra/sawantwadi",
+      "prior_score": -3.4753,
+      "prior_variance": 0.141094,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": -0.0193,
+      "prior_variance": 0.14227,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.5708,
+      "prior_variance": 0.148117,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Nukufetau Atoll",
+      "path": "australiaandpacific/tuvalu/nukufetauatoll",
+      "prior_score": -2.6644,
+      "prior_variance": 0.232684,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Makeni",
+      "path": "africa/sierraleone/makeni",
+      "prior_score": -7.3807,
+      "prior_variance": 0.239722,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Nouakchott",
+      "path": "africa/mauritania/nouakchott",
+      "prior_score": -6.1574,
+      "prior_variance": 0.201797,
+      "prior_n": 9
+    }
+  ]
+}

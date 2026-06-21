@@ -1,200 +1,200 @@
 {
   "round": 602,
-  "timestamp": "2026-04-12T10:39:15",
+  "timestamp": "2026-06-13T19:44:26",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Balearic islands",
-      "path": "europe/spain/balearicislands",
-      "prior_mu": 25.6931,
-      "prior_sigma": 4.6967,
-      "prior_n": 3
+      "title": "Te Anau",
+      "path": "australiaandpacific/newzealand/south_island/southland/fiordland/te_anau",
+      "prior_score": 8.405,
+      "prior_variance": 0.809492,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Gran Canaria",
-      "path": "europe/spain/grancanaria",
-      "prior_mu": 24.6428,
-      "prior_sigma": 6.1299,
-      "prior_n": 1
+      "title": "South Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/southlaketahoe",
+      "prior_score": 4.7912,
+      "prior_variance": 0.775287,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Santiago de Compostela",
-      "path": "europe/spain/santiago_de_compos",
-      "prior_mu": 23.6933,
-      "prior_sigma": 5.7466,
-      "prior_n": 1
+      "title": "Phuket City",
+      "path": "asia/thailand/phuket/phuket_city",
+      "prior_score": 5.5577,
+      "prior_variance": 0.6981,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Cadiz",
-      "path": "europe/spain/andalucia/cadiz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Christ Church",
+      "path": "northamerica/thecaribbean/barbados/christchurch",
+      "prior_score": 4.6826,
+      "prior_variance": 1.423065,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Cuenca",
-      "path": "europe/spain/la_mancha/cuenca",
-      "prior_mu": 22.7605,
-      "prior_sigma": 5.7379,
-      "prior_n": 1
+      "title": "Lifou",
+      "path": "australiaandpacific/newcaledonia/lifou",
+      "prior_score": 5.3788,
+      "prior_variance": 0.469479,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Benidorm",
-      "path": "europe/spain/spanishcostas/benidorm",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 5.0197,
+      "prior_variance": 0.797451,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Javea",
-      "path": "europe/spain/spanishcostas/javea",
-      "prior_mu": 23.101,
-      "prior_sigma": 5.7276,
-      "prior_n": 1
+      "title": "Salta",
+      "path": "southamerica/argentina/salta",
+      "prior_score": 6.6833,
+      "prior_variance": 1.605057,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Estepona",
-      "path": "europe/spain/andalucia/estepona",
-      "prior_mu": 22.6012,
-      "prior_sigma": 5.8967,
+      "title": "Colonia del Sacramento",
+      "path": "southamerica/uruguay/coloniadelsacramento",
+      "prior_score": 4.5081,
+      "prior_variance": 1.99556,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Pe\u00f1\u00edscola",
-      "path": "europe/spain/castellon/peniscola",
-      "prior_mu": 22.5349,
-      "prior_sigma": 5.9503,
-      "prior_n": 1
+      "title": "Sibiu",
+      "path": "europe/romania/sibiu",
+      "prior_score": 6.8128,
+      "prior_variance": 0.729518,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Ons Islands",
-      "path": "europe/spain/galicia/ons_islands",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 11,
-      "title": "La Toja/A Toxa Island",
-      "path": "europe/spain/galicia/la_tojaa_toxa_isl",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 12,
-      "title": "Alcal\u00e1 de Henares",
-      "path": "europe/spain/alcaladehenares",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 13,
-      "title": "Elche",
-      "path": "europe/spain/spanishcostas/elche",
-      "prior_mu": 21.532,
-      "prior_sigma": 4.6424,
+      "title": "Bratislava",
+      "path": "europe/slovakia/bratislava",
+      "prior_score": 5.016,
+      "prior_variance": 0.836659,
       "prior_n": 2
     },
     {
+      "rank": 11,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 6.6033,
+      "prior_variance": 0.708599,
+      "prior_n": 2
+    },
+    {
+      "rank": 12,
+      "title": "Baiona",
+      "path": "europe/spain/galicia/baiona",
+      "prior_score": 5.0845,
+      "prior_variance": 0.909533,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Gouda",
+      "path": "europe/netherlands/gouda",
+      "prior_score": 4.6295,
+      "prior_variance": 0.707798,
+      "prior_n": 3
+    },
+    {
       "rank": 14,
-      "title": "Ourense",
-      "path": "europe/spain/galicia/ourense",
-      "prior_mu": 22.6534,
-      "prior_sigma": 5.7258,
-      "prior_n": 1
+      "title": "\u00c6r\u00f8",
+      "path": "europe/denmark/r_southern_fyn",
+      "prior_score": 6.3379,
+      "prior_variance": 0.870024,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Sos del Rey Cat\u00f3lico",
-      "path": "europe/spain/aragon/sosdelreycatl",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 4.297,
+      "prior_variance": 0.735516,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Vic",
-      "path": "europe/spain/catalonia/vic",
-      "prior_mu": 22.4746,
-      "prior_sigma": 5.8806,
-      "prior_n": 1
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 4.9957,
+      "prior_variance": 1.232394,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Cantavieja",
-      "path": "europe/spain/aragon/cantavieja",
-      "prior_mu": 22.4589,
-      "prior_sigma": 5.9086,
-      "prior_n": 1
+      "title": "Turpan",
+      "path": "asia/china/xinjiangprovince/turpan",
+      "prior_score": 5.2867,
+      "prior_variance": 0.672909,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Terrassa",
-      "path": "europe/spain/catalonia/terrassa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Geilo",
+      "path": "europe/norway/geilo",
+      "prior_score": 6.3079,
+      "prior_variance": 1.802031,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Arroyo de la Miel",
-      "path": "europe/spain/andalucia/arroyodelamiel",
-      "prior_mu": 22.1783,
-      "prior_sigma": 5.9494,
+      "title": "Babeldaob",
+      "path": "australiaandpacific/palau/babeldoab",
+      "prior_score": 2.8259,
+      "prior_variance": 1.657603,
       "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Argentona",
-      "path": "europe/spain/catalonia/argentona",
-      "prior_mu": 22.3593,
-      "prior_sigma": 5.9274,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": 4.0665,
+      "prior_variance": 1.536559,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Central Spain",
-      "path": "europe/spain/centralspain",
-      "prior_mu": 22.8818,
-      "prior_sigma": 5.9525,
-      "prior_n": 1
+      "title": "Morgantina",
+      "path": "europe/italy/sicily/piazza_armerina/morgantina",
+      "prior_score": 4.2328,
+      "prior_variance": 0.866831,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Spain",
-      "path": "europe/spain",
-      "prior_mu": 30.9659,
-      "prior_sigma": 6.8785,
-      "prior_n": 1
+      "title": "Carcross",
+      "path": "northamerica/canada/the_yukon_territory/carcross",
+      "prior_score": 3.2533,
+      "prior_variance": 0.6823,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Manzanares",
-      "path": "europe/spain/la_mancha/manzanares",
-      "prior_mu": 21.8867,
-      "prior_sigma": 5.9649,
+      "title": "Hudson",
+      "path": "northamerica/unitedstates/newyorkstate/hudson",
+      "prior_score": 3.524,
+      "prior_variance": 1.250821,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Tarancon",
-      "path": "europe/spain/la_mancha/tarancon",
-      "prior_mu": 21.6961,
-      "prior_sigma": 4.8093,
-      "prior_n": 2
+      "title": "New Haven",
+      "path": "northamerica/unitedstates/connecticut/newhaven",
+      "prior_score": 3.8921,
+      "prior_variance": 1.261844,
+      "prior_n": 1
     }
   ]
 }

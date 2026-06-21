@@ -1,0 +1,200 @@
+{
+  "round": 4540,
+  "timestamp": "2026-06-14T00:20:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 9.4977,
+      "prior_variance": 0.200619,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 9.7271,
+      "prior_variance": 0.257031,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 8.2248,
+      "prior_variance": 0.171049,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 7.5014,
+      "prior_variance": 0.114865,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Boston",
+      "path": "northamerica/unitedstates/massachusetts/boston",
+      "prior_score": 6.3996,
+      "prior_variance": 0.124519,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.7517,
+      "prior_variance": 0.119147,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Sossusvlei",
+      "path": "africa/namibia/sossusvlei",
+      "prior_score": 6.1163,
+      "prior_variance": 0.129421,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.1492,
+      "prior_variance": 0.106824,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 4.4855,
+      "prior_variance": 0.102073,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Port Louis",
+      "path": "africa/mauritius/portlouis",
+      "prior_score": 2.84,
+      "prior_variance": 0.097577,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.6956,
+      "prior_variance": 0.094396,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 3.433,
+      "prior_variance": 0.092102,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Kosrae",
+      "path": "australiaandpacific/micronesiafederatedstatesof/kosrae",
+      "prior_score": 0.553,
+      "prior_variance": 0.101111,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -1.0792,
+      "prior_variance": 0.113083,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Vic",
+      "path": "europe/spain/catalonia/vic",
+      "prior_score": 0.6889,
+      "prior_variance": 0.082797,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Tuy [Tui]",
+      "path": "europe/spain/northernspain/tuy_tui",
+      "prior_score": 0.3822,
+      "prior_variance": 0.083579,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.1587,
+      "prior_variance": 0.087661,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": -0.0505,
+      "prior_variance": 0.098672,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Cisano sul Neva",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cisanosulneva",
+      "prior_score": -0.9367,
+      "prior_variance": 0.099458,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_score": -0.9861,
+      "prior_variance": 0.091621,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Laulasmaa",
+      "path": "europe/estonia/laulasmaa",
+      "prior_score": -2.4892,
+      "prior_variance": 0.101047,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -1.8495,
+      "prior_variance": 0.099735,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.546,
+      "prior_variance": 0.103779,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Corvallis",
+      "path": "northamerica/unitedstates/oregon/corvallis",
+      "prior_score": -1.8712,
+      "prior_variance": 0.095086,
+      "prior_n": 15
+    }
+  ]
+}

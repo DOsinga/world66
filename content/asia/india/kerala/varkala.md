@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Varkala_Beach,_Varkala,_Ke
 latitude: 8.7333
 loc_type: city
 longitude: 76.7167
-score: 0.6
+score: 0.52
 title: Varkala
 type: location
 ---

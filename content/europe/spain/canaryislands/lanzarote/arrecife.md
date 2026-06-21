@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_San_Gabriel_Ar
 latitude: 28.964
 loc_type: city
 longitude: -13.5499
-score: 0.61
+score: 0.49
 title: Arrecife
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4055,
+  "timestamp": "2026-06-13T23:40:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saturnia",
+      "path": "europe/italy/tuscany/saturnia",
+      "prior_score": 3.276,
+      "prior_variance": 0.113785,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": -0.0878,
+      "prior_variance": 0.120114,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Khatgal",
+      "path": "asia/mongolia/khovsgol/khatgal",
+      "prior_score": 0.2427,
+      "prior_variance": 0.100429,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.3633,
+      "prior_variance": 0.123146,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.3431,
+      "prior_variance": 0.1066,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": -0.2154,
+      "prior_variance": 0.114218,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": 0.2569,
+      "prior_variance": 0.098135,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Penglai",
+      "path": "asia/china/shandong_province/penglai",
+      "prior_score": -0.6315,
+      "prior_variance": 0.094092,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Lushoto",
+      "path": "africa/tanzania/lushoto",
+      "prior_score": 0.3967,
+      "prior_variance": 0.104273,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.0737,
+      "prior_variance": 0.096949,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Silay",
+      "path": "asia/philippines/negrosisland/silay",
+      "prior_score": -0.8876,
+      "prior_variance": 0.101612,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Poindimi\u00e9",
+      "path": "australiaandpacific/newcaledonia/poindimie",
+      "prior_score": -0.2835,
+      "prior_variance": 0.099288,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Bo'ao",
+      "path": "asia/china/hainanisland/boao",
+      "prior_score": -1.4868,
+      "prior_variance": 0.110695,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Parque Nacional Santa Teresa",
+      "path": "southamerica/uruguay/parquesantateresa",
+      "prior_score": -0.4684,
+      "prior_variance": 0.090536,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -1.2382,
+      "prior_variance": 0.126688,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -1.738,
+      "prior_variance": 0.121772,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -2.7483,
+      "prior_variance": 0.123626,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Batu Pahat",
+      "path": "asia/malaysia/batupahat",
+      "prior_score": -3.1725,
+      "prior_variance": 0.113634,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Colwyn Bay",
+      "path": "europe/unitedkingdom/wales/colwyn_bay",
+      "prior_score": -2.7799,
+      "prior_variance": 0.110119,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.2333,
+      "prior_variance": 0.10029,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Radovis",
+      "path": "europe/macedonia/radovis",
+      "prior_score": -4.7543,
+      "prior_variance": 0.1123,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Murfreesboro",
+      "path": "northamerica/unitedstates/tennessee/murfreesboro",
+      "prior_score": -3.1045,
+      "prior_variance": 0.101972,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -4.5802,
+      "prior_variance": 0.137852,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Rachel",
+      "path": "northamerica/unitedstates/nevada/rachel",
+      "prior_score": -5.8384,
+      "prior_variance": 0.179554,
+      "prior_n": 13
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: -6.144128
 loc_type: city
 longitude: 155.205934
-score: 0.36
+score: 0.3
 title: Bougainville
 type: location
 image: bougainville.jpg

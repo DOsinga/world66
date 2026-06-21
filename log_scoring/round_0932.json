@@ -1,200 +1,200 @@
 {
   "round": 932,
-  "timestamp": "2026-04-12T16:08:09",
+  "timestamp": "2026-06-13T20:01:36",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hawaii",
-      "path": "northamerica/unitedstates/hawaii",
-      "prior_rank": 101,
-      "prior_wins": 69,
-      "prior_n": 3
-    },
-    {
-      "rank": 2,
-      "title": "Banff",
-      "path": "northamerica/canada/alberta/banff",
-      "prior_rank": 91,
-      "prior_wins": 46,
+      "title": "G\u00f6reme",
+      "path": "asia/turkey/cappadocia/goreme",
+      "prior_score": 15.095,
+      "prior_variance": 1.023064,
       "prior_n": 2
     },
     {
+      "rank": 2,
+      "title": "Ubud",
+      "path": "asia/indonesia/bali/ubud",
+      "prior_score": 16.7674,
+      "prior_variance": 1.296272,
+      "prior_n": 3
+    },
+    {
       "rank": 3,
-      "title": "Iguazu Falls",
-      "path": "southamerica/argentina/iguazufalls",
-      "prior_rank": 113,
-      "prior_wins": 45,
+      "title": "Riomaggiore",
+      "path": "europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore",
+      "prior_score": 14.1231,
+      "prior_variance": 1.22596,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Saint Lucia",
-      "path": "northamerica/saintlucia",
-      "prior_rank": 96,
-      "prior_wins": 46,
-      "prior_n": 2
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 13.5481,
+      "prior_variance": 0.715293,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Seoul",
-      "path": "asia/southkorea/seoul",
-      "prior_rank": 142,
-      "prior_wins": 45,
-      "prior_n": 2
+      "title": "Svolv\u00e6r",
+      "path": "europe/norway/lofotenislands/svolvr_the_capi",
+      "prior_score": 12.1696,
+      "prior_variance": 0.542587,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Canary Islands",
-      "path": "europe/spain/canaryislands",
-      "prior_rank": 202,
-      "prior_wins": 65,
-      "prior_n": 3
-    },
-    {
-      "rank": 7,
-      "title": "Miyako Island",
-      "path": "asia/japan/ryukyuislands/miyakoisland",
-      "prior_rank": 19,
-      "prior_wins": 23,
-      "prior_n": 1
-    },
-    {
-      "rank": 8,
-      "title": "Cefal\u00f9",
-      "path": "europe/italy/sicily/cefalu",
-      "prior_rank": 187,
-      "prior_wins": 68,
-      "prior_n": 3
-    },
-    {
-      "rank": 9,
-      "title": "Pompeii",
-      "path": "europe/italy/campania/pompeii",
-      "prior_rank": 230,
-      "prior_wins": 89,
-      "prior_n": 4
-    },
-    {
-      "rank": 10,
-      "title": "Sixt Fer-\u00e0-Cheval",
-      "path": "europe/france/alpes/sixt_fercheval",
-      "prior_rank": 218,
-      "prior_wins": 22,
-      "prior_n": 1
-    },
-    {
-      "rank": 11,
-      "title": "Jerusalem",
-      "path": "asia/israel/jerusalem",
-      "prior_rank": 13,
-      "prior_wins": 46,
+      "title": "La Fortuna & Arenal Volcano",
+      "path": "northamerica/costarica/lafortunaarenalvolcano",
+      "prior_score": 12.7847,
+      "prior_variance": 0.829896,
       "prior_n": 2
     },
     {
+      "rank": 7,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 14.0991,
+      "prior_variance": 0.981645,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Interlaken",
+      "path": "europe/switzerland/interlaken",
+      "prior_score": 15.6821,
+      "prior_variance": 0.830189,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 15.7949,
+      "prior_variance": 1.050134,
+      "prior_n": 3
+    },
+    {
+      "rank": 10,
+      "title": "Vienna",
+      "path": "europe/austria/vienna",
+      "prior_score": 14.7635,
+      "prior_variance": 1.252627,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 15.3575,
+      "prior_variance": 0.669498,
+      "prior_n": 3
+    },
+    {
       "rank": 12,
-      "title": "North Cascades NP",
-      "path": "northamerica/unitedstates/washington/northcascadesnp",
-      "prior_rank": 160,
-      "prior_wins": 45,
+      "title": "Cairo",
+      "path": "africa/egypt/cairo",
+      "prior_score": 15.4808,
+      "prior_variance": 1.325569,
       "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Bossaso",
-      "path": "africa/somalia/bossaso",
-      "prior_rank": 8155,
-      "prior_wins": 0,
-      "prior_n": 2
-    },
-    {
-      "rank": 14,
-      "title": "Liberia",
-      "path": "africa/liberia",
-      "prior_rank": 8168,
-      "prior_wins": 0,
-      "prior_n": 3
-    },
-    {
-      "rank": 15,
-      "title": "Mahdishar",
-      "path": "asia/iran/mahdishar",
-      "prior_rank": 8122,
-      "prior_wins": 0,
-      "prior_n": 2
-    },
-    {
-      "rank": 16,
-      "title": "Mauritania",
-      "path": "africa/mauritania",
-      "prior_rank": 8206,
-      "prior_wins": 3,
+      "title": "Chiang mai",
+      "path": "asia/thailand/chiangmai",
+      "prior_score": 13.9649,
+      "prior_variance": 0.560608,
       "prior_n": 4
     },
     {
+      "rank": 14,
+      "title": "Bagan",
+      "path": "asia/myanmar/bagan",
+      "prior_score": 15.6125,
+      "prior_variance": 0.836458,
+      "prior_n": 2
+    },
+    {
+      "rank": 15,
+      "title": "Guanajuato",
+      "path": "northamerica/mexico/guanajuato",
+      "prior_score": 12.01,
+      "prior_variance": 1.080671,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 8.7698,
+      "prior_variance": 1.257718,
+      "prior_n": 3
+    },
+    {
       "rank": 17,
-      "title": "Dacarbudhuq",
-      "path": "africa/somaliland/dacarbudhuq",
-      "prior_rank": 7000,
-      "prior_wins": 8,
+      "title": "Kanazawa",
+      "path": "asia/japan/honshu/kanazawacity",
+      "prior_score": 13.6231,
+      "prior_variance": 0.794313,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "North Korea",
-      "path": "asia/northkorea",
-      "prior_rank": 8163,
-      "prior_wins": 0,
-      "prior_n": 1
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 14.84,
+      "prior_variance": 1.144036,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Pyongyang",
-      "path": "asia/northkorea/pyongyang",
-      "prior_rank": 8218,
-      "prior_wins": 0,
-      "prior_n": 2
+      "title": "Puerto Iguaz\u00fa",
+      "path": "southamerica/argentina/puertoiguazu",
+      "prior_score": 14.3784,
+      "prior_variance": 1.249246,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Daviston",
-      "path": "northamerica/unitedstates/alabama/daviston",
-      "prior_rank": 8062,
-      "prior_wins": 2,
+      "title": "Lagos",
+      "path": "europe/portugal/lagos",
+      "prior_score": 13.4977,
+      "prior_variance": 0.89948,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Willacoochee",
-      "path": "northamerica/unitedstates/georgia/willacoochee",
-      "prior_rank": 8145,
-      "prior_wins": 2,
+      "title": "Valletta",
+      "path": "europe/malta/valletta",
+      "prior_score": 12.1639,
+      "prior_variance": 0.97417,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Adel",
-      "path": "northamerica/unitedstates/iowa/adel",
-      "prior_rank": 8212,
-      "prior_wins": 0,
-      "prior_n": 2
+      "title": "Cairns",
+      "path": "australiaandpacific/australia/queensland/cairns",
+      "prior_score": 9.9397,
+      "prior_variance": 0.90335,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Chester",
-      "path": "northamerica/unitedstates/virginia/chester",
-      "prior_rank": 8137,
-      "prior_wins": 0,
-      "prior_n": 1
+      "title": "Naples",
+      "path": "europe/italy/campania/naples",
+      "prior_score": 14.2665,
+      "prior_variance": 0.676786,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Sunrise Coffee",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/sunrisecoffee",
-      "prior_rank": 8201,
-      "prior_wins": 1,
-      "prior_n": 2
+      "title": "Las Vegas",
+      "path": "northamerica/unitedstates/nevada/lasvegas",
+      "prior_score": 15.2756,
+      "prior_variance": 0.860927,
+      "prior_n": 3
     }
   ]
 }

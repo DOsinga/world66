@@ -6,7 +6,7 @@ done:
 latitude: 41.7646
 loc_type: city
 longitude: -72.6908
-score: 0.37
+score: 0.33
 title: Hartford
 type: location
 ---

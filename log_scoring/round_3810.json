@@ -1,0 +1,200 @@
+{
+  "round": 3810,
+  "timestamp": "2026-06-13T23:21:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Trondheim",
+      "path": "europe/norway/trondheim",
+      "prior_score": 3.4759,
+      "prior_variance": 0.109229,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Messina",
+      "path": "europe/italy/sicily/messina",
+      "prior_score": 1.0895,
+      "prior_variance": 0.12169,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 2.0545,
+      "prior_variance": 0.118824,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Futuroscope",
+      "path": "europe/france/aquitaine/futuroscope",
+      "prior_score": 1.1465,
+      "prior_variance": 0.126893,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 1.0733,
+      "prior_variance": 0.116647,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Karlovac",
+      "path": "europe/croatia/karlovac",
+      "prior_score": 0.9699,
+      "prior_variance": 0.109219,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mystic",
+      "path": "northamerica/unitedstates/connecticut/mystic",
+      "prior_score": 1.6511,
+      "prior_variance": 0.098003,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Glenwood Springs",
+      "path": "northamerica/unitedstates/colorado/glenwood_springs",
+      "prior_score": 1.9409,
+      "prior_variance": 0.119494,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Nakuru",
+      "path": "africa/kenya/theriftvalley/nakuru",
+      "prior_score": 1.3551,
+      "prior_variance": 0.12729,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Kalutara",
+      "path": "asia/srilanka/kalutara",
+      "prior_score": 1.9915,
+      "prior_variance": 0.112071,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": -1.2555,
+      "prior_variance": 0.133427,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Blanding",
+      "path": "northamerica/unitedstates/utah/blanding",
+      "prior_score": -3.2121,
+      "prior_variance": 0.111033,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Dhahran",
+      "path": "asia/saudiarabia/dhahran",
+      "prior_score": -6.7782,
+      "prior_variance": 0.145186,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -4.929,
+      "prior_variance": 0.139298,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Newhall",
+      "path": "northamerica/unitedstates/california/newhall",
+      "prior_score": -4.7336,
+      "prior_variance": 0.116552,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kumla",
+      "path": "europe/sweden/kumla",
+      "prior_score": -5.5872,
+      "prior_variance": 0.140284,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Gosport",
+      "path": "europe/unitedkingdom/england/south_east/gosport",
+      "prior_score": -3.9177,
+      "prior_variance": 0.116729,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.327,
+      "prior_variance": 0.126324,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_score": -5.0773,
+      "prior_variance": 0.139897,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Bamako",
+      "path": "africa/mali/bamako",
+      "prior_score": -5.9687,
+      "prior_variance": 0.149983,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ndola",
+      "path": "africa/zambia/ndola",
+      "prior_score": -5.3603,
+      "prior_variance": 0.129251,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Lubumbashi",
+      "path": "africa/congokinshasa/lubumbashi",
+      "prior_score": -6.0387,
+      "prior_variance": 0.170492,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Fort Thompson",
+      "path": "northamerica/unitedstates/southdakota/fort_thompson",
+      "prior_score": -6.959,
+      "prior_variance": 0.177447,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -6.8203,
+      "prior_variance": 0.184546,
+      "prior_n": 12
+    }
+  ]
+}

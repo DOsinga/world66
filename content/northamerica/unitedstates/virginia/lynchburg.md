@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LynchburgJune2021.jpg
 latitude: 37.413754
 loc_type: city
 longitude: -79.142246
-score: 0.42
+score: 0.33
 sources:
 - https://en.wikipedia.org/wiki/Lynchburg,_Virginia
 - https://en.wikipedia.org/wiki/Point_of_Honor

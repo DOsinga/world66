@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Am_Marktplatz_Osnabr%C3%BC
 latitude: 52.272
 loc_type: city
 longitude: 8.0476
-score: 0.45
+score: 0.38
 title: Osnabrück
 type: location
 ---

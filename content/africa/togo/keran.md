@@ -10,6 +10,7 @@ loc_type: feature
 longitude: 1.0833
 title: Kéran National Park
 type: location
+score: 0.35
 ---
 
 Kéran National Park is the second-largest national park in [Togo](/africa/togo), covering roughly 1,600 square kilometres of dry savanna, gallery forest and seasonal floodplain in the north of the country. The Kéran river — for which the park is named — winds through the centre, sustaining a chain of pools that draw what wildlife remains during the long dry season. Together with [Fazao-Malfakassa](/africa/togo/fazao) further south, Kéran is the heart of Togo's wildlife conservation, such as it is.

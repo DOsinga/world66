@@ -1,0 +1,200 @@
+{
+  "round": 3597,
+  "timestamp": "2026-06-13T23:05:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 4.9339,
+      "prior_variance": 0.142181,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.9554,
+      "prior_variance": 0.107425,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Koprivshtitsa",
+      "path": "europe/bulgaria/koprivshtitsa",
+      "prior_score": 1.1728,
+      "prior_variance": 0.113319,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 1.2089,
+      "prior_variance": 0.121516,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Bautzen",
+      "path": "europe/germany/saxony/bautzen",
+      "prior_score": 0.049,
+      "prior_variance": 0.106525,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Skaneateles",
+      "path": "northamerica/unitedstates/newyorkstate/skaneateles",
+      "prior_score": -0.3913,
+      "prior_variance": 0.103778,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Cherchell",
+      "path": "africa/algeria/cherchell",
+      "prior_score": -2.6862,
+      "prior_variance": 0.111238,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": 0.3332,
+      "prior_variance": 0.109117,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Tlemcen",
+      "path": "africa/algeria/tlemcen",
+      "prior_score": -1.1295,
+      "prior_variance": 0.114316,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.3041,
+      "prior_variance": 0.121466,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Hilversum",
+      "path": "europe/netherlands/hilversum",
+      "prior_score": -2.1549,
+      "prior_variance": 0.111602,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Macon",
+      "path": "northamerica/unitedstates/georgia/macon",
+      "prior_score": -2.6283,
+      "prior_variance": 0.134649,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -3.0496,
+      "prior_variance": 0.121519,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -3.3323,
+      "prior_variance": 0.139257,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Surin",
+      "path": "asia/thailand/surin_province/surin",
+      "prior_score": -0.8103,
+      "prior_variance": 0.125245,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Indore",
+      "path": "asia/india/madhyapradesh/indore",
+      "prior_score": -2.9539,
+      "prior_variance": 0.110593,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.3242,
+      "prior_variance": 0.138998,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kittery",
+      "path": "northamerica/unitedstates/maine/kittery",
+      "prior_score": -1.9428,
+      "prior_variance": 0.117028,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Carbondale",
+      "path": "northamerica/unitedstates/illinois/carbondale",
+      "prior_score": -4.4521,
+      "prior_variance": 0.130461,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.505,
+      "prior_variance": 0.138278,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Zabrze",
+      "path": "europe/poland/zabrze",
+      "prior_score": -4.4446,
+      "prior_variance": 0.166561,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Liaoyuan",
+      "path": "asia/china/jilin/liaoyuan",
+      "prior_score": -6.2192,
+      "prior_variance": 0.15866,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -5.555,
+      "prior_variance": 0.158156,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "San Donato Milanese",
+      "path": "europe/italy/lombardia/san_donato_milanese",
+      "prior_score": -4.922,
+      "prior_variance": 0.161016,
+      "prior_n": 11
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 18.816667
 loc_type: city
 longitude: 95.216667
-score: 0.33
+score: 0.3
 title: Pyay
 type: location
 ---

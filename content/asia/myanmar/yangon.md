@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ShwedagonPagoda.jpg
 latitude: 16.796713
 loc_type: city
 longitude: 96.160992
-score: 0.57
+score: 0.47
 title: Yangon
 type: location
 ---

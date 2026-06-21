@@ -5,7 +5,7 @@ done:
 latitude: 38.9013
 loc_type: city
 longitude: 46.2459
-score: 0.38
+score: 0.31
 title: Meghri
 type: location
 ---

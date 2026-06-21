@@ -1,0 +1,200 @@
+{
+  "round": 3878,
+  "timestamp": "2026-06-13T23:26:46",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Gili Trawangan",
+      "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+      "prior_score": 5.0579,
+      "prior_variance": 0.11731,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Koh Phayam",
+      "path": "asia/thailand/koh_phayam",
+      "prior_score": 4.7229,
+      "prior_variance": 0.110904,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Palm Springs",
+      "path": "northamerica/unitedstates/california/palm_springs",
+      "prior_score": 4.5015,
+      "prior_variance": 0.115505,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.1187,
+      "prior_variance": 0.107717,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Larnaca",
+      "path": "asia/cyprus/larnaca",
+      "prior_score": 3.683,
+      "prior_variance": 0.10677,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Narbonne",
+      "path": "europe/france/midi/languedoc/narbonne",
+      "prior_score": 1.8789,
+      "prior_variance": 0.117887,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.4883,
+      "prior_variance": 0.095771,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Muros",
+      "path": "europe/spain/galicia/muros",
+      "prior_score": 0.5837,
+      "prior_variance": 0.10491,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Talkeetna",
+      "path": "northamerica/unitedstates/alaska/talkeetna",
+      "prior_score": 0.8126,
+      "prior_variance": 0.206693,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -3.933,
+      "prior_variance": 0.146257,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Rio Lagartos",
+      "path": "northamerica/mexico/yucatan/rio_lagartos",
+      "prior_score": 1.3191,
+      "prior_variance": 0.099545,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mombasa",
+      "path": "africa/kenya/thecoast/mombasa",
+      "prior_score": 3.4763,
+      "prior_variance": 0.124224,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Lampang",
+      "path": "asia/thailand/lampang",
+      "prior_score": 1.674,
+      "prior_variance": 0.102104,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.9677,
+      "prior_variance": 0.119374,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Iles de Los",
+      "path": "africa/guineeconakry/ilesdelos",
+      "prior_score": -4.7559,
+      "prior_variance": 0.148422,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Annobon",
+      "path": "africa/equatorialguinea/annobon",
+      "prior_score": -6.2581,
+      "prior_variance": 0.171711,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Hopkinsville",
+      "path": "northamerica/unitedstates/kentucky/hopkinsville",
+      "prior_score": -4.7189,
+      "prior_variance": 0.112491,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": -5.4206,
+      "prior_variance": 0.125164,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.5596,
+      "prior_variance": 0.111355,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.7103,
+      "prior_variance": 0.121516,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Ghanzi",
+      "path": "africa/botswana/ghanzi",
+      "prior_score": -5.1406,
+      "prior_variance": 0.160766,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Linden",
+      "path": "southamerica/guyana/linden",
+      "prior_score": -5.1272,
+      "prior_variance": 0.122186,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Rawalpindi",
+      "path": "asia/pakistan/rawalpindi",
+      "prior_score": -5.6279,
+      "prior_variance": 0.124116,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -6.2758,
+      "prior_variance": 0.130178,
+      "prior_n": 12
+    }
+  ]
+}

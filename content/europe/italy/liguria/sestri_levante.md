@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sestri_Levante_and_Baia_de
 latitude: 44.2715
 loc_type: city
 longitude: 9.3959
-score: 0.66
+score: 0.56
 title: Sestri Levante
 type: location
 ---

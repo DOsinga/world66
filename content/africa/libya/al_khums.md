@@ -5,7 +5,7 @@ latitude: 32.652183
 longitude: 14.26801
 title: Al Khums
 type: location
-score: 0.29
+score: 0.22
 loc_type: city
 ---
 

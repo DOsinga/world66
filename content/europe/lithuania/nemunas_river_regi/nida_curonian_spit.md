@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Curonian_Spit_NP_05-2017_i
 latitude: 55.3075
 loc_type: city
 longitude: 20.8628
-score: 0.52
+score: 0.44
 title: Nida
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moulay_Idriss,_Maroc_(3184
 latitude: 34.0542
 loc_type: city
 longitude: -5.5272
-score: 0.56
+score: 0.48
 title: Moulay Idriss
 type: location
 ---

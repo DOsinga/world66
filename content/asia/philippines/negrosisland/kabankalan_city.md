@@ -5,7 +5,7 @@ done:
 latitude: 9.988915
 loc_type: city
 longitude: 122.81348
-score: 0.35
+score: 0.29
 title: Kabankalan City
 type: location
 image: kabankalan_city.jpg

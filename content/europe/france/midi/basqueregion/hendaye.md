@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontarrabie_depuis_Hendaye
 latitude: 43.364152
 loc_type: city
 longitude: -1.76165
-score: 0.54
+score: 0.43
 title: Hendaye
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/99287245@N00/5369084771
 latitude: 34.349144
 loc_type: city
 longitude: 62.216325
-score: 0.24
+score: 0.16
 title: Herat
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calvi_Port_1.jpg
 latitude: 42.567708
 loc_type: city
 longitude: 8.759053
-score: 0.67
+score: 0.58
 title: Calvi
 type: location
 ---

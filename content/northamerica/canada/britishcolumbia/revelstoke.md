@@ -5,7 +5,7 @@ done:
 latitude: 50.998045
 loc_type: city
 longitude: -118.195671
-score: 0.58
+score: 0.52
 title: Revelstoke
 type: location
 ---

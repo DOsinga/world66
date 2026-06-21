@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Night_at_Urgup,_Nevsehir.j
 latitude: 38.630051
 loc_type: city
 longitude: 34.911603
-score: 0.87
+score: 0.66
 sources:
 - https://en.wikipedia.org/wiki/%C3%9Crg%C3%BCp
 - https://en.wikipedia.org/wiki/Cappadocia

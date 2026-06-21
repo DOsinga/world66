@@ -5,7 +5,7 @@ done:
 latitude: 21.623077
 loc_type: city
 longitude: 87.508253
-score: 0.39
+score: 0.33
 title: Digha
 type: location
 ---

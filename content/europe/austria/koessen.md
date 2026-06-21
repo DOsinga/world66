@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ortsansicht_Kössen.jpg
 latitude: 47.670302
 loc_type: city
 longitude: 12.405516
-score: 0.48
+score: 0.46
 title: Kössen
 type: location
 ---

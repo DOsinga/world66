@@ -1,0 +1,200 @@
+{
+  "round": 2388,
+  "timestamp": "2026-06-13T21:39:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "\u00c5ndalsnes",
+      "path": "europe/norway/ndalsnes",
+      "prior_score": 6.2636,
+      "prior_variance": 0.19919,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 4.6332,
+      "prior_variance": 0.25208,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Kanchanaburi",
+      "path": "asia/thailand/kanchanaburi",
+      "prior_score": 4.4623,
+      "prior_variance": 0.212148,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Bregenz",
+      "path": "europe/austria/bregenz",
+      "prior_score": 2.6615,
+      "prior_variance": 0.170139,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Tartu",
+      "path": "europe/estonia/tartu",
+      "prior_score": 2.0841,
+      "prior_variance": 0.181802,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Cetinje",
+      "path": "europe/montenegro/cetinje",
+      "prior_score": 0.7244,
+      "prior_variance": 0.228036,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 0.6737,
+      "prior_variance": 0.175631,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Tv\u00f8royri",
+      "path": "europe/faroeislands/suuroy/tvroyri",
+      "prior_score": 0.5005,
+      "prior_variance": 0.145569,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Tutuila",
+      "path": "australiaandpacific/americansamoa/tutuila",
+      "prior_score": 1.1904,
+      "prior_variance": 0.308463,
+      "prior_n": 7
+    },
+    {
+      "rank": 10,
+      "title": "Barra De Navidad",
+      "path": "northamerica/mexico/barradenavidad",
+      "prior_score": 1.597,
+      "prior_variance": 0.166271,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Michoac\u00e1n",
+      "path": "northamerica/mexico/michoacan",
+      "prior_score": 0.9327,
+      "prior_variance": 0.209388,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 1.4486,
+      "prior_variance": 0.181527,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Gravina in Puglia",
+      "path": "europe/italy/puglia/gravina_in_puglia",
+      "prior_score": 1.813,
+      "prior_variance": 0.188748,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Rijeka",
+      "path": "europe/croatia/rijeka",
+      "prior_score": 1.3662,
+      "prior_variance": 0.176314,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 0.9833,
+      "prior_variance": 0.175858,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Kerman",
+      "path": "asia/iran/kerman",
+      "prior_score": -2.524,
+      "prior_variance": 0.185667,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog",
+      "prior_score": 0.0062,
+      "prior_variance": 0.168568,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Page",
+      "path": "northamerica/unitedstates/arizona/page",
+      "prior_score": 6.4257,
+      "prior_variance": 0.269226,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "Princeton",
+      "path": "northamerica/unitedstates/newjersey/princeton",
+      "prior_score": 1.1049,
+      "prior_variance": 0.170138,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.6741,
+      "prior_variance": 0.245901,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Sipalay",
+      "path": "asia/philippines/negrosisland/sipalay",
+      "prior_score": 0.613,
+      "prior_variance": 0.176902,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Bullfrog Marina",
+      "path": "northamerica/unitedstates/utah/bullfrog_marina",
+      "prior_score": -1.8944,
+      "prior_variance": 0.184074,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": 0.1689,
+      "prior_variance": 0.191128,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Dallas",
+      "path": "northamerica/unitedstates/texas/dallas",
+      "prior_score": -0.9177,
+      "prior_variance": 0.216749,
+      "prior_n": 8
+    }
+  ]
+}

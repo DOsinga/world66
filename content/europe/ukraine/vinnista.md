@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Vinnytsia_panora
 latitude: 49.2331
 loc_type: city
 longitude: 28.4682
-score: 0.31
+score: 0.28
 title: Vinnytsia
 type: location
 ---

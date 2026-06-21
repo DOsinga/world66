@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Miramar_Beach_in_Mohammedi
 latitude: 33.6958
 loc_type: city
 longitude: -7.3893
-score: 0.44
+score: 0.35
 title: Mohammedia
 type: location
 ---

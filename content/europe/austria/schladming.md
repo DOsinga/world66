@@ -5,7 +5,7 @@ done:
 latitude: 47.394042
 loc_type: city
 longitude: 13.686788
-score: 0.61
+score: 0.51
 title: Schladming
 type: location
 ---

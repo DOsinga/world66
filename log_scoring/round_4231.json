@@ -1,0 +1,200 @@
+{
+  "round": 4231,
+  "timestamp": "2026-06-13T23:55:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stockholm",
+      "path": "europe/sweden/stockholm",
+      "prior_score": 8.5737,
+      "prior_variance": 0.158732,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Killarney",
+      "path": "europe/ireland/killarney",
+      "prior_score": 6.2286,
+      "prior_variance": 0.110657,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Mount Rushmore",
+      "path": "northamerica/unitedstates/southdakota/mountrushmore",
+      "prior_score": 3.5649,
+      "prior_variance": 0.162124,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 4.4774,
+      "prior_variance": 0.105702,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Baden-Baden",
+      "path": "europe/germany/badenwrttemberg/badenbaden",
+      "prior_score": 4.5008,
+      "prior_variance": 0.098273,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 4.6236,
+      "prior_variance": 0.092778,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Annapolis",
+      "path": "northamerica/unitedstates/maryland/annapolis",
+      "prior_score": 2.0506,
+      "prior_variance": 0.093649,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Pacific Grove",
+      "path": "northamerica/unitedstates/california/pacific_groove",
+      "prior_score": 1.7227,
+      "prior_variance": 0.118132,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Montezuma",
+      "path": "northamerica/costarica/montezuma",
+      "prior_score": 3.895,
+      "prior_variance": 0.116624,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Kutaisi",
+      "path": "europe/georgia/kutaisi",
+      "prior_score": 3.061,
+      "prior_variance": 0.102407,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Celje",
+      "path": "europe/slovenia/celje",
+      "prior_score": 0.5435,
+      "prior_variance": 0.094115,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Sozopol",
+      "path": "europe/bulgaria/sozopol",
+      "prior_score": 2.9115,
+      "prior_variance": 0.09656,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Metsovo",
+      "path": "europe/greece/metsovo",
+      "prior_score": 2.4079,
+      "prior_variance": 0.088269,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.8497,
+      "prior_variance": 0.09527,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Terelj",
+      "path": "asia/mongolia/terelj",
+      "prior_score": 2.6513,
+      "prior_variance": 0.093574,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "F\u00e1mjin",
+      "path": "europe/faroeislands/suuroy/fmjin",
+      "prior_score": 0.0482,
+      "prior_variance": 0.103899,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Yellowknife",
+      "path": "northamerica/canada/northwestterritories/yellowknife",
+      "prior_score": 1.3767,
+      "prior_variance": 0.097013,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 2.7174,
+      "prior_variance": 0.096582,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": -0.2732,
+      "prior_variance": 0.100384,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Hemkund",
+      "path": "asia/india/uttaranchal/hemkunt",
+      "prior_score": 0.8812,
+      "prior_variance": 0.111513,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.0285,
+      "prior_variance": 0.101596,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Mons",
+      "path": "europe/belgium/mons",
+      "prior_score": 0.2985,
+      "prior_variance": 0.10054,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Delta",
+      "path": "northamerica/canada/britishcolumbia/delta",
+      "prior_score": -3.88,
+      "prior_variance": 0.100798,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Runyenjes",
+      "path": "africa/kenya/centralhighlands/runyanjes",
+      "prior_score": -5.8625,
+      "prior_variance": 0.107271,
+      "prior_n": 13
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tashigang_Dzong_111120.jpg
 latitude: 27.331284
 loc_type: city
 longitude: 91.552067
-score: 0.51
+score: 0.44
 title: Trashigang
 type: location
 ---

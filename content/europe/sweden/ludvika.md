@@ -5,7 +5,7 @@ done:
 latitude: 60.1333
 loc_type: city
 longitude: 15.1833
-score: 0.37
+score: 0.32
 title: Ludvika
 type: location
 image: ludvika.jpg

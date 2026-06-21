@@ -4,6 +4,7 @@ type: location
 loc_type: city
 latitude: 18.6414
 longitude: 72.8722
+score: 0.36
 ---
 
 Alibag (also Alibaug) is a coastal town in Maharashtra, about 95 kilometres south of Mumbai by road and roughly an hour by catamaran from the Gateway of India. It has been the default seaside escape for Mumbai residents for decades, and weekend crowds can make it feel like an extension of the city. Come on a weekday and it's much more relaxed.

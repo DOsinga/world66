@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/22890158@N08/6806825668
 latitude: 40.9369
 loc_type: city
 longitude: 24.4123
-score: 0.59
+score: 0.5
 title: Kavala
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 49.7667
 loc_type: city
 longitude: -94.4833
-score: 0.44
+score: 0.38
 title: Kenora
 type: location
 ---

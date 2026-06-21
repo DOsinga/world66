@@ -1,200 +1,200 @@
 {
   "round": 511,
-  "timestamp": "2026-04-12T09:43:45",
+  "timestamp": "2026-06-13T19:39:55",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "De Efteling",
-      "path": "europe/netherlands/deefteling",
-      "prior_mu": 24.8122,
-      "prior_sigma": 4.6312,
-      "prior_n": 2
+      "title": "Bude",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/bude",
+      "prior_score": -4.1477,
+      "prior_variance": 1.340474,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Midsland",
-      "path": "europe/netherlands/waddenislands/terschelling_islan/midsland",
-      "prior_mu": 21.5577,
-      "prior_sigma": 3.8467,
-      "prior_n": 3
+      "title": "Montescaglioso",
+      "path": "europe/italy/basilicata/montescaglioso",
+      "prior_score": -6.7824,
+      "prior_variance": 2.004302,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "De Koog",
-      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
-      "prior_mu": 21.4299,
-      "prior_sigma": 4.6224,
-      "prior_n": 2
+      "title": "Sneek",
+      "path": "europe/netherlands/friesland/sneek",
+      "prior_score": -3.7472,
+      "prior_variance": 1.692415,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Oudeschild",
-      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
-      "prior_mu": 21.4337,
-      "prior_sigma": 3.8822,
-      "prior_n": 3
+      "title": "Central City",
+      "path": "northamerica/unitedstates/colorado/central_city",
+      "prior_score": -4.197,
+      "prior_variance": 1.369246,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Weerribben National Park",
-      "path": "europe/netherlands/weerribben_np",
-      "prior_mu": 21.1583,
-      "prior_sigma": 3.4667,
-      "prior_n": 4
+      "title": "Empoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/empoli",
+      "prior_score": -3.8394,
+      "prior_variance": 2.593946,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Naarden",
-      "path": "europe/netherlands/naarden",
-      "prior_mu": 21.1367,
-      "prior_sigma": 4.5766,
-      "prior_n": 2
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -5.9644,
+      "prior_variance": 1.556726,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Volendam",
-      "path": "europe/netherlands/volendam",
-      "prior_mu": 21.3855,
-      "prior_sigma": 4.2747,
-      "prior_n": 2
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -3.7744,
+      "prior_variance": 1.423417,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Scheveningen",
-      "path": "europe/netherlands/scheveningen",
-      "prior_mu": 21.4122,
-      "prior_sigma": 3.9568,
-      "prior_n": 3
+      "title": "Kellogg",
+      "path": "northamerica/unitedstates/idaho/kellogg",
+      "prior_score": -4.4829,
+      "prior_variance": 2.5667,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Zandvoort",
-      "path": "europe/netherlands/zandvoort",
-      "prior_mu": 21.1268,
-      "prior_sigma": 3.7759,
-      "prior_n": 3
+      "title": "Ibo Island",
+      "path": "africa/mozambique/iboisland",
+      "prior_score": -6.107,
+      "prior_variance": 1.899205,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Workum",
-      "path": "europe/netherlands/friesland/workum",
-      "prior_mu": 20.9852,
-      "prior_sigma": 3.7454,
-      "prior_n": 3
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -4.4997,
+      "prior_variance": 1.693496,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Woudsend",
-      "path": "europe/netherlands/friesland/woudsend",
-      "prior_mu": 21.1621,
-      "prior_sigma": 3.9908,
-      "prior_n": 3
+      "title": "Jiangyong",
+      "path": "asia/china/hunan/jiangyong",
+      "prior_score": -6.0402,
+      "prior_variance": 1.449529,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Dordrecht",
-      "path": "europe/netherlands/dordrecht",
-      "prior_mu": 21.7362,
-      "prior_sigma": 4.3712,
-      "prior_n": 2
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -2.2415,
+      "prior_variance": 1.451572,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Arnhem",
-      "path": "europe/netherlands/arnhem",
-      "prior_mu": 21.2307,
-      "prior_sigma": 4.4791,
-      "prior_n": 2
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -5.2349,
+      "prior_variance": 1.603585,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Nijmegen",
-      "path": "europe/netherlands/nijmegen",
-      "prior_mu": 22.6765,
-      "prior_sigma": 5.939,
+      "title": "Keningau",
+      "path": "asia/malaysia/keningau",
+      "prior_score": -7.8024,
+      "prior_variance": 2.562877,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Apeldoorn",
-      "path": "europe/netherlands/apeldoorn",
-      "prior_mu": 22.425,
-      "prior_sigma": 5.9456,
+      "title": "Salatiga",
+      "path": "asia/indonesia/java/salatiga",
+      "prior_score": -6.0826,
+      "prior_variance": 1.828493,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Hellevoetsluis",
-      "path": "europe/netherlands/hellevoetsluis",
-      "prior_mu": 21.6533,
-      "prior_sigma": 4.2765,
-      "prior_n": 2
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -4.4485,
+      "prior_variance": 1.319816,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Tilburg",
-      "path": "europe/netherlands/tilburg",
-      "prior_mu": 21.6546,
-      "prior_sigma": 4.5531,
-      "prior_n": 2
+      "title": "Baramulla",
+      "path": "asia/india/jammuandkashmir/baramulla",
+      "prior_score": -5.4134,
+      "prior_variance": 1.46904,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Voorburg",
-      "path": "europe/netherlands/voorburg",
-      "prior_mu": 20.9065,
-      "prior_sigma": 3.8265,
-      "prior_n": 3
+      "title": "Cardwell",
+      "path": "australiaandpacific/australia/queensland/cardwell",
+      "prior_score": -2.425,
+      "prior_variance": 1.263085,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Heerenveen",
-      "path": "europe/netherlands/friesland/heerenveen",
-      "prior_mu": 21.1823,
-      "prior_sigma": 3.8514,
-      "prior_n": 3
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -4.6626,
+      "prior_variance": 2.061805,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Meppel",
-      "path": "europe/netherlands/meppel",
-      "prior_mu": 21.7282,
-      "prior_sigma": 4.5851,
-      "prior_n": 2
+      "title": "Abeokuta",
+      "path": "africa/nigeria/abeokuta",
+      "prior_score": -5.5979,
+      "prior_variance": 1.452261,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Hengelo",
-      "path": "europe/netherlands/hengelo",
-      "prior_mu": 21.919,
-      "prior_sigma": 4.3273,
-      "prior_n": 2
+      "title": "Beaudesert",
+      "path": "australiaandpacific/australia/queensland/beaudesert",
+      "prior_score": -5.3633,
+      "prior_variance": 1.383553,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Heerde",
-      "path": "europe/netherlands/heerde",
-      "prior_mu": 21.9041,
-      "prior_sigma": 4.3697,
-      "prior_n": 2
+      "title": "Columbus",
+      "path": "northamerica/unitedstates/ohio/columbus",
+      "prior_score": -4.6107,
+      "prior_variance": 1.349126,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Kielwindeweer",
-      "path": "europe/netherlands/kielwindeweer",
-      "prior_mu": 17.4973,
-      "prior_sigma": 6.6202,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/ohio/marion",
+      "prior_score": -7.8796,
+      "prior_variance": 1.528943,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Tjuchum",
-      "path": "europe/netherlands/tjuchum",
-      "prior_mu": 17.0113,
-      "prior_sigma": 3.6391,
-      "prior_n": 4
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -6.3558,
+      "prior_variance": 1.707076,
+      "prior_n": 1
     }
   ]
 }

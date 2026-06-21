@@ -5,7 +5,7 @@ done:
 latitude: 32.718561
 loc_type: city
 longitude: 74.858092
-score: 0.44
+score: 0.38
 title: Jammu
 type: location
 ---

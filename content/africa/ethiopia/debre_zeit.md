@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bishoftu_Lake,_Ethiopia_(5
 latitude: 8.75
 loc_type: city
 longitude: 38.9817
-score: 0.38
+score: 0.35
 title: Debre Zeit
 type: location
 ---

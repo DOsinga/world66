@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/73479994@N00/46872169411
 latitude: 36.365917
 loc_type: city
 longitude: 140.473174
-score: 0.53
+score: 0.46
 title: Mito
 type: location
 ---

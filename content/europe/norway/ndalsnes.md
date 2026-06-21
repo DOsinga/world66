@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aandalsnes_fra_kjerringpla
 latitude: 62.568169
 loc_type: city
 longitude: 7.686762
-score: 0.66
+score: 0.57
 title: Åndalsnes
 type: location
 ---

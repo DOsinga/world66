@@ -1,0 +1,200 @@
+{
+  "round": 3901,
+  "timestamp": "2026-06-13T23:28:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 13.2067,
+      "prior_variance": 0.556837,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Beijing",
+      "path": "asia/china/beijing",
+      "prior_score": 9.2921,
+      "prior_variance": 0.251397,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Abu Simbel",
+      "path": "africa/egypt/abusimbel",
+      "prior_score": 8.9893,
+      "prior_variance": 0.175626,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 6.684,
+      "prior_variance": 0.143212,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Kandy",
+      "path": "asia/srilanka/kandy",
+      "prior_score": 6.6798,
+      "prior_variance": 0.144577,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 5.5329,
+      "prior_variance": 0.130072,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Carcassonne",
+      "path": "europe/france/midi/languedoc/carcassone",
+      "prior_score": 8.0634,
+      "prior_variance": 0.150702,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Toledo",
+      "path": "europe/spain/la_mancha/toledo",
+      "prior_score": 6.5157,
+      "prior_variance": 0.138669,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.4812,
+      "prior_variance": 0.11666,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Kangding",
+      "path": "asia/china/sichuanprovince/kangding",
+      "prior_score": 1.9302,
+      "prior_variance": 0.114122,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -0.6231,
+      "prior_variance": 0.117501,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Deir el Qamar",
+      "path": "asia/lebanon/deirelqamar",
+      "prior_score": 1.1964,
+      "prior_variance": 0.108174,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": 2.3669,
+      "prior_variance": 0.231438,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Nicosia",
+      "path": "asia/cyprus/nicosia",
+      "prior_score": 1.6702,
+      "prior_variance": 0.152601,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Skipton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton",
+      "prior_score": 1.6676,
+      "prior_variance": 0.130694,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Anna Maria Island",
+      "path": "northamerica/unitedstates/florida/anna_maria_island",
+      "prior_score": 2.3226,
+      "prior_variance": 0.102665,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": 0.8766,
+      "prior_variance": 0.202711,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.5833,
+      "prior_variance": 0.105414,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Varazze",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/varazze",
+      "prior_score": 1.1516,
+      "prior_variance": 0.098382,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.1975,
+      "prior_variance": 0.112124,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Itapema",
+      "path": "southamerica/brazil/itapema",
+      "prior_score": -0.4054,
+      "prior_variance": 0.111297,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": -0.231,
+      "prior_variance": 0.119389,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -1.9869,
+      "prior_variance": 0.104143,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Durham",
+      "path": "northamerica/unitedstates/newhampshire/durham",
+      "prior_score": -3.7753,
+      "prior_variance": 0.116138,
+      "prior_n": 13
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MJK50197_Cathedral_of_the_
 latitude: 37.538509
 loc_type: city
 longitude: -77.43428
-score: 0.47
+score: 0.42
 title: Richmond
 type: location
 ---

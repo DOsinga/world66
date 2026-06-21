@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0003_Vistas_de_Petr%C3%B3p
 latitude: -22.388
 loc_type: city
 longitude: -43.175259
-score: 0.56
+score: 0.48
 title: Petrópolis
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Firopotamos_%CE%A6%CF%85%C
 latitude: 36.709344
 loc_type: city
 longitude: 24.506834
-score: 0.78
+score: 0.66
 title: Milos
 type: location
 ---

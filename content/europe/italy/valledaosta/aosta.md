@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Augustus_in_Aosta_
 latitude: 45.737088
 loc_type: city
 longitude: 7.319665
-score: 0.63
+score: 0.54
 title: Aosta
 type: location
 ---

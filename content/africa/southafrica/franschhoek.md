@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boschendal_2011.jpg
 latitude: -33.909167
 loc_type: city
 longitude: 19.119444
-score: 0.64
+score: 0.55
 title: Franschhoek
 type: location
 ---

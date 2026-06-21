@@ -5,7 +5,7 @@ done:
 latitude: 29.5488
 loc_type: city
 longitude: 94.6385
-score: 0.66
+score: 0.53
 title: Nyingchi
 type: location
 ---

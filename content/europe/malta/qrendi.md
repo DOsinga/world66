@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/87690240@N03/28109435260
 latitude: 35.834359
 loc_type: city
 longitude: 14.45787
-score: 0.51
+score: 0.43
 title: Qrendi
 type: location
 ---

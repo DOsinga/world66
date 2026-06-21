@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Concarneau
 title: Concarneau
 type: location
+score: 0.52
 ---
 
 Concarneau is a working fishing port in southern Finistère, one of the largest in Brittany and one of the few French coastal towns where the trawlers still outnumber the pleasure yachts. The town is dominated by the Ville Close — a medieval walled town set on an island in the harbour, connected to the mainland by two short bridges — which is one of the best-preserved fortified settlements in France and the main draw for visitors.

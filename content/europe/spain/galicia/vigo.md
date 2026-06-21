@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barrio_Viejo,_Vigo_(croppe
 latitude: 42.2377
 loc_type: city
 longitude: -8.7247
-score: 0.55
+score: 0.45
 title: Vigo
 type: location
 ---

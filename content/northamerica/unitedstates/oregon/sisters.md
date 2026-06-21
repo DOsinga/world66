@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sisters_Rodeo_Parade_on_U.
 latitude: 44.290948
 loc_type: city
 longitude: -121.549251
-score: 0.5
+score: 0.43
 title: Sisters
 type: location
 ---

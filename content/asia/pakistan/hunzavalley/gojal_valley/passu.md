@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pasu_cones.jpg
 latitude: 36.4658
 loc_type: city
 longitude: 74.8943
-score: 0.51
+score: 0.46
 title: Passu
 type: location
 ---

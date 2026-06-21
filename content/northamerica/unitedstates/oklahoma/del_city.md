@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eagle_Lake_1.jpg
 latitude: 35.442007
 loc_type: city
 longitude: -97.440871
-score: 0.26
+score: 0.2
 title: Del City
 type: location
 ---

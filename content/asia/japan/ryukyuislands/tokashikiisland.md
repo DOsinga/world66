@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tokashiki_Island_gsi-20081
 latitude: 26.18611
 loc_type: city
 longitude: 127.356983
-score: 0.64
+score: 0.58
 title: Tokashiki Island
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 9.5617
 loc_type: city
 longitude: 44.0618
-score: 0.32
+score: 0.23
 title: Hargeisa
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Volubilis_Longshot_II.jpg
 latitude: 34.073473
 loc_type: city
 longitude: -5.555366
-score: 0.65
+score: 0.55
 title: Volubilis
 type: location
 ---

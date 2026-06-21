@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Landscape_of_Shimla_,_Hima
 latitude: 31.1048
 loc_type: city
 longitude: 77.1734
-score: 0.61
+score: 0.52
 title: Shimla
 type: location
 ---

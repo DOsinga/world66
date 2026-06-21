@@ -1,200 +1,200 @@
 {
   "round": 1331,
-  "timestamp": "2026-04-12T22:22:01",
+  "timestamp": "2026-06-13T20:24:08",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Chile",
-      "path": "southamerica/chile",
-      "prior_rank": 3828,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 3.2219,
+      "prior_variance": 0.439445,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Tanzania",
-      "path": "africa/tanzania",
-      "prior_rank": 4341,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 2.3225,
+      "prior_variance": 0.303676,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Imilchil",
-      "path": "africa/morocco/imilchil",
-      "prior_rank": 6024,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 1.4274,
+      "prior_variance": 0.426568,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Neretva",
-      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
-      "prior_rank": 4383,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Songkhla",
+      "path": "asia/thailand/songkhla",
+      "prior_score": 1.9295,
+      "prior_variance": 0.305613,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "karpenisi",
-      "path": "europe/greece/karpenisi",
-      "prior_rank": 4292,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Roscoff",
+      "path": "europe/france/normandybrittany/roscoff",
+      "prior_score": 1.8199,
+      "prior_variance": 0.265261,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Kolovai Beach",
-      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
-      "prior_rank": 5143,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Scarborough",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough",
+      "prior_score": 2.2776,
+      "prior_variance": 0.357234,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Kiribati",
-      "path": "australiaandpacific/kiribati",
-      "prior_rank": 2889,
-      "prior_wins": 43,
+      "title": "Cheltenham",
+      "path": "europe/unitedkingdom/england/gloucestershire/cheltenham",
+      "prior_score": 1.5928,
+      "prior_variance": 0.32122,
       "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Oulu",
-      "path": "europe/finland/oulu",
-      "prior_rank": 4626,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2971,
+      "prior_variance": 0.32702,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "The Lakes",
-      "path": "africa/kenya/lakes",
-      "prior_rank": 5229,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Kokrobite",
+      "path": "africa/ghana/kokrobite",
+      "prior_score": -2.9131,
+      "prior_variance": 0.360136,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Cholet",
-      "path": "europe/france/centre/loirevalley/cholet",
-      "prior_rank": 5865,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Lobamba",
+      "path": "africa/swaziland/lobamba",
+      "prior_score": -1.4116,
+      "prior_variance": 0.307502,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Laval",
-      "path": "europe/france/centre/loirevalley/laval",
-      "prior_rank": 5134,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_score": -0.589,
+      "prior_variance": 0.295745,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Ru\u017eomberok",
-      "path": "europe/slovakia/ruomberok",
-      "prior_rank": 5492,
-      "prior_wins": 31,
+      "title": "Toluca",
+      "path": "northamerica/mexico/toluca",
+      "prior_score": -4.1604,
+      "prior_variance": 0.406355,
       "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Pyatigorsk",
-      "path": "europe/russia/pyatigorsk",
-      "prior_rank": 2500,
-      "prior_wins": 58,
+      "title": "Winston-Salem",
+      "path": "northamerica/unitedstates/northcarolina/winstonsalem",
+      "prior_score": -3.8501,
+      "prior_variance": 0.305033,
       "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Longreach",
-      "path": "australiaandpacific/australia/queensland/longreach",
-      "prior_rank": 6830,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.866,
+      "prior_variance": 0.294734,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Athens",
-      "path": "northamerica/unitedstates/georgia/athens",
-      "prior_rank": 4998,
-      "prior_wins": 29,
-      "prior_n": 3
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.2987,
+      "prior_variance": 0.347667,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Rochester",
-      "path": "northamerica/unitedstates/newyorkstate/rochester",
-      "prior_rank": 5989,
-      "prior_wins": 31,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -2.8858,
+      "prior_variance": 0.306212,
       "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Richmond",
-      "path": "northamerica/canada/britishcolumbia/vancouver/richmond",
-      "prior_rank": 4819,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -3.5236,
+      "prior_variance": 0.32026,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Hampton Beach",
-      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
-      "prior_rank": 4317,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -0.7688,
+      "prior_variance": 0.312074,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Channel-Port aux Basques",
-      "path": "northamerica/canada/newfoundland/channelport_aux_b",
-      "prior_rank": 5071,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -4.4104,
+      "prior_variance": 0.328244,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Bukoba",
-      "path": "africa/tanzania/bukoba",
-      "prior_rank": 6571,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Quincy",
+      "path": "northamerica/unitedstates/california/shastacascade/quincy",
+      "prior_score": -3.0412,
+      "prior_variance": 0.343899,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Llangefni",
-      "path": "europe/unitedkingdom/wales/llangefni",
-      "prior_rank": 6714,
-      "prior_wins": 19,
-      "prior_n": 3
+      "title": "Consett",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/consett",
+      "prior_score": -7.0466,
+      "prior_variance": 0.47522,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Macon",
-      "path": "northamerica/unitedstates/georgia/macon",
-      "prior_rank": 4650,
-      "prior_wins": 31,
-      "prior_n": 3
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -4.5967,
+      "prior_variance": 0.312558,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Piedras Negras",
-      "path": "northamerica/mexico/piedras_negras_co",
-      "prior_rank": 7226,
-      "prior_wins": 15,
-      "prior_n": 3
+      "title": "Marianna",
+      "path": "northamerica/unitedstates/florida/marianna",
+      "prior_score": -5.5719,
+      "prior_variance": 0.431788,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Banfora",
-      "path": "africa/burkinafaso/banfora",
-      "prior_rank": 6474,
-      "prior_wins": 16,
-      "prior_n": 3
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -7.8467,
+      "prior_variance": 0.428557,
+      "prior_n": 4
     }
   ]
 }

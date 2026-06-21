@@ -5,7 +5,7 @@ done:
 latitude: 27.9216
 loc_type: city
 longitude: -110.8994
-score: 0.44
+score: 0.38
 title: Guaymas
 type: location
 image: guaymas.jpg

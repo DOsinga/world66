@@ -5,7 +5,7 @@ done:
 latitude: 35.526
 loc_type: city
 longitude: -98.707
-score: 0.31
+score: 0.26
 title: Weatherford
 type: location
 ---

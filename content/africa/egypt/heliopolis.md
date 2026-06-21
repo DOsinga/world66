@@ -9,7 +9,7 @@ image: heliopolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Baron_Palace.JPG
 image_license: CC BY 3.0
 image_attribution: amr moustafa shalaby
-score: 0.4
+score: 0.34
 loc_type: city
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SanQuiricodOrciaPanorama.J
 latitude: 43.060395
 loc_type: city
 longitude: 11.603645
-score: 0.69
+score: 0.58
 title: San Quirico d'Orcia
 type: location
 ---

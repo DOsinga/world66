@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Sacramento_from_t
 latitude: 38.581061
 loc_type: city
 longitude: -121.493895
-score: 0.43
+score: 0.39
 title: Sacramento
 type: location
 ---

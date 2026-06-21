@@ -4,7 +4,7 @@ done:
 latitude: 41.547606
 loc_type: city
 longitude: 41.563765
-score: 0.46
+score: 0.4
 title: Kvariati
 type: location
 ---

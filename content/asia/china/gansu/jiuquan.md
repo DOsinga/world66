@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiuquan
 title: Jiuquan
 type: location
+score: 0.32
 ---
 
 Jiuquan has two claims on travellers' attention that sit at opposite ends of Chinese history. The name itself translates as "wine spring" and refers to a legend in which the Han general Huo Qubing, celebrating his victory over the Xiongnu nomads in 121 BC, poured his imperial gift of wine into a spring so that all his soldiers could share it. The spring still exists, set in a pleasant park near the city centre. The other claim is more contemporary: Jiuquan is the nearest city to the Jiuquan Satellite Launch Center, the facility from which China launched its first crewed spacecraft in 2003 and from which most subsequent missions have departed.

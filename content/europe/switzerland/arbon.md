@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbon-08-Bodensee-2006-gje
 latitude: 47.514926
 loc_type: city
 longitude: 9.430403
-score: 0.47
+score: 0.41
 title: Arbon
 type: location
 ---

@@ -14,7 +14,7 @@ quick_facts:
   Founded: AD 301 — world's oldest republic
   Area: "61 km²"
   Cars Per Capita: More cars than people
-score: 0.63
+score: 0.38
 loc_type: country
 ---
 

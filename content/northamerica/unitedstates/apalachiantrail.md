@@ -5,7 +5,7 @@ latitude: 37.3379
 longitude: -80.7566
 title: Appalachian Trail
 type: location
-score: 0.59
+score: 0.55
 loc_type: feature
 ---
 

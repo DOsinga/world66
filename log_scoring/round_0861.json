@@ -1,199 +1,199 @@
 {
   "round": 861,
-  "timestamp": "2026-04-12T14:45:34",
+  "timestamp": "2026-06-13T19:57:46",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Palma",
-      "path": "europe/spain/balearicislands/mallorca/palma1",
-      "prior_score": 8.7055,
-      "prior_variance": 1.938622,
-      "prior_n": 1
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 7.1612,
+      "prior_variance": 1.06912,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Martinique",
-      "path": "northamerica/thecaribbean/martinique",
-      "prior_score": 8.5161,
-      "prior_variance": 1.22017,
+      "title": "Torremolinos",
+      "path": "europe/spain/andalucia/torremolinos",
+      "prior_score": 4.8707,
+      "prior_variance": 0.804634,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Knossos",
-      "path": "europe/greece/crete/knossos",
-      "prior_score": 9.4257,
-      "prior_variance": 2.759182,
-      "prior_n": 1
+      "title": "Coronado",
+      "path": "northamerica/unitedstates/california/coronado",
+      "prior_score": 5.9072,
+      "prior_variance": 1.131222,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Rum",
-      "path": "asia/jordan/wadirum/rum",
-      "prior_score": -1.2689,
-      "prior_variance": 1.200391,
-      "prior_n": 1
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 6.338,
+      "prior_variance": 0.742166,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Marciana Marina",
-      "path": "europe/italy/tuscany/elba/marcianamarina",
-      "prior_score": 2.4213,
-      "prior_variance": 1.559347,
-      "prior_n": 1
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 6.5832,
+      "prior_variance": 0.913853,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Koblenz",
-      "path": "europe/germany/rhinelandpalatinate/koblenz",
-      "prior_score": 0.8082,
-      "prior_variance": 1.26575,
-      "prior_n": 1
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 5.1399,
+      "prior_variance": 1.20758,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Florac",
-      "path": "europe/france/midi/cevennes/florac",
-      "prior_score": 4.1883,
-      "prior_variance": 1.878956,
-      "prior_n": 1
+      "title": "Colombo",
+      "path": "asia/srilanka/colombo",
+      "prior_score": 4.476,
+      "prior_variance": 0.761395,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Crovie",
-      "path": "europe/unitedkingdom/crovie",
-      "prior_score": 0.2899,
-      "prior_variance": 1.287409,
-      "prior_n": 1
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 4.3242,
+      "prior_variance": 0.631329,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "'Uoleva",
-      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
-      "prior_score": -0.9899,
-      "prior_variance": 0.955159,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 5.5586,
+      "prior_variance": 0.719713,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Chatham Islands",
-      "path": "australiaandpacific/newzealand/chathamislands",
-      "prior_score": 0.1078,
-      "prior_variance": 1.370369,
-      "prior_n": 1
+      "title": "Poznan",
+      "path": "europe/poland/poznan",
+      "prior_score": 7.0838,
+      "prior_variance": 0.983859,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Ma'in",
-      "path": "asia/jordan/main",
-      "prior_score": 0.2917,
-      "prior_variance": 1.337043,
-      "prior_n": 1
+      "title": "Plymouth",
+      "path": "northamerica/unitedstates/massachusetts/plymouth",
+      "prior_score": 3.4519,
+      "prior_variance": 0.694555,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Anjara",
-      "path": "asia/jordan/anjara",
-      "prior_score": -5.0379,
-      "prior_variance": 16.625932,
-      "prior_n": 1
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 4.7961,
+      "prior_variance": 0.683111,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Crimea",
-      "path": "europe/ukraine/crimea",
-      "prior_score": -2.5619,
-      "prior_variance": 1.180371,
-      "prior_n": 1
+      "title": "Lassithi plateau",
+      "path": "europe/greece/crete/lassithi_plateau",
+      "prior_score": 6.4589,
+      "prior_variance": 0.59346,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Cha Am",
-      "path": "asia/thailand/cha_am",
-      "prior_score": 2.7528,
-      "prior_variance": 1.33769,
-      "prior_n": 1
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 4.4244,
+      "prior_variance": 0.543126,
+      "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Prachinburi",
-      "path": "asia/thailand/prachinburi",
-      "prior_score": -2.1017,
-      "prior_variance": 1.299605,
-      "prior_n": 1
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 5.0535,
+      "prior_variance": 0.664416,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Bandar-e Anzali",
-      "path": "asia/iran/bandareanzali",
-      "prior_score": -2.2259,
-      "prior_variance": 1.290323,
-      "prior_n": 1
+      "title": "Corbett National Park",
+      "path": "asia/india/uttaranchal/corbett_national_park",
+      "prior_score": 7.5492,
+      "prior_variance": 0.654569,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Calcutta",
-      "path": "asia/india/westbengal/calcutta",
-      "prior_score": 4.4823,
-      "prior_variance": 1.861411,
-      "prior_n": 1
+      "title": "Cuc Phuong",
+      "path": "asia/vietnam/cucphuong",
+      "prior_score": 5.176,
+      "prior_variance": 0.538408,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Jambi",
-      "path": "asia/indonesia/jambi",
-      "prior_score": -4.6594,
-      "prior_variance": 1.679145,
-      "prior_n": 1
+      "title": "Udzungwa National Park",
+      "path": "africa/tanzania/udzungwa_national_park",
+      "prior_score": 2.707,
+      "prior_variance": 0.559757,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Kirkland",
-      "path": "northamerica/unitedstates/washington/kirkland",
-      "prior_score": -3.0525,
-      "prior_variance": 1.22701,
-      "prior_n": 1
+      "title": "Mount Sanqingshan",
+      "path": "asia/china/jiangxi/mount_sanqingshan",
+      "prior_score": 4.7982,
+      "prior_variance": 0.691537,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Bam",
-      "path": "asia/iran/bam",
-      "prior_score": -0.5136,
-      "prior_variance": 1.30352,
-      "prior_n": 1
+      "title": "Shannan",
+      "path": "asia/china/tibet/Shannan",
+      "prior_score": -0.8725,
+      "prior_variance": 0.802123,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Texarkana",
-      "path": "northamerica/unitedstates/texas/texarkana",
-      "prior_score": -8.1081,
-      "prior_variance": 2.53129,
-      "prior_n": 1
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 6.215,
+      "prior_variance": 1.322704,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Gujrat",
-      "path": "asia/pakistan/gujrat",
-      "prior_score": -7.35,
-      "prior_variance": 2.650523,
-      "prior_n": 1
+      "title": "North Caicos",
+      "path": "northamerica/turksandcaicosislands/northcaicos",
+      "prior_score": 6.5452,
+      "prior_variance": 0.886945,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Massoulo",
-      "path": "africa/angola/massoulo",
-      "prior_score": -14.235,
-      "prior_variance": 7.207288,
-      "prior_n": 1
+      "title": "Melrose",
+      "path": "europe/unitedkingdom/scotland/melrose",
+      "prior_score": 1.2723,
+      "prior_variance": 0.603701,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Sakakah",
-      "path": "asia/saudiarabia/sakakah",
-      "prior_score": -12.8662,
-      "prior_variance": 2.593518,
+      "title": "Alofi",
+      "path": "australiaandpacific/niue/alofi",
+      "prior_score": 1.3924,
+      "prior_variance": 0.794533,
       "prior_n": 2
     }
   ]

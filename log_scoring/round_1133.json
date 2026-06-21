@@ -1,200 +1,200 @@
 {
   "round": 1133,
-  "timestamp": "2026-04-12T22:11:17",
+  "timestamp": "2026-06-13T20:13:01",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Page",
-      "path": "northamerica/unitedstates/arizona/page",
-      "prior_rank": 1661,
-      "prior_wins": 51,
+      "title": "Puerto Vallarta",
+      "path": "northamerica/mexico/puertovallarta",
+      "prior_score": 8.6665,
+      "prior_variance": 0.565878,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Skagway",
-      "path": "northamerica/unitedstates/alaska/skagway",
-      "prior_rank": 999,
-      "prior_wins": 37,
-      "prior_n": 2
+      "title": "Panama City",
+      "path": "northamerica/panama/panamacity",
+      "prior_score": 3.6161,
+      "prior_variance": 0.406449,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Peak District",
-      "path": "europe/unitedkingdom/england/leicester_notting/peak_district",
-      "prior_rank": 1281,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "Kashgar",
+      "path": "asia/china/xinjiangprovince/kashgar",
+      "prior_score": 5.2823,
+      "prior_variance": 0.544175,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Red River Gorge",
-      "path": "northamerica/unitedstates/kentucky/redrivergorge",
-      "prior_rank": 2094,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Cape Reinga",
+      "path": "australiaandpacific/newzealand/north_island/northland/cape_reinga",
+      "prior_score": 7.1293,
+      "prior_variance": 0.417316,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Wroclaw",
-      "path": "europe/poland/wroclaw",
-      "prior_rank": 2132,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Kizhi",
+      "path": "europe/russia/karelia/kizhi",
+      "prior_score": 2.4894,
+      "prior_variance": 0.325663,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "West Hollywood",
-      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
-      "prior_rank": 1479,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Diamantina",
+      "path": "southamerica/brazil/diamantina",
+      "prior_score": 2.1736,
+      "prior_variance": 0.407541,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Music Row",
-      "path": "northamerica/unitedstates/tennessee/nashville/musicrow",
-      "prior_rank": 1460,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Ajijic",
+      "path": "northamerica/mexico/ajijic",
+      "prior_score": 1.8156,
+      "prior_variance": 0.547021,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Castries",
-      "path": "northamerica/saintlucia/castries",
-      "prior_rank": 1443,
-      "prior_wins": 35,
-      "prior_n": 2
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.6116,
+      "prior_variance": 0.423566,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Dhulikhel",
-      "path": "asia/nepal/dhulikel",
-      "prior_rank": 2099,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 1.4555,
+      "prior_variance": 0.410392,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Prizren",
-      "path": "europe/serbiaandmontenegro/kosovoprovince/prizren",
-      "prior_rank": 2176,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.2475,
+      "prior_variance": 0.473869,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Santiago de Cuba",
-      "path": "northamerica/cuba/santiagodecuba",
-      "prior_rank": 3321,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 1.1768,
+      "prior_variance": 0.433254,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Acireale",
-      "path": "europe/italy/sicily/acireale",
-      "prior_rank": 4246,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Amantea",
+      "path": "europe/italy/calabria/amantea",
+      "prior_score": 1.1633,
+      "prior_variance": 0.411998,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Hallein",
-      "path": "europe/austria/hallein",
-      "prior_rank": 3235,
-      "prior_wins": 40,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.8332,
+      "prior_variance": 0.426029,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Bouillon",
-      "path": "europe/belgium/bouillon",
-      "prior_rank": 1701,
-      "prior_wins": 85,
-      "prior_n": 5
+      "title": "St. Michaels",
+      "path": "northamerica/unitedstates/maryland/stmichaels",
+      "prior_score": 0.149,
+      "prior_variance": 0.399191,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Lipica",
-      "path": "europe/slovenia/lipica",
-      "prior_rank": 4589,
-      "prior_wins": 26,
+      "title": "Dieppe",
+      "path": "europe/france/normandybrittany/dieppe",
+      "prior_score": 1.6379,
+      "prior_variance": 0.412295,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Kalispell",
-      "path": "northamerica/unitedstates/montana/kalispell",
-      "prior_rank": 1296,
-      "prior_wins": 36,
-      "prior_n": 2
+      "title": "\u017divogo\u0161\u0107e",
+      "path": "europe/croatia/zivogosce",
+      "prior_score": 3.5242,
+      "prior_variance": 0.438842,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Calistoga",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/calistoga",
-      "prior_rank": 1308,
-      "prior_wins": 54,
-      "prior_n": 3
+      "title": "Playa Herradura",
+      "path": "northamerica/costarica/playa_herradura",
+      "prior_score": -0.2067,
+      "prior_variance": 0.452888,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Cat island",
-      "path": "northamerica/bahamas/catisland",
-      "prior_rank": 2946,
-      "prior_wins": 28,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "Lautoka",
-      "path": "australiaandpacific/fiji/vitilevu/lautoka",
-      "prior_rank": 3529,
-      "prior_wins": 32,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": -0.9114,
+      "prior_variance": 0.514754,
       "prior_n": 3
     },
     {
+      "rank": 19,
+      "title": "Huelgoat",
+      "path": "europe/france/normandybrittany/huelgoat",
+      "prior_score": 1.1307,
+      "prior_variance": 0.327763,
+      "prior_n": 4
+    },
+    {
       "rank": 20,
-      "title": "Tam Giang Lagoon",
-      "path": "asia/vietnam/hue/aroundhue/tamgianglagoon",
-      "prior_rank": 4511,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Timor",
+      "path": "asia/indonesia/timor",
+      "prior_score": -3.9569,
+      "prior_variance": 0.421857,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Krakatoa",
-      "path": "asia/indonesia/krakatoa",
-      "prior_rank": 1938,
-      "prior_wins": 49,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/rockhampton",
+      "prior_score": -3.7254,
+      "prior_variance": 0.461398,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Tavush Marz",
-      "path": "europe/armenia/tavush_marz",
-      "prior_rank": 3465,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Marlow",
+      "path": "europe/unitedkingdom/england/south_east/marlow",
+      "prior_score": -1.4953,
+      "prior_variance": 0.741504,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Kollam",
-      "path": "asia/india/kerala/kollam",
-      "prior_rank": 3149,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "\u201cTacoma\u201d",
+      "path": "northamerica/unitedstates/washington/tacoma",
+      "prior_score": -4.0193,
+      "prior_variance": 0.474077,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "S\u00f8nderborg",
-      "path": "europe/denmark/sonderborg",
-      "prior_rank": 2525,
-      "prior_wins": 30,
-      "prior_n": 2
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -5.1508,
+      "prior_variance": 0.382882,
+      "prior_n": 3
     }
   ]
 }

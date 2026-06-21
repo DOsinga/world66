@@ -5,7 +5,7 @@ done:
 latitude: 35.84604
 loc_type: city
 longitude: -86.39211
-score: 0.39
+score: 0.31
 sources:
 - https://en.wikipedia.org/wiki/Murfreesboro,_Tennessee
 title: Murfreesboro

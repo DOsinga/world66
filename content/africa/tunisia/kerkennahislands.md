@@ -10,6 +10,7 @@ loc_type: island
 longitude: 11.1833
 title: Kerkennah Islands
 type: location
+score: 0.4
 ---
 
 The Kerkennah Islands lie about 20 km off the coast of **[Sfax](/africa/tunisia/sfax)** in the Gulf of Gabès — a flat, sandy archipelago, mostly two main islands (Gharbi and Chergui) connected by a Roman causeway. Nothing here rises more than 13 metres above sea level. The horizon is enormous, the light is hard and clean, and the water is shallow enough that you can wade out a hundred metres before it reaches your waist. The whole place feels like a different country from mainland Tunisia: slower, quieter, more Berber than Arab, and visibly poorer.

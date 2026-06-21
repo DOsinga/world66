@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gare_vu_Valkenburg.jpg
 latitude: 50.8648
 loc_type: city
 longitude: 5.8313
-score: 0.51
+score: 0.45
 title: Valkenburg
 type: location
 ---

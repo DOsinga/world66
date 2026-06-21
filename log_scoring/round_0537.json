@@ -1,199 +1,199 @@
 {
   "round": 537,
-  "timestamp": "2026-04-12T10:36:30",
+  "timestamp": "2026-06-13T19:41:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Williamsburg",
-      "path": "northamerica/unitedstates/virginia/williamsburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 2,
-      "title": "Venice Beach",
-      "path": "northamerica/unitedstates/california/venice_beach",
-      "prior_mu": 22.8884,
-      "prior_sigma": 5.7159,
+      "title": "Doha",
+      "path": "asia/qatar/doha",
+      "prior_score": 3.9481,
+      "prior_variance": 1.488059,
       "prior_n": 1
     },
     {
+      "rank": 2,
+      "title": "Guangzhou",
+      "path": "asia/china/guangdong/guangzhou",
+      "prior_score": 0.0741,
+      "prior_variance": 2.422567,
+      "prior_n": 2
+    },
+    {
       "rank": 3,
-      "title": "Redondo Beach",
-      "path": "northamerica/unitedstates/california/losangeles/redondobeach",
-      "prior_mu": 22.4836,
-      "prior_sigma": 5.9093,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 3.8579,
+      "prior_variance": 1.585919,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Scottsdale",
-      "path": "northamerica/unitedstates/arizona/scottsdale",
-      "prior_mu": 29.0515,
-      "prior_sigma": 7.0049,
+      "title": "Frederiksberg",
+      "path": "europe/denmark/frederiksberg",
+      "prior_score": 2.3585,
+      "prior_variance": 1.617336,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Phoenix",
-      "path": "northamerica/unitedstates/arizona/phoenix",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 6,
-      "title": "Buckskin Gulch",
-      "path": "northamerica/unitedstates/utah/buckskin_gulch",
-      "prior_mu": 22.5867,
-      "prior_sigma": 5.9082,
+      "title": "Jerez de la Frontera",
+      "path": "europe/spain/andalucia/jerezdelafrontera",
+      "prior_score": 2.9846,
+      "prior_variance": 1.509379,
       "prior_n": 1
     },
     {
+      "rank": 6,
+      "title": "Los Cristianos",
+      "path": "europe/spain/spanishcostas/loscristianos",
+      "prior_score": 1.7502,
+      "prior_variance": 1.218017,
+      "prior_n": 2
+    },
+    {
       "rank": 7,
-      "title": "Pittsburgh",
-      "path": "northamerica/unitedstates/pennsylvania/pittsburgh",
-      "prior_mu": 22.0933,
-      "prior_sigma": 4.6225,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 5.4755,
+      "prior_variance": 2.322505,
       "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "Lafayette",
-      "path": "northamerica/unitedstates/louisiana/lafayette",
-      "prior_mu": 21.7767,
-      "prior_sigma": 4.6273,
+      "title": "Betws-y-Coed",
+      "path": "europe/unitedkingdom/wales/snowdonia/betwsycoed",
+      "prior_score": 3.384,
+      "prior_variance": 0.695181,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Henry Mountains",
-      "path": "northamerica/unitedstates/utah/henry_mountains",
-      "prior_mu": 24.7427,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Ennis",
+      "path": "europe/ireland/ennis",
+      "prior_score": 2.8009,
+      "prior_variance": 1.069899,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Lake Forest",
-      "path": "northamerica/unitedstates/california/highsierra/lakeforest",
-      "prior_mu": 22.5411,
-      "prior_sigma": 5.6942,
+      "title": "Friday Harbor",
+      "path": "northamerica/unitedstates/washington/friday_harbor",
+      "prior_score": 4.3524,
+      "prior_variance": 1.619046,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Lake Havasu City",
-      "path": "northamerica/unitedstates/arizona/lakehavasucity",
-      "prior_mu": 21.5321,
-      "prior_sigma": 4.8392,
-      "prior_n": 2
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 1.9448,
+      "prior_variance": 1.37524,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Clarkdale",
-      "path": "northamerica/unitedstates/arizona/clarkdale",
-      "prior_mu": 22.5937,
-      "prior_sigma": 5.7332,
+      "title": "Algiers",
+      "path": "africa/algeria/algiers",
+      "prior_score": 1.4699,
+      "prior_variance": 1.461352,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Provo",
-      "path": "northamerica/unitedstates/utah/provo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Formerum",
+      "path": "europe/netherlands/waddenislands/terschelling/formerum",
+      "prior_score": 2.1816,
+      "prior_variance": 1.539586,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Old Deerfield",
-      "path": "northamerica/unitedstates/massachusetts/olddeerfield",
-      "prior_mu": 21.5722,
-      "prior_sigma": 3.8649,
-      "prior_n": 3
+      "title": "Pano Platres",
+      "path": "asia/cyprus/troodosmountains/pano_platres",
+      "prior_score": 3.4102,
+      "prior_variance": 0.662295,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "San Jose",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/sanjose",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Alba Iulia",
+      "path": "europe/romania/albaiulia",
+      "prior_score": 2.7079,
+      "prior_variance": 1.324184,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Cleveland",
-      "path": "northamerica/unitedstates/ohio/cleveland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ventspils",
+      "path": "europe/latvia/ventspils",
+      "prior_score": 0.7444,
+      "prior_variance": 1.375687,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Bartlesville",
-      "path": "northamerica/unitedstates/oklahoma/bartlesville",
-      "prior_mu": 21.1622,
-      "prior_sigma": 4.7367,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 1.8011,
+      "prior_variance": 0.961993,
       "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Redding",
-      "path": "northamerica/unitedstates/california/redding",
-      "prior_mu": 22.4782,
-      "prior_sigma": 5.9499,
+      "title": "Aliano",
+      "path": "europe/italy/basilicata/aliano",
+      "prior_score": 2.1715,
+      "prior_variance": 1.585914,
       "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Goldfield",
-      "path": "northamerica/unitedstates/nevada/goldfield",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": 0.3536,
+      "prior_variance": 1.385724,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Barrow",
-      "path": "northamerica/unitedstates/alaska/barrow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hoa Binh",
+      "path": "asia/vietnam/hoabinh",
+      "prior_score": 0.2015,
+      "prior_variance": 0.995375,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Elk City",
-      "path": "northamerica/unitedstates/oklahoma/elk_city",
-      "prior_mu": 21.3565,
-      "prior_sigma": 4.5016,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": 1.1349,
+      "prior_variance": 0.752887,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Guymon",
-      "path": "northamerica/unitedstates/oklahoma/guymon",
-      "prior_mu": 20.7054,
-      "prior_sigma": 4.5909,
+      "title": "Raigad",
+      "path": "asia/india/maharashtra/raigad",
+      "prior_score": -0.9273,
+      "prior_variance": 1.017208,
       "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Middletown",
-      "path": "northamerica/unitedstates/delaware/middletown",
-      "prior_mu": 20.6902,
-      "prior_sigma": 3.8633,
-      "prior_n": 3
+      "title": "Lhuntsi",
+      "path": "asia/bhutan/lhuntsi",
+      "prior_score": -1.1812,
+      "prior_variance": 1.827683,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Quality Inn New Haven",
-      "path": "northamerica/unitedstates/connecticut/quality_inn_new_ha",
-      "prior_mu": 18.5772,
-      "prior_sigma": 5.1049,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": 1.3441,
+      "prior_variance": 1.250392,
       "prior_n": 2
     }
   ]

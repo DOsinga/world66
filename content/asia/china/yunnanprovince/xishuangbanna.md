@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Templ
 latitude: 22.0099
 loc_type: city
 longitude: 100.8036
-score: 0.58
+score: 0.5
 title: Xishuangbanna
 type: location
 ---

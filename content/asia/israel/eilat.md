@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eilat,_Israel_-_panoramio_
 latitude: 29.5577
 loc_type: city
 longitude: 34.9519
-score: 0.6
+score: 0.53
 title: Eilat
 type: location
 ---

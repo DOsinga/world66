@@ -1,200 +1,200 @@
 {
   "round": 539,
-  "timestamp": "2026-04-12T10:36:41",
+  "timestamp": "2026-06-13T19:41:16",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Stonehenge",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
-      "prior_mu": 30.225,
-      "prior_sigma": 6.449,
-      "prior_n": 1
+      "title": "Jodhpur",
+      "path": "asia/india/rajasthan/jodhpur",
+      "prior_score": 7.4655,
+      "prior_variance": 1.663935,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Dorset",
-      "path": "europe/unitedkingdom/dorset",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 3,
-      "title": "Pitlochry",
-      "path": "europe/unitedkingdom/scotland/pitlochry",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
-    },
-    {
-      "rank": 4,
-      "title": "Wharfedale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/wharfedale",
-      "prior_mu": 22.542,
-      "prior_sigma": 5.5391,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 6.2086,
+      "prior_variance": 1.766761,
       "prior_n": 1
     },
     {
+      "rank": 3,
+      "title": "Salento",
+      "path": "southamerica/colombia/salento",
+      "prior_score": 7.4099,
+      "prior_variance": 1.969048,
+      "prior_n": 1
+    },
+    {
+      "rank": 4,
+      "title": "Batalha",
+      "path": "europe/portugal/batalha",
+      "prior_score": 6.7275,
+      "prior_variance": 0.859982,
+      "prior_n": 2
+    },
+    {
       "rank": 5,
-      "title": "Wales",
-      "path": "europe/unitedkingdom/wales",
-      "prior_mu": 23.2488,
-      "prior_sigma": 5.9686,
+      "title": "Doolin",
+      "path": "europe/ireland/doolin",
+      "prior_score": 6.3138,
+      "prior_variance": 1.530815,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Northern Ireland",
-      "path": "europe/unitedkingdom/northernireland",
-      "prior_mu": 22.4575,
-      "prior_sigma": 5.5279,
-      "prior_n": 1
+      "title": "Almagro",
+      "path": "europe/spain/la_mancha/almagro",
+      "prior_score": 5.8347,
+      "prior_variance": 0.885615,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Banff",
-      "path": "europe/unitedkingdom/scotland/banff",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 6.0803,
+      "prior_variance": 1.963223,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Pennan",
-      "path": "europe/unitedkingdom/scotland/pennan",
-      "prior_mu": 22.633,
-      "prior_sigma": 5.9004,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 4.3297,
+      "prior_variance": 1.975457,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Truro",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/cornwall/truro",
-      "prior_mu": 22.3787,
-      "prior_sigma": 4.6984,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 5.6715,
+      "prior_variance": 1.307347,
       "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Warwick",
-      "path": "europe/unitedkingdom/england/warwick",
-      "prior_mu": 22.5189,
-      "prior_sigma": 5.7736,
+      "title": "M\u00f8n",
+      "path": "europe/denmark/mon",
+      "prior_score": 6.5946,
+      "prior_variance": 1.895726,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Warwick",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/warwick",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 5.7717,
+      "prior_variance": 2.98293,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Chepstow",
-      "path": "europe/unitedkingdom/wales/chepstow",
-      "prior_mu": 21.8593,
-      "prior_sigma": 4.8173,
-      "prior_n": 2
+      "title": "Isla Ometepe",
+      "path": "northamerica/nicaragua/isla_ometepe",
+      "prior_score": 6.107,
+      "prior_variance": 1.532192,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Caerphilly",
-      "path": "europe/unitedkingdom/wales/caerphilly",
-      "prior_mu": 22.3063,
-      "prior_sigma": 5.5683,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 4.4066,
+      "prior_variance": 2.566423,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Dover",
-      "path": "europe/unitedkingdom/england/dover",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 5.0775,
+      "prior_variance": 2.05821,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Calderdale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/calderdale",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 1.2334,
+      "prior_variance": 1.455866,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Derby",
-      "path": "europe/unitedkingdom/england/derby",
-      "prior_mu": 21.5994,
-      "prior_sigma": 4.6238,
-      "prior_n": 2
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 4.4215,
+      "prior_variance": 1.73991,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Pontefract",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/pontefract",
-      "prior_mu": 22.7552,
-      "prior_sigma": 5.9496,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 3.7242,
+      "prior_variance": 1.570006,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Wrexham",
-      "path": "europe/unitedkingdom/wales/wrexham",
-      "prior_mu": 21.6758,
-      "prior_sigma": 3.9376,
-      "prior_n": 3
+      "title": "Costa di Maratea",
+      "path": "europe/italy/basilicata/costa_di_maratea",
+      "prior_score": 4.3424,
+      "prior_variance": 1.593488,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Keighley",
-      "path": "europe/unitedkingdom/england/keighley",
-      "prior_mu": 22.455,
-      "prior_sigma": 5.9496,
-      "prior_n": 1
+      "title": "Cincinnati",
+      "path": "northamerica/unitedstates/ohio/cincinnati",
+      "prior_score": 2.6585,
+      "prior_variance": 1.776502,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Loughborough",
-      "path": "europe/unitedkingdom/england/loughborough",
-      "prior_mu": 18.0084,
-      "prior_sigma": 6.5308,
-      "prior_n": 1
+      "title": "Atiu",
+      "path": "australiaandpacific/cookislands/atiu",
+      "prior_score": 2.2347,
+      "prior_variance": 0.825418,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Mersea Island",
-      "path": "europe/unitedkingdom/mersea_island_esse",
-      "prior_mu": 20.7474,
-      "prior_sigma": 4.1493,
-      "prior_n": 3
+      "title": "Dehang",
+      "path": "asia/china/hunan/dehang",
+      "prior_score": 1.7087,
+      "prior_variance": 0.837774,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Crawley",
-      "path": "europe/unitedkingdom/england/crawley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Subiaco",
+      "path": "europe/italy/lazio/subiaco",
+      "prior_score": 2.922,
+      "prior_variance": 1.75654,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Briston",
-      "path": "europe/unitedkingdom/norfolk/briston",
-      "prior_mu": 18.1235,
-      "prior_sigma": 6.5028,
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 4.367,
+      "prior_variance": 1.705429,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Barking",
-      "path": "europe/unitedkingdom/england/barking",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cetti Bay",
+      "path": "australiaandpacific/guam/cettibay",
+      "prior_score": 3.907,
+      "prior_variance": 1.936038,
+      "prior_n": 1
     }
   ]
 }

@@ -6,7 +6,7 @@ latitude: -0.6
 longitude: -80.4236
 title: Bahia de Caraquez
 type: location
-score: 0.44
+score: 0.39
 loc_type: city
 ---
 

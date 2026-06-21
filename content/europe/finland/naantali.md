@@ -5,7 +5,7 @@ done:
 latitude: 60.468869
 loc_type: city
 longitude: 22.029115
-score: 0.5
+score: 0.44
 title: Naantali
 type: location
 image: naantali.jpg

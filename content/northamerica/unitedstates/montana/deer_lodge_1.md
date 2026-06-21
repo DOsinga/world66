@@ -5,7 +5,7 @@ done:
 latitude: 46.0754
 loc_type: city
 longitude: -113.0893
-score: 0.37
+score: 0.3
 title: Deer Lodge
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Rotorua.jpg
 latitude: -38.136073
 loc_type: city
 longitude: 176.252543
-score: 0.7
+score: 0.61
 title: Rotorua
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3358,
+  "timestamp": "2026-06-13T22:48:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mazatlan",
+      "path": "northamerica/mexico/mazatlan",
+      "prior_score": 3.5077,
+      "prior_variance": 0.135836,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Balne\u00e1rio Cambori\u00fa",
+      "path": "southamerica/brazil/balneariocamboriu",
+      "prior_score": 0.361,
+      "prior_variance": 0.127685,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Galveston",
+      "path": "northamerica/unitedstates/texas/galveston",
+      "prior_score": 0.5562,
+      "prior_variance": 0.10994,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.5207,
+      "prior_variance": 0.113965,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Siljan area",
+      "path": "europe/sweden/siljan_area",
+      "prior_score": 1.8721,
+      "prior_variance": 0.122748,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 1.9346,
+      "prior_variance": 0.125447,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.6372,
+      "prior_variance": 0.131695,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 0.6616,
+      "prior_variance": 0.135332,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Peja",
+      "path": "europe/serbia/kosovoprovince/peja",
+      "prior_score": -1.6068,
+      "prior_variance": 0.171545,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Dirang",
+      "path": "asia/india/arunachalpradesh/dirang",
+      "prior_score": -1.358,
+      "prior_variance": 0.12217,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.9021,
+      "prior_variance": 0.119281,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bolsward",
+      "path": "europe/netherlands/friesland/bolsward",
+      "prior_score": -1.6692,
+      "prior_variance": 0.135973,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Huangzhong",
+      "path": "asia/china/qinghai/huangzhong",
+      "prior_score": -1.3179,
+      "prior_variance": 0.137056,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -3.0787,
+      "prior_variance": 0.130743,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Atar",
+      "path": "africa/mauritania/atar",
+      "prior_score": -4.285,
+      "prior_variance": 0.152478,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Noordpolderzijl",
+      "path": "europe/netherlands/noordpolderzijl",
+      "prior_score": -4.8945,
+      "prior_variance": 0.150143,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Puerto El Cuyo",
+      "path": "northamerica/mexico/puerto_el_cuyo",
+      "prior_score": -5.1467,
+      "prior_variance": 0.153575,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -3.8516,
+      "prior_variance": 0.137914,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.1534,
+      "prior_variance": 0.128538,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Goulburn",
+      "path": "australiaandpacific/australia/newsouthwales/goulburn",
+      "prior_score": -2.6003,
+      "prior_variance": 0.1255,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Wonthaggi",
+      "path": "australiaandpacific/australia/victoria/wonthaggi",
+      "prior_score": -2.6805,
+      "prior_variance": 0.131938,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Fort Payne",
+      "path": "northamerica/unitedstates/alabama/fort_payne",
+      "prior_score": -3.8287,
+      "prior_variance": 0.124799,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Bossier City",
+      "path": "northamerica/unitedstates/louisiana/bossiercity",
+      "prior_score": -4.5499,
+      "prior_variance": 0.134681,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Salzgitter",
+      "path": "europe/germany/lowersaxony/salzgitter",
+      "prior_score": -5.5138,
+      "prior_variance": 0.170379,
+      "prior_n": 10
+    }
+  ]
+}

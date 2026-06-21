@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:River_swat_Pakistan_0.jpg
 latitude: 35.232475
 loc_type: city
 longitude: 72.511635
-score: 0.39
+score: 0.33
 title: Swat
 type: location
 ---

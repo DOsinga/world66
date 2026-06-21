@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hama,_Syria.jpg
 latitude: 35.134337
 loc_type: city
 longitude: 36.749628
-score: 0.26
+score: 0.24
 title: Hama
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chief_Mubi_palace.jpg
 latitude: 10.2676
 loc_type: city
 longitude: 13.2644
-score: 0.18
+score: 0.15
 title: Mubi
 type: location
 ---

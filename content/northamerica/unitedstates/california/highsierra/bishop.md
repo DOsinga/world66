@@ -6,7 +6,7 @@ latitude: 37.3637
 longitude: -118.3952
 title: Bishop
 type: location
-score: 0.5
+score: 0.45
 loc_type: city
 ---
 

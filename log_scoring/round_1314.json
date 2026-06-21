@@ -1,200 +1,200 @@
 {
   "round": 1314,
-  "timestamp": "2026-04-12T22:21:07",
+  "timestamp": "2026-06-13T20:23:11",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Thimphu",
-      "path": "asia/bhutan/thimphu",
-      "prior_rank": 1113,
-      "prior_wins": 52,
-      "prior_n": 3
+      "title": "Athens",
+      "path": "europe/greece/athens",
+      "prior_score": 12.5154,
+      "prior_variance": 0.365515,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Patan",
-      "path": "asia/nepal/patan",
-      "prior_rank": 1334,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Montego Bay",
+      "path": "northamerica/jamaica/montegobay",
+      "prior_score": 6.0329,
+      "prior_variance": 0.474181,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Dalat",
-      "path": "asia/vietnam/dalat",
-      "prior_rank": 487,
-      "prior_wins": 78,
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 4.9445,
+      "prior_variance": 0.429692,
       "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Sarawak",
-      "path": "asia/malaysia/sarawak",
-      "prior_rank": 1601,
-      "prior_wins": 49,
-      "prior_n": 3
+      "title": "Chan Chan",
+      "path": "southamerica/peru/chanchan",
+      "prior_score": 5.8276,
+      "prior_variance": 0.357024,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Southeast Tasmania",
-      "path": "australiaandpacific/australia/tasmania/southeast",
-      "prior_rank": 2719,
-      "prior_wins": 42,
-      "prior_n": 3
+      "title": "Batanes",
+      "path": "asia/philippines/batanes",
+      "prior_score": 5.9152,
+      "prior_variance": 0.387607,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Lifou",
-      "path": "australiaandpacific/newcaledonia/lifou",
-      "prior_rank": 609,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Almer\u00eda",
+      "path": "europe/spain/andalucia/almeria",
+      "prior_score": 2.3732,
+      "prior_variance": 0.35453,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "San Gerardo de Rivas",
-      "path": "northamerica/costarica/san_gerardo_de_riv",
-      "prior_rank": 1531,
-      "prior_wins": 49,
-      "prior_n": 3
+      "title": "Tai'an",
+      "path": "asia/china/shandong_province/taian",
+      "prior_score": 4.4582,
+      "prior_variance": 0.414688,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Palm Springs Area",
-      "path": "northamerica/unitedstates/california/deserts/palmspringsarea",
-      "prior_rank": 3970,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "Cognac",
+      "path": "europe/france/aquitaine/cognac",
+      "prior_score": 3.7615,
+      "prior_variance": 0.405842,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "West Hollywood",
-      "path": "northamerica/unitedstates/california/losangeles/westhollywood",
-      "prior_rank": 1079,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Fr\u00e9jus",
+      "path": "europe/france/frejus",
+      "prior_score": 1.9557,
+      "prior_variance": 0.319363,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "Leavenworth",
-      "path": "northamerica/unitedstates/washington/leavenworth",
-      "prior_rank": 859,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "St. Aignan",
+      "path": "europe/france/centre/loirevalley/staignan",
+      "prior_score": 0.3336,
+      "prior_variance": 0.374907,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Isola di San Pietro",
-      "path": "europe/italy/sardinia/isoladisanpietro",
-      "prior_rank": 3098,
-      "prior_wins": 40,
-      "prior_n": 3
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 3.1189,
+      "prior_variance": 0.347626,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Provins",
-      "path": "europe/france/east/champagne/provins",
-      "prior_rank": 1305,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Volgograd",
+      "path": "europe/russia/volgograd",
+      "prior_score": -1.914,
+      "prior_variance": 0.318291,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Pe\u00f1\u00edscola",
-      "path": "europe/spain/castellon/peniscola",
-      "prior_rank": 2527,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.8606,
+      "prior_variance": 0.321844,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Bregenz",
-      "path": "europe/austria/bregenz",
-      "prior_rank": 2536,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Pangani",
+      "path": "africa/tanzania/pangani",
+      "prior_score": 0.3872,
+      "prior_variance": 0.333422,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Lake Balaton",
-      "path": "europe/hungary/lakebalaton",
-      "prior_rank": 2156,
-      "prior_wins": 61,
+      "title": "Vila Velha",
+      "path": "southamerica/brazil/vilavelha",
+      "prior_score": -3.5548,
+      "prior_variance": 0.329341,
       "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Sanl\u00facar de Barrameda",
-      "path": "europe/spain/andalucia/sanlcar",
-      "prior_rank": 1250,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Rizal",
+      "path": "asia/philippines/rizal",
+      "prior_score": -3.5154,
+      "prior_variance": 0.37297,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Pilion",
-      "path": "europe/greece/pilion",
-      "prior_rank": 3432,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Grass Valley",
+      "path": "northamerica/unitedstates/california/goldcountry/grassvalley",
+      "prior_score": -1.9055,
+      "prior_variance": 0.297347,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Kritsa",
-      "path": "europe/greece/crete/kritsa",
-      "prior_rank": 2398,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -3.0065,
+      "prior_variance": 0.348548,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Piren\u00f3polis",
-      "path": "southamerica/brazil/pirenopolis",
-      "prior_rank": 2297,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Westmore",
+      "path": "northamerica/unitedstates/vermont/westmore",
+      "prior_score": -1.0991,
+      "prior_variance": 0.318404,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Grasmere",
-      "path": "europe/unitedkingdom/england/manchester_liverp/lakedistrict/grasmere",
-      "prior_rank": 768,
-      "prior_wins": 55,
-      "prior_n": 3
+      "title": "Dz\u016bkija National park",
+      "path": "europe/lithuania/dzkija_national",
+      "prior_score": -0.3461,
+      "prior_variance": 0.329165,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Malhamdale",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/yorkshire_dales/malhamdale",
-      "prior_rank": 1089,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Superior",
+      "path": "northamerica/unitedstates/wisconsin/superior",
+      "prior_score": -4.591,
+      "prior_variance": 0.308914,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Killington",
-      "path": "northamerica/unitedstates/vermont/killington",
-      "prior_rank": 3868,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -4.7237,
+      "prior_variance": 0.361118,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Lugo",
-      "path": "europe/spain/galicia/lugo",
-      "prior_rank": 5487,
-      "prior_wins": 26,
-      "prior_n": 3
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -9.0472,
+      "prior_variance": 0.406326,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Vrboska",
-      "path": "europe/croatia/vrboska",
-      "prior_rank": 2479,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -7.4297,
+      "prior_variance": 0.447895,
+      "prior_n": 4
     }
   ]
 }

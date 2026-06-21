@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port-fa%C5%BEana-istria-cr
 latitude: 44.927333
 loc_type: city
 longitude: 13.805077
-score: 0.56
+score: 0.49
 title: Fazana
 type: location
 ---

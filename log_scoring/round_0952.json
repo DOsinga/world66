@@ -1,200 +1,200 @@
 {
   "round": 952,
-  "timestamp": "2026-04-12T16:09:01",
+  "timestamp": "2026-06-13T20:02:44",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Paris",
-      "path": "europe/france/paris",
-      "prior_rank": 1,
-      "prior_wins": 184,
-      "prior_n": 8
+      "title": "Atacama Desert",
+      "path": "southamerica/chile/atacamadesert",
+      "prior_score": 10.4769,
+      "prior_variance": 0.729213,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "French Alps",
-      "path": "europe/france/alpes",
-      "prior_rank": 208,
-      "prior_wins": 45,
-      "prior_n": 2
-    },
-    {
-      "rank": 3,
-      "title": "Xi'an",
-      "path": "asia/china/xian",
-      "prior_rank": 771,
-      "prior_wins": 41,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Jerash",
-      "path": "asia/jordan/jerash",
-      "prior_rank": 1023,
-      "prior_wins": 36,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "\u00c9vora",
-      "path": "europe/portugal/evora",
-      "prior_rank": 2322,
-      "prior_wins": 16,
-      "prior_n": 1
-    },
-    {
-      "rank": 6,
-      "title": "Kailua-Kona",
-      "path": "northamerica/unitedstates/hawaii/kailuakona",
-      "prior_rank": 230,
-      "prior_wins": 71,
-      "prior_n": 4
-    },
-    {
-      "rank": 7,
-      "title": "Orebic",
-      "path": "europe/croatia/orebic",
-      "prior_rank": 2269,
-      "prior_wins": 48,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 2.3377,
+      "prior_variance": 0.555285,
       "prior_n": 3
     },
     {
+      "rank": 3,
+      "title": "Ilhabela",
+      "path": "southamerica/brazil/ilhabela",
+      "prior_score": 4.9663,
+      "prior_variance": 0.42211,
+      "prior_n": 3
+    },
+    {
+      "rank": 4,
+      "title": "Cebu City",
+      "path": "asia/philippines/cebu/cebucity",
+      "prior_score": 3.9518,
+      "prior_variance": 0.610085,
+      "prior_n": 3
+    },
+    {
+      "rank": 5,
+      "title": "Ipoh",
+      "path": "asia/malaysia/ipoh",
+      "prior_score": 2.4909,
+      "prior_variance": 0.619043,
+      "prior_n": 3
+    },
+    {
+      "rank": 6,
+      "title": "Half Moon Bay",
+      "path": "northamerica/unitedstates/california/halfmoonbay",
+      "prior_score": 2.9043,
+      "prior_variance": 0.502736,
+      "prior_n": 3
+    },
+    {
+      "rank": 7,
+      "title": "Punta Arenas",
+      "path": "southamerica/chile/puntaarenas",
+      "prior_score": 1.7665,
+      "prior_variance": 0.680385,
+      "prior_n": 2
+    },
+    {
       "rank": 8,
-      "title": "Saxony",
-      "path": "europe/germany/saxony",
-      "prior_rank": 1921,
-      "prior_wins": 34,
+      "title": "Viana do Castelo",
+      "path": "europe/portugal/vianadocastelo",
+      "prior_score": 4.2746,
+      "prior_variance": 0.744299,
       "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "\u00dcr\u00fcmqi",
-      "path": "asia/china/xinjiangprovince/urumqi",
-      "prior_rank": 4822,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Guernika",
+      "path": "europe/spain/basque_country_euskadi/guernika",
+      "prior_score": 3.1111,
+      "prior_variance": 0.485248,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Ruhnu Island",
-      "path": "europe/estonia/ruhnu_island",
-      "prior_rank": 3552,
-      "prior_wins": 39,
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 4.0196,
+      "prior_variance": 0.476694,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Tolo",
-      "path": "europe/greece/tolo",
-      "prior_rank": 3576,
-      "prior_wins": 39,
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 3.9663,
+      "prior_variance": 0.432048,
       "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Noia",
-      "path": "europe/spain/northernspain/noia",
-      "prior_rank": 6650,
-      "prior_wins": 19,
-      "prior_n": 4
-    },
-    {
-      "rank": 13,
-      "title": "Beira",
-      "path": "africa/mozambique/beira",
-      "prior_rank": 6843,
-      "prior_wins": 8,
-      "prior_n": 2
-    },
-    {
-      "rank": 14,
-      "title": "Assur",
-      "path": "asia/iraq/assur",
-      "prior_rank": 7220,
-      "prior_wins": 6,
-      "prior_n": 2
-    },
-    {
-      "rank": 15,
-      "title": "Los Lingues,Colchagua,San Fernando",
-      "path": "southamerica/chile/los_linguescolcha",
-      "prior_rank": 6539,
-      "prior_wins": 10,
-      "prior_n": 2
-    },
-    {
-      "rank": 16,
-      "title": "Moravia",
-      "path": "northamerica/costarica/moravia",
-      "prior_rank": 6503,
-      "prior_wins": 10,
-      "prior_n": 2
-    },
-    {
-      "rank": 17,
-      "title": "Xai-Xai",
-      "path": "africa/mozambique/xaixai",
-      "prior_rank": 6592,
-      "prior_wins": 10,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Bah\u00eda Blanca",
-      "path": "southamerica/argentina/bahiablanca",
-      "prior_rank": 5477,
-      "prior_wins": 23,
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": -0.4704,
+      "prior_variance": 0.454155,
       "prior_n": 3
     },
     {
-      "rank": 19,
-      "title": "New Castle",
-      "path": "northamerica/unitedstates/delaware/newcastle",
-      "prior_rank": 7855,
-      "prior_wins": 3,
+      "rank": 13,
+      "title": "Fuengirola",
+      "path": "europe/spain/andalucia/fuengirola",
+      "prior_score": 4.7399,
+      "prior_variance": 0.378498,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Bhubaneswar",
+      "path": "asia/india/orissa/bhubaneswar",
+      "prior_score": 1.0374,
+      "prior_variance": 0.457649,
+      "prior_n": 3
+    },
+    {
+      "rank": 15,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 3.1496,
+      "prior_variance": 0.414884,
+      "prior_n": 3
+    },
+    {
+      "rank": 16,
+      "title": "Bludenz",
+      "path": "europe/austria/bludenz",
+      "prior_score": 1.3598,
+      "prior_variance": 0.522009,
+      "prior_n": 3
+    },
+    {
+      "rank": 17,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.3672,
+      "prior_variance": 0.446606,
+      "prior_n": 3
+    },
+    {
+      "rank": 18,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": 2.6356,
+      "prior_variance": 0.632496,
       "prior_n": 2
     },
     {
+      "rank": 19,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": 0.6455,
+      "prior_variance": 0.430478,
+      "prior_n": 3
+    },
+    {
       "rank": 20,
-      "title": "Oberhausen",
-      "path": "europe/germany/northrhinewestphalia/oberhausen",
-      "prior_rank": 5452,
-      "prior_wins": 16,
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": 1.3029,
+      "prior_variance": 0.619654,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Evansville",
-      "path": "northamerica/unitedstates/indiana/evansville",
-      "prior_rank": 7102,
-      "prior_wins": 7,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 3.2214,
+      "prior_variance": 0.614507,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "New Iberia",
-      "path": "northamerica/unitedstates/louisiana/newiberia",
-      "prior_rank": 5920,
-      "prior_wins": 20,
-      "prior_n": 3
+      "title": "Pacasmayo",
+      "path": "southamerica/peru/pacasmayo",
+      "prior_score": -5.3341,
+      "prior_variance": 0.57485,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Foster City",
-      "path": "northamerica/unitedstates/california/foster_city",
-      "prior_rank": 7717,
-      "prior_wins": 4,
+      "title": "Teruel",
+      "path": "europe/spain/aragon/teruel",
+      "prior_score": 4.339,
+      "prior_variance": 0.639365,
       "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Beautiful Historic Indian Head Saskatchewan",
-      "path": "northamerica/canada/saskatchewan/beautiful_historic_2",
-      "prior_rank": 6285,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "Zhuzhou",
+      "path": "asia/china/hunan/zhuzhou",
+      "prior_score": -7.7675,
+      "prior_variance": 0.599199,
+      "prior_n": 2
     }
   ]
 }

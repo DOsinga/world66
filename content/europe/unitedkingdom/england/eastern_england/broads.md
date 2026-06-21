@@ -5,7 +5,7 @@ latitude: 52.630742
 longitude: 1.642913
 title: Broads
 type: location
-score: 0.55
+score: 0.45
 loc_type: feature
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20230429.Ansichten_in_Novi
 latitude: 45.2671
 loc_type: city
 longitude: 19.8335
-score: 0.55
+score: 0.5
 title: Novi Sad
 type: location
 ---

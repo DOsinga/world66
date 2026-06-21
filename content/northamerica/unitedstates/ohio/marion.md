@@ -6,7 +6,7 @@ latitude: 40.587682
 longitude: -83.128983
 title: Marion
 type: location
-score: 0.28
+score: 0.25
 loc_type: city
 image: marion.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Harding_Memorial,_Marion,_Ohio_(73816).jpg

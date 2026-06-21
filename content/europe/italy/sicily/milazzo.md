@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Milazzo_08_09_
 latitude: 38.2208
 loc_type: city
 longitude: 15.2415
-score: 0.55
+score: 0.47
 title: Milazzo
 type: location
 ---

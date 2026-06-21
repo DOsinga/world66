@@ -1,0 +1,200 @@
+{
+  "round": 2701,
+  "timestamp": "2026-06-13T22:01:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Edam",
+      "path": "europe/netherlands/edam",
+      "prior_score": 1.2558,
+      "prior_variance": 0.15068,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.3752,
+      "prior_variance": 0.146272,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Karakorum",
+      "path": "asia/mongolia/karakorum",
+      "prior_score": 2.2228,
+      "prior_variance": 0.19495,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -4.293,
+      "prior_variance": 0.174823,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Amnye Machen",
+      "path": "asia/china/qinghai/amnye-machen",
+      "prior_score": -1.5708,
+      "prior_variance": 0.180101,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Air Mountains",
+      "path": "africa/niger/airmountains",
+      "prior_score": -3.5966,
+      "prior_variance": 0.322901,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Marquette",
+      "path": "northamerica/unitedstates/michigan/marquette",
+      "prior_score": -1.1133,
+      "prior_variance": 0.139799,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": -0.5434,
+      "prior_variance": 0.148707,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.9581,
+      "prior_variance": 0.196852,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.9839,
+      "prior_variance": 0.198427,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -2.0152,
+      "prior_variance": 0.148398,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Nabadwip",
+      "path": "asia/india/westbengal/nabadwip",
+      "prior_score": -3.3979,
+      "prior_variance": 0.160492,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Taza",
+      "path": "africa/morocco/taza",
+      "prior_score": -3.1294,
+      "prior_variance": 0.168242,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Medenine",
+      "path": "africa/tunisia/medenine",
+      "prior_score": -3.6838,
+      "prior_variance": 0.170375,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Khovd",
+      "path": "asia/mongolia/khovd",
+      "prior_score": -3.8378,
+      "prior_variance": 0.199189,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Torre\u00f3n",
+      "path": "northamerica/mexico/torreon",
+      "prior_score": -3.9389,
+      "prior_variance": 0.199726,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Linyi",
+      "path": "asia/china/shandong_province/linyi",
+      "prior_score": -5.9726,
+      "prior_variance": 0.237261,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Huainan",
+      "path": "asia/china/anhui/huainan",
+      "prior_score": -6.2722,
+      "prior_variance": 0.212249,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Kirkland",
+      "path": "northamerica/unitedstates/washington/kirkland",
+      "prior_score": -3.8237,
+      "prior_variance": 0.19322,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Puyallup",
+      "path": "northamerica/unitedstates/washington/puyallup",
+      "prior_score": -3.7825,
+      "prior_variance": 0.166164,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/ohio/oxford",
+      "prior_score": -4.7588,
+      "prior_variance": 0.237203,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.4252,
+      "prior_variance": 0.235305,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -6.13,
+      "prior_variance": 0.20763,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Baghdad",
+      "path": "asia/iraq/baghdad",
+      "prior_score": -10.7991,
+      "prior_variance": 0.744475,
+      "prior_n": 8
+    }
+  ]
+}

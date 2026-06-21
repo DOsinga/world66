@@ -14,7 +14,7 @@ quick_facts:
   Highest Point: "~2 metres"
 done:
   country_cleanup: 2026-03-29
-score: 0.9
+score: 0.61
 loc_type: country
 ---
 

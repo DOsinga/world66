@@ -5,7 +5,7 @@ done:
 latitude: 9.6556
 loc_type: city
 longitude: -85.0688
-score: 0.62
+score: 0.53
 title: Montezuma
 type: location
 ---

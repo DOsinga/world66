@@ -5,7 +5,7 @@ done:
 latitude: 59.117955
 loc_type: city
 longitude: 15.120621
-score: 0.35
+score: 0.25
 title: Kumla
 type: location
 ---

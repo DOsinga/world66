@@ -5,7 +5,7 @@ latitude: 39.260011
 longitude: 16.507491
 title: La Sila
 type: location
-score: 0.52
+score: 0.45
 loc_type: feature
 ---
 

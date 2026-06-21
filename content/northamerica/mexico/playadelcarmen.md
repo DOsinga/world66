@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Quinta_Avenida_(2026).jpg
 latitude: 20.6461
 loc_type: city
 longitude: -87.0806
-score: 0.7
+score: 0.6
 title: Playa del Carmen
 type: location
 ---

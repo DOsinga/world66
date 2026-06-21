@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/37583176@N00/51938368593
 latitude: -0.4169
 loc_type: city
 longitude: 36.951
-score: 0.44
+score: 0.4
 title: Nyeri
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2632,
+  "timestamp": "2026-06-13T21:56:18",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Luxor",
+      "path": "africa/egypt/luxor",
+      "prior_score": 11.6072,
+      "prior_variance": 0.523611,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Shigatse",
+      "path": "asia/china/tibet/shigatse",
+      "prior_score": 2.8381,
+      "prior_variance": 0.164471,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Porto Seguro",
+      "path": "southamerica/brazil/portoseguro",
+      "prior_score": 1.9455,
+      "prior_variance": 0.163846,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 2.0792,
+      "prior_variance": 0.154537,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Veszpr\u00e9m",
+      "path": "europe/hungary/veszprem",
+      "prior_score": 1.1525,
+      "prior_variance": 0.161469,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ahmedabad",
+      "path": "asia/india/gujarat/ahmedabad",
+      "prior_score": -0.3469,
+      "prior_variance": 0.144951,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Padang",
+      "path": "asia/indonesia/sumatra/padang",
+      "prior_score": -1.7754,
+      "prior_variance": 0.195265,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Hailongtun Tusi Fortress",
+      "path": "asia/china/guizhou/hailongtun",
+      "prior_score": -0.0865,
+      "prior_variance": 0.13413,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Harare",
+      "path": "africa/zimbabwe/harare",
+      "prior_score": -3.8997,
+      "prior_variance": 0.201895,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Arad",
+      "path": "europe/romania/arad",
+      "prior_score": -2.2407,
+      "prior_variance": 0.177947,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Kpalim\u00e9",
+      "path": "africa/togo/kpalime",
+      "prior_score": -3.6475,
+      "prior_variance": 0.216675,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": 0.0586,
+      "prior_variance": 0.161591,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -0.9654,
+      "prior_variance": 0.195207,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Orhei",
+      "path": "europe/moldova/orhei",
+      "prior_score": -2.8604,
+      "prior_variance": 0.157433,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Wetzlar",
+      "path": "europe/germany/hessen/wetzlar",
+      "prior_score": -1.5713,
+      "prior_variance": 0.218204,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -1.2368,
+      "prior_variance": 0.17714,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Thiva",
+      "path": "europe/greece/thiva",
+      "prior_score": -1.8728,
+      "prior_variance": 0.15885,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Melga\u00e7o",
+      "path": "europe/portugal/melgaco",
+      "prior_score": -2.101,
+      "prior_variance": 0.1732,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Otley",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/otley",
+      "prior_score": -1.3522,
+      "prior_variance": 0.164341,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Fochabers",
+      "path": "europe/unitedkingdom/scotland/fochabers",
+      "prior_score": -1.9729,
+      "prior_variance": 0.150869,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Garberville",
+      "path": "northamerica/unitedstates/california/northcoast/garberville",
+      "prior_score": -3.0171,
+      "prior_variance": 0.188792,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.2107,
+      "prior_variance": 0.196031,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Riverside",
+      "path": "northamerica/unitedstates/california/inlandempire/riverside",
+      "prior_score": -5.1295,
+      "prior_variance": 0.172126,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Abadan",
+      "path": "asia/iran/abadan",
+      "prior_score": -8.6678,
+      "prior_variance": 0.371783,
+      "prior_n": 8
+    }
+  ]
+}

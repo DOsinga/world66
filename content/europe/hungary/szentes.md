@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Evang%C3%A9likus_templom._
 latitude: 46.6524
 loc_type: city
 longitude: 20.2566
-score: 0.32
+score: 0.3
 title: Szentes
 type: location
 ---

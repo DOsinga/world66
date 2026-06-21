@@ -1,0 +1,200 @@
+{
+  "round": 3140,
+  "timestamp": "2026-06-13T22:31:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Folgaria",
+      "path": "europe/italy/trentinoaltoadige/folgaria",
+      "prior_score": 0.9295,
+      "prior_variance": 0.152161,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Changsha",
+      "path": "asia/china/hunan/changsha",
+      "prior_score": -2.2136,
+      "prior_variance": 0.172196,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Tehri Garhwal",
+      "path": "asia/india/uttaranchal/tehri_garhwal",
+      "prior_score": -1.6644,
+      "prior_variance": 0.132915,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ganzhou",
+      "path": "asia/china/jiangxi/ganzhou",
+      "prior_score": -3.5545,
+      "prior_variance": 0.166407,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Taishan",
+      "path": "asia/china/guangdong/taishan",
+      "prior_score": -3.2945,
+      "prior_variance": 0.144427,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Erd\u0151b\u00e9nye",
+      "path": "europe/hungary/erdobenye",
+      "prior_score": -2.65,
+      "prior_variance": 0.146702,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Kolhapur",
+      "path": "asia/india/maharashtra/kolhapur",
+      "prior_score": -1.9204,
+      "prior_variance": 0.126821,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Biloxi",
+      "path": "northamerica/unitedstates/mississippi/biloxi",
+      "prior_score": -2.1114,
+      "prior_variance": 0.116769,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.2792,
+      "prior_variance": 0.14375,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Bognor Regis",
+      "path": "europe/unitedkingdom/england/south_east/bognorregis",
+      "prior_score": -2.9833,
+      "prior_variance": 0.154611,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Wervik",
+      "path": "europe/belgium/wervik",
+      "prior_score": -3.6192,
+      "prior_variance": 0.154371,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Zeiselmauer",
+      "path": "europe/austria/zeiselmauer",
+      "prior_score": -3.0422,
+      "prior_variance": 0.145409,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Lowell",
+      "path": "northamerica/unitedstates/massachusetts/lowell",
+      "prior_score": -2.3122,
+      "prior_variance": 0.12199,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Falc\u00f3n",
+      "path": "southamerica/venezuela/falcn",
+      "prior_score": -4.2024,
+      "prior_variance": 0.164139,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Ormoc City",
+      "path": "asia/philippines/leyteisland/ormoc_city",
+      "prior_score": -2.0913,
+      "prior_variance": 0.137142,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Gulfport",
+      "path": "northamerica/unitedstates/mississippi/gulfport",
+      "prior_score": -3.1406,
+      "prior_variance": 0.146006,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Jimma",
+      "path": "africa/ethiopia/jimma",
+      "prior_score": -4.6865,
+      "prior_variance": 0.148307,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Three Forks",
+      "path": "northamerica/unitedstates/montana/three_forks",
+      "prior_score": -3.8039,
+      "prior_variance": 0.144534,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Biskra",
+      "path": "africa/algeria/biskra",
+      "prior_score": -3.2549,
+      "prior_variance": 0.145992,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -3.0979,
+      "prior_variance": 0.143168,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Rio Gallegos",
+      "path": "southamerica/argentina/riogallegos",
+      "prior_score": -4.9931,
+      "prior_variance": 0.180352,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Americus",
+      "path": "northamerica/unitedstates/georgia/americus",
+      "prior_score": -5.4493,
+      "prior_variance": 0.171314,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -5.5478,
+      "prior_variance": 0.22695,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.6644,
+      "prior_variance": 0.250528,
+      "prior_n": 9
+    }
+  ]
+}

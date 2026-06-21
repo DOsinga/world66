@@ -1,0 +1,200 @@
+{
+  "round": 2977,
+  "timestamp": "2026-06-13T22:20:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Annecy",
+      "path": "europe/france/alpes/annecy",
+      "prior_score": 9.2975,
+      "prior_variance": 0.366353,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Nikk\u014d",
+      "path": "asia/japan/honshu/nikko",
+      "prior_score": 9.1366,
+      "prior_variance": 0.274946,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Casablanca",
+      "path": "africa/morocco/casablanca",
+      "prior_score": 3.3144,
+      "prior_variance": 0.179714,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Bucharest",
+      "path": "europe/romania/bucharest",
+      "prior_score": 2.4597,
+      "prior_variance": 0.16464,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": 3.4708,
+      "prior_variance": 0.161669,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Sopot",
+      "path": "europe/poland/sopot",
+      "prior_score": 2.6299,
+      "prior_variance": 0.137988,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 2.4145,
+      "prior_variance": 0.149983,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Derry",
+      "path": "europe/unitedkingdom/northernireland/derry",
+      "prior_score": 2.3061,
+      "prior_variance": 0.126339,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Massa",
+      "path": "europe/italy/tuscany/massa",
+      "prior_score": -0.5754,
+      "prior_variance": 0.14548,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Cerreto Guidi",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/cerretoguidi",
+      "prior_score": -0.6691,
+      "prior_variance": 0.164283,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Bagamoyo",
+      "path": "africa/tanzania/bagamoyo",
+      "prior_score": -0.0247,
+      "prior_variance": 0.163938,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Saipan",
+      "path": "australiaandpacific/northernmarianaislands/saipan",
+      "prior_score": 2.4277,
+      "prior_variance": 0.147038,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.6579,
+      "prior_variance": 0.12535,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Padum",
+      "path": "asia/india/jammuandkashmir/ladakh/zanskar/padum",
+      "prior_score": -0.4586,
+      "prior_variance": 0.19439,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Vilsandi National Park",
+      "path": "europe/estonia/vilsandi_national_park",
+      "prior_score": 0.3803,
+      "prior_variance": 0.138977,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Oudeschild",
+      "path": "europe/netherlands/waddenislands/texel_island/oudeschild",
+      "prior_score": -0.2866,
+      "prior_variance": 0.135564,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.5941,
+      "prior_variance": 0.140603,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Bigfork",
+      "path": "northamerica/unitedstates/montana/bigfork",
+      "prior_score": -0.2958,
+      "prior_variance": 0.150301,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "S\u00e3o Joaquim",
+      "path": "southamerica/brazil/so_joaquim",
+      "prior_score": -2.3804,
+      "prior_variance": 0.155642,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Guadalcanal",
+      "path": "australiaandpacific/solomonislands/guadalcanal",
+      "prior_score": -3.2409,
+      "prior_variance": 0.157575,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Windward",
+      "path": "northamerica/thecaribbean/grenada/carriacou/windward",
+      "prior_score": -0.2353,
+      "prior_variance": 0.178553,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.198,
+      "prior_variance": 0.135284,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Tetonia",
+      "path": "northamerica/unitedstates/idaho/teton_valley/tetonia",
+      "prior_score": -2.4626,
+      "prior_variance": 0.16756,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Pie Town",
+      "path": "northamerica/unitedstates/newmexico/pie_town",
+      "prior_score": -5.2778,
+      "prior_variance": 0.202622,
+      "prior_n": 9
+    }
+  ]
+}

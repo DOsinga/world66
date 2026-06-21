@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergeggi_Panorama.jpg
 latitude: 44.249735
 loc_type: city
 longitude: 8.443353
-score: 0.55
+score: 0.47
 title: Bergeggi
 type: location
 ---

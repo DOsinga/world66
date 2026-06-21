@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:StormontGeneral.jpg
 latitude: 54.5976
 loc_type: city
 longitude: -5.9277
-score: 0.59
+score: 0.51
 title: Belfast
 type: location
 ---

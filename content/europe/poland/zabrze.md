@@ -5,7 +5,7 @@ done:
 latitude: 50.308615
 loc_type: city
 longitude: 18.786375
-score: 0.35
+score: 0.29
 title: Zabrze
 type: location
 image: zabrze.jpg

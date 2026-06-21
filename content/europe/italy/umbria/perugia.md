@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Perugia_-_Comune_di_Perugi
 latitude: 43.1107
 loc_type: city
 longitude: 12.3908
-score: 0.67
+score: 0.58
 title: Perugia
 type: location
 ---

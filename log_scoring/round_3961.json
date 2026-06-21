@@ -1,0 +1,200 @@
+{
+  "round": 3961,
+  "timestamp": "2026-06-13T23:32:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.1959,
+      "prior_variance": 0.107453,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Yalong Bay",
+      "path": "asia/china/hainanisland/yalongwang",
+      "prior_score": 1.7054,
+      "prior_variance": 0.101987,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 3.0237,
+      "prior_variance": 0.118123,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.7516,
+      "prior_variance": 0.123934,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Yachats",
+      "path": "northamerica/unitedstates/oregon/yachats",
+      "prior_score": 1.024,
+      "prior_variance": 0.098943,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.2043,
+      "prior_variance": 0.104055,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Casanova Lerrone",
+      "path": "europe/italy/liguria/rivieradellepalme/casanovalerrone",
+      "prior_score": -0.7181,
+      "prior_variance": 0.100352,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Kraljevica",
+      "path": "europe/croatia/kraljevica",
+      "prior_score": -0.6739,
+      "prior_variance": 0.112662,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Arbon",
+      "path": "europe/switzerland/arbon",
+      "prior_score": -0.0261,
+      "prior_variance": 0.100173,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.1988,
+      "prior_variance": 0.103227,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -0.9649,
+      "prior_variance": 0.122096,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.0883,
+      "prior_variance": 0.112416,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Podgorica",
+      "path": "europe/montenegro/podgorica",
+      "prior_score": -0.9419,
+      "prior_variance": 0.10405,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Vitebsk",
+      "path": "europe/belarus/vitebsk",
+      "prior_score": -2.6372,
+      "prior_variance": 0.11157,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Baoting",
+      "path": "asia/china/hainanisland/baoting",
+      "prior_score": -1.898,
+      "prior_variance": 0.123108,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Shusha",
+      "path": "europe/azerbaijan/nagornokarabakh/shusha",
+      "prior_score": -5.3199,
+      "prior_variance": 0.177116,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tegucigalpa",
+      "path": "northamerica/honduras/tegucigalpa",
+      "prior_score": -5.3832,
+      "prior_variance": 0.125621,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -5.8593,
+      "prior_variance": 0.151161,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -6.2117,
+      "prior_variance": 0.176138,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.4954,
+      "prior_variance": 0.138543,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "F\u00f6hren",
+      "path": "europe/germany/rhinelandpalatinate/fhren",
+      "prior_score": -4.4445,
+      "prior_variance": 0.124773,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -5.667,
+      "prior_variance": 0.130574,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Slough",
+      "path": "europe/unitedkingdom/england/south_east/slough",
+      "prior_score": -6.2495,
+      "prior_variance": 0.167803,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Wheeling",
+      "path": "northamerica/unitedstates/illinois/wheeling",
+      "prior_score": -5.8679,
+      "prior_variance": 0.14786,
+      "prior_n": 13
+    }
+  ]
+}

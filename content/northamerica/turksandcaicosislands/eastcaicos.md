@@ -5,7 +5,7 @@ done:
 latitude: 21.6833
 loc_type: city
 longitude: -71.5167
-score: 0.44
+score: 0.37
 title: East Caicos
 type: location
 ---

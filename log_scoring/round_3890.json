@@ -1,0 +1,200 @@
+{
+  "round": 3890,
+  "timestamp": "2026-06-13T23:27:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Easter Island",
+      "path": "southamerica/chile/easterisland",
+      "prior_score": 10.555,
+      "prior_variance": 0.40347,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Bled",
+      "path": "europe/slovenia/bled",
+      "prior_score": 9.8306,
+      "prior_variance": 0.214663,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Vulcano",
+      "path": "europe/italy/sicily/aeolianislands/vulcano",
+      "prior_score": 5.3977,
+      "prior_variance": 0.109617,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Sapporo",
+      "path": "asia/japan/hokkaido/sapporo",
+      "prior_score": 8.2757,
+      "prior_variance": 0.172546,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 3.607,
+      "prior_variance": 0.109489,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Mah\u00e9bourg",
+      "path": "africa/mauritius/mahebourg",
+      "prior_score": 3.6654,
+      "prior_variance": 0.114469,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 3.9678,
+      "prior_variance": 0.111785,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.3145,
+      "prior_variance": 0.13267,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 5.5155,
+      "prior_variance": 0.121428,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -3.1469,
+      "prior_variance": 0.141772,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Imphal",
+      "path": "asia/india/manipur/imphal",
+      "prior_score": -3.1839,
+      "prior_variance": 0.11849,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Ukhrul",
+      "path": "asia/india/manipur/ukhrul",
+      "prior_score": -4.7384,
+      "prior_variance": 0.119315,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -3.7699,
+      "prior_variance": 0.134224,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": -5.5621,
+      "prior_variance": 0.122664,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Sapulpa",
+      "path": "northamerica/unitedstates/oklahoma/sapulpa",
+      "prior_score": -5.5858,
+      "prior_variance": 0.142994,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Madisonville",
+      "path": "northamerica/unitedstates/kentucky/madisonville",
+      "prior_score": -5.6287,
+      "prior_variance": 0.154669,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -5.0856,
+      "prior_variance": 0.124403,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Luton",
+      "path": "europe/unitedkingdom/england/eastern_england/luton",
+      "prior_score": -5.9608,
+      "prior_variance": 0.136197,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Hebi",
+      "path": "asia/china/henan_province/hebi",
+      "prior_score": -5.4223,
+      "prior_variance": 0.118423,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -6.8669,
+      "prior_variance": 0.185013,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Catumbela",
+      "path": "africa/angola/catumbela",
+      "prior_score": -7.6858,
+      "prior_variance": 0.218648,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Agdam",
+      "path": "europe/azerbaijan/agdam",
+      "prior_score": -8.5708,
+      "prior_variance": 0.252238,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Abeche",
+      "path": "africa/chad/abeche",
+      "prior_score": -8.0268,
+      "prior_variance": 0.18854,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -9.5016,
+      "prior_variance": 0.337505,
+      "prior_n": 12
+    }
+  ]
+}

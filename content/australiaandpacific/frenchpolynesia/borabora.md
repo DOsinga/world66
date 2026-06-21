@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BoraBora_SEtienne.jpg
 latitude: -16.504347
 loc_type: city
 longitude: -151.736689
-score: 0.93
+score: 0.82
 tags:
 - islands
 - beaches

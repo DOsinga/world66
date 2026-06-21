@@ -6,7 +6,7 @@ done:
 latitude: 0.317714
 loc_type: city
 longitude: 32.581354
-score: 0.44
+score: 0.37
 title: Kampala
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 47.711
 longitude: 18.897
 title: Pilis Hills
 type: location
-score: 0.47
+score: 0.38
 loc_type: feature
 ---
 

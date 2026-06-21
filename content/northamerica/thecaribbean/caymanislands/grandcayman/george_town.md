@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfront,_George_Town,_G
 latitude: 19.2866
 loc_type: city
 longitude: -81.3744
-score: 0.7
+score: 0.57
 sources:
 - https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands
 title: George Town

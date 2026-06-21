@@ -6,6 +6,7 @@ loc_type: city
 longitude: 2.1928
 title: Cherchell
 type: location
+score: 0.34
 ---
 
 Cherchell is a quiet coastal town about 90 kilometres west of [Algiers](/africa/algeria/algiers), built directly on top of ancient Caesarea — the Roman capital of the province of Mauretania Caesariensis. For centuries this was one of the great cities of Roman North Africa, and the remains are scattered throughout the modern town: columns built into garden walls, mosaics under car parks, and fragments of temples reused in later Ottoman buildings.

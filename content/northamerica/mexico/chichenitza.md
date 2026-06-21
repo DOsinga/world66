@@ -5,7 +5,7 @@ latitude: 20.682852
 longitude: -88.56872
 title: Chichen Itza
 type: location
-score: 0.78
+score: 0.72
 image: chichenitza.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg
 image_license: CC BY-SA 4.0

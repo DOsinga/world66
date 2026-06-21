@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kangch-Goechala.jpg
 latitude: 27.329
 loc_type: city
 longitude: 88.6123
-score: 0.66
+score: 0.55
 title: Gangtok
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fisherboats_in_Winneba,_Gh
 latitude: 5.35006
 loc_type: city
 longitude: -0.62134
-score: 0.4
+score: 0.31
 title: Winneba
 type: location
 ---

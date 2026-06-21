@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/43714545@N06/41678019990
 latitude: 27.7107
 loc_type: city
 longitude: 85.3481
-score: 0.62
+score: 0.52
 title: Pashupatinath
 type: location
 ---

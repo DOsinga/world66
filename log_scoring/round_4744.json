@@ -1,0 +1,200 @@
+{
+  "round": 4744,
+  "timestamp": "2026-06-14T00:38:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dimmuborgir",
+      "path": "europe/iceland/dimmuborgir",
+      "prior_score": 4.3518,
+      "prior_variance": 0.097746,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Cape Sounion",
+      "path": "europe/greece/capesounion",
+      "prior_score": 5.2501,
+      "prior_variance": 0.095784,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Paraty",
+      "path": "southamerica/brazil/paraty",
+      "prior_score": 5.7696,
+      "prior_variance": 0.105762,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 4.7929,
+      "prior_variance": 0.101354,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Pai",
+      "path": "asia/thailand/pai",
+      "prior_score": 4.996,
+      "prior_variance": 0.094169,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Westland",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/westland",
+      "prior_score": 2.4223,
+      "prior_variance": 0.099146,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Aqaba",
+      "path": "asia/jordan/aqaba",
+      "prior_score": 3.7053,
+      "prior_variance": 0.085654,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.7481,
+      "prior_variance": 0.104103,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Saint-Jean-de-Luz",
+      "path": "europe/france/midi/basqueregion/stjeandeluz",
+      "prior_score": 4.9758,
+      "prior_variance": 0.089308,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Elmina",
+      "path": "africa/ghana/elmina",
+      "prior_score": 1.923,
+      "prior_variance": 0.089974,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Belgrade",
+      "path": "europe/serbia/belgrade",
+      "prior_score": 4.0173,
+      "prior_variance": 0.093854,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Sidon",
+      "path": "asia/lebanon/sidon",
+      "prior_score": 0.4077,
+      "prior_variance": 0.089941,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Lake Bogoria N.P.",
+      "path": "africa/kenya/nationalparksandreserves/lakebogorianp",
+      "prior_score": 2.792,
+      "prior_variance": 0.092531,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Treviso",
+      "path": "europe/italy/veneto/treviso",
+      "prior_score": 4.0288,
+      "prior_variance": 0.090894,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Aracena",
+      "path": "europe/spain/andalucia/aracena",
+      "prior_score": 1.9978,
+      "prior_variance": 0.0822,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Mae Sariang",
+      "path": "asia/thailand/mae_sariang",
+      "prior_score": 0.6534,
+      "prior_variance": 0.089381,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": 2.2795,
+      "prior_variance": 0.087409,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.6174,
+      "prior_variance": 0.085956,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Auxerre",
+      "path": "europe/france/centre/auxerre",
+      "prior_score": 0.8364,
+      "prior_variance": 0.084962,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Varese",
+      "path": "europe/italy/lombardia/varese",
+      "prior_score": 1.1768,
+      "prior_variance": 0.089735,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Hyderabad",
+      "path": "asia/india/andhrapradesh/hyderabad",
+      "prior_score": 0.5215,
+      "prior_variance": 0.110146,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Albuquerque",
+      "path": "northamerica/unitedstates/newmexico/albuquerque",
+      "prior_score": 1.2919,
+      "prior_variance": 0.098816,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Myrtle Beach",
+      "path": "northamerica/unitedstates/southcarolina/myrtlebeach",
+      "prior_score": 0.6372,
+      "prior_variance": 0.108402,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Dacarbudhuq",
+      "path": "africa/somaliland/dacarbudhuq",
+      "prior_score": -9.5495,
+      "prior_variance": 0.296379,
+      "prior_n": 15
+    }
+  ]
+}

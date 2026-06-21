@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cannes_from_Suquet_Tower_0
 latitude: 43.55152
 loc_type: city
 longitude: 7.013442
-score: 0.73
+score: 0.64
 title: Cannes
 type: location
 ---

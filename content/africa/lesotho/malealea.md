@@ -5,7 +5,7 @@ done:
 latitude: -29.8299
 loc_type: city
 longitude: 27.6069
-score: 0.44
+score: 0.39
 title: Malealea
 type: location
 ---

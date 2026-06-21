@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:RO_HR_Miercurea_Ciuc_Miko_
 latitude: 46.3614
 loc_type: city
 longitude: 25.8027
-score: 0.42
+score: 0.35
 title: Miercurea Ciuc
 type: location
 ---

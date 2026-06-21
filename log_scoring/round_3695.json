@@ -1,0 +1,200 @@
+{
+  "round": 3695,
+  "timestamp": "2026-06-13T23:13:06",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Wengen",
+      "path": "europe/switzerland/wengen",
+      "prior_score": 6.4607,
+      "prior_variance": 0.150417,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Milan",
+      "path": "europe/italy/lombardia/milan",
+      "prior_score": 5.8296,
+      "prior_variance": 0.203226,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Oxford",
+      "path": "europe/unitedkingdom/england/south_east/oxford",
+      "prior_score": 6.3569,
+      "prior_variance": 0.174549,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Cascais",
+      "path": "europe/portugal/cascais",
+      "prior_score": 5.8998,
+      "prior_variance": 0.134657,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Waitomo",
+      "path": "australiaandpacific/newzealand/north_island/waikato/waitomo",
+      "prior_score": 6.1889,
+      "prior_variance": 0.144471,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.2716,
+      "prior_variance": 0.114134,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Hell's Gate N.P.",
+      "path": "africa/kenya/nationalparksandreserves/hellsgatenp",
+      "prior_score": 2.64,
+      "prior_variance": 0.119988,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Tangier",
+      "path": "africa/morocco/tangier",
+      "prior_score": 3.3408,
+      "prior_variance": 0.12276,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Katerini",
+      "path": "europe/greece/katerini",
+      "prior_score": -0.6995,
+      "prior_variance": 0.106452,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.3488,
+      "prior_variance": 0.12536,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Soppong",
+      "path": "asia/thailand/soppong",
+      "prior_score": 0.9753,
+      "prior_variance": 0.107067,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Kerinci",
+      "path": "asia/indonesia/sumatra/kerinci",
+      "prior_score": -0.7546,
+      "prior_variance": 0.107909,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tashkorgan",
+      "path": "asia/china/xinjiangprovince/tashkorgan",
+      "prior_score": -1.0482,
+      "prior_variance": 0.121584,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Neretva",
+      "path": "europe/croatia/neretva",
+      "prior_score": -2.7524,
+      "prior_variance": 0.146146,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Oropesa",
+      "path": "europe/spain/la_mancha/oropesa",
+      "prior_score": -1.3465,
+      "prior_variance": 0.108248,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Torsero Park",
+      "path": "europe/italy/liguria/torseropark",
+      "prior_score": -0.3843,
+      "prior_variance": 0.11925,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Kericho",
+      "path": "africa/kenya/theriftvalley/kericho",
+      "prior_score": -1.9019,
+      "prior_variance": 0.118668,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -1.7676,
+      "prior_variance": 0.119044,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -2.8304,
+      "prior_variance": 0.107167,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Clontarf",
+      "path": "australiaandpacific/australia/queensland/clontarf",
+      "prior_score": -3.9319,
+      "prior_variance": 0.113274,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Guysborough",
+      "path": "northamerica/canada/novascotia/guysborough",
+      "prior_score": -2.6229,
+      "prior_variance": 0.107851,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Segou",
+      "path": "africa/mali/segou",
+      "prior_score": -3.0021,
+      "prior_variance": 0.135561,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Swat",
+      "path": "asia/pakistan/swat",
+      "prior_score": -2.6967,
+      "prior_variance": 0.135845,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Khartoum",
+      "path": "africa/sudan/khartoum",
+      "prior_score": -5.8945,
+      "prior_variance": 0.184705,
+      "prior_n": 11
+    }
+  ]
+}

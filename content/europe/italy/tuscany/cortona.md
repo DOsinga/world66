@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cortona-vista01.jpg
 latitude: 43.275298
 loc_type: city
 longitude: 11.985062
-score: 0.7
+score: 0.62
 title: Cortona
 type: location
 ---

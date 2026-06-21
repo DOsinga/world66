@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palagan_Ambarawa_-_panoram
 latitude: -7.2655
 loc_type: city
 longitude: 110.4017
-score: 0.43
+score: 0.35
 title: Ambarawa
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stanford_University_Main_Q
 latitude: 37.4419
 loc_type: city
 longitude: -122.143
-score: 0.49
+score: 0.36
 title: Palo Alto
 type: location
 ---

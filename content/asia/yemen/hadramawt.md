@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Hajarayn_(2285802221).j
 latitude: 16.7323
 loc_type: city
 longitude: 48.6085
-score: 0.19
+score: 0.14
 title: Hadramawt
 type: location
 ---

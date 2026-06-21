@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Christ_Church_in_Windhoek,
 latitude: -22.57761
 loc_type: city
 longitude: 17.077274
-score: 0.47
+score: 0.43
 title: Windhoek
 type: location
 ---

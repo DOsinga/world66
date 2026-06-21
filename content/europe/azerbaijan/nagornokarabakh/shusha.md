@@ -5,7 +5,7 @@ done:
 latitude: 39.763257
 loc_type: city
 longitude: 46.75115
-score: 0.37
+score: 0.26
 sources:
 - https://en.wikipedia.org/wiki/Shusha_State_Historical_and_Architectural_Reserve
 - https://en.wikipedia.org/wiki/Jidir_Plain

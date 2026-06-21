@@ -1,0 +1,200 @@
+{
+  "round": 3449,
+  "timestamp": "2026-06-13T22:54:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Longmen Grottoes",
+      "path": "asia/china/henan_province/longmen_grottoes",
+      "prior_score": 4.9746,
+      "prior_variance": 0.142652,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Novigrad",
+      "path": "europe/croatia/novigrad",
+      "prior_score": 4.0318,
+      "prior_variance": 0.132259,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Kumarakom",
+      "path": "asia/india/kerala/kumarakom",
+      "prior_score": 3.2795,
+      "prior_variance": 0.122141,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Srirangam",
+      "path": "asia/india/tamilnadu/srirangam",
+      "prior_score": 1.5731,
+      "prior_variance": 0.14672,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.3808,
+      "prior_variance": 0.111676,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Mandi",
+      "path": "asia/india/himachalpradesh/mandi",
+      "prior_score": -1.0416,
+      "prior_variance": 0.138587,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Pyatigorsk",
+      "path": "europe/russia/pyatigorsk",
+      "prior_score": -2.3793,
+      "prior_variance": 0.133668,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Nanning",
+      "path": "asia/china/guangxi/nanning",
+      "prior_score": -2.0114,
+      "prior_variance": 0.11944,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Oracabessa",
+      "path": "northamerica/jamaica/oracabessa",
+      "prior_score": 0.6334,
+      "prior_variance": 0.119539,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Chinle",
+      "path": "northamerica/unitedstates/arizona/chinle",
+      "prior_score": 0.7904,
+      "prior_variance": 0.187395,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Corning",
+      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
+      "prior_score": -1.2352,
+      "prior_variance": 0.127824,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Petoskey",
+      "path": "northamerica/unitedstates/michigan/petoskey",
+      "prior_score": -0.9168,
+      "prior_variance": 0.112611,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Madang",
+      "path": "asia/papuanewguinea/madang",
+      "prior_score": -1.4807,
+      "prior_variance": 0.145522,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Coche Island",
+      "path": "southamerica/venezuela/coche_island",
+      "prior_score": -1.7946,
+      "prior_variance": 0.151118,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Holyhead",
+      "path": "europe/unitedkingdom/wales/anglesey/holyhead",
+      "prior_score": -2.0169,
+      "prior_variance": 0.112944,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -0.9813,
+      "prior_variance": 0.12226,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Sudbury",
+      "path": "europe/unitedkingdom/england/suffolk/sudbury",
+      "prior_score": -3.4436,
+      "prior_variance": 0.143725,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Southend-on-Sea",
+      "path": "europe/unitedkingdom/england/eastern_england/southendonsea",
+      "prior_score": -2.0463,
+      "prior_variance": 0.121543,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Armidale",
+      "path": "australiaandpacific/australia/newsouthwales/armidale",
+      "prior_score": -2.1607,
+      "prior_variance": 0.110364,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Naufrage",
+      "path": "northamerica/canada/princeedwardisland/naufrage",
+      "prior_score": -2.9356,
+      "prior_variance": 0.122344,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -1.1211,
+      "prior_variance": 0.122556,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.5537,
+      "prior_variance": 0.111687,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Mooresville",
+      "path": "northamerica/unitedstates/northcarolina/mooresville",
+      "prior_score": -4.2966,
+      "prior_variance": 0.125565,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Minden",
+      "path": "northamerica/unitedstates/nebraska/minden",
+      "prior_score": -5.7607,
+      "prior_variance": 0.152831,
+      "prior_n": 11
+    }
+  ]
+}

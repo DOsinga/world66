@@ -5,7 +5,7 @@ latitude: 51.640934
 longitude: -2.676695
 title: Chepstow
 type: location
-score: 0.5
+score: 0.43
 loc_type: city
 ---
 

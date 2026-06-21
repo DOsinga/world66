@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MonrealeCathedral-pjt1.jpg
 latitude: 38.0826
 loc_type: city
 longitude: 13.292
-score: 0.64
+score: 0.57
 sources:
 - https://en.wikipedia.org/wiki/Monreale_Cathedral
 - https://en.wikipedia.org/wiki/Abbey_of_San_Martino_delle_Scale

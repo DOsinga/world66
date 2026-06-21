@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_Statue_and
 latitude: 43.048122
 loc_type: city
 longitude: -76.147424
-score: 0.39
+score: 0.34
 title: Syracuse
 type: location
 ---

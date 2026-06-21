@@ -5,7 +5,7 @@ done:
 latitude: 63.749274
 loc_type: city
 longitude: -68.521376
-score: 0.4
+score: 0.36
 title: Iqaluit
 type: location
 image: iqaluit.jpg

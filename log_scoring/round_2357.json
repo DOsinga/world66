@@ -1,0 +1,200 @@
+{
+  "round": 2357,
+  "timestamp": "2026-06-13T21:37:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dolomites",
+      "path": "europe/italy/dolomites",
+      "prior_score": 12.8268,
+      "prior_variance": 0.502419,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Grand Teton",
+      "path": "northamerica/unitedstates/wyoming/grandteton",
+      "prior_score": 7.562,
+      "prior_variance": 0.472796,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Vava'u Island",
+      "path": "australiaandpacific/tonga/vavauisland",
+      "prior_score": 4.3217,
+      "prior_variance": 0.259805,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 3.2445,
+      "prior_variance": 0.193188,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Konstanz",
+      "path": "europe/germany/badenwrttemberg/konstanz",
+      "prior_score": 3.2212,
+      "prior_variance": 0.194946,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Drumnadrochit",
+      "path": "europe/unitedkingdom/scotland/drumnadrochit",
+      "prior_score": 2.1021,
+      "prior_variance": 0.218888,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Kalmar",
+      "path": "europe/sweden/kalmar",
+      "prior_score": 2.8679,
+      "prior_variance": 0.184766,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.568,
+      "prior_variance": 0.187774,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Alanya",
+      "path": "asia/turkey/alanya",
+      "prior_score": 4.6014,
+      "prior_variance": 0.211285,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Angoul\u00eame",
+      "path": "europe/france/aquitaine/angouleme",
+      "prior_score": 1.3913,
+      "prior_variance": 0.16637,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Parma",
+      "path": "europe/italy/emiliaromagna/parma",
+      "prior_score": 4.5195,
+      "prior_variance": 0.177974,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Ketchikan",
+      "path": "northamerica/unitedstates/alaska/ketchikan",
+      "prior_score": 3.7595,
+      "prior_variance": 0.190764,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Puri",
+      "path": "asia/india/orissa/puri",
+      "prior_score": 0.6071,
+      "prior_variance": 0.20363,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Douz",
+      "path": "africa/tunisia/douz",
+      "prior_score": 0.5018,
+      "prior_variance": 0.190138,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": 0.0919,
+      "prior_variance": 0.182769,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Hukou Falls",
+      "path": "asia/china/shaanxi/hukou_falls",
+      "prior_score": 0.9019,
+      "prior_variance": 0.233857,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.5024,
+      "prior_variance": 0.169264,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Chalkis",
+      "path": "europe/greece/chalkis",
+      "prior_score": -0.5841,
+      "prior_variance": 0.168878,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Taranto",
+      "path": "europe/italy/puglia/taranto",
+      "prior_score": 0.8088,
+      "prior_variance": 0.185785,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Dunfermline",
+      "path": "europe/unitedkingdom/scotland/dunfermline",
+      "prior_score": -0.0108,
+      "prior_variance": 0.161934,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Gori",
+      "path": "europe/georgia/gori",
+      "prior_score": -1.0369,
+      "prior_variance": 0.16537,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Spanish Town",
+      "path": "northamerica/jamaica/spanishtown",
+      "prior_score": -2.2663,
+      "prior_variance": 0.228292,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.5797,
+      "prior_variance": 0.220928,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Ti\u00e9b\u00e9l\u00e9",
+      "path": "africa/burkinafaso/tibl",
+      "prior_score": -0.8485,
+      "prior_variance": 0.201827,
+      "prior_n": 7
+    }
+  ]
+}

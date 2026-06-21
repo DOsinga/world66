@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tropea_-_Veduta_da_Via_Car
 latitude: 38.6753
 loc_type: city
 longitude: 15.8949
-score: 0.67
+score: 0.58
 title: Tropea
 type: location
 ---

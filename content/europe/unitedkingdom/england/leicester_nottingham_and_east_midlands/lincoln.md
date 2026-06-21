@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1388680_Cathedral_Church_o
 latitude: 53.229354
 loc_type: city
 longitude: -0.540482
-score: 0.49
+score: 0.43
 title: Lincoln
 type: location
 ---

@@ -1,200 +1,200 @@
 {
   "round": 1268,
-  "timestamp": "2026-04-12T22:18:34",
+  "timestamp": "2026-06-13T20:20:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Ouarzazate",
-      "path": "africa/morocco/ouarzazate",
-      "prior_rank": 2431,
-      "prior_wins": 44,
-      "prior_n": 3
+      "title": "Davos",
+      "path": "europe/switzerland/davos",
+      "prior_score": 5.0508,
+      "prior_variance": 0.426412,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Dunedin",
-      "path": "australiaandpacific/newzealand/otago/dunedin",
-      "prior_rank": 726,
-      "prior_wins": 38,
-      "prior_n": 2
+      "title": "Marigot Bay",
+      "path": "northamerica/saintlucia/marigotbay",
+      "prior_score": 8.2829,
+      "prior_variance": 0.420761,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Redang",
-      "path": "asia/malaysia/redang",
-      "prior_rank": 2750,
-      "prior_wins": 28,
-      "prior_n": 2
-    },
-    {
-      "rank": 4,
-      "title": "Dar es salaam",
-      "path": "africa/tanzania/daressalaam",
-      "prior_rank": 4550,
-      "prior_wins": 21,
-      "prior_n": 2
-    },
-    {
-      "rank": 5,
-      "title": "Lake Baringo",
-      "path": "africa/kenya/lakes/lakebaringo",
-      "prior_rank": 4148,
-      "prior_wins": 34,
+      "title": "Kata",
+      "path": "asia/thailand/phuket/kata",
+      "prior_score": 8.2967,
+      "prior_variance": 0.746802,
       "prior_n": 3
     },
     {
+      "rank": 4,
+      "title": "Scilla",
+      "path": "europe/italy/calabria/scilla",
+      "prior_score": 4.2342,
+      "prior_variance": 0.354365,
+      "prior_n": 4
+    },
+    {
+      "rank": 5,
+      "title": "Girona",
+      "path": "europe/spain/catalonia/girona",
+      "prior_score": 9.2426,
+      "prior_variance": 0.398931,
+      "prior_n": 4
+    },
+    {
       "rank": 6,
-      "title": "Cuernavaca",
-      "path": "northamerica/mexico/cuernavaca",
-      "prior_rank": 4548,
-      "prior_wins": 21,
-      "prior_n": 2
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 8.1263,
+      "prior_variance": 0.664894,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Oracabessa",
-      "path": "northamerica/jamaica/oracabessa",
-      "prior_rank": 2563,
-      "prior_wins": 45,
+      "title": "Las Medulas",
+      "path": "europe/spain/galicia/las_medulas",
+      "prior_score": 4.3405,
+      "prior_variance": 0.343134,
       "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Isla Verde",
-      "path": "northamerica/puertorico/islaverde",
-      "prior_rank": 4121,
-      "prior_wins": 34,
-      "prior_n": 3
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.6179,
+      "prior_variance": 0.403987,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Manama",
-      "path": "asia/bahrain/manama",
-      "prior_rank": 5160,
-      "prior_wins": 28,
+      "title": "Kota Kinabalu",
+      "path": "asia/malaysia/kotakinabalu",
+      "prior_score": 7.9278,
+      "prior_variance": 0.440016,
       "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Ilha do Mel",
-      "path": "southamerica/brazil/ilha_do_mel",
-      "prior_rank": 1432,
-      "prior_wins": 51,
-      "prior_n": 3
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.046,
+      "prior_variance": 0.33235,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Saratoga Springs",
-      "path": "northamerica/unitedstates/newyorkstate/saratoga",
-      "prior_rank": 1181,
-      "prior_wins": 53,
-      "prior_n": 3
+      "title": "Siwa",
+      "path": "africa/egypt/siwa",
+      "prior_score": 4.6465,
+      "prior_variance": 0.409069,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Echmiadzin",
-      "path": "europe/armenia/echmiadzin",
-      "prior_rank": 1436,
-      "prior_wins": 34,
-      "prior_n": 2
+      "title": "Butrint",
+      "path": "europe/albania/butrint",
+      "prior_score": 1.4492,
+      "prior_variance": 0.389584,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Astorga",
-      "path": "europe/spain/northernspain/astorga",
-      "prior_rank": 2503,
-      "prior_wins": 43,
-      "prior_n": 3
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.8172,
+      "prior_variance": 0.337099,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Bibione",
-      "path": "europe/italy/veneto/bibione",
-      "prior_rank": 2535,
-      "prior_wins": 58,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 4.4904,
+      "prior_variance": 0.292079,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Oland",
-      "path": "europe/sweden/oland",
-      "prior_rank": 1896,
-      "prior_wins": 79,
-      "prior_n": 5
+      "title": "Marco Island",
+      "path": "northamerica/unitedstates/florida/marcoisland",
+      "prior_score": 3.4622,
+      "prior_variance": 0.359977,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Atiu",
-      "path": "australiaandpacific/cookislands/atiu",
-      "prior_rank": 2496,
-      "prior_wins": 35,
-      "prior_n": 3
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.4359,
+      "prior_variance": 0.299446,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Inari",
-      "path": "europe/finland/inari",
-      "prior_rank": 3288,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Mohammedia",
+      "path": "africa/morocco/mohammedia",
+      "prior_score": -3.2331,
+      "prior_variance": 0.42782,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Melrose",
-      "path": "europe/unitedkingdom/scotland/melrose",
-      "prior_rank": 2289,
-      "prior_wins": 45,
-      "prior_n": 3
+      "title": "Oberhausen",
+      "path": "europe/germany/northrhinewestphalia/oberhausen",
+      "prior_score": -4.5674,
+      "prior_variance": 0.417585,
+      "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Porlock and District",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/porlock_and_distri",
-      "prior_rank": 4450,
-      "prior_wins": 32,
-      "prior_n": 3
+      "title": "Torrance",
+      "path": "northamerica/unitedstates/california/torrance",
+      "prior_score": -5.4176,
+      "prior_variance": 0.565308,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Bor\u00f0oy",
-      "path": "europe/faroeislands/bordoy",
-      "prior_rank": 2047,
-      "prior_wins": 54,
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -6.5893,
+      "prior_variance": 0.494281,
       "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Arendal",
-      "path": "europe/norway/arendal",
-      "prior_rank": 5827,
-      "prior_wins": 24,
+      "title": "Djougou",
+      "path": "africa/benin/djougou",
+      "prior_score": -8.5105,
+      "prior_variance": 0.397525,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Porrentruy",
-      "path": "europe/switzerland/porrentruy",
-      "prior_rank": 5345,
-      "prior_wins": 18,
-      "prior_n": 2
-    },
-    {
-      "rank": 23,
-      "title": "Kazanlak",
-      "path": "europe/bulgaria/valleyoftheroses/kazanlak",
-      "prior_rank": 2446,
-      "prior_wins": 44,
+      "title": "Grayslake",
+      "path": "northamerica/unitedstates/illinois/grayslake",
+      "prior_score": -9.2014,
+      "prior_variance": 0.421738,
       "prior_n": 3
     },
     {
+      "rank": 23,
+      "title": "Saurimo",
+      "path": "africa/angola/saurimo",
+      "prior_score": -9.949,
+      "prior_variance": 0.600741,
+      "prior_n": 5
+    },
+    {
       "rank": 24,
-      "title": "Velez Malaga",
-      "path": "europe/spain/andalucia/velezmalaga",
-      "prior_rank": 3386,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -11.7232,
+      "prior_variance": 1.034623,
+      "prior_n": 3
     }
   ]
 }

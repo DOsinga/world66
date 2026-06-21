@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanece_en_Vinaros_-_panor
 latitude: 40.470399
 loc_type: city
 longitude: 0.474608
-score: 0.49
+score: 0.41
 title: Vinaros
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_C
 latitude: 1.458199
 loc_type: city
 longitude: 103.764906
-score: 0.48
+score: 0.41
 title: Johor Bahru
 type: location
 ---

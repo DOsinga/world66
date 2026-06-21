@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dalvik.jpg
 latitude: 65.893406
 loc_type: city
 longitude: -18.563879
-score: 0.48
+score: 0.4
 title: Dalvíkurbyggð
 type: location
 ---

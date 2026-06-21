@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_
 latitude: 19.6546
 loc_type: city
 longitude: -101.26238
-score: 0.57
+score: 0.54
 title: Morelia
 type: location
 ---

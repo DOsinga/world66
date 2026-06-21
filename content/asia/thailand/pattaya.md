@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pattaya_Bay,_Pattaya_Beach
 latitude: 12.9367
 loc_type: city
 longitude: 100.8865
-score: 0.62
+score: 0.51
 title: Pattaya
 type: location
 ---

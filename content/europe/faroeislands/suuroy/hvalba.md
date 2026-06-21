@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hvalba.jpg
 latitude: 61.600628
 loc_type: city
 longitude: -6.956834
-score: 0.47
+score: 0.35
 title: Hvalba
 type: location
 ---

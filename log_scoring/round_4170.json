@@ -1,0 +1,200 @@
+{
+  "round": 4170,
+  "timestamp": "2026-06-13T23:51:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stonehenge",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge",
+      "prior_score": 6.2382,
+      "prior_variance": 0.126981,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.3583,
+      "prior_variance": 0.116038,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Thessaloniki",
+      "path": "europe/greece/thessaloniki",
+      "prior_score": 5.7773,
+      "prior_variance": 0.126722,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Bukhara",
+      "path": "asia/uzbekistan/bukhara",
+      "prior_score": 6.9086,
+      "prior_variance": 0.191451,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Seoraksan",
+      "path": "asia/southkorea/seoraksan",
+      "prior_score": 5.0933,
+      "prior_variance": 0.122717,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Fontevraud",
+      "path": "europe/france/centre/loirevalley/fontevraud",
+      "prior_score": 2.2572,
+      "prior_variance": 0.088865,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Fiskardo",
+      "path": "europe/greece/cephalonia/fiskardo",
+      "prior_score": 5.2393,
+      "prior_variance": 0.10647,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Altm\u00fchl Valley",
+      "path": "europe/germany/bavaria/altmuhl",
+      "prior_score": 2.9264,
+      "prior_variance": 0.099729,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Yonaguni Island",
+      "path": "asia/japan/ryukyuislands/yonaguniisland",
+      "prior_score": 2.1174,
+      "prior_variance": 0.109703,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -3.7483,
+      "prior_variance": 0.112326,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 1.9605,
+      "prior_variance": 0.102265,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "West Hollywood",
+      "path": "northamerica/unitedstates/california/westhollywood",
+      "prior_score": 1.7631,
+      "prior_variance": 0.132269,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kermanshah",
+      "path": "asia/iran/kermanshah",
+      "prior_score": -3.1645,
+      "prior_variance": 0.114497,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Tiracol",
+      "path": "asia/india/goa/tiracol",
+      "prior_score": 0.323,
+      "prior_variance": 0.098412,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Makassar",
+      "path": "asia/indonesia/sulawesi/makassar",
+      "prior_score": -0.443,
+      "prior_variance": 0.101699,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Zhanjiang",
+      "path": "asia/china/guangdong/zhanjiang",
+      "prior_score": -3.4009,
+      "prior_variance": 0.103411,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Jos",
+      "path": "africa/nigeria/jos",
+      "prior_score": -4.1459,
+      "prior_variance": 0.111919,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Toamasina",
+      "path": "africa/madagascar/toamasina",
+      "prior_score": -3.7276,
+      "prior_variance": 0.11994,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Heihe",
+      "path": "asia/china/heilongjiang/heihe",
+      "prior_score": -4.5062,
+      "prior_variance": 0.113319,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Jerez Zacatecas",
+      "path": "northamerica/mexico/jerezzacatecas",
+      "prior_score": -3.294,
+      "prior_variance": 0.115392,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Oxford",
+      "path": "northamerica/unitedstates/mississippi/oxford",
+      "prior_score": -2.7291,
+      "prior_variance": 0.101135,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.5494,
+      "prior_variance": 0.112943,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -5.0032,
+      "prior_variance": 0.135606,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Aska",
+      "path": "asia/india/orissa/aska",
+      "prior_score": -6.2215,
+      "prior_variance": 0.118804,
+      "prior_n": 13
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
 latitude: 49.689406
 loc_type: city
 longitude: -124.995496
-score: 0.45
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Courtenay,_British_Columbia
 - https://en.wikipedia.org/wiki/Comox_Valley

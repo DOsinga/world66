@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Early_morning_view_across_
 latitude: 51.619596
 loc_type: city
 longitude: -3.945925
-score: 0.46
+score: 0.39
 title: Swansea
 type: location
 ---

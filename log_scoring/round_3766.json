@@ -1,0 +1,200 @@
+{
+  "round": 3766,
+  "timestamp": "2026-06-13T23:18:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Douro Valley",
+      "path": "europe/portugal/dourovalley",
+      "prior_score": 7.0941,
+      "prior_variance": 0.13324,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Porec",
+      "path": "europe/croatia/porec",
+      "prior_score": 5.0313,
+      "prior_variance": 0.120381,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Cayman Brac",
+      "path": "northamerica/thecaribbean/caymanislands/caymanbrac",
+      "prior_score": 3.5575,
+      "prior_variance": 0.117599,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Puigcerd\u00e0",
+      "path": "europe/spain/puigcerd",
+      "prior_score": 0.9371,
+      "prior_variance": 0.115518,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Shimla",
+      "path": "asia/india/himachalpradesh/shimla",
+      "prior_score": 3.6308,
+      "prior_variance": 0.103396,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Moji",
+      "path": "asia/japan/kyushu/moji",
+      "prior_score": 0.9744,
+      "prior_variance": 0.12002,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Chenini",
+      "path": "africa/tunisia/chenini",
+      "prior_score": 0.4585,
+      "prior_variance": 0.115778,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/zuccarello",
+      "prior_score": -0.2977,
+      "prior_variance": 0.119536,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bellaria",
+      "path": "europe/italy/emiliaromagna/bellaria",
+      "prior_score": -0.3053,
+      "prior_variance": 0.10109,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -0.7763,
+      "prior_variance": 0.103035,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.2646,
+      "prior_variance": 0.105383,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Rungstedlund",
+      "path": "europe/denmark/rungstedlund",
+      "prior_score": -1.0036,
+      "prior_variance": 0.104936,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Mullingar",
+      "path": "europe/ireland/mullingar",
+      "prior_score": -1.5977,
+      "prior_variance": 0.106251,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Lleida",
+      "path": "europe/spain/catalonia/lleida",
+      "prior_score": -1.224,
+      "prior_variance": 0.113344,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Aalst",
+      "path": "europe/belgium/aalst",
+      "prior_score": -2.0236,
+      "prior_variance": 0.111533,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Kilrush",
+      "path": "europe/ireland/kilrush",
+      "prior_score": -1.408,
+      "prior_variance": 0.139183,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Nanumea",
+      "path": "australiaandpacific/tuvalu/nanumeaatoll",
+      "prior_score": -2.4133,
+      "prior_variance": 0.192352,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.6578,
+      "prior_variance": 0.138495,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -2.58,
+      "prior_variance": 0.126502,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.2305,
+      "prior_variance": 0.14451,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Salmiya",
+      "path": "asia/kuwait/salmiya",
+      "prior_score": -4.3258,
+      "prior_variance": 0.127079,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Casper",
+      "path": "northamerica/unitedstates/wyoming/casper",
+      "prior_score": -2.8604,
+      "prior_variance": 0.113188,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Southampton",
+      "path": "northamerica/canada/ontario/southampton",
+      "prior_score": -2.1632,
+      "prior_variance": 0.110741,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Damak",
+      "path": "asia/nepal/birtamode/damak",
+      "prior_score": -4.8136,
+      "prior_variance": 0.14756,
+      "prior_n": 12
+    }
+  ]
+}

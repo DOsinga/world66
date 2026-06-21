@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cycle_taxi-Siaya.JPG
 latitude: 0.0593
 loc_type: city
 longitude: 34.2835
-score: 0.3
+score: 0.22
 title: Siaya Town
 type: location
 ---

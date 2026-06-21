@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahadarwaja,_Raigad_Fort,_
 latitude: 18.2333
 loc_type: city
 longitude: 73.44
-score: 0.4
+score: 0.37
 title: Raigad
 type: location
 ---

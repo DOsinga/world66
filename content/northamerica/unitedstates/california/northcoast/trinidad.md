@@ -9,7 +9,7 @@ image_attribution: Dana L. Brown on Flickr
 latitude: 41.0594
 loc_type: city
 longitude: -124.1437
-score: 0.44
+score: 0.35
 title: Trinidad
 type: location
 ---

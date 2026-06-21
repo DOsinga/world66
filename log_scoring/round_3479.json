@@ -1,0 +1,200 @@
+{
+  "round": 3479,
+  "timestamp": "2026-06-13T22:56:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.3505,
+      "prior_variance": 0.12675,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Malbun",
+      "path": "europe/liechtenstein/malbun",
+      "prior_score": 0.8129,
+      "prior_variance": 0.137312,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.5244,
+      "prior_variance": 0.125407,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Pahalgam",
+      "path": "asia/india/jammuandkashmir/pahalgam",
+      "prior_score": 3.3436,
+      "prior_variance": 0.127093,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Las Terrenas",
+      "path": "northamerica/dominicanrepublic/lasterrenas",
+      "prior_score": 3.5959,
+      "prior_variance": 0.127685,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Lang Co Beach",
+      "path": "asia/vietnam/hue/aroundhue/langcobeach",
+      "prior_score": 2.5434,
+      "prior_variance": 0.127052,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "McLeod Ganj",
+      "path": "asia/india/himachalpradesh/mcleodganj",
+      "prior_score": 3.6107,
+      "prior_variance": 0.132827,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.2148,
+      "prior_variance": 0.132751,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Rotterdam",
+      "path": "europe/netherlands/rotterdam",
+      "prior_score": 2.8384,
+      "prior_variance": 0.142617,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ingolstadt",
+      "path": "europe/germany/bavaria/ingolstadt",
+      "prior_score": 0.2356,
+      "prior_variance": 0.118067,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Montespertoli",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montespertoli",
+      "prior_score": 0.0626,
+      "prior_variance": 0.12527,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -2.3875,
+      "prior_variance": 0.136969,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.4077,
+      "prior_variance": 0.134103,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Somnath",
+      "path": "asia/india/gujarat/somnath",
+      "prior_score": -0.1894,
+      "prior_variance": 0.108226,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Santos",
+      "path": "southamerica/brazil/santos",
+      "prior_score": -0.5081,
+      "prior_variance": 0.116629,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Chiclayo",
+      "path": "southamerica/peru/chiclayo",
+      "prior_score": 0.3324,
+      "prior_variance": 0.121502,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Jinan",
+      "path": "asia/china/shandong_province/jinan",
+      "prior_score": -1.3868,
+      "prior_variance": 0.136786,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.9471,
+      "prior_variance": 0.130937,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Woodinville",
+      "path": "northamerica/unitedstates/washington/woodinville",
+      "prior_score": -2.0773,
+      "prior_variance": 0.113036,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Aregu\u00e1",
+      "path": "southamerica/paraguay/aregua",
+      "prior_score": -2.0332,
+      "prior_variance": 0.12231,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -2.5188,
+      "prior_variance": 0.121798,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Lushnj\u00eb",
+      "path": "europe/albania/lushnje",
+      "prior_score": -5.529,
+      "prior_variance": 0.149267,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Naraj",
+      "path": "asia/india/orissa/naraj",
+      "prior_score": -5.2818,
+      "prior_variance": 0.138968,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Suqian",
+      "path": "asia/china/jiangsu_province/suqian",
+      "prior_score": -5.0875,
+      "prior_variance": 0.157904,
+      "prior_n": 11
+    }
+  ]
+}

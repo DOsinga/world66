@@ -6,7 +6,7 @@ latitude: 10.062326
 longitude: -2.505427
 title: Wa
 type: location
-score: 0.29
+score: 0.26
 loc_type: city
 image: wa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palace_Pillas_(2).jpg

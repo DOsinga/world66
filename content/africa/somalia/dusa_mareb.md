@@ -5,7 +5,7 @@ done:
 latitude: 5.535591
 loc_type: city
 longitude: 46.383108
-score: 0.14
+score: 0.04
 title: Dhuusamarreeb
 type: location
 ---

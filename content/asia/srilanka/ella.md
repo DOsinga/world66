@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SL_Ella_asv2020-01_img22_V
 latitude: 6.8736
 loc_type: city
 longitude: 81.049
-score: 0.67
+score: 0.58
 title: Ella
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CairoAbbasiyaMarkEntrance-
 latitude: 30.044388
 loc_type: city
 longitude: 31.235726
-score: 0.82
+score: 0.7
 title: Cairo
 type: location
 ---

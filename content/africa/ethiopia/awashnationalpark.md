@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Fentale
 title: Awash National Park
 type: location
+score: 0.41
 ---
 
 Awash National Park is Ethiopia's classic Rift Valley park: acacia scrub, dry savanna, volcanic rock, hot springs, and the Awash River dropping into a gorge before pushing east toward the Afar lowlands. It is much easier to reach than the country's remote parks, sitting on the Addis Ababa-Dire Dawa road, but it still feels properly wild once you leave the highway behind.

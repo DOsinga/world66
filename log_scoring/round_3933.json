@@ -1,0 +1,200 @@
+{
+  "round": 3933,
+  "timestamp": "2026-06-13T23:30:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 8.4729,
+      "prior_variance": 0.192402,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Simien Mountains",
+      "path": "africa/ethiopia/simienmountains",
+      "prior_score": 4.2239,
+      "prior_variance": 0.121249,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Khajuraho",
+      "path": "asia/india/madhyapradesh/khajuraho",
+      "prior_score": 3.7659,
+      "prior_variance": 0.142196,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kutn\u00e1 Hora",
+      "path": "europe/czechrepublic/kutnahora",
+      "prior_score": 5.3904,
+      "prior_variance": 0.116374,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 3.6364,
+      "prior_variance": 0.126507,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Musanze (Ruhengeri)",
+      "path": "africa/rwanda/ruhengeri",
+      "prior_score": 2.011,
+      "prior_variance": 0.107459,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.7557,
+      "prior_variance": 0.127471,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Reims",
+      "path": "europe/france/east/champagne/reims",
+      "prior_score": 4.6321,
+      "prior_variance": 0.121326,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Helsing\u00f8r",
+      "path": "europe/denmark/helsingor",
+      "prior_score": 4.5798,
+      "prior_variance": 0.142461,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Tainan",
+      "path": "asia/taiwan/tainan",
+      "prior_score": 4.4597,
+      "prior_variance": 0.107153,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Paxi",
+      "path": "europe/greece/paxi",
+      "prior_score": 4.5108,
+      "prior_variance": 0.11769,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Krk",
+      "path": "europe/croatia/krkisland/krk",
+      "prior_score": 3.3669,
+      "prior_variance": 0.109943,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Tremiti Islands",
+      "path": "europe/italy/puglia/tremitiislands",
+      "prior_score": 4.3976,
+      "prior_variance": 0.107014,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Ba\u0161ka",
+      "path": "europe/croatia/baka",
+      "prior_score": 4.0353,
+      "prior_variance": 0.110974,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": 4.0513,
+      "prior_variance": 0.113331,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Fuerteventura",
+      "path": "europe/spain/canaryislands/fuerteventura",
+      "prior_score": 5.4845,
+      "prior_variance": 0.11503,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Porto Ferro",
+      "path": "europe/italy/sardinia/portoferro",
+      "prior_score": 0.8983,
+      "prior_variance": 0.171324,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 1.3934,
+      "prior_variance": 0.096693,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.4858,
+      "prior_variance": 0.103711,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.9126,
+      "prior_variance": 0.121481,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Sambalpur",
+      "path": "asia/india/orissa/sambalpur",
+      "prior_score": -4.1113,
+      "prior_variance": 0.104746,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Yaguaron",
+      "path": "southamerica/paraguay/yaguaron",
+      "prior_score": -4.2994,
+      "prior_variance": 0.136819,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Pontefract",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/pontefract",
+      "prior_score": -2.8826,
+      "prior_variance": 0.098862,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -4.1644,
+      "prior_variance": 0.119699,
+      "prior_n": 13
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0596_Kappadokien_-_U%C3
 latitude: 38.629383
 loc_type: city
 longitude: 34.804614
-score: 0.74
+score: 0.68
 title: Uchisar
 type: location
 ---

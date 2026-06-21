@@ -1,200 +1,200 @@
 {
   "round": 1238,
-  "timestamp": "2026-04-12T22:16:55",
+  "timestamp": "2026-06-13T20:18:51",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cagnes-sur-Mer",
-      "path": "europe/france/midi/cotedazur/cagne",
-      "prior_rank": 3549,
-      "prior_wins": 37,
-      "prior_n": 3
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/newsouthwales/nationalparks",
+      "prior_score": 1.3593,
+      "prior_variance": 0.527084,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Richmond",
-      "path": "europe/unitedkingdom/england/richmond",
-      "prior_rank": 2126,
-      "prior_wins": 61,
+      "title": "Narooma",
+      "path": "australiaandpacific/australia/newsouthwales/narooma",
+      "prior_score": 0.3166,
+      "prior_variance": 0.349063,
       "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Dingli",
-      "path": "europe/malta/dingli",
-      "prior_rank": 7217,
-      "prior_wins": 13,
-      "prior_n": 3
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 5.2084,
+      "prior_variance": 0.390924,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Mazag\u00f3n",
-      "path": "europe/spain/andalucia/mazagon",
-      "prior_rank": 5058,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.2679,
+      "prior_variance": 0.319709,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Suffolk",
-      "path": "europe/unitedkingdom/suffolk",
-      "prior_rank": 4238,
-      "prior_wins": 22,
-      "prior_n": 2
+      "title": "Aurangabad",
+      "path": "asia/india/maharashtra/aurangabad",
+      "prior_score": 2.5688,
+      "prior_variance": 0.316689,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Vejle",
-      "path": "europe/denmark/vejle",
-      "prior_rank": 3575,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": 0.4286,
+      "prior_variance": 0.349237,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Cosenza",
-      "path": "europe/italy/calabria/cosenza",
-      "prior_rank": 2829,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Pontgibaud",
+      "path": "europe/france/centre/auvergne/pontgibaud",
+      "prior_score": -3.1258,
+      "prior_variance": 0.416443,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Paderborn",
-      "path": "europe/germany/paderborn",
-      "prior_rank": 5031,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Kassel",
+      "path": "europe/germany/hessen/kassel",
+      "prior_score": 0.4916,
+      "prior_variance": 0.31076,
+      "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Gorkha",
-      "path": "asia/nepal/gorkha_gurkha",
-      "prior_rank": 3215,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Hameenlinna",
+      "path": "europe/finland/hameenlinna",
+      "prior_score": 0.109,
+      "prior_variance": 0.391426,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Hac\u0131bekta\u015f",
-      "path": "asia/turkey/cappadocia/hacibektas",
-      "prior_rank": 2855,
-      "prior_wins": 28,
-      "prior_n": 2
+      "title": "Entebbe",
+      "path": "africa/uganda/entebbe",
+      "prior_score": -1.6536,
+      "prior_variance": 0.402545,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Torrey",
-      "path": "northamerica/unitedstates/utah/torrey",
-      "prior_rank": 3691,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -2.3774,
+      "prior_variance": 0.403061,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Denman Island",
-      "path": "northamerica/canada/britishcolumbia/denman_island",
-      "prior_rank": 4041,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Alibag",
+      "path": "asia/india/maharashtra/alibag",
+      "prior_score": -2.6235,
+      "prior_variance": 0.327352,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Al Hoceima",
-      "path": "africa/morocco/alhoceima",
-      "prior_rank": 5271,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -1.3839,
+      "prior_variance": 0.436431,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Colima",
-      "path": "northamerica/mexico/colima",
-      "prior_rank": 5156,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Moynaq",
+      "path": "asia/uzbekistan/moynaq",
+      "prior_score": -4.4474,
+      "prior_variance": 0.497959,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Vulture Area",
-      "path": "europe/italy/basilicata/vulture_area",
-      "prior_rank": 4808,
-      "prior_wins": 20,
-      "prior_n": 2
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -2.2849,
+      "prior_variance": 0.296692,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Syunik Marz",
-      "path": "europe/armenia/syunik_marz",
-      "prior_rank": 5037,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Vlissingen",
+      "path": "europe/netherlands/vlissingen",
+      "prior_score": -2.3312,
+      "prior_variance": 0.325465,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Odzun",
-      "path": "europe/armenia/odzun",
-      "prior_rank": 4204,
-      "prior_wins": 22,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Alaminos",
-      "path": "asia/philippines/alaminos",
-      "prior_rank": 2886,
-      "prior_wins": 28,
-      "prior_n": 2
-    },
-    {
-      "rank": 19,
-      "title": "bacolod",
-      "path": "asia/philippines/bacolod",
-      "prior_rank": 4815,
-      "prior_wins": 20,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Biloxi",
-      "path": "northamerica/unitedstates/mississippi/biloxi",
-      "prior_rank": 4308,
-      "prior_wins": 22,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Oakville",
-      "path": "northamerica/canada/ontario/oakville",
-      "prior_rank": 5268,
-      "prior_wins": 18,
-      "prior_n": 2
-    },
-    {
-      "rank": 22,
-      "title": "Raleighvallen",
-      "path": "southamerica/suriname/raleighvallen",
-      "prior_rank": 4232,
-      "prior_wins": 33,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -3.5393,
+      "prior_variance": 0.390004,
       "prior_n": 3
     },
     {
+      "rank": 18,
+      "title": "Cayenne",
+      "path": "southamerica/frenchguiana/cayenne",
+      "prior_score": -2.4768,
+      "prior_variance": 0.382556,
+      "prior_n": 3
+    },
+    {
+      "rank": 19,
+      "title": "Tallgrass Prairie",
+      "path": "northamerica/unitedstates/kansas/tallgrassprairie",
+      "prior_score": -5.0765,
+      "prior_variance": 0.490937,
+      "prior_n": 3
+    },
+    {
+      "rank": 20,
+      "title": "An najaf",
+      "path": "asia/iraq/annajaf",
+      "prior_score": -8.6106,
+      "prior_variance": 0.590138,
+      "prior_n": 3
+    },
+    {
+      "rank": 21,
+      "title": "Morristown",
+      "path": "northamerica/unitedstates/newjersey/morristown",
+      "prior_score": -3.6761,
+      "prior_variance": 0.336341,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -4.0845,
+      "prior_variance": 0.564692,
+      "prior_n": 4
+    },
+    {
       "rank": 23,
-      "title": "Oshogbo",
-      "path": "africa/nigeria/oshogbo",
-      "prior_rank": 4071,
-      "prior_wins": 23,
-      "prior_n": 2
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -4.9412,
+      "prior_variance": 0.408014,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Bakkhali",
-      "path": "asia/india/westbengal/bakkhali",
-      "prior_rank": 6035,
-      "prior_wins": 15,
-      "prior_n": 2
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/kansas/kansascity",
+      "prior_score": -2.6872,
+      "prior_variance": 0.338678,
+      "prior_n": 4
     }
   ]
 }

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akwa_Palace_1.JPG
 latitude: 4.042939
 loc_type: city
 longitude: 9.706202
-score: 0.36
+score: 0.27
 title: Douala
 type: location
 ---

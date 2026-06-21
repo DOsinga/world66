@@ -9,7 +9,7 @@ latitude: 46.83711
 longitude: 29.610999
 title: Tiraspol
 type: location
-score: 0.42
+score: 0.35
 loc_type: city
 ---
 

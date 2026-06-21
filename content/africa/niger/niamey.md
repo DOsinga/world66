@@ -5,7 +5,7 @@ done:
 latitude: 13.5127
 loc_type: city
 longitude: 2.1128
-score: 0.28
+score: 0.25
 title: Niamey
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_de_itaja%C3%AD.jpg
 latitude: -26.904679
 loc_type: city
 longitude: -48.655298
-score: 0.41
+score: 0.32
 title: Itajaí
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 10.343738
 loc_type: city
 longitude: -67.045309
-score: 0.29
+score: 0.22
 title: Los Teques
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -33.07621
 loc_type: city
 longitude: 151.453613
-score: 0.34
+score: 0.27
 title: Cooranbong
 type: location
 image: cooranbong_nsw.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 4.9796
 loc_type: city
 longitude: 8.33736
-score: 0.43
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Calabar
 - https://en.wikipedia.org/wiki/Mary_Slessor

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg
 latitude: 28.613895
 loc_type: city
 longitude: 77.209006
-score: 0.58
+score: 0.49
 title: Delhi
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Asansol_Junction_Railway_S
 latitude: 23.68713
 loc_type: city
 longitude: 86.974659
-score: 0.3
+score: 0.24
 title: Asansol
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2803,
+  "timestamp": "2026-06-13T22:08:22",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Fregate Island",
+      "path": "africa/seychelles/fregateisland",
+      "prior_score": 7.4628,
+      "prior_variance": 0.300713,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Lucerne",
+      "path": "europe/switzerland/lucerne",
+      "prior_score": 10.153,
+      "prior_variance": 0.330656,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 8.5755,
+      "prior_variance": 0.246808,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Tianmen Mountain",
+      "path": "asia/china/hunan/tianmen_mountain",
+      "prior_score": 7.7882,
+      "prior_variance": 0.221963,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 6.0408,
+      "prior_variance": 0.170275,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Yandang Mountains",
+      "path": "asia/china/zhejiang/yandangshan",
+      "prior_score": 1.4758,
+      "prior_variance": 0.160185,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Silves",
+      "path": "europe/portugal/algarve/silves",
+      "prior_score": 4.3763,
+      "prior_variance": 0.167003,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Komiza, Vis island",
+      "path": "europe/croatia/komiza_vis_island",
+      "prior_score": 4.717,
+      "prior_variance": 0.19061,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Esslingen",
+      "path": "europe/germany/badenwrttemberg/esslingen",
+      "prior_score": 2.3464,
+      "prior_variance": 0.15272,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.3903,
+      "prior_variance": 0.143067,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Polonnaruwa",
+      "path": "asia/srilanka/polannaruwa",
+      "prior_score": 5.3325,
+      "prior_variance": 0.217076,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.4393,
+      "prior_variance": 0.156644,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 4.1953,
+      "prior_variance": 0.167307,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Mar del Plata",
+      "path": "southamerica/argentina/mardelplata",
+      "prior_score": 0.8463,
+      "prior_variance": 0.168592,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Cabarete",
+      "path": "northamerica/dominicanrepublic/puertoplata/cabarete",
+      "prior_score": 2.9122,
+      "prior_variance": 0.152161,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Tiznit",
+      "path": "africa/morocco/tiznit",
+      "prior_score": -0.4835,
+      "prior_variance": 0.186625,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Pomerode",
+      "path": "southamerica/brazil/pomerode",
+      "prior_score": -0.2796,
+      "prior_variance": 0.155515,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Chepstow",
+      "path": "europe/unitedkingdom/wales/chepstow",
+      "prior_score": 0.3366,
+      "prior_variance": 0.144262,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Foumban",
+      "path": "africa/cameroon/foumban",
+      "prior_score": -1.7084,
+      "prior_variance": 0.14397,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Warrnambool",
+      "path": "australiaandpacific/australia/victoria/warrnambool",
+      "prior_score": -0.9073,
+      "prior_variance": 0.145147,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Alc\u00e1zar de San Juan",
+      "path": "europe/spain/la_mancha/alcazar_de_san_juan",
+      "prior_score": -1.5263,
+      "prior_variance": 0.15443,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.8402,
+      "prior_variance": 0.15995,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Minehead",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/minehead",
+      "prior_score": -0.4144,
+      "prior_variance": 0.137263,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Toila",
+      "path": "europe/estonia/toila",
+      "prior_score": -2.0001,
+      "prior_variance": 0.153609,
+      "prior_n": 8
+    }
+  ]
+}

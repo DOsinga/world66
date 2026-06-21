@@ -16,7 +16,7 @@ quick_facts:
   Religion: "Deeply Christian — everything closes on Sundays"
   Never Colonised: Only Pacific island nation
   Sundays: Everything closes — by law
-score: 0.57
+score: 0.42
 loc_type: country
 ---
 

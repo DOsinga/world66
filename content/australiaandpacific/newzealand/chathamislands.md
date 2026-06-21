@@ -5,7 +5,7 @@ done:
 latitude: -43.9176
 loc_type: city
 longitude: -176.1873
-score: 0.49
+score: 0.42
 title: Chatham Islands
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 18.9879
 loc_type: city
 longitude: -69.0472
-score: 0.53
+score: 0.41
 title: Miches
 type: location
 ---

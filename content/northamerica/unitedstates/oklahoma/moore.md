@@ -5,7 +5,7 @@ done:
 latitude: 35.339
 loc_type: city
 longitude: -97.487
-score: 0.3
+score: 0.21
 title: Moore
 type: location
 ---

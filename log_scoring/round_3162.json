@@ -1,0 +1,200 @@
+{
+  "round": 3162,
+  "timestamp": "2026-06-13T22:33:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Padua",
+      "path": "europe/italy/veneto/padua",
+      "prior_score": 5.6773,
+      "prior_variance": 0.170442,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Regensburg",
+      "path": "europe/germany/bavaria/regensburg",
+      "prior_score": 4.7084,
+      "prior_variance": 0.133125,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Vannes",
+      "path": "europe/france/normandybrittany/vannes",
+      "prior_score": 4.2815,
+      "prior_variance": 0.131746,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Crater Lake",
+      "path": "northamerica/unitedstates/oregon/craterlake",
+      "prior_score": 5.2601,
+      "prior_variance": 0.240964,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Florian\u00f3polis",
+      "path": "southamerica/brazil/florianopolis",
+      "prior_score": 4.5874,
+      "prior_variance": 0.135458,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "M\u00e9rida",
+      "path": "northamerica/mexico/merida",
+      "prior_score": 4.528,
+      "prior_variance": 0.167699,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Union Island",
+      "path": "northamerica/saintvincentandthegrenadines/unionisland",
+      "prior_score": 5.3241,
+      "prior_variance": 0.16184,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.8388,
+      "prior_variance": 0.158957,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Agadir",
+      "path": "africa/morocco/agadir",
+      "prior_score": 3.2127,
+      "prior_variance": 0.14391,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "St. Omer",
+      "path": "europe/france/nord/stomer",
+      "prior_score": -1.0541,
+      "prior_variance": 0.116681,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Shunan Bamboo Sea",
+      "path": "asia/china/sichuanprovince/shunan_bamboo_sea",
+      "prior_score": 2.8952,
+      "prior_variance": 0.140952,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Gisborne",
+      "path": "australiaandpacific/newzealand/north_island/eastland/gisborne",
+      "prior_score": 0.3014,
+      "prior_variance": 0.114607,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Arica",
+      "path": "southamerica/chile/arica",
+      "prior_score": -0.4476,
+      "prior_variance": 0.124767,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Modhera",
+      "path": "asia/india/gujarat/modhera",
+      "prior_score": -0.4967,
+      "prior_variance": 0.150861,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Vijaydurga",
+      "path": "asia/india/maharashtra/konkan/vijaydurga",
+      "prior_score": -1.7496,
+      "prior_variance": 0.126328,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": -0.4992,
+      "prior_variance": 0.16335,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Yuncheng",
+      "path": "asia/china/shanxiprovince/yuncheng",
+      "prior_score": -3.0273,
+      "prior_variance": 0.135166,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Great Falls",
+      "path": "northamerica/unitedstates/montana/great_falls",
+      "prior_score": -3.0006,
+      "prior_variance": 0.124831,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Yakutsk",
+      "path": "europe/russia/yakutsk",
+      "prior_score": -2.9021,
+      "prior_variance": 0.141578,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Winnemucca",
+      "path": "northamerica/unitedstates/nevada/winnemucca",
+      "prior_score": -5.5636,
+      "prior_variance": 0.171585,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Sokoto",
+      "path": "africa/nigeria/sokoto",
+      "prior_score": -7.2497,
+      "prior_variance": 0.203046,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Kabul",
+      "path": "asia/afghanistan/kabul",
+      "prior_score": -10.3295,
+      "prior_variance": 0.35755,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.3857,
+      "prior_variance": 0.35754,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": -9.9647,
+      "prior_variance": 0.468518,
+      "prior_n": 10
+    }
+  ]
+}

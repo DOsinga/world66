@@ -5,7 +5,7 @@ done:
 latitude: 32.470976
 loc_type: city
 longitude: -85.000765
-score: 0.27
+score: 0.23
 title: Phenix City
 type: location
 ---

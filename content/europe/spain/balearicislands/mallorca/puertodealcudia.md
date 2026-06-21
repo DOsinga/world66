@@ -5,7 +5,7 @@ done:
 latitude: 39.8486
 loc_type: city
 longitude: 3.1213
-score: 0.62
+score: 0.53
 title: Puerto de Alcudia
 type: location
 image: puertodealcudia.jpg

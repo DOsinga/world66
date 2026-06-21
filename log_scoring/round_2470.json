@@ -1,0 +1,200 @@
+{
+  "round": 2470,
+  "timestamp": "2026-06-13T21:45:05",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lake Tahoe",
+      "path": "northamerica/unitedstates/california/highsierra/laketahoe",
+      "prior_score": 6.8148,
+      "prior_variance": 0.254972,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 5.1132,
+      "prior_variance": 0.27728,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -2.5008,
+      "prior_variance": 0.22633,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "New London",
+      "path": "northamerica/unitedstates/connecticut/new_london",
+      "prior_score": -3.2782,
+      "prior_variance": 0.177467,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Santa Ana",
+      "path": "northamerica/unitedstates/california/orangecounty/santaana",
+      "prior_score": -4.1571,
+      "prior_variance": 0.175536,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Merced",
+      "path": "northamerica/unitedstates/california/centralvalley/merced",
+      "prior_score": -5.8292,
+      "prior_variance": 0.267693,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Saxonburg",
+      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
+      "prior_score": -4.7763,
+      "prior_variance": 0.201824,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Espa\u00f1ola",
+      "path": "northamerica/unitedstates/newmexico/espanola",
+      "prior_score": -5.3979,
+      "prior_variance": 0.197084,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Sitiawan",
+      "path": "asia/malaysia/sitiawan",
+      "prior_score": -4.515,
+      "prior_variance": 0.197364,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Baoji",
+      "path": "asia/china/shaanxi/baoji",
+      "prior_score": -4.416,
+      "prior_variance": 0.188222,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Kurnool",
+      "path": "asia/india/andhrapradesh/kurnool",
+      "prior_score": -4.9401,
+      "prior_variance": 0.179506,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Huanggang",
+      "path": "asia/china/hubei/huanggang",
+      "prior_score": -4.9383,
+      "prior_variance": 0.188614,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Dezhou",
+      "path": "asia/china/shandong_province/dezhou",
+      "prior_score": -5.8377,
+      "prior_variance": 0.234461,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Xinxiang",
+      "path": "asia/china/henan_province/xinxiang",
+      "prior_score": -6.4485,
+      "prior_variance": 0.298027,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Yuzhou",
+      "path": "asia/china/henan_province/yuzhou",
+      "prior_score": -5.6757,
+      "prior_variance": 0.22276,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ibadan",
+      "path": "africa/nigeria/ibadan",
+      "prior_score": -4.0308,
+      "prior_variance": 0.171584,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Mochudi",
+      "path": "africa/botswana/mochudi",
+      "prior_score": -4.3689,
+      "prior_variance": 0.169385,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Dammam",
+      "path": "asia/saudiarabia/dammam",
+      "prior_score": -5.6114,
+      "prior_variance": 0.207574,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Kassala",
+      "path": "africa/sudan/kassala",
+      "prior_score": -5.8478,
+      "prior_variance": 0.197085,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Ciudad Guayana",
+      "path": "southamerica/venezuela/ciudadguayana",
+      "prior_score": -6.2223,
+      "prior_variance": 0.247982,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -5.2729,
+      "prior_variance": 0.200821,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -5.1283,
+      "prior_variance": 0.228393,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Santiago",
+      "path": "northamerica/dominicanrepublic/santiago",
+      "prior_score": -2.2869,
+      "prior_variance": 0.196346,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Mirpur",
+      "path": "asia/pakistan/azad_kashmir/mirpur",
+      "prior_score": -6.5351,
+      "prior_variance": 0.236774,
+      "prior_n": 7
+    }
+  ]
+}

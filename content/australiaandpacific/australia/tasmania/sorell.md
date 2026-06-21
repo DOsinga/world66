@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SorellCauseway.JPG
 latitude: -42.7886
 loc_type: city
 longitude: 147.6671
-score: 0.38
+score: 0.33
 title: Sorell
 type: location
 ---

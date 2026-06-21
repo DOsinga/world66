@@ -5,7 +5,7 @@ done:
 latitude: 26.670146
 loc_type: city
 longitude: 87.680101
-score: 0.31
+score: 0.26
 title: Damak
 type: location
 image: damak.jpg

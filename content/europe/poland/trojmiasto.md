@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:D%C5%82ugie_Pobrze%C5%BCe_
 latitude: 54.44948
 loc_type: city
 longitude: 18.733495
-score: 0.57
+score: 0.48
 title: Trojmiasto
 type: location
 ---

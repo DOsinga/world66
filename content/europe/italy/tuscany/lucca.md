@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Lucca_-_2.jpg
 latitude: 43.843
 loc_type: city
 longitude: 10.5017
-score: 0.72
+score: 0.62
 title: Lucca
 type: location
 ---

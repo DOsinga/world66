@@ -5,7 +5,7 @@ done:
 latitude: 51.5864
 loc_type: city
 longitude: 0.6049
-score: 0.35
+score: 0.24
 sources:
 - https://en.wikipedia.org/wiki/Rayleigh,_Essex
 title: Rayleigh

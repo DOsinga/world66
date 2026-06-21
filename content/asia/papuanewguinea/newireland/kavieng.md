@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kavieng_underwater_596.jpg
 latitude: -2.573474
 loc_type: city
 longitude: 150.795224
-score: 0.41
+score: 0.38
 title: Kavieng
 type: location
 ---

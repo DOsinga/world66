@@ -12,6 +12,7 @@ image: liuzhou.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Liuzhou_City_seen_from_Ma%27an_Mountain.jpg
 image_license: CC BY-SA 4.0
 image_attribution: EditQ
+score: 0.34
 ---
 
 Liuzhou is Guangxi's second city and its industrial heart — a place that is easy to underestimate from the train window, where smokestacks and concrete blocks dominate, but which rewards a day or two of exploration. The Liu River loops through the city in a series of bends between karst peaks, providing the same dramatic limestone scenery as [Guilin](/asia/china/guangxi/guilin) but without the crowds or the entrance fees. The city's most famous contribution to Chinese cuisine is [luosifen](/asia/china/guangxi/liuzhou/luosifen), rice noodles in a sour-spicy broth made from river snails, a dish so pungent that the instant-noodle version comes with a smell warning on the packaging. Eating it in its hometown, at a street counter at 8am, is the correct introduction to Liuzhou.

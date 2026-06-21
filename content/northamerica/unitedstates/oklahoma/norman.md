@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Norman_July_2019_15_(E_Mai
 latitude: 35.2226
 loc_type: city
 longitude: -97.4395
-score: 0.36
+score: 0.29
 title: Norman
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hormuz_Island_20180920_09.
 latitude: 27.068024
 loc_type: city
 longitude: 56.46417
-score: 0.51
+score: 0.43
 title: Hormuz Island
 type: location
 ---

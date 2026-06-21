@@ -1,199 +1,199 @@
 {
   "round": 311,
-  "timestamp": "2026-04-12T09:11:12",
+  "timestamp": "2026-06-13T19:29:16",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Plitvice Lakes",
-      "path": "europe/croatia/plitvice",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Lake Garda",
+      "path": "europe/italy/lombardia/lake_garda",
+      "prior_score": 12.4871,
+      "prior_variance": 8.386001,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Nara",
-      "path": "asia/japan/honshu/nara",
-      "prior_mu": 24.4867,
-      "prior_sigma": 6.1102,
+      "title": "Brussels",
+      "path": "europe/belgium/brussels",
+      "prior_score": 11.1857,
+      "prior_variance": 3.665304,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "\u010cesk\u00fd Krumlov",
-      "path": "europe/czechrepublic/ceskykrumlov",
-      "prior_mu": 26.24,
-      "prior_sigma": 6.3845,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 10.2372,
+      "prior_variance": 3.092753,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Puebla",
-      "path": "northamerica/mexico/puebla",
-      "prior_mu": 23.1701,
-      "prior_sigma": 6.0059,
+      "title": "Olomouc",
+      "path": "europe/czechrepublic/olomouc",
+      "prior_score": 7.0408,
+      "prior_variance": 1.780771,
       "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "\u00c1vila",
-      "path": "europe/spain/centralspain/avila",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 3.2644,
+      "prior_variance": 1.720627,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Ruaha National Park",
-      "path": "africa/tanzania/ruaha_national_par",
-      "prior_mu": 23.7369,
-      "prior_sigma": 5.8471,
+      "title": "Sion",
+      "path": "europe/switzerland/sion",
+      "prior_score": 1.9557,
+      "prior_variance": 1.844872,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Tortuga Island",
-      "path": "northamerica/costarica/tortugaisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": -1.3,
+      "prior_variance": 1.667703,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Venice Beach",
-      "path": "northamerica/unitedstates/california/venice_beach",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tewkesbury",
+      "path": "europe/unitedkingdom/england/gloucestershire/tewkesbury",
+      "prior_score": 3.7404,
+      "prior_variance": 1.649732,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Laax",
-      "path": "europe/switzerland/laax",
-      "prior_mu": 23.8686,
-      "prior_sigma": 6.0977,
+      "title": "Bowness",
+      "path": "europe/unitedkingdom/england/lakedistrict/bowness",
+      "prior_score": 2.2675,
+      "prior_variance": 1.425368,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Santa Ponsa",
-      "path": "europe/spain/balearicislands/mallorca/santa_ponsa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kavaratti",
+      "path": "asia/india/lakshadweep/kavaratti",
+      "prior_score": 1.2149,
+      "prior_variance": 1.717314,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "L\u00fcneburg",
-      "path": "europe/germany/lowersaxony/luneburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "El Jadida",
+      "path": "africa/morocco/el_jadida",
+      "prior_score": 0.8322,
+      "prior_variance": 1.876116,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Elgin",
-      "path": "europe/unitedkingdom/scotland/elgin",
-      "prior_mu": 22.7099,
-      "prior_sigma": 5.9483,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": 4.4724,
+      "prior_variance": 1.988864,
       "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Punkaharju",
-      "path": "europe/finland/punkaharju",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Arnasco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/arnasco",
+      "prior_score": -3.9437,
+      "prior_variance": 1.777002,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Bowral",
-      "path": "australiaandpacific/australia/newsouthwales/bowral",
-      "prior_mu": 22.8073,
-      "prior_sigma": 5.712,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -5.9905,
+      "prior_variance": 1.847039,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "San Carlos (Sonora)",
-      "path": "northamerica/mexico/san_carlos_sonora",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Sint-Niklaas",
+      "path": "europe/belgium/sintniklaas",
+      "prior_score": -4.9676,
+      "prior_variance": 1.843586,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "\u017dilina",
-      "path": "europe/slovakia/zilina",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -4.642,
+      "prior_variance": 1.420328,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Bridgton",
-      "path": "northamerica/unitedstates/maine/bridgton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Carolina",
+      "path": "northamerica/thecaribbean/puertorico/carolina",
+      "prior_score": -4.0632,
+      "prior_variance": 1.589134,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Ayabaca",
-      "path": "southamerica/peru/ayabaca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Richmond",
+      "path": "northamerica/canada/britishcolumbia/richmond",
+      "prior_score": -1.3975,
+      "prior_variance": 1.701934,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Kaleden",
-      "path": "northamerica/canada/britishcolumbia/kaleden",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Semnan",
+      "path": "asia/iran/semnan",
+      "prior_score": -1.3,
+      "prior_variance": 1.667703,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Levin",
-      "path": "australiaandpacific/newzealand/levin",
-      "prior_mu": 21.9224,
-      "prior_sigma": 4.8357,
-      "prior_n": 2
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -7.2311,
+      "prior_variance": 1.949162,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Maple Creek",
-      "path": "northamerica/canada/saskatchewan/maple_creek",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Peoria",
+      "path": "northamerica/unitedstates/illinois/peoria",
+      "prior_score": -7.7055,
+      "prior_variance": 2.217158,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Sylvania",
-      "path": "northamerica/unitedstates/ohio/sylvania",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Campbellford",
+      "path": "northamerica/canada/ontario/campbellford",
+      "prior_score": -2.0158,
+      "prior_variance": 1.727833,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "My homepage",
-      "path": "europe/france/val_disere/my_homepage_2",
-      "prior_mu": 18.344,
-      "prior_sigma": 6.7587,
+      "title": "North Battleford",
+      "path": "northamerica/canada/saskatchewan/north_battleford",
+      "prior_score": -8.2824,
+      "prior_variance": 2.15711,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Santa Clara de Tulpancingo",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/santa_clara_de_tul",
-      "prior_mu": 18.3419,
-      "prior_sigma": 6.7585,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -7.9417,
+      "prior_variance": 2.130607,
       "prior_n": 1
     }
   ]

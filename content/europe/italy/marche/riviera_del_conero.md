@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_Riviera_del_Con
 latitude: 43.48301
 loc_type: city
 longitude: 13.467505
-score: 0.57
+score: 0.51
 title: Riviera del Conero
 type: location
 ---

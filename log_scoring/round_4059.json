@@ -1,0 +1,200 @@
+{
+  "round": 4059,
+  "timestamp": "2026-06-13T23:40:30",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Queenstown",
+      "path": "australiaandpacific/newzealand/south_island/otago/queenstown",
+      "prior_score": 12.4402,
+      "prior_variance": 0.322721,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Nara",
+      "path": "asia/japan/honshu/nara",
+      "prior_score": 10.1334,
+      "prior_variance": 0.252207,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Lindos",
+      "path": "europe/greece/rhodes/lindos",
+      "prior_score": 7.8897,
+      "prior_variance": 0.170258,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Antiparos",
+      "path": "europe/greece/antiparos",
+      "prior_score": 5.0733,
+      "prior_variance": 0.125864,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 4.7914,
+      "prior_variance": 0.134126,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Biarritz",
+      "path": "europe/france/midi/basqueregion/biarritz",
+      "prior_score": 5.2376,
+      "prior_variance": 0.128467,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Spoleto",
+      "path": "europe/italy/umbria/spoleto",
+      "prior_score": 5.12,
+      "prior_variance": 0.125943,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Portugalete",
+      "path": "europe/spain/basque_country_euskadi/portugalete",
+      "prior_score": 0.3768,
+      "prior_variance": 0.087616,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Sch\u00f6nach",
+      "path": "europe/germany/badenwrttemberg/schonach",
+      "prior_score": -3.3371,
+      "prior_variance": 0.125149,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Addis Ababa",
+      "path": "africa/ethiopia/addisababa",
+      "prior_score": 0.2883,
+      "prior_variance": 0.106023,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 1.2448,
+      "prior_variance": 0.14881,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.271,
+      "prior_variance": 0.105447,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Meizhou Island",
+      "path": "asia/china/fujianprovince/meizhouisland",
+      "prior_score": -1.835,
+      "prior_variance": 0.108813,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Bulawayo",
+      "path": "africa/zimbabwe/bulawayo",
+      "prior_score": -2.7867,
+      "prior_variance": 0.103449,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Fier",
+      "path": "europe/albania/fier",
+      "prior_score": -4.9962,
+      "prior_variance": 0.116424,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Ledu",
+      "path": "asia/china/qinghai/ledu",
+      "prior_score": -4.9113,
+      "prior_variance": 0.108757,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Clarkston",
+      "path": "northamerica/unitedstates/washington/clarkston",
+      "prior_score": -3.573,
+      "prior_variance": 0.111201,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -7.1302,
+      "prior_variance": 0.177108,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Glenpool",
+      "path": "northamerica/unitedstates/oklahoma/glenpool",
+      "prior_score": -5.4865,
+      "prior_variance": 0.149155,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Ramah",
+      "path": "northamerica/unitedstates/newmexico/ramah",
+      "prior_score": -7.2192,
+      "prior_variance": 0.136335,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -8.237,
+      "prior_variance": 0.194966,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Kufra",
+      "path": "africa/libya/kufra",
+      "prior_score": -9.9278,
+      "prior_variance": 0.297387,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Zouerate",
+      "path": "africa/mauritania/zouerate",
+      "prior_score": -8.5082,
+      "prior_variance": 0.212219,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Gabiley",
+      "path": "africa/somaliland/gabiley",
+      "prior_score": -9.1186,
+      "prior_variance": 0.32308,
+      "prior_n": 13
+    }
+  ]
+}

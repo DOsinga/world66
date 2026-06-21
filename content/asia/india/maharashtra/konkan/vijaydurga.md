@@ -6,7 +6,7 @@ latitude: 16.5481
 longitude: 73.3367
 title: Vijaydurga
 type: location
-score: 0.4
+score: 0.35
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Vijaydurg_(town)

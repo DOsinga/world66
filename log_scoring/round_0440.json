@@ -1,200 +1,200 @@
 {
   "round": 440,
-  "timestamp": "2026-04-12T09:30:52",
+  "timestamp": "2026-06-13T19:35:25",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Hong Kong",
-      "path": "asia/china/hongkong",
-      "prior_mu": 28.3583,
-      "prior_sigma": 5.1482,
-      "prior_n": 3
+      "title": "Tierra del Fuego",
+      "path": "southamerica/argentina/tierradelfuego",
+      "prior_score": 3.689,
+      "prior_variance": 3.354707,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Shanghai",
-      "path": "asia/china/shanghai",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Leptis Magna",
+      "path": "africa/libya/leptismagna",
+      "prior_score": -3.1118,
+      "prior_variance": 1.429945,
       "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Guilin",
-      "path": "asia/china/guilin",
-      "prior_mu": 24.2907,
-      "prior_sigma": 5.8318,
+      "title": "Cape Coast",
+      "path": "africa/ghana/capecoast",
+      "prior_score": 2.2819,
+      "prior_variance": 1.608985,
       "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Xi'an",
-      "path": "asia/china/xian",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ulcinj",
+      "path": "europe/montenegro/ulcinj_1",
+      "prior_score": 1.5974,
+      "prior_variance": 1.816343,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Chengdu",
-      "path": "asia/china/sichuanprovince/chengdu",
-      "prior_mu": 24.5611,
-      "prior_sigma": 4.5863,
-      "prior_n": 3
+      "title": "Lazarus Island",
+      "path": "asia/singapore/islands/lazarusisland",
+      "prior_score": 1.114,
+      "prior_variance": 1.631614,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Hangzhou",
-      "path": "asia/china/zhejiang/hangzhou",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2991,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 1.2032,
+      "prior_variance": 1.401531,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Lhasa",
-      "path": "asia/china/tibet/lhasa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kodaikanal",
+      "path": "asia/india/tamilnadu/kodaikanal",
+      "prior_score": 2.8078,
+      "prior_variance": 1.48878,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Dali",
-      "path": "asia/china/yunnanprovince/dali",
-      "prior_mu": 23.615,
-      "prior_sigma": 6.0689,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.5564,
+      "prior_variance": 1.571614,
       "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Hanas Lake",
-      "path": "asia/china/xinjiangprovince/hanaslake",
-      "prior_mu": 23.0783,
-      "prior_sigma": 5.5458,
+      "title": "Richmond",
+      "path": "northamerica/unitedstates/virginia/richmond",
+      "prior_score": -0.867,
+      "prior_variance": 1.596133,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Everest Base Camp (Tibet)",
-      "path": "asia/china/tibet/everest_base_camp",
-      "prior_mu": 24.4646,
-      "prior_sigma": 6.1073,
+      "title": "Cooperstown",
+      "path": "northamerica/unitedstates/newyorkstate/cooperstown",
+      "prior_score": -1.4574,
+      "prior_variance": 1.515068,
       "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Coloane",
-      "path": "asia/china/macau/coloane",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Poprad",
+      "path": "europe/slovakia/poprad",
+      "prior_score": 0.463,
+      "prior_variance": 1.469417,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Taipa",
-      "path": "asia/china/macau/taipa",
-      "prior_mu": 21.6945,
-      "prior_sigma": 4.7381,
-      "prior_n": 2
+      "title": "Lancut",
+      "path": "europe/poland/lancut",
+      "prior_score": 1.1717,
+      "prior_variance": 1.750732,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Simatai",
-      "path": "asia/china/simatai",
-      "prior_mu": 22.2432,
-      "prior_sigma": 5.7789,
+      "title": "Veurne",
+      "path": "europe/belgium/veurne",
+      "prior_score": -0.463,
+      "prior_variance": 1.9492,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Luoyang",
-      "path": "asia/china/luoyang",
-      "prior_mu": 22.7383,
-      "prior_sigma": 5.9516,
+      "title": "Valdepe\u00f1as",
+      "path": "europe/spain/la_mancha/valdepeas",
+      "prior_score": -0.3368,
+      "prior_variance": 1.406674,
       "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "\u00dcr\u00fcmqi",
-      "path": "asia/china/xinjiangprovince/urumqi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Hancheng",
+      "path": "asia/china/shaanxi/hancheng",
+      "prior_score": 1.1924,
+      "prior_variance": 1.702479,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Hunan",
-      "path": "asia/china/hunan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Weihai",
+      "path": "asia/china/shandong_province/weihai",
+      "prior_score": -3.6488,
+      "prior_variance": 1.602778,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Henan Province",
-      "path": "asia/china/henan_province",
-      "prior_mu": 22.5321,
-      "prior_sigma": 5.8161,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -3.1414,
+      "prior_variance": 1.532211,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Khunjerab Pass",
-      "path": "asia/china/xinjiangprovince/khunjerabpass",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Las Cruces",
+      "path": "northamerica/unitedstates/newmexico/lascruces",
+      "prior_score": -4.4974,
+      "prior_variance": 1.402636,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Dalian",
-      "path": "asia/china/dalian",
-      "prior_mu": 22.0268,
-      "prior_sigma": 4.7018,
-      "prior_n": 2
+      "title": "Ayabaca",
+      "path": "southamerica/peru/ayabaca",
+      "prior_score": -0.8638,
+      "prior_variance": 2.261575,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Zhangmu",
-      "path": "asia/china/tibet/zhangmu",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": 0.3599,
+      "prior_variance": 1.837307,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Ningxia",
-      "path": "asia/china/ningxia",
-      "prior_mu": 21.6384,
-      "prior_sigma": 5.6267,
+      "title": "Mragowo",
+      "path": "europe/poland/mragowo",
+      "prior_score": -2.7696,
+      "prior_variance": 3.223668,
       "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Wuhan",
-      "path": "asia/china/wuhan",
-      "prior_mu": 21.7826,
-      "prior_sigma": 5.6181,
+      "title": "Tadjoura",
+      "path": "africa/djibouti/tadjoura",
+      "prior_score": -4.0257,
+      "prior_variance": 2.16974,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Xinglong",
-      "path": "asia/china/hainanisland/xinglong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Erli",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/erli",
+      "prior_score": -0.5284,
+      "prior_variance": 2.113293,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Teahouses",
-      "path": "asia/china/shanghai/nightlifeentertainment/teahouses",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Kota Batu",
+      "path": "asia/brunei/kotabatu",
+      "prior_score": 2.3388,
+      "prior_variance": 1.619057,
+      "prior_n": 1
     }
   ]
 }

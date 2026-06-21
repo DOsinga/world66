@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mauritius,La_chemin%C3%A9e
 latitude: -20.11322
 loc_type: city
 longitude: 57.586461
-score: 0.56
+score: 0.48
 title: Pamplemousse
 type: location
 ---

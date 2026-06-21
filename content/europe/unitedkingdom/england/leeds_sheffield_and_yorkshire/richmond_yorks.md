@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Richmond_Castle_from_Bridg
 latitude: 54.4049
 loc_type: city
 longitude: -1.738
-score: 0.52
+score: 0.4
 title: Richmond
 type: location
 ---

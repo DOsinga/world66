@@ -1,0 +1,200 @@
+{
+  "round": 3914,
+  "timestamp": "2026-06-13T23:29:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Bryce Canyon",
+      "path": "northamerica/unitedstates/utah/bryce_canyon",
+      "prior_score": 10.3802,
+      "prior_variance": 0.247417,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 9.7912,
+      "prior_variance": 0.340491,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Oporto",
+      "path": "europe/portugal/oporto",
+      "prior_score": 8.2965,
+      "prior_variance": 0.174893,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Dubai",
+      "path": "asia/unitedarabemirates/dubai",
+      "prior_score": 6.9616,
+      "prior_variance": 0.158345,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "St Tropez",
+      "path": "europe/france/midi/cotedazur/sttropez",
+      "prior_score": 6.9305,
+      "prior_variance": 0.14032,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Tulum",
+      "path": "northamerica/mexico/tulum",
+      "prior_score": 8.3353,
+      "prior_variance": 0.169997,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Koh Phangan",
+      "path": "asia/thailand/kohphangan",
+      "prior_score": 6.4257,
+      "prior_variance": 0.134413,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Nauplia",
+      "path": "europe/greece/nauplia",
+      "prior_score": 5.0077,
+      "prior_variance": 0.14583,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "La Maddalena",
+      "path": "europe/italy/sardinia/lamaddelena",
+      "prior_score": 4.7288,
+      "prior_variance": 0.127515,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Valdes Peninsula",
+      "path": "southamerica/argentina/patagonia/valdespeninsula",
+      "prior_score": 4.9321,
+      "prior_variance": 0.139891,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Las Palmas de Gran Canaria",
+      "path": "europe/spain/canaryislands/grancanaria/las_palmas",
+      "prior_score": 4.3685,
+      "prior_variance": 0.122268,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Stirling",
+      "path": "europe/unitedkingdom/scotland/stirling",
+      "prior_score": 5.1969,
+      "prior_variance": 0.125064,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Katoomba",
+      "path": "australiaandpacific/australia/newsouthwales/katoomba",
+      "prior_score": 4.6174,
+      "prior_variance": 0.112853,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.7034,
+      "prior_variance": 0.120249,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.5083,
+      "prior_variance": 0.119682,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "L\u2019Aquila",
+      "path": "europe/italy/abruzzo/aquila",
+      "prior_score": 1.0609,
+      "prior_variance": 0.116047,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -0.3179,
+      "prior_variance": 0.109296,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Billings",
+      "path": "northamerica/unitedstates/montana/billings",
+      "prior_score": -2.6304,
+      "prior_variance": 0.098691,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -4.8572,
+      "prior_variance": 0.124924,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Oranienburg",
+      "path": "europe/germany/brandenburg/oranienburg",
+      "prior_score": -3.3658,
+      "prior_variance": 0.115969,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Fullerton",
+      "path": "northamerica/unitedstates/california/orangecounty/fullerton",
+      "prior_score": -4.4946,
+      "prior_variance": 0.143896,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Cuddalore",
+      "path": "asia/india/tamilnadu/cuddalore",
+      "prior_score": -5.7385,
+      "prior_variance": 0.110399,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Lenwade",
+      "path": "europe/unitedkingdom/england/norfolk/lenwade_great_wit",
+      "prior_score": -5.3594,
+      "prior_variance": 0.128336,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Impfondo",
+      "path": "africa/congobrazzaville/impfondo",
+      "prior_score": -8.1519,
+      "prior_variance": 0.240403,
+      "prior_n": 12
+    }
+  ]
+}

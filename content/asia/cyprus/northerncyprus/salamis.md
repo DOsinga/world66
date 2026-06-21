@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Columns_in_Roman_gymnasium
 latitude: 35.179303
 loc_type: city
 longitude: 33.902493
-score: 0.49
+score: 0.41
 title: Salamis
 type: location
 ---

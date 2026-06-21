@@ -5,7 +5,7 @@ done:
 latitude: 16.900055
 loc_type: feature
 longitude: 7.967952
-score: 0.23
+score: 0.16
 sources:
 - https://en.wikipedia.org/wiki/Trans-Sahara_Highway
 - https://sahara-overland.com/routes/

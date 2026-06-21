@@ -1,0 +1,200 @@
+{
+  "round": 3211,
+  "timestamp": "2026-06-13T22:36:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_score": 5.6045,
+      "prior_variance": 0.145119,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 3.3982,
+      "prior_variance": 0.132106,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Torla-Ordesa",
+      "path": "europe/spain/aragon/torla",
+      "prior_score": 4.5864,
+      "prior_variance": 0.15371,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Helsinki",
+      "path": "europe/finland/helsinki",
+      "prior_score": 4.4708,
+      "prior_variance": 0.164135,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Prachuap Khiri Khan",
+      "path": "asia/thailand/prachuap_khiri_khan",
+      "prior_score": 1.7784,
+      "prior_variance": 0.12323,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Jac\u00f3",
+      "path": "northamerica/costarica/jaco",
+      "prior_score": 2.6814,
+      "prior_variance": 0.136043,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Imlil",
+      "path": "africa/morocco/imlil",
+      "prior_score": 2.6983,
+      "prior_variance": 0.133342,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Mangareva",
+      "path": "australiaandpacific/frenchpolynesia/mangareva",
+      "prior_score": -0.0507,
+      "prior_variance": 0.136896,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Tasiilaq",
+      "path": "northamerica/greenland/tasiilaq",
+      "prior_score": 2.0824,
+      "prior_variance": 0.133271,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Launceston",
+      "path": "australiaandpacific/australia/tasmania/launceston",
+      "prior_score": 2.51,
+      "prior_variance": 0.130146,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.1143,
+      "prior_variance": 0.142903,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 2.0077,
+      "prior_variance": 0.115421,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 2.2449,
+      "prior_variance": 0.117256,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Ponce",
+      "path": "northamerica/thecaribbean/puertorico/ponce",
+      "prior_score": 1.1779,
+      "prior_variance": 0.116349,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Petite Martinique",
+      "path": "northamerica/thecaribbean/grenada/petitmartinique",
+      "prior_score": -0.8026,
+      "prior_variance": 0.14959,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Rostock",
+      "path": "europe/germany/mecklenburgwesternpomerania/rostock",
+      "prior_score": 0.8732,
+      "prior_variance": 0.132328,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": 0.5049,
+      "prior_variance": 0.122123,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Candolim",
+      "path": "asia/india/goa/candolim",
+      "prior_score": 2.4046,
+      "prior_variance": 0.133483,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Vitoria-Gasteiz",
+      "path": "europe/spain/basque_country_euskadi/vitoria",
+      "prior_score": 1.5115,
+      "prior_variance": 0.134431,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.1999,
+      "prior_variance": 0.141716,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_score": -3.3225,
+      "prior_variance": 0.157206,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.3803,
+      "prior_variance": 0.124978,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Ciudad Real",
+      "path": "europe/spain/centralspain/ciudadreal",
+      "prior_score": -2.2357,
+      "prior_variance": 0.13384,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Barstow",
+      "path": "northamerica/unitedstates/california/deserts/barstow",
+      "prior_score": -5.2467,
+      "prior_variance": 0.16881,
+      "prior_n": 11
+    }
+  ]
+}

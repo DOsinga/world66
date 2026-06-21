@@ -10,7 +10,7 @@ image_attribution: Sailko
 latitude: 40.3217
 loc_type: city
 longitude: 9.3268
-score: 0.52
+score: 0.45
 title: Nuoro
 type: location
 ---

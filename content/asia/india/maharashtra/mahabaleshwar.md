@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MAHABALESWAR_LANDSCAPE.jpg
 latitude: 17.9245
 loc_type: city
 longitude: 73.6578
-score: 0.51
+score: 0.45
 title: Mahabaleshwar
 type: location
 ---

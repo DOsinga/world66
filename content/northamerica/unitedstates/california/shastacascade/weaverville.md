@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Weaverville_Joss_House_Sta
 latitude: 40.743375
 loc_type: city
 longitude: -122.928237
-score: 0.35
+score: 0.29
 sources:
 - https://en.wikipedia.org/wiki/Weaverville,_California
 - https://en.wikipedia.org/wiki/Weaverville_Joss_House_State_Historic_Park

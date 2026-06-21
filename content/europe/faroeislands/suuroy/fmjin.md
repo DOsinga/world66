@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Suduroy_F%C3%A1mjin_K%C3%B
 latitude: 61.524687
 loc_type: city
 longitude: -6.87927
-score: 0.5
+score: 0.42
 title: Fámjin
 type: location
 ---

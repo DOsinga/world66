@@ -5,7 +5,7 @@ done:
 latitude: 39.710638
 loc_type: city
 longitude: 3.460213
-score: 0.6
+score: 0.53
 title: Cala Ratjada
 type: location
 image: calaratjada.jpg

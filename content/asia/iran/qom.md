@@ -6,7 +6,7 @@ done:
 latitude: 34.642294
 loc_type: city
 longitude: 50.880118
-score: 0.38
+score: 0.26
 title: Qom
 type: location
 ---

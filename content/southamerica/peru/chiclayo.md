@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiclayo-Peru3.jpg
 latitude: -6.771615
 loc_type: city
 longitude: -79.838718
-score: 0.53
+score: 0.43
 title: Chiclayo
 type: location
 ---

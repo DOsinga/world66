@@ -5,7 +5,7 @@ done:
 latitude: 8.4937
 loc_type: city
 longitude: -77.9811
-score: 0.25
+score: 0.17
 title: Meteti
 type: location
 ---

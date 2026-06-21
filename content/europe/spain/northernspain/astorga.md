@@ -5,7 +5,7 @@ done:
 latitude: 42.4554
 loc_type: city
 longitude: -6.0529
-score: 0.56
+score: 0.47
 title: Astorga
 type: location
 ---

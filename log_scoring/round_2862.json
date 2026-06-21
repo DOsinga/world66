@@ -1,0 +1,200 @@
+{
+  "round": 2862,
+  "timestamp": "2026-06-13T22:12:33",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ngorongoro Crater",
+      "path": "africa/tanzania/ngorongorocrater",
+      "prior_score": 10.8453,
+      "prior_variance": 0.497013,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Taroko Gorge",
+      "path": "asia/taiwan/torokogorge",
+      "prior_score": 8.6618,
+      "prior_variance": 0.358116,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Lisbon",
+      "path": "europe/portugal/lisbon",
+      "prior_score": 13.4669,
+      "prior_variance": 0.699523,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Mount Bromo",
+      "path": "asia/indonesia/java/mountbromo",
+      "prior_score": 7.8326,
+      "prior_variance": 0.289462,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Etosha National Park",
+      "path": "africa/namibia/etosha",
+      "prior_score": 6.7757,
+      "prior_variance": 0.189307,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Khao Yai National Park",
+      "path": "asia/thailand/khaoyainationalpark",
+      "prior_score": 6.4023,
+      "prior_variance": 0.198355,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Puerto Princesa",
+      "path": "asia/philippines/puerto_princesa",
+      "prior_score": 6.3582,
+      "prior_variance": 0.21793,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Derinkuyu",
+      "path": "asia/turkey/cappadocia/derinkuyu",
+      "prior_score": 5.5985,
+      "prior_variance": 0.152858,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Herculaneum",
+      "path": "europe/italy/campania/herculaneum",
+      "prior_score": 6.1503,
+      "prior_variance": 0.211825,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 4.2491,
+      "prior_variance": 0.175972,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Pingyao",
+      "path": "asia/china/shanxiprovince/pingyao",
+      "prior_score": 5.4339,
+      "prior_variance": 0.175965,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Ponta Delgada",
+      "path": "europe/portugal/theazores/so_miguel/ponta_delgada",
+      "prior_score": 5.326,
+      "prior_variance": 0.174114,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Port Douglas",
+      "path": "australiaandpacific/australia/queensland/port_douglas",
+      "prior_score": 4.7938,
+      "prior_variance": 0.182652,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Inis Oirr",
+      "path": "europe/ireland/aranislands/inisoirr",
+      "prior_score": 3.3964,
+      "prior_variance": 0.153712,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 4.1963,
+      "prior_variance": 0.145697,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 3.1026,
+      "prior_variance": 0.21955,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Hunter Valley",
+      "path": "australiaandpacific/australia/newsouthwales/hunter_valley",
+      "prior_score": 3.8992,
+      "prior_variance": 0.152049,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Oulu",
+      "path": "europe/finland/oulu",
+      "prior_score": -0.2532,
+      "prior_variance": 0.14297,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cuatrocienegas",
+      "path": "northamerica/mexico/cuatrocienegas_de",
+      "prior_score": -0.6182,
+      "prior_variance": 0.184045,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Sanahin",
+      "path": "europe/armenia/sanahin_1",
+      "prior_score": -0.9806,
+      "prior_variance": 0.140257,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "K\u00e9ran National Park",
+      "path": "africa/togo/keran",
+      "prior_score": -2.3265,
+      "prior_variance": 0.147737,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Nova Gorica",
+      "path": "europe/slovenia/nova_gorica",
+      "prior_score": -0.1332,
+      "prior_variance": 0.131625,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -0.4786,
+      "prior_variance": 0.145821,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "The Channon",
+      "path": "australiaandpacific/australia/newsouthwales/thechannon",
+      "prior_score": -2.5574,
+      "prior_variance": 0.145785,
+      "prior_n": 9
+    }
+  ]
+}

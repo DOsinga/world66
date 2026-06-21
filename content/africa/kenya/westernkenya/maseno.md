@@ -5,7 +5,7 @@ done:
 latitude: 0.001538
 loc_type: city
 longitude: 34.605756
-score: 0.3
+score: 0.24
 title: Maseno
 type: location
 ---

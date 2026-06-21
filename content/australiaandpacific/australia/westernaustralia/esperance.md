@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castletown_E_-_Beach_Chapl
 latitude: -33.858228
 loc_type: city
 longitude: 121.893161
-score: 0.55
+score: 0.49
 title: Esperance
 type: location
 ---

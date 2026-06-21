@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hjo,_Hamngatan,_den_7_juni
 latitude: 58.3
 loc_type: city
 longitude: 14.2833
-score: 0.47
+score: 0.42
 title: Hjo
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3391,
+  "timestamp": "2026-06-13T22:50:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Banff",
+      "path": "northamerica/canada/alberta/banff",
+      "prior_score": 12.2119,
+      "prior_variance": 0.41627,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Salento",
+      "path": "southamerica/colombia/salento",
+      "prior_score": 5.5686,
+      "prior_variance": 0.145068,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Apostle Islands",
+      "path": "northamerica/unitedstates/michigan/apostleislands",
+      "prior_score": -0.6325,
+      "prior_variance": 0.135881,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 1.529,
+      "prior_variance": 0.123758,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.2954,
+      "prior_variance": 0.137771,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Harpers Ferry",
+      "path": "northamerica/unitedstates/westvirginia/harpersferry",
+      "prior_score": 1.709,
+      "prior_variance": 0.134109,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Edirne",
+      "path": "asia/turkey/edirne",
+      "prior_score": 1.3661,
+      "prior_variance": 0.121918,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Naarden",
+      "path": "europe/netherlands/naarden",
+      "prior_score": 2.0686,
+      "prior_variance": 0.119342,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Figueira da Foz",
+      "path": "europe/portugal/figueiradafoz",
+      "prior_score": 0.7337,
+      "prior_variance": 0.111783,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bundoran",
+      "path": "europe/ireland/bundoran",
+      "prior_score": 1.0098,
+      "prior_variance": 0.108136,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Zuccarello",
+      "path": "europe/italy/liguria/rivieradellepalme/zuccarello",
+      "prior_score": 0.3208,
+      "prior_variance": 0.117452,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Incline Village",
+      "path": "northamerica/unitedstates/nevada/incline_village",
+      "prior_score": 1.5343,
+      "prior_variance": 0.120137,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Inuvik",
+      "path": "northamerica/canada/northwestterritories/inuvik",
+      "prior_score": -1.3953,
+      "prior_variance": 0.117674,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Mo i Rana",
+      "path": "europe/norway/mo_i_rana",
+      "prior_score": -1.2375,
+      "prior_variance": 0.148555,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Monts de l'Espinouse",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse",
+      "prior_score": 0.548,
+      "prior_variance": 0.110954,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Pamilacan Island",
+      "path": "asia/philippines/bohol/pamilacanisland",
+      "prior_score": 2.1422,
+      "prior_variance": 0.137288,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.3174,
+      "prior_variance": 0.126302,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.5335,
+      "prior_variance": 0.11935,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Tay Ninh",
+      "path": "asia/vietnam/tayninh",
+      "prior_score": -0.2522,
+      "prior_variance": 0.110642,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Manzhouli",
+      "path": "asia/china/innermongolia/manzhouli",
+      "prior_score": -2.5536,
+      "prior_variance": 0.125392,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Fryeburg",
+      "path": "northamerica/unitedstates/maine/fryeburg",
+      "prior_score": -1.7398,
+      "prior_variance": 0.122572,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": -0.1138,
+      "prior_variance": 0.112362,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -0.835,
+      "prior_variance": 0.125867,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Bettendorf",
+      "path": "northamerica/unitedstates/iowa/bettendorf",
+      "prior_score": -4.8594,
+      "prior_variance": 0.140074,
+      "prior_n": 11
+    }
+  ]
+}

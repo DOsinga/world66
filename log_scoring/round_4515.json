@@ -1,0 +1,200 @@
+{
+  "round": 4515,
+  "timestamp": "2026-06-14T00:18:48",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Varanasi",
+      "path": "asia/india/uttarpradesh/varanasi",
+      "prior_score": 7.1903,
+      "prior_variance": 0.180179,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Santiago de Compostela",
+      "path": "europe/spain/santiago_de_compostela",
+      "prior_score": 7.5174,
+      "prior_variance": 0.120991,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "San Juan",
+      "path": "northamerica/thecaribbean/puertorico/sanjuan",
+      "prior_score": 5.6811,
+      "prior_variance": 0.12045,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Essaouira",
+      "path": "africa/morocco/essaouira",
+      "prior_score": 5.8026,
+      "prior_variance": 0.116412,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Xingping",
+      "path": "asia/china/guangxi/xingping",
+      "prior_score": 3.9998,
+      "prior_variance": 0.11476,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Noto Peninsula",
+      "path": "asia/japan/honshu/notohanto",
+      "prior_score": 3.8651,
+      "prior_variance": 0.092298,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.4656,
+      "prior_variance": 0.100508,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Taman Negara",
+      "path": "asia/malaysia/tamannegara",
+      "prior_score": 3.6471,
+      "prior_variance": 0.109657,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Kaziranga",
+      "path": "asia/india/assam/kaziranga",
+      "prior_score": 3.4154,
+      "prior_variance": 0.098754,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Mittenwald",
+      "path": "europe/germany/bavaria/mittenwald",
+      "prior_score": 3.9262,
+      "prior_variance": 0.096276,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "La Teste de Buch",
+      "path": "europe/france/aquitaine/la_teste_de_buch",
+      "prior_score": 1.6265,
+      "prior_variance": 0.08559,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 2.692,
+      "prior_variance": 0.104531,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Kaifeng",
+      "path": "asia/china/henan_province/kaifeng",
+      "prior_score": 0.3748,
+      "prior_variance": 0.0946,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.4838,
+      "prior_variance": 0.116237,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Kanatal",
+      "path": "asia/india/uttaranchal/kanatal",
+      "prior_score": 0.4075,
+      "prior_variance": 0.09004,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Jun\u00edn de los Andes",
+      "path": "southamerica/argentina/junindelosandes",
+      "prior_score": -0.5449,
+      "prior_variance": 0.100021,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": -0.032,
+      "prior_variance": 0.089762,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Bahia de Caraquez",
+      "path": "southamerica/ecuador/bahiadecaraquez",
+      "prior_score": -0.9755,
+      "prior_variance": 0.100702,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.2247,
+      "prior_variance": 0.089619,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Iqaluit",
+      "path": "northamerica/canada/nunavut/iqaluit",
+      "prior_score": -1.8437,
+      "prior_variance": 0.095952,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "F\u00fcrth",
+      "path": "europe/germany/bavaria/fuerth",
+      "prior_score": -0.9724,
+      "prior_variance": 0.093728,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Tiraspol",
+      "path": "europe/moldova/tiraspol",
+      "prior_score": -1.9746,
+      "prior_variance": 0.089694,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.5534,
+      "prior_variance": 0.091118,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "El Oued",
+      "path": "africa/algeria/eloued",
+      "prior_score": -4.3549,
+      "prior_variance": 0.097841,
+      "prior_n": 15
+    }
+  ]
+}

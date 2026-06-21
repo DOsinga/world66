@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20170903_Papouasie_Baliem_
 latitude: -3.9874
 loc_type: city
 longitude: 138.8773
-score: 0.56
+score: 0.45
 title: Baliem Valley
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 53.401858
 longitude: -2.568022
 title: Warrington
 type: location
-score: 0.38
+score: 0.31
 loc_type: city
 ---
 

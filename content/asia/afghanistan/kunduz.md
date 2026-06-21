@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kunduz.JPG
 latitude: 36.7286
 loc_type: city
 longitude: 68.8681
-score: 0.1
+score: 0.08
 title: Kunduz
 type: location
 ---

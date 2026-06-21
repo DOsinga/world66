@@ -5,7 +5,7 @@ done:
 lat: 43.45
 loc_type: city
 long: 17.5833
-score: 0.45
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Gornji_Crna%C4%8D
 title: Neretva

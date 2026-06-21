@@ -5,7 +5,7 @@ done:
 latitude: 41.149944
 loc_type: city
 longitude: 24.146829
-score: 0.41
+score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Drama,_Greece
 title: Drama

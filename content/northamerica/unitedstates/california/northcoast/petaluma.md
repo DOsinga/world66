@@ -7,7 +7,7 @@ done:
 latitude: 38.232583
 loc_type: city
 longitude: -122.636465
-score: 0.4
+score: 0.34
 title: Petaluma
 type: location
 ---

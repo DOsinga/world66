@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Odzun_-_Armenia_(293118566
 latitude: 41.051653
 loc_type: city
 longitude: 44.615615
-score: 0.43
+score: 0.34
 title: Odzun
 type: location
 ---

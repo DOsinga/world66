@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20140411_ithaki094.JPG
 latitude: 38.401896
 loc_type: city
 longitude: 20.670093
-score: 0.69
+score: 0.58
 title: Ithaca
 type: location
 ---

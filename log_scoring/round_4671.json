@@ -1,0 +1,200 @@
+{
+  "round": 4671,
+  "timestamp": "2026-06-14T00:32:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Savannah",
+      "path": "northamerica/unitedstates/georgia/savannah",
+      "prior_score": 5.1041,
+      "prior_variance": 0.122992,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 4.7659,
+      "prior_variance": 0.107239,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Aachen",
+      "path": "europe/germany/northrhinewestphalia/aachen",
+      "prior_score": 2.8783,
+      "prior_variance": 0.114953,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Leshan",
+      "path": "asia/china/sichuanprovince/leshan",
+      "prior_score": 4.3943,
+      "prior_variance": 0.132815,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Xiahe",
+      "path": "asia/china/gansu/xiahe",
+      "prior_score": 2.7836,
+      "prior_variance": 0.09785,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Amiens",
+      "path": "europe/france/nord/amiens",
+      "prior_score": 0.2893,
+      "prior_variance": 0.088365,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 0.972,
+      "prior_variance": 0.089026,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Palmerston North",
+      "path": "australiaandpacific/newzealand/palmerstonnorth",
+      "prior_score": -1.9579,
+      "prior_variance": 0.089804,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Greenville",
+      "path": "northamerica/unitedstates/southcarolina/greenville",
+      "prior_score": -1.0001,
+      "prior_variance": 0.085621,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Omaha",
+      "path": "northamerica/unitedstates/nebraska/omaha",
+      "prior_score": -3.0049,
+      "prior_variance": 0.099062,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Siegen",
+      "path": "europe/germany/northrhinewestphalia/siegen",
+      "prior_score": -3.1168,
+      "prior_variance": 0.098783,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.2593,
+      "prior_variance": 0.082388,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Banjosa",
+      "path": "asia/pakistan/azad_kashmir/benjosa",
+      "prior_score": -2.006,
+      "prior_variance": 0.095981,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Redding",
+      "path": "northamerica/unitedstates/california/shastacascade/redding",
+      "prior_score": -3.5561,
+      "prior_variance": 0.107265,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -3.6632,
+      "prior_variance": 0.092589,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ankasa",
+      "path": "africa/ghana/ankasa",
+      "prior_score": -3.0851,
+      "prior_variance": 0.092259,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Mikindani-Mtwara",
+      "path": "africa/tanzania/mikindanimtwara",
+      "prior_score": -2.8859,
+      "prior_variance": 0.09829,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Tagum City",
+      "path": "asia/philippines/tagumcity",
+      "prior_score": -3.7722,
+      "prior_variance": 0.098243,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Cort\u00e9s",
+      "path": "northamerica/honduras/puertocortes",
+      "prior_score": -4.3681,
+      "prior_variance": 0.096365,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.055,
+      "prior_variance": 0.1123,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "R\u00edo Branco",
+      "path": "southamerica/uruguay/rio_branco_urugua",
+      "prior_score": -5.7393,
+      "prior_variance": 0.116022,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Bafoussam",
+      "path": "africa/cameroon/bafoussam",
+      "prior_score": -4.3259,
+      "prior_variance": 0.08918,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -5.3445,
+      "prior_variance": 0.113445,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Nimrud",
+      "path": "asia/iraq/nimrod",
+      "prior_score": -8.018,
+      "prior_variance": 0.171025,
+      "prior_n": 15
+    }
+  ]
+}

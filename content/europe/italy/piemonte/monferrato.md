@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Michele_di_Costigliole
 latitude: 45.1349
 loc_type: city
 longitude: 8.4516
-score: 0.6
+score: 0.54
 title: Monferrato
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cinema_Mara_-_Sighetu_Marm
 latitude: 47.928324
 loc_type: city
 longitude: 23.891558
-score: 0.42
+score: 0.37
 title: Sighet
 type: location
 ---

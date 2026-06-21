@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Masaya_Market,_Nicaragua.j
 latitude: 11.9744
 loc_type: city
 longitude: -86.0942
-score: 0.49
+score: 0.39
 title: Masaya
 type: location
 ---

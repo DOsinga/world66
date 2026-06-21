@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Butler_Institute_of_Americ
 latitude: 41.1036
 loc_type: city
 longitude: -80.652
-score: 0.31
+score: 0.23
 title: Youngstown
 type: location
 ---

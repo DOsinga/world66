@@ -4,7 +4,7 @@ done:
 latitude: 51.596827
 loc_type: city
 longitude: -0.337305
-score: 0.35
+score: 0.27
 title: Harrow
 type: location
 ---

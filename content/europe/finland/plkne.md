@@ -5,7 +5,7 @@ done:
 latitude: 61.337132
 loc_type: city
 longitude: 24.264942
-score: 0.36
+score: 0.34
 title: Pälkäne
 type: location
 ---

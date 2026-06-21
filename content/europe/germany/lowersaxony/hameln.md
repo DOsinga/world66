@@ -5,7 +5,7 @@ done:
 latitude: 52.104
 loc_type: city
 longitude: 9.3562
-score: 0.53
+score: 0.49
 title: Hameln
 type: location
 ---

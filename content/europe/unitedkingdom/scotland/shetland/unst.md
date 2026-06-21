@@ -5,7 +5,7 @@ done:
 latitude: 60.75952
 loc_type: city
 longitude: -0.896019
-score: 0.5
+score: 0.41
 title: Unst
 type: location
 image: unst.jpg

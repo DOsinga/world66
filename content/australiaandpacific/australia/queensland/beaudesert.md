@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BeaudesertMainStreet.JPG
 latitude: -27.988562
 loc_type: city
 longitude: 152.996119
-score: 0.38
+score: 0.3
 title: Beaudesert
 type: location
 ---

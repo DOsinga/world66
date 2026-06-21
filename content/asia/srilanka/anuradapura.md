@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jetavanaramaya_Stupa_profi
 latitude: 8.3368
 loc_type: city
 longitude: 80.4082
-score: 0.61
+score: 0.55
 title: Anuradhapura
 type: location
 ---

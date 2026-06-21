@@ -1,0 +1,200 @@
+{
+  "round": 4313,
+  "timestamp": "2026-06-14T00:02:32",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 4.5999,
+      "prior_variance": 0.110749,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Hakodate",
+      "path": "asia/japan/hokkaido/hakodate",
+      "prior_score": 5.9383,
+      "prior_variance": 0.124123,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 1.2917,
+      "prior_variance": 0.102836,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Mitad del Mundo",
+      "path": "southamerica/ecuador/mitad_del_mundo",
+      "prior_score": 2.8382,
+      "prior_variance": 0.103124,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Dadonghai",
+      "path": "asia/china/hainanisland/dadonghai",
+      "prior_score": -0.3789,
+      "prior_variance": 0.114609,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Chongwu",
+      "path": "asia/china/fujianprovince/chongwu",
+      "prior_score": -0.9617,
+      "prior_variance": 0.096318,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "St. Petersburg",
+      "path": "northamerica/unitedstates/florida/tampabayarea/stpetersburg",
+      "prior_score": 2.1355,
+      "prior_variance": 0.102786,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Haiphong",
+      "path": "asia/vietnam/haiphong",
+      "prior_score": -0.0101,
+      "prior_variance": 0.089749,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Figuig",
+      "path": "africa/morocco/figuig",
+      "prior_score": -1.9754,
+      "prior_variance": 0.099169,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -1.4683,
+      "prior_variance": 0.096303,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.7191,
+      "prior_variance": 0.095041,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/long_beach",
+      "prior_score": -0.0299,
+      "prior_variance": 0.109306,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Askersund",
+      "path": "europe/sweden/askersund",
+      "prior_score": -1.5028,
+      "prior_variance": 0.088906,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Voronezh",
+      "path": "europe/russia/voronezh",
+      "prior_score": -4.2869,
+      "prior_variance": 0.105154,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Skegness",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness",
+      "prior_score": -2.0907,
+      "prior_variance": 0.102432,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Jefferson City",
+      "path": "northamerica/unitedstates/missouri/jeffersoncity",
+      "prior_score": -3.557,
+      "prior_variance": 0.106875,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Berbera",
+      "path": "africa/somaliland/berbera",
+      "prior_score": -5.6107,
+      "prior_variance": 0.114016,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Galesburg",
+      "path": "northamerica/unitedstates/illinois/galesburg",
+      "prior_score": -5.463,
+      "prior_variance": 0.130776,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Erwin",
+      "path": "northamerica/unitedstates/tennessee/erwin_tennessee",
+      "prior_score": -4.9015,
+      "prior_variance": 0.134069,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Paola",
+      "path": "northamerica/unitedstates/kansas/paola",
+      "prior_score": -6.6251,
+      "prior_variance": 0.203489,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Zaria",
+      "path": "africa/nigeria/zaria",
+      "prior_score": -5.2053,
+      "prior_variance": 0.110677,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Skenderaj",
+      "path": "europe/serbia/kosovoprovince/skenderaj",
+      "prior_score": -6.8286,
+      "prior_variance": 0.158841,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -5.5657,
+      "prior_variance": 0.124136,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -6.6857,
+      "prior_variance": 0.16676,
+      "prior_n": 14
+    }
+  ]
+}

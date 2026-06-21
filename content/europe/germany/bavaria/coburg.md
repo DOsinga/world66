@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marktplatz_Coburg.jpg
 latitude: 50.2582
 loc_type: city
 longitude: 10.9646
-score: 0.51
+score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Coburg
 - https://en.wikipedia.org/wiki/Veste_Coburg

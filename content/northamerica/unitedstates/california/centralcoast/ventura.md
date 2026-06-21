@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20250410_View_of_Ventura_0
 latitude: 34.2746
 loc_type: city
 longitude: -119.229
-score: 0.48
+score: 0.4
 title: Ventura
 type: location
 ---

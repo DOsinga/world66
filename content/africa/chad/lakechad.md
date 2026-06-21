@@ -5,7 +5,7 @@ latitude: 13.0
 longitude: 14.0
 title: Lake Chad
 type: location
-score: 0.32
+score: 0.24
 loc_type: feature
 ---
 

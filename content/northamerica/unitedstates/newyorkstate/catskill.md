@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catskills_beyond_Hudson.jp
 latitude: 42.2173
 loc_type: city
 longitude: -73.8646
-score: 0.45
+score: 0.39
 title: Catskill
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3896,
+  "timestamp": "2026-06-13T23:28:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Urgup",
+      "path": "asia/turkey/cappadocia/urgup",
+      "prior_score": 8.2925,
+      "prior_variance": 0.183355,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Sintra",
+      "path": "europe/portugal/sintra",
+      "prior_score": 9.6122,
+      "prior_variance": 0.212864,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Uluru-Kata Tjuta National Park",
+      "path": "australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "prior_score": 9.3542,
+      "prior_variance": 0.190022,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Puerto Baquerizo Moreno",
+      "path": "southamerica/ecuador/galapagosislands/puerto_baquerizo_moreno",
+      "prior_score": 8.2448,
+      "prior_variance": 0.194819,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Keukenhof",
+      "path": "europe/netherlands/keukenhof",
+      "prior_score": 8.3725,
+      "prior_variance": 0.199481,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Cortina d'Ampezzo",
+      "path": "europe/italy/veneto/cortina_dampezzo",
+      "prior_score": 7.8455,
+      "prior_variance": 0.148276,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Luang Prabang",
+      "path": "asia/laos/luangprabang",
+      "prior_score": 8.6401,
+      "prior_variance": 0.195122,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Gyeongju",
+      "path": "asia/southkorea/gyeongju",
+      "prior_score": 6.2183,
+      "prior_variance": 0.171904,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Okayama",
+      "path": "asia/japan/honshu/okayama",
+      "prior_score": 4.0173,
+      "prior_variance": 0.121915,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 4.2438,
+      "prior_variance": 0.119753,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Paestum",
+      "path": "europe/italy/campania/paestum",
+      "prior_score": 4.584,
+      "prior_variance": 0.130049,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Koblenz",
+      "path": "europe/germany/rhinelandpalatinate/koblenz",
+      "prior_score": 4.1294,
+      "prior_variance": 0.140305,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Vrbnik",
+      "path": "europe/croatia/krkisland/vrbnik",
+      "prior_score": 3.2722,
+      "prior_variance": 0.112024,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.3359,
+      "prior_variance": 0.115072,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Culross",
+      "path": "europe/unitedkingdom/scotland/culross",
+      "prior_score": 2.0939,
+      "prior_variance": 0.11811,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Alassio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/alassio",
+      "prior_score": 3.3139,
+      "prior_variance": 0.107637,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.7562,
+      "prior_variance": 0.097139,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -0.2454,
+      "prior_variance": 0.10297,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Ons Islands",
+      "path": "europe/spain/galicia/ons_islands",
+      "prior_score": 2.1614,
+      "prior_variance": 0.10599,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -1.7915,
+      "prior_variance": 0.099794,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Yuxi",
+      "path": "asia/china/yunnanprovince/yuxi",
+      "prior_score": -2.5461,
+      "prior_variance": 0.11375,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.3125,
+      "prior_variance": 0.104904,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "San Bernardino",
+      "path": "northamerica/unitedstates/california/inlandempire/sanbernardino",
+      "prior_score": -5.3207,
+      "prior_variance": 0.159934,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nineveh",
+      "path": "asia/iraq/ninevah",
+      "prior_score": -5.2164,
+      "prior_variance": 0.154199,
+      "prior_n": 12
+    }
+  ]
+}

@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -3.2335
 longitude: 38.0
-score: 0.6
+score: 0.54
 title: Tsavo West
 type: location
 loc_type: feature

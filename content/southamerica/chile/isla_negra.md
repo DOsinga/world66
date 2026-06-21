@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilsanegra.jpg
 latitude: -33.4449
 loc_type: city
 longitude: -71.6925
-score: 0.51
+score: 0.44
 title: Isla Negra
 type: location
 ---

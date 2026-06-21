@@ -8,10 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Gaeta_-_Comune_di_Gaeta_-_
 latitude: 41.2114
 loc_type: city
 longitude: 13.5713
-score: 0.59
+score: 0.51
 sources:
-  - https://en.wikipedia.org/wiki/Gaeta
-  - https://en.wikivoyage.org/wiki/Gaeta
+- https://en.wikipedia.org/wiki/Gaeta
+- https://en.wikivoyage.org/wiki/Gaeta
 title: Gaeta
 type: location
 ---

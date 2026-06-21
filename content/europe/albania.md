@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$3–5"
   Bunkers: "Over 170,000 built during communist era"
   UNESCO Ottoman Towns: "2 — Berat and Gjirokastër"
-score: 0.58
+score: 0.69
 title: Albania
 type: location
 loc_type: country

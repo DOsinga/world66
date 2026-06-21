@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_1345_Mairie_de_Vichy_-_R
 latitude: 46.124017
 loc_type: city
 longitude: 3.420366
-score: 0.52
+score: 0.46
 title: Vichy
 type: location
 ---

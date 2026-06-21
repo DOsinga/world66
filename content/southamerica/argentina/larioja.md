@@ -6,7 +6,7 @@ latitude: -29.7825
 longitude: -67.1147
 title: La Rioja
 type: location
-score: 0.46
+score: 0.36
 loc_type: city
 ---
 

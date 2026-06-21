@@ -5,7 +5,7 @@ latitude: 20.2401
 longitude: 105.7224
 title: Cuc Phuong
 type: location
-score: 0.56
+score: 0.45
 loc_type: feature
 ---
 

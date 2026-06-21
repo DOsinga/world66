@@ -1,0 +1,200 @@
+{
+  "round": 2950,
+  "timestamp": "2026-06-13T22:18:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "The Hague",
+      "path": "europe/netherlands/thehague",
+      "prior_score": 4.8254,
+      "prior_variance": 0.163554,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 4.3527,
+      "prior_variance": 0.163154,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Durham",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/durham",
+      "prior_score": 2.0959,
+      "prior_variance": 0.132433,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Dordrecht",
+      "path": "europe/netherlands/dordrecht",
+      "prior_score": 0.8368,
+      "prior_variance": 0.13728,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.3853,
+      "prior_variance": 0.139548,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Manila",
+      "path": "asia/philippines/manila",
+      "prior_score": -1.1842,
+      "prior_variance": 0.217885,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "San Jos\u00e9",
+      "path": "northamerica/costarica/sanjose",
+      "prior_score": 0.445,
+      "prior_variance": 0.18001,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Xalapa",
+      "path": "northamerica/mexico/jalapa",
+      "prior_score": 0.1646,
+      "prior_variance": 0.13752,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Soweto",
+      "path": "africa/southafrica/soweto",
+      "prior_score": -0.789,
+      "prior_variance": 0.19641,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Nizhny Novgorod",
+      "path": "europe/russia/nizhnynovgorod",
+      "prior_score": 0.0343,
+      "prior_variance": 0.13465,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Malang",
+      "path": "asia/indonesia/java/malang",
+      "prior_score": 0.6121,
+      "prior_variance": 0.170152,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Kalispell",
+      "path": "northamerica/unitedstates/montana/kalispell",
+      "prior_score": 0.7371,
+      "prior_variance": 0.138478,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Idaho Springs",
+      "path": "northamerica/unitedstates/colorado/idaho_springs",
+      "prior_score": -0.5374,
+      "prior_variance": 0.155452,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Cob\u00e1n",
+      "path": "northamerica/guatemala/coban",
+      "prior_score": 0.4367,
+      "prior_variance": 0.137729,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Ocean Isle Beach",
+      "path": "northamerica/unitedstates/northcarolina/ocean_isle",
+      "prior_score": -1.1666,
+      "prior_variance": 0.146481,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.0929,
+      "prior_variance": 0.151809,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "El Hierro",
+      "path": "europe/spain/canaryislands/elhierro",
+      "prior_score": 1.9312,
+      "prior_variance": 0.142731,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "San Blas",
+      "path": "northamerica/mexico/sanblas",
+      "prior_score": -1.3011,
+      "prior_variance": 0.160093,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Bang Saphan",
+      "path": "asia/thailand/bang_saphan",
+      "prior_score": 0.889,
+      "prior_variance": 0.146621,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": -0.3884,
+      "prior_variance": 0.157131,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Ceibal",
+      "path": "northamerica/guatemala/ceibal",
+      "prior_score": -0.1497,
+      "prior_variance": 0.128344,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Valdeorras",
+      "path": "europe/spain/galicia/valdeorras",
+      "prior_score": -1.7478,
+      "prior_variance": 0.151639,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Essen",
+      "path": "europe/germany/northrhinewestphalia/essen",
+      "prior_score": -1.7724,
+      "prior_variance": 0.158315,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -7.1007,
+      "prior_variance": 0.243373,
+      "prior_n": 9
+    }
+  ]
+}

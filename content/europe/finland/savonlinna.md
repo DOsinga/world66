@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Savonlinna_hein%C3%A4kuu_2
 latitude: 61.869874
 loc_type: city
 longitude: 28.880045
-score: 0.57
+score: 0.5
 title: Savonlinna
 type: location
 ---

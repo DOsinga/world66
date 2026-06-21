@@ -5,7 +5,7 @@ done:
 latitude: 41.4489
 loc_type: city
 longitude: -82.7079
-score: 0.41
+score: 0.34
 title: Sandusky
 type: location
 ---

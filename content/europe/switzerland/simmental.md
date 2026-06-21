@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Simmental_switzerland.JPG
 latitude: 46.6278
 loc_type: city
 longitude: 7.3941
-score: 0.58
+score: 0.46
 title: Simmental
 type: location
 ---

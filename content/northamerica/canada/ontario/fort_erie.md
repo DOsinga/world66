@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Erie_Old_Fort_Erie_ca
 latitude: 42.91308
 loc_type: city
 longitude: -78.918611
-score: 0.38
+score: 0.33
 title: Fort Erie
 type: location
 ---

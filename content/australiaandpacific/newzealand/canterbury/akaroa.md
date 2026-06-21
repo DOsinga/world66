@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AkaroaDec032024_01.jpg
 latitude: -43.8035
 loc_type: city
 longitude: 172.9681
-score: 0.62
+score: 0.53
 title: Akaroa
 type: location
 ---

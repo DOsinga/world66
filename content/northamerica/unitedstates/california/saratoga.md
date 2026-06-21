@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Memorial_Arch_Saratoga_Cal
 latitude: 37.2638
 loc_type: city
 longitude: -122.023
-score: 0.44
+score: 0.36
 title: Saratoga
 type: location
 ---

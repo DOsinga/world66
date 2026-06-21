@@ -15,7 +15,7 @@ quick_facts:
   Elevation Range: "60m to 8,849m"
 done:
   country_cleanup: 2026-03-29
-score: 0.76
+score: 0.83
 loc_type: country
 ---
 

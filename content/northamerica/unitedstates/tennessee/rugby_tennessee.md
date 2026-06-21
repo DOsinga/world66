@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Christ-church-episcopal-ru
 latitude: 36.360093
 loc_type: city
 longitude: -84.700523
-score: 0.34
+score: 0.32
 title: Rugby, Tennessee
 type: location
 ---

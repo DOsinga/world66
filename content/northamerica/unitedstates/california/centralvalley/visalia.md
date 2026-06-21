@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0725-CA-Visalia-PO.jp
 latitude: 36.3302
 loc_type: city
 longitude: -119.2921
-score: 0.33
+score: 0.27
 title: Visalia
 type: location
 ---

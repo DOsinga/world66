@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atyrau,_Kazakhstan_-_panor
 latitude: 47.660583
 loc_type: city
 longitude: 50.806203
-score: 0.27
+score: 0.21
 title: Atyrau
 type: location
 ---

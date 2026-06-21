@@ -1,199 +1,199 @@
 {
   "round": 2337,
-  "timestamp": "2026-04-13T16:32:27",
+  "timestamp": "2026-06-13T21:34:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "St Petersburg",
-      "path": "europe/russia/stpetersburg",
-      "prior_score": 9.8419,
-      "prior_variance": 0.348573,
-      "prior_n": 6
+      "title": "Orta San Giulio",
+      "path": "europe/italy/piemonte/orta",
+      "prior_score": 5.6613,
+      "prior_variance": 0.208967,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Hania",
-      "path": "europe/greece/crete/hania",
-      "prior_score": 8.257,
-      "prior_variance": 0.484701,
-      "prior_n": 6
+      "title": "Recco",
+      "path": "europe/italy/liguria/italianriviera/paradisegulf/recco",
+      "prior_score": -0.1442,
+      "prior_variance": 0.202654,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Namtso Lake",
-      "path": "asia/china/tibet/namtso_lake",
-      "prior_score": 4.5733,
-      "prior_variance": 0.294258,
-      "prior_n": 6
+      "title": "Pertouli",
+      "path": "europe/greece/pertouli",
+      "prior_score": -0.0559,
+      "prior_variance": 0.200868,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Matsuyama",
-      "path": "asia/japan/shikoku/matsuyama",
-      "prior_score": 5.345,
-      "prior_variance": 0.295261,
-      "prior_n": 6
+      "title": "Dalv\u00edkurbygg\u00f0",
+      "path": "europe/iceland/dalvkurbygg",
+      "prior_score": -0.7036,
+      "prior_variance": 0.248194,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Bogota",
-      "path": "southamerica/colombia/bogota",
-      "prior_score": 3.0565,
-      "prior_variance": 0.254913,
-      "prior_n": 6
+      "title": "Lund",
+      "path": "europe/sweden/lund",
+      "prior_score": 0.9896,
+      "prior_variance": 0.19571,
+      "prior_n": 7
     },
     {
       "rank": 6,
-      "title": "Montpellier",
-      "path": "europe/france/midi/languedoc/montpellier",
-      "prior_score": 4.9931,
-      "prior_variance": 0.231133,
-      "prior_n": 6
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 1.3069,
+      "prior_variance": 0.192859,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Zacatecas",
-      "path": "northamerica/mexico/zacatecas",
-      "prior_score": 3.4864,
-      "prior_variance": 0.222856,
+      "title": "Blandford Forum",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/blandford",
+      "prior_score": -1.1284,
+      "prior_variance": 0.177403,
       "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Nantucket",
-      "path": "northamerica/unitedstates/massachusetts/nantucket",
-      "prior_score": 4.2639,
-      "prior_variance": 0.262294,
-      "prior_n": 6
-    },
-    {
-      "rank": 9,
-      "title": "Azad Kashmir",
-      "path": "asia/pakistan/azad_kashmir",
-      "prior_score": -0.9886,
-      "prior_variance": 0.227899,
-      "prior_n": 6
-    },
-    {
-      "rank": 10,
-      "title": "Lonavala",
-      "path": "asia/india/maharashtra/lonavala",
-      "prior_score": 1.4965,
-      "prior_variance": 0.25752,
-      "prior_n": 6
-    },
-    {
-      "rank": 11,
-      "title": "Karimunjawa",
-      "path": "asia/indonesia/java/karimunjawa",
-      "prior_score": 3.4231,
-      "prior_variance": 0.217345,
-      "prior_n": 6
-    },
-    {
-      "rank": 12,
-      "title": "New Territories",
-      "path": "asia/china/hongkong/newterritories",
-      "prior_score": 2.9364,
-      "prior_variance": 0.206757,
-      "prior_n": 6
-    },
-    {
-      "rank": 13,
-      "title": "Kelaa M'Gouna",
-      "path": "africa/morocco/kelaa_mgouna",
-      "prior_score": 1.6687,
-      "prior_variance": 0.212168,
-      "prior_n": 6
-    },
-    {
-      "rank": 14,
-      "title": "Ingleton",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/ingleton",
-      "prior_score": 0.8175,
-      "prior_variance": 0.249901,
-      "prior_n": 6
-    },
-    {
-      "rank": 15,
-      "title": "Cody",
-      "path": "northamerica/unitedstates/wyoming/cody",
-      "prior_score": 1.4538,
-      "prior_variance": 0.275158,
-      "prior_n": 6
-    },
-    {
-      "rank": 16,
-      "title": "Fyvie",
-      "path": "europe/unitedkingdom/scotland/fyvie",
-      "prior_score": -1.3494,
-      "prior_variance": 0.21319,
+      "title": "Busselton",
+      "path": "australiaandpacific/australia/westernaustralia/bussleton",
+      "prior_score": 0.4334,
+      "prior_variance": 0.185667,
       "prior_n": 7
     },
     {
-      "rank": 17,
-      "title": "Dortmund",
-      "path": "europe/germany/northrhinewestphalia/dortmund",
-      "prior_score": -1.9068,
-      "prior_variance": 0.266061,
-      "prior_n": 6
+      "rank": 9,
+      "title": "Roermond",
+      "path": "europe/netherlands/roermond",
+      "prior_score": -0.5138,
+      "prior_variance": 0.214682,
+      "prior_n": 7
     },
     {
-      "rank": 18,
-      "title": "Gainesville",
-      "path": "northamerica/unitedstates/florida/gainesville",
-      "prior_score": -2.111,
-      "prior_variance": 0.203096,
+      "rank": 10,
+      "title": "Eski\u015fehir",
+      "path": "asia/turkey/eskisehir",
+      "prior_score": 1.593,
+      "prior_variance": 0.187701,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Birmingham",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham",
+      "prior_score": -1.8691,
+      "prior_variance": 0.241355,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": -0.3475,
+      "prior_variance": 0.167594,
       "prior_n": 8
     },
     {
-      "rank": 19,
-      "title": "Atascadero",
-      "path": "northamerica/unitedstates/california/atascadero",
-      "prior_score": -2.7027,
-      "prior_variance": 0.152487,
+      "rank": 13,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.5171,
+      "prior_variance": 0.181291,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Kenora",
+      "path": "northamerica/canada/ontario/kenora",
+      "prior_score": -2.1274,
+      "prior_variance": 0.213742,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Mount Abu",
+      "path": "asia/india/rajasthan/mount_abu",
+      "prior_score": 2.2515,
+      "prior_variance": 0.212789,
+      "prior_n": 7
+    },
+    {
+      "rank": 16,
+      "title": "Tsodilo Hills",
+      "path": "africa/botswana/tsodilohills",
+      "prior_score": 0.8674,
+      "prior_variance": 0.200895,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Orange Walk Town",
+      "path": "northamerica/belize/orangewalktown",
+      "prior_score": -2.7351,
+      "prior_variance": 0.155453,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Van",
+      "path": "asia/turkey/van",
+      "prior_score": -1.0815,
+      "prior_variance": 0.158706,
       "prior_n": 9
     },
     {
+      "rank": 19,
+      "title": "Ponca",
+      "path": "northamerica/unitedstates/nebraska/ponca",
+      "prior_score": -6.6243,
+      "prior_variance": 0.25596,
+      "prior_n": 7
+    },
+    {
       "rank": 20,
-      "title": "Be'er Sheva",
-      "path": "asia/israel/beer_sheva",
-      "prior_score": -3.2229,
-      "prior_variance": 0.242569,
+      "title": "Linthicum",
+      "path": "northamerica/unitedstates/maryland/linthicum",
+      "prior_score": -8.1397,
+      "prior_variance": 0.286509,
       "prior_n": 7
     },
     {
       "rank": 21,
-      "title": "Harwich Port",
-      "path": "northamerica/unitedstates/massachusetts/harwichport",
-      "prior_score": 0.4265,
-      "prior_variance": 0.232847,
-      "prior_n": 6
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -8.041,
+      "prior_variance": 0.417116,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Woods Hole",
-      "path": "northamerica/unitedstates/massachusetts/woods_hole",
-      "prior_score": -1.1069,
-      "prior_variance": 0.270616,
-      "prior_n": 6
+      "title": "Agedabia",
+      "path": "africa/libya/agedabia",
+      "prior_score": -8.835,
+      "prior_variance": 0.57709,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Dover-Foxcroft",
-      "path": "northamerica/unitedstates/maine/doverfoxcroft",
-      "prior_score": -4.0548,
-      "prior_variance": 0.23244,
-      "prior_n": 6
+      "title": "Jacobabad",
+      "path": "asia/pakistan/jacobabad",
+      "prior_score": -9.9188,
+      "prior_variance": 0.4542,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Essen",
-      "path": "europe/belgium/essen",
-      "prior_score": -4.6343,
-      "prior_variance": 0.203318,
+      "title": "Gaza Strip",
+      "path": "asia/palestinianauthority/gazastrip",
+      "prior_score": -15.8739,
+      "prior_variance": 2.288894,
       "prior_n": 7
     }
   ]

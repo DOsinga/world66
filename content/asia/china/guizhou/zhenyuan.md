@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhenyuan
 title: Zhenyuan
 type: location
+score: 0.49
 ---
 
 Zhenyuan is one of the most satisfying ancient towns in China, which is a strong claim in a country that has preserved — or reconstructed — a great many of them. What makes it different is the setting: the [riverside old town](/asia/china/guizhou/zhenyuan/riverside_old_town) sits along the [Wuyang River](/asia/china/guizhou/zhenyuan/wuyang_river_gorge) in a narrow gorge between limestone karst cliffs, with wooden houses climbing the banks on both sides and temple complexes attached directly to the cliff faces above. At night, when the stone walls and overhanging rocks are lit from below and reflected in the river, the effect is theatrical in the best sense.

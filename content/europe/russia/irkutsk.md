@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Irkutsk,_Irkutsk,_Russia.j
 latitude: 52.289122
 loc_type: city
 longitude: 104.279829
-score: 0.53
+score: 0.44
 title: Irkutsk
 type: location
 ---

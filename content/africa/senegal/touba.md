@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_Touba_(senega
 latitude: 14.8646
 loc_type: city
 longitude: -15.876
-score: 0.34
+score: 0.29
 title: Touba
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Winston-Salem_skyline.jpg
 latitude: 36.099813
 loc_type: city
 longitude: -80.244052
-score: 0.43
+score: 0.35
 title: Winston-Salem
 type: location
 ---

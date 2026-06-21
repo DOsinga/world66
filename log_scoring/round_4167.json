@@ -1,0 +1,200 @@
+{
+  "round": 4167,
+  "timestamp": "2026-06-13T23:50:40",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuta",
+      "path": "asia/indonesia/bali/kuta",
+      "prior_score": 4.8842,
+      "prior_variance": 0.155578,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Mal\u00e9",
+      "path": "asia/maldives/male_atoll/male",
+      "prior_score": 2.298,
+      "prior_variance": 0.148479,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Caye Caulker",
+      "path": "northamerica/belize/cayecaulker",
+      "prior_score": 4.744,
+      "prior_variance": 0.099671,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Cockburn Town",
+      "path": "northamerica/turksandcaicosislands/grandturk/cockburntown",
+      "prior_score": 2.0113,
+      "prior_variance": 0.115587,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "St. George's",
+      "path": "northamerica/thecaribbean/grenada/stgeorges",
+      "prior_score": 4.6482,
+      "prior_variance": 0.12524,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Los Roques",
+      "path": "southamerica/venezuela/los_roques",
+      "prior_score": 4.2891,
+      "prior_variance": 0.130044,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ho Chi Minh City",
+      "path": "asia/vietnam/hochiminhcity",
+      "prior_score": 6.001,
+      "prior_variance": 0.142967,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Greve in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/greveinchianti",
+      "prior_score": 3.9901,
+      "prior_variance": 0.106764,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Les Eyzies",
+      "path": "europe/france/aquitaine/leseyzies",
+      "prior_score": 2.8292,
+      "prior_variance": 0.107266,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Vevey",
+      "path": "europe/switzerland/vevey",
+      "prior_score": 3.9542,
+      "prior_variance": 0.120054,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kilronan",
+      "path": "europe/ireland/aranislands/kilronan",
+      "prior_score": 3.4261,
+      "prior_variance": 0.105417,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Mindelo",
+      "path": "africa/capeverde/mindelo",
+      "prior_score": 2.977,
+      "prior_variance": 0.103225,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Hilton Head Island",
+      "path": "northamerica/unitedstates/southcarolina/hiltonheadisland",
+      "prior_score": 2.7278,
+      "prior_variance": 0.115182,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Girdwood",
+      "path": "northamerica/unitedstates/alaska/girdwood",
+      "prior_score": 2.3776,
+      "prior_variance": 0.123696,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Liege",
+      "path": "europe/belgium/liege",
+      "prior_score": 0.8309,
+      "prior_variance": 0.099706,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Pasadena",
+      "path": "northamerica/unitedstates/california/pasadena",
+      "prior_score": 1.6493,
+      "prior_variance": 0.093402,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Pemba",
+      "path": "africa/tanzania/pemba",
+      "prior_score": -0.9076,
+      "prior_variance": 0.119473,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Ganzi",
+      "path": "asia/china/sichuanprovince/ganzi",
+      "prior_score": 0.0979,
+      "prior_variance": 0.109436,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Tus",
+      "path": "asia/iran/tuz",
+      "prior_score": -5.5629,
+      "prior_variance": 0.127647,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Shahbuz",
+      "path": "europe/azerbaijan/naxcivan/shahbuz",
+      "prior_score": -5.9866,
+      "prior_variance": 0.148897,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -6.8675,
+      "prior_variance": 0.157334,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -5.9653,
+      "prior_variance": 0.115132,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Palmyra",
+      "path": "asia/syria/palmyra",
+      "prior_score": -4.4423,
+      "prior_variance": 0.219781,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -7.4728,
+      "prior_variance": 0.196901,
+      "prior_n": 13
+    }
+  ]
+}

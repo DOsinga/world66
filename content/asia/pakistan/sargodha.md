@@ -7,7 +7,7 @@ done:
 latitude: 32.083651
 loc_type: city
 longitude: 72.676461
-score: 0.27
+score: 0.21
 title: Sargodha
 type: location
 ---

@@ -5,7 +5,7 @@ latitude: 3.7
 longitude: -56.2
 title: Raleighvallen
 type: location
-score: 0.42
+score: 0.4
 loc_type: feature
 ---
 

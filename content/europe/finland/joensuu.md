@@ -5,7 +5,7 @@ done:
 latitude: 62.6006
 loc_type: city
 longitude: 29.762
-score: 0.44
+score: 0.4
 title: Joensuu
 type: location
 ---

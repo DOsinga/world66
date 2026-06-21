@@ -1,199 +1,199 @@
 {
   "round": 229,
-  "timestamp": "2026-04-12T09:07:46",
+  "timestamp": "2026-06-13T19:25:31",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Taroko Gorge",
-      "path": "asia/taiwan/torokogorge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bamberg",
+      "path": "europe/germany/bavaria/bamberg",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Cannes",
-      "path": "europe/france/midi/cotedazur/cannes",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Menton",
+      "path": "europe/france/midi/provence/menton",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Carmel",
-      "path": "northamerica/unitedstates/california/carmel",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "Ollantaytambo",
+      "path": "southamerica/peru/ollantaytambo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Nassau",
-      "path": "northamerica/bahamas/nassau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Cape Verde",
-      "path": "africa/capeverde",
-      "prior_mu": 23.073,
-      "prior_sigma": 5.994,
-      "prior_n": 1
+      "title": "Trani",
+      "path": "europe/italy/puglia/trani",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Ku\u015fadas\u0131",
-      "path": "asia/turkey/kusadasi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Logro\u00f1o",
+      "path": "europe/spain/northernspain/logrono",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Axum",
-      "path": "africa/ethiopia/axum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mont-Tremblant",
+      "path": "northamerica/canada/quebec/mont_tremblant_que",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Lake khovsgol",
-      "path": "asia/mongolia/lakekhovsgol",
-      "prior_mu": 22.4888,
-      "prior_sigma": 5.9081,
-      "prior_n": 1
+      "title": "Tampere",
+      "path": "europe/finland/tampere",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Khan Tengri",
-      "path": "asia/kazakhstan/khan_tengri",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sylt",
+      "path": "europe/germany/schleswigholstein/sylt",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Turda",
-      "path": "europe/romania/transylvania/turda",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Pavia",
+      "path": "europe/italy/lombardia/pavia",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Lysekil",
-      "path": "europe/sweden/lysekil",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ninety Mile Beach",
+      "path": "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Brotas",
-      "path": "southamerica/brazil/brotas",
-      "prior_mu": 21.9509,
-      "prior_sigma": 4.8388,
-      "prior_n": 2
+      "title": "Bukittinggi",
+      "path": "asia/indonesia/sumatra/bukittinggi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Errachidia",
-      "path": "africa/morocco/errachidia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mount Longhu",
+      "path": "asia/china/jiangxi/mount_longhu",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Rinc\u00f3n del Mar",
-      "path": "southamerica/colombia/rincon_del_mar",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Milazzo",
+      "path": "europe/italy/sicily/milazzo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "California",
-      "path": "northamerica/unitedstates/california",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "S\u00e3o Tom\u00e9",
+      "path": "africa/saotomeandprincipe/saotome",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Athens",
-      "path": "northamerica/unitedstates/georgia/athens",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Missoula",
-      "path": "northamerica/unitedstates/montana/missoula",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Amarillo",
-      "path": "northamerica/unitedstates/texas/amarillo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Roma",
-      "path": "australiaandpacific/australia/queensland/roma",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Peoria",
-      "path": "northamerica/unitedstates/illinois/peoria",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Safi",
+      "path": "africa/morocco/safi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Saxonburg",
-      "path": "northamerica/unitedstates/pennsylvania/saxonburg",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Solihull",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/solihull",
-      "prior_mu": 22.1806,
-      "prior_sigma": 5.7503,
-      "prior_n": 1
+      "title": "Hebron",
+      "path": "asia/palestinianauthority/hebron",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Bernau bei Berlin",
-      "path": "europe/germany/brandenburg/bernau_bei_berlin",
-      "prior_mu": 22.7225,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Kandla",
+      "path": "asia/india/gujarat/kutch/kandla",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Diadema",
-      "path": "southamerica/brazil/diadema",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Donaldsonville",
+      "path": "northamerica/unitedstates/louisiana/donaldsonville",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

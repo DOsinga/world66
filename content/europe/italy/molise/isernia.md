@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontana_Fraterna_(Isernia)
 latitude: 41.649509
 loc_type: city
 longitude: 14.208062
-score: 0.43
+score: 0.38
 title: Isernia
 type: location
 ---

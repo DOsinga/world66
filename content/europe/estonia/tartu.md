@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tartu_(2019).jpg
 latitude: 58.377953
 loc_type: city
 longitude: 26.729002
-score: 0.54
+score: 0.47
 title: Tartu
 type: location
 ---

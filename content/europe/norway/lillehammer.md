@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lillehammer_City.jpg
 latitude: 61.1153
 loc_type: city
 longitude: 10.4663
-score: 0.62
+score: 0.52
 title: Lillehammer
 type: location
 ---

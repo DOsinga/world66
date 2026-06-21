@@ -5,7 +5,7 @@ latitude: -27.467
 longitude: -58.8341
 title: Corrientes
 type: location
-score: 0.45
+score: 0.38
 loc_type: city
 ---
 

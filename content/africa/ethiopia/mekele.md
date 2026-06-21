@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ET_Mekele_asv2018-01_img19
 latitude: 13.4967
 loc_type: city
 longitude: 39.4769
-score: 0.31
+score: 0.27
 title: Mekele
 type: location
 ---

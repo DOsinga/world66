@@ -6,7 +6,7 @@ latitude: 35.362838
 longitude: 138.730768
 title: Mount Fuji
 type: location
-score: 0.85
+score: 0.76
 image: mount_fuji.jpg
 image_source: https://commons.wikimedia.org/wiki/File:070203_MM21%26FUJI.jpg
 image_license: CC BY-SA 3.0

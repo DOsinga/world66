@@ -9,7 +9,7 @@ image_attribution: Murray Foubister
 latitude: 39.8917
 loc_type: city
 longitude: -105.7631
-score: 0.55
+score: 0.47
 title: Winter Park
 type: location
 ---

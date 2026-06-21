@@ -1,0 +1,200 @@
+{
+  "round": 3018,
+  "timestamp": "2026-06-13T22:23:07",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Palma",
+      "path": "europe/spain/balearicislands/mallorca/palma1",
+      "prior_score": 7.1997,
+      "prior_variance": 0.199335,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Erice",
+      "path": "europe/italy/sicily/erice",
+      "prior_score": 6.2111,
+      "prior_variance": 0.160625,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Albi",
+      "path": "europe/france/midi/languedoc/albi",
+      "prior_score": 4.4046,
+      "prior_variance": 0.151907,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Caserta",
+      "path": "europe/italy/campania/caserta",
+      "prior_score": 2.8171,
+      "prior_variance": 0.152205,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 4.2355,
+      "prior_variance": 0.156956,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Franschhoek",
+      "path": "africa/southafrica/franschhoek",
+      "prior_score": 5.1272,
+      "prior_variance": 0.167718,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Furnas",
+      "path": "europe/portugal/theazores/so_miguel/furnas",
+      "prior_score": 4.7731,
+      "prior_variance": 0.152434,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Durbuy",
+      "path": "europe/belgium/durbuy",
+      "prior_score": 1.9205,
+      "prior_variance": 0.149181,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Scheveningen",
+      "path": "europe/netherlands/scheveningen",
+      "prior_score": 1.5324,
+      "prior_variance": 0.1461,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Durban",
+      "path": "africa/southafrica/durban",
+      "prior_score": 2.1649,
+      "prior_variance": 0.186348,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Yap",
+      "path": "australiaandpacific/micronesiafederatedstatesof/yap",
+      "prior_score": 1.0031,
+      "prior_variance": 0.126571,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Krakatoa",
+      "path": "asia/indonesia/krakatoa",
+      "prior_score": -0.1778,
+      "prior_variance": 0.192429,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Chebika",
+      "path": "africa/tunisia/chebika",
+      "prior_score": 2.1291,
+      "prior_variance": 0.147323,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Bakuriani",
+      "path": "europe/georgia/bakuriani",
+      "prior_score": -0.1229,
+      "prior_variance": 0.146365,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Coroico",
+      "path": "southamerica/bolivia/coroico",
+      "prior_score": 1.7095,
+      "prior_variance": 0.140464,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Corn Islands",
+      "path": "northamerica/nicaragua/cornislands",
+      "prior_score": 1.1747,
+      "prior_variance": 0.135344,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 3.419,
+      "prior_variance": 0.132882,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Kayenta",
+      "path": "northamerica/unitedstates/arizona/kayenta",
+      "prior_score": -0.0119,
+      "prior_variance": 0.154579,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -4.8566,
+      "prior_variance": 0.160614,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Cuyahoga Falls",
+      "path": "northamerica/unitedstates/ohio/cuyahoga_falls",
+      "prior_score": -4.2154,
+      "prior_variance": 0.141857,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Bad Bentheim",
+      "path": "europe/germany/lowersaxony/bad_bentheim",
+      "prior_score": -1.4657,
+      "prior_variance": 0.145276,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.497,
+      "prior_variance": 0.134653,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Fort Erie",
+      "path": "northamerica/canada/ontario/fort_erie",
+      "prior_score": -2.922,
+      "prior_variance": 0.135543,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Mont-Laurier",
+      "path": "northamerica/canada/quebec/montlaurier",
+      "prior_score": -3.6525,
+      "prior_variance": 0.138953,
+      "prior_n": 9
+    }
+  ]
+}

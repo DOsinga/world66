@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Machilipatnam_beach_at_dus
 latitude: 16.1817
 loc_type: city
 longitude: 81.1348
-score: 0.33
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Machilipatnam
 - https://en.wikipedia.org/wiki/Siege_of_Masulipatam

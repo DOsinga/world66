@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bar-le-Duc_Place_Saint-Pie
 latitude: 48.7713
 loc_type: city
 longitude: 5.1624
-score: 0.42
+score: 0.35
 title: Bar-le-Duc
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rondo_Retreat,_Kakamega_Ra
 latitude: 0.2822
 loc_type: city
 longitude: 34.754
-score: 0.35
+score: 0.31
 title: Kakamega
 type: location
 ---

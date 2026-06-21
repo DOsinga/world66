@@ -10,9 +10,10 @@ sources:
 title: San Miguel de Allende
 type: location
 image: sanmigueldeallende.jpg
-image_source: 'https://commons.wikimedia.org/wiki/File:Mesones_Street_SnMiguelAllende2019.jpg'
+image_source: https://commons.wikimedia.org/wiki/File:Mesones_Street_SnMiguelAllende2019.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Cvmontuy
+score: 0.63
 ---
 
 San Miguel de Allende sits at 1,900 metres in the high desert of Guanajuato state, and it is one of the most beautiful cities in Mexico — a fact that has been widely discovered. The UNESCO World Heritage historic centre is a collection of cobblestone streets, baroque churches, and colonial mansions in ochre and terracotta, centred on [El Jardín](/northamerica/mexico/sanmigueldeallende/el_jardin), the main square, where the [Parroquia de San Miguel Arcángel](/northamerica/mexico/sanmigueldeallende/parroquia_san_miguel) dominates the skyline with its extraordinary neo-Gothic pink stonework — an early 20th-century modification by an indigenous stonemason who taught himself Gothic architecture from postcards.

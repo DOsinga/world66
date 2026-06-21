@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 42.626
 longitude: -0.0434
-score: 0.7
+score: 0.6
 title: Ordesa National Park
 type: location
 loc_type: feature

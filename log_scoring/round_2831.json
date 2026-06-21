@@ -1,0 +1,200 @@
+{
+  "round": 2831,
+  "timestamp": "2026-06-13T22:10:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tanna",
+      "path": "australiaandpacific/vanuatu/tanna",
+      "prior_score": 3.6822,
+      "prior_variance": 0.168902,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Thrissur",
+      "path": "asia/india/kerala/thrissur",
+      "prior_score": -0.1524,
+      "prior_variance": 0.140249,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Margao",
+      "path": "asia/india/goa/margao",
+      "prior_score": -0.1288,
+      "prior_variance": 0.148351,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Ehden",
+      "path": "asia/lebanon/ehden",
+      "prior_score": 0.1786,
+      "prior_variance": 0.171087,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Limoges",
+      "path": "europe/france/centre/limousin/limoges",
+      "prior_score": 0.5015,
+      "prior_variance": 0.143624,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Galveston Island",
+      "path": "northamerica/unitedstates/texas/houston/galvestonisland",
+      "prior_score": -0.5886,
+      "prior_variance": 0.180064,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.8556,
+      "prior_variance": 0.196983,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": -1.169,
+      "prior_variance": 0.147399,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Beaufort",
+      "path": "northamerica/unitedstates/southcarolina/beaufort",
+      "prior_score": 0.7118,
+      "prior_variance": 0.180581,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": 0.9456,
+      "prior_variance": 0.156901,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Kecskem\u00e9t",
+      "path": "europe/hungary/kecskemet",
+      "prior_score": 0.1183,
+      "prior_variance": 0.142664,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Rottweil",
+      "path": "europe/germany/badenwrttemberg/rottweil",
+      "prior_score": -1.0197,
+      "prior_variance": 0.172358,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Kilifi",
+      "path": "africa/kenya/thecoast/kilifi",
+      "prior_score": 1.1432,
+      "prior_variance": 0.138869,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.8449,
+      "prior_variance": 0.153315,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Wuxi",
+      "path": "asia/china/jiangsu_province/wuxi",
+      "prior_score": -0.3624,
+      "prior_variance": 0.167848,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Civita Castellana",
+      "path": "europe/italy/lazio/civita_castellana",
+      "prior_score": -0.8798,
+      "prior_variance": 0.138296,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Unst",
+      "path": "europe/unitedkingdom/scotland/shetland/unst",
+      "prior_score": 0.0751,
+      "prior_variance": 0.14878,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Mangalia",
+      "path": "europe/romania/mangalia",
+      "prior_score": -1.673,
+      "prior_variance": 0.14565,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Dangriga",
+      "path": "northamerica/belize/dangriga",
+      "prior_score": -0.9255,
+      "prior_variance": 0.146768,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "La Marsa",
+      "path": "africa/tunisia/lamarsa",
+      "prior_score": -0.3775,
+      "prior_variance": 0.174004,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.324,
+      "prior_variance": 0.147923,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": -2.4945,
+      "prior_variance": 0.32598,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Cengio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/cengio",
+      "prior_score": -1.9669,
+      "prior_variance": 0.178155,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Xiis",
+      "path": "africa/somaliland/xiis",
+      "prior_score": -12.0178,
+      "prior_variance": 0.721499,
+      "prior_n": 8
+    }
+  ]
+}

@@ -1,9 +1,10 @@
 ---
-title: "Mikumi National Park"
+title: Mikumi National Park
 type: location
 loc_type: feature
 latitude: -7.4
 longitude: 36.9
+score: 0.54
 ---
 
 Mikumi National Park is one of Tanzania's most accessible wildlife reserves, sitting just 283 km west of [Dar es Salaam](/africa/tanzania/daressalaam) along the main highway to [Zambia](/africa/zambia). Its relative proximity to the coast makes it a popular destination for day trips and weekend safaris from the city, and it serves as the northern gateway to the much larger Selous Game Reserve to the south.

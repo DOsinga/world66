@@ -5,7 +5,7 @@ done:
 latitude: -36.82707
 loc_type: city
 longitude: -73.050206
-score: 0.44
+score: 0.34
 title: Concepción
 type: location
 image: concepcion.jpg

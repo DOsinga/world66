@@ -5,7 +5,7 @@ latitude: 25.8167
 longitude: 12.3833
 title: Wadi Matkhandoush
 type: location
-score: 0.29
+score: 0.23
 loc_type: feature
 ---
 

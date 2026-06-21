@@ -5,7 +5,7 @@ done:
 latitude: 60.996619
 loc_type: city
 longitude: 24.465141
-score: 0.45
+score: 0.42
 title: Hameenlinna
 type: location
 ---

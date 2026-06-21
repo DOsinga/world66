@@ -5,7 +5,7 @@ latitude: 54.023331
 longitude: -2.145729
 title: Malhamdale
 type: location
-score: 0.57
+score: 0.48
 loc_type: feature
 ---
 

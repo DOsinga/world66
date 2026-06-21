@@ -9,7 +9,7 @@ image: costa_di_maratea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Costamarateamarina.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Luca Luongo
-score: 0.57
+score: 0.49
 loc_type: city
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 46.4666
 loc_type: city
 longitude: -124.043
-score: 0.48
+score: 0.4
 title: Long Beach Peninsula
 type: location
 ---

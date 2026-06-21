@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/33042199@N02/7542573538
 latitude: 32.7314
 loc_type: city
 longitude: -9.034
-score: 0.51
+score: 0.46
 title: Oualidia
 type: location
 ---

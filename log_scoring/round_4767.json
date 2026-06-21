@@ -1,0 +1,200 @@
+{
+  "round": 4767,
+  "timestamp": "2026-06-14T00:40:01",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Olympia",
+      "path": "europe/greece/olympia",
+      "prior_score": 6.5189,
+      "prior_variance": 0.11012,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Lipari",
+      "path": "europe/italy/sicily/aeolianislands/lipari",
+      "prior_score": 6.0114,
+      "prior_variance": 0.099405,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Lecce",
+      "path": "europe/italy/puglia/lecce",
+      "prior_score": 6.2394,
+      "prior_variance": 0.109515,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.07,
+      "prior_variance": 0.092392,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Eger",
+      "path": "europe/hungary/eger",
+      "prior_score": 3.6448,
+      "prior_variance": 0.094152,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Bacharach",
+      "path": "europe/germany/rhinelandpalatinate/bacharach",
+      "prior_score": 3.5436,
+      "prior_variance": 0.093181,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ribeira Sacra",
+      "path": "europe/spain/galicia/ribeira_sacra",
+      "prior_score": 2.8115,
+      "prior_variance": 0.086326,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 2.6819,
+      "prior_variance": 0.113187,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Panauti",
+      "path": "asia/nepal/panauti",
+      "prior_score": 0.5219,
+      "prior_variance": 0.096403,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 2.5438,
+      "prior_variance": 0.088773,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": 2.5121,
+      "prior_variance": 0.095758,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.625,
+      "prior_variance": 0.090437,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.4349,
+      "prior_variance": 0.086659,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.6778,
+      "prior_variance": 0.079647,
+      "prior_n": 17
+    },
+    {
+      "rank": 15,
+      "title": "Karakol",
+      "path": "asia/kyrgyzstan/karakol",
+      "prior_score": 1.4538,
+      "prior_variance": 0.090189,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Ala-Archa Gorge",
+      "path": "asia/kyrgyzstan/alaarchagorge",
+      "prior_score": 1.7435,
+      "prior_variance": 0.088601,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Huangyaguan",
+      "path": "asia/china/tianjin/huangyaguan",
+      "prior_score": -0.3625,
+      "prior_variance": 0.079196,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Melfi",
+      "path": "europe/italy/basilicata/melfi",
+      "prior_score": 0.1762,
+      "prior_variance": 0.079497,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Calitri",
+      "path": "europe/italy/campania/calitri",
+      "prior_score": -0.9486,
+      "prior_variance": 0.085022,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Devil's Island",
+      "path": "southamerica/frenchguiana/devilsisland",
+      "prior_score": -0.1852,
+      "prior_variance": 0.114792,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Golsfjellet",
+      "path": "europe/norway/golsfjellet",
+      "prior_score": -1.1369,
+      "prior_variance": 0.093514,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Kamloops",
+      "path": "northamerica/canada/britishcolumbia/kamploops",
+      "prior_score": -0.9683,
+      "prior_variance": 0.080418,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Valentine",
+      "path": "northamerica/unitedstates/nebraska/valentine",
+      "prior_score": -4.0572,
+      "prior_variance": 0.113227,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Seria",
+      "path": "asia/brunei/seria",
+      "prior_score": -5.1048,
+      "prior_variance": 0.127025,
+      "prior_n": 15
+    }
+  ]
+}

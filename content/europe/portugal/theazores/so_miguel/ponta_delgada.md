@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Ponta_Delgad
 latitude: 37.73934
 loc_type: city
 longitude: -25.66895
-score: 0.65
+score: 0.55
 title: Ponta Delgada
 type: location
 ---

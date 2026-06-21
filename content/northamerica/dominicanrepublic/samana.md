@@ -5,7 +5,7 @@ done:
 latitude: 19.206
 loc_type: city
 longitude: -69.3362
-score: 0.56
+score: 0.53
 title: Samaná
 type: location
 ---

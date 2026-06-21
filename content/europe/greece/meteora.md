@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Dem_Himmel_n%C3%A4her%2
 latitude: 39.721905
 loc_type: feature
 longitude: 21.632232
-score: 0.86
+score: 0.74
 title: Meteora
 type: location
 ---

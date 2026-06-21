@@ -5,7 +5,7 @@ latitude: 41.4093
 longitude: -122.1949
 title: Mount Shasta
 type: location
-score: 0.52
+score: 0.47
 loc_type: feature
 ---
 

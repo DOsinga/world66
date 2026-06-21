@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nordingr%C3%A5_kyrka_05.jp
 latitude: 62.8459
 loc_type: city
 longitude: 18.6227
-score: 0.5
+score: 0.43
 title: Nordingrå
 type: location
 ---

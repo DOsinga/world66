@@ -6,7 +6,7 @@ latitude: 37.2153
 longitude: -93.2982
 title: Springfield
 type: location
-score: 0.38
+score: 0.31
 loc_type: city
 ---
 

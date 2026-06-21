@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Building_of_the_Numismatic
 latitude: 43.848041
 loc_type: city
 longitude: 25.954206
-score: 0.48
+score: 0.41
 title: Ruse
 type: location
 ---

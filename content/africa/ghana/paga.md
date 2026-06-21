@@ -5,7 +5,7 @@ done:
 latitude: 10.970036
 loc_type: city
 longitude: -1.101674
-score: 0.38
+score: 0.36
 title: Paga
 type: location
 ---

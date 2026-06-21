@@ -6,7 +6,7 @@ done:
 latitude: 22.544574
 loc_type: city
 longitude: 114.054543
-score: 0.47
+score: 0.4
 title: Shenzhen
 type: location
 image: shenzhen.jpg

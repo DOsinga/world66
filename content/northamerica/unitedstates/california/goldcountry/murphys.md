@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Murphys_in_Winter.jpg
 latitude: 38.13742
 loc_type: city
 longitude: -120.459643
-score: 0.44
+score: 0.38
 title: Murphys
 type: location
 ---

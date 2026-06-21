@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AddisView.jpg
 latitude: 9.0358
 loc_type: city
 longitude: 38.7524
-score: 0.47
+score: 0.43
 title: Addis Ababa
 type: location
 ---

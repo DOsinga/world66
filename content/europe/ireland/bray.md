@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/87690240@N03/9537925019
 latitude: 53.20146
 loc_type: city
 longitude: -6.110505
-score: 0.53
+score: 0.43
 title: Bray
 type: location
 ---

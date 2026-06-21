@@ -17,7 +17,7 @@ quick_facts:
   Nearest Airport: "32 hours away by boat"
   Settled By: Bounty mutineers in 1790
   Alcohol Sold on Island: None
-score: 0.41
+score: 0.25
 loc_type: country
 ---
 

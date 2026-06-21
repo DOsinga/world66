@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pedro_Bernardo_(%C3%81vila
 latitude: 40.243931
 loc_type: city
 longitude: -4.910847
-score: 0.36
+score: 0.29
 title: Pedro Bernardo
 type: location
 ---

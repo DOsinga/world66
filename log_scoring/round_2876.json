@@ -1,0 +1,200 @@
+{
+  "round": 2876,
+  "timestamp": "2026-06-13T22:13:26",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Marseille",
+      "path": "europe/france/midi/cotedazur/marseille",
+      "prior_score": 5.6066,
+      "prior_variance": 0.160812,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 1.4267,
+      "prior_variance": 0.16315,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Szentendre",
+      "path": "europe/hungary/szentendre",
+      "prior_score": 3.6066,
+      "prior_variance": 0.16986,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Les Andelys",
+      "path": "europe/france/normandybrittany/lesandelys",
+      "prior_score": 0.7277,
+      "prior_variance": 0.172688,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Postup",
+      "path": "europe/croatia/postup_the_villag",
+      "prior_score": 1.454,
+      "prior_variance": 0.172083,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -1.1234,
+      "prior_variance": 0.178128,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Lisieux",
+      "path": "europe/france/normandybrittany/lisieux",
+      "prior_score": 0.4621,
+      "prior_variance": 0.157407,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Battambang",
+      "path": "asia/cambodia/battambang",
+      "prior_score": 2.201,
+      "prior_variance": 0.132786,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Mbabane",
+      "path": "africa/swaziland/mbabane",
+      "prior_score": -2.3276,
+      "prior_variance": 0.166827,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Rockhampton",
+      "path": "australiaandpacific/australia/queensland/rockhampton_1",
+      "prior_score": -2.4477,
+      "prior_variance": 0.145526,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Ludvika",
+      "path": "europe/sweden/ludvika",
+      "prior_score": -3.4162,
+      "prior_variance": 0.145262,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Scranton",
+      "path": "northamerica/unitedstates/pennsylvania/scranton",
+      "prior_score": -4.8901,
+      "prior_variance": 0.184107,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Ait Ourir",
+      "path": "africa/morocco/aitourir",
+      "prior_score": -4.6253,
+      "prior_variance": 0.164719,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.7517,
+      "prior_variance": 0.247803,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.2096,
+      "prior_variance": 0.148226,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Ontario",
+      "path": "northamerica/unitedstates/california/inlandempire/ontario",
+      "prior_score": -5.4603,
+      "prior_variance": 0.198,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Walsall",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/walsall",
+      "prior_score": -5.6513,
+      "prior_variance": 0.198553,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Hama",
+      "path": "asia/syria/hama",
+      "prior_score": -5.8542,
+      "prior_variance": 0.242251,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Gharyan",
+      "path": "africa/libya/gharyan",
+      "prior_score": -7.3118,
+      "prior_variance": 0.203855,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Nouamghar",
+      "path": "africa/mauritania/nouamghar",
+      "prior_score": -7.1695,
+      "prior_variance": 0.223244,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Panpur",
+      "path": "asia/india/assam/panpur",
+      "prior_score": -6.9941,
+      "prior_variance": 0.250134,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Mardan",
+      "path": "asia/pakistan/mardan",
+      "prior_score": -6.6502,
+      "prior_variance": 0.169426,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Faisalabad",
+      "path": "asia/pakistan/faisalabad",
+      "prior_score": -6.9975,
+      "prior_variance": 0.22116,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -8.3185,
+      "prior_variance": 0.548003,
+      "prior_n": 9
+    }
+  ]
+}

@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 51.5679
 longitude: -1.7714
-score: 0.47
+score: 0.43
 title: The Ridgeway
 type: location
 loc_type: feature

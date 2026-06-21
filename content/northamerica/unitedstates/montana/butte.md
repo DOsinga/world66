@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Butte_and_Water_Reserv
 latitude: 46.0038
 loc_type: city
 longitude: -112.5348
-score: 0.42
+score: 0.36
 title: Butte
 type: location
 ---

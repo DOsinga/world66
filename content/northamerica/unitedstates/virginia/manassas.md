@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016-10-11_14_15_20_View_n
 latitude: 38.7509
 loc_type: city
 longitude: -77.4753
-score: 0.39
+score: 0.34
 title: Manassas
 type: location
 ---

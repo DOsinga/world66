@@ -1,200 +1,200 @@
 {
   "round": 1357,
-  "timestamp": "2026-04-12T22:23:19",
+  "timestamp": "2026-06-13T20:25:48",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Greenville",
-      "path": "northamerica/unitedstates/southcarolina/greenville",
-      "prior_rank": 5018,
-      "prior_wins": 29,
-      "prior_n": 3
+      "title": "De Efteling",
+      "path": "europe/netherlands/deefteling",
+      "prior_score": 4.1416,
+      "prior_variance": 0.331185,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Tripoli",
-      "path": "asia/lebanon/tripoli",
-      "prior_rank": 4577,
-      "prior_wins": 42,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 2.1615,
+      "prior_variance": 0.339644,
       "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Antananarivo",
-      "path": "africa/madagascar/antananarivo",
-      "prior_rank": 6066,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Pinnawela",
+      "path": "asia/srilanka/pinnawela",
+      "prior_score": 3.387,
+      "prior_variance": 0.32394,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Karakol",
-      "path": "asia/kyrgyzstan/karakol",
-      "prior_rank": 5228,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Salou",
+      "path": "europe/spain/catalonia/salou",
+      "prior_score": 2.9791,
+      "prior_variance": 0.339773,
+      "prior_n": 4
     },
     {
       "rank": 5,
-      "title": "Ferghana Valley",
-      "path": "asia/uzbekistan/ferghanavalley",
-      "prior_rank": 3344,
-      "prior_wins": 38,
-      "prior_n": 3
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 2.7759,
+      "prior_variance": 0.346418,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Massa",
-      "path": "europe/italy/tuscany/massa",
-      "prior_rank": 6892,
-      "prior_wins": 18,
-      "prior_n": 3
+      "title": "Schiermonnikoog",
+      "path": "europe/netherlands/waddenislands/schiermonnikoog_is",
+      "prior_score": 0.7021,
+      "prior_variance": 0.329977,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Vulture Area",
-      "path": "europe/italy/basilicata/vulture_area",
-      "prior_rank": 5037,
-      "prior_wins": 29,
-      "prior_n": 3
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/vermont/burlington",
+      "prior_score": 2.1628,
+      "prior_variance": 0.409648,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Sanahin",
-      "path": "europe/armenia/sanahin_1",
-      "prior_rank": 5642,
-      "prior_wins": 34,
+      "title": "Tui",
+      "path": "europe/spain/galicia/tui",
+      "prior_score": 1.161,
+      "prior_variance": 0.346188,
       "prior_n": 4
     },
     {
       "rank": 9,
-      "title": "Florence",
-      "path": "northamerica/unitedstates/oregon/florence",
-      "prior_rank": 4332,
-      "prior_wins": 33,
-      "prior_n": 3
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 3.0791,
+      "prior_variance": 0.339551,
+      "prior_n": 4
     },
     {
       "rank": 10,
-      "title": "St. Michaels",
-      "path": "northamerica/unitedstates/maryland/stmichaels",
-      "prior_rank": 4034,
-      "prior_wins": 34,
-      "prior_n": 3
+      "title": "Ganvi\u00e9",
+      "path": "africa/benin/ganvie",
+      "prior_score": 1.5217,
+      "prior_variance": 0.445403,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Odelouca",
-      "path": "europe/portugal/algarve/odelouca",
-      "prior_rank": 6471,
-      "prior_wins": 21,
-      "prior_n": 3
+      "title": "St. Andrews",
+      "path": "northamerica/canada/newbrunswick/standrews",
+      "prior_score": -0.7426,
+      "prior_variance": 0.303511,
+      "prior_n": 4
     },
     {
       "rank": 12,
-      "title": "Wickenburg",
-      "path": "northamerica/unitedstates/arizona/wickenburg",
-      "prior_rank": 5351,
-      "prior_wins": 27,
-      "prior_n": 3
+      "title": "Karlsruhe",
+      "path": "europe/germany/badenwrttemberg/karlsruhe",
+      "prior_score": 0.9373,
+      "prior_variance": 0.397667,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Hiawassee",
-      "path": "northamerica/unitedstates/georgia/hiawassee_ga",
-      "prior_rank": 3242,
-      "prior_wins": 39,
-      "prior_n": 3
+      "title": "Derby",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby",
+      "prior_score": -0.6693,
+      "prior_variance": 0.461094,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Huy",
-      "path": "europe/belgium/huy",
-      "prior_rank": 4624,
-      "prior_wins": 52,
-      "prior_n": 5
+      "title": "Stella",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stella",
+      "prior_score": -1.9807,
+      "prior_variance": 0.402165,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Sarreguemines",
-      "path": "europe/france/east/lorraine/sarreguemines",
-      "prior_rank": 7012,
-      "prior_wins": 17,
-      "prior_n": 3
+      "title": "Phalaborwa",
+      "path": "africa/southafrica/phalaborwa",
+      "prior_score": -2.0022,
+      "prior_variance": 0.294314,
+      "prior_n": 4
     },
     {
       "rank": 16,
-      "title": "Ungersheim",
-      "path": "europe/france/east/alsace/ungersheim",
-      "prior_rank": 6064,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Bishkek",
+      "path": "asia/kyrgyzstan/bishkek",
+      "prior_score": -0.0552,
+      "prior_variance": 0.43487,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Bochnia",
-      "path": "europe/poland/bochnia",
-      "prior_rank": 5881,
-      "prior_wins": 24,
-      "prior_n": 3
+      "title": "Antananarivo",
+      "path": "africa/madagascar/antananarivo",
+      "prior_score": -2.5237,
+      "prior_variance": 0.348297,
+      "prior_n": 4
     },
     {
       "rank": 18,
-      "title": "Ciudad Real",
-      "path": "europe/spain/la_mancha/ciudad_real",
-      "prior_rank": 7768,
-      "prior_wins": 14,
+      "title": "Valka",
+      "path": "europe/latvia/valka",
+      "prior_score": -3.416,
+      "prior_variance": 0.323044,
       "prior_n": 4
     },
     {
       "rank": 19,
-      "title": "Wageningen",
-      "path": "europe/netherlands/wageningen",
-      "prior_rank": 6306,
-      "prior_wins": 51,
-      "prior_n": 7
+      "title": "Toritto",
+      "path": "europe/italy/puglia/toritto",
+      "prior_score": -3.3698,
+      "prior_variance": 0.399625,
+      "prior_n": 4
     },
     {
       "rank": 20,
-      "title": "Otley",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/otley",
-      "prior_rank": 6141,
-      "prior_wins": 23,
-      "prior_n": 3
+      "title": "Freetown",
+      "path": "africa/sierraleone/freetown",
+      "prior_score": -4.9286,
+      "prior_variance": 0.555282,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Bradford",
-      "path": "europe/unitedkingdom/england/leeds_sheffield_a/bradford",
-      "prior_rank": 5734,
-      "prior_wins": 25,
-      "prior_n": 3
+      "title": "Huaibei",
+      "path": "asia/china/anhui/huaibei",
+      "prior_score": -7.5461,
+      "prior_variance": 0.346831,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Worcester",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/worcester",
-      "prior_rank": 5196,
-      "prior_wins": 28,
-      "prior_n": 3
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -7.1145,
+      "prior_variance": 0.372813,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Pasay City",
-      "path": "asia/philippines/pasay_city",
-      "prior_rank": 6230,
-      "prior_wins": 22,
-      "prior_n": 3
+      "title": "Petrozavodsk",
+      "path": "europe/russia/karelia/petrozavodsk",
+      "prior_score": -2.6619,
+      "prior_variance": 0.312463,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "New Ireland",
-      "path": "asia/papuanewguinea/newireland",
-      "prior_rank": 4143,
-      "prior_wins": 34,
-      "prior_n": 3
+      "title": "Kandahar",
+      "path": "asia/afghanistan/kandahar",
+      "prior_score": -15.6601,
+      "prior_variance": 0.963106,
+      "prior_n": 4
     }
   ]
 }

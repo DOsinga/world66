@@ -5,7 +5,7 @@ latitude: 43.1303
 longitude: 19.0144
 title: Durmitor National Park
 type: location
-score: 0.65
+score: 0.58
 loc_type: feature
 ---
 

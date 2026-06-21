@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noosa_Main_Beach_from_boar
 latitude: -26.40014
 loc_type: city
 longitude: 153.091049
-score: 0.66
+score: 0.57
 title: Noosa Heads
 type: location
 ---

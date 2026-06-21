@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_St._Thomas_in_Mosul
 latitude: 36.343694
 loc_type: city
 longitude: 43.099716
-score: 0.15
+score: 0.1
 title: Mosul
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 25.0714
 longitude: 73.88
 title: Rajsamand
 type: location
-score: 0.39
+score: 0.35
 loc_type: city
 ---
 

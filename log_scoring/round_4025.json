@@ -1,0 +1,200 @@
+{
+  "round": 4025,
+  "timestamp": "2026-06-13T23:38:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 4.5786,
+      "prior_variance": 0.103969,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Alagna",
+      "path": "europe/italy/piemonte/alagna",
+      "prior_score": 1.4493,
+      "prior_variance": 0.101269,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 2.8388,
+      "prior_variance": 0.100344,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Traverse City",
+      "path": "northamerica/unitedstates/michigan/traverse_city",
+      "prior_score": 1.8436,
+      "prior_variance": 0.095895,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.6134,
+      "prior_variance": 0.102127,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Amelia Island",
+      "path": "northamerica/unitedstates/florida/amelia_island",
+      "prior_score": 2.135,
+      "prior_variance": 0.117903,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Ooty",
+      "path": "asia/india/tamilnadu/ooty",
+      "prior_score": 2.0592,
+      "prior_variance": 0.096695,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Porlock and District",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/porlock_and_district",
+      "prior_score": 0.4567,
+      "prior_variance": 0.110363,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Broads",
+      "path": "europe/unitedkingdom/england/eastern_england/broads",
+      "prior_score": 1.5155,
+      "prior_variance": 0.094203,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.8643,
+      "prior_variance": 0.110932,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Kaghan Valley",
+      "path": "asia/pakistan/kaghanvalley",
+      "prior_score": 0.4507,
+      "prior_variance": 0.100899,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Dalian",
+      "path": "asia/china/liaoning/dalian",
+      "prior_score": -0.2536,
+      "prior_variance": 0.096711,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Waxahachie",
+      "path": "northamerica/unitedstates/texas/waxahachie",
+      "prior_score": -3.3887,
+      "prior_variance": 0.115056,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Sturbridge",
+      "path": "northamerica/unitedstates/massachusetts/sturbridge",
+      "prior_score": -1.3701,
+      "prior_variance": 0.086872,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.2238,
+      "prior_variance": 0.110905,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Quang Tri",
+      "path": "asia/vietnam/quang_tri",
+      "prior_score": -3.7961,
+      "prior_variance": 0.103132,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Belize City",
+      "path": "northamerica/belize/belizecity",
+      "prior_score": -0.1009,
+      "prior_variance": 0.096624,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Krasnaya Sloboda",
+      "path": "europe/azerbaijan/krasnayasloboda",
+      "prior_score": -5.2111,
+      "prior_variance": 0.142925,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Ardee",
+      "path": "europe/ireland/ardee",
+      "prior_score": -2.2853,
+      "prior_variance": 0.091866,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Andersonville",
+      "path": "northamerica/unitedstates/georgia/andersonville",
+      "prior_score": -3.0851,
+      "prior_variance": 0.1249,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Hulun Lake",
+      "path": "asia/china/innermongolia/hulun_lake",
+      "prior_score": 0.591,
+      "prior_variance": 0.096775,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Ararat Marz",
+      "path": "europe/armenia/ararat_marz",
+      "prior_score": -1.8267,
+      "prior_variance": 0.096485,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.1492,
+      "prior_variance": 0.133021,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -4.4045,
+      "prior_variance": 0.149468,
+      "prior_n": 13
+    }
+  ]
+}

@@ -10,6 +10,7 @@ loc_type: city
 longitude: 117.202549
 title: Jingdezhen
 type: location
+score: 0.42
 ---
 
 Jingdezhen (景德镇) has been making porcelain for nearly two thousand years, and it still takes the whole enterprise extremely seriously. The city supplied the imperial court for centuries, and the blue-and-white ware that became synonymous with "china" around the world originated here during the Yuan dynasty. If ceramics interest you at all — as art, craft, or industrial history — this is one of the most rewarding stops in eastern China.

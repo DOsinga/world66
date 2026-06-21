@@ -5,7 +5,7 @@ done:
 latitude: 40.233729
 loc_type: city
 longitude: -111.658709
-score: 0.42
+score: 0.35
 title: Provo
 type: location
 ---

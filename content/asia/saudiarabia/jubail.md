@@ -5,7 +5,7 @@ done:
 latitude: 27.000697
 loc_type: city
 longitude: 49.653216
-score: 0.25
+score: 0.19
 sources:
 - https://en.wikipedia.org/wiki/Jubail
 - https://en.wikipedia.org/wiki/Jubail_Church

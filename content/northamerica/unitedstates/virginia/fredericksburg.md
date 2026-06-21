@@ -10,6 +10,7 @@ loc_type: city
 longitude: -77.4599
 title: Fredericksburg
 type: location
+score: 0.41
 ---
 
 Fredericksburg sits on the south bank of the Rappahannock River, about halfway between Washington DC and Richmond, and its position explains almost everything about its history. Founded in 1728, it was a prosperous colonial port and market town — George Washington grew up across the river at [Ferry Farm](/northamerica/unitedstates/virginia/fredericksburg/ferry_farm), and both his mother and his brother James Monroe lived here. Then the Civil War came through four times. The town changed hands repeatedly between 1862 and 1864, and the fighting that happened in and around it — at [Fredericksburg](/northamerica/unitedstates/virginia/fredericksburg/fredericksburg_spotsylvania_park), Chancellorsville, the Wilderness, and Spotsylvania Court House — killed or wounded more than 100,000 men.

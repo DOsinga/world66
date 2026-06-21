@@ -5,7 +5,7 @@ done:
 latitude: 55.134869
 loc_type: city
 longitude: 10.905283
-score: 0.43
+score: 0.36
 title: Lohals
 type: location
 ---

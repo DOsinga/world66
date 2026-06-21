@@ -1,200 +1,200 @@
 {
   "round": 369,
-  "timestamp": "2026-04-12T09:13:50",
+  "timestamp": "2026-06-13T19:31:58",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sedona",
-      "path": "northamerica/unitedstates/arizona/sedona",
-      "prior_mu": 25.7723,
-      "prior_sigma": 6.1287,
+      "title": "Swahili Coast",
+      "path": "africa/tanzania/swahilicoast",
+      "prior_score": 2.8325,
+      "prior_variance": 1.94171,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Fregate Island",
-      "path": "africa/seychelles/fregateisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Stralsund",
+      "path": "europe/germany/mecklenburgwesternpomerania/stralsund",
+      "prior_score": -0.0984,
+      "prior_variance": 1.775714,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Fuerteventura",
-      "path": "europe/spain/canaryislands/fuerteventura",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Le Carbet",
+      "path": "northamerica/thecaribbean/martinique/le_carbet",
+      "prior_score": 3.317,
+      "prior_variance": 1.738542,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Chalong",
-      "path": "asia/thailand/phuket/chalong",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": -9.0702,
+      "prior_variance": 2.597575,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Ostia Antica",
-      "path": "europe/italy/lazio/ostiaantica",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
+      "title": "Krynica-Zdr\u00f3j",
+      "path": "europe/poland/krynicazdroj",
+      "prior_score": -3.3072,
+      "prior_variance": 1.646782,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Riga",
-      "path": "europe/latvia/riga",
-      "prior_mu": 22.9536,
-      "prior_sigma": 5.5546,
+      "title": "St Helens",
+      "path": "australiaandpacific/australia/tasmania/eastcoast/st_helens",
+      "prior_score": -10.7868,
+      "prior_variance": 3.461177,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Dambulla",
-      "path": "asia/srilanka/dambulla",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Cheyenne",
+      "path": "northamerica/unitedstates/wyoming/cheyenne",
+      "prior_score": -8.1456,
+      "prior_variance": 2.033202,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Lege Cap Ferret",
-      "path": "europe/france/aquitaine/lege_cap_ferret",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bergen",
+      "path": "europe/netherlands/bergen",
+      "prior_score": -10.2638,
+      "prior_variance": 3.598634,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Santander",
-      "path": "europe/spain/cantabria/santander",
-      "prior_mu": 22.7312,
-      "prior_sigma": 5.9509,
+      "title": "Langley",
+      "path": "northamerica/canada/britishcolumbia/langley",
+      "prior_score": -6.7559,
+      "prior_variance": 1.458043,
       "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Marco Island",
-      "path": "northamerica/unitedstates/florida/marcoisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Florence",
+      "path": "northamerica/unitedstates/alabama/florence",
+      "prior_score": -8.2817,
+      "prior_variance": 2.728664,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Springbrook",
-      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -4.8185,
+      "prior_variance": 1.672807,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Albany",
-      "path": "australiaandpacific/australia/westernaustralia/albany",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rockville",
+      "path": "northamerica/unitedstates/maryland/montgomerycounty/rockville",
+      "prior_score": -8.8694,
+      "prior_variance": 3.82394,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "L\u2019Aquila",
-      "path": "europe/italy/abruzzo/aquila",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Mallare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/mallare",
+      "prior_score": -3.4806,
+      "prior_variance": 1.668022,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Piatra Neam\u021b",
-      "path": "europe/romania/piatraneamt",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ile-Ife",
+      "path": "africa/nigeria/ife",
+      "prior_score": -7.962,
+      "prior_variance": 3.099874,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Small Isles",
-      "path": "europe/unitedkingdom/scotland/small_isles",
-      "prior_mu": 22.7223,
-      "prior_sigma": 5.9498,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -4.5571,
+      "prior_variance": 1.739655,
       "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "Fishguard",
-      "path": "europe/unitedkingdom/wales/fishguard",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -10.4162,
+      "prior_variance": 2.240694,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Kuantan",
-      "path": "asia/malaysia/kuantan",
-      "prior_mu": 22.4432,
-      "prior_sigma": 5.9024,
+      "title": "Lanzhou",
+      "path": "asia/china/gansu/lanzhou",
+      "prior_score": -7.3903,
+      "prior_variance": 1.878336,
       "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Barra de Tijuca",
-      "path": "southamerica/brazil/barra_de_tijuca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Rasht",
+      "path": "asia/iran/rasht",
+      "prior_score": -6.9958,
+      "prior_variance": 3.019648,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Rio Gallegos",
-      "path": "southamerica/argentina/riogallegos",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Taunggyi",
+      "path": "asia/myanmar/taunggyi",
+      "prior_score": -8.6434,
+      "prior_variance": 1.6173,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Keratsini",
-      "path": "europe/greece/keratsini",
-      "prior_mu": 21.83,
-      "prior_sigma": 5.7032,
+      "title": "Cherchen",
+      "path": "asia/china/xinjiangprovince/cherchen",
+      "prior_score": -14.3817,
+      "prior_variance": 7.117862,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "The Woodlands",
-      "path": "northamerica/unitedstates/texas/the_woodlands",
-      "prior_mu": 21.8987,
-      "prior_sigma": 4.8324,
-      "prior_n": 2
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -13.3671,
+      "prior_variance": 7.517604,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Orange Park",
-      "path": "northamerica/unitedstates/florida/orangepark",
-      "prior_mu": 22.4611,
-      "prior_sigma": 5.9185,
+      "title": "Basra",
+      "path": "asia/iraq/basra",
+      "prior_score": -11.7564,
+      "prior_variance": 2.262615,
       "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Los Teques",
-      "path": "southamerica/venezuela/altos_mirandinos/los_teques",
-      "prior_mu": 17.7792,
-      "prior_sigma": 6.623,
+      "title": "Kurgan-Tyube",
+      "path": "asia/tajikistan/kurgantyube",
+      "prior_score": -13.2688,
+      "prior_variance": 7.637873,
       "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Port harcourt",
-      "path": "africa/nigeria/portharcourt",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Darra Adam Khel",
+      "path": "asia/pakistan/darraadamkhel",
+      "prior_score": -13.0342,
+      "prior_variance": 7.758884,
+      "prior_n": 1
     }
   ]
 }

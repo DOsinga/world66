@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -19.154005
 longitude: 22.980094
-score: 0.72
+score: 0.66
 title: Okavango Delta
 type: location
 loc_type: feature

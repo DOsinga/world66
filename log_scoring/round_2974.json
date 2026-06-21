@@ -1,0 +1,200 @@
+{
+  "round": 2974,
+  "timestamp": "2026-06-13T22:20:08",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Morskie Oko",
+      "path": "europe/poland/zakopane/morskieoko",
+      "prior_score": 5.2997,
+      "prior_variance": 0.17396,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Springbrook",
+      "path": "australiaandpacific/australia/queensland/goldcoast/springbrook",
+      "prior_score": 1.8514,
+      "prior_variance": 0.13392,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Russell",
+      "path": "australiaandpacific/newzealand/northland_1/russell",
+      "prior_score": 1.4714,
+      "prior_variance": 0.139009,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Port Macquarie",
+      "path": "australiaandpacific/australia/newsouthwales/portmacquarie",
+      "prior_score": 0.5639,
+      "prior_variance": 0.146446,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Baltistan",
+      "path": "asia/pakistan/mountain_areas/baltistan",
+      "prior_score": 0.4842,
+      "prior_variance": 0.173764,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Neretva",
+      "path": "europe/bosniaandherzegovina/rakitnica_canyon/neretva",
+      "prior_score": -1.0947,
+      "prior_variance": 0.186013,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Galibi Nature Reserve",
+      "path": "southamerica/suriname/galibireserve",
+      "prior_score": -0.3841,
+      "prior_variance": 0.20531,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Mrljane",
+      "path": "europe/croatia/pasman_island/mrljane",
+      "prior_score": -0.98,
+      "prior_variance": 0.132705,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_score": -1.1016,
+      "prior_variance": 0.159716,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Hiwasa",
+      "path": "asia/japan/shikoku/hiwasa_tokushima",
+      "prior_score": -0.0767,
+      "prior_variance": 0.137777,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Ambon",
+      "path": "asia/indonesia/maluku/ambon",
+      "prior_score": -0.9111,
+      "prior_variance": 0.147168,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Banana Islands",
+      "path": "africa/sierraleone/bananaislands",
+      "prior_score": -2.9718,
+      "prior_variance": 0.230065,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Rissani",
+      "path": "africa/morocco/rissani",
+      "prior_score": -0.2218,
+      "prior_variance": 0.174313,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Lavagna",
+      "path": "europe/italy/liguria/italianriviera/tigullio/lavagna",
+      "prior_score": 0.588,
+      "prior_variance": 0.142332,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Coloane",
+      "path": "asia/china/coloane",
+      "prior_score": -1.1949,
+      "prior_variance": 0.184503,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Eckernf\u00f6rde",
+      "path": "europe/germany/schleswigholstein/eckernfrde",
+      "prior_score": -0.4503,
+      "prior_variance": 0.125083,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Leeds",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds",
+      "prior_score": -0.1891,
+      "prior_variance": 0.143089,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "K\u00e4rdla",
+      "path": "europe/estonia/hiiumaa/krdla",
+      "prior_score": -2.0368,
+      "prior_variance": 0.136475,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Meung-sur-Loire",
+      "path": "europe/france/centre/loirevalley/meungsurloire",
+      "prior_score": 0.7456,
+      "prior_variance": 0.144537,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Meaux",
+      "path": "europe/france/around_paris/meaux",
+      "prior_score": -3.2307,
+      "prior_variance": 0.232743,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Sumba",
+      "path": "europe/faroeislands/suuroy/sumba",
+      "prior_score": -1.1039,
+      "prior_variance": 0.16212,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Penjikent",
+      "path": "asia/tajikistan/penjikent",
+      "prior_score": -2.7534,
+      "prior_variance": 0.221209,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Tarancon",
+      "path": "europe/spain/la_mancha/tarancon",
+      "prior_score": -4.188,
+      "prior_variance": 0.153926,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Ha'il",
+      "path": "asia/saudiarabia/hail",
+      "prior_score": -5.7535,
+      "prior_variance": 0.190958,
+      "prior_n": 9
+    }
+  ]
+}

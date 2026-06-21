@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aracena_in_Spain_01.jpg
 latitude: 37.8949
 loc_type: city
 longitude: -6.5625
-score: 0.56
+score: 0.48
 title: Aracena
 type: location
 ---

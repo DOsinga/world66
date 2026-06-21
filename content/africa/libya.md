@@ -15,7 +15,7 @@ quick_facts:
   Coastline: "1,770 km on the Mediterranean"
 done:
   country_cleanup: 2026-03-31
-score: 0.14
+score: 0.34
 loc_type: country
 ---
 

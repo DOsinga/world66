@@ -5,7 +5,7 @@ latitude: 29.2145
 longitude: -13.4812
 title: Mirador del Rio
 type: location
-score: 0.58
+score: 0.53
 loc_type: feature
 ---
 

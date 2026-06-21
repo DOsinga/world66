@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borgio-Pietra_Ligure-panor
 latitude: 44.164968
 loc_type: city
 longitude: 8.306662
-score: 0.55
+score: 0.46
 title: Borgio Verezzi
 type: location
 ---

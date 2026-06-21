@@ -1,200 +1,200 @@
 {
   "round": 270,
-  "timestamp": "2026-04-12T09:09:26",
+  "timestamp": "2026-06-13T19:27:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Catania",
-      "path": "europe/italy/sicily/catania",
-      "prior_mu": 24.6295,
-      "prior_sigma": 3.7217,
-      "prior_n": 3
+      "title": "Forte dei Marmi",
+      "path": "europe/italy/tuscany/forte_dei_marmi",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Mani",
-      "path": "europe/greece/mani",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Malhamdale",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales/malhamdale",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Omi\u0161",
-      "path": "europe/croatia/dalmatia/omi",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Veliko Turnovo",
+      "path": "europe/bulgaria/velikoturnovo",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Persepolis",
-      "path": "asia/iran/persepolis",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hikone",
+      "path": "asia/japan/honshu/hikone",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Haifa",
-      "path": "asia/israel/haifa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "\u010cesk\u00e9 Bud\u011bjovice",
+      "path": "europe/czechrepublic/ceskebudejovice",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Jal\u00eb",
-      "path": "europe/albania/saranda/jal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Pulau Samosir",
+      "path": "asia/indonesia/sumatra/pulausamosir",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Carnac",
-      "path": "europe/france/normandybrittany/carnac",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Cork",
+      "path": "europe/ireland/cork",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "La Coru\u00f1a",
-      "path": "europe/spain/northernspain/lacoruna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Guanica",
+      "path": "northamerica/thecaribbean/puertorico/guanica",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Petit St. Vincent",
-      "path": "northamerica/saintvincentandthegrenadines/petitst",
-      "prior_mu": 29.0908,
-      "prior_sigma": 6.9863,
-      "prior_n": 1
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Boa vista",
-      "path": "africa/capeverde/boavista",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hattonch\u00e2tel",
+      "path": "europe/france/east/lorraine/hattonchatel",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Hemsedal",
-      "path": "europe/norway/hemsedal",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Cuatrocienegas",
-      "path": "northamerica/mexico/cuatrocienegas_de",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Trabzon",
+      "path": "asia/turkey/trabzon",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Harstad",
-      "path": "europe/norway/harstad",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "S\u00e4len",
+      "path": "europe/sweden/slen",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Cape Maclear",
-      "path": "africa/malawi/capemaclear",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "North Shore City",
+      "path": "australiaandpacific/newzealand/north_island/auckland_region/northshorecity",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Patan",
-      "path": "asia/india/gujarat/patan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Ozark National Scenic Riverways",
+      "path": "northamerica/unitedstates/missouri/ozark",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Surin Province",
-      "path": "asia/thailand/surin_province",
-      "prior_mu": 22.1991,
-      "prior_sigma": 5.8523,
-      "prior_n": 1
+      "title": "Ca\u00f1on City",
+      "path": "northamerica/unitedstates/colorado/canon_city",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Tobia",
-      "path": "southamerica/colombia/tobia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Big Bear Lake",
+      "path": "northamerica/unitedstates/california/inlandempire/bigbearlake",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Prince Edward County",
-      "path": "northamerica/canada/ontario/prince_edward_coun",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Grand Erg Oriental",
+      "path": "africa/algeria/granderg",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Bowral",
-      "path": "australiaandpacific/australia/newsouthwales/bowral",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Imbituba",
-      "path": "southamerica/brazil/imbituba",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Itaja\u00ed",
+      "path": "southamerica/brazil/itaja",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Maasin City",
-      "path": "asia/philippines/southern_leyte/maasin_city",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Cherchell",
+      "path": "africa/algeria/cherchell",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Toila",
-      "path": "europe/estonia/toila",
-      "prior_mu": 21.9455,
-      "prior_sigma": 4.8382,
-      "prior_n": 2
+      "title": "Shaoguan",
+      "path": "asia/china/guangdong/shaoguan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Trenton",
-      "path": "northamerica/unitedstates/newjersey/trenton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Prior Lake",
-      "path": "northamerica/unitedstates/minnesota/priorlake",
-      "prior_mu": 22.6911,
-      "prior_sigma": 5.9459,
-      "prior_n": 1
+      "title": "Anderson",
+      "path": "northamerica/unitedstates/southcarolina/anderson",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

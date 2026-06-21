@@ -6,7 +6,7 @@ latitude: -6.713704
 longitude: 108.560848
 title: Cirebon
 type: location
-score: 0.44
+score: 0.35
 loc_type: city
 ---
 

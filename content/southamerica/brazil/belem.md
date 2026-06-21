@@ -5,7 +5,7 @@ done:
 latitude: -1.45056
 loc_type: city
 longitude: -48.468245
-score: 0.47
+score: 0.4
 title: Belem
 type: location
 image: belem.jpg

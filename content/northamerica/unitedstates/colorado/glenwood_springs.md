@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glenwood_Springs_city_view
 latitude: 39.546638
 loc_type: city
 longitude: -107.324694
-score: 0.56
+score: 0.47
 title: Glenwood Springs
 type: location
 ---

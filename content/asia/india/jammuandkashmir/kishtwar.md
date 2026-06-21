@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chowgan_ground_in_Kishtwar
 latitude: 33.3108
 loc_type: city
 longitude: 75.7694
-score: 0.41
+score: 0.37
 title: Kishtwar
 type: location
 ---

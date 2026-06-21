@@ -5,7 +5,7 @@ latitude: 35.290895
 longitude: -97.812266
 title: Tuttle
 type: location
-score: 0.27
+score: 0.19
 loc_type: city
 ---
 

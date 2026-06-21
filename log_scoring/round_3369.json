@@ -1,0 +1,200 @@
+{
+  "round": 3369,
+  "timestamp": "2026-06-13T22:49:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Jiufen",
+      "path": "asia/taiwan/jiufen",
+      "prior_score": 7.6868,
+      "prior_variance": 0.199265,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cadaqu\u00e9s",
+      "path": "europe/spain/catalonia/cadaqus",
+      "prior_score": 5.8467,
+      "prior_variance": 0.158332,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 4.6304,
+      "prior_variance": 0.123996,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Stratford-upon-Avon",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/stratforduponavon",
+      "prior_score": 4.8672,
+      "prior_variance": 0.154369,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Ypres",
+      "path": "europe/belgium/ypres",
+      "prior_score": 3.8212,
+      "prior_variance": 0.124072,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Loches",
+      "path": "europe/france/centre/loirevalley/loches",
+      "prior_score": 3.0648,
+      "prior_variance": 0.124527,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Praia da Rocha",
+      "path": "europe/portugal/praiadarocha",
+      "prior_score": 4.2111,
+      "prior_variance": 0.119979,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Trouville",
+      "path": "europe/france/normandybrittany/trouville",
+      "prior_score": 2.6833,
+      "prior_variance": 0.128435,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Campeche",
+      "path": "northamerica/mexico/campeche",
+      "prior_score": 4.976,
+      "prior_variance": 0.138774,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.5008,
+      "prior_variance": 0.133178,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "P\u00e9cs",
+      "path": "europe/hungary/pecs",
+      "prior_score": 3.67,
+      "prior_variance": 0.141804,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Da Nang",
+      "path": "asia/vietnam/danang",
+      "prior_score": 4.9649,
+      "prior_variance": 0.14424,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Valbona Valley",
+      "path": "europe/albania/valbona",
+      "prior_score": 3.0942,
+      "prior_variance": 0.127462,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Keystone",
+      "path": "northamerica/unitedstates/colorado/keystone",
+      "prior_score": 1.3111,
+      "prior_variance": 0.150307,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.74,
+      "prior_variance": 0.116311,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Yuma",
+      "path": "northamerica/unitedstates/arizona/yuma",
+      "prior_score": -3.341,
+      "prior_variance": 0.155969,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Downham",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham",
+      "prior_score": -4.3603,
+      "prior_variance": 0.132391,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Shankarpur",
+      "path": "asia/india/westbengal/shankarpur",
+      "prior_score": -4.4116,
+      "prior_variance": 0.145495,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Kohat",
+      "path": "asia/pakistan/kohat",
+      "prior_score": -7.312,
+      "prior_variance": 0.175897,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Boley",
+      "path": "northamerica/unitedstates/oklahoma/boley",
+      "prior_score": -7.9238,
+      "prior_variance": 0.220185,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -6.8613,
+      "prior_variance": 0.202205,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Brentwood",
+      "path": "northamerica/unitedstates/california/brentwood",
+      "prior_score": -5.592,
+      "prior_variance": 0.171815,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Willacoochee",
+      "path": "northamerica/unitedstates/georgia/willacoochee",
+      "prior_score": -8.0969,
+      "prior_variance": 0.230014,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "East Grand Forks",
+      "path": "northamerica/unitedstates/minnesota/east_grand_forks",
+      "prior_score": -6.301,
+      "prior_variance": 0.169629,
+      "prior_n": 11
+    }
+  ]
+}

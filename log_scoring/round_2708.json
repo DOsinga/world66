@@ -1,0 +1,200 @@
+{
+  "round": 2708,
+  "timestamp": "2026-06-13T22:01:38",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.2658,
+      "prior_variance": 0.198617,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Anakao",
+      "path": "africa/madagascar/anakao",
+      "prior_score": 0.6963,
+      "prior_variance": 0.158808,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Fuzhou",
+      "path": "asia/china/fujianprovince/fuzhou",
+      "prior_score": -0.6911,
+      "prior_variance": 0.139917,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -1.6,
+      "prior_variance": 0.147974,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Remedios",
+      "path": "northamerica/thecaribbean/cuba/remedios",
+      "prior_score": 0.226,
+      "prior_variance": 0.152004,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Kaliningrad",
+      "path": "europe/russia/kaliningrad",
+      "prior_score": -0.2762,
+      "prior_variance": 0.172084,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Banja Luka",
+      "path": "europe/bosniaandherzegovina/banjaluka",
+      "prior_score": -0.7971,
+      "prior_variance": 0.140621,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Guaymas",
+      "path": "northamerica/mexico/guaymas",
+      "prior_score": -1.3135,
+      "prior_variance": 0.156295,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cantavieja",
+      "path": "europe/spain/aragon/cantavieja",
+      "prior_score": 0.2889,
+      "prior_variance": 0.168085,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Bhandardhara",
+      "path": "asia/india/maharashtra/bhandardhara",
+      "prior_score": -0.756,
+      "prior_variance": 0.133601,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Hampton Beach",
+      "path": "northamerica/unitedstates/newhampshire/hampton_beach",
+      "prior_score": -1.0247,
+      "prior_variance": 0.14985,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.7361,
+      "prior_variance": 0.135039,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ennis",
+      "path": "northamerica/unitedstates/montana/ennis",
+      "prior_score": -1.7763,
+      "prior_variance": 0.152357,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Lake Martin",
+      "path": "northamerica/unitedstates/alabama/lake_martin",
+      "prior_score": -2.3431,
+      "prior_variance": 0.189684,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Raleigh",
+      "path": "northamerica/unitedstates/northcarolina/raleigh",
+      "prior_score": -1.8941,
+      "prior_variance": 0.182245,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "St. Paul",
+      "path": "northamerica/unitedstates/minnesota/stpaul",
+      "prior_score": -1.2954,
+      "prior_variance": 0.161619,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Issaquah",
+      "path": "northamerica/unitedstates/washington/issaquah",
+      "prior_score": -2.6343,
+      "prior_variance": 0.185167,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Urbe",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe",
+      "prior_score": -1.9671,
+      "prior_variance": 0.173037,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hasti\u00e8re",
+      "path": "europe/belgium/hastiere",
+      "prior_score": -1.9441,
+      "prior_variance": 0.153927,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Chemnitz",
+      "path": "europe/germany/saxony/chemnitz",
+      "prior_score": -2.2522,
+      "prior_variance": 0.217716,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "B\u00fck",
+      "path": "europe/hungary/buk",
+      "prior_score": -1.7592,
+      "prior_variance": 0.157868,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Maykop",
+      "path": "europe/russia/maykop",
+      "prior_score": -4.1458,
+      "prior_variance": 0.141814,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Nakhchivan City",
+      "path": "europe/azerbaijan/naxcivan/nakhchivan_city",
+      "prior_score": -3.2557,
+      "prior_variance": 0.17888,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -9.3476,
+      "prior_variance": 0.364245,
+      "prior_n": 8
+    }
+  ]
+}

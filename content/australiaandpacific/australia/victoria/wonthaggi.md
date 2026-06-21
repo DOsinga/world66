@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Safety_Beach_Cape_Paterson
 latitude: -38.6044
 loc_type: city
 longitude: 145.5913
-score: 0.38
+score: 0.33
 title: Wonthaggi
 type: location
 ---

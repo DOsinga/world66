@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greece_kos_city.jpg
 latitude: 36.8939
 loc_type: city
 longitude: 27.2882
-score: 0.69
+score: 0.59
 title: Kos
 type: location
 ---

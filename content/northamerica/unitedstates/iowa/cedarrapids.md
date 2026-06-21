@@ -11,6 +11,7 @@ loc_type: city
 longitude: -91.6704
 title: Cedar Rapids
 type: location
+score: 0.28
 ---
 
 Cedar Rapids is Iowa's second-largest city, a manufacturing and processing centre on the Cedar River in east-central Iowa. It is best known as a production hub for grain processing — the smell of Quaker Oats cereals has historically been synonymous with parts of the city — and for its large Czech and Slovak immigrant community, which shaped the culture of the surrounding area in the late 19th and early 20th centuries.

@@ -6,7 +6,7 @@ latitude: 42.8667
 longitude: -109.892
 title: Pinedale
 type: location
-score: 0.43
+score: 0.37
 loc_type: city
 image: pinedale_wyoming.jpg
 image_source: https://commons.wikimedia.org/wiki/File:PinedaleWyoming.jpg

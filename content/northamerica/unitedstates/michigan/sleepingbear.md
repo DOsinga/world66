@@ -5,7 +5,7 @@ latitude: 44.8786
 longitude: -86.0336
 title: Sleeping Bear Dunes National Lakeshore
 type: location
-score: 0.57
+score: 0.49
 loc_type: feature
 ---
 

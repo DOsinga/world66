@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhangye
 title: Zhangye
 type: location
+score: 0.55
 ---
 
 Zhangye sits roughly in the middle of the Hexi Corridor, the narrow strip of habitable land between the Tibetan plateau and the Gobi Desert that was, for two millennia, the only viable route between China and Central Asia. It was a garrison town during the Han Dynasty, a Buddhist centre during the Tang, and a stopping point for Marco Polo in the thirteenth century. The city still has a frontier atmosphere, a modest place where the history feels embedded rather than curated.

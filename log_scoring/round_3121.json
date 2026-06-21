@@ -1,0 +1,200 @@
+{
+  "round": 3121,
+  "timestamp": "2026-06-13T22:30:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Andora",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/andora",
+      "prior_score": -1.6138,
+      "prior_variance": 0.166946,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.3502,
+      "prior_variance": 0.127888,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Vezzi Portio",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
+      "prior_score": -2.8955,
+      "prior_variance": 0.14771,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": -0.4655,
+      "prior_variance": 0.132892,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Cody",
+      "path": "northamerica/unitedstates/wyoming/cody",
+      "prior_score": 2.1775,
+      "prior_variance": 0.154186,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Poyang Lake",
+      "path": "asia/china/jiangxi/poyang_lake",
+      "prior_score": -2.1008,
+      "prior_variance": 0.13052,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Chantaburi",
+      "path": "asia/thailand/chantaburi/chanta_buri",
+      "prior_score": -0.704,
+      "prior_variance": 0.135796,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Piura",
+      "path": "southamerica/peru/piura",
+      "prior_score": -2.6344,
+      "prior_variance": 0.154588,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Gniezno",
+      "path": "europe/poland/gniezno",
+      "prior_score": -1.1292,
+      "prior_variance": 0.14125,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Nastved",
+      "path": "europe/denmark/nastved",
+      "prior_score": -2.2058,
+      "prior_variance": 0.123434,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -2.113,
+      "prior_variance": 0.149092,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Moirang",
+      "path": "asia/india/manipur/moirang",
+      "prior_score": -4.6053,
+      "prior_variance": 0.13624,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Altena",
+      "path": "europe/germany/northrhinewestphalia/altena",
+      "prior_score": -2.5671,
+      "prior_variance": 0.143283,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Hamilton",
+      "path": "northamerica/canada/ontario/hamilton",
+      "prior_score": -2.2256,
+      "prior_variance": 0.130902,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Lowestoft",
+      "path": "europe/unitedkingdom/england/suffolk/lowestoft",
+      "prior_score": -3.4954,
+      "prior_variance": 0.144935,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "West Bromwich",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/west_bromwich",
+      "prior_score": -6.6104,
+      "prior_variance": 0.335849,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Black Hawk",
+      "path": "northamerica/unitedstates/colorado/black_hawk",
+      "prior_score": -3.8847,
+      "prior_variance": 0.167661,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Westport",
+      "path": "northamerica/unitedstates/washington/westport",
+      "prior_score": -3.3518,
+      "prior_variance": 0.126575,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Queensbury",
+      "path": "northamerica/unitedstates/newyorkstate/queensbury",
+      "prior_score": -4.0544,
+      "prior_variance": 0.150522,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Modesto",
+      "path": "northamerica/unitedstates/california/centralvalley/modesto",
+      "prior_score": -4.9819,
+      "prior_variance": 0.153263,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Hov",
+      "path": "europe/faroeislands/suuroy/hov",
+      "prior_score": -3.0435,
+      "prior_variance": 0.257973,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -7.6681,
+      "prior_variance": 0.239422,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Kawar",
+      "path": "africa/niger/kawar",
+      "prior_score": -9.815,
+      "prior_variance": 0.445142,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Hobyo",
+      "path": "africa/somalia/hobyo",
+      "prior_score": -12.6538,
+      "prior_variance": 0.52514,
+      "prior_n": 9
+    }
+  ]
+}

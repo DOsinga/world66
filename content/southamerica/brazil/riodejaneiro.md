@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panor
 latitude: -22.911014
 loc_type: city
 longitude: -43.209373
-score: 0.87
+score: 0.79
 title: Rio de Janeiro
 type: location
 ---

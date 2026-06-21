@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Hoceima_Quemado.jpg
 latitude: 35.245114
 loc_type: city
 longitude: -3.930186
-score: 0.49
+score: 0.45
 title: Al Hoceima
 type: location
 ---

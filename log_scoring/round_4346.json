@@ -1,0 +1,200 @@
+{
+  "round": 4346,
+  "timestamp": "2026-06-14T00:05:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dalyan",
+      "path": "asia/turkey/dalyan",
+      "prior_score": 4.167,
+      "prior_variance": 0.103027,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Sabaudia",
+      "path": "europe/italy/lazio/sabaudia",
+      "prior_score": 0.5745,
+      "prior_variance": 0.088042,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 2.3235,
+      "prior_variance": 0.102257,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Zamora",
+      "path": "europe/spain/centralspain/zamora",
+      "prior_score": 1.6912,
+      "prior_variance": 0.090416,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Gy\u0151r",
+      "path": "europe/hungary/gyor",
+      "prior_score": 0.6025,
+      "prior_variance": 0.100224,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 1.3384,
+      "prior_variance": 0.094253,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Shiraz",
+      "path": "asia/iran/shiraz",
+      "prior_score": 1.3324,
+      "prior_variance": 0.107105,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Amberd",
+      "path": "europe/armenia/amberd_1",
+      "prior_score": 0.6218,
+      "prior_variance": 0.097043,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Shennongjia",
+      "path": "asia/china/hubei/shennongjia",
+      "prior_score": 0.8584,
+      "prior_variance": 0.10977,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Chennai",
+      "path": "asia/india/tamilnadu/chennai",
+      "prior_score": 0.0623,
+      "prior_variance": 0.102997,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Porto Alegre",
+      "path": "southamerica/brazil/portoalegre",
+      "prior_score": -1.1239,
+      "prior_variance": 0.095792,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Providence",
+      "path": "northamerica/unitedstates/rhodeisland/providence",
+      "prior_score": 0.3742,
+      "prior_variance": 0.097355,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Sharjah",
+      "path": "asia/unitedarabemirates/sharjah",
+      "prior_score": -0.8801,
+      "prior_variance": 0.097046,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Chisinau",
+      "path": "europe/moldova/chisinau",
+      "prior_score": -2.6787,
+      "prior_variance": 0.109409,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Ciudad Quesada",
+      "path": "northamerica/costarica/ciudadquesada",
+      "prior_score": -0.969,
+      "prior_variance": 0.089562,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "San Miguel de Tucum\u00e1n",
+      "path": "southamerica/argentina/san_miguel_de_tucuman",
+      "prior_score": -1.4767,
+      "prior_variance": 0.098434,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -1.1081,
+      "prior_variance": 0.09261,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -1.1365,
+      "prior_variance": 0.091147,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Knoxville",
+      "path": "northamerica/unitedstates/tennessee/knoxville",
+      "prior_score": -1.5898,
+      "prior_variance": 0.101173,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Lichtenfels",
+      "path": "europe/germany/bavaria/lichtenfels",
+      "prior_score": -2.8891,
+      "prior_variance": 0.14406,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -2.8549,
+      "prior_variance": 0.127768,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Batna",
+      "path": "africa/algeria/batna",
+      "prior_score": -4.4853,
+      "prior_variance": 0.092928,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Noarootsi",
+      "path": "europe/estonia/noarootsi",
+      "prior_score": -2.908,
+      "prior_variance": 0.093607,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Damascus",
+      "path": "asia/syria/damascus",
+      "prior_score": -8.8912,
+      "prior_variance": 0.280884,
+      "prior_n": 14
+    }
+  ]
+}

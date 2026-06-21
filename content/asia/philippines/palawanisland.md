@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corong_Corong,_El_Nido,_Pa
 latitude: 9.6671
 loc_type: city
 longitude: 118.5347
-score: 0.83
+score: 0.77
 title: Palawan Island
 type: location
 ---

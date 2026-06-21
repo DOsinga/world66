@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ahmedabad_1855.jpg
 latitude: 23.021537
 loc_type: city
 longitude: 72.580057
-score: 0.54
+score: 0.41
 title: Ahmedabad
 type: location
 ---

@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 39.2667
 longitude: -81.5621
-score: 0.32
+score: 0.28
 title: Parkersburg
 type: location
 loc_type: city

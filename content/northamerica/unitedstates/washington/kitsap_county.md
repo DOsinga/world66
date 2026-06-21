@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fragaria_washington.JPG
 latitude: 47.594502
 loc_type: city
 longitude: -122.647442
-score: 0.41
+score: 0.33
 title: Kitsap County
 type: location
 ---

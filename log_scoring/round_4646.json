@@ -1,0 +1,200 @@
+{
+  "round": 4646,
+  "timestamp": "2026-06-14T00:29:55",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Istanbul",
+      "path": "asia/turkey/istanbul",
+      "prior_score": 12.2533,
+      "prior_variance": 0.755497,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Seoul",
+      "path": "asia/southkorea/seoul",
+      "prior_score": 10.816,
+      "prior_variance": 0.336561,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Tengger Massif",
+      "path": "asia/indonesia/tengger_massif",
+      "prior_score": 4.8109,
+      "prior_variance": 0.135155,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Huvalu Forest Conservation Area",
+      "path": "australiaandpacific/niue/huvalutropicalrainforest",
+      "prior_score": -0.0629,
+      "prior_variance": 0.130231,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Hoh Xil",
+      "path": "asia/china/qinghai/hoh-xil",
+      "prior_score": -1.977,
+      "prior_variance": 0.113606,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Tulcea",
+      "path": "europe/romania/tulcea",
+      "prior_score": -0.1523,
+      "prior_variance": 0.084746,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Vatra Dornei",
+      "path": "europe/romania/vatradornei",
+      "prior_score": -0.091,
+      "prior_variance": 0.084688,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Vidin",
+      "path": "europe/bulgaria/vidin",
+      "prior_score": -1.7039,
+      "prior_variance": 0.089993,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Vila Real",
+      "path": "europe/portugal/algarve/vilareal",
+      "prior_score": -0.2075,
+      "prior_variance": 0.092087,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Wuppertal",
+      "path": "europe/germany/northrhinewestphalia/wuppertal",
+      "prior_score": -1.376,
+      "prior_variance": 0.08379,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Fraisse-sur-Agout",
+      "path": "europe/france/midi/languedoc/hautlanguedoc_reg/fraissesuragout",
+      "prior_score": -2.2502,
+      "prior_variance": 0.103133,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Murphys",
+      "path": "northamerica/unitedstates/california/goldcountry/murphys",
+      "prior_score": -1.113,
+      "prior_variance": 0.109499,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford",
+      "prior_score": -1.9855,
+      "prior_variance": 0.102043,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -2.5649,
+      "prior_variance": 0.128001,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.8304,
+      "prior_variance": 0.093566,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Round Top",
+      "path": "northamerica/unitedstates/texas/round_top",
+      "prior_score": -2.6833,
+      "prior_variance": 0.099361,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Otopeni",
+      "path": "europe/romania/otopeni",
+      "prior_score": -4.6352,
+      "prior_variance": 0.110737,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Paradeep",
+      "path": "asia/india/orissa/paradeep",
+      "prior_score": -5.0805,
+      "prior_variance": 0.105469,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Gon\u00e2ve Island",
+      "path": "northamerica/thecaribbean/haiti/gonaveisland",
+      "prior_score": -5.2285,
+      "prior_variance": 0.093024,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Nouadhibou",
+      "path": "africa/mauritania/nouadhibou",
+      "prior_score": -6.1416,
+      "prior_variance": 0.116057,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Reconquista",
+      "path": "southamerica/argentina/reconquista",
+      "prior_score": -5.4042,
+      "prior_variance": 0.110148,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/georgia/albany",
+      "prior_score": -5.7387,
+      "prior_variance": 0.111862,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Rayleigh",
+      "path": "europe/unitedkingdom/england/eastern_england/rayleigh",
+      "prior_score": -5.5351,
+      "prior_variance": 0.101609,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -10.8753,
+      "prior_variance": 0.381873,
+      "prior_n": 15
+    }
+  ]
+}

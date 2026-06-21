@@ -1,200 +1,200 @@
 {
   "round": 891,
-  "timestamp": "2026-04-12T14:47:35",
+  "timestamp": "2026-06-13T19:59:15",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Greece",
-      "path": "europe/greece",
-      "prior_score": 2.4602,
-      "prior_variance": 2.354521,
-      "prior_n": 1
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 7.5076,
+      "prior_variance": 0.592637,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Ari Atoll",
-      "path": "asia/maldives/ari_atoll",
-      "prior_score": 14.9629,
-      "prior_variance": 2.786058,
-      "prior_n": 2
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 9.1665,
+      "prior_variance": 0.628998,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Shinjuku",
-      "path": "asia/japan/tokyo/shinjuku",
-      "prior_score": 10.9592,
-      "prior_variance": 9.311067,
-      "prior_n": 1
+      "title": "Genoa",
+      "path": "europe/italy/liguria/genoa",
+      "prior_score": 7.0678,
+      "prior_variance": 0.746848,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Teotihuacan",
-      "path": "northamerica/mexico/teotihuacan",
-      "prior_score": 9.3711,
-      "prior_variance": 1.980949,
-      "prior_n": 1
+      "title": "Noto",
+      "path": "europe/italy/sicily/noto",
+      "prior_score": 10.0026,
+      "prior_variance": 1.275848,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Porto Rotondo",
-      "path": "europe/italy/sardinia/costasmeralda/portorotondo",
-      "prior_score": 5.221,
-      "prior_variance": 1.478868,
-      "prior_n": 1
+      "title": "El Yunque",
+      "path": "northamerica/thecaribbean/puertorico/elyunque",
+      "prior_score": 7.6792,
+      "prior_variance": 0.692616,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "Krabi Town",
-      "path": "asia/thailand/krabi/krabitown",
-      "prior_score": 7.3163,
-      "prior_variance": 4.620407,
-      "prior_n": 1
+      "title": "Santa Marta",
+      "path": "southamerica/colombia/santamarta",
+      "prior_score": 5.006,
+      "prior_variance": 0.681365,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Schaffhausen",
-      "path": "europe/switzerland/schaffhausen",
-      "prior_score": 5.0603,
-      "prior_variance": 2.185245,
-      "prior_n": 1
+      "title": "Port Antonio",
+      "path": "northamerica/jamaica/portantonio",
+      "prior_score": 5.1294,
+      "prior_variance": 0.536273,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Clairvaux",
-      "path": "europe/france/east/champagne/clairvaux",
-      "prior_score": -1.0122,
-      "prior_variance": 1.319026,
-      "prior_n": 1
+      "title": "Ayia Napa",
+      "path": "asia/cyprus/ayianapa",
+      "prior_score": 4.0782,
+      "prior_variance": 0.446443,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Omo River",
-      "path": "africa/ethiopia/omoriver",
-      "prior_score": 0.8164,
-      "prior_variance": 1.567009,
-      "prior_n": 1
+      "title": "Gili Meno",
+      "path": "asia/indonesia/lombok/giliislands/gili_meno",
+      "prior_score": 5.5983,
+      "prior_variance": 0.779219,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Coche Island",
-      "path": "southamerica/venezuela/coche_island",
-      "prior_score": -1.273,
-      "prior_variance": 1.404702,
-      "prior_n": 1
+      "title": "Chiang Dao",
+      "path": "asia/thailand/chiang_dao",
+      "prior_score": 5.9409,
+      "prior_variance": 0.65383,
+      "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Chichiriviche",
-      "path": "southamerica/venezuela/chichiriviche",
-      "prior_score": -0.0065,
-      "prior_variance": 1.554321,
-      "prior_n": 1
+      "title": "Volubilis",
+      "path": "africa/morocco/volubilis",
+      "prior_score": 7.2939,
+      "prior_variance": 0.651588,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Scarborough",
-      "path": "europe/unitedkingdom/scarborough",
-      "prior_score": 1.722,
-      "prior_variance": 1.297814,
-      "prior_n": 1
+      "title": "Sal\u00f2",
+      "path": "europe/italy/lombardia/lagodigarda/salo",
+      "prior_score": 7.856,
+      "prior_variance": 1.037451,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Dover",
-      "path": "europe/unitedkingdom/england/south_east/dover",
-      "prior_score": 0.0137,
-      "prior_variance": 1.229731,
-      "prior_n": 1
+      "title": "Chinon",
+      "path": "europe/france/centre/loirevalley/chinon",
+      "prior_score": 7.4815,
+      "prior_variance": 0.479053,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Colwyn Bay",
-      "path": "europe/unitedkingdom/wales/colwyn_bay",
-      "prior_score": -6.3396,
-      "prior_variance": 1.584362,
-      "prior_n": 1
+      "title": "Kenting",
+      "path": "asia/taiwan/kenting",
+      "prior_score": 7.1387,
+      "prior_variance": 0.708588,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Torrey",
-      "path": "northamerica/unitedstates/utah/torrey",
-      "prior_score": 4.2033,
-      "prior_variance": 1.383937,
-      "prior_n": 1
+      "title": "Vall de N\u00faria",
+      "path": "europe/spain/catalonia/nuria",
+      "prior_score": 6.9994,
+      "prior_variance": 0.702628,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Johnson City",
-      "path": "northamerica/unitedstates/tennessee/johnson_city",
-      "prior_score": 0.4531,
-      "prior_variance": 1.418074,
-      "prior_n": 1
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.7777,
+      "prior_variance": 1.129765,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Gerlach",
-      "path": "northamerica/unitedstates/nevada/gerlach",
-      "prior_score": -9.1484,
-      "prior_variance": 1.35595,
-      "prior_n": 1
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 5.5928,
+      "prior_variance": 0.774394,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Brigham City",
-      "path": "northamerica/unitedstates/utah/brigham_city",
-      "prior_score": -3.7578,
-      "prior_variance": 1.282665,
-      "prior_n": 1
+      "title": "Isalo",
+      "path": "africa/madagascar/isalo",
+      "prior_score": 5.6217,
+      "prior_variance": 0.692224,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Dnipro",
-      "path": "europe/ukraine/dnepropetrovsk",
-      "prior_score": -4.0739,
-      "prior_variance": 1.520605,
-      "prior_n": 1
+      "title": "Thanjavur",
+      "path": "asia/india/tamilnadu/thanjavur",
+      "prior_score": 6.2855,
+      "prior_variance": 0.816471,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Lusaka",
-      "path": "africa/zambia/lusaka",
-      "prior_score": -3.3015,
-      "prior_variance": 1.369298,
-      "prior_n": 1
+      "title": "North York Moors",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors",
+      "prior_score": 7.3954,
+      "prior_variance": 0.479513,
+      "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Plano",
-      "path": "northamerica/unitedstates/texas/plano",
-      "prior_score": -4.3296,
-      "prior_variance": 1.215274,
-      "prior_n": 1
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 5.7669,
+      "prior_variance": 0.752003,
+      "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Reynosa",
-      "path": "northamerica/mexico/reynosa",
-      "prior_score": -3.6645,
-      "prior_variance": 1.476948,
-      "prior_n": 1
+      "title": "Dolceacqua",
+      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
+      "prior_score": 5.4209,
+      "prior_variance": 0.923893,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Beautyful village",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/beautyful_village",
-      "prior_score": -11.8458,
-      "prior_variance": 8.128349,
-      "prior_n": 1
+      "title": "Puerto Plata City",
+      "path": "northamerica/dominicanrepublic/puertoplata/puertoplatacity",
+      "prior_score": 3.1339,
+      "prior_variance": 0.520992,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Mirpurkhas",
-      "path": "asia/pakistan/mirpurkhas",
-      "prior_score": -11.2627,
-      "prior_variance": 1.316162,
-      "prior_n": 1
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 5.9533,
+      "prior_variance": 0.522892,
+      "prior_n": 3
     }
   ]
 }

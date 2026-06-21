@@ -5,7 +5,7 @@ done:
 latitude: 20.85
 loc_type: city
 longitude: 86.33
-score: 0.31
+score: 0.28
 title: Jajpur
 type: location
 image: jajpur.jpg

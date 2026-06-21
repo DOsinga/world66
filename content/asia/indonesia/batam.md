@@ -7,7 +7,7 @@ done:
 latitude: 1.0769
 loc_type: city
 longitude: 104.0306
-score: 0.44
+score: 0.36
 title: Batam
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 18.649843
 loc_type: city
 longitude: 72.876547
-score: 0.45
+score: 0.38
 title: Alibag
 type: location
 ---

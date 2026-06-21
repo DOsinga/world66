@@ -5,7 +5,7 @@ done:
 latitude: 44.905963
 loc_type: city
 longitude: -87.84602
-score: 0.35
+score: 0.27
 title: Oconto Area
 type: location
 image: ocontoarea.jpg

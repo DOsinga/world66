@@ -1,0 +1,200 @@
+{
+  "round": 2456,
+  "timestamp": "2026-06-13T21:43:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 8.1696,
+      "prior_variance": 0.294264,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 7.4404,
+      "prior_variance": 0.240518,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Yangshuo",
+      "path": "asia/china/guangxi/yangshuo",
+      "prior_score": 8.9851,
+      "prior_variance": 0.296682,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Kalambaka",
+      "path": "europe/greece/kalambaka",
+      "prior_score": 8.2616,
+      "prior_variance": 0.352475,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Chartres",
+      "path": "europe/france/centre/chartres",
+      "prior_score": 4.7321,
+      "prior_variance": 0.191831,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Tellaro",
+      "path": "europe/italy/liguria/italianriviera/tellaro",
+      "prior_score": 4.9638,
+      "prior_variance": 0.23106,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Palenque",
+      "path": "northamerica/mexico/palenque",
+      "prior_score": 7.216,
+      "prior_variance": 0.298069,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Castelsardo",
+      "path": "europe/italy/sardinia/castelsardo",
+      "prior_score": 4.7961,
+      "prior_variance": 0.190204,
+      "prior_n": 7
+    },
+    {
+      "rank": 9,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 3.9966,
+      "prior_variance": 0.201608,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "R\u00f8ros",
+      "path": "europe/norway/rros",
+      "prior_score": 4.4439,
+      "prior_variance": 0.207903,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.4386,
+      "prior_variance": 0.168286,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 2.3577,
+      "prior_variance": 0.180061,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Zaragoza",
+      "path": "europe/spain/aragon/zaragoza",
+      "prior_score": 2.7913,
+      "prior_variance": 0.176732,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.5237,
+      "prior_variance": 0.184516,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Dunster",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster",
+      "prior_score": 0.314,
+      "prior_variance": 0.158826,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.3217,
+      "prior_variance": 0.172416,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Huesca",
+      "path": "europe/spain/aragon/huesca",
+      "prior_score": 0.6172,
+      "prior_variance": 0.169131,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Selge",
+      "path": "asia/turkey/selge",
+      "prior_score": 0.1574,
+      "prior_variance": 0.199606,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Ja\u00e9n",
+      "path": "europe/spain/andalucia/jaen",
+      "prior_score": 0.5678,
+      "prior_variance": 0.159672,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Aztec",
+      "path": "northamerica/unitedstates/newmexico/aztec",
+      "prior_score": -1.7241,
+      "prior_variance": 0.18905,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Sister Islands",
+      "path": "asia/singapore/islands/sisterislands",
+      "prior_score": -1.6634,
+      "prior_variance": 0.206862,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Gilgit",
+      "path": "asia/pakistan/gilgit",
+      "prior_score": -0.735,
+      "prior_variance": 0.233645,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Jabalpur",
+      "path": "asia/india/madhyapradesh/jabalpur",
+      "prior_score": -2.3649,
+      "prior_variance": 0.161614,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -7.1363,
+      "prior_variance": 0.301403,
+      "prior_n": 7
+    }
+  ]
+}

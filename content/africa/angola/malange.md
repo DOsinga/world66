@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalandula_waterfalls_of_th
 latitude: -9.533333
 loc_type: city
 longitude: 16.35
-score: 0.28
+score: 0.23
 title: Malange
 type: location
 ---

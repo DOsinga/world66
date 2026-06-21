@@ -5,7 +5,7 @@ latitude: 53.85
 longitude: -9.0
 title: Kiltimagh
 type: location
-score: 0.42
+score: 0.34
 loc_type: city
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2006-10-02_Chamarel_Waterf
 latitude: -20.425307
 loc_type: city
 longitude: 57.391271
-score: 0.66
+score: 0.54
 title: Chamarel
 type: location
 ---

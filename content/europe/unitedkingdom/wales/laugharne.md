@@ -7,7 +7,7 @@ done:
 latitude: 51.770035
 loc_type: city
 longitude: -4.464705
-score: 0.44
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Laugharne
 title: Laugharne

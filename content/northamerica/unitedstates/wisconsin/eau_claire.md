@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-09-27_Water_Street_Hi
 latitude: 44.811349
 loc_type: city
 longitude: -91.498494
-score: 0.38
+score: 0.33
 title: Eau Claire
 type: location
 ---

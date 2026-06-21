@@ -1,0 +1,200 @@
+{
+  "round": 2516,
+  "timestamp": "2026-06-13T21:48:09",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Podstrana",
+      "path": "europe/croatia/podstrana",
+      "prior_score": -0.8921,
+      "prior_variance": 0.355652,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Corrientes",
+      "path": "southamerica/argentina/corrientes",
+      "prior_score": -1.473,
+      "prior_variance": 0.164299,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "W National Park",
+      "path": "africa/niger/parkw",
+      "prior_score": -3.3655,
+      "prior_variance": 0.315938,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Kigoma",
+      "path": "africa/tanzania/kigoma",
+      "prior_score": -1.8044,
+      "prior_variance": 0.169833,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Calabar",
+      "path": "africa/nigeria/calabar",
+      "prior_score": -2.9704,
+      "prior_variance": 0.163215,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Yeghegnadzor",
+      "path": "europe/armenia/vayots_dzor_marz/yeghegnadzor",
+      "prior_score": -1.4588,
+      "prior_variance": 0.160025,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -3.0965,
+      "prior_variance": 0.164898,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.811,
+      "prior_variance": 0.180589,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Winneba",
+      "path": "africa/ghana/winneba",
+      "prior_score": -4.0652,
+      "prior_variance": 0.152895,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Liuzhou",
+      "path": "asia/china/guangxi/liuzhou",
+      "prior_score": -2.5187,
+      "prior_variance": 0.172211,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Helena",
+      "path": "northamerica/unitedstates/montana/helena",
+      "prior_score": -1.5409,
+      "prior_variance": 0.157937,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Wrexham",
+      "path": "europe/unitedkingdom/wales/wrexham",
+      "prior_score": -2.1707,
+      "prior_variance": 0.163332,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Broke",
+      "path": "australiaandpacific/australia/newsouthwales/broke",
+      "prior_score": -2.673,
+      "prior_variance": 0.184304,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.9168,
+      "prior_variance": 0.155227,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Otaki",
+      "path": "australiaandpacific/newzealand/otaki",
+      "prior_score": -2.4987,
+      "prior_variance": 0.155159,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Heliopolis",
+      "path": "africa/egypt/heliopolis",
+      "prior_score": -2.8265,
+      "prior_variance": 0.18966,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Puerto la Cruz",
+      "path": "southamerica/venezuela/puertolacruz",
+      "prior_score": -3.7306,
+      "prior_variance": 0.169425,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Portoviejo",
+      "path": "southamerica/ecuador/portoviejo",
+      "prior_score": -5.1235,
+      "prior_variance": 0.251103,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Pathankot",
+      "path": "asia/india/punjab/pathankot",
+      "prior_score": -4.6269,
+      "prior_variance": 0.174877,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Easton",
+      "path": "northamerica/unitedstates/pennsylvania/easton_pa",
+      "prior_score": -3.1067,
+      "prior_variance": 0.184163,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -3.3011,
+      "prior_variance": 0.169126,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Amsterdam",
+      "path": "northamerica/unitedstates/newyorkstate/amsterdam",
+      "prior_score": -6.2933,
+      "prior_variance": 0.299031,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Trenton",
+      "path": "northamerica/unitedstates/newjersey/trenton",
+      "prior_score": -6.4553,
+      "prior_variance": 0.207424,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Beiji Village",
+      "path": "asia/china/heilongjiang/beiji-village",
+      "prior_score": -5.715,
+      "prior_variance": 0.224175,
+      "prior_n": 8
+    }
+  ]
+}

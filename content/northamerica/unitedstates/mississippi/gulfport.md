@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gulfport-Harrison_County_P
 latitude: 30.36742
 loc_type: city
 longitude: -89.092816
-score: 0.39
+score: 0.32
 title: Gulfport
 type: location
 ---

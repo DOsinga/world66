@@ -1,0 +1,200 @@
+{
+  "round": 3664,
+  "timestamp": "2026-06-13T23:10:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "George Town",
+      "path": "northamerica/thecaribbean/caymanislands/grandcayman/george_town",
+      "prior_score": 4.7336,
+      "prior_variance": 0.131028,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Isla Mujeres",
+      "path": "northamerica/mexico/islamujeres",
+      "prior_score": 5.3749,
+      "prior_variance": 0.154597,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Cagliari",
+      "path": "europe/italy/sardinia/cagliari",
+      "prior_score": 5.9452,
+      "prior_variance": 0.134298,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Leiden",
+      "path": "europe/netherlands/leiden",
+      "prior_score": 4.0939,
+      "prior_variance": 0.145307,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Eisenach",
+      "path": "europe/germany/thuringia/eisenach",
+      "prior_score": 1.8869,
+      "prior_variance": 0.118583,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_score": 1.6677,
+      "prior_variance": 0.139609,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Popoyo Beach",
+      "path": "northamerica/nicaragua/popoyo_beach",
+      "prior_score": -0.9166,
+      "prior_variance": 0.113102,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Lepakshi",
+      "path": "asia/india/andhrapradesh/lepakshi",
+      "prior_score": -0.0596,
+      "prior_variance": 0.1205,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Taierzhuang",
+      "path": "asia/china/shandong_province/taierzhuang",
+      "prior_score": -0.6285,
+      "prior_variance": 0.109661,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": -3.5444,
+      "prior_variance": 0.117135,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Erdenet",
+      "path": "asia/mongolia/erdenet",
+      "prior_score": -4.5138,
+      "prior_variance": 0.124708,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -2.9568,
+      "prior_variance": 0.094947,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Putian",
+      "path": "asia/china/fujianprovince/putian",
+      "prior_score": -4.0213,
+      "prior_variance": 0.128048,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Para\u00f1aque",
+      "path": "asia/philippines/paranuaque",
+      "prior_score": -4.9961,
+      "prior_variance": 0.161877,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Shenmu",
+      "path": "asia/china/shaanxi/shenmu",
+      "prior_score": -5.6433,
+      "prior_variance": 0.11972,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Filadelfia",
+      "path": "southamerica/paraguay/filadelfia",
+      "prior_score": -6.163,
+      "prior_variance": 0.146142,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Freehold",
+      "path": "northamerica/unitedstates/newjersey/freehold",
+      "prior_score": -4.5367,
+      "prior_variance": 0.1382,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Okanogan",
+      "path": "northamerica/unitedstates/washington/okanogan",
+      "prior_score": -4.5438,
+      "prior_variance": 0.124168,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Leesburg",
+      "path": "northamerica/unitedstates/florida/leesburg",
+      "prior_score": -4.8696,
+      "prior_variance": 0.128038,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.6977,
+      "prior_variance": 0.140372,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Madhegaon Kond",
+      "path": "asia/india/maharashtra/konkan/madhegaon_kond",
+      "prior_score": -9.6065,
+      "prior_variance": 0.284226,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Meteti",
+      "path": "northamerica/panama/dariengap/meteti",
+      "prior_score": -8.3141,
+      "prior_variance": 0.19902,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Amogar",
+      "path": "africa/mauritania/amogar",
+      "prior_score": -9.5779,
+      "prior_variance": 0.248118,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kuwolsan",
+      "path": "asia/northkorea/kuwolsan",
+      "prior_score": -9.7217,
+      "prior_variance": 0.385232,
+      "prior_n": 11
+    }
+  ]
+}

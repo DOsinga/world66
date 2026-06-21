@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Rize.jpg
 latitude: 40.956962
 loc_type: city
 longitude: 40.884428
-score: 0.5
+score: 0.44
 title: Rize
 type: location
 ---

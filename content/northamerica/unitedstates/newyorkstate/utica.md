@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boilermaker_race.jpg
 latitude: 43.100903
 loc_type: city
 longitude: -75.232664
-score: 0.35
+score: 0.29
 title: Utica
 type: location
 ---

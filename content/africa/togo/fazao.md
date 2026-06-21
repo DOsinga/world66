@@ -10,6 +10,7 @@ loc_type: feature
 longitude: 0.8
 title: Fazao-Malfakassa National Park
 type: location
+score: 0.33
 ---
 
 Fazao-Malfakassa is the largest national park in [Togo](/africa/togo), covering nearly 2,000 square kilometres of forested hills, savanna and wetland along the border with [Ghana](/africa/ghana) between the [Kara](/africa/togo/kara) and Centrale regions. Created in 1975 by merging two older reserves, it protects a section of the West African forest-savanna mosaic that has all but disappeared elsewhere in the country, and represents Togo's best chance of seeing larger wildlife.

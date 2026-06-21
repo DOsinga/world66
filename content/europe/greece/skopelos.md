@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1008_Chapel_of_Agios_Ioann
 latitude: 39.140174
 loc_type: city
 longitude: 23.681376
-score: 0.7
+score: 0.6
 title: Skopelos
 type: location
 ---

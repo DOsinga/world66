@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biankouma1.jpg
 latitude: 7.7383
 loc_type: city
 longitude: -7.6128
-score: 0.28
+score: 0.2
 title: Biankouma
 type: location
 ---

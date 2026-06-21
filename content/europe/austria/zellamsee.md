@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zell_am_See.Wiki.jpeg
 latitude: 47.324
 loc_type: city
 longitude: 12.7963
-score: 0.68
+score: 0.58
 title: Zell am See
 type: location
 ---

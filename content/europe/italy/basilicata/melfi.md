@@ -6,7 +6,7 @@ latitude: 40.996127
 longitude: 15.655655
 title: Melfi
 type: location
-score: 0.48
+score: 0.42
 loc_type: city
 ---
 

@@ -1,0 +1,200 @@
+{
+  "round": 2925,
+  "timestamp": "2026-06-13T22:16:41",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Monferrato",
+      "path": "europe/italy/piemonte/monferrato",
+      "prior_score": 4.0,
+      "prior_variance": 0.172024,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.8096,
+      "prior_variance": 0.147924,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Manchester",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester",
+      "prior_score": -0.3768,
+      "prior_variance": 0.194163,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Yangzhou",
+      "path": "asia/china/jiangsu_province/yangzhou",
+      "prior_score": 0.9167,
+      "prior_variance": 0.15943,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Prizren",
+      "path": "europe/serbia/kosovoprovince/prizren",
+      "prior_score": 1.1771,
+      "prior_variance": 0.14491,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Debrecen",
+      "path": "europe/hungary/debrecen",
+      "prior_score": -0.2945,
+      "prior_variance": 0.135676,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Spiekeroog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/spiekeroog",
+      "prior_score": 0.1538,
+      "prior_variance": 0.142783,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Sosua",
+      "path": "northamerica/dominicanrepublic/puertoplata/sosua",
+      "prior_score": 0.5753,
+      "prior_variance": 0.159343,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Nong Khai",
+      "path": "asia/thailand/nongkhai",
+      "prior_score": 1.054,
+      "prior_variance": 0.145194,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": -0.5162,
+      "prior_variance": 0.153455,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Phonsavan",
+      "path": "asia/laos/phonesavanh",
+      "prior_score": 1.389,
+      "prior_variance": 0.126797,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Ambrym",
+      "path": "australiaandpacific/vanuatu/ambrym",
+      "prior_score": 0.5817,
+      "prior_variance": 0.157997,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Yankari Game Reserve",
+      "path": "africa/nigeria/yankarigamereserve",
+      "prior_score": 0.2345,
+      "prior_variance": 0.162934,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -0.7172,
+      "prior_variance": 0.133273,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Yinchuan",
+      "path": "asia/china/ningxia/yinchuan",
+      "prior_score": -1.5725,
+      "prior_variance": 0.143528,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.2416,
+      "prior_variance": 0.139192,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Upper Hutt",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/upperhutt",
+      "prior_score": -3.2453,
+      "prior_variance": 0.149436,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Tahlequah",
+      "path": "northamerica/unitedstates/oklahoma/tahlequah",
+      "prior_score": -3.928,
+      "prior_variance": 0.140245,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Ruinen",
+      "path": "europe/netherlands/ruinen",
+      "prior_score": -3.7571,
+      "prior_variance": 0.152208,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Bondoukou",
+      "path": "africa/ivorycoast/bondoukou",
+      "prior_score": -7.0799,
+      "prior_variance": 0.195521,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Tengnoupal",
+      "path": "asia/india/manipur/tengnoupal",
+      "prior_score": -5.7724,
+      "prior_variance": 0.195407,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Piscataway",
+      "path": "northamerica/unitedstates/newjersey/piscataway",
+      "prior_score": -6.2541,
+      "prior_variance": 0.195792,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Hopkins",
+      "path": "northamerica/unitedstates/southcarolina/hopkins",
+      "prior_score": -6.5805,
+      "prior_variance": 0.168255,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Pripyat",
+      "path": "europe/ukraine/chernobyl/pripiat",
+      "prior_score": -1.255,
+      "prior_variance": 0.191254,
+      "prior_n": 9
+    }
+  ]
+}

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg
 latitude: 27.175255
 loc_type: city
 longitude: 78.009816
-score: 0.72
+score: 0.69
 title: Agra
 type: location
 ---

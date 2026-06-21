@@ -4,7 +4,7 @@ done:
 latitude: 50.58088
 loc_type: city
 longitude: 8.693816
-score: 0.38
+score: 0.31
 title: Giessen
 type: location
 image: giessen.jpg

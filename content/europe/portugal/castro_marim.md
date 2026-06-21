@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castro_Marim_Castle_01.jpg
 latitude: 37.2179
 loc_type: city
 longitude: -7.4457
-score: 0.47
+score: 0.44
 title: Castro Marim
 type: location
 ---

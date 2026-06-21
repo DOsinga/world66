@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabul_Afghanistan,_place_w
 latitude: 34.52695
 loc_type: city
 longitude: 69.185058
-score: 0.14
+score: 0.11
 title: Kabul
 type: location
 ---

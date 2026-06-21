@@ -5,7 +5,7 @@ done:
 latitude: 47.656558
 loc_type: city
 longitude: 23.571984
-score: 0.44
+score: 0.35
 sources:
 - https://en.wikipedia.org/wiki/Baia_Mare
 - https://en.wikivoyage.org/wiki/Baia_Mare

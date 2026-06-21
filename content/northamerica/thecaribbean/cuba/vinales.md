@@ -3,7 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   location_enrich: '2026-05-21'
-score: 0.68
+score: 0.6
 title: Viñales
 type: location
 image: vinales.jpg
@@ -14,8 +14,8 @@ loc_type: city
 latitude: 22.6136
 longitude: -83.7183
 sources:
-  - https://en.wikipedia.org/wiki/Vi%C3%B1ales
-  - https://whc.unesco.org/en/list/840
+- https://en.wikipedia.org/wiki/Vi%C3%B1ales
+- https://whc.unesco.org/en/list/840
 ---
 
 Viñales and its surrounding valley are among the absolute top attractions of Cuba. Set about 40 km north of [Pinar del Río](/northamerica/thecaribbean/cuba/pinardelrio) in the island's westernmost province, it is a place where the landscape alone justifies the journey.

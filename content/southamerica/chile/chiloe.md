@@ -14,6 +14,7 @@ image: chiloe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sendero_Parque_Nacional_Chilo%C3%A9_A74111520240108.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rjcastillo
+score: 0.5
 ---
 
 Chiloé is Chile with the weather turned inward: green, wet, wooden, and full of stories. The Isla Grande lies just beyond [Puerto Montt](/southamerica/chile/puertomontt), but the short ferry crossing over the Chacao Channel feels like a proper threshold. On the other side are shingled houses, fishing coves, foggy pastures, and a culture that has always looked both to the sea and to its own legends.

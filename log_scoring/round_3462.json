@@ -1,0 +1,200 @@
+{
+  "round": 3462,
+  "timestamp": "2026-06-13T22:55:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Paris",
+      "path": "europe/france/paris",
+      "prior_score": 22.202,
+      "prior_variance": 5.281659,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "\u00c1vila",
+      "path": "europe/spain/centralspain/avila",
+      "prior_score": 4.2899,
+      "prior_variance": 0.156589,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Cashel",
+      "path": "europe/ireland/cashel",
+      "prior_score": 3.9933,
+      "prior_variance": 0.133314,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Motovun",
+      "path": "europe/croatia/motovun",
+      "prior_score": 3.4974,
+      "prior_variance": 0.120981,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Nazar\u00e9",
+      "path": "europe/portugal/nazare",
+      "prior_score": 4.285,
+      "prior_variance": 0.135755,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 2.3692,
+      "prior_variance": 0.121789,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.0905,
+      "prior_variance": 0.117545,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Hukou Waterfall",
+      "path": "asia/china/shanxiprovince/hukou",
+      "prior_score": 1.2305,
+      "prior_variance": 0.13335,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Mihintale",
+      "path": "asia/srilanka/mihintale",
+      "prior_score": 1.6812,
+      "prior_variance": 0.170761,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Dundee",
+      "path": "europe/unitedkingdom/scotland/dundee",
+      "prior_score": -0.1349,
+      "prior_variance": 0.124177,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "North Berwick",
+      "path": "europe/unitedkingdom/scotland/northberwick",
+      "prior_score": 1.8158,
+      "prior_variance": 0.124518,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Erfurt",
+      "path": "europe/germany/thuringia/erfurt",
+      "prior_score": 2.6659,
+      "prior_variance": 0.14,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.8914,
+      "prior_variance": 0.122961,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Cayambe",
+      "path": "southamerica/ecuador/cayambe",
+      "prior_score": -0.6984,
+      "prior_variance": 0.128294,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Langeoog",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+      "prior_score": -0.3076,
+      "prior_variance": 0.135569,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ovalau",
+      "path": "australiaandpacific/fiji/ovalau",
+      "prior_score": 1.8809,
+      "prior_variance": 0.114016,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tarutao",
+      "path": "asia/thailand/tarutao",
+      "prior_score": 4.0443,
+      "prior_variance": 0.130548,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Lothal",
+      "path": "asia/india/gujarat/lothal",
+      "prior_score": -0.8538,
+      "prior_variance": 0.119384,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Winsford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/winsford",
+      "prior_score": -2.242,
+      "prior_variance": 0.133711,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Apalachicola",
+      "path": "northamerica/unitedstates/florida/thepanhandle/apalachicola",
+      "prior_score": -1.3618,
+      "prior_variance": 0.115557,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Jal\u00eb",
+      "path": "europe/albania/jal",
+      "prior_score": 0.2182,
+      "prior_variance": 0.126765,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Castelvittorio",
+      "path": "europe/italy/liguria/nerviavalley/castelvittorio",
+      "prior_score": -0.1293,
+      "prior_variance": 0.112652,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -0.4184,
+      "prior_variance": 0.12843,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Niutao Island",
+      "path": "australiaandpacific/tuvalu/niutaoisland",
+      "prior_score": -4.4391,
+      "prior_variance": 0.206083,
+      "prior_n": 11
+    }
+  ]
+}

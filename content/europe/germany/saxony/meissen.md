@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Meissen_-_Albrechtsburg_un
 latitude: 51.163087
 loc_type: city
 longitude: 13.470494
-score: 0.54
+score: 0.47
 title: Meissen
 type: location
 ---

@@ -7,7 +7,7 @@ done:
 latitude: 53.7974
 loc_type: city
 longitude: -1.5438
-score: 0.51
+score: 0.41
 title: Leeds
 type: location
 ---

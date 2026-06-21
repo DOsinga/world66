@@ -15,7 +15,7 @@ quick_facts:
   Religion: "99% Muslim"
   Sahara Coverage: "90%"
   Slavery Criminalised: "2007"
-score: 0.23
+score: 0.42
 loc_type: country
 ---
 

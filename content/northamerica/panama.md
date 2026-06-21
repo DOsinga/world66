@@ -13,7 +13,7 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Gualb
   class="new" title="User:Gualberto107 (page does not exist)">Gualberto107</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.5
+score: 0.66
 loc_type: country
 ---
 

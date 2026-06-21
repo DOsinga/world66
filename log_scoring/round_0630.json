@@ -1,63 +1,199 @@
 {
   "round": 630,
-  "timestamp": "2026-04-12T10:40:36",
+  "timestamp": "2026-06-13T19:45:50",
   "model": "claude-sonnet-4-6",
-  "batch_size": 7,
+  "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mahe",
-      "path": "africa/seychelles/mahe",
-      "prior_mu": 29.2055,
-      "prior_sigma": 7.1948,
+      "title": "Manali",
+      "path": "asia/india/himachalpradesh/manali",
+      "prior_score": 3.0924,
+      "prior_variance": 1.358844,
       "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "Praslin",
-      "path": "africa/seychelles/praslin",
-      "prior_mu": 26.5303,
-      "prior_sigma": 5.2897,
+      "title": "Santa Cruz",
+      "path": "northamerica/unitedstates/california/santa_cruz",
+      "prior_score": 4.5762,
+      "prior_variance": 1.151761,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "La Digue",
-      "path": "africa/seychelles/ladigue",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Denver",
+      "path": "northamerica/unitedstates/colorado/denver",
+      "prior_score": 3.429,
+      "prior_variance": 1.211969,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Seychelles",
-      "path": "africa/seychelles",
-      "prior_mu": 29.9798,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Canterbury",
+      "path": "europe/unitedkingdom/england/south_east/canterbury",
+      "prior_score": 5.3071,
+      "prior_variance": 1.32652,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Fregate Island",
-      "path": "africa/seychelles/fregateisland",
-      "prior_mu": 24.7788,
-      "prior_sigma": 6.1404,
-      "prior_n": 1
+      "title": "Fremantle",
+      "path": "australiaandpacific/australia/westernaustralia/fremantle",
+      "prior_score": 3.189,
+      "prior_variance": 0.642309,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Aride Island",
-      "path": "africa/seychelles/arideisland",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Flores",
+      "path": "northamerica/guatemala/flores",
+      "prior_score": 3.2035,
+      "prior_variance": 0.817707,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Cousin Island",
-      "path": "africa/seychelles/cousinisland",
-      "prior_mu": 23.5265,
-      "prior_sigma": 5.7202,
+      "title": "Winterthur",
+      "path": "europe/switzerland/winterthur",
+      "prior_score": 1.7038,
+      "prior_variance": 0.614018,
+      "prior_n": 3
+    },
+    {
+      "rank": 8,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 1.8287,
+      "prior_variance": 1.449662,
+      "prior_n": 1
+    },
+    {
+      "rank": 9,
+      "title": "Natchez",
+      "path": "northamerica/unitedstates/mississippi/natchez",
+      "prior_score": -0.121,
+      "prior_variance": 1.344859,
+      "prior_n": 1
+    },
+    {
+      "rank": 10,
+      "title": "Lido di Jesolo",
+      "path": "europe/italy/veneto/lidodijesolo",
+      "prior_score": 3.5637,
+      "prior_variance": 1.436484,
+      "prior_n": 1
+    },
+    {
+      "rank": 11,
+      "title": "Vicksburg",
+      "path": "northamerica/unitedstates/mississippi/vicksburg",
+      "prior_score": 1.3828,
+      "prior_variance": 1.343235,
+      "prior_n": 1
+    },
+    {
+      "rank": 12,
+      "title": "Kumbakonam",
+      "path": "asia/india/tamilnadu/kumbakonam",
+      "prior_score": 0.9662,
+      "prior_variance": 0.739659,
+      "prior_n": 2
+    },
+    {
+      "rank": 13,
+      "title": "Sergiev Posad",
+      "path": "europe/russia/sergievposad",
+      "prior_score": 2.3839,
+      "prior_variance": 0.795164,
+      "prior_n": 2
+    },
+    {
+      "rank": 14,
+      "title": "Mataram",
+      "path": "asia/indonesia/lombok/mataram",
+      "prior_score": 0.6992,
+      "prior_variance": 1.354173,
+      "prior_n": 1
+    },
+    {
+      "rank": 15,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.9397,
+      "prior_variance": 1.300295,
+      "prior_n": 1
+    },
+    {
+      "rank": 16,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 1.525,
+      "prior_variance": 0.658987,
+      "prior_n": 2
+    },
+    {
+      "rank": 17,
+      "title": "Bo'ao",
+      "path": "asia/china/hainanisland/boao",
+      "prior_score": -1.3755,
+      "prior_variance": 1.200996,
+      "prior_n": 1
+    },
+    {
+      "rank": 18,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": 1.1506,
+      "prior_variance": 0.748831,
+      "prior_n": 2
+    },
+    {
+      "rank": 19,
+      "title": "Pontianak",
+      "path": "asia/indonesia/pontianak",
+      "prior_score": -1.9683,
+      "prior_variance": 0.877085,
+      "prior_n": 2
+    },
+    {
+      "rank": 20,
+      "title": "Joginder Nagar",
+      "path": "asia/india/himachalpradesh/joginder_nagar",
+      "prior_score": -2.4452,
+      "prior_variance": 0.925334,
+      "prior_n": 2
+    },
+    {
+      "rank": 21,
+      "title": "Campobasso",
+      "path": "europe/italy/molise/campobasso",
+      "prior_score": -0.2993,
+      "prior_variance": 0.835058,
+      "prior_n": 2
+    },
+    {
+      "rank": 22,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.1387,
+      "prior_variance": 0.644343,
+      "prior_n": 2
+    },
+    {
+      "rank": 23,
+      "title": "Capraia e Limite",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/capraiaelimite",
+      "prior_score": 0.7258,
+      "prior_variance": 1.073901,
+      "prior_n": 2
+    },
+    {
+      "rank": 24,
+      "title": "Xiangcheng",
+      "path": "asia/china/sichuanprovince/xiangcheng",
+      "prior_score": 1.8139,
+      "prior_variance": 1.394274,
       "prior_n": 1
     }
   ]

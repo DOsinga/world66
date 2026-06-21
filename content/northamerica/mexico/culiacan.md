@@ -6,7 +6,7 @@ done:
 latitude: 24.7978
 loc_type: city
 longitude: -107.3934
-score: 0.29
+score: 0.21
 title: Culiacan
 type: location
 ---

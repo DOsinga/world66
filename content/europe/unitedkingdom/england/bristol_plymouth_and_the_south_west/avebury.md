@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wiltshire-Avebury.jpg
 latitude: 51.42861
 loc_type: city
 longitude: -1.851705
-score: 0.63
+score: 0.52
 title: Avebury
 type: location
 ---

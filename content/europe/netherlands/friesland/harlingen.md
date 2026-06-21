@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Harlingen._Harlingen._Klei
 latitude: 53.17521
 loc_type: city
 longitude: 5.4142
-score: 0.47
+score: 0.37
 title: Harlingen
 type: location
 ---

@@ -14,7 +14,7 @@ quick_facts:
   Currency: Swiss Franc (CHF)
   Total Area: "160 km² — smaller than Washington D.C."
   Doubly Landlocked: One of only two countries in the world
-score: 0.6
+score: 0.34
 loc_type: country
 ---
 

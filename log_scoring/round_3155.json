@@ -1,0 +1,200 @@
+{
+  "round": 3155,
+  "timestamp": "2026-06-13T22:32:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 21.0545,
+      "prior_variance": 2.082219,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 3.6415,
+      "prior_variance": 0.13475,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "P\u00e9cs",
+      "path": "europe/hungary/pecs",
+      "prior_score": 3.5712,
+      "prior_variance": 0.156862,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Dades Gorge",
+      "path": "africa/morocco/dadesgorge",
+      "prior_score": 4.2412,
+      "prior_variance": 0.149929,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Ile de Gor\u00e9e",
+      "path": "africa/senegal/iledegoree",
+      "prior_score": 3.1032,
+      "prior_variance": 0.139419,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Haridwar",
+      "path": "asia/india/uttaranchal/haridwar",
+      "prior_score": 2.7625,
+      "prior_variance": 0.151187,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Varkala",
+      "path": "asia/india/kerala/varkala",
+      "prior_score": 3.4227,
+      "prior_variance": 0.132674,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Bonito",
+      "path": "southamerica/brazil/bonito",
+      "prior_score": 4.1997,
+      "prior_variance": 0.143101,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Gramado",
+      "path": "southamerica/brazil/gramado",
+      "prior_score": 3.3817,
+      "prior_variance": 0.131337,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.772,
+      "prior_variance": 0.149872,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.08,
+      "prior_variance": 0.139731,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Island \u010ciovo",
+      "path": "europe/croatia/island_iovo",
+      "prior_score": 2.616,
+      "prior_variance": 0.122371,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Peschiera del Garda",
+      "path": "europe/italy/lombardia/lagodigarda/peschiera",
+      "prior_score": 3.8729,
+      "prior_variance": 0.135744,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Chioggia",
+      "path": "europe/italy/veneto/chioggia",
+      "prior_score": 2.6054,
+      "prior_variance": 0.138529,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Dunakanyar (The Danube Bend)",
+      "path": "europe/hungary/dunakanyar_the_danube_bend",
+      "prior_score": 3.2277,
+      "prior_variance": 0.139178,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Barra",
+      "path": "europe/unitedkingdom/scotland/barra",
+      "prior_score": 2.2892,
+      "prior_variance": 0.133588,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Bcharre",
+      "path": "asia/lebanon/bcharre",
+      "prior_score": 1.002,
+      "prior_variance": 0.136508,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Cahuita",
+      "path": "northamerica/costarica/cahuita",
+      "prior_score": 3.8498,
+      "prior_variance": 0.132959,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Simatai",
+      "path": "asia/china/beijing/simatai",
+      "prior_score": 3.6885,
+      "prior_variance": 0.150987,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Qinghai Lake",
+      "path": "asia/china/qinghai/qinghai-lake",
+      "prior_score": 2.7802,
+      "prior_variance": 0.144067,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Pamplemousse",
+      "path": "africa/mauritius/pamplemousse",
+      "prior_score": 2.2086,
+      "prior_variance": 0.139441,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Redondela",
+      "path": "europe/spain/galicia/redondela",
+      "prior_score": -0.4365,
+      "prior_variance": 0.1276,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Braunschweig",
+      "path": "europe/germany/lowersaxony/braunschweig",
+      "prior_score": -0.9841,
+      "prior_variance": 0.131049,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -5.795,
+      "prior_variance": 0.184118,
+      "prior_n": 9
+    }
+  ]
+}

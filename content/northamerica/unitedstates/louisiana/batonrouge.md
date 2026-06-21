@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baton_Rouge_Louisiana_wate
 latitude: 30.4494
 loc_type: city
 longitude: -91.187
-score: 0.41
+score: 0.35
 title: Baton Rouge
 type: location
 ---

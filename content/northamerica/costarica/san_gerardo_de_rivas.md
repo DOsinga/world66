@@ -5,7 +5,7 @@ latitude: 9.4696
 longitude: -83.5854
 title: San Gerardo de Rivas
 type: location
-score: 0.58
+score: 0.45
 loc_type: city
 ---
 

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/37583176@N00/12862804125
 latitude: 35.312605
 loc_type: city
 longitude: 46.997864
-score: 0.35
+score: 0.26
 title: Sanandaj
 type: location
 ---

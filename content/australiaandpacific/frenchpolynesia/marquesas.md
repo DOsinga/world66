@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FatuIva_Hanavave_Port_2006
 latitude: -9.779326
 loc_type: city
 longitude: -139.006784
-score: 0.7
+score: 0.61
 title: Marquesas
 type: location
 ---

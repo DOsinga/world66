@@ -5,7 +5,7 @@ done:
 latitude: 43.461893
 loc_type: city
 longitude: -3.810026
-score: 0.58
+score: 0.49
 title: Santander
 type: location
 image: santander.jpg

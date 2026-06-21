@@ -1,0 +1,200 @@
+{
+  "round": 2889,
+  "timestamp": "2026-06-13T22:14:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cannes",
+      "path": "europe/france/midi/cotedazur/cannes",
+      "prior_score": 7.8098,
+      "prior_variance": 0.198063,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Taveuni",
+      "path": "australiaandpacific/fiji/taveuni",
+      "prior_score": 5.784,
+      "prior_variance": 0.169643,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Ohrid",
+      "path": "europe/macedonia/ohrid",
+      "prior_score": 5.2614,
+      "prior_variance": 0.195857,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Agios Nikolaos",
+      "path": "europe/greece/crete/agios_nikolaos",
+      "prior_score": 5.0125,
+      "prior_variance": 0.156563,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Srinagar",
+      "path": "asia/india/jammuandkashmir/srinagar",
+      "prior_score": 4.5421,
+      "prior_variance": 0.170401,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 5.4934,
+      "prior_variance": 0.183019,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Catania",
+      "path": "europe/italy/sicily/catania",
+      "prior_score": 5.6659,
+      "prior_variance": 0.179446,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Knysna",
+      "path": "africa/southafrica/gardenroute/knysna",
+      "prior_score": 4.2959,
+      "prior_variance": 0.160599,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "San Crist\u00f3bal de las Casas",
+      "path": "northamerica/mexico/sancristobaldelascasas",
+      "prior_score": 4.1779,
+      "prior_variance": 0.15543,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Valladolid",
+      "path": "northamerica/mexico/yucatan/valladolid_1",
+      "prior_score": 4.4028,
+      "prior_variance": 0.178522,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/wellington",
+      "prior_score": 5.0488,
+      "prior_variance": 0.148821,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Carmel",
+      "path": "northamerica/unitedstates/california/carmel",
+      "prior_score": 6.325,
+      "prior_variance": 0.181543,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.3007,
+      "prior_variance": 0.148638,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.4983,
+      "prior_variance": 0.151154,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Truro",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro",
+      "prior_score": 0.6506,
+      "prior_variance": 0.165822,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/galicia/lacoruna",
+      "prior_score": 2.541,
+      "prior_variance": 0.142124,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.8662,
+      "prior_variance": 0.173234,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Asilah",
+      "path": "africa/morocco/asilah",
+      "prior_score": 3.6698,
+      "prior_variance": 0.182753,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Jomtien Beach",
+      "path": "asia/thailand/jomtien_beach",
+      "prior_score": 2.7466,
+      "prior_variance": 0.152729,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Longmen Grottoes",
+      "path": "asia/china/henan_province/longmen_grottoes",
+      "prior_score": 5.9122,
+      "prior_variance": 0.148452,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Colorado National Monument",
+      "path": "northamerica/unitedstates/colorado/colorado_national_monument",
+      "prior_score": 3.8302,
+      "prior_variance": 0.149627,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Vulture Area",
+      "path": "europe/italy/basilicata/vulture_area",
+      "prior_score": -1.4746,
+      "prior_variance": 0.139605,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Burqin",
+      "path": "asia/china/xinjiangprovince/burqin",
+      "prior_score": -0.4365,
+      "prior_variance": 0.148578,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Yushu",
+      "path": "asia/china/qinghai/yushu",
+      "prior_score": -2.8786,
+      "prior_variance": 0.182608,
+      "prior_n": 9
+    }
+  ]
+}

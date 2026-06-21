@@ -5,7 +5,7 @@ done:
 latitude: -23.948502
 loc_type: city
 longitude: 31.137577
-score: 0.45
+score: 0.36
 title: Phalaborwa
 type: location
 ---

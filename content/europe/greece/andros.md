@@ -5,7 +5,7 @@ done:
 latitude: 37.840835
 loc_type: city
 longitude: 24.862382
-score: 0.6
+score: 0.51
 title: Andros
 type: location
 ---

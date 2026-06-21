@@ -1,199 +1,199 @@
 {
   "round": 2168,
-  "timestamp": "2026-04-13T16:16:55",
+  "timestamp": "2026-06-13T21:23:24",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mal\u00e9",
-      "path": "asia/maldives/male_atoll/male",
-      "prior_score": 5.1274,
-      "prior_variance": 0.208814,
-      "prior_n": 9
+      "title": "Cologne",
+      "path": "europe/germany/northrhinewestphalia/cologne",
+      "prior_score": 6.739,
+      "prior_variance": 0.261073,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Wyoming",
-      "path": "northamerica/unitedstates/wyoming",
-      "prior_score": 5.3826,
-      "prior_variance": 0.766758,
-      "prior_n": 5
+      "title": "Pondicherry",
+      "path": "asia/india/tamilnadu/pondicherry",
+      "prior_score": 3.7193,
+      "prior_variance": 0.227817,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Tarascon-sur-Ari\u00e8ge",
-      "path": "europe/france/midi/pyrenees/tarasconsurari",
-      "prior_score": 2.3511,
-      "prior_variance": 0.198969,
-      "prior_n": 6
+      "title": "Imperia",
+      "path": "europe/italy/liguria/imperia",
+      "prior_score": 0.7937,
+      "prior_variance": 0.183777,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Bandhavgarh",
-      "path": "asia/india/madhyapradesh/bandhavgarh",
-      "prior_score": 2.4132,
-      "prior_variance": 0.269287,
-      "prior_n": 5
+      "title": "Bashang Grasslands",
+      "path": "asia/china/hebei/bashang_grasslands",
+      "prior_score": 1.652,
+      "prior_variance": 0.178757,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Trashigang",
-      "path": "asia/bhutan/tashigang",
-      "prior_score": 0.7885,
-      "prior_variance": 0.398927,
-      "prior_n": 5
+      "title": "Matheran",
+      "path": "asia/india/maharashtra/matheran",
+      "prior_score": 0.8361,
+      "prior_variance": 0.17154,
+      "prior_n": 8
     },
     {
       "rank": 6,
-      "title": "Petchburi",
-      "path": "asia/thailand/petchburi",
-      "prior_score": 0.8631,
-      "prior_variance": 0.25156,
-      "prior_n": 5
+      "title": "Lydford",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford",
+      "prior_score": 0.8178,
+      "prior_variance": 0.182958,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Puerto Pe\u00f1asco",
-      "path": "northamerica/mexico/puerto_penasco",
-      "prior_score": 0.2618,
-      "prior_variance": 0.245368,
-      "prior_n": 6
+      "title": "Bellingen",
+      "path": "australiaandpacific/australia/newsouthwales/bellingen",
+      "prior_score": -0.0348,
+      "prior_variance": 0.177068,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Mahdia",
-      "path": "africa/tunisia/mahdia",
-      "prior_score": -0.238,
-      "prior_variance": 0.226574,
-      "prior_n": 6
+      "title": "Lake Victoria",
+      "path": "africa/kenya/lakes/lakevictoria",
+      "prior_score": 1.0638,
+      "prior_variance": 0.193778,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Trikala",
-      "path": "europe/greece/trikala",
-      "prior_score": 0.8682,
-      "prior_variance": 0.215953,
-      "prior_n": 6
+      "title": "Tataouine",
+      "path": "africa/tunisia/tataouine",
+      "prior_score": -0.4317,
+      "prior_variance": 0.169443,
+      "prior_n": 8
     },
     {
       "rank": 10,
-      "title": "Satun",
-      "path": "asia/thailand/satun",
-      "prior_score": -0.2606,
-      "prior_variance": 0.159964,
-      "prior_n": 9
+      "title": "Beihai",
+      "path": "asia/china/guangxi/beihai",
+      "prior_score": -0.6597,
+      "prior_variance": 0.186387,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Laguna",
-      "path": "southamerica/brazil/laguna",
-      "prior_score": -1.5523,
-      "prior_variance": 0.268512,
-      "prior_n": 6
+      "title": "Huangzhong",
+      "path": "asia/china/qinghai/huangzhong",
+      "prior_score": -1.1954,
+      "prior_variance": 0.181961,
+      "prior_n": 8
     },
     {
       "rank": 12,
-      "title": "wuppertal",
-      "path": "europe/germany/northrhinewestphalia/wuppertal",
-      "prior_score": -1.3311,
-      "prior_variance": 0.334254,
-      "prior_n": 5
+      "title": "Schiers",
+      "path": "europe/switzerland/schiers",
+      "prior_score": -0.9915,
+      "prior_variance": 0.207284,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Tonder",
-      "path": "europe/denmark/tonder",
-      "prior_score": -0.463,
-      "prior_variance": 0.206343,
-      "prior_n": 6
+      "title": "A Lanzada",
+      "path": "europe/spain/galicia/a_lanzada_beach",
+      "prior_score": -0.9429,
+      "prior_variance": 0.205072,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Hartford",
-      "path": "northamerica/unitedstates/connecticut/hartford",
-      "prior_score": -3.6884,
-      "prior_variance": 0.25618,
-      "prior_n": 6
+      "title": "Olsztyn",
+      "path": "europe/poland/olsztyn",
+      "prior_score": 0.0885,
+      "prior_variance": 0.238869,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Toritto",
-      "path": "europe/italy/puglia/toritto",
-      "prior_score": -1.5911,
-      "prior_variance": 0.228431,
-      "prior_n": 6
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.0118,
+      "prior_variance": 0.216745,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Roqetas de mar",
-      "path": "europe/spain/andalucia/roqetasdemar",
-      "prior_score": -1.7466,
-      "prior_variance": 0.361936,
+      "title": "Luperon",
+      "path": "northamerica/dominicanrepublic/luperon",
+      "prior_score": -2.1112,
+      "prior_variance": 0.230649,
       "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Sonneberg",
-      "path": "europe/germany/thuringia/sonneberg",
-      "prior_score": -2.6131,
-      "prior_variance": 0.258508,
-      "prior_n": 5
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -3.7746,
+      "prior_variance": 0.237094,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Navoi",
-      "path": "asia/uzbekistan/navoi",
-      "prior_score": -5.7227,
-      "prior_variance": 0.305699,
-      "prior_n": 5
+      "title": "Homestead",
+      "path": "northamerica/unitedstates/florida/homestead",
+      "prior_score": -3.1937,
+      "prior_variance": 0.203195,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Gorakhpur",
-      "path": "asia/india/uttarpradesh/gorakhpur",
-      "prior_score": -6.3175,
-      "prior_variance": 0.395017,
-      "prior_n": 5
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -3.7548,
+      "prior_variance": 0.211322,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Zinder",
-      "path": "africa/niger/zinder",
-      "prior_score": -7.2267,
-      "prior_variance": 0.271005,
-      "prior_n": 5
+      "title": "Lake City",
+      "path": "northamerica/unitedstates/florida/northeastflorida/lake_city",
+      "prior_score": -6.7423,
+      "prior_variance": 0.276896,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Mtera",
-      "path": "africa/tanzania/mtera",
-      "prior_score": -4.9133,
-      "prior_variance": 0.317801,
-      "prior_n": 6
+      "title": "Luanda",
+      "path": "africa/angola/luanda",
+      "prior_score": -4.3699,
+      "prior_variance": 0.223856,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "Gillingham",
-      "path": "europe/unitedkingdom/england/gillingham",
-      "prior_score": -5.016,
-      "prior_variance": 0.316151,
-      "prior_n": 5
+      "title": "Ouagadougou",
+      "path": "africa/burkinafaso/ouagadougou",
+      "prior_score": -6.2084,
+      "prior_variance": 0.236149,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Ware",
-      "path": "europe/unitedkingdom/england/eastern_england/ware",
-      "prior_score": -3.3665,
-      "prior_variance": 0.29601,
-      "prior_n": 6
+      "title": "Tenere Desert",
+      "path": "africa/niger/teneredesert",
+      "prior_score": -4.6945,
+      "prior_variance": 0.303962,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Time Zone",
-      "path": "northamerica/costarica/travelinformation/timezone",
-      "prior_score": -6.1098,
-      "prior_variance": 0.526974,
+      "title": "Galkayo",
+      "path": "africa/somalia/galkayo",
+      "prior_score": -10.4108,
+      "prior_variance": 0.616174,
       "prior_n": 6
     }
   ]

@@ -5,7 +5,7 @@ done:
 latitude: -34.752387
 loc_type: city
 longitude: 149.719801
-score: 0.37
+score: 0.32
 title: Goulburn
 type: location
 ---

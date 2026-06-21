@@ -1,199 +1,199 @@
 {
   "round": 969,
-  "timestamp": "2026-04-12T16:09:49",
+  "timestamp": "2026-06-13T20:03:42",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Alghero",
-      "path": "europe/italy/sardinia/alghero",
-      "prior_rank": 1858,
-      "prior_wins": 52,
+      "title": "Vagan",
+      "path": "europe/norway/lofotenislands/vagan",
+      "prior_score": 6.1254,
+      "prior_variance": 0.613557,
       "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Bilbao",
-      "path": "europe/spain/basque_country_eus/bilbao",
-      "prior_rank": 509,
-      "prior_wins": 21,
-      "prior_n": 1
+      "title": "Red Rock Canyon",
+      "path": "northamerica/unitedstates/nevada/redrockcanyon",
+      "prior_score": 7.4252,
+      "prior_variance": 0.913323,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Martinique",
-      "path": "northamerica/thecaribbean/martinique",
-      "prior_rank": 331,
-      "prior_wins": 86,
-      "prior_n": 4
+      "title": "Murchison Falls National Park",
+      "path": "africa/uganda/murchison_falls_national_park",
+      "prior_score": 6.2079,
+      "prior_variance": 0.934506,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Aran islands",
-      "path": "europe/ireland/aranislands",
-      "prior_rank": 1038,
-      "prior_wins": 39,
+      "title": "Mount Ijen",
+      "path": "asia/indonesia/java/mountijen",
+      "prior_score": 5.2416,
+      "prior_variance": 0.669172,
       "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Pinnawela",
-      "path": "asia/srilanka/pinnawela",
-      "prior_rank": 2089,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Mada'in Salih (Hegra)",
+      "path": "asia/saudiarabia/madainsalih",
+      "prior_score": 7.4749,
+      "prior_variance": 0.55164,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Trashigang",
-      "path": "asia/bhutan/tashigang",
-      "prior_rank": 3207,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Comino",
+      "path": "europe/malta/comino",
+      "prior_score": 8.0457,
+      "prior_variance": 0.625263,
+      "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Gaiman",
-      "path": "southamerica/argentina/gaiman",
-      "prior_rank": 5063,
-      "prior_wins": 27,
+      "title": "Oban",
+      "path": "europe/unitedkingdom/scotland/oban",
+      "prior_score": 6.4228,
+      "prior_variance": 0.482737,
       "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Terschelling island",
-      "path": "europe/netherlands/waddenislands/terschelling_islan",
-      "prior_rank": 2012,
-      "prior_wins": 118,
-      "prior_n": 7
-    },
-    {
-      "rank": 9,
-      "title": "Plomari",
-      "path": "europe/greece/lesbos/plomari",
-      "prior_rank": 4225,
-      "prior_wins": 11,
-      "prior_n": 1
-    },
-    {
-      "rank": 10,
-      "title": "Chalkis",
-      "path": "europe/greece/chalkis",
-      "prior_rank": 6131,
-      "prior_wins": 12,
-      "prior_n": 2
-    },
-    {
-      "rank": 11,
-      "title": "Ghana",
-      "path": "africa/ghana",
-      "prior_rank": 6789,
-      "prior_wins": 9,
-      "prior_n": 2
-    },
-    {
-      "rank": 12,
-      "title": "Cetti Bay",
-      "path": "australiaandpacific/guam/cettibay",
-      "prior_rank": 4632,
-      "prior_wins": 20,
-      "prior_n": 2
-    },
-    {
-      "rank": 13,
-      "title": "Roxas City",
-      "path": "asia/philippines/manila/roxas_city",
-      "prior_rank": 6076,
-      "prior_wins": 19,
+      "title": "Conwy",
+      "path": "europe/unitedkingdom/wales/conwy",
+      "prior_score": 4.5628,
+      "prior_variance": 0.882608,
       "prior_n": 3
     },
     {
+      "rank": 9,
+      "title": "Domme",
+      "path": "europe/france/midi/dordogne/domme",
+      "prior_score": 4.5893,
+      "prior_variance": 0.705853,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Tavira",
+      "path": "europe/portugal/algarve/tavira",
+      "prior_score": 7.9763,
+      "prior_variance": 0.610512,
+      "prior_n": 3
+    },
+    {
+      "rank": 11,
+      "title": "Wellington",
+      "path": "australiaandpacific/newzealand/greater_wellington/wellington",
+      "prior_score": 6.4866,
+      "prior_variance": 0.429315,
+      "prior_n": 3
+    },
+    {
+      "rank": 12,
+      "title": "Yerevan",
+      "path": "europe/armenia/yerevan",
+      "prior_score": 6.06,
+      "prior_variance": 0.629306,
+      "prior_n": 3
+    },
+    {
+      "rank": 13,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 4.8362,
+      "prior_variance": 0.613647,
+      "prior_n": 2
+    },
+    {
       "rank": 14,
-      "title": "Idaho Springs",
-      "path": "northamerica/unitedstates/colorado/idaho_springs",
-      "prior_rank": 3123,
-      "prior_wins": 28,
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 5.3978,
+      "prior_variance": 0.623503,
       "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Hoboken",
-      "path": "northamerica/unitedstates/newjersey/hoboken",
-      "prior_rank": 4686,
-      "prior_wins": 30,
-      "prior_n": 3
+      "title": "San Pedro",
+      "path": "northamerica/belize/san_pedro",
+      "prior_score": 5.0006,
+      "prior_variance": 1.185706,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Macduff",
-      "path": "europe/unitedkingdom/scotland/macduff",
-      "prior_rank": 5645,
-      "prior_wins": 22,
+      "title": "Ilha do Mel",
+      "path": "southamerica/brazil/ilha_do_mel",
+      "prior_score": 5.6328,
+      "prior_variance": 0.630663,
       "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Oakdale",
-      "path": "northamerica/unitedstates/california/oakdale",
-      "prior_rank": 7755,
-      "prior_wins": 4,
-      "prior_n": 2
-    },
-    {
-      "rank": 18,
-      "title": "Midway Islands",
-      "path": "australiaandpacific/midwayislands",
-      "prior_rank": 5452,
-      "prior_wins": 24,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 3.7514,
+      "prior_variance": 1.088465,
       "prior_n": 3
     },
     {
+      "rank": 18,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 0.3638,
+      "prior_variance": 0.491521,
+      "prior_n": 4
+    },
+    {
       "rank": 19,
-      "title": "Anjalankoski",
-      "path": "europe/finland/anjalankoski",
-      "prior_rank": 7688,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Ocean City",
+      "path": "northamerica/unitedstates/maryland/oceancity",
+      "prior_score": 1.5808,
+      "prior_variance": 0.684212,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Pirules",
-      "path": "northamerica/mexico/yucatan/pirules",
-      "prior_rank": 7362,
-      "prior_wins": 6,
+      "title": "Oviedo",
+      "path": "europe/spain/northernspain/oviedo",
+      "prior_score": 7.2781,
+      "prior_variance": 0.695681,
       "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Havre",
-      "path": "northamerica/unitedstates/montana/havre",
-      "prior_rank": 7509,
-      "prior_wins": 5,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 3.5438,
+      "prior_variance": 0.594949,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Paola",
-      "path": "northamerica/unitedstates/kansas/paola",
-      "prior_rank": 7720,
-      "prior_wins": 4,
-      "prior_n": 2
+      "title": "Alausi",
+      "path": "southamerica/ecuador/aluasi__railway_t",
+      "prior_score": 4.1119,
+      "prior_variance": 0.489618,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Jakarta",
-      "path": "asia/indonesia/java/jakarta",
-      "prior_rank": 3317,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Isla de la Plata",
+      "path": "southamerica/ecuador/isla_de_la_plata",
+      "prior_score": 5.3898,
+      "prior_variance": 0.628618,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Hasilpur",
-      "path": "asia/pakistan/islamabad/hasilpur",
-      "prior_rank": 6423,
-      "prior_wins": 11,
+      "title": "Nybyen",
+      "path": "europe/norway/spitsbergen/nybyen",
+      "prior_score": 0.0921,
+      "prior_variance": 1.207915,
       "prior_n": 2
     }
   ]

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3331_Edinburgh_-_Schott
 latitude: 55.953346
 loc_type: city
 longitude: -3.188375
-score: 0.84
+score: 0.83
 title: Edinburgh
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Ulaanbaatar_01.jpg
 latitude: 47.9184
 loc_type: city
 longitude: 106.9177
-score: 0.53
+score: 0.45
 title: Ulaanbaatar
 type: location
 ---

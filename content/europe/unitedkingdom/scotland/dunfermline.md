@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Dunfermline
 title: Dunfermline
 type: location
+score: 0.42
 ---
 
 Dunfermline was the capital of Scotland for much of the medieval period, and the royal connections are still very much in evidence — [Dunfermline Abbey](/europe/unitedkingdom/scotland/dunfermline/dunfermline_abbey) was the burial place of Scottish kings and queens for five centuries, including Robert the Bruce, whose tomb lies in the nave. Next to the abbey, the ruins of [Dunfermline Palace](/europe/unitedkingdom/scotland/dunfermline/dunfermline_palace) mark the site of a royal residence where Charles I was born in 1600, the last Scottish-born king of Britain. This concentration of history in a tight area of the old town makes Dunfermline an unexpectedly rewarding destination.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Auer_s.jpg
 latitude: 48.890934
 loc_type: city
 longitude: 8.702551
-score: 0.39
+score: 0.33
 title: Pforzheim
 type: location
 ---

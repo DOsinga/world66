@@ -1,200 +1,200 @@
 {
   "round": 219,
-  "timestamp": "2026-04-12T09:07:23",
+  "timestamp": "2026-06-13T19:25:05",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Mosel",
-      "path": "europe/germany/rhinelandpalatinate/mosel",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Yellowstone",
+      "path": "northamerica/unitedstates/wyoming/yellowstone",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Clare",
-      "path": "europe/ireland/clare",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Bonaire",
+      "path": "northamerica/netherlandsantilles/bonaire",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Varatella Valley",
-      "path": "europe/italy/liguria/varatellavalley",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Salar de Atacama",
+      "path": "southamerica/chile/atacamadesert/salardeatacama",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "R\u00fcgen",
-      "path": "europe/germany/mecklenburgwesternpomerania/rugen",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Eze-bord-de-mer",
+      "path": "europe/france/midi/cotedazur/ezeborddemer",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Lifou",
-      "path": "australiaandpacific/newcaledonia/lifou",
-      "prior_mu": 22.861,
-      "prior_sigma": 5.9669,
-      "prior_n": 1
+      "title": "Pangkor islands",
+      "path": "asia/malaysia/pangkorislands",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Eureka Springs",
-      "path": "northamerica/unitedstates/arkansas/eurekasprings",
-      "prior_mu": 22.7226,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Futuroscope",
-      "path": "europe/france/aquitaine/futuroscope",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Conil",
+      "path": "europe/spain/andalucia/conil",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Kiruna",
-      "path": "europe/sweden/kiruna",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Limassol",
+      "path": "asia/cyprus/limassol",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Seward",
-      "path": "northamerica/unitedstates/alaska/seward",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Eastern England",
-      "path": "europe/unitedkingdom/england/eastern_england",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hot Springs",
+      "path": "northamerica/unitedstates/arkansas/hotsprings",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Gentofte",
-      "path": "europe/denmark/gentofte",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tianzhu Mountain",
+      "path": "asia/china/anhui/tianzhu_mountain",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Monastir",
-      "path": "africa/tunisia/monastir",
-      "prior_mu": 23.0932,
-      "prior_sigma": 5.7153,
-      "prior_n": 1
+      "title": "Bangka Island",
+      "path": "asia/indonesia/bangka_island",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Ajmer",
-      "path": "asia/india/rajasthan/ajmer",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sandomierz",
+      "path": "europe/poland/sandomierz",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Hac\u0131bekta\u015f",
-      "path": "asia/turkey/cappadocia/hacibektas",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mersea Island",
+      "path": "europe/unitedkingdom/england/eastern_england/mersea_island_esse",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Sneek",
-      "path": "europe/netherlands/friesland/sneek",
-      "prior_mu": 22.2715,
-      "prior_sigma": 5.7833,
-      "prior_n": 1
+      "title": "Basse Casamance",
+      "path": "africa/senegal/bassecasamance",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Olsztyn",
-      "path": "europe/poland/olsztyn",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Mand\u00f8",
+      "path": "europe/denmark/mand",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Taboga",
-      "path": "northamerica/panama/taboga",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Wairoa",
+      "path": "australiaandpacific/newzealand/north_island/hawkes_bay/wairoa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Ceibal",
-      "path": "northamerica/guatemala/ceibal",
-      "prior_mu": 22.7068,
-      "prior_sigma": 5.948,
-      "prior_n": 1
+      "title": "Jinotega",
+      "path": "northamerica/nicaragua/jinotega",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "M\u00e9rida",
-      "path": "southamerica/venezuela/merida",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "T\u00e2rgovi\u0219te",
+      "path": "europe/romania/targoviste",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Lushoto",
-      "path": "africa/tanzania/lushoto",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Poltava",
+      "path": "europe/ukraine/poltava",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Festivals",
-      "path": "africa/burkinafaso/ouagadougou/fespaco",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Fairplay",
-      "path": "northamerica/unitedstates/colorado/fairplay",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Beauvais",
+      "path": "europe/france/around_paris/beauvais",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "MAIRA",
-      "path": "asia/pakistan/abbottabad/maira",
-      "prior_mu": 20.4084,
-      "prior_sigma": 4.7013,
-      "prior_n": 2
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Kandahar",
-      "path": "asia/afghanistan/kandahar",
-      "prior_mu": 18.3441,
-      "prior_sigma": 6.7588,
-      "prior_n": 1
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     }
   ]
 }

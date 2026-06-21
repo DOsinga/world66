@@ -1,0 +1,200 @@
+{
+  "round": 3284,
+  "timestamp": "2026-06-13T22:42:36",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Santander",
+      "path": "europe/spain/cantabria/santander",
+      "prior_score": 2.0904,
+      "prior_variance": 0.133289,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Karachi",
+      "path": "asia/pakistan/karachi",
+      "prior_score": -6.5648,
+      "prior_variance": 0.221753,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Aden",
+      "path": "asia/yemen/aden",
+      "prior_score": -8.1878,
+      "prior_variance": 0.277735,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.1411,
+      "prior_variance": 0.145222,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Liaoyang",
+      "path": "asia/china/liaoning/liaoyang",
+      "prior_score": -5.5078,
+      "prior_variance": 0.149108,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Calder\u00f3n",
+      "path": "southamerica/ecuador/calderon",
+      "prior_score": -5.5429,
+      "prior_variance": 0.174571,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Hotan",
+      "path": "asia/china/xinjiangprovince/hotan",
+      "prior_score": -5.9224,
+      "prior_variance": 0.235677,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "San Pedro Sula",
+      "path": "northamerica/honduras/sanpedrosula",
+      "prior_score": -7.0419,
+      "prior_variance": 0.207788,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Baltsi",
+      "path": "europe/moldova/baltsi",
+      "prior_score": -6.2128,
+      "prior_variance": 0.185469,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -4.0733,
+      "prior_variance": 0.167839,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Legal",
+      "path": "northamerica/canada/alberta/legal",
+      "prior_score": -8.0797,
+      "prior_variance": 0.236231,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Larned",
+      "path": "northamerica/unitedstates/kansas/larned",
+      "prior_score": -6.7992,
+      "prior_variance": 0.183666,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Warr Acres",
+      "path": "northamerica/unitedstates/oklahoma/warr_acres",
+      "prior_score": -7.1231,
+      "prior_variance": 0.242248,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -6.8038,
+      "prior_variance": 0.220526,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Smara",
+      "path": "africa/morocco/smara",
+      "prior_score": -7.2052,
+      "prior_variance": 0.196968,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Glidji",
+      "path": "africa/togo/glidji",
+      "prior_score": -7.4351,
+      "prior_variance": 0.24779,
+      "prior_n": 10
+    },
+    {
+      "rank": 17,
+      "title": "Fakobly",
+      "path": "africa/ivorycoast/fakobly",
+      "prior_score": -8.7049,
+      "prior_variance": 0.290296,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Wargal",
+      "path": "asia/india/andhrapradesh/wargal",
+      "prior_score": -6.2702,
+      "prior_variance": 0.154222,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Dera Ghazi Khan",
+      "path": "asia/pakistan/dera_ghazi_khan",
+      "prior_score": -8.6252,
+      "prior_variance": 0.240359,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Acalayong",
+      "path": "africa/equatorialguinea/riomuni/acalayong",
+      "prior_score": -8.2688,
+      "prior_variance": 0.361429,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Hong",
+      "path": "africa/nigeria/hong",
+      "prior_score": -8.9433,
+      "prior_variance": 0.350634,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Lughaya",
+      "path": "africa/somaliland/lughaya",
+      "prior_score": -10.24,
+      "prior_variance": 0.405051,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -9.1296,
+      "prior_variance": 0.323613,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Hadramawt",
+      "path": "asia/yemen/hadramawt",
+      "prior_score": -9.3662,
+      "prior_variance": 0.275001,
+      "prior_n": 11
+    }
+  ]
+}

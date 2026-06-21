@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pangani_River_Tanzania.jpg
 latitude: -5.8325
 loc_type: city
 longitude: 38.5667
-score: 0.48
+score: 0.43
 title: Pangani
 type: location
 ---

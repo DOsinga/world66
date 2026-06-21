@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melide_Furelos_Galiza_06.j
 latitude: 42.9146
 loc_type: city
 longitude: -8.0136
-score: 0.49
+score: 0.44
 title: Melide
 type: location
 ---

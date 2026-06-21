@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiangshan_Scenic_Area_8946
 latitude: 25.277989
 loc_type: city
 longitude: 110.291062
-score: 0.72
+score: 0.66
 title: Guilin
 type: location
 ---

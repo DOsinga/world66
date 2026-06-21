@@ -5,7 +5,7 @@ done:
 latitude: 57.2556
 loc_type: city
 longitude: -4.4865
-score: 0.53
+score: 0.43
 title: Foyers
 type: location
 ---

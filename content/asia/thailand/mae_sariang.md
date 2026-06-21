@@ -5,7 +5,7 @@ done:
 latitude: 18.159646
 loc_type: city
 longitude: 97.930113
-score: 0.52
+score: 0.44
 title: Mae Sariang
 type: location
 ---

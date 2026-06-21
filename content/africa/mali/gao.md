@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tombeau_dAskia_in_Gao_by_D
 latitude: 16.278813
 loc_type: city
 longitude: -0.041239
-score: 0.24
+score: 0.2
 title: Gao
 type: location
 ---

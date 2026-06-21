@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Billy_the_Kid_Trail_-_Down
 latitude: 33.3316
 loc_type: city
 longitude: -105.6731
-score: 0.46
+score: 0.42
 title: Ruidoso
 type: location
 ---

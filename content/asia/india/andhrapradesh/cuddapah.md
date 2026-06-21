@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dr.YSR_Kadapa_district.jpg
 latitude: 14.49566
 loc_type: city
 longitude: 78.834928
-score: 0.29
+score: 0.24
 title: Cuddapah
 type: location
 ---

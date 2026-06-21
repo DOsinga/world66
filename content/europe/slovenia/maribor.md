@@ -5,7 +5,7 @@ done:
 latitude: 46.557644
 loc_type: city
 longitude: 15.645585
-score: 0.45
+score: 0.47
 title: Maribor
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 3690,
+  "timestamp": "2026-06-13T23:12:39",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 6.4182,
+      "prior_variance": 0.132132,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Ragusa",
+      "path": "europe/italy/sicily/ragusa",
+      "prior_score": 5.8419,
+      "prior_variance": 0.150644,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Praia da Luz",
+      "path": "europe/portugal/algarve/praiadaluz",
+      "prior_score": 3.6937,
+      "prior_variance": 0.124818,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Daisetsuzan",
+      "path": "asia/japan/hokkaido/daisetsuzan",
+      "prior_score": 2.5478,
+      "prior_variance": 0.206179,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "K\u014dchi",
+      "path": "asia/japan/shikoku/kochi",
+      "prior_score": 2.7072,
+      "prior_variance": 0.114197,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Enniskerry",
+      "path": "europe/ireland/enniskerry",
+      "prior_score": 2.3883,
+      "prior_variance": 0.118722,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Youghal",
+      "path": "europe/ireland/youghal",
+      "prior_score": 0.5184,
+      "prior_variance": 0.109116,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Motueka",
+      "path": "australiaandpacific/newzealand/motueka",
+      "prior_score": 1.5915,
+      "prior_variance": 0.107242,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Anaheim",
+      "path": "northamerica/unitedstates/california/orangecounty/anaheim",
+      "prior_score": 1.0481,
+      "prior_variance": 0.134424,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Reading",
+      "path": "europe/unitedkingdom/england/south_east/reading",
+      "prior_score": -4.8391,
+      "prior_variance": 0.158681,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Warrington",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington",
+      "prior_score": -3.498,
+      "prior_variance": 0.125544,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Niulakita island",
+      "path": "australiaandpacific/tuvalu/niulakitaisland",
+      "prior_score": -8.7304,
+      "prior_variance": 0.292344,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Marion",
+      "path": "northamerica/unitedstates/northcarolina/marion",
+      "prior_score": -4.3181,
+      "prior_variance": 0.109121,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Rolla",
+      "path": "northamerica/unitedstates/missouri/rolla",
+      "prior_score": -5.1952,
+      "prior_variance": 0.147653,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Cotton Tree",
+      "path": "australiaandpacific/australia/queensland/cottontree",
+      "prior_score": -4.8114,
+      "prior_variance": 0.123939,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "National City",
+      "path": "northamerica/unitedstates/california/national_city",
+      "prior_score": -4.811,
+      "prior_variance": 0.149756,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -4.5475,
+      "prior_variance": 0.12989,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Qax",
+      "path": "europe/azerbaijan/qax",
+      "prior_score": -4.4318,
+      "prior_variance": 0.111629,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Weinan",
+      "path": "asia/china/shaanxi/weinan",
+      "prior_score": -4.2928,
+      "prior_variance": 0.126318,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Khanpur",
+      "path": "asia/pakistan/khan_pur",
+      "prior_score": -5.7571,
+      "prior_variance": 0.146891,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Lubango",
+      "path": "africa/angola/lubango",
+      "prior_score": -4.5009,
+      "prior_variance": 0.132216,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Malabo",
+      "path": "africa/equatorialguinea/malabo",
+      "prior_score": -5.7947,
+      "prior_variance": 0.169301,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "N'Djamena",
+      "path": "africa/chad/ndjamena",
+      "prior_score": -7.7663,
+      "prior_variance": 0.18549,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Culiacan",
+      "path": "northamerica/mexico/culiacan",
+      "prior_score": -6.6141,
+      "prior_variance": 0.183529,
+      "prior_n": 11
+    }
+  ]
+}

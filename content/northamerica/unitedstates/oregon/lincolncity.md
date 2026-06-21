@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lincoln_City,_United_State
 latitude: 44.961792
 loc_type: city
 longitude: -124.015952
-score: 0.47
+score: 0.4
 title: Lincoln City
 type: location
 ---

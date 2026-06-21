@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Astana_from_Radison_Hotel.
 latitude: 51.1282
 loc_type: city
 longitude: 71.4307
-score: 0.49
+score: 0.39
 title: Astana
 type: location
 ---

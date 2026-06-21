@@ -1,0 +1,200 @@
+{
+  "round": 3831,
+  "timestamp": "2026-06-13T23:23:15",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mesa Verde National Park",
+      "path": "northamerica/unitedstates/colorado/mesaverde",
+      "prior_score": 7.2485,
+      "prior_variance": 0.134945,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Pula",
+      "path": "europe/croatia/pula",
+      "prior_score": 6.4627,
+      "prior_variance": 0.125808,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Cordoba",
+      "path": "europe/spain/andalucia/cordoba",
+      "prior_score": 8.1798,
+      "prior_variance": 0.206434,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Safranbolu",
+      "path": "asia/turkey/safranbolu",
+      "prior_score": 4.1265,
+      "prior_variance": 0.106187,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Lalitpur (Patan)",
+      "path": "asia/nepal/lalitpur",
+      "prior_score": 4.2224,
+      "prior_variance": 0.14923,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Samos",
+      "path": "europe/greece/samos",
+      "prior_score": 4.91,
+      "prior_variance": 0.138001,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Mendoza",
+      "path": "southamerica/argentina/mendoza",
+      "prior_score": 4.9362,
+      "prior_variance": 0.134412,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Vang Vieng",
+      "path": "asia/laos/vangvieng",
+      "prior_score": 4.283,
+      "prior_variance": 0.154239,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Khamlia",
+      "path": "africa/morocco/khamlia",
+      "prior_score": 0.9126,
+      "prior_variance": 0.089644,
+      "prior_n": 15
+    },
+    {
+      "rank": 10,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.4926,
+      "prior_variance": 0.104949,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.2566,
+      "prior_variance": 0.129242,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Boca Chica",
+      "path": "northamerica/dominicanrepublic/bocachica",
+      "prior_score": -1.6096,
+      "prior_variance": 0.131452,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Tripoli",
+      "path": "asia/lebanon/tripoli",
+      "prior_score": -2.0659,
+      "prior_variance": 0.14185,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Carmarthen",
+      "path": "europe/unitedkingdom/wales/carmarthen",
+      "prior_score": -1.9014,
+      "prior_variance": 0.123339,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Dessau",
+      "path": "europe/germany/saxonyanhalt/dessau",
+      "prior_score": -2.8363,
+      "prior_variance": 0.118799,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Avil\u00e9s",
+      "path": "europe/spain/northernspain/aviles",
+      "prior_score": -0.9754,
+      "prior_variance": 0.096699,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.1212,
+      "prior_variance": 0.104668,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "P\u00f5lva",
+      "path": "europe/estonia/plva",
+      "prior_score": -2.7127,
+      "prior_variance": 0.105604,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Appleton",
+      "path": "northamerica/unitedstates/wisconsin/appleton",
+      "prior_score": -3.0235,
+      "prior_variance": 0.139464,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Vinh",
+      "path": "asia/vietnam/vinh",
+      "prior_score": -4.0723,
+      "prior_variance": 0.109905,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ust-Kamenogorsk",
+      "path": "asia/kazakhstan/ustkamenogorsk",
+      "prior_score": -5.0706,
+      "prior_variance": 0.114758,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Zhongli",
+      "path": "asia/taiwan/jungli",
+      "prior_score": -4.1024,
+      "prior_variance": 0.142074,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -2.5048,
+      "prior_variance": 0.109855,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Abemama",
+      "path": "australiaandpacific/kiribati/abemama",
+      "prior_score": -3.6659,
+      "prior_variance": 0.11063,
+      "prior_n": 13
+    }
+  ]
+}

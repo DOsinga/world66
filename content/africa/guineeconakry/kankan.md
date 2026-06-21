@@ -5,7 +5,7 @@ done:
 latitude: 10.624835
 loc_type: city
 longitude: -9.317517
-score: 0.29
+score: 0.2
 title: Kankan
 type: location
 image: kankan.jpg

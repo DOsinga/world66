@@ -5,7 +5,7 @@ done:
 latitude: 5.85
 loc_type: feature
 longitude: -54.7
-score: 0.41
+score: 0.33
 title: Wia Wia Reserve
 type: location
 ---

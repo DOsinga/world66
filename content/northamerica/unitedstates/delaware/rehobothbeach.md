@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Air_view_of_Rehoboth_Beach
 latitude: 38.716477
 loc_type: city
 longitude: -75.083511
-score: 0.44
+score: 0.43
 title: Rehoboth Beach
 type: location
 ---

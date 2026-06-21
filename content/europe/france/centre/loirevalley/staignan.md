@@ -5,7 +5,7 @@ done:
 latitude: 47.2667
 loc_type: city
 longitude: 1.3667
-score: 0.53
+score: 0.45
 title: St. Aignan
 type: location
 ---

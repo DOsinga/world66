@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centrum_Eindhoven.jpg
 latitude: 51.4416
 loc_type: city
 longitude: 5.4697
-score: 0.49
+score: 0.41
 title: Eindhoven
 type: location
 ---

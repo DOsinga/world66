@@ -1,0 +1,200 @@
+{
+  "round": 4422,
+  "timestamp": "2026-06-14T00:11:21",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Les Saintes",
+      "path": "northamerica/thecaribbean/guadeloupe/lessaintes",
+      "prior_score": 5.5057,
+      "prior_variance": 0.106869,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Stone Town",
+      "path": "africa/tanzania/zanzibar/stonetown",
+      "prior_score": 7.1884,
+      "prior_variance": 0.13311,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Ronda",
+      "path": "europe/spain/andalucia/ronda",
+      "prior_score": 7.1899,
+      "prior_variance": 0.132689,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Perugia",
+      "path": "europe/italy/umbria/perugia",
+      "prior_score": 5.2797,
+      "prior_variance": 0.109676,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Bhaktapur",
+      "path": "asia/nepal/bhaktapur",
+      "prior_score": 5.6494,
+      "prior_variance": 0.131113,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "National Parks",
+      "path": "australiaandpacific/australia/queensland/nationalparks",
+      "prior_score": 3.1772,
+      "prior_variance": 0.120541,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Skagen",
+      "path": "europe/denmark/skagen",
+      "prior_score": 3.69,
+      "prior_variance": 0.094999,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Vaduz",
+      "path": "europe/liechtenstein/vaduz",
+      "prior_score": 2.7394,
+      "prior_variance": 0.106568,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 2.796,
+      "prior_variance": 0.100567,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Flagstaff",
+      "path": "northamerica/unitedstates/arizona/flagstaff",
+      "prior_score": 3.3942,
+      "prior_variance": 0.091827,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Schwerin",
+      "path": "europe/germany/mecklenburgwesternpomerania/schwerin",
+      "prior_score": 1.401,
+      "prior_variance": 0.106401,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.3127,
+      "prior_variance": 0.123796,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Erdenet",
+      "path": "asia/mongolia/erdenet",
+      "prior_score": -4.3252,
+      "prior_variance": 0.104177,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Resolute",
+      "path": "northamerica/canada/nunavut/resolute",
+      "prior_score": -5.5645,
+      "prior_variance": 0.172061,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -6.7686,
+      "prior_variance": 0.15841,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Techiman",
+      "path": "africa/ghana/techiman",
+      "prior_score": -4.8064,
+      "prior_variance": 0.120749,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Ouahigouya",
+      "path": "africa/burkinafaso/ouahigouya",
+      "prior_score": -7.8147,
+      "prior_variance": 0.198776,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Atascadero",
+      "path": "northamerica/unitedstates/california/atascadero",
+      "prior_score": -3.6337,
+      "prior_variance": 0.106367,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ahmadi",
+      "path": "asia/kuwait/ahmadi",
+      "prior_score": -6.5358,
+      "prior_variance": 0.158238,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/indiana/lafayette",
+      "prior_score": -4.6298,
+      "prior_variance": 0.105802,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Lansing",
+      "path": "northamerica/unitedstates/michigan/lansing",
+      "prior_score": -3.7546,
+      "prior_variance": 0.097026,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Worcester",
+      "path": "northamerica/unitedstates/massachusetts/worcester",
+      "prior_score": -3.9031,
+      "prior_variance": 0.114226,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Phenix City",
+      "path": "northamerica/unitedstates/alabama/phenix_city",
+      "prior_score": -6.1414,
+      "prior_variance": 0.134935,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Burnley",
+      "path": "europe/unitedkingdom/england/lancashire/burnley",
+      "prior_score": -4.8495,
+      "prior_variance": 0.129371,
+      "prior_n": 14
+    }
+  ]
+}

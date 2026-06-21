@@ -14,7 +14,7 @@ quick_facts:
   Currency: Quetzal (named after the national bird)
   Volcanoes: "37"
   Living Maya Languages: "21 still spoken today"
-score: 0.6
+score: 0.75
 loc_type: country
 ---
 

@@ -5,7 +5,7 @@ latitude: 11.5
 longitude: 162.333333
 title: Enewetak Atoll
 type: location
-score: 0.37
+score: 0.31
 loc_type: feature
 ---
 

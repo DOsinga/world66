@@ -6,7 +6,7 @@ done:
 latitude: -25.516901
 loc_type: city
 longitude: -54.616864
-score: 0.34
+score: 0.28
 title: Ciudad del Este
 type: location
 ---

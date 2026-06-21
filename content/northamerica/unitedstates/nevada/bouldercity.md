@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boulder_City,_Nevada_(1441
 latitude: 35.9788
 loc_type: city
 longitude: -114.8338
-score: 0.46
+score: 0.4
 title: Boulder City
 type: location
 ---

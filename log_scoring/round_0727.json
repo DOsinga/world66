@@ -1,200 +1,200 @@
 {
   "round": 727,
-  "timestamp": "2026-04-12T10:45:29",
+  "timestamp": "2026-06-13T19:50:40",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Shinjuku",
-      "path": "asia/japan/tokyo/shinjuku",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Patna",
+      "path": "asia/india/bihar/patna",
+      "prior_score": -12.6958,
+      "prior_variance": 0.688053,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Bilbao",
-      "path": "europe/spain/northernspain/bilbao",
-      "prior_mu": 23.0123,
-      "prior_sigma": 4.4731,
+      "title": "Asyut",
+      "path": "africa/egypt/asyut",
+      "prior_score": -11.706,
+      "prior_variance": 0.769291,
       "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Comino",
-      "path": "europe/malta/gozo/comino",
-      "prior_mu": 22.1508,
-      "prior_sigma": 4.6826,
+      "title": "Samarinda",
+      "path": "asia/indonesia/kalimantan/samarinda",
+      "prior_score": -11.8189,
+      "prior_variance": 1.094171,
       "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Austin",
-      "path": "northamerica/unitedstates/texas/austin",
-      "prior_mu": 29.4462,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -13.3271,
+      "prior_variance": 1.057555,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Sibiu",
-      "path": "europe/romania/sibiu",
-      "prior_mu": 23.3696,
-      "prior_sigma": 5.9853,
-      "prior_n": 1
+      "title": "Belgorod",
+      "path": "europe/russia/belgorod_1",
+      "prior_score": -13.9448,
+      "prior_variance": 1.024297,
+      "prior_n": 2
     },
     {
       "rank": 6,
-      "title": "R\u00f8ros",
-      "path": "europe/norway/rros",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gjilan",
+      "path": "europe/serbia/kosovoprovince/gjilan",
+      "prior_score": -12.9215,
+      "prior_variance": 1.064708,
+      "prior_n": 2
     },
     {
       "rank": 7,
-      "title": "Caernarfon",
-      "path": "europe/unitedkingdom/wales/caernarfon",
-      "prior_mu": 22.4834,
-      "prior_sigma": 5.7778,
+      "title": "Haderslev",
+      "path": "europe/denmark/haderslev",
+      "prior_score": -5.0063,
+      "prior_variance": 1.360766,
       "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Sandvig-Allinge",
-      "path": "europe/denmark/bornholmisland/sandvigallinge",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Choluteca",
+      "path": "northamerica/honduras/choluteca",
+      "prior_score": -13.2168,
+      "prior_variance": 0.596767,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Dades Valley",
-      "path": "africa/morocco/dadesvalley",
-      "prior_mu": 22.8302,
-      "prior_sigma": 5.6099,
-      "prior_n": 1
+      "title": "Juarez",
+      "path": "northamerica/mexico/juarez",
+      "prior_score": -14.3253,
+      "prior_variance": 1.0866,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Dominica",
-      "path": "northamerica/thecaribbean/dominica",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Ojinaga",
+      "path": "northamerica/mexico/ojinaga",
+      "prior_score": -12.2722,
+      "prior_variance": 0.746589,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Magaluf",
-      "path": "europe/spain/balearicislands/mallorca/magaluf",
-      "prior_mu": 21.7485,
-      "prior_sigma": 3.8294,
-      "prior_n": 3
+      "title": "McAlester",
+      "path": "northamerica/unitedstates/oklahoma/mcalester",
+      "prior_score": -12.6229,
+      "prior_variance": 1.133428,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Nakuru",
-      "path": "africa/kenya/theriftvalley/nakuru",
-      "prior_mu": 22.4963,
-      "prior_sigma": 5.8109,
-      "prior_n": 1
+      "title": "Altus",
+      "path": "northamerica/unitedstates/oklahoma/altus",
+      "prior_score": -13.9946,
+      "prior_variance": 1.137206,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Saint-Louis",
-      "path": "africa/senegal/saintlouis",
-      "prior_mu": 22.6967,
-      "prior_sigma": 5.6838,
-      "prior_n": 1
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -11.5147,
+      "prior_variance": 1.606155,
+      "prior_n": 2
     },
     {
       "rank": 14,
-      "title": "Omo River",
-      "path": "africa/ethiopia/omoriver",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Wendover",
+      "path": "northamerica/unitedstates/utah/wendover",
+      "prior_score": -11.9645,
+      "prior_variance": 1.034063,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Corinth",
-      "path": "europe/greece/corinth",
-      "prior_mu": 21.8536,
-      "prior_sigma": 4.5333,
+      "title": "Reading",
+      "path": "northamerica/unitedstates/vermont/reading",
+      "prior_score": -11.4508,
+      "prior_variance": 0.88224,
       "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Metaponto",
-      "path": "europe/italy/basilicata/metaponto",
-      "prior_mu": 21.9086,
-      "prior_sigma": 4.8307,
+      "title": "San Fidel",
+      "path": "northamerica/unitedstates/newmexico/san_fidel",
+      "prior_score": -13.0218,
+      "prior_variance": 1.053671,
       "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Western Kenya",
-      "path": "africa/kenya/westernkenya",
-      "prior_mu": 22.2252,
-      "prior_sigma": 5.9111,
-      "prior_n": 1
+      "title": "Worksop",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop",
+      "prior_score": -10.9842,
+      "prior_variance": 1.086038,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Bluefields",
-      "path": "northamerica/nicaragua/bluefields",
-      "prior_mu": 22.516,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Raipur",
+      "path": "asia/india/madhyapradesh/raipur",
+      "prior_score": -13.6072,
+      "prior_variance": 1.084092,
+      "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Lusaka",
-      "path": "africa/zambia/lusaka",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Gandhidham",
+      "path": "asia/india/gujarat/kutch/gandidam",
+      "prior_score": -13.4526,
+      "prior_variance": 1.262393,
+      "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Kosovo",
-      "path": "europe/serbiaandmontenegro/kosovoprovince",
-      "prior_mu": 22.4122,
-      "prior_sigma": 5.7214,
+      "title": "Mabaruma",
+      "path": "southamerica/guyana/mabarumba",
+      "prior_score": -9.3699,
+      "prior_variance": 1.783922,
       "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Concord",
-      "path": "northamerica/unitedstates/newhampshire/concord",
-      "prior_mu": 22.7575,
-      "prior_sigma": 5.6706,
-      "prior_n": 1
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -15.3648,
+      "prior_variance": 1.15239,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Kenema",
-      "path": "africa/sierraleone/kenema",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Business Hours",
+      "path": "southamerica/chile/travelfacts",
+      "prior_score": -14.3913,
+      "prior_variance": 1.07276,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Arlington",
-      "path": "northamerica/unitedstates/texas/arlington",
-      "prior_mu": 21.1431,
-      "prior_sigma": 3.3462,
-      "prior_n": 4
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -11.3817,
+      "prior_variance": 3.511531,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Abbotsford",
-      "path": "northamerica/unitedstates/wisconsin/abbotsford",
-      "prior_mu": 18.026,
-      "prior_sigma": 6.5301,
-      "prior_n": 1
+      "title": "Khanpur Mahar",
+      "path": "asia/pakistan/khanpur_mahar",
+      "prior_score": -14.2491,
+      "prior_variance": 0.772738,
+      "prior_n": 2
     }
   ]
 }

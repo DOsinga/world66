@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico,_16.
 latitude: 37.884581
 loc_type: city
 longitude: -4.776014
-score: 0.75
+score: 0.65
 title: Cordoba
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 4830,
+  "timestamp": "2026-06-14T00:45:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Stellenbosch",
+      "path": "africa/southafrica/stellenbosch",
+      "prior_score": 4.6679,
+      "prior_variance": 0.107584,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Rennes",
+      "path": "europe/france/normandybrittany/rennes",
+      "prior_score": 3.376,
+      "prior_variance": 0.086763,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Sestri Levante",
+      "path": "europe/italy/liguria/sestri_levante",
+      "prior_score": 4.822,
+      "prior_variance": 0.100205,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": 1.4168,
+      "prior_variance": 0.086425,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Norrk\u00f6ping",
+      "path": "europe/sweden/norrkping",
+      "prior_score": -0.0119,
+      "prior_variance": 0.084669,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Halle",
+      "path": "europe/germany/saxonyanhalt/halle",
+      "prior_score": -0.7521,
+      "prior_variance": 0.089038,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Ruse",
+      "path": "europe/bulgaria/ruse",
+      "prior_score": -0.2764,
+      "prior_variance": 0.090119,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Radovljica",
+      "path": "europe/slovenia/radovljica",
+      "prior_score": 1.7579,
+      "prior_variance": 0.083526,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Port Royal",
+      "path": "northamerica/jamaica/portroyal",
+      "prior_score": 0.5142,
+      "prior_variance": 0.089216,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Mrauk-U",
+      "path": "asia/myanmar/mrauku",
+      "prior_score": 0.1972,
+      "prior_variance": 0.097915,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Hout Bay",
+      "path": "africa/southafrica/houtbay",
+      "prior_score": 1.7984,
+      "prior_variance": 0.086002,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Julian",
+      "path": "northamerica/unitedstates/california/julian",
+      "prior_score": -0.0828,
+      "prior_variance": 0.086809,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 1.1331,
+      "prior_variance": 0.087451,
+      "prior_n": 17
+    },
+    {
+      "rank": 14,
+      "title": "Ch\u00e2teau de Val",
+      "path": "europe/france/centre/limousin/chateaudeval",
+      "prior_score": 1.0816,
+      "prior_variance": 0.090039,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Vaasa",
+      "path": "europe/finland/vaasa",
+      "prior_score": -0.9372,
+      "prior_variance": 0.084114,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Bormida",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/bormida",
+      "prior_score": -1.6044,
+      "prior_variance": 0.094117,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Figline",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/figline",
+      "prior_score": -1.213,
+      "prior_variance": 0.088687,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Enshi",
+      "path": "asia/china/hubei/enshi",
+      "prior_score": -1.0746,
+      "prior_variance": 0.08809,
+      "prior_n": 16
+    },
+    {
+      "rank": 19,
+      "title": "Groveland",
+      "path": "northamerica/unitedstates/california/highsierra/groveland",
+      "prior_score": -0.3408,
+      "prior_variance": 0.102364,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.2381,
+      "prior_variance": 0.083484,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Hope",
+      "path": "northamerica/canada/britishcolumbia/hope",
+      "prior_score": -1.7555,
+      "prior_variance": 0.080048,
+      "prior_n": 17
+    },
+    {
+      "rank": 22,
+      "title": "Denman Island",
+      "path": "northamerica/canada/britishcolumbia/denman_island",
+      "prior_score": -1.5775,
+      "prior_variance": 0.095121,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Aneho",
+      "path": "africa/togo/aneho",
+      "prior_score": -4.6492,
+      "prior_variance": 0.0975,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.1204,
+      "prior_variance": 0.101498,
+      "prior_n": 15
+    }
+  ]
+}

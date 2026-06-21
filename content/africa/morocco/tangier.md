@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_del_cabo_Espartel,_Ma
 latitude: 35.7596
 loc_type: city
 longitude: -5.834
-score: 0.59
+score: 0.52
 title: Tangier
 type: location
 ---

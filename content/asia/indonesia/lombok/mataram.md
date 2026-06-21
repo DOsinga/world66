@@ -5,7 +5,7 @@ done:
 latitude: -8.583773
 loc_type: city
 longitude: 116.10685
-score: 0.5
+score: 0.42
 title: Mataram
 type: location
 ---

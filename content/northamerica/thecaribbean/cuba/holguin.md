@@ -6,7 +6,7 @@ latitude: 20.8872
 longitude: -76.2631
 title: Holguín
 type: location
-score: 0.48
+score: 0.4
 loc_type: city
 ---
 

@@ -1,200 +1,200 @@
 {
   "round": 1103,
-  "timestamp": "2026-04-12T22:09:41",
+  "timestamp": "2026-06-13T20:11:20",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sanga",
-      "path": "africa/mali/dogoncountry/sanga",
-      "prior_rank": 6130,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Calistoga",
+      "path": "northamerica/unitedstates/california/calistoga",
+      "prior_score": 2.4024,
+      "prior_variance": 0.401876,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Alwar",
-      "path": "asia/india/rajasthan/alwar",
-      "prior_rank": 2741,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Pasargadae",
+      "path": "asia/iran/pasargadae",
+      "prior_score": 0.6286,
+      "prior_variance": 0.444649,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "Le Blanc",
-      "path": "europe/france/centre/loirevalley/le_blanc",
-      "prior_rank": 6467,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Tafraoute",
+      "path": "africa/morocco/tafraoute",
+      "prior_score": -0.6514,
+      "prior_variance": 0.478367,
+      "prior_n": 4
     },
     {
       "rank": 4,
-      "title": "Tipova Monastery",
-      "path": "europe/moldova/chirileni/lalovatipova",
-      "prior_rank": 6579,
-      "prior_wins": 12,
-      "prior_n": 2
+      "title": "Moenjodaro",
+      "path": "asia/pakistan/moenjodaro",
+      "prior_score": -0.18,
+      "prior_variance": 0.732827,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Massimino",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
-      "prior_rank": 7458,
-      "prior_wins": 7,
-      "prior_n": 2
+      "title": "Dalhousie",
+      "path": "asia/india/himachalpradesh/dalhousie",
+      "prior_score": 2.6032,
+      "prior_variance": 0.424096,
+      "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Limbe",
-      "path": "africa/cameroon/limbe",
-      "prior_rank": 3297,
-      "prior_wins": 26,
+      "title": "Khunjerab Pass",
+      "path": "asia/china/xinjiangprovince/khunjerabpass",
+      "prior_score": 0.2757,
+      "prior_variance": 0.66448,
       "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Gaborone",
-      "path": "africa/botswana/gaborone",
-      "prior_rank": 6730,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Skarsv\u00e5g",
+      "path": "europe/norway/northcape/skarsvg_the_nort",
+      "prior_score": -0.7032,
+      "prior_variance": 0.528346,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Delvina",
-      "path": "europe/albania/delvina",
-      "prior_rank": 7029,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Buljarica",
+      "path": "europe/montenegro/buljarica",
+      "prior_score": 1.3799,
+      "prior_variance": 0.486414,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Santa rita",
-      "path": "australiaandpacific/guam/santarita",
-      "prior_rank": 7462,
-      "prior_wins": 7,
-      "prior_n": 2
+      "title": "Pesaro",
+      "path": "europe/italy/marche/pesaro",
+      "prior_score": 0.8023,
+      "prior_variance": 0.471352,
+      "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Corum",
-      "path": "asia/turkey/corum",
-      "prior_rank": 6912,
-      "prior_wins": 15,
+      "title": "Caerphilly",
+      "path": "europe/unitedkingdom/wales/caerphilly",
+      "prior_score": 0.371,
+      "prior_variance": 0.391953,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Stafford",
-      "path": "europe/unitedkingdom/england/stafford",
-      "prior_rank": 3894,
-      "prior_wins": 24,
-      "prior_n": 2
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.7242,
+      "prior_variance": 0.432775,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "St. Catharines",
-      "path": "northamerica/canada/ontario/stcatharines",
-      "prior_rank": 5269,
-      "prior_wins": 17,
-      "prior_n": 2
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 1.453,
+      "prior_variance": 0.456338,
+      "prior_n": 4
     },
     {
       "rank": 13,
-      "title": "Dieppe",
-      "path": "northamerica/canada/newbrunswick/dieppe",
-      "prior_rank": 6342,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Ripoll",
+      "path": "europe/spain/catalonia/ripoll",
+      "prior_score": 1.7726,
+      "prior_variance": 0.398738,
+      "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Pajala",
-      "path": "europe/sweden/pajala",
-      "prior_rank": 7106,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Bowral",
+      "path": "australiaandpacific/australia/newsouthwales/bowral",
+      "prior_score": -1.278,
+      "prior_variance": 0.354321,
+      "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "jijel, algeria",
-      "path": "africa/algeria/jijel_algeria",
-      "prior_rank": 5224,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Donauw\u00f6rth",
+      "path": "europe/germany/bavaria/romanticroad/donauwrth",
+      "prior_score": 2.2626,
+      "prior_variance": 0.433879,
+      "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Round Rock",
-      "path": "northamerica/unitedstates/texas/round_rock",
-      "prior_rank": 6319,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "K\u00f6ssen",
+      "path": "europe/austria/koessen",
+      "prior_score": 1.0253,
+      "prior_variance": 0.597471,
+      "prior_n": 3
     },
     {
       "rank": 17,
-      "title": "Fargo",
-      "path": "northamerica/unitedstates/northdakota/fargo",
-      "prior_rank": 6301,
-      "prior_wins": 13,
-      "prior_n": 2
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": -0.2423,
+      "prior_variance": 0.53107,
+      "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Gastonia",
-      "path": "northamerica/unitedstates/northcarolina/gastonia",
-      "prior_rank": 6737,
-      "prior_wins": 11,
-      "prior_n": 2
+      "title": "Montelupo Fiorentino",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/montelupofiorentino",
+      "prior_score": 0.1059,
+      "prior_variance": 0.468807,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Tahlequah",
-      "path": "northamerica/unitedstates/oklahoma/tahlequah",
-      "prior_rank": 6117,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Playa San Juan",
+      "path": "europe/spain/spanishcostas/playasanjuan",
+      "prior_score": 0.5013,
+      "prior_variance": 0.431603,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Dammam",
-      "path": "asia/saudiarabia/dammam",
-      "prior_rank": 5507,
-      "prior_wins": 21,
+      "title": "Basse-Terre",
+      "path": "northamerica/thecaribbean/guadeloupe/basseterre",
+      "prior_score": 2.0972,
+      "prior_variance": 0.478286,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Pyay",
-      "path": "asia/myanmar/pyay",
-      "prior_rank": 6849,
-      "prior_wins": 9,
-      "prior_n": 2
+      "title": "Savannakhet",
+      "path": "asia/laos/savannakhet",
+      "prior_score": 0.2241,
+      "prior_variance": 0.404354,
+      "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Churachandpur",
-      "path": "asia/india/manipur/churachandpur",
-      "prior_rank": 7609,
-      "prior_wins": 6,
-      "prior_n": 2
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -1.5266,
+      "prior_variance": 0.414367,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Hargeisa",
-      "path": "africa/somaliland/hargeisa",
-      "prior_rank": 3658,
-      "prior_wins": 51,
-      "prior_n": 5
+      "title": "Schleissheim",
+      "path": "europe/germany/bavaria/schleissheim",
+      "prior_score": 0.2742,
+      "prior_variance": 0.383884,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Tsunda",
-      "path": "europe/georgia/tsunda",
-      "prior_rank": 8062,
-      "prior_wins": 3,
-      "prior_n": 2
+      "title": "Gyumri",
+      "path": "europe/armenia/shirak_marz/gyumri",
+      "prior_score": -0.6022,
+      "prior_variance": 0.432269,
+      "prior_n": 3
     }
   ]
 }

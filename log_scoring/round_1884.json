@@ -1,200 +1,200 @@
 {
   "round": 1884,
-  "timestamp": "2026-04-13T14:33:11",
+  "timestamp": "2026-06-13T20:58:48",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Positano",
-      "path": "europe/italy/campania/positano",
-      "prior_score": 12.3571,
-      "prior_variance": 0.511395,
-      "prior_n": 5
+      "title": "Calcutta",
+      "path": "asia/india/westbengal/calcutta",
+      "prior_score": 1.1532,
+      "prior_variance": 0.237095,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Krabi",
-      "path": "asia/thailand/krabi",
-      "prior_score": 9.8849,
-      "prior_variance": 0.46364,
-      "prior_n": 4
+      "title": "Ulaanbaatar",
+      "path": "asia/mongolia/ulaanbaatar",
+      "prior_score": 0.3261,
+      "prior_variance": 0.222365,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Amazon basin",
-      "path": "southamerica/ecuador/amazonbasin",
-      "prior_score": 4.5889,
-      "prior_variance": 0.502476,
-      "prior_n": 4
+      "title": "Phitsanulok",
+      "path": "asia/thailand/phitsanulok",
+      "prior_score": 0.8283,
+      "prior_variance": 0.271499,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Omis",
-      "path": "europe/croatia/omis",
-      "prior_score": 4.5971,
-      "prior_variance": 0.320268,
-      "prior_n": 4
+      "title": "Maramures Land",
+      "path": "europe/romania/transylvania/maramures_land",
+      "prior_score": 2.2576,
+      "prior_variance": 0.341845,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "Catalina",
-      "path": "northamerica/unitedstates/california/losangeles/catalina",
-      "prior_score": 2.9122,
-      "prior_variance": 0.429402,
+      "title": "Mallaig",
+      "path": "europe/unitedkingdom/scotland/mallaig",
+      "prior_score": 2.5159,
+      "prior_variance": 0.254137,
       "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Dartmoor",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/devon/dartmoor",
-      "prior_score": 2.948,
-      "prior_variance": 0.275619,
-      "prior_n": 5
+      "title": "Punta Ala",
+      "path": "europe/italy/tuscany/punta_ala",
+      "prior_score": 3.1381,
+      "prior_variance": 0.225097,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Altaussee",
-      "path": "europe/austria/altaussee",
-      "prior_score": 4.1382,
-      "prior_variance": 0.299528,
-      "prior_n": 5
+      "title": "Knokke",
+      "path": "europe/belgium/knokke",
+      "prior_score": -0.441,
+      "prior_variance": 0.234668,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Pelling",
-      "path": "asia/india/sikkim/pelling",
-      "prior_score": 3.3078,
-      "prior_variance": 0.293191,
-      "prior_n": 5
+      "title": "Izola",
+      "path": "europe/slovenia/izola",
+      "prior_score": 0.8463,
+      "prior_variance": 0.212921,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Nunavut",
-      "path": "northamerica/canada/nunavut",
-      "prior_score": -1.3794,
-      "prior_variance": 0.347767,
-      "prior_n": 4
+      "title": "Primorsko",
+      "path": "europe/bulgaria/primorsko",
+      "prior_score": -0.1415,
+      "prior_variance": 0.217038,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Itasca State Park",
-      "path": "northamerica/unitedstates/minnesota/itascastatepark",
-      "prior_score": -0.0168,
-      "prior_variance": 0.243978,
-      "prior_n": 5
+      "title": "Ganpatipule",
+      "path": "asia/india/maharashtra/ganpati_phule",
+      "prior_score": -0.6118,
+      "prior_variance": 0.216285,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Oulu",
-      "path": "europe/finland/oulu",
-      "prior_score": 0.0244,
-      "prior_variance": 0.234065,
-      "prior_n": 5
+      "title": "Kolovai Beach",
+      "path": "australiaandpacific/tonga/tongatapu/kolovaibeach",
+      "prior_score": -0.5842,
+      "prior_variance": 0.238476,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Oostende",
-      "path": "europe/belgium/oostende",
-      "prior_score": 1.1576,
-      "prior_variance": 0.159629,
-      "prior_n": 8
+      "title": "Amizmiz",
+      "path": "africa/morocco/amizmiz",
+      "prior_score": -0.8617,
+      "prior_variance": 0.225263,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Los Mochis",
-      "path": "northamerica/mexico/losmochis",
-      "prior_score": -0.985,
-      "prior_variance": 0.274436,
-      "prior_n": 5
+      "title": "Ingleton",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ingleton",
+      "prior_score": 0.1294,
+      "prior_variance": 0.258222,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Anamur",
-      "path": "asia/turkey/anamur",
-      "prior_score": 0.3509,
-      "prior_variance": 0.235378,
-      "prior_n": 5
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 2.5135,
+      "prior_variance": 0.248079,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Lucban",
-      "path": "asia/philippines/quezon_province/lucban",
-      "prior_score": 0.016,
-      "prior_variance": 0.219007,
+      "title": "Gr\u00e9oli\u00e8res",
+      "path": "europe/france/midi/cotedazur/greolieres",
+      "prior_score": -0.5452,
+      "prior_variance": 0.246033,
       "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Pszczyna",
-      "path": "europe/poland/pszczyna",
-      "prior_score": 0.1195,
-      "prior_variance": 0.434915,
-      "prior_n": 4
+      "title": "Brendon and Oare",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/brendon_and_oare",
+      "prior_score": 0.1697,
+      "prior_variance": 0.23071,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "Lowicz",
-      "path": "europe/poland/lowicz",
-      "prior_score": -1.6389,
-      "prior_variance": 0.296948,
-      "prior_n": 4
+      "title": "Londrina",
+      "path": "southamerica/brazil/londrina",
+      "prior_score": -3.0945,
+      "prior_variance": 0.215113,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Ukhrul",
-      "path": "asia/india/manipur/ukhrul",
-      "prior_score": -4.7881,
-      "prior_variance": 0.24838,
-      "prior_n": 5
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -3.0059,
+      "prior_variance": 0.223584,
+      "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Shankarpur",
-      "path": "asia/india/westbengal/shankarpur",
-      "prior_score": -4.4359,
-      "prior_variance": 0.280291,
-      "prior_n": 5
+      "title": "Lough Derg",
+      "path": "europe/ireland/clare/lough_derg",
+      "prior_score": 0.1904,
+      "prior_variance": 0.2241,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Escalante City",
-      "path": "asia/philippines/escalante_city",
-      "prior_score": -5.1765,
-      "prior_variance": 0.254598,
-      "prior_n": 5
+      "title": "Mosfellsb\u00e6r",
+      "path": "europe/iceland/mosfellsbaer",
+      "prior_score": -2.8364,
+      "prior_variance": 0.238481,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Leutershausen",
-      "path": "europe/germany/badenwrttemberg/leutershausen",
-      "prior_score": -4.9806,
-      "prior_variance": 0.284214,
-      "prior_n": 5
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.831,
+      "prior_variance": 0.308163,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Crawfordsville",
-      "path": "northamerica/unitedstates/indiana/crawfordsville",
-      "prior_score": -5.6593,
-      "prior_variance": 0.320409,
-      "prior_n": 4
+      "title": "Hvalba",
+      "path": "europe/faroeislands/suuroy/hvalba",
+      "prior_score": -2.4852,
+      "prior_variance": 0.396552,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Gujrat",
-      "path": "asia/pakistan/gujrat",
-      "prior_score": -6.6605,
-      "prior_variance": 0.379035,
-      "prior_n": 4
+      "title": "Grand Forks",
+      "path": "northamerica/canada/britishcolumbia/grandforks",
+      "prior_score": -4.7528,
+      "prior_variance": 0.252926,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Lodhran",
-      "path": "asia/pakistan/lodhran",
-      "prior_score": -8.6035,
-      "prior_variance": 0.533182,
-      "prior_n": 4
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -4.1809,
+      "prior_variance": 0.344368,
+      "prior_n": 6
     }
   ]
 }

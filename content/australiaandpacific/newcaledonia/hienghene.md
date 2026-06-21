@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22La_Poule_Couveuse%22_-_
 latitude: -20.689369
 loc_type: city
 longitude: 164.944037
-score: 0.53
+score: 0.44
 title: Hienghène
 type: location
 ---

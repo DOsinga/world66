@@ -5,7 +5,7 @@ done:
 latitude: 40.587537
 loc_type: city
 longitude: -86.675006
-score: 0.34
+score: 0.28
 title: Delphi
 type: location
 ---

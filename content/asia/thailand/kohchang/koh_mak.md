@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Red_sun
 latitude: 11.816
 loc_type: city
 longitude: 102.492633
-score: 0.65
+score: 0.51
 title: Koh Mak
 type: location
 ---

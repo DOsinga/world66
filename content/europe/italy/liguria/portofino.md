@@ -6,7 +6,7 @@ longitude: 9.209345
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-09'
-score: 0.85
+score: 0.65
 image: portofino.jpg
 image_source: https://commons.wikimedia.org/wiki/File:EVENING_FALLS_IN_PORTOFINO.%D7%A2%D7%A8%D7%91_%D7%99%D7%95%D7%A8%D7%93_%D7%91%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%A4%D7%99%D7%A0%D7%95.jpg
 image_license: CC0

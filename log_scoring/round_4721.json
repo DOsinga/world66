@@ -1,0 +1,200 @@
+{
+  "round": 4721,
+  "timestamp": "2026-06-14T00:36:02",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tambopata",
+      "path": "southamerica/peru/tambopata",
+      "prior_score": 5.5888,
+      "prior_variance": 0.111368,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Valley of Flowers",
+      "path": "asia/india/uttaranchal/valley_of_flowers",
+      "prior_score": 4.8886,
+      "prior_variance": 0.101037,
+      "prior_n": 15
+    },
+    {
+      "rank": 3,
+      "title": "Mount Etna Park",
+      "path": "europe/italy/sicily/mount_etna_park",
+      "prior_score": 6.2788,
+      "prior_variance": 0.101442,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Cuenca",
+      "path": "southamerica/ecuador/cuenca",
+      "prior_score": 4.9622,
+      "prior_variance": 0.105195,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Mardin",
+      "path": "asia/turkey/mardin",
+      "prior_score": 3.6908,
+      "prior_variance": 0.109001,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Fujian Tulou",
+      "path": "asia/china/fujianprovince/tulou",
+      "prior_score": 4.1511,
+      "prior_variance": 0.097785,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Alcantara Gorges",
+      "path": "europe/italy/sicily/alcantara_gorges",
+      "prior_score": 2.7011,
+      "prior_variance": 0.088208,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Parco Nazionale del Cilento e del Vallo di Diano",
+      "path": "europe/italy/campania/parco_nazionale_del_cilento_e_del_vallo_di_diano",
+      "prior_score": 3.0381,
+      "prior_variance": 0.094681,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Vergina",
+      "path": "europe/greece/vergina",
+      "prior_score": 2.7922,
+      "prior_variance": 0.087313,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Brac",
+      "path": "europe/croatia/brac",
+      "prior_score": 4.3726,
+      "prior_variance": 0.11441,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Cardiff",
+      "path": "europe/unitedkingdom/wales/cardiff",
+      "prior_score": 2.8236,
+      "prior_variance": 0.105268,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "La Coru\u00f1a",
+      "path": "europe/spain/northernspain/lacorua",
+      "prior_score": 2.2077,
+      "prior_variance": 0.088557,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Sunshine Coast",
+      "path": "australiaandpacific/australia/queensland/sunshinecoast",
+      "prior_score": 3.8459,
+      "prior_variance": 0.101424,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Vladivostok",
+      "path": "europe/russia/vladivostok",
+      "prior_score": -0.254,
+      "prior_variance": 0.090138,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 1.1402,
+      "prior_variance": 0.121606,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Sanxenxo",
+      "path": "europe/spain/galicia/sanxenxo",
+      "prior_score": 1.3527,
+      "prior_variance": 0.083846,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Ystad",
+      "path": "europe/sweden/ystad",
+      "prior_score": 1.5682,
+      "prior_variance": 0.090008,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Santar\u00e9m",
+      "path": "europe/portugal/santarem",
+      "prior_score": 0.3601,
+      "prior_variance": 0.094151,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Pescara",
+      "path": "europe/italy/abruzzo/pescara",
+      "prior_score": 1.1408,
+      "prior_variance": 0.079786,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Eureka",
+      "path": "northamerica/unitedstates/california/northcoast/eureka",
+      "prior_score": -0.8981,
+      "prior_variance": 0.087137,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Montr\u00e9al",
+      "path": "europe/france/east/burgundy/montral",
+      "prior_score": -0.8009,
+      "prior_variance": 0.080707,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Savinja and \u0160alek Valley",
+      "path": "europe/slovenia/savinja_and_alek",
+      "prior_score": -0.0056,
+      "prior_variance": 0.095089,
+      "prior_n": 16
+    },
+    {
+      "rank": 23,
+      "title": "Folsom",
+      "path": "northamerica/unitedstates/california/goldcountry/folsom",
+      "prior_score": -0.8589,
+      "prior_variance": 0.085268,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": 0.0742,
+      "prior_variance": 0.08622,
+      "prior_n": 16
+    }
+  ]
+}

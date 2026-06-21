@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Saumur.JPG
 latitude: 47.2596
 loc_type: city
 longitude: -0.0785
-score: 0.63
+score: 0.53
 title: Saumur
 type: location
 ---

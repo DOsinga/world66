@@ -1,0 +1,200 @@
+{
+  "round": 3472,
+  "timestamp": "2026-06-13T22:56:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Camiguin Island",
+      "path": "asia/philippines/camiguinisland",
+      "prior_score": 5.0655,
+      "prior_variance": 0.148736,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Gunung Leuser National Park",
+      "path": "asia/indonesia/sumatra/gununglesuer",
+      "prior_score": 3.4758,
+      "prior_variance": 0.129792,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Aberdare N.P.",
+      "path": "africa/kenya/nationalparksandreserves/aberdarenp",
+      "prior_score": 1.7268,
+      "prior_variance": 0.12078,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 2.5775,
+      "prior_variance": 0.125083,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Tissamaharama",
+      "path": "asia/srilanka/tissamaharama",
+      "prior_score": 1.7774,
+      "prior_variance": 0.119625,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Dhulikhel",
+      "path": "asia/nepal/dhulikel",
+      "prior_score": 2.1139,
+      "prior_variance": 0.147671,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Sikinos",
+      "path": "europe/greece/sikinos",
+      "prior_score": 3.9634,
+      "prior_variance": 0.137976,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Portrush",
+      "path": "europe/unitedkingdom/northernireland/portrush",
+      "prior_score": 3.3894,
+      "prior_variance": 0.123045,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Piazza Armerina",
+      "path": "europe/italy/sicily/piazza_armerina",
+      "prior_score": 4.0735,
+      "prior_variance": 0.142625,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.3027,
+      "prior_variance": 0.119766,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Durango",
+      "path": "northamerica/unitedstates/colorado/durango",
+      "prior_score": 2.9055,
+      "prior_variance": 0.126498,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Celle Ligure",
+      "path": "europe/italy/liguria/italianriviera/celleligure",
+      "prior_score": 2.2214,
+      "prior_variance": 0.119047,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Kaga",
+      "path": "asia/japan/honshu/kaga",
+      "prior_score": 1.0603,
+      "prior_variance": 0.108711,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Chur",
+      "path": "europe/switzerland/chur",
+      "prior_score": 2.5483,
+      "prior_variance": 0.118323,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Clervaux",
+      "path": "europe/luxembourg/clervaux",
+      "prior_score": 1.4792,
+      "prior_variance": 0.104056,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Pic Carlit",
+      "path": "europe/france/midi/pyrenees/pic_carlit",
+      "prior_score": 1.767,
+      "prior_variance": 0.149293,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Norderney",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/norderney",
+      "prior_score": 0.4216,
+      "prior_variance": 0.134163,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Bagno a Ripoli",
+      "path": "europe/italy/tuscany/florenceprovince/florentinearea/bagnoaripoli",
+      "prior_score": 0.669,
+      "prior_variance": 0.134149,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Puerto Aventuras",
+      "path": "northamerica/mexico/puertoaventuras",
+      "prior_score": 1.1617,
+      "prior_variance": 0.136536,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Fuerte Amador",
+      "path": "northamerica/panama/fuerteamadorpanama",
+      "prior_score": -0.597,
+      "prior_variance": 0.125088,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.5445,
+      "prior_variance": 0.134909,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Nazareth",
+      "path": "asia/israel/nazareth",
+      "prior_score": 2.4786,
+      "prior_variance": 0.124808,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Alytus",
+      "path": "europe/lithuania/alytus",
+      "prior_score": -3.7179,
+      "prior_variance": 0.124579,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Kherson",
+      "path": "europe/ukraine/kherson",
+      "prior_score": -7.3336,
+      "prior_variance": 0.244913,
+      "prior_n": 11
+    }
+  ]
+}

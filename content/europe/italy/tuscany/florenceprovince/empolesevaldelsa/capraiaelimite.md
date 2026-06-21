@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Veduta_di_capraia_dal_pont
 latitude: 43.7596
 loc_type: city
 longitude: 10.9997
-score: 0.4
+score: 0.36
 title: Capraia e Limite
 type: location
 ---

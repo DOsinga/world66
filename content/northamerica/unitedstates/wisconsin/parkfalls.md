@@ -5,7 +5,7 @@ done:
 latitude: 45.933825
 loc_type: city
 longitude: -90.451745
-score: 0.33
+score: 0.26
 title: Park Falls
 type: location
 ---

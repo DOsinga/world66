@@ -5,7 +5,7 @@ done:
 latitude: 31.464969
 loc_type: city
 longitude: -100.440509
-score: 0.37
+score: 0.32
 title: San Angelo
 type: location
 image: san_angelo.jpg

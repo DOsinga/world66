@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mafia_Island_(51554991378)
 latitude: -7.843
 loc_type: city
 longitude: 39.7853
-score: 0.58
+score: 0.48
 title: Mafia Island
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tarbarrels2005.jpg
 latitude: 50.7466
 loc_type: city
 longitude: -3.2724
-score: 0.39
+score: 0.35
 title: Ottery St Mary
 type: location
 ---

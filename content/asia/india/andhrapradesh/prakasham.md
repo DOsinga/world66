@@ -5,7 +5,7 @@ done:
 latitude: 15.506
 loc_type: city
 longitude: 80.049
-score: 0.29
+score: 0.23
 title: Prakasham
 type: location
 ---

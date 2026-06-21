@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/34457549@N08/33327698738
 latitude: 24.17
 loc_type: city
 longitude: -76.44
-score: 0.64
+score: 0.58
 title: Staniel Cay
 type: location
 ---

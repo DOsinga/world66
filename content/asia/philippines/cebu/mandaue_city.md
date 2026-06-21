@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cicc_panorama.jpg
 latitude: 10.333474
 loc_type: city
 longitude: 123.961591
-score: 0.38
+score: 0.31
 title: Mandaue City
 type: location
 ---

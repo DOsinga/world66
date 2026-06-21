@@ -5,7 +5,7 @@ done:
 latitude: 28.824598
 loc_type: city
 longitude: -111.937186
-score: 0.43
+score: 0.36
 title: Bahia De Kino
 type: location
 image: bahiadekino.jpg

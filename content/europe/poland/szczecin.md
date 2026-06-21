@@ -5,7 +5,7 @@ done:
 latitude: 53.430182
 loc_type: city
 longitude: 14.550962
-score: 0.46
+score: 0.39
 title: Szczecin
 type: location
 image: szczecin.jpg

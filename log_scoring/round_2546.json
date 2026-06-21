@@ -1,0 +1,200 @@
+{
+  "round": 2546,
+  "timestamp": "2026-06-13T21:50:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Muscat",
+      "path": "asia/oman/muscat",
+      "prior_score": 5.6946,
+      "prior_variance": 0.17632,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Panama City Beach",
+      "path": "northamerica/unitedstates/florida/panama_city_beach",
+      "prior_score": 1.3887,
+      "prior_variance": 0.178488,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Kvariati",
+      "path": "europe/georgia/kvariati",
+      "prior_score": -0.8681,
+      "prior_variance": 0.168128,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Tirgu Mures",
+      "path": "europe/romania/tirgumures",
+      "prior_score": -1.769,
+      "prior_variance": 0.198667,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Norman",
+      "path": "northamerica/unitedstates/oklahoma/norman",
+      "prior_score": -4.3631,
+      "prior_variance": 0.219436,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Ratnagiri",
+      "path": "asia/india/maharashtra/ratnagiri",
+      "prior_score": -1.3646,
+      "prior_variance": 0.16641,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Walvis Bay",
+      "path": "africa/namibia/walvisbay",
+      "prior_score": 0.0145,
+      "prior_variance": 0.17542,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Terrace",
+      "path": "northamerica/canada/britishcolumbia/terrace",
+      "prior_score": -2.5144,
+      "prior_variance": 0.166856,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Titusville",
+      "path": "northamerica/unitedstates/florida/titusville",
+      "prior_score": -2.247,
+      "prior_variance": 0.172043,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Ulan Ude",
+      "path": "europe/russia/ulan_ude",
+      "prior_score": -1.6061,
+      "prior_variance": 0.180693,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Thane",
+      "path": "asia/india/maharashtra/thane",
+      "prior_score": -5.1094,
+      "prior_variance": 0.185439,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Peshawar",
+      "path": "asia/pakistan/peshawar",
+      "prior_score": -6.3305,
+      "prior_variance": 0.245136,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Tizi Ouzou",
+      "path": "africa/algeria/tiziouzou",
+      "prior_score": -3.6545,
+      "prior_variance": 0.183447,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Abbottabad",
+      "path": "asia/pakistan/abbottabad",
+      "prior_score": -4.583,
+      "prior_variance": 0.205982,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Chula Vista",
+      "path": "northamerica/unitedstates/california/chulavista",
+      "prior_score": -4.5691,
+      "prior_variance": 0.218168,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "San Bruno",
+      "path": "northamerica/unitedstates/california/san_bruno",
+      "prior_score": -5.3644,
+      "prior_variance": 0.195409,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -4.2269,
+      "prior_variance": 0.179033,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Vlasenica",
+      "path": "europe/bosniaandherzegovina/vlasenica",
+      "prior_score": -5.022,
+      "prior_variance": 0.199907,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Jhelum",
+      "path": "asia/pakistan/jhelum",
+      "prior_score": -5.8827,
+      "prior_variance": 0.210775,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Shishkat",
+      "path": "asia/pakistan/hunzavalley/gojal_valley/shishkat_gojal",
+      "prior_score": -4.1889,
+      "prior_variance": 0.254278,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Mudanjiang",
+      "path": "asia/china/heilongjiang/mudanjiang",
+      "prior_score": -4.4044,
+      "prior_variance": 0.222414,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Tongxin",
+      "path": "asia/china/ningxia/tongxin",
+      "prior_score": -6.4952,
+      "prior_variance": 0.201419,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Qatif",
+      "path": "asia/saudiarabia/qatif",
+      "prior_score": -6.0573,
+      "prior_variance": 0.197157,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Tripoli",
+      "path": "africa/libya/tripoli",
+      "prior_score": -6.5544,
+      "prior_variance": 0.260904,
+      "prior_n": 9
+    }
+  ]
+}

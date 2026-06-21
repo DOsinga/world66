@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_condado_espinoza_de_L
 latitude: 25.792806
 loc_type: city
 longitude: -108.990188
-score: 0.46
+score: 0.34
 title: Los Mochis
 type: location
 ---

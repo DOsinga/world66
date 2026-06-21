@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nesbit_House_-_Weiser_Idah
 latitude: 44.2455
 loc_type: city
 longitude: -116.9702
-score: 0.31
+score: 0.27
 title: Weiser
 type: location
 ---

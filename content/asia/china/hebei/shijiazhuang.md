@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Shijiazhuang
 title: Shijiazhuang
 type: location
+score: 0.26
 ---
 
 Shijiazhuang is one of the youngest provincial capitals in China, a city that barely existed before the railways arrived and then grew very fast. The Beijing–Wuhan and Shijiazhuang–Taiyuan lines crossed here in the early twentieth century, and the junction created the city. Before that there was almost nothing. This origin story gives Shijiazhuang an unusually thin historical centre by Chinese standards, and most visitors treat it as a base rather than a destination — which is honest, and works perfectly well.

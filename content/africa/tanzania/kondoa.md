@@ -5,7 +5,7 @@ done:
 latitude: -4.643114
 loc_type: city
 longitude: 35.95904
-score: 0.38
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Kondoa_Mjini
 - https://whc.unesco.org/en/list/1183

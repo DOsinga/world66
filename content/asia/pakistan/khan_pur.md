@@ -7,7 +7,7 @@ done:
 latitude: 28.6472
 loc_type: city
 longitude: 70.6567
-score: 0.35
+score: 0.24
 title: Khanpur
 type: location
 ---

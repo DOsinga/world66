@@ -5,7 +5,7 @@ done:
 latitude: 48.738389
 loc_type: city
 longitude: 19.15858
-score: 0.5
+score: 0.42
 title: Banská Bystrica
 type: location
 ---

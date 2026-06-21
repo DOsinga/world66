@@ -1,199 +1,199 @@
 {
   "round": 1089,
-  "timestamp": "2026-04-12T22:08:45",
+  "timestamp": "2026-06-13T20:10:35",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "French Polynesia",
-      "path": "australiaandpacific/frenchpolynesia",
-      "prior_rank": 1104,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Loue Valley",
+      "path": "europe/france/east/franchecomte/loue_valley",
+      "prior_score": 1.7024,
+      "prior_variance": 0.568576,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Scuba Diving",
-      "path": "australiaandpacific/australia/queensland/greatbarrierreef/scuba_diving",
-      "prior_rank": 84,
-      "prior_wins": 66,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -4.2212,
+      "prior_variance": 0.581024,
       "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "South Island",
-      "path": "australiaandpacific/newzealand/south_island",
-      "prior_rank": 16,
-      "prior_wins": 191,
-      "prior_n": 9
+      "title": "Gun-Galuut",
+      "path": "asia/mongolia/gungaluut",
+      "prior_score": 3.319,
+      "prior_variance": 0.420196,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Queenstown",
-      "path": "australiaandpacific/newzealand/queenstown",
-      "prior_rank": 55,
-      "prior_wins": 88,
-      "prior_n": 4
+      "title": "Mayag\u00fcez",
+      "path": "northamerica/thecaribbean/puertorico/mayaguez",
+      "prior_score": -1.9218,
+      "prior_variance": 0.63313,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Thailand",
-      "path": "asia/thailand",
-      "prior_rank": 218,
-      "prior_wins": 64,
+      "title": "Salem",
+      "path": "northamerica/unitedstates/oregon/salem",
+      "prior_score": -2.746,
+      "prior_variance": 0.433045,
       "prior_n": 3
     },
     {
       "rank": 6,
-      "title": "Lofoten islands",
-      "path": "europe/norway/lofotenislands",
-      "prior_rank": 47,
-      "prior_wins": 65,
+      "title": "Waynesville",
+      "path": "northamerica/unitedstates/northcarolina/waynesville",
+      "prior_score": -1.8663,
+      "prior_variance": 0.415237,
       "prior_n": 3
     },
     {
       "rank": 7,
-      "title": "Meteora",
-      "path": "europe/greece/meteora",
-      "prior_rank": 505,
-      "prior_wins": 40,
-      "prior_n": 2
+      "title": "Duhok",
+      "path": "asia/iraq/duhok",
+      "prior_score": -7.9261,
+      "prior_variance": 0.419088,
+      "prior_n": 3
     },
     {
       "rank": 8,
-      "title": "Plitvice Lakes",
-      "path": "europe/croatia/plitvice",
-      "prior_rank": 21,
-      "prior_wins": 113,
-      "prior_n": 5
+      "title": "Zomba",
+      "path": "africa/malawi/zomba",
+      "prior_score": -2.4245,
+      "prior_variance": 0.402611,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Amalfi",
-      "path": "europe/italy/campania/amalfi",
-      "prior_rank": 41,
-      "prior_wins": 67,
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -7.8814,
+      "prior_variance": 0.794854,
       "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Monterosso al Mare",
-      "path": "europe/italy/liguria/italianriviera/thecinqueterre/monterosso",
-      "prior_rank": 74,
-      "prior_wins": 66,
+      "title": "Koronadal City",
+      "path": "asia/philippines/koronadalcity",
+      "prior_score": -5.4233,
+      "prior_variance": 0.408663,
       "prior_n": 3
     },
     {
       "rank": 11,
-      "title": "Riomaggiore",
-      "path": "europe/italy/liguria/thecinqueterre/riomaggiore",
-      "prior_rank": 36,
-      "prior_wins": 112,
-      "prior_n": 5
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.2295,
+      "prior_variance": 0.44269,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Portofino",
-      "path": "europe/italy/liguria/portofino",
-      "prior_rank": 78,
-      "prior_wins": 66,
+      "title": "Tangerang",
+      "path": "asia/indonesia/java/tangerang",
+      "prior_score": -7.0368,
+      "prior_variance": 0.589063,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Sorrento",
-      "path": "europe/italy/campania/sorrento",
-      "prior_rank": 513,
-      "prior_wins": 61,
+      "title": "Handan",
+      "path": "asia/china/hebei/handan",
+      "prior_score": -6.7599,
+      "prior_variance": 0.408483,
       "prior_n": 3
     },
     {
       "rank": 14,
-      "title": "Granada",
-      "path": "europe/spain/andalucia/granada",
-      "prior_rank": 11,
-      "prior_wins": 68,
+      "title": "Jabrin",
+      "path": "asia/oman/jabrin",
+      "prior_score": -4.8836,
+      "prior_variance": 0.449056,
       "prior_n": 3
     },
     {
       "rank": 15,
-      "title": "Nice",
-      "path": "europe/france/midi/cotedazur/nice",
-      "prior_rank": 9,
-      "prior_wins": 68,
+      "title": "Bandar Abbas",
+      "path": "asia/iran/bandar_e_abbas",
+      "prior_score": -8.879,
+      "prior_variance": 0.656881,
       "prior_n": 3
     },
     {
       "rank": 16,
-      "title": "Provence",
-      "path": "europe/france/midi/provence",
-      "prior_rank": 98,
-      "prior_wins": 44,
-      "prior_n": 2
+      "title": "Naucalpan",
+      "path": "northamerica/mexico/naucalpan",
+      "prior_score": -8.5206,
+      "prior_variance": 0.428802,
+      "prior_n": 4
     },
     {
       "rank": 17,
-      "title": "Mallorca",
-      "path": "europe/spain/balearicislands/mallorca",
-      "prior_rank": 276,
-      "prior_wins": 63,
+      "title": "Nageezi",
+      "path": "northamerica/unitedstates/newmexico/nageezi",
+      "prior_score": -7.0193,
+      "prior_variance": 0.768908,
       "prior_n": 3
     },
     {
       "rank": 18,
-      "title": "Boracay",
-      "path": "asia/philippines/boracay",
-      "prior_rank": 393,
-      "prior_wins": 62,
+      "title": "Kewaskum",
+      "path": "northamerica/unitedstates/wisconsin/kewaskum",
+      "prior_score": -7.0373,
+      "prior_variance": 0.473322,
       "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Budapest",
-      "path": "europe/hungary/budapest",
-      "prior_rank": 19,
-      "prior_wins": 113,
-      "prior_n": 5
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -8.9642,
+      "prior_variance": 0.457595,
+      "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Taroko Gorge",
-      "path": "asia/taiwan/torokogorge",
-      "prior_rank": 40,
-      "prior_wins": 67,
+      "title": "Sialkot",
+      "path": "asia/pakistan/sialkot",
+      "prior_score": -9.1406,
+      "prior_variance": 0.659388,
       "prior_n": 3
     },
     {
       "rank": 21,
-      "title": "Neuschwanstein",
-      "path": "europe/germany/bavaria/neuschwanstein",
-      "prior_rank": 12,
-      "prior_wins": 68,
+      "title": "Morbi",
+      "path": "asia/india/gujarat/morbi",
+      "prior_score": -7.394,
+      "prior_variance": 0.481875,
       "prior_n": 3
     },
     {
       "rank": 22,
-      "title": "Ring of Kerry",
-      "path": "europe/ireland/ringofkerry",
-      "prior_rank": 13,
-      "prior_wins": 68,
+      "title": "Ondjiva",
+      "path": "africa/angola/ondjiva",
+      "prior_score": -10.3958,
+      "prior_variance": 0.637612,
       "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Seoul",
-      "path": "asia/southkorea/seoul",
-      "prior_rank": 220,
-      "prior_wins": 64,
+      "title": "Gedaref",
+      "path": "africa/sudan/gedaref",
+      "prior_score": -13.1716,
+      "prior_variance": 0.601593,
       "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Miami",
-      "path": "northamerica/unitedstates/florida/miami",
-      "prior_rank": 44,
-      "prior_wins": 67,
+      "title": "Cebrayil",
+      "path": "europe/azerbaijan/cebrayil",
+      "prior_score": -11.7196,
+      "prior_variance": 0.661564,
       "prior_n": 3
     }
   ]

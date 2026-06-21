@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterber
 latitude: 20.42753
 loc_type: city
 longitude: 4.676631
-score: 0.23
+score: 0.12
 title: In Guezzam
 type: location
 ---

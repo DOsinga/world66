@@ -1,0 +1,200 @@
+{
+  "round": 2550,
+  "timestamp": "2026-06-13T21:50:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Ambergris Caye",
+      "path": "northamerica/belize/ambergriscaye",
+      "prior_score": 6.0577,
+      "prior_variance": 0.19308,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Skyros",
+      "path": "europe/greece/skyros",
+      "prior_score": 3.8996,
+      "prior_variance": 0.175016,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Cagnes-sur-Mer",
+      "path": "europe/france/midi/cotedazur/cagne",
+      "prior_score": 2.6504,
+      "prior_variance": 0.169573,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 2.7651,
+      "prior_variance": 0.162002,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Kamianets-Podilskyi",
+      "path": "europe/ukraine/kamianetstpodilskyi",
+      "prior_score": 1.1509,
+      "prior_variance": 0.20264,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Salamis",
+      "path": "asia/cyprus/northerncyprus/salamis",
+      "prior_score": -0.3769,
+      "prior_variance": 0.18829,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Tipasa",
+      "path": "africa/algeria/tipasa",
+      "prior_score": 1.3062,
+      "prior_variance": 0.187659,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Winterberg",
+      "path": "europe/germany/northrhinewestphalia/sauerland/winterberg",
+      "prior_score": -0.4576,
+      "prior_variance": 0.156492,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 0.8257,
+      "prior_variance": 0.152347,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Schongau",
+      "path": "europe/germany/bavaria/schongau",
+      "prior_score": -0.4777,
+      "prior_variance": 0.172084,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Bia\u0142ystok",
+      "path": "europe/poland/bialystok",
+      "prior_score": -2.0518,
+      "prior_variance": 0.154205,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Amherst",
+      "path": "northamerica/unitedstates/massachusetts/amherst",
+      "prior_score": -1.6313,
+      "prior_variance": 0.146526,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Errachidia",
+      "path": "africa/morocco/errachidia",
+      "prior_score": -1.2981,
+      "prior_variance": 0.157548,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Zhenjiang",
+      "path": "asia/china/jiangsu_province/zhenjiang",
+      "prior_score": -2.7948,
+      "prior_variance": 0.166161,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.8478,
+      "prior_variance": 0.189912,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.9345,
+      "prior_variance": 0.151657,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Skara",
+      "path": "europe/sweden/skara",
+      "prior_score": -2.0624,
+      "prior_variance": 0.150732,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "York",
+      "path": "australiaandpacific/australia/westernaustralia/york",
+      "prior_score": -1.8226,
+      "prior_variance": 0.139877,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Cloudcroft",
+      "path": "northamerica/unitedstates/newmexico/cloudcroft",
+      "prior_score": -1.2001,
+      "prior_variance": 0.162594,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Kaundorf",
+      "path": "europe/luxembourg/kaundorf",
+      "prior_score": -3.1641,
+      "prior_variance": 0.180116,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Rawalakot",
+      "path": "asia/pakistan/azad_kashmir/rawala_kot",
+      "prior_score": -2.9601,
+      "prior_variance": 0.148606,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Saratoga",
+      "path": "northamerica/unitedstates/wyoming/saratoga",
+      "prior_score": -3.1989,
+      "prior_variance": 0.166645,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Kintampo",
+      "path": "africa/ghana/kintampo",
+      "prior_score": -4.8918,
+      "prior_variance": 0.198405,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -5.7652,
+      "prior_variance": 0.221552,
+      "prior_n": 8
+    }
+  ]
+}

@@ -4,7 +4,7 @@ done:
 latitude: 14.4469
 loc_type: city
 longitude: -11.4445
-score: 0.23
+score: 0.21
 title: Kayes
 type: location
 ---

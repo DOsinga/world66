@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22746515@N02/2409320233
 latitude: 53.800064
 loc_type: city
 longitude: -9.520218
-score: 0.59
+score: 0.51
 title: Westport
 type: location
 ---

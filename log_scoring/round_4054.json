@@ -1,0 +1,200 @@
+{
+  "round": 4054,
+  "timestamp": "2026-06-13T23:40:12",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Vigo",
+      "path": "europe/spain/galicia/vigo_city",
+      "prior_score": 1.2069,
+      "prior_variance": 0.113514,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Rauma",
+      "path": "europe/finland/rauma",
+      "prior_score": 1.2713,
+      "prior_variance": 0.092858,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Tuoro sul Trasimeno",
+      "path": "europe/italy/umbria/tuoro_sul_trasimeno",
+      "prior_score": 0.6241,
+      "prior_variance": 0.119444,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Kozhikode",
+      "path": "asia/india/kerala/kozhikode",
+      "prior_score": 0.5739,
+      "prior_variance": 0.115099,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Kanchipuram",
+      "path": "asia/india/tamilnadu/kanchipuram",
+      "prior_score": 1.0198,
+      "prior_variance": 0.107809,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Peleliu",
+      "path": "australiaandpacific/palau/peleliu",
+      "prior_score": 1.9174,
+      "prior_variance": 0.109106,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Lake Assal",
+      "path": "africa/djibouti/lakeassal",
+      "prior_score": -0.8612,
+      "prior_variance": 0.122666,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Odemira",
+      "path": "europe/portugal/odemira",
+      "prior_score": -0.4719,
+      "prior_variance": 0.10297,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Sint-Truiden",
+      "path": "europe/belgium/sinttruiden",
+      "prior_score": -0.9839,
+      "prior_variance": 0.117343,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Lake Havasu City",
+      "path": "northamerica/unitedstates/arizona/lakehavasucity",
+      "prior_score": -1.4078,
+      "prior_variance": 0.095538,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Lorca",
+      "path": "europe/spain/murcia/lorca",
+      "prior_score": -0.2097,
+      "prior_variance": 0.10543,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -1.119,
+      "prior_variance": 0.10918,
+      "prior_n": 13
+    },
+    {
+      "rank": 13,
+      "title": "Kronstadt",
+      "path": "europe/russia/kronstadt",
+      "prior_score": -1.7119,
+      "prior_variance": 0.110224,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Santa Cruz",
+      "path": "northamerica/costarica/santacruz",
+      "prior_score": -0.2727,
+      "prior_variance": 0.101776,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Agumbe",
+      "path": "asia/india/karnataka/agumbe",
+      "prior_score": -2.3479,
+      "prior_variance": 0.101749,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Boleslawiec",
+      "path": "europe/poland/boleslawiec",
+      "prior_score": -2.9925,
+      "prior_variance": 0.147127,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Amstelveen",
+      "path": "europe/netherlands/amstelveen",
+      "prior_score": -3.31,
+      "prior_variance": 0.144166,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Wilmington",
+      "path": "northamerica/unitedstates/vermont/wilmington",
+      "prior_score": -0.9731,
+      "prior_variance": 0.101601,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -1.7858,
+      "prior_variance": 0.098946,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Zubarah",
+      "path": "asia/qatar/zubara",
+      "prior_score": -2.2709,
+      "prior_variance": 0.1,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Jiujiang",
+      "path": "asia/china/jiangxi/jiujiang",
+      "prior_score": -1.5868,
+      "prior_variance": 0.124191,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Gandhinagar",
+      "path": "asia/india/gujarat/gandhinagar",
+      "prior_score": -2.6642,
+      "prior_variance": 0.106288,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Prachinburi",
+      "path": "asia/thailand/prachinburi",
+      "prior_score": -2.8453,
+      "prior_variance": 0.100752,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Boali",
+      "path": "africa/centralafricanrepublic/boali",
+      "prior_score": -7.3644,
+      "prior_variance": 0.188222,
+      "prior_n": 13
+    }
+  ]
+}

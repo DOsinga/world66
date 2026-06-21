@@ -5,7 +5,7 @@ done:
 latitude: 48.922499
 loc_type: city
 longitude: -123.718414
-score: 0.47
+score: 0.42
 title: Chemainus
 type: location
 ---

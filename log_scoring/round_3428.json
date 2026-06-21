@@ -1,0 +1,200 @@
+{
+  "round": 3428,
+  "timestamp": "2026-06-13T22:53:13",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Niagara Falls",
+      "path": "northamerica/unitedstates/newyorkstate/niagara_frontier/niagarafalls",
+      "prior_score": 7.5843,
+      "prior_variance": 0.155067,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Vail",
+      "path": "northamerica/unitedstates/colorado/vail",
+      "prior_score": 4.4946,
+      "prior_variance": 0.141136,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Cayo Largo",
+      "path": "northamerica/thecaribbean/cuba/cayolargo",
+      "prior_score": 4.3212,
+      "prior_variance": 0.12725,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Dorgali",
+      "path": "europe/italy/sardinia/dorg",
+      "prior_score": 3.3008,
+      "prior_variance": 0.152722,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Sagres",
+      "path": "europe/portugal/algarve/sagres",
+      "prior_score": 4.7256,
+      "prior_variance": 0.133626,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Alykes",
+      "path": "europe/greece/zakinthos/alykes",
+      "prior_score": 3.1713,
+      "prior_variance": 0.130674,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Kalamata",
+      "path": "europe/greece/kalamata",
+      "prior_score": 3.8237,
+      "prior_variance": 0.137173,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Hallein",
+      "path": "europe/austria/hallein",
+      "prior_score": 1.5087,
+      "prior_variance": 0.107299,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Meissen",
+      "path": "europe/germany/saxony/meissen",
+      "prior_score": 1.5988,
+      "prior_variance": 0.116601,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Baguio",
+      "path": "asia/philippines/baguio",
+      "prior_score": 2.3064,
+      "prior_variance": 0.150719,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Mt Longonot National Park",
+      "path": "africa/kenya/nationalparksandreserves/longonotnp",
+      "prior_score": 1.9226,
+      "prior_variance": 0.118186,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Kazimierz Dolny",
+      "path": "europe/poland/kazimierzdolny",
+      "prior_score": 1.9971,
+      "prior_variance": 0.10942,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 0.9886,
+      "prior_variance": 0.128259,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Leiria",
+      "path": "europe/portugal/leiria",
+      "prior_score": 0.9567,
+      "prior_variance": 0.112341,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Verdun",
+      "path": "europe/france/east/lorraine/verdun",
+      "prior_score": 1.8031,
+      "prior_variance": 0.11742,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Mount Heng",
+      "path": "asia/china/hunan/mount_heng",
+      "prior_score": 1.7706,
+      "prior_variance": 0.134714,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Dion",
+      "path": "europe/greece/dion",
+      "prior_score": 1.1161,
+      "prior_variance": 0.113574,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Sierras de C\u00f3rdoba",
+      "path": "southamerica/argentina/sierras_de_crdob",
+      "prior_score": 1.811,
+      "prior_variance": 0.129973,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Naantali",
+      "path": "europe/finland/naantali",
+      "prior_score": 0.5959,
+      "prior_variance": 0.112409,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "\u00d6sterlen",
+      "path": "europe/sweden/sterlen",
+      "prior_score": 0.6467,
+      "prior_variance": 0.116352,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Huntsville",
+      "path": "northamerica/canada/ontario/muskoka/huntsville",
+      "prior_score": -0.6932,
+      "prior_variance": 0.121998,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Rosses Point",
+      "path": "europe/ireland/rossespoint",
+      "prior_score": 0.8663,
+      "prior_variance": 0.12831,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Sacramento",
+      "path": "northamerica/unitedstates/california/goldcountry/sacramento",
+      "prior_score": -0.326,
+      "prior_variance": 0.136784,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Gbarnga",
+      "path": "africa/liberia/gbarnga",
+      "prior_score": -7.454,
+      "prior_variance": 0.178483,
+      "prior_n": 10
+    }
+  ]
+}

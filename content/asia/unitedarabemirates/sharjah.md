@@ -13,6 +13,7 @@ image: sharjah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sharjah_Fort_(Al_Hisn).JPG
 image_license: CC BY-SA 4.0
 image_attribution: Wikimedia Commons
+score: 0.39
 ---
 
 *Asia > United Arab Emirates > Sharjah*

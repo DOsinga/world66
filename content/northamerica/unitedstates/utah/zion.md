@@ -14,6 +14,7 @@ sources:
 - https://www.nps.gov/zion/planyourvisit/upload/25Summer-InfoGuide.pdf
 title: Zion National Park
 type: location
+score: 0.73
 ---
 
 Zion National Park is the sandstone cathedral of southern Utah: a canyon system of red and cream cliffs, hanging gardens, river narrows, and improbable trails that climb straight out of the valley floor. It is also crowded, permit-heavy, and intensely managed in peak season, so the best trips balance awe with logistics.

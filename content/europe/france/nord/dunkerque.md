@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunkerque_postcard_NG.jpg
 latitude: 51.034771
 loc_type: city
 longitude: 2.377252
-score: 0.41
+score: 0.34
 title: Dunkerque
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Anyang
 title: Anyang
 type: location
+score: 0.33
 ---
 
 Anyang sits at the northern edge of Henan, and its claim on Chinese history is extraordinary: this was the last capital of the Shang dynasty, one of the earliest settled sites of Chinese civilisation, and the place where Chinese writing was born. Farmers in the late nineteenth century kept discovering strange bones with strange markings, and it was only in 1899 that scholars recognised them as oracle bones — tortoise shells and ox scapulae inscribed with the earliest known form of Chinese script. The Yin Ruins, as the excavated Shang capital is known, are now a UNESCO World Heritage Site and the anchor of a visit to the city.

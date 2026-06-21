@@ -12,6 +12,7 @@ loc_type: city
 longitude: 19.0238
 title: Katowice
 type: location
+score: 0.36
 ---
 
 Katowice is the capital of Silesia and the heart of the Upper Silesian conurbation, a sprawling industrial belt that was once the most productive coal and steel region in Central Europe. The city carries that history visibly — the monumental Silesian Museum is built into a former coal mine, and the shaft towers of the Katowice mine rise over the city centre like industrial cathedrals. But Katowice has changed enormously since the mines closed, and what has emerged is one of Poland's most interesting cities for design, music, and contemporary culture.

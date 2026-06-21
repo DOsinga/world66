@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Green_Bay_CityDec
 latitude: 44.512638
 loc_type: city
 longitude: -88.012579
-score: 0.42
+score: 0.35
 title: Green Bay
 type: location
 ---

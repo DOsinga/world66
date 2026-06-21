@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esbjerg_-_Marktplatz1.jpg
 latitude: 55.466489
 loc_type: city
 longitude: 8.452075
-score: 0.46
+score: 0.39
 title: Esbjerg
 type: location
 ---

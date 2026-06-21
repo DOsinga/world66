@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Hvar_(view
 latitude: 43.173941
 loc_type: city
 longitude: 16.556516
-score: 0.76
+score: 0.65
 title: Hvar
 type: location
 ---

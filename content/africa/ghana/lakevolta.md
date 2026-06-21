@@ -5,7 +5,7 @@ latitude: 7.502883
 longitude: 0.074279
 title: Lake Volta
 type: location
-score: 0.38
+score: 0.36
 loc_type: feature
 ---
 

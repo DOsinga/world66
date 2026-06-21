@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12053417@N00/1400505317
 latitude: 58.75
 loc_type: city
 longitude: 11.4167
-score: 0.53
+score: 0.44
 title: Tanum
 type: location
 ---

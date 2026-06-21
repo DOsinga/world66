@@ -8,13 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_V%C3%A1gar,
 latitude: 62.047955
 loc_type: city
 longitude: -7.192204
-score: 0.54
+score: 0.45
 title: Miðvágur
 type: location
 sources:
-  - https://en.wikipedia.org/wiki/Mi%C3%B0v%C3%A1gur
-  - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
-  - https://en.wikipedia.org/wiki/B%C3%B8sdalafossur
+- https://en.wikipedia.org/wiki/Mi%C3%B0v%C3%A1gur
+- https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
+- https://en.wikipedia.org/wiki/B%C3%B8sdalafossur
 ---
 
 Miðvágur is one of the larger settlements on Vágar island in the [Faroe Islands](/europe/faroeislands), home to about a thousand people. The village sits on the shore of Sørvágsfjørður and makes a practical, quieter base than [Sørvágur](/europe/faroeislands/vagar/srvgur) for exploring Vágar's most dramatic scenery.

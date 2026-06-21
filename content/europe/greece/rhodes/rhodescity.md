@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apellou,_Medieval_City_of_
 latitude: 36.4438
 loc_type: city
 longitude: 28.2274
-score: 0.78
+score: 0.66
 title: Rhodes City
 type: location
 ---

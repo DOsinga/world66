@@ -1,0 +1,200 @@
+{
+  "round": 3224,
+  "timestamp": "2026-06-13T22:37:44",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Schladming",
+      "path": "europe/austria/schladming",
+      "prior_score": 2.8745,
+      "prior_variance": 0.131443,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Sulmona",
+      "path": "europe/italy/abruzzo/sulmona",
+      "prior_score": 2.7025,
+      "prior_variance": 0.13886,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": 1.3672,
+      "prior_variance": 0.125724,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Naumburg",
+      "path": "europe/germany/thuringia/naumburg",
+      "prior_score": -0.8442,
+      "prior_variance": 0.109513,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Beiteddine",
+      "path": "asia/lebanon/beiteddine",
+      "prior_score": 1.2238,
+      "prior_variance": 0.135164,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Kastoria",
+      "path": "europe/greece/kastoria",
+      "prior_score": 1.728,
+      "prior_variance": 0.12762,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Dir\u2019iyah",
+      "path": "asia/saudiarabia/diriyah",
+      "prior_score": 0.2564,
+      "prior_variance": 0.150044,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 0.772,
+      "prior_variance": 0.12577,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.3187,
+      "prior_variance": 0.14733,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Vladimir",
+      "path": "europe/russia/vladimir",
+      "prior_score": -0.7213,
+      "prior_variance": 0.167385,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Funafuti",
+      "path": "australiaandpacific/tuvalu/funafutiisland",
+      "prior_score": -0.219,
+      "prior_variance": 0.137332,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Buffalo River",
+      "path": "northamerica/unitedstates/arkansas/buffaloriver",
+      "prior_score": -0.8908,
+      "prior_variance": 0.149342,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Sisters",
+      "path": "northamerica/unitedstates/oregon/sisters",
+      "prior_score": 0.4514,
+      "prior_variance": 0.126677,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Azrou",
+      "path": "africa/morocco/azrou",
+      "prior_score": -0.8015,
+      "prior_variance": 0.118522,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Comayagua",
+      "path": "northamerica/honduras/comayagua",
+      "prior_score": -1.291,
+      "prior_variance": 0.137736,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Mannheim",
+      "path": "europe/germany/badenwrttemberg/mannheim",
+      "prior_score": -0.2199,
+      "prior_variance": 0.130128,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Sidney",
+      "path": "northamerica/canada/britishcolumbia/sidney",
+      "prior_score": -1.0919,
+      "prior_variance": 0.122071,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Thunder Bay",
+      "path": "northamerica/canada/ontario/thunder_bay",
+      "prior_score": -1.053,
+      "prior_variance": 0.13854,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Devonport",
+      "path": "australiaandpacific/australia/tasmania/northwest/devonport_tasmania",
+      "prior_score": -1.0111,
+      "prior_variance": 0.114096,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Drama",
+      "path": "europe/greece/drama",
+      "prior_score": -0.5308,
+      "prior_variance": 0.115861,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.3613,
+      "prior_variance": 0.149286,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Severn Bore",
+      "path": "europe/unitedkingdom/england/gloucestershire/severn_bore",
+      "prior_score": -1.3552,
+      "prior_variance": 0.123045,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Liwa",
+      "path": "asia/unitedarabemirates/liwa",
+      "prior_score": -1.0608,
+      "prior_variance": 0.120604,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Maracaibo Lake",
+      "path": "southamerica/venezuela/maracaibo/maracaibolake",
+      "prior_score": -4.5973,
+      "prior_variance": 0.177356,
+      "prior_n": 11
+    }
+  ]
+}

@@ -1,199 +1,199 @@
 {
   "round": 612,
-  "timestamp": "2026-04-12T10:39:49",
+  "timestamp": "2026-06-13T19:44:53",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Antalya",
-      "path": "asia/turkey/antalya",
-      "prior_mu": 29.2129,
-      "prior_sigma": 7.1948,
-      "prior_n": 1
+      "title": "Sioux Falls",
+      "path": "northamerica/unitedstates/southdakota/siouxfalls",
+      "prior_score": -7.881,
+      "prior_variance": 1.147321,
+      "prior_n": 2
     },
     {
       "rank": 2,
-      "title": "Bodrum",
-      "path": "asia/turkey/bodrum",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Bismarck",
+      "path": "northamerica/unitedstates/northdakota/bismarck",
+      "prior_score": -9.61,
+      "prior_variance": 0.883333,
+      "prior_n": 2
     },
     {
       "rank": 3,
-      "title": "Ephesus",
-      "path": "asia/turkey/ephesus",
-      "prior_mu": 23.1884,
-      "prior_sigma": 4.2307,
-      "prior_n": 3
+      "title": "Giessen",
+      "path": "europe/germany/hessen/giessen",
+      "prior_score": -10.9353,
+      "prior_variance": 1.106796,
+      "prior_n": 2
     },
     {
       "rank": 4,
-      "title": "Izmir",
-      "path": "asia/turkey/izmir",
-      "prior_mu": 22.6929,
-      "prior_sigma": 5.926,
-      "prior_n": 1
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -11.2007,
+      "prior_variance": 1.389264,
+      "prior_n": 2
     },
     {
       "rank": 5,
-      "title": "Side",
-      "path": "asia/turkey/side",
-      "prior_mu": 22.6758,
-      "prior_sigma": 5.9427,
+      "title": "Al-Ahsa",
+      "path": "asia/saudiarabia/alhasa",
+      "prior_score": -9.9988,
+      "prior_variance": 1.596732,
       "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Ihlara Valley",
-      "path": "asia/turkey/cappadocia/ihlaravalley",
-      "prior_mu": 22.7166,
-      "prior_sigma": 5.9489,
+      "title": "Serowe",
+      "path": "africa/botswana/serowe",
+      "prior_score": -7.8496,
+      "prior_variance": 1.399165,
       "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Zelve",
-      "path": "asia/turkey/cappadocia/zelve",
-      "prior_mu": 23.254,
-      "prior_sigma": 4.1239,
-      "prior_n": 3
+      "title": "Lake Chad",
+      "path": "africa/chad/lakechad",
+      "prior_score": -12.1057,
+      "prior_variance": 0.974014,
+      "prior_n": 2
     },
     {
       "rank": 8,
-      "title": "\u00c7avu\u015fin",
-      "path": "asia/turkey/cappadocia/cavusin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Niamey",
+      "path": "africa/niger/niamey",
+      "prior_score": -12.6416,
+      "prior_variance": 5.33538,
+      "prior_n": 2
     },
     {
       "rank": 9,
-      "title": "Nev\u015fehir",
-      "path": "asia/turkey/cappadocia/nevsehir",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Zvornik",
+      "path": "europe/bosniaandherzegovina/zvornik",
+      "prior_score": -12.361,
+      "prior_variance": 0.948332,
+      "prior_n": 2
     },
     {
       "rank": 10,
-      "title": "Gallipoli",
-      "path": "asia/turkey/gallipoli",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
-      "prior_n": 0
+      "title": "Douglas",
+      "path": "northamerica/unitedstates/wyoming/douglas",
+      "prior_score": -11.738,
+      "prior_variance": 0.706106,
+      "prior_n": 2
     },
     {
       "rank": 11,
-      "title": "Canakkale",
-      "path": "asia/turkey/canakkale",
-      "prior_mu": 22.7439,
-      "prior_sigma": 5.9482,
-      "prior_n": 1
+      "title": "Darlington",
+      "path": "northamerica/unitedstates/southcarolina/darlington",
+      "prior_score": -12.6005,
+      "prior_variance": 2.158383,
+      "prior_n": 2
     },
     {
       "rank": 12,
-      "title": "Edirne",
-      "path": "asia/turkey/edirne",
-      "prior_mu": 21.3287,
-      "prior_sigma": 3.9381,
-      "prior_n": 3
+      "title": "Vallejo",
+      "path": "northamerica/unitedstates/california/vallejo",
+      "prior_score": -10.4156,
+      "prior_variance": 0.906023,
+      "prior_n": 2
     },
     {
       "rank": 13,
-      "title": "Dalyan",
-      "path": "asia/turkey/dalyan",
-      "prior_mu": 22.5206,
-      "prior_sigma": 5.9509,
+      "title": "Placentia",
+      "path": "northamerica/unitedstates/california/placentia",
+      "prior_score": -13.2122,
+      "prior_variance": 2.139009,
       "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Olympos",
-      "path": "asia/turkey/olympos",
-      "prior_mu": 22.661,
-      "prior_sigma": 5.9514,
-      "prior_n": 1
+      "title": "Yucaipa",
+      "path": "northamerica/unitedstates/california/inlandempire/yucaipa",
+      "prior_score": -11.255,
+      "prior_variance": 1.394492,
+      "prior_n": 2
     },
     {
       "rank": 15,
-      "title": "Ku\u015fadas\u0131",
-      "path": "asia/turkey/kusadasi",
-      "prior_mu": 22.5656,
-      "prior_sigma": 5.9565,
-      "prior_n": 1
+      "title": "Stockton",
+      "path": "northamerica/unitedstates/california/centralvalley/stockton",
+      "prior_score": -13.093,
+      "prior_variance": 4.916711,
+      "prior_n": 2
     },
     {
       "rank": 16,
-      "title": "Diyarbakir",
-      "path": "asia/turkey/diyarbakir",
-      "prior_mu": 22.0724,
-      "prior_sigma": 5.7413,
-      "prior_n": 1
+      "title": "Hanford",
+      "path": "northamerica/unitedstates/california/centralvalley/hanford",
+      "prior_score": -11.6036,
+      "prior_variance": 8.337556,
+      "prior_n": 2
     },
     {
       "rank": 17,
-      "title": "Kayseri",
-      "path": "asia/turkey/kayseri",
-      "prior_mu": 22.2922,
-      "prior_sigma": 5.7571,
-      "prior_n": 1
+      "title": "Massingir",
+      "path": "africa/mozambique/massingir",
+      "prior_score": -10.8893,
+      "prior_variance": 2.211191,
+      "prior_n": 2
     },
     {
       "rank": 18,
-      "title": "Dogubeyazit",
-      "path": "asia/turkey/dogubeyazit",
-      "prior_mu": 21.6251,
-      "prior_sigma": 4.7289,
+      "title": "Sivakasi",
+      "path": "asia/india/tamilnadu/sivakasi",
+      "prior_score": -13.0831,
+      "prior_variance": 1.755462,
       "prior_n": 2
     },
     {
       "rank": 19,
-      "title": "Hisaronu",
-      "path": "asia/turkey/hisaronu",
-      "prior_mu": 21.9051,
-      "prior_sigma": 4.6173,
+      "title": "Labe",
+      "path": "africa/guineeconakry/labe",
+      "prior_score": -12.038,
+      "prior_variance": 8.047017,
       "prior_n": 2
     },
     {
       "rank": 20,
-      "title": "Anamur",
-      "path": "asia/turkey/anamur",
-      "prior_mu": 21.7456,
-      "prior_sigma": 5.4986,
-      "prior_n": 1
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -15.2029,
+      "prior_variance": 1.376895,
+      "prior_n": 2
     },
     {
       "rank": 21,
-      "title": "Dalaman",
-      "path": "asia/turkey/dalaman",
-      "prior_mu": 21.5212,
-      "prior_sigma": 4.6216,
+      "title": "Bo",
+      "path": "africa/sierraleone/bo",
+      "prior_score": -12.7748,
+      "prior_variance": 1.417985,
       "prior_n": 2
     },
     {
       "rank": 22,
-      "title": "Tekirda\u011f",
-      "path": "asia/turkey/tekirdag",
-      "prior_mu": 22.6097,
-      "prior_sigma": 5.9346,
-      "prior_n": 1
+      "title": "Petite Rivi\u00e8re de Nippes",
+      "path": "northamerica/thecaribbean/haiti/petite_riviere_de_nippes",
+      "prior_score": -14.2426,
+      "prior_variance": 1.595712,
+      "prior_n": 2
     },
     {
       "rank": 23,
-      "title": "Erzincan",
-      "path": "asia/turkey/erzincan",
-      "prior_mu": 22.5046,
-      "prior_sigma": 5.7196,
-      "prior_n": 1
+      "title": "Vyatka",
+      "path": "europe/russia/vyatka",
+      "prior_score": -11.6316,
+      "prior_variance": 8.095397,
+      "prior_n": 2
     },
     {
       "rank": 24,
-      "title": "Turkey",
-      "path": "asia/turkey",
-      "prior_mu": 26.1572,
-      "prior_sigma": 5.3895,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -11.6256,
+      "prior_variance": 1.122789,
       "prior_n": 2
     }
   ]

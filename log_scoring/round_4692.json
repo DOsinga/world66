@@ -1,0 +1,200 @@
+{
+  "round": 4692,
+  "timestamp": "2026-06-14T00:33:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Troyes",
+      "path": "europe/france/east/champagne/troyes",
+      "prior_score": 3.5717,
+      "prior_variance": 0.088256,
+      "prior_n": 15
+    },
+    {
+      "rank": 2,
+      "title": "Salisbury",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/salisbury",
+      "prior_score": 2.7408,
+      "prior_variance": 0.09257,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Kalamaki",
+      "path": "europe/greece/zakinthos/kalamaki",
+      "prior_score": 3.3575,
+      "prior_variance": 0.11352,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Savonlinna",
+      "path": "europe/finland/savonlinna",
+      "prior_score": 2.8114,
+      "prior_variance": 0.084746,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 1.8282,
+      "prior_variance": 0.106483,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Valaam",
+      "path": "europe/russia/karelia/valaam",
+      "prior_score": -0.6483,
+      "prior_variance": 0.095777,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Parksville",
+      "path": "northamerica/canada/britishcolumbia/parksville",
+      "prior_score": -0.2412,
+      "prior_variance": 0.082769,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Niteroi",
+      "path": "southamerica/brazil/niteroi",
+      "prior_score": -0.3377,
+      "prior_variance": 0.102658,
+      "prior_n": 16
+    },
+    {
+      "rank": 9,
+      "title": "Richmond",
+      "path": "australiaandpacific/australia/tasmania/richmond",
+      "prior_score": 0.3799,
+      "prior_variance": 0.081036,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Veracruz",
+      "path": "northamerica/mexico/veracruz",
+      "prior_score": 0.6617,
+      "prior_variance": 0.103611,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.3523,
+      "prior_variance": 0.089025,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Carson City",
+      "path": "northamerica/unitedstates/nevada/carsoncity",
+      "prior_score": -1.9107,
+      "prior_variance": 0.090429,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Oklahoma City",
+      "path": "northamerica/unitedstates/oklahoma/oklahomacity",
+      "prior_score": -2.4644,
+      "prior_variance": 0.130567,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Makthar",
+      "path": "africa/tunisia/makthar",
+      "prior_score": -0.6294,
+      "prior_variance": 0.081497,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Chichiriviche",
+      "path": "southamerica/venezuela/chichiriviche",
+      "prior_score": -2.3169,
+      "prior_variance": 0.097676,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Bury St Edmunds",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury",
+      "prior_score": -2.0951,
+      "prior_variance": 0.088717,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Vedb\u00e6k",
+      "path": "europe/denmark/vedbaek",
+      "prior_score": -1.4105,
+      "prior_variance": 0.081499,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Utica",
+      "path": "northamerica/unitedstates/newyorkstate/utica",
+      "prior_score": -4.2454,
+      "prior_variance": 0.103545,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Yea",
+      "path": "australiaandpacific/australia/victoria/yea",
+      "prior_score": -3.1771,
+      "prior_variance": 0.085571,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Incisa in Valdarno",
+      "path": "europe/italy/tuscany/florenceprovince/valdarnosuperiore/incisainvaldarno",
+      "prior_score": -1.4621,
+      "prior_variance": 0.104313,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Castelbianco",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/castelbianco",
+      "prior_score": -1.1718,
+      "prior_variance": 0.095536,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Zinder",
+      "path": "africa/niger/zinder",
+      "prior_score": -5.6173,
+      "prior_variance": 0.11244,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Concepci\u00f3n",
+      "path": "southamerica/paraguay/concepcion",
+      "prior_score": -4.1802,
+      "prior_variance": 0.096682,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Gorgona",
+      "path": "southamerica/colombia/gorgona",
+      "prior_score": -3.8147,
+      "prior_variance": 0.114308,
+      "prior_n": 15
+    }
+  ]
+}

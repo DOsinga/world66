@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_trento.jpg
 latitude: 46.066423
 loc_type: city
 longitude: 11.12576
-score: 0.63
+score: 0.55
 title: Trento
 type: location
 ---

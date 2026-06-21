@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Kennedy_Space_Center
 title: Titusville
 type: location
+score: 0.36
 ---
 
 Titusville sits across the Indian River Lagoon from Kennedy Space Center, with a clear line of sight to launch pads 39A and 39B. For sixty years that view has been the town's defining feature. When the Saturn V lifted Apollo astronauts toward the moon, half a million spectators jammed Titusville's riverfront; today SpaceX's regular Falcon and Starship missions still draw crowds to the same waterfront parks. If you want to watch a launch from the closest publicly accessible point, this is where you come.

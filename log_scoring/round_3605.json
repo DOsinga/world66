@@ -1,0 +1,200 @@
+{
+  "round": 3605,
+  "timestamp": "2026-06-13T23:06:19",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Cuzco",
+      "path": "southamerica/peru/cuzco",
+      "prior_score": 10.7463,
+      "prior_variance": 0.251025,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Geghard",
+      "path": "europe/armenia/geghard",
+      "prior_score": 3.8863,
+      "prior_variance": 0.128061,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Gjirokaster",
+      "path": "europe/albania/gjirokaster",
+      "prior_score": 3.846,
+      "prior_variance": 0.137736,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Liverpool",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool",
+      "prior_score": 4.0173,
+      "prior_variance": 0.135125,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Aegina",
+      "path": "europe/greece/aegina",
+      "prior_score": 4.7921,
+      "prior_variance": 0.11487,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Datong",
+      "path": "asia/china/shanxiprovince/datong",
+      "prior_score": 1.3361,
+      "prior_variance": 0.12562,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Rabaul",
+      "path": "asia/papuanewguinea/rabaul",
+      "prior_score": -0.1264,
+      "prior_variance": 0.112107,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Vilanculos",
+      "path": "africa/mozambique/vilanculos",
+      "prior_score": 0.7445,
+      "prior_variance": 0.120608,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Patnitop",
+      "path": "asia/india/jammuandkashmir/patnitop",
+      "prior_score": -0.5294,
+      "prior_variance": 0.112557,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Grosseto",
+      "path": "europe/italy/tuscany/grosseto",
+      "prior_score": 1.2402,
+      "prior_variance": 0.113141,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Gracias",
+      "path": "northamerica/honduras/gracias",
+      "prior_score": -0.9862,
+      "prior_variance": 0.116493,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Vara Valley",
+      "path": "europe/italy/liguria/varavalley",
+      "prior_score": 0.0204,
+      "prior_variance": 0.108942,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Rosario",
+      "path": "southamerica/argentina/rosario",
+      "prior_score": -0.7444,
+      "prior_variance": 0.113826,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Solvang",
+      "path": "northamerica/unitedstates/california/centralcoast/solvang",
+      "prior_score": 0.7004,
+      "prior_variance": 0.113663,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Museum",
+      "path": "northamerica/canada/britishcolumbia/vancouver/museum",
+      "prior_score": -1.3532,
+      "prior_variance": 0.155275,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "La D\u00e9sirade",
+      "path": "northamerica/thecaribbean/guadeloupe/ladesirade",
+      "prior_score": -0.1561,
+      "prior_variance": 0.136256,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.9213,
+      "prior_variance": 0.128066,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Sandv\u00edk",
+      "path": "europe/faroeislands/suuroy/sandvk",
+      "prior_score": -0.4026,
+      "prior_variance": 0.117661,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Merizo",
+      "path": "australiaandpacific/guam/merizo",
+      "prior_score": -0.755,
+      "prior_variance": 0.10719,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Los Mochis",
+      "path": "northamerica/mexico/losmochis",
+      "prior_score": -2.5823,
+      "prior_variance": 0.117584,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Boca del Rio",
+      "path": "northamerica/mexico/bocadelrio",
+      "prior_score": -2.3261,
+      "prior_variance": 0.121995,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Goi\u00e2nia",
+      "path": "southamerica/brazil/goiania",
+      "prior_score": -2.5921,
+      "prior_variance": 0.130246,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -1.8006,
+      "prior_variance": 0.10466,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.0041,
+      "prior_variance": 0.126743,
+      "prior_n": 12
+    }
+  ]
+}

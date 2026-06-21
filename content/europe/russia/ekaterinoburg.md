@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:E-burg_asv2019-05_img46_vi
 latitude: 56.838011
 loc_type: city
 longitude: 60.597474
-score: 0.41
+score: 0.35
 title: Yekaterinburg
 type: location
 ---

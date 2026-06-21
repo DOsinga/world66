@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LakeWanakaNov262024_01.jpg
 latitude: -44.6942
 loc_type: city
 longitude: 169.1365
-score: 0.71
+score: 0.62
 title: Wanaka
 type: location
 ---

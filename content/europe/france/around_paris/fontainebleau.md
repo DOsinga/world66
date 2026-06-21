@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:L%27%C3%A9tang_aux_carpes_
 latitude: 48.404938
 loc_type: city
 longitude: 2.701587
-score: 0.61
+score: 0.53
 title: Fontainebleau
 type: location
 ---

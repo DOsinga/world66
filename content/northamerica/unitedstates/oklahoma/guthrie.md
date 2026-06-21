@@ -6,7 +6,7 @@ latitude: 35.879
 longitude: -97.426
 title: Guthrie
 type: location
-score: 0.39
+score: 0.32
 loc_type: city
 image: guthrie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Guthrie,_OK_USA_-_panoramio_(55).jpg

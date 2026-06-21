@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FAL-2016-Stanley,_Falkland
 latitude: -51.693062
 loc_type: city
 longitude: -57.856525
-score: 0.53
+score: 0.47
 title: Stanley
 type: location
 ---

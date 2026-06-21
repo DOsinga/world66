@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cloud_over_Lower_Hutt.jpg
 latitude: -41.212575
 loc_type: city
 longitude: 174.905763
-score: 0.38
+score: 0.33
 title: Lower Hutt
 type: location
 ---

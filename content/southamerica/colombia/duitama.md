@@ -5,7 +5,7 @@ done:
 latitude: 5.897342
 loc_type: city
 longitude: -73.069137
-score: 0.42
+score: 0.33
 title: Duitama
 type: location
 image: duitama.jpg

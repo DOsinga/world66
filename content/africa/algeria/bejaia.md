@@ -5,7 +5,7 @@ done:
 latitude: 36.751178
 loc_type: city
 longitude: 5.064369
-score: 0.43
+score: 0.36
 title: Bejaia
 type: location
 ---

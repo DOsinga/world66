@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bintulu_-_Pasar_Tamu.JPG
 latitude: 3.187426
 loc_type: city
 longitude: 113.04728
-score: 0.36
+score: 0.3
 title: Bintulu
 type: location
 ---

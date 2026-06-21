@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Freiburg_im_Breisgau_M%C3%
 latitude: 47.99609
 loc_type: city
 longitude: 7.8494
-score: 0.61
+score: 0.54
 title: Freiburg
 type: location
 ---

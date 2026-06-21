@@ -6,9 +6,13 @@ latitude: 36.407111
 longitude: 25.456664
 title: Santorini
 type: location
-score: 0.91
+score: 0.83
 tier: 2
-tags: [beaches, history, architecture, nature]
+tags:
+- beaches
+- history
+- architecture
+- nature
 image: santorini.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg
 image_license: CC BY-SA 4.0

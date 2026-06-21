@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/152836271@N04/40708992941
 latitude: 39.763257
 loc_type: city
 longitude: 46.75115
-score: 0.32
+score: 0.26
 title: Shusha
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bavarian_Inn_Lodge,_Franke
 latitude: 43.332368
 loc_type: city
 longitude: -83.739229
-score: 0.48
+score: 0.41
 title: Frankenmuth
 type: location
 ---

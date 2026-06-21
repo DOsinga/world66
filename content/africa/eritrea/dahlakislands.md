@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coral_reef_on_Dahlak_Islan
 latitude: 15.7248
 loc_type: city
 longitude: 40.08
-score: 0.4
+score: 0.33
 title: Dahlak Islands
 type: location
 ---

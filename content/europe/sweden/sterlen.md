@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Br%C3%B6sarps_backar_okt_2
 latitude: 55.5993
 loc_type: city
 longitude: 14.1141
-score: 0.54
+score: 0.44
 title: Österlen
 type: location
 ---

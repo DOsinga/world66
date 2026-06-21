@@ -6,7 +6,7 @@ done:
 latitude: 29.379653
 loc_type: city
 longitude: 47.973417
-score: 0.41
+score: 0.34
 title: Kuwait City
 type: location
 ---

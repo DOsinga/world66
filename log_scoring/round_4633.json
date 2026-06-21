@@ -1,0 +1,200 @@
+{
+  "round": 4633,
+  "timestamp": "2026-06-14T00:28:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Montserrat",
+      "path": "europe/spain/catalonia/montserrat",
+      "prior_score": 5.8054,
+      "prior_variance": 0.114672,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Picton",
+      "path": "australiaandpacific/newzealand/south_island/marlborough/picton",
+      "prior_score": 2.5684,
+      "prior_variance": 0.096276,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Durness, Sutherland",
+      "path": "europe/unitedkingdom/scotland/durness_sutherland",
+      "prior_score": 1.4139,
+      "prior_variance": 0.095247,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Twin Falls",
+      "path": "northamerica/unitedstates/idaho/twinfalls",
+      "prior_score": 0.2051,
+      "prior_variance": 0.095274,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "\u00d6resund",
+      "path": "europe/sweden/resund",
+      "prior_score": -0.867,
+      "prior_variance": 0.105498,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Stratford",
+      "path": "northamerica/canada/ontario/stratford",
+      "prior_score": 0.3028,
+      "prior_variance": 0.081781,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Tapolca",
+      "path": "europe/hungary/tapolca",
+      "prior_score": 0.1433,
+      "prior_variance": 0.101383,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Bad Mergentheim",
+      "path": "europe/germany/bavaria/romanticroad/badmergentheim",
+      "prior_score": 0.2475,
+      "prior_variance": 0.0922,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Rheinsberg",
+      "path": "europe/germany/brandenburg/rheinsberg",
+      "prior_score": 0.3174,
+      "prior_variance": 0.08069,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Taiping",
+      "path": "asia/malaysia/taiping",
+      "prior_score": 0.022,
+      "prior_variance": 0.096048,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Victor Harbor",
+      "path": "australiaandpacific/australia/southaustralia/victor_harbour",
+      "prior_score": 0.6139,
+      "prior_variance": 0.078701,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Aracataca",
+      "path": "southamerica/colombia/aracataca",
+      "prior_score": -2.0438,
+      "prior_variance": 0.10065,
+      "prior_n": 16
+    },
+    {
+      "rank": 13,
+      "title": "Anshun",
+      "path": "asia/china/guizhou/anshun",
+      "prior_score": -1.2148,
+      "prior_variance": 0.100022,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Temecula",
+      "path": "northamerica/unitedstates/california/inlandempire/temecula",
+      "prior_score": -0.8806,
+      "prior_variance": 0.084635,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Santa Rosa",
+      "path": "northamerica/unitedstates/california/northcoast/santarosa",
+      "prior_score": -1.7877,
+      "prior_variance": 0.095302,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Chaozhou",
+      "path": "asia/china/guangdong/chaozhou",
+      "prior_score": -0.0383,
+      "prior_variance": 0.088425,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Sewanee",
+      "path": "northamerica/unitedstates/tennessee/sewanee",
+      "prior_score": -3.0236,
+      "prior_variance": 0.108332,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.3219,
+      "prior_variance": 0.082084,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Akosombo",
+      "path": "africa/ghana/akosombo",
+      "prior_score": -2.1783,
+      "prior_variance": 0.080903,
+      "prior_n": 16
+    },
+    {
+      "rank": 20,
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.5051,
+      "prior_variance": 0.09875,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.6863,
+      "prior_variance": 0.087774,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Recklinghausen",
+      "path": "europe/germany/northrhinewestphalia/recklinghausen",
+      "prior_score": -3.4985,
+      "prior_variance": 0.090587,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Jackson",
+      "path": "northamerica/unitedstates/mississippi/jackson",
+      "prior_score": -4.2257,
+      "prior_variance": 0.108483,
+      "prior_n": 15
+    },
+    {
+      "rank": 24,
+      "title": "Texarkana",
+      "path": "northamerica/unitedstates/texas/texarkana",
+      "prior_score": -5.7633,
+      "prior_variance": 0.136341,
+      "prior_n": 15
+    }
+  ]
+}

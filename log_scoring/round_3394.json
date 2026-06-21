@@ -1,0 +1,200 @@
+{
+  "round": 3394,
+  "timestamp": "2026-06-13T22:50:42",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Amboseli National Park",
+      "path": "africa/kenya/amboseli",
+      "prior_score": 9.023,
+      "prior_variance": 0.275564,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Selcuk",
+      "path": "asia/turkey/selcuk",
+      "prior_score": 4.6232,
+      "prior_variance": 0.174458,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.7902,
+      "prior_variance": 0.130422,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Xiamen",
+      "path": "asia/china/fujianprovince/xiamen",
+      "prior_score": 2.6785,
+      "prior_variance": 0.13027,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Wuyuan",
+      "path": "asia/china/jiangxi/wuyuan",
+      "prior_score": 2.1086,
+      "prior_variance": 0.132659,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Marugame",
+      "path": "asia/japan/shikoku/marugame",
+      "prior_score": -0.0882,
+      "prior_variance": 0.136588,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Millau",
+      "path": "europe/france/centre/auvergne/millau",
+      "prior_score": 1.5789,
+      "prior_variance": 0.11718,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Stow-on-the-Wold",
+      "path": "europe/unitedkingdom/england/gloucestershire/stowonthewold",
+      "prior_score": 3.1797,
+      "prior_variance": 0.129053,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.3115,
+      "prior_variance": 0.1471,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Pszczyna",
+      "path": "europe/poland/pszczyna",
+      "prior_score": -0.5278,
+      "prior_variance": 0.128598,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Cangas",
+      "path": "europe/spain/galicia/cangas",
+      "prior_score": 0.2517,
+      "prior_variance": 0.110456,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Mission Beach",
+      "path": "australiaandpacific/australia/queensland/missionbeach",
+      "prior_score": 1.8314,
+      "prior_variance": 0.131138,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Heredia",
+      "path": "northamerica/costarica/heredia",
+      "prior_score": -0.4942,
+      "prior_variance": 0.118159,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Bulla Regia",
+      "path": "africa/tunisia/bullaregia",
+      "prior_score": 0.092,
+      "prior_variance": 0.126373,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Ventura",
+      "path": "northamerica/unitedstates/california/centralcoast/ventura",
+      "prior_score": 0.017,
+      "prior_variance": 0.117559,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Ghomrassen",
+      "path": "africa/tunisia/ghomrassen",
+      "prior_score": -3.9945,
+      "prior_variance": 0.137602,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Mobile",
+      "path": "northamerica/unitedstates/alabama/mobile",
+      "prior_score": -1.5077,
+      "prior_variance": 0.124119,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Nanchang",
+      "path": "asia/china/jiangxi/nanchang",
+      "prior_score": -3.062,
+      "prior_variance": 0.145948,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Blida",
+      "path": "africa/algeria/blida",
+      "prior_score": -5.2462,
+      "prior_variance": 0.163179,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Cartersville",
+      "path": "northamerica/unitedstates/georgia/cartersville",
+      "prior_score": -3.6882,
+      "prior_variance": 0.123199,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -2.6467,
+      "prior_variance": 0.128177,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Butre",
+      "path": "africa/ghana/butre",
+      "prior_score": -2.6593,
+      "prior_variance": 0.124897,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Maasin City",
+      "path": "asia/philippines/southern_leyte/maasin_city",
+      "prior_score": -3.4889,
+      "prior_variance": 0.12153,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Metairie",
+      "path": "northamerica/unitedstates/louisiana/metairie",
+      "prior_score": -5.0956,
+      "prior_variance": 0.146109,
+      "prior_n": 11
+    }
+  ]
+}

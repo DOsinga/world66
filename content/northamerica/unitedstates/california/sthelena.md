@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Helena_Catholic_Church
 latitude: 38.5052
 loc_type: city
 longitude: -122.47
-score: 0.5
+score: 0.43
 title: St. Helena
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aguadilla_Pueblo.jpg
 latitude: 18.4274
 loc_type: city
 longitude: -67.1541
-score: 0.5
+score: 0.45
 title: Aguadilla
 type: location
 ---

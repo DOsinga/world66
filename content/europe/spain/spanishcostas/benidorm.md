@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Benidorm-pano-160410.jpg
 latitude: 38.540625
 loc_type: city
 longitude: -0.129093
-score: 0.57
+score: 0.46
 title: Benidorm
 type: location
 ---

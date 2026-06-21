@@ -1,0 +1,200 @@
+{
+  "round": 2772,
+  "timestamp": "2026-06-13T22:06:16",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Moab",
+      "path": "northamerica/unitedstates/utah/moab",
+      "prior_score": 7.9463,
+      "prior_variance": 0.290132,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Lamu",
+      "path": "africa/kenya/thecoast/lamu",
+      "prior_score": 4.552,
+      "prior_variance": 0.147667,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Churchill",
+      "path": "northamerica/canada/manitoba/churchill",
+      "prior_score": 2.8965,
+      "prior_variance": 0.194032,
+      "prior_n": 9
+    },
+    {
+      "rank": 4,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 1.8489,
+      "prior_variance": 0.159297,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Kei Islands",
+      "path": "asia/indonesia/maluku/kei_islands",
+      "prior_score": 3.1047,
+      "prior_variance": 0.159378,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Steyr",
+      "path": "europe/austria/steyr",
+      "prior_score": 2.5434,
+      "prior_variance": 0.177231,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Certaldo",
+      "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo",
+      "prior_score": 0.4552,
+      "prior_variance": 0.173247,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.5527,
+      "prior_variance": 0.153933,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Ely",
+      "path": "europe/unitedkingdom/england/eastern_england/ely",
+      "prior_score": -0.1718,
+      "prior_variance": 0.173015,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "K\u00f8ge",
+      "path": "europe/denmark/koge",
+      "prior_score": -1.0612,
+      "prior_variance": 0.190499,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 1.0943,
+      "prior_variance": 0.143448,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Sassello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/sassello",
+      "prior_score": -1.7787,
+      "prior_variance": 0.177581,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Monsummano Terme",
+      "path": "europe/italy/tuscany/monsummano_terme",
+      "prior_score": 0.4199,
+      "prior_variance": 0.138146,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Dulverton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton",
+      "prior_score": 0.8712,
+      "prior_variance": 0.146491,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Clonmel",
+      "path": "europe/ireland/clonmel",
+      "prior_score": -1.0758,
+      "prior_variance": 0.167153,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Atlantic City",
+      "path": "northamerica/unitedstates/newjersey/atlanticcity",
+      "prior_score": -0.692,
+      "prior_variance": 0.161873,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Lexington",
+      "path": "northamerica/unitedstates/virginia/lexington",
+      "prior_score": -1.4168,
+      "prior_variance": 0.16843,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Boulder City",
+      "path": "northamerica/unitedstates/nevada/bouldercity",
+      "prior_score": -0.2895,
+      "prior_variance": 0.151568,
+      "prior_n": 10
+    },
+    {
+      "rank": 19,
+      "title": "Montesilvano",
+      "path": "europe/italy/abruzzo/montesilvano",
+      "prior_score": -1.7713,
+      "prior_variance": 0.169865,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -1.8692,
+      "prior_variance": 0.156188,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Urgench",
+      "path": "asia/uzbekistan/urgench",
+      "prior_score": -1.267,
+      "prior_variance": 0.157489,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -0.7711,
+      "prior_variance": 0.165828,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Punta Gorda",
+      "path": "northamerica/belize/puntagorda",
+      "prior_score": -0.0239,
+      "prior_variance": 0.214786,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Yulin",
+      "path": "asia/china/shaanxi/yulin",
+      "prior_score": -2.7917,
+      "prior_variance": 0.151064,
+      "prior_n": 8
+    }
+  ]
+}

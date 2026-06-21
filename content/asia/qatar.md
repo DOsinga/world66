@@ -16,7 +16,7 @@ quick_facts:
   Country Size: "About the size of Connecticut"
 title: Qatar
 type: location
-score: 0.52
+score: 0.43
 loc_type: country
 ---
 

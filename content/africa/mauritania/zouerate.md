@@ -5,7 +5,7 @@ latitude: 22.740206
 longitude: -12.466492
 title: Zouerate
 type: location
-score: 0.23
+score: 0.16
 loc_type: city
 ---
 

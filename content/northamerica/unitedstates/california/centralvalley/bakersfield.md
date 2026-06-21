@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2008-0621-Bakersfield-pan_
 latitude: 35.373871
 loc_type: city
 longitude: -119.019463
-score: 0.28
+score: 0.25
 title: Bakersfield
 type: location
 ---

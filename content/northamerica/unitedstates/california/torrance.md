@@ -5,7 +5,7 @@ done:
 latitude: 33.837139
 loc_type: city
 longitude: -118.341361
-score: 0.32
+score: 0.28
 title: Torrance
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 3.8667
 longitude: 17.9833
 title: M'Baïki
 type: location
-score: 0.15
+score: 0.14
 loc_type: city
 ---
 

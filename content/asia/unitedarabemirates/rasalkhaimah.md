@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mountain_view,_Jebel_Jais,
 latitude: 25.7895
 loc_type: city
 longitude: 55.9432
-score: 0.51
+score: 0.46
 title: Ras Al Khaimah
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 39.6837
 longitude: -75.7497
 title: Newark
 type: location
-score: 0.3
+score: 0.24
 loc_type: city
 ---
 

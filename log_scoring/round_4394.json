@@ -1,0 +1,200 @@
+{
+  "round": 4394,
+  "timestamp": "2026-06-14T00:09:03",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Macau",
+      "path": "asia/china/macau",
+      "prior_score": 4.7152,
+      "prior_variance": 0.124034,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Beppu",
+      "path": "asia/japan/kyushu/beppu",
+      "prior_score": 5.2541,
+      "prior_variance": 0.157173,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Copper Canyon",
+      "path": "northamerica/mexico/coppercanyon",
+      "prior_score": 4.6485,
+      "prior_variance": 0.114501,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "San Antonio",
+      "path": "northamerica/unitedstates/texas/sanantonio",
+      "prior_score": 2.1459,
+      "prior_variance": 0.116787,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Tauranga",
+      "path": "australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga",
+      "prior_score": 1.2831,
+      "prior_variance": 0.109055,
+      "prior_n": 14
+    },
+    {
+      "rank": 6,
+      "title": "Cirque des Navacelles",
+      "path": "europe/france/midi/cevennes/cirque_des_navacelles",
+      "prior_score": 3.1112,
+      "prior_variance": 0.098463,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Aberdeen",
+      "path": "europe/unitedkingdom/scotland/aberdeen",
+      "prior_score": 0.6822,
+      "prior_variance": 0.098111,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Villerville",
+      "path": "europe/france/normandybrittany/villerville",
+      "prior_score": 0.1687,
+      "prior_variance": 0.106709,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Ourense",
+      "path": "europe/spain/galicia/ourense",
+      "prior_score": 0.4007,
+      "prior_variance": 0.097835,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Vinaros",
+      "path": "europe/spain/castellon/vinaros",
+      "prior_score": 0.0013,
+      "prior_variance": 0.096754,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Erlangen",
+      "path": "europe/germany/bavaria/erlangen",
+      "prior_score": -0.3088,
+      "prior_variance": 0.097736,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Brotas",
+      "path": "southamerica/brazil/brotas",
+      "prior_score": -0.8972,
+      "prior_variance": 0.098041,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Coca (Puerto Francisco de Orellana)",
+      "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana",
+      "prior_score": -2.5554,
+      "prior_variance": 0.099242,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Coloma",
+      "path": "northamerica/unitedstates/california/goldcountry/coloma",
+      "prior_score": -1.2216,
+      "prior_variance": 0.112721,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Great Yarmouth",
+      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
+      "prior_score": -1.7712,
+      "prior_variance": 0.119405,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Piana Crixia",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/pianacrixia",
+      "prior_score": -1.6322,
+      "prior_variance": 0.117034,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.09,
+      "prior_variance": 0.123881,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Sleman",
+      "path": "asia/indonesia/sleman",
+      "prior_score": -2.1759,
+      "prior_variance": 0.098155,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Red Bluff",
+      "path": "northamerica/unitedstates/california/shastacascade/redbluff",
+      "prior_score": -4.1909,
+      "prior_variance": 0.110347,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Mont Choisi",
+      "path": "africa/mauritius/montchoisi",
+      "prior_score": -1.5364,
+      "prior_variance": 0.147555,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Lianyungang",
+      "path": "asia/china/jiangsu_province/lianyungang",
+      "prior_score": -4.1546,
+      "prior_variance": 0.1038,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Zhangjiakou",
+      "path": "asia/china/hebei/zhangjiakou",
+      "prior_score": -3.3472,
+      "prior_variance": 0.120669,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Hefei",
+      "path": "asia/china/anhui/hefei",
+      "prior_score": -3.7406,
+      "prior_variance": 0.103933,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kursk",
+      "path": "europe/russia/kursk",
+      "prior_score": -5.7811,
+      "prior_variance": 0.142129,
+      "prior_n": 14
+    }
+  ]
+}

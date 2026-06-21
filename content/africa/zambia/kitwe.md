@@ -5,7 +5,7 @@ done:
 latitude: -12.8204
 loc_type: city
 longitude: 28.2156
-score: 0.31
+score: 0.25
 title: Kitwe
 type: location
 ---

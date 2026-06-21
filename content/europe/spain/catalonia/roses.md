@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roses_mit_Sporthafen.jpg
 latitude: 42.263202
 loc_type: city
 longitude: 3.175533
-score: 0.59
+score: 0.49
 title: Roses
 type: location
 ---

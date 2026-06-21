@@ -1,199 +1,199 @@
 {
   "round": 1936,
-  "timestamp": "2026-04-13T15:55:48",
+  "timestamp": "2026-06-13T21:02:01",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Versailles",
-      "path": "europe/france/paris/versailles",
-      "prior_score": 12.3935,
-      "prior_variance": 0.608568,
-      "prior_n": 4
+      "title": "Lake Vico",
+      "path": "europe/italy/lazio/lakevico",
+      "prior_score": 1.2785,
+      "prior_variance": 0.239864,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Amalfi",
-      "path": "europe/italy/campania/amalfi",
-      "prior_score": 11.935,
-      "prior_variance": 0.604376,
-      "prior_n": 5
+      "title": "Comacchio",
+      "path": "europe/italy/emiliaromagna/comacchio",
+      "prior_score": 2.55,
+      "prior_variance": 0.220545,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Cape Town",
-      "path": "africa/southafrica/capetown",
-      "prior_score": 10.0675,
-      "prior_variance": 0.794555,
-      "prior_n": 5
+      "title": "Mono Lake",
+      "path": "northamerica/unitedstates/california/highsierra/monolake",
+      "prior_score": 2.7418,
+      "prior_variance": 0.235963,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Chamonix",
-      "path": "europe/france/alpes/chamonix",
-      "prior_score": 10.8871,
-      "prior_variance": 0.47899,
-      "prior_n": 5
+      "title": "Crovie",
+      "path": "europe/unitedkingdom/scotland/crovie",
+      "prior_score": 0.4766,
+      "prior_variance": 0.270078,
+      "prior_n": 7
     },
     {
       "rank": 5,
-      "title": "Patagonia",
-      "path": "southamerica/argentina/patagonia",
-      "prior_score": 6.8646,
-      "prior_variance": 0.59998,
-      "prior_n": 5
+      "title": "Bansk\u00e1 Bystrica",
+      "path": "europe/slovakia/banskabystrica",
+      "prior_score": 0.4119,
+      "prior_variance": 0.233657,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Milos",
-      "path": "europe/greece/milos",
-      "prior_score": 10.7741,
-      "prior_variance": 0.677834,
-      "prior_n": 5
+      "title": "Kristiansund",
+      "path": "europe/norway/kristiansund",
+      "prior_score": 1.2483,
+      "prior_variance": 0.242793,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Robben Island",
-      "path": "africa/southafrica/capetown/robbenisland",
-      "prior_score": 4.4481,
-      "prior_variance": 0.272387,
-      "prior_n": 5
+      "title": "\u00d6stersund",
+      "path": "europe/sweden/stersund",
+      "prior_score": 1.0637,
+      "prior_variance": 0.223846,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Canterbury",
-      "path": "australiaandpacific/newzealand/south_island/canterbury",
-      "prior_score": 3.7529,
-      "prior_variance": 0.265853,
-      "prior_n": 5
+      "title": "Leba",
+      "path": "europe/poland/leba",
+      "prior_score": -0.4357,
+      "prior_variance": 0.231027,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Dunedin",
-      "path": "australiaandpacific/newzealand/dunedin",
-      "prior_score": 5.1688,
-      "prior_variance": 0.299705,
-      "prior_n": 5
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 0.1711,
+      "prior_variance": 0.275608,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "St Andrews",
-      "path": "europe/unitedkingdom/scotland/standrews",
-      "prior_score": 5.3419,
-      "prior_variance": 0.342292,
-      "prior_n": 4
+      "title": "Dolores Hidalgo",
+      "path": "northamerica/mexico/doloreshidalgo",
+      "prior_score": -0.3938,
+      "prior_variance": 0.211331,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Caceres",
-      "path": "europe/spain/extremadura/caceres",
-      "prior_score": 4.7705,
-      "prior_variance": 0.307309,
-      "prior_n": 5
+      "title": "Colonia Tovar",
+      "path": "southamerica/venezuela/coloniatovar",
+      "prior_score": -0.4641,
+      "prior_variance": 0.257146,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Patan",
-      "path": "asia/nepal/patan",
-      "prior_score": 4.2508,
-      "prior_variance": 0.32801,
-      "prior_n": 5
+      "title": "Deadwood",
+      "path": "northamerica/unitedstates/southdakota/deadwood",
+      "prior_score": 1.2975,
+      "prior_variance": 0.243254,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Timisoara",
-      "path": "europe/romania/timisoara",
-      "prior_score": 1.2969,
-      "prior_variance": 0.251091,
-      "prior_n": 5
+      "title": "Naxxar",
+      "path": "europe/malta/naxxar",
+      "prior_score": -1.3991,
+      "prior_variance": 0.245587,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "Poland",
-      "path": "europe/poland",
-      "prior_score": 2.6362,
-      "prior_variance": 0.326598,
-      "prior_n": 5
+      "title": "Kollam",
+      "path": "asia/india/kerala/kollam",
+      "prior_score": -0.3108,
+      "prior_variance": 0.233418,
+      "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Appalachian Trail",
-      "path": "northamerica/unitedstates/apalachiantrail",
-      "prior_score": 3.5189,
-      "prior_variance": 0.333446,
-      "prior_n": 5
+      "title": "Kotagede",
+      "path": "asia/indonesia/kotagede",
+      "prior_score": -2.2539,
+      "prior_variance": 0.252407,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "Vientiane",
-      "path": "asia/laos/vientiane",
-      "prior_score": 2.2563,
-      "prior_variance": 0.26764,
-      "prior_n": 5
+      "title": "Caloundra",
+      "path": "australiaandpacific/australia/queensland/caloundra",
+      "prior_score": 0.5444,
+      "prior_variance": 0.229152,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Babeldaob",
-      "path": "australiaandpacific/palau/babeldoab",
-      "prior_score": 1.4242,
-      "prior_variance": 0.274146,
+      "title": "Lake Urmia",
+      "path": "asia/iran/lake_urmia",
+      "prior_score": -1.8191,
+      "prior_variance": 0.257577,
       "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Jaffna",
-      "path": "asia/srilanka/jaffna",
-      "prior_score": 1.1069,
-      "prior_variance": 0.21643,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -2.0826,
+      "prior_variance": 0.248032,
       "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Lake Elmenteita",
-      "path": "africa/kenya/lakes/lakeelmenteita",
-      "prior_score": 2.8372,
-      "prior_variance": 0.343902,
-      "prior_n": 4
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.1558,
+      "prior_variance": 0.246432,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Astoria",
-      "path": "northamerica/unitedstates/oregon/astoria",
-      "prior_score": 1.6263,
-      "prior_variance": 0.331167,
-      "prior_n": 5
+      "title": "Indianapolis",
+      "path": "northamerica/unitedstates/indiana/indianapolis",
+      "prior_score": -0.7406,
+      "prior_variance": 0.217309,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Naples",
-      "path": "northamerica/unitedstates/florida/naples",
-      "prior_score": -0.2303,
-      "prior_variance": 0.434274,
-      "prior_n": 5
+      "title": "Burg Stargard",
+      "path": "europe/germany/mecklenburgwesternpomerania/burgstargard",
+      "prior_score": -3.1529,
+      "prior_variance": 0.221546,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Boca Chica",
-      "path": "northamerica/dominicanrepublic/bocachica1",
-      "prior_score": -0.2345,
-      "prior_variance": 0.57811,
-      "prior_n": 5
+      "title": "Banff",
+      "path": "europe/unitedkingdom/scotland/banff",
+      "prior_score": 0.186,
+      "prior_variance": 0.20732,
+      "prior_n": 6
     },
     {
       "rank": 23,
-      "title": "Loano",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/loano",
-      "prior_score": 1.62,
-      "prior_variance": 0.259527,
-      "prior_n": 5
+      "title": "Tucumcari",
+      "path": "northamerica/unitedstates/newmexico/tucumcari",
+      "prior_score": -4.0001,
+      "prior_variance": 0.236832,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Borkum",
-      "path": "europe/germany/lowersaxony/east_frisian_islan/borkum",
-      "prior_score": 0.9087,
-      "prior_variance": 0.202833,
+      "title": "Prague",
+      "path": "northamerica/unitedstates/oklahoma/prague",
+      "prior_score": -7.5609,
+      "prior_variance": 0.396463,
       "prior_n": 6
     }
   ]

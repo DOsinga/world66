@@ -5,7 +5,7 @@ done:
 latitude: 41.2598
 loc_type: city
 longitude: -111.7691
-score: 0.33
+score: 0.32
 title: Huntsville
 type: location
 ---

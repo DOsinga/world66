@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corning,_NY.jpg
 latitude: 42.1428
 loc_type: city
 longitude: -77.0547
-score: 0.46
+score: 0.38
 title: Corning
 type: location
 ---

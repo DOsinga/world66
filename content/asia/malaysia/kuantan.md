@@ -5,7 +5,7 @@ done:
 latitude: 3.7974
 loc_type: city
 longitude: 103.3219
-score: 0.48
+score: 0.41
 title: Kuantan
 type: location
 ---

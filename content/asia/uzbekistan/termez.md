@@ -5,7 +5,7 @@ done:
 latitude: 37.2442
 loc_type: city
 longitude: 67.2832
-score: 0.34
+score: 0.31
 title: Termez
 type: location
 ---

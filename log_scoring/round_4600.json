@@ -1,0 +1,200 @@
+{
+  "round": 4600,
+  "timestamp": "2026-06-14T00:25:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Tokyo",
+      "path": "asia/japan/tokyo",
+      "prior_score": 18.6225,
+      "prior_variance": 1.037412,
+      "prior_n": 14
+    },
+    {
+      "rank": 2,
+      "title": "Hong Kong",
+      "path": "asia/china/hongkong",
+      "prior_score": 10.3755,
+      "prior_variance": 0.210068,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Furore",
+      "path": "europe/italy/campania/amalfi/furore",
+      "prior_score": 5.9958,
+      "prior_variance": 0.106709,
+      "prior_n": 15
+    },
+    {
+      "rank": 4,
+      "title": "Polignano a Mare",
+      "path": "europe/italy/puglia/polignano_a_mare",
+      "prior_score": 6.4186,
+      "prior_variance": 0.121234,
+      "prior_n": 15
+    },
+    {
+      "rank": 5,
+      "title": "Melaka",
+      "path": "asia/malaysia/melaka",
+      "prior_score": 5.0735,
+      "prior_variance": 0.118818,
+      "prior_n": 15
+    },
+    {
+      "rank": 6,
+      "title": "Pikes Peak",
+      "path": "northamerica/unitedstates/colorado/coloradosprings/pikespeak",
+      "prior_score": 4.2732,
+      "prior_variance": 0.102962,
+      "prior_n": 15
+    },
+    {
+      "rank": 7,
+      "title": "Vilnius",
+      "path": "europe/lithuania/vilnius",
+      "prior_score": 5.4462,
+      "prior_variance": 0.117803,
+      "prior_n": 15
+    },
+    {
+      "rank": 8,
+      "title": "Mtskheta",
+      "path": "europe/georgia/mtskheta",
+      "prior_score": 3.8223,
+      "prior_variance": 0.097663,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Swakopmund",
+      "path": "africa/namibia/swakopmund",
+      "prior_score": 2.2824,
+      "prior_variance": 0.085223,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Yubeng",
+      "path": "asia/china/yunnanprovince/yubeng",
+      "prior_score": 2.3006,
+      "prior_variance": 0.09986,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Brest",
+      "path": "europe/france/normandybrittany/brest",
+      "prior_score": 0.801,
+      "prior_variance": 0.090029,
+      "prior_n": 15
+    },
+    {
+      "rank": 12,
+      "title": "Kuressaare",
+      "path": "europe/estonia/kuressaare",
+      "prior_score": 1.018,
+      "prior_variance": 0.09706,
+      "prior_n": 15
+    },
+    {
+      "rank": 13,
+      "title": "Negros Oriental",
+      "path": "asia/philippines/negrosisland/negros_oriental",
+      "prior_score": 1.249,
+      "prior_variance": 0.100208,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.361,
+      "prior_variance": 0.086987,
+      "prior_n": 15
+    },
+    {
+      "rank": 15,
+      "title": "Konya",
+      "path": "asia/turkey/konya",
+      "prior_score": 1.5465,
+      "prior_variance": 0.09047,
+      "prior_n": 15
+    },
+    {
+      "rank": 16,
+      "title": "Cockpit Country",
+      "path": "northamerica/jamaica/cockpitcountry",
+      "prior_score": -0.0899,
+      "prior_variance": 0.100754,
+      "prior_n": 15
+    },
+    {
+      "rank": 17,
+      "title": "Tongren",
+      "path": "asia/china/guizhou/tongren",
+      "prior_score": -2.6599,
+      "prior_variance": 0.089008,
+      "prior_n": 15
+    },
+    {
+      "rank": 18,
+      "title": "Ciudad Bol\u00edvar",
+      "path": "southamerica/venezuela/ciudadbolivar",
+      "prior_score": -3.5384,
+      "prior_variance": 0.116899,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "Gab\u00e8s",
+      "path": "africa/tunisia/gabes",
+      "prior_score": -3.7528,
+      "prior_variance": 0.09895,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Monaghan",
+      "path": "europe/ireland/monaghan",
+      "prior_score": -2.017,
+      "prior_variance": 0.08424,
+      "prior_n": 15
+    },
+    {
+      "rank": 21,
+      "title": "Boulogne",
+      "path": "europe/france/nord/boulogne",
+      "prior_score": -2.9842,
+      "prior_variance": 0.105032,
+      "prior_n": 15
+    },
+    {
+      "rank": 22,
+      "title": "Zhovkva",
+      "path": "europe/ukraine/zovkva",
+      "prior_score": -2.5229,
+      "prior_variance": 0.097069,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Nueva Rosita",
+      "path": "northamerica/mexico/nuevarosita",
+      "prior_score": -6.5935,
+      "prior_variance": 0.123757,
+      "prior_n": 14
+    },
+    {
+      "rank": 24,
+      "title": "Kanton Island",
+      "path": "australiaandpacific/kiribati/kantonisland",
+      "prior_score": -4.3919,
+      "prior_variance": 0.134014,
+      "prior_n": 15
+    }
+  ]
+}

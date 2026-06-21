@@ -1,0 +1,200 @@
+{
+  "round": 3769,
+  "timestamp": "2026-06-13T23:18:45",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rethimno",
+      "path": "europe/greece/crete/rethimno",
+      "prior_score": 6.2054,
+      "prior_variance": 0.152553,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Koh Mak",
+      "path": "asia/thailand/kohchang/koh_mak",
+      "prior_score": 3.0767,
+      "prior_variance": 0.117441,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "Lake Nakuru National Park",
+      "path": "africa/kenya/nationalparksandreserves/lakenakurunp",
+      "prior_score": 5.96,
+      "prior_variance": 0.13655,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Noli",
+      "path": "europe/italy/liguria/italianriviera/noli",
+      "prior_score": 3.0841,
+      "prior_variance": 0.11662,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 4.2539,
+      "prior_variance": 0.131952,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Mechelen",
+      "path": "europe/belgium/mechelen",
+      "prior_score": 2.4273,
+      "prior_variance": 0.111011,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "'Uoleva",
+      "path": "australiaandpacific/tonga/haapaigroup/uoleva",
+      "prior_score": 0.6393,
+      "prior_variance": 0.135841,
+      "prior_n": 12
+    },
+    {
+      "rank": 8,
+      "title": "Nainital",
+      "path": "asia/india/uttaranchal/nainital",
+      "prior_score": 1.8045,
+      "prior_variance": 0.114939,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Paarl",
+      "path": "africa/southafrica/paarl",
+      "prior_score": 0.7638,
+      "prior_variance": 0.124171,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Ningbo",
+      "path": "asia/china/zhejiang/ningbo",
+      "prior_score": -0.82,
+      "prior_variance": 0.10816,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Black Rock City",
+      "path": "northamerica/unitedstates/nevada/blackrockcity",
+      "prior_score": -1.2497,
+      "prior_variance": 0.130139,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Massimino",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/massimino",
+      "prior_score": -4.1018,
+      "prior_variance": 0.157185,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "La Rioja",
+      "path": "southamerica/argentina/larioja",
+      "prior_score": -1.8924,
+      "prior_variance": 0.117453,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kualakububaru",
+      "prior_score": -1.7567,
+      "prior_variance": 0.101443,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Thanh Hoa",
+      "path": "asia/vietnam/thanh_hoa",
+      "prior_score": -2.2591,
+      "prior_variance": 0.132674,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Elbasan",
+      "path": "europe/albania/elbasan",
+      "prior_score": -2.5232,
+      "prior_variance": 0.09812,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Lake Volta",
+      "path": "africa/ghana/lakevolta",
+      "prior_score": -2.0726,
+      "prior_variance": 0.11557,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Cahokia",
+      "path": "northamerica/unitedstates/illinois/cahokia",
+      "prior_score": -3.5826,
+      "prior_variance": 0.13399,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Kawasaki",
+      "path": "asia/japan/honshu/kawasaki",
+      "prior_score": -1.6904,
+      "prior_variance": 0.121678,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.3993,
+      "prior_variance": 0.127616,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Ely",
+      "path": "northamerica/unitedstates/nevada/ely",
+      "prior_score": -3.8276,
+      "prior_variance": 0.140725,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -3.858,
+      "prior_variance": 0.112065,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Springfield",
+      "path": "northamerica/unitedstates/missouri/springfield",
+      "prior_score": -3.3401,
+      "prior_variance": 0.11952,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -5.7098,
+      "prior_variance": 0.151632,
+      "prior_n": 12
+    }
+  ]
+}

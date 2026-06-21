@@ -5,7 +5,7 @@ done:
 latitude: 37.7839
 loc_type: city
 longitude: -79.4428
-score: 0.46
+score: 0.38
 sources:
 - https://en.wikipedia.org/wiki/Lexington,_Virginia
 - https://en.wikipedia.org/wiki/Washington_and_Lee_University

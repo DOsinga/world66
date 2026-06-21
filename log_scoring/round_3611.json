@@ -1,0 +1,200 @@
+{
+  "round": 3611,
+  "timestamp": "2026-06-13T23:06:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Nagoya",
+      "path": "asia/japan/honshu/nagoya",
+      "prior_score": 4.1821,
+      "prior_variance": 0.12173,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Fatima",
+      "path": "europe/portugal/fatima",
+      "prior_score": 2.3471,
+      "prior_variance": 0.139313,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Pontevedra",
+      "path": "europe/spain/galicia/pontevedra",
+      "prior_score": 3.7104,
+      "prior_variance": 0.122006,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 2.4197,
+      "prior_variance": 0.11827,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Impruneta",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/impruneta",
+      "prior_score": 1.2874,
+      "prior_variance": 0.13148,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Bundi",
+      "path": "asia/india/rajasthan/bundi",
+      "prior_score": 3.842,
+      "prior_variance": 0.11216,
+      "prior_n": 12
+    },
+    {
+      "rank": 7,
+      "title": "Sanchi",
+      "path": "asia/india/madhyapradesh/sanchi",
+      "prior_score": 1.2022,
+      "prior_variance": 0.108964,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Whitehorse",
+      "path": "northamerica/canada/the_yukon_territory/whitehorse",
+      "prior_score": 1.5612,
+      "prior_variance": 0.112877,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Vernet les Bains",
+      "path": "europe/france/midi/pyrenees/vernet_les_bains",
+      "prior_score": 1.982,
+      "prior_variance": 0.104313,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Hannibal",
+      "path": "northamerica/unitedstates/missouri/hanibal_missouri",
+      "prior_score": -1.0233,
+      "prior_variance": 0.113771,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "\u0160pindler\u016fv Ml\u00fdn",
+      "path": "europe/czechrepublic/spindleruvmlyn",
+      "prior_score": 0.4205,
+      "prior_variance": 0.10426,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Port of Spain",
+      "path": "northamerica/trinidadandtobago/port_of_spain",
+      "prior_score": 2.1587,
+      "prior_variance": 0.124465,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "North Frisian Islands",
+      "path": "europe/germany/schleswigholstein/north_frisian_islands",
+      "prior_score": 1.6867,
+      "prior_variance": 0.1178,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Pisco",
+      "path": "southamerica/peru/pisco",
+      "prior_score": -1.9404,
+      "prior_variance": 0.105397,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 2.3108,
+      "prior_variance": 0.114505,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "San Sebasti\u00e1n de La Gomera",
+      "path": "europe/spain/canaryislands/lagomera/san_sebastin",
+      "prior_score": 1.6796,
+      "prior_variance": 0.13952,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Xixia Wangling National Park",
+      "path": "asia/china/ningxia/xixia-wangling",
+      "prior_score": -1.276,
+      "prior_variance": 0.122318,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Battura Valley",
+      "path": "asia/pakistan/hunzavalley/battura_valley",
+      "prior_score": -0.6077,
+      "prior_variance": 0.132291,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Zuma Rock",
+      "path": "africa/nigeria/zumarock",
+      "prior_score": -2.9617,
+      "prior_variance": 0.148195,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -4.0726,
+      "prior_variance": 0.189755,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Levin",
+      "path": "australiaandpacific/newzealand/levin",
+      "prior_score": -3.6141,
+      "prior_variance": 0.132346,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Tumkur",
+      "path": "asia/india/karnataka/tumkur",
+      "prior_score": -5.37,
+      "prior_variance": 0.156399,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Vidalia",
+      "path": "northamerica/unitedstates/georgia/vidalia",
+      "prior_score": -5.9829,
+      "prior_variance": 0.153915,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Paloncha",
+      "path": "asia/india/andhrapradesh/paloncha",
+      "prior_score": -7.2746,
+      "prior_variance": 0.189168,
+      "prior_n": 11
+    }
+  ]
+}

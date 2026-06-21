@@ -1,200 +1,200 @@
 {
   "round": 1235,
-  "timestamp": "2026-04-12T22:16:40",
+  "timestamp": "2026-06-13T20:18:42",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "St. John's",
-      "path": "northamerica/antiguaandbarbuda/stjohns",
-      "prior_rank": 1673,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Bern",
+      "path": "europe/switzerland/bern",
+      "prior_score": 6.6777,
+      "prior_variance": 0.415046,
+      "prior_n": 3
     },
     {
       "rank": 2,
-      "title": "Mittenwald",
-      "path": "europe/germany/bavaria/mittenwald",
-      "prior_rank": 1843,
-      "prior_wins": 32,
-      "prior_n": 2
+      "title": "Figueres",
+      "path": "europe/spain/catalonia/figueres",
+      "prior_score": 6.4561,
+      "prior_variance": 0.421669,
+      "prior_n": 3
     },
     {
       "rank": 3,
-      "title": "Den Burg",
-      "path": "europe/netherlands/waddenislands/texel_island/den_burg",
-      "prior_rank": 3066,
-      "prior_wins": 54,
-      "prior_n": 4
+      "title": "Huacachina",
+      "path": "southamerica/peru/huacachina",
+      "prior_score": 8.4569,
+      "prior_variance": 0.444214,
+      "prior_n": 3
     },
     {
       "rank": 4,
-      "title": "Cockpit Country",
-      "path": "northamerica/jamaica/cockpitcountry",
-      "prior_rank": 3901,
-      "prior_wins": 37,
-      "prior_n": 4
+      "title": "Karpathos",
+      "path": "europe/greece/karpathos",
+      "prior_score": 7.707,
+      "prior_variance": 0.469592,
+      "prior_n": 3
     },
     {
       "rank": 5,
-      "title": "Dunster",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/exmoor/dunster",
-      "prior_rank": 3093,
-      "prior_wins": 27,
-      "prior_n": 2
+      "title": "Byron Bay",
+      "path": "australiaandpacific/australia/newsouthwales/byronbay",
+      "prior_score": 6.9198,
+      "prior_variance": 0.367048,
+      "prior_n": 4
     },
     {
       "rank": 6,
-      "title": "Plomari",
-      "path": "europe/greece/lesbos/plomari",
-      "prior_rank": 3284,
-      "prior_wins": 26,
-      "prior_n": 2
+      "title": "Freeport",
+      "path": "northamerica/bahamas/freeport",
+      "prior_score": 1.8492,
+      "prior_variance": 0.310542,
+      "prior_n": 4
     },
     {
       "rank": 7,
-      "title": "Kirkenes",
-      "path": "europe/norway/kirkenes",
-      "prior_rank": 3574,
-      "prior_wins": 25,
-      "prior_n": 2
+      "title": "Detian Waterfall",
+      "path": "asia/china/guangxi/detian",
+      "prior_score": 5.7535,
+      "prior_variance": 0.380007,
+      "prior_n": 4
     },
     {
       "rank": 8,
-      "title": "Scarborough",
-      "path": "europe/unitedkingdom/scarborough",
-      "prior_rank": 2581,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 4.4646,
+      "prior_variance": 0.417204,
+      "prior_n": 3
     },
     {
       "rank": 9,
-      "title": "Rottweil",
-      "path": "europe/germany/badenwrttemberg/rottweil",
-      "prior_rank": 4279,
-      "prior_wins": 33,
+      "title": "P\u00e9rigueux",
+      "path": "europe/france/midi/dordogne/perigueux",
+      "prior_score": 4.1209,
+      "prior_variance": 0.706073,
       "prior_n": 3
     },
     {
       "rank": 10,
-      "title": "Long Beach",
-      "path": "northamerica/unitedstates/california/losangeles/longbeach",
-      "prior_rank": 3179,
-      "prior_wins": 40,
-      "prior_n": 3
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.4341,
+      "prior_variance": 0.316073,
+      "prior_n": 4
     },
     {
       "rank": 11,
-      "title": "Newcastle upon Tyne",
-      "path": "europe/unitedkingdom/newcastle_upon_tyn",
-      "prior_rank": 2570,
-      "prior_wins": 29,
-      "prior_n": 2
+      "title": "Pontassieve",
+      "path": "europe/italy/tuscany/florenceprovince/sievevalley/pontassieve",
+      "prior_score": 0.7158,
+      "prior_variance": 0.433256,
+      "prior_n": 3
     },
     {
       "rank": 12,
-      "title": "Juan Griego",
-      "path": "southamerica/venezuela/margaritaisland/juangriego",
-      "prior_rank": 6433,
-      "prior_wins": 20,
+      "title": "Naivasha",
+      "path": "africa/kenya/theriftvalley/naivasha",
+      "prior_score": 4.4416,
+      "prior_variance": 0.426455,
       "prior_n": 3
     },
     {
       "rank": 13,
-      "title": "Ry",
-      "path": "europe/denmark/ry",
-      "prior_rank": 5477,
-      "prior_wins": 26,
-      "prior_n": 3
+      "title": "Torridonian Highlands",
+      "path": "europe/unitedkingdom/scotland/torridonian_highlands",
+      "prior_score": 5.7457,
+      "prior_variance": 0.441963,
+      "prior_n": 4
     },
     {
       "rank": 14,
-      "title": "Port Elizabeth",
-      "path": "africa/southafrica/portelizabeth",
-      "prior_rank": 6181,
-      "prior_wins": 29,
+      "title": "Cumberland Island",
+      "path": "northamerica/unitedstates/georgia/cumberlandisland",
+      "prior_score": 2.6201,
+      "prior_variance": 0.399463,
       "prior_n": 4
     },
     {
       "rank": 15,
-      "title": "Nastved",
-      "path": "europe/denmark/nastved",
-      "prior_rank": 5234,
-      "prior_wins": 18,
-      "prior_n": 2
-    },
-    {
-      "rank": 16,
-      "title": "The Entrance",
-      "path": "australiaandpacific/australia/newsouthwales/the_entrance",
-      "prior_rank": 4277,
-      "prior_wins": 22,
-      "prior_n": 2
-    },
-    {
-      "rank": 17,
-      "title": "Jayapura",
-      "path": "asia/indonesia/irianjaya/jaya_pura",
-      "prior_rank": 5781,
-      "prior_wins": 32,
+      "title": "Dana Point",
+      "path": "northamerica/unitedstates/california/orangecounty/danapoint",
+      "prior_score": 0.2549,
+      "prior_variance": 0.320426,
       "prior_n": 4
     },
     {
+      "rank": 16,
+      "title": "Falkenberg",
+      "path": "europe/sweden/falkenberg",
+      "prior_score": -2.1704,
+      "prior_variance": 0.316383,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Ashburton",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/ashburton",
+      "prior_score": -3.3024,
+      "prior_variance": 0.395042,
+      "prior_n": 3
+    },
+    {
       "rank": 18,
-      "title": "Lincoln",
-      "path": "northamerica/unitedstates/nebraska/lincoln",
-      "prior_rank": 5033,
-      "prior_wins": 19,
-      "prior_n": 2
+      "title": "Meru",
+      "path": "africa/kenya/centralhighlands/meru",
+      "prior_score": -2.8085,
+      "prior_variance": 0.614194,
+      "prior_n": 3
     },
     {
       "rank": 19,
-      "title": "Orhei",
-      "path": "europe/moldova/orhei",
-      "prior_rank": 6731,
-      "prior_wins": 18,
+      "title": "Coimbatore",
+      "path": "asia/india/tamilnadu/coimbatore",
+      "prior_score": -3.5393,
+      "prior_variance": 0.390004,
       "prior_n": 3
     },
     {
       "rank": 20,
-      "title": "Kharkiv",
-      "path": "europe/ukraine/kharkiv",
-      "prior_rank": 6238,
-      "prior_wins": 14,
-      "prior_n": 2
+      "title": "Maasmechelen",
+      "path": "europe/belgium/maasmechelen",
+      "prior_score": -4.1218,
+      "prior_variance": 0.316721,
+      "prior_n": 4
     },
     {
       "rank": 21,
-      "title": "Tajpur",
-      "path": "asia/india/westbengal/mandarmani/tajpur",
-      "prior_rank": 7490,
-      "prior_wins": 8,
-      "prior_n": 2
+      "title": "Altare",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/altare",
+      "prior_score": -4.2737,
+      "prior_variance": 0.380347,
+      "prior_n": 4
     },
     {
       "rank": 22,
-      "title": "Vezzi Portio",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/vezziportio",
-      "prior_rank": 5266,
-      "prior_wins": 18,
-      "prior_n": 2
+      "title": "Rancho Cucamonga",
+      "path": "northamerica/unitedstates/california/inlandempire/rancho_cucamonga",
+      "prior_score": -7.7917,
+      "prior_variance": 0.415531,
+      "prior_n": 3
     },
     {
       "rank": 23,
-      "title": "Pankisi Gorge",
-      "path": "europe/georgia/pankisi",
-      "prior_rank": 7144,
-      "prior_wins": 10,
-      "prior_n": 2
+      "title": "Yongning",
+      "path": "asia/china/ningxia/yongning",
+      "prior_score": -8.6276,
+      "prior_variance": 0.772804,
+      "prior_n": 3
     },
     {
       "rank": 24,
-      "title": "Hugo",
-      "path": "northamerica/unitedstates/oklahoma/hugo",
-      "prior_rank": 7983,
-      "prior_wins": 9,
-      "prior_n": 4
+      "title": "Selma",
+      "path": "northamerica/unitedstates/california/centralvalley/selma",
+      "prior_score": -8.4874,
+      "prior_variance": 0.434865,
+      "prior_n": 3
     }
   ]
 }

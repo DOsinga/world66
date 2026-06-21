@@ -13,6 +13,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Whitehorse
 title: Whitehorse
 type: location
+score: 0.45
 ---
 
 *North America > Canada > The Yukon Territory > Whitehorse*

@@ -1,199 +1,199 @@
 {
   "round": 261,
-  "timestamp": "2026-04-12T09:09:03",
+  "timestamp": "2026-06-13T19:26:57",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Matera",
-      "path": "europe/italy/basilicata/matera",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Staniel Cay",
+      "path": "northamerica/bahamas/exumas/staniel_cay",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Ajanta Caves",
-      "path": "asia/india/maharashtra/ajanta_caves",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Anegada",
+      "path": "northamerica/britishvirginislands/anegada",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Praslin",
-      "path": "africa/seychelles/praslin",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Aride Island",
+      "path": "africa/seychelles/arideisland",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Kanazawa",
-      "path": "asia/japan/honshu/kanazawacity",
-      "prior_mu": 27.6726,
-      "prior_sigma": 5.7205,
-      "prior_n": 2
+      "title": "Mistra",
+      "path": "europe/greece/mistra",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Puerto Vallarta",
-      "path": "northamerica/mexico/puertovallarta",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fazana",
+      "path": "europe/croatia/fazana",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Le\u00f3n",
-      "path": "europe/spain/northernspain/leon",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Cognac",
-      "path": "europe/france/aquitaine/cognac",
-      "prior_mu": 22.5086,
-      "prior_sigma": 5.9112,
-      "prior_n": 1
+      "title": "N\u00f3lsoy",
+      "path": "europe/faroeislands/nolsoy",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Srirangam",
-      "path": "asia/india/tamilnadu/srirangam",
-      "prior_mu": 22.7231,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Borkum",
+      "path": "europe/germany/lowersaxony/east_frisian_islands/borkum",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Vara Valley",
-      "path": "europe/italy/liguria/varavalley",
-      "prior_mu": 22.681,
-      "prior_sigma": 5.9447,
-      "prior_n": 1
+      "title": "De Koog",
+      "path": "europe/netherlands/waddenislands/texel_island/de_koog",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "San Felice Circeo",
-      "path": "europe/italy/lazio/san_felice_circeo",
-      "prior_mu": 22.7169,
-      "prior_sigma": 5.6861,
-      "prior_n": 1
+      "title": "Bardejov",
+      "path": "europe/slovakia/bardejov",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Apolonia",
-      "path": "europe/albania/apolonia",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Fredericksburg",
+      "path": "northamerica/unitedstates/virginia/fredericksburg",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Rottweil",
-      "path": "europe/germany/badenwrttemberg/rottweil",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kigoma",
+      "path": "africa/tanzania/kigoma",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Western Samoa",
-      "path": "australiaandpacific/westernsamoa",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Saul",
+      "path": "southamerica/frenchguiana/saul",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Tapolca",
-      "path": "europe/hungary/tapolca",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Kuala Kubu Baru",
+      "path": "asia/malaysia/kuala_kubu_baru",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Tonder",
-      "path": "europe/denmark/tonder",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Pobitora",
+      "path": "asia/india/assam/pobitora",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Ojo Caliente",
-      "path": "northamerica/unitedstates/newmexico/ojo_caliente",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Jijel",
+      "path": "africa/algeria/jijel_algeria",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Jeddah",
-      "path": "asia/saudiarabia/jeddah",
-      "prior_mu": 22.7227,
-      "prior_sigma": 5.9499,
-      "prior_n": 1
+      "title": "Angels Camp",
+      "path": "northamerica/unitedstates/california/goldcountry/angels_camp",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Asir",
-      "path": "asia/saudiarabia/asir",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Syracuse",
+      "path": "northamerica/unitedstates/newyorkstate/syracuse",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Gronau",
-      "path": "europe/germany/northrhinewestphalia/gronau",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Pawnee",
+      "path": "northamerica/unitedstates/oklahoma/pawnee",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Francistown",
-      "path": "africa/botswana/francistown",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tatab\u00e1nya",
+      "path": "europe/hungary/tatabanya",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Darra Adam Khel",
-      "path": "asia/pakistan/darraadamkhel",
-      "prior_mu": 18.3441,
-      "prior_sigma": 6.7587,
-      "prior_n": 1
+      "title": "Jalgaon",
+      "path": "asia/india/maharashtra/jalgaon",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Retra",
-      "path": "asia/pakistan/dera_ghazi_khan/taunsa_sharif/vehoa/retra",
-      "prior_mu": 18.3441,
-      "prior_sigma": 6.7588,
-      "prior_n": 1
+      "title": "Kakching",
+      "path": "asia/india/manipur/kakching",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Yola",
-      "path": "africa/nigeria/yola",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Marawi City",
+      "path": "asia/philippines/marawi_city",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Myoyangsan",
-      "path": "asia/northkorea/myoyangsan",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Khankendi (Stepanakert)",
+      "path": "europe/azerbaijan/nagornokarabakh/stepanakert",
+      "prior_score": 0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xalapa_montage.jpg
 latitude: 19.540834
 loc_type: city
 longitude: -96.914637
-score: 0.51
+score: 0.43
 title: Xalapa
 type: location
 ---

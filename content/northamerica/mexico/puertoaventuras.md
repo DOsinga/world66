@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moon_Over_the_Water_in_Pue
 latitude: 20.506668
 loc_type: city
 longitude: -87.230063
-score: 0.51
+score: 0.45
 title: Puerto Aventuras
 type: location
 ---

@@ -6,11 +6,11 @@ latitude: 47.5964
 longitude: 3.637
 title: Mailly-le-Château
 type: location
-score: 0.47
+score: 0.41
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Mailly-le-Ch%C3%A2teau
-  - https://en.wikipedia.org/wiki/Nivernais_Canal
+- https://en.wikipedia.org/wiki/Mailly-le-Ch%C3%A2teau
+- https://en.wikipedia.org/wiki/Nivernais_Canal
 ---
 
 Mailly-le-Château is a small village perched dramatically on a cliff above the River Yonne in [Burgundy](/europe/france/east/burgundy). The site was a natural choice for a fortification, and remnants of the old château still stand among the village buildings. Behind them, an open terrace offers sweeping views over the river valley — one of the best vantage points in this stretch of the Yonne.

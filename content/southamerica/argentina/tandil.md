@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/56468373@N00/108911823
 latitude: -37.328289
 loc_type: city
 longitude: -59.135696
-score: 0.5
+score: 0.43
 title: Tandil
 type: location
 ---

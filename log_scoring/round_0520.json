@@ -1,200 +1,200 @@
 {
   "round": 520,
-  "timestamp": "2026-04-12T09:45:20",
+  "timestamp": "2026-06-13T19:40:22",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Maastricht",
-      "path": "europe/netherlands/maastricht",
-      "prior_mu": 29.3494,
-      "prior_sigma": 3.3616,
-      "prior_n": 7
+      "title": "Royal Chitwan National Park",
+      "path": "asia/nepal/royalchitwannationalpark",
+      "prior_score": 6.4425,
+      "prior_variance": 2.40237,
+      "prior_n": 1
     },
     {
       "rank": 2,
-      "title": "The Hague",
-      "path": "europe/netherlands/thehague",
-      "prior_mu": 24.0075,
-      "prior_sigma": 3.5443,
-      "prior_n": 3
+      "title": "Hailuogou Glacier Park",
+      "path": "asia/china/sichuanprovince/hailuogou",
+      "prior_score": 5.7739,
+      "prior_variance": 1.495242,
+      "prior_n": 1
     },
     {
       "rank": 3,
-      "title": "Gouda",
-      "path": "europe/netherlands/gouda",
-      "prior_mu": 21.5585,
-      "prior_sigma": 2.6244,
-      "prior_n": 6
+      "title": "Gjogv",
+      "path": "europe/faroeislands/eysturoy/gjogv",
+      "prior_score": 4.3112,
+      "prior_variance": 1.525326,
+      "prior_n": 1
     },
     {
       "rank": 4,
-      "title": "Scheveningen",
-      "path": "europe/netherlands/scheveningen",
-      "prior_mu": 21.4297,
-      "prior_sigma": 3.3783,
-      "prior_n": 4
+      "title": "Montserrat",
+      "path": "northamerica/thecaribbean/monserrat",
+      "prior_score": 5.7564,
+      "prior_variance": 2.405612,
+      "prior_n": 1
     },
     {
       "rank": 5,
-      "title": "Domburg",
-      "path": "europe/netherlands/domburg",
-      "prior_mu": 21.7204,
-      "prior_sigma": 4.185,
-      "prior_n": 2
+      "title": "Charlotte Amalie",
+      "path": "northamerica/thecaribbean/virginislands/charlotteamalie",
+      "prior_score": 3.975,
+      "prior_variance": 2.013633,
+      "prior_n": 1
     },
     {
       "rank": 6,
-      "title": "Ameland",
-      "path": "europe/netherlands/waddenislands/ameland_island",
-      "prior_mu": 21.3019,
-      "prior_sigma": 2.8014,
-      "prior_n": 5
+      "title": "Nerja",
+      "path": "europe/spain/andalucia/nerja",
+      "prior_score": 5.8638,
+      "prior_variance": 2.925197,
+      "prior_n": 1
     },
     {
       "rank": 7,
-      "title": "Dordrecht",
-      "path": "europe/netherlands/dordrecht",
-      "prior_mu": 21.0038,
-      "prior_sigma": 3.11,
-      "prior_n": 4
+      "title": "Sanremo",
+      "path": "europe/italy/liguria/italianriviera/sanremo",
+      "prior_score": 8.3914,
+      "prior_variance": 1.741688,
+      "prior_n": 1
     },
     {
       "rank": 8,
-      "title": "Deventer",
-      "path": "europe/netherlands/deventer",
-      "prior_mu": 21.1904,
-      "prior_sigma": 3.5165,
-      "prior_n": 3
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_score": 6.2202,
+      "prior_variance": 1.650062,
+      "prior_n": 1
     },
     {
       "rank": 9,
-      "title": "Hindeloopen",
-      "path": "europe/netherlands/friesland/hindeloopen",
-      "prior_mu": 21.0424,
-      "prior_sigma": 3.136,
-      "prior_n": 4
+      "title": "Hammamet",
+      "path": "africa/tunisia/hammamet",
+      "prior_score": 6.7443,
+      "prior_variance": 6.591953,
+      "prior_n": 1
     },
     {
       "rank": 10,
-      "title": "Bergen",
-      "path": "europe/netherlands/bergen",
-      "prior_mu": 20.7248,
-      "prior_sigma": 2.7202,
-      "prior_n": 6
+      "title": "Los Gigantes",
+      "path": "europe/spain/spanishcostas/losgigantes",
+      "prior_score": 4.7844,
+      "prior_variance": 1.751762,
+      "prior_n": 1
     },
     {
       "rank": 11,
-      "title": "Netherlands",
-      "path": "europe/netherlands",
-      "prior_mu": 21.5309,
-      "prior_sigma": 3.4258,
-      "prior_n": 5
+      "title": "Vientiane",
+      "path": "asia/laos/vientiane",
+      "prior_score": 8.2615,
+      "prior_variance": 1.985256,
+      "prior_n": 1
     },
     {
       "rank": 12,
-      "title": "Hilversum",
-      "path": "europe/netherlands/hilversum",
-      "prior_mu": 21.1297,
-      "prior_sigma": 3.4077,
-      "prior_n": 3
+      "title": "Chengde",
+      "path": "asia/china/hebei/chengde",
+      "prior_score": 8.8208,
+      "prior_variance": 7.237851,
+      "prior_n": 1
     },
     {
       "rank": 13,
-      "title": "Lochem",
-      "path": "europe/netherlands/lochem",
-      "prior_mu": 20.7516,
-      "prior_sigma": 3.6484,
-      "prior_n": 3
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 6.2789,
+      "prior_variance": 2.09161,
+      "prior_n": 1
     },
     {
       "rank": 14,
-      "title": "Amstelveen",
-      "path": "europe/netherlands/amstelveen",
-      "prior_mu": 20.9948,
-      "prior_sigma": 3.3142,
-      "prior_n": 4
+      "title": "Ica",
+      "path": "southamerica/peru/ica",
+      "prior_score": 5.4801,
+      "prior_variance": 1.395211,
+      "prior_n": 1
     },
     {
       "rank": 15,
-      "title": "Hellevoetsluis",
-      "path": "europe/netherlands/hellevoetsluis",
-      "prior_mu": 20.4854,
-      "prior_sigma": 2.9112,
-      "prior_n": 5
+      "title": "Nanortalik",
+      "path": "northamerica/greenland/nanortalik",
+      "prior_score": 4.4905,
+      "prior_variance": 1.558652,
+      "prior_n": 1
     },
     {
       "rank": 16,
-      "title": "IJlst",
-      "path": "europe/netherlands/friesland/ijlst",
-      "prior_mu": 20.6741,
-      "prior_sigma": 2.5713,
-      "prior_n": 6
+      "title": "Yalta",
+      "path": "europe/ukraine/crimea/yalta",
+      "prior_score": 3.7827,
+      "prior_variance": 1.941787,
+      "prior_n": 1
     },
     {
       "rank": 17,
-      "title": "Heerenveen",
-      "path": "europe/netherlands/friesland/heerenveen",
-      "prior_mu": 20.8313,
-      "prior_sigma": 3.079,
-      "prior_n": 5
+      "title": "Charlottetown",
+      "path": "northamerica/canada/princeedwardisland/charlottetown",
+      "prior_score": 2.5316,
+      "prior_variance": 1.866524,
+      "prior_n": 1
     },
     {
       "rank": 18,
-      "title": "Achterhoek & Liemers",
-      "path": "europe/netherlands/achterhoek__lieme",
-      "prior_mu": 20.4661,
-      "prior_sigma": 2.7228,
-      "prior_n": 6
+      "title": "Dartmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmouth",
+      "prior_score": 4.9815,
+      "prior_variance": 1.673617,
+      "prior_n": 1
     },
     {
       "rank": 19,
-      "title": "Almelo",
-      "path": "europe/netherlands/almelo",
-      "prior_mu": 20.5161,
-      "prior_sigma": 2.778,
-      "prior_n": 6
+      "title": "Toulon",
+      "path": "europe/france/midi/cotedazur/toulon",
+      "prior_score": 5.2231,
+      "prior_variance": 1.390407,
+      "prior_n": 1
     },
     {
       "rank": 20,
-      "title": "Almere",
-      "path": "europe/netherlands/almere",
-      "prior_mu": 20.9741,
-      "prior_sigma": 3.9537,
-      "prior_n": 3
+      "title": "El Bierzo",
+      "path": "europe/spain/galicia/el_bierzo",
+      "prior_score": 7.1457,
+      "prior_variance": 1.718545,
+      "prior_n": 1
     },
     {
       "rank": 21,
-      "title": "Blaricum",
-      "path": "europe/netherlands/blaricum",
-      "prior_mu": 20.987,
-      "prior_sigma": 3.9519,
-      "prior_n": 3
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 4.7741,
+      "prior_variance": 1.662767,
+      "prior_n": 1
     },
     {
       "rank": 22,
-      "title": "Ouderkerk aan den IJssel",
-      "path": "europe/netherlands/ouderkerk_aan_den",
-      "prior_mu": 18.9183,
-      "prior_sigma": 3.0731,
-      "prior_n": 5
+      "title": "Chianciano Terme",
+      "path": "europe/italy/tuscany/chianciano_terme",
+      "prior_score": 8.2854,
+      "prior_variance": 4.397587,
+      "prior_n": 1
     },
     {
       "rank": 23,
-      "title": "Onstwedde",
-      "path": "europe/netherlands/onstwedde",
-      "prior_mu": 17.3473,
-      "prior_sigma": 3.8713,
-      "prior_n": 3
+      "title": "Piacenza",
+      "path": "europe/italy/emiliaromagna/piacenza",
+      "prior_score": 7.0403,
+      "prior_variance": 2.070726,
+      "prior_n": 1
     },
     {
       "rank": 24,
-      "title": "Brunsumm",
-      "path": "europe/netherlands/brunsumm",
-      "prior_mu": 15.359,
-      "prior_sigma": 4.2065,
-      "prior_n": 3
+      "title": "Antsirabe",
+      "path": "africa/madagascar/antsirabe",
+      "prior_score": -1.1089,
+      "prior_variance": 1.462038,
+      "prior_n": 1
     }
   ]
 }

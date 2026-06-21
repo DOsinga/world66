@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuro_Island_(Kuroshima),_K
 latitude: 24.237325
 loc_type: city
 longitude: 124.011877
-score: 0.6
+score: 0.46
 title: Kuroshima
 type: location
 ---

@@ -1,0 +1,200 @@
+{
+  "round": 2355,
+  "timestamp": "2026-06-13T21:36:52",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Copenhagen",
+      "path": "europe/denmark/copenhagen",
+      "prior_score": 10.5925,
+      "prior_variance": 0.483394,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Wulingyuan",
+      "path": "asia/china/hunan/wulingyuan",
+      "prior_score": 6.9907,
+      "prior_variance": 0.275925,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Nagano",
+      "path": "asia/japan/honshu/nagano",
+      "prior_score": 6.9589,
+      "prior_variance": 0.206939,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Hua Shan",
+      "path": "asia/china/shaanxi/hua_shan",
+      "prior_score": 5.6523,
+      "prior_variance": 0.312375,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 7.3129,
+      "prior_variance": 0.272664,
+      "prior_n": 7
+    },
+    {
+      "rank": 6,
+      "title": "Canterbury",
+      "path": "australiaandpacific/newzealand/south_island/canterbury",
+      "prior_score": 3.1454,
+      "prior_variance": 0.183125,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Western Isles (Outer Hebrides)",
+      "path": "europe/unitedkingdom/scotland/western_isles__th",
+      "prior_score": 3.7177,
+      "prior_variance": 0.23144,
+      "prior_n": 7
+    },
+    {
+      "rank": 8,
+      "title": "Breda",
+      "path": "europe/netherlands/breda",
+      "prior_score": 0.7574,
+      "prior_variance": 0.164176,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Petit St. Vincent",
+      "path": "northamerica/saintvincentandthegrenadines/petitst",
+      "prior_score": 5.0706,
+      "prior_variance": 0.198083,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Carriacou",
+      "path": "northamerica/thecaribbean/grenada/carriacou",
+      "prior_score": 2.9552,
+      "prior_variance": 0.174563,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Gradac",
+      "path": "europe/croatia/makarskariviera/gradac",
+      "prior_score": 3.8642,
+      "prior_variance": 0.221359,
+      "prior_n": 7
+    },
+    {
+      "rank": 12,
+      "title": "Porto Colom",
+      "path": "europe/spain/balearicislands/mallorca/porto_colom",
+      "prior_score": 3.2022,
+      "prior_variance": 0.168003,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Armacao de Pera",
+      "path": "europe/portugal/armacaodepera",
+      "prior_score": 2.3064,
+      "prior_variance": 0.190331,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Monte Gordo",
+      "path": "europe/portugal/algarve/monto_gordo",
+      "prior_score": 1.6265,
+      "prior_variance": 0.179586,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Winter Park",
+      "path": "northamerica/unitedstates/colorado/winter_park",
+      "prior_score": 2.2852,
+      "prior_variance": 0.178053,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Leadville",
+      "path": "northamerica/unitedstates/colorado/leadville",
+      "prior_score": 0.2799,
+      "prior_variance": 0.175446,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Kaiping",
+      "path": "asia/china/guangdong/kaiping",
+      "prior_score": 0.877,
+      "prior_variance": 0.258106,
+      "prior_n": 7
+    },
+    {
+      "rank": 18,
+      "title": "Marinduque",
+      "path": "asia/philippines/marinduque",
+      "prior_score": -0.5702,
+      "prior_variance": 0.192189,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Arecibo",
+      "path": "northamerica/thecaribbean/puertorico/arecibo",
+      "prior_score": -0.3943,
+      "prior_variance": 0.181427,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Miches",
+      "path": "northamerica/dominicanrepublic/miches",
+      "prior_score": 0.7308,
+      "prior_variance": 0.213997,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Flor\u00f8",
+      "path": "europe/norway/flor",
+      "prior_score": -0.6063,
+      "prior_variance": 0.187049,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Machynlleth",
+      "path": "europe/unitedkingdom/wales/machynlleth",
+      "prior_score": 0.0887,
+      "prior_variance": 0.168793,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Pilis Hills",
+      "path": "europe/hungary/pilis_hills",
+      "prior_score": -1.7841,
+      "prior_variance": 0.207824,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Winfield",
+      "path": "northamerica/unitedstates/kansas/winfield",
+      "prior_score": -5.9638,
+      "prior_variance": 0.226568,
+      "prior_n": 7
+    }
+  ]
+}

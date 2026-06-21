@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Grand_Forks,_Minnesot
 latitude: 47.931701
 loc_type: city
 longitude: -97.017579
-score: 0.28
+score: 0.23
 title: East Grand Forks
 type: location
 ---

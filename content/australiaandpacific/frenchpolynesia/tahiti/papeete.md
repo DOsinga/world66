@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_Papeete2.jpg
 latitude: -17.537384
 loc_type: city
 longitude: -149.565996
-score: 0.76
+score: 0.58
 title: Papeete
 type: location
 ---

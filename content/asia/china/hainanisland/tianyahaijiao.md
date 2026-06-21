@@ -11,6 +11,7 @@ sources:
 - https://en.wikipedia.org/wiki/Tianya_Haijiao
 title: Tianyahaijiao
 type: location
+score: 0.43
 ---
 
 Tianyahaijiao — the Edges of Heaven and Corners of the Sea — is a rocky beach twenty-four kilometres west of [Sanya](/asia/china/hainanisland/sanya) that has been famous in Chinese poetry and letters for a thousand years. The name arose because the site was used as a place of imperial exile: convicted officials were sent here as a punishment, and the towering [inscription on the cliff face](/asia/china/hainanisland/tianyahaijiao/tianya_cliff_inscription), carved in the eighteenth century, marked what was understood to be the absolute end of the Chinese world. To be banished to Tianyahaijiao was to be banished from civilization itself.

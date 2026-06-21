@@ -5,7 +5,7 @@ latitude: -19.087
 longitude: -169.803
 title: Huvalu Forest Conservation Area
 type: location
-score: 0.51
+score: 0.41
 loc_type: feature
 ---
 

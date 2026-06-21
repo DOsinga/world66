@@ -5,7 +5,7 @@ done:
 latitude: 14.0786
 loc_type: city
 longitude: -3.5187
-score: 0.39
+score: 0.36
 title: Bankas
 type: location
 ---

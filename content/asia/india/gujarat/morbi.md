@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mani_mandir_at_morbi.jpg
 latitude: 22.800396
 loc_type: city
 longitude: 70.886232
-score: 0.3
+score: 0.25
 title: Morbi
 type: location
 ---

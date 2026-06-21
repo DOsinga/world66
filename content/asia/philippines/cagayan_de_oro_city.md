@@ -5,7 +5,7 @@ done:
 latitude: 8.486071
 loc_type: city
 longitude: 124.656805
-score: 0.46
+score: 0.37
 title: Cagayan de Oro City
 type: location
 ---

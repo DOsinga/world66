@@ -5,7 +5,7 @@ done:
 latitude: 38.9517
 loc_type: city
 longitude: -92.3341
-score: 0.35
+score: 0.32
 title: Columbia
 type: location
 image: columbia.jpg

@@ -5,7 +5,7 @@ latitude: 10.4626
 longitude: -84.7033
 title: Arenal
 type: location
-score: 0.72
+score: 0.61
 loc_type: feature
 ---
 

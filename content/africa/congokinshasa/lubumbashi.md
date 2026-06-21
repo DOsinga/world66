@@ -5,7 +5,7 @@ done:
 latitude: -11.6647
 loc_type: city
 longitude: 27.4794
-score: 0.3
+score: 0.23
 title: Lubumbashi
 type: location
 image: lubumbashi.jpg

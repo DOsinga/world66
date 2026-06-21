@@ -6,7 +6,7 @@ done:
 latitude: 8.8267
 loc_type: city
 longitude: -82.9735
-score: 0.49
+score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/San_Vito,_Costa_Rica
 title: San Vito

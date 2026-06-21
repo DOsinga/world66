@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barques_de_p%C3%A8ches_%C3
 latitude: 14.441115
 loc_type: city
 longitude: -17.01483
-score: 0.48
+score: 0.4
 title: Saly
 type: location
 ---

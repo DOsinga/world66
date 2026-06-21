@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Y._Bridge_Zanesville_O
 latitude: 39.940143
 loc_type: city
 longitude: -82.005019
-score: 0.3
+score: 0.25
 title: Zanesville
 type: location
 ---

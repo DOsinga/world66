@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Sirmione.jpg
 latitude: 45.4688
 loc_type: city
 longitude: 10.6078
-score: 0.68
+score: 0.62
 title: Sirmione
 type: location
 ---

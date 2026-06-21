@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gjirokaster_2016-2017.jpg
 latitude: 40.077087
 loc_type: city
 longitude: 20.139336
-score: 0.61
+score: 0.53
 title: Gjirokaster
 type: location
 ---

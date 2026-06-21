@@ -1,200 +1,200 @@
 {
   "round": 1305,
-  "timestamp": "2026-04-12T22:20:31",
+  "timestamp": "2026-06-13T20:22:37",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Sapa",
-      "path": "asia/vietnam/sapa",
-      "prior_rank": 1591,
-      "prior_wins": 33,
-      "prior_n": 2
+      "title": "Puerto Viejo de Talamanca",
+      "path": "northamerica/costarica/puerto_viejo_de_talamanca",
+      "prior_score": 5.0399,
+      "prior_variance": 0.300955,
+      "prior_n": 4
     },
     {
       "rank": 2,
-      "title": "Ibiza",
-      "path": "europe/spain/balearicislands/ibiza",
-      "prior_rank": 631,
-      "prior_wins": 57,
-      "prior_n": 3
+      "title": "Dunvegan",
+      "path": "europe/unitedkingdom/scotland/skye/dunvegan",
+      "prior_score": 4.2249,
+      "prior_variance": 0.323086,
+      "prior_n": 4
     },
     {
       "rank": 3,
-      "title": "White Sands",
-      "path": "northamerica/unitedstates/newmexico/whitesands",
-      "prior_rank": 551,
-      "prior_wins": 58,
-      "prior_n": 3
-    },
-    {
-      "rank": 4,
-      "title": "Tagbilaran",
-      "path": "asia/philippines/bohol/tagbilaran",
-      "prior_rank": 1364,
-      "prior_wins": 51,
-      "prior_n": 3
-    },
-    {
-      "rank": 5,
-      "title": "Bolzano",
-      "path": "europe/italy/trentinoaltoadige/bolzano",
-      "prior_rank": 249,
-      "prior_wins": 61,
-      "prior_n": 3
-    },
-    {
-      "rank": 6,
-      "title": "Northern Ireland",
-      "path": "europe/unitedkingdom/northernireland",
-      "prior_rank": 865,
-      "prior_wins": 55,
-      "prior_n": 3
-    },
-    {
-      "rank": 7,
-      "title": "Broome",
-      "path": "australiaandpacific/australia/westernaustralia/broome",
-      "prior_rank": 2515,
-      "prior_wins": 29,
-      "prior_n": 2
-    },
-    {
-      "rank": 8,
-      "title": "Vulcano",
-      "path": "europe/italy/sicily/aeolianislands/vulcano",
-      "prior_rank": 2004,
-      "prior_wins": 31,
-      "prior_n": 2
-    },
-    {
-      "rank": 9,
-      "title": "Pulau Samosir",
-      "path": "asia/indonesia/sumatra/pulausamosir",
-      "prior_rank": 937,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 10,
-      "title": "Hammamet",
-      "path": "africa/tunisia/hammamet",
-      "prior_rank": 302,
-      "prior_wins": 61,
-      "prior_n": 3
-    },
-    {
-      "rank": 11,
-      "title": "Cantabria",
-      "path": "europe/spain/cantabria",
-      "prior_rank": 3240,
-      "prior_wins": 26,
-      "prior_n": 2
-    },
-    {
-      "rank": 12,
-      "title": "Channel Islands",
-      "path": "europe/channelislands",
-      "prior_rank": 2022,
-      "prior_wins": 31,
-      "prior_n": 2
-    },
-    {
-      "rank": 13,
-      "title": "Inis Oirr",
-      "path": "europe/ireland/aranislands/inisoirr",
-      "prior_rank": 959,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 14,
-      "title": "Urbino",
-      "path": "europe/italy/marche/urbino",
-      "prior_rank": 858,
-      "prior_wins": 55,
-      "prior_n": 3
-    },
-    {
-      "rank": 15,
-      "title": "Kinderdijk",
-      "path": "europe/netherlands/kinderdijk",
-      "prior_rank": 233,
-      "prior_wins": 145,
-      "prior_n": 7
-    },
-    {
-      "rank": 16,
-      "title": "Romantic Russell",
-      "path": "australiaandpacific/newzealand/romanticrussell",
-      "prior_rank": 1102,
-      "prior_wins": 53,
-      "prior_n": 3
-    },
-    {
-      "rank": 17,
-      "title": "Tutukaka / Poor Knights",
-      "path": "australiaandpacific/newzealand/titikakapoor_knig",
-      "prior_rank": 2066,
-      "prior_wins": 46,
-      "prior_n": 3
-    },
-    {
-      "rank": 18,
-      "title": "Tutukaka / Poor Knights",
-      "path": "australiaandpacific/newzealand/northland/titikakapoor_knig",
-      "prior_rank": 884,
-      "prior_wins": 54,
-      "prior_n": 3
-    },
-    {
-      "rank": 19,
-      "title": "Epernay",
-      "path": "europe/france/nord/epernay",
-      "prior_rank": 3021,
-      "prior_wins": 27,
-      "prior_n": 2
-    },
-    {
-      "rank": 20,
-      "title": "Dolceacqua",
-      "path": "europe/italy/liguria/nerviavalley/dolceacqua",
-      "prior_rank": 1311,
-      "prior_wins": 34,
-      "prior_n": 2
-    },
-    {
-      "rank": 21,
-      "title": "Te Paki Stream",
-      "path": "australiaandpacific/newzealand/northland/te_paki_stream",
-      "prior_rank": 1025,
-      "prior_wins": 89,
+      "title": "Lynton and Lynmouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/lynton_and_lynmouth",
+      "prior_score": 1.69,
+      "prior_variance": 0.346859,
       "prior_n": 5
     },
     {
-      "rank": 22,
+      "rank": 4,
+      "title": "Kirkjubour",
+      "path": "europe/faroeislands/streymoy/kirkjubour",
+      "prior_score": 2.1228,
+      "prior_variance": 0.289013,
+      "prior_n": 5
+    },
+    {
+      "rank": 5,
+      "title": "M'Hamid",
+      "path": "africa/morocco/mhamid",
+      "prior_score": 1.0444,
+      "prior_variance": 0.537223,
+      "prior_n": 4
+    },
+    {
+      "rank": 6,
+      "title": "Langmusi",
+      "path": "asia/china/sichuanprovince/langmusi",
+      "prior_score": 4.6385,
+      "prior_variance": 0.374991,
+      "prior_n": 4
+    },
+    {
+      "rank": 7,
+      "title": "Khentii",
+      "path": "asia/mongolia/khentii",
+      "prior_score": -6.6319,
+      "prior_variance": 0.751718,
+      "prior_n": 4
+    },
+    {
+      "rank": 8,
+      "title": "Taroudant",
+      "path": "africa/morocco/taroudant",
+      "prior_score": 1.469,
+      "prior_variance": 0.33944,
+      "prior_n": 4
+    },
+    {
+      "rank": 9,
+      "title": "Buller",
+      "path": "australiaandpacific/newzealand/south_island/west_coast/buller",
+      "prior_score": 1.2505,
+      "prior_variance": 0.313776,
+      "prior_n": 4
+    },
+    {
+      "rank": 10,
+      "title": "Skomv\u00e6r",
+      "path": "europe/norway/lofotenislands/skomvr",
+      "prior_score": -0.5356,
+      "prior_variance": 0.542679,
+      "prior_n": 4
+    },
+    {
+      "rank": 11,
+      "title": "Iloilo City",
+      "path": "asia/philippines/iloilo_city",
+      "prior_score": 1.5798,
+      "prior_variance": 0.41493,
+      "prior_n": 4
+    },
+    {
+      "rank": 12,
+      "title": "Lafayette",
+      "path": "northamerica/unitedstates/louisiana/lafayette",
+      "prior_score": 1.1461,
+      "prior_variance": 0.314856,
+      "prior_n": 4
+    },
+    {
+      "rank": 13,
+      "title": "Recanati",
+      "path": "europe/italy/marche/recanati",
+      "prior_score": -0.0946,
+      "prior_variance": 0.344267,
+      "prior_n": 4
+    },
+    {
+      "rank": 14,
+      "title": "Calpe",
+      "path": "europe/spain/spanishcostas/calpe",
+      "prior_score": 2.9056,
+      "prior_variance": 0.276572,
+      "prior_n": 5
+    },
+    {
+      "rank": 15,
+      "title": "Hisaronu",
+      "path": "asia/turkey/hisaronu",
+      "prior_score": -0.1883,
+      "prior_variance": 0.532473,
+      "prior_n": 4
+    },
+    {
+      "rank": 16,
       "title": "Rijeka",
       "path": "europe/croatia/rijeka",
-      "prior_rank": 5806,
-      "prior_wins": 24,
-      "prior_n": 3
+      "prior_score": 2.1933,
+      "prior_variance": 0.377712,
+      "prior_n": 4
+    },
+    {
+      "rank": 17,
+      "title": "Forest of Dean",
+      "path": "europe/unitedkingdom/england/gloucestershire/forestofdean",
+      "prior_score": 1.531,
+      "prior_variance": 0.313015,
+      "prior_n": 4
+    },
+    {
+      "rank": 18,
+      "title": "Din Lligwy",
+      "path": "europe/unitedkingdom/wales/anglesey/din_lligwy",
+      "prior_score": -2.9161,
+      "prior_variance": 0.341133,
+      "prior_n": 4
+    },
+    {
+      "rank": 19,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -5.7467,
+      "prior_variance": 0.342683,
+      "prior_n": 4
+    },
+    {
+      "rank": 20,
+      "title": "Muskegon",
+      "path": "northamerica/unitedstates/michigan/muskegon",
+      "prior_score": -4.1851,
+      "prior_variance": 0.403847,
+      "prior_n": 4
+    },
+    {
+      "rank": 21,
+      "title": "Newport News",
+      "path": "northamerica/unitedstates/virginia/newportnews",
+      "prior_score": -3.0116,
+      "prior_variance": 0.36302,
+      "prior_n": 4
+    },
+    {
+      "rank": 22,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -4.1912,
+      "prior_variance": 0.383897,
+      "prior_n": 4
     },
     {
       "rank": 23,
-      "title": "Spa",
-      "path": "europe/belgium/spa",
-      "prior_rank": 1223,
-      "prior_wins": 104,
-      "prior_n": 6
+      "title": "Gundagai",
+      "path": "australiaandpacific/australia/newsouthwales/gundagai",
+      "prior_score": -4.4248,
+      "prior_variance": 0.322806,
+      "prior_n": 4
     },
     {
       "rank": 24,
-      "title": "Kenilworth",
-      "path": "europe/unitedkingdom/england/kenilworth",
-      "prior_rank": 1745,
-      "prior_wins": 48,
-      "prior_n": 3
+      "title": "Mandaue City",
+      "path": "asia/philippines/cebu/mandaue_city",
+      "prior_score": -4.905,
+      "prior_variance": 0.339372,
+      "prior_n": 4
     }
   ]
 }

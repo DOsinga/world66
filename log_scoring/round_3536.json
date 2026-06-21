@@ -1,0 +1,200 @@
+{
+  "round": 3536,
+  "timestamp": "2026-06-13T23:01:10",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mahe",
+      "path": "africa/seychelles/mahe",
+      "prior_score": 8.4305,
+      "prior_variance": 0.152124,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 4.9587,
+      "prior_variance": 0.143785,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Beaune",
+      "path": "europe/france/east/burgundy/beaune",
+      "prior_score": 6.1489,
+      "prior_variance": 0.133058,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Collioure",
+      "path": "europe/france/midi/languedoc/collioure",
+      "prior_score": 4.7484,
+      "prior_variance": 0.12377,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 4.5527,
+      "prior_variance": 0.12353,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Tinos",
+      "path": "europe/greece/tinos",
+      "prior_score": 4.7437,
+      "prior_variance": 0.131789,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Jericoacoara",
+      "path": "southamerica/brazil/jericoacoara",
+      "prior_score": 5.2817,
+      "prior_variance": 0.143867,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Ouray",
+      "path": "northamerica/unitedstates/colorado/ouray",
+      "prior_score": 4.0685,
+      "prior_variance": 0.125006,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Dinan",
+      "path": "europe/france/normandybrittany/dinan",
+      "prior_score": 5.2127,
+      "prior_variance": 0.121923,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Giant's Castle",
+      "path": "africa/southafrica/drakensberg/giants_castle",
+      "prior_score": 3.5083,
+      "prior_variance": 0.12414,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Kampot",
+      "path": "asia/cambodia/kampot",
+      "prior_score": 2.7929,
+      "prior_variance": 0.119057,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tekek Village",
+      "path": "asia/malaysia/tiomanisland/tekekvillage",
+      "prior_score": 0.6865,
+      "prior_variance": 0.114238,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Malahide",
+      "path": "europe/ireland/malahide",
+      "prior_score": 0.9076,
+      "prior_variance": 0.121111,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Timgad",
+      "path": "africa/algeria/timgad",
+      "prior_score": 1.6388,
+      "prior_variance": 0.1407,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Perak",
+      "path": "asia/malaysia/perak",
+      "prior_score": 0.094,
+      "prior_variance": 0.107414,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": 0.1384,
+      "prior_variance": 0.110217,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Tarapoto",
+      "path": "southamerica/peru/tarapoto",
+      "prior_score": -0.3898,
+      "prior_variance": 0.117088,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Wanning",
+      "path": "asia/china/hainanisland/wanning",
+      "prior_score": -1.0677,
+      "prior_variance": 0.108431,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Surabaya",
+      "path": "asia/indonesia/java/surabaya",
+      "prior_score": -0.549,
+      "prior_variance": 0.110037,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Banjul",
+      "path": "africa/gambia/banjul",
+      "prior_score": -1.5088,
+      "prior_variance": 0.14079,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Plains",
+      "path": "northamerica/unitedstates/georgia/plains",
+      "prior_score": -3.8584,
+      "prior_variance": 0.146998,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "In-Gall",
+      "path": "africa/niger/ingal",
+      "prior_score": -8.6736,
+      "prior_variance": 0.243019,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Wolverhampton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton",
+      "prior_score": -3.9484,
+      "prior_variance": 0.149085,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Aurora",
+      "path": "northamerica/unitedstates/colorado/aurora",
+      "prior_score": -3.9884,
+      "prior_variance": 0.152741,
+      "prior_n": 11
+    }
+  ]
+}

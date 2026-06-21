@@ -5,7 +5,7 @@ done:
 latitude: 9.5277
 loc_type: city
 longitude: 45.538
-score: 0.22
+score: 0.13
 title: Burao
 type: location
 ---

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Aswan,_E
 latitude: 24.0911
 loc_type: city
 longitude: 32.8973
-score: 0.7
+score: 0.61
 title: Aswan
 type: location
 ---

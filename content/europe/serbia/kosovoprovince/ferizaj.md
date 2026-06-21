@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferizaj.jpg
 latitude: 42.3703
 loc_type: city
 longitude: 21.1553
-score: 0.26
+score: 0.22
 title: Ferizaj
 type: location
 ---

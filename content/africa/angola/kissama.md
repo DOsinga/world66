@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kissama_Matebeira.jpg
 latitude: -9.802614
 loc_type: feature
 longitude: 13.922788
-score: 0.3
+score: 0.25
 title: Kissama
 type: location
 ---

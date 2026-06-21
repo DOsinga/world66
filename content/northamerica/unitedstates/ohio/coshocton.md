@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coshocton_County_Courthous
 latitude: 40.290568
 loc_type: city
 longitude: -81.927144
-score: 0.3
+score: 0.25
 title: Coshocton
 type: location
 ---

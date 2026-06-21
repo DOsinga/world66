@@ -5,7 +5,7 @@ done:
 latitude: 49.7034
 loc_type: city
 longitude: 4.9433
-score: 0.45
+score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Sedan,_Ardennes
 - https://en.wikipedia.org/wiki/Sedan_Castle

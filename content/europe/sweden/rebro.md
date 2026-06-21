@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Allehandaborgen_from_Svart
 latitude: 59.274729
 loc_type: city
 longitude: 15.215118
-score: 0.46
+score: 0.42
 title: Örebro
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 24.8887
 loc_type: city
 longitude: 74.6269
-score: 0.55
+score: 0.49
 title: Chittorgarh
 type: location
 image: chittorgarh.jpg

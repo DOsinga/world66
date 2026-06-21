@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Lauderdale_Florida_-_
 latitude: 26.122308
 loc_type: city
 longitude: -80.143379
-score: 0.54
+score: 0.46
 title: Fort Lauderdale
 type: location
 ---

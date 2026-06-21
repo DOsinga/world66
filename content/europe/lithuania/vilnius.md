@@ -12,6 +12,7 @@ loc_type: city
 longitude: 25.2797
 title: Vilnius
 type: location
+score: 0.58
 ---
 
 Vilnius is a city that reveals itself slowly. The Lithuanian capital has one of the largest surviving medieval old towns in Europe — a UNESCO World Heritage Site since 1994 — and yet it remains far less visited than its Baltic neighbours Tallinn and Riga. That relative obscurity is part of its appeal.

@@ -7,7 +7,7 @@ done:
 latitude: 23.128845
 loc_type: city
 longitude: 113.259006
-score: 0.47
+score: 0.48
 title: Guangzhou
 type: location
 ---

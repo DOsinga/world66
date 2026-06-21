@@ -1,0 +1,200 @@
+{
+  "round": 4832,
+  "timestamp": "2026-06-14T00:45:27",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Sucre",
+      "path": "southamerica/bolivia/sucre",
+      "prior_score": 3.3885,
+      "prior_variance": 0.104198,
+      "prior_n": 16
+    },
+    {
+      "rank": 2,
+      "title": "Porto Cristo",
+      "path": "europe/spain/balearicislands/mallorca/portocristo",
+      "prior_score": 3.5289,
+      "prior_variance": 0.085082,
+      "prior_n": 16
+    },
+    {
+      "rank": 3,
+      "title": "Carmona",
+      "path": "europe/spain/andalucia/carmona",
+      "prior_score": 3.465,
+      "prior_variance": 0.081045,
+      "prior_n": 16
+    },
+    {
+      "rank": 4,
+      "title": "Acireale",
+      "path": "europe/italy/sicily/acireale",
+      "prior_score": 1.8893,
+      "prior_variance": 0.090097,
+      "prior_n": 16
+    },
+    {
+      "rank": 5,
+      "title": "Inuyama",
+      "path": "asia/japan/honshu/inuyama",
+      "prior_score": 4.3256,
+      "prior_variance": 0.086428,
+      "prior_n": 16
+    },
+    {
+      "rank": 6,
+      "title": "Mytilini",
+      "path": "europe/greece/lesbos/mytilini",
+      "prior_score": 2.6854,
+      "prior_variance": 0.084644,
+      "prior_n": 16
+    },
+    {
+      "rank": 7,
+      "title": "Llanberis",
+      "path": "europe/unitedkingdom/wales/snowdonia/llanberis",
+      "prior_score": 2.5865,
+      "prior_variance": 0.085808,
+      "prior_n": 16
+    },
+    {
+      "rank": 8,
+      "title": "Selfoss",
+      "path": "europe/iceland/selfoss",
+      "prior_score": 1.8411,
+      "prior_variance": 0.095971,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Lake Issyk-Kul",
+      "path": "asia/kyrgyzstan/lakeissykkul",
+      "prior_score": 2.0594,
+      "prior_variance": 0.092814,
+      "prior_n": 16
+    },
+    {
+      "rank": 10,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.3992,
+      "prior_variance": 0.097702,
+      "prior_n": 16
+    },
+    {
+      "rank": 11,
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 1.9188,
+      "prior_variance": 0.083814,
+      "prior_n": 16
+    },
+    {
+      "rank": 12,
+      "title": "Florac",
+      "path": "europe/france/midi/cevennes/florac",
+      "prior_score": 1.1191,
+      "prior_variance": 0.083038,
+      "prior_n": 17
+    },
+    {
+      "rank": 13,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 1.4272,
+      "prior_variance": 0.080318,
+      "prior_n": 16
+    },
+    {
+      "rank": 14,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.4956,
+      "prior_variance": 0.078909,
+      "prior_n": 16
+    },
+    {
+      "rank": 15,
+      "title": "Hollywood Beach",
+      "path": "northamerica/unitedstates/florida/hollywood_beach",
+      "prior_score": 1.1376,
+      "prior_variance": 0.087409,
+      "prior_n": 16
+    },
+    {
+      "rank": 16,
+      "title": "Chongqing",
+      "path": "asia/china/sichuanprovince/chongqing",
+      "prior_score": 1.5735,
+      "prior_variance": 0.094631,
+      "prior_n": 16
+    },
+    {
+      "rank": 17,
+      "title": "Harstad",
+      "path": "europe/norway/harstad",
+      "prior_score": 1.0108,
+      "prior_variance": 0.082197,
+      "prior_n": 16
+    },
+    {
+      "rank": 18,
+      "title": "Kimberley",
+      "path": "africa/southafrica/kimberley",
+      "prior_score": -0.2507,
+      "prior_variance": 0.078076,
+      "prior_n": 17
+    },
+    {
+      "rank": 19,
+      "title": "Porter",
+      "path": "northamerica/unitedstates/indiana/porter",
+      "prior_score": -4.2968,
+      "prior_variance": 0.091767,
+      "prior_n": 15
+    },
+    {
+      "rank": 20,
+      "title": "Bathinda",
+      "path": "asia/india/punjab/bathinda",
+      "prior_score": -4.8458,
+      "prior_variance": 0.088148,
+      "prior_n": 16
+    },
+    {
+      "rank": 21,
+      "title": "Kabala",
+      "path": "africa/sierraleone/kabala",
+      "prior_score": -5.6497,
+      "prior_variance": 0.108713,
+      "prior_n": 16
+    },
+    {
+      "rank": 22,
+      "title": "Ahmednagar",
+      "path": "asia/india/maharashtra/ahmednagar",
+      "prior_score": -4.7651,
+      "prior_variance": 0.096894,
+      "prior_n": 15
+    },
+    {
+      "rank": 23,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -4.6605,
+      "prior_variance": 0.088103,
+      "prior_n": 16
+    },
+    {
+      "rank": 24,
+      "title": "Guanare",
+      "path": "southamerica/venezuela/guanare",
+      "prior_score": -5.715,
+      "prior_variance": 0.116538,
+      "prior_n": 16
+    }
+  ]
+}

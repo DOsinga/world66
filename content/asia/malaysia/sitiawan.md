@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jalan_Klang-Sitiawan-Ipoh_
 latitude: 4.2167
 loc_type: city
 longitude: 100.7
-score: 0.39
+score: 0.3
 title: Sitiawan
 type: location
 ---

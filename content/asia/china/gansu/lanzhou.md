@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lanzhou-rio-amarillo-baita
 latitude: 36.4744
 loc_type: city
 longitude: 103.7332
-score: 0.41
+score: 0.34
 title: Lanzhou
 type: location
 ---

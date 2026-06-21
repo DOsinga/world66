@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/136563543@N04/23853918560
 latitude: 35.890917
 loc_type: city
 longitude: 14.443009
-score: 0.51
+score: 0.43
 title: Attard
 type: location
 ---

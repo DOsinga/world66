@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Funauki_iriomote_island.jp
 latitude: 24.3464
 loc_type: feature
 longitude: 123.8391
-score: 0.63
+score: 0.55
 title: Iriomote Island
 type: location
 ---

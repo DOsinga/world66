@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MaunAirview1.jpg
 latitude: -19.9861
 loc_type: city
 longitude: 23.4224
-score: 0.54
+score: 0.45
 title: Maun
 type: location
 ---

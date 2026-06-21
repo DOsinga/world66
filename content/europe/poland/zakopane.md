@@ -5,7 +5,7 @@ latitude: 49.2969
 longitude: 19.9505
 done:
   location_cleanup: 2026-04-06
-score: 0.6
+score: 0.54
 loc_type: city
 image: zakopane.jpg
 image_license: CC BY-SA 4.0

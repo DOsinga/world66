@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Stromboli_
 latitude: 38.793
 loc_type: city
 longitude: 15.2109
-score: 0.66
+score: 0.58
 title: Stromboli
 type: location
 ---

@@ -4,7 +4,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 68.429137
 longitude: 17.425708
-score: 0.69
+score: 0.58
 title: Hurtigruten
 type: location
 loc_type: feature

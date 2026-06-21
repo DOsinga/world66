@@ -5,7 +5,7 @@ done:
 latitude: 44.0165
 loc_type: city
 longitude: -70.9811
-score: 0.36
+score: 0.37
 title: Fryeburg
 type: location
 image: fryeburg.jpg

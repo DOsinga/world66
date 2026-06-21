@@ -4,6 +4,7 @@ type: location
 loc_type: feature
 latitude: 5.3497
 longitude: -1.3831
+score: 0.51
 ---
 
 Kakum National Park is one of the few remaining areas of tropical rainforest in West Africa, covering around 375 square kilometres in the Central Region of Ghana about 30 kilometres north of Cape Coast. The forest is dense and humid, sheltering forest elephants, bongo antelopes, Diana monkeys, and over 300 species of birds.

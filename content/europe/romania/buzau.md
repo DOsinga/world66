@@ -6,7 +6,7 @@ latitude: 45.15
 longitude: 26.821
 title: Buzău
 type: location
-score: 0.38
+score: 0.33
 loc_type: city
 ---
 

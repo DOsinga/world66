@@ -5,7 +5,7 @@ done:
 latitude: 57.046263
 loc_type: city
 longitude: 9.921526
-score: 0.51
+score: 0.47
 title: Aalborg
 type: location
 ---

@@ -14,7 +14,7 @@ quick_facts:
   Cost Level: "A beer costs ~$12"
   Coastline: "25,000 km including fjords"
   Midnight Sun: Up to 76 days in the north
-score: 0.45
+score: 0.86
 title: Norway
 type: location
 loc_type: country

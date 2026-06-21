@@ -5,7 +5,7 @@ done:
 latitude: 38.8909
 loc_type: city
 longitude: -90.1843
-score: 0.36
+score: 0.31
 title: Alton
 type: location
 image: alton.jpg

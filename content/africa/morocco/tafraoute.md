@@ -8,7 +8,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: 29.7205
 longitude: -8.9745
-score: 0.51
+score: 0.46
 title: Tafraoute
 type: location
 loc_type: city

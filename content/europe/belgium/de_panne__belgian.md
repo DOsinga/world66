@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:De_Panne_Dunes_et_plage.jp
 latitude: 51.0986
 loc_type: city
 longitude: 2.5897
-score: 0.47
+score: 0.39
 title: De Panne
 type: location
 ---

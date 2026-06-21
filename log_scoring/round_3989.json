@@ -1,0 +1,200 @@
+{
+  "round": 3989,
+  "timestamp": "2026-06-13T23:35:17",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Rome",
+      "path": "europe/italy/lazio/rome",
+      "prior_score": 20.2631,
+      "prior_variance": 2.160095,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Hiroshima",
+      "path": "asia/japan/honshu/hiroshima",
+      "prior_score": 9.018,
+      "prior_variance": 0.174965,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Guadalajara",
+      "path": "northamerica/mexico/guadalajara",
+      "prior_score": 4.5556,
+      "prior_variance": 0.098633,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Ghorepani and Poon Hill",
+      "path": "asia/nepal/ghorepani_poonhil",
+      "prior_score": 7.2411,
+      "prior_variance": 0.13911,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Springdale",
+      "path": "northamerica/unitedstates/utah/springdale",
+      "prior_score": 5.2746,
+      "prior_variance": 0.138753,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Soline",
+      "path": "europe/croatia/miljet_island/soline",
+      "prior_score": 2.0021,
+      "prior_variance": 0.102107,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Vestvagoy",
+      "path": "europe/norway/lofotenislands/vestvagoy",
+      "prior_score": 5.3145,
+      "prior_variance": 0.133525,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "S\u00f8rv\u00e1gur",
+      "path": "europe/faroeislands/vagar/srvgur",
+      "prior_score": 2.6494,
+      "prior_variance": 0.122253,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Sarajevo",
+      "path": "europe/bosniaandherzegovina/sarajevo",
+      "prior_score": 5.63,
+      "prior_variance": 0.141204,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Chiavenna",
+      "path": "europe/italy/lombardia/chiavenna",
+      "prior_score": 1.94,
+      "prior_variance": 0.105163,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Ajaccio",
+      "path": "europe/france/corsica/ajaccio",
+      "prior_score": 4.9688,
+      "prior_variance": 0.106748,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "West Palm Beach",
+      "path": "northamerica/unitedstates/florida/westpalmbeach",
+      "prior_score": 0.1121,
+      "prior_variance": 0.111994,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "La Plata",
+      "path": "southamerica/argentina/laplata",
+      "prior_score": -1.2164,
+      "prior_variance": 0.098093,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Adana",
+      "path": "asia/turkey/adana",
+      "prior_score": -1.9577,
+      "prior_variance": 0.117837,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Barrow",
+      "path": "northamerica/unitedstates/alaska/barrow",
+      "prior_score": -3.834,
+      "prior_variance": 0.119846,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Landau",
+      "path": "europe/germany/rhinelandpalatinate/landau",
+      "prior_score": -0.6568,
+      "prior_variance": 0.110012,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Porrentruy",
+      "path": "europe/switzerland/porrentruy",
+      "prior_score": -1.2717,
+      "prior_variance": 0.111748,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Schorndorf",
+      "path": "europe/germany/badenwrttemberg/schorndorf",
+      "prior_score": -2.2426,
+      "prior_variance": 0.109657,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Burlington",
+      "path": "northamerica/unitedstates/washington/burlington",
+      "prior_score": -3.196,
+      "prior_variance": 0.127793,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "North Bay",
+      "path": "northamerica/canada/ontario/north_bay",
+      "prior_score": -2.8854,
+      "prior_variance": 0.101344,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Fairfax",
+      "path": "northamerica/unitedstates/oklahoma/fairfax",
+      "prior_score": -6.6916,
+      "prior_variance": 0.150813,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Nagqu",
+      "path": "asia/china/tibet/nagqu",
+      "prior_score": -2.9827,
+      "prior_variance": 0.126263,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -5.9175,
+      "prior_variance": 0.159854,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nagrota Surian",
+      "path": "asia/india/himachalpradesh/pongdamlakeramsarsanctuary/nagrota_surian",
+      "prior_score": -5.22,
+      "prior_variance": 0.124801,
+      "prior_n": 12
+    }
+  ]
+}

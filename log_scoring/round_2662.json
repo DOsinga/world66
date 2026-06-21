@@ -1,0 +1,200 @@
+{
+  "round": 2662,
+  "timestamp": "2026-06-13T21:58:24",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Delphi",
+      "path": "europe/greece/delphi",
+      "prior_score": 8.1211,
+      "prior_variance": 0.20593,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Leipzig",
+      "path": "europe/germany/saxony/leipzig",
+      "prior_score": 3.9164,
+      "prior_variance": 0.199838,
+      "prior_n": 8
+    },
+    {
+      "rank": 3,
+      "title": "Lanai",
+      "path": "northamerica/unitedstates/hawaii/lanai",
+      "prior_score": 6.328,
+      "prior_variance": 0.211149,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Alnwick",
+      "path": "europe/unitedkingdom/england/newcastle_and_north_east/northumberland/alnwick",
+      "prior_score": 2.1993,
+      "prior_variance": 0.160542,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Falmouth",
+      "path": "northamerica/jamaica/falmouth",
+      "prior_score": 1.6278,
+      "prior_variance": 0.148,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Petr\u00f3polis",
+      "path": "southamerica/brazil/petropolis",
+      "prior_score": 2.3888,
+      "prior_variance": 0.16148,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Kolding",
+      "path": "europe/denmark/kolding",
+      "prior_score": 0.5768,
+      "prior_variance": 0.155325,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Golfito",
+      "path": "northamerica/costarica/golfito",
+      "prior_score": 0.3957,
+      "prior_variance": 0.151985,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Dokkum",
+      "path": "europe/netherlands/friesland/dokkum",
+      "prior_score": -0.6176,
+      "prior_variance": 0.14548,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Gonarezhou",
+      "path": "africa/zimbabwe/gonarezhou",
+      "prior_score": -0.1535,
+      "prior_variance": 0.15575,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Church Stretton",
+      "path": "europe/unitedkingdom/england/birmingham_and_west_midlands/churchstretton",
+      "prior_score": -0.9931,
+      "prior_variance": 0.146401,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Tulsa",
+      "path": "northamerica/unitedstates/oklahoma/tulsa",
+      "prior_score": -3.6923,
+      "prior_variance": 0.174026,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Woudsend",
+      "path": "europe/netherlands/friesland/woudsend",
+      "prior_score": -2.9294,
+      "prior_variance": 0.150271,
+      "prior_n": 8
+    },
+    {
+      "rank": 14,
+      "title": "Esmeraldas",
+      "path": "southamerica/ecuador/esmeraldas",
+      "prior_score": -3.4797,
+      "prior_variance": 0.197005,
+      "prior_n": 8
+    },
+    {
+      "rank": 15,
+      "title": "Monticello",
+      "path": "northamerica/unitedstates/utah/monticello",
+      "prior_score": -3.4088,
+      "prior_variance": 0.21988,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -2.9243,
+      "prior_variance": 0.180951,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "La Coronilla",
+      "path": "southamerica/uruguay/parquesantateresa/la_coronilla",
+      "prior_score": -3.3439,
+      "prior_variance": 0.179389,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Albany",
+      "path": "northamerica/unitedstates/oregon/albany",
+      "prior_score": -4.5727,
+      "prior_variance": 0.166347,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Hajira",
+      "path": "asia/pakistan/azad_kashmir/hajira",
+      "prior_score": -5.3505,
+      "prior_variance": 0.237,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "San Juan",
+      "path": "asia/philippines/san_juan",
+      "prior_score": -4.8314,
+      "prior_variance": 0.16278,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Georgetown",
+      "path": "northamerica/unitedstates/delaware/georgetown",
+      "prior_score": -6.205,
+      "prior_variance": 0.215459,
+      "prior_n": 8
+    },
+    {
+      "rank": 22,
+      "title": "Shoal Lake",
+      "path": "northamerica/canada/manitoba/shoal_lake",
+      "prior_score": -5.0769,
+      "prior_variance": 0.199584,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Sanniquellie",
+      "path": "africa/liberia/sanniquellie",
+      "prior_score": -8.4441,
+      "prior_variance": 0.32302,
+      "prior_n": 8
+    },
+    {
+      "rank": 24,
+      "title": "Ayoun el-Atrous",
+      "path": "africa/mauritania/ayounalatrous",
+      "prior_score": -8.7638,
+      "prior_variance": 0.288239,
+      "prior_n": 8
+    }
+  ]
+}

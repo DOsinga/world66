@@ -5,7 +5,7 @@ latitude: 56.305319
 longitude: -6.236819
 title: Ross of Mull
 type: location
-score: 0.51
+score: 0.46
 loc_type: feature
 ---
 

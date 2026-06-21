@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Evanston-0133.jpg
 latitude: 41.2683
 loc_type: city
 longitude: -110.9632
-score: 0.3
+score: 0.25
 title: Evanston
 type: location
 ---

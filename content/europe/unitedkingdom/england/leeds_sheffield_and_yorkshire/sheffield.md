@@ -6,7 +6,7 @@ done:
 latitude: 53.3807
 loc_type: city
 longitude: -1.4702
-score: 0.46
+score: 0.38
 title: Sheffield
 type: location
 ---

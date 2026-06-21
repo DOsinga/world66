@@ -4,7 +4,7 @@ done:
   location_cleanup: '2026-04-07'
 latitude: -8.106
 longitude: -79.0738
-score: 0.64
+score: 0.54
 title: Chan Chan
 type: location
 loc_type: feature

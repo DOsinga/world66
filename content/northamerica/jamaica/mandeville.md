@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandeville-courthouse.jpg
 latitude: 18.0418
 loc_type: city
 longitude: -77.5044
-score: 0.47
+score: 0.38
 title: Mandeville
 type: location
 ---

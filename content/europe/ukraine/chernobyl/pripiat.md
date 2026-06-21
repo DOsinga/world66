@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pripyat01.jpg
 latitude: 51.4064
 loc_type: city
 longitude: 30.0548
-score: 0.47
+score: 0.37
 title: Pripyat
 type: location
 ---

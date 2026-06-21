@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PipaBeachView.JPG
 latitude: -6.237259
 loc_type: city
 longitude: -35.044165
-score: 0.54
+score: 0.48
 title: Pipa
 type: location
 ---

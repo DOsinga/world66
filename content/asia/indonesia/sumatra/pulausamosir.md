@@ -5,7 +5,7 @@ done:
 latitude: 2.593629
 loc_type: city
 longitude: 98.801082
-score: 0.61
+score: 0.51
 title: Pulau Samosir
 type: location
 sources:

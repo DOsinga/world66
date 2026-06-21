@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Baltimore_Inner_H
 latitude: 39.290882
 loc_type: city
 longitude: -76.610759
-score: 0.46
+score: 0.37
 title: Baltimore
 type: location
 ---

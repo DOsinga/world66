@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Donkey_rides,_Skegness_bea
 latitude: 53.142547
 loc_type: city
 longitude: 0.340523
-score: 0.38
+score: 0.35
 title: Skegness
 type: location
 ---

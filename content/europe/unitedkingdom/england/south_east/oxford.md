@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Museum_of_Oxford_(56526859
 latitude: 51.752013
 loc_type: city
 longitude: -1.25785
-score: 0.74
+score: 0.6
 title: Oxford
 type: location
 ---

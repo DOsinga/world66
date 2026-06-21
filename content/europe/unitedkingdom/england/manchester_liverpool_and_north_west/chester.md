@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_Street_and_the_Rows
 latitude: 53.190887
 loc_type: city
 longitude: -2.890896
-score: 0.57
+score: 0.5
 title: Chester
 type: location
 ---

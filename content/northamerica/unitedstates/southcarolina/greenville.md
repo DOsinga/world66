@@ -6,12 +6,12 @@ latitude: 34.8514
 longitude: -82.3985
 title: Greenville
 type: location
-score: 0.47
+score: 0.39
 loc_type: city
 sources:
-  - https://en.wikipedia.org/wiki/Greenville,_South_Carolina
-  - https://en.wikipedia.org/wiki/Downtown_Greenville,_South_Carolina
-  - https://en.wikipedia.org/wiki/Falls_Park_on_the_Reedy
+- https://en.wikipedia.org/wiki/Greenville,_South_Carolina
+- https://en.wikipedia.org/wiki/Downtown_Greenville,_South_Carolina
+- https://en.wikipedia.org/wiki/Falls_Park_on_the_Reedy
 ---
 
 Greenville sits at the edge of the Blue Ridge foothills in upstate South Carolina, about 100 miles northwest of [Columbia](/northamerica/unitedstates/southcarolina/columbia). What was once a mill city has become one of the American South's most striking downtown revivals — the sort of place that surprises visitors who weren't expecting much and ends up keeping them longer than planned.

@@ -5,7 +5,7 @@ done:
 latitude: 18.75
 loc_type: city
 longitude: 110.15
-score: 0.42
+score: 0.34
 sources:
 - https://www.topchinatravel.com/china-attractions/xinglong-tropical-botanical-garden.htm
 - https://www.cits.net/china-travel-guide/Xinglong-County/xinglong-hot-spring.html

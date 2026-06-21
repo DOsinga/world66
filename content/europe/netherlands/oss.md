@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Oss_ingang_Ra
 latitude: 51.778354
 loc_type: city
 longitude: 5.532084
-score: 0.34
+score: 0.27
 sources:
 - https://en.wikipedia.org/wiki/Oss
 title: Oss

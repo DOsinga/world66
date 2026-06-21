@@ -12,6 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Liaoyang
 title: Liaoyang
 type: location
+score: 0.26
 ---
 
 Liaoyang is one of the oldest continuously inhabited cities in the northeast, settled for over two thousand four hundred years and serving at different points as a major administrative centre for dynasties ranging from the Han to the Qing. It was, briefly, the Manchu capital: Nurhachi transferred his court here in 1621, calling it Dongjing — the Eastern Capital — before relocating to Shenyang four years later. The city has been quietly accumulating history ever since without particularly announcing itself to the outside world.

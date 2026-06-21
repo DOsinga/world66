@@ -6,7 +6,7 @@ latitude: 30.105194
 longitude: -90.987592
 title: Donaldsonville
 type: location
-score: 0.32
+score: 0.26
 loc_type: city
 ---
 

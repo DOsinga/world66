@@ -5,7 +5,7 @@ done:
 latitude: 2.034931
 loc_type: city
 longitude: 45.341918
-score: 0.11
+score: 0.05
 title: Mogadishu
 type: location
 ---

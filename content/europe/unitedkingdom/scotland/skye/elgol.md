@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schotland_Elgol_en_Cuillin
 latitude: 57.149235
 loc_type: city
 longitude: -6.10143
-score: 0.61
+score: 0.48
 title: Elgol
 type: location
 ---

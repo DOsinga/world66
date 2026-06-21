@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mooloolaba,_Queensland_-_0
 latitude: -26.685257
 loc_type: city
 longitude: 153.113185
-score: 0.57
+score: 0.48
 title: Mooloolaba
 type: location
 ---

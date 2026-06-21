@@ -5,7 +5,7 @@ done:
 latitude: 16.152368
 loc_type: city
 longitude: -13.503987
-score: 0.28
+score: 0.18
 title: Kaedi
 type: location
 ---

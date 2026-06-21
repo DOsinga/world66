@@ -1,0 +1,200 @@
+{
+  "round": 4206,
+  "timestamp": "2026-06-13T23:53:49",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huang Shan",
+      "path": "asia/china/anhui/huang_shan",
+      "prior_score": 7.8386,
+      "prior_variance": 0.194267,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Tsavo West",
+      "path": "africa/kenya/nationalparksandreserves/tsavonp/tsavowest",
+      "prior_score": 4.3587,
+      "prior_variance": 0.123241,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Quito",
+      "path": "southamerica/ecuador/quito",
+      "prior_score": 6.3282,
+      "prior_variance": 0.122273,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Pacuare Protected Zone",
+      "path": "northamerica/costarica/pacuare_protected",
+      "prior_score": 2.1585,
+      "prior_variance": 0.10785,
+      "prior_n": 13
+    },
+    {
+      "rank": 5,
+      "title": "Kairouan",
+      "path": "africa/tunisia/kairouan",
+      "prior_score": 2.2287,
+      "prior_variance": 0.106638,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ku\u015fadas\u0131",
+      "path": "asia/turkey/kusadasi",
+      "prior_score": 3.5059,
+      "prior_variance": 0.089069,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Bandung",
+      "path": "asia/indonesia/java/bandung",
+      "prior_score": 1.2853,
+      "prior_variance": 0.098511,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Taghit",
+      "path": "africa/algeria/taghit",
+      "prior_score": -0.1357,
+      "prior_variance": 0.09404,
+      "prior_n": 15
+    },
+    {
+      "rank": 9,
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.4592,
+      "prior_variance": 0.101398,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Philippi",
+      "path": "europe/greece/philippi",
+      "prior_score": 1.2874,
+      "prior_variance": 0.100501,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.2439,
+      "prior_variance": 0.105758,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Wittenberg",
+      "path": "europe/germany/brandenburg/wittenberg",
+      "prior_score": -0.0496,
+      "prior_variance": 0.11554,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Kennebunkport",
+      "path": "northamerica/unitedstates/maine/kennebunkport",
+      "prior_score": 1.8139,
+      "prior_variance": 0.093134,
+      "prior_n": 15
+    },
+    {
+      "rank": 14,
+      "title": "Cartagena",
+      "path": "europe/spain/murcia/cartagena",
+      "prior_score": 3.4764,
+      "prior_variance": 0.103874,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Albenga",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/albenga",
+      "prior_score": 1.131,
+      "prior_variance": 0.095638,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Bijagos Islands",
+      "path": "africa/guineabissau/bijagosislands",
+      "prior_score": 0.0166,
+      "prior_variance": 0.116681,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Jaluit Atoll",
+      "path": "australiaandpacific/marshallislands/jaluitatoll",
+      "prior_score": -1.5361,
+      "prior_variance": 0.100343,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Ouidah",
+      "path": "africa/benin/ouidah",
+      "prior_score": -0.8102,
+      "prior_variance": 0.101831,
+      "prior_n": 15
+    },
+    {
+      "rank": 19,
+      "title": "El Jadida",
+      "path": "africa/morocco/eljadida",
+      "prior_score": 1.0775,
+      "prior_variance": 0.100855,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Portogruaro",
+      "path": "europe/italy/veneto/portogruaro",
+      "prior_score": -0.1709,
+      "prior_variance": 0.097689,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Raumati Beach",
+      "path": "australiaandpacific/newzealand/north_island/greater_wellington/kapiti_coast/raumati_beach",
+      "prior_score": -1.7324,
+      "prior_variance": 0.09297,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Robbinsville",
+      "path": "northamerica/unitedstates/northcarolina/smokymountains/robbinsville",
+      "prior_score": -1.1793,
+      "prior_variance": 0.097958,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Carrigaline",
+      "path": "europe/ireland/carrigaline",
+      "prior_score": -3.6139,
+      "prior_variance": 0.114043,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Cookstown",
+      "path": "europe/unitedkingdom/northernireland/cookstown",
+      "prior_score": -3.554,
+      "prior_variance": 0.106625,
+      "prior_n": 14
+    }
+  ]
+}

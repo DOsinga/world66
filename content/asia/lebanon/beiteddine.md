@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Courtyard_at_Beiteddine_Pa
 latitude: 33.694026
 loc_type: city
 longitude: 35.580665
-score: 0.48
+score: 0.46
 title: Beiteddine
 type: location
 ---

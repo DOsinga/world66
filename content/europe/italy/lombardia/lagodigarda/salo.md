@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagnanti_Golfo_di_Sal%C3%B
 latitude: 45.605677
 loc_type: city
 longitude: 10.520069
-score: 0.66
+score: 0.54
 sources:
 - https://en.wikipedia.org/wiki/Sal%C3%B2
 - https://en.wikipedia.org/wiki/Italian_Social_Republic

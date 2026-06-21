@@ -1,0 +1,200 @@
+{
+  "round": 3404,
+  "timestamp": "2026-06-13T22:51:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 10.4644,
+      "prior_variance": 0.323215,
+      "prior_n": 11
+    },
+    {
+      "rank": 2,
+      "title": "Bruges",
+      "path": "europe/belgium/bruges",
+      "prior_score": 10.2463,
+      "prior_variance": 0.255603,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Salzburg",
+      "path": "europe/austria/salzburg",
+      "prior_score": 10.3021,
+      "prior_variance": 0.29601,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Mont-Saint-Michel",
+      "path": "europe/france/normandybrittany/montsaintmichel",
+      "prior_score": 10.5729,
+      "prior_variance": 0.308853,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Versailles",
+      "path": "europe/france/around_paris/versailles",
+      "prior_score": 11.3981,
+      "prior_variance": 0.637359,
+      "prior_n": 11
+    },
+    {
+      "rank": 6,
+      "title": "Zion National Park",
+      "path": "northamerica/unitedstates/utah/zion",
+      "prior_score": 10.4739,
+      "prior_variance": 0.297376,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Ha Long Bay",
+      "path": "asia/vietnam/halongbay",
+      "prior_score": 11.2304,
+      "prior_variance": 0.457548,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Takayama",
+      "path": "asia/japan/honshu/takayama",
+      "prior_score": 9.5978,
+      "prior_variance": 0.265048,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Nusa Penida",
+      "path": "asia/indonesia/bali/nusapenida",
+      "prior_score": 8.7723,
+      "prior_variance": 0.228882,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Boracay",
+      "path": "asia/philippines/boracay",
+      "prior_score": 7.5833,
+      "prior_variance": 0.146886,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Sete Cidades",
+      "path": "europe/portugal/theazores/so_miguel/sete_cidades",
+      "prior_score": 6.0426,
+      "prior_variance": 0.147061,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Zamami Island",
+      "path": "asia/japan/ryukyuislands/zamamiisland",
+      "prior_score": 5.0054,
+      "prior_variance": 0.126035,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Sombrero Island",
+      "path": "asia/philippines/sombrero_island",
+      "prior_score": -0.361,
+      "prior_variance": 0.123985,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Haleiwa",
+      "path": "northamerica/unitedstates/hawaii/haleiwa",
+      "prior_score": 4.9695,
+      "prior_variance": 0.13414,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Javea",
+      "path": "europe/spain/spanishcostas/javea",
+      "prior_score": 3.0459,
+      "prior_variance": 0.127262,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Tucson",
+      "path": "northamerica/unitedstates/arizona/tucson",
+      "prior_score": 2.0388,
+      "prior_variance": 0.141638,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Solana Beach",
+      "path": "northamerica/unitedstates/california/solanabeach",
+      "prior_score": 0.3096,
+      "prior_variance": 0.127411,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "Manzanita",
+      "path": "northamerica/unitedstates/oregon/oregoncoastnorth/manzanita",
+      "prior_score": 0.0842,
+      "prior_variance": 0.120791,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Beit Shean",
+      "path": "asia/israel/beitshean",
+      "prior_score": 1.1823,
+      "prior_variance": 0.131505,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "S\u00f8nderborg",
+      "path": "europe/denmark/sonderborg",
+      "prior_score": -0.3891,
+      "prior_variance": 0.11939,
+      "prior_n": 11
+    },
+    {
+      "rank": 21,
+      "title": "Princetown",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown",
+      "prior_score": -0.5423,
+      "prior_variance": 0.144902,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Aschaffenburg",
+      "path": "europe/germany/hessen/aschaffenburg",
+      "prior_score": -0.8582,
+      "prior_variance": 0.116168,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -1.6898,
+      "prior_variance": 0.149655,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Cuddapah",
+      "path": "asia/india/andhrapradesh/cuddapah",
+      "prior_score": -6.0971,
+      "prior_variance": 0.183876,
+      "prior_n": 10
+    }
+  ]
+}

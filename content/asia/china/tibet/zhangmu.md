@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/37804160@N00/969228103
 latitude: 27.973045
 loc_type: city
 longitude: 85.964383
-score: 0.42
+score: 0.33
 title: Zhangmu
 type: location
 ---

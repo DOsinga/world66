@@ -5,7 +5,7 @@ done:
 latitude: 39.8289
 loc_type: city
 longitude: -84.8902
-score: 0.32
+score: 0.27
 title: Richmond
 type: location
 ---

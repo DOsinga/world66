@@ -5,7 +5,7 @@ done:
 latitude: 11.520207
 loc_type: city
 longitude: 79.339636
-score: 0.29
+score: 0.25
 title: Cuddalore
 type: location
 ---

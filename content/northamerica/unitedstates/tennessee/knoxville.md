@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayres_Hall,_University_of_
 latitude: 35.9606
 loc_type: city
 longitude: -83.9207
-score: 0.45
+score: 0.37
 title: Knoxville
 type: location
 ---

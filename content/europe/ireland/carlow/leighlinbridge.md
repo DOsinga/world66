@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castles_of_Leinster,_Leigh
 latitude: 52.736023
 loc_type: city
 longitude: -6.976626
-score: 0.41
+score: 0.35
 title: Leighlinbridge
 type: location
 ---

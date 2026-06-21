@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gubbio_panorama.jpg
 latitude: 43.35176
 loc_type: city
 longitude: 12.577296
-score: 0.62
+score: 0.53
 title: Gubbio
 type: location
 ---

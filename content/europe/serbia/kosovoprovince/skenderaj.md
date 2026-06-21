@@ -5,7 +5,7 @@ done:
 latitude: 42.7467
 loc_type: city
 longitude: 20.7889
-score: 0.25
+score: 0.21
 title: Skenderaj
 type: location
 ---

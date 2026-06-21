@@ -5,7 +5,7 @@ done:
 latitude: 50.049932
 loc_type: city
 longitude: 10.233509
-score: 0.39
+score: 0.36
 title: Schweinfurt
 type: location
 ---

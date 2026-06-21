@@ -5,7 +5,7 @@ done:
 latitude: 49.24338
 loc_type: city
 longitude: -122.972545
-score: 0.44
+score: 0.35
 title: Burnaby
 type: location
 ---

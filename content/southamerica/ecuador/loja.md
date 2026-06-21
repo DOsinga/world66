@@ -5,7 +5,7 @@ done:
 latitude: -4.0529
 loc_type: city
 longitude: -79.8053
-score: 0.46
+score: 0.4
 title: Loja
 type: location
 ---

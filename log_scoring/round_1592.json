@@ -1,200 +1,200 @@
 {
   "round": 1592,
-  "timestamp": "2026-04-13T10:34:10",
+  "timestamp": "2026-06-13T20:40:12",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Berkeley",
-      "path": "northamerica/unitedstates/california/sanfranciscobayarea/berkeley",
-      "prior_score": 1.5403,
-      "prior_variance": 0.350455,
-      "prior_n": 4
+      "title": "Seattle",
+      "path": "northamerica/unitedstates/washington/seattle",
+      "prior_score": 8.3098,
+      "prior_variance": 0.311145,
+      "prior_n": 5
     },
     {
       "rank": 2,
-      "title": "Odessa",
-      "path": "europe/ukraine/odessa",
-      "prior_score": -1.1264,
-      "prior_variance": 0.599952,
-      "prior_n": 3
+      "title": "Bendigo",
+      "path": "australiaandpacific/australia/victoria/bendigo",
+      "prior_score": 0.1975,
+      "prior_variance": 0.252183,
+      "prior_n": 5
     },
     {
       "rank": 3,
-      "title": "Semarang",
-      "path": "asia/indonesia/java/semarang",
-      "prior_score": 0.4744,
-      "prior_variance": 0.392355,
-      "prior_n": 3
+      "title": "Buena Park",
+      "path": "northamerica/unitedstates/california/orangecounty/buenapark",
+      "prior_score": -3.1716,
+      "prior_variance": 0.280137,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Boca Chica",
-      "path": "northamerica/dominicanrepublic/bocachica",
-      "prior_score": -1.4038,
-      "prior_variance": 0.326515,
-      "prior_n": 6
+      "title": "Skoura",
+      "path": "africa/morocco/skoura",
+      "prior_score": 3.3438,
+      "prior_variance": 0.261264,
+      "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Clifton",
-      "path": "northamerica/saintvincentandthegrenadines/clifton",
-      "prior_score": 0.9308,
-      "prior_variance": 0.421708,
-      "prior_n": 4
+      "title": "Murree",
+      "path": "asia/pakistan/murree",
+      "prior_score": -1.1422,
+      "prior_variance": 0.288873,
+      "prior_n": 5
     },
     {
       "rank": 6,
-      "title": "Santos",
-      "path": "southamerica/brazil/santos",
-      "prior_score": 0.4409,
-      "prior_variance": 0.311359,
-      "prior_n": 4
+      "title": "Ngari",
+      "path": "asia/china/tibet/ngari",
+      "prior_score": -1.3428,
+      "prior_variance": 0.218346,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Fraser's Hill",
-      "path": "asia/malaysia/frasers_hill",
-      "prior_score": 1.5697,
-      "prior_variance": 0.34761,
-      "prior_n": 4
+      "title": "Chatham Islands",
+      "path": "australiaandpacific/newzealand/chathamislands",
+      "prior_score": -0.0423,
+      "prior_variance": 0.274722,
+      "prior_n": 5
     },
     {
       "rank": 8,
-      "title": "Hiwasa",
-      "path": "asia/japan/shikoku/hiwasa_tokushima",
-      "prior_score": 0.9589,
-      "prior_variance": 0.45335,
-      "prior_n": 4
+      "title": "Isla Verde",
+      "path": "northamerica/thecaribbean/puertorico/islaverde",
+      "prior_score": 0.9162,
+      "prior_variance": 0.253253,
+      "prior_n": 5
     },
     {
       "rank": 9,
-      "title": "Esperance",
-      "path": "australiaandpacific/australia/westernaustralia/esperance",
-      "prior_score": 2.3502,
-      "prior_variance": 0.305851,
+      "title": "Cherating",
+      "path": "asia/malaysia/cherating",
+      "prior_score": 0.7405,
+      "prior_variance": 0.233995,
       "prior_n": 5
     },
     {
       "rank": 10,
-      "title": "Mae Sariang",
-      "path": "asia/thailand/maehongson/mae_sariang_1",
-      "prior_score": 1.2612,
-      "prior_variance": 0.316191,
-      "prior_n": 4
+      "title": "Coquimbo",
+      "path": "southamerica/chile/coquimbo",
+      "prior_score": -0.1995,
+      "prior_variance": 0.250526,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Lochinver",
-      "path": "europe/unitedkingdom/scotland/lochinver",
-      "prior_score": 1.1627,
-      "prior_variance": 0.335841,
-      "prior_n": 4
+      "title": "Lincoln City",
+      "path": "northamerica/unitedstates/oregon/lincolncity",
+      "prior_score": -0.3383,
+      "prior_variance": 0.290927,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Nida curonian spit",
-      "path": "europe/lithuania/nemunas_river_regi/nida_curonian_spit",
-      "prior_score": 0.9301,
-      "prior_variance": 0.344142,
-      "prior_n": 4
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -0.9075,
+      "prior_variance": 0.466147,
+      "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Beziers",
-      "path": "europe/france/midi/languedoc/beziers",
-      "prior_score": 0.4621,
-      "prior_variance": 0.284017,
+      "title": "Monastir",
+      "path": "africa/tunisia/monastir",
+      "prior_score": 0.6432,
+      "prior_variance": 0.256286,
       "prior_n": 5
     },
     {
       "rank": 14,
-      "title": "Cava dei Tirreni",
-      "path": "europe/italy/campania/cavadeitirreni",
-      "prior_score": 0.4913,
-      "prior_variance": 0.354826,
-      "prior_n": 4
+      "title": "Lake Turkana",
+      "path": "africa/kenya/lakes/laketurkana",
+      "prior_score": 0.6021,
+      "prior_variance": 0.302179,
+      "prior_n": 5
     },
     {
       "rank": 15,
-      "title": "Cortegana",
-      "path": "europe/spain/andalucia/cortegana",
-      "prior_score": 0.0194,
-      "prior_variance": 0.456816,
-      "prior_n": 3
+      "title": "Golden Ears",
+      "path": "northamerica/canada/britishcolumbia/goldenears",
+      "prior_score": 1.0118,
+      "prior_variance": 0.245379,
+      "prior_n": 5
     },
     {
       "rank": 16,
-      "title": "Saranac Lake",
-      "path": "northamerica/unitedstates/newyorkstate/saranac_lake",
-      "prior_score": 0.6605,
-      "prior_variance": 0.3081,
-      "prior_n": 4
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.6224,
+      "prior_variance": 0.325927,
+      "prior_n": 5
     },
     {
       "rank": 17,
-      "title": "North Shore City",
-      "path": "australiaandpacific/newzealand/auckland_region/northshorecity",
-      "prior_score": 0.1801,
-      "prior_variance": 0.396083,
-      "prior_n": 4
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 1.0105,
+      "prior_variance": 0.240481,
+      "prior_n": 5
     },
     {
       "rank": 18,
-      "title": "Sheridan",
-      "path": "northamerica/unitedstates/wyoming/sheridan",
-      "prior_score": 0.3269,
-      "prior_variance": 0.354947,
-      "prior_n": 4
+      "title": "Monterrei",
+      "path": "europe/spain/galicia/monterrei",
+      "prior_score": -1.7494,
+      "prior_variance": 0.275782,
+      "prior_n": 5
     },
     {
       "rank": 19,
-      "title": "Oulu",
-      "path": "europe/finland/oulu",
-      "prior_score": 0.1564,
-      "prior_variance": 0.308444,
-      "prior_n": 4
+      "title": "Ambarawa",
+      "path": "asia/indonesia/java/ambarawa",
+      "prior_score": -3.5172,
+      "prior_variance": 0.253622,
+      "prior_n": 5
     },
     {
       "rank": 20,
-      "title": "K\u00e4smu",
-      "path": "europe/estonia/ksmu",
-      "prior_score": -0.3369,
-      "prior_variance": 0.31359,
-      "prior_n": 4
+      "title": "Ullal Beach",
+      "path": "asia/india/karnataka/ullal_beach",
+      "prior_score": -2.6835,
+      "prior_variance": 0.245745,
+      "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Montesilvano",
-      "path": "europe/italy/abruzzo/montesilvano",
-      "prior_score": 0.9135,
-      "prior_variance": 0.337561,
-      "prior_n": 4
+      "title": "Velika Gorica",
+      "path": "europe/croatia/velikagorica",
+      "prior_score": -3.9816,
+      "prior_variance": 0.290975,
+      "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "V\u00e4ster\u00e5s",
-      "path": "europe/sweden/vsters",
-      "prior_score": -0.8139,
-      "prior_variance": 0.339578,
-      "prior_n": 4
+      "title": "Djibouti City",
+      "path": "africa/djibouti/djibouticity",
+      "prior_score": -2.9483,
+      "prior_variance": 0.350331,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Corning",
-      "path": "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning",
-      "prior_score": 0.3385,
-      "prior_variance": 0.299834,
-      "prior_n": 4
+      "title": "Ur",
+      "path": "asia/iraq/ur",
+      "prior_score": -1.3767,
+      "prior_variance": 0.357192,
+      "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "Prefecture of Serres",
-      "path": "europe/greece/prefecture_of_serr",
-      "prior_score": -3.0263,
-      "prior_variance": 0.352914,
-      "prior_n": 4
+      "title": "Oakleigh",
+      "path": "australiaandpacific/australia/victoria/oakleigh",
+      "prior_score": -4.2474,
+      "prior_variance": 0.269064,
+      "prior_n": 5
     }
   ]
 }

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Genova%60s_Fortresss,_Suda
 latitude: 44.8488
 loc_type: city
 longitude: 34.9711
-score: 0.41
+score: 0.38
 title: Sudak
 type: location
 ---

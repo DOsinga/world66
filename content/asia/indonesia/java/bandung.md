@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cekungan_Bandung.jpg
 latitude: -6.9218
 loc_type: city
 longitude: 107.6071
-score: 0.54
+score: 0.46
 title: Bandung
 type: location
 ---

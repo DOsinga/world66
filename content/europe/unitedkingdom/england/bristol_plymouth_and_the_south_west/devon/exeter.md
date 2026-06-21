@@ -8,10 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Exeter_Cathedral,_Devon_21
 latitude: 50.725614
 loc_type: city
 longitude: -3.526921
-score: 0.53
+score: 0.47
 sources:
-  - https://en.wikipedia.org/wiki/Exeter
-  - https://en.wikipedia.org/wiki/Isca_Dumnoniorum
+- https://en.wikipedia.org/wiki/Exeter
+- https://en.wikipedia.org/wiki/Isca_Dumnoniorum
 title: Exeter
 type: location
 ---

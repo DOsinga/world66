@@ -1,0 +1,200 @@
+{
+  "round": 4040,
+  "timestamp": "2026-06-13T23:39:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Manarola",
+      "path": "europe/italy/liguria/manarola",
+      "prior_score": 9.2269,
+      "prior_variance": 0.281084,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Cabo San Lucas",
+      "path": "northamerica/mexico/cabosanlucas",
+      "prior_score": 5.2828,
+      "prior_variance": 0.141644,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Ammoudia",
+      "path": "europe/greece/ammoudia",
+      "prior_score": 1.6916,
+      "prior_variance": 0.107352,
+      "prior_n": 14
+    },
+    {
+      "rank": 4,
+      "title": "Negombo",
+      "path": "asia/srilanka/negombo",
+      "prior_score": 2.3442,
+      "prior_variance": 0.089213,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Poiana Bra\u0219ov",
+      "path": "europe/romania/poiana_brasov",
+      "prior_score": 1.7564,
+      "prior_variance": 0.094984,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Ifrane",
+      "path": "africa/morocco/ifrane",
+      "prior_score": 0.9618,
+      "prior_variance": 0.106554,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Isle of Coll",
+      "path": "europe/unitedkingdom/scotland/isle_of_coll",
+      "prior_score": 0.6892,
+      "prior_variance": 0.096399,
+      "prior_n": 14
+    },
+    {
+      "rank": 8,
+      "title": "Kep",
+      "path": "asia/cambodia/kep",
+      "prior_score": 1.4274,
+      "prior_variance": 0.104225,
+      "prior_n": 13
+    },
+    {
+      "rank": 9,
+      "title": "Weikersheim",
+      "path": "europe/germany/bavaria/romanticroad/weikersheim",
+      "prior_score": 2.0021,
+      "prior_variance": 0.111952,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Digne-les-Bains",
+      "path": "europe/france/midi/cotedazur/dignelesbains",
+      "prior_score": 0.4099,
+      "prior_variance": 0.096313,
+      "prior_n": 14
+    },
+    {
+      "rank": 11,
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.6201,
+      "prior_variance": 0.097165,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Cali",
+      "path": "southamerica/colombia/cali",
+      "prior_score": 0.2195,
+      "prior_variance": 0.111009,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Mariposa",
+      "path": "northamerica/unitedstates/california/goldcountry/mariposa",
+      "prior_score": -0.9236,
+      "prior_variance": 0.109133,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Tucuman",
+      "path": "southamerica/argentina/tucuman",
+      "prior_score": -1.2474,
+      "prior_variance": 0.094104,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Tilburg",
+      "path": "europe/netherlands/tilburg",
+      "prior_score": -1.4274,
+      "prior_variance": 0.106563,
+      "prior_n": 14
+    },
+    {
+      "rank": 16,
+      "title": "Ta\u2019if",
+      "path": "asia/saudiarabia/taif",
+      "prior_score": -2.1411,
+      "prior_variance": 0.127215,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "Amanzimtoti",
+      "path": "africa/southafrica/amanzimtoti",
+      "prior_score": -2.2983,
+      "prior_variance": 0.101749,
+      "prior_n": 14
+    },
+    {
+      "rank": 18,
+      "title": "Tomsk",
+      "path": "europe/russia/tomsk",
+      "prior_score": -2.424,
+      "prior_variance": 0.104349,
+      "prior_n": 13
+    },
+    {
+      "rank": 19,
+      "title": "Scarborough",
+      "path": "australiaandpacific/australia/westernaustralia/scarborough",
+      "prior_score": -0.328,
+      "prior_variance": 0.097819,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Catarman",
+      "path": "asia/philippines/samarisland/catarman__samar_is",
+      "prior_score": -3.1608,
+      "prior_variance": 0.103343,
+      "prior_n": 14
+    },
+    {
+      "rank": 21,
+      "title": "Mannargudi",
+      "path": "asia/india/tamilnadu/mannargudi",
+      "prior_score": -4.3968,
+      "prior_variance": 0.115665,
+      "prior_n": 13
+    },
+    {
+      "rank": 22,
+      "title": "Ames",
+      "path": "northamerica/unitedstates/iowa/ames",
+      "prior_score": -3.8675,
+      "prior_variance": 0.102101,
+      "prior_n": 14
+    },
+    {
+      "rank": 23,
+      "title": "Tuba City",
+      "path": "northamerica/unitedstates/arizona/tuba_city",
+      "prior_score": -3.4966,
+      "prior_variance": 0.102665,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Tok",
+      "path": "northamerica/unitedstates/alaska/tok",
+      "prior_score": -3.9769,
+      "prior_variance": 0.123847,
+      "prior_n": 13
+    }
+  ]
+}

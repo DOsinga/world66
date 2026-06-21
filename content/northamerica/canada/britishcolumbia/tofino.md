@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tofino.Vue_vers_l%27est.JP
 latitude: 49.152964
 loc_type: city
 longitude: -125.904708
-score: 0.67
+score: 0.57
 title: Tofino
 type: location
 ---

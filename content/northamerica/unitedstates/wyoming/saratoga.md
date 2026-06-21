@@ -6,7 +6,7 @@ latitude: 41.4549
 longitude: -106.8062
 title: Saratoga
 type: location
-score: 0.34
+score: 0.33
 loc_type: city
 ---
 

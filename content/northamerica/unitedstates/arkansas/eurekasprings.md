@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eurekaandsuch_291.jpg
 latitude: 36.4001
 loc_type: city
 longitude: -93.7392
-score: 0.52
+score: 0.46
 title: Eureka Springs
 type: location
 ---

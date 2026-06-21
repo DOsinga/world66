@@ -5,7 +5,7 @@ done:
 latitude: 38.572332
 loc_type: city
 longitude: -94.878648
-score: 0.31
+score: 0.22
 title: Paola
 type: location
 ---

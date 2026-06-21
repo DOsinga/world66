@@ -5,7 +5,7 @@ done:
 latitude: -25.044479
 loc_type: city
 longitude: 33.64073
-score: 0.33
+score: 0.26
 title: Xai-Xai
 type: location
 image: xaixai.jpg

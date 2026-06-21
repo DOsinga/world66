@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Demeter_sanctuary,_Dion,_P
 latitude: 40.172173
 loc_type: city
 longitude: 22.487426
-score: 0.55
+score: 0.46
 title: Dion
 type: location
 ---

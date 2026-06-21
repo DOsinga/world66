@@ -5,7 +5,7 @@ done:
 latitude: -32.959361
 loc_type: city
 longitude: -60.661702
-score: 0.48
+score: 0.4
 title: Rosario
 type: location
 ---

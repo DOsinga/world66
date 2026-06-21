@@ -1,0 +1,200 @@
+{
+  "round": 2413,
+  "timestamp": "2026-06-13T21:40:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Abel Tasman National Park",
+      "path": "australiaandpacific/newzealand/abeltasmannationalpark",
+      "prior_score": 8.3315,
+      "prior_variance": 0.26394,
+      "prior_n": 7
+    },
+    {
+      "rank": 2,
+      "title": "Ngorongoro Crater",
+      "path": "africa/tanzania/ngorongorocrater",
+      "prior_score": 11.2827,
+      "prior_variance": 0.65692,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "Cartagena",
+      "path": "southamerica/colombia/cartagena",
+      "prior_score": 8.6167,
+      "prior_variance": 0.290228,
+      "prior_n": 7
+    },
+    {
+      "rank": 4,
+      "title": "Kathmandu",
+      "path": "asia/nepal/kathmandu",
+      "prior_score": 8.1432,
+      "prior_variance": 0.408864,
+      "prior_n": 7
+    },
+    {
+      "rank": 5,
+      "title": "Madaba",
+      "path": "asia/jordan/madaba",
+      "prior_score": 2.2537,
+      "prior_variance": 0.177743,
+      "prior_n": 8
+    },
+    {
+      "rank": 6,
+      "title": "Yading Nature Reserve",
+      "path": "asia/china/sichuanprovince/yading",
+      "prior_score": 7.0432,
+      "prior_variance": 0.258901,
+      "prior_n": 7
+    },
+    {
+      "rank": 7,
+      "title": "Majuli",
+      "path": "asia/india/assam/majuli",
+      "prior_score": -0.0289,
+      "prior_variance": 0.172565,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Cripple Creek",
+      "path": "northamerica/unitedstates/colorado/cripple_creek",
+      "prior_score": -0.2169,
+      "prior_variance": 0.159016,
+      "prior_n": 8
+    },
+    {
+      "rank": 9,
+      "title": "Qaanaaq",
+      "path": "northamerica/greenland/qaanaaq",
+      "prior_score": -2.1841,
+      "prior_variance": 0.191981,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Azemmour",
+      "path": "africa/morocco/azemmour",
+      "prior_score": 0.6605,
+      "prior_variance": 0.182219,
+      "prior_n": 7
+    },
+    {
+      "rank": 11,
+      "title": "Pennan",
+      "path": "europe/unitedkingdom/scotland/pennan",
+      "prior_score": -0.5248,
+      "prior_variance": 0.208311,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Otep\u00e4\u00e4",
+      "path": "europe/estonia/otep",
+      "prior_score": -1.3004,
+      "prior_variance": 0.157068,
+      "prior_n": 8
+    },
+    {
+      "rank": 13,
+      "title": "Sohar",
+      "path": "asia/oman/sohar",
+      "prior_score": -1.8784,
+      "prior_variance": 0.205479,
+      "prior_n": 7
+    },
+    {
+      "rank": 14,
+      "title": "Culfa (Julfa)",
+      "path": "europe/azerbaijan/naxcivan/culfa",
+      "prior_score": -4.4833,
+      "prior_variance": 0.203619,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Peterhead",
+      "path": "europe/unitedkingdom/scotland/peterhead",
+      "prior_score": -3.4992,
+      "prior_variance": 0.165947,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Ume\u00e5",
+      "path": "europe/sweden/ume",
+      "prior_score": -1.0625,
+      "prior_variance": 0.189648,
+      "prior_n": 8
+    },
+    {
+      "rank": 17,
+      "title": "Takoradi",
+      "path": "africa/ghana/takoradi",
+      "prior_score": -4.3503,
+      "prior_variance": 0.18366,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Port Burwell",
+      "path": "northamerica/canada/ontario/port_burwell",
+      "prior_score": -4.6097,
+      "prior_variance": 0.249384,
+      "prior_n": 7
+    },
+    {
+      "rank": 19,
+      "title": "New Castle",
+      "path": "northamerica/unitedstates/delaware/newcastle",
+      "prior_score": -3.1037,
+      "prior_variance": 0.167773,
+      "prior_n": 8
+    },
+    {
+      "rank": 20,
+      "title": "Lawrence",
+      "path": "northamerica/unitedstates/kansas/lawrence",
+      "prior_score": -2.4643,
+      "prior_variance": 0.209307,
+      "prior_n": 8
+    },
+    {
+      "rank": 21,
+      "title": "Aylmer",
+      "path": "northamerica/canada/ontario/aylmer",
+      "prior_score": -5.1478,
+      "prior_variance": 0.201447,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Heerlen",
+      "path": "europe/netherlands/heerlen",
+      "prior_score": -3.3823,
+      "prior_variance": 0.158967,
+      "prior_n": 8
+    },
+    {
+      "rank": 23,
+      "title": "Chita",
+      "path": "europe/russia/chita",
+      "prior_score": -5.1725,
+      "prior_variance": 0.268024,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Jincheng",
+      "path": "asia/china/shanxiprovince/jincheng",
+      "prior_score": -5.2866,
+      "prior_variance": 0.226498,
+      "prior_n": 7
+    }
+  ]
+}

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Case_colorate_linosa.jpg
 latitude: 35.8652
 loc_type: city
 longitude: 12.8675
-score: 0.51
+score: 0.44
 title: Linosa
 type: location
 ---

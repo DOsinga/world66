@@ -5,7 +5,7 @@ done:
 latitude: 55.250071
 loc_type: city
 longitude: 9.499787
-score: 0.45
+score: 0.37
 title: Haderslev
 type: location
 image: haderslev.jpg

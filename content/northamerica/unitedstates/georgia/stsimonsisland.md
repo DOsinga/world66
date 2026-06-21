@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GA_St_Simons_Lighthouse_an
 latitude: 31.218286
 loc_type: city
 longitude: -81.361208
-score: 0.51
+score: 0.44
 title: St. Simons Island
 type: location
 ---

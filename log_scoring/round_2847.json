@@ -1,0 +1,200 @@
+{
+  "round": 2847,
+  "timestamp": "2026-06-13T22:11:29",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Kuroshima",
+      "path": "asia/japan/ryukyuislands/kuroshima",
+      "prior_score": 1.4107,
+      "prior_variance": 0.188659,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Nanumanga island",
+      "path": "australiaandpacific/tuvalu/nanumangaisland",
+      "prior_score": -2.458,
+      "prior_variance": 0.177729,
+      "prior_n": 9
+    },
+    {
+      "rank": 3,
+      "title": "Kalibo",
+      "path": "asia/philippines/aklan/kalibo",
+      "prior_score": -0.5156,
+      "prior_variance": 0.160631,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Cumbuco",
+      "path": "southamerica/brazil/cumbuco",
+      "prior_score": 0.285,
+      "prior_variance": 0.153766,
+      "prior_n": 9
+    },
+    {
+      "rank": 5,
+      "title": "Sant'Andrea Apostolo dello Jonio",
+      "path": "europe/italy/calabria/sant_andrea_apost",
+      "prior_score": -1.9555,
+      "prior_variance": 0.180182,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -0.8288,
+      "prior_variance": 0.14962,
+      "prior_n": 9
+    },
+    {
+      "rank": 7,
+      "title": "Kortrijk",
+      "path": "europe/belgium/kortrijk",
+      "prior_score": -0.7883,
+      "prior_variance": 0.144477,
+      "prior_n": 9
+    },
+    {
+      "rank": 8,
+      "title": "Lake Burton",
+      "path": "northamerica/unitedstates/georgia/lake_burton",
+      "prior_score": -2.8559,
+      "prior_variance": 0.193107,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cavalcante",
+      "path": "southamerica/brazil/cavalcante",
+      "prior_score": -2.6846,
+      "prior_variance": 0.161339,
+      "prior_n": 9
+    },
+    {
+      "rank": 10,
+      "title": "Bhadarwah",
+      "path": "asia/india/jammuandkashmir/bhadarwah",
+      "prior_score": -3.0104,
+      "prior_variance": 0.164793,
+      "prior_n": 9
+    },
+    {
+      "rank": 11,
+      "title": "Bentonville",
+      "path": "northamerica/unitedstates/arkansas/bentonville",
+      "prior_score": -1.9067,
+      "prior_variance": 0.188704,
+      "prior_n": 9
+    },
+    {
+      "rank": 12,
+      "title": "Tabriz",
+      "path": "asia/iran/tabriz",
+      "prior_score": 0.0937,
+      "prior_variance": 0.161409,
+      "prior_n": 9
+    },
+    {
+      "rank": 13,
+      "title": "Tianshui",
+      "path": "asia/china/gansu/tianshui",
+      "prior_score": -2.2262,
+      "prior_variance": 0.137318,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Iringa",
+      "path": "africa/tanzania/iringa",
+      "prior_score": -2.1913,
+      "prior_variance": 0.160628,
+      "prior_n": 9
+    },
+    {
+      "rank": 15,
+      "title": "Itanagar",
+      "path": "asia/india/arunachalpradesh/itanagar",
+      "prior_score": -3.6865,
+      "prior_variance": 0.157211,
+      "prior_n": 9
+    },
+    {
+      "rank": 16,
+      "title": "Mesa",
+      "path": "northamerica/unitedstates/arizona/mesa",
+      "prior_score": -3.9516,
+      "prior_variance": 0.147973,
+      "prior_n": 9
+    },
+    {
+      "rank": 17,
+      "title": "Lambarene",
+      "path": "africa/gabon/lambarene",
+      "prior_score": -4.6484,
+      "prior_variance": 0.23718,
+      "prior_n": 9
+    },
+    {
+      "rank": 18,
+      "title": "Lusaka",
+      "path": "africa/zambia/lusaka",
+      "prior_score": -3.3164,
+      "prior_variance": 0.161009,
+      "prior_n": 9
+    },
+    {
+      "rank": 19,
+      "title": "Crawfordsville",
+      "path": "northamerica/unitedstates/indiana/crawfordsville",
+      "prior_score": -5.31,
+      "prior_variance": 0.218892,
+      "prior_n": 9
+    },
+    {
+      "rank": 20,
+      "title": "Fresno",
+      "path": "northamerica/unitedstates/california/centralvalley/fresno",
+      "prior_score": -6.0364,
+      "prior_variance": 0.198974,
+      "prior_n": 9
+    },
+    {
+      "rank": 21,
+      "title": "Midland-Odessa",
+      "path": "northamerica/unitedstates/texas/midlandodessa",
+      "prior_score": -6.317,
+      "prior_variance": 0.179543,
+      "prior_n": 9
+    },
+    {
+      "rank": 22,
+      "title": "Port-de-Paix",
+      "path": "northamerica/thecaribbean/haiti/portdepaix",
+      "prior_score": -8.7757,
+      "prior_variance": 0.345634,
+      "prior_n": 9
+    },
+    {
+      "rank": 23,
+      "title": "Chichawatni",
+      "path": "asia/pakistan/chichawatni",
+      "prior_score": -8.2475,
+      "prior_variance": 0.273629,
+      "prior_n": 9
+    },
+    {
+      "rank": 24,
+      "title": "Prakasham",
+      "path": "asia/india/andhrapradesh/prakasham",
+      "prior_score": -6.121,
+      "prior_variance": 0.16195,
+      "prior_n": 9
+    }
+  ]
+}

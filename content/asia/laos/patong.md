@@ -5,7 +5,7 @@ done:
 latitude: 17.262183
 loc_type: city
 longitude: 105.574525
-score: 0.27
+score: 0.26
 title: Patong
 type: location
 ---

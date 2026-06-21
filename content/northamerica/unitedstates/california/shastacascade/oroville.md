@@ -6,7 +6,7 @@ longitude: -121.556359
 done:
   location_cleanup: 2026-04-10
   location_enrich: '2026-06-03'
-score: 0.32
+score: 0.3
 loc_type: city
 ---
 

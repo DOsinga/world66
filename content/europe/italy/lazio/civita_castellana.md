@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Maria_del_
 latitude: 42.295226
 loc_type: city
 longitude: 12.40917
-score: 0.47
+score: 0.4
 title: Civita Castellana
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 51.152565
 loc_type: city
 longitude: 11.809919
-score: 0.47
+score: 0.4
 title: Naumburg
 type: location
 ---

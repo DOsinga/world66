@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ccongyn.jpg
 latitude: -16.680882
 loc_type: city
 longitude: -49.253269
-score: 0.42
+score: 0.33
 title: Goiânia
 type: location
 ---

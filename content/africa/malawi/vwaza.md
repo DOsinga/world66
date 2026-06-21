@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Vwaza_Marsh_Game_Reserve
 title: Vwaza Marsh Game Reserve
 type: location
+score: 0.38
 ---
 
 Vwaza Marsh is a 1,000 square-kilometre wetland and woodland reserve in the far north of Malawi, tucked against the Zambian border west of [Mzuzu](/africa/malawi/mzuzu). It is one of Malawi's least-known parks and one of its most rewarding for travellers who prefer their wildlife unaccompanied by other vehicles. The centrepiece is Lake Kazuni, a shallow body of water at the southern entrance, where hippos and elephants come down to drink and where the only accommodation in the reserve looks straight out onto the action.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kutaisi_%26_White
 latitude: 42.271608
 loc_type: city
 longitude: 42.705447
-score: 0.57
+score: 0.51
 title: Kutaisi
 type: location
 ---

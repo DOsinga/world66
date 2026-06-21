@@ -5,7 +5,7 @@ done:
 latitude: 36.7394
 loc_type: city
 longitude: -119.7848
-score: 0.33
+score: 0.26
 title: Fresno
 type: location
 image: fresno.jpg

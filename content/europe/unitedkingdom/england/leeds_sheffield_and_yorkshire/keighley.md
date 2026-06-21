@@ -3,13 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
 image: keighley.jpg
-image_attribution: "Flickr user:Tim Green atouch"
+image_attribution: Flickr user:Tim Green atouch
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:A_view_over_Keighley_(31st_July_2010).jpg
 latitude: 53.868402
 loc_type: city
 longitude: -1.902046
-score: 0.37
+score: 0.31
 title: Keighley
 type: location
 ---

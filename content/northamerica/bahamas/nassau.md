@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BahamianParliamentPanorama
 latitude: 25.048
 loc_type: city
 longitude: -77.3554
-score: 0.65
+score: 0.54
 title: Nassau
 type: location
 ---

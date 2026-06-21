@@ -5,7 +5,7 @@ latitude: 11.9208
 longitude: -86.0342
 title: Laguna de Apoyo
 type: location
-score: 0.54
+score: 0.47
 loc_type: feature
 ---
 

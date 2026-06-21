@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:46_Moschee_von_Quelimane_Q
 latitude: -17.87751
 loc_type: city
 longitude: 36.890216
-score: 0.31
+score: 0.29
 title: Quelimane
 type: location
 ---

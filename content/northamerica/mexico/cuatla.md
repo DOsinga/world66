@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22_Cuautla_de_Morelos_%22
 latitude: 18.8167
 loc_type: city
 longitude: -98.95
-score: 0.38
+score: 0.29
 title: Cuautla
 type: location
 ---

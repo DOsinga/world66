@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanzimtoti_Main_Beach.jpg
 latitude: -30.049722
 loc_type: city
 longitude: 30.888611
-score: 0.44
+score: 0.35
 title: Amanzimtoti
 type: location
 ---

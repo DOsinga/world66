@@ -5,7 +5,7 @@ latitude: 38.018614
 longitude: -110.775178
 title: Henry Mountains
 type: location
-score: 0.42
+score: 0.38
 loc_type: feature
 ---
 

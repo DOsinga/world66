@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/32423496247
 latitude: 13.0087
 loc_type: city
 longitude: -61.2327
-score: 0.54
+score: 0.55
 title: Bequia
 type: location
 ---

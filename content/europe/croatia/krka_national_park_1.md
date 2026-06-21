@@ -5,7 +5,7 @@ latitude: 43.918919
 longitude: 15.978529
 title: Krka National Park
 type: location
-score: 0.81
+score: 0.68
 image: krka_national_park_1.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Krka_Nationalpark_BW_2024-09-30_13-53-15.jpg
 image_license: CC BY-SA 4.0

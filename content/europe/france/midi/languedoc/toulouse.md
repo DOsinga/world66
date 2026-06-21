@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Toulouse_-_vue_du_Vieux_To
 latitude: 43.6047
 loc_type: city
 longitude: 1.4442
-score: 0.62
+score: 0.52
 title: Toulouse
 type: location
 ---

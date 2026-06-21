@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012_Bukhara_7515821196_cr
 latitude: 39.775984
 loc_type: city
 longitude: 64.415153
-score: 0.67
+score: 0.62
 title: Bukhara
 type: location
 ---

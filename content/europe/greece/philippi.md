@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_theatre_-_Philippi
 latitude: 41.013284
 loc_type: city
 longitude: 24.283974
-score: 0.53
+score: 0.46
 title: Philippi
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/91124353@N05/50555892677
 latitude: 36.401266
 loc_type: city
 longitude: 10.557283
-score: 0.57
+score: 0.5
 title: Hammamet
 type: location
 ---

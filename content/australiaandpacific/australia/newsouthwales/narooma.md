@@ -5,7 +5,7 @@ done:
 latitude: -36.219015
 loc_type: city
 longitude: 150.131724
-score: 0.52
+score: 0.44
 title: Narooma
 type: location
 ---

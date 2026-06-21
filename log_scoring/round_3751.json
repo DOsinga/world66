@@ -1,0 +1,200 @@
+{
+  "round": 3751,
+  "timestamp": "2026-06-13T23:17:20",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Saintes",
+      "path": "europe/france/aquitaine/saintes",
+      "prior_score": 2.2438,
+      "prior_variance": 0.112297,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "La Granja",
+      "path": "europe/spain/centralspain/lagranja",
+      "prior_score": 0.4016,
+      "prior_variance": 0.130492,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "R\u00f6ttingen",
+      "path": "europe/germany/bavaria/romanticroad/rttingen",
+      "prior_score": 0.4353,
+      "prior_variance": 0.11432,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Weilburg",
+      "path": "europe/germany/hesse/weilburg",
+      "prior_score": -0.6854,
+      "prior_variance": 0.111501,
+      "prior_n": 12
+    },
+    {
+      "rank": 5,
+      "title": "Clairvaux",
+      "path": "europe/france/east/champagne/clairvaux",
+      "prior_score": -1.271,
+      "prior_variance": 0.108973,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Leicester",
+      "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester",
+      "prior_score": -1.7491,
+      "prior_variance": 0.144636,
+      "prior_n": 13
+    },
+    {
+      "rank": 7,
+      "title": "Great Barrington",
+      "path": "northamerica/unitedstates/massachusetts/great_barrington",
+      "prior_score": 0.0238,
+      "prior_variance": 0.111192,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Randers",
+      "path": "europe/denmark/randers",
+      "prior_score": -1.6518,
+      "prior_variance": 0.109154,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Kansas City",
+      "path": "northamerica/unitedstates/missouri/kansascity",
+      "prior_score": -0.7131,
+      "prior_variance": 0.126201,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Olympia",
+      "path": "northamerica/unitedstates/washington/olympia",
+      "prior_score": -1.0878,
+      "prior_variance": 0.102501,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Heber City",
+      "path": "northamerica/unitedstates/utah/heber_city",
+      "prior_score": -0.9516,
+      "prior_variance": 0.101972,
+      "prior_n": 12
+    },
+    {
+      "rank": 12,
+      "title": "Tupiza",
+      "path": "southamerica/bolivia/tupiza",
+      "prior_score": 1.396,
+      "prior_variance": 0.125507,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Sevastopol",
+      "path": "europe/ukraine/crimea/sevastopol",
+      "prior_score": -2.3714,
+      "prior_variance": 0.169735,
+      "prior_n": 13
+    },
+    {
+      "rank": 14,
+      "title": "Constantine",
+      "path": "africa/algeria/constantine",
+      "prior_score": -1.3983,
+      "prior_variance": 0.10902,
+      "prior_n": 12
+    },
+    {
+      "rank": 15,
+      "title": "Ha'amonga 'a Maui",
+      "path": "australiaandpacific/tonga/tongatapu/haamonga",
+      "prior_score": -0.8952,
+      "prior_variance": 0.116927,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Bukoba",
+      "path": "africa/tanzania/bukoba",
+      "prior_score": -2.7458,
+      "prior_variance": 0.110517,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Great North Woods",
+      "path": "northamerica/unitedstates/newhampshire/greatnorthwoods",
+      "prior_score": -1.6018,
+      "prior_variance": 0.120396,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Saltillo",
+      "path": "northamerica/mexico/saltillo",
+      "prior_score": -2.1305,
+      "prior_variance": 0.118223,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Hanksville",
+      "path": "northamerica/unitedstates/utah/hanksville",
+      "prior_score": -3.3387,
+      "prior_variance": 0.108481,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Nicodemus",
+      "path": "northamerica/unitedstates/kansas/nicodemus",
+      "prior_score": -4.9189,
+      "prior_variance": 0.12943,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Vushtrri",
+      "path": "europe/serbia/kosovoprovince/vushtrri",
+      "prior_score": -5.3494,
+      "prior_variance": 0.135344,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Atyrau",
+      "path": "asia/kazakhstan/atyrau",
+      "prior_score": -6.7786,
+      "prior_variance": 0.196237,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Buckner",
+      "path": "northamerica/unitedstates/missouri/buckner",
+      "prior_score": -8.0661,
+      "prior_variance": 0.251531,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Daviston",
+      "path": "northamerica/unitedstates/alabama/daviston",
+      "prior_score": -8.0549,
+      "prior_variance": 0.265079,
+      "prior_n": 11
+    }
+  ]
+}

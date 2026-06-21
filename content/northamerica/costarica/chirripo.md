@@ -5,7 +5,7 @@ latitude: 9.4883
 longitude: -83.4886
 title: Chirripó
 type: location
-score: 0.63
+score: 0.52
 loc_type: feature
 ---
 

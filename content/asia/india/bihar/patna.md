@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view,_Patna_(314731
 latitude: 25.6093
 loc_type: city
 longitude: 85.1235
-score: 0.36
+score: 0.27
 title: Patna
 type: location
 ---

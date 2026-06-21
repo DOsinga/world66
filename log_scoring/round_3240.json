@@ -1,0 +1,200 @@
+{
+  "round": 3240,
+  "timestamp": "2026-06-13T22:38:59",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Lugano",
+      "path": "europe/switzerland/lugano",
+      "prior_score": 6.5337,
+      "prior_variance": 0.143886,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Cala Ratjada",
+      "path": "europe/spain/balearicislands/mallorca/calaratjada",
+      "prior_score": 4.168,
+      "prior_variance": 0.11971,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Hendaye",
+      "path": "europe/france/midi/basqueregion/hendaye",
+      "prior_score": 0.063,
+      "prior_variance": 0.122849,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Beaumaris",
+      "path": "europe/unitedkingdom/wales/anglesey/beaumaris",
+      "prior_score": 1.9829,
+      "prior_variance": 0.152082,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Majella",
+      "path": "europe/italy/abruzzo/majella",
+      "prior_score": 2.4588,
+      "prior_variance": 0.129696,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": 0.1768,
+      "prior_variance": 0.152096,
+      "prior_n": 10
+    },
+    {
+      "rank": 7,
+      "title": "Hanover",
+      "path": "northamerica/unitedstates/newhampshire/hanover",
+      "prior_score": -1.0715,
+      "prior_variance": 0.134804,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Placerville",
+      "path": "northamerica/unitedstates/california/placerville",
+      "prior_score": -1.2816,
+      "prior_variance": 0.130806,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Manama",
+      "path": "asia/bahrain/manama",
+      "prior_score": 0.3799,
+      "prior_variance": 0.11706,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Accra",
+      "path": "africa/ghana/accra",
+      "prior_score": -0.7211,
+      "prior_variance": 0.122664,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Lidice",
+      "path": "europe/czechrepublic/lidice",
+      "prior_score": -2.5032,
+      "prior_variance": 0.147965,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Bago",
+      "path": "asia/myanmar/bago",
+      "prior_score": -3.1524,
+      "prior_variance": 0.126884,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Mutare",
+      "path": "africa/zimbabwe/easternhighlands/mutare",
+      "prior_score": -1.9161,
+      "prior_variance": 0.168477,
+      "prior_n": 10
+    },
+    {
+      "rank": 14,
+      "title": "Nova Friburgo",
+      "path": "southamerica/brazil/novafriburgo",
+      "prior_score": -0.6181,
+      "prior_variance": 0.133132,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -1.1107,
+      "prior_variance": 0.145125,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Shaoshan",
+      "path": "asia/china/hunan/shaoshan",
+      "prior_score": -2.4107,
+      "prior_variance": 0.163594,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Seydisfjordur",
+      "path": "europe/iceland/seydisfjordur",
+      "prior_score": 4.1426,
+      "prior_variance": 0.146817,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Rochebrune",
+      "path": "europe/france/centre/limousin/rochebrune",
+      "prior_score": -3.2039,
+      "prior_variance": 0.144094,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Longyan",
+      "path": "asia/china/fujianprovince/longyan",
+      "prior_score": -2.6589,
+      "prior_variance": 0.144583,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Hanzhong",
+      "path": "asia/china/shaanxi/hanzhong",
+      "prior_score": -2.5271,
+      "prior_variance": 0.128828,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Tongren",
+      "path": "asia/china/qinghai/tongren",
+      "prior_score": -3.3332,
+      "prior_variance": 0.139634,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Tonghua",
+      "path": "asia/china/jilin/tonghua",
+      "prior_score": -3.7189,
+      "prior_variance": 0.162228,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Perm",
+      "path": "europe/russia/perm",
+      "prior_score": -4.3137,
+      "prior_variance": 0.136247,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Goma",
+      "path": "africa/congokinshasa/goma",
+      "prior_score": -8.9411,
+      "prior_variance": 0.392331,
+      "prior_n": 10
+    }
+  ]
+}

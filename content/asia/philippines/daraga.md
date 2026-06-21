@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daraga-church_on_a_hill.jp
 latitude: 13.148
 loc_type: city
 longitude: 123.7121
-score: 0.39
+score: 0.35
 title: Daraga
 type: location
 ---

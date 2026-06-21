@@ -5,7 +5,7 @@ done:
 latitude: 46.717
 loc_type: city
 longitude: 6.3783
-score: 0.43
+score: 0.37
 sources:
 - https://en.wikipedia.org/wiki/Vallorbe
 - https://en.wikipedia.org/wiki/Vallorbe_railway_station

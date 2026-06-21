@@ -6,14 +6,14 @@ latitude: 37.6538
 longitude: -122.4169
 title: South San Francisco
 type: location
-score: 0.29
+score: 0.24
 loc_type: city
 image: south_san_francisco.jpg
 image_source: https://commons.wikimedia.org/wiki/File:North_end_of_South_San_Francisco_Caltrain_station_platform.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fullmetal2887
 sources:
-  - https://en.wikipedia.org/wiki/South_San_Francisco,_California
+- https://en.wikipedia.org/wiki/South_San_Francisco,_California
 ---
 
 South San Francisco sits just south of [San Francisco](/northamerica/unitedstates/california/sanfrancisco) in a broad valley cupped between the San Bruno Mountains to the north and the Coast Range to the west. It is known worldwide as the "Industrial City" — the words are spelled out in [enormous letters on the hillside](/northamerica/unitedstates/california/south_san_francisco/industrial_city_sign) above town — and that identity still holds. This is where Genentech was founded in 1976, making it one of the birthplaces of the modern biotech industry.

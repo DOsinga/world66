@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NemaLookingSouth.jpg
 latitude: 16.6173
 loc_type: city
 longitude: -7.2664
-score: 0.23
+score: 0.16
 title: Nema
 type: location
 ---

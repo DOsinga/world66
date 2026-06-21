@@ -5,7 +5,7 @@ done:
 latitude: 45.2059
 loc_type: city
 longitude: 63.9155
-score: 0.28
+score: 0.23
 title: Kyzylorda
 type: location
 ---

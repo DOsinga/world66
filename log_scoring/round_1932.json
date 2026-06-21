@@ -1,200 +1,200 @@
 {
   "round": 1932,
-  "timestamp": "2026-04-13T15:55:19",
+  "timestamp": "2026-06-13T21:01:49",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Riviera Maya",
-      "path": "northamerica/mexico/yucatan/rivieramaya",
-      "prior_score": 8.3808,
-      "prior_variance": 0.37385,
-      "prior_n": 5
+      "title": "Providenciales",
+      "path": "northamerica/turksandcaicosislands/providenciales",
+      "prior_score": 8.4696,
+      "prior_variance": 0.314746,
+      "prior_n": 6
     },
     {
       "rank": 2,
-      "title": "Phang Nga Bay",
-      "path": "asia/thailand/phangngabay",
-      "prior_score": 9.8605,
-      "prior_variance": 0.712994,
-      "prior_n": 4
+      "title": "Bethlehem",
+      "path": "asia/palestinianauthority/bethlehem",
+      "prior_score": 2.1542,
+      "prior_variance": 0.282788,
+      "prior_n": 6
     },
     {
       "rank": 3,
-      "title": "Neuschwanstein",
-      "path": "europe/germany/bavaria/neuschwanstein",
-      "prior_score": 9.8377,
-      "prior_variance": 0.422801,
-      "prior_n": 5
+      "title": "Persepolis",
+      "path": "asia/iran/persepolis",
+      "prior_score": 4.7768,
+      "prior_variance": 0.324017,
+      "prior_n": 6
     },
     {
       "rank": 4,
-      "title": "Zanzibar",
-      "path": "africa/tanzania/zanzibar",
-      "prior_score": 8.5107,
-      "prior_variance": 0.344612,
-      "prior_n": 5
+      "title": "Pic du Midi",
+      "path": "europe/france/midi/pyrenees/picdumidi",
+      "prior_score": 5.0459,
+      "prior_variance": 0.212782,
+      "prior_n": 6
     },
     {
       "rank": 5,
-      "title": "South Korea",
-      "path": "asia/southkorea",
-      "prior_score": 8.1099,
-      "prior_variance": 0.499614,
-      "prior_n": 5
+      "title": "Alta",
+      "path": "europe/norway/alta",
+      "prior_score": 3.1052,
+      "prior_variance": 0.28028,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Australia",
-      "path": "australiaandpacific/australia",
-      "prior_score": 1.5258,
-      "prior_variance": 0.383025,
-      "prior_n": 5
+      "title": "Voyageurs National Park",
+      "path": "northamerica/unitedstates/minnesota/voyageurs",
+      "prior_score": 2.9911,
+      "prior_variance": 0.238723,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Jamaica",
-      "path": "northamerica/jamaica",
-      "prior_score": 7.0969,
-      "prior_variance": 0.376841,
-      "prior_n": 8
+      "title": "Cu Chi",
+      "path": "asia/vietnam/cuchi",
+      "prior_score": 1.9494,
+      "prior_variance": 0.253303,
+      "prior_n": 6
     },
     {
       "rank": 8,
-      "title": "Barbados",
-      "path": "northamerica/thecaribbean/barbados",
-      "prior_score": 7.6829,
-      "prior_variance": 0.424178,
-      "prior_n": 4
+      "title": "Saratoga Springs",
+      "path": "northamerica/unitedstates/newyorkstate/saratoga",
+      "prior_score": 1.7329,
+      "prior_variance": 0.258673,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Colmar",
-      "path": "europe/france/east/alsace/colmar",
-      "prior_score": 9.3881,
-      "prior_variance": 0.648806,
-      "prior_n": 4
+      "title": "Nyon",
+      "path": "europe/switzerland/nyon",
+      "prior_score": 3.0486,
+      "prior_variance": 0.219286,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Big Sur",
-      "path": "northamerica/unitedstates/california/big_sur",
-      "prior_score": 9.064,
-      "prior_variance": 0.438225,
-      "prior_n": 5
+      "title": "Plymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/plymouth",
+      "prior_score": 0.5821,
+      "prior_variance": 0.2567,
+      "prior_n": 6
     },
     {
       "rank": 11,
-      "title": "Karnak",
-      "path": "africa/egypt/karnak",
-      "prior_score": 6.9754,
-      "prior_variance": 0.51695,
-      "prior_n": 5
+      "title": "Wells",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/wells",
+      "prior_score": 1.9783,
+      "prior_variance": 0.207068,
+      "prior_n": 6
     },
     {
       "rank": 12,
-      "title": "Jaisalmer",
-      "path": "asia/india/rajasthan/jaisalmer",
-      "prior_score": 8.6783,
-      "prior_variance": 0.554871,
-      "prior_n": 5
+      "title": "Concord",
+      "path": "northamerica/unitedstates/massachusetts/concord",
+      "prior_score": 2.0249,
+      "prior_variance": 0.244269,
+      "prior_n": 6
     },
     {
       "rank": 13,
-      "title": "Valley of Flowers",
-      "path": "asia/india/uttaranchal/valley_of_flowers",
-      "prior_score": 7.3138,
-      "prior_variance": 0.365433,
-      "prior_n": 8
+      "title": "Playa de las Am\u00e9ricas",
+      "path": "europe/spain/spanishcostas/lasamericas",
+      "prior_score": 0.6948,
+      "prior_variance": 0.335181,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "Sapporo",
-      "path": "asia/japan/hokkaido/sapporo",
-      "prior_score": 8.0974,
-      "prior_variance": 0.42965,
-      "prior_n": 5
+      "title": "Ceuta",
+      "path": "europe/spain/ceuta",
+      "prior_score": 0.8717,
+      "prior_variance": 0.206554,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Hollywood",
-      "path": "northamerica/unitedstates/california/losangeles/hollywood",
-      "prior_score": 5.1088,
-      "prior_variance": 0.450219,
-      "prior_n": 4
+      "title": "Kerikeri",
+      "path": "australiaandpacific/newzealand/kerikeri",
+      "prior_score": 1.6425,
+      "prior_variance": 0.254321,
+      "prior_n": 6
     },
     {
       "rank": 16,
-      "title": "samana",
-      "path": "northamerica/dominicanrepublic/samana",
-      "prior_score": 1.9811,
-      "prior_variance": 0.339229,
-      "prior_n": 5
+      "title": "Grado",
+      "path": "europe/italy/friuliveneziagiulia/grado",
+      "prior_score": 2.2738,
+      "prior_variance": 0.212681,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Dominica",
-      "path": "northamerica/dominica",
-      "prior_score": 5.5079,
-      "prior_variance": 0.38237,
-      "prior_n": 5
+      "title": "Ordino",
+      "path": "europe/andorra/ordino",
+      "prior_score": 2.9186,
+      "prior_variance": 0.216718,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Nagahama",
-      "path": "asia/japan/honshu/nagahama",
-      "prior_score": 2.9784,
-      "prior_variance": 0.25736,
-      "prior_n": 5
+      "title": "Coober Pedy",
+      "path": "australiaandpacific/australia/southaustralia/cooberpedy",
+      "prior_score": -0.186,
+      "prior_variance": 0.256163,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "Guam",
-      "path": "australiaandpacific/guam",
-      "prior_score": 1.4314,
-      "prior_variance": 0.309597,
-      "prior_n": 5
+      "title": "Huay Xai",
+      "path": "asia/laos/houeixay",
+      "prior_score": -1.3835,
+      "prior_variance": 0.20799,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Zagreb",
-      "path": "europe/croatia/zagreb",
-      "prior_score": 5.885,
-      "prior_variance": 0.339851,
-      "prior_n": 5
+      "title": "Jermuk",
+      "path": "europe/armenia/vayots_dzor_marz/jermuk",
+      "prior_score": -0.5274,
+      "prior_variance": 0.223888,
+      "prior_n": 6
     },
     {
       "rank": 21,
-      "title": "Chinle",
-      "path": "northamerica/unitedstates/arizona/chinle",
-      "prior_score": 0.526,
-      "prior_variance": 0.372502,
-      "prior_n": 5
+      "title": "Nagarjunakonda",
+      "path": "asia/india/andhrapradesh/nagarjunkonda",
+      "prior_score": -0.9567,
+      "prior_variance": 0.26975,
+      "prior_n": 6
     },
     {
       "rank": 22,
-      "title": "Great Yarmouth",
-      "path": "europe/unitedkingdom/england/eastern_england/greatyarmouth",
-      "prior_score": -0.5985,
-      "prior_variance": 0.273386,
-      "prior_n": 5
+      "title": "Gympie",
+      "path": "australiaandpacific/australia/queensland/gympie",
+      "prior_score": -3.1822,
+      "prior_variance": 0.216752,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Stara Zagora",
-      "path": "europe/bulgaria/starazagora",
-      "prior_score": -3.1321,
-      "prior_variance": 0.340569,
-      "prior_n": 4
+      "title": "Canillas de Aceituno",
+      "path": "europe/spain/canillas_de_aceituno",
+      "prior_score": -1.0027,
+      "prior_variance": 0.202593,
+      "prior_n": 6
     },
     {
       "rank": 24,
-      "title": "Takoradi",
-      "path": "africa/ghana/takoradi",
-      "prior_score": -2.5552,
-      "prior_variance": 0.275714,
-      "prior_n": 5
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -5.7715,
+      "prior_variance": 0.277141,
+      "prior_n": 6
     }
   ]
 }

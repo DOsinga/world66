@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/48600082269@N01/6389148
 latitude: 14.048761
 loc_type: city
 longitude: -6.004709
-score: 0.39
+score: 0.31
 title: Segou
 type: location
 ---

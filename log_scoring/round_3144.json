@@ -1,0 +1,200 @@
+{
+  "round": 3144,
+  "timestamp": "2026-06-13T22:32:00",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Laguna Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/lagunabeach",
+      "prior_score": 5.9705,
+      "prior_variance": 0.152805,
+      "prior_n": 9
+    },
+    {
+      "rank": 2,
+      "title": "Sarlat",
+      "path": "europe/france/midi/dordogne/sarlat",
+      "prior_score": 5.1786,
+      "prior_variance": 0.144868,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Grenoble",
+      "path": "europe/france/alpes/grenoble",
+      "prior_score": 3.7944,
+      "prior_variance": 0.14873,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "The Norfolk Broads",
+      "path": "europe/unitedkingdom/england/norfolk/the_norfolk_broads",
+      "prior_score": 1.8986,
+      "prior_variance": 0.113504,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Amersfoort",
+      "path": "europe/netherlands/amersfoort",
+      "prior_score": 1.8273,
+      "prior_variance": 0.132755,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Quepos",
+      "path": "northamerica/costarica/quepos",
+      "prior_score": 2.6043,
+      "prior_variance": 0.144532,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Boa Vista",
+      "path": "africa/capeverde/boavista",
+      "prior_score": 2.1008,
+      "prior_variance": 0.157071,
+      "prior_n": 10
+    },
+    {
+      "rank": 8,
+      "title": "Manzanillo",
+      "path": "northamerica/mexico/manzanillo",
+      "prior_score": 0.646,
+      "prior_variance": 0.149602,
+      "prior_n": 10
+    },
+    {
+      "rank": 9,
+      "title": "Sandvig-Allinge",
+      "path": "europe/denmark/bornholmisland/sandvigallinge",
+      "prior_score": 2.4905,
+      "prior_variance": 0.128121,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 1.3541,
+      "prior_variance": 0.14073,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Kovalam",
+      "path": "asia/india/kerala/kovalam",
+      "prior_score": 2.7332,
+      "prior_variance": 0.167596,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Suzdal",
+      "path": "europe/russia/suzdal",
+      "prior_score": 2.2074,
+      "prior_variance": 0.163575,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Thiruvananthapuram",
+      "path": "asia/india/kerala/thiruvananthapuram",
+      "prior_score": 1.5759,
+      "prior_variance": 0.124539,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "St. George",
+      "path": "northamerica/unitedstates/utah/st_george",
+      "prior_score": 1.5078,
+      "prior_variance": 0.162932,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Epirus",
+      "path": "europe/greece/epirus",
+      "prior_score": 2.7274,
+      "prior_variance": 0.159819,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Corinth",
+      "path": "europe/greece/corinth",
+      "prior_score": 2.5315,
+      "prior_variance": 0.138067,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "L'Anse aux Meadows",
+      "path": "northamerica/canada/newfoundland/lanseauxmeadows",
+      "prior_score": 1.7237,
+      "prior_variance": 0.163112,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Cherrapunji",
+      "path": "asia/india/meghalaya/cherrapunji",
+      "prior_score": 1.3129,
+      "prior_variance": 0.1227,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Vila Nova de Cacela",
+      "path": "europe/portugal/algarve/vilanovadecacela",
+      "prior_score": 1.4087,
+      "prior_variance": 0.126351,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Christians\u00f8",
+      "path": "europe/denmark/christianso",
+      "prior_score": 0.9199,
+      "prior_variance": 0.130512,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "Dodona",
+      "path": "europe/greece/dodona",
+      "prior_score": 2.121,
+      "prior_variance": 0.133958,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Narona",
+      "path": "europe/croatia/narona",
+      "prior_score": -2.5131,
+      "prior_variance": 0.177468,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Lahti",
+      "path": "europe/finland/lahti",
+      "prior_score": -0.1683,
+      "prior_variance": 0.127945,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Agstafa",
+      "path": "europe/azerbaijan/agstafa",
+      "prior_score": -6.6719,
+      "prior_variance": 0.152881,
+      "prior_n": 9
+    }
+  ]
+}

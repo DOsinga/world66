@@ -1,0 +1,200 @@
+{
+  "round": 4195,
+  "timestamp": "2026-06-13T23:52:57",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Huanglong",
+      "path": "asia/china/sichuanprovince/huanglong",
+      "prior_score": 5.5954,
+      "prior_variance": 0.126861,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Padova",
+      "path": "europe/italy/veneto/padova",
+      "prior_score": 4.7832,
+      "prior_variance": 0.109838,
+      "prior_n": 13
+    },
+    {
+      "rank": 3,
+      "title": "\u00d3bidos",
+      "path": "europe/portugal/obidos",
+      "prior_score": 4.6506,
+      "prior_variance": 0.120483,
+      "prior_n": 13
+    },
+    {
+      "rank": 4,
+      "title": "Albufeira",
+      "path": "europe/portugal/algarve/albufeira",
+      "prior_score": 5.0574,
+      "prior_variance": 0.123361,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Ouvea",
+      "path": "australiaandpacific/newcaledonia/ouvea",
+      "prior_score": 6.3124,
+      "prior_variance": 0.121815,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Hateruma Island",
+      "path": "asia/japan/ryukyuislands/haterumaisland",
+      "prior_score": 2.8426,
+      "prior_variance": 0.099786,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Utrecht",
+      "path": "europe/netherlands/utrecht",
+      "prior_score": 3.7564,
+      "prior_variance": 0.112319,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Nanjing",
+      "path": "asia/china/jiangsu_province/nanjing",
+      "prior_score": 3.3371,
+      "prior_variance": 0.108818,
+      "prior_n": 14
+    },
+    {
+      "rank": 9,
+      "title": "Bremen",
+      "path": "europe/germany/bremen",
+      "prior_score": 2.6762,
+      "prior_variance": 0.103529,
+      "prior_n": 14
+    },
+    {
+      "rank": 10,
+      "title": "Athlone",
+      "path": "europe/ireland/athlone",
+      "prior_score": 0.506,
+      "prior_variance": 0.109458,
+      "prior_n": 13
+    },
+    {
+      "rank": 11,
+      "title": "Catalina",
+      "path": "northamerica/unitedstates/california/catalina",
+      "prior_score": 3.2439,
+      "prior_variance": 0.101201,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Esbjerg",
+      "path": "europe/denmark/esbjerg",
+      "prior_score": -0.95,
+      "prior_variance": 0.097072,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Athens",
+      "path": "northamerica/unitedstates/georgia/athens",
+      "prior_score": -1.7757,
+      "prior_variance": 0.103556,
+      "prior_n": 14
+    },
+    {
+      "rank": 14,
+      "title": "Utique",
+      "path": "africa/tunisia/utique",
+      "prior_score": -2.1705,
+      "prior_variance": 0.11224,
+      "prior_n": 14
+    },
+    {
+      "rank": 15,
+      "title": "Van Buren",
+      "path": "northamerica/unitedstates/arkansas/van_buren",
+      "prior_score": -5.4202,
+      "prior_variance": 0.132285,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "Degerfors",
+      "path": "europe/sweden/degerfors",
+      "prior_score": -5.3084,
+      "prior_variance": 0.117909,
+      "prior_n": 13
+    },
+    {
+      "rank": 17,
+      "title": "S\u00f6dert\u00e4lje",
+      "path": "europe/sweden/sdertlje",
+      "prior_score": -4.0471,
+      "prior_variance": 0.137837,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Kapisillit",
+      "path": "northamerica/greenland/kapisillit",
+      "prior_score": -3.7722,
+      "prior_variance": 0.155253,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Crawfordville, Georgia",
+      "path": "northamerica/unitedstates/georgia/crawfordville_georgia",
+      "prior_score": -6.9908,
+      "prior_variance": 0.18494,
+      "prior_n": 14
+    },
+    {
+      "rank": 20,
+      "title": "Jubail",
+      "path": "asia/saudiarabia/jubail",
+      "prior_score": -7.3036,
+      "prior_variance": 0.190496,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Derna",
+      "path": "africa/libya/derna",
+      "prior_score": -9.6436,
+      "prior_variance": 0.242249,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Baleyara",
+      "path": "africa/niger/baleyara",
+      "prior_score": -9.8845,
+      "prior_variance": 0.250458,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Wonsan",
+      "path": "asia/northkorea/wonsan",
+      "prior_score": -11.3766,
+      "prior_variance": 0.710797,
+      "prior_n": 13
+    },
+    {
+      "rank": 24,
+      "title": "Pyongyang",
+      "path": "asia/northkorea/pyongyang",
+      "prior_score": -8.9575,
+      "prior_variance": 0.442436,
+      "prior_n": 13
+    }
+  ]
+}

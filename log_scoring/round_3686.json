@@ -1,0 +1,200 @@
+{
+  "round": 3686,
+  "timestamp": "2026-06-13T23:12:25",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Prague",
+      "path": "europe/czechrepublic/prague",
+      "prior_score": 10.6624,
+      "prior_variance": 0.293781,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Antigua Guatemala",
+      "path": "northamerica/guatemala/antiguaguatemala",
+      "prior_score": 6.7475,
+      "prior_variance": 0.141329,
+      "prior_n": 11
+    },
+    {
+      "rank": 3,
+      "title": "Lake M\u00fdvatn",
+      "path": "europe/iceland/lakemyvatn",
+      "prior_score": 7.9065,
+      "prior_variance": 0.167982,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Black Forest",
+      "path": "europe/germany/badenwrttemberg/blackforest",
+      "prior_score": 5.3333,
+      "prior_variance": 0.139971,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Key West",
+      "path": "northamerica/unitedstates/florida/keywest",
+      "prior_score": 7.3516,
+      "prior_variance": 0.145049,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "V\u00e6r\u00f8y",
+      "path": "europe/norway/lofotenislands/vaeroy",
+      "prior_score": 5.5232,
+      "prior_variance": 0.178858,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Cape May",
+      "path": "northamerica/unitedstates/newjersey/cape_may",
+      "prior_score": 1.7546,
+      "prior_variance": 0.132922,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Alderney",
+      "path": "europe/channelislands/alderney",
+      "prior_score": 0.7499,
+      "prior_variance": 0.102831,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Woodstock",
+      "path": "northamerica/unitedstates/vermont/woodstock",
+      "prior_score": 1.6375,
+      "prior_variance": 0.10881,
+      "prior_n": 12
+    },
+    {
+      "rank": 10,
+      "title": "Bhuj",
+      "path": "asia/india/gujarat/kutch/bhuj",
+      "prior_score": -0.9322,
+      "prior_variance": 0.158883,
+      "prior_n": 12
+    },
+    {
+      "rank": 11,
+      "title": "Udupi",
+      "path": "asia/india/karnataka/udupi",
+      "prior_score": 0.1413,
+      "prior_variance": 0.101416,
+      "prior_n": 13
+    },
+    {
+      "rank": 12,
+      "title": "Beidaihe",
+      "path": "asia/china/hebei/bei_dai_he",
+      "prior_score": -1.4569,
+      "prior_variance": 0.116094,
+      "prior_n": 12
+    },
+    {
+      "rank": 13,
+      "title": "Greymouth",
+      "path": "australiaandpacific/newzealand/greymouth",
+      "prior_score": -0.9531,
+      "prior_variance": 0.108422,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.3991,
+      "prior_variance": 0.110954,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Branson",
+      "path": "northamerica/unitedstates/missouri/branson",
+      "prior_score": -1.6371,
+      "prior_variance": 0.110563,
+      "prior_n": 12
+    },
+    {
+      "rank": 16,
+      "title": "Uruapan",
+      "path": "northamerica/mexico/uruapan",
+      "prior_score": -2.3306,
+      "prior_variance": 0.115869,
+      "prior_n": 12
+    },
+    {
+      "rank": 17,
+      "title": "Vilalba",
+      "path": "europe/spain/galicia/vilalba",
+      "prior_score": -3.2668,
+      "prior_variance": 0.125038,
+      "prior_n": 13
+    },
+    {
+      "rank": 18,
+      "title": "Boise",
+      "path": "northamerica/unitedstates/idaho/boise",
+      "prior_score": -0.8995,
+      "prior_variance": 0.11622,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Johnson City",
+      "path": "northamerica/unitedstates/tennessee/johnson_city",
+      "prior_score": -2.0181,
+      "prior_variance": 0.120766,
+      "prior_n": 12
+    },
+    {
+      "rank": 20,
+      "title": "Madison County & Winterset",
+      "path": "northamerica/unitedstates/iowa/madison_county__w",
+      "prior_score": -1.6053,
+      "prior_variance": 0.104559,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "Green Bay",
+      "path": "northamerica/unitedstates/wisconsin/greenbay",
+      "prior_score": -2.174,
+      "prior_variance": 0.124242,
+      "prior_n": 12
+    },
+    {
+      "rank": 22,
+      "title": "Fairplay",
+      "path": "northamerica/unitedstates/colorado/fairplay",
+      "prior_score": -1.6797,
+      "prior_variance": 0.120059,
+      "prior_n": 12
+    },
+    {
+      "rank": 23,
+      "title": "Warrenpoint",
+      "path": "europe/unitedkingdom/northernireland/warrenpoint",
+      "prior_score": -2.6604,
+      "prior_variance": 0.11678,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Yukon",
+      "path": "northamerica/unitedstates/oklahoma/yukon",
+      "prior_score": -5.9365,
+      "prior_variance": 0.155066,
+      "prior_n": 11
+    }
+  ]
+}

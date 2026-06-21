@@ -5,7 +5,7 @@ done:
 latitude: 5.3
 loc_type: city
 longitude: -2.6133
-score: 0.4
+score: 0.32
 title: Ankasa
 type: location
 ---

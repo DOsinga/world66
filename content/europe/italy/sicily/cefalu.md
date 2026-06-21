@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cefalu_View_0832.jpg
 latitude: 38.0388
 loc_type: city
 longitude: 14.0217
-score: 0.76
+score: 0.63
 title: Cefalù
 type: location
 ---

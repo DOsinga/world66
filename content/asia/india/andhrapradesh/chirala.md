@@ -5,7 +5,7 @@ done:
 latitude: 15.836152
 loc_type: city
 longitude: 80.363664
-score: 0.31
+score: 0.25
 sources:
 - https://en.wikipedia.org/wiki/Chirala
 title: Chirala

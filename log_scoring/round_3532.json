@@ -1,0 +1,200 @@
+{
+  "round": 3532,
+  "timestamp": "2026-06-13T23:00:53",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Johannesburg",
+      "path": "africa/southafrica/johannesburg",
+      "prior_score": -0.9163,
+      "prior_variance": 0.121806,
+      "prior_n": 13
+    },
+    {
+      "rank": 2,
+      "title": "Talofofo Falls",
+      "path": "australiaandpacific/guam/talofofofalls",
+      "prior_score": 0.8849,
+      "prior_variance": 0.138608,
+      "prior_n": 12
+    },
+    {
+      "rank": 3,
+      "title": "Beja",
+      "path": "europe/portugal/beja",
+      "prior_score": -1.7104,
+      "prior_variance": 0.109723,
+      "prior_n": 11
+    },
+    {
+      "rank": 4,
+      "title": "Santa Rosa de Cabal",
+      "path": "southamerica/colombia/santa_rosa_de_caba",
+      "prior_score": -0.1113,
+      "prior_variance": 0.125114,
+      "prior_n": 11
+    },
+    {
+      "rank": 5,
+      "title": "Sedan",
+      "path": "europe/france/east/champagne/sedan",
+      "prior_score": -2.0367,
+      "prior_variance": 0.108823,
+      "prior_n": 12
+    },
+    {
+      "rank": 6,
+      "title": "Harrisonburg",
+      "path": "northamerica/unitedstates/virginia/harrisonburg",
+      "prior_score": -2.4485,
+      "prior_variance": 0.161366,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Shibam",
+      "path": "asia/yemen/shibam",
+      "prior_score": -1.1412,
+      "prior_variance": 0.154806,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Calbayog",
+      "path": "asia/philippines/samarisland/calbayog",
+      "prior_score": -3.0449,
+      "prior_variance": 0.11145,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Kabankalan City",
+      "path": "asia/philippines/negrosisland/kabankalan_city",
+      "prior_score": -4.5907,
+      "prior_variance": 0.127971,
+      "prior_n": 11
+    },
+    {
+      "rank": 10,
+      "title": "Sogod",
+      "path": "asia/philippines/southern_leyte/sogod",
+      "prior_score": -4.7084,
+      "prior_variance": 0.128787,
+      "prior_n": 11
+    },
+    {
+      "rank": 11,
+      "title": "Taizhou",
+      "path": "asia/china/jiangsu_province/taizhou",
+      "prior_score": -4.4315,
+      "prior_variance": 0.134733,
+      "prior_n": 11
+    },
+    {
+      "rank": 12,
+      "title": "Maku",
+      "path": "asia/iran/maku",
+      "prior_score": -4.8961,
+      "prior_variance": 0.12282,
+      "prior_n": 11
+    },
+    {
+      "rank": 13,
+      "title": "Gjilan",
+      "path": "europe/serbia/kosovoprovince/gjilan",
+      "prior_score": -5.6258,
+      "prior_variance": 0.143568,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Tuscumbia",
+      "path": "northamerica/unitedstates/alabama/tuscumbia",
+      "prior_score": -4.4012,
+      "prior_variance": 0.147351,
+      "prior_n": 11
+    },
+    {
+      "rank": 15,
+      "title": "Round Rock",
+      "path": "northamerica/unitedstates/texas/round_rock",
+      "prior_score": -4.4077,
+      "prior_variance": 0.126503,
+      "prior_n": 11
+    },
+    {
+      "rank": 16,
+      "title": "Noida",
+      "path": "asia/india/uttarpradesh/noida",
+      "prior_score": -5.8729,
+      "prior_variance": 0.16788,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hanumangarh",
+      "path": "asia/india/rajasthan/hanumangarh",
+      "prior_score": -5.8729,
+      "prior_variance": 0.141768,
+      "prior_n": 11
+    },
+    {
+      "rank": 18,
+      "title": "San Jos\u00e9 de Lourdes",
+      "path": "southamerica/peru/san_jos_de__lour",
+      "prior_score": -6.8331,
+      "prior_variance": 0.184489,
+      "prior_n": 11
+    },
+    {
+      "rank": 19,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -6.005,
+      "prior_variance": 0.144137,
+      "prior_n": 11
+    },
+    {
+      "rank": 20,
+      "title": "Monrovia",
+      "path": "africa/liberia/monrovia",
+      "prior_score": -6.0235,
+      "prior_variance": 0.135003,
+      "prior_n": 12
+    },
+    {
+      "rank": 21,
+      "title": "Dinguiraye",
+      "path": "africa/guineeconakry/dinguiraye",
+      "prior_score": -7.3998,
+      "prior_variance": 0.242023,
+      "prior_n": 11
+    },
+    {
+      "rank": 22,
+      "title": "Gouessesso",
+      "path": "africa/ivorycoast/gouessesso",
+      "prior_score": -7.9672,
+      "prior_variance": 0.174568,
+      "prior_n": 11
+    },
+    {
+      "rank": 23,
+      "title": "Maracay",
+      "path": "southamerica/venezuela/maracay",
+      "prior_score": -7.2358,
+      "prior_variance": 0.224949,
+      "prior_n": 11
+    },
+    {
+      "rank": 24,
+      "title": "Trans Sahara",
+      "path": "africa/niger/transsahara",
+      "prior_score": -8.5681,
+      "prior_variance": 0.187469,
+      "prior_n": 12
+    }
+  ]
+}

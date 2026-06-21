@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Madison_County_Courthouse_
 latitude: 41.335189
 loc_type: city
 longitude: -94.016041
-score: 0.4
+score: 0.36
 title: Madison County & Winterset
 type: location
 ---

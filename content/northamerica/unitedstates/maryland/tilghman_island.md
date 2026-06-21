@@ -5,7 +5,7 @@ done:
 latitude: 38.7076
 loc_type: city
 longitude: -76.3382
-score: 0.45
+score: 0.37
 title: Tilghman Island
 type: location
 ---

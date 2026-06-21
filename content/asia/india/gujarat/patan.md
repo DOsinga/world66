@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rani_ki_vav_-_Patan_-_Guja
 latitude: 23.85
 loc_type: city
 longitude: 72.125
-score: 0.51
+score: 0.39
 title: Patan
 type: location
 ---

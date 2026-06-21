@@ -1,200 +1,200 @@
 {
   "round": 1818,
-  "timestamp": "2026-04-13T10:54:11",
+  "timestamp": "2026-06-13T20:54:31",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Cyprus",
-      "path": "asia/cyprus",
-      "prior_score": 5.8557,
-      "prior_variance": 0.343052,
-      "prior_n": 4
-    },
-    {
-      "rank": 2,
-      "title": "F\u00fcssen",
-      "path": "europe/germany/bavaria/fussen",
-      "prior_score": 7.0223,
-      "prior_variance": 0.315214,
+      "title": "Maui",
+      "path": "northamerica/unitedstates/hawaii/maui",
+      "prior_score": 15.5319,
+      "prior_variance": 1.109699,
       "prior_n": 5
     },
     {
+      "rank": 2,
+      "title": "Salar de Uyuni",
+      "path": "southamerica/bolivia/salar_of_uyuni",
+      "prior_score": 11.7316,
+      "prior_variance": 0.409271,
+      "prior_n": 6
+    },
+    {
       "rank": 3,
-      "title": "Isfahan",
-      "path": "asia/iran/isfahan",
-      "prior_score": 7.7823,
-      "prior_variance": 0.545195,
-      "prior_n": 4
+      "title": "Sanur",
+      "path": "asia/indonesia/bali/sanur",
+      "prior_score": 6.0826,
+      "prior_variance": 0.345495,
+      "prior_n": 5
     },
     {
       "rank": 4,
-      "title": "Stonehenge",
-      "path": "europe/unitedkingdom/england/bristol_plymouth/stonehenge",
-      "prior_score": 6.3458,
-      "prior_variance": 0.377177,
+      "title": "Jerba",
+      "path": "africa/tunisia/jerba",
+      "prior_score": 2.4101,
+      "prior_variance": 0.325394,
       "prior_n": 5
     },
     {
       "rank": 5,
-      "title": "Beaune",
-      "path": "europe/france/east/burgundy/beaune",
-      "prior_score": 5.3686,
-      "prior_variance": 0.35508,
-      "prior_n": 4
+      "title": "Panaji",
+      "path": "asia/india/goa/panaji",
+      "prior_score": 2.0006,
+      "prior_variance": 0.251517,
+      "prior_n": 6
     },
     {
       "rank": 6,
-      "title": "Pic du Midi",
-      "path": "europe/france/midi/pyrenees/picdumidi",
-      "prior_score": 4.8014,
-      "prior_variance": 0.334812,
-      "prior_n": 4
+      "title": "Vung Tau",
+      "path": "asia/vietnam/vungtau",
+      "prior_score": 2.0631,
+      "prior_variance": 0.210872,
+      "prior_n": 6
     },
     {
       "rank": 7,
-      "title": "Baiona",
-      "path": "europe/spain/galicia/baiona",
-      "prior_score": 3.0364,
-      "prior_variance": 0.257119,
-      "prior_n": 5
+      "title": "Solothurn",
+      "path": "europe/switzerland/solothurn",
+      "prior_score": 3.8262,
+      "prior_variance": 0.200729,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Tarutao",
-      "path": "asia/thailand/tarutao",
-      "prior_score": 5.5015,
-      "prior_variance": 0.309078,
-      "prior_n": 4
+      "title": "Newport",
+      "path": "northamerica/unitedstates/rhodeisland/newport",
+      "prior_score": 4.005,
+      "prior_variance": 0.253788,
+      "prior_n": 6
     },
     {
       "rank": 9,
-      "title": "Mihintale",
-      "path": "asia/srilanka/mihintale",
-      "prior_score": 1.3552,
-      "prior_variance": 0.289664,
-      "prior_n": 5
+      "title": "Natal",
+      "path": "southamerica/brazil/natal",
+      "prior_score": 2.5006,
+      "prior_variance": 0.222519,
+      "prior_n": 6
     },
     {
       "rank": 10,
-      "title": "Bahchisaray",
-      "path": "europe/ukraine/crimea/bahchisaray",
-      "prior_score": -2.165,
-      "prior_variance": 0.457438,
-      "prior_n": 4
+      "title": "Cat Island",
+      "path": "northamerica/bahamas/catisland",
+      "prior_score": 3.0402,
+      "prior_variance": 0.341316,
+      "prior_n": 5
     },
     {
       "rank": 11,
-      "title": "Taza",
-      "path": "africa/morocco/taza",
-      "prior_score": -1.5339,
-      "prior_variance": 0.297214,
-      "prior_n": 4
+      "title": "Pulau Ubin",
+      "path": "asia/singapore/islands/pulau_ubin",
+      "prior_score": 2.1624,
+      "prior_variance": 0.242952,
+      "prior_n": 5
     },
     {
       "rank": 12,
-      "title": "Lautoka",
-      "path": "australiaandpacific/fiji/lautoka",
-      "prior_score": 1.041,
-      "prior_variance": 0.313116,
+      "title": "Moulay Idriss",
+      "path": "africa/morocco/moulayidriss",
+      "prior_score": 2.3152,
+      "prior_variance": 0.291516,
       "prior_n": 5
     },
     {
       "rank": 13,
-      "title": "Abingdon",
-      "path": "europe/unitedkingdom/england/abingdon",
-      "prior_score": -0.2319,
-      "prior_variance": 0.331289,
-      "prior_n": 5
+      "title": "Ruins of Le\u00f3n Viejo",
+      "path": "northamerica/nicaragua/ruins_of_len_vie",
+      "prior_score": -0.0348,
+      "prior_variance": 0.214284,
+      "prior_n": 6
     },
     {
       "rank": 14,
-      "title": "saskatchewan river crossing",
-      "path": "northamerica/canada/alberta/saskatchewan_river",
-      "prior_score": -1.3527,
-      "prior_variance": 0.304765,
-      "prior_n": 4
+      "title": "Clermont-Ferrand",
+      "path": "europe/france/centre/auvergne/clermontferrant",
+      "prior_score": 1.5224,
+      "prior_variance": 0.228901,
+      "prior_n": 6
     },
     {
       "rank": 15,
-      "title": "Sloan Canyon",
-      "path": "northamerica/unitedstates/nevada/sloan_canyon",
-      "prior_score": -2.5105,
-      "prior_variance": 0.314079,
-      "prior_n": 4
+      "title": "Tunbridge Wells",
+      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
+      "prior_score": -1.0308,
+      "prior_variance": 0.261066,
+      "prior_n": 7
     },
     {
       "rank": 16,
-      "title": "Homestead",
-      "path": "northamerica/unitedstates/florida/homestead",
-      "prior_score": -1.4249,
-      "prior_variance": 0.374747,
-      "prior_n": 4
+      "title": "Bir Billing",
+      "path": "asia/india/himachalpradesh/bir_billing",
+      "prior_score": 1.6625,
+      "prior_variance": 0.250678,
+      "prior_n": 6
     },
     {
       "rank": 17,
-      "title": "Franklin",
-      "path": "northamerica/unitedstates/kentucky/franklin",
-      "prior_score": -6.8314,
-      "prior_variance": 0.377501,
-      "prior_n": 4
+      "title": "Bracieux",
+      "path": "europe/france/centre/loirevalley/bracieux",
+      "prior_score": 0.885,
+      "prior_variance": 0.246106,
+      "prior_n": 6
     },
     {
       "rank": 18,
-      "title": "Texarkana",
-      "path": "northamerica/unitedstates/arkansas/texarkana",
-      "prior_score": -6.1882,
-      "prior_variance": 0.325969,
-      "prior_n": 4
+      "title": "Long Beach",
+      "path": "northamerica/unitedstates/california/longbeach",
+      "prior_score": -0.0489,
+      "prior_variance": 0.287255,
+      "prior_n": 6
     },
     {
       "rank": 19,
-      "title": "La Paz Centro",
-      "path": "northamerica/nicaragua/la_paz_centro",
-      "prior_score": -6.1178,
-      "prior_variance": 0.357753,
-      "prior_n": 5
+      "title": "Oran",
+      "path": "africa/algeria/oran",
+      "prior_score": -2.4622,
+      "prior_variance": 0.263334,
+      "prior_n": 6
     },
     {
       "rank": 20,
-      "title": "Bonita",
-      "path": "northamerica/unitedstates/california/sandiego/bonita",
-      "prior_score": -4.5464,
-      "prior_variance": 0.357551,
+      "title": "Mary",
+      "path": "asia/turkmenistan/mary",
+      "prior_score": -7.5474,
+      "prior_variance": 0.312958,
       "prior_n": 5
     },
     {
       "rank": 21,
-      "title": "Shahbuz",
-      "path": "europe/azerbaijan/naxcivan/shahbuz",
-      "prior_score": -4.9374,
-      "prior_variance": 0.291678,
+      "title": "Thompson",
+      "path": "northamerica/canada/manitoba/thompson",
+      "prior_score": -6.8599,
+      "prior_variance": 0.321607,
       "prior_n": 5
     },
     {
       "rank": 22,
-      "title": "Niamey",
-      "path": "africa/niger/niamey",
-      "prior_score": -6.4877,
-      "prior_variance": 0.322745,
-      "prior_n": 4
+      "title": "South San Francisco",
+      "path": "northamerica/unitedstates/california/south_san_francisco",
+      "prior_score": -5.069,
+      "prior_variance": 0.295763,
+      "prior_n": 5
     },
     {
       "rank": 23,
-      "title": "Kiffa",
-      "path": "africa/mauritania/kiffa",
-      "prior_score": -8.7481,
-      "prior_variance": 0.425772,
+      "title": "Homs",
+      "path": "asia/syria/homs",
+      "prior_score": -14.1741,
+      "prior_variance": 1.136173,
       "prior_n": 5
     },
     {
       "rank": 24,
-      "title": "ALI KHAN GORAKH BALOCH CHAH JAIND WAL",
-      "path": "asia/pakistan/dera_ghazi_khan/yaroo_khosa/ali_khan_gorakh_ba_1",
-      "prior_score": -14.1256,
-      "prior_variance": 0.627675,
-      "prior_n": 4
+      "title": "Mosul",
+      "path": "asia/iraq/mosul",
+      "prior_score": -11.9883,
+      "prior_variance": 0.52164,
+      "prior_n": 5
     }
   ]
 }

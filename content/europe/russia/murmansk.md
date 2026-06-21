@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Murmansk-001.jpg
 latitude: 68.9707
 loc_type: city
 longitude: 33.075
-score: 0.37
+score: 0.34
 title: Murmansk
 type: location
 ---

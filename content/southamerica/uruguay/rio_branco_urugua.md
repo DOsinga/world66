@@ -5,7 +5,7 @@ done:
 latitude: -32.5978
 loc_type: city
 longitude: -53.3864
-score: 0.33
+score: 0.24
 title: Río Branco
 type: location
 ---

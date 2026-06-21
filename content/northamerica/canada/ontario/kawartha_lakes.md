@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Doube%27s_Trestle_bridge_2
 latitude: 44.359682
 loc_type: city
 longitude: -78.742173
-score: 0.47
+score: 0.41
 title: Kawartha Lakes
 type: location
 ---

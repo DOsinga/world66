@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A4vle_brandstation_Ju
 latitude: 60.675013
 loc_type: city
 longitude: 17.146702
-score: 0.45
+score: 0.36
 title: Gävle
 type: location
 ---

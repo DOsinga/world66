@@ -5,7 +5,7 @@ done:
 latitude: 53.961827
 loc_type: city
 longitude: -2.346525
-score: 0.42
+score: 0.35
 title: Bolton-by-Bowland
 type: location
 ---

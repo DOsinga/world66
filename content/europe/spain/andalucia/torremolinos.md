@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playamar,_Torremolinos.JPG
 latitude: 36.624284
 loc_type: city
 longitude: -4.499545
-score: 0.57
+score: 0.48
 title: Torremolinos
 type: location
 ---

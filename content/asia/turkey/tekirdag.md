@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bedesten_Tekirda%C4%9F.JPG
 latitude: 41.07314
 loc_type: city
 longitude: 27.410201
-score: 0.43
+score: 0.38
 title: Tekirdağ
 type: location
 ---

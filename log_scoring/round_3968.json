@@ -1,0 +1,200 @@
+{
+  "round": 3968,
+  "timestamp": "2026-06-13T23:33:31",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Mount Kailash",
+      "path": "asia/china/tibet/mount_kailash",
+      "prior_score": 4.1407,
+      "prior_variance": 0.166733,
+      "prior_n": 12
+    },
+    {
+      "rank": 2,
+      "title": "Qinghai Lake",
+      "path": "asia/china/qinghai/qinghai-lake",
+      "prior_score": 2.6721,
+      "prior_variance": 0.105148,
+      "prior_n": 14
+    },
+    {
+      "rank": 3,
+      "title": "Acre",
+      "path": "asia/israel/acre",
+      "prior_score": 4.9274,
+      "prior_variance": 0.130986,
+      "prior_n": 12
+    },
+    {
+      "rank": 4,
+      "title": "Carthage",
+      "path": "africa/tunisia/carthage",
+      "prior_score": 3.7889,
+      "prior_variance": 0.109922,
+      "prior_n": 14
+    },
+    {
+      "rank": 5,
+      "title": "Sigtuna",
+      "path": "europe/sweden/sigtuna",
+      "prior_score": 1.7758,
+      "prior_variance": 0.101432,
+      "prior_n": 13
+    },
+    {
+      "rank": 6,
+      "title": "Manihiki",
+      "path": "australiaandpacific/cookislands/manihiki",
+      "prior_score": 0.9061,
+      "prior_variance": 0.173894,
+      "prior_n": 14
+    },
+    {
+      "rank": 7,
+      "title": "Malakula",
+      "path": "australiaandpacific/vanuatu/malakula",
+      "prior_score": -0.8739,
+      "prior_variance": 0.117517,
+      "prior_n": 13
+    },
+    {
+      "rank": 8,
+      "title": "Ocracoke Island",
+      "path": "northamerica/unitedstates/northcarolina/ocracokeisland",
+      "prior_score": 1.4574,
+      "prior_variance": 0.117804,
+      "prior_n": 12
+    },
+    {
+      "rank": 9,
+      "title": "Zambales",
+      "path": "asia/philippines/zambales",
+      "prior_score": -0.9755,
+      "prior_variance": 0.097707,
+      "prior_n": 13
+    },
+    {
+      "rank": 10,
+      "title": "Alhama de Granada",
+      "path": "europe/spain/andalucia/alhama_de_granada",
+      "prior_score": 0.4493,
+      "prior_variance": 0.092368,
+      "prior_n": 15
+    },
+    {
+      "rank": 11,
+      "title": "Colchester",
+      "path": "europe/unitedkingdom/england/eastern_england/colchester",
+      "prior_score": -0.7841,
+      "prior_variance": 0.110945,
+      "prior_n": 14
+    },
+    {
+      "rank": 12,
+      "title": "Chumphon",
+      "path": "asia/thailand/chumphon",
+      "prior_score": 0.0467,
+      "prior_variance": 0.111703,
+      "prior_n": 14
+    },
+    {
+      "rank": 13,
+      "title": "Gawthorpe Hall",
+      "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/gawthorpe_hall",
+      "prior_score": -1.3236,
+      "prior_variance": 0.109322,
+      "prior_n": 12
+    },
+    {
+      "rank": 14,
+      "title": "Sloten",
+      "path": "europe/netherlands/friesland/sloten",
+      "prior_score": -1.2073,
+      "prior_variance": 0.113795,
+      "prior_n": 13
+    },
+    {
+      "rank": 15,
+      "title": "Medicine Hat",
+      "path": "northamerica/canada/alberta/medicinehat",
+      "prior_score": -2.9869,
+      "prior_variance": 0.1132,
+      "prior_n": 13
+    },
+    {
+      "rank": 16,
+      "title": "\u201cSturgis\u201d",
+      "path": "northamerica/unitedstates/southdakota/sturgis",
+      "prior_score": -1.7045,
+      "prior_variance": 0.097498,
+      "prior_n": 14
+    },
+    {
+      "rank": 17,
+      "title": "Turriff",
+      "path": "europe/unitedkingdom/scotland/turriff",
+      "prior_score": -3.5594,
+      "prior_variance": 0.130897,
+      "prior_n": 12
+    },
+    {
+      "rank": 18,
+      "title": "Dungannon",
+      "path": "europe/unitedkingdom/northernireland/dungannon",
+      "prior_score": -4.3729,
+      "prior_variance": 0.112129,
+      "prior_n": 14
+    },
+    {
+      "rank": 19,
+      "title": "Ciudad del Este",
+      "path": "southamerica/paraguay/ciudaddeleste",
+      "prior_score": -4.3046,
+      "prior_variance": 0.114965,
+      "prior_n": 13
+    },
+    {
+      "rank": 20,
+      "title": "Ballincollig",
+      "path": "europe/ireland/ballincollig",
+      "prior_score": -3.3166,
+      "prior_variance": 0.102423,
+      "prior_n": 13
+    },
+    {
+      "rank": 21,
+      "title": "McKinney",
+      "path": "northamerica/unitedstates/texas/mckinney",
+      "prior_score": -4.2547,
+      "prior_variance": 0.118191,
+      "prior_n": 14
+    },
+    {
+      "rank": 22,
+      "title": "Fort Oglethorpe",
+      "path": "northamerica/unitedstates/georgia/fortoglethorpe",
+      "prior_score": -4.7582,
+      "prior_variance": 0.104126,
+      "prior_n": 13
+    },
+    {
+      "rank": 23,
+      "title": "Wewoka",
+      "path": "northamerica/unitedstates/oklahoma/wewoka",
+      "prior_score": -7.5419,
+      "prior_variance": 0.232381,
+      "prior_n": 12
+    },
+    {
+      "rank": 24,
+      "title": "Nushki",
+      "path": "asia/pakistan/nushki",
+      "prior_score": -8.3724,
+      "prior_variance": 0.17877,
+      "prior_n": 13
+    }
+  ]
+}

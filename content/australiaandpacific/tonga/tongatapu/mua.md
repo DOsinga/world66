@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Langi-Namoala.jpg
 latitude: -21.184403
 loc_type: city
 longitude: -175.12275
-score: 0.39
+score: 0.36
 title: Mu'a
 type: location
 ---

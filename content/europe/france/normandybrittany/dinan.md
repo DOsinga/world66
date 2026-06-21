@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinan_on_the_banks_of_the_
 latitude: 48.454
 loc_type: city
 longitude: -2.0477
-score: 0.61
+score: 0.57
 title: Dinan
 type: location
 ---

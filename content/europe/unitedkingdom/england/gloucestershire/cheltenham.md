@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheltenham_Art_Gallery_%26
 latitude: 51.899569
 loc_type: city
 longitude: -2.071156
-score: 0.55
+score: 0.46
 title: Cheltenham
 type: location
 ---

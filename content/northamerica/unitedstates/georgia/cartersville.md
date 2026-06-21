@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cartersville_Depot,_Carter
 latitude: 34.16523
 loc_type: city
 longitude: -84.799761
-score: 0.36
+score: 0.32
 title: Cartersville
 type: location
 ---

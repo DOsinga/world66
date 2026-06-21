@@ -7,7 +7,7 @@ done:
 latitude: -8.82727
 loc_type: city
 longitude: 13.243951
-score: 0.3
+score: 0.26
 title: Luanda
 type: location
 ---

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Passion_at_Torquay_(Unspla
 latitude: 50.465239
 loc_type: city
 longitude: -3.521136
-score: 0.55
+score: 0.46
 title: Torquay
 type: location
 ---

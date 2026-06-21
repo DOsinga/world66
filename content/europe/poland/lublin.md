@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lublin_Panorama.jpg
 latitude: 51.250559
 loc_type: city
 longitude: 22.570102
-score: 0.51
+score: 0.44
 title: Lublin
 type: location
 ---

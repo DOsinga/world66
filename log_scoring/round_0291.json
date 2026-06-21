@@ -1,199 +1,199 @@
 {
   "round": 291,
-  "timestamp": "2026-04-12T09:10:22",
+  "timestamp": "2026-06-13T19:28:21",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Big Bend National Park",
-      "path": "northamerica/unitedstates/texas/big_bend_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Siena",
+      "path": "europe/italy/tuscany/siena",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 2,
-      "title": "Liechtenstein",
-      "path": "europe/liechtenstein",
-      "prior_mu": 24.2906,
-      "prior_sigma": 5.8318,
-      "prior_n": 1
+      "title": "Lhasa",
+      "path": "asia/china/tibet/lhasa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 3,
-      "title": "Sarasota",
-      "path": "northamerica/unitedstates/florida/sarasota",
-      "prior_mu": 25.0395,
-      "prior_sigma": 6.2992,
-      "prior_n": 1
+      "title": "\u00c9vora",
+      "path": "europe/portugal/evora",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 4,
-      "title": "Qaanaaq",
-      "path": "northamerica/greenland/qaanaaq",
-      "prior_mu": 22.4735,
-      "prior_sigma": 5.5697,
-      "prior_n": 1
+      "title": "Durmitor National Park",
+      "path": "europe/montenegro/dormitor",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 5,
-      "title": "Black Sea Coast",
-      "path": "europe/georgia/blackseacoast",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Meta di Sorrento",
+      "path": "europe/italy/campania/meta_di_sorrento",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 6,
-      "title": "Hemkund",
-      "path": "asia/india/uttaranchal/hemkunt",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Gaiole in Chianti",
+      "path": "europe/italy/tuscany/florenceprovince/chiantiregion/gaiole_in_chianti",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 7,
-      "title": "Bagamoyo",
-      "path": "africa/tanzania/bagamoyo",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Morella",
+      "path": "europe/spain/castellon/morella",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 8,
-      "title": "Iraq al-Amir",
-      "path": "asia/jordan/iraqalamir",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Robinson Crusoe Island",
+      "path": "southamerica/chile/robinson_crusoe_island",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 9,
-      "title": "Arwad Island",
-      "path": "asia/syria/arwadisland",
-      "prior_mu": 22.4912,
-      "prior_sigma": 5.9083,
-      "prior_n": 1
+      "title": "Argeles-sur-Mer",
+      "path": "europe/france/midi/cotedazur/argelessurmer",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 10,
-      "title": "Yamoussoukro",
-      "path": "africa/ivorycoast/yamoussoukro",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Flacq",
+      "path": "africa/mauritius/flacq",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 11,
-      "title": "Osorno",
-      "path": "southamerica/chile/osorno",
-      "prior_mu": 22.7204,
-      "prior_sigma": 5.9496,
-      "prior_n": 1
+      "title": "Prato",
+      "path": "europe/italy/tuscany/prato",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 12,
-      "title": "Santa Cruz",
-      "path": "southamerica/bolivia/santacruz",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Gloucester",
+      "path": "europe/unitedkingdom/england/gloucestershire/gloucester",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 13,
-      "title": "Traunstein",
-      "path": "europe/germany/bavaria/traunstein",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tarpon Springs",
+      "path": "northamerica/unitedstates/florida/tarpon_springs",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 14,
-      "title": "Tunbridge Wells",
-      "path": "europe/unitedkingdom/england/south_east/tunbridge_wells",
-      "prior_mu": 22.7232,
-      "prior_sigma": 5.95,
-      "prior_n": 1
+      "title": "Kuantan",
+      "path": "asia/malaysia/kuantan",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 15,
-      "title": "Maruata",
-      "path": "northamerica/mexico/maruata",
-      "prior_mu": 22.7219,
-      "prior_sigma": 5.9498,
-      "prior_n": 1
+      "title": "Johor Bahru",
+      "path": "asia/malaysia/johorbahru",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 16,
-      "title": "Pori",
-      "path": "europe/finland/pori",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Broken Hill",
+      "path": "australiaandpacific/australia/newsouthwales/brokenhill",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 17,
-      "title": "Dz\u016bkija National park",
-      "path": "europe/lithuania/dzkija_national",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Stellanello",
+      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/stellanello",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 18,
-      "title": "Vengurle",
-      "path": "asia/india/maharashtra/konkan/vengurle",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Baia Mare",
+      "path": "europe/romania/baiamare",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 19,
-      "title": "Cookstown",
-      "path": "europe/unitedkingdom/northernireland/cookstown",
-      "prior_mu": 22.9003,
-      "prior_sigma": 5.7255,
-      "prior_n": 1
+      "title": "Truth or Consequences",
+      "path": "northamerica/unitedstates/newmexico/truth_or_consequences",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
+      "prior_n": 0
     },
     {
       "rank": 20,
-      "title": "Rainbow",
-      "path": "australiaandpacific/australia/victoria/rainbow",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Rock Hall",
+      "path": "northamerica/unitedstates/maryland/rock_hall",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 21,
-      "title": "Miami",
-      "path": "northamerica/unitedstates/oklahoma/miami",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Talin",
+      "path": "europe/armenia/talin",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 22,
-      "title": "Evanston",
-      "path": "northamerica/unitedstates/wyoming/evanston",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Hoyerswerda",
+      "path": "europe/germany/saxony/hoyerswerda",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 23,
-      "title": "Hamilton",
-      "path": "northamerica/unitedstates/ohio/hamilton",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Tarawa",
+      "path": "australiaandpacific/kiribati/tarawa",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     },
     {
       "rank": 24,
-      "title": "Bearwood",
-      "path": "europe/unitedkingdom/england/birmingham_and_wes/bearwood",
-      "prior_mu": 25.0,
-      "prior_sigma": 8.3333,
+      "title": "Rosso",
+      "path": "africa/mauritania/rosso",
+      "prior_score": -0.0,
+      "prior_variance": 100.0,
       "prior_n": 0
     }
   ]

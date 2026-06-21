@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inari,_Finland_-_panoramio
 latitude: 68.906246
 loc_type: city
 longitude: 27.026077
-score: 0.54
+score: 0.48
 title: Inari
 type: location
 ---

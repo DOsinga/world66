@@ -1,0 +1,200 @@
+{
+  "round": 2370,
+  "timestamp": "2026-06-13T21:37:54",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Dalkey",
+      "path": "europe/ireland/dalkey",
+      "prior_score": 1.0993,
+      "prior_variance": 0.184739,
+      "prior_n": 8
+    },
+    {
+      "rank": 2,
+      "title": "Alen\u00e7on",
+      "path": "europe/france/normandybrittany/alenon",
+      "prior_score": -0.7747,
+      "prior_variance": 0.1983,
+      "prior_n": 7
+    },
+    {
+      "rank": 3,
+      "title": "San Piero a Sieve",
+      "path": "europe/italy/tuscany/florenceprovince/mugelloarea/sanpieroasieve",
+      "prior_score": 0.2043,
+      "prior_variance": 0.179917,
+      "prior_n": 8
+    },
+    {
+      "rank": 4,
+      "title": "Sheffield",
+      "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield",
+      "prior_score": -1.2861,
+      "prior_variance": 0.224593,
+      "prior_n": 8
+    },
+    {
+      "rank": 5,
+      "title": "Pittsfield",
+      "path": "northamerica/unitedstates/massachusetts/pittsfield",
+      "prior_score": -2.2128,
+      "prior_variance": 0.165203,
+      "prior_n": 9
+    },
+    {
+      "rank": 6,
+      "title": "St Eustatius",
+      "path": "northamerica/netherlandsantilles/steustatius",
+      "prior_score": 0.1239,
+      "prior_variance": 0.169043,
+      "prior_n": 8
+    },
+    {
+      "rank": 7,
+      "title": "Chapel Hill",
+      "path": "northamerica/unitedstates/northcarolina/chapelhill",
+      "prior_score": -0.7255,
+      "prior_variance": 0.171226,
+      "prior_n": 8
+    },
+    {
+      "rank": 8,
+      "title": "Holden Beach",
+      "path": "northamerica/unitedstates/northcarolina/holden_beach",
+      "prior_score": -1.3684,
+      "prior_variance": 0.175911,
+      "prior_n": 9
+    },
+    {
+      "rank": 9,
+      "title": "Cave Creek",
+      "path": "northamerica/unitedstates/arizona/cave_creek",
+      "prior_score": -0.9811,
+      "prior_variance": 0.197188,
+      "prior_n": 8
+    },
+    {
+      "rank": 10,
+      "title": "Mandurah",
+      "path": "australiaandpacific/australia/westernaustralia/mandurah",
+      "prior_score": -1.0199,
+      "prior_variance": 0.15879,
+      "prior_n": 8
+    },
+    {
+      "rank": 11,
+      "title": "Escondido",
+      "path": "northamerica/unitedstates/california/escondido",
+      "prior_score": -2.6889,
+      "prior_variance": 0.195493,
+      "prior_n": 8
+    },
+    {
+      "rank": 12,
+      "title": "Boynton Beach",
+      "path": "northamerica/unitedstates/florida/boyntonbeach",
+      "prior_score": -4.5917,
+      "prior_variance": 0.234577,
+      "prior_n": 7
+    },
+    {
+      "rank": 13,
+      "title": "Keylong",
+      "path": "asia/india/himachalpradesh/keylong",
+      "prior_score": -1.5781,
+      "prior_variance": 0.174621,
+      "prior_n": 9
+    },
+    {
+      "rank": 14,
+      "title": "Dehradun",
+      "path": "asia/india/uttaranchal/dehradun",
+      "prior_score": 0.0444,
+      "prior_variance": 0.186599,
+      "prior_n": 7
+    },
+    {
+      "rank": 15,
+      "title": "Shirdi",
+      "path": "asia/india/maharashtra/shirdi",
+      "prior_score": -1.9349,
+      "prior_variance": 0.173391,
+      "prior_n": 8
+    },
+    {
+      "rank": 16,
+      "title": "Butuan",
+      "path": "asia/philippines/butuan",
+      "prior_score": -1.5855,
+      "prior_variance": 0.176737,
+      "prior_n": 7
+    },
+    {
+      "rank": 17,
+      "title": "Taoyuan",
+      "path": "asia/taiwan/taoyuan",
+      "prior_score": -1.3573,
+      "prior_variance": 0.178631,
+      "prior_n": 8
+    },
+    {
+      "rank": 18,
+      "title": "Katowice",
+      "path": "europe/poland/katowice",
+      "prior_score": -1.5735,
+      "prior_variance": 0.192746,
+      "prior_n": 8
+    },
+    {
+      "rank": 19,
+      "title": "Weifang",
+      "path": "asia/china/shandong_province/weifang",
+      "prior_score": -3.0709,
+      "prior_variance": 0.194804,
+      "prior_n": 7
+    },
+    {
+      "rank": 20,
+      "title": "Meerut",
+      "path": "asia/india/uttarpradesh/meerut",
+      "prior_score": -6.277,
+      "prior_variance": 0.255714,
+      "prior_n": 7
+    },
+    {
+      "rank": 21,
+      "title": "Sunyani",
+      "path": "africa/ghana/sunyani",
+      "prior_score": -5.1092,
+      "prior_variance": 0.264461,
+      "prior_n": 7
+    },
+    {
+      "rank": 22,
+      "title": "Koure",
+      "path": "africa/niger/koure",
+      "prior_score": -5.6311,
+      "prior_variance": 0.27995,
+      "prior_n": 7
+    },
+    {
+      "rank": 23,
+      "title": "Borama",
+      "path": "africa/somaliland/borama",
+      "prior_score": -9.0221,
+      "prior_variance": 0.268752,
+      "prior_n": 7
+    },
+    {
+      "rank": 24,
+      "title": "Zinga",
+      "path": "africa/centralafricanrepublic/zinga",
+      "prior_score": -9.6567,
+      "prior_variance": 0.525109,
+      "prior_n": 7
+    }
+  ]
+}

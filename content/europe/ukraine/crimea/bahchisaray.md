@@ -6,7 +6,7 @@ done:
 latitude: 44.748
 loc_type: city
 longitude: 33.881
-score: 0.45
+score: 0.4
 title: Bahchisaray
 type: location
 ---

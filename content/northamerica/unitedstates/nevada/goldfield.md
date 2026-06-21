@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esmeralda_County,_Nevada_c
 latitude: 37.7083
 loc_type: city
 longitude: -117.2356
-score: 0.35
+score: 0.3
 title: Goldfield
 type: location
 ---

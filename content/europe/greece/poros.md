@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Poros_Evlahos.jpg
 latitude: 37.526921
 loc_type: city
 longitude: 23.475245
-score: 0.62
+score: 0.54
 title: Poros
 type: location
 ---

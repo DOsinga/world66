@@ -7,7 +7,7 @@ done:
 latitude: 17.251
 loc_type: city
 longitude: -88.7671
-score: 0.45
+score: 0.41
 title: Belize City
 type: location
 image: belizecity.jpg

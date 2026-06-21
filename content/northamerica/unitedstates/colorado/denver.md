@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denver,_Colorado_skyline_(
 latitude: 39.739236
 loc_type: city
 longitude: -104.984862
-score: 0.63
+score: 0.51
 title: Denver
 type: location
 ---

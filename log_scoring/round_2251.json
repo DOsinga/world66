@@ -1,200 +1,200 @@
 {
   "round": 2251,
-  "timestamp": "2026-04-13T16:24:21",
+  "timestamp": "2026-06-13T21:29:07",
   "model": "claude-sonnet-4-6",
   "batch_size": 24,
   "order": [
     {
       "rank": 1,
-      "title": "Svolv\u00e6r",
-      "path": "europe/norway/lofotenislands/svolvr_the_capi",
-      "prior_score": 7.8077,
-      "prior_variance": 0.48346,
-      "prior_n": 5
+      "title": "Granada",
+      "path": "europe/spain/andalucia/granada",
+      "prior_score": 11.9032,
+      "prior_variance": 0.35688,
+      "prior_n": 7
     },
     {
       "rank": 2,
-      "title": "Sahara desert",
-      "path": "africa/algeria/saharadesert",
-      "prior_score": 0.7842,
-      "prior_variance": 0.327927,
-      "prior_n": 6
+      "title": "Tiger Leaping Gorge",
+      "path": "asia/china/yunnanprovince/tiger_leaping_gorge",
+      "prior_score": 7.3801,
+      "prior_variance": 0.22528,
+      "prior_n": 7
     },
     {
       "rank": 3,
-      "title": "Tarapoto",
-      "path": "southamerica/peru/tarapoto",
-      "prior_score": -0.0681,
-      "prior_variance": 0.219918,
-      "prior_n": 6
+      "title": "Amanohashidate",
+      "path": "asia/japan/honshu/amanohashidate",
+      "prior_score": 6.4668,
+      "prior_variance": 0.230265,
+      "prior_n": 7
     },
     {
       "rank": 4,
-      "title": "Testico",
-      "path": "europe/italy/liguria/italianriviera/rivieradellepalme/testico",
-      "prior_score": -2.3704,
-      "prior_variance": 0.311395,
-      "prior_n": 6
+      "title": "Pozzuoli",
+      "path": "europe/italy/campania/pozzuoli",
+      "prior_score": 2.3145,
+      "prior_variance": 0.186852,
+      "prior_n": 8
     },
     {
       "rank": 5,
-      "title": "Vaitupu island",
-      "path": "australiaandpacific/tuvalu/vaitupuisland",
-      "prior_score": -1.84,
-      "prior_variance": 0.185092,
+      "title": "Bergerac",
+      "path": "europe/france/midi/dordogne/bergerac",
+      "prior_score": 3.2337,
+      "prior_variance": 0.196291,
       "prior_n": 8
     },
     {
       "rank": 6,
-      "title": "Saksk\u00f8bing",
-      "path": "europe/denmark/sakskobing",
-      "prior_score": -2.7012,
-      "prior_variance": 0.281213,
-      "prior_n": 6
+      "title": "Saranda",
+      "path": "europe/albania/saranda",
+      "prior_score": 3.1679,
+      "prior_variance": 0.197399,
+      "prior_n": 7
     },
     {
       "rank": 7,
-      "title": "Petaling Jaya",
-      "path": "asia/malaysia/petalingjaya",
-      "prior_score": -1.0155,
-      "prior_variance": 0.226276,
-      "prior_n": 6
+      "title": "San Agust\u00edn",
+      "path": "southamerica/colombia/sanagustin",
+      "prior_score": 2.5148,
+      "prior_variance": 0.207398,
+      "prior_n": 7
     },
     {
       "rank": 8,
-      "title": "Isiolo",
-      "path": "africa/kenya/centralhighlands/isiolo",
-      "prior_score": -3.659,
-      "prior_variance": 0.302105,
-      "prior_n": 6
+      "title": "Hiller\u00f8d",
+      "path": "europe/denmark/hillerod",
+      "prior_score": 2.0197,
+      "prior_variance": 0.184331,
+      "prior_n": 7
     },
     {
       "rank": 9,
-      "title": "Tucumcari",
-      "path": "northamerica/unitedstates/newmexico/tucumcari",
-      "prior_score": -3.4005,
-      "prior_variance": 0.235419,
-      "prior_n": 6
+      "title": "Wismar",
+      "path": "europe/germany/mecklenburgwesternpomerania/wismar",
+      "prior_score": 1.2994,
+      "prior_variance": 0.165078,
+      "prior_n": 8
     },
     {
       "rank": 10,
-      "title": "Irbid",
-      "path": "asia/jordan/irbid",
-      "prior_score": -3.5598,
-      "prior_variance": 0.255634,
-      "prior_n": 6
+      "title": "Klosters",
+      "path": "europe/switzerland/klosters",
+      "prior_score": 4.3507,
+      "prior_variance": 0.197305,
+      "prior_n": 7
     },
     {
       "rank": 11,
-      "title": "Buckingham",
-      "path": "northamerica/unitedstates/pennsylvania/bucks_county/buckingham",
-      "prior_score": -4.8128,
-      "prior_variance": 0.272715,
-      "prior_n": 6
+      "title": "Oberammergau",
+      "path": "europe/germany/bavaria/oberammergau",
+      "prior_score": 3.3318,
+      "prior_variance": 0.190534,
+      "prior_n": 7
     },
     {
       "rank": 12,
-      "title": "Gladstone",
-      "path": "australiaandpacific/australia/queensland/gladstone",
-      "prior_score": -2.8713,
-      "prior_variance": 0.219295,
-      "prior_n": 6
+      "title": "Ban Lung",
+      "path": "asia/cambodia/ratanakiriprovince",
+      "prior_score": -1.8804,
+      "prior_variance": 0.206045,
+      "prior_n": 7
     },
     {
       "rank": 13,
-      "title": "Kansas",
-      "path": "northamerica/unitedstates/kansas",
-      "prior_score": -3.3115,
-      "prior_variance": 0.291246,
-      "prior_n": 5
+      "title": "Mompiche",
+      "path": "southamerica/ecuador/mompiche",
+      "prior_score": 0.1576,
+      "prior_variance": 0.193882,
+      "prior_n": 7
     },
     {
       "rank": 14,
-      "title": "V\u00f5su",
-      "path": "europe/estonia/vsu",
-      "prior_score": -2.3751,
-      "prior_variance": 0.20137,
+      "title": "Norwich",
+      "path": "europe/unitedkingdom/england/eastern_england/norwich",
+      "prior_score": 0.2575,
+      "prior_variance": 0.193768,
       "prior_n": 7
     },
     {
       "rank": 15,
-      "title": "Asaba, Delta State",
-      "path": "africa/nigeria/asaba_delta_state",
-      "prior_score": -6.1021,
-      "prior_variance": 0.27619,
-      "prior_n": 6
+      "title": "Huntington Beach",
+      "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach",
+      "prior_score": 0.552,
+      "prior_variance": 0.186511,
+      "prior_n": 8
     },
     {
       "rank": 16,
-      "title": "Vitebsk",
-      "path": "europe/belarus/vitebsk",
-      "prior_score": -2.7048,
-      "prior_variance": 0.280739,
-      "prior_n": 6
+      "title": "Fort Bragg",
+      "path": "northamerica/unitedstates/california/northcoast/fortbragg",
+      "prior_score": -1.1841,
+      "prior_variance": 0.189738,
+      "prior_n": 7
     },
     {
       "rank": 17,
-      "title": "San Gabriel",
-      "path": "asia/philippines/sangabriel",
-      "prior_score": -4.487,
-      "prior_variance": 0.259667,
-      "prior_n": 5
+      "title": "Ann Arbor",
+      "path": "northamerica/unitedstates/michigan/annarbor",
+      "prior_score": -0.1383,
+      "prior_variance": 0.233973,
+      "prior_n": 7
     },
     {
       "rank": 18,
-      "title": "Charleroi",
-      "path": "europe/belgium/charleroi",
-      "prior_score": -4.5561,
-      "prior_variance": 0.250609,
+      "title": "Szombathely",
+      "path": "europe/hungary/szombathely",
+      "prior_score": -0.8002,
+      "prior_variance": 0.208084,
       "prior_n": 7
     },
     {
       "rank": 19,
-      "title": "Hoyerswerda",
-      "path": "europe/germany/saxony/hoyerswerda",
-      "prior_score": -5.8726,
-      "prior_variance": 0.494338,
-      "prior_n": 6
-    },
-    {
-      "rank": 20,
-      "title": "Ashington",
-      "path": "europe/unitedkingdom/england/ashington",
-      "prior_score": -5.1871,
-      "prior_variance": 0.215842,
+      "title": "Pogradec",
+      "path": "europe/albania/pogradec",
+      "prior_score": -0.1708,
+      "prior_variance": 0.217332,
       "prior_n": 7
     },
     {
+      "rank": 20,
+      "title": "Fayetteville",
+      "path": "northamerica/unitedstates/westvirginia/fayetteville",
+      "prior_score": -1.4866,
+      "prior_variance": 0.242836,
+      "prior_n": 8
+    },
+    {
       "rank": 21,
-      "title": "Welland",
-      "path": "northamerica/canada/ontario/welland",
-      "prior_score": -3.7855,
-      "prior_variance": 0.250299,
-      "prior_n": 5
+      "title": "Wels",
+      "path": "europe/austria/wels",
+      "prior_score": -1.5787,
+      "prior_variance": 0.181469,
+      "prior_n": 7
     },
     {
       "rank": 22,
-      "title": "m sila",
-      "path": "africa/algeria/m_sila",
-      "prior_score": -7.1319,
-      "prior_variance": 0.265616,
-      "prior_n": 6
+      "title": "Forres",
+      "path": "europe/unitedkingdom/scotland/forres",
+      "prior_score": -0.7022,
+      "prior_variance": 0.196562,
+      "prior_n": 7
     },
     {
       "rank": 23,
-      "title": "Hasilpur",
-      "path": "asia/pakistan/islamabad/hasilpur",
-      "prior_score": -7.3111,
-      "prior_variance": 0.42888,
-      "prior_n": 5
+      "title": "Geraldton",
+      "path": "australiaandpacific/australia/westernaustralia/geraldton",
+      "prior_score": -1.6934,
+      "prior_variance": 0.183288,
+      "prior_n": 7
     },
     {
       "rank": 24,
-      "title": "Fog Lifter Caffe",
-      "path": "northamerica/unitedstates/nevada/reno/bars_and_cafes/fogliftercaffe",
-      "prior_score": -10.9517,
-      "prior_variance": 0.875501,
-      "prior_n": 6
+      "title": "Harwich",
+      "path": "europe/unitedkingdom/england/eastern_england/harwich",
+      "prior_score": -2.4974,
+      "prior_variance": 0.198262,
+      "prior_n": 7
     }
   ]
 }

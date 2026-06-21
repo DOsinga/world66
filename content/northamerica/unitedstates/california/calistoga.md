@@ -7,7 +7,7 @@ done:
 latitude: 38.578797
 loc_type: city
 longitude: -122.579705
-score: 0.53
+score: 0.48
 title: Calistoga
 type: location
 ---

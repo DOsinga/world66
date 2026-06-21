@@ -5,7 +5,7 @@ done:
 latitude: 35.628257
 loc_type: city
 longitude: 10.900133
-score: 0.35
+score: 0.28
 title: Moknine
 type: location
 image: moknine.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 40.2987
 loc_type: city
 longitude: -83.068
-score: 0.32
+score: 0.25
 title: Delaware
 type: location
 ---

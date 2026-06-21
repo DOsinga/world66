@@ -7,7 +7,7 @@ done:
 latitude: 39.96226
 loc_type: city
 longitude: -83.000707
-score: 0.42
+score: 0.34
 title: Columbus
 type: location
 ---

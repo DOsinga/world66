@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Conjunto_arquitet%C3%B4nic
 latitude: -20.385671
 loc_type: city
 longitude: -43.503617
-score: 0.68
+score: 0.57
 title: Ouro Preto
 type: location
 ---

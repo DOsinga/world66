@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Volcan-San-Pedro-Panorama.
 latitude: 14.6434
 loc_type: city
 longitude: -91.2268
-score: 0.67
+score: 0.54
 title: Santiago Atitlan
 type: location
 ---

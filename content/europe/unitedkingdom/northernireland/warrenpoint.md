@@ -5,7 +5,7 @@ done:
 latitude: 54.099992
 loc_type: city
 longitude: -6.251283
-score: 0.44
+score: 0.34
 title: Warrenpoint
 type: location
 ---

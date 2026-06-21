@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dayton,_United_States_(Uns
 latitude: 39.758948
 loc_type: city
 longitude: -84.191607
-score: 0.35
+score: 0.3
 title: Dayton
 type: location
 ---

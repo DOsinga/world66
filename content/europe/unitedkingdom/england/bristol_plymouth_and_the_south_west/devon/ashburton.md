@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ashburton_Park_-_geograph.
 latitude: 50.526735
 loc_type: city
 longitude: -3.755985
-score: 0.44
+score: 0.36
 title: Ashburton
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -7.3303
 loc_type: city
 longitude: 110.4995
-score: 0.4
+score: 0.33
 title: Salatiga
 type: location
 ---

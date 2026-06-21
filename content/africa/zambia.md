@@ -15,7 +15,7 @@ quick_facts:
   Walking Safari: Invented here
 done:
   country_cleanup: 2026-03-30
-score: 0.48
+score: 0.62
 loc_type: country
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 10.649809
 loc_type: city
 longitude: -71.64436
-score: 0.25
+score: 0.24
 title: Maracaibo
 type: location
 ---

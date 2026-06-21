@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-D
 latitude: 24.732996
 loc_type: city
 longitude: 46.573384
-score: 0.47
+score: 0.42
 title: Dir’iyah
 type: location
 ---

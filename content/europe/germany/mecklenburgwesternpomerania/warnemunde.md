@@ -6,7 +6,7 @@ latitude: 54.177904
 longitude: 12.081288
 title: Warnemünde
 type: location
-score: 0.49
+score: 0.43
 loc_type: city
 ---
 

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kloster_Michaelsberg_Parks
 latitude: 49.8916
 loc_type: city
 longitude: 10.8868
-score: 0.69
+score: 0.61
 title: Bamberg
 type: location
 ---

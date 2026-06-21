@@ -1,0 +1,200 @@
+{
+  "round": 3194,
+  "timestamp": "2026-06-13T22:35:43",
+  "model": "claude-sonnet-4-6",
+  "batch_size": 24,
+  "order": [
+    {
+      "rank": 1,
+      "title": "Oranjestad",
+      "path": "northamerica/thecaribbean/aruba/oranjestad",
+      "prior_score": 5.5868,
+      "prior_variance": 0.169799,
+      "prior_n": 10
+    },
+    {
+      "rank": 2,
+      "title": "Lille",
+      "path": "europe/france/nord/lille",
+      "prior_score": 1.0859,
+      "prior_variance": 0.159976,
+      "prior_n": 10
+    },
+    {
+      "rank": 3,
+      "title": "Madison",
+      "path": "northamerica/unitedstates/wisconsin/madison",
+      "prior_score": -0.1362,
+      "prior_variance": 0.169164,
+      "prior_n": 10
+    },
+    {
+      "rank": 4,
+      "title": "Weymouth",
+      "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth",
+      "prior_score": 0.9412,
+      "prior_variance": 0.132328,
+      "prior_n": 10
+    },
+    {
+      "rank": 5,
+      "title": "Pirna",
+      "path": "europe/germany/saxony/pirna",
+      "prior_score": 0.3578,
+      "prior_variance": 0.134842,
+      "prior_n": 10
+    },
+    {
+      "rank": 6,
+      "title": "Bejaia",
+      "path": "africa/algeria/bejaia",
+      "prior_score": -1.9077,
+      "prior_variance": 0.120318,
+      "prior_n": 11
+    },
+    {
+      "rank": 7,
+      "title": "Guaruj\u00e1",
+      "path": "southamerica/brazil/guaruja",
+      "prior_score": -1.4983,
+      "prior_variance": 0.125814,
+      "prior_n": 11
+    },
+    {
+      "rank": 8,
+      "title": "Burlington",
+      "path": "northamerica/canada/ontario/burlington",
+      "prior_score": -2.7634,
+      "prior_variance": 0.13306,
+      "prior_n": 11
+    },
+    {
+      "rank": 9,
+      "title": "Pointe-Claire",
+      "path": "northamerica/canada/quebec/pointeclaire",
+      "prior_score": -3.4845,
+      "prior_variance": 0.136814,
+      "prior_n": 10
+    },
+    {
+      "rank": 10,
+      "title": "Bloomington",
+      "path": "northamerica/unitedstates/minnesota/bloomington",
+      "prior_score": -2.5337,
+      "prior_variance": 0.124671,
+      "prior_n": 10
+    },
+    {
+      "rank": 11,
+      "title": "Coquitlam",
+      "path": "northamerica/canada/britishcolumbia/vancouver/coquitlam",
+      "prior_score": -2.9897,
+      "prior_variance": 0.140143,
+      "prior_n": 10
+    },
+    {
+      "rank": 12,
+      "title": "Juiz de Fora",
+      "path": "southamerica/brazil/juiz_de_fora",
+      "prior_score": -4.0851,
+      "prior_variance": 0.130016,
+      "prior_n": 10
+    },
+    {
+      "rank": 13,
+      "title": "Ste. Genevieve",
+      "path": "northamerica/unitedstates/missouri/stegenevieve",
+      "prior_score": -2.4632,
+      "prior_variance": 0.125956,
+      "prior_n": 11
+    },
+    {
+      "rank": 14,
+      "title": "Salgotarjan",
+      "path": "europe/hungary/salgotarjan",
+      "prior_score": -4.7269,
+      "prior_variance": 0.155874,
+      "prior_n": 10
+    },
+    {
+      "rank": 15,
+      "title": "Dapoli",
+      "path": "asia/india/maharashtra/konkan/dapoli",
+      "prior_score": -2.9277,
+      "prior_variance": 0.125798,
+      "prior_n": 10
+    },
+    {
+      "rank": 16,
+      "title": "Huntingdon",
+      "path": "europe/unitedkingdom/england/eastern_england/huntingdon",
+      "prior_score": -3.1414,
+      "prior_variance": 0.136811,
+      "prior_n": 11
+    },
+    {
+      "rank": 17,
+      "title": "Hattiesburg",
+      "path": "northamerica/unitedstates/mississippi/hattiesburg",
+      "prior_score": -4.9586,
+      "prior_variance": 0.168158,
+      "prior_n": 10
+    },
+    {
+      "rank": 18,
+      "title": "Green River",
+      "path": "northamerica/unitedstates/utah/green_river",
+      "prior_score": -3.1022,
+      "prior_variance": 0.126154,
+      "prior_n": 12
+    },
+    {
+      "rank": 19,
+      "title": "Karanprayag",
+      "path": "asia/india/uttaranchal/karanprayag",
+      "prior_score": -3.285,
+      "prior_variance": 0.132619,
+      "prior_n": 10
+    },
+    {
+      "rank": 20,
+      "title": "Yichun",
+      "path": "asia/china/jiangxi/yichun",
+      "prior_score": -4.3945,
+      "prior_variance": 0.152731,
+      "prior_n": 10
+    },
+    {
+      "rank": 21,
+      "title": "100 Mile House",
+      "path": "northamerica/canada/britishcolumbia/100milehouse",
+      "prior_score": -4.6031,
+      "prior_variance": 0.16039,
+      "prior_n": 10
+    },
+    {
+      "rank": 22,
+      "title": "Jenks",
+      "path": "northamerica/unitedstates/oklahoma/jenks",
+      "prior_score": -5.592,
+      "prior_variance": 0.189922,
+      "prior_n": 10
+    },
+    {
+      "rank": 23,
+      "title": "Tingo",
+      "path": "southamerica/peru/tingo",
+      "prior_score": -3.5763,
+      "prior_variance": 0.155792,
+      "prior_n": 10
+    },
+    {
+      "rank": 24,
+      "title": "Damghan",
+      "path": "asia/iran/damghan",
+      "prior_score": -4.7884,
+      "prior_variance": 0.158734,
+      "prior_n": 10
+    }
+  ]
+}

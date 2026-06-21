@@ -15,7 +15,7 @@ quick_facts:
   Harbour Coastline: 240 km
   Opera House Tiles: 1,056,006
   Population: 5.3 million
-score: 0.84
+score: 0.8
 title: Sydney
 type: location
 ---

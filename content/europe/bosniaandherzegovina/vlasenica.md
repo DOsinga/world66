@@ -5,7 +5,7 @@ done:
 latitude: 44.1833
 loc_type: city
 longitude: 18.9333
-score: 0.3
+score: 0.26
 title: Vlasenica
 type: location
 ---

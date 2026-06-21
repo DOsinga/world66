@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Negombo_Beach_resort_pool_
 latitude: 7.2096
 loc_type: city
 longitude: 79.8356
-score: 0.56
+score: 0.48
 title: Negombo
 type: location
 ---

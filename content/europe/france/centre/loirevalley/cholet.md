@@ -4,7 +4,7 @@ done:
 latitude: 47.061729
 loc_type: city
 longitude: -0.880136
-score: 0.43
+score: 0.36
 title: Cholet
 type: location
 ---

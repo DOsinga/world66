@@ -10,38 +10,30 @@ Every page with `type: location` also carries a `loc_type` field that describes 
 |-------|---------|---------------|
 | `continent` | The seven top-level continent pages | `europe`, `asia` |
 | `country` | Sovereign states and territories with their own page | `europe/france`, `asia/japan` |
-| `region` | The single grouping level directly below a country in large countries. For the US these are states; for other countries they are editorial or administrative groupings. Regions **contain** cities and features. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
-| `city` | Cities, towns, villages — actual settlements | `europe/france/south/paris`, `asia/india/delhi` |
-| `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. Features have their own POIs and cities nearby can tag into them. | `europe/france/south/ardeche`, `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone` |
+| `region` | The grouping level below a country in large countries. For the US these are states; elsewhere they may be editorial or administrative groupings. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
+| `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
+| `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. | `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
 
-City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
+## Hierarchy
 
-Neighbourhoods and districts within cities are not locations — they use `type: neighbourhood` and live in the parent city's directory. See [Neighbourhood tags](#neighbourhood-tags) below.
+Most location paths follow this shape:
 
-## The region level
+```text
+continent/country/[region]/city_or_feature
+```
 
-Regions are the single intermediate level between a country and its cities. Use them for countries that have enough locations to warrant grouping (roughly 100 or more cities and features).
+Regions are optional and should be used only for countries large enough to need grouping, roughly 100 or more cities and features. If a country uses regions, its ordinary cities and features should live inside one. Regions contain child cities, child features, and their own POIs for things that belong to the wider area rather than any one city.
 
-**The rule is absolute: if a country uses regions, every city and every feature lives inside a region. No cities or features sit directly at the country level.**
+There are two known exceptions:
 
-For the United States, regions are states (`california`, `texas`). For France, Italy, and similarly sized countries, they are editorial or administrative groupings (`south`, `tuscany`). The word "region" is used for all of them regardless of their political status.
+- Globally recognised capitals and major cities may sit directly below their country even when that country uses regions. Current examples include Paris, Berlin, Hamburg, and Tokyo.
+- The United Kingdom has constituent countries directly below `unitedkingdom/`, and England has its own sub-regions such as `cumbria` and `eastern_england`. Treat this as a known structural exception, not as a hierarchy violation.
 
-What a region page looks like:
-- Overview describing the area and what makes it worth visiting as a whole
-- Its own POIs for things that belong to the region but not to any specific city (a viewpoint on a mountain pass, a monument between towns)
-- Child cities and features visible in the sidebar
+Regions are named for what travelers recognise. For the United States, that means states such as `california` and `texas`; for France and Italy, it may mean editorial or administrative groupings such as `south`, `tuscany`, or `lazio`. The `loc_type` for all of these is `region`.
 
-What a region page does **not** have:
-- `eating_out`, `bars_and_cafes`, or `shopping` sections — those belong on city pages
-- Child regions — there is no third level. A region cannot contain another region.
+Cities are leaf-level settlements: they have sections, POIs, and sometimes neighbourhoods, but they do not contain other cities or features as child locations.
 
-## Features and city–feature links
-
-A feature is a named area worth visiting that is not itself a settlement: Cinque Terre, the Ardèche gorge, Normandy, Côte d'Azur, Loire Valley, Big Sur, Yellowstone. Features sit inside their parent region alongside cities.
-
-**Features can have their own POIs** — the hiking trailhead, the viewpoint, the specific beach, the small village too tiny for its own city page.
-
-**Cities link to features via `tags`**. A city that is closely associated with a feature adds the feature's slug to its tags list:
+Features are named areas that are destinations in their own right but not settlements: Cinque Terre, the Ardèche gorge, Normandy, Côte d'Azur, Loire Valley, Big Sur, Yellowstone. Features can have their own POIs. Nearby cities link to a feature by adding the feature slug to `tags`:
 
 ```yaml
 # content/europe/italy/liguria/riomaggiore.md
@@ -52,13 +44,11 @@ tags:
   - cinque_terre
 ```
 
-This is the same tag mechanism used for neighbourhood and section membership. The feature page can then surface its tagged cities. A city may tag into more than one feature if it genuinely sits within both.
+If a location is tagged `loc_type: region` but sits inside another region, it is usually a feature. The one-level region rule means places like Loire Valley, Côte d'Azur, Ardèche, and Cinque Terre should be features unless they are the country's top-level grouping.
 
-The distinction between a feature and a city:
-- **Feature**: you go *to* the area (Cinque Terre, Ardeche, Loire Valley, Normandy). The area is the draw; cities within it are the places you sleep.
-- **City**: you go *to* the place itself. It stands alone as a destination.
+City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
 
-Some places work as both — Avignon is a city but could also tag into Provence. Use judgement: if the place has a mayor and a post office, it's a city; if it's primarily a landscape or named area, it's a feature.
+Neighbourhoods and districts within cities are not locations — they use `type: neighbourhood` and live in the parent city's directory. See [Neighbourhood tags](#neighbourhood-tags) below.
 
 ## The overview page
 
@@ -203,7 +193,7 @@ These tags become filter buttons on section pages. The recognised category tags 
 
 For large cities, create neighbourhood POIs (with `type: neighbourhood` in the tags). Then tag other POIs with the neighbourhood's **slug** to make them appear on the neighbourhood page. For example, if you have a `south_beach.md` neighbourhood POI, tag restaurants and sights in that area with `south_beach`.
 
-The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page. 
+The `neighbourhood:` frontmatter field is a separate display-only property — it shows the neighbourhood name next to the POI in listings. But the **tag** is what actually collects the POI onto the neighbourhood page.
 
 When a large city has over 3 neighbourhoods they should all have images, so they render nicely.
 

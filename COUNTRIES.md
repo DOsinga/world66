@@ -13,15 +13,9 @@ The overview is the most important page. It should make someone want to visit �
 
 ## Sub-national structure
 
-Some countries are large enough to need a grouping level between the country page and individual cities. Use a region level when the country has roughly 100 or more cities and features.
+Large countries may use one region level between the country page and individual cities or features. Keep the country overview focused on the big planning picture: the regions, the major routes, and the highlights worth linking onward to.
 
-**If you add regions, every city and feature must live inside one. There are no cities or features sitting directly at the country level.**
-
-Regions are named for what travelers recognise, not for administrative boundaries. For France that means North, South, East, West, Centre; for Italy it means Tuscany, Lazio, Lombardia; for the US it means the actual states (California, Texas). The `loc_type` for all of these is `region`.
-
-Within a region, named areas that are destinations in their own right — Cinque Terre, the Loire Valley, Normandy, the Ardèche gorge — are `loc_type: feature`. Cities nearby tag into them using `tags: [feature_slug]`. See LOCATIONS.md for details.
-
-Countries that do **not** need a region level (roughly fewer than 100 locations) keep cities and features directly below the country. The Netherlands, Portugal, and Denmark are examples.
+The canonical hierarchy and `loc_type` rules live in LOCATIONS.md, including the exceptions for major country-level cities and the United Kingdom.
 
 ## Required sections
 

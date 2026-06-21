@@ -6,6 +6,8 @@ latitude: 36.191174
 loc_type: city
 longitude: 44.009414
 score: 0.3
+snippet: Kurdish regional capital built around Erbil Citadel, a six-thousand-year
+  tell rising above the modern city.
 title: Arbil
 type: location
 ---

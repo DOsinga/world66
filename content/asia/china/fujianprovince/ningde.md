@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: ningde.jpg
+image_attribution: Weiguang Teng
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Xiapu,_Ningde,_Fujian,_China_-_panoramio_(4).jpg
 latitude: 26.67
 loc_type: city
 longitude: 119.52
+score: 0.29
+snippet: Northern Fujian coastal prefecture of islands, estuaries, granite peaks,
+  and UNESCO geopark landscapes.
 sources:
 - https://en.wikivoyage.org/wiki/Ningde
 title: Ningde
 type: location
-image: ningde.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Xiapu,_Ningde,_Fujian,_China_-_panoramio_(4).jpg
-image_license: CC BY 3.0
-image_attribution: Weiguang Teng
-score: 0.29
 ---
 
 Ningde is the northernmost coastal city of Fujian, a sprawling prefecture of islands, estuaries, and mountainous interior that most visitors to the province pass through without stopping. That is a mistake. The landscape here is more varied and less developed than anywhere else on the Fujian coast, and the three scenic areas that together form the Ningde UNESCO Global Geopark are among the most visually spectacular in the province.

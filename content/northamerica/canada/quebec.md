@@ -6,6 +6,8 @@ latitude: 52.476089
 loc_type: region
 longitude: -71.825867
 score: 0.7
+snippet: French-speaking Canadian province of St. Lawrence cities, Laurentian forests,
+  Gaspé shores, and northern shield country.
 title: Québec
 type: location
 ---

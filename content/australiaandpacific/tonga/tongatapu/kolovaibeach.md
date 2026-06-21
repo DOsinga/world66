@@ -10,6 +10,8 @@ latitude: -21.0962
 loc_type: city
 longitude: -175.3552
 score: 0.4
+snippet: Western Tongatapu beach village with calm reef water, open-ocean sunsets,
+  and roosting flying foxes nearby.
 title: Kolovai Beach
 type: location
 ---

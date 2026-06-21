@@ -10,6 +10,8 @@ latitude: 41.07314
 loc_type: city
 longitude: 27.410201
 score: 0.38
+snippet: Marmara port city in Turkish Thrace, known for rakı, köfte, and surrounding
+  vineyard country.
 title: Tekirdağ
 type: location
 ---

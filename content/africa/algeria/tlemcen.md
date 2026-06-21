@@ -10,6 +10,8 @@ latitude: 34.8818
 loc_type: city
 longitude: -1.3167
 score: 0.38
+snippet: Northwestern Algerian hill city with Moorish architecture, medieval learning,
+  and Sufi shrine traditions.
 title: Tlemcen
 type: location
 ---

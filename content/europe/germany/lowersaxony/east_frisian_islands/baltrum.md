@@ -10,6 +10,8 @@ latitude: 53.728208
 loc_type: city
 longitude: 7.399482
 score: 0.41
+snippet: Tiny car-free East Frisian island of dunes, Wadden Sea flats, and a single
+  quiet village.
 title: Baltrum
 type: location
 ---

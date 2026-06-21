@@ -11,6 +11,8 @@ latitude: 31.231271
 loc_type: city
 longitude: 121.470015
 score: 0.66
+snippet: Cosmopolitan Chinese megacity where Bund-era finance houses face Pudong's
+  towers across the Huangpu.
 sources:
 - https://en.wikivoyage.org/wiki/Shanghai
 title: Shanghai

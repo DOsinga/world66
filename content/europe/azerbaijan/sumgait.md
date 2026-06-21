@@ -10,6 +10,8 @@ latitude: 40.5961
 loc_type: city
 longitude: 49.6697
 score: 0.25
+snippet: Caspian industrial city north of Baku, built around Soviet-era chemical and
+  steel plants.
 title: Sumgait
 type: location
 ---

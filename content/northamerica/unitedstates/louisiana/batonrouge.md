@@ -11,6 +11,8 @@ latitude: 30.4494
 loc_type: city
 longitude: -91.187
 score: 0.35
+snippet: Louisiana capital on the Mississippi, shaped by LSU, river industry, and
+  Huey Long's Art Deco capitol.
 title: Baton Rouge
 type: location
 ---

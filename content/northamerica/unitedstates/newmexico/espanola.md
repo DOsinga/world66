@@ -10,6 +10,8 @@ latitude: 36.0028
 loc_type: city
 longitude: -106.0578
 score: 0.28
+snippet: Northern New Mexico valley town layered with Pueblo, Spanish colonial, and
+  Rio Grande history.
 sources:
 - https://en.wikipedia.org/wiki/Espa%C3%B1ola,_New_Mexico
 title: Española

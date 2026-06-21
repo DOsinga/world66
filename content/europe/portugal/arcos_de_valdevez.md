@@ -9,6 +9,8 @@ latitude: 41.8472
 loc_type: city
 longitude: -8.4179
 score: 0.41
+snippet: Minho market town on the Vez River, backed by terraced vineyards and Peneda-Gerês
+  highlands.
 title: Arcos de Valdevez
 type: location
 ---

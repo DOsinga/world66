@@ -10,6 +10,8 @@ latitude: 57.290059
 loc_type: city
 longitude: -6.174426
 score: 0.52
+snippet: Skye hamlet at Glen Sligachan, the classic walking gateway into the Black
+  Cuillin.
 title: Sligachan
 type: location
 ---

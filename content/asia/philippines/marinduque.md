@@ -10,6 +10,8 @@ latitude: 13.4167
 loc_type: city
 longitude: 121.95
 score: 0.41
+snippet: Heart-shaped Philippine island of fishing villages, quiet beaches, and the
+  masked Moriones Holy Week festival.
 title: Marinduque
 type: location
 ---

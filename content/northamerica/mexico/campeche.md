@@ -10,6 +10,8 @@ latitude: 19.8482
 loc_type: city
 longitude: -90.5259
 score: 0.56
+snippet: Fortified Gulf of Mexico city with pastel colonial streets, pirate history,
+  and surviving Spanish walls.
 title: Campeche
 type: location
 ---

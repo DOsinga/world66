@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 46.8543
+loc_type: feature
 longitude: -121.7063
+score: 0.6
+snippet: Washington national park centred on glaciated Mount Rainier, with old-growth
+  forest and wildflower meadows.
 title: Mt. Rainier National Park
 type: location
-score: 0.6
-loc_type: feature
 ---
 
 Mount Rainier National Park protects a 14,411-foot active volcano encased in over 35 square miles of glacial ice, surrounded by old-growth forest and wildflower meadows. It is about two hours from [Seattle](/northamerica/unitedstates/washington/seattle) and no visit to Washington State should miss it.

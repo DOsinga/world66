@@ -10,6 +10,8 @@ latitude: 38.246242
 loc_type: city
 longitude: 21.735085
 score: 0.47
+snippet: Greek port city linking the Peloponnese with Italy, known for carnival and
+  a hilltop castle.
 title: Patras
 type: location
 ---

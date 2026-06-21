@@ -6,6 +6,8 @@ latitude: 6.8541
 loc_type: city
 longitude: 158.2624
 score: 0.43
+snippet: Rain-soaked Micronesian island of rivers, waterfalls, dense forest, and the
+  basalt ruins of Nan Madol.
 title: Pohnpei
 type: location
 ---

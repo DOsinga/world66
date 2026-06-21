@@ -6,6 +6,8 @@ latitude: 8.4937
 loc_type: city
 longitude: -77.9811
 score: 0.17
+snippet: Darién Province town near the Pan-American Highway's jungle end, used for
+  supplies and onward logistics.
 title: Meteti
 type: location
 ---

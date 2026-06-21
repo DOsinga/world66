@@ -6,6 +6,8 @@ latitude: 13.5127
 loc_type: city
 longitude: 2.1128
 score: 0.25
+snippet: Nigerien capital on a bend of the Niger River, where Sahelian trade fills
+  open-air markets.
 title: Niamey
 type: location
 ---

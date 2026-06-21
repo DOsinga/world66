@@ -6,6 +6,8 @@ latitude: 47.5374
 loc_type: city
 longitude: -116.1246
 score: 0.32
+snippet: Former Idaho silver-mining town in the Silver Valley, tied to the long-lived
+  Bunker Hill complex.
 title: Kellogg
 type: location
 ---

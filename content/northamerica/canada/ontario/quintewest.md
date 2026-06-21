@@ -10,6 +10,8 @@ latitude: 44.098825
 loc_type: city
 longitude: -77.574855
 score: 0.3
+snippet: Bay of Quinte city where the Trent River meets Lake Ontario and the Trent-Severn
+  begins.
 title: Quinte West
 type: location
 ---

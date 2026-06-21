@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Limoges_Cath%C3%A9drale_Sa
 latitude: 45.8305
 loc_type: city
 longitude: 1.2608
+score: 0.44
+snippet: Modest Limousin city on the Massif Central's western slopes, known worldwide
+  for hard-paste porcelain.
 sources:
 - https://en.wikipedia.org/wiki/Limoges
 - https://en.wikivoyage.org/wiki/Limoges
 title: Limoges
 type: location
-score: 0.44
 ---
 
 Limoges is the kind of French city that tends to be dismissed by travellers in a hurry — a modest prefectural town on the western slopes of the Massif Central, more familiar as an adjective than as a destination. That is their loss. The city has a fine Gothic cathedral, a museum of porcelain that is among the best of its kind in the world, and an old town of real character built on the hinge between two ancient rival settlements.

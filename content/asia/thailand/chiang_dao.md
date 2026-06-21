@@ -12,6 +12,8 @@ latitude: 19.3696
 loc_type: city
 longitude: 98.9657
 score: 0.53
+snippet: Northern Thai valley town beneath Doi Luang Chiang Dao, known for caves,
+  hot springs, and dark skies.
 title: Chiang Dao
 type: location
 ---

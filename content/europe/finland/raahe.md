@@ -10,6 +10,8 @@ latitude: 64.684531
 loc_type: city
 longitude: 24.481635
 score: 0.32
+snippet: Gulf of Bothnia coastal city with a preserved wooden old town and shipbuilding
+  port history.
 title: Raahe
 type: location
 ---

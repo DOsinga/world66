@@ -10,6 +10,8 @@ latitude: 36.974363
 loc_type: city
 longitude: -122.029467
 score: 0.51
+snippet: Northern Monterey Bay beach city with a historic boardwalk and a strong counterculture
+  streak.
 title: Santa Cruz
 type: location
 ---

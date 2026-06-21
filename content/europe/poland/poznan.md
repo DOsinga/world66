@@ -10,6 +10,8 @@ latitude: 52.4064
 loc_type: city
 longitude: 16.9252
 score: 0.48
+snippet: Historic Polish university city where Cathedral Island origins meet a colourful
+  Old Market Square.
 title: Poznan
 type: location
 ---

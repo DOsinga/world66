@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
 image: ceibal.jpg
-image_license: CC BY-SA 3.0
 image_attribution: Unknown
+image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Ruines_El_Ceibal.JPG
 latitude: 16.4167
 loc_type: city
 longitude: -90.1667
 score: 0.42
+snippet: Petén jungle Maya site on the Río de la Pasión, noted for exceptional Late
+  Classic stelae.
 title: Ceibal
 type: location
 ---

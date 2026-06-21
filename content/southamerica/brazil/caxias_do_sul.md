@@ -10,6 +10,8 @@ latitude: -29.1685
 loc_type: city
 longitude: -51.1796
 score: 0.33
+snippet: Serra Gaúcha city shaped by Veneto immigration, vineyards, and southern Brazil's
+  Festa da Uva.
 title: Caxias do Sul
 type: location
 ---

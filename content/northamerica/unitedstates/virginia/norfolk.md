@@ -10,6 +10,8 @@ latitude: 36.84937
 loc_type: city
 longitude: -76.289954
 score: 0.38
+snippet: Hampton Roads naval city with a downtown waterfront and Naval Station Norfolk
+  shaping its northern edge.
 title: Norfolk
 type: location
 ---

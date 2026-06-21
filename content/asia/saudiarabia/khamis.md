@@ -10,6 +10,8 @@ latitude: 18.3
 loc_type: city
 longitude: 42.733333
 score: 0.19
+snippet: Highland Asir city named for its Thursday market, where mountain traders
+  gather with produce and honey.
 title: Khamis
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 41.5623
 loc_type: city
 longitude: -72.6509
 score: 0.29
+snippet: Connecticut River university town shaped by Wesleyan, a lively Main Street,
+  and old riverfront layers.
 title: Middletown
 type: location
 ---

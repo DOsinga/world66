@@ -4,6 +4,7 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:12.7.01ViewFromEmpireStateBuildingbyLuigiNovi2.jpg
 latitude: 40.7549
 longitude: -73.984
+snippet: Dense business district with the Empire State Building, MoMA, Grand Central, and Times Square
 tags:
 - things_to_do
 - neighbourhood

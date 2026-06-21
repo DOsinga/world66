@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:105-113_Wooster.jpg
 latitude: 40.7233
 longitude: -73.9978
+snippet: Manhattan's cast-iron architecture district, now its primary destination for international fashion retail
 tags:
 - things_to_do
 - neighbourhood

@@ -5,6 +5,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tetsugaku_no_Michi_01.JPG
 latitude: 35.027
 longitude: 135.7943
 score: 8.5
+snippet: Quiet two-kilometre canal towpath under cherry trees, linking Nanzen-ji and Ginkaku-ji temples
 tags:
 - things_to_do
 - sight

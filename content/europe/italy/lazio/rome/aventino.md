@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Giardino_degli_aranci_(Roma).jpg
 latitude: 41.882
 longitude: 12.481
+snippet: Quiet hilltop neighbourhood of monasteries and villas, with Rome's finest panoramic city view
 tags:
 - things_to_do
 - neighbourhood

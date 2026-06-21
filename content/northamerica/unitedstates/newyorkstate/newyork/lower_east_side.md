@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:135_Bowery.jpg
 latitude: 40.7153
 longitude: -73.9863
+snippet: Historic immigrant tenement district turned nightlife hub, home to Katz's Deli and Russ & Daughters
 tags:
 - things_to_do
 - neighbourhood

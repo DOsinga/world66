@@ -4,6 +4,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Pantheon-Exterior-Front-Rome.jpg
 latitude: 41.8992
 longitude: 12.473
+snippet: Rome's dense historic core, home to the Pantheon, Piazza Navona, and centuries-old espresso bars
 tags:
 - things_to_do
 - neighbourhood

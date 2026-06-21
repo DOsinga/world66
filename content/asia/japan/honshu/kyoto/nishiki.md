@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Nishiki_Ichiba-1.jpg
 latitude: 35.0047
 longitude: 135.7644
+snippet: Centuries-old covered food market giving way to Kyoto's densest ramen and izakaya district
 tags:
 - things_to_do
 - neighbourhood

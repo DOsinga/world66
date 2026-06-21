@@ -4,6 +4,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Congregation_Darech_Amuno,_Charles_Street,_West_Village_(7247505634).jpg
 latitude: 40.7335
 longitude: -74.0057
+snippet: Tangled colonial-era lanes of preserved brownstones, the Stonewall Inn, and gentrified boutique shopping
 tags:
 - things_to_do
 - neighbourhood

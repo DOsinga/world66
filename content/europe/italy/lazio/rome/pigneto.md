@@ -4,6 +4,7 @@ image_license: Public Domain
 image_source: https://commons.wikimedia.org/wiki/File:Guerrilla_gardening_in_Pigneto_(Rome).JPG
 latitude: 41.889
 longitude: 12.529
+snippet: Working-class quarter turned aperitivo hotspot, with street art and a weekend farmers' market
 tags:
 - things_to_do
 - neighbourhood

@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Brooklyn_Heights_Promenade_NY1.jpg
 latitude: 40.6971
 longitude: -73.9937
+snippet: New York's first historic district, with 19th-century rowhouses and a promenade overlooking Manhattan
 tags:
 - things_to_do
 - neighbourhood

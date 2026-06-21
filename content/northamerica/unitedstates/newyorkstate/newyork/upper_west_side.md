@@ -4,6 +4,7 @@ image_license: CC0 1.0
 image_source: https://commons.wikimedia.org/wiki/File:106st_Columbus_Av_jeh.jpg
 latitude: 40.787
 longitude: -73.9754
+snippet: Leafy residential district between two parks, home to Zabar's, Lincoln Center, and the Natural History Museum
 tags:
 - things_to_do
 - neighbourhood

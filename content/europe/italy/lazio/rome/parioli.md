@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Rome-villa-borghese-gardens.jpg
 latitude: 41.92
 longitude: 12.481
+snippet: Old-money residential district above Villa Borghese, with embassies, tree-lined avenues, and the Bioparco zoo
 tags:
 - things_to_do
 - neighbourhood

@@ -4,6 +4,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kyoto_Schrein_Fushimi-Inari-taisha_Torii_18.jpg
 latitude: 34.949
 longitude: 135.773
+snippet: Historic sake-brewing canal town beneath thousands of vermilion torii gates climbing Inari-san
 tags:
 - things_to_do
 - neighbourhood

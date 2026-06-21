@@ -4,6 +4,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Nijo_Castle_01.JPG
 latitude: 35.0142
 longitude: 135.7481
+snippet: Castle district with craft workshops, the Nishiki wholesale food trade, and renowned kaiseki restaurants
 tags:
 - things_to_do
 - neighbourhood

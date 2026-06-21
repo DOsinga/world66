@@ -4,6 +4,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Esquilino_da_s_M_Maggiore_1240961.JPG
 latitude: 41.896
 longitude: 12.502
+snippet: Rome's most multicultural quarter, with Santa Maria Maggiore and a sprawling daily street market
 tags:
 - things_to_do
 - neighbourhood

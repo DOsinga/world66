@@ -3,7 +3,7 @@ address: 107 East Charleston Boulevard
 latitude: 36.1655
 longitude: -115.1548
 score: 7.0
-snippet: Multi-tenant creative complex anchoring the 18b Arts District
+snippet: Multi-tenant creative complex of galleries and studios anchoring the 18b Arts District
 tags:
 - things_to_do
 - sight

@@ -3,7 +3,7 @@ address: 3708 Las Vegas Boulevard South (The Cosmopolitan)
 latitude: 36.1096
 longitude: -115.1758
 score: 7.8
-snippet: James Bond-themed cocktail bar named for Ian Fleming's original martini recipe
+snippet: James Bond-themed cocktail bar at the Cosmopolitan, named for Ian Fleming's original martini recipe
 tags:
 - bars_and_cafes
 - bar

@@ -3,7 +3,7 @@ address: 124 South 11th Street
 latitude: 36.1632
 longitude: -115.1451
 score: 7.3
-snippet: Arts District live music venue and bar in a converted house
+snippet: Arts District live music venue and bar in a converted house, dive-bar atmosphere
 tags:
 - bars_and_cafes
 - bar

@@ -3,7 +3,7 @@ address: 1025 South Main Street
 latitude: 36.1596
 longitude: -115.1536
 score: 7.0
-snippet: Craft brewery and taproom in the heart of the Arts District
+snippet: Craft brewery and taproom in the heart of the Arts District, rotating small-batch beers
 tags:
 - bars_and_cafes
 - bar

@@ -3,7 +3,7 @@ address: 1140 South Las Vegas Boulevard
 latitude: 36.1601
 longitude: -115.1511
 score: 7.0
-snippet: Low-key Arts District dive bar with good whiskey and no pretension
+snippet: Low-key Arts District dive bar with a good whiskey selection and no pretension at all
 tags:
 - bars_and_cafes
 - bar

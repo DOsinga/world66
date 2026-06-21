@@ -3,7 +3,7 @@ address: 519 South 6th Street
 latitude: 36.1649
 longitude: -115.149
 score: 7.5
-snippet: Independent bookshop and literary hub in the Arts District
+snippet: Independent bookshop and literary hub in the Arts District, hosting frequent readings and events
 tags:
 - shopping
 - shop

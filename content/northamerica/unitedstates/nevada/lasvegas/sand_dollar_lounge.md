@@ -3,7 +3,7 @@ address: 3355 Spring Mountain Road
 latitude: 36.1259
 longitude: -115.1852
 score: 7.5
-snippet: The oldest blues bar in Las Vegas, open since 1976
+snippet: Oldest blues bar in Las Vegas, open since 1976 with live music most nights
 tags:
 - bars_and_cafes
 - bar

@@ -3,7 +3,7 @@ address: 3775 Spring Mountain Road
 latitude: 36.1183
 longitude: -115.1954
 score: 8.3
-snippet: Omakase sushi counter doing Edo-style nigiri in Las Vegas Chinatown
+snippet: Omakase sushi counter doing Edo-style nigiri in Las Vegas Chinatown, seasonal fish flown in
 tags:
 - eating_out
 - restaurant

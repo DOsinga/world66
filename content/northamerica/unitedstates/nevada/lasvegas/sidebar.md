@@ -3,7 +3,7 @@ address: 201 North 3rd Street
 latitude: 36.1714
 longitude: -115.1437
 score: 7.5
-snippet: Downtown craft cocktail bar preferred by local bartenders
+snippet: Downtown craft cocktail bar preferred by local bartenders on their own nights off
 tags:
 - bars_and_cafes
 - bar

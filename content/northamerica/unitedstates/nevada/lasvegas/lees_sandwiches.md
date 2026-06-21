@@ -3,7 +3,7 @@ address: 4646 Spring Mountain Road
 latitude: 36.1172
 longitude: -115.2044
 score: 6.8
-snippet: Vietnamese-American sandwich chain with the best banh mi in Las Vegas
+snippet: Vietnamese-American sandwich chain widely regarded as having the best banh mi in Las Vegas
 tags:
 - eating_out
 - restaurant

@@ -3,7 +3,7 @@ address: 3420 Spring Mountain Road
 latitude: 36.1185
 longitude: -115.2018
 score: 7.5
-snippet: Cantonese and Shanghainese restaurant famous for its xiao long bao
+snippet: Cantonese and Shanghainese restaurant in Chinatown, famous for its handmade xiao long bao
 tags:
 - eating_out
 - restaurant

@@ -3,7 +3,7 @@ address: 3910 Spring Mountain Road
 latitude: 36.1181
 longitude: -115.1967
 score: 7.0
-snippet: Japanese ramen chain with a polished Chinatown outpost
+snippet: Japanese ramen chain with a polished Chinatown outpost, rich tonkotsu broth specialty
 tags:
 - eating_out
 - restaurant

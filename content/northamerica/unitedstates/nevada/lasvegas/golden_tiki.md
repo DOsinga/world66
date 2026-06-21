@@ -3,8 +3,7 @@ address: 3939 Spring Mountain Road
 latitude: 36.1181
 longitude: -115.197
 score: 7.8
-snippet: Elaborate tiki bar in Chinatown with hand-crafted cocktails and immersive
-  decor
+snippet: Elaborate tiki bar in Chinatown with hand-crafted cocktails and an immersive volcano-themed interior
 tags:
 - bars_and_cafes
 - bar

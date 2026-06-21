@@ -3,7 +3,7 @@ address: 4215 Spring Mountain Road
 latitude: 36.1178
 longitude: -115.1988
 score: 7.3
-snippet: Hong Kong-style dim sum and live seafood in Las Vegas Chinatown
+snippet: Hong Kong-style dim sum and live seafood tanks in Las Vegas Chinatown, cart service
 tags:
 - eating_out
 - restaurant

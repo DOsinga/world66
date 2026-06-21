@@ -3,7 +3,7 @@ address: 3713 West Sahara Avenue
 latitude: 36.1412
 longitude: -115.1884
 score: 8.2
-snippet: Pre-Prohibition cocktail bar that changed the Las Vegas bar scene
+snippet: Pre-Prohibition cocktail bar widely credited with changing the Las Vegas bar scene
 tags:
 - bars_and_cafes
 - bar

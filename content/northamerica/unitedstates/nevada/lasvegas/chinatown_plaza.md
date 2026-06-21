@@ -3,7 +3,7 @@ address: 4255 Spring Mountain Road
 latitude: 36.1177
 longitude: -115.1991
 score: 6.5
-snippet: The original Las Vegas Chinatown shopping centre, opened in 1995
+snippet: Original Las Vegas Chinatown shopping centre, opened in 1995 and still the anchor
 tags:
 - shopping
 - shop

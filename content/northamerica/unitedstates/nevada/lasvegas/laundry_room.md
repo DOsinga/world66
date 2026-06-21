@@ -3,7 +3,7 @@ address: 1 Fremont Street (Commonwealth)
 latitude: 36.1706
 longitude: -115.1438
 score: 8.0
-snippet: Reservation-only speakeasy hidden inside the Commonwealth bar downtown
+snippet: Reservation-only speakeasy hidden inside the Commonwealth bar downtown, behind an unmarked door
 tags:
 - bars_and_cafes
 - bar

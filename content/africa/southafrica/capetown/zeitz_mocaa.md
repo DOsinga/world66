@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9082
 longitude: 18.4225
-neighbourhood: V&A Waterfront
+score: 8.8
 scores:
   activities: 0.6052
   museum: 0.7291
@@ -21,7 +20,6 @@ tags:
 - waterfront
 title: Zeitz MOCAA
 type: poi
-score: 8.8
 ---
 
 The Zeitz Museum of Contemporary Art Africa opened in 2017 in a sensationally repurposed grain silo on the V&A Waterfront. The architecture alone is worth the visit: Heatherwick Studio carved an atrium out of the bundled concrete silos, glazed the top, and left the cross-sections of the original tubes visible all the way up — the most photographed museum interior in the country.

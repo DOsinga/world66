@@ -2,17 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
+image: mikkeli.jpg
+image_attribution: Jyri Tiusanen
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Mikkeli_%22Skyline%22_at_dusk.jpg
 latitude: 61.687782
+loc_type: city
 longitude: 27.273192
+score: 0.38
+snippet: Eastern Finnish lakeland town with wartime headquarters history and easy
+  access to Saimaa forests and lakes.
 title: Mikkeli
 type: location
-score: 0.38
-loc_type: city
-image: mikkeli.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Mikkeli_%22Skyline%22_at_dusk.jpg
-image_license: CC BY 2.0
-image_attribution: Jyri Tiusanen
-snippet: "Eastern Finnish lakeland town with wartime headquarters history and easy access to Saimaa forests and lakes."
 ---
 
 Mikkeli is a lakeland town in eastern Finland, a natural base for exploring the astonishing rural scenery of the Saimaa lake district. The town itself is small and quiet, but the surrounding landscape of forests, lakes, and hiking trails is the real draw.

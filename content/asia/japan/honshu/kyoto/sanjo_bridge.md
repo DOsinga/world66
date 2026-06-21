@@ -1,15 +1,17 @@
 ---
-latitude: 35.0090
+latitude: 35.009
 longitude: 135.7717
-snippet: Historic bridge over the Kamo River; eastern end of the Tōkaidō road from Tokyo
+score: 6.2
+snippet: Historic bridge over the Kamo River; eastern end of the Tōkaidō road from
+  Tokyo
 tags:
 - things_to_do
 - bridge
 - historic_site
 - sight
+- gion
 title: Sanjō Ōhashi
 type: poi
-score: 6.2
 ---
 
 Sanjō Ōhashi is the central bridge across the Kamo River where it crosses Sanjō-dōri, and historically it was the official terminus of the Tōkaidō — the great Edo-period road from Tokyo (then Edo) that took travellers fifty-three days to walk. A small bronze marker on the western abutment commemorates the spot. The current bridge is a 1950 concrete reconstruction with wooden balustrades, faithful to the early-modern design.

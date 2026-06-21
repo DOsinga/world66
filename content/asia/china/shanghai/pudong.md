@@ -1,14 +1,18 @@
 ---
-title: "Pudong"
-type: poi
-category: "Neighbourhood"
+category: Neighbourhood
+image: pudong.jpg
+image_attribution: King of Hearts
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017.jpg
 latitude: 31.2304
-longitude: 121.5400
-snippet: "Shanghai's futuristic skyline district, farmland until 1990"
+longitude: 121.54
+score: 7.8
+snippet: Shanghai's futuristic skyline district, farmland until 1990
 tags:
 - things_to_do
 - neighbourhood
-score: 7.8
+title: Pudong
+type: neighbourhood
 ---
 
 Until 1990 this was farmland and warehouses across the river from old Shanghai. Today it is the city's financial showpiece, anchored by Lujiazui — the cluster of supertall towers visible from the Bund. The Shanghai Tower (632 m), Shanghai World Financial Center (the "bottle opener") and Jin Mao Tower stand shoulder to shoulder; all three have observation decks, and the Shanghai Tower's is the highest in the world. Below them, the elevated walkways of Lujiazui make a pleasant if surreal stroll. Pudong also holds the Shanghai Disneyland resort and the Pudong international airport.

@@ -1,11 +1,20 @@
 ---
-title: Vor Frelsers Kirke
-type: poi
-tags: [things_to_do, sight, architecture]
 latitude: 55.6724
 longitude: 12.5993
-story: "The external staircase spiralling up the spire has 400 steps and narrows steadily towards the gilded globe at the top, where the final section is only wide enough for one person at a time. According to local legend, the architect threw himself off the top when he realised he had built the spiral in the wrong direction — it goes anti-clockwise rather than clockwise. The story is apocryphal; the architect lived for another ten years."
 score: 9.0
+story: The external staircase spiralling up the spire has 400 steps and narrows steadily
+  towards the gilded globe at the top, where the final section is only wide enough
+  for one person at a time. According to local legend, the architect threw himself
+  off the top when he realised he had built the spiral in the wrong direction — it
+  goes anti-clockwise rather than clockwise. The story is apocryphal; the architect
+  lived for another ten years.
+tags:
+- things_to_do
+- sight
+- architecture
+- christianshavn
+title: Vor Frelsers Kirke
+type: poi
 ---
 
 The Church of Our Saviour in Christianshavn is famous for its golden corkscrew spire, which winds up 90 metres and is climbed on an external staircase open to visitors. The views from the top are among the best in Copenhagen — the harbour, the old city, the flat Danish landscape stretching in every direction.

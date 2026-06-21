@@ -10,6 +10,8 @@ latitude: 10.4394
 loc_type: city
 longitude: -85.7893
 score: 0.53
+snippet: Upscale Pacific beach town in Guanacaste with a full-service marina and access
+  to the Catalina Islands for diving.
 title: Playa Flamingo
 type: location
 snippet: "Guanacaste beach town on a white-sand crescent, known for marina-based sportfishing."

@@ -1,0 +1,5 @@
+northamerica/unitedstates/florida/miami
+europe/hungary/budapest
+southamerica/brazil/riodejaneiro
+asia/southkorea/seoul
+europe/czechrepublic/prague

@@ -10,6 +10,8 @@ latitude: 47.9929
 loc_type: city
 longitude: -84.774
 score: 0.32
+snippet: Small Canadian Shield town on the Trans-Canada Highway, famous for its giant
+  goose statue and access to Lake Superior wilderness.
 title: Wawa
 type: location
 snippet: Northern Ontario lakefront town marked by its giant goose and Canadian Shield

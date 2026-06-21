@@ -3,6 +3,7 @@ address: Piazza di Sant'Eustachio 82, 00186 Rome
 latitude: 41.8985
 longitude: 12.4737
 opening_hours: Daily 07:30–01:00
+score: 7.6
 snippet: Rome's most revered espresso bar, roasting on-site since 1938
 tags:
 - 48 Hours in Rome
@@ -11,9 +12,9 @@ tags:
 - bar
 - square
 - cafe
+- pantheon_navona
 title: Sant'Eustachio il Caffè
 type: poi
-score: 7.6
 ---
 
 Rome's most revered espresso bar, open since 1938, located between Piazza Navona and the Pantheon. Famous for its gran caffè — espresso pre-sweetened and blended using a secret recipe — which is served to every customer unless you specifically request it without sugar (ask for *amaro*). The coffee is roasted on-site and the result is consistently excellent.

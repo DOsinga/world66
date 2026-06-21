@@ -1,15 +1,23 @@
 ---
-title: "Nilometer"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - museum
 latitude: 29.9964
 longitude: 31.2275
-story: >
-  The Nilometer on Rhoda Island was used for thousands of years to measure the annual Nile flood. A good flood — somewhere between 16 and 24 cubits on the graduated column — meant a productive harvest and prosperity; too low meant drought and famine; too high meant catastrophic flooding. The measurements were so economically critical that they were kept secret by the state, and the priest who read the level was sworn to reveal it only to the ruler. Tax rates were set according to the flood level.
 score: 7.4
+snippet: Ancient stone column on Rhoda Island used for millennia to measure the Nile's
+  flood level
+story: 'The Nilometer on Rhoda Island was used for thousands of years to measure the
+  annual Nile flood. A good flood — somewhere between 16 and 24 cubits on the graduated
+  column — meant a productive harvest and prosperity; too low meant drought and famine;
+  too high meant catastrophic flooding. The measurements were so economically critical
+  that they were kept secret by the state, and the priest who read the level was sworn
+  to reveal it only to the ruler. Tax rates were set according to the flood level.
+
+  '
+tags:
+- things_to_do
+- sight
+- museum
+title: Nilometer
+type: poi
 ---
 
 The Nilometer on Rhoda Island, in the southern Nile, is one of the oldest intact Islamic structures in Egypt, dating from 861 AD though built on the site of earlier Pharaonic and Byzantine measuring devices. It consists of a graduated octagonal column in a pit connected by tunnel to the Nile, so that the water level could be read precisely each year.

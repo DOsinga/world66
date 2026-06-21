@@ -1,13 +1,15 @@
 ---
-title: "Madam Kwan's"
-type: poi
-latitude: 3.1500
+latitude: 3.15
 longitude: 101.7159
-tags:
-  - eating_out
-  - klcc
-  - restaurant
 score: 5.9
+snippet: Malaysian restaurant known for nasi bojari, roti jala, and traditional laksa,
+  popular with locals since 1994
+tags:
+- eating_out
+- restaurant
+- klcc
+title: Madam Kwan's
+type: poi
 ---
 
 A reliable mid-priced Malaysian restaurant chain that started in 1999 and is now a fixture in most of the city's bigger malls. The Suria KLCC branch is the original. The menu sticks to the Malaysian classics done well — nasi lemak (with chicken curry, beef rendang or grilled chicken), nasi bojari with the rainbow rice, char kuey teow, and a strong drinks list of fresh juices and the iced jelly drink cendol.

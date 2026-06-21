@@ -1,13 +1,14 @@
 ---
 latitude: 23.1411
 longitude: -82.3589
+score: 7.9
 snippet: Cuban revolution history in the former Presidential Palace
 tags:
 - things_to_do
 - museum
+- habana_vieja
 title: Museo de la Revolución
 type: poi
-score: 7.9
 ---
 
 The Museum of the Revolution occupies the former Presidential Palace on Refugio Street, an eclectic building completed in 1920 by Cuban architect Maruri and Belgian architect Jean Beleu. It served as the seat of the Cuban government for forty years, witnessing some of the most turbulent chapters in the country's history.

@@ -1,17 +1,20 @@
 ---
 latitude: 35.0344
 longitude: 135.7184
+score: 8.5
 snippet: Kyoto's most famous Zen rock garden
-story: "From any angle on the viewing veranda, you can see fourteen of Ryōan-ji's fifteen stones — never all fifteen at once. The arrangement was deliberate: in Buddhist symbolism, only enlightenment lets you see the whole."
+story: 'From any angle on the viewing veranda, you can see fourteen of Ryōan-ji''s
+  fifteen stones — never all fifteen at once. The arrangement was deliberate: in Buddhist
+  symbolism, only enlightenment lets you see the whole.'
 tags:
 - things_to_do
 - temple
 - garden
 - unesco
 - sight
+- nijo
 title: Ryōan-ji
 type: poi
-score: 8.5
 ---
 
 Ryōan-ji holds the most famous *karesansui* — dry landscape garden — in Japan and arguably in the world. A rectangular bed of carefully raked white gravel, about the size of a tennis court, holds fifteen mossy rocks in five groups. There are no plants and no water. The garden's date and authorship are uncertain (most likely late fifteenth century), and its meaning has been debated for as long as it has existed.

@@ -3,6 +3,7 @@ address: Piazza di Spagna, 00187 Rome
 admission: Free
 latitude: 41.906
 longitude: 12.4832
+score: 6.8
 snippet: Iconic 135-step staircase connecting two famous Roman squares
 tags:
 - 48 Hours in Rome
@@ -12,9 +13,9 @@ tags:
 - church
 - monument
 - square
+- pantheon_navona
 title: Spanish Steps
 type: poi
-score: 6.8
 ---
 
 A monumental staircase of 135 steps built in 1725, connecting Piazza di Spagna below to the French church of Trinità dei Monti above. At the base, Bernini's father Pietro designed the boat-shaped Barcaccia fountain (1627). One of Rome's most recognisable spaces and a natural gathering point.

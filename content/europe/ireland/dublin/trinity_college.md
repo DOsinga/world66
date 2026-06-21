@@ -5,14 +5,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 53.344416
 longitude: -6.258956
+score: 9.0
 snippet: Ireland's oldest university, home to the Book of Kells
 tags:
 - things_to_do
 - sight
+- trinity_college_area
 title: Trinity College
 type: poi
 url: www.tcd.ie
-score: 9.0
 ---
 
 Founded in 1592, Trinity College is the sole constituent college of the University of Dublin and the oldest university in Ireland. The campus covers about 40 acres right in the centre of the city — cobbled squares, green lawns, and buildings spanning three centuries of architecture.

@@ -8,6 +8,7 @@ snippet: Charming collection of dolls from around the world
 tags:
 - things_to_do
 - museum
+- old_delhi
 title: Dolls Museum
 type: poi
 score: 5.6

@@ -1,14 +1,15 @@
 ---
 latitude: 35.0064
 longitude: 135.7669
+score: 7.7
 snippet: Long covered shopping arcade running north from Shijō
 tags:
 - things_to_do
 - shopping
 - sight
+- nishiki
 title: Teramachi-dōri
 type: poi
-score: 7.7
 ---
 
 Teramachi-dōri ("temple-town street") runs north from Shijō for about five kilometres along the line of what was once Kyoto's eastern boundary. Toyotomi Hideyoshi forcibly relocated more than eighty temples here in the late sixteenth century — the source of the street's name — and a handful are still tucked between the shops. The central covered arcade between Shijō and Oike is the busiest section, with three blocks of small specialist shops: secondhand bookstores, traditional stationery and brush shops, paper crafts, kimono accessories, antique dealers, and the occasional gallery.

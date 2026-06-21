@@ -1,10 +1,17 @@
 ---
-title: Vesterbro
-type: poi
-tags: [things_to_do, neighbourhood]
-latitude: 55.6680
-longitude: 12.5500
-score: 8.2
+image: vesterbro.jpg
+image_attribution: Mikkel Houmøller
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vesterbro_Torv.jpg
+latitude: 55.668
+longitude: 12.55
+snippet: 'Copenhagen''s gritty-turned-hip quarter: immigrant kitchens, indie bars,
+  and Kødbyen''s food scene'
+tags:
+- things_to_do
+- neighbourhood
+title: Vesterbro and Meatpacking District
+type: neighbourhood
 ---
 
 Vesterbro, southwest of the city centre, was Copenhagen's roughest working-class neighbourhood for most of the 20th century — a red-light district of cheap hotels and meatpacking plants. It has been gentrified steadily since the 1990s and is now one of the hippest areas in the city, but it still has edges that keep it from becoming sterile.

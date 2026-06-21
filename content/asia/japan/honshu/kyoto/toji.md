@@ -1,15 +1,17 @@
 ---
-latitude: 34.9810
+latitude: 34.981
 longitude: 135.7475
-snippet: Esoteric Buddhist temple south of Kyoto Station, with the tallest wooden pagoda in Japan
+score: 8.0
+snippet: Esoteric Buddhist temple south of Kyoto Station, with the tallest wooden
+  pagoda in Japan
 tags:
 - things_to_do
 - temple
 - unesco
 - sight
+- nishiki
 title: Tō-ji
 type: poi
-score: 8.0
 ---
 
 Tō-ji ("East Temple") was founded in 796, just after the imperial capital was moved to Kyoto, as one of two great temples flanking the city's southern entrance gate. It was given to the monk Kūkai — better known as Kōbō Daishi, founder of the esoteric Shingon school — in 823, and has been a centre of Shingon practice and Buddhist art ever since.

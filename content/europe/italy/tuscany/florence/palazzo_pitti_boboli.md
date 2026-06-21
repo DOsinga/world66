@@ -4,6 +4,7 @@ admission: €16 full; gardens included; free first Sun of month
 latitude: 43.7648
 longitude: 11.2501
 opening_hours: Tue–Sun 08:15–18:30; closed Mon
+score: 8.7
 snippet: Medici palace with Raphael and Titian, plus monumental Italian gardens
 tags:
 - 3 Days in Florence
@@ -12,10 +13,10 @@ tags:
 - palace
 - park
 - monument
+- oltrarno
 title: Palazzo Pitti & Boboli Gardens
 type: poi
 url: www.uffizi.it/en/pitti-palace
-score: 8.7
 ---
 
 The Medici's immense 16th-century palace across the Arno, now housing five museums including the Palatine Gallery — a series of lavishly frescoed rooms crammed with Raphael, Titian, and Rubens. The Boboli Gardens stretching behind the palace are formal Italian gardens on a monumental scale, with fountains, grottoes, cypresses, and long views over the Florentine hills.

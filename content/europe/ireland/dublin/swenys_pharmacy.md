@@ -6,15 +6,16 @@ done:
 latitude: 53.339084
 longitude: -6.251139
 opening_hours: Mon–Sat 10:00–17:00
+score: 7.4
 snippet: Victorian pharmacy unchanged since Leopold Bloom's famous lemon soap purchase
 tags:
 - things_to_do
 - James Joyce
 - Literature
+- georgian_dublin
 title: Sweny's Pharmacy
 type: poi
 url: www.sweny.ie
-score: 7.4
 ---
 
 This Victorian pharmacy near Trinity College has barely changed since Leopold Bloom stopped in on 16 June 1904 to buy a bar of lemon soap — a purchase that echoes through *Ulysses*. The shop is now run by volunteers as a Joycean cultural space rather than a working pharmacy. Visitors can buy the famous lemon soap, pick up Joyce's books, and attend regular readings from *Ulysses* held on the premises.

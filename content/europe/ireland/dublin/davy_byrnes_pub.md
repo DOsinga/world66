@@ -6,15 +6,17 @@ latitude: 53.340259
 longitude: -6.257357
 opening_hours: Mon–Thu 11:00–23:30, Fri–Sat 11:00–00:30, Sun 12:00–23:00
 phone: +353 1 677 5217
+score: 6.6
 snippet: Leopold Bloom's pub from Ulysses, still serving on Bloomsday
 tags:
+- georgian_dublin
 - things_to_do
 - bar
 - story
+- st_stephens_green_area
 title: Davy Byrne's Pub
 type: poi
 url: www.davybyrnes.com
-score: 6.6
 ---
 
 Leopold Bloom stops at this "moral pub" on Duke Street for a glass of Burgundy and a gorgonzola sandwich in the *Lestrygonians* episode of *Ulysses* — making it one of the most visited literary pubs in the world. Joyce himself was a regular, and the original owner Davy Byrne appears briefly in the novel.

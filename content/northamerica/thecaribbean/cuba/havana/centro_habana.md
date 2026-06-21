@@ -2,10 +2,14 @@
 title: Centro Habana
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: 23.1380
-longitude: -82.3680
+- things_to_do
+- neighbourhood
+latitude: 23.138
+longitude: -82.368
+image: centro_habana.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alumnos,_La_Habana,_Cuba_(9419813189).jpg
+image_license: CC BY 2.0
+image_attribution: Rinaldo Wurglitsch from Vienna, Austria
 ---
 
 Centro Habana is the densely populated residential district between Old Havana and Vedado — the neighbourhood where most Havana residents actually live, relatively few tourists venture, and the real street life of the city plays out without much regard for the outside world. The streets are narrow, the buildings are tall and close together, and the noise and energy levels are high from early morning until late at night.

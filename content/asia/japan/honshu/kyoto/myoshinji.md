@@ -1,14 +1,15 @@
 ---
 latitude: 35.0244
-longitude: 135.7180
+longitude: 135.718
+score: 8.1
 snippet: Largest Rinzai Zen complex in Japan, holding more than 40 sub-temples
 tags:
 - things_to_do
 - temple
 - sight
+- nijo
 title: Myōshin-ji
 type: poi
-score: 8.1
 ---
 
 Myōshin-ji is the head temple of the largest Rinzai Zen branch in Japan and, on the ground, a small walled town: an entire enclosed precinct in western Kyoto containing more than forty sub-temples connected by stone-paved lanes. Most are private and closed to visitors, but the experience of walking the long quiet alleys between white-washed walls is itself worth the visit.

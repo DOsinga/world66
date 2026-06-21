@@ -1,15 +1,19 @@
 ---
 latitude: 34.9907
 longitude: 135.7585
+score: 7.9
 snippet: One of the two great Jōdo Shinshū head temples, just north of Kyoto Station
-story: When the present main hall was reconstructed in the late 19th century, ordinary rope was not strong enough to haul the timbers — so devotees across Japan donated their hair to be braided into ropes. Several of these *kezuna* survive at the temple, displayed as relics of mass devotion.
+story: When the present main hall was reconstructed in the late 19th century, ordinary
+  rope was not strong enough to haul the timbers — so devotees across Japan donated
+  their hair to be braided into ropes. Several of these *kezuna* survive at the temple,
+  displayed as relics of mass devotion.
 tags:
 - things_to_do
 - temple
 - sight
+- nishiki
 title: Higashi Hongan-ji
 type: poi
-score: 7.9
 ---
 
 Higashi Hongan-ji is the head temple of the Ōtani branch of Jōdo Shinshū, the largest Pure Land Buddhist denomination in Japan. The vast Goeidō hall in the centre of the complex — fifty-eight metres across — is one of the largest wooden buildings in the world, finished in 1895 after the previous structure burned down four times in two and a half centuries. It commemorates Shinran, the thirteenth-century founder of the sect.

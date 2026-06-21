@@ -1,14 +1,15 @@
 ---
-latitude: 25.0260
+latitude: 25.026
 longitude: 121.5436
-snippet: Tree-lined district of cafes, bookshops, and pre-war Japanese houses
 tags:
 - things_to_do
 - neighbourhood
-neighbourhood: Da'an
 title: Da'an District
-type: poi
-score: 7.5
+type: neighbourhood
+image: daan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Daan_Park_20210817.jpg
+image_license: Attribution
+image_attribution: ​臺北市政府觀光傳播局
 ---
 
 Da'an is the most liveable of Taipei's central districts: tree-lined avenues, the city's best cafe culture, dozens of independent bookshops, and a generous concentration of small modern Taiwanese restaurants and bistros. It centres on **Da'an Forest Park**, a 26-hectare square of lawns and ponds that locals call "the lungs of Taipei", and runs north to the long shopping strips of Yongkang Street and Heping East Road.

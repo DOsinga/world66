@@ -1,12 +1,16 @@
 ---
-title: "Chueca"
-type: poi
 latitude: 40.4226
 longitude: -3.6989
-tags:
-  - things_to_do
-  - neighbourhood
 score: 7.5
+tags:
+- things_to_do
+- neighbourhood
+title: Chueca
+type: neighbourhood
+image: chueca.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Madrid_-_Plaza_de_Chueca_2.jpg
+image_license: CC0
+image_attribution: Zarateman
 ---
 
 Madrid's LGBT quarter and one of the most fashionable neighbourhoods in central Spain. Centred on **Plaza de Chueca** and the surrounding streets, Chueca is dense with rainbow-painted bars, gay-friendly restaurants, design boutiques, and the rebuilt **Mercado de San Antón** food market. Every July, **Madrid Pride** (Orgullo) effectively shuts the neighbourhood down for a week of street parties that draw two million visitors.

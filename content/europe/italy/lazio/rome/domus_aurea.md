@@ -4,6 +4,7 @@ admission: €12 plus booking fee
 latitude: 41.891
 longitude: 12.4946
 opening_hours: Sat–Sun 09:00–16:00 (guided tours only; book ahead)
+score: 8.4
 snippet: Nero's vast underground pleasure palace beneath the Colle Oppio
 story: After the Great Fire of 64 AD — which Nero almost certainly did not start but
   was widely blamed for — he seized an enormous swath of central Rome and built his
@@ -16,9 +17,9 @@ tags:
 - things_to_do
 - museum
 - sight
+- monti
 title: Domus Aurea
 type: poi
-score: 8.4
 ---
 
 The partially excavated ruins of Nero's legendary Golden House, an enormous pleasure palace built after the fire of 64 AD. After Nero's death, the building was systematically buried and built over — the Colosseum stands on what was Nero's artificial lake. What remains today are the subterranean rooms of one wing, covering about five hectares, with fragmentary frescoes visible throughout.

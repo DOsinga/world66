@@ -1,16 +1,22 @@
 ---
-title: National Gallery of Scotland
-type: poi
-tags:
-  - things_to_do
-  - old_town
-  - museum
 address: The Mound, Edinburgh EH2 2EL
 latitude: 55.9503
 longitude: -3.1965
-story: >
-  The National Gallery holds Botticelli's Virgin Adoring the Sleeping Christ Child, Velázquez's An Old Woman Cooking Eggs, and a substantial collection of Impressionist works including Monet, Degas and Cézanne. But the most Scottish part of the gallery is the suite of Henry Raeburn paintings, especially his portrait of Reverend Robert Walker Skating on Duddingston Loch — a work so quintessentially Edinburgh that it appeared on the Scottish £5 note.
 score: 9.4
+story: 'The National Gallery holds Botticelli''s Virgin Adoring the Sleeping Christ
+  Child, Velázquez''s An Old Woman Cooking Eggs, and a substantial collection of Impressionist
+  works including Monet, Degas and Cézanne. But the most Scottish part of the gallery
+  is the suite of Henry Raeburn paintings, especially his portrait of Reverend Robert
+  Walker Skating on Duddingston Loch — a work so quintessentially Edinburgh that it
+  appeared on the Scottish £5 note.
+
+  '
+tags:
+- things_to_do
+- oldtown
+- museum
+title: National Gallery of Scotland
+type: poi
 ---
 
 The National Gallery of Scotland sits at the foot of the Mound, the artificial hill connecting the Old and New Towns, and it is one of the finest small national galleries in Europe. The collection covers European art from the early Renaissance to the Impressionists, with particular strengths in Italian and Dutch masters, 17th-century European painting, and Scottish art from the 18th century onward.

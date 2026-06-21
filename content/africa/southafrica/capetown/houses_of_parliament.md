@@ -1,8 +1,7 @@
 ---
-category: Historic Site
 latitude: -33.9261
 longitude: 18.4192
-neighbourhood: City Bowl
+score: 6.3
 scores:
   activities: 0.5681
   sight: 0.618
@@ -15,7 +14,6 @@ tags:
 - city_bowl
 title: Houses of Parliament
 type: poi
-score: 6.3
 ---
 
 The Houses of Parliament occupy a sober neoclassical complex along Government Avenue, with the original 1884 building now joined by twentieth-century additions. The South African legislature has met here since 1910, although the executive branch sits in Pretoria — Cape Town gets parliament, Pretoria gets the cabinet.

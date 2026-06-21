@@ -1,10 +1,13 @@
 ---
-title: Torvehallerne
-type: poi
-tags: [eating_out, market]
 latitude: 55.6832
 longitude: 12.5706
 score: 7.7
+tags:
+- eating_out
+- market
+- indre_by
+title: Torvehallerne
+type: poi
 ---
 
 Torvehallerne is a covered market on Israels Plads, just south of Nørrebro, open since 2011. Two glass-and-steel halls house around 60 stalls selling fresh produce, cheese, charcuterie, fish, coffee, bread, wine, and prepared food. It is one of the best food markets in Scandinavia — genuinely good quality, with producers who know their products.

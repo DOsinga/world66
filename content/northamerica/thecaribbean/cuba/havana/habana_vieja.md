@@ -2,10 +2,14 @@
 title: La Habana Vieja (Old Havana)
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 23.1369
 longitude: -82.3493
+image: habana_vieja.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arco_de_Bel%C3%A9n._Habana_Vieja,_La_Habana,_Cuba._Agosto_de_2016_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Yoeztudioz
 ---
 
 La Habana Vieja (Old Havana) is a UNESCO World Heritage Site and one of the best-preserved colonial city centres in the Americas — a roughly two square kilometre area of baroque churches, colonial plazas, and crumbling mansions that has been undergoing restoration since the 1990s under the direction of the City Historian's office.

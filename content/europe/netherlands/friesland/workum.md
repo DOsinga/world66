@@ -10,6 +10,8 @@ latitude: 52.977849
 loc_type: city
 longitude: 5.446409
 score: 0.4
+snippet: Historic Frisian port town on the IJsselmeer, known for the Jopie Huisman
+  Museum and its late-Gothic church.
 title: Workum
 type: location
 snippet: "Historic Frisian town on the IJsselmeer, once a Zuiderzee trading port with stepped-gable streets."

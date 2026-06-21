@@ -5,6 +5,7 @@ snippet: Quiet neighbourhood park with Arabian Sea views
 tags:
 - things_to_do
 - park
+- dharavi
 title: Mazagon Gardens
 type: poi
 score: 4.7

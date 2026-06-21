@@ -1,14 +1,15 @@
 ---
 latitude: 35.0254
 longitude: 135.7621
+score: 7.6
 snippet: Former residence of the Japanese imperial family until 1869
 tags:
 - things_to_do
 - palace
 - sight
+- downtown_kyoto
 title: Kyoto Imperial Palace
 type: poi
-score: 7.6
 ---
 
 The Kyoto Imperial Palace (*Gosho*) was the residence of the Japanese emperor from the late fourteenth century until the move to Tokyo in 1869. The current buildings are a 1855 reconstruction in the *shinden-zukuri* aristocratic style, after a series of palace fires through the Edo period. The complex occupies a quiet corner of the much larger Kyoto Gyoen park, which makes up most of the green space in central Kyoto.

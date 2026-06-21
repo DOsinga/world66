@@ -9,6 +9,7 @@ snippet: Chicago's most popular beach, with skyline views and summer volleyball
 tags:
 - things_to_do
 - sight
+- lincoln_park
 title: North Avenue Beach
 type: poi
 score: 6.9

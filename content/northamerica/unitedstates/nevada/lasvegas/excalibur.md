@@ -1,15 +1,16 @@
 ---
-title: Excalibur Hotel and Casino
-type: poi
 address: 3850 Las Vegas Blvd South
 latitude: 36.0989
 longitude: -115.1756
-snippet: "Castle-themed Strip resort with the Tournament of Kings dinner show"
+score: 5.2
+snippet: Castle-themed Strip resort with the Tournament of Kings dinner show
 tags:
 - things_to_do
 - sight
 - south_strip
-score: 5.2
+- the_strip
+title: Excalibur Hotel and Casino
+type: poi
 ---
 
 Excalibur is the white-and-blue castle towering over the south Strip intersection with Tropicana Avenue. It opened in 1990 as the world's largest hotel and still has more than 4,000 rooms. The exterior — pointy turrets, drawbridges, the works — has aged into a kind of self-aware kitsch that the resort embraces rather than hides.

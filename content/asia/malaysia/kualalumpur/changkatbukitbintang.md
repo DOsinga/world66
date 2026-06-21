@@ -1,13 +1,15 @@
 ---
-title: "Changkat Bukit Bintang"
-type: poi
 latitude: 3.1471
 longitude: 101.7086
-tags:
-  - bars_and_cafes
-  - bukit_bintang
-  - bar
 score: 5.8
+snippet: Colonial shophouse street turned into KL's main bar strip, with dozens of
+  restaurants and late-night venues
+tags:
+- bars_and_cafes
+- bar
+- bukit_bintang
+title: Changkat Bukit Bintang
+type: poi
 ---
 
 The main bar street in central KL — a curved residential lane two blocks west of Jalan Bukit Bintang, lined for several hundred metres with restored shophouses converted into open-fronted bars, gastropubs, and restaurants. The atmosphere is closer to a Bangkok soi than a polished cocktail district: tables spill onto the pavement, music carries from doorway to doorway, the crowd is a mix of expats, locals, and travellers.

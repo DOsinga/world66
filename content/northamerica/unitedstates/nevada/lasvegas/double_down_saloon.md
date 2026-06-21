@@ -1,14 +1,16 @@
 ---
-title: Double Down Saloon
-type: poi
 address: 4640 Paradise Road
 latitude: 36.1071
 longitude: -115.1495
-snippet: '"The Happiest Place on Earth" — graffiti-covered 24-hour dive on Paradise Road'
+score: 7.8
+snippet: '"The Happiest Place on Earth" — graffiti-covered 24-hour dive on Paradise
+  Road'
 tags:
 - bars_and_cafes
 - bar
-score: 7.8
+- the_strip
+title: Double Down Saloon
+type: poi
 ---
 
 The Double Down opened in 1992 on Paradise Road and immediately became the off-Strip dive bar locals send visiting punk fans to. The walls are covered in graffiti — actively encouraged — the soundtrack is loud, and the unofficial house drink is "Ass Juice", a mystery concoction the staff make up and refuse to disclose ingredients for.

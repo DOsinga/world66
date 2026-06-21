@@ -1,14 +1,15 @@
 ---
 latitude: 34.9989
 longitude: 135.7741
+score: 8.5
 snippet: The oldest Zen temple in Kyoto, at the southern end of Gion
 tags:
 - things_to_do
 - temple
 - sight
+- higashiyama
 title: Kennin-ji
 type: poi
-score: 8.5
 ---
 
 Kennin-ji, founded in 1202, is the oldest Zen temple in Kyoto and the headquarters of one of the major Rinzai schools. It sits in a quiet walled compound at the southern end of the Gion district, almost unnoticed by the tourist crowds working their way up Hanamikōji to the bars and restaurants.

@@ -1,14 +1,16 @@
 ---
 latitude: 35.0428
-longitude: 135.7460
-snippet: Walled-village Zen complex in north Kyoto, with two dozen sub-temples and quiet rock gardens
+longitude: 135.746
+score: 8.9
+snippet: Walled-village Zen complex in north Kyoto, with two dozen sub-temples and
+  quiet rock gardens
 tags:
 - things_to_do
 - temple
 - sight
+- nijo
 title: Daitoku-ji
 type: poi
-score: 8.9
 ---
 
 Daitoku-ji is a walled monastic complex in north-west Kyoto containing more than twenty sub-temples, several of them open to the public. It was founded in 1315 and grew under the patronage of the unconventional fourteenth-century abbot Ikkyū Sōjun (the same Ikkyū later imagined as a child-monk hero in postwar Japanese cartoons) into one of the most influential Zen institutions in the country, deeply connected to the development of the tea ceremony — the great tea master Sen no Rikyū studied here, and is buried in one of the sub-temples.

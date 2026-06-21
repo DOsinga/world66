@@ -9,6 +9,7 @@ snippet: Legendary Wrigleyville venue that launched the Pumpkins
 tags:
 - bars_and_cafes
 - bar
+- lakeview
 title: Metro
 type: poi
 url: www.metrochicago.com

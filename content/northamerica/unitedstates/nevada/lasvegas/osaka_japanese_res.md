@@ -3,13 +3,14 @@ address: 4205 W Sahara Ave
 latitude: 36.143967
 longitude: -115.196679
 phone: (702) 876-4988
+score: 5.4
 tags:
 - eating_out
 - restaurant
+- chinatown
 title: Osaka Japanese Restaurant
 type: poi
 url: www.activediner.com
-score: 5.4
 ---
 
 The first Japanese restaurant in Las Vegas since 1968.

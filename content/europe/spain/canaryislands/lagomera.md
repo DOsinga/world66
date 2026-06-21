@@ -5,6 +5,8 @@ latitude: 28.119236
 loc_type: region
 longitude: -17.225747
 score: 0.63
+snippet: Canary island of deep ravines, terrace farms, palm valleys, and misty laurel
+  forest.
 title: La Gomera
 type: location
 ---

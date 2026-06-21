@@ -9,6 +9,8 @@ latitude: -39.814126
 loc_type: city
 longitude: -73.245986
 score: 0.46
+snippet: Chilean river city in the Lake District, known for its waterfront market
+  and colonial forts.
 title: Valdivia
 type: location
 ---

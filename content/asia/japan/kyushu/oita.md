@@ -10,6 +10,8 @@ latitude: 33.239386
 loc_type: city
 longitude: 131.609652
 score: 0.43
+snippet: Northeastern Kyushu prefecture known for Beppu's prolific hot springs and
+  the Kunisaki Peninsula's temples.
 title: Oita
 type: location
 ---

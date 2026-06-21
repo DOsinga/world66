@@ -1,11 +1,13 @@
 ---
-title: Montserrat
-type: location
 latitude: 41.5928
-longitude: 1.8353
-todo_location_cleanup: done
-score: 0.59
 loc_type: feature
+longitude: 1.8353
+score: 0.59
+snippet: Catalan mountain massif and Benedictine monastery, famous for serrated peaks
+  and the Black Madonna.
+title: Montserrat
+todo_location_cleanup: done
+type: location
 ---
 
 Montserrat is the spiritual heart of Catalonia, a dramatic massif of jagged serrated peaks rising out of the plains northwest of Barcelona. The name means "serrated mountain," and the silhouette lives up to it — the strange, rounded rock formations have inspired legends across the centuries, including the story that Parsifal found the Holy Grail here and that Wagner sought inspiration for his opera among the peaks.

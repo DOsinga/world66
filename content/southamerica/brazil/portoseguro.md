@@ -9,6 +9,8 @@ latitude: -16.443473
 loc_type: city
 longitude: -39.064251
 score: 0.48
+snippet: Bahian coastal city where Portuguese landfall history meets colonial churches
+  and long palm-backed beaches.
 title: Porto Seguro
 type: location
 ---

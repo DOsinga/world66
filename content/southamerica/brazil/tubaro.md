@@ -10,6 +10,8 @@ latitude: -28.471488
 loc_type: city
 longitude: -49.014132
 score: 0.29
+snippet: Southern Santa Catarina city near thermal waters and the heritage Maria Fumaça
+  railway.
 title: Tubarão
 type: location
 ---

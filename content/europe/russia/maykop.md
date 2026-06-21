@@ -6,6 +6,8 @@ latitude: 44.6062
 loc_type: city
 longitude: 40.1041
 score: 0.29
+snippet: Adygea capital on the Belaya River, near Caucasus foothills and Bronze Age
+  Maykop culture sites.
 title: Maykop
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 43.275298
 loc_type: city
 longitude: 11.985062
 score: 0.62
+snippet: Medieval Tuscan hill town above the Val di Chiana, with Etruscan walls and
+  wide views.
 title: Cortona
 type: location
 ---

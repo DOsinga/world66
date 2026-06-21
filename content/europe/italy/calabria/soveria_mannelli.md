@@ -10,6 +10,7 @@ latitude: 39.0829
 loc_type: city
 longitude: 16.3719
 score: 0.33
+snippet: Small Calabrian mountain town in the Sila foothills, home to Rubbettino Editore.
 title: Soveria Mannelli
 type: location
 ---

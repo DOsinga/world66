@@ -10,6 +10,8 @@ latitude: 42.4182
 loc_type: city
 longitude: 27.6943
 score: 0.5
+snippet: Black Sea headland town founded as ancient Apollonia Pontica, with a preserved
+  wooden old town.
 title: Sozopol
 type: location
 ---

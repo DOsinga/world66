@@ -9,6 +9,8 @@ latitude: 39.169298
 loc_type: city
 longitude: 23.455251
 score: 0.62
+snippet: Sporades island with more than sixty beaches, many sandy and backed by pine
+  forest.
 sources:
 - https://en.wikipedia.org/wiki/Skiathos
 - https://en.wikipedia.org/wiki/Skiathos_(town)

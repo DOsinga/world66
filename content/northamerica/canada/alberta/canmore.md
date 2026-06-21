@@ -10,6 +10,7 @@ latitude: 51.08669
 loc_type: city
 longitude: -115.348113
 score: 0.58
+snippet: Rocky Mountain town in the Bow Valley, east of Banff National Park.
 title: Canmore
 type: location
 ---

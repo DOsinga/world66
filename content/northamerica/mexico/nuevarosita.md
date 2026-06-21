@@ -10,6 +10,7 @@ latitude: 27.937833
 loc_type: city
 longitude: -101.218748
 score: 0.22
+snippet: Coahuila mining town on the Sabinas River, built around coal in the 1930s.
 title: Nueva Rosita
 type: location
 ---

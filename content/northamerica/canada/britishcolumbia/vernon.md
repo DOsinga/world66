@@ -8,6 +8,7 @@ longitude: -119.272
 score: 0.39
 title: Vernon
 type: location
+snippet: "North Okanagan city between lakes, ranchland, vineyards, and Silver Star Mountain."
 ---
 
 Vernon sits at the north end of Okanagan Lake in British Columbia's sun-drenched interior, surrounded by three lakes, rolling ranchland, and some of the province's best vineyards. It is less polished than [Kelowna](/northamerica/canada/britishcolumbia/kelowna) to the south, which is part of the appeal — the beaches are quieter, the trails less crowded, and the pace noticeably slower.

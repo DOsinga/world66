@@ -8,6 +8,7 @@ longitude: 21.1655
 score: 0.32
 title: Pristina
 type: location
+snippet: "Kosovo capital mixing Ottoman, Yugoslav, and modern layers around a lively pedestrian centre."
 ---
 
 Pristina is the capital of Kosovo and a city that wears its complicated history on its sleeve. Ottoman mosques sit next to brutalist Yugoslav apartment blocks, which sit next to glass-and-steel EU-funded buildings. The result is not pretty in the conventional sense, but it is never boring.

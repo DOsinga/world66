@@ -10,6 +10,7 @@ longitude: -63.7443
 score: 0.58
 title: Nova Scotia
 type: location
+snippet: "Atlantic Canadian province shaped by the sea, with Halifax, lighthouse villages, and Acadian coastlines."
 ---
 
 Nova Scotia juts into the Atlantic like a lobster claw, connected to the rest of Canada by a narrow strip of land at its New Brunswick border. The sea defines everything here: the economy, the culture, the weather, and the reason to visit.

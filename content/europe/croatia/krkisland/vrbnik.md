@@ -9,6 +9,8 @@ latitude: 45.0757
 loc_type: city
 longitude: 14.6744
 score: 0.51
+snippet: Clifftop Krk Island town known for Žlahtina wine, stone lanes, and Glagolitic
+  heritage
 title: Vrbnik
 type: location
 ---

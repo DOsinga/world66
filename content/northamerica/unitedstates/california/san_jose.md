@@ -11,6 +11,8 @@ latitude: 37.336166
 loc_type: city
 longitude: -121.890591
 score: 0.3
+snippet: Large Silicon Valley city with Spanish colonial roots, rare Japantown, and
+  tech-era museums
 title: San Jose
 type: location
 ---

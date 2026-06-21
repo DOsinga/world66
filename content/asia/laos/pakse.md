@@ -11,6 +11,8 @@ latitude: 15.120146
 loc_type: city
 longitude: 105.804397
 score: 0.47
+snippet: Southern Laos river city at the Mekong and Se Don, gateway to Wat Phu and
+  Bolaven waterfalls
 title: Pakse
 type: location
 ---

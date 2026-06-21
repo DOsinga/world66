@@ -12,6 +12,8 @@ latitude: 43.626683
 loc_type: city
 longitude: 22.686117
 score: 0.44
+snippet: Northwestern Bulgarian town framed by eroded sandstone towers and a fortress
+  built into the rocks
 title: Belogradchik
 type: location
 ---

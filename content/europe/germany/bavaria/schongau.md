@@ -9,6 +9,8 @@ latitude: 47.811897
 loc_type: city
 longitude: 10.897213
 score: 0.4
+snippet: Small Bavarian town above the Lech, ringed by well-preserved medieval walls
+  and towers
 title: Schongau
 type: location
 ---

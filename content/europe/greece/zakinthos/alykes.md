@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
+image: alykes.jpg
+image_attribution: Salamouras Spyros at Greek Wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:013_%CE%96%CE%AC%CE%BA%CF%85%CE%BD%CE%B8%CE%BF%CF%82.JPG
 latitude: 37.8318
 loc_type: city
 longitude: 20.7563
 score: 0.51
+snippet: Low-key Zakynthos beach resort named for old salt lakes behind its shallow
+  sandy shore
 title: Alykes
 type: location
-image: alykes.jpg
-image_source: https://commons.wikimedia.org/wiki/File:013_%CE%96%CE%AC%CE%BA%CF%85%CE%BD%CE%B8%CE%BF%CF%82.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Salamouras Spyros at Greek Wikipedia
 ---
 
 Alykes is a small beach resort on the north coast of Zakynthos, about 16 km from Zakynthos Town. The name comes from the [salt lakes](/europe/greece/zakinthos/alykes/salt_lakes) (alyki) that sat just behind the beach and were worked until 1985 — you can still see the shallow depressions and the old stone bridge that crosses the river Skourtis nearby.

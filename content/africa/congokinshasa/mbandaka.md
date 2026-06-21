@@ -9,6 +9,8 @@ latitude: 0.047073
 loc_type: city
 longitude: 18.25648
 score: 0.18
+snippet: Equatorial Congo River city with colonial boulevards, botanical gardens,
+  and dawn riverfront trade
 title: Mbandaka
 type: location
 ---

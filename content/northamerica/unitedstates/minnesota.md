@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 45.989659
+loc_type: region
 longitude: -94.611329
 score: 0.42
+snippet: Northern U.S. state of Mississippi river cities, lake country, Ojibwe heritage,
+  and canoeable wilderness
 title: Minnesota
 type: location
-loc_type: region
 ---
 
 Minnesota is located in the North of the U.S. and borders on [Wisconsin](/northamerica/unitedstates/wisconsin), [Iowa](/northamerica/unitedstates/iowa), [North Dakota](/northamerica/unitedstates/northdakota) and [South Dakota](/northamerica/unitedstates/southdakota). 

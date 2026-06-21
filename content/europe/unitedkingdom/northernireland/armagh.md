@@ -10,6 +10,8 @@ latitude: 54.3503
 loc_type: city
 longitude: -6.6528
 score: 0.43
+snippet: Ancient Irish ecclesiastical city where twin St Patrick’s cathedrals face
+  across Georgian streets
 title: Armagh
 type: location
 ---

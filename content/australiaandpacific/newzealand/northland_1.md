@@ -1,9 +1,11 @@
 ---
-title: "Northland"
-type: location
-loc_type: region
 latitude: -35.7
+loc_type: region
 longitude: 174.3
+snippet: Subtropical New Zealand region of kauri forests, surf beaches, and the island
+  nation’s founding history
+title: Northland
+type: location
 ---
 
 Northland is the long finger of land that extends north of Auckland, pointing toward the subtropics. It is the warmest part of New Zealand, and the least developed — a place of rolling farmland, pristine harbours, kauri forests, and long surf beaches that receive a fraction of the visitors that the South Island draws. For many New Zealanders, Northland is where their history starts: the first Polynesian settlers arrived on these shores, and the Bay of Islands is where European New Zealand was born, negotiated, and fought over.

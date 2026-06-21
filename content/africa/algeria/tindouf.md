@@ -10,6 +10,8 @@ latitude: 27.6753
 loc_type: city
 longitude: -8.1286
 score: 0.15
+snippet: Remote western Algerian Sahara town beside Sahrawi camps and the fragmentary
+  remains of an old ksar
 title: Tindouf
 type: location
 ---

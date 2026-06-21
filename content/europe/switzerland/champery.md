@@ -9,6 +9,8 @@ latitude: 46.175679
 loc_type: city
 longitude: 6.868767
 score: 0.55
+snippet: Swiss-French Valais mountain village and Portes du Soleil gateway with chalet
+  streets and high Alpine trails
 title: Champéry
 type: location
 ---

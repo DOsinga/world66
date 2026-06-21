@@ -10,6 +10,8 @@ latitude: 56.838207
 loc_type: city
 longitude: 60.600789
 score: 0.36
+snippet: Ural metropolis on the Europe-Asia divide, shaped by mining wealth, Romanov
+  history, and constructivist architecture
 title: Ekaterinburg
 type: location
 ---

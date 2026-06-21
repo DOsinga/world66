@@ -8,6 +8,8 @@ latitude: 45.662431
 loc_type: region
 longitude: 10.686157
 score: 0.71
+snippet: Italy’s largest lake, shifting from Mediterranean southern shores to wind-carved
+  Alpine water at Riva
 title: Lago di Garda
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 7.675615
 loc_type: city
 longitude: 36.847878
 score: 0.29
+snippet: Southwestern Ethiopian city tied to coffee’s forest origins in the Kaffa
+  highlands
 sources:
 - https://en.wikipedia.org/wiki/Jimma
 - https://en.wikipedia.org/wiki/Kingdom_of_Jimma

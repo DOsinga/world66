@@ -10,6 +10,8 @@ latitude: 41.121
 loc_type: city
 longitude: -88.8357
 score: 0.2
+snippet: Small Illinois prairie city with Gilded Age glass-and-coal history and a
+  proud Clyde Tombaugh connection
 title: Streator
 type: location
 ---

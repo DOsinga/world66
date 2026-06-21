@@ -10,6 +10,8 @@ latitude: 36.4293
 loc_type: region
 longitude: 27.316339
 score: 0.59
+snippet: Small Dodecanese island of mountain villages, medieval castles, birdlife,
+  and quiet beaches around Livadia
 title: Tilos
 type: location
 ---

@@ -5,8 +5,7 @@ latitude: 3.237796
 longitude: 101.681376
 snippet: Limestone caves with a towering golden statue, 13 km north of KL
 tags:
-- things_to_do
-- landmark
+- day_trips
 title: Batu Caves
 type: poi
 score: 8.9

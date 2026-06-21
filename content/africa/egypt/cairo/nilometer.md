@@ -2,6 +2,8 @@
 latitude: 29.9964
 longitude: 31.2275
 score: 7.4
+snippet: Ancient stone column on Rhoda Island used for millennia to measure the Nile's
+  flood level
 story: 'The Nilometer on Rhoda Island was used for thousands of years to measure the
   annual Nile flood. A good flood — somewhere between 16 and 24 cubits on the graduated
   column — meant a productive harvest and prosperity; too low meant drought and famine;
@@ -14,7 +16,6 @@ tags:
 - things_to_do
 - sight
 - museum
-- coptic_quarter
 title: Nilometer
 type: poi
 ---

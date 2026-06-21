@@ -5,7 +5,7 @@ score: 7.9
 tags:
 - things_to_do
 - sight
-- masjid_india
+- klcc
 title: KL Forest Eco Park
 type: poi
 ---

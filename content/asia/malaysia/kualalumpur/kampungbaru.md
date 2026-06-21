@@ -1,16 +1,17 @@
 ---
+image: kampungbaru.jpg
+image_attribution: InterEdit88
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kampung_Baru_Kuala_Lumpur_20230317.jpg
 latitude: 3.1631
 longitude: 101.7061
-snippet: Traditional Malay village with stilted houses, preserved amid KL's skyscrapers
+snippet: Traditional Malay kampung of stilted timber houses and street food, encircled
+  by KL's towers
 tags:
 - things_to_do
 - neighbourhood
 title: Kampung Baru
 type: neighbourhood
-image: kampungbaru.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Kampung_Baru_Kuala_Lumpur_20230317.jpg
-image_license: CC BY-SA 4.0
-image_attribution: InterEdit88
 ---
 
 A few blocks of traditional Malay village preserved in the middle of central KL, on a low rise north of Jalan Sultan Ismail. Wooden houses on stilts, tropical gardens, mosques, kampung-style restaurants, and a famously cheap Saturday night market that runs along Jalan Raja Muda Musa. The contrast with the surrounding glass towers — the Petronas Towers are visible from every street corner — is the point.

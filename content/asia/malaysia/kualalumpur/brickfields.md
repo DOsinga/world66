@@ -5,8 +5,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Brickfields,_Kuala_Lumpur,_decorated_for_Diwali.jpg
 latitude: 3.1296
 longitude: 101.6868
-snippet: 'KL''s Little India: saree shops, banana-leaf restaurants, and Deepavali
-  celebrations'
+snippet: 'KL''s Little India: saree shops, banana-leaf rice restaurants, and the Sri
+  Maha Mariamman temple'
 tags:
 - things_to_do
 - neighbourhood

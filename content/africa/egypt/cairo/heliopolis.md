@@ -1,17 +1,17 @@
 ---
-title: Heliopolis
-type: neighbourhood
+image: heliopolis.jpg
+image_attribution: BavKraft
+image_license: CC0 1.0
+image_source: https://commons.wikimedia.org/wiki/File:Al_Khalifa_Al_Ma%27moun_Street_in_Heliopolis,_Cairo.jpg
+latitude: 30.0875
+longitude: 31.3215
+snippet: Early 20th-century garden suburb of Belgian-Moorish palaces, tree-lined avenues,
+  and art deco villas
 tags:
 - things_to_do
 - neighbourhood
-latitude: 30.0875
-longitude: 31.3215
-snippet: Early 20th-century garden suburb with Moorish-inspired architecture and wide
-  boulevards
-image: heliopolis.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Al_Khalifa_Al_Ma%27moun_Street_in_Heliopolis,_Cairo.jpg
-image_license: CC0 1.0
-image_attribution: BavKraft
+title: Heliopolis
+type: neighbourhood
 ---
 
 Heliopolis (Masr el-Gedida — "New Egypt") is Cairo's most architecturally distinctive suburb — a planned garden city built from 1906 by Belgian entrepreneur Édouard Empain on the desert plateau northeast of the city. The architecture is idiosyncratic and unlike anywhere else in Egypt: Moorish revival arcades, Venetian campaniles, Fatimid-style domes, and art deco buildings all appear within a few blocks of each other along wide tree-lined avenues. The result is eccentric and remarkable.

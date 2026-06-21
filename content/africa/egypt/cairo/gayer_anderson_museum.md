@@ -2,6 +2,8 @@
 latitude: 30.027
 longitude: 31.2517
 score: 8.1
+snippet: Two 17th-century merchant houses furnished as one, adjoining the Ibn Tulun
+  Mosque
 story: 'John Gayer-Anderson was a British army doctor who fell in love with Cairo
   and spent decades restoring two adjacent 17th-century mansions adjacent to the Ibn
   Tulun Mosque. He furnished them with antiques, medieval Islamic manuscripts, and

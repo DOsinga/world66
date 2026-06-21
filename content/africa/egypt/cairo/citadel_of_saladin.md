@@ -2,6 +2,8 @@
 latitude: 30.0286
 longitude: 31.2598
 score: 8.9
+snippet: Medieval hilltop fortress containing the Mohammed Ali Mosque and panoramic
+  views over Cairo
 story: 'Saladin began building the Citadel in 1176 after becoming the Sultan of Egypt,
   choosing the Muqattam Hills specifically because the air there was measurably cooler
   than in the city below — he had learned this by hanging pieces of meat at various

@@ -8,7 +8,7 @@ story: The tower's construction in 1994 was complicated by the protected rainfor
 tags:
 - things_to_do
 - sight
-- bukit_bintang
+- klcc
 title: KL Tower
 type: poi
 ---

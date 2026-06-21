@@ -2,6 +2,7 @@
 latitude: 30.0044
 longitude: 31.2289
 score: 8.0
+snippet: 5th-century Coptic church suspended over a Roman gatehouse tower in Old Cairo
 story: 'The Hanging Church gets its name from its location: it is built directly on
   top of the south gate of the Roman Fortress of Babylon, with its nave suspended
   over the gatehouse passageway — hence "hanging." Construction began in the 4th century,

@@ -7,7 +7,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bukit_Bintang_in_Kuala_Lumpur,_Malaysia_-_04.jpg
 latitude: 3.147107
 longitude: 101.708601
-snippet: KL's main shopping and nightlife strip
+snippet: KL's main entertainment and shopping district, anchored by Pavilion mall
+  and Changkat's bar strip
 tags:
 - things_to_do
 - neighbourhood

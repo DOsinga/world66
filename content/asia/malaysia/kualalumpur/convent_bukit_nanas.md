@@ -1,15 +1,16 @@
 ---
-title: Convent Bukit Nanas
-type: poi
 latitude: 3.1527
-longitude: 101.7010
+longitude: 101.701
+score: 6.5
+snippet: Historic colonial-era convent school with a forest reserve on Bukit Nanas
+  hill
 tags:
 - things_to_do
-- masjid_india
+- klcc
 - sight
 - architecture
-score: 6.5
-snippet: Historic colonial-era convent school with a forest reserve on Bukit Nanas hill
+title: Convent Bukit Nanas
+type: poi
 ---
 
 Convent Bukit Nanas is one of KL's oldest institutions — a Catholic girls' school established by the Infant Jesus Sisters in 1899 that still occupies its original colonial buildings on Bukit Nanas (Pineapple Hill), a small forested hill in central KL. The school is not open to casual visitors, but the adjacent Bukit Nanas Forest Reserve — a small urban jungle literally in the centre of the city — is freely accessible via a footpath from the Raja Chulan area.

@@ -13,7 +13,7 @@ loc_type: city
 longitude: 10.9271
 score: 0.5
 snippet: Tuscan hill town where Leonardo da Vinci’s birthplace and invention museums
-  define the visit.
+  anchor the town’s identity.
 sources:
 - https://en.wikipedia.org/wiki/Museo_leonardiano_di_Vinci
 - https://en.wikipedia.org/wiki/Anchiano

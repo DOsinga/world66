@@ -6,6 +6,8 @@ latitude: 44.1118
 loc_type: city
 longitude: 8.0709
 score: 0.37
+snippet: Tiny Ligurian commune in the Pennavaire valley, anchored by restored hilltop
+  hamlet Colletta di Castelbianco
 title: Castelbianco
 type: location
 ---

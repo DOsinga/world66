@@ -9,6 +9,8 @@ latitude: 17.5755
 loc_type: city
 longitude: 120.3873
 score: 0.53
+snippet: Spanish colonial city in Luzon, preserving Calle Crisologo's stone-and-wood
+  houses and capiz windows
 title: Vigan
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 39.542325
 loc_type: city
 longitude: 3.334431
 score: 0.52
+snippet: Mallorca east-coast harbour resort, known for Coves del Drac and a sandy
+  inlet beach
 title: Porto Cristo
 type: location
 ---

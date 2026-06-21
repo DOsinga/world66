@@ -10,6 +10,8 @@ latitude: -11.4608
 loc_type: city
 longitude: 34.0226
 score: 0.27
+snippet: Northern Malawi plateau city, useful for reaching Nyika, Vwaza Marsh, Livingstonia,
+  and Nkhata Bay
 title: Mzuzu
 type: location
 ---

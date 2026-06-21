@@ -9,6 +9,8 @@ latitude: 53.855309
 loc_type: city
 longitude: -6.538914
 score: 0.35
+snippet: County Louth market town with medieval tower houses and Ferdia's legend on
+  the River Dee
 sources:
 - https://en.wikipedia.org/wiki/Ardee
 - https://en.wikipedia.org/wiki/Ardee_Castle

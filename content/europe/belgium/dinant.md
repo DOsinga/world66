@@ -10,6 +10,8 @@ latitude: 50.2592
 loc_type: city
 longitude: 4.9131
 score: 0.49
+snippet: Meuse River town squeezed below limestone cliffs, with a citadel, saxophone
+  history, and Ardennes access
 title: Dinant
 type: location
 ---

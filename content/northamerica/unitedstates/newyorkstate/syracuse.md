@@ -12,6 +12,8 @@ latitude: 43.048122
 loc_type: city
 longitude: -76.147424
 score: 0.34
+snippet: Upstate New York university city known for lake-effect snow, salt history,
+  and Syracuse University
 title: Syracuse
 type: location
 ---

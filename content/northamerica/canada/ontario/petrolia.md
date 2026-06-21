@@ -10,6 +10,8 @@ latitude: 42.882002
 loc_type: city
 longitude: -82.149582
 score: 0.25
+snippet: Ontario oil town with Victorian streetscapes, early wells, and museums tracing
+  Canada's petroleum history
 title: Petrolia
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 13.9942
 loc_type: city
 longitude: -89.5597
 score: 0.33
+snippet: Salvadoran highland city below Santa Ana Volcano, with coffee country, theatres,
+  and Maya ruins nearby
 title: Santa Ana
 type: location
 ---

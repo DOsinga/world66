@@ -6,6 +6,8 @@ latitude: 38.8039
 loc_type: city
 longitude: -120.8987
 score: 0.38
+snippet: Sierra Nevada foothills town where the California Gold Rush began at Sutter's
+  Mill
 sources:
 - https://en.wikipedia.org/wiki/Coloma,_California
 - https://en.wikipedia.org/wiki/Marshall_Gold_Discovery_State_Historic_Park

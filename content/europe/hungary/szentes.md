@@ -10,6 +10,8 @@ latitude: 46.6524
 loc_type: city
 longitude: 20.2566
 score: 0.3
+snippet: Great Hungarian Plain market town on the Kurca, with thermal baths and flat
+  agricultural countryside.
 title: Szentes
 type: location
 ---

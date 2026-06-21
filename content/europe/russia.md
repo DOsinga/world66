@@ -1,4 +1,5 @@
 ---
+snippet: "Vast Eurasian country spanning eleven time zones, with imperial cities, Siberian wilderness, and Golden Ring towns."
 title: Russia
 type: location
 latitude: 64.686314

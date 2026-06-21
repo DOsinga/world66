@@ -10,6 +10,8 @@ latitude: 23.694066
 loc_type: city
 longitude: -15.943127
 score: 0.41
+snippet: Atlantic peninsula town in southern Morocco, known for Dakhla Lagoon and
+  steady kitesurfing winds.
 title: Dakhla
 type: location
 ---

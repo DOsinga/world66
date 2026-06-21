@@ -7,6 +7,7 @@ loc_type: island
 longitude: 115.5098
 sources:
 - https://en.wikipedia.org/wiki/Nusa_Penida
+snippet: "Limestone island southeast of Bali, known for steep roads, temple pilgrimages, and the cliffs of Kelingking Beach."
 title: Nusa Penida
 type: location
 image: nusapenida.jpg

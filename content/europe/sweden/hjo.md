@@ -10,6 +10,8 @@ latitude: 58.3
 loc_type: city
 longitude: 14.2833
 score: 0.42
+snippet: Lakeside wooden town on Lake Vättern, preserving medieval street patterns
+  and nineteenth-century timber buildings.
 title: Hjo
 type: location
 ---

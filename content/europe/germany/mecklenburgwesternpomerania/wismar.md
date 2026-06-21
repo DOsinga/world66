@@ -10,6 +10,8 @@ latitude: 53.891
 loc_type: city
 longitude: 11.4648
 score: 0.47
+snippet: Baltic Hanseatic port town with a preserved medieval centre, brick churches,
+  and a large gabled market square.
 title: Wismar
 type: location
 ---

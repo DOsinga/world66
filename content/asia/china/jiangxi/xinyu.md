@@ -10,6 +10,7 @@ loc_type: city
 longitude: 114.924
 sources:
 - https://en.wikivoyage.org/wiki/Xinyu
+snippet: "Central-western Jiangxi city used as a base for Fairy Lake and its forested reservoir islands."
 title: Xinyu
 type: location
 score: 0.25

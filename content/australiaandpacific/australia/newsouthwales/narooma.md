@@ -6,6 +6,8 @@ latitude: -36.219015
 loc_type: city
 longitude: 150.131724
 score: 0.44
+snippet: Sapphire Coast town surrounded by Wagonga Inlet and the Pacific, with clear
+  waterways and Montague Island offshore.
 title: Narooma
 type: location
 ---

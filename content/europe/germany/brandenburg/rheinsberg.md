@@ -10,6 +10,7 @@ latitude: 53.098318
 loc_type: city
 longitude: 12.891012
 score: 0.43
+snippet: "Northern Brandenburg lakeside town known for Schloss Rheinsberg and its Frederick the Great and Tucholsky associations."
 title: Rheinsberg
 type: location
 ---

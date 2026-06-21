@@ -1,4 +1,5 @@
 ---
+snippet: "Belgian city in Wallonia with hilly streets, museums, shopping areas, and a distinctive urban atmosphere."
 title: Charleroi
 type: location
 latitude: 50.411623

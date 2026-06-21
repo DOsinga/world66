@@ -1,4 +1,5 @@
 ---
+snippet: "Lower Austrian market town near the Danube, with Roman fort remains and vineyards northwest of Vienna."
 title: Zeiselmauer
 type: location
 loc_type: city

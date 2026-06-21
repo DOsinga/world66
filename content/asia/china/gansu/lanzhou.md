@@ -12,6 +12,8 @@ latitude: 36.4744
 loc_type: city
 longitude: 103.7332
 score: 0.34
+snippet: Gansu capital in a Yellow River valley, serving as a Silk Road transport
+  hub toward Xinjiang and Qinghai.
 title: Lanzhou
 type: location
 ---

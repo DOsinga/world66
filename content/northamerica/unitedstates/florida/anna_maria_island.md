@@ -9,6 +9,8 @@ latitude: 27.529362
 loc_type: city
 longitude: -82.732434
 score: 0.48
+snippet: Seven-mile Gulf Coast barrier island with low-rise beach towns, quiet streets,
+  and old-Florida character.
 title: Anna Maria Island
 type: location
 ---

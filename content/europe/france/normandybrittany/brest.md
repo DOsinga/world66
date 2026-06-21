@@ -10,6 +10,7 @@ longitude: -4.4894
 sources:
 - https://en.wikipedia.org/wiki/Brest,_France
 - https://en.wikivoyage.org/wiki/Brest_(France)
+snippet: "Western Brittany naval city rebuilt after 1944, with an Atlantic harbour and the surviving Château de Brest."
 title: Brest
 type: location
 score: 0.44

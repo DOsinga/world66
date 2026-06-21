@@ -11,6 +11,7 @@ longitude: 4.0367
 score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Montr%C3%A9al,_Yonne
+snippet: "Tiny Burgundy hilltop village known for Notre-Dame's late-medieval carved choir stalls and surviving medieval gates."
 title: Montréal
 type: location
 ---

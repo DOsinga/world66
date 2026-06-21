@@ -10,6 +10,7 @@ latitude: 39.758948
 loc_type: city
 longitude: -84.191607
 score: 0.3
+snippet: "Ohio city central to aviation history, with Wright brothers sites and the National Museum of the United States Air Force."
 title: Dayton
 type: location
 ---

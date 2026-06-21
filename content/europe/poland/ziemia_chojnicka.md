@@ -6,6 +6,8 @@ latitude: 53.6947
 loc_type: city
 longitude: 17.5579
 score: 0.29
+snippet: Southern Pomeranian region of pine forests, glacial lakes, rivers, and the
+  market town of Chojnice.
 title: Ziemia Chojnicka
 type: location
 ---

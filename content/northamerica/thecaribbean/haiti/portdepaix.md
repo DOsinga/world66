@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:US_Navy_080908-N-9774H-147
 latitude: 19.9407
 loc_type: city
 longitude: -72.8331
+score: 0.18
+snippet: North-coast Haitian port town facing Tortuga Island, founded by French buccaneers
+  in the seventeenth century.
 sources:
 - https://en.wikipedia.org/wiki/Port-de-Paix
 - https://en.wikipedia.org/wiki/Nord-Ouest_(department)
 title: Port-de-Paix
 type: location
-score: 0.18
 ---
 
 Port-de-Paix is the capital of Haiti's Nord-Ouest department, a small port town on the north coast looking across the channel to [Tortuga Island](/northamerica/thecaribbean/haiti/portdepaix/tortuga_island). It was founded in 1665 by French buccaneers who had been pushed off Tortuga by the Spanish, and for a while in the seventeenth century it was the de facto capital of French Saint-Domingue. Almost none of that history is visible today.

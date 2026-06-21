@@ -8,6 +8,8 @@ latitude: 44.5107
 loc_type: region
 longitude: 14.5037
 score: 0.67
+snippet: Long Kvarner Gulf island linked to Cres, known for mild climate, clean air,
+  and harbour towns.
 title: Lošinj
 type: location
 ---

@@ -9,6 +9,7 @@ latitude: -15.416339
 loc_type: city
 longitude: 28.281841
 score: 0.32
+snippet: "Zambian capital centred on Cairo Road, useful for supplies, documents, and onward travel planning."
 title: Lusaka
 type: location
 ---

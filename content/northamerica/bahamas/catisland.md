@@ -8,6 +8,7 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/21078769@N00/11730397856
 latitude: 24.3833
 longitude: -75.4167
+snippet: "Quiet Bahamian island with pink-sand beaches, Mount Alvernia, and Father Jerome's hand-built Hermitage."
 title: Cat Island
 type: location
 score: 0.46

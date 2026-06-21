@@ -1,9 +1,11 @@
 ---
+latitude: -27.6728
+loc_type: region
+longitude: 121.6283
+snippet: Australia’s largest state, stretching from Kimberley gorges and red desert
+  to Perth and the southwest coast.
 title: Western Australia
 type: location
-loc_type: region
-latitude: -27.6728
-longitude: 121.6283
 ---
 
 Western Australia is by far the largest of Australia's states — a third of the entire continent — and one of the most sparsely populated. It stretches from the tropical northwest, where the Kimberley region holds some of the country's most dramatic gorge country, to the temperate southwest corner around Perth and Margaret River, through vast stretches of red desert in between.

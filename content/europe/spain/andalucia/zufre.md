@@ -9,6 +9,7 @@ latitude: 37.8339
 loc_type: city
 longitude: -6.338874
 score: 0.36
+snippet: "Whitewashed Sierra de Huelva village perched above a gorge, with cliff-edge views from El Paseo."
 title: Zufre
 type: location
 ---

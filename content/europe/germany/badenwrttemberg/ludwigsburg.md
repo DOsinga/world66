@@ -9,6 +9,8 @@ latitude: 48.895394
 loc_type: city
 longitude: 9.189515
 score: 0.45
+snippet: Baroque city north of Stuttgart, built around the vast Residenzschloss and
+  its planned eighteenth-century street grid.
 title: Ludwigsburg
 type: location
 ---

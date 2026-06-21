@@ -6,6 +6,8 @@ latitude: 33.3283
 loc_type: city
 longitude: 35.4403
 score: 0.23
+snippet: Southern Lebanese town below Beaufort Castle, a Crusader fortress overlooking
+  the Litani River.
 sources:
 - https://en.wikipedia.org/wiki/Beaufort_Castle_(Lebanon)
 - https://en.wikipedia.org/wiki/Arnoun

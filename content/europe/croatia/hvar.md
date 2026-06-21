@@ -11,6 +11,7 @@ latitude: 43.173941
 loc_type: city
 longitude: 16.556516
 score: 0.65
+snippet: "Long Adriatic island near Split, known for lavender fields, Plavac Mali wine, and Venetian Hvar Town."
 title: Hvar
 type: location
 ---

@@ -1,4 +1,5 @@
 ---
+snippet: "Moray market town sheltered by nearby hills, with Nelson's Tower overlooking one of Scotland's drier regions."
 title: Forres
 type: location
 loc_type: city

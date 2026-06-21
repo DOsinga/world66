@@ -6,6 +6,7 @@ latitude: 44.1048
 loc_type: city
 longitude: -69.1092
 score: 0.42
+snippet: "Working Maine harbor town on Penobscot Bay, known for lobster, windjammers, and the Farnsworth Art Museum."
 title: Rockland
 type: location
 ---

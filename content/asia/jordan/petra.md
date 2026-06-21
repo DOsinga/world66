@@ -11,6 +11,7 @@ latitude: 30.325836
 loc_type: city
 longitude: 35.474567
 score: 0.81
+snippet: "Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the Treasury facade."
 title: Petra
 type: location
 ---

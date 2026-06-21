@@ -10,6 +10,8 @@ latitude: 40.5283
 loc_type: city
 longitude: 72.7985
 score: 0.39
+snippet: Ancient Fergana Valley trading city, known for its riverside bazaar and sacred
+  Sulaiman-Too mountain.
 title: Osh
 type: location
 ---

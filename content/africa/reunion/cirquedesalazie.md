@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -21.0233
 longitude: 55.5333
+snippet: "Green Réunion cirque with waterfall-lined cliffs, Creole villages, and the road-end settlement of Hell-Bourg."
 title: Cirque de Salazie
 type: location
 score: 0.55

@@ -1,4 +1,5 @@
 ---
+snippet: "Upper Arno Valley between Florence and Arezzo, with farmland, small industrial towns, and Renaissance intellectual ties."
 title: Valdarno Superiore
 type: location
 loc_type: region

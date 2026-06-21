@@ -10,6 +10,8 @@ latitude: 9.9907
 loc_type: city
 longitude: -83.036
 score: 0.41
+snippet: Costa Rican Caribbean province with Afro-Caribbean culture, Creole speech,
+  coconut cooking, and port-town history.
 title: Limon
 type: location
 ---

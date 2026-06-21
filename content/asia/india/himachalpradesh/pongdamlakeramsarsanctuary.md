@@ -4,6 +4,7 @@ type: location
 loc_type: region
 latitude: 32.017
 longitude: 76.083
+snippet: Himalayan reservoir sanctuary where the Beas River's drowned valley became a major migratory bird wetland.
 ---
 
 The Pong Dam Lake Wildlife Sanctuary — officially Maharana Pratap Sagar — covers the vast reservoir created when the Pong Dam was completed across the Beas River in 1974. What began as a flood-control and irrigation project became, almost by accident, one of the most important wetland habitats in the western Himalayas. The drowned valley floor created a mosaic of shallow water, mudflats, and emergent vegetation that proved ideal for birds migrating through the Central Asian Flyway. The sanctuary was designated a Ramsar Wetland of International Importance in 2002.

@@ -11,6 +11,7 @@ latitude: -19.7092
 loc_type: city
 longitude: 63.4426
 score: 0.53
+snippet: Small Mauritian island with a quieter African feel, hilly interior, and broad turquoise lagoon.
 title: Rodrigues
 type: location
 ---

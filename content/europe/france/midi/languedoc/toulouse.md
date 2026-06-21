@@ -11,6 +11,7 @@ latitude: 43.6047
 loc_type: city
 longitude: 1.4442
 score: 0.52
+snippet: Pink-brick Garonne city whose student energy and aerospace wealth animate a compact southern French centre.
 title: Toulouse
 type: location
 ---

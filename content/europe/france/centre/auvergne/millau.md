@@ -10,6 +10,7 @@ latitude: 44.1007
 loc_type: city
 longitude: 3.0778
 score: 0.46
+snippet: Aveyron valley town beneath the Millau Viaduct, once famous for gloves and road traffic.
 title: Millau
 type: location
 ---

@@ -12,6 +12,7 @@ latitude: 44.316449
 loc_type: city
 longitude: 9.323338
 score: 0.51
+snippet: Tigullio Gulf town of arcaded Ligurian streets, beaches, and a noted antiques market.
 title: Chiavari
 type: location
 ---

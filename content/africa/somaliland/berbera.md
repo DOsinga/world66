@@ -9,6 +9,7 @@ latitude: 10.438621
 loc_type: city
 longitude: 45.013401
 score: 0.25
+snippet: Gulf of Aden port city where Somaliland's trade meets hot beaches and offshore shipwrecks.
 sources:
 - https://en.wikipedia.org/wiki/Berbera
 title: Berbera

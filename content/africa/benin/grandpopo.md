@@ -10,6 +10,7 @@ latitude: 6.276375
 loc_type: city
 longitude: 1.80672
 score: 0.31
+snippet: Quiet Beninese beach town where wild Atlantic shore meets living Vodun culture.
 title: Grand popo
 type: location
 ---

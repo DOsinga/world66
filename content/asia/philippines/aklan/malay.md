@@ -10,6 +10,7 @@ latitude: 11.9001
 loc_type: city
 longitude: 121.9099
 score: 0.3
+snippet: Aklan municipality on Panay's northwest tip, serving as the mainland gateway to Boracay.
 title: Malay
 type: location
 ---

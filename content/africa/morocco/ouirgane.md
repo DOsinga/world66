@@ -9,6 +9,7 @@ latitude: 31.175727
 loc_type: city
 longitude: -8.0789
 score: 0.45
+snippet: High Atlas valley town south of Marrakech, surrounded by Berber villages, walnut groves, and mountain trails.
 title: Ouirgane
 type: location
 ---

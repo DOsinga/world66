@@ -6,6 +6,7 @@ latitude: 33.71
 loc_type: city
 longitude: 73.73
 score: 0.2
+snippet: Hillside Poonch town in Azad Kashmir, with valley views and a local war memorial.
 title: Mong
 type: location
 ---

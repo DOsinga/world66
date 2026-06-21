@@ -10,6 +10,7 @@ latitude: 14.896
 loc_type: city
 longitude: -24.498
 score: 0.41
+snippet: Main town on Fogo, with colonial sobrados overlooking the sea from a volcanic island bluff.
 title: Sao Filipe
 type: location
 ---

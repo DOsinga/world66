@@ -9,6 +9,7 @@ latitude: -9.5
 loc_type: region
 longitude: -77.75
 score: 0.57
+snippet: Northern Peruvian region dominated by the Cordillera Blanca, a high world of peaks and trekking towns.
 title: Ancash
 type: location
 ---

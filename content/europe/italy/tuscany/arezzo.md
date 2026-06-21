@@ -9,6 +9,7 @@ latitude: 43.517144
 loc_type: city
 longitude: 11.763928
 score: 0.56
+snippet: Eastern Tuscan hill city with Etruscan roots and Piero della Francesca's great fresco cycle.
 title: Arezzo
 type: location
 ---

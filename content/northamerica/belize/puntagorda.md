@@ -10,6 +10,7 @@ longitude: -88.8079
 title: Punta Gorda
 type: location
 score: 0.41
+snippet: Quiet southern Belize port with Maya and Garifuna roots, deep in traditional Toledo District.
 loc_type: city
 ---
 

@@ -10,6 +10,7 @@ latitude: -36.7285
 loc_type: city
 longitude: 146.9608
 score: 0.47
+snippet: Alpine Victorian town in the Ovens Valley, famous for autumn colour and mountain access.
 title: Bright
 type: location
 ---

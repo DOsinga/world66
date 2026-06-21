@@ -9,6 +9,7 @@ latitude: 18.2534
 loc_type: city
 longitude: 109.5034
 score: 0.49
+snippet: Tropical resort city on southern Hainan, where palm-lined beaches anchor China's domestic seaside holidays.
 title: Sanya
 type: location
 ---

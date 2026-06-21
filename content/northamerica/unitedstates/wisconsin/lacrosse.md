@@ -7,6 +7,7 @@ longitude: -91.251435
 title: La Crosse
 type: location
 score: 0.35
+snippet: Mississippi River city below wooded bluffs, shaped by confluences, universities, and Oktoberfest traditions.
 loc_type: city
 image: lacrosse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Dad_Bluff_180_pano_aerial_(cropped).jpg

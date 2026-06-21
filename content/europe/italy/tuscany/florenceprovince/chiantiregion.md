@@ -6,6 +6,7 @@ longitude: 11.32
 done:
   location_cleanup: 2026-04-07
 score: 0.73
+snippet: Tuscan wine region of vineyards, olive groves, and stone villages between Florence and Siena.
 loc_type: region
 ---
 

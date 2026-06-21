@@ -1,20 +1,63 @@
 import json
+import re
 import sqlite3
 import subprocess
 from pathlib import Path
 
 import markdown as md
 from django.conf import settings
-from django.http import FileResponse, Http404, JsonResponse
-from django.shortcuts import render
+from django.http import FileResponse, Http404, HttpResponse, JsonResponse
+from django.shortcuts import redirect, render
 from django.utils.safestring import mark_safe
 
+from . import github
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
-    load_page, load_page_from_branch, load_tag_index, resolve_tag_route, _find_city_path,
+    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
+HASH_RE = re.compile(r"^[0-9a-fA-F]{7,40}$")
+INTERNAL_GUIDE_HREF_RE = re.compile(
+    r'(<a\b[^>]*\bhref=")/(?!/|about(?:["/#?])|api/|content-image/|passport/|'
+    r'regions(?:["/#?])|review(?:["/#?])|search(?:["/#?])|static/|tags/|[0-9a-fA-F]{7,40}/)'
+)
+
+
+def _resolve_revision_hash(value):
+    """Return the full GitHub commit hash for an unambiguous hex revision prefix."""
+    if not value or not HASH_RE.fullmatch(value):
+        return None
+    return github.resolve_commit(value) or None
+
+
+def _resolve_any_revision(value):
+    """Return the full commit hash for review input such as HEAD, a branch, or a hash."""
+    if not value:
+        return None
+    resolved = github.resolve_commit(value)
+    if resolved:
+        return resolved
+
+    # The review page can still inspect local-only branches while editing.
+    result = subprocess.run(
+        ["git", "rev-parse", "--verify", "--quiet", f"{value}^{{commit}}"],
+        capture_output=True, text=True, check=False,
+        cwd=str(settings.BASE_DIR),
+    )
+    if result.returncode != 0:
+        return None
+    return result.stdout.strip()
+
+
+def _short_revision(full_hash):
+    return github.short_hash(full_hash)
+
+
+def _prefix_internal_links(html, url_prefix):
+    if not html or not url_prefix:
+        return html
+    return INTERNAL_GUIDE_HREF_RE.sub(rf'\1{url_prefix.strip("/")}/', html)
 
 
 def about(request):
@@ -70,15 +113,35 @@ def home(request):
 
 
 def location_or_section(request, path):
-    path = path.strip("/")
-    branch = request.GET.get('branch')
+    branch = request.GET.get("branch")
+    if branch:
+        full_hash = _resolve_any_revision(branch)
+        if full_hash:
+            return redirect(f"/{_short_revision(full_hash)}/{path.strip('/')}", permanent=False)
+    return _location_or_section(request, path)
 
-    page = load_page_from_branch(path, branch) if branch else load_page(path)
+
+def location_or_section_at_revision(request, revision, path):
+    source_ref = _resolve_revision_hash(revision)
+    if not source_ref:
+        raise Http404
+    return _location_or_section(
+        request, path, source_ref=source_ref, url_revision=_short_revision(source_ref)
+    )
+
+
+def _location_or_section(request, path, source_ref=None, url_revision=""):
+    path = path.strip("/")
+
+    page = (
+        load_page_from_revision(path, source_ref, url_revision=url_revision)
+        if source_ref else load_page(path)
+    )
     context_nav = None  # nav page used to reach this POI (for sidebar context)
 
     if not page:
         # Try virtual tag-based routing: city/nav-slug/poi-slug
-        page, context_nav = resolve_tag_route(path)
+        page, context_nav = resolve_tag_route(path, source_ref, url_revision)
 
     if not page:
         raise Http404
@@ -87,7 +150,10 @@ def location_or_section(request, path):
     parent = None
     if page.page_type in NAV_TYPES | {"poi"} and "/" in page.path:
         parent_path = page.path.rsplit("/", 1)[0]
-        parent = load_page(parent_path)
+        parent = (
+            load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
+            if source_ref else load_page(parent_path)
+        )
 
     # Build sidebar nav: nav_pages from the parent (city or section_group).
     # For POIs the immediate parent is the section, which has no nav children —
@@ -100,7 +166,11 @@ def location_or_section(request, path):
         parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
         if page.page_type == "poi" and not parent_nav and "/" in parent.path:
             # Parent is a section with no nav children — use grandparent (city)
-            grandparent = load_page(parent.path.rsplit("/", 1)[0])
+            grandparent_path = parent.path.rsplit("/", 1)[0]
+            grandparent = (
+                load_page_from_revision(grandparent_path, source_ref, url_revision=url_revision)
+                if source_ref else load_page(grandparent_path)
+            )
             if grandparent and grandparent.page_type == "location":
                 parent_nav, parent_locations, _ = grandparent.children()
                 parent_nav = [p for p in parent_nav if p.page_type != "neighbourhood"]
@@ -116,10 +186,16 @@ def location_or_section(request, path):
     # Contextual URL prefix for POI links on nav pages (section/neighbourhood/theme).
     # Generates URLs like /city/de_pijp/albert_cuypmarkt instead of canonical /city/albert_cuypmarkt.
     poi_context_prefix = None
-    _city_path = _find_city_path(page.path) if page.page_type in NAV_TYPES else None
+    _city_path = (
+        _find_city_path(page.path, source_ref, url_revision)
+        if page.page_type in NAV_TYPES else None
+    )
     if page.page_type in NAV_TYPES and page.page_type != "section_group" and _city_path:
-        poi_context_prefix = f"/{_city_path}/{page.slug}/"
-    body_html = md.markdown(page.body) if page.body else ""
+        poi_context_prefix = f"{page.url_prefix}/{_city_path}/{page.slug}/"
+    body_html = (
+        _prefix_internal_links(md.markdown(page.body), page.url_prefix)
+        if page.body else ""
+    )
     nav_pages, locations, pois = page.children()
 
     # Separate neighbourhood pages from nav pages so they render inline under
@@ -135,7 +211,7 @@ def location_or_section(request, path):
         page.path if nav_pages and not locations else None
     )
     if _cpath:
-        city_tag_index = build_city_tag_index(_cpath)
+        city_tag_index = build_city_tag_index(_cpath, source_ref, url_revision)
 
     # Nav pages collect their POIs by tag; section_groups collect their child nav pages
     if page.page_type == "section_group":
@@ -161,16 +237,15 @@ def location_or_section(request, path):
     continent_bounds = page.meta.get("map_bounds") if is_continent else None
     page_map_bounds = page.meta.get("map_bounds") if not is_continent else None
 
-    image_path = _image_path(page, branch)
-    branch_qs = f'?branch={branch}' if branch else ''
-    hero_image_url = f'/content-image/{image_path}{branch_qs}' if image_path else None
+    image_path = _image_path(page, source_ref)
+    hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
-        nb_img = _image_path(nb, branch)
-        nb.image_url = f'/content-image/{nb_img}{branch_qs}' if nb_img else None
+        nb_img = _image_path(nb, source_ref)
+        nb.image_url = f'{nb.url_prefix}/content-image/{nb_img}' if nb_img else None
 
     # Don't show the neighbourhood strip unless at least 3 have images
     if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
@@ -179,8 +254,8 @@ def location_or_section(request, path):
     # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
     locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
     for loc in locations:
-        loc_img = _image_path(loc, branch)
-        loc.image_url = f'/content-image/{loc_img}{branch_qs}' if loc_img else None
+        loc_img = _image_path(loc, source_ref)
+        loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
         loc.card_children = []
         loc.card_children_total = 0
         if not loc.image_url:
@@ -188,9 +263,9 @@ def location_or_section(request, path):
             scored_locs = sorted(child_locs, key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True)
             # Inherit image from highest-scoring child that has one
             for cl in scored_locs:
-                cl_img = _image_path(cl, branch)
+                cl_img = _image_path(cl, source_ref)
                 if cl_img:
-                    loc.image_url = f'/content-image/{cl_img}{branch_qs}'
+                    loc.image_url = f'{cl.url_prefix}/content-image/{cl_img}'
                     loc.card_children = scored_locs[:5]
                     loc.card_children_total = len(scored_locs)
                     break
@@ -215,10 +290,10 @@ def location_or_section(request, path):
     poi_images = []
     if page.page_type in NAV_TYPES:
         for poi in pois:
-            img_path = _image_path(poi, branch)
+            img_path = _image_path(poi, source_ref)
             if img_path:
                 href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
-                poi_images.append({'url': f'/content-image/{img_path}{branch_qs}', 'title': poi.title, 'href': href})
+                poi_images.append({'url': f'{poi.url_prefix}/content-image/{img_path}', 'title': poi.title, 'href': href})
             if len(poi_images) >= 12:
                 break
 
@@ -240,7 +315,11 @@ def location_or_section(request, path):
             candidate_sections.append((section, section_pois))
         if total_pois < 8:
             inline_sections = [
-                {'section': s, 'body_html': md.markdown(s.body) if s.body else '', 'pois': sp}
+                {
+                    'section': s,
+                    'body_html': _prefix_internal_links(md.markdown(s.body), page.url_prefix) if s.body else '',
+                    'pois': sp,
+                }
                 for s, sp in candidate_sections
             ]
 
@@ -284,6 +363,7 @@ def location_or_section(request, path):
         "poi_context_prefix": poi_context_prefix,
         "poi_images": poi_images,
         "inline_sections": inline_sections,
+        "url_prefix": page.url_prefix,
     })
 
 
@@ -399,7 +479,23 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     return markers
 
 
-def _image_path(page, branch=None):
+IMAGE_SUFFIXES = ('.jpg', '.jpeg', '.png', '.webp')
+IMAGE_CONTENT_TYPES = {
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.png': 'image/png',
+    '.webp': 'image/webp',
+}
+
+
+def _safe_content_path(path):
+    candidate = Path(path)
+    if candidate.is_absolute() or ".." in candidate.parts:
+        return None
+    return path.strip("/")
+
+
+def _image_path(page, source_ref=None):
     image = page.meta.get('image', '')
     if not image:
         return None
@@ -407,12 +503,8 @@ def _image_path(page, branch=None):
         f'{page.path}/{image}',
         f'{page.path.rsplit("/", 1)[0]}/{image}' if '/' in page.path else image,
     ]:
-        if branch:
-            result = subprocess.run(
-                ['git', 'cat-file', '-e', f'{branch}:content/{candidate}'],
-                capture_output=True, check=False, cwd=str(settings.BASE_DIR),
-            )
-            if result.returncode == 0:
+        if source_ref:
+            if github.file_exists(source_ref, f"content/{candidate}"):
                 return candidate
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
@@ -422,25 +514,41 @@ def _image_path(page, branch=None):
 def content_image(request, path):
     branch = request.GET.get('branch')
     if branch:
+        source_ref = _resolve_any_revision(branch)
+        if not source_ref:
+            raise Http404
+        path = _safe_content_path(path)
+        if not path:
+            raise Http404
         suffix = Path(path).suffix.lower()
-        if suffix not in ('.jpg', '.jpeg', '.png', '.webp'):
+        if suffix not in IMAGE_SUFFIXES:
             raise Http404
-        result = subprocess.run(
-            ['git', 'show', f'{branch}:content/{path}'],
-            capture_output=True, check=False,
-            cwd=str(settings.BASE_DIR),
-        )
-        if result.returncode != 0:
+        data = github.get_file_bytes(source_ref, f"content/{path}")
+        if data is None:
             raise Http404
-        content_types = {'.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp'}
-        from django.http import HttpResponse
-        return HttpResponse(result.stdout, content_type=content_types[suffix])
+        return HttpResponse(data, content_type=IMAGE_CONTENT_TYPES[suffix])
     file_path = (CONTENT_DIR / path).resolve()
     if not file_path.is_relative_to(CONTENT_DIR.resolve()):
         raise Http404
-    if not file_path.is_file() or file_path.suffix.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+    if not file_path.is_file() or file_path.suffix.lower() not in IMAGE_SUFFIXES:
         raise Http404
     return FileResponse(open(file_path, 'rb'))
+
+
+def content_image_at_revision(request, revision, path):
+    source_ref = _resolve_revision_hash(revision)
+    if not source_ref:
+        raise Http404
+    path = _safe_content_path(path)
+    if not path:
+        raise Http404
+    suffix = Path(path).suffix.lower()
+    if suffix not in IMAGE_SUFFIXES:
+        raise Http404
+    data = github.get_file_bytes(source_ref, f"content/{path}")
+    if data is None:
+        raise Http404
+    return HttpResponse(data, content_type=IMAGE_CONTENT_TYPES[suffix])
 
 
 def _safe_float(value):
@@ -502,8 +610,15 @@ def _get_file_diffs(branch):
 
 
 def review(request):
-    '''Show all pages changed on a branch vs origin/main.'''
+    '''Show all pages changed on a revision vs origin/main.'''
     branch = request.GET.get('branch', 'HEAD')
+    full_hash = _resolve_any_revision(branch)
+    if not full_hash:
+        return render(request, 'guide/review.html', {
+            'error': f'Could not resolve {branch!r} to a git commit',
+            'branch': branch,
+        })
+    short_hash = _short_revision(full_hash)
     result = subprocess.run(
         ['git', 'log', branch, '--not', 'origin/main',
          '--no-merges', '--name-only', '--format=COMMIT: %s', '--', 'content/'],
@@ -522,7 +637,13 @@ def review(request):
     file_diffs = _get_file_diffs(branch)
 
     pages = _parse_review_log(result.stdout, deleted_files, file_diffs)
-    return render(request, 'guide/review.html', {'pages': pages, 'error': None, 'branch': branch})
+    return render(request, 'guide/review.html', {
+        'pages': pages,
+        'error': None,
+        'branch': branch,
+        'short_hash': short_hash,
+        'full_hash': full_hash,
+    })
 
 
 def _parse_review_log(output, deleted_files=None, file_diffs=None):

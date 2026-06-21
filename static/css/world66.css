@@ -85,6 +85,7 @@ img { max-width: 100%; height: auto; }
   margin-left: auto;
   display: flex;
   align-items: center;
+  gap: 10px;
 }
 
 /* ==========================================================================
@@ -327,6 +328,7 @@ img { max-width: 100%; height: auto; }
 
 .site-search input[type="search"] {
   flex: 1;
+  height: 28px;
   padding: 5px 10px;
   font-size: 13px;
   border: 1px solid var(--border);
@@ -344,6 +346,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .site-search button {
+  height: 28px;
   padding: 5px 10px;
   font-size: 13px;
   border: 1px solid var(--border);
@@ -356,6 +359,57 @@ img { max-width: 100%; height: auto; }
 
 .site-search button:hover {
   background: var(--red-dark);
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 0 0 auto;
+}
+
+.nav-icon-button {
+  width: 34px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border: 1px solid var(--line-2);
+  border-radius: 4px;
+  color: var(--ink);
+  background: var(--paper-2);
+  line-height: 1;
+  text-decoration: none;
+}
+
+.nav-icon-button:hover {
+  color: #fff;
+  background: var(--accent-ink);
+  border-color: var(--accent-ink);
+  text-decoration: none;
+}
+
+.nav-icon-button svg {
+  width: 17px;
+  height: 17px;
+  display: block;
+  flex: 0 0 auto;
+  fill: currentColor;
+}
+
+.nav-issue-button {
+  width: auto;
+  padding: 0 10px;
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.nav-issue-button svg {
+  fill: none;
 }
 
 /* Search results page */
@@ -3051,6 +3105,25 @@ img { max-width: 100%; height: auto; }
   .topnav-inner {
     gap: 8px;
     padding: 8px 12px;
+    flex-wrap: wrap;
+  }
+
+  .nav-right {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .site-search-wrap {
+    flex: 1 1 auto;
+  }
+
+  .nav-issue-button span {
+    display: none;
+  }
+
+  .nav-issue-button {
+    width: 34px;
+    padding: 0;
   }
 
   .destination-columns {

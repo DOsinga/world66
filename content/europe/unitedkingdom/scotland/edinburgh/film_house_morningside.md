@@ -3,9 +3,7 @@ address: 18 Newbattle Terrace, Edinburgh EH10 4RT
 latitude: 55.9336
 longitude: -3.2138
 score: 7.0
-snippet: Independent cinema in Morningside, one of Edinburgh's oldest surviving picture
-  houses, with several screens and the option to watch films from armchairs with table
-  service
+snippet: Independent cinema in Morningside, one of Edinburgh's oldest picture houses, with armchair seating and table service
 tags:
 - things_to_do
 - morningside

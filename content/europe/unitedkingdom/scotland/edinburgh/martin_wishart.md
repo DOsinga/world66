@@ -3,8 +3,7 @@ address: 54 The Shore, Edinburgh EH6 6RA
 latitude: 55.9755
 longitude: -3.1714
 score: 8.5
-snippet: One-Michelin-star restaurant on The Shore considered one of Scotland's finest
-  tables, with a refined menu built on Scottish produce and French classical technique
+snippet: One-Michelin-star restaurant on The Shore, one of Scotland's finest tables, built on Scottish produce
 tags:
 - eating_out
 - leith

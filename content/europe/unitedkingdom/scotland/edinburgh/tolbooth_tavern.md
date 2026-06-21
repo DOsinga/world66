@@ -3,8 +3,7 @@ address: 167 Canongate, Edinburgh EH8 8BN
 latitude: 55.951
 longitude: -3.1822
 score: 6.5
-snippet: Old Town pub in the Canongate Tolbooth building, a solid local with good
-  ales and a location among the Royal Mile's more interesting historic structures
+snippet: Old Town pub inside the Canongate Tolbooth building, a solid local with good ales
 tags:
 - bars_and_cafes
 - canongate

@@ -3,9 +3,7 @@ address: Bruntsfield Links, Edinburgh EH10 4HZ
 latitude: 55.9378
 longitude: -3.2038
 score: 7.0
-snippet: Historic common ground at the northern edge of Morningside where golf has
-  been played since the 15th century, with a free short-hole golf course and open
-  parkland
+snippet: Common ground where golf has been played since the 15th century, with a free short-hole course
 tags:
 - things_to_do
 - morningside

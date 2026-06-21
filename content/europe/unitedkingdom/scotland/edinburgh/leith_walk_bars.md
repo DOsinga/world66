@@ -3,9 +3,7 @@ address: Leith Walk, Edinburgh EH6
 latitude: 55.964
 longitude: -3.1793
 score: 6.5
-snippet: The main street connecting Edinburgh city centre to Leith, with a concentrated
-  stretch of independent bars, restaurants, and cafes that make it one of the city's
-  most interesting eating and drinking corridors
+snippet: Main street connecting Edinburgh's centre to Leith, lined with independent bars, restaurants, and cafes
 tags:
 - things_to_do
 - leith

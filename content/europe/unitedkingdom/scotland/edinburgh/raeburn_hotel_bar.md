@@ -3,9 +3,7 @@ address: 112 Raeburn Place, Edinburgh EH4 1HG
 latitude: 55.9601
 longitude: -3.2171
 score: 7.0
-snippet: Bar and restaurant in a handsome Victorian building on Raeburn Place, the
-  main commercial street of Stockbridge, with good food and a relaxed neighbourhood
-  atmosphere
+snippet: Bar and restaurant in a handsome Victorian building on Raeburn Place, Stockbridge's main commercial street
 tags:
 - bars_and_cafes
 - stockbridge

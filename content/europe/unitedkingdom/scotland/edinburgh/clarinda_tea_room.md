@@ -3,8 +3,7 @@ address: 69 Canongate, Edinburgh EH8 8BS
 latitude: 55.9506
 longitude: -3.1797
 score: 6.5
-snippet: Traditional tea room near the foot of the Royal Mile, serving home baking,
-  light lunches, and proper Scottish afternoon tea in a small, calm interior
+snippet: Traditional tea room near the Royal Mile, serving home baking and proper Scottish afternoon tea
 tags:
 - eating_out
 - canongate

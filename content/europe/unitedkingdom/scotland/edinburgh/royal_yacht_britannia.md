@@ -3,8 +3,7 @@ address: Ocean Terminal, Leith, Edinburgh EH6 6JJ
 latitude: 55.9811
 longitude: -3.1756
 score: 8.0
-snippet: The former royal yacht, now a museum ship moored in Leith docks, offering
-  tours of the state rooms, crew quarters, and engine room
+snippet: Former royal yacht, now a museum ship in Leith docks, with tours of the state rooms
 tags:
 - things_to_do
 - leith

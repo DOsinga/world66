@@ -3,8 +3,7 @@ address: Dock Place, Leith, Edinburgh EH6 6LU
 latitude: 55.9756
 longitude: -3.1714
 score: 7.0
-snippet: Saturday artisan food market in the docklands area of Leith, with local producers
-  selling cheese, fish, meat, baked goods, and street food
+snippet: Saturday artisan food market in Leith's docklands, with local producers selling cheese, fish, and baked goods
 tags:
 - things_to_do
 - leith

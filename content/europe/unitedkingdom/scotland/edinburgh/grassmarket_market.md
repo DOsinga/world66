@@ -3,8 +3,7 @@ address: Grassmarket, Edinburgh EH1 2JU
 latitude: 55.9473
 longitude: -3.1942
 score: 6.5
-snippet: Regular artisan market in the historic square beneath Edinburgh Castle, with
-  food stalls, crafts, and local produce
+snippet: Artisan market in the historic square beneath Edinburgh Castle, with food stalls, crafts, and local produce
 tags:
 - things_to_do
 - grassmarket_nb

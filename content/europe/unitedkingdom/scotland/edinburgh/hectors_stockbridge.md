@@ -3,8 +3,7 @@ address: 47-49 Deanhaugh Street, Stockbridge, Edinburgh EH4 1LR
 latitude: 55.9579
 longitude: -3.2113
 score: 6.5
-snippet: Neighbourhood cafe and restaurant in Stockbridge village, popular for brunch
-  and lunch with a good all-day menu
+snippet: Neighbourhood cafe and restaurant in Stockbridge village, popular for brunch with a good all-day menu
 tags:
 - eating_out
 - stockbridge

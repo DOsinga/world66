@@ -3,8 +3,7 @@ address: 379 High Street, Edinburgh EH1 1PW
 latitude: 55.9506
 longitude: -3.1861
 score: 7.5
-snippet: Serious whisky retailer on the Royal Mile with one of the best selections
-  of Scottish single malts in Edinburgh, including rare and independent bottlings
+snippet: Serious whisky retailer on the Royal Mile, one of Edinburgh's best selections of Scottish single malts
 tags:
 - things_to_do
 - canongate

@@ -3,8 +3,7 @@ address: 92 Grassmarket, Edinburgh EH1 2JR
 latitude: 55.9473
 longitude: -3.1958
 score: 6.5
-snippet: Grassmarket pub named after the woman who survived her own hanging in 1724
-  and was reprieved by an act of God
+snippet: Grassmarket pub named after the woman who survived her own hanging in 1724, reprieved by law
 tags:
 - bars_and_cafes
 - grassmarket_nb

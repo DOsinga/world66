@@ -3,8 +3,7 @@ address: 142 Canongate, Edinburgh EH8 8DD
 latitude: 55.9512
 longitude: -3.1803
 score: 7.0
-snippet: Free local history museum in Huntly House, a 16th-century tenement on the
-  Canongate, covering Edinburgh's history from prehistoric times to the present
+snippet: Free history museum in Huntly House, a 16th-century Canongate tenement covering Edinburgh's history to today
 tags:
 - things_to_do
 - canongate

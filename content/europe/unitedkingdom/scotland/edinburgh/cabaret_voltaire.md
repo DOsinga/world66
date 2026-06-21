@@ -3,8 +3,7 @@ address: 36-38 Blair Street, Edinburgh EH1 1QR
 latitude: 55.9475
 longitude: -3.1885
 score: 7.0
-snippet: Atmospheric underground club in the Old Town vaults, known for electronic
-  music and live acts, particularly during the Edinburgh Festival
+snippet: Underground club in the Old Town vaults, known for electronic music and live acts
 tags:
 - bars_and_cafes
 - grassmarket_nb

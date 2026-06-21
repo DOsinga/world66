@@ -3,8 +3,7 @@ address: 43 Broughton Street Lane, Edinburgh
 latitude: 55.937
 longitude: -3.21
 score: 7.0
-snippet: Morningside neighbourhood cafe-restaurant with a strong brunch and lunch
-  offering, using seasonal Scottish produce in a relaxed, informal setting
+snippet: Morningside neighbourhood cafe-restaurant with a strong brunch and lunch offering, using seasonal Scottish produce
 tags:
 - eating_out
 - morningside

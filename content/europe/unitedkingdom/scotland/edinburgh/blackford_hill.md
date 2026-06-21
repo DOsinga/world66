@@ -3,8 +3,7 @@ address: Blackford Hill, Edinburgh EH9 3HJ
 latitude: 55.9293
 longitude: -3.1915
 score: 7.5
-snippet: Hill park on the edge of Morningside with panoramic views of Edinburgh, including
-  the Royal Observatory, a pond with wildlife, and walking paths through woodland
+snippet: Hill park on Morningside's edge with panoramic Edinburgh views, the Royal Observatory, and woodland walking paths
 tags:
 - things_to_do
 - morningside

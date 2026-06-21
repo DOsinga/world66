@@ -3,8 +3,7 @@ address: 1 Comely Bank Road, Stockbridge, Edinburgh EH4 1DT
 latitude: 55.9602
 longitude: -3.215
 score: 7.5
-snippet: Tom Kitchin's relaxed neighbourhood pub and restaurant in Stockbridge, serving
-  elevated Scottish comfort food in a casual setting
+snippet: Tom Kitchin's relaxed neighbourhood pub and restaurant in Stockbridge, serving elevated Scottish comfort food
 tags:
 - eating_out
 - stockbridge

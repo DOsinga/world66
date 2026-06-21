@@ -3,8 +3,7 @@ address: Abbey Strand, Edinburgh EH8 8DX
 latitude: 55.9522
 longitude: -3.1727
 score: 6.5
-snippet: The small precinct immediately outside the gates of Holyrood Palace, which
-  served as a sanctuary for debtors in the 17th and 18th centuries
+snippet: Small precinct outside the gates of Holyrood Palace, once a sanctuary for 17th and 18th-century debtors
 tags:
 - things_to_do
 - canongate

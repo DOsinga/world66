@@ -3,8 +3,7 @@ address: Holyrood Palace, Edinburgh EH8 8DX
 latitude: 55.9522
 longitude: -3.1722
 score: 7.0
-snippet: Roofless ruin of the Augustinian abbey founded by King David I in 1128, adjacent
-  to the Palace of Holyroodhouse, with an evocative nave and royal burial vaults
+snippet: Roofless ruin of the Augustinian abbey founded in 1128, beside the Palace of Holyroodhouse
 tags:
 - things_to_do
 - canongate

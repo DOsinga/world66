@@ -3,8 +3,7 @@ address: Stockbridge, Edinburgh EH4
 latitude: 55.9577
 longitude: -3.2108
 score: 8.0
-snippet: 12-mile riverside walking path from Balerno to Leith, passing through Stockbridge
-  and Dean Village, one of the best urban walks in Scotland
+snippet: 12-mile riverside walking path from Balerno to Leith, passing through Stockbridge and Dean Village
 tags:
 - things_to_do
 - stockbridge

@@ -3,8 +3,7 @@ address: Saunders Street, Stockbridge, Edinburgh EH3 6TQ
 latitude: 55.9578
 longitude: -3.2118
 score: 7.5
-snippet: Popular Sunday market in a cobbled car park in Stockbridge village, with
-  artisan food, local produce, crafts, and street food stalls
+snippet: Popular Sunday market in a Stockbridge car park, with artisan food, local produce, and craft stalls
 tags:
 - things_to_do
 - stockbridge

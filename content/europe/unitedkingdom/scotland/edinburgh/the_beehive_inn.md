@@ -3,8 +3,7 @@ address: 18-20 Grassmarket, Edinburgh EH1 2JU
 latitude: 55.9472
 longitude: -3.1935
 score: 7.0
-snippet: One of the oldest pubs on the Grassmarket, occupying a building that has
-  been a tavern since the 18th century
+snippet: Among the oldest pubs on the Grassmarket, a tavern since the 18th century
 tags:
 - bars_and_cafes
 - grassmarket_nb

@@ -3,8 +3,7 @@ address: The Shore, Leith, Edinburgh EH6 6QW
 latitude: 55.9751
 longitude: -3.1727
 score: 7.5
-snippet: Cobbled waterfront street along Leith's old harbour, lined with restaurants
-  and bars in converted warehouses, the heart of regenerated Leith
+snippet: Cobbled waterfront street along Leith's old harbour, lined with restaurants and bars in converted warehouses
 tags:
 - things_to_do
 - leith

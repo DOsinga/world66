@@ -3,8 +3,7 @@ address: 43-45 High Street, Edinburgh EH1 1SR
 latitude: 55.9503
 longitude: -3.1837
 score: 6.5
-snippet: One of the oldest surviving buildings in Edinburgh, associated with the Protestant
-  reformer John Knox, now a museum about his life and the Scottish Reformation
+snippet: Among Edinburgh's oldest surviving buildings, linked to reformer John Knox, now a museum on the Reformation
 tags:
 - things_to_do
 - canongate

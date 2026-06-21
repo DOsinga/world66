@@ -3,9 +3,7 @@ address: Morningside Road, Edinburgh EH10
 latitude: 55.9347
 longitude: -3.2085
 score: 6.5
-snippet: The main commercial street of Morningside, with independent butchers, bakers,
-  delicatessens, and cafes serving one of Edinburgh's most prosperous residential
-  neighbourhoods
+snippet: Main commercial street of Morningside, with independent butchers, bakers, delicatessens, and cafes for a prosperous neighbourhood
 tags:
 - things_to_do
 - morningside

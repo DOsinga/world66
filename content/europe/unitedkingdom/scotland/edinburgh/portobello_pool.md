@@ -3,8 +3,7 @@ address: 57 The Promenade, Portobello, Edinburgh EH15 2BS
 latitude: 55.9554
 longitude: -3.1093
 score: 7.0
-snippet: Victorian swimming baths on the Portobello promenade with a Turkish suite,
-  recently restored as a functioning leisure facility
+snippet: Victorian swimming baths on the Portobello promenade with a Turkish suite, recently restored and functioning
 tags:
 - things_to_do
 - portobello

@@ -3,8 +3,7 @@ address: 5 Crichton's Close, Edinburgh EH8 8DT
 latitude: 55.9509
 longitude: -3.1792
 score: 7.0
-snippet: Purpose-built library dedicated to Scottish poetry, with a free reading room,
-  regular events, and an architecture award-winning building just off the Canongate
+snippet: Purpose-built library dedicated to Scottish poetry, with a free reading room off the Canongate
 tags:
 - things_to_do
 - canongate

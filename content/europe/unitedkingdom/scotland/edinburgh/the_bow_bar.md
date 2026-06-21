@@ -3,8 +3,7 @@ address: 80 West Bow, Edinburgh EH1 2JP
 latitude: 55.9478
 longitude: -3.1937
 score: 7.5
-snippet: Serious real ale pub on the West Bow, with one of the best selections of
-  Scottish cask ales and malt whiskies in the Old Town
+snippet: Serious real ale pub on the West Bow, with one of the best whisky selections around
 tags:
 - bars_and_cafes
 - grassmarket_nb

@@ -3,8 +3,7 @@ address: 1c Dock Place, Edinburgh EH6 6LU
 latitude: 55.9752
 longitude: -3.1713
 score: 7.0
-snippet: Leith pub with a large whisky selection and an outdoor floating pontoon,
-  one of the most enjoyable spots for a drink on a summer evening
+snippet: Leith pub with a large whisky selection and an outdoor floating pontoon for summer evenings
 tags:
 - bars_and_cafes
 - leith

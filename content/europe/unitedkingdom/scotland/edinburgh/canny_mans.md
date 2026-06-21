@@ -3,8 +3,7 @@ address: 237 Morningside Road, Edinburgh EH10 4QU
 latitude: 55.9341
 longitude: -3.2081
 score: 8.0
-snippet: Edinburgh's most eccentric pub, a Victorian local on Morningside Road crammed
-  with extraordinary memorabilia and run by the Watson family since 1871
+snippet: Eccentric Victorian pub on Morningside Road, crammed with memorabilia, run by the Watson family since 1871
 tags:
 - bars_and_cafes
 - morningside

@@ -3,8 +3,7 @@ address: 8 Broughton Street, Edinburgh EH1 3RH
 latitude: 55.9588
 longitude: -3.187
 score: 6.5
-snippet: Edinburgh's best-established wholefood and organic grocer, stocking a wide
-  range of bulk foods, health products, and Scottish organic produce
+snippet: Edinburgh's best-established wholefood grocer, stocking bulk foods, health products, and Scottish organic produce
 tags:
 - things_to_do
 - stockbridge

@@ -3,8 +3,7 @@ address: 163 Canongate, Edinburgh EH8 8BN
 latitude: 55.951
 longitude: -3.1819
 score: 6.5
-snippet: Free museum in the Canongate Tolbooth telling the story of Edinburgh's working
-  people from the 18th century to the present day
+snippet: Free museum in the Canongate Tolbooth, telling the story of Edinburgh's working people since 1700
 tags:
 - things_to_do
 - canongate

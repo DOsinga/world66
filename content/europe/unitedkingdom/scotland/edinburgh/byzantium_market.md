@@ -3,8 +3,7 @@ address: 9 Victoria Street, Edinburgh EH1 2HE
 latitude: 55.948
 longitude: -3.1934
 score: 6.5
-snippet: Covered antiques and collectables market in the vaults beneath Victoria Street,
-  a warren of dealers selling jewellery, ceramics, and curiosities
+snippet: Covered antiques market in the vaults beneath Victoria Street, dealers selling jewellery, ceramics, and curiosities
 tags:
 - things_to_do
 - grassmarket_nb

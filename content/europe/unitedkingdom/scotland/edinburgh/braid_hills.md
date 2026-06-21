@@ -3,8 +3,7 @@ address: Braid Hills Drive, Edinburgh EH10 6JH
 latitude: 55.9285
 longitude: -3.205
 score: 7.5
-snippet: Green hills on the southern edge of Morningside, with walks offering views
-  across Edinburgh to the Firth of Forth and the hills of Fife
+snippet: Green hills on Morningside's southern edge, with walking trails offering views across Edinburgh to the Forth
 tags:
 - things_to_do
 - morningside

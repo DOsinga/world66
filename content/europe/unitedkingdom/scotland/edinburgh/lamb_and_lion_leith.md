@@ -3,8 +3,7 @@ address: 58 Constitution Street, Edinburgh EH6 6RS
 latitude: 55.973
 longitude: -3.1723
 score: 7.0
-snippet: Old-fashioned Leith local that was the sailors' pub for generations, with
-  a distinctive low-ceilinged interior decorated with maritime memorabilia
+snippet: Old-fashioned Leith local, the sailors' pub for generations, with a low-ceilinged interior of maritime memorabilia
 tags:
 - bars_and_cafes
 - leith

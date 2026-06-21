@@ -1,7 +1,7 @@
 ---
 latitude: 55.9488
 longitude: -3.1111
-snippet: Victorian seaside suburb with sandy beach, promenade and outdoor lido
+snippet: Victorian seaside suburb with a sandy beach, promenade, and a historic outdoor lido
 tags:
   - things_to_do
   - neighbourhood

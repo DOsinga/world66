@@ -3,8 +3,7 @@ address: 1 The Shore, Edinburgh EH6 6QW
 latitude: 55.9751
 longitude: -3.1726
 score: 7.5
-snippet: Long-established seafood bistro in a 17th-century signal tower on The Shore,
-  serving Scottish fish and shellfish in a relaxed, unfussy setting
+snippet: Long-established seafood bistro in a 17th-century signal tower on The Shore, relaxed and unfussy
 tags:
 - eating_out
 - leith

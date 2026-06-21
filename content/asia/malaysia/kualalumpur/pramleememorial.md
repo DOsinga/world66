@@ -5,13 +5,14 @@ done:
 latitude: 3.194886
 longitude: 101.709167
 opening_hours: 10am - 5pm daily, closed Monday (except public and school holidays)
-snippet: Memorial to Malaysia’s most beloved entertainer
+score: 5.8
+snippet: Small museum in P. Ramlee's former Ampang home, honouring Malaysia's greatest
+  actor, singer, and director
 tags:
 - things_to_do
 - museum
 title: P. Ramlee Memorial
 type: poi
-score: 5.8
 ---
 
 A small museum dedicated to P. Ramlee (1929-1973), Malaysia’s most celebrated entertainer. Actor, director, singer, and composer, Ramlee starred in over 60 films and recorded hundreds of songs that remain cultural touchstones across the Malay-speaking world.

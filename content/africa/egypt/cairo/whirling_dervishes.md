@@ -1,15 +1,22 @@
 ---
-title: "Whirling Dervishes at Al-Ghouri"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - islamic_cairo
 latitude: 30.0508
 longitude: 31.2576
-story: >
-  The Sufi ceremony known as the Sema — the spinning meditation that outsiders call "whirling dervishes" — is a spiritual practice, not a performance, though in Cairo it has been staged for visitors since the 1980s. The performers at the Al-Ghouri complex are members of a genuine Sufi order who do the ceremony publicly partly as outreach. The spinning, which can last an hour or more, induces a state of spiritual ecstasy (they say) and certainly induces a dizzying kind of wonder in spectators.
 score: 8.4
+snippet: Weekly Sufi tanoura spinning ceremony at the Al-Ghouri complex in Khan el-Khalili
+story: 'The Sufi ceremony known as the Sema — the spinning meditation that outsiders
+  call "whirling dervishes" — is a spiritual practice, not a performance, though in
+  Cairo it has been staged for visitors since the 1980s. The performers at the Al-Ghouri
+  complex are members of a genuine Sufi order who do the ceremony publicly partly
+  as outreach. The spinning, which can last an hour or more, induces a state of spiritual
+  ecstasy (they say) and certainly induces a dizzying kind of wonder in spectators.
+
+  '
+tags:
+- things_to_do
+- sight
+- islamic_cairo
+title: Whirling Dervishes at Al-Ghouri
+type: poi
 ---
 
 The Mausoleum and Wikala of Al-Ghouri, a 16th-century Mamluk complex in Islamic Cairo, hosts regular performances by Sufi dancers — the whirling dervishes of legend. These take place on Wednesday and Saturday evenings, free of charge, and are among the most atmospheric things to do in Cairo.

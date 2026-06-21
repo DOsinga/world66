@@ -4,13 +4,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 3.142054
 longitude: 101.691793
-snippet: Modernist mosque with star-shaped roof and 73-metre minaret
+score: 8.3
+snippet: Modernist 1965 mosque with a star-shaped concrete canopy and a 73-metre minaret,
+  free entry to non-Muslims
 tags:
 - things_to_do
 - landmark
+- lake_gardens
 title: National Mosque
 type: poi
-score: 8.3
 ---
 
 The National Mosque sits on Jalan Sultan Hishamuddin, surrounded by landscaped gardens near the old railway station. Completed in 1965, its roof takes the shape of an eighteen-pointed star, resembling a partly opened umbrella. The design is considered one of the finest examples of modern Islamic architecture in Malaysia.

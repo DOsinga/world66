@@ -9,7 +9,7 @@ latitude: 42.4833
 loc_type: region
 longitude: 18.6833
 score: 0.76
-snippet: Adriatic bay of steep limestone inlets and Venetian shore towns folded into Montenegro's mountains.
+snippet: Montenegrin Adriatic bay of steep limestone inlets and Venetian towns tucked below the mountains.
 title: Bay of Kotor
 type: location
 ---

@@ -4,7 +4,7 @@ image_attribution: <bdi><a href="https://www.wikidata.org/wiki/Q28147777" class=
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Perú,_2015-07-30,_DD_47.JPG
 loc_type: continent
-snippet: Vast southern continent where the Andes, Amazon basin, deserts, and cosmopolitan cities shape every journey.
+snippet: Southern continent shaped by the Andes, Amazon basin, deserts, and a dense mix of cultures.
 title: South America
 type: location
 ---

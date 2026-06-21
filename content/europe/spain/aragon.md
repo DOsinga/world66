@@ -5,6 +5,7 @@ latitude: 41.378729
 loc_type: region
 longitude: -0.763937
 score: 0.57
+snippet: Northern Spanish region where the Ebro plain rises to Pyrenean valleys and Mudéjar towns.
 title: Aragon
 type: location
 ---

@@ -6,6 +6,7 @@ latitude: 36.717324
 loc_type: city
 longitude: 25.333112
 score: 0.6
+snippet: Cycladic island of whitewashed Chora, busy beach nightlife, and an unlikely Homeric burial claim.
 title: Ios
 type: location
 ---

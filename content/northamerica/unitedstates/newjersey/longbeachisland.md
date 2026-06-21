@@ -5,7 +5,7 @@ latitude: 39.6349
 loc_type: feature
 longitude: -74.1856
 score: 0.41
-snippet: Jersey Shore barrier island of wide beaches, bay sunsets, and lighthouse-tipped fishing towns.
+snippet: New Jersey barrier island of wide Atlantic beaches, bay sunsets, and lighthouse-tipped fishing towns.
 title: Long Beach Island
 type: location
 ---

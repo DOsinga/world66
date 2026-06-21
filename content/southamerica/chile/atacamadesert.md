@@ -9,7 +9,7 @@ latitude: -24.556303
 loc_type: feature
 longitude: -69.422648
 score: 0.64
-snippet: Northern Chilean desert of salt flats, rust canyons, geysers, and ancient geoglyphs below the Andes.
+snippet: Northern Chilean desert where salt flats, rust canyons, geysers, and ancient geoglyphs sit below the Andes.
 title: Atacama Desert
 type: location
 ---

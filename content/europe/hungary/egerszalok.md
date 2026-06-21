@@ -6,7 +6,7 @@ latitude: 47.870233
 loc_type: city
 longitude: 20.323833
 score: 0.43
-snippet: Small Hungarian spa village in the Bükk foothills, known for white thermal terraces near Eger.
+snippet: Northern Hungarian spa village where hot mineral water builds white terraces below the Bükk foothills.
 title: Egerszalók
 type: location
 ---

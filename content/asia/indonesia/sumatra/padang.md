@@ -10,7 +10,7 @@ latitude: -0.9248
 loc_type: city
 longitude: 100.3633
 score: 0.38
-snippet: West Sumatran port city and gateway to Minangkabau highlands, with Chinatown food and sunset beaches.
+snippet: West Sumatran capital and Minangkabau gateway, with waterfront Chinatown, beach sunsets, and rich food culture.
 title: Padang
 type: location
 ---

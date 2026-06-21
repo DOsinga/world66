@@ -11,7 +11,7 @@ latitude: 15.5636
 loc_type: city
 longitude: 32.5349
 score: 0.23
-snippet: Sudanese capital at the Blue and White Nile confluence, with colonial streets and Omdurman across the water.
+snippet: Sudanese capital where the Blue and White Nile meet beside colonial Khartoum and older Omdurman.
 title: Khartoum
 type: location
 ---

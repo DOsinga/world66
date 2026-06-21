@@ -10,6 +10,7 @@ latitude: 10.4496
 loc_type: city
 longitude: -64.1578
 score: 0.28
+snippet: Venezuelan colonial city on the Gulf of Cariaco, founded early and lined with forts.
 title: Cumaná
 type: location
 ---

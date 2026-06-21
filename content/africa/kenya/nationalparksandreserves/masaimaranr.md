@@ -10,6 +10,7 @@ latitude: -1.4833
 loc_type: region
 longitude: 35.1667
 score: 0.84
+snippet: Kenyan savanna reserve on the Serengeti's northern edge, known for lions and Great Migration crossings.
 sources:
 - https://en.wikipedia.org/wiki/Maasai_Mara
 - https://en.wikipedia.org/wiki/Wildebeest_migration_in_East_Africa

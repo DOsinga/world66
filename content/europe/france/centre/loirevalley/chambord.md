@@ -5,7 +5,7 @@ latitude: 47.6161
 loc_type: feature
 longitude: 1.517
 score: 0.62
-snippet: Loire château rising from Sologne forest, famous for its towers, chimneys, and double-helix staircase.
+snippet: Royal Loire château in Sologne forest, all towers, chimneys, dormers, and a double-helix staircase.
 title: Chambord
 type: location
 ---

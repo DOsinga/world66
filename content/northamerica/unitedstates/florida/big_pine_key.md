@@ -1,16 +1,17 @@
 ---
-title: Big Pine Key
-type: location
-loc_type: city
+done:
+  location_enrich: '2026-06-01'
 latitude: 24.6986
+loc_type: city
 longitude: -81.3792
 score: 0.42
+snippet: Florida Keys island where pine rockland shelters tiny Key deer beside Looe Key reef waters.
 sources:
 - https://en.wikipedia.org/wiki/Big_Pine_Key,_Florida
 - https://en.wikipedia.org/wiki/National_Key_Deer_Refuge
 - https://en.wikipedia.org/wiki/Looe_Key_National_Marine_Sanctuary
-done:
-  location_enrich: '2026-06-01'
+title: Big Pine Key
+type: location
 ---
 
 Big Pine Key sits roughly in the middle of the Florida Keys chain, about 33 miles northeast of Key West, and it punches well above its weight for a small island. Two ecosystems overlap here in a way that doesn't happen anywhere else on earth: above the waterline, the National Key Deer Refuge shelters the miniature Key deer — a subspecies of white-tailed deer that stands barely two feet at the shoulder and was nearly hunted to extinction by the 1950s. Below the surface, Looe Key holds one of the most pristine coral reefs in the entire Florida Keys National Marine Sanctuary.

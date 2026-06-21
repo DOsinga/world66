@@ -9,6 +9,7 @@ latitude: 39.250125
 loc_type: city
 longitude: -119.951909
 score: 0.45
+snippet: Lake Tahoe village on Nevada's pine-fringed northeast shore, with beaches below Diamond Peak.
 title: Incline Village
 type: location
 ---

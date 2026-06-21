@@ -1,10 +1,11 @@
 ---
-title: Narsarsuaq
-type: location
-loc_type: city
 latitude: 61.16
+loc_type: city
 longitude: -45.42
 score: 0.38
+snippet: South Greenland airport settlement on Tunulliarfik fjord, gateway to Norse ruins and glacier country.
+title: Narsarsuaq
+type: location
 ---
 
 Narsarsuaq is a small settlement in southern Greenland, sitting at the head of the Tunulliarfik fjord. It is barely a town — a few hundred residents, a hotel, and an airport — but it serves as the main gateway to the Norse ruins and hiking landscapes of the South Greenland region.

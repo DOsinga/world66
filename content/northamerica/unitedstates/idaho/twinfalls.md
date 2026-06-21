@@ -9,7 +9,7 @@ latitude: 42.555854
 loc_type: city
 longitude: -114.470068
 score: 0.42
-snippet: Southern Idaho city on the Snake River Canyon rim, with Shoshone Falls just upstream.
+snippet: Snake River Canyon city in southern Idaho, with Shoshone Falls dropping just east of town.
 sources:
 - https://en.wikipedia.org/wiki/Twin_Falls,_Idaho
 - https://en.wikipedia.org/wiki/Shoshone_Falls

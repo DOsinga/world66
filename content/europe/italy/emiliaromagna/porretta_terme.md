@@ -6,7 +6,7 @@ latitude: 44.15916
 loc_type: city
 longitude: 10.972301
 score: 0.4
-snippet: Apennine spa town on the Reno River, known for thermal waters and a July soul festival.
+snippet: Thermal spa town in the Apennines, set on the Reno River between Bologna and Florence.
 sources:
 - https://en.wikipedia.org/wiki/Porretta_Terme
 title: Porretta Terme

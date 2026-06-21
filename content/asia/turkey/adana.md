@@ -6,8 +6,9 @@ latitude: 36.98636
 loc_type: city
 longitude: 35.325286
 score: 0.37
+snippet: Large Turkish city on the Seyhan River, rooted in the cotton-growing Çukurova
+  plain.
 title: Adana
-snippet: "Large Turkish city on the Seyhan River, rooted in the cotton-growing Cukurova plain."
 type: location
 ---
 

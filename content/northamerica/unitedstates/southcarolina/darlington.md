@@ -7,6 +7,7 @@ loc_type: city
 longitude: -79.9439
 score: 0.25
 title: Darlington
+snippet: Small Pee Dee tobacco-country city famous for Darlington Raceway, NASCAR's oldest operating superspeedway
 type: location
 ---
 

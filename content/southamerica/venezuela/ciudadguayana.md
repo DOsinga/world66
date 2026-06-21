@@ -5,6 +5,7 @@ done:
 latitude: 8.322376
 longitude: -62.689662
 title: Ciudad Guayana
+snippet: Planned industrial city at the Orinoco-Caroní confluence, with river parks and hydroelectric-era museums
 type: location
 score: 0.22
 loc_type: city

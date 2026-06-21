@@ -7,6 +7,7 @@ longitude: 111.007
 sources:
 - https://en.wikivoyage.org/wiki/Yuncheng
 title: Yuncheng
+snippet: Ancient Shanxi plains city near the Yellow River bend, associated with Emperor Shun and Guan Yu
 type: location
 score: 0.33
 ---

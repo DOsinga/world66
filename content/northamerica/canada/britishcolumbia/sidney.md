@@ -10,6 +10,7 @@ latitude: 48.6506
 longitude: -123.3983
 score: 0.39
 title: Sidney
+snippet: Seaside Vancouver Island town on the Saanich Peninsula, known for bookshops and Gulf Islands ferries
 type: location
 loc_type: city
 ---

@@ -9,6 +9,7 @@ score: 0.12
 sources:
 - https://en.wikipedia.org/wiki/Pyongyang
 title: Pyongyang
+snippet: Monumental North Korean capital rebuilt along the Taedong River as a showcase of socialist state design
 type: location
 ---
 

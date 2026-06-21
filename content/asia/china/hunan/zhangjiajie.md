@@ -11,6 +11,7 @@ longitude: 110.4844
 sources:
 - https://en.wikivoyage.org/wiki/Zhangjiajie
 title: Zhangjiajie
+snippet: Hunan gateway city for Wulingyuan's sandstone pillars, forested gorges, and Avatar-famous mountain scenery
 type: location
 score: 0.65
 ---

@@ -13,6 +13,7 @@ loc_type: city
 longitude: 11.967017
 score: 0.53
 title: Gothenburg
+snippet: Sweden's canal-laced second city, shaped by Dutch planning, maritime trade, and a working harbour
 type: location
 ---
 

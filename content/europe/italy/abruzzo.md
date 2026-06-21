@@ -6,6 +6,7 @@ loc_type: region
 longitude: 13.854983
 score: 0.6
 title: Abruzzo
+snippet: Mountainous central Italian region between the Apennines and Adriatic, rich in national parks and wildlife
 type: location
 ---
 

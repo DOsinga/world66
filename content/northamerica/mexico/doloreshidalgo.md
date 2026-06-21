@@ -11,6 +11,7 @@ loc_type: city
 longitude: -100.9369
 score: 0.42
 title: Dolores Hidalgo
+snippet: Mexican independence town where Miguel Hidalgo's 1810 Grito began the revolt against Spanish rule
 type: location
 ---
 

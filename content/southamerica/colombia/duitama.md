@@ -7,6 +7,7 @@ loc_type: city
 longitude: -73.069137
 score: 0.33
 title: Duitama
+snippet: Boyacá highland city in a cool mountain valley, used as a base for nearby colonial towns
 type: location
 image: duitama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Duitama_(2007).jpg

@@ -6,6 +6,7 @@ loc_type: region
 longitude: -4.087838
 score: 0.61
 title: Cantabria
+snippet: Green northern Spanish region where Atlantic beaches, Picos de Europa foothills, and prehistoric cave art meet
 type: location
 ---
 

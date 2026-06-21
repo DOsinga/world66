@@ -1,5 +1,6 @@
 ---
 title: Puerto Rico
+snippet: Caribbean U.S. territory with boricua culture, walled San Juan, rainforest, mountains, and surf coastlines
 type: location
 latitude: 18.2208
 longitude: -66.5901

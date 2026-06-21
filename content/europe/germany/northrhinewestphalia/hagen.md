@@ -11,6 +11,7 @@ loc_type: city
 longitude: 7.473296
 score: 0.31
 title: Hagen
+snippet: Southeastern Ruhr city where Karl Ernst Osthaus left an unexpected legacy of Jugendstil and modern art
 type: location
 ---
 

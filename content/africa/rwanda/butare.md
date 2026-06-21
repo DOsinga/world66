@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Ethnographic_Museum_(Rwanda)
 - https://www.discoverrwanda.net/cities/huye/
 title: Butare
+snippet: Rwanda's old intellectual capital, shaped by the university, national museum, and quieter southern rhythms
 type: location
 score: 0.33
 ---

@@ -11,6 +11,7 @@ loc_type: city
 longitude: 153.074391
 score: 0.49
 title: Rainbow Beach
+snippet: Small Queensland beach town and K'gari gateway, backed by coloured sand cliffs and the Carlo Sandblow
 type: location
 ---
 

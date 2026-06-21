@@ -8,6 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/San_Miguel_de_Allende
 - https://en.wikivoyage.org/wiki/San_Miguel_de_Allende
 title: San Miguel de Allende
+snippet: High-desert colonial city in Guanajuato, centred on ochre streets and the pink Parroquia skyline
 type: location
 image: sanmigueldeallende.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mesones_Street_SnMiguelAllende2019.jpg

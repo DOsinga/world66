@@ -12,6 +12,7 @@ score: 0.51
 sources:
 - https://en.wikipedia.org/wiki/Sant_Feliu_de_Gu%C3%ADxols
 title: Sant Feliu de Guíxols
+snippet: Old Costa Brava port town with cork-trade roots, a working harbour, and a Romanesque monastery
 type: location
 ---
 

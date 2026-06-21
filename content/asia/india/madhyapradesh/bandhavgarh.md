@@ -9,6 +9,8 @@ latitude: 23.6889
 loc_type: city
 longitude: 80.9685
 score: 0.48
+snippet: Madhya Pradesh national park in the Vindhya Hills, known for Bengal tigers
+  and an ancient fort.
 title: Bandhavgarh
 type: location
 ---

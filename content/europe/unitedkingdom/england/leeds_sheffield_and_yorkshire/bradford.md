@@ -11,6 +11,8 @@ latitude: 53.794423
 loc_type: city
 longitude: -1.751919
 score: 0.34
+snippet: West Yorkshire city built on wool, with Victorian mills and major science
+  and media collections.
 title: Bradford
 type: location
 ---

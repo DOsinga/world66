@@ -10,6 +10,8 @@ latitude: 42.846509
 loc_type: city
 longitude: -2.672403
 score: 0.47
+snippet: Basque Country capital with a hilltop medieval old town and notably green
+  urban planning.
 title: Vitoria-Gasteiz
 type: location
 ---

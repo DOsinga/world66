@@ -6,6 +6,8 @@ latitude: 38.691184
 loc_type: city
 longitude: -75.075272
 score: 0.34
+snippet: Delaware beach town between the Atlantic and Rehoboth Bay, known for watersports
+  and nightlife.
 title: Dewey Beach
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -19.047725
 loc_type: city
 longitude: -65.259431
 score: 0.52
+snippet: Bolivia's constitutional capital, a whitewashed colonial city central to
+  the country's independence history.
 title: Sucre
 type: location
 ---

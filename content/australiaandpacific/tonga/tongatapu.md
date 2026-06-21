@@ -5,6 +5,8 @@ latitude: -21.166707
 loc_type: region
 longitude: -175.1982
 score: 0.52
+snippet: Tonga's largest island and main population centre, with Nuku'alofa on its
+  north coast.
 title: Tongatapu
 type: location
 ---

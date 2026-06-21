@@ -10,6 +10,8 @@ latitude: 57.8174
 loc_type: city
 longitude: 28.3343
 score: 0.39
+snippet: Ancient city on the Velikaya River, centred on a heavily besieged medieval
+  kremlin.
 title: Pskov
 type: location
 ---

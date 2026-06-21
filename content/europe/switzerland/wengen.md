@@ -9,6 +9,8 @@ latitude: 46.605441
 loc_type: city
 longitude: 7.921724
 score: 0.62
+snippet: Car-free Bernese Oberland village on a terrace above Lauterbrunnen, reached
+  by cog railway.
 title: Wengen
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 26.304
 loc_type: city
 longitude: 50.196024
 score: 0.21
+snippet: Eastern Province Gulf city that grew from fishing settlement into part of
+  Saudi Arabia's oil conurbation.
 title: Khobar
 type: location
 ---

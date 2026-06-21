@@ -5,6 +5,8 @@ latitude: 8.063464
 loc_type: city
 longitude: 98.916235
 score: 0.6
+snippet: Provincial capital on the Krabi River, with markets and temples near Andaman
+  coast ferries.
 title: Krabi Town
 type: location
 ---

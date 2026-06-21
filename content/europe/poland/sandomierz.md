@@ -10,6 +10,7 @@ latitude: 50.679307
 loc_type: city
 longitude: 21.749506
 score: 0.47
+snippet: Historic Polish town on a Vistula bluff, with a compact medieval old centre.
 title: Sandomierz
 type: location
 ---

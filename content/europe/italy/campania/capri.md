@@ -10,6 +10,8 @@ latitude: 40.548843
 loc_type: city
 longitude: 14.228371
 score: 0.69
+snippet: Rocky Bay of Naples island with Roman imperial ruins, cliff paths, and long
+  literary associations.
 title: Capri
 type: location
 ---

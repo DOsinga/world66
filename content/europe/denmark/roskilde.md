@@ -9,6 +9,8 @@ latitude: 55.643348
 loc_type: city
 longitude: 12.081925
 score: 0.5
+snippet: Former Danish capital with a Viking ship museum and cathedral burial church
+  of Danish monarchs.
 sources:
 - https://en.wikipedia.org/wiki/Roskilde
 - https://www.vikingeskibsmuseet.dk

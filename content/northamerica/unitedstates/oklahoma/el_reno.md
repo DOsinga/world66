@@ -10,6 +10,8 @@ latitude: 35.532198
 loc_type: city
 longitude: -97.955058
 score: 0.25
+snippet: Route 66 town west of Oklahoma City, best known for its onion-fried burger
+  tradition.
 title: El Reno
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 47.229118
 loc_type: city
 longitude: 16.618762
 score: 0.39
+snippet: Western Hungarian city with Roman Savaria ruins and landmarks tied to Saint
+  Martin of Tours.
 title: Szombathely
 type: location
 ---

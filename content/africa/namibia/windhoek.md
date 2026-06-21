@@ -11,6 +11,8 @@ latitude: -22.57761
 loc_type: city
 longitude: 17.077274
 score: 0.43
+snippet: Namibian capital in the central highlands, mixing German colonial architecture
+  with modern administrative life.
 title: Windhoek
 type: location
 ---

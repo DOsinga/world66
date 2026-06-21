@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 51.261
+loc_type: region
 longitude: 8.0475
+score: 0.47
+snippet: Forested hill region of North Rhine-Westphalia, popular for hiking, cycling,
+  lakes, and winter sports.
 title: Sauerland
 type: location
-score: 0.47
-loc_type: region
 ---
 
 The Sauerland is a hilly, forested region in the heart of North Rhine-Westphalia, halfway between Dortmund and [Kassel](/europe/germany/hessen/kassel). It is the closest thing to mountains that the millions of people living between [Cologne](/europe/germany/northrhinewestphalia/cologne) and [Düsseldorf](/europe/germany/northrhinewestphalia/dusseldorf) have, and they flock here in winter for skiing and in summer for hiking and cycling.

@@ -9,6 +9,8 @@ latitude: 41.1258
 loc_type: city
 longitude: 16.862
 score: 0.53
+snippet: Adriatic port and Puglia capital, centred on Bari Vecchia and the Basilica
+  di San Nicola.
 title: Bari
 type: location
 ---

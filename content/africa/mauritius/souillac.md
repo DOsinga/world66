@@ -10,6 +10,8 @@ latitude: -20.518724
 loc_type: city
 longitude: 57.522503
 score: 0.5
+snippet: South-coast Mauritian town near wave-battered basalt cliffs, Gris-Gris beach,
+  and Rochester Falls.
 title: Souillac
 type: location
 ---

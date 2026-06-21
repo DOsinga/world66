@@ -6,6 +6,8 @@ latitude: 36.99292
 loc_type: city
 longitude: -86.442868
 score: 0.33
+snippet: South-central Kentucky university city, known for the National Corvette Museum
+  and nearby cave country.
 title: Bowling Green
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 48.096068
 loc_type: city
 longitude: 19.800564
 score: 0.29
+snippet: Northern Hungarian county capital in forested hills near the Slovak border
+  and ruined hilltop castles.
 title: Salgotarjan
 type: location
 ---

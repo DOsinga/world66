@@ -10,6 +10,8 @@ latitude: 59.370955
 loc_type: city
 longitude: 24.24225
 score: 0.34
+snippet: Northern Estonian coastal village west of Tallinn, known for pine woods and
+  a long sandy beach.
 title: Laulasmaa
 type: location
 ---

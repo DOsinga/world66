@@ -8,16 +8,18 @@ image_attribution: <bdi><a href="https://www.wikidata.org/wiki/Q28147777" class=
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Estación_Principal_de_FF.CC.,_Zagreb,_Croacia,_2014-04-20,_DD_03.JPG
 latitude: 45.1
+loc_type: country
 longitude: 15.2
 quick_facts:
-  Population: "3.9 million"
+  Coastline: 1,777 km along the Adriatic
   Currency: Euro (€, adopted 2023)
-  Islands: "Over 1,200 — only 48 inhabited"
-  Coastline: "1,777 km along the Adriatic"
+  Islands: Over 1,200 — only 48 inhabited
+  Population: 3.9 million
 score: 0.83
+snippet: Adriatic country of walled cities, islands, Roman ruins, national parks,
+  and Istrian hill towns.
 title: Croatia
 type: location
-loc_type: country
 ---
 
 Croatia stretches along the eastern Adriatic coast, offering one of Europe's most varied travel experiences within a small country: a walled medieval city at Dubrovnik, over a thousand islands ranging from tiny rocky outcrops to substantial inhabited places, Roman ruins repurposed as living neighbourhoods in Split, UNESCO-listed national parks, and an Istrian peninsula with its own distinct Italian-inflected culture.

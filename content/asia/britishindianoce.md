@@ -1,10 +1,12 @@
 ---
+latitude: -6.3431
+loc_type: country
+longitude: 71.8762
 score: 0.07
+snippet: Remote Indian Ocean territory of the Chagos Archipelago, centred administratively
+  on Diego Garcia.
 title: British Indian Ocean Territory
 type: location
-loc_type: country
-latitude: -6.3431
-longitude: 71.8762
 ---
 
 The British Indian Ocean Territory (BIOT) is a remote archipelago in the central Indian Ocean, about 1,600 kilometres south of India. It consists of the Chagos Archipelago — around 55 islands spread across six atolls — covering a vast area of ocean. The total land area is tiny, around 60 square kilometres, but the territory oversees one of the world's largest marine protected areas.

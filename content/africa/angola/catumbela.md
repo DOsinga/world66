@@ -6,6 +6,8 @@ latitude: -12.433425
 loc_type: city
 longitude: 13.543048
 score: 0.19
+snippet: Central Angolan coastal town between Benguela and Lobito, set along the Catumbela
+  River.
 title: Catumbela
 type: location
 ---

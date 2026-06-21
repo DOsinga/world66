@@ -6,6 +6,8 @@ latitude: 15.506
 loc_type: city
 longitude: 80.049
 score: 0.23
+snippet: Andhra Pradesh coastal district centred on Ongole, with agriculture, temples,
+  and Bay of Bengal beaches.
 title: Prakasham
 type: location
 ---

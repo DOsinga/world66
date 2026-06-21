@@ -7,9 +7,11 @@ done:
 latitude: 34.2132
 loc_type: city
 longitude: 135.5853
+score: 0.65
+snippet: Sacred Japanese temple town on Mount Koya, centred on Shingon Buddhism and
+  cedar-shaded pilgrimage paths.
 title: Koyasan
 type: location
-score: 0.65
 ---
 
 Koyasan — Mount Koya — is the headquarters of Shingon Buddhism and one of the most spiritually charged places in Japan. The monk Kukai, posthumously known as Kobo Daishi, founded a monastic settlement here in 816 after returning from training in Tang Dynasty China, and the mountain has been a pilgrimage destination ever since. Today around 50 temples remain active on the plateau, and it is possible to sleep inside them.

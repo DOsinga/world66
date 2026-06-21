@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Castro,_Chile_-_panoramio_
 latitude: -42.6
 loc_type: region
 longitude: -73.95
+snippet: Rainy Chilean archipelago of wooden churches, fishing villages, green hills,
+  and fiercely distinct island folklore.
 sources:
 - https://en.wikipedia.org/wiki/Chilo%C3%A9_Archipelago
 title: Chiloé Archipelago

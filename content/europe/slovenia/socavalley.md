@@ -2,18 +2,20 @@
 country: Slovenia
 done:
   wikitravel_coverage: '2026-06-05'
+image: socavalley.jpg
+image_attribution: Florian Jesse
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Soca_4.jpg
 latitude: 46.25
 loc_type: region
 longitude: 13.58
+snippet: Julian Alps river valley defined by the turquoise Soča, First World War history,
+  and outdoor sports.
 sources:
 - https://en.wikipedia.org/wiki/So%C4%8Da
 - https://en.wikipedia.org/wiki/Isonzo_Front
 title: Soča Valley
 type: location
-image: socavalley.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Soca_4.jpg
-image_license: CC0
-image_attribution: Florian Jesse
 ---
 
 The Soča Valley runs southwest through the Julian Alps from the Vršič Pass to the Italian border, carrying one of the most beautiful rivers in Europe. The Soča (Isonzo in Italian) is famous for its colour — an astonishing turquoise-green, as if someone had poured glacial melt into a tropical sea. It has been photographed, painted, and described in superlatives for two centuries, and the reality still surprises first-time visitors.

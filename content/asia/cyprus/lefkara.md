@@ -1,16 +1,18 @@
 ---
-title: Lefkara
-type: location
-latitude: 34.8627
-longitude: 33.3164
 done:
   location_enrich: '2026-06-02'
-score: 0.47
-loc_type: city
 image: lefkara.jpg
-image_source: https://www.flickr.com/photos/37165469@N00/113705851
-image_license: CC BY 2.0
 image_attribution: Leonid Mamchenkov on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/37165469@N00/113705851
+latitude: 34.8627
+loc_type: city
+longitude: 33.3164
+score: 0.47
+snippet: Cypriot hill village known for Lefkaritika lace, silverwork, and whitewashed
+  lanes between Larnaca and Limassol.
+title: Lefkara
+type: location
 ---
 
 Pano (Upper) and Kato (Lower) Lefkara are picturesque hill villages between Larnaca and Limassol, best known for their traditional lacemaking. The village lanes are narrow and whitewashed, and [Lefkaritika lace](/asia/cyprus/lefkara/lefkaritika_lace) and silverwork hang outside virtually every shop. The craftsmanship is genuinely fine — and the prices reflect that.

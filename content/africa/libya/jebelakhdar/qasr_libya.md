@@ -5,6 +5,8 @@ latitude: 32.6144
 loc_type: city
 longitude: 21.3995
 score: 0.24
+snippet: Small Jebel Akhdar village known for sixth-century Byzantine mosaics from
+  ancient Olbia.
 sources:
 - https://en.wikipedia.org/wiki/Qasr_Libya
 - https://en.wikipedia.org/wiki/Olbia,_Libya

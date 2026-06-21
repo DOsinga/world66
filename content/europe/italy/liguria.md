@@ -5,6 +5,8 @@ latitude: 44.477762
 loc_type: region
 longitude: 8.70263
 score: 0.67
+snippet: Narrow Italian Riviera region where mountains rise sharply behind Genoa,
+  fishing towns, and hidden valleys.
 title: Liguria
 type: location
 ---

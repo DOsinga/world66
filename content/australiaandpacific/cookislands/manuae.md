@@ -10,6 +10,8 @@ latitude: -19.2748
 loc_type: city
 longitude: -158.962403
 score: 0.33
+snippet: Uninhabited Cook Islands atoll of two islets encircling a shallow turquoise
+  lagoon.
 title: Manuae
 type: location
 ---

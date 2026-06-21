@@ -2,6 +2,8 @@
 latitude: 34.5
 loc_type: region
 longitude: 109.0
+snippet: Cradle-of-civilisation Chinese province centred on Xi'an, imperial dynasties,
+  and the Terracotta Army.
 sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Shaanxi Province

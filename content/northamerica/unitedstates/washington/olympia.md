@@ -10,6 +10,8 @@ latitude: 47.045102
 loc_type: city
 longitude: -122.895008
 score: 0.38
+snippet: Puget Sound state capital with an independent college-town streak and views
+  toward the Olympics.
 title: Olympia
 type: location
 ---

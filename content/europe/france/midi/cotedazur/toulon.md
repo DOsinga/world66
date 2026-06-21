@@ -10,6 +10,8 @@ latitude: 43.125731
 loc_type: city
 longitude: 5.930492
 score: 0.48
+snippet: Working naval city on the Côte d'Azur, with a rough-edged port and Mediterranean
+  fleet.
 title: Toulon
 type: location
 ---

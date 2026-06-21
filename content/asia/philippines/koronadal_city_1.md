@@ -6,6 +6,8 @@ latitude: 6.500404
 loc_type: city
 longitude: 124.843544
 score: 0.29
+snippet: South Cotabato provincial city surrounded by rice fields and Quezon Range
+  foothills.
 title: Koronadal City
 type: location
 ---

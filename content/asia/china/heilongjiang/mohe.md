@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Overlook_of_Mohe,_Aug_2019
 latitude: 53.4772
 loc_type: city
 longitude: 122.5247
+score: 0.36
+snippet: China's northernmost city, defined by Arctic winters, long summer light,
+  and the Russian border.
 title: Mohe
 type: location
-score: 0.36
 ---
 
 Mohe is China's northernmost city, sitting on the Heilong River border with Russia at roughly the same latitude as Scandinavia. In a country where most geography is described in terms of ancient civilisation and dense population, Mohe is refreshingly extreme: -40°C winters, 21 hours of daylight around the summer solstice, and the only place in China where you can reliably see the aurora borealis.

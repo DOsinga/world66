@@ -11,6 +11,8 @@ latitude: 59.325117
 loc_type: city
 longitude: 18.071093
 score: 0.68
+snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and boats
+  open the archipelago.
 title: Stockholm
 type: location
 ---

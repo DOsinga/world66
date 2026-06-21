@@ -17,7 +17,7 @@ title: Montserrat
 type: location
 score: 0.34
 loc_type: country
-snippet: Lesser Antilles island reshaped by the Soufriere Hills volcano and its buried former capital.
+snippet: Lesser Antilles island reshaped by the Soufrière Hills volcano and its buried former capital.
 ---
 
 Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean — not because of beaches or resorts, but because of a volcano that changed everything.

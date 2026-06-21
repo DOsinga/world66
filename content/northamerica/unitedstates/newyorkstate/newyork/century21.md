@@ -10,7 +10,7 @@ tags:
 - shopping
 - shop
 - club
-- soho
+- financial_district
 title: Century 21
 type: poi
 ---

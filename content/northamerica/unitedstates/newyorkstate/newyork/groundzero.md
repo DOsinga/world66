@@ -9,7 +9,7 @@ tags:
 - museum
 - monument
 - tower
-- soho
+- financial_district
 title: 9/11 Memorial & Museum
 type: poi
 ---

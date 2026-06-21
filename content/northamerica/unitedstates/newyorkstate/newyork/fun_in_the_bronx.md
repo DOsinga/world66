@@ -5,7 +5,7 @@ score: 2.8
 snippet: Day trip combining the Botanical Garden, Zoo, and Arthur Avenue
 tags:
 - day_trips
-- harlem
+- thebronx
 title: Fun in the Bronx
 type: poi
 ---

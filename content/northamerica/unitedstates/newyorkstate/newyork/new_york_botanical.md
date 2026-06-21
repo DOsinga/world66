@@ -8,7 +8,7 @@ snippet: 250-acre Bronx garden with Victorian glasshouse and original forest
 tags:
 - things_to_do
 - park
-- harlem
+- thebronx
 title: New York Botanical Garden
 type: poi
 url: www.nybg.org

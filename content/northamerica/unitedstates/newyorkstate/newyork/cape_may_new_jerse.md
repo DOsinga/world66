@@ -7,7 +7,6 @@ tags:
 - day_trips
 - museum
 - beach
-- statenisland
 title: Cape May New Jersey
 type: poi
 url: www.capemay.com

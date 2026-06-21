@@ -15,7 +15,7 @@ tags:
 - things_to_do
 - park
 - sight
-- west_village
+- meatpacking_district
 title: The High Line
 type: poi
 ---

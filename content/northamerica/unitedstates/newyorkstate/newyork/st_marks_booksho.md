@@ -10,7 +10,7 @@ snippet: East Village indie bookshop for literary fiction and theory
 tags:
 - shopping
 - shop
-- soho
+- east_village
 title: St. Mark's Bookshop
 type: poi
 url: www.stmarksbookshop.com

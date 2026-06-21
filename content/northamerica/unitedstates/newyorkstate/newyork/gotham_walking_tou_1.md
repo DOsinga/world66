@@ -10,7 +10,7 @@ score: 5.7
 snippet: Deeply researched neighbourhood walks of Manhattan and Brooklyn
 tags:
 - things_to_do
-- soho
+- financial_district
 title: Gotham Walking Tours
 type: poi
 url: www.walkingnyctours.com

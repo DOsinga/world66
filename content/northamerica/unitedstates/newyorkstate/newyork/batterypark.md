@@ -10,7 +10,7 @@ tags:
 - things_to_do
 - park
 - monument
-- brooklyn
+- financial_district
 title: Battery Park
 type: poi
 ---

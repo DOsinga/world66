@@ -15,7 +15,7 @@ tags:
 - things_to_do
 - sight
 - monument
-- brooklyn_heights
+- financial_district
 title: Statue of Liberty & Ellis Island
 type: poi
 ---

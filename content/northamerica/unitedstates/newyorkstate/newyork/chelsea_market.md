@@ -7,7 +7,7 @@ snippet: Converted Nabisco factory now a dense food hall — the original Oreo b
 tags:
 - things_to_do
 - market
-- west_village
+- chelsea
 title: Chelsea Market
 type: poi
 ---

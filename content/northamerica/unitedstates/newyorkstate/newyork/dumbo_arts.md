@@ -7,7 +7,7 @@ snippet: Cluster of galleries and art spaces in former industrial warehouses ben
 tags:
 - things_to_do
 - sight
-- brooklyn
+- dumbo_brooklyn
 title: DUMBO Arts District
 type: poi
 ---

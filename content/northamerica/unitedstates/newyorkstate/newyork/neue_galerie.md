@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - museum
 - cafe
-- queens
+- upper_east_side
 title: Neue Galerie
 type: poi
 url: www.neuegalerie.org

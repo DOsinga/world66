@@ -10,7 +10,7 @@ snippet: Robert De Niro's TriBeCa institution in a converted warehouse
 tags:
 - bars_and_cafes
 - bar
-- soho
+- financial_district
 title: Tribeca Grill
 type: poi
 ---

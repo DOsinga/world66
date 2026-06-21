@@ -6,7 +6,6 @@ snippet: Boardwalk casinos and beaches two hours south of Manhattan
 tags:
 - day_trips
 - beach
-- statenisland
 title: Atlantic City
 type: poi
 ---

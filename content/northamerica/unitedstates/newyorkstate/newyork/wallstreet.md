@@ -7,7 +7,7 @@ snippet: Canyon-like street home to the Stock Exchange and the Charging Bull
 tags:
 - things_to_do
 - monument
-- brooklyn_heights
+- financial_district
 title: Wall Street
 type: poi
 ---

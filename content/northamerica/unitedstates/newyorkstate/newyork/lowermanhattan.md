@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - church
 - monument
-- soho
+- financial_district
 title: Lower Manhattan
 type: poi
 ---

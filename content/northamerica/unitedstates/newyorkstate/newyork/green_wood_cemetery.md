@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - park
 - sight
-- brooklyn
+- park_slope
 title: Green-Wood Cemetery
 type: poi
 ---

@@ -9,7 +9,7 @@ snippet: Gothic Revival landmark at the head of Wall Street
 tags:
 - things_to_do
 - church
-- soho
+- financial_district
 title: Trinity Church
 type: poi
 url: trinitywallstreet.org

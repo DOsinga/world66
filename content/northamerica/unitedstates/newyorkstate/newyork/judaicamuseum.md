@@ -10,7 +10,7 @@ snippet: Intimate Jewish heritage museum overlooking the Hudson in Riverdale
 tags:
 - things_to_do
 - museum
-- harlem
+- upper_east_side
 title: Judaica Museum
 type: poi
 ---

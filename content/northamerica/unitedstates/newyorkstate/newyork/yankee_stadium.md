@@ -6,7 +6,7 @@ score: 7.6
 snippet: Iconic Bronx ballpark and quintessential New York experience
 tags:
 - things_to_do
-- harlem
+- thebronx
 title: Yankee Stadium
 type: poi
 ---

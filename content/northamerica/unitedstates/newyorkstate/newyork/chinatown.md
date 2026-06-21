@@ -5,7 +5,7 @@ score: 8.7
 snippet: America's largest Chinatown, packed with great food
 tags:
 - things_to_do
-- soho
+- manhattan_chinatown
 title: Chinatown
 type: poi
 ---

@@ -7,7 +7,7 @@ snippet: One of the largest art museums in the US, with exceptional Egyptian and
 tags:
 - things_to_do
 - museum
-- brooklyn
+- park_slope
 title: Brooklyn Museum
 type: poi
 ---

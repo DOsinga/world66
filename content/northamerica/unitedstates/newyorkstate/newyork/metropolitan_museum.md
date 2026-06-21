@@ -16,7 +16,7 @@ story: 'The Met is the largest art museum in the Western Hemisphere and one of t
 tags:
 - things_to_do
 - museum
-- upper_west_side
+- upper_east_side
 title: Metropolitan Museum of Art
 type: poi
 ---

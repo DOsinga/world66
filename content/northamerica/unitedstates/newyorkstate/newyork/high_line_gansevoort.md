@@ -8,7 +8,7 @@ tags:
 - things_to_do
 - park
 - sight
-- west_village
+- meatpacking_district
 title: High Line (Gansevoort to 34th Street)
 type: poi
 ---

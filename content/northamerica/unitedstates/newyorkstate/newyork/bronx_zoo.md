@@ -9,7 +9,7 @@ score: 8.7
 snippet: Largest metropolitan zoo in the US, 265 acres of habitats
 tags:
 - things_to_do
-- harlem
+- thebronx
 title: Bronx Zoo
 type: poi
 url: www.bronxzoo.com

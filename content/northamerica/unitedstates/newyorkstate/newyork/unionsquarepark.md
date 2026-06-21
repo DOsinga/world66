@@ -10,7 +10,7 @@ tags:
 - market
 - monument
 - square
-- soho
+- midtown
 title: Union Square Park
 type: poi
 ---

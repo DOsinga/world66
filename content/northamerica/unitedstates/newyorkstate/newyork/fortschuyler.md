@@ -10,7 +10,7 @@ snippet: 1830s granite fort turned maritime museum on Throggs Neck
 tags:
 - things_to_do
 - museum
-- queens
+- thebronx
 title: Fort Schuyler Maritime Museum
 type: poi
 ---

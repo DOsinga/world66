@@ -14,7 +14,7 @@ tags:
 - things_to_do
 - museum
 - architecture
-- queens
+- upper_east_side
 title: Guggenheim Museum
 type: poi
 ---

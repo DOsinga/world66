@@ -5,7 +5,6 @@ score: 6.5
 snippet: Informal name for the Canal Street and East Broadway area, a recent focal point for nightlife
 tags:
 - things_to_do
-- neighbourhood
 - lower_east_side
 title: Dimes Square
 type: poi

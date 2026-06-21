@@ -10,6 +10,8 @@ latitude: 54.7988
 loc_type: city
 longitude: 11.6341
 score: 0.34
+tags:
+- lolland
 title: Sakskøbing
 type: location
 ---

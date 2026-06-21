@@ -5,6 +5,8 @@ latitude: 34.3845
 loc_type: city
 longitude: -118.531
 score: 0.28
+snippet: Santa Clarita Valley community with Old West film history and the Walk of
+  Western Stars.
 title: Newhall
 type: location
 ---

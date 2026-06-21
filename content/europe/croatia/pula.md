@@ -11,6 +11,8 @@ latitude: 44.870228
 loc_type: city
 longitude: 13.845531
 score: 0.62
+snippet: Istrian port city with an extraordinary Roman amphitheatre and monuments
+  woven through the old town.
 title: Pula
 type: location
 ---

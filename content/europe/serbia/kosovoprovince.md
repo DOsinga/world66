@@ -1,9 +1,11 @@
 ---
+latitude: 42.58
+loc_type: region
+longitude: 20.9
+snippet: Partially recognised Balkan state with its own borders, euro economy, and
+  Ottoman-Serbian-Albanian layers.
 title: Kosovo
 type: location
-loc_type: region
-latitude: 42.58
-longitude: 20.90
 ---
 
 Kosovo is a partially recognised independent state in the western Balkans that declared independence from Serbia in 2008 — one of the youngest countries in the world and still a disputed territory. Around 100 countries recognise it; Serbia and Russia do not. For travellers, the political status matters less than the practical reality: Kosovo has its own government, currency (the euro), border controls, and tourism infrastructure. It is safe, inexpensive, and almost entirely off the standard tourist circuit.

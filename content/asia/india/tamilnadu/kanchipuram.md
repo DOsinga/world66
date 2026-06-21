@@ -6,6 +6,8 @@ latitude: 12.964716
 loc_type: city
 longitude: 79.983969
 score: 0.45
+snippet: Sacred Tamil Nadu temple city and former Pallava capital, famous for Dravidian
+  shrines and silk.
 sources:
 - https://en.wikipedia.org/wiki/Kanchipuram
 title: Kanchipuram

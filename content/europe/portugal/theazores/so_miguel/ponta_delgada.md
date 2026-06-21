@@ -10,6 +10,8 @@ latitude: 37.73934
 loc_type: city
 longitude: -25.66895
 score: 0.55
+snippet: Azorean capital and São Miguel gateway, with a busy harbour and black-and-white
+  volcanic-stone streets.
 title: Ponta Delgada
 type: location
 ---

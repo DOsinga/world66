@@ -10,6 +10,8 @@ latitude: 18.1263
 loc_type: city
 longitude: -65.4401
 score: 0.53
+snippet: Puerto Rican island with former Navy lands, wildlife refuge beaches, and
+  the glowing waters of Mosquito Bay.
 title: Vieques
 type: location
 ---

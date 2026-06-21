@@ -10,6 +10,8 @@ latitude: 37.538509
 loc_type: city
 longitude: -77.43428
 score: 0.42
+snippet: Virginia capital on the James River, layered with revolutionary, Confederate,
+  and tobacco-era history.
 title: Richmond
 type: location
 ---

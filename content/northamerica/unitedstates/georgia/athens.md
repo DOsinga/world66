@@ -10,6 +10,8 @@ latitude: 33.959768
 loc_type: city
 longitude: -83.376398
 score: 0.36
+snippet: Georgia university town with a walkable downtown and a music scene rooted
+  in R.E.M. and the B-52s.
 title: Athens
 type: location
 ---

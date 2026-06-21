@@ -11,6 +11,8 @@ latitude: 43.611242
 loc_type: city
 longitude: 3.876734
 score: 0.53
+snippet: Mediterranean university city with medieval lanes, student energy, and France's
+  historic medical faculty.
 title: Montpellier
 type: location
 ---

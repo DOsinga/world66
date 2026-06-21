@@ -6,6 +6,8 @@ latitude: 27.190194
 loc_type: city
 longitude: 56.284221
 score: 0.25
+snippet: Persian Gulf port city on the Strait of Hormuz, linking mainland Iran with
+  Qeshm and Hormuz.
 title: Bandar Abbas
 type: location
 ---

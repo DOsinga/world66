@@ -9,6 +9,8 @@ latitude: 37.570148
 loc_type: city
 longitude: -119.903659
 score: 0.39
+snippet: Sierra Nevada Gold Rush town and western gateway to Yosemite via the Merced
+  River canyon.
 title: Mariposa
 type: location
 ---

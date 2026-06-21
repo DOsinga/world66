@@ -10,6 +10,8 @@ latitude: 45.642726
 loc_type: city
 longitude: 13.05467
 score: 0.44
+snippet: Northern Adriatic beach resort built around eight kilometres of broad sand
+  near Venice.
 title: Bibione
 type: location
 ---

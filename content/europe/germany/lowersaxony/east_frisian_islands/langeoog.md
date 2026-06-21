@@ -10,6 +10,8 @@ latitude: 53.74087
 loc_type: city
 longitude: 7.485917
 score: 0.42
+snippet: Car-free East Frisian island with a long sandy beach, dunes, salt marshes,
+  and a small railway.
 title: Langeoog
 type: location
 ---

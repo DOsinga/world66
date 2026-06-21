@@ -8,6 +8,8 @@ latitude: 47.75
 loc_type: city
 longitude: 24.1
 score: 0.49
+snippet: Northern Transylvanian region of wooden churches, carved gates, hay meadows,
+  and old Maramureș villages.
 sources:
 - https://en.wikipedia.org/wiki/Maramure%C8%99
 title: Maramures Land

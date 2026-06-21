@@ -11,6 +11,8 @@ latitude: 1.484554
 loc_type: city
 longitude: 172.968965
 score: 0.33
+snippet: Kiribati capital atoll where crowded South Tarawa stretches along causeways
+  beside a turquoise lagoon.
 title: Tarawa
 type: location
 ---

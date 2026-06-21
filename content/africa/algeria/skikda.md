@@ -6,6 +6,8 @@ latitude: 36.880132
 loc_type: city
 longitude: 6.907736
 score: 0.26
+snippet: Northeastern Algerian port city with a Mediterranean bay and intact French
+  colonial centre.
 title: Skikda
 type: location
 ---

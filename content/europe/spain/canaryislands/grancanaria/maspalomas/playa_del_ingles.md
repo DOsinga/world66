@@ -7,6 +7,8 @@ latitude: 27.759481
 loc_type: city
 longitude: -15.574086
 score: 0.5
+snippet: Gran Canaria resort with long beaches, shopping centres, and nightlife beside
+  the Maspalomas dunes.
 title: Playa del Ingles
 type: location
 ---

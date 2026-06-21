@@ -10,6 +10,8 @@ latitude: -22.39776
 loc_type: city
 longitude: 26.703289
 score: 0.32
+snippet: Bangwato royal village in central Botswana, set below rocky hills and tied
+  to the Khama dynasty.
 title: Serowe
 type: location
 ---

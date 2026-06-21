@@ -8,6 +8,10 @@ tags:
 - things_to_do
 title: Staten Island
 type: neighbourhood
+image: statenisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:New_York_City_Staten_Island_Ferry.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Norbert Nagel, Mörfelden-Walldorf, Germany
 ---
 
 Staten Island is the most suburban and least visited of New York City's five boroughs, separated from Manhattan by a harbour and from the other boroughs by culture as much as geography. Most visitors only see it from the free Staten Island Ferry, which offers one of the best views of the Statue of Liberty and the Lower Manhattan skyline — and then they ride straight back. But the island itself has a few things worth stopping for.

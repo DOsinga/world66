@@ -1,16 +1,17 @@
 ---
 done:
   location_cleanup: '2026-04-10'
+image: bayofkotor.jpg
+image_attribution: User:Ggia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg
 latitude: 42.4833
+loc_type: region
 longitude: 18.6833
+score: 0.76
+snippet: Adriatic bay of steep limestone inlets and Venetian shore towns folded into Montenegro's mountains.
 title: Bay of Kotor
 type: location
-score: 0.76
-image: bayofkotor.jpg
-image_source: https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg
-image_license: CC BY-SA 3.0
-image_attribution: User:Ggia
-loc_type: region
 ---
 
 The Bay of Kotor — Boka Kotorska in Montenegrin — is one of the most dramatic stretches of coastline in the Mediterranean. The bay cuts deep into the mountains, forming a series of connected inlets that look from above like a fjord misplaced from Norway. The water is still and dark, the limestone peaks rise sharply above the shoreline, and the old Venetian towns along the edge are some of the best-preserved in the Adriatic.

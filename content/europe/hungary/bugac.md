@@ -10,6 +10,7 @@ latitude: 46.688899
 loc_type: city
 longitude: 19.682144
 score: 0.37
+snippet: Hungarian puszta village in Kiskunság grassland, known for csikós horsemen and steppe wildlife.
 title: Bugac
 type: location
 ---

@@ -10,6 +10,7 @@ latitude: 53.094237
 loc_type: city
 longitude: -3.825125
 score: 0.49
+snippet: Mountain village at Snowdonia's forested river junction, with trails toward Conwy Falls and Moel Siabod.
 title: Betws-y-Coed
 type: location
 ---

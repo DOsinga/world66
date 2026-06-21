@@ -68,8 +68,8 @@ Calculate the distance between the best coordinate found (entrance or centroid) 
 | Distance | Action |
 |---|---|
 | < 25 m | Leave unchanged |
-| 25 m – 5 km | Investigate: is the discrepancy explained by entrance vs centroid, a large complex, or a secondary entrance? Update if the new point is clearly more accurate. |
-| > 5 km | Almost certainly wrong — update. |
+| 25 m – 250 m | Investigate: is the discrepancy explained by entrance vs centroid, a large complex, or a secondary entrance? Update if the new point is clearly more accurate. |
+| > 250 m | Fix unconditionally. |
 
 Off-by-continent errors are common in old World66 data (a London pub with coordinates in Texas, a Tokyo shrine in California). These are obvious — fix them.
 

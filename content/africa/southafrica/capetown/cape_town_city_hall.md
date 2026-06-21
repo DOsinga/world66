@@ -1,8 +1,7 @@
 ---
-category: Architecture
 latitude: -33.9258
 longitude: 18.424
-neighbourhood: City Bowl
+score: 7.6
 scores:
   activities: 0.583
   sight: 0.6766
@@ -21,7 +20,6 @@ tags:
 - city_bowl
 title: Cape Town City Hall
 type: poi
-score: 7.6
 ---
 
 The Cape Town City Hall is a beautifully proportioned Edwardian Italian Renaissance building, completed in 1905 in honey-coloured limestone from Bath. It faces the open space of the Grand Parade, where troops drilled in colonial times and where Mandela addressed the crowd on his release from prison.

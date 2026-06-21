@@ -3,13 +3,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: 41.3825
 longitude: 2.169
+score: 5.5
 snippet: Late-night bar with art exhibitions and DJ sets
 tags:
 - bars_and_cafes
 - nightlife
+- el_raval
 title: Santanassa
 type: poi
-score: 5.5
 ---
 
 A Barcelona nightlife staple in the Eixample district, Santanassa blends a laid-back cocktail bar with rotating art exhibitions and DJ sets that run into the small hours. The vibe shifts through the evening — quiet drinks early on, then music and dancing as the night picks up.

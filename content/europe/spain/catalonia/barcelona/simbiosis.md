@@ -6,13 +6,14 @@ done:
 latitude: 41.378903
 longitude: 2.167347
 phone: +34 93 443 10 71
+score: 5.7
 snippet: Intimate venue for live music and DJ sets in the Raval
 tags:
 - bars_and_cafes
 - nightlife
+- el_raval
 title: Simbiosis
 type: poi
-score: 5.7
 ---
 
 Simbiosis is a small venue on Carrer de la Riereta in the Raval neighbourhood, hosting a mix of live concerts and DJ nights. The space has an underground feel — bare walls, dim lighting, the kind of place where the music is the whole point. The programming leans toward alternative, electronic, and indie acts, with a local crowd that takes its nights seriously.

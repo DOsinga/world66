@@ -1,8 +1,7 @@
 ---
-category: Sculpture
 latitude: -33.9059
 longitude: 18.4196
-neighbourhood: Green Point
+score: 6.8
 scores:
   activities: 0.5912
   sight: 0.6507
@@ -15,7 +14,6 @@ tags:
 - green_point
 title: Long March to Freedom
 type: poi
-score: 6.8
 ---
 
 The Long March to Freedom is a remarkable public-art project: a procession of more than 100 life-size bronze statues of South Africans who fought against colonialism and apartheid, from nineteenth-century chiefs and amaXhosa leaders through to twentieth-century union organisers, anti-apartheid activists and politicians. The figures walk in a long single column, captured mid-stride.

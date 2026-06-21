@@ -1,8 +1,7 @@
 ---
-category: Religious
 latitude: -33.9234
 longitude: 18.4198
-neighbourhood: City Bowl
+score: 8.0
 scores:
   activities: 0.6
   sight: 0.6587
@@ -20,7 +19,6 @@ tags:
 - city_bowl
 title: St George's Cathedral
 type: poi
-score: 8.0
 ---
 
 St George's is Cape Town's Anglican cathedral, an early-twentieth-century Gothic Revival building on Wale Street that gained the nickname "the People's Cathedral" for its sanctuary role during the apartheid years. Desmond Tutu was archbishop here from 1986 to 1996 and used the pulpit relentlessly against the regime; the cathedral was a refuge for protesters and a forum for some of the period's most influential sermons.

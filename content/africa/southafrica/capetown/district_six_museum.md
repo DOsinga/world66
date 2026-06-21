@@ -1,8 +1,7 @@
 ---
-category: Museum
 latitude: -33.9268
 longitude: 18.4255
-neighbourhood: City Bowl
+score: 9.2
 scores:
   activities: 0.6073
   museum: 0.6815
@@ -20,7 +19,6 @@ tags:
 - city_bowl
 title: District Six Museum
 type: poi
-score: 9.2
 ---
 
 The District Six Museum is the most affecting historical museum in Cape Town. It occupies a former Methodist church on the edge of where District Six used to stand, and the centrepiece of its permanent display is a vast, hand-painted map of the lost neighbourhood, laid out across the floor and annotated by former residents with the locations of their homes, schools and shops.

@@ -5,6 +5,7 @@ image_license: CC BY 4.0
 image_attribution: Flocci Nivis
 latitude: 49.1178
 longitude: 6.1853
+score: 7.8
 title: Porte des Allemands
 type: poi
 ---

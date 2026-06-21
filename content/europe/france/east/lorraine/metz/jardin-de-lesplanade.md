@@ -4,6 +4,7 @@ image_url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Esplanade-metz.jp
 image_license: CC BY-SA 3.0
 latitude: 49.1198
 longitude: 6.1736
+score: 6.6
 title: Jardin de l'Esplanade
 type: poi
 ---

@@ -2,6 +2,7 @@
 category: Museum
 latitude: 49.1192
 longitude: 6.1733
+score: 8.6
 title: Centre Pompidou-Metz
 type: poi
 ---

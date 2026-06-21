@@ -2,6 +2,7 @@
 category: Market
 latitude: 47.0211
 longitude: 5.0175
+score: 7.5
 title: Marché de Beaune
 type: poi
 ---

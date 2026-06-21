@@ -11,6 +11,7 @@ longitude: 27.430651
 score: 0.6
 title: Bodrum
 type: location
+snippet: Aegean town on ancient Halicarnassus, with beaches, nightlife, and the Castle of St Peter.
 ---
 
 Bodrum sits on the Aegean coast where the ancient city of Halicarnassus once stood — home to one of the seven wonders of the ancient world. Most visitors come for the beaches and the nightlife, but the town rewards anyone willing to look past the bars. The [Castle of St Peter](/asia/turkey/bodrum/castle_of_st_peter), built by the Knights of St John, dominates the harbour and houses an excellent Museum of Underwater Archaeology. The remains of the [Mausoleum of Halicarnassus](/asia/turkey/bodrum/mausoleum_of_halicarnassus) are a short walk inland.

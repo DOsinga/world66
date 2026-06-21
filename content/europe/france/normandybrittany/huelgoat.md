@@ -6,6 +6,8 @@ latitude: 48.364031
 loc_type: city
 longitude: -3.746803
 score: 0.43
+snippet: Brittany forest village beside a lake, known for house-sized granite boulders
+  and river-gorge trails.
 title: Huelgoat
 type: location
 ---

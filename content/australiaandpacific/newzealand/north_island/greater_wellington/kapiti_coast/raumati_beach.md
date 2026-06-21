@@ -9,6 +9,8 @@ latitude: -40.918611
 loc_type: city
 longitude: 174.980706
 score: 0.37
+snippet: Kapiti Coast beach suburb with west-facing sand, a quiet village centre,
+  and sunset views toward Kapiti Island.
 title: Raumati Beach
 type: location
 ---

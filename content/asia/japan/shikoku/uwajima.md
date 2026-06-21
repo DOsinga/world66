@@ -9,6 +9,8 @@ latitude: 33.223231
 loc_type: city
 longitude: 132.560651
 score: 0.43
+snippet: Shikoku castle city at the end of the railway, known for its original keep
+  and fertility shrine
 title: Uwajima
 type: location
 ---

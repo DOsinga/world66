@@ -10,6 +10,7 @@ latitude: 60.16662
 loc_type: city
 longitude: 24.943541
 score: 0.55
+snippet: Baltic Finnish capital where harbour markets, neoclassical squares, and design districts sit within walking distance.
 title: Helsinki
 type: location
 ---

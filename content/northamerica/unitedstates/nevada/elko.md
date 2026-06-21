@@ -9,6 +9,8 @@ latitude: 41.195813
 loc_type: city
 longitude: -115.327286
 score: 0.32
+snippet: High-desert Nevada city with Basque roots, ranching culture, and the National
+  Cowboy Poetry Gathering.
 title: Elko
 type: location
 ---

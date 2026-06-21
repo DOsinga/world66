@@ -12,6 +12,8 @@ latitude: 35.6876
 loc_type: city
 longitude: -105.9385
 score: 0.59
+snippet: Old adobe state capital where Canyon Road galleries and Pueblo history gather
+  around the Plaza.
 title: Santa Fe
 type: location
 ---

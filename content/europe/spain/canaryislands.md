@@ -5,6 +5,8 @@ latitude: 28.293578
 loc_type: region
 longitude: -16.621447
 score: 0.76
+snippet: Spanish Atlantic archipelago of volcanic islands, trade-wind climates, black
+  lava landscapes, and busy resort coasts.
 title: Canary Islands
 type: location
 ---

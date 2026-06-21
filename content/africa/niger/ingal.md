@@ -10,6 +10,8 @@ latitude: 16.7861
 loc_type: city
 longitude: 6.9336
 score: 0.16
+snippet: Small Tuareg oasis town near Agadez, host of the annual Cure Salée nomad
+  gathering.
 title: In-Gall
 type: location
 ---

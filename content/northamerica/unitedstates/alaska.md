@@ -8,6 +8,8 @@ latitude: 64.445961
 loc_type: region
 longitude: -149.680909
 score: 0.7
+snippet: Vast American frontier state of glaciers, bush-plane villages, tundra, fjords,
+  and immense mountain wilderness.
 title: Alaska
 type: location
 ---

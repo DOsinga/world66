@@ -8,6 +8,8 @@ latitude: 10.4822
 loc_type: city
 longitude: 104.3167
 score: 0.46
+snippet: Cambodian seaside town on the Gulf of Thailand, marked by villa ruins and
+  crab markets.
 title: Kep
 type: location
 ---

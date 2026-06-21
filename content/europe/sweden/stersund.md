@@ -10,6 +10,8 @@ latitude: 63.1794
 loc_type: city
 longitude: 14.6357
 score: 0.44
+snippet: Jämtland county capital on Lake Storsjön, with Frösön offshore and mountain
+  views nearby.
 title: Östersund
 type: location
 ---

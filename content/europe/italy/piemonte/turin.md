@@ -12,6 +12,8 @@ latitude: 45.0678
 loc_type: city
 longitude: 7.6825
 score: 0.6
+snippet: Piedmontese capital of Savoy palaces, Egyptian treasures, arcaded streets,
+  and Alpine views.
 title: Turin
 type: location
 ---

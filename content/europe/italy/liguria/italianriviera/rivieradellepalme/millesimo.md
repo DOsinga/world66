@@ -10,6 +10,8 @@ latitude: 44.367536
 loc_type: city
 longitude: 8.201746
 score: 0.38
+snippet: Medieval Val Bormida town dominated by hilltop castle ruins and old fortified
+  streets
 title: Millesimo
 type: location
 ---

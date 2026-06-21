@@ -10,6 +10,8 @@ latitude: 24.732996
 loc_type: city
 longitude: 46.573384
 score: 0.42
+snippet: Historic Riyadh-edge oasis town where At-Turaif preserves the mud-brick heart
+  of the First Saudi State
 title: Dir’iyah
 type: location
 ---

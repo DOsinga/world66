@@ -9,6 +9,8 @@ latitude: 34.073473
 loc_type: city
 longitude: -5.555366
 score: 0.55
+snippet: Roman archaeological site in Morocco, with mosaicked villas spread across
+  a fertile plateau.
 title: Volubilis
 type: location
 ---

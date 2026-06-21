@@ -6,6 +6,7 @@ latitude: 8.486071
 loc_type: city
 longitude: 124.656805
 score: 0.37
+snippet: Northern Mindanao port city known for whitewater rafting on the Cagayan River.
 title: Cagayan de Oro City
 type: location
 ---

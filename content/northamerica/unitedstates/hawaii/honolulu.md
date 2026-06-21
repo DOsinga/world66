@@ -11,6 +11,8 @@ latitude: 21.304547
 loc_type: city
 longitude: -157.855676
 score: 0.76
+snippet: Hawaiian capital on Oahu's south shore, where Waikiki high-rises sit beneath
+  the Ko'olau mountains.
 title: Honolulu
 type: location
 ---

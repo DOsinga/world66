@@ -10,6 +10,8 @@ latitude: 31.2632
 loc_type: city
 longitude: 32.3055
 score: 0.36
+snippet: Suez Canal port city at the Mediterranean entrance, built around the canal's
+  nineteenth-century opening.
 title: Port Said
 type: location
 ---

@@ -9,6 +9,7 @@ sources:
 - https://en.wikipedia.org/wiki/Mizoram_State_Museum
 - https://en.wikipedia.org/wiki/Solomon%27s_Temple,_Aizawl
 title: Aizawl
+snippet: Mizo hill capital strung along steep ridges, with markets, church bells, and green valley views.
 type: location
 image: aizawl.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aizawl_de_nuit.jpg

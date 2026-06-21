@@ -8,6 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Grass_Valley,_Main_Street.jpg
 latitude: 39.2191
 loc_type: city
+snippet: Gold Rush town in California's Sierra foothills, anchored by the preserved Empire Mine and historic downtown.
 longitude: -121.0629
 title: Grass Valley
 type: location

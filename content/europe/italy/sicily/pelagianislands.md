@@ -8,6 +8,8 @@ latitude: 35.5134
 loc_type: region
 longitude: 12.6063
 score: 0.62
+snippet: Remote Sicilian archipelago of Lampedusa, Linosa, and Lampione, closer to
+  Africa than Italy
 title: Pelagian Islands
 type: location
 ---

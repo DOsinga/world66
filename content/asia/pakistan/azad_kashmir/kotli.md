@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-21'
 latitude: 33.5187
 loc_type: city
+snippet: Azad Kashmir hill town known for mosques, the Gulhar Sharif shrine, and surrounding
+  viewpoints
 longitude: 73.9018
 score: 0.24
 title: Kotli

@@ -8,6 +8,8 @@ latitude: 43.353345
 loc_type: city
 longitude: -5.87951
 score: 0.52
+snippet: Asturian capital and university city with pre-Romanesque churches, sidra
+  bars, and a compact old centre.
 title: Oviedo
 type: location
 ---

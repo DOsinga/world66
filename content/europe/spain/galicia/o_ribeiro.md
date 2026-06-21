@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 latitude: 42.2883
+loc_type: region
 longitude: -8.145
+score: 0.48
+snippet: Galician wine region where terraced Ribeiro vineyards meet medieval Ribadavia
+  and the Miño, Avia, and Arnoia rivers.
+sources:
+- https://en.wikipedia.org/wiki/Ribadavia
+- https://en.wikipedia.org/wiki/Ribeiro_(DO)
+- https://en.wikipedia.org/wiki/O_Ribeiro
 title: O Ribeiro
 type: location
-score: 0.48
-loc_type: region
-sources:
-  - https://en.wikipedia.org/wiki/Ribadavia
-  - https://en.wikipedia.org/wiki/Ribeiro_(DO)
-  - https://en.wikipedia.org/wiki/O_Ribeiro
 ---
 
 **O Ribeiro** is one of Galicia's oldest and most distinctive wine regions, a comarca of ten municipalities spread across terraced hillsides in the province of Ourense where the Miño, Avia, and Arnoia rivers meet. It is not a place you simply pass through — this is a region worth seeking out, both for its wines and for its history.

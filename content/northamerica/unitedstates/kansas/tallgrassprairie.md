@@ -4,6 +4,9 @@ done:
 latitude: 38.4328
 loc_type: feature
 longitude: -96.5589
+score: 0.32
+snippet: Flint Hills prairie preserve protecting a rare remnant of North America's
+  once-vast tallgrass landscape.
 sources:
 - https://www.nps.gov/tapr/planyourvisit/index.htm
 - https://www.nps.gov/tapr/planyourvisit/basicinfo.htm
@@ -11,7 +14,6 @@ sources:
 - https://en.wikipedia.org/wiki/Tallgrass_Prairie_National_Preserve
 title: Tallgrass Prairie
 type: location
-score: 0.32
 ---
 
 Tallgrass Prairie National Preserve is where the Flint Hills still look like the old middle of North America: rolling grass, limestone ridges, big skies, and wind that never seems to clock out. Less than one percent of the continent's original tallgrass prairie survives, and this preserve protects one of the best remaining pieces.

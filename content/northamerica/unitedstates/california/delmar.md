@@ -6,6 +6,8 @@ latitude: 32.959489
 loc_type: city
 longitude: -117.265315
 score: 0.45
+snippet: San Diego coastal town known for sandy beaches, ocean bluffs, and thoroughbred
+  racing
 title: Del Mar
 type: location
 ---

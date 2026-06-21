@@ -10,6 +10,8 @@ latitude: 42.5072
 loc_type: city
 longitude: 41.8717
 score: 0.34
+snippet: Samegrelo city and Svaneti gateway, centred on Dadiani Palace and its eclectic
+  princely museum.
 title: Zugdidi
 type: location
 ---

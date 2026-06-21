@@ -9,6 +9,8 @@ latitude: 35.568002
 loc_type: city
 longitude: 135.190638
 score: 0.58
+snippet: Pine-covered sand spit across Miyazu Bay, counted among Japan's traditional
+  Three Great Views.
 title: Amanohashidate
 type: location
 ---

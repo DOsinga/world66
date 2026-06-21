@@ -10,6 +10,8 @@ latitude: 43.243347
 loc_type: city
 longitude: 17.075071
 score: 0.46
+snippet: Dalmatian coastal town below Biokovo, with pebble beaches and the Seagull's
+  Wings monument.
 title: Podgora
 type: location
 ---

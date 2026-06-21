@@ -9,6 +9,8 @@ latitude: 45.1349
 loc_type: city
 longitude: 8.4516
 score: 0.54
+snippet: Piedmont wine country of hilltop villages, castles, Barbera vineyards, and
+  Casale Monferrato’s synagogue
 title: Monferrato
 type: location
 ---

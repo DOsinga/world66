@@ -7,6 +7,8 @@ title: Teton Valley
 type: location
 score: 0.51
 loc_type: region
+snippet: Eastern Idaho mountain valley facing the Tetons, quieter and cheaper than
+  nearby Jackson Hole.
 ---
 
 Teton Valley lies on the western slope of the Teton Range in eastern Idaho, just across the mountains from Jackson Hole, Wyoming. The valley floor is broad and agricultural, with the dramatic peaks of the Tetons rising abruptly to the east. It is quieter and considerably cheaper than Jackson Hole, and many visitors use it as a base for exploring Grand Teton National Park.

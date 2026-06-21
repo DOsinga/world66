@@ -10,6 +10,8 @@ latitude: -28.77035
 loc_type: city
 longitude: 114.614716
 score: 0.36
+snippet: Batavia Coast port city north of Perth, where working harbour life meets
+  strong Indian Ocean winds.
 title: Geraldton
 type: location
 ---

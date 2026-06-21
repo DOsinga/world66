@@ -11,6 +11,7 @@ longitude: -95.0342
 sources:
 - https://en.wikipedia.org/wiki/Eagle_Bend,_Minnesota
 title: Eagle Bend
+snippet: "Small central Minnesota farm town, set among Todd County dairy country and quiet lakeside roads."
 type: location
 score: 0.19
 ---

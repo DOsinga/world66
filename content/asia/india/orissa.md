@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 20.4625
+loc_type: region
 longitude: 84.2708
 score: 0.47
+snippet: Eastern Indian state of temples, Buddhist ruins, tribal hill cultures, and
+  the Chilika lagoon
 title: Odisha
 type: location
-loc_type: region
 ---
 
 Odisha (formerly Orissa) is one of India's most rewarding and least crowded states. Along the Bay of Bengal coast, ancient temples and Buddhist monasteries sit among palm groves and rice paddies. Inland, forested hills shelter tribal communities whose cultures have survived largely unchanged for centuries. The state changed its official English name from Orissa to Odisha in 2011, though you will still hear both.

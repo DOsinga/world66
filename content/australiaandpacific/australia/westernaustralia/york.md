@@ -9,6 +9,7 @@ latitude: -31.888903
 loc_type: city
 longitude: 116.769148
 score: 0.37
+snippet: Western Australia's oldest inland town, with Victorian streetscapes preserved along the Avon River.
 sources:
 - https://en.wikipedia.org/wiki/York,_Western_Australia
 - https://en.wikivoyage.org/wiki/York_(Western_Australia)

@@ -10,6 +10,8 @@ latitude: 53.055232
 loc_type: city
 longitude: 4.796738
 score: 0.44
+snippet: Main village on Texel, with shops and services at the centre of the Wadden
+  island.
 title: Den Burg
 type: location
 ---

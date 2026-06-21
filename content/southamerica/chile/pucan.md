@@ -10,6 +10,8 @@ latitude: -39.273117
 loc_type: city
 longitude: -71.977761
 score: 0.55
+snippet: Lakeside Chilean adventure town below Volcán Villarrica, with hot springs,
+  rafting, and Araucanía forests
 title: Pucón
 type: location
 ---

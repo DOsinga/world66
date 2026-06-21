@@ -10,6 +10,8 @@ latitude: 71.112765
 loc_type: city
 longitude: 25.825204
 score: 0.44
+snippet: Tiny Arctic fishing village on Magerøya, near the North Cape and the Kirkeporten
+  rock arch.
 title: Skarsvåg
 type: location
 ---

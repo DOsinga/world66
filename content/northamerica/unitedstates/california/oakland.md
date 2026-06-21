@@ -12,6 +12,8 @@ latitude: 37.804456
 loc_type: city
 longitude: -122.271356
 score: 0.34
+snippet: East Bay city with fierce local culture around Lake Merritt, the waterfront,
+  and diverse neighbourhoods.
 title: Oakland
 type: location
 ---

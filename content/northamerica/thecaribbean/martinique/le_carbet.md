@@ -9,6 +9,8 @@ latitude: 14.7167
 loc_type: city
 longitude: -61.1833
 score: 0.46
+snippet: Small Martinique coastal town below Mont Pelée, with dark-sand beaches and
+  early colonial landmarks.
 title: Le Carbet
 type: location
 ---

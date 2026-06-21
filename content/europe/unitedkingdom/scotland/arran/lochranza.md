@@ -10,6 +10,7 @@ loc_type: city
 longitude: -5.295153
 score: 0.46
 title: Lochranza
+snippet: Tiny Arran sea-loch village with a ruined castle, deer, whisky distillery, and northern ferry link
 type: location
 ---
 

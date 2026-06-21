@@ -10,6 +10,7 @@ latitude: -37.8004
 loc_type: city
 longitude: 144.9684
 score: 0.35
+snippet: Melbourne neighbourhood shaped by Italian migration, with Lygon Street as its dining spine.
 title: Carlton
 type: location
 ---

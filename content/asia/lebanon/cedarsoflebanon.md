@@ -10,6 +10,8 @@ latitude: 34.2467
 loc_type: feature
 longitude: 36.0631
 score: 0.48
+snippet: Mountain cedar grove on Mount Makmal, preserving ancient trees central to
+  Lebanon's national symbol.
 title: Cedars of Lebanon
 type: location
 ---

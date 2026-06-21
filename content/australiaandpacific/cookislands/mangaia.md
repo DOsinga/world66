@@ -10,6 +10,8 @@ latitude: -21.925029
 loc_type: city
 longitude: -157.918069
 score: 0.44
+snippet: Ancient Cook Islands island ringed by jagged makatea cliffs and honeycombed
+  with caves.
 title: Mangaia
 type: location
 ---

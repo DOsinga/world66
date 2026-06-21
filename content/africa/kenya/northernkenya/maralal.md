@@ -6,6 +6,8 @@ latitude: 1.0978
 loc_type: city
 longitude: 36.6985
 score: 0.3
+snippet: Highland town in Samburu country, beside a wildlife sanctuary and known for
+  its camel derby.
 title: Maralal
 type: location
 ---

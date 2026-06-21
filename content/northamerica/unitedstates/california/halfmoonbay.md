@@ -9,6 +9,8 @@ latitude: 37.463552
 loc_type: city
 longitude: -122.428586
 score: 0.47
+snippet: San Francisco Peninsula coastal town, where flower farms and pumpkin fields
+  meet Pacific beaches.
 title: Half Moon Bay
 type: location
 ---

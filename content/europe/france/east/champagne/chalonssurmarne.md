@@ -10,6 +10,8 @@ latitude: 48.956622
 loc_type: city
 longitude: 4.362885
 score: 0.39
+snippet: Champagne town threaded with canals and medieval churches, anchored by Cathédrale
+  Saint-Étienne
 title: Châlons-en-Champagne
 type: location
 ---

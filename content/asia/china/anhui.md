@@ -2,6 +2,8 @@
 latitude: 31.5
 loc_type: region
 longitude: 117.5
+snippet: Chinese province split between northern plains and southern ink-wash mountains,
+  villages, and Huang Shan scenery.
 sources:
 - https://en.wikivoyage.org/wiki/Anhui
 title: Anhui Province

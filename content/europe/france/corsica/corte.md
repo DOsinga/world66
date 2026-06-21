@@ -9,6 +9,8 @@ latitude: 42.30529
 loc_type: city
 longitude: 9.151193
 score: 0.52
+snippet: Mountain town at Corsica's heart, with a proud citadel above the Tavignano
+  and Restonica rivers
 sources:
 - https://en.wikipedia.org/wiki/Corte,_Haute-Corse
 - https://en.wikipedia.org/wiki/Restonica

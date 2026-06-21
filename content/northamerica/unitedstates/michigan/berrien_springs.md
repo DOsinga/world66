@@ -9,6 +9,8 @@ latitude: 41.946434
 loc_type: city
 longitude: -86.338897
 score: 0.22
+snippet: Small southwestern Michigan village linked to Andrews University, Seventh-day
+  Adventist history, and an old courthouse square.
 title: Berrien Springs
 type: location
 ---

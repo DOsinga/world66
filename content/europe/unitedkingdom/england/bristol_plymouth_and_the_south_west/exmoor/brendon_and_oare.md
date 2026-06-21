@@ -10,6 +10,8 @@ latitude: 51.2185
 loc_type: city
 longitude: -3.7685
 score: 0.42
+snippet: Two Exmoor hamlets in steep Doone Country valleys, tied to R. D. Blackmore's
+  Lorna Doone.
 title: Brendon and Oare
 type: location
 ---

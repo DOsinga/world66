@@ -12,6 +12,8 @@ latitude: 30.04442
 loc_type: city
 longitude: 31.235712
 score: 0.61
+snippet: Vast Nile metropolis where Fatimid Cairo, medieval lanes, and the Pyramids
+  share one horizon
 title: Al Qahera - Cairo
 type: location
 ---

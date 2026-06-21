@@ -9,6 +9,8 @@ latitude: 46.1696
 loc_type: city
 longitude: 8.7955
 score: 0.57
+snippet: Ticino lakeside city on Lake Maggiore, centred on Piazza Grande and its open-air
+  film festival
 title: Locarno
 type: location
 ---

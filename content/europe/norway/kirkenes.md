@@ -12,6 +12,8 @@ latitude: 69.727148
 loc_type: city
 longitude: 30.044897
 score: 0.46
+snippet: Arctic Norwegian border town where Hurtigruten voyages end beside taiga,
+  fjords, and Barents Sea winters.
 title: Kirkenes
 type: location
 ---

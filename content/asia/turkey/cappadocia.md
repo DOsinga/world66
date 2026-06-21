@@ -10,6 +10,8 @@ latitude: 38.638612
 loc_type: region
 longitude: 34.845518
 score: 0.8
+snippet: Central Anatolian volcanic region of fairy chimneys, cave churches, frescoes,
+  and underground cities.
 sources:
 - https://en.wikipedia.org/wiki/Cappadocia
 - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park

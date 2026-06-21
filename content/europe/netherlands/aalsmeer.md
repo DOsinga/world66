@@ -10,6 +10,8 @@ latitude: 52.266944
 loc_type: city
 longitude: 4.749338
 score: 0.37
+snippet: Dutch town near Amsterdam known for Royal FloraHolland, the world's largest
+  flower auction complex.
 title: Aalsmeer
 type: location
 ---

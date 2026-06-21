@@ -9,6 +9,8 @@ latitude: 46.951
 loc_type: city
 longitude: 4.2989
 score: 0.47
+snippet: Burgundian city founded as Augustodunum, where Roman gates and ruins frame
+  a medieval cathedral town
 title: Autun
 type: location
 ---

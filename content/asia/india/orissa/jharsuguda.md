@@ -10,6 +10,8 @@ latitude: 21.8019
 loc_type: city
 longitude: 83.9714
 score: 0.21
+snippet: Small industrial town in western Orissa, with Sambalpur-era festivals and
+  coalfield temples nearby.
 title: Jharsuguda
 type: location
 ---

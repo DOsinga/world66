@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cala_Azzurra.jpg
 latitude: 37.9298
 loc_type: island
 longitude: 12.3295
+score: 0.58
+snippet: Egadi island off western Sicily, where limestone coves and an old tuna fishery
+  shape the visit
 sources:
 - https://en.wikipedia.org/wiki/Favignana
 - https://www.visitsicily.info/en/attrazione/ex-stabilimento-tonnara-florio-di-favignana-e-formica/
 - https://www.infopointfavignana.it/en/what-to-see-favignana/
 title: Favignana
 type: location
-score: 0.58
 ---
 
 Favignana is the largest of the Egadi Islands, a low, bright island off western [Sicily](/europe/italy/sicily) where limestone coves, old tuna-fishing wealth, and clear water do most of the talking. From [Marsala](/europe/italy/sicily/marsala) or Trapani it looks close enough to touch on a clear day, and the hydrofoil ride is short enough to make the island tempting even as a day trip.

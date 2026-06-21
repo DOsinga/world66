@@ -10,6 +10,7 @@ latitude: 53.2744
 loc_type: city
 longitude: -7.4927
 score: 0.36
+snippet: County town of Offaly on the Grand Canal, known for Tullamore D.E.W. whiskey.
 title: Tullamore
 type: location
 ---

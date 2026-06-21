@@ -9,6 +9,8 @@ latitude: 40.1519
 loc_type: region
 longitude: 26.4055
 score: 0.56
+snippet: Dardanelles region where Gallipoli battlefields and the ruins of Troy frame
+  the strait between Europe and Asia.
 title: Canakkale
 type: location
 ---

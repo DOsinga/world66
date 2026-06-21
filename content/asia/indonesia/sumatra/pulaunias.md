@@ -11,6 +11,8 @@ latitude: 1.0427
 loc_type: city
 longitude: 97.6452
 score: 0.38
+snippet: Indian Ocean island off Sumatra, known for stone villages, traditional houses,
+  warrior culture, and major surf breaks.
 title: Pulau Nias
 type: location
 ---

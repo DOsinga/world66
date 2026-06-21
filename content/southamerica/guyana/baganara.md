@@ -10,6 +10,8 @@ latitude: 6.345601
 loc_type: city
 longitude: -58.592656
 score: 0.31
+snippet: Essequibo River island near Bartica, covered in rainforest where the Essequibo
+  and Mazaruni meet.
 title: Baganara
 type: location
 ---

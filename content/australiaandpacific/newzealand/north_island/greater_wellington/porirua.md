@@ -7,6 +7,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Aotea_Lagoon,Porirua,NZ_from_north-east_(straightened).jpg
 latitude: -41.1333
 loc_type: city
+snippet: Greater Wellington harbour city with strong Pacific Island communities and
+  hills rising above twin inlets
 longitude: 174.85
 sources:
 - https://en.wikipedia.org/wiki/Porirua

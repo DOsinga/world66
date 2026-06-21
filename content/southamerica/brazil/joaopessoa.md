@@ -11,6 +11,8 @@ latitude: -7.1216
 loc_type: city
 longitude: -34.882
 score: 0.42
+snippet: Northeastern Brazilian coastal city at the Americas' eastern tip, with baroque
+  churches and beach districts
 title: Joao Pessoa
 type: location
 ---

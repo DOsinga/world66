@@ -10,6 +10,8 @@ latitude: 47.233264
 loc_type: city
 longitude: -124.205063
 score: 0.32
+snippet: Tiny Washington beach community where the Moclips River meets the Pacific
+  on the quiet North Beach coast
 sources:
 - https://en.wikipedia.org/wiki/Moclips,_Washington
 title: Moclips

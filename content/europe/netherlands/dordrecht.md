@@ -10,6 +10,7 @@ latitude: 51.768955
 loc_type: city
 longitude: 4.686789
 score: 0.45
+snippet: Old Holland merchant city of canals, gabled houses, and toll-rich river history.
 title: Dordrecht
 type: location
 ---

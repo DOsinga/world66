@@ -11,6 +11,7 @@ loc_type: city
 longitude: 6.634989
 score: 0.59
 title: Courchevel
+snippet: French Alpine ski resort in Les Trois Vallées, split between villages of sharply different altitude and mood.
 type: location
 ---
 

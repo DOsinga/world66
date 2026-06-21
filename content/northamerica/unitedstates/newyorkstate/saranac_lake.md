@@ -10,6 +10,8 @@ latitude: 44.329661
 loc_type: city
 longitude: -74.13112
 score: 0.38
+snippet: Adirondack mountain village shaped by cure cottages, cold lakes, and a year-round
+  outdoor culture.
 title: Saranac Lake
 type: location
 ---

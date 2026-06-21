@@ -4,11 +4,13 @@ done:
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-19'
 latitude: -3.2335
+loc_type: feature
 longitude: 38.0
 score: 0.54
+snippet: Dramatic Kenyan park of lava flows, forested hills, and spring-fed pools
+  below volcanic rock.
 title: Tsavo West
 type: location
-loc_type: feature
 ---
 
 Tsavo West is the wilder, more dramatic half of Kenya's largest national park. Where Tsavo East is flat and open, the West is a landscape of ancient lava flows, forested hills, and springs that bubble up clear and cold from underground rivers. The result is one of the most visually striking parks in East Africa — and because it draws fewer visitors than the Mara or Amboseli, you can still find yourself alone in the bush.

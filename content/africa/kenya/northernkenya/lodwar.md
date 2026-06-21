@@ -8,6 +8,8 @@ latitude: 3.1166
 loc_type: city
 longitude: 35.6023
 score: 0.23
+snippet: Turkana gateway town for Lake Turkana's jade water, desert heat, and western-shore
+  camps.
 sources:
 - https://en.wikipedia.org/wiki/Lodwar
 - https://en.wikipedia.org/wiki/Lake_Turkana

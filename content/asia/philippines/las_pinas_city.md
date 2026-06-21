@@ -12,6 +12,7 @@ longitude: 120.981786
 score: 0.29
 title: Las Pinas City
 type: location
+snippet: "Las Piñas is a southern Metro Manila city known for Saint Joseph’s Church bamboo organ."
 ---
 
 Las Piñas is a city of about 600,000 people on the southern edge of Metro Manila, separated from the capital's airport by the city of Parañaque. It is best known outside the Philippines for a single extraordinary object: the [Bamboo Organ](las_pinas_city/bamboo_organ) in Saint Joseph's Church, built by a Spanish friar in the 1820s and the only large pipe organ in the world with bamboo pipes. The organ draws international organists each February for the annual Bamboo Organ Festival.

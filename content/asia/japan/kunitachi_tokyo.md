@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-03'
 latitude: 35.681991
+loc_type: city
 longitude: 139.43624
+score: 0.36
+snippet: Quiet Western Tokyo college town centred on Hitotsubashi University and cherry-lined
+  Daigaku-dori
 title: Kunitachi, Tokyo
 type: location
-score: 0.36
-loc_type: city
 ---
 
 About 40 minutes west of central [Tokyo](/asia/japan/tokyo) on the Chuo Line, Kunitachi is a quiet college town centred on Hitotsubashi University. Because much of the area was once a US military base, it is greener and more spacious than most station towns on the western Chuo corridor — which also makes it one of the more expensive suburbs in the area.

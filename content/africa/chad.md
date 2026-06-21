@@ -13,8 +13,8 @@ quick_facts:
   Languages: 100+
   Population: 18 million
 score: 0.26
-snippet: Vast landlocked Saharan country with extraordinary desert landscapes, from
-  the Ennedi Plateau to the shrinking Lake Chad.
+snippet: Landlocked Saharan country of sandstone plateaus, desert lakes, nomad routes,
+  and savanna edges.
 title: Chad
 type: location
 ---

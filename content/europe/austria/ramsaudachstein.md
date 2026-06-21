@@ -10,6 +10,8 @@ latitude: 47.443109
 loc_type: city
 longitude: 13.619276
 score: 0.57
+snippet: Styrian Alpine village on a sunny plateau below the Dachstein glacier, strong
+  on cross-country skiing.
 title: Ramsau / Dachstein
 type: location
 ---

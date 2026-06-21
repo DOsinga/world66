@@ -10,6 +10,8 @@ latitude: 24.8949
 loc_type: city
 longitude: 91.8687
 score: 0.34
+snippet: Northeastern Bangladeshi city of tea estates, Sufi pilgrimage, and hills
+  below Meghalaya
 title: Sylhet
 type: location
 ---

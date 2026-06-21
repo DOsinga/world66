@@ -6,6 +6,8 @@ latitude: 33.148635
 loc_type: city
 longitude: 73.74821
 score: 0.23
+snippet: Azad Kashmir city on Mangla Lake, reshaped by British Pakistani migration
+  and remittance-built villas
 title: Mirpur
 type: location
 ---

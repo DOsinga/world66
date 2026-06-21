@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 19.567032
+loc_type: region
 longitude: 76.416456
 score: 0.47
+snippet: Western Indian state spanning Mumbai, the Deccan Plateau, cave temples, hill
+  forts, and Arabian Sea coast.
 title: Maharashtra
 type: location
-loc_type: region
 ---
 
 Maharashtra is India's second most populous state and one of its most diverse — a vast territory that stretches from the frenetic energy of Mumbai on the Arabian Sea coast, east across the Deccan Plateau to the edge of Vidarbha. It has ancient cave temples, fort-studded hills, a long and dramatic coastline, and a culture that runs from Bollywood glamour to traditional Warli art.

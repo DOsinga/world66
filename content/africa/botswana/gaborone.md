@@ -10,6 +10,8 @@ latitude: -24.6581
 loc_type: city
 longitude: 25.9089
 score: 0.36
+snippet: Botswana's capital, a young planned city with the Three Dikgosi Monument
+  and nearby Gaborone Game Reserve.
 title: Gaborone
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 45.6624
 loc_type: city
 longitude: 10.6862
 score: 0.65
+snippet: Northern Italian lake of castles, lemon groves, resort towns, and windsurfing
+  below alpine cliffs.
 title: Lake Garda
 type: location
 ---

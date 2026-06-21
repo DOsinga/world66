@@ -8,6 +8,8 @@ latitude: 38.5894
 loc_type: region
 longitude: -119.8345
 score: 0.53
+snippet: California's least populated county, a Sierra Nevada area of high passes,
+  hot springs, and alpine valleys.
 title: Alpine County
 type: location
 ---

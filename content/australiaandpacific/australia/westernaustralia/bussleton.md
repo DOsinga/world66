@@ -10,6 +10,8 @@ latitude: -33.6445
 loc_type: city
 longitude: 115.3487
 score: 0.43
+snippet: Southwest Western Australian seaside town known for its 1.8-kilometre timber
+  jetty and Geographe Bay beaches.
 title: Busselton
 type: location
 ---

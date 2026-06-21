@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Diamond_Hill_looking_West.
 latitude: 53.5
 loc_type: region
 longitude: -9.75
+snippet: Mountainous Irish region of bogs, lakes, Atlantic inlets, and one of the
+  country's strongest Gaeltacht communities
 sources:
 - https://en.wikipedia.org/wiki/Connemara
 title: Connemara

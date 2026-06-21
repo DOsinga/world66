@@ -4,6 +4,8 @@ type: location
 loc_type: region
 latitude: 0.1
 longitude: 34.3
+snippet: Western Kenyan lakeshore region where Luo culture, fishing, and Lake Victoria
+  shape daily life.
 ---
 
 Luo Nyanza is the western strip of Kenya along the eastern shore of Lake Victoria, homeland of the Luo people — Kenya's third-largest ethnic group and one of the country's most politically influential communities. The region is flat, agricultural, and hot, with the lake providing both livelihood and identity: fishing, boat-building, and the rhythms of the water define life here in ways that are entirely different from the highland Kenya most visitors see.

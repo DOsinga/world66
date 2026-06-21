@@ -9,6 +9,8 @@ latitude: 21.945308
 loc_type: city
 longitude: 120.798785
 score: 0.52
+snippet: Southern Taiwan beach area around Kenting National Park, where tropical coastline
+  meets coral-fringed sea.
 title: Kenting
 type: location
 ---

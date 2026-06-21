@@ -18,6 +18,7 @@ score: 0.81
 title: Kenya
 type: location
 loc_type: country
+snippet: "East African country of savanna wildlife, Rift Valley lakes, volcanic highlands, Indian Ocean beaches, and Nairobi energy."
 ---
 
 *Africa > Kenya*

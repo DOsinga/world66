@@ -10,6 +10,8 @@ latitude: 7.0
 loc_type: city
 longitude: 134.25
 score: 0.47
+snippet: Southern Palau island marked by WWII battlefields, jungle ruins, and one
+  of the Pacific War's hardest fights.
 title: Peleliu
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: -27.337611
 loc_type: city
 longitude: -55.866949
 score: 0.36
+snippet: Paraná River city facing Argentina, known for summer carnivals and nearby
+  Jesuit mission ruins.
 title: Encarnacion
 type: location
 ---

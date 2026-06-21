@@ -10,6 +10,8 @@ latitude: 61.524687
 loc_type: city
 longitude: -6.87927
 score: 0.42
+snippet: Sheltered Suðuroy west-coast village below sea cliffs, whose church holds
+  the original Faroese flag.
 title: Fámjin
 type: location
 ---

@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Hanbin,_Ankang,_Shaanxi,_C
 latitude: 32.6877
 loc_type: city
 longitude: 109.0235
+score: 0.29
+snippet: Han River city in southern Shaanxi, edged by Qinling biodiversity and mountain
+  gorges.
 sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Ankang
 type: location
-score: 0.29
 ---
 
 Ankang sits on the Han River in the deep south of Shaanxi, in the Qinba mountain region where the Qinling range drops toward the subtropical zone. The city has a mild climate by Shaanxi standards, and its surrounding countryside is among the most biodiverse in the province — the Qinling Mountains form one of the major north–south biodiversity boundaries in China, and the slopes around Ankang are habitat for giant pandas, golden snub-nosed monkeys, and [crested ibises](/asia/china/shaanxi/ankang/crested_ibis_habitat), the last of which has one of its last surviving wild populations in this area.

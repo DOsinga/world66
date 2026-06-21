@@ -12,6 +12,8 @@ latitude: 50.465239
 loc_type: city
 longitude: -3.521136
 score: 0.46
+snippet: English Riviera resort town with palm-lined beaches and prehistoric caves
+  behind the seafront
 title: Torquay
 type: location
 ---

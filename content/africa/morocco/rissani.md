@@ -10,6 +10,8 @@ latitude: 31.285948
 loc_type: city
 longitude: -4.275093
 score: 0.4
+snippet: Saharan-edge town in the Ziz Valley, beside the ruins of the medieval trading
+  city Sijilmassa.
 title: Rissani
 type: location
 ---

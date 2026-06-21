@@ -12,6 +12,8 @@ latitude: -23.104536
 loc_type: city
 longitude: -134.969596
 score: 0.43
+snippet: Remote Gambier Islands village and pearl-farming centre set inside a vast
+  French Polynesian lagoon
 title: Mangareva
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 38.267755
 loc_type: city
 longitude: 140.86915
 score: 0.52
+snippet: Tohoku’s largest city, founded by Date Masamune and famous for Zuihoden,
+  Matsushima access, and gyutan
 title: Sendai
 type: location
 ---

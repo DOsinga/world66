@@ -10,6 +10,8 @@ latitude: 51.571871
 loc_type: city
 longitude: -0.776965
 score: 0.4
+snippet: Thames town in Buckinghamshire, known for Georgian streets, literary connections,
+  and a graceful suspension bridge.
 title: Marlow
 type: location
 ---

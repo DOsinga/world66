@@ -9,6 +9,8 @@ latitude: -43.8035
 loc_type: city
 longitude: 172.9681
 score: 0.53
+snippet: Harbour town on Banks Peninsula, carrying New Zealand's rare French colonial
+  traces beside volcanic waters.
 title: Akaroa
 type: location
 ---

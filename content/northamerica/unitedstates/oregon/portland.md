@@ -12,6 +12,8 @@ latitude: 45.5202
 loc_type: city
 longitude: -122.6742
 score: 0.51
+snippet: Oregon’s largest city, where riverside neighbourhoods, independent bookshops,
+  craft beer, and forested hills meet.
 title: Portland
 type: location
 ---

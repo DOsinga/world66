@@ -12,6 +12,8 @@ latitude: 11.2447
 loc_type: city
 longitude: 125.0048
 score: 0.35
+snippet: Leyte port city marked by MacArthur's 1944 landing and its rebuilt bayfront
+  after Haiyan.
 title: Tacloban City
 type: location
 ---

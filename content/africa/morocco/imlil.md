@@ -13,6 +13,7 @@ longitude: -7.9168
 score: 0.5
 title: Imlil
 type: location
+snippet: "High Atlas Berber village and main trekking base for Jebel Toubkal, North Africa's highest mountain."
 ---
 
 Imlil is a Berber village at 1,740 metres in the High Atlas, about 60 kilometres south of Marrakesh and the main gateway to Jebel Toubkal — at 4,167 metres, the highest mountain in North Africa. It exists almost entirely as a trekking base: guesthouses, guide bureaux, mule hire, and equipment shops fill the small village centre, and the surrounding mountains offer everything from afternoon valley walks to serious multi-day traverses of the Toubkal massif.

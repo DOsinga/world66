@@ -10,6 +10,8 @@ latitude: -39.641768
 loc_type: city
 longitude: 176.843078
 score: 0.44
+snippet: Hawke's Bay agricultural city with Art Deco architecture from the 1931 earthquake
+  rebuild.
 title: Hastings
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 1.4748
 loc_type: city
 longitude: 124.8421
 score: 0.47
+snippet: North Sulawesi capital and gateway to Bunaken's coral walls and the Minahasa
+  highlands.
 title: Manado
 type: location
 ---

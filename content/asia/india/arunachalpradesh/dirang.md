@@ -10,6 +10,8 @@ latitude: 27.36008
 loc_type: city
 longitude: 92.24121
 score: 0.38
+snippet: Arunachal valley town between Bomdila and Tawang, known for Monpa houses,
+  orchards, and winter cranes
 title: Dirang
 type: location
 ---

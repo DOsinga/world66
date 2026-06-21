@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 44.1598
+loc_type: region
 longitude: 28.6348
+score: 0.48
+snippet: Romanian coastal region pairing Danube Delta wilderness with resort beaches
+  around Constanta and Mamaia
 title: Black Sea Coast
 type: location
-score: 0.48
-loc_type: region
 ---
 
 Romania's Black Sea coast stretches 245 kilometres from the wild, unspoiled Danube Delta in the north to the string of beach resorts near the Bulgarian border. The two halves could hardly be more different: the Delta is a protected wilderness of channels, reed beds, and pelican colonies, while the southern stretch is a continuous ribbon of golden sand backed by resorts that range from communist-era concrete to surprisingly stylish.

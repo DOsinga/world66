@@ -13,6 +13,8 @@ sources:
 title: Weinan
 type: location
 score: 0.29
+snippet: Eastern Guanzhong Plain prefecture linking Xi'an with Hua Shan and Tang imperial
+  tombs.
 ---
 
 Weinan sprawls across the eastern Guanzhong Plain between Xi'an and [Hua Shan](/asia/china/shaanxi/weinan/mount_hua), a large prefecture whose central city is less interesting than its surroundings. It is the administrative home of some of Shaanxi's most significant historical sites, including Hua Shan and several Tang Dynasty imperial tombs, and most visitors pass through it on the way to those destinations rather than stopping in the city itself.

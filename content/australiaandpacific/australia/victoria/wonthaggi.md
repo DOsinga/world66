@@ -10,6 +10,8 @@ latitude: -38.6044
 loc_type: city
 longitude: 145.5913
 score: 0.33
+snippet: Former coal-mining town on Victoria's Bass Coast, with preserved underground
+  workings at the State Coal Mine.
 title: Wonthaggi
 type: location
 ---

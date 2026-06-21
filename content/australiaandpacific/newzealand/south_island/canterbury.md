@@ -10,6 +10,8 @@ latitude: -43.494176
 loc_type: city
 longitude: 171.809845
 score: 0.48
+snippet: South Island region stretching from the Southern Alps to Christchurch and
+  the Pacific coast
 title: Canterbury
 type: location
 ---

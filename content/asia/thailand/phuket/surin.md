@@ -11,6 +11,7 @@ loc_type: city
 longitude: 98.2796
 score: 0.58
 title: Surin Beach
+snippet: "Phuket beach village set on a casuarina-lined bay, with local seafood and hillside resort history."
 type: location
 ---
 

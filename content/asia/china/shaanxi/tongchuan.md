@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Rivercross,_Ton
 latitude: 34.9057
 loc_type: city
 longitude: 108.9422
+score: 0.26
+snippet: Shaanxi plateau city with coal roots, Taoist sites, and a long Yaozhou ceramics
+  tradition
 sources:
 - https://en.wikivoyage.org/wiki/Tongchuan
 title: Tongchuan
 type: location
-score: 0.26
 ---
 
 Tongchuan is a former coal city on the plateau sixty-eight kilometres north of Xi'an, now reinventing itself around its cultural and historical assets as the mines have wound down. It sits at the transition zone between the Guanzhong Plain and the northern Shaanxi plateau, which gives it both a varied landscape and a history that runs from the Tang Dynasty forward in continuous material form.

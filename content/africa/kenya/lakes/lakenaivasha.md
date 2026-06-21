@@ -10,6 +10,8 @@ latitude: -0.758635
 loc_type: city
 longitude: 36.355377
 score: 0.51
+snippet: Freshwater Rift Valley lake northwest of Nairobi, rich with hippos, birds,
+  flower farms, and nearby Hell's Gate
 title: Lake Naivasha
 type: location
 ---

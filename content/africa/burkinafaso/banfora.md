@@ -11,6 +11,7 @@ sources:
 - https://en.wikipedia.org/wiki/Cascades_de_Karfigu%C3%A9la
 - https://en.wikipedia.org/wiki/Lake_Tengrela
 title: Banfora
+snippet: Southwestern Burkina Faso city surrounded by waterfalls, rock domes, and greener Sahel scenery.
 type: location
 image: banfora.jpg
 image_source: https://www.flickr.com/photos/144752224@N06/35075085672

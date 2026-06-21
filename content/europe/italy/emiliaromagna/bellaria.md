@@ -7,6 +7,8 @@ image_license: Attribution
 image_source: https://commons.wikimedia.org/wiki/File:Bellaria_chiesa.JPG
 latitude: 44.145
 loc_type: city
+snippet: Adriatic resort town with fishing-village roots, broad family beaches, and
+  a 16th-century Saracen watchtower
 longitude: 12.468
 score: 0.41
 sources:

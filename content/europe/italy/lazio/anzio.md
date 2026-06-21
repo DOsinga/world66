@@ -11,6 +11,7 @@ loc_type: city
 longitude: 12.6286
 score: 0.44
 title: Anzio
+snippet: "Lazio seaside town south of Rome, remembered for wartime landings and still centred on its fishing harbour."
 type: location
 ---
 

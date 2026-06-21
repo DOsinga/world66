@@ -10,6 +10,8 @@ latitude: 9.6615
 loc_type: city
 longitude: 80.0255
 score: 0.43
+snippet: Tamil Sri Lankan cultural capital on the northern peninsula, known for ornate
+  temples and spicy food.
 title: Jaffna
 type: location
 ---

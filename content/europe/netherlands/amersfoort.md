@@ -6,9 +6,11 @@ image_attribution: acediscovery
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
 latitude: 52.16377
-longitude: 5.408885
 loc_type: city
+longitude: 5.408885
 score: 0.47
+snippet: Medieval Dutch city near Utrecht, with quiet canals, intact walls, and the
+  freestanding Lange Jan tower.
 sources:
 - https://en.wikipedia.org/wiki/Amersfoort
 - https://en.wikipedia.org/wiki/Koppelpoort

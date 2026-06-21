@@ -5,6 +5,8 @@ latitude: 40.7282
 loc_type: region
 longitude: -73.7949
 score: 0.53
+snippet: Long Atlantic island of suburbs, surf beaches, and twin eastern forks stretching
+  east from New York City.
 title: Long Island
 type: location
 ---

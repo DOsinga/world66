@@ -11,6 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dole,_Boulders_in_the_moun
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
 loc_type: region
+snippet: "Khumbu trekking region in northeastern Nepal, home to Everest, Sherpa villages, and Sagarmatha National Park."
 ---
 
 The Everest Region -- known locally as the Khumbu -- is the roof of the world, home to Mount Everest (8,849m) and some of the most spectacular trekking on earth. The region lies in the Solukhumbu district of northeastern Nepal and is protected as the Sagarmatha National Park, a UNESCO World Heritage Site.

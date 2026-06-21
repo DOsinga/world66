@@ -10,6 +10,8 @@ latitude: 43.490312
 loc_type: city
 longitude: 16.561561
 score: 0.42
+snippet: Dalmatian seaside community south of Split, strung along pebble beaches beneath
+  pine woods and low hills.
 title: Podstrana
 type: location
 ---

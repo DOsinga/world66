@@ -9,6 +9,8 @@ latitude: 11.715129
 loc_type: city
 longitude: 76.127118
 score: 0.49
+snippet: Hilly Kerala district in the Western Ghats, rich in forests, spice plantations,
+  and tribal culture
 sources:
 - https://en.wikipedia.org/wiki/Wayanad_district
 - https://en.wikipedia.org/wiki/Edakkal_Caves

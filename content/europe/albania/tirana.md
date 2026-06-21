@@ -10,6 +10,8 @@ latitude: 41.328148
 loc_type: city
 longitude: 19.818444
 score: 0.46
+snippet: Compact Albanian capital reshaped from grey post-communist city into one
+  of the Balkans' livelier capitals.
 title: Tirana
 type: location
 ---

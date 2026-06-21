@@ -6,6 +6,7 @@ latitude: 56.12889
 loc_type: city
 longitude: 40.40752
 score: 0.41
+snippet: Ancient Russian city east of Moscow, rich in white-stone cathedrals from medieval Rus'.
 title: Vladimir
 type: location
 ---

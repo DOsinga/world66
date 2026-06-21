@@ -9,6 +9,8 @@ latitude: 50.2582
 loc_type: city
 longitude: 10.9646
 score: 0.43
+snippet: Northern Bavarian town overlooked by Veste Coburg, a major medieval fortress
+  with royal connections.
 sources:
 - https://en.wikipedia.org/wiki/Coburg
 - https://en.wikipedia.org/wiki/Veste_Coburg

@@ -14,6 +14,7 @@ sources:
 title: Mardin
 type: location
 score: 0.53
+snippet: "Medieval stone city above the Mesopotamian plain, layered with Syriac, Kurdish, Arab, and Armenian heritage."
 ---
 
 Mardin is one of the most striking cities in the Middle East — a medieval stone city built in tiers on a ridge above the Mesopotamian plain, its flat-roofed honey-coloured limestone houses descending in layers toward the Syrian border visible on the horizon. The city has been continuously inhabited for over five thousand years, sitting astride the ancient route between the Mediterranean and Mesopotamia, and layers of that history show in its monuments: Syrian Orthodox churches, Islamic madrasas, Artukid fortresses, and Armenian inscriptions all share the same narrow streets.

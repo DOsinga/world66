@@ -10,6 +10,8 @@ latitude: 51.191219
 loc_type: city
 longitude: 3.100769
 score: 0.26
+snippet: Quiet Flemish town between Bruges and Ostend, centred on Constant Permeke's
+  former home and studio.
 title: Jabbeke
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 38.462017
 loc_type: city
 longitude: 23.60534
 score: 0.4
+snippet: Euboean capital on the Euripus Strait, where the tidal current famously reverses
+  direction.
 title: Chalkis
 type: location
 ---

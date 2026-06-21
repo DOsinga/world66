@@ -11,6 +11,8 @@ latitude: 50.9025
 loc_type: city
 longitude: -1.4042
 score: 0.38
+snippet: English cruise port city where Mayflower and Titanic history sits beside
+  medieval walls and waterfront quays.
 title: Southampton
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: -7.3303
 loc_type: city
 longitude: 110.4995
 score: 0.33
+snippet: Cool Javanese university town below Mount Merbabu, long valued as a relaxed
+  break from lowland heat.
 title: Salatiga
 type: location
 ---

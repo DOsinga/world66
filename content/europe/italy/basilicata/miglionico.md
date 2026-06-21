@@ -9,6 +9,7 @@ score: 0.36
 sources:
 - https://en.wikipedia.org/wiki/Miglionico
 title: Miglionico
+snippet: Basilicata hilltop town dominated by Castello del Malconsiglio and views between two river valleys
 type: location
 ---
 

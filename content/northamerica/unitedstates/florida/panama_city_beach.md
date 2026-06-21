@@ -10,6 +10,7 @@ loc_type: city
 longitude: -85.805386
 score: 0.46
 title: Panama City Beach
+snippet: "Florida Panhandle beach resort known for white quartz sand and clear Gulf water."
 type: location
 ---
 

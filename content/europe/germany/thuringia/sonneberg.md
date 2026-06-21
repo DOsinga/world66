@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Sonneberg-Bahnhofsplatz5.j
 latitude: 50.35
 loc_type: city
 longitude: 11.1667
+score: 0.34
+snippet: Thuringian town near Bavaria, historically one of Europe's major toy-making
+  centres.
 sources:
 - https://en.wikipedia.org/wiki/Sonneberg
 - https://www.discover-bavaria.com/destinations/toy-museum-sonneberg
 title: Sonneberg
 type: location
-score: 0.34
 ---
 
 Sonneberg sits on the southern edge of [Thuringia](/europe/germany/thuringia), close to the Bavarian border, and built its reputation on toys. For generations this was one of Europe's great toy-making towns, a place of dolls, model railways, wooden figures and export catalogues. The nickname "world toy city" sounds inflated until you step into the [German Toy Museum](/europe/germany/thuringia/sonneberg/german_toy_museum) and realise how industrial, skilled and international the trade became.

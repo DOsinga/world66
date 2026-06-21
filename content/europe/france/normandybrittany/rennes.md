@@ -9,6 +9,8 @@ latitude: 48.111339
 loc_type: city
 longitude: -1.68002
 score: 0.52
+snippet: Breton capital and university city, with half-timbered streets, crêperies,
+  markets, and a lively old-town bar scene.
 title: Rennes
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 52.272
 loc_type: city
 longitude: 8.0476
 score: 0.38
+snippet: Lower Saxon university city where Westphalia's peace was signed amid Gothic
+  civic halls and compact old streets.
 title: Osnabrück
 type: location
 ---

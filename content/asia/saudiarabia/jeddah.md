@@ -12,6 +12,8 @@ latitude: 21.550443
 loc_type: city
 longitude: 39.174236
 score: 0.44
+snippet: Red Sea port city and pilgrimage gateway, with coral-stone houses in UNESCO-listed
+  Al Balad.
 title: Jeddah
 type: location
 ---

@@ -11,6 +11,7 @@ longitude: -3.62837
 score: 0.47
 title: Culross
 type: location
+snippet: "Culross is a preserved Fife village of 16th- and 17th-century houses on the Firth of Forth."
 ---
 
 Culross is a connoisseur's piece — a tiny village on the north bank of the Firth of Forth that looks much as it did in the 16th and 17th centuries. There is nothing in the surrounding landscape to prepare you for it; the shipyard town of Rosyth is nearby and the approach is unremarkable. Then you turn a corner and find yourself in the most complete example of a Scottish burgh from the 1600s.

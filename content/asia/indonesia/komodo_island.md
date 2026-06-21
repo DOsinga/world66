@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: komodo_island.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_komodoensis,_Komodo_Island,_Indonesia,_20250822_1319_2752.jpg
 latitude: -8.589191
+loc_type: feature
 longitude: 119.462412
+score: 0.66
+snippet: Rugged Lesser Sunda island where Komodo dragons roam dry savannah above some
+  of Indonesia’s richest reefs.
 title: Komodo Island
 type: location
-score: 0.66
-image: komodo_island.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_komodoensis,_Komodo_Island,_Indonesia,_20250822_1319_2752.jpg
-image_license: CC BY 4.0
-image_attribution: Jakub Hałun
-loc_type: feature
 ---
 
 Komodo Island is a small, rugged island of about 280 square kilometres between Sumbawa and Flores in the Lesser Sunda chain. It is famous for one thing: the Komodo dragon (*Varanus komodoensis*), the world's largest living lizard, which reaches lengths of three metres and has roamed these islands for hundreds of thousands of years.

@@ -9,6 +9,8 @@ latitude: 9.596054
 loc_type: city
 longitude: 76.430538
 score: 0.51
+snippet: Kerala backwater village on Vembanad Lake, surrounded by lagoons, rice paddies,
+  and coconut groves
 title: Kumarakom
 type: location
 ---

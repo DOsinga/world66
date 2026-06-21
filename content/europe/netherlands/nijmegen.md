@@ -10,6 +10,8 @@ latitude: 51.847495
 loc_type: city
 longitude: 5.863777
 score: 0.44
+snippet: Waal river city claiming Roman origins, with Valkhof ruins and a long history
+  at Europe's crossroads.
 title: Nijmegen
 type: location
 ---

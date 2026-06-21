@@ -10,6 +10,8 @@ latitude: 69.966605
 loc_type: city
 longitude: 23.273328
 score: 0.49
+snippet: Finnmark town on Altafjord, known for prehistoric rock carvings and dark
+  Arctic skies.
 title: Alta
 type: location
 ---

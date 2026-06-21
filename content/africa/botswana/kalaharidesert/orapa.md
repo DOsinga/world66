@@ -6,6 +6,8 @@ latitude: -21.336196
 loc_type: city
 longitude: 25.364964
 score: 0.18
+snippet: Closed Botswana company town built around one of the world's largest open-pit
+  diamond mines
 title: Orapa
 type: location
 ---

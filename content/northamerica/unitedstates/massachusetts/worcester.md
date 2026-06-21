@@ -12,6 +12,8 @@ latitude: 42.262562
 loc_type: city
 longitude: -71.801888
 score: 0.29
+snippet: Central Massachusetts city rebuilt around colleges, medicine, and a lively
+  Shrewsbury Street restaurant strip.
 title: Worcester
 type: location
 ---

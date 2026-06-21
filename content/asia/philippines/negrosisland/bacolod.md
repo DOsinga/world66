@@ -12,6 +12,8 @@ latitude: 10.676284
 loc_type: city
 longitude: 122.951379
 score: 0.38
+snippet: Negros Occidental capital known for MassKara masks, sugar-country history,
+  and chicken inasal
 title: Bacolod
 type: location
 ---

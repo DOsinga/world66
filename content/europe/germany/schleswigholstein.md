@@ -4,6 +4,7 @@ type: location
 loc_type: region
 latitude: 54.2194
 longitude: 9.6961
+snippet: "Germany's northernmost state, framed by Denmark, the North Sea, and the Baltic Sea."
 ---
 
 Schleswig-Holstein is Germany's northernmost state, pressed between Denmark to the north, the North Sea to the west, and the Baltic Sea to the east. It is a flat, windswept land of fields, heathland, thatched farmhouses, and long coastlines. The landscape is not dramatic, but the light is extraordinary — the big skies and double coastline give it a quality that has drawn painters since the 19th century.

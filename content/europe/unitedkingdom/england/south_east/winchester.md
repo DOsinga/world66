@@ -10,6 +10,8 @@ latitude: 51.061277
 loc_type: city
 longitude: -1.313169
 score: 0.5
+snippet: Historic Hampshire cathedral city, once England's capital and closely associated
+  with Alfred the Great.
 title: Winchester
 type: location
 ---

@@ -9,6 +9,7 @@ latitude: 42.569288
 loc_type: city
 longitude: -0.549376
 score: 0.49
+snippet: "Pyrenean Aragonese town and former kingdom capital, with a Romanesque cathedral and star-shaped citadel."
 title: Jaca
 type: location
 ---

@@ -16,6 +16,8 @@ done:
   country_cleanup: 2026-03-29
 score: 0.59
 loc_type: country
+snippet: Southern African coastal country stretching from South Africa to Tanzania
+  along the Indian Ocean.
 ---
 
 Mozambique is located in Southern Africa on the coast between South Africa and [Tanzania](/africa/tanzania). It also shares a border with the landlocked countries [Malawi](/africa/malawi), [Zimbabwe](/africa/zimbabwe), [Swaziland](/africa/swaziland) and [Zambia](/africa/zambia). 

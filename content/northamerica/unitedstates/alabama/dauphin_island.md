@@ -10,6 +10,8 @@ latitude: 30.254202
 loc_type: city
 longitude: -88.112482
 score: 0.35
+snippet: Quiet Gulf barrier island south of Mobile, noted for birding, beaches, and
+  Fort Gaines.
 title: Dauphin Island
 type: location
 ---

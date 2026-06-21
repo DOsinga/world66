@@ -10,6 +10,8 @@ latitude: 30.415334
 loc_type: city
 longitude: 78.32119
 score: 0.43
+snippet: Quiet Uttarakhand hill station on the Chamba-Mussoorie road, with Garhwal
+  Himalayan views and deodar forests.
 title: Kanatal
 type: location
 ---

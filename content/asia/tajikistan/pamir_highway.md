@@ -5,6 +5,8 @@ latitude: 37.490482
 loc_type: region
 longitude: 71.530706
 score: 0.62
+snippet: High Pamir overland route across eastern Tajikistan, crossing stark plateaus
+  between Dushanbe and Osh.
 title: Pamir Highway
 type: location
 ---

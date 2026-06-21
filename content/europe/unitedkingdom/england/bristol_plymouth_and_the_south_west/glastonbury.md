@@ -10,6 +10,8 @@ latitude: 51.14804
 loc_type: city
 longitude: -2.716577
 score: 0.53
+snippet: Somerset town of abbey ruins and Avalon legends, long associated with Arthurian
+  myth and pilgrimage.
 title: Glastonbury
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 44.0594
 loc_type: city
 longitude: 12.5683
 score: 0.53
+snippet: Adriatic resort city with Roman landmarks, sandy beaches, and a historic
+  centre behind the waterfront.
 title: Rimini
 type: location
 ---

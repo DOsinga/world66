@@ -10,6 +10,8 @@ latitude: 15.7833
 loc_type: city
 longitude: -87.4667
 score: 0.36
+snippet: Laid-back Honduran Caribbean town edged by empty beaches, Garifuna villages,
+  and Lancetilla's tropical gardens.
 title: Tela
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -36.757
 loc_type: city
 longitude: 144.2794
 score: 0.42
+snippet: Victorian gold rush city with grand 1850s architecture and the Central Deborah
+  Gold Mine
 title: Bendigo
 type: location
 ---

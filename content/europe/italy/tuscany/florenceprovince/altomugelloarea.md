@@ -1,12 +1,14 @@
 ---
-title: Alto Mugello Area
-type: location
-latitude: 44.12
-longitude: 11.45
 done:
   location_cleanup: 2026-04-07
-score: 0.48
+latitude: 44.12
 loc_type: region
+longitude: 11.45
+score: 0.48
+snippet: Mountainous Tuscan region of chestnut forests, stone villages, and Apennine
+  trails north of Florence
+title: Alto Mugello Area
+type: location
 ---
 
 The Alto Mugello is the mountainous northern edge of the [Florence](/europe/italy/tuscany/florence) province, where Tuscany meets Emilia-Romagna across the Apennine ridge. It is deeply rural — small stone villages, chestnut forests, and green valleys cut by streams — and sees very few tourists. The landscape is beautiful in an understated way, ideal for hiking, mountain biking, and horseback riding.

@@ -11,6 +11,7 @@ loc_type: city
 longitude: -123.9226
 score: 0.43
 title: Seaside
+snippet: Classic Oregon coast resort town with a broad beach, promenade, and Lewis and Clark landmark.
 type: location
 ---
 

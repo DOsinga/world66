@@ -9,6 +9,7 @@ latitude: 61.1153
 loc_type: city
 longitude: 10.4663
 score: 0.52
+snippet: Norwegian town at Lake Mjøsa's northern tip, host of the 1994 Winter Olympics.
 title: Lillehammer
 type: location
 ---

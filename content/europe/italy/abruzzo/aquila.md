@@ -9,6 +9,7 @@ loc_type: city
 longitude: 13.397967
 score: 0.46
 title: L’Aquila
+snippet: "Apennine mountain city founded in the 13th century, marked by its recurring legend of 99."
 type: location
 ---
 

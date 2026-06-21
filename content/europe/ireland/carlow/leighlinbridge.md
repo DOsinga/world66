@@ -10,6 +10,8 @@ latitude: 52.736023
 loc_type: city
 longitude: -6.976626
 score: 0.35
+snippet: Pretty Carlow village on the River Barrow, watched by a Norman castle and
+  medieval bridge.
 title: Leighlinbridge
 type: location
 ---

@@ -1,22 +1,24 @@
 ---
-title: Midway Islands
-type: location
-latitude: 28.2072
-longitude: -177.3735
-image: midwayislands.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Starr_080531-4690_Eragrostis_variabilis.jpg
-image_license: CC BY 3.0
-image_attribution: <a rel="nofollow" class="external text" href="http://www.hear.org/starr/">Forest
-  &amp; Kim Starr</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "~40 staff and contractors"
-  Public Access: Closed since 2013
-  Nesting Seabirds Per Year: "3 million"
-  Oldest Known Wild Bird: Wisdom the albatross, banded 1956
-score: 0.09
+image: midwayislands.jpg
+image_attribution: <a rel="nofollow" class="external text" href="http://www.hear.org/starr/">Forest
+  &amp; Kim Starr</a>
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Starr_080531-4690_Eragrostis_variabilis.jpg
+latitude: 28.2072
 loc_type: country
+longitude: -177.3735
+quick_facts:
+  Nesting Seabirds Per Year: 3 million
+  Oldest Known Wild Bird: Wisdom the albatross, banded 1956
+  Population: ~40 staff and contractors
+  Public Access: Closed since 2013
+score: 0.09
+snippet: Remote American Pacific atoll where vast albatross colonies nest around a
+  pivotal World War II battlefield.
+title: Midway Islands
+type: location
 ---
 
 Midway Atoll is a small American territory in the north-central Pacific, roughly 1,300 miles northwest of Honolulu. It sits near the far end of the Hawaiian archipelago and consists of three low-lying coral islands — Sand Island, Eastern Island, and Spit Island — surrounded by about 580,000 acres of reef and lagoon. The Hawaiian name for the atoll is Pihemanu, meaning "the loud din of birds," which tells you almost everything you need to know about the place.

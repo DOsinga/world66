@@ -12,6 +12,7 @@ loc_type: city
 longitude: 7.123697
 score: 0.61
 title: Antibes
+snippet: Côte d'Azur town of Vauban ramparts, Picasso history, sandy Juan-les-Pins beaches, and Port Vauban.
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 33.052899
 loc_type: city
 longitude: -85.639678
 score: 0.15
+snippet: Small Alabama town beside Horseshoe Bend battlefield, where the Creek War
+  turned decisively
 title: Daviston
 type: location
 ---

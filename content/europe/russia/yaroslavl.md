@@ -10,6 +10,8 @@ latitude: 57.626388
 loc_type: city
 longitude: 39.893371
 score: 0.43
+snippet: Golden Ring city at the Volga and Kotorosl rivers, rich in frescoed 17th-century
+  churches.
 title: Yaroslavl
 type: location
 ---

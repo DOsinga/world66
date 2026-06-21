@@ -10,6 +10,8 @@ score: 0.33
 title: Wheeling
 type: location
 loc_type: city
+snippet: Ohio River city in West Virginia's panhandle, shaped by the National Road
+  and early westward travel
 sources:
 - https://en.wikipedia.org/wiki/Wheeling,_West_Virginia
 ---

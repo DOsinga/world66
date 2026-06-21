@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -1.327609
+loc_type: feature
 longitude: 36.893877
+score: 0.53
+snippet: Kenyan savannah park beside Nairobi, where lions and rhinos roam within sight
+  of the skyline.
 title: Nairobi National Park
 type: location
-score: 0.53
-loc_type: feature
 ---
 
 Nairobi National Park is the only national park in the world within sight of a major city's skyline. Opened in 1946 as Kenya's first national park, it covers 117 square kilometres of open grassland, scattered acacia woodland, and a stretch of the Athi river — all just 7 km south of [Nairobi](/africa/kenya/nairobi)'s city centre.

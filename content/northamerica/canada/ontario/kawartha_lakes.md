@@ -10,6 +10,8 @@ latitude: 44.359682
 loc_type: city
 longitude: -78.742173
 score: 0.41
+snippet: East-central Ontario cottage-country municipality, named for its many shining
+  lakes and small towns.
 title: Kawartha Lakes
 type: location
 ---

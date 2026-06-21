@@ -5,6 +5,8 @@ done:
   location_cleanup: 2026-04-06
 score: 0.49
 loc_type: region
+snippet: Wild Bosnian canyon of narrow water, steep approaches, and small-scale summer
+  canyoning trips.
 ---
 
 Travel Guide

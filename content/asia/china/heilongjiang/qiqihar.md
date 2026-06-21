@@ -10,6 +10,7 @@ loc_type: city
 longitude: 123.9512
 sources:
 - https://en.wikivoyage.org/wiki/Qiqihar
+snippet: "Heilongjiang city used as the gateway to Zhalong Nature Reserve, one of China's major crane wetlands."
 title: Qiqihar
 type: location
 score: 0.26

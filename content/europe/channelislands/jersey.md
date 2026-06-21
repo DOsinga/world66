@@ -7,6 +7,8 @@ latitude: 49.214
 loc_type: region
 longitude: -2.131
 score: 0.58
+snippet: Largest Channel Island, blending sandy bays, granite cliffs, Jersey Royals,
+  and occupation history.
 title: Jersey
 type: location
 ---

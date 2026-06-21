@@ -10,6 +10,8 @@ latitude: 32.156119
 loc_type: city
 longitude: -5.633585
 score: 0.39
+snippet: High Atlas Berber village between two legend-bound lakes, known for its betrothal
+  festival.
 title: Imilchil
 type: location
 ---

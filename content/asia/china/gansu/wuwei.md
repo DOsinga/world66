@@ -8,11 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:20060423063512.jpg
 latitude: 37.9278
 loc_type: city
 longitude: 102.6329
+score: 0.33
+snippet: Hexi Corridor city with Han garrison roots and the Flying Horse tomb at Leitai.
 sources:
 - https://en.wikivoyage.org/wiki/Wuwei
 title: Wuwei
 type: location
-score: 0.33
 ---
 
 Wuwei was one of the four great garrison towns the Han Emperor Wu established along the Hexi Corridor in 121 BC to control the newly conquered western territory. It remained a significant city through the Tang Dynasty and into the Western Xia period, when it was held by the Tangut kingdom that controlled much of the northwest until the Mongol conquest. The layered history of these different ruling powers has left a disproportionate quantity of museums and cultural sites for a city of its size.

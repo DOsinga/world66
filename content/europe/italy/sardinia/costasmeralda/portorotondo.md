@@ -10,6 +10,8 @@ latitude: 41.02831
 loc_type: city
 longitude: 9.547705
 score: 0.52
+snippet: Planned Sardinian harbour resort built around a circular bay north of the
+  Costa Smeralda.
 title: Porto Rotondo
 type: location
 ---

@@ -1,12 +1,14 @@
 ---
-title: Manipur
-type: location
-latitude: 24.720882
-longitude: 93.922939
 done:
   location_cleanup: 2026-04-05
-score: 0.38
+latitude: 24.720882
 loc_type: region
+longitude: 93.922939
+score: 0.38
+snippet: Remote northeastern Indian state of forested hills, Meitei culture, and floating
+  islands on Loktak Lake.
+title: Manipur
+type: location
 ---
 
 Manipur — the "jewelled land" — is one of India's smallest and most isolated states, tucked up against the Myanmar border in the far north-east. The Manipur valley is in fact a green plateau at about 700 metres, ringed by mist-topped forested mountains, with rice fields stretching flat between them. Most of the state's three million people are Meiteis who live on this plateau; the surrounding hills are home to dozens of Naga and Kuki-Chin tribes, each with their own language, dress and traditions.

@@ -11,6 +11,8 @@ latitude: 63.0958
 loc_type: city
 longitude: 21.6158
 score: 0.39
+snippet: Bilingual Finnish coastal city facing Sweden across the Gulf of Bothnia,
+  rebuilt after a 19th-century fire
 title: Vaasa
 type: location
 ---

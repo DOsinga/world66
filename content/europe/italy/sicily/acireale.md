@@ -9,6 +9,8 @@ latitude: 37.6128
 loc_type: city
 longitude: 15.1659
 score: 0.48
+snippet: Sicilian Baroque town on a lava cliff above the Ionian Sea, between Catania
+  and Taormina
 title: Acireale
 type: location
 ---

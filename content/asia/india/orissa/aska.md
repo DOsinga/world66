@@ -6,6 +6,8 @@ latitude: 19.606087
 loc_type: city
 longitude: 84.672452
 score: 0.23
+snippet: Odisha sugar town in Ganjam District, known for Aska Sugar Mill and Khambeswari
+  temple
 sources:
 - https://en.wikipedia.org/wiki/Asika
 title: Aska

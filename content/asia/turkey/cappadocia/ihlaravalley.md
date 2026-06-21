@@ -10,6 +10,7 @@ latitude: 38.2521
 loc_type: city
 longitude: 34.2918
 score: 0.56
+snippet: Cappadocian gorge carved by the Melendiz River, lined with rock-cut Byzantine churches and frescoes.
 title: Ihlara Valley
 type: location
 ---

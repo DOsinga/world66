@@ -6,6 +6,8 @@ latitude: 41.594841
 loc_type: city
 longitude: 20.654209
 score: 0.37
+snippet: Highland Mijak village on Bistra, briefly revived each summer by its traditional
+  wedding festival
 title: Galichnik
 type: location
 ---

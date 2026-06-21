@@ -14,6 +14,8 @@ snippet: Small Canadian Shield town on the Trans-Canada Highway, famous for its 
   goose statue and access to Lake Superior wilderness.
 title: Wawa
 type: location
+snippet: Northern Ontario lakefront town marked by its giant goose and Canadian Shield
+  wilderness.
 ---
 
 Wawa is a small lakefront town on the Trans-Canada Highway, 216 km north of Sault Ste. Marie. It is a mining town, but better known as a base for outdoor and wilderness adventures — boating, hiking, fishing, hunting, and exploring the vast Canadian Shield country that stretches in every direction.

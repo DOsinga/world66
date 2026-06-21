@@ -1,9 +1,11 @@
 ---
+latitude: 27.1004
+loc_type: region
+longitude: 93.6167
+snippet: Remote Himalayan state of tribal cultures, high forests, and journeys toward
+  the Tibetan border.
 title: Arunachal Pradesh
 type: location
-loc_type: region
-latitude: 27.1004
-longitude: 93.6167
 ---
 
 Arunachal Pradesh is India's most northeastern state, sharing borders with Bhutan, China, and Myanmar. It is vast, thinly populated, and barely touched by mass tourism — the combination of bureaucratic barriers (all visitors need an Inner Line Permit; foreigners also need a Protected Area Permit through a registered tour operator) and genuinely remote terrain has kept it far from the India most travelers see. Over 25 distinct tribal groups live here, each with their own language, dress, and traditions.

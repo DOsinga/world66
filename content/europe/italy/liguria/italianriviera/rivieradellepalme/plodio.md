@@ -9,6 +9,8 @@ latitude: 44.3512
 loc_type: city
 longitude: 8.2565
 score: 0.3
+snippet: Ligurian Alps commune near the Bormida valleys, with prehistoric carvings
+  and layered feudal history
 title: Plodio
 type: location
 ---

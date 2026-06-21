@@ -10,6 +10,8 @@ latitude: 34.053691
 loc_type: city
 longitude: -118.242766
 score: 0.58
+snippet: Sprawling Southern California metropolis where film mythology, immigrant
+  neighbourhoods, and Pacific light define the city.
 title: Los Angeles
 type: location
 ---

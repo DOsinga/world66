@@ -10,6 +10,8 @@ latitude: 45.15254
 loc_type: city
 longitude: -78.514813
 score: 0.4
+snippet: Ontario cottage-country town surrounded by lakes, forest, and rocky Canadian
+  Shield highlands.
 title: Haliburton
 type: location
 ---

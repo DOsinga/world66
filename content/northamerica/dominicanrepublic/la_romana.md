@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
+image: la_romana.jpg
+image_attribution: Dreinick on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/90733161@N05/8363211383
 latitude: 18.4274
 loc_type: city
 longitude: -68.9728
 score: 0.47
+snippet: Dominican coastal city near the Chavón River, with sugar history and access
+  to Bayahibe beaches.
 title: La Romana
 type: location
-image: la_romana.jpg
-image_source: https://www.flickr.com/photos/90733161@N05/8363211383
-image_license: CC BY 2.0
-image_attribution: Dreinick on Flickr
 ---
 
 La Romana is the Dominican Republic's sugar-cane capital turned resort town, sitting on the southeastern coast about an hour and a half east of Santo Domingo. It is one of the most visited regions in the country, thanks to a combination of white-sand beaches, the Casa de Campo luxury resort, and the remarkably photogenic [Altos de Chavón](/northamerica/dominicanrepublic/la_romana/altos_de_chavon).

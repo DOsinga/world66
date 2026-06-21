@@ -9,6 +9,7 @@ latitude: 45.3268
 loc_type: city
 longitude: 14.4422
 score: 0.47
+snippet: "Croatia's main port on the Kvarner Gulf, with Austro-Hungarian architecture and a layered maritime history."
 title: Rijeka
 type: location
 ---

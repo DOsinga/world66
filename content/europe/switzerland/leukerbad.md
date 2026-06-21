@@ -4,12 +4,14 @@ done:
 latitude: 46.3794
 loc_type: city
 longitude: 7.6284
+score: 0.51
+snippet: Valais thermal spa village below the Gemmi Pass, known for mineral baths
+  and sheer mountain walls
 sources:
 - https://en.wikipedia.org/wiki/Leukerbad
 - https://en.wikivoyage.org/wiki/Leukerbad
 title: Leukerbad
 type: location
-score: 0.51
 ---
 
 Leukerbad is Europe's highest thermal spa resort, sitting at 1,411 metres in a dramatic bowl of mountains in the Swiss canton of Valais. Hot springs have been channelling mineral-rich water here since Roman times, and the village has been a resort destination for several centuries — Goethe came to take the waters in 1779, and Mark Twain wrote about the laborious mule-path ascent in his comic travel essay "A Tramp Abroad." Today the village consists almost entirely of thermal bath complexes, hotels, and the infrastructure to support them, but the mountain setting is magnificent.

@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Bengbu_Zhanggong_Mountain_
 latitude: 32.9333
 loc_type: city
 longitude: 117.3667
+score: 0.25
+snippet: Huaihe River city in northern Anhui, known as the birthplace of Huagudeng
+  folk performance.
 sources:
 - https://en.wikivoyage.org/wiki/Bengbu
 title: Bengbu
 type: location
-score: 0.25
 ---
 
 Bengbu sits on the Huaihe River in northern Anhui, a transit city whose name — Clam Wharf — speaks to its origins as a market on the water. The name is slightly misleading now: the city has grown into a prefecture of over three million people, and clams are less prominent than coal terminals and chemical plants. But Bengbu has an identity that distinguishes it from other mid-sized Chinese cities: it is the acknowledged birthplace of [Huagudeng](/asia/china/anhui/bengbu/huagudeng_performance), a form of Sizhou drama and folk dance that has been recognized as an intangible cultural heritage. Performances are occasionally staged at local theaters and during festivals.

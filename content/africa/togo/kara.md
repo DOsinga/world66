@@ -12,6 +12,8 @@ latitude: 9.5511
 loc_type: city
 longitude: 1.1862
 score: 0.27
+snippet: Northern Togolese city used as a base for Mont Kabyé hikes and visits to
+  Tamberma architecture.
 title: Kara
 type: location
 ---

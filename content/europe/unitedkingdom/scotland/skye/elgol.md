@@ -10,6 +10,7 @@ latitude: 57.149235
 loc_type: city
 longitude: -6.10143
 score: 0.48
+snippet: "Tiny Skye village reached by a single-track road, used for boat trips to remote Loch Coruisk."
 title: Elgol
 type: location
 ---

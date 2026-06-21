@@ -6,6 +6,8 @@ latitude: 28.281309
 loc_type: city
 longitude: 68.436436
 score: 0.12
+snippet: Northern Sindh district capital founded by General John Jacob and linked
+  to 19th-century irrigation works.
 title: Jacobabad
 type: location
 ---

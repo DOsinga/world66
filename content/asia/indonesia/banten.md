@@ -1,9 +1,11 @@
 ---
+latitude: -6.12
+loc_type: region
+longitude: 106.15
+snippet: Western Java province of sultanate ruins, Sunda Strait volcanoes, and Ujung
+  Kulon rainforest.
 title: Banten
 type: location
-loc_type: region
-latitude: -6.12
-longitude: 106.15
 ---
 
 Banten is the westernmost province of Java, separated from Sumatra by the narrow Sunda Strait. It was carved out of West Java as a distinct province in 2000, but its history runs much deeper: the Sultanate of Banten was one of the most powerful trading states in Southeast Asia in the 16th and 17th centuries, a cosmopolitan port that drew merchants from China, India, Arabia, and Europe. The ruins of that sultanate — the Surosowan and Kaibon palaces, the great mosque at Banten Lama, the Dutch Speelwijk fortress — survive in the old town of Banten near the northern coast.

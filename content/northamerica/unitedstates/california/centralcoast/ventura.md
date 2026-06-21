@@ -10,6 +10,8 @@ latitude: 34.2746
 loc_type: city
 longitude: -119.229
 score: 0.4
+snippet: Low-key Central Coast city with Mission San Buenaventura, a working harbour,
+  and Channel Islands boats
 title: Ventura
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 25.7895
 loc_type: city
 longitude: 55.9432
 score: 0.46
+snippet: Northern UAE emirate of Hajar mountains, mangrove coasts, and pre-Islamic
+  history beyond the skyscraper circuit.
 title: Ras Al Khaimah
 type: location
 ---

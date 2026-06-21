@@ -8,16 +8,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:KLOTZ" title="User
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:JAME’ASR_HASSANAL_BOLKIAN_MOSQUE_IN_BANDAR_SERI_BEGAWAN,_BRUNEI.jpg
 latitude: 4.5353
+loc_type: country
 longitude: 114.7277
 quick_facts:
-  Population: "450,000"
-  Currency: "Brunei Dollar (= Singapore Dollar)"
-  Palace Rooms: "1,788"
   Alcohol: Banned
+  Currency: Brunei Dollar (= Singapore Dollar)
+  Palace Rooms: 1,788
+  Population: 450,000
+score: 0.38
+snippet: Tiny Bornean sultanate enriched by oil and gas, with rainforest, mosques,
+  and restrained public life.
 title: Brunei
 type: location
-score: 0.38
-loc_type: country
 ---
 
 Brunei is a sultanate the size of a large county, tucked into the northwest coast of Borneo and surrounded on three sides by the Malaysian state of Sarawak. It is one of the smallest and wealthiest countries in Asia — its oil and gas revenues have made it one of the highest per-capita income nations in the world, and the benefits are visible everywhere: free healthcare, no income tax, heavily subsidized petrol, and roads that would not embarrass Germany.

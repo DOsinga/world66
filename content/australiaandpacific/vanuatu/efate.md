@@ -12,6 +12,8 @@ latitude: -17.6739
 loc_type: city
 longitude: 168.3648
 score: 0.45
+snippet: Vanuatu's most populated island, ringed by reefs and centred on Port Vila's
+  natural harbour.
 title: Efate
 type: location
 ---

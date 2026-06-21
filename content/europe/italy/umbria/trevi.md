@@ -12,6 +12,7 @@ longitude: 12.747455
 score: 0.48
 title: Trevi
 type: location
+snippet: Umbrian hilltop village stacked above olive groves in the Valle Umbra.
 ---
 
 Trevi is one of Umbria's most striking hilltop villages — a tight cluster of medieval streets and stone buildings stacked on a conical hill above the Valle Umbra, surrounded by olive groves. On the train between [Perugia](/europe/italy/umbria/perugia) and [Spoleto](/europe/italy/umbria/spoleto), you can see it from the window: a perfect silhouette that most guidebooks dismiss as inaccessible and pass over. They are partly right about the access, but wrong to skip it.

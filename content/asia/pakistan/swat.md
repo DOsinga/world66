@@ -10,6 +10,8 @@ latitude: 35.232475
 loc_type: city
 longitude: 72.511635
 score: 0.33
+snippet: Pakistani mountain valley of rivers, orchards, alpine lakes, and Gandhara
+  Buddhist ruins around Saidu Sharif.
 title: Swat
 type: location
 ---

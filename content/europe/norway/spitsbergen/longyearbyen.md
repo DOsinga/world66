@@ -9,6 +9,8 @@ latitude: 78.223156
 loc_type: city
 longitude: 15.646366
 score: 0.54
+snippet: Arctic settlement and Svalbard gateway, set among glaciers, coal history,
+  and polar light
 title: Longyearbyen
 type: location
 ---

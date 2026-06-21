@@ -10,6 +10,8 @@ latitude: 40.390527
 loc_type: city
 longitude: 16.556732
 score: 0.37
+snippet: Basilicata hill town of whitewashed houses perched above the eroded clay
+  ravines of the calanchi
 title: Pisticci
 type: location
 ---

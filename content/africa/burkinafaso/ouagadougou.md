@@ -11,6 +11,8 @@ latitude: 12.368187
 loc_type: city
 longitude: -1.527094
 score: 0.25
+snippet: Burkina Faso's capital, centered on markets, music, film culture, and broad
+  Sahelian avenues.
 title: Ouagadougou
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -2.573474
 loc_type: city
 longitude: 150.795224
 score: 0.38
+snippet: New Ireland port town with a superb harbour and access to wreck diving and
+  reef walls
 title: Kavieng
 type: location
 ---

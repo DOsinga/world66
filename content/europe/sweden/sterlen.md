@@ -10,6 +10,8 @@ latitude: 55.5993
 loc_type: city
 longitude: 14.1141
 score: 0.44
+snippet: Southeastern Swedish coastal region of wheat fields, apple orchards, long
+  Baltic beaches, and unhurried summer light.
 title: Österlen
 type: location
 ---

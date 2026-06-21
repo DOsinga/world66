@@ -10,6 +10,8 @@ latitude: 51.968582
 loc_type: city
 longitude: 5.668298
 score: 0.35
+snippet: Dutch Rhine-side university town shaped by agricultural research and the
+  end of the Second World War in Europe.
 title: Wageningen
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 35.5284
 loc_type: city
 longitude: -108.7439
 score: 0.35
+snippet: Route 66 town in western New Mexico, known for Native American jewelry, trading
+  posts, and ceremonial gatherings.
 sources:
 - https://en.wikipedia.org/wiki/Gallup,_New_Mexico
 - https://en.wikipedia.org/wiki/El_Rancho_Hotel_%26_Motel

@@ -4,6 +4,7 @@ done:
 latitude: 40.4173
 longitude: -82.9071
 score: 0.37
+snippet: "Midwestern state with Lake Erie cities, Amish farmland, industrial history, and major museums."
 title: Ohio
 type: location
 loc_type: region

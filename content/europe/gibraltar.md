@@ -10,14 +10,16 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_the_Rock_of_Gibral
 latitude: 36.128593
 longitude: -5.347476
 quick_facts:
-  Population: "34,000"
+  Population: 34,000
   Currency: Gibraltar Pound (£)
-  Total Area: "6.5 km² — smaller than most airports"
+  Total Area: 6.5 km² — smaller than most airports
   Barbary Macaques: Only wild monkeys in Europe
 score: 0.37
 title: Gibraltar
 type: location
 loc_type: country
+snippet: Compact British territory on Spain's southern tip, dominated by the limestone
+  Rock at the Mediterranean entrance.
 ---
 
 Gibraltar is one of those places that shouldn't quite exist — a 6.5-square-kilometre British territory on the southern tip of Spain, within sight of Morocco, fiercely proud of its identity and stubbornly resistant to the obvious logic that it should belong to someone else. The Rock of Gibraltar, that massive limestone ridge rising 426 metres from the narrow isthmus, has defined the territory's history and still dominates everything about it.

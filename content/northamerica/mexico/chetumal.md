@@ -10,6 +10,7 @@ latitude: 18.502438
 loc_type: city
 longitude: -88.295795
 score: 0.38
+snippet: Mexican border city on Chetumal Bay, where the southern Yucatán meets Belize.
 title: Chetumal
 type: location
 ---

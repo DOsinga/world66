@@ -10,6 +10,7 @@ loc_type: city
 longitude: -93.7392
 score: 0.46
 title: Eureka Springs
+snippet: Victorian resort town in the Ozarks, with a preserved hillside downtown built around healing springs.
 type: location
 ---
 

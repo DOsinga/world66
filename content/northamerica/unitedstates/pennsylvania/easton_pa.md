@@ -10,6 +10,8 @@ latitude: 40.691608
 loc_type: city
 longitude: -75.209987
 score: 0.33
+snippet: Pennsylvania river city where the Delaware and Lehigh meet beside Crayola,
+  canals, and a revived square
 title: Easton
 type: location
 ---

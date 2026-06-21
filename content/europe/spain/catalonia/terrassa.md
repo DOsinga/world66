@@ -10,6 +10,8 @@ latitude: 41.562962
 loc_type: city
 longitude: 2.010049
 score: 0.38
+snippet: Catalan industrial city known for early medieval churches and textile-era
+  modernista architecture
 title: Terrassa
 type: location
 ---

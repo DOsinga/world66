@@ -9,11 +9,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Majuli_-_The_largest_river
 latitude: 26.95
 loc_type: feature
 longitude: 94.1667
+score: 0.42
+snippet: Brahmaputra river island in Assam, home to Vaishnavite satras preserving
+  classical Assamese arts and devotion
 sources:
 - https://en.wikipedia.org/wiki/Majuli
 title: Majuli
 type: location
-score: 0.42
 ---
 
 Majuli is the world's largest river island — an 880-square-kilometre slab of alluvial land sitting in the middle of the Brahmaputra in Assam, ringed by river channels and accessible only by ferry from Nimati Ghat near Jorhat. It is also, remarkably, the cultural heart of Assamese civilisation: the island is home to 22 surviving satras, the Vaishnavite monastery-communities that have preserved Assam's classical arts, drama, music, and dance for five centuries.

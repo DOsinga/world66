@@ -10,6 +10,8 @@ latitude: 47.7846
 loc_type: city
 longitude: 18.9703
 score: 0.46
+snippet: Danube Bend town below a hilltop citadel and reconstructed medieval royal
+  palace
 title: Visegrad
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 52.8944
 loc_type: city
 longitude: 5.6453
 score: 0.39
+snippet: Tiny Frisian fortified city laid out along one canal inside 17th-century
+  ramparts
 title: Sloten
 type: location
 ---

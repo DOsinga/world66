@@ -10,6 +10,8 @@ latitude: 33.771551
 loc_type: city
 longitude: 73.896786
 score: 0.29
+snippet: Poonch District hill town in Azad Kashmir, with pine forests and a frontier
+  bazaar.
 sources:
 - https://en.wikipedia.org/wiki/Hajira,_Poonch
 - https://en.wikipedia.org/wiki/Devi_Gali

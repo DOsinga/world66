@@ -2,6 +2,7 @@
 title: Vologda Region
 type: location
 loc_type: region
+snippet: Northern Russian region of forests, lakes, wooden architecture, and medieval monasteries anchored by historic Vologda.
 latitude: 59.5
 longitude: 40.5
 ---

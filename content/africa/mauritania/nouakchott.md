@@ -10,6 +10,7 @@ latitude: 18.0791
 loc_type: city
 longitude: -15.9785
 score: 0.23
+snippet: "Young Mauritanian capital built from a coastal outpost, where desert migration reshaped city life."
 title: Nouakchott
 type: location
 ---

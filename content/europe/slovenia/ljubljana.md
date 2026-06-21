@@ -11,6 +11,8 @@ latitude: 46.050027
 loc_type: city
 longitude: 14.506929
 score: 0.62
+snippet: Slovenian capital on the Ljubljanica River, known for its castle, old town,
+  and Jože Plečnik architecture.
 title: Ljubljana
 type: location
 ---

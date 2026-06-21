@@ -9,8 +9,8 @@ latitude: 51.648431
 loc_type: feature
 longitude: 5.043606
 score: 0.51
-snippet: The Netherlands' largest theme park, built around a fairy-tale forest designed
-  in the 1950s and drawing over five million visitors a year.
+snippet: Dutch fairy-tale amusement park near Kaatsheuvel, rooted in Anton Pieck's
+  woodland Sprookjesbos
 title: De Efteling
 type: location
 ---

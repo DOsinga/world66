@@ -10,6 +10,7 @@ latitude: 56.0581
 loc_type: city
 longitude: -2.7209
 title: North Berwick
+snippet: East Lothian seaside town facing Bass Rock, with beaches, harbour boats, and seabird watching near Edinburgh.
 type: location
 score: 0.47
 ---

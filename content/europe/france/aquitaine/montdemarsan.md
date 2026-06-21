@@ -6,6 +6,8 @@ latitude: 43.8911
 loc_type: city
 longitude: -0.501
 score: 0.37
+snippet: Landes capital at a river confluence, known for summer festivals and sculpture
+  along the old streets
 sources:
 - https://en.wikipedia.org/wiki/Mont-de-Marsan
 title: Mont-de-Marsan

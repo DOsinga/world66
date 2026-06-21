@@ -10,6 +10,8 @@ latitude: 15.2726
 loc_type: city
 longitude: 73.9583
 score: 0.41
+snippet: South Goa commercial city with a covered market, Catholic quarter, and old
+  Portuguese mansions
 title: Margao
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 29.094821
 loc_type: city
 longitude: -110.96922
 score: 0.31
+snippet: Sonoran state capital and desert commercial hub, known for cattle country
+  and northern Mexico's beef culture
 title: Hermosillo
 type: location
 ---

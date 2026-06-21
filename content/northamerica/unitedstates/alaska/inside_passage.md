@@ -8,6 +8,8 @@ latitude: 57.0
 loc_type: region
 longitude: -134.0
 score: 0.66
+snippet: Sheltered southeast Alaska sea route through islands, fjords, forests, and
+  coastal towns.
 title: Inside Passage
 type: location
 ---

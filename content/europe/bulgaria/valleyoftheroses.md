@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgarian_Rose.JPG
 latitude: 42.6167
 loc_type: region
 longitude: 25.4
+snippet: Central Bulgarian valley where rose-oil fields share the plain with Thracian
+  burial mounds.
 title: Valley of the Roses
 type: location
 ---

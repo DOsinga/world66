@@ -12,6 +12,8 @@ latitude: 33.3108
 loc_type: city
 longitude: 75.7694
 score: 0.37
+snippet: High Chenab valley town in Jammu and Kashmir, surrounded by deodar forests
+  and serious mountain peaks.
 title: Kishtwar
 type: location
 ---

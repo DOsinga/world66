@@ -6,6 +6,8 @@ latitude: 14.8333
 loc_type: city
 longitude: -91.5167
 score: 0.44
+snippet: Guatemala's highland second city, a K'iche' cultural capital better known
+  locally as Xela.
 title: Quetzaltenango (Xela)
 type: location
 ---

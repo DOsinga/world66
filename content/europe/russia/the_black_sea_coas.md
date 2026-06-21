@@ -1,9 +1,11 @@
 ---
-title: "Black Sea Coast"
-type: location
-loc_type: region
 latitude: 43.8
+loc_type: region
 longitude: 39.5
+snippet: Subtropical Russian coast between the Taman Peninsula and Abkhazia, backed
+  by the Caucasus.
+title: Black Sea Coast
+type: location
 ---
 
 Russia's Black Sea coast stretches from the Taman Peninsula in the north to the border with Abkhazia in the south — a strip of subtropical coastline squeezed between the sea and the western slopes of the Caucasus. The combination of warm water, mountain backdrop, and a climate mild enough to grow tea and citrus makes this Russia's most popular domestic beach destination, drawing millions of visitors each summer.

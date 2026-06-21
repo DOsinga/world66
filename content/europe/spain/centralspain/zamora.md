@@ -6,6 +6,8 @@ latitude: 41.685769
 loc_type: city
 longitude: -5.942315
 score: 0.47
+snippet: Duero River city in Castile, noted for an exceptional concentration of Romanesque
+  churches.
 title: Zamora
 type: location
 ---

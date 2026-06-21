@@ -9,6 +9,8 @@ latitude: 9.3085
 loc_type: city
 longitude: 123.308
 score: 0.46
+snippet: Eastern half of Negros island, with volcanic mountains, dive coastlines,
+  and the university city Dumaguete.
 sources:
 - https://en.wikipedia.org/wiki/Negros_Oriental
 title: Negros Oriental

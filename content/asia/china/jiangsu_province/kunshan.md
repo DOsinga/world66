@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Dianshan_Lake_1.jpg
 latitude: 31.3867
 loc_type: city
 longitude: 120.9766
+score: 0.28
+snippet: Jiangsu manufacturing city between Shanghai and Suzhou, with classical gardens
+  and gateway access to Zhouzhuang water town.
 sources:
 - https://en.wikivoyage.org/wiki/Kunshan
 title: Kunshan
 type: location
-score: 0.28
 ---
 
 Kunshan occupies a strategic gap between Shanghai (50 km east) and Suzhou (37 km west), and its extraordinary economic growth over the past thirty years is a direct consequence of that location. It has one of the highest concentrations of Taiwanese-owned manufacturing in mainland China, and the business-traveller economy has produced a well-developed hotel and restaurant scene relative to its modest size. For leisure visitors, though, the main reason to come is [Zhouzhuang](/asia/china/jiangsu_province/kunshan/zhouzhuang), the ancient water town that lies 15 km to the south and is technically within Kunshan's administrative jurisdiction.

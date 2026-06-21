@@ -15,6 +15,8 @@ quick_facts:
   Lakes: More than all other countries combined
   Population: 40 million
 score: 0.88
+snippet: Vast northern country of cosmopolitan cities, wild coasts, prairie, mountains,
+  and high Arctic space.
 title: Canada
 type: location
 ---

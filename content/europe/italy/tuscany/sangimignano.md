@@ -11,6 +11,8 @@ latitude: 43.467799
 loc_type: city
 longitude: 11.043211
 score: 0.64
+snippet: Tuscan hill town on the Via Francigena, famous for its surviving medieval
+  towers.
 title: San Gimignano
 type: location
 ---

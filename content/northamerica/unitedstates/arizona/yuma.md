@@ -10,6 +10,8 @@ latitude: 32.725422
 loc_type: city
 longitude: -114.619809
 score: 0.32
+snippet: Colorado River desert city where Arizona, California, and Mexico meet around
+  a historic crossing.
 title: Yuma
 type: location
 ---

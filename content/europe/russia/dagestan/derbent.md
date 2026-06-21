@@ -11,6 +11,8 @@ latitude: 42.0579
 loc_type: city
 longitude: 48.2888
 score: 0.41
+snippet: Ancient Caspian gateway city with Sassanid walls, a hilltop citadel, and
+  layered Caucasus cultures.
 title: Derbent
 type: location
 ---

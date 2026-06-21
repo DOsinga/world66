@@ -1,9 +1,16 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: pavlodar.jpg
+image_attribution: Graphique38
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Former_post_and_telegraph_office_building_in_Pavlodar.jpg
 latitude: 52.3
 loc_type: city
 longitude: 76.95
+score: 0.27
+snippet: Northern Kazakhstan industrial city on the Irtysh River, with Soviet avenues
+  and steppe-country museums
 sources:
 - https://en.wikipedia.org/wiki/Pavlodar
 - https://en.wikipedia.org/wiki/Mashkhur_Jusup_Mosque
@@ -11,11 +18,6 @@ sources:
 - https://culturemap.kz/en/object/pavlodarskiiy-oblastnoiy-istoriko-kraevedcheskiiy-muzeiy
 title: Pavlodar
 type: location
-image: pavlodar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Former_post_and_telegraph_office_building_in_Pavlodar.jpg
-image_license: CC BY 4.0
-image_attribution: Graphique38
-score: 0.27
 ---
 
 Pavlodar sits on the Irtysh River in north-eastern Kazakhstan, closer in mood to Siberia than to the mountains and bazaars of the south. It is an industrial and university city, not an obvious postcard stop, but it has a broad riverfront, a handsome central mosque, good regional museums, and a strong sense of the northern steppe.

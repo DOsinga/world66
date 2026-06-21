@@ -9,6 +9,7 @@ latitude: 29.8258
 loc_type: city
 longitude: -5.7228
 score: 0.42
+snippet: Saharan road-end village in the Draa Valley, gateway to Erg Chegaga's dunes.
 title: M'Hamid el Ghislane
 type: location
 ---

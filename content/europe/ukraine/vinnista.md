@@ -10,6 +10,8 @@ latitude: 49.2331
 loc_type: city
 longitude: 28.4682
 score: 0.28
+snippet: Central Ukrainian city on the Southern Bug, with riverside promenades and
+  an unusual Pirogov museum.
 title: Vinnytsia
 type: location
 ---

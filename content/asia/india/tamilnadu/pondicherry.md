@@ -10,6 +10,8 @@ latitude: 10.915649
 loc_type: city
 longitude: 79.806949
 score: 0.52
+snippet: Bay of Bengal town with a French colonial White Town and the Sri Aurobindo
+  Ashram.
 title: Pondicherry
 type: location
 ---

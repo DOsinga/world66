@@ -7,6 +7,8 @@ latitude: 23.727188
 loc_type: region
 longitude: 108.877226
 score: 0.65
+snippet: Southern Chinese region of limestone karst peaks, paddy fields, and river
+  landscapes around Guilin.
 sources:
 - https://en.wikivoyage.org/wiki/Guangxi
 title: Guangxi

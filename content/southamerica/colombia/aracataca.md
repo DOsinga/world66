@@ -10,6 +10,8 @@ latitude: 10.5906
 loc_type: city
 longitude: -74.1877
 score: 0.36
+snippet: Magdalena town where Gabriel García Márquez was born and Macondo took its
+  shape
 title: Aracataca
 type: location
 ---

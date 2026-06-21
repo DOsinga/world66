@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Palmi,_Calabria
 - https://turismo.reggiocal.it/en/tappa/palmi
 - https://en.wikipedia.org/wiki/Palmi_Cathedral
+snippet: "Calabrian terrace town above the Tyrrhenian, looking toward the Aeolian Islands and Sicily."
 title: Palmi
 type: location
 score: 0.43

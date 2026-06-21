@@ -10,6 +10,8 @@ latitude: 45.605677
 loc_type: city
 longitude: 10.520069
 score: 0.54
+snippet: Lake Garda town in a sheltered western-shore gulf, shadowed by Mussolini’s
+  final republic
 sources:
 - https://en.wikipedia.org/wiki/Sal%C3%B2
 - https://en.wikipedia.org/wiki/Italian_Social_Republic

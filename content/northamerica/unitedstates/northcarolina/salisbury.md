@@ -10,6 +10,8 @@ latitude: 35.670973
 loc_type: city
 longitude: -80.474226
 score: 0.29
+snippet: Historic North Carolina rail town with frontier-era roots and a preserved
+  downtown core.
 title: Salisbury
 type: location
 ---

@@ -12,6 +12,7 @@ loc_type: city
 longitude: 5.540965
 score: 0.39
 title: Franeker
+snippet: Small Frisian town famed for Eise Eisinga's working living-room planetarium and kaatsen tradition.
 type: location
 ---
 

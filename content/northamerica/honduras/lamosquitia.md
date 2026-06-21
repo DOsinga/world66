@@ -2,10 +2,12 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 15.25
+loc_type: region
 longitude: -84.5
+snippet: Roadless eastern Honduran region of rainforest, lagoons, and Miskito, Pech,
+  and Tawahka homelands
 title: La Mosquitia
 type: location
-loc_type: region
 ---
 
 La Mosquitia is the wild eastern corner of Honduras — a vast, roadless expanse of rainforest, wetlands, and coastal lagoons stretching from the Río Plátano to the Nicaraguan border. It is one of the least accessible regions in Central America and one of the most biodiverse places on the continent.

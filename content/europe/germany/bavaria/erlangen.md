@@ -10,6 +10,8 @@ latitude: 49.589157
 loc_type: city
 longitude: 10.981207
 score: 0.41
+snippet: Franconian university city with a coherent Baroque Huguenot quarter and major
+  Siemens research campus.
 title: Erlangen
 type: location
 ---

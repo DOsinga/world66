@@ -9,6 +9,8 @@ latitude: 44.905
 loc_type: city
 longitude: -66.9846
 score: 0.35
+snippet: Maine island city at the country's eastern edge, shaped by Bay of Fundy tides
+  and borderland quiet.
 sources:
 - https://en.wikipedia.org/wiki/Eastport,_Maine
 - https://en.wikipedia.org/wiki/Old_Sow

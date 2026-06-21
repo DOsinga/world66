@@ -5,6 +5,8 @@ latitude: -23.0
 loc_type: region
 longitude: 22.0
 score: 0.52
+snippet: Semi-arid sand basin across Botswana, with savannah, salt pans, and the Tswana
+  name Kgalagadi.
 title: Kalahari Desert
 type: location
 ---

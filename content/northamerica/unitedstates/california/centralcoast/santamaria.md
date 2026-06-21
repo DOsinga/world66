@@ -10,6 +10,8 @@ latitude: 34.9531
 loc_type: city
 longitude: -120.4359
 score: 0.32
+snippet: Central Coast agricultural city known for red-oak tri-tip barbecue and Santa
+  Maria Valley wine country.
 title: Santa Maria
 type: location
 ---

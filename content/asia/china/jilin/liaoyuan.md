@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Liao_River_Bridge_1.j
 latitude: 42.8976
 loc_type: city
 longitude: 125.1381
+score: 0.24
+snippet: Coal-mining city in central Jilin, marked by exhausted mines and the Dongliao
+  River.
 sources:
 - https://en.wikivoyage.org/wiki/Liaoyuan
 title: Liaoyuan
 type: location
-score: 0.24
 ---
 
 Liaoyuan occupies the geographic centre of Jilin Province, in the hills south of Changchun, and has the identity of a coal-mining city that is working out what to do with itself in a post-coal era. The mines that drove its twentieth-century growth are largely exhausted, and the city has the somewhat transitional character common to resource towns that peaked decades ago and are now diversifying into lighter industry and services. This is not unusual in northeastern China, but it gives Liaoyuan a particular texture — older industrial infrastructure alongside newer development, a working population that remembers when the mines were running, a landscape marked by decades of extraction.

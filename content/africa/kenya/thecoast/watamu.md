@@ -11,6 +11,8 @@ latitude: -3.3505
 loc_type: city
 longitude: 40.0166
 score: 0.46
+snippet: Kenyan coast village beside a protected coral reef, with white sand and dhow
+  trips offshore
 title: Watamu
 type: location
 ---

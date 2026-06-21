@@ -10,6 +10,8 @@ latitude: 19.6546
 loc_type: city
 longitude: -101.26238
 score: 0.54
+snippet: Michoacán capital of pink cantera arcades, baroque churches, and a UNESCO-listed
+  colonial centre.
 title: Morelia
 type: location
 ---

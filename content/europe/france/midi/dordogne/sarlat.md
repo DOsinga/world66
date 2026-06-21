@@ -9,6 +9,8 @@ latitude: 44.8879
 loc_type: city
 longitude: 1.2161
 score: 0.58
+snippet: Dordogne market town with a dense medieval centre of honey-coloured stone
+  and Renaissance houses.
 title: Sarlat
 type: location
 ---

@@ -1,4 +1,5 @@
 ---
+snippet: "Hawaii's most populous island, home to Honolulu, Waikiki, Pearl Harbor, and the North Shore surf breaks."
 title: Oahu
 type: location
 latitude: 21.4389

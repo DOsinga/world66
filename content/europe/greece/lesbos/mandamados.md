@@ -10,6 +10,8 @@ latitude: 39.310716
 loc_type: city
 longitude: 26.336002
 score: 0.43
+snippet: Northeastern Lesbos village known for wood-fired pottery workshops and the
+  monastery of Taxiarchis
 title: Mandamados
 type: location
 ---

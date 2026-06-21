@@ -10,6 +10,7 @@ latitude: 35.461928
 loc_type: city
 longitude: -6.036545
 score: 0.52
+snippet: "Whitewashed Atlantic town behind Portuguese ramparts, with medina murals and sea views from the walls."
 title: Asilah
 type: location
 ---

@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:235_meters_of_single_drop_
 latitude: -8.597
 loc_type: feature
 longitude: 31.234
+score: 0.4
+snippet: Remote Zambian waterfall dropping from a sheer cliff beside major prehistoric
+  archaeological sites.
 sources:
 - https://en.wikipedia.org/wiki/Kalambo_Falls
 - https://en.wikipedia.org/wiki/Kalambo_Falls_Prehistoric_Site
 title: Kalambo Falls
 type: location
-score: 0.4
 ---
 
 Kalambo Falls drops 235 metres over a single sheer cliff on the Kalambo River, which forms the border between Zambia and Tanzania at the southeastern end of Lake Tanganyika. It is one of the tallest uninterrupted waterfalls in Africa — twice the height of Victoria Falls — and one of the least visited major falls on the continent. That isolation is precisely why it is worth the effort.

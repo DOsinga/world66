@@ -6,6 +6,8 @@ latitude: 54.905851
 loc_type: city
 longitude: -1.382873
 score: 0.31
+snippet: Northeast England port city where shipbuilding heritage meets glassmaking
+  culture on the River Wear.
 title: Sunderland
 type: location
 ---

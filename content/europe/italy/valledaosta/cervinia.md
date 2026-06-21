@@ -9,6 +9,8 @@ latitude: 45.935603
 loc_type: city
 longitude: 7.63044
 score: 0.52
+snippet: High Aosta Valley ski resort beneath Monte Cervino, with long sunny pistes
+  and a cross-border Zermatt link.
 title: Cervinia
 type: location
 ---

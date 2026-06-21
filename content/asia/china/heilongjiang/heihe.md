@@ -7,6 +7,7 @@ image_license: CC BY-SA 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Amur_River_and_Heihe.jpg
 latitude: 50.2458
 loc_type: city
+snippet: Chinese border city on the Amur River, facing Blagoveshchensk across a narrow Russian frontier.
 longitude: 127.4886
 sources:
 - https://en.wikivoyage.org/wiki/Heihe

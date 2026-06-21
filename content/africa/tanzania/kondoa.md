@@ -11,6 +11,7 @@ sources:
 - https://whc.unesco.org/en/list/1183
 - https://en.wikipedia.org/wiki/Battle_of_Kondoa_Irangi
 title: Kondoa
+snippet: "Small Central Plateau town near the Irangi Hills' UNESCO-listed prehistoric rock art shelters."
 type: location
 image: kondoa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kondoa_Irangi_Rock_Paintings_(51506922307).jpg

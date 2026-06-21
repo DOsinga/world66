@@ -12,6 +12,8 @@ latitude: 25.702096
 loc_type: city
 longitude: 32.647186
 score: 0.73
+snippet: Nile city built over ancient Thebes, with Karnak, Luxor Temple, and West
+  Bank necropolises nearby.
 title: Luxor
 type: location
 ---

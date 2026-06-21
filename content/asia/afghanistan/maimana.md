@@ -10,6 +10,8 @@ latitude: 35.9219
 loc_type: city
 longitude: 64.7831
 score: 0.08
+snippet: Faryab provincial capital in northwestern Afghanistan, set in a fertile valley
+  known for carpet weaving
 title: Maimana
 type: location
 ---

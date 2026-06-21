@@ -10,6 +10,8 @@ latitude: 6.8468
 loc_type: city
 longitude: 81.8306
 score: 0.52
+snippet: Sri Lankan surf village on the southeastern coast, known for long right-hand
+  breaks and dry-zone sunshine.
 title: Arugam Bay
 type: location
 ---

@@ -6,6 +6,7 @@ latitude: 52.131478
 loc_type: city
 longitude: 11.640079
 score: 0.4
+snippet: "Elbe river city shaped by Otto I, Gothic architecture, and repeated destruction and rebuilding."
 title: Magdeburg
 type: location
 ---

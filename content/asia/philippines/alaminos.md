@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-28'
+image: alaminos.jpg
+image_attribution: Ramon FVelasquez
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:100Islandsjf22.JPG
 latitude: 16.155386
 loc_type: city
 longitude: 119.97922
 score: 0.42
+snippet: Pangasinan gateway city to Hundred Islands National Park’s limestone islets
+  and bangka trips
 sources:
 - https://en.wikipedia.org/wiki/Alaminos,_Pangasinan
 - https://en.wikipedia.org/wiki/Hundred_Islands_National_Park
 title: Alaminos
 type: location
-image: alaminos.jpg
-image_source: https://commons.wikimedia.org/wiki/File:100Islandsjf22.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Ramon FVelasquez
 ---
 
 Alaminos City in [Pangasinan](/asia/philippines/pangasinan) province is the gateway to the [Hundred Islands National Park](/asia/philippines/alaminos/hundred_islands_national_park), a scattering of 123 limestone islands and islets in the Lingayen Gulf. Most visitors come for the island-hopping — you hire a bangka outrigger boat from [Lucap Wharf](/asia/philippines/alaminos/lucap_wharf) and spend the day snorkelling, kayaking and scrambling up to viewpoints over the surrounding gulf.

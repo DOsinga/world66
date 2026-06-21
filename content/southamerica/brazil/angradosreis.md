@@ -9,6 +9,8 @@ latitude: -23.1555
 loc_type: city
 longitude: -44.2345
 score: 0.49
+snippet: Green Coast port town used as the boat gateway to Ilha Grande and island-studded
+  bays.
 title: Angra dos Reis
 type: location
 ---

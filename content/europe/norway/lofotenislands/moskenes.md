@@ -10,6 +10,8 @@ latitude: 67.9023
 loc_type: city
 longitude: 13.0419
 score: 0.63
+snippet: Southern Lofoten municipality of sheer mountains, fishing harbours, and western
+  Lofoten's highest peak.
 title: Moskenes
 type: location
 ---

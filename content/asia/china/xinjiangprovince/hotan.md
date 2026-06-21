@@ -9,6 +9,7 @@ latitude: 37.1012
 loc_type: city
 longitude: 79.9327
 title: Hotan
+snippet: Silk Road oasis on the Taklamakan's southern edge, famed for jade from the Kunlun rivers
 type: location
 score: 0.26
 ---

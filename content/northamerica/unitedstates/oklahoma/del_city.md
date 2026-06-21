@@ -10,6 +10,7 @@ loc_type: city
 longitude: -97.440871
 score: 0.2
 title: Del City
+snippet: Working-class Oklahoma City suburb shaped by neighbouring Tinker Air Force Base and military families.
 type: location
 ---
 

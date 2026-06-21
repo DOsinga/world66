@@ -6,6 +6,8 @@ latitude: 18.2949
 loc_type: city
 longitude: 83.8939
 score: 0.25
+snippet: Northern Andhra Pradesh district town near Kalinga history, Buddhist ruins,
+  and Arasavalli Sun Temple.
 title: Srikakulam
 type: location
 ---

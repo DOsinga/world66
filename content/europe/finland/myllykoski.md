@@ -1,5 +1,6 @@
 ---
 title: Myllykoski
+snippet: Kymi River industrial settlement whose mill rapids and paper-mill past still shape the riverside landscape.
 type: location
 loc_type: city
 latitude: 60.8511

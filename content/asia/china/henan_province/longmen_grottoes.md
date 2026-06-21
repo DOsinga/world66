@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:27381-Luoyang,_Longmen_Gro
 latitude: 34.5556
 loc_type: feature
 longitude: 112.4697
+score: 0.56
+snippet: Yi River cave-temple complex near Luoyang, with thousands of Chinese Buddhist
+  stone sculptures.
 sources:
 - https://en.wikivoyage.org/wiki/Longmen_Grottoes
 title: Longmen Grottoes
 type: location
-score: 0.56
 ---
 
 The Longmen Grottoes rank among the supreme achievements of Chinese Buddhist sculpture. Cut into the limestone cliffs on either side of the Yi River 13 kilometres south of Luoyang, the site contains over 2,100 cave-temples and more than 100,000 individual statues, ranging from figures a few centimetres tall to a seated Vairocana Buddha 17 metres high. Work began in 494 CE when the Northern Wei emperor moved his capital to Luoyang, and continued intermittently for the next four centuries, with the Tang dynasty producing the most ambitious and artistically accomplished pieces. UNESCO inscribed the site in 2000 as one of the outstanding examples of Chinese stone carving.

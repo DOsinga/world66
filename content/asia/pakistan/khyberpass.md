@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 34.094027
+loc_type: feature
 longitude: 71.144142
+score: 0.35
+snippet: Storied mountain pass between Peshawar and Afghanistan, long used by armies,
+  traders, and pilgrims.
 title: Khyber Pass
 type: location
-score: 0.35
-loc_type: feature
 ---
 
 The Khyber Pass is one of the most storied mountain crossings in the world — a narrow corridor through the Sulaiman Hills that has funnelled armies, traders, and conquerors between Central Asia and the Indian subcontinent for millennia. Alexander the Great came through here. So did Genghis Khan, Babur, and countless others whose ambitions hinged on controlling this gap.

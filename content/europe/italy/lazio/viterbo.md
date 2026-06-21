@@ -9,6 +9,8 @@ latitude: 42.4167
 loc_type: city
 longitude: 12.1
 score: 0.49
+snippet: Medieval papal city on a volcanic plateau, with intact walls and the San
+  Pellegrino quarter.
 sources:
 - https://en.wikipedia.org/wiki/Viterbo
 - https://en.wikipedia.org/wiki/Palace_of_the_Popes_in_Viterbo

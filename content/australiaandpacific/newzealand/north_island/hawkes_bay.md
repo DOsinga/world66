@@ -5,6 +5,8 @@ latitude: -39.5
 loc_type: region
 longitude: 176.9
 score: 0.59
+snippet: New Zealand wine region of Art Deco towns, sunny orchards, and long Pacific
+  coastline
 title: Hawke's Bay
 type: location
 ---

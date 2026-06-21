@@ -5,6 +5,8 @@ latitude: 18.3811
 loc_type: city
 longitude: -65.9574
 score: 0.33
+snippet: Puerto Rican municipality east of San Juan, home to Isla Verde beach and
+  the main airport.
 title: Carolina
 type: location
 ---

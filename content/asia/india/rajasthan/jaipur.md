@@ -11,6 +11,8 @@ latitude: 26.9154
 loc_type: city
 longitude: 75.819
 score: 0.68
+snippet: Rajasthani capital and Pink City, with terracotta walls, royal palaces, and
+  planned old-town avenues.
 title: Jaipur
 type: location
 ---

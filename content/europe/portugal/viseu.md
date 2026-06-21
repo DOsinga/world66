@@ -9,6 +9,8 @@ latitude: 40.657471
 loc_type: city
 longitude: -7.913866
 score: 0.45
+snippet: Central Portuguese market city in Dão wine country, with granite streets
+  and a hilltop cathedral.
 title: Viseu
 type: location
 ---

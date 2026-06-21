@@ -10,6 +10,8 @@ latitude: 39.500934
 loc_type: city
 longitude: -2.871109
 score: 0.37
+snippet: La Mancha hill town whose ridge of white windmills overlooks the wide Don
+  Quixote plains.
 title: Mota del Cuervo
 type: location
 ---

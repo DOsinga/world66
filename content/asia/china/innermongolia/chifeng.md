@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Qingzhou-WhiteTower.jpg
 latitude: 42.2663
 loc_type: city
 longitude: 118.9221
+score: 0.3
+snippet: Southeastern Inner Mongolian city used as a base for the Hexigten UNESCO
+  Global Geopark landscapes.
 sources:
 - https://en.wikivoyage.org/wiki/Chifeng
 title: Chifeng
 type: location
-score: 0.3
 ---
 
 Chifeng sits in the southeastern corner of Inner Mongolia, closer culturally and geographically to Manchuria than to the grassland heartland further west. It is a large prefecture-level city with a mixed Han and Mongolian population, and its main draw for travellers is the extraordinary geology and landscape of the surrounding Hexigten area — a UNESCO Global Geopark that ranks among the more rewarding off-the-beaten-path destinations in northern China.

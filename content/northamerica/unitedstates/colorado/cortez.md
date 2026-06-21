@@ -10,6 +10,8 @@ latitude: 37.3495
 loc_type: city
 longitude: -108.5841
 score: 0.38
+snippet: Four Corners high-desert town, gateway to Mesa Verde and Ancestral Puebloan
+  cliff dwellings.
 title: Cortez
 type: location
 ---

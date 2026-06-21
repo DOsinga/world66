@@ -6,6 +6,8 @@ latitude: 38.6703
 loc_type: city
 longitude: -89.9845
 score: 0.28
+snippet: Illinois suburb beside Cahokia Mounds, the great Mississippian city site
+  east of St. Louis
 title: Collinsville
 type: location
 ---

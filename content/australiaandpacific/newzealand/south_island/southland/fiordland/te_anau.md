@@ -10,6 +10,8 @@ latitude: -45.41449
 loc_type: city
 longitude: 167.717489
 score: 0.64
+snippet: Fiordland lakeside town and walking base for Milford Track, Kepler Track,
+  and glowworm caves.
 title: Te Anau
 type: location
 ---

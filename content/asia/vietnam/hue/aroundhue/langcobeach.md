@@ -10,6 +10,8 @@ latitude: 16.26927
 loc_type: city
 longitude: 108.062178
 score: 0.48
+snippet: Central Vietnamese beach village on a sheltered bay between the Hai Van Pass
+  and An Cu Lagoon.
 title: Lang Co Beach
 type: location
 ---

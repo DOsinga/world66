@@ -1,11 +1,13 @@
 ---
-title: El Yunque
-type: location
 latitude: 18.3017
-longitude: -65.7898
-todo_location_cleanup: done
-score: 0.55
 loc_type: feature
+longitude: -65.7898
+score: 0.55
+snippet: Puerto Rican rainforest in the Luquillo Mountains, with sacred Taíno associations,
+  waterfalls, and cloud-wrapped trails.
+title: El Yunque
+todo_location_cleanup: done
+type: location
 ---
 
 El Yunque National Forest is Puerto Rico's most popular natural attraction, and the only tropical rainforest in the United States National Forest system. The forest covers the slopes of the Luquillo Mountains in the island's northeastern corner, rising to about 1,065 metres. The Taíno people who lived here before European contact considered the mountain sacred.

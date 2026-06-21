@@ -10,6 +10,8 @@ latitude: 49.012968
 loc_type: city
 longitude: 5.428669
 score: 0.34
+snippet: Quiet Lorraine department of forests and river valleys, marked by Verdun's
+  World War I battlefields
 title: Meuse
 type: location
 ---

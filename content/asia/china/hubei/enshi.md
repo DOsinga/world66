@@ -3,6 +3,8 @@ done:
   location_enrich: '2026-05-17'
 latitude: 30.2722
 loc_type: city
+snippet: Western Hubei city and Tujia gateway to Wuling mountains, karst canyons,
+  and green rivers
 longitude: 109.4883
 title: Enshi
 type: location

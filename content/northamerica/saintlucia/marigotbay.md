@@ -9,6 +9,8 @@ latitude: 13.9636
 loc_type: city
 longitude: -61.0236
 score: 0.61
+snippet: Saint Lucian natural harbour hidden by palm hills, with a small beach and
+  sailing base.
 title: Marigot Bay
 type: location
 ---

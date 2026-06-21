@@ -9,14 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:The_alpine_landscapes_of_n
 latitude: 42.315407
 longitude: 43.356892
 quick_facts:
-  Population: "3.7 million"
-  Budget Meal: "~$3–5"
-  Winemaking Tradition: "8,000 years old"
-  Unique Alphabet: "One of only 14 in the world"
+  Population: 3.7 million
+  Budget Meal: ~$3–5
+  Winemaking Tradition: 8,000 years old
+  Unique Alphabet: One of only 14 in the world
 score: 0.78
 title: Georgia
 type: location
 loc_type: country
+snippet: Caucasus country of Black Sea coast, mountain monasteries, ancient wine,
+  and a fiercely distinct language.
 ---
 
 Georgia sits at the crossroads of Europe and Asia, tucked between the Greater Caucasus mountains in the north and bordered by the Black Sea to the west, Turkey to the south, Armenia and Azerbaijan to the south and east, and Russia to the north. It is a small country — about the size of Ireland — but remarkably varied: subtropical coastline, glaciated high peaks, arid semi-desert, and deep river gorges all within a few hours' drive of each other.

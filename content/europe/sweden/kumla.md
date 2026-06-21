@@ -6,6 +6,8 @@ latitude: 59.117955
 loc_type: city
 longitude: 15.120621
 score: 0.25
+snippet: Närke industrial town once known for shoes, with a burning slag heap turned
+  sculpture park
 title: Kumla
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -6.9904
 loc_type: city
 longitude: 110.4229
 score: 0.42
+snippet: Central Java port city where Dutch colonial quarters, Chinese temples, and
+  Lawang Sewu mark the north coast.
 title: Semarang
 type: location
 ---

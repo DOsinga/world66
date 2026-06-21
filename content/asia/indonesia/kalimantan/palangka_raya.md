@@ -10,6 +10,8 @@ latitude: -2.2073
 loc_type: city
 longitude: 113.9164
 score: 0.28
+snippet: Central Kalimantan river capital with Dayak culture, orangutan centres, and
+  peat-swamp wilderness nearby.
 title: Palangka Raya
 type: location
 ---

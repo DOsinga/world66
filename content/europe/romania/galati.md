@@ -6,6 +6,8 @@ latitude: 45.433822
 loc_type: city
 longitude: 28.054939
 score: 0.32
+snippet: Danube port city in eastern Romania, defined by steelworks, river promenades,
+  and borderland grit.
 title: Galati
 type: location
 ---

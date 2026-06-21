@@ -10,6 +10,7 @@ latitude: 42.9146
 loc_type: city
 longitude: -8.0136
 score: 0.44
+snippet: Galician Camino town where pilgrimage routes converge amid pulpo halls and traditional pastry ovens.
 title: Melide
 type: location
 ---

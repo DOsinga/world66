@@ -9,6 +9,8 @@ latitude: 14.8394
 loc_type: city
 longitude: -89.1416
 score: 0.54
+snippet: Mayan archaeological city in western Honduras, celebrated for finely carved
+  stelae and hieroglyphic stairways.
 title: Copán
 type: location
 ---

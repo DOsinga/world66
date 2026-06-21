@@ -9,6 +9,8 @@ latitude: 47.658677
 loc_type: city
 longitude: -2.759908
 score: 0.53
+snippet: Breton medieval port with ramparts, half-timbered lanes, and boats into the
+  Gulf of Morbihan
 title: Vannes
 type: location
 ---

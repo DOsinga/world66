@@ -9,6 +9,8 @@ latitude: 39.9574
 loc_type: city
 longitude: 26.2385
 score: 0.51
+snippet: Legendary Aegean archaeological mound where nine layers of Troy reveal Bronze
+  Age walls behind Homer's story.
 title: Troy
 type: location
 ---

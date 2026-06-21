@@ -10,6 +10,8 @@ latitude: 43.799601
 loc_type: city
 longitude: 15.608578
 score: 0.51
+snippet: Dalmatian island settlement linked by bridge to the mainland, with boats
+  running toward Kornati National Park.
 title: Murter
 type: location
 ---

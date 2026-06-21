@@ -10,6 +10,8 @@ latitude: -17.5333
 loc_type: city
 longitude: -149.8386
 score: 0.76
+snippet: Mountainous Society Islands escape with turquoise lagoons, deep bays, and
+  easy ferry access from Tahiti
 title: Moorea
 type: location
 ---

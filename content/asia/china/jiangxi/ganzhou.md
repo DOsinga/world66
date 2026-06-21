@@ -11,6 +11,7 @@ longitude: 114.93
 sources:
 - https://en.wikivoyage.org/wiki/Ganzhou
 title: Ganzhou
+snippet: "Southern Jiangxi river city where Hakka culture and old commercial routes meet at the Zhang-Gong confluence."
 type: location
 score: 0.32
 ---

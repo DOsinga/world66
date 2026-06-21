@@ -12,6 +12,8 @@ latitude: 23.612363
 loc_type: city
 longitude: 58.593813
 score: 0.58
+snippet: Omani capital stretched between mountains and the Gulf, with Old Muscat,
+  Muttrah, and Portuguese forts.
 title: Muscat
 type: location
 ---

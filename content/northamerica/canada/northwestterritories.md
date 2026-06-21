@@ -4,6 +4,7 @@ type: location
 loc_type: region
 latitude: 64.8255
 longitude: -124.8457
+snippet: "Vast Arctic and subarctic Canadian territory of boreal forest, tundra, Great Slave Lake, and Indigenous communities."
 ---
 
 The Northwest Territories covers more than 1.3 million square kilometres of subarctic and Arctic Canada — bigger than South Africa — and holds a population of around 45,000 people, roughly half of them Indigenous. It is one of the few places in Canada where you can still feel genuinely far from everything. The territory borders the Yukon to the west, Nunavut to the east, and the Beaufort Sea to the north, and contains some of the most dramatic wilderness in the country: boreal forest, tundra, the Mackenzie River Delta, and Great Slave Lake, one of the deepest lakes in the world.

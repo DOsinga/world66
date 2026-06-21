@@ -10,6 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS037-E-21113_-_View_of_N
 latitude: -32.1633
 longitude: 147.0166
 score: 0.54
+snippet: Australian state of Sydney, surf coasts, Blue Mountains, wine valleys, and dry western outback.
 title: New South Wales
 type: location
 loc_type: region

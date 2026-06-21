@@ -6,6 +6,8 @@ latitude: 41.683381
 loc_type: city
 longitude: -86.250007
 score: 0.33
+snippet: Northern Indiana river city shaped by Notre Dame, industrial history, and
+  St. Joseph River neighbourhoods.
 title: South Bend
 type: location
 ---

@@ -5,6 +5,7 @@ latitude: 53.79648
 longitude: -1.54785
 score: 0.51
 title: Leeds, Sheffield and Yorkshire
+snippet: Historic English county of post-industrial cities, moorland national parks, market towns, and stubborn local pride.
 type: location
 loc_type: region
 ---

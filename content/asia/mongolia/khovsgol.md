@@ -1,9 +1,11 @@
 ---
+latitude: 51.0
+loc_type: region
+longitude: 100.5
+snippet: Northern Mongolian province of alpine Lake Khövsgöl, clear water, and pine
+  forests near the Siberian border.
 title: Khövsgöl
 type: location
-loc_type: region
-latitude: 51.0
-longitude: 100.5
 ---
 
 Khövsgöl is a province in northern Mongolia, named after the enormous alpine lake at its heart. Lake Khövsgöl — often called the "Blue Pearl of Mongolia" — is one of the most beautiful bodies of water in Asia: 136 kilometres long, sitting at 1,645 metres above sea level, and holding nearly 70 percent of Mongolia's fresh water. It is so clear you can see the bottom several metres down in calm weather, and the surrounding mountains are covered in pine and larch forest that stretches unbroken to the Siberian border.

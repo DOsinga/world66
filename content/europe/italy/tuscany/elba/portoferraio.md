@@ -9,6 +9,8 @@ latitude: 42.8141
 loc_type: city
 longitude: 10.331
 score: 0.55
+snippet: Elba's fortified harbour capital, ringed by Medici ramparts and stepped old-town
+  lanes above the ferry port.
 title: Portoferraio
 type: location
 ---

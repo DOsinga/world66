@@ -10,6 +10,8 @@ latitude: 44.9773
 loc_type: city
 longitude: -93.2655
 score: 0.45
+snippet: Mississippi River city of lakes, parks, and serious culture, with neighbourhood
+  life threaded through green space.
 title: Minneapolis
 type: location
 ---

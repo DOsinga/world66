@@ -11,6 +11,8 @@ latitude: 52.517389
 loc_type: city
 longitude: 13.395131
 score: 0.65
+snippet: German capital where Wall remnants, monumental landmarks, and creative districts
+  share the urban fabric.
 title: Berlin
 type: location
 ---

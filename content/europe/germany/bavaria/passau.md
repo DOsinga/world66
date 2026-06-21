@@ -10,6 +10,8 @@ latitude: 48.574823
 loc_type: city
 longitude: 13.460974
 score: 0.54
+snippet: Bavarian river city where the Danube, Inn, and Ilz meet below a Baroque old
+  town
 title: Passau
 type: location
 ---

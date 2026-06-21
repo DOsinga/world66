@@ -11,6 +11,8 @@ latitude: 6.499072
 loc_type: city
 longitude: 2.625336
 score: 0.32
+snippet: Benin's lagoon-side capital, layered with Yoruba palaces, Afro-Brazilian
+  architecture, and colonial streets.
 title: Porto-Novo
 type: location
 ---

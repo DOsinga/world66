@@ -6,6 +6,8 @@ latitude: 30.36361
 loc_type: city
 longitude: 48.259147
 score: 0.18
+snippet: Oil city on the Shatt al-Arab, defined by its refinery, cosmopolitan past,
+  and wartime scars.
 title: Abadan
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 37.36883
 loc_type: city
 longitude: -122.036349
 score: 0.27
+snippet: Silicon Valley city with orchard roots, tech campuses, and a walkable Murphy
+  Avenue downtown
 title: Sunnyvale
 type: location
 ---

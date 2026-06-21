@@ -8,6 +8,8 @@ latitude: -33.15101
 loc_type: region
 longitude: 19.615931
 score: 0.66
+snippet: Cape wine region of historic vineyard towns set in mountain-framed valleys
+  east of Cape Town
 title: Winelands
 type: location
 ---

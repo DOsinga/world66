@@ -8,6 +8,8 @@ latitude: 50.974713
 loc_type: city
 longitude: 10.319356
 score: 0.48
+snippet: Thuringian city below Wartburg Castle, tied to Martin Luther, Bach, and German
+  cultural history.
 title: Eisenach
 type: location
 ---

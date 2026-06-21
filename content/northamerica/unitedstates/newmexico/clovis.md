@@ -10,6 +10,8 @@ latitude: 34.4055
 loc_type: city
 longitude: -103.2051
 score: 0.22
+snippet: Eastern New Mexico plains town near Cannon Air Force Base and the Blackwater
+  Draw archaeological site.
 title: Clovis
 type: location
 ---

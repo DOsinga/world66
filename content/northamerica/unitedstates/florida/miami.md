@@ -12,6 +12,8 @@ latitude: 25.774157
 loc_type: city
 longitude: -80.193597
 score: 0.59
+snippet: Caribbean-leaning American city of Spanish-speaking neighbourhoods, pastel
+  Art Deco, and towers over Biscayne Bay.
 title: Miami
 type: location
 ---

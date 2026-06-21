@@ -1,21 +1,23 @@
 ---
-title: Sweden
-type: location
-latitude: 59.674971
-longitude: 14.520858
-image: sweden.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Öresundsbron_från_Lernacken.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jorchr" title="User:Jorchr">Jorchr</a>
 done:
   country_cleanup: 2026-03-29
-quick_facts:
-  Population: "10.5 million"
-  Cost Level: "A beer costs ~$9"
-  Lakes: "roughly 100,000"
-  Daylight in Midsummer: "~19 hours in Stockholm"
-score: 0.79
+image: sweden.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jorchr" title="User:Jorchr">Jorchr</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Öresundsbron_från_Lernacken.jpg
+latitude: 59.674971
 loc_type: country
+longitude: 14.520858
+quick_facts:
+  Cost Level: A beer costs ~$9
+  Daylight in Midsummer: ~19 hours in Stockholm
+  Lakes: roughly 100,000
+  Population: 10.5 million
+score: 0.79
+snippet: Scandinavian country of forests, lakes, Baltic islands, design cities, and
+  long northern light.
+title: Sweden
+type: location
 ---
 
 Being the largest of the Scandinavian countries, Sweden offers you many opportunities for cultural and outdoor activities. Visit the cities and explore the country's glorious past or the life in a cosmopolitan and modern society. If you need rest from the hectic city life, just leave for the countryside, and vast forests, 90000 lakes, mountains and the beautiful sea await you.

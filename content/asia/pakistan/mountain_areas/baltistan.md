@@ -9,6 +9,8 @@ latitude: 35.5
 loc_type: city
 longitude: 75.6
 score: 0.44
+snippet: High mountain region of Gilgit-Baltistan, where Balti culture meets Karakoram
+  giants including K2
 title: Baltistan
 type: location
 ---

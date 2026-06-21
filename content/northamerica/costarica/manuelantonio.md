@@ -12,6 +12,7 @@ loc_type: city
 longitude: -84.1406
 score: 0.64
 title: Manuel Antonio
+snippet: "Pacific beach town beside a compact rainforest national park where wildlife, reefs, and coves sit close together."
 type: location
 ---
 

@@ -7,6 +7,8 @@ done:
   location_cleanup: 2026-04-07
 score: 0.4
 loc_type: region
+snippet: Armenian highland region dominated by Mount Aragats, with monasteries along
+  the Kasagh gorge.
 ---
 
 Aragatsotn is dominated by the massive volcanic shield of Mount Aragats, Armenia's highest peak at 4,090 metres. The region stretches from the cool highland pastures where Yezidi shepherds graze their flocks in summer down to the deep Kasagh river gorge lined with medieval monasteries. It is close enough to [Yerevan](/europe/armenia/yerevan) for a day trip, but rich enough to reward a longer stay.

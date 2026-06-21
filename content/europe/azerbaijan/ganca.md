@@ -10,6 +10,8 @@ latitude: 40.679808
 loc_type: city
 longitude: 46.359718
 score: 0.33
+snippet: Western Azerbaijani city in a fertile valley, layered with Persian, Russian,
+  and independence history
 sources:
 - https://en.wikipedia.org/wiki/Ganja,_Azerbaijan
 title: Ganca

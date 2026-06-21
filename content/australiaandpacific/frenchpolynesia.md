@@ -9,16 +9,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://web.arc
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:West_side_of_Taha'a_atoll_-_fishing_inside_the_reef_-_panoramio.jpg
 latitude: -17.679742
+loc_type: country
 longitude: -149.406843
+quick_facts:
+  Nuclear Tests Conducted: 193 (1966-1996)
+  Number of Islands: '118'
+  Ocean Area: Larger than Western Europe
+  Population: 280,000
 score: 0.69
+snippet: South Pacific island collectivity of French bureaucracy, coral lagoons, and
+  jungle-draped volcanic peaks.
 title: French Polynesia
 type: location
-quick_facts:
-  Population: "280,000"
-  Ocean Area: Larger than Western Europe
-  Number of Islands: "118"
-  Nuclear Tests Conducted: "193 (1966-1996)"
-loc_type: country
 ---
 
 French Polynesia is a scattering of 118 islands and atolls across a stretch of the South Pacific larger than Western Europe. Most of them are tiny, remote, and uninhabited. The ones that are inhabited are, in many cases, extraordinarily beautiful — mountains draped in jungle dropping into turquoise lagoons, encircled by coral reefs full of sharks and manta rays.

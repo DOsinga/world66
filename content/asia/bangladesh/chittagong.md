@@ -12,6 +12,7 @@ latitude: 22.333778
 loc_type: city
 longitude: 91.834435
 score: 0.28
+snippet: "Bangladesh's second city and main port, set on the Karnaphuli River near the Bay of Bengal."
 title: Chittagong
 type: location
 ---

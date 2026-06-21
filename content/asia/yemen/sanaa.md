@@ -14,6 +14,8 @@ longitude: 44.2
 score: 0.15
 title: Sanaa
 type: location
+snippet: High Yemeni capital of tower houses, mountain air, and one of Arabia's great
+  old cities.
 ---
 
 Sana'a is one of the most extraordinary cities in the Arab world — a place where the architecture has barely changed in a thousand years and where even the new quarters have the feel of somewhere very old. The city sits in a high valley at about 2,200 metres, ringed by rugged mountains, and the air is clear and cool by Arabian standards.

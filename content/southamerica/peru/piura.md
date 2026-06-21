@@ -11,6 +11,8 @@ latitude: -5.1945
 loc_type: city
 longitude: -80.6328
 score: 0.34
+snippet: Dry northern Peruvian city on the Piura River, founded in 1532 and linked
+  to independence history.
 title: Piura
 type: location
 ---

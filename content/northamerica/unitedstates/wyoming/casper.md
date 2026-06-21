@@ -12,6 +12,8 @@ longitude: -106.3251
 score: 0.33
 title: Casper
 type: location
+snippet: High-plains Wyoming city where the North Platte River runs beneath Casper
+  Mountain.
 ---
 
 Casper is Wyoming's second-largest city, spread across the high plains where the [North Platte River](/northamerica/unitedstates/wyoming/casper/north_platte_river) bends beneath [Casper Mountain](/northamerica/unitedstates/wyoming/casper/casper_mountain). It is an oil town at heart — the industry built it, and the boom-and-bust cycle still shapes the mood — but it has more going on than most people expect from a mid-Wyoming stop.

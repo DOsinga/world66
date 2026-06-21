@@ -9,6 +9,8 @@ latitude: 23.059836
 loc_type: city
 longitude: -109.702515
 score: 0.52
+snippet: Quieter Los Cabos town with a colonial centre, gallery district, and estuary
+  by the Sea of Cortez.
 title: San Jose del Cabo
 type: location
 ---

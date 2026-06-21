@@ -9,6 +9,8 @@ latitude: 48.693722
 loc_type: city
 longitude: 6.18341
 score: 0.52
+snippet: Former ducal city in Lorraine, centered on gilded Place Stanislas and graceful
+  Art Nouveau streets.
 title: Nancy
 type: location
 ---

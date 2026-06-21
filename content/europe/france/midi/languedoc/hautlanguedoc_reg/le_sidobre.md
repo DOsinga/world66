@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 43.503127
+loc_type: feature
 longitude: 2.014004
+score: 0.44
+snippet: Granite plateau east of Castres where weathered boulders balance and stack
+  through dense forest.
 title: Le Sidobre
 type: location
-score: 0.44
-loc_type: feature
 ---
 
 Le Sidobre is a granite plateau east of [Castres](/europe/france/midi/languedoc/castres), where millions of years of weathering have sculpted enormous boulders into extraordinary shapes. Some balance impossibly on single points, others stack in towers or split into perfect geometries. The effect, scattered through dense forest, is of a landscape designed by a surrealist sculptor with a crane.

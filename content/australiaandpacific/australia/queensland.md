@@ -5,6 +5,8 @@ latitude: -22.164678
 loc_type: region
 longitude: 144.58449
 score: 0.57
+snippet: Tropical Australian state linking Brisbane, surf coasts, the Great Barrier
+  Reef, and Daintree rainforest.
 title: Queensland
 type: location
 ---

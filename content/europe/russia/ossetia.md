@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-22'
+image: ossetia.jpg
+image_attribution: Alexxx1979
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:North_Ossetia%E2%80%93Alania._Dargavs_Valley_PA160523_2575.jpg
 latitude: 42.992071
 loc_type: city
 longitude: 44.263635
 score: 0.26
+snippet: Russian Caucasus republic of deep gorges, alpine meadows, mineral springs,
+  and Ossetian mountain culture.
 title: Ossetia
 type: location
-image: ossetia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:North_Ossetia%E2%80%93Alania._Dargavs_Valley_PA160523_2575.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Alexxx1979
 ---
 
 North Ossetia–Alania is a small republic in the Russian Caucasus, wedged between Georgia to the south and the plains of southern Russia to the north. The landscape is dramatic — snow-capped peaks, deep gorges, alpine meadows, and mineral springs that locals have used for centuries.

@@ -10,6 +10,7 @@ latitude: 1.214028
 loc_type: city
 longitude: -77.27851
 score: 0.35
+snippet: High Andean capital of Nariño, set beneath Galeras volcano near Ecuador.
 title: Pasto
 type: location
 ---

@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 50.644634
 longitude: 6.00795
+snippet: "German-speaking Belgian border region in the High Ardennes, with reservoirs, forests, and the Signal de Botrange."
 title: East Belgium
 type: location
 score: 0.46

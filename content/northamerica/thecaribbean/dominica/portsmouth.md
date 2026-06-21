@@ -10,6 +10,8 @@ latitude: 15.5747
 loc_type: city
 longitude: -61.457
 score: 0.43
+snippet: Northern Dominican town on Prince Rupert Bay, base for Cabrits National Park
+  and Fort Shirley
 title: Portsmouth
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 34.3146
 loc_type: city
 longitude: -108.484
 score: 0.22
+snippet: West-central New Mexico ranching village near radio telescopes, lava fields,
+  and Gila wilderness.
 title: Quemado
 type: location
 ---

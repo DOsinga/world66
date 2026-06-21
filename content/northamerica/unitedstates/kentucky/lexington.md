@@ -11,6 +11,7 @@ loc_type: city
 longitude: -84.497039
 score: 0.39
 title: Lexington
+snippet: "Bluegrass university city surrounded by white-fenced horse farms and Kentucky thoroughbred country."
 type: location
 ---
 

@@ -4,6 +4,8 @@ type: location
 loc_type: region
 latitude: -0.9538
 longitude: -90.9656
+snippet: Pacific archipelago of Ecuador, famous for fearless wildlife and Darwin's
+  evolutionary observations.
 ---
 
 The Galapagos Islands sit roughly 1,000 kilometres off the coast of Ecuador in the Pacific, and they remain one of the most biologically extraordinary places on earth. Darwin visited in 1835 and found the wildlife here so strange and so fearless that it set him thinking about how species change over time. The animals still haven't learned to fear humans — you can walk within arm's reach of sea lions, marine iguanas, and blue-footed boobies without them showing the slightest interest in fleeing.

@@ -10,6 +10,7 @@ latitude: 39.569582
 loc_type: city
 longitude: 2.650075
 score: 0.61
+snippet: Mallorcan capital where a vast Gothic cathedral rises above the harbour and old city walls.
 title: Palma
 type: location
 ---

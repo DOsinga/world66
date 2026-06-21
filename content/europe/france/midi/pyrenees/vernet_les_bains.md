@@ -6,6 +6,8 @@ latitude: 42.548483
 loc_type: city
 longitude: 2.387871
 score: 0.47
+snippet: Pyrenean spa town below Canigou, with hot springs, Catalan character, and
+  excellent mountain walks
 title: Vernet les Bains
 type: location
 ---

@@ -1,10 +1,12 @@
 ---
-title: Quetzaltenango
-type: location
-loc_type: city
 latitude: 14.8333
+loc_type: city
 longitude: -91.5167
 score: 0.44
+snippet: Highland Guatemalan city known as Xela, with Mayan markets, Spanish schools,
+  and volcanoes around the valley.
+title: Quetzaltenango
+type: location
 ---
 
 Quetzaltenango — universally known as Xela, from its Mayan name Xelajú — is Guatemala's second city and feels like it. Where [Antigua](/northamerica/guatemala/antigua) is polished and heavily touristed, Xela is working and real, with a large indigenous Mayan population, busy markets, and a pace set by its residents rather than its visitors.

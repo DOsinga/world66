@@ -9,6 +9,7 @@ latitude: 6.57453
 loc_type: city
 longitude: 80.028631
 score: 0.47
+snippet: Coastal town south of Colombo where the Kalu Ganga meets the Indian Ocean.
 title: Kalutara
 type: location
 ---

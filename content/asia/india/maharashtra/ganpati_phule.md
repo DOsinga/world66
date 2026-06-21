@@ -10,6 +10,8 @@ latitude: 17.1449
 loc_type: city
 longitude: 73.2668
 score: 0.38
+snippet: Konkan coastal town with a crescent beach and the hilltop Swayambhu Ganpati
+  Temple
 title: Ganpatipule
 type: location
 ---

@@ -7,6 +7,8 @@ latitude: 52.150372
 loc_type: city
 longitude: 10.359315
 score: 0.24
+snippet: Lower Saxony steel city made from 31 villages, with green fields between
+  its post-industrial districts.
 title: Salzgitter
 type: location
 ---

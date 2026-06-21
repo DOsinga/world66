@@ -10,6 +10,7 @@ loc_type: city
 longitude: -0.4086
 score: 0.43
 title: Huesca
+snippet: "Provincial Pyrenean foothill city with a preserved old town and Gothic cathedral anchoring the centre."
 type: location
 ---
 

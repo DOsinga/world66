@@ -10,6 +10,8 @@ latitude: 50.8642
 loc_type: city
 longitude: 3.8103
 score: 0.3
+snippet: East Flanders town at the edge of the Flemish Ardennes, tied to cycling and
+  Egmont history.
 title: Zottegem
 type: location
 ---

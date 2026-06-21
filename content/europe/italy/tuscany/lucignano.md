@@ -9,6 +9,8 @@ latitude: 43.274463
 loc_type: city
 longitude: 11.746
 score: 0.43
+snippet: Tuscan hill town laid out in concentric medieval rings above the Valdichiana
+  valley.
 title: Lucignano
 type: location
 ---

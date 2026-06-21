@@ -13,6 +13,8 @@ latitude: 26.8381
 loc_type: city
 longitude: 80.9346
 score: 0.44
+snippet: Nawabi river city of imambaras, Urdu culture, and courtly northern Indian
+  refinement.
 title: Lucknow
 type: location
 ---

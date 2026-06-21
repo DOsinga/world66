@@ -8,6 +8,8 @@ latitude: 13.941434
 loc_type: city
 longitude: 121.164283
 score: 0.33
+snippet: Batangas city known for barako coffee, highland farms, and a once-booming
+  19th-century coffee trade.
 title: Lipa
 type: location
 ---

@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
 latitude: 33.059899
+loc_type: city
 longitude: 10.339057
+score: 0.31
+snippet: Southern Tunisian town beneath eroded gorges, known for Berber ksour and
+  a Star Wars granary set.
 title: Ghomrassen
 type: location
-score: 0.31
-loc_type: city
 ---
 
 Ghomrassen is a small town in the Tataouine region of southern Tunisia, set in a dramatic landscape of mountains and eroded gorges. A [cliff sanctuary](/africa/tunisia/ghomrassen/cliff_sanctuary) perches directly above the town centre, offering good views over the surrounding countryside.

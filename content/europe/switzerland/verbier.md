@@ -10,6 +10,8 @@ latitude: 46.096101
 loc_type: city
 longitude: 7.228676
 score: 0.62
+snippet: High Valais ski resort on a sunny terrace above the Val de Bagnes and 4 Vallées
+  terrain.
 title: Verbier
 type: location
 ---

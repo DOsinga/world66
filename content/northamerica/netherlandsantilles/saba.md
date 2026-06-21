@@ -10,6 +10,8 @@ latitude: 17.635
 loc_type: city
 longitude: -63.2327
 score: 0.48
+snippet: Steep Dutch Caribbean island of volcanic slopes, cloud-forest hikes, and
+  reef diving without resort beaches.
 title: Saba
 type: location
 ---

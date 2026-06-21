@@ -10,6 +10,8 @@ latitude: 52.584795
 loc_type: city
 longitude: -1.982269
 score: 0.25
+snippet: West Midlands market town known for saddlery, leatherwork, and the New Art
+  Gallery Walsall
 title: Walsall
 type: location
 ---

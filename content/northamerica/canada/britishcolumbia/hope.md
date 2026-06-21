@@ -6,6 +6,8 @@ latitude: 49.38
 loc_type: city
 longitude: -121.4416
 score: 0.36
+snippet: Fraser Valley town where mountain highways meet at the entrance to British
+  Columbia's Coast Mountains
 title: Hope
 type: location
 ---

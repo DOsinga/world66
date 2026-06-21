@@ -9,6 +9,8 @@ latitude: 37.1155
 loc_type: city
 longitude: -8.5321
 score: 0.54
+snippet: Algarve beach resort below orange sandstone cliffs at the mouth of the Arade
+  River
 title: Praia da Rocha
 type: location
 ---

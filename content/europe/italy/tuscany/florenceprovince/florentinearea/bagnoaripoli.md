@@ -10,6 +10,8 @@ latitude: 43.7522
 loc_type: city
 longitude: 11.32
 score: 0.45
+snippet: Florentine hillside municipality of olive groves, Chianti vineyards, and
+  villages just beyond the Arno.
 title: Bagno a Ripoli
 type: location
 ---

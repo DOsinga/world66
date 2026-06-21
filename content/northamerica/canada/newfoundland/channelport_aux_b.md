@@ -10,6 +10,8 @@ latitude: 47.5777
 loc_type: city
 longitude: -59.1424
 score: 0.31
+snippet: Southwestern Newfoundland ferry town with Basque whaling roots and a harbour
+  exposed to the Atlantic.
 title: Channel-Port aux Basques
 type: location
 ---

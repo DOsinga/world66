@@ -17,6 +17,7 @@ quick_facts:
   Skiing to Beach: "Under 1 hour — mountains meet the Mediterranean"
   Byblos: "~7,000 years old"
 title: Lebanon
+snippet: Small Mediterranean country of cedar mountains, ancient port cities, Roman temples, and intensely layered cultures.
 type: location
 score: 0.59
 loc_type: country

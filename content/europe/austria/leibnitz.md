@@ -6,6 +6,8 @@ latitude: 46.780476
 loc_type: city
 longitude: 15.5407
 score: 0.38
+snippet: South Styrian wine town below Seggau Castle, with vineyard hills and Roman
+  ruins at Flavia Solva.
 title: Leibnitz
 type: location
 ---

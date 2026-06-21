@@ -10,6 +10,7 @@ latitude: 37.8425
 loc_type: city
 longitude: -120.2339
 score: 0.4
+snippet: Sierra foothill town on Highway 120, west of Yosemite Valley and rooted in Gold Rush history.
 title: Groveland
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 8.474261
 loc_type: city
 longitude: 47.355194
 score: 0.13
+snippet: Nugal Valley town in eastern Somaliland, shaped by livestock routes and contested
+  Sool-region politics.
 title: Lasanod
 type: location
 ---

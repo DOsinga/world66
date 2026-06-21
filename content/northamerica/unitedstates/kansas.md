@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 38.27312
+loc_type: region
 longitude: -98.582187
 score: 0.38
+snippet: Great Plains state at America's centre, with tallgrass prairie, aerospace
+  cities, and wide agricultural horizons
 title: Kansas
 type: location
-loc_type: region
 ---
 
 Kansas is an almost rectangular shaped state at the geographic center of the United States.

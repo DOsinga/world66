@@ -11,6 +11,7 @@ longitude: -97.3327
 score: 0.4
 title: Fort Worth
 type: location
+snippet: Western DFW city shaped by cattle-trading history, Stockyards heritage, and major art museums.
 ---
 
 Fort Worth calls itself "Where the West Begins," and it means it. The western half of the DFW Metroplex has a completely different personality from its flashy neighbor to the east. This is Cowtown, Panther City, the place where cattle drives once ended and cowboys blew their wages in Stockyards saloons.

@@ -10,6 +10,8 @@ latitude: 43.176937
 loc_type: city
 longitude: -90.068048
 score: 0.36
+snippet: Wisconsin River town shaped by Frank Lloyd Wright, from Taliesin to small
+  Prairie-style buildings.
 title: Spring Green
 type: location
 ---

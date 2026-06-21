@@ -11,6 +11,8 @@ latitude: 29.5267
 loc_type: city
 longitude: 35.0075
 score: 0.53
+snippet: Jordan's only coastal city and seaport, set at the northern tip of the Red
+  Sea.
 title: Aqaba
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 36.395012
 loc_type: city
 longitude: 30.473564
 score: 0.51
+snippet: Lycian coast backpacker village where ancient ruins sit in forest above a
+  long pebble beach.
 title: Olympos
 type: location
 ---

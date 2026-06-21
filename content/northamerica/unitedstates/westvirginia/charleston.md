@@ -11,6 +11,8 @@ latitude: 38.3498
 loc_type: city
 longitude: -81.6326
 score: 0.33
+snippet: West Virginia capital at the Kanawha-Elk confluence, marked by Cass Gilbert's
+  gold-domed State Capitol.
 title: Charleston
 type: location
 ---

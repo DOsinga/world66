@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Qicai_Waterfall_(330007906
 latitude: 28.4651
 loc_type: feature
 longitude: 104.9666
+score: 0.49
+snippet: Southern Sichuan bamboo forest of dense green canopies, waterfalls, cliff
+  paths, and film-famous scenery
 sources:
 - https://en.wikivoyage.org/wiki/Shunan_Zhuhai_National_Park
 title: Shunan Bamboo Sea
 type: location
-score: 0.49
 ---
 
 The Shunan Bamboo Sea covers 120 square kilometres of southern Sichuan near Yibin, entirely carpeted in bamboo of a density and scale that has few equivalents anywhere. The same bamboo-canopy scenery was used as a filming location for Ang Lee's Crouching Tiger, Hidden Dragon, and the association has not harmed visitor numbers. But the forest is the thing itself, not its cinematic reputation: walking through it on a windy day, when the canopy moves in waves and the light filters green through overlapping stems, is a specific and memorable experience.

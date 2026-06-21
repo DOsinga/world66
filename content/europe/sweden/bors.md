@@ -10,6 +10,8 @@ latitude: 57.721
 loc_type: city
 longitude: 12.9401
 score: 0.35
+snippet: Swedish textile city reinvented around design schools, street sculpture,
+  museums, and the Viskan river mills.
 title: Borås
 type: location
 ---

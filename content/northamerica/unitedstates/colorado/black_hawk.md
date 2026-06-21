@@ -10,6 +10,8 @@ latitude: 39.7997
 loc_type: city
 longitude: -105.4903
 score: 0.31
+snippet: Rocky Mountain mining town transformed into a casino corridor above Clear
+  Creek Canyon.
 title: Black Hawk
 type: location
 ---

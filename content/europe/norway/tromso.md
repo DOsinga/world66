@@ -10,6 +10,8 @@ latitude: 69.651635
 loc_type: city
 longitude: 18.955859
 score: 0.66
+snippet: Arctic Norwegian city on Tromsø Sound, known for northern lights, midnight
+  sun, and polar institutions
 title: Tromsø
 type: location
 ---

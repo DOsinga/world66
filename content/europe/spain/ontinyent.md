@@ -11,6 +11,7 @@ loc_type: city
 longitude: -0.61
 score: 0.37
 title: Ontinyent
+snippet: Inland Valencian city in the Vall d'Albaida, known for its Moros i Cristians festival.
 type: location
 ---
 

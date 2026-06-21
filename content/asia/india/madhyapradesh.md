@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 23.814342
+loc_type: region
 longitude: 77.534072
 score: 0.43
+snippet: Central Indian state of tiger reserves, Sanchi stupas, and Khajuraho temple
+  sculpture
 title: Madhya Pradesh
 type: location
-loc_type: region
 ---
 
 Madhya Pradesh — "the middle state" — is the geographic heart of India and, after the split-off of Chhattisgarh in 2000, still its second-largest state. For all its size it is strangely under-visited, which is part of the appeal. Two of India's best tiger reserves, a World Heritage Site of erotic temple carvings, and the stupas at Sanchi — one of the oldest standing structures in the subcontinent — are all here, with a fraction of the crowds of Rajasthan or Uttar Pradesh.

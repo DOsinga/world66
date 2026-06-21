@@ -10,6 +10,8 @@ latitude: 45.554879
 loc_type: city
 longitude: 18.695369
 score: 0.43
+snippet: Slavonian city on the Drava, with Habsburg boulevards and the Baroque fortress
+  district of Tvrđa.
 title: Osijek
 type: location
 ---

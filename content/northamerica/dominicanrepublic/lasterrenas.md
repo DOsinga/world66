@@ -10,6 +10,8 @@ latitude: 19.3117
 loc_type: city
 longitude: -69.5424
 score: 0.52
+snippet: Samaná Peninsula beach town where a former fishing village grew into a relaxed
+  international enclave
 title: Las Terrenas
 type: location
 ---

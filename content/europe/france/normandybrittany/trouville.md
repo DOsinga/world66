@@ -10,6 +10,7 @@ latitude: 49.367982
 loc_type: city
 longitude: 0.080911
 score: 0.5
+snippet: Normandy seaside resort and fishing port, with Belle Époque seafronts and a working fish market.
 title: Trouville
 type: location
 ---

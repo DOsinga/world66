@@ -12,6 +12,7 @@ longitude: 21.1553
 score: 0.22
 title: Ferizaj
 type: location
+snippet: "Ferizaj is a southern Kosovo town in the Nerodimka valley, centred on a compact cafe-lined downtown."
 ---
 
 Ferizaj (known in Serbian as Uroševac) sits in the Nerodimka river valley in southern Kosovo, roughly 35 km south of Pristina along the main highway connecting the capital to the North Macedonian border. It is one of Kosovo's larger towns and has a lively, compact downtown with plenty of cafes and shops.

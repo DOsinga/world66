@@ -8,16 +8,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Uspn" title="User:
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kimberley_seen_from_the_west_2015.JPG
 latitude: -28.816624
+loc_type: country
 longitude: 24.991639
 quick_facts:
-  Population: "62 million"
+  Capitals: '3'
   Currency: Rand (ZAR)
-  Official Languages: "11"
-  Capitals: "3"
+  Official Languages: '11'
+  Population: 62 million
 score: 0.86
+snippet: Southern African country of big cities, beaches, Drakensberg mountains, wine
+  valleys, and wildlife parks.
 title: South Africa
 type: location
-loc_type: country
 ---
 
 Located at the southern tip of Africa, South Africa is an impressive melting-pot of sunshine and beaches (some even have penguins on them), astonishing mountain scenery in the [Drakensberg](/africa/southafrica/drakensberg) Area, sprawling national parks such as the [Kruger national park](/africa/southafrica/krugernationalpark) and small villages alternated with big thriving cities full of sharply dressed businessmen. Combine all of this with sunshine, ‘braai’ and rugby and you’ve found a perfect travel destination. 

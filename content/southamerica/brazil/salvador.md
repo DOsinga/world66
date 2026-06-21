@@ -12,6 +12,8 @@ latitude: -12.9714
 loc_type: city
 longitude: -38.5014
 score: 0.56
+snippet: Bahian coastal city where Brazil's first colonial capital still pulses with
+  Afro-Brazilian culture
 title: Salvador
 type: location
 ---

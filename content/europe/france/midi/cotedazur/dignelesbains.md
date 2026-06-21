@@ -13,6 +13,7 @@ score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Digne-les-Bains
 title: Digne-les-Bains
+snippet: Thermal town in Alpes-de-Haute-Provence, gateway to lavender hills and the Train des Pignes.
 type: location
 ---
 

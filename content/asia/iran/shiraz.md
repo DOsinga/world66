@@ -12,6 +12,8 @@ latitude: 29.606
 loc_type: city
 longitude: 52.5378
 score: 0.46
+snippet: Iranian city of poets, gardens, and orange blossom, with Hafez, Saadi, and
+  Persepolis close by.
 title: Shiraz
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 18.6461
 loc_type: city
 longitude: -74.1172
 score: 0.24
+snippet: Southwestern Haitian port known as the city of poets, with remote Grand’Anse
+  beaches and green hills.
 title: Jérémie
 type: location
 ---

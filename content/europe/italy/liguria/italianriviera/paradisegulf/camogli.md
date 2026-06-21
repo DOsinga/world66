@@ -8,6 +8,8 @@ latitude: 44.3492
 loc_type: city
 longitude: 9.1589
 score: 0.57
+snippet: Liguria fishing village of painted harbour houses tucked between Portofino
+  headland and the open sea
 sources:
 - https://en.wikipedia.org/wiki/Camogli
 - https://en.wikipedia.org/wiki/San_Fruttuoso_Abbey

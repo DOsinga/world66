@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Fushanzhi_Street_01_2018-0
 latitude: 30.0
 loc_type: city
 longitude: 120.6
+score: 0.42
+snippet: Literary Zhejiang canal city known for Lu Xun, black-awning boats, and stone
+  arched bridges
 sources:
 - https://en.wikivoyage.org/wiki/Shaoxing
 title: Shaoxing
 type: location
-score: 0.42
 ---
 
 Shaoxing is the most literary city in Zhejiang, a place that has produced writers, reformers, and philosophers for two millennia and wears its cultural heritage with quiet confidence. The city sits on a web of canals southeast of Hangzhou, and its traditional black-awning wooden boats — [punted rather than rowed](/asia/china/zhejiang/shaoxing/wupeng_boats) — are a sight still worth seeking out in the older quarters. The streets of the preserved historic district are lined with whitewashed walls and dark roof tiles in the Jiangnan style that inspired every generic "water town" in the province, and its [ancient canal bridges](/asia/china/zhejiang/shaoxing/ancient_canal_bridges) — over a thousand of them — give the city more stone arches than Venice.

@@ -6,6 +6,8 @@ latitude: 17.4349
 loc_type: city
 longitude: -92.2248
 score: 0.26
+snippet: Small northern Chiapas town used as the lowland gateway to the turquoise
+  Cascadas de Agua Azul.
 sources:
 - https://en.wikipedia.org/wiki/Agua_Azul
 - https://en.wikipedia.org/wiki/Salto_de_Agua,_Chiapas

@@ -9,6 +9,8 @@ latitude: 26.1451
 loc_type: city
 longitude: 32.6717
 score: 0.52
+snippet: Upper Egyptian temple village known for the remarkably intact Ptolemaic Temple
+  of Hathor
 title: Dendara
 type: location
 ---

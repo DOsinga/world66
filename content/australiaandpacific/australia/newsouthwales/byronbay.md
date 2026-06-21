@@ -9,6 +9,8 @@ latitude: -28.6434
 loc_type: city
 longitude: 153.6122
 score: 0.58
+snippet: Beach town at mainland Australia's easternmost point, known for surf and
+  alternative coastal culture.
 tags:
 - things_to_do
 - beach

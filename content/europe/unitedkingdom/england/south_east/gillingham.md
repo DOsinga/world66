@@ -10,6 +10,8 @@ latitude: 51.3872
 loc_type: city
 longitude: 0.5462
 score: 0.23
+snippet: Medway working town in north Kent, with Royal Engineers history and riverside
+  Strand views
 title: Gillingham
 type: location
 ---

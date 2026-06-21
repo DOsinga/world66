@@ -10,6 +10,8 @@ latitude: 57.006132
 loc_type: city
 longitude: -5.829449
 score: 0.48
+snippet: West Highland fishing town and ferry port, opening onto Skye, Knoydart, and
+  the Small Isles.
 title: Mallaig
 type: location
 ---

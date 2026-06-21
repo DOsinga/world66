@@ -10,6 +10,7 @@ latitude: 35.262664
 loc_type: city
 longitude: -77.581635
 score: 0.25
+snippet: Eastern North Carolina town whose food reputation grew around Chef and the Farmer.
 sources:
 - https://en.wikipedia.org/wiki/Kinston,_North_Carolina
 - https://en.wikipedia.org/wiki/CSS_Neuse

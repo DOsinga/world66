@@ -9,6 +9,8 @@ latitude: -20.411104
 loc_type: city
 longitude: 57.706062
 score: 0.52
+snippet: Mauritian fishing town on Grand Port Bay, with a lively waterfront and Battle
+  of Grand Port history.
 title: Mahébourg
 type: location
 ---

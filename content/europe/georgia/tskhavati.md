@@ -6,6 +6,8 @@ latitude: 42.246695
 loc_type: city
 longitude: 44.507146
 score: 0.28
+snippet: Remote Ksani Gorge village known for its wooded medieval monastery and mountain
+  setting.
 title: Tskhavati
 type: location
 ---

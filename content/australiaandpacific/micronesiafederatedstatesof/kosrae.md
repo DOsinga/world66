@@ -6,6 +6,8 @@ latitude: 5.325
 loc_type: city
 longitude: 162.9817
 score: 0.43
+snippet: Remote Micronesian island of jungle, citrus groves, coral reefs, and the
+  ancient Leluh ruins.
 title: Kosrae
 type: location
 ---

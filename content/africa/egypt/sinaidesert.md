@@ -7,6 +7,8 @@ latitude: 29.5
 loc_type: region
 longitude: 34.0
 score: 0.62
+snippet: Desert peninsula between the Gulfs of Suez and Aqaba, with granite mountains,
+  wadis, and coral reefs.
 title: Sinai Peninsula
 type: location
 ---

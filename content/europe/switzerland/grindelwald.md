@@ -10,6 +10,8 @@ latitude: 46.624273
 loc_type: city
 longitude: 8.036746
 score: 0.75
+snippet: Bernese Oberland village beneath the Eiger, Mönch, and Jungfrau, long associated
+  with Alpine tourism.
 title: Grindelwald
 type: location
 ---

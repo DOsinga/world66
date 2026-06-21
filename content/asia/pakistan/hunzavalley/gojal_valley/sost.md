@@ -10,6 +10,8 @@ latitude: 36.689719
 loc_type: city
 longitude: 74.820554
 score: 0.29
+snippet: Karakoram Highway border town in Gojal Valley, beneath glaciated peaks near
+  Khunjerab Pass.
 title: Sost
 type: location
 ---

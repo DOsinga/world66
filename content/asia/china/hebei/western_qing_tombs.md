@@ -10,6 +10,7 @@ loc_type: feature
 longitude: 115.3453
 sources:
 - https://en.wikipedia.org/wiki/Western_Qing_tombs
+snippet: Imperial tomb complex southwest of Beijing, where four Qing emperors lie in a forested mountain valley.
 title: Western Qing Tombs
 type: location
 score: 0.41

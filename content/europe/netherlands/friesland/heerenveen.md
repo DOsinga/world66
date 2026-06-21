@@ -10,6 +10,8 @@ latitude: 52.998474
 loc_type: city
 longitude: 5.923149
 score: 0.35
+snippet: Frisian town known as the spiritual home of Dutch speed skating and the Thialf
+  arena
 title: Heerenveen
 type: location
 ---

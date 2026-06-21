@@ -1,22 +1,24 @@
 ---
-title: Jamaica
-type: location
-latitude: 18.1096
-longitude: -77.2975
-image: jamaica.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jamaica_Ocho_Rios_Dunn's_River_Falls_1.jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Dr._Thomas_Liptak" title="User:Dr.
-  Thomas Liptak">Dr. Thomas Liptak</a>
 done:
   country_cleanup: 2026-03-29
+image: jamaica.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Dr._Thomas_Liptak" title="User:Dr.
+  Thomas Liptak">Dr. Thomas Liptak</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jamaica_Ocho_Rios_Dunn's_River_Falls_1.jpg
+latitude: 18.1096
+loc_type: country
+longitude: -77.2975
 quick_facts:
-  Population: "2.8 million"
+  Blue Mountain Coffee: Grown above 900 m, among world's priciest
   Drives On: Left
   Fastest Sprinters: Most 100 m world records of any nation
-  Blue Mountain Coffee: Grown above 900 m, among world's priciest
-score: 0.60
-loc_type: country
+  Population: 2.8 million
+score: 0.6
+snippet: Caribbean island country of reggae, Blue Mountain coffee, reef-lined beaches,
+  and a rugged green interior.
+title: Jamaica
+type: location
 ---
 
 Jamaica punches well above its weight. A small island — about 240 km long, 80 km wide — it has produced a disproportionate amount of the world's culture: reggae, dancehall, Rastafari, Blue Mountain coffee, and some of the fastest sprinters in history. The food is distinctive, the landscape dramatic, and the people are genuinely engaging once you get past the hustle in the tourist zones.

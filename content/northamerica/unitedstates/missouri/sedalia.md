@@ -10,6 +10,8 @@ latitude: 38.7098
 loc_type: city
 longitude: -93.2296
 score: 0.3
+snippet: West-central Missouri city known for the Missouri State Fair and Scott Joplin's
+  ragtime years
 title: Sedalia
 type: location
 ---

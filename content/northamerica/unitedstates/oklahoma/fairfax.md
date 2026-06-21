@@ -10,6 +10,8 @@ latitude: 36.573
 loc_type: city
 longitude: -96.704
 score: 0.22
+snippet: Osage County town in Oklahoma, tied to Osage Nation history and the 1920s
+  oil-boom murders.
 title: Fairfax
 type: location
 ---

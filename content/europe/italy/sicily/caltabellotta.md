@@ -9,6 +9,8 @@ latitude: 37.5773
 loc_type: city
 longitude: 13.2165
 score: 0.44
+snippet: High Sicilian hill village near Sciacca, perched on rugged ledges with castle
+  ruins.
 title: Caltabellotta
 type: location
 ---

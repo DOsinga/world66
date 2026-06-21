@@ -8,6 +8,8 @@ latitude: 41.7038
 loc_type: region
 longitude: 2.9416
 score: 0.7
+snippet: Rugged Catalan coast of limestone cliffs, small coves, fishing villages,
+  and Pyrenean headlands near France.
 title: Costa Brava
 type: location
 ---

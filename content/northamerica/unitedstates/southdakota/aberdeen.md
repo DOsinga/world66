@@ -10,6 +10,7 @@ latitude: 45.464981
 loc_type: city
 longitude: -98.487813
 score: 0.26
+snippet: Northern Plains city in South Dakota, a former railroad hub serving a wide agricultural region.
 title: Aberdeen
 type: location
 ---

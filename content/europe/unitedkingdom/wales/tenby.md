@@ -10,6 +10,7 @@ loc_type: city
 longitude: -4.705044
 score: 0.52
 title: Tenby
+snippet: "Walled Pembrokeshire seaside town, with colourful Georgian streets dropping to beaches and harbour."
 type: location
 ---
 

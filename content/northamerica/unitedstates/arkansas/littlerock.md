@@ -10,6 +10,8 @@ latitude: 34.746507
 loc_type: city
 longitude: -92.289627
 score: 0.32
+snippet: Arkansas capital on the Arkansas River, with civil-rights history and a revived
+  riverfront district.
 title: Little Rock
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -12.045981
 loc_type: city
 longitude: -77.030591
 score: 0.57
+snippet: Pacific coastal capital of Peru, where colonial Lima, foggy cliffs, and a
+  celebrated food scene meet.
 title: Lima
 type: location
 ---

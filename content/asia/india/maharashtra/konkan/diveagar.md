@@ -10,6 +10,8 @@ latitude: 18.168994
 loc_type: city
 longitude: 72.990182
 score: 0.36
+snippet: Konkan beach village south of Mumbai, with coconut groves, casuarina-backed
+  sand, and a slow coastal pace.
 title: Diveagar
 type: location
 ---

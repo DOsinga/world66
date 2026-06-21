@@ -9,6 +9,7 @@ longitude: 11.4354
 score: 0.37
 title: Dachau
 type: location
+snippet: "Bavarian town near Munich with a major concentration camp memorial and a hilltop Renaissance castle."
 ---
 
 Most visitors come to Dachau for one reason: the [memorial site at the former concentration camp](/europe/germany/bavaria/dachau/concentration_camp_memorial), the first established by the Nazi regime in 1933. It is a sobering, essential place to visit, and the town takes its role as a site of remembrance seriously. But Dachau is more than its darkest chapter.

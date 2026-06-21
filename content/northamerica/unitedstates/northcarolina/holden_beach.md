@@ -10,6 +10,8 @@ latitude: 33.9135
 loc_type: city
 longitude: -78.3039
 score: 0.39
+snippet: Quiet North Carolina barrier island known for family beaches and rare east-west
+  ocean sunrises.
 title: Holden Beach
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 32.7356
 loc_type: city
 longitude: -97.1071
 score: 0.3
+snippet: North Texas city defined by a concentrated entertainment district of stadiums,
+  theme parks, and game-day crowds.
 title: Arlington
 type: location
 ---

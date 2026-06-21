@@ -8,6 +8,8 @@ latitude: 9.880782
 loc_type: region
 longitude: 124.206461
 score: 0.67
+snippet: Visayan island defined by the Chocolate Hills, with tarsier sanctuaries and
+  reef-fringed Panglao nearby.
 title: Bohol
 type: location
 ---

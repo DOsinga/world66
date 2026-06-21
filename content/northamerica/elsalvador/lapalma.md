@@ -5,6 +5,8 @@ latitude: 14.3233
 loc_type: city
 longitude: -89.1698
 score: 0.32
+snippet: Mountain town near the Honduran border, known for Fernando Llort-inspired
+  folk art and painted woodcrafts.
 title: La Palma
 type: location
 ---

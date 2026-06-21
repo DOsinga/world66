@@ -13,6 +13,8 @@ longitude: 20.986264
 score: 0.43
 title: Arta
 type: location
+snippet: Epirus town of Byzantine churches and a legendary medieval bridge over the
+  Arachthos River.
 ---
 
 Arta is best known for its [bridge](/europe/greece/arta/bridge_of_arta) — a graceful medieval stone arch over the Arachthos River that has inspired one of [Greece](/europe/greece)'s most famous folk songs. The ballad tells of a master builder who could not keep the bridge from collapsing until he sealed his wife into the foundations. The story is dark, the bridge is beautiful, and seeing it in the golden light of late afternoon, perfectly reflected in the still water below, you understand why it became the stuff of legend.

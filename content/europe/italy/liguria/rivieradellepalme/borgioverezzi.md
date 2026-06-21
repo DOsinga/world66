@@ -9,6 +9,8 @@ latitude: 44.164968
 loc_type: city
 longitude: 8.306662
 score: 0.46
+snippet: Twin Ligurian settlement pairing a modest beach town with medieval Verezzi
+  above the sea
 title: Borgio Verezzi
 type: location
 ---

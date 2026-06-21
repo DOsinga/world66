@@ -6,6 +6,8 @@ latitude: 44.032116
 loc_type: city
 longitude: 8.050223
 score: 0.39
+snippet: Quiet Ligurian farming comune in the Lerrone valley, with feudal castle ruins
+  and baroque churches.
 title: Casanova Lerrone
 type: location
 ---

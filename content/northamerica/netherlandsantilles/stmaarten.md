@@ -10,6 +10,8 @@ latitude: 18.0425
 loc_type: city
 longitude: -63.0548
 score: 0.52
+snippet: Caribbean island shared by Dutch Sint Maarten and French Saint Martin, famous
+  for Maho Beach aircraft landings.
 title: St Maarten
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 11.16669
 loc_type: city
 longitude: 123.718882
 score: 0.45
+snippet: Island municipality off northern Cebu, known for Santa Fe's white-sand beaches
+  and slower island pace
 title: Bantayan
 type: location
 ---

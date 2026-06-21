@@ -11,6 +11,7 @@ longitude: 122.351
 sources:
 - https://en.wikivoyage.org/wiki/Beiji_Village
 title: Beiji Village
+snippet: Northernmost Chinese village on the Amur River, known for borderland scenery and aurora viewing
 type: location
 score: 0.21
 ---

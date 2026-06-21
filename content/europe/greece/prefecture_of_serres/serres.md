@@ -10,6 +10,8 @@ latitude: 41.0911
 loc_type: city
 longitude: 23.5498
 score: 0.35
+snippet: Northern Greek city with Byzantine roots, Ottoman traces, and a medieval
+  acropolis above the old town.
 title: Serres
 type: location
 ---

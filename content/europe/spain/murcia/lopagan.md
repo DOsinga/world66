@@ -10,6 +10,8 @@ latitude: 37.820004
 loc_type: city
 longitude: -0.786599
 score: 0.4
+snippet: Mar Menor resort town known for calm lagoon water, mud baths, and Spanish
+  seaside routines.
 title: Lo Pagán
 type: location
 ---

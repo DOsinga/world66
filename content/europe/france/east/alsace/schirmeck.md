@@ -10,6 +10,8 @@ latitude: 48.47873
 loc_type: city
 longitude: 7.218181
 score: 0.36
+snippet: Small Vosges valley town in Alsace, carrying the memory of a contested Franco-German
+  borderland
 title: Schirmeck
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 11.273946
 loc_type: city
 longitude: -69.583421
 score: 0.3
+snippet: Dry northwestern Venezuelan state of trade-wind beaches, desert scrub, and
+  the colonial city of Coro.
 title: Falcón
 type: location
 ---

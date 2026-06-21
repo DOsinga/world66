@@ -1,9 +1,11 @@
 ---
+latitude: 53.2811
+loc_type: region
+longitude: -4.3036
+snippet: Welsh island, Ynys Môn, with Menai bridges, ancient monuments, farmland,
+  beaches, and sea-cliff coastline
 title: Anglesey
 type: location
-loc_type: region
-latitude: 53.2811
-longitude: -4.3036
 ---
 
 Anglesey — Ynys Môn in Welsh — is a large island off the northwest coast of Wales, connected to the mainland by two famous bridges over the Menai Strait: Thomas Telford's suspension bridge of 1826 and Robert Stephenson's Britannia Bridge carrying the railway. Despite the easy crossing, the island has a character quite distinct from the Welsh mainland. It is flatter, wider, and more agricultural than Snowdonia just across the water, with a long coastline of bays, sandy beaches, and sea-cliffs that makes it one of Wales's best coastal destinations.

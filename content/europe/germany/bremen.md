@@ -10,6 +10,8 @@ latitude: 53.07582
 loc_type: city
 longitude: 8.807165
 score: 0.5
+snippet: Hanseatic Weser city with a UNESCO Rathaus and Roland statue anchoring its
+  historic Marktplatz
 title: Bremen
 type: location
 ---

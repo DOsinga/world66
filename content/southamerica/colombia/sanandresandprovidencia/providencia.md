@@ -10,6 +10,8 @@ latitude: 13.3531
 loc_type: city
 longitude: -81.375
 score: 0.56
+snippet: Colombian Caribbean island with volcanic peaks, quiet beaches, and one of
+  the Americas' broadest barrier reefs.
 title: Providencia
 type: location
 ---

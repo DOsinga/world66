@@ -11,6 +11,7 @@ score: 0.54
 title: Texas
 type: location
 loc_type: region
+snippet: "Huge US state spanning pine forests, Gulf beaches, desert canyons, high plains, and outsized city cultures."
 ---
 
 Texas is enormous, and it knows it. The second-largest state in the US stretches from the pine forests of East Texas to the desert canyons of Big Bend, from the Gulf Coast beaches of South Padre Island to the high plains of the Panhandle. It would take twelve hours to drive from one end to the other, and you would pass through landscapes that look nothing alike.

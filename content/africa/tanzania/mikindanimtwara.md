@@ -10,6 +10,8 @@ latitude: -10.286914
 loc_type: city
 longitude: 40.115346
 score: 0.33
+snippet: Far-southern Tanzanian coast towns where Mikindani's old trading port meets
+  practical Mtwara.
 title: Mikindani-Mtwara
 type: location
 ---

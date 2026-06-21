@@ -10,6 +10,8 @@ latitude: 12.1364
 loc_type: city
 longitude: -86.2514
 score: 0.32
+snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earthquake
+  and rough urban energy.
 title: Managua
 type: location
 ---

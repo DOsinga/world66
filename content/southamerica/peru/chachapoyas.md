@@ -11,6 +11,8 @@ latitude: -6.2316
 loc_type: city
 longitude: -77.8689
 score: 0.5
+snippet: Remote northern Peruvian city ringed by cloudforest and the monumental ruins
+  of the Chachapoyas civilisation.
 title: Chachapoyas
 type: location
 ---

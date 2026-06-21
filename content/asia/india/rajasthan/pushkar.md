@@ -10,6 +10,8 @@ latitude: 26.4876
 loc_type: city
 longitude: 74.5578
 score: 0.58
+snippet: Sacred Rajasthan town around Pushkar Lake, known for Brahma Temple, ghats,
+  and its camel fair.
 title: Pushkar
 type: location
 ---

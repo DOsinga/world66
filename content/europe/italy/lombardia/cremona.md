@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Cremona,_torrazzo_01.JPG
 latitude: 45.1352
 loc_type: city
 longitude: 10.0244
+score: 0.48
+snippet: Po River city in Lombardy, famed for violin making and a medieval piazza
+  with Italy’s tallest bell tower.
 sources:
 - https://en.wikipedia.org/wiki/Cremona
 - https://en.wikivoyage.org/wiki/Cremona
 title: Cremona
 type: location
-score: 0.48
 ---
 
 Cremona is a city on the south bank of the Po in Lombardy, and it has one of the most remarkable concentrations of medieval architecture in northern Italy — the main piazza alone contains a cathedral, a baptistery, the tallest bell tower in Italy, and a series of civic loggie that together constitute a visual feast largely free of the tourist crowds that overwhelm Verona or Siena. But the city is most famous for something more intimate: violins. Cremona was the city of Stradivari, Guarneri, and Amati, and it remains the world capital of violin-making to this day.

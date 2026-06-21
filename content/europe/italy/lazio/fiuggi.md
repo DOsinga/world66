@@ -10,6 +10,8 @@ latitude: 41.798561
 loc_type: city
 longitude: 13.220489
 score: 0.43
+snippet: Lazio spa town long known for mineral waters praised by popes, artists, and
+  European royalty.
 title: Fiuggi
 type: location
 ---

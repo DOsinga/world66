@@ -6,6 +6,8 @@ latitude: 35.566904
 loc_type: region
 longitude: -75.468837
 score: 0.62
+snippet: North Carolina barrier-island chain of lighthouses, wild beaches, flight
+  history, and ferry-linked villages
 title: Outer Banks
 type: location
 ---

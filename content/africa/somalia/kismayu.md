@@ -6,6 +6,8 @@ latitude: -0.35869
 loc_type: city
 longitude: 42.54546
 score: 0.06
+snippet: Southern Somali port near the Kenyan border, tied to Jubba River trade and
+  long Indian Ocean beaches.
 title: Kismayu
 type: location
 ---

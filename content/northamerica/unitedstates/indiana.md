@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 40.327013
+loc_type: region
 longitude: -86.174693
 score: 0.36
+snippet: Midwestern U.S. state of farmland, river towns, basketball culture, and major
+  crossroads highways.
 title: Indiana
 type: location
-loc_type: region
 ---
 
 Indiana is a Midwestern state of farmland, river towns, and a surprising amount of basketball. It calls itself the Crossroads of America for good reason — more interstate highways meet here than in any other state — and that practical, in-between character runs through the place. People are friendly without making a fuss about it, and the landscape is mostly gentle: corn and soy fields rolling out to a flat horizon, broken in the south by the wooded hills of Brown County and in the north by the dunes along Lake Michigan.

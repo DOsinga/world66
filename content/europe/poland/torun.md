@@ -9,6 +9,8 @@ latitude: 53.010272
 loc_type: city
 longitude: 18.604809
 score: 0.5
+snippet: Medieval Vistula city with an intact Gothic old town and deep Copernicus
+  associations.
 title: Toruń
 type: location
 ---

@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Convent_of_St_Gall.jpg
 latitude: 47.4238
 loc_type: city
 longitude: 9.3766
+score: 0.48
+snippet: Northeastern Swiss abbey city whose medieval monastery became a major European
+  centre of learning.
 sources:
 - https://en.wikipedia.org/wiki/St._Gallen
 - https://en.wikivoyage.org/wiki/St._Gallen
 title: Saint Gallen
 type: location
-score: 0.48
 ---
 
 Saint Gallen is a small city in northeastern Switzerland that punches well above its weight in cultural and historical terms. It grew up around a Benedictine monastery founded in the 7th century by the Irish monk Gallus, and the [Abbey of Saint Gall](/europe/switzerland/saintgallen/abbey_of_saint_gall) that developed from that foundation became one of the most important centres of learning in medieval Europe. The abbey precinct — cathedral, abbey library, and surrounding buildings — is a UNESCO World Heritage Site and the main reason visitors come here.

@@ -8,6 +8,7 @@ done:
   location_enrich: '2026-06-01'
 score: 0.3
 loc_type: city
+snippet: Cagayan Valley capital on Luzon, set between mountain ranges near the Philippines' largest river basin.
 sources:
 - https://en.wikipedia.org/wiki/Tuguegarao
 - https://en.wikipedia.org/wiki/Callao_Cave

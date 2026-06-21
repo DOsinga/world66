@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-10'
+image: unst.jpg
+image_attribution: Unstphoto
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Wick_of_scaw.jpg
 latitude: 60.75952
 loc_type: city
 longitude: -0.896019
 score: 0.41
+snippet: Northernmost inhabited British island, with Shetland moorland, seabird cliffs,
+  and views toward Muckle Flugga.
 title: Unst
 type: location
-image: unst.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Wick_of_scaw.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Unstphoto
 ---
 
 Unst is the northernmost inhabited island in the British Isles. If you want to be somewhere genuinely remote, this is the place. The island is reached by two short ferry crossings — Mainland to Yell, then Yell to Unst.

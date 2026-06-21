@@ -7,11 +7,13 @@ image_attribution: DeFacto
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Caerphilly_Castle_south.jpg
 latitude: 52.292812
+loc_type: region
 longitude: -3.73893
 score: 0.62
+snippet: Small country on Britain’s western side, combining mountains, castles, coast,
+  and a living Welsh-language culture.
 title: Wales
 type: location
-loc_type: region
 ---
 
 Wales is a small country with a large personality. Crammed into the western tip of Britain, it packs mountain ranges, a dramatic coastline, medieval castles, and a living Celtic culture into a space you can drive across in a couple of hours. The landscapes are genuinely spectacular — [Snowdonia](/europe/unitedkingdom/wales/snowdonia) in the north, the Brecon Beacons in the south, and the wild Pembrokeshire coast in the west all reward serious exploration.

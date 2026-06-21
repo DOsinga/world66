@@ -10,6 +10,8 @@ latitude: 15.508
 loc_type: city
 longitude: 119.969
 score: 0.39
+snippet: Western Luzon province between the South China Sea and volcanic Zambales
+  Mountains.
 title: Zambales
 type: location
 ---

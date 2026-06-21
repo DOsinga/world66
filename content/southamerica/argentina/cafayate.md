@@ -9,6 +9,7 @@ latitude: -26.072917
 loc_type: city
 longitude: -65.976032
 score: 0.54
+snippet: High-altitude wine town in the Calchaquí Valley, where Torrontés vineyards sit under desert sun.
 title: Cafayate
 type: location
 ---

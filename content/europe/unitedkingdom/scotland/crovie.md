@@ -10,6 +10,8 @@ latitude: 57.679
 loc_type: city
 longitude: -2.3241
 score: 0.45
+snippet: Tiny Aberdeenshire fishing village of shorefront cottages wedged tightly
+  between cliff and Moray Firth
 title: Crovie
 type: location
 ---

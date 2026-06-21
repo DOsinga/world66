@@ -10,6 +10,7 @@ loc_type: city
 longitude: 135.194376
 score: 0.6
 title: Kobe
+snippet: Kansai port city between Rokko mountains and Osaka Bay, long shaped by foreign trade.
 type: location
 ---
 

@@ -7,6 +7,8 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Baja09flickr-05_(4258690724).jpg
 latitude: 31.865889
 loc_type: city
+snippet: Baja California port city where seafood stalls, cruise docks, and nearby
+  wine country meet the Pacific
 longitude: -116.602983
 score: 0.48
 title: Ensenada

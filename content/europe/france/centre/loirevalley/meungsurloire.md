@@ -10,6 +10,8 @@ latitude: 47.826897
 loc_type: city
 longitude: 1.696805
 score: 0.43
+snippet: Small Loire Valley town centred on a bishops' château, Romanesque-Gothic
+  church, and Dumas's Three Musketeers opening.
 title: Meung-sur-Loire
 type: location
 ---

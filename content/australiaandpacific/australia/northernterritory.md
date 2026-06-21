@@ -1,9 +1,11 @@
 ---
+latitude: -19.4914
+loc_type: region
+longitude: 132.551
+snippet: Vast Australian territory of desert, tropical north, Aboriginal homelands,
+  and widely scattered settlements.
 title: Northern Territory
 type: location
-loc_type: region
-latitude: -19.4914
-longitude: 132.5510
 ---
 
 The Northern Territory covers roughly one-sixth of Australia's land area but holds less than one percent of its population. It is a place of enormous distances, extreme climates, and landscapes that have no equivalent on earth. The red desert of the Centre, the monsoon wetlands of the Top End, and the ancient sandstone ranges between them are all here, along with some of Australia's most significant Aboriginal cultural sites and national parks.

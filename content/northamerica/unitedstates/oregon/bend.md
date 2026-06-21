@@ -10,6 +10,8 @@ latitude: 44.058173
 loc_type: city
 longitude: -121.31531
 score: 0.48
+snippet: Central Oregon outdoor city on the Deschutes River, with Cascade skiing and
+  high-desert trails nearby.
 title: Bend
 type: location
 ---

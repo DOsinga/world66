@@ -10,6 +10,8 @@ latitude: 40.145666
 loc_type: city
 longitude: 18.490757
 score: 0.56
+snippet: Walled Adriatic town at Italy's heel, layered with Greek, Byzantine, Norman,
+  and Ottoman history.
 title: Otranto
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 49.253122
 loc_type: city
 longitude: 8.876991
 score: 0.37
+snippet: Kraichgau town best known for a Technik Museum displaying Concorde and Tu-144
+  aircraft.
 title: Sinsheim
 type: location
 ---

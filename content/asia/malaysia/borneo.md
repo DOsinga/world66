@@ -1,9 +1,15 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: borneo.jpg
+image_attribution: Urbain J. Kinet
+image_license: No restrictions
+image_source: https://commons.wikimedia.org/wiki/File:Borneo,_Malaysia_(27637364933).jpg
 latitude: 3.5
 loc_type: region
 longitude: 114.0
+snippet: Malaysian Borneo region of rainforest, longhouse rivers, caves, coral islands,
+  and Mount Kinabalu.
 sources:
 - https://en.wikipedia.org/wiki/Borneo
 - https://en.wikipedia.org/wiki/Sabah
@@ -12,10 +18,6 @@ sources:
 - https://en.wikipedia.org/wiki/Gunung_Mulu_National_Park
 title: Borneo
 type: location
-image: borneo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Borneo,_Malaysia_(27637364933).jpg
-image_license: No restrictions
-image_attribution: Urbain J. Kinet
 ---
 
 Malaysian Borneo is the wild counterweight to peninsular Malaysia: rainforest, limestone caves, orangutans, proboscis monkeys, coral islands, oil towns, longhouse rivers, and mountains that rise straight out of the tropics. It covers [Sabah](/asia/malaysia/sabah) in the north-east, [Sarawak](/asia/malaysia/sarawak) along the north-west coast, and the federal island of Labuan.

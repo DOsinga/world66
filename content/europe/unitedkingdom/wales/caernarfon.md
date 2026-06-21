@@ -10,6 +10,8 @@ latitude: 53.139436
 loc_type: city
 longitude: -4.276975
 score: 0.53
+snippet: Walled Welsh town on the Menai Strait, dominated by Edward I’s great medieval
+  castle.
 title: Caernarfon
 type: location
 ---

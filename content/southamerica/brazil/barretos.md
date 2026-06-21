@@ -10,6 +10,8 @@ latitude: -20.553144
 loc_type: city
 longitude: -48.569751
 score: 0.29
+snippet: São Paulo cattle town famous for the Festa do Peão rodeo and interior cowboy
+  culture.
 title: Barretos
 type: location
 ---

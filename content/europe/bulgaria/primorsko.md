@@ -8,6 +8,7 @@ title: Primorsko
 type: location
 score: 0.43
 loc_type: city
+snippet: "Primorsko is a small Bulgarian Black Sea resort on a peninsula between two sandy bays."
 ---
 
 Primorsko is a small Black Sea resort town about 50 km south of [Burgas](/europe/bulgaria/burgas), positioned on a narrow peninsula between two bays. It's considerably quieter than the big northern resorts (Golden Sands, Sunny Beach) and has a more local character — popular with Bulgarian families rather than package tourists.

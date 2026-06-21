@@ -10,6 +10,8 @@ latitude: 30.173419
 loc_type: city
 longitude: -95.504686
 score: 0.28
+snippet: Master-planned pine-forest suburb north of Houston, centred on a restaurant-lined
+  waterway and concert pavilion.
 title: The Woodlands
 type: location
 ---

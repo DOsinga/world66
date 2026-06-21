@@ -3,16 +3,17 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-21'
+image: santaclarita.jpg
+image_attribution: Kevin Gill from Los Angeles, CA, United States
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Santa_Clarita_(27914344664).jpg
 latitude: 34.4129
+loc_type: city
 longitude: -118.5538
 score: 0.29
+snippet: Southern California valley city beyond Newhall Pass, mixing roller coasters with silent-film and gold-mining history.
 title: Santa Clarita
 type: location
-loc_type: city
-image: santaclarita.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Santa_Clarita_(27914344664).jpg
-image_license: CC BY 2.0
-image_attribution: Kevin Gill from Los Angeles, CA, United States
 ---
 
 Santa Clarita sits in a broad valley about 35 miles north of downtown Los Angeles, just over the San Gabriel Mountains via the I-5 Newhall Pass. It's a sprawling, suburban city — one of the largest in California by land area — but it earns its place on the map with two things that draw visitors from across Southern California: Six Flags Magic Mountain, home to more roller coasters than any other park on earth, and a quieter, more surprising history rooted in gold mining and silent-era Hollywood.

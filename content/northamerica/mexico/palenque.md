@@ -7,6 +7,7 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Palenque_Kreuztempel_Sonne.jpg
 latitude: 17.5088
 loc_type: city
+snippet: Chiapas gateway town below jungle-covered Maya ruins at the wet edge of the Gulf lowlands.
 longitude: -91.9871
 title: Palenque
 type: location

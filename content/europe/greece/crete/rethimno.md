@@ -9,6 +9,8 @@ latitude: 35.367647
 loc_type: city
 longitude: 24.473608
 score: 0.61
+snippet: Cretan harbour city with a Venetian-Ottoman old town, lighthouse, minarets,
+  and fortress walls
 title: Rethimno
 type: location
 ---

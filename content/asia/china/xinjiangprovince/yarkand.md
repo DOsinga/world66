@@ -10,6 +10,7 @@ loc_type: city
 longitude: 77.2496
 sources:
 - https://en.wikivoyage.org/wiki/Yarkand
+snippet: "Old Silk Road city in southern Xinjiang, with Uyghur lanes and Yarkand Khanate tombs."
 title: Yarkand
 type: location
 score: 0.27

@@ -10,6 +10,8 @@ latitude: 45.657829
 loc_type: city
 longitude: 11.149171
 score: 0.48
+snippet: Limestone plateau north of Verona, where Valpolicella vineyards give way
+  to alpine pastures and fossil beds
 title: Lessinia
 type: location
 ---

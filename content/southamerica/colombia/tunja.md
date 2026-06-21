@@ -12,6 +12,8 @@ latitude: 5.5353
 loc_type: city
 longitude: -73.3678
 score: 0.39
+snippet: High Andean colonial capital of Boyacá, layered with Muisca history, churches,
+  and cold mountain air
 title: Tunja
 type: location
 ---

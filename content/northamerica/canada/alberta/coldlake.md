@@ -13,6 +13,8 @@ sources:
 - https://en.wikipedia.org/wiki/CFB_Cold_Lake
 - https://en.wikipedia.org/wiki/Cold_Lake_Provincial_Park
 - https://en.wikipedia.org/wiki/Cold_Lake_Air_Force_Museum
+snippet: Northeastern Alberta city on a large clear lake, shaped by beaches, fishing,
+  and an air base.
 ---
 
 **Cold Lake** is a city of about 15,000 in northeastern Alberta, sitting on the western shore of the vast lake that gives it its name. Cold Lake (the body of water) is one of the largest natural lakes in Alberta — over 370 square kilometres of cold, deep, clear water — and it shapes everything about life here: the summer beach culture, the fishing, the winter ice activities, and even local mythology in the form of the **Kinosoo Beast**, a lake monster said to be capable of swallowing fishing boats whole.

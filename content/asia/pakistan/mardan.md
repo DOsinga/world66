@@ -9,6 +9,7 @@ score: 0.22
 sources:
 - https://en.wikipedia.org/wiki/Mardan
 title: Mardan
+snippet: Khyber Pakhtunkhwa city on the Peshawar-Swat plain near the Gandhara ruins of Takht-i-Bahi.
 type: location
 ---
 

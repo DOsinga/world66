@@ -10,6 +10,8 @@ latitude: 56.037502
 loc_type: city
 longitude: -5.43309
 score: 0.37
+snippet: Argyll service town at Loch Gilp, useful for the Crinan Canal and Kilmartin
+  Glen.
 title: Lochgilphead
 type: location
 ---

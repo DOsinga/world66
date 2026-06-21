@@ -5,6 +5,7 @@ latitude: 54.41
 loc_type: region
 longitude: 12.57
 score: 0.54
+snippet: "Baltic peninsula of beaches, dunes, and coastal forest between the sea and Bodden lagoons."
 title: Fischland-Darss-Zingst
 type: location
 ---

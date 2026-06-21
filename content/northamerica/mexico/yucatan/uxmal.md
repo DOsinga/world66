@@ -1,6 +1,7 @@
 ---
 title: Uxmal
 type: location
+snippet: Puuc-style Maya archaeological site in Yucatán, celebrated for refined stonework and the Pyramid of the Magician.
 loc_type: feature
 latitude: 20.3597
 longitude: -89.7712

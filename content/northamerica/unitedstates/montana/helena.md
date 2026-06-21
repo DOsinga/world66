@@ -12,6 +12,8 @@ latitude: 46.5927
 loc_type: city
 longitude: -112.0363
 score: 0.38
+snippet: Montana capital in Rocky Mountain foothills, born from gold and ringed by
+  pine-covered trails.
 title: Helena
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 30.108654
 loc_type: city
 longitude: 78.291619
 score: 0.53
+snippet: Himalayan foothill pilgrimage town where the Ganges, yoga ashrams, and suspension
+  bridges define daily life.
 title: Rishikesh
 type: location
 ---

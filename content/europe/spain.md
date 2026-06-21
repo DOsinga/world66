@@ -15,6 +15,7 @@ quick_facts:
   Olive Oil: World's largest producer
   Population: 48 million
 score: 0.96
+snippet: Iberian country of distinct regions, Moorish palaces, Gothic cathedrals, green north, and sun-baked south.
 title: Spain
 type: location
 ---

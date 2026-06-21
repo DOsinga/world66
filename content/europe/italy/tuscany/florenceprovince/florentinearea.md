@@ -1,9 +1,11 @@
 ---
+latitude: 43.8
+loc_type: region
+longitude: 11.3
+snippet: Towns and villages around Florence, shaped by centuries of Florentine patronage
+  and nearby hills.
 title: Florentine Area
 type: location
-loc_type: region
-latitude: 43.8
-longitude: 11.3
 ---
 
 The Florentine area is the cluster of towns and villages immediately surrounding [Florence](/europe/italy/tuscany/florence), forming the innermost ring of the Florentine province. Where the Chianti and Mugello regions have their own distinct characters, the Florentine area proper is made up of places that are effectively in dialogue with the city — visible from it, accessible by bus or bicycle, and shaped by centuries of Florentine patronage and building.

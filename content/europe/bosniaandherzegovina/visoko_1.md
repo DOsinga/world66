@@ -10,6 +10,8 @@ latitude: 43.9886
 loc_type: city
 longitude: 18.1781
 score: 0.36
+snippet: Bosnian valley town below Visoki fortress, known for medieval royal history
+  and pyramid claims
 title: Visoko
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 37.016294
 loc_type: city
 longitude: -7.935182
 score: 0.55
+snippet: Algarve capital and airport city, with a walled old town and access to Ria
+  Formosa.
 title: Faro
 type: location
 ---

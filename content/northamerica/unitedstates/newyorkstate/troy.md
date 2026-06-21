@@ -3,16 +3,18 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 latitude: 42.7284
-longitude: -73.6918
-title: Troy
-type: location
-score: 0.31
 loc_type: city
+longitude: -73.6918
+score: 0.31
+snippet: Hudson River city north of Albany, rich in 19th-century iron wealth and intact
+  downtown architecture.
 sources:
 - https://en.wikipedia.org/wiki/Troy,_New_York
 - https://en.wikipedia.org/wiki/Troy_Savings_Bank_Music_Hall
 - https://en.wikipedia.org/wiki/Hart-Cluett_Mansion
 - https://en.wikipedia.org/wiki/Rensselaer_County_Historical_Society
+title: Troy
+type: location
 ---
 
 Troy sits on the eastern bank of the Hudson River, about ten miles north of Albany, wearing its 19th-century industrial wealth on its sleeve. In the decades before the Civil War, the city rivaled Pittsburgh as an iron-manufacturing centre — its foundries produced stoves, bells, and the iron components that held together much of industrial America. That money built a remarkable downtown: blocks of Italianate brownstones, cast-iron storefronts, and grand civic halls that still stand largely intact, giving the place an architectural density unusual for a city of its size.

@@ -8,6 +8,8 @@ latitude: 47.474
 loc_type: city
 longitude: -0.5516
 score: 0.5
+snippet: Loire Valley city of Angevin Gothic architecture and the château housing
+  the Apocalypse Tapestry
 title: Angers
 type: location
 ---

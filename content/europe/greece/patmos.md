@@ -8,6 +8,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Chora_di_Patmos_con_il_Monastero_di_San_Giovanni_%22il_teologo%22.JPG
 latitude: 37.3094
 loc_type: city
+snippet: Small Dodecanese island of hilltop monasteries, whitewashed Hora lanes, and the Revelation pilgrimage tradition.
 longitude: 26.5458
 score: 0.6
 title: Patmos

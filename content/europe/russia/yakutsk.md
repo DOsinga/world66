@@ -10,6 +10,8 @@ latitude: 62.0274
 loc_type: city
 longitude: 129.732
 score: 0.31
+snippet: Sakha Republic capital on Siberian permafrost, built beside the vast Lena
+  River.
 title: Yakutsk
 type: location
 ---

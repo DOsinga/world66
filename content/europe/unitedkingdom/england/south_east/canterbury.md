@@ -10,6 +10,8 @@ latitude: 51.280028
 loc_type: city
 longitude: 1.080253
 score: 0.55
+snippet: Medieval cathedral city of pilgrimage lanes, timber-framed streets, and Chaucer’s
+  enduring Canterbury Tales associations.
 title: Canterbury
 type: location
 ---

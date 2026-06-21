@@ -11,6 +11,8 @@ latitude: 44.8353
 loc_type: city
 longitude: 11.6197
 score: 0.55
+snippet: Renaissance city in Emilia-Romagna where palaces and medieval lanes fill
+  a UNESCO-listed centre.
 title: Ferrara
 type: location
 ---

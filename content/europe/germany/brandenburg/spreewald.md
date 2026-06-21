@@ -11,6 +11,8 @@ latitude: 51.8753
 loc_type: city
 longitude: 14.0
 score: 0.49
+snippet: Canal-laced forest region south of Berlin, shaped by Sorbian punt traditions
+  and Spree river waterways
 sources:
 - https://en.wikipedia.org/wiki/Spree_Forest
 title: Spreewald

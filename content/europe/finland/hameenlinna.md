@@ -6,6 +6,8 @@ latitude: 60.996619
 loc_type: city
 longitude: 24.465141
 score: 0.42
+snippet: Finnish inland town on Lake Vanajavesi, built around Häme Castle and Jean
+  Sibelius's childhood home.
 title: Hameenlinna
 type: location
 ---

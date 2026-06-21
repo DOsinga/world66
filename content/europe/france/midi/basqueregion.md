@@ -5,6 +5,8 @@ latitude: 43.3776
 loc_type: region
 longitude: -1.7388
 score: 0.59
+snippet: French Basque border region of Atlantic resorts, Pyrenean villages, and living
+  Euskara culture.
 title: Basque Region
 type: location
 ---

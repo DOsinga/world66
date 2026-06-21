@@ -10,6 +10,7 @@ loc_type: city
 longitude: 106.1058
 score: 0.31
 title: Pandeglang
+snippet: Far-west Java regency and gateway to Ujung Kulon, the last refuge of the Javan rhinoceros
 type: location
 ---
 

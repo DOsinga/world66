@@ -10,6 +10,8 @@ latitude: 51.0401
 loc_type: city
 longitude: -3.5502
 score: 0.43
+snippet: Exmoor market town in the River Barle valley, used as a base for moorland
+  walks
 title: Dulverton
 type: location
 ---

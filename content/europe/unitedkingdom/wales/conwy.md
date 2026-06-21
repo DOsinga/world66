@@ -9,6 +9,8 @@ latitude: 53.146093
 loc_type: city
 longitude: -3.75992
 score: 0.51
+snippet: Medieval walled town in north Wales, still encircled by Edward I's castle
+  defenses
 title: Conwy
 type: location
 ---

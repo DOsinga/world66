@@ -11,6 +11,7 @@ latitude: 60.0059
 loc_type: city
 longitude: -111.8903
 score: 0.32
+snippet: "Northwest Territories town and gateway to Wood Buffalo National Park, set beside Slave River rapids."
 title: Fort Smith
 type: location
 ---

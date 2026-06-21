@@ -10,6 +10,8 @@ latitude: 47.548913
 loc_type: city
 longitude: 1.542704
 score: 0.43
+snippet: Quiet Sologne village near Chambord, with an old market hall and easy access
+  to Loire châteaux
 title: Bracieux
 type: location
 ---

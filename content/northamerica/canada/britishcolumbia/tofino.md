@@ -9,6 +9,8 @@ latitude: 49.152964
 loc_type: city
 longitude: -125.904708
 score: 0.57
+snippet: West-coast Vancouver Island town of beaches, surf, rainforest, and access
+  to Clayoquot Sound.
 title: Tofino
 type: location
 ---

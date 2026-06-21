@@ -6,6 +6,8 @@ latitude: 43.6241
 loc_type: city
 longitude: 11.461
 score: 0.38
+snippet: Upper Arno valley town with a medieval square and strong links to Marsilio
+  Ficino.
 title: Figline
 type: location
 ---

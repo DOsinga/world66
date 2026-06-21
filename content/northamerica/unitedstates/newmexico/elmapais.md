@@ -10,6 +10,8 @@ latitude: 34.88
 loc_type: city
 longitude: -107.97
 score: 0.4
+snippet: New Mexico national monument near Grants, shaped by lava flows, cinder cones,
+  sandstone bluffs, and lava tubes.
 title: El Malpais
 type: location
 ---

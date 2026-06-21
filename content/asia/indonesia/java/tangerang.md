@@ -8,6 +8,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Boen_Tek_Bio.jpg
 latitude: -6.1762
 loc_type: city
+snippet: Jakarta satellite city and airport gateway, with a Chinese quarter along
+  the Cisadane River
 longitude: 106.6382
 score: 0.27
 title: Tangerang

@@ -12,6 +12,8 @@ latitude: 54.1761
 loc_type: city
 longitude: 15.5766
 score: 0.39
+snippet: Baltic spa and resort city with a sandy seafront, old harbour, and rebuilt
+  medieval street plan.
 title: Kołobrzeg
 type: location
 ---

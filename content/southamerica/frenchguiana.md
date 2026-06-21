@@ -1,22 +1,24 @@
 ---
-title: French Guiana
-type: location
-latitude: 4.003988
-longitude: -52.999998
-quick_facts:
-  Population: "~310,000"
-  Currency: Euro (part of France)
-  Rainforest Cover: "~90% of the territory"
-  Guiana Space Centre: Europe's spaceport — launches Ariane rockets
-image: frenchguiana.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Plateformerochambeau.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Didwin973&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Didwin973 (page does not exist)">Didwin973</a>
 done:
   country_cleanup: 2026-03-29
-score: 0.42
+image: frenchguiana.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Didwin973&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Didwin973 (page does not exist)">Didwin973</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Plateformerochambeau.jpg
+latitude: 4.003988
 loc_type: country
+longitude: -52.999998
+quick_facts:
+  Currency: Euro (part of France)
+  Guiana Space Centre: Europe's spaceport — launches Ariane rockets
+  Population: ~310,000
+  Rainforest Cover: ~90% of the territory
+score: 0.42
+snippet: French overseas department on South America's northeast coast, with Amazon
+  rainforest and an equatorial spaceport.
+title: French Guiana
+type: location
 ---
 
 French Guiana is an anomaly on the South American map: a French overseas department wedged between Brazil and Suriname, using the euro, governed from Paris, and launching rockets into space from its equatorial coastline. It is not a former colony struggling with its independence — it is France, constitutionally and practically, which means EU passports, French prices, and a functioning social safety net in the middle of the Amazon.

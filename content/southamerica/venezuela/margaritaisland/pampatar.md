@@ -9,6 +9,8 @@ latitude: 10.9957
 loc_type: city
 longitude: -63.8051
 score: 0.4
+snippet: Colonial Margarita Island town built around a calm bay and 17th-century waterfront
+  fortress.
 title: Pampatar
 type: location
 ---

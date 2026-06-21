@@ -9,6 +9,8 @@ latitude: 33.6954
 loc_type: city
 longitude: -78.8901
 score: 0.43
+snippet: Commercial South Carolina beach resort built around Atlantic sands, golf
+  courses, and family entertainment.
 title: Myrtle Beach
 type: location
 ---

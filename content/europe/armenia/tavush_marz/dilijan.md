@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+image: dilijan.jpg
+image_attribution: Alexxx1979
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Armenia._Dilijan_P8230669_2350.jpg
 latitude: 40.7417
 loc_type: city
 longitude: 44.8722
 score: 0.44
-title: Dilijan
-type: location
-image: dilijan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Armenia._Dilijan_P8230669_2350.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Alexxx1979
+snippet: Forest-ringed Armenian retreat in Tavush Marz, known for Soviet-era artists
+  and Sharambeyan Street workshops
 sources:
 - https://en.wikipedia.org/wiki/Dilijan
 - https://en.wikipedia.org/wiki/Dilijan_National_Park
+title: Dilijan
+type: location
 ---
 
 Dilijan sits in a forest bowl in the hills of Tavush Marz, a small town that has served as a retreat for artists, composers, and cinematographers since Soviet times. The Cinematographers House — a grand sanatorium-style building where the most celebrated directors of the Soviet era came to think and work — is still standing. The town itself has a restored nineteenth-century quarter of wooden houses on [Sharambeyan Street](/europe/armenia/tavush_marz/dilijan/old_quarter), where artisans sell handicrafts and musical instruments from their ground-floor workshops.

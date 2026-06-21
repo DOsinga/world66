@@ -10,6 +10,8 @@ latitude: 19.4517
 loc_type: city
 longitude: -70.697
 score: 0.31
+snippet: Inland Dominican city in the Cibao Valley, shaped by tobacco fields, markets,
+  and industry.
 title: Santiago
 type: location
 ---

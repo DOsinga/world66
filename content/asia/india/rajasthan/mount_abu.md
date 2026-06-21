@@ -11,6 +11,7 @@ loc_type: city
 longitude: 72.7082
 score: 0.45
 title: Mount Abu
+snippet: "Rajasthan's only hill station, set high in the Aravalli Range above the desert heat."
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 19.4427
 loc_type: city
 longitude: 83.5873
 score: 0.24
+snippet: Odisha district town in the Eastern Ghats foothills, used as a base for Adivasi
+  weekly markets.
 title: Rayagada
 type: location
 ---

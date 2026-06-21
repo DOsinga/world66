@@ -10,6 +10,8 @@ latitude: 41.559165
 loc_type: city
 longitude: 41.569467
 score: 0.41
+snippet: Georgian coastal village south of Batumi, known for Gonio-Apsaros fortress
+  and a clean pebble beach
 title: Gonio
 type: location
 ---

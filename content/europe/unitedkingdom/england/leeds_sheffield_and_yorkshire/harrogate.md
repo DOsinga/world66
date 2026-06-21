@@ -9,6 +9,8 @@ latitude: 53.992149
 loc_type: city
 longitude: -1.539104
 score: 0.5
+snippet: Victorian spa town in North Yorkshire, built around mineral springs and formal
+  gardens.
 sources:
 - https://en.wikipedia.org/wiki/Harrogate
 title: Harrogate

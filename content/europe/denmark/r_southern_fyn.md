@@ -9,6 +9,8 @@ latitude: 54.8731
 loc_type: city
 longitude: 10.3322
 score: 0.49
+snippet: Small Danish island of renewable-energy towns, ferry harbours, and preserved
+  lanes in Ærøskøbing
 title: Ærø
 type: location
 ---

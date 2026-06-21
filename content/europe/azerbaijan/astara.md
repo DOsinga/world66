@@ -10,6 +10,8 @@ latitude: 38.5156
 loc_type: city
 longitude: 48.8283
 score: 0.3
+snippet: Caspian border town beside Iran, backed by rice fields and the green Talysh
+  Mountains.
 title: Astara
 type: location
 ---

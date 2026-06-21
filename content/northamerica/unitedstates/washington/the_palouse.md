@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 46.7298
+loc_type: region
 longitude: -117.1817
+score: 0.51
+snippet: Rolling wheat-and-lentil region of southeastern Washington and northern Idaho,
+  shaped by windblown loess hills.
 title: The Palouse
 type: location
-score: 0.51
-loc_type: region
 ---
 
 The Palouse is a rolling agricultural region in southeastern Washington and northern Idaho, about five to six hours east of Seattle. What you see here are hills — hundreds of them, shaped by ancient wind-deposited soil called loess — covered almost entirely in wheat and lentil fields that ripple and change colour through the seasons. The landscape is quietly spectacular in a way that surprises people who expect flat farmland.

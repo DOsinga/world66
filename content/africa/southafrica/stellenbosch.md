@@ -6,6 +6,8 @@ latitude: -33.934444
 loc_type: city
 longitude: 18.869167
 score: 0.56
+snippet: Cape winelands university town of oak-lined streets, Cape Dutch buildings,
+  and surrounding wine estates.
 title: Stellenbosch
 type: location
 ---

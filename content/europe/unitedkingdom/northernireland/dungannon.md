@@ -10,6 +10,8 @@ latitude: 54.503909
 loc_type: city
 longitude: -6.770362
 score: 0.28
+snippet: County Tyrone market town and old O'Neill stronghold, set on a hill in central
+  Ulster.
 title: Dungannon
 type: location
 ---

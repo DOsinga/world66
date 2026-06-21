@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Salzkammergut
 title: Salzkammergut
 type: location
+snippet: Central Austrian lake district shaped by salt mines, deep blue lakes, and white-walled mountains.
 ---
 
 The Salzkammergut — Salt Chamber Estate — is the lake district of central Austria, a landscape of deep blue lakes, white-walled mountains, and dark coniferous forests that stretches east from [Salzburg](/europe/austria/salzburg) into the states of Upper Austria and Styria. The name comes from the salt that made this region wealthy for thousands of years: the mines beneath the mountains around [Hallstatt](/europe/austria/salzkammergut/hallstatt) were producing salt when the pharaohs were building pyramids, and the salt trade funded the Iron Age culture that archaeologists call Hallstatt, spread across half of Europe.

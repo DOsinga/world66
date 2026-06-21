@@ -10,6 +10,8 @@ latitude: 38.629383
 loc_type: city
 longitude: 34.804614
 score: 0.68
+snippet: Cappadocian hill village beneath Uçhisar Castle, overlooking fairy chimneys,
+  pigeon valleys, and Mount Erciyes.
 title: Uchisar
 type: location
 ---

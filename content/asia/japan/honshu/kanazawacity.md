@@ -6,6 +6,8 @@ latitude: 36.5613
 loc_type: city
 longitude: 136.6562
 score: 0.66
+snippet: Preserved Japanese castle town with samurai districts, geisha houses, Maeda-era
+  crafts, and Kenroku-en garden.
 sources:
 - https://en.wikipedia.org/wiki/Kanazawa
 title: Kanazawa

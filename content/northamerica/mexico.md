@@ -11,6 +11,8 @@ quick_facts:
   Spanish: Essential outside tourist zones
   UNESCO World Heritage Sites: 35 — most in the Americas
 score: 0.93
+snippet: Large North American country of deserts, jungles, two coasts, and deep Mesoamerican
+  and Spanish colonial layers.
 title: Mexico
 type: location
 ---

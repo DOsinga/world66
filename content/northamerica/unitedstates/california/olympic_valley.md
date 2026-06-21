@@ -9,6 +9,8 @@ latitude: 39.1984
 loc_type: city
 longitude: -120.2299
 score: 0.49
+snippet: Sierra Nevada ski valley beside Lake Tahoe, shaped by the 1960 Winter Olympics
+  and Palisades terrain.
 sources:
 - https://en.wikipedia.org/wiki/Olympic_Valley,_California
 - https://en.wikipedia.org/wiki/Palisades_Tahoe

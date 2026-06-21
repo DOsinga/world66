@@ -10,6 +10,7 @@ loc_type: city
 longitude: 5.04147
 score: 0.55
 title: Dijon
+snippet: Burgundian regional capital with a protected old town shaped by the Dukes of Burgundy.
 type: location
 ---
 

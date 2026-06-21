@@ -10,6 +10,7 @@ latitude: 42.2377
 loc_type: city
 longitude: -8.7247
 score: 0.45
+snippet: "Galician port city on the Ría de Vigo, known for seafood, granite old streets, and the Islas Cíes."
 title: Vigo
 type: location
 ---

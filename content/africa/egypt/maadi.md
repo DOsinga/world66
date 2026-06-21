@@ -6,6 +6,8 @@ latitude: 29.960331
 loc_type: city
 longitude: 31.263055
 score: 0.3
+snippet: Leafy Cairo district on the Nile, laid out with wide boulevards, villas,
+  and mature gardens.
 title: Maadi
 type: location
 ---

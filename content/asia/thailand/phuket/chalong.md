@@ -10,6 +10,8 @@ latitude: 7.84652
 loc_type: city
 longitude: 98.334415
 score: 0.49
+snippet: Southeast Phuket waterfront district where Wat Chalong and Chalong Pier anchor
+  the island's working side
 title: Chalong
 type: location
 ---

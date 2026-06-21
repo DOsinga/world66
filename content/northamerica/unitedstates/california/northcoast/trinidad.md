@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-11'
 image: trinidad.jpg
-image_source: https://www.flickr.com/photos/13612227@N02/51196088611
-image_license: CC BY-SA 2.0
 image_attribution: Dana L. Brown on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/13612227@N02/51196088611
 latitude: 41.0594
 loc_type: city
 longitude: -124.1437
 score: 0.35
+snippet: Tiny Humboldt harbour town above Trinidad Bay, with bluff trails and redwood-backed
+  beaches.
 title: Trinidad
 type: location
 ---

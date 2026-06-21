@@ -6,6 +6,8 @@ latitude: 12.71
 loc_type: city
 longitude: -61.33
 score: 0.53
+snippet: Small southern Grenadines island with barrier reefs, turquoise lagoons, and
+  hilltop views toward Mustique.
 title: Canouan
 type: location
 ---

@@ -15,6 +15,7 @@ quick_facts:
   FESPACO: Africa's largest film festival
 score: 0.29
 loc_type: country
+snippet: "Landlocked West African country whose Mossi culture, Sahel landscapes, and music festivals reward patient travellers."
 ---
 
 Burkina Faso — "the land of upright people" — is one of West Africa's most rewarding and least visited countries. Landlocked between Mali, Niger, Ghana, and Ivory Coast, it has none of the obvious drawcards that pull tourists to its neighbors: no coast, no Saharan dunes, no famous game reserves. What it has instead is an extraordinary cultural richness, warm and genuinely welcoming people, and landscapes that surprise anyone who imagines the Sahel as featureless scrub.

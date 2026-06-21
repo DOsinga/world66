@@ -13,6 +13,7 @@ loc_type: city
 longitude: 55.8385
 score: 0.7
 title: La Digue
+snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox carts around La Passe.
 type: location
 ---
 

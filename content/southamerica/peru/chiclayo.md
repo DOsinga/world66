@@ -11,6 +11,8 @@ latitude: -6.771615
 loc_type: city
 longitude: -79.838718
 score: 0.43
+snippet: Northern Peruvian city used as a base for Sipán tombs, Huaca Rajada, and
+  Lambayeque museums.
 title: Chiclayo
 type: location
 ---

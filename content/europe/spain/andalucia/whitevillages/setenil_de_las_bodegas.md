@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SetenilDeLasBodegas-P10501
 latitude: 36.8634
 loc_type: city
 longitude: -5.1815
+score: 0.54
+snippet: Andalusian white village built into the Río Trejo gorge, with streets tucked
+  beneath limestone shelves.
 sources:
 - https://en.wikipedia.org/wiki/Setenil_de_las_Bodegas
 - https://turismodesetenil.com/en/que-visitar/
 - https://www.guiadecadiz.com/es/iglesia-encarnacion-setenil
 title: Setenil de las Bodegas
 type: location
-score: 0.54
 ---
 
 Setenil de las Bodegas is the strangest and most memorable of the [White Villages](/europe/spain/andalucia/whitevillages). Instead of simply climbing a hill, the town burrows into the gorge of the Río Trejo, with houses, bars, and lanes tucked under enormous shelves of limestone. It is not subtle, and it does not need to be.

@@ -7,6 +7,7 @@ title: Brong Ahafo Region
 type: location
 score: 0.34
 loc_type: region
+snippet: "Mid-western Ghana region around Sunyani, with waterfalls, sacred monkey forest, and road links north."
 ---
 
 Brong-Ahafo lies in the mid-west of Ghana, sandwiched between Ashanti Region and the Côte d'Ivoire border, with Sunyani as its capital. It's one of Ghana's less-visited regions, which means fewer crowds and a more authentic experience than the heavily touristed south.

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 39.919412
+loc_type: region
 longitude: -75.400164
+score: 0.32
+snippet: Suburban county just southwest of Philadelphia, with trolley towns and Delaware
+  River colonial history.
 title: Delaware County
 type: location
-score: 0.32
-loc_type: region
 ---
 
 Delaware County lies just southwest of [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia) and is among the most densely settled corners of Pennsylvania, packed into a small wedge between the Delaware River and the state line with Delaware and Maryland. Despite its suburban character, it carries more history per square mile than most American counties its size.

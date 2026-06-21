@@ -9,9 +9,10 @@ image_source: https://www.flickr.com/photos/65941897@N04/6511263705
 latitude: 25.2425
 loc_type: city
 longitude: 86.9842
+score: 0.24
+snippet: Ganges-side Bihar city known for Tussar silk weaving and nearby river dolphins.
 title: Bhagalpur
 type: location
-score: 0.24
 ---
 
 Bhagalpur sits on the southern bank of the Ganges in eastern Bihar, known for two things above all others: Tussar silk and river dolphins. The city has been a centre for Tussar (wild silk) weaving for centuries, and the weavers' neighbourhoods — particularly around [Nathnagar](/asia/india/bihar/bhagalpur/nathnagar_silk_weavers) — are worth exploring to see the handlooms in action and buy fabric directly. For many visitors, though, the bigger draw is the [Vikramshila Gangetic Dolphin Sanctuary](/asia/india/bihar/bhagalpur/vikramshila_dolphin_sanctuary), a stretch of the Ganges that's home to one of the largest remaining populations of endangered Gangetic river dolphins.

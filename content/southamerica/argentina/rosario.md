@@ -6,6 +6,8 @@ latitude: -32.959361
 loc_type: city
 longitude: -60.661702
 score: 0.4
+snippet: Argentine river city on the Paraná, with Che Guevara history, university
+  life, and a renewed waterfront
 title: Rosario
 type: location
 ---

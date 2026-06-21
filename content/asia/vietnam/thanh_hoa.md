@@ -12,6 +12,8 @@ latitude: 19.8069
 loc_type: city
 longitude: 105.7852
 score: 0.35
+snippet: North-central Vietnamese province between Laos and the sea, mixing mountains,
+  river valleys, coast, and ethnic communities.
 title: Thanh Hoa
 type: location
 ---

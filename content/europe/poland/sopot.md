@@ -9,6 +9,8 @@ latitude: 54.4448
 loc_type: city
 longitude: 18.5685
 score: 0.49
+snippet: Baltic resort town in Poland's Trójmiasto, centred on a sandy beach and long
+  wooden pier.
 title: Sopot
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 43.290362
 loc_type: city
 longitude: 68.258408
 score: 0.41
+snippet: Southern Kazakh pilgrimage city anchored by Timur's unfinished Mausoleum
+  of Khoja Ahmed Yasawi.
 title: Turkestan
 type: location
 ---

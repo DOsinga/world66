@@ -10,6 +10,8 @@ latitude: 38.32496
 loc_type: city
 longitude: 43.658983
 score: 0.39
+snippet: Eastern Turkish lake city and base for Armenian churches, mountain roads,
+  and Lake Van ferries
 title: Van
 type: location
 ---

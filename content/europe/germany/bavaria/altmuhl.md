@@ -6,6 +6,8 @@ latitude: 48.9351
 loc_type: city
 longitude: 10.9762
 score: 0.51
+snippet: Bavarian river valley of limestone cliffs, medieval towns, Roman traces,
+  and long-distance cycling routes
 title: Altmühl Valley
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 38.0388
 loc_type: city
 longitude: 14.0217
 score: 0.63
+snippet: Norman Sicilian beach town squeezed between golden sand, a mosaic-filled
+  cathedral, and a sheer limestone rock.
 title: Cefalù
 type: location
 ---

@@ -13,6 +13,7 @@ longitude: 98.3087
 score: 0.58
 title: Patong
 type: location
+snippet: Phuket beach resort defined by Patong Beach, Bangla Road nightlife, and mass-tourism energy.
 ---
 
 Patong is [Phuket](/asia/thailand/phuket)'s busiest and most developed beach resort, a long crescent of sand facing the Andaman Sea backed by a wall of hotels, restaurants, and shops. It is loud, commercial, and unapologetically geared toward mass tourism — and for many visitors, that is exactly the point.

@@ -3,16 +3,18 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
 image: jounieh.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jounieh_Lebanon.jpg
 image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Jounieh_Lebanon.jpg
 latitude: 33.9742
-longitude: 35.6201
-title: Jounieh
-type: location
-score: 0.43
 loc_type: city
+longitude: 35.6201
+score: 0.43
+snippet: Lebanese resort town on a crescent bay, known for beach clubs, casinos, and
+  the Harissa cable car
 sources:
 - https://en.wikipedia.org/wiki/Jounieh
+title: Jounieh
+type: location
 ---
 
 Think of a Lebanese Monte Carlo and you are close. Jounieh is the resort town where Beirutis go to have fun — casinos, beach clubs, restaurants and nightlife, all set against one of the most beautiful bays on the Lebanese coast, just 20 minutes north of [Beirut](/asia/lebanon/beirut).

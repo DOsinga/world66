@@ -10,6 +10,8 @@ latitude: 31.099917
 loc_type: city
 longitude: -4.014088
 score: 0.59
+snippet: Desert-edge Berber village beside Erg Chebbi's high dunes near the Algerian
+  border.
 title: Merzouga
 type: location
 ---

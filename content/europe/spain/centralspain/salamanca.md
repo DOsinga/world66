@@ -11,6 +11,7 @@ longitude: -5.663
 score: 0.58
 title: Salamanca
 type: location
+snippet: "Golden-stone university city on the Tormes, with a UNESCO-listed historic centre and Plaza Mayor."
 ---
 
 Salamanca is a honey-coloured university city on the banks of the Tormes river in western Spain, about two and a half hours north-west of Madrid by train. It is one of the most beautiful old cities in Spain and — for my money — the best small city to visit in the country after Granada. The whole historic centre is built from Villamayor sandstone, a soft, pale-gold stone that hardens in the air, takes carving beautifully, and glows in the evening sun. UNESCO declared the old town a World Heritage Site in 1988, and one afternoon of walking through it is enough to understand why.

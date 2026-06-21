@@ -10,6 +10,8 @@ latitude: 43.826079
 loc_type: city
 longitude: -111.783728
 score: 0.27
+snippet: Eastern Idaho college city with a strong Mormon character and a dramatic
+  flood-scarred history.
 title: Rexburg
 type: location
 ---

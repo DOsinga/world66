@@ -9,6 +9,8 @@ latitude: 51.42861
 loc_type: city
 longitude: -1.851705
 score: 0.52
+snippet: Wiltshire village built inside Europe's largest stone circle, with lanes,
+  a pub, and a church among the stones.
 title: Avebury
 type: location
 ---

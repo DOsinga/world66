@@ -12,6 +12,8 @@ longitude: 27.478222
 score: 0.3
 title: Maseru
 type: location
+snippet: Highland capital of Lesotho, shaped by red sandstone, Basotho street life,
+  and a small-town pace.
 ---
 
 Maseru is the capital of Lesotho, sitting in the western lowlands at an altitude of around 1,600 metres. The name means "place of red sandstone," and you can see why — the warm ochre rock defines the landscape around the city. Despite being a capital, it is a small and unhurried place.

@@ -10,6 +10,8 @@ latitude: 43.608479
 loc_type: city
 longitude: -72.972477
 score: 0.35
+snippet: Green Mountains city with marble-quarry history and practical access to central
+  Vermont skiing.
 title: Rutland
 type: location
 ---

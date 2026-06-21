@@ -8,6 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Woodstock,_Vermont
 - https://www.nps.gov/mabi/
 - https://en.wikipedia.org/wiki/Mount_Tom_(Vermont)
+snippet: "Polished Vermont village where covered bridges, old inns, and wooded hills meet around the green."
 title: Woodstock
 type: location
 score: 0.47

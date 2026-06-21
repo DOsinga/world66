@@ -1,18 +1,27 @@
 ---
-title: Tuscany
-type: location
-latitude: 43.7711
-longitude: 11.2486
 done:
   location_cleanup: 2026-04-05
-score: 0.89
-tier: 1
-tags: [culture, museums, history, food, nature, architecture, hiking]
 image: tuscany.jpg
-image_source: https://commons.wikimedia.org/wiki/File:01665_ITA_Tuscany_Pitigliano_S_from_viewpoint_V-P.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Virtual-Pano
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:01665_ITA_Tuscany_Pitigliano_S_from_viewpoint_V-P.jpg
+latitude: 43.7711
 loc_type: region
+longitude: 11.2486
+score: 0.89
+snippet: Italian Renaissance region of cypress hills, vineyards, medieval towns, and
+  art-heavy cities beyond Florence
+tags:
+- culture
+- museums
+- history
+- food
+- nature
+- architecture
+- hiking
+tier: 1
+title: Tuscany
+type: location
 ---
 
 Tuscany is the region that built the Renaissance and still has the landscape to prove it — rolling hills stitched with cypress rows, vineyards running to the horizon, and hilltop towns that look painted on. It earned its mythic reputation honestly, and the challenge here isn't finding something worth seeing but deciding what to skip.

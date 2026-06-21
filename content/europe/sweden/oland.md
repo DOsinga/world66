@@ -12,6 +12,8 @@ latitude: 56.7816
 loc_type: city
 longitude: 16.6622
 score: 0.45
+snippet: Slender Swedish Baltic island of limestone alvar, windmills, wildflowers,
+  and long summer roads.
 title: Oland
 type: location
 ---

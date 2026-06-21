@@ -10,6 +10,7 @@ latitude: -31.896
 loc_type: city
 longitude: 115.7592
 title: Scarborough
+snippet: Perth beachside suburb built around one of Western Australia's most popular surf beaches.
 type: location
 score: 0.39
 ---

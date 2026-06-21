@@ -10,6 +10,8 @@ latitude: 51.458224
 loc_type: city
 longitude: 7.015817
 score: 0.37
+snippet: Ruhr post-industrial city shaped by coal, steel, Zollverein, and major art
+  collections
 title: Essen
 type: location
 ---

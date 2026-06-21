@@ -9,6 +9,8 @@ latitude: 43.293976
 loc_type: city
 longitude: 17.020242
 score: 0.57
+snippet: Dalmatian Riviera town where Biokovo's limestone wall rises directly behind
+  the harbour.
 title: Makarska
 type: location
 ---

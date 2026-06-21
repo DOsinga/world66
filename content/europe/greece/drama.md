@@ -9,6 +9,7 @@ score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Drama,_Greece
 title: Drama
+snippet: Northeastern Greek city of springs, parks, and Ottoman traces between the Rhodope mountains and Kavala plain.
 type: location
 image: drama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Agia_Varvara_Park_and_Saint_Barbara_Church_in_Drama.jpg

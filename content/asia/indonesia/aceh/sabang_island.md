@@ -10,6 +10,8 @@ latitude: 5.8833
 loc_type: city
 longitude: 95.3167
 score: 0.45
+snippet: Volcanic island town on Pulau Weh, Indonesia's western edge, with colonial
+  traces and reef diving
 title: Sabang Island
 type: location
 ---

@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
 latitude: 45.41807
-longitude: 9.27165
-title: San Donato Milanese
-type: location
-score: 0.26
 loc_type: city
+longitude: 9.27165
+score: 0.26
+snippet: Milan satellite town shaped by ENI's Metanopoli, a postwar experiment in
+  modernist company urbanism.
 sources:
 - https://en.wikipedia.org/wiki/San_Donato_Milanese
 - https://en.wikipedia.org/wiki/Eni
+title: San Donato Milanese
+type: location
 ---
 
 San Donato Milanese is a satellite town about 7 kilometres southeast of Milan, primarily known as the global headquarters of ENI, the Italian energy company. For most visitors it is a stopover rather than a destination — the metro connects to central Milan in 15 minutes, Linate Airport is 5 kilometres north, and the town is correspondingly full of business hotels at reasonable prices. But for anyone interested in mid-century Italian architecture and urban planning, San Donato is genuinely worth a half-day of attention.

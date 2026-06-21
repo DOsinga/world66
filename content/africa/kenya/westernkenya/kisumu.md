@@ -11,6 +11,7 @@ loc_type: city
 longitude: 34.754176
 score: 0.37
 title: Kisumu
+snippet: Western Kenyan city on Lake Victoria, with a lively market and humid lakeside character.
 type: location
 ---
 

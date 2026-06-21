@@ -16,6 +16,8 @@ sources:
 title: Iona National Park
 type: location
 score: 0.29
+snippet: Northern Namib Desert national park of red dunes, gravel plains, and Angola's
+  wild Atlantic edge.
 ---
 
 Iona National Park is Angola's biggest and oldest national park, a vast sweep of northern Namib Desert wedged between the Atlantic, the Curoca River, the Cunene River, and the escarpment that rises towards the interior plateau. It is not a classic easy safari park. It is raw desert travel: red dunes, gravel plains, dry mountains, shipwreck coast, and long distances where self-sufficiency matters.

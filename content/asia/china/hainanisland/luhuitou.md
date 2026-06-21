@@ -10,6 +10,8 @@ latitude: 18.227154
 loc_type: city
 longitude: 109.496275
 score: 0.41
+snippet: Rocky Hainan peninsula near Sanya, named for a Li deer legend and crowned
+  by sunset viewpoints.
 title: Luhuitou
 type: location
 ---

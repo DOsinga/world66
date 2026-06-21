@@ -10,6 +10,8 @@ latitude: 32.394491
 loc_type: city
 longitude: -96.843936
 score: 0.31
+snippet: North Texas cotton town known for Victorian architecture, courthouse square,
+  and film-ready period streetscapes.
 title: Waxahachie
 type: location
 ---

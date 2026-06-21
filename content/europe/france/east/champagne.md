@@ -6,6 +6,7 @@ loc_type: region
 longitude: 4.0
 score: 0.63
 title: Champagne
+snippet: Northeastern French wine region whose chalk soils and cool climate define bottle-fermented Champagne.
 type: location
 ---
 

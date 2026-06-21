@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: -3.459385
+loc_type: region
 longitude: 126.656549
+score: 0.48
+snippet: Indonesian island region of historic Spice Islands, colonial forts, coral
+  reefs, and volcanic Banda landscapes
 title: Maluku
 type: location
-score: 0.48
-loc_type: region
 ---
 
 The beautiful and unspoilt historic Spice Islands of Maluku have great beaches, old forts and good diving.

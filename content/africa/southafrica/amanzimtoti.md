@@ -10,6 +10,8 @@ latitude: -30.049722
 loc_type: city
 longitude: 30.888611
 score: 0.35
+snippet: KwaZulu-Natal coastal town on the Sapphire Coast, with warm Indian Ocean
+  beaches south of Durban.
 title: Amanzimtoti
 type: location
 ---

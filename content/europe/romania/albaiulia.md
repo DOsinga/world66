@@ -9,6 +9,8 @@ latitude: 46.068275
 loc_type: city
 longitude: 23.566476
 score: 0.45
+snippet: Transylvanian city of Romanian unification, centred on the restored star-shaped
+  Alba Carolina Citadel
 title: Alba Iulia
 type: location
 ---

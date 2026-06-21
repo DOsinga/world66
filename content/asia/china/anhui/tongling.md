@@ -13,6 +13,8 @@ sources:
 title: Tongling
 type: location
 score: 0.27
+snippet: Yangtze River copper city in Anhui, shaped by 3,500 years of mining and bronze
+  culture.
 ---
 
 Tongling calls itself the Copper Capital of China, and the claim has real substance: copper has been extracted from the hills around this Yangtze River city for at least 3,500 years, and the mines that operated during the Shang and Zhou dynasties were among the most important bronze production centers in the ancient world. The city grew on that foundation, and even now — with modern industry supplementing the historical mining legacy — the identity holds. There is a good case that no other city in China has a clearer continuous relationship between its modern character and its ancient economy.

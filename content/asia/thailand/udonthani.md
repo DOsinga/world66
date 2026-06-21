@@ -13,6 +13,8 @@ longitude: 102.7878
 score: 0.4
 title: Udon Thani
 type: location
+snippet: Isan city in northeastern Thailand, used as a base for the Bronze Age site
+  of Ban Chiang.
 ---
 
 Udon Thani is a mid-sized city in Thailand's northeastern region of Isan, some 560 kilometres from Bangkok. It rarely makes it into the top-ten lists, but that is part of the appeal — the streets are easy to navigate, the food is excellent and cheap, and the pace of life is genuinely relaxed.

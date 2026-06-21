@@ -10,6 +10,8 @@ latitude: 41.190833
 loc_type: city
 longitude: -76.383333
 score: 0.21
+snippet: Small Pennsylvania borough beside Ricketts Glen, whose Falls Trail links
+  old-growth forest and named waterfalls.
 title: Benton
 type: location
 ---

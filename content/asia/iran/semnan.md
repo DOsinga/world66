@@ -8,6 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Alborz_in_Semnan_Province_
 latitude: 35.5769
 loc_type: city
 longitude: 53.3921
+score: 0.24
+snippet: Workaday Iranian provincial capital on the Tehran-Mashhad corridor, with
+  Qajar gates and old bazaar brickwork.
 sources:
 - https://en.wikipedia.org/wiki/Semnan,_Iran
 - https://en.wikipedia.org/wiki/Jameh_Mosque_of_Semnan
@@ -17,7 +20,6 @@ sources:
 - https://www.toiran.com/index.php/en/city-semnan
 title: Semnan
 type: location
-score: 0.24
 ---
 
 Semnan sits on the old Tehran-Mashhad corridor at the southern foot of the Alborz, where mountain air gives way to the dry edge of the Dasht-e Kavir. It is the provincial capital, but it feels quieter and more workaday than Iran's famous historic cities.

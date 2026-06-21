@@ -10,6 +10,8 @@ latitude: 37.7561
 loc_type: city
 longitude: 26.9773
 score: 0.56
+snippet: Green eastern Aegean island of Muscat vineyards, mountain villages, and ancient
+  links to Pythagoras.
 title: Samos
 type: location
 ---

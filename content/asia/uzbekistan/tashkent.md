@@ -10,8 +10,8 @@ latitude: 41.3123
 loc_type: city
 longitude: 69.2787
 score: 0.45
-snippet: Capital of Uzbekistan rebuilt after a 1966 earthquake into a broad Soviet
-  city with ornate metro stations and a Silk Road bazaar quarter.
+snippet: Uzbek capital rebuilt with Soviet boulevards, decorated metro stations, and
+  pockets of Silk Road history.
 title: Tashkent
 type: location
 ---

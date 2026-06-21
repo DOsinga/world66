@@ -9,6 +9,8 @@ latitude: 48.454
 loc_type: city
 longitude: -2.0477
 score: 0.57
+snippet: Breton medieval town above the River Rance, enclosed by ramparts and half-timbered
+  streets
 title: Dinan
 type: location
 ---

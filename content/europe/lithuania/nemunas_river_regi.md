@@ -1,9 +1,11 @@
 ---
+latitude: 55.05
+loc_type: region
+longitude: 22.0
+snippet: Lower Nemunas river region of castle mounds, forested valleys, and slow roads
+  toward the Baltic
 title: Nemunas River Region
 type: location
-loc_type: region
-latitude: 55.0500
-longitude: 22.0000
 ---
 
 The Nemunas River Region covers the lower reaches of Lithuania's longest river as it curves through low hills, castle mounds, and forested valleys toward the Baltic. This is a quiet part of the country, far from Vilnius and Kaunas, and rewards travelers who are willing to take the slower roads. The landscape is dotted with medieval castle ruins perched on river bends — Raudondvaris, Raudone, and Panemune castles all look down on the Nemunas from commanding positions on the banks.

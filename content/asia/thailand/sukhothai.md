@@ -10,6 +10,8 @@ latitude: 17.0196
 loc_type: city
 longitude: 99.7061
 score: 0.62
+snippet: Thai historic capital where moated temple ruins define the country's first
+  golden age.
 title: Sukhothai
 type: location
 ---

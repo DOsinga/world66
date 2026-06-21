@@ -10,6 +10,8 @@ latitude: 50.812047
 loc_type: city
 longitude: 19.113213
 score: 0.42
+snippet: Polish pilgrimage city dominated by Jasna Góra monastery and the Black Madonna
+  icon.
 title: Częstochowa
 type: location
 ---

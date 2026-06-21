@@ -10,6 +10,8 @@ latitude: 17.9355
 loc_type: city
 longitude: -76.8424
 score: 0.43
+snippet: Kingston Harbour village built on pirate history, sunken earthquake ruins,
+  and Fort Charles.
 title: Port Royal
 type: location
 ---

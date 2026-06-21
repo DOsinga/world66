@@ -9,6 +9,8 @@ latitude: 66.716118
 loc_type: city
 longitude: 27.433353
 score: 0.35
+snippet: Small Finnish Lapland town on Lake Kemijärvi, at the northern end of regular
+  passenger rail.
 title: Kemijärvi
 type: location
 ---

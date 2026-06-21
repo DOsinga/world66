@@ -9,6 +9,8 @@ latitude: 54.544293
 loc_type: city
 longitude: -2.949884
 score: 0.49
+snippet: Ullswater village below Helvellyn, a starting point for Striding Edge and
+  lake steamer trips.
 sources:
 - https://en.wikipedia.org/wiki/Glenridding
 title: Glenridding

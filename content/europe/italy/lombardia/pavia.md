@@ -10,6 +10,8 @@ latitude: 45.1847
 loc_type: city
 longitude: 9.1582
 score: 0.5
+snippet: Lombard university city on the Ticino, with medieval towers, old churches,
+  and the nearby Certosa di Pavia
 title: Pavia
 type: location
 ---

@@ -12,6 +12,7 @@ loc_type: city
 longitude: -49.0661
 score: 0.43
 title: Blumenau
+snippet: Santa Catarina city of deep German heritage, beer halls, and Itajaí-Açu valley industry.
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 32.5486
 loc_type: city
 longitude: 76.0597
 score: 0.48
+snippet: Himachal meadow village near Dalhousie, set around a shallow lake in dense
+  deodar forest.
 title: Khajjiar
 type: location
 ---

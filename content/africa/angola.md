@@ -1,4 +1,5 @@
 ---
+snippet: "Large southwestern African country of Atlantic beaches, high plateaus, and Portuguese colonial traces."
 title: Angola
 type: location
 latitude: -11.2027

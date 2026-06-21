@@ -8,6 +8,8 @@ latitude: 53.7974
 loc_type: city
 longitude: -1.5438
 score: 0.41
+snippet: Northern English city of commerce and universities, with Victorian arcades
+  and broad urban parkland.
 title: Leeds
 type: location
 ---

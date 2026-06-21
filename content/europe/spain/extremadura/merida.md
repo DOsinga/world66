@@ -10,6 +10,8 @@ latitude: 38.9175
 loc_type: city
 longitude: -6.3444
 score: 0.54
+snippet: Quiet Extremaduran capital built over Roman Augusta Emerita, with a theatre,
+  amphitheatre, aqueducts, and Guadiana bridge.
 title: Mérida
 type: location
 ---

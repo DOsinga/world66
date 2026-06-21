@@ -9,6 +9,8 @@ latitude: -25.53453
 loc_type: city
 longitude: -48.310747
 score: 0.5
+snippet: Car-free Paraná island of Atlantic Forest, sandy tracks, fishing villages,
+  and an 18th-century Portuguese fort.
 title: Ilha do Mel
 type: location
 ---

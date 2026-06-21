@@ -6,6 +6,8 @@ latitude: 37.594036
 loc_type: city
 longitude: 61.839793
 score: 0.24
+snippet: Southern Turkmenistan city and main gateway to the UNESCO-listed Silk Road
+  ruins of Merv.
 title: Mary
 type: location
 ---

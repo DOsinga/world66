@@ -10,6 +10,8 @@ latitude: 42.2173
 loc_type: city
 longitude: -73.8646
 score: 0.39
+snippet: Hudson River village and gateway to the Catskill Mountains, tied to Thomas
+  Cole's landscape painting.
 title: Catskill
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 54.193
 loc_type: city
 longitude: 37.6175
 score: 0.31
+snippet: Old Russian city south of Moscow, associated with Tolstoy, samovars, weapons,
+  and gingerbread.
 title: Tula
 type: location
 ---

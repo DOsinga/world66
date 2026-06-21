@@ -7,6 +7,7 @@ loc_type: city
 longitude: -118.195671
 score: 0.52
 title: Revelstoke
+snippet: Columbia Mountains railway town turned ski and hiking base between the Selkirk and Monashee ranges
 type: location
 ---
 

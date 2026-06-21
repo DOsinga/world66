@@ -7,6 +7,7 @@ latitude: 57.5375
 loc_type: city
 longitude: -2.4641
 score: 0.31
+snippet: Small Aberdeenshire market town known for its agricultural show and nearby northeast castles.
 title: Turriff
 type: location
 ---

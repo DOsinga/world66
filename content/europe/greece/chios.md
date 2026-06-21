@@ -10,6 +10,8 @@ latitude: 38.375813
 loc_type: city
 longitude: 26.064655
 score: 0.53
+snippet: Eastern Aegean island famous for mastic villages, medieval walls, and a mountainous
+  wooded north
 sources:
 - https://en.wikipedia.org/wiki/Chios
 - https://en.wikipedia.org/wiki/Nea_Moni_of_Chios

@@ -9,6 +9,7 @@ latitude: 43.3183
 loc_type: city
 longitude: -1.9812
 score: 0.71
+snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
 title: San Sebastián
 type: location
 ---

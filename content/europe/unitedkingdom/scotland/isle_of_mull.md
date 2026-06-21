@@ -9,6 +9,7 @@ loc_type: region
 longitude: -5.86206
 score: 0.64
 title: Isle of Mull
+snippet: Hebridean island of sea lochs, basalt cliffs, white-tailed eagles, and Tobermory's painted harbourfront.
 type: location
 ---
 

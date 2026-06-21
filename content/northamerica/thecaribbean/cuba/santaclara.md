@@ -5,6 +5,7 @@ latitude: 22.4069
 loc_type: city
 longitude: -79.9649
 title: Santa Clara
+snippet: Central Cuban university city tied to Che Guevara and the decisive battle of the revolution
 type: location
 image: santaclara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parque_Vidal.jpg

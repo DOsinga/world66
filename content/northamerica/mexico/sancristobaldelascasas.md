@@ -11,6 +11,7 @@ longitude: -92.6368
 sources:
 - https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas
 title: San Cristóbal de las Casas
+snippet: Cool Chiapas highland city of colonial streets, indigenous villages, and enduring Zapatista political memory
 type: location
 score: 0.55
 ---

@@ -10,6 +10,8 @@ latitude: 50.143583
 loc_type: city
 longitude: 14.190522
 score: 0.33
+snippet: Czech village west of Prague, remembered for its 1942 destruction and memorial
+  landscape.
 title: Lidice
 type: location
 ---

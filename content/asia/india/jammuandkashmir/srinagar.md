@@ -11,6 +11,8 @@ latitude: 34.0837
 loc_type: city
 longitude: 74.7973
 score: 0.55
+snippet: Kashmir Valley city of lakes, waterways, Mughal gardens, and carved wooden
+  mosques.
 title: Srinagar
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 35.834359
 loc_type: city
 longitude: 14.45787
 score: 0.43
+snippet: Maltese south-coast village beside the prehistoric Ħaġar Qim and Mnajdra
+  temple complexes.
 title: Qrendi
 type: location
 ---

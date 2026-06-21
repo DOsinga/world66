@@ -10,6 +10,8 @@ latitude: 5.406501
 loc_type: city
 longitude: 100.255908
 score: 0.62
+snippet: Malaysian island state off the northwest coast, linked to the mainland by
+  long bridges.
 title: Penang
 type: location
 ---

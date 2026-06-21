@@ -5,6 +5,8 @@ latitude: -8.6574
 loc_type: region
 longitude: 121.0794
 score: 0.65
+snippet: Volcanic Indonesian island of Catholic villages, coloured crater lakes, Komodo
+  dragons, and rugged mountain roads.
 title: Flores
 type: location
 ---

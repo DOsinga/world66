@@ -6,6 +6,8 @@ latitude: 29.285413
 loc_type: city
 longitude: -81.055792
 score: 0.37
+snippet: Florida Atlantic coast town north of Daytona, historically known as the Birthplace
+  of Speed.
 sources:
 - https://en.wikipedia.org/wiki/The_Casements
 - https://en.wikipedia.org/wiki/Tomoka_State_Park

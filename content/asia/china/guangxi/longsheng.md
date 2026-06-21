@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: longsheng.jpg
+image_attribution: chensiyuan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg
 latitude: 25.8093
 loc_type: city
 longitude: 110.1524
+score: 0.5
+snippet: Guangxi town used as a base for the Dragon's Backbone Rice Terraces and minority
+  villages.
 sources:
 - https://en.wikivoyage.org/wiki/Longsheng
 title: Longsheng
 type: location
-image: longsheng.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg
-image_license: CC BY-SA 4.0
-image_attribution: chensiyuan
-score: 0.5
 ---
 
 Longsheng is the town most visitors use as a base for the [Dragon's Backbone Rice Terraces](/asia/china/guangxi/longsheng/dragon_backbone_terraces) — a system of cascading paddies carved into steep mountain slopes by the Zhuang and Yao minorities over several centuries. The terraces are genuinely spectacular, particularly in late May when the flooded fields catch the sky and create reflections that compound the dizzying geometry of the hillsides. The name comes from the pattern they make: from the high viewpoints the terraces do look like scales on a dragon's back.

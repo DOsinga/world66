@@ -10,6 +10,8 @@ latitude: 40.3469
 loc_type: city
 longitude: 14.9966
 score: 0.49
+snippet: Cilento coast town where a Byzantine promontory fortress guards Campania's
+  southern shoreline
 title: Agropoli
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 38.32007
 loc_type: city
 longitude: 23.317561
 score: 0.37
+snippet: Boeotian town on ancient Thebes, carrying more mythological weight than its
+  modern streets suggest
 title: Thiva
 type: location
 ---

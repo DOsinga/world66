@@ -6,6 +6,8 @@ latitude: 45.4654
 loc_type: region
 longitude: 9.1859
 score: 0.56
+snippet: Northern Italian region of Milan, Alpine lakes, and Po Valley cities shaped
+  by art and industry.
 title: Lombardia
 type: location
 ---

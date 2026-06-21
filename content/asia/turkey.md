@@ -9,16 +9,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Serhio_Magpie" tit
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bodrum_Castle_(2017).jpg
 latitude: 39.0
+loc_type: country
 longitude: 35.0
+quick_facts:
+  Continents Spanned: 2 (Europe and Asia)
+  Daily Tea Consumption: Highest per capita in the world
+  Driving Side: Right
+  Population: 85 million
 score: 0.93
+snippet: Eurasian country where Ottoman cities, Aegean ruins, Cappadocian valleys,
+  and Anatolian plateaus meet.
 title: Turkey
 type: location
-quick_facts:
-  Population: "85 million"
-  Driving Side: Right
-  Continents Spanned: "2 (Europe and Asia)"
-  Daily Tea Consumption: Highest per capita in the world
-loc_type: country
 ---
 
 Turkey — or Türkiye, as it has officially styled itself internationally since 2022 — is one of the most rewarding countries to travel in. It sits at the intersection of Europe and Asia, and that geographical fact plays out in everything: the food, the architecture, the people's self-understanding, the politics. You can stand on the Bosphorus in [Istanbul](/asia/turkey/istanbul) and watch tankers cross from one continent to the other. The effect never quite wears off.

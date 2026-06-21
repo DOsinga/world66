@@ -4,11 +4,13 @@ done:
 latitude: 29.717
 loc_type: city
 longitude: 113.9
+score: 0.23
+snippet: Yangtze river city named for the Red Cliffs, battlefield of the Three Kingdoms
+  era
 sources:
 - https://en.wikivoyage.org/wiki/Hubei
 title: Chibi
 type: location
-score: 0.23
 ---
 
 Chibi — "Red Cliffs" — takes its name from the rocky bluffs on the Yangtze where one of the decisive battles of Chinese history was fought in the winter of 208–209 CE. Cao Cao, the chancellor of the declining Han dynasty, had unified the north and moved south with a fleet estimated at hundreds of thousands of men. The combined forces of Sun Quan and Liu Bei, vastly outnumbered, used fire ships driven by a favourable wind to destroy the northern fleet. The defeat halted the reunification of China for sixty years and established the three-way division — Wei, Shu, Han, Eastern Wu — that the Three Kingdoms period is named for. The battle has had an extraordinary afterlife in Chinese culture, appearing in the fourteenth-century novel Romance of the Three Kingdoms and in John Woo's 2008 film Red Cliff, among hundreds of other adaptations.

@@ -6,6 +6,8 @@ image_license: CC BY-SA 3.0 de
 image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Pisa.jpg
 latitude: 43.471472
 loc_type: city
+snippet: Tuscan Arno city of marble Romanesque monuments, maritime-republic history,
+  and the Leaning Tower
 longitude: 10.679791
 score: 0.61
 title: Pisa

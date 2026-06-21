@@ -10,6 +10,7 @@ latitude: -36.8521
 loc_type: city
 longitude: 174.7632
 score: 0.58
+snippet: New Zealand harbour city spread across volcanic cones between the Waitemata and Manukau harbours.
 sources:
 - https://en.wikipedia.org/wiki/Auckland
 - https://en.wikipedia.org/wiki/Sky_Tower_(Auckland)

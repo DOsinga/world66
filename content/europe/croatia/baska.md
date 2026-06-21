@@ -10,6 +10,7 @@ latitude: 44.970933
 loc_type: city
 longitude: 14.750801
 score: 0.53
+snippet: Adriatic resort town on Krk, set around Vela Plaža and the culturally vital Baška Tablet.
 title: Baška
 type: location
 ---

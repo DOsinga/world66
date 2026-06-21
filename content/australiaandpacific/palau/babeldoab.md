@@ -10,6 +10,8 @@ latitude: 7.5
 loc_type: city
 longitude: 134.58
 score: 0.46
+snippet: Palau's largest island, mostly rainforest and coastal villages, with the
+  national capital at Melekeok.
 title: Babeldaob
 type: location
 ---

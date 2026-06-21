@@ -10,6 +10,8 @@ latitude: 44.5265
 loc_type: city
 longitude: -69.887
 score: 0.37
+snippet: Central Maine lake district centred on Great Pond, Long Pond, and a classic
+  summer village.
 title: Belgrade Lakes
 type: location
 ---

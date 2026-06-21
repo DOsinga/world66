@@ -11,6 +11,8 @@ latitude: 4.8133
 loc_type: city
 longitude: -75.6961
 score: 0.4
+snippet: Coffee Triangle city in the western Andes, warm, commercial, and ringed by
+  green mountain slopes.
 title: Pereira
 type: location
 ---

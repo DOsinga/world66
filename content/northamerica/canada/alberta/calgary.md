@@ -12,6 +12,8 @@ latitude: 51.045606
 loc_type: city
 longitude: -114.057541
 score: 0.44
+snippet: Alberta city where prairie meets Rockies foothills, known for the Bow River
+  and Calgary Stampede.
 title: Calgary
 type: location
 ---

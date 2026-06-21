@@ -10,6 +10,8 @@ latitude: 50.876553
 loc_type: city
 longitude: 12.083267
 score: 0.31
+snippet: Thuringian city known for Otto Dix, with a strong collection of German Expressionist
+  art
 sources:
 - https://en.wikipedia.org/wiki/Gera
 - https://en.wikipedia.org/wiki/Otto-Dix-Haus

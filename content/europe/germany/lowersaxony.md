@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 52.839853
+loc_type: region
 longitude: 9.075962
 score: 0.4
+snippet: Northern German state of coastal marshes, Lüneburg Heath, Harz mountains,
+  and Hannover trade fairs.
 title: Lower Saxony
 type: location
-loc_type: region
 ---
 
 Lower Saxony (*Niedersachsen*) is Germany's second-largest state by area — 47,000 square kilometres stretching from the North Sea in the north to the Harz mountains in the south, and from the Dutch border in the west to the Elbe in the east. Flatlands dominate: the coastal marshes, the Lüneburg Heath, the moors of the Emsland. The only real mountains are the forested Harz in the south, which hold Germany's most northerly ski slopes and the iconic Brocken.

@@ -12,6 +12,8 @@ latitude: 42.5987
 loc_type: city
 longitude: -5.5671
 score: 0.53
+snippet: Castilian city on the Camino de Santiago, known for its cathedral, Roman
+  walls, and tapas quarter.
 title: León
 type: location
 ---

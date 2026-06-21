@@ -1,22 +1,24 @@
 ---
-title: Norfolk Island
-type: location
-latitude: -29.032804
-longitude: 167.948314
-image: norfolkisland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Old_boat_-_Norfolk_Island.jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Pjmonline2000&amp;action=edit&amp;redlink=1"
-  class="new" title="User:Pjmonline2000 (page does not exist)">Peter James McNally</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "~2,200"
-  Currency: Australian Dollar
-  Bounty Mutineer Descendants: Most of the population
-  Phone Book: World's only one listing nicknames
-score: 0.34
+image: norfolkisland.jpg
+image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Pjmonline2000&amp;action=edit&amp;redlink=1"
+  class="new" title="User:Pjmonline2000 (page does not exist)">Peter James McNally</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Old_boat_-_Norfolk_Island.jpg
+latitude: -29.032804
 loc_type: country
+longitude: 167.948314
+quick_facts:
+  Bounty Mutineer Descendants: Most of the population
+  Currency: Australian Dollar
+  Phone Book: World's only one listing nicknames
+  Population: ~2,200
+score: 0.34
+snippet: Remote Pacific island of convict ruins and Bounty descendants on the Norfolk
+  Ridge.
+title: Norfolk Island
+type: location
 ---
 
 Norfolk island was virtually uninhabited when, in 1774, Captain James Cook fell across it. If you see how small the island is and how big the Ocean around, you understand that a bit of luck was involved, even if you take into account that Cook was a great explorer.

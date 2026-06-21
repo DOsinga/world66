@@ -10,6 +10,8 @@ latitude: 45.539894
 loc_type: city
 longitude: 13.65939
 score: 0.45
+snippet: Slovenian Adriatic fishing town with bilingual streets, a lived-in harbour,
+  and an old island core.
 title: Izola
 type: location
 ---

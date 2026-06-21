@@ -11,6 +11,8 @@ latitude: 44.4361
 loc_type: city
 longitude: 26.1027
 score: 0.48
+snippet: Romanian capital of Belle Époque mansions, brutalist blocks, and stubborn
+  old-city life around Lipscani.
 title: Bucharest
 type: location
 ---

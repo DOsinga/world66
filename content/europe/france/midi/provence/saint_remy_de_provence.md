@@ -12,6 +12,8 @@ longitude: 4.83175
 score: 0.59
 title: Saint-Rémy-de-Provence
 type: location
+snippet: Provençal town below Les Alpilles, tied to Glanum's Roman ruins and Van Gogh's
+  asylum year.
 ---
 
 Saint-Rémy-de-Provence is a handsome small town at the foot of Les Alpilles, about 40 minutes south of [Avignon](/europe/france/midi/provence/avignon). It is best known for two things: the Roman ruins of [Glanum](/europe/france/midi/provence/saint_remy_de_provence/glanum), just outside town, and the asylum of [Saint-Paul-de-Mausole](/europe/france/midi/provence/saint_remy_de_provence/saint_paul_de_mausole) where Van Gogh spent a year and painted some of his most famous works, including The Starry Night.

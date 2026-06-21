@@ -9,6 +9,8 @@ latitude: 53.2648
 loc_type: city
 longitude: -4.0898
 score: 0.49
+snippet: Welsh seaside town on the Menai Strait, anchored by Edward I's unfinished
+  concentric castle.
 title: Beaumaris
 type: location
 ---

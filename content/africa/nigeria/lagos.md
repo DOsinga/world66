@@ -12,6 +12,8 @@ latitude: 6.455057
 loc_type: city
 longitude: 3.394179
 score: 0.29
+snippet: Nigeria's largest city sprawls across islands and lagoons, with strong music,
+  film, food, and market cultures.
 title: Lagos
 type: location
 ---

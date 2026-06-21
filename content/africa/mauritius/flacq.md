@@ -10,6 +10,8 @@ latitude: -20.221731
 loc_type: city
 longitude: 57.722325
 score: 0.45
+snippet: Mauritian east-coast market town near Belle Mare beach and the lagoon island
+  of Île aux Cerfs
 title: Flacq
 type: location
 ---

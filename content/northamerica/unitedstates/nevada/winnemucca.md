@@ -10,6 +10,8 @@ latitude: 40.9724
 loc_type: city
 longitude: -117.7348
 score: 0.25
+snippet: Northern Nevada ranching and mining town on Interstate 80, distinguished
+  by its Basque community.
 title: Winnemucca
 type: location
 ---

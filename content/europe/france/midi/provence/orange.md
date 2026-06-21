@@ -10,6 +10,8 @@ latitude: 44.137131
 loc_type: city
 longitude: 4.807878
 score: 0.53
+snippet: Provençal city with an intact Roman theatre wall and a triumphal arch beside
+  the old road.
 title: Orange
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 38.540625
 loc_type: city
 longitude: -0.129093
 score: 0.46
+snippet: High-rise Costa Blanca beach resort with two broad sandy bays and a wintering
+  northern European crowd
 title: Benidorm
 type: location
 ---

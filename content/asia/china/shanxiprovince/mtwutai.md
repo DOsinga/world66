@@ -10,6 +10,8 @@ latitude: 39.037334
 loc_type: feature
 longitude: 113.489871
 score: 0.52
+snippet: Sacred Buddhist mountain in Shanxi, ringed by five terraces and crowded with
+  centuries-old temple complexes
 title: Mt. Wutai
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 43.0941
 loc_type: city
 longitude: -0.0465
 score: 0.51
+snippet: Pyrenean pilgrimage town centred on Bernadette Soubirous's grotto and the
+  spring at the Gave de Pau.
 sources:
 - https://en.wikipedia.org/wiki/Lourdes
 - https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Lourdes

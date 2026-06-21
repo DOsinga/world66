@@ -10,6 +10,8 @@ latitude: 16.7323
 loc_type: city
 longitude: 48.6085
 score: 0.14
+snippet: Eastern Yemeni wadi region of limestone canyons and mud-brick tower cities
+  like Shibam.
 title: Hadramawt
 type: location
 ---

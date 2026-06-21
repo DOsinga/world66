@@ -10,6 +10,8 @@ latitude: 40.936704
 loc_type: city
 longitude: -87.150856
 score: 0.19
+snippet: Small northern Indiana county town with a courthouse square, Carnegie library,
+  and unhurried Main Street.
 title: Rensselaer, Indiana
 type: location
 ---

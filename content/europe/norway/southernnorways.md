@@ -7,6 +7,7 @@ title: Southern Norway (Sorlandet)
 type: location
 score: 0.6
 loc_type: region
+snippet: "Southern Norwegian coastal region of mild islands, fishing towns, beaches, and forested lake country."
 ---
 
 You might call it Norway's Riviera. The region occupying the southern coast, known as Sorlandet, benefits from the mildest climate in the country. It is a charming collection of old fishing villages and beach towns strewn along a sunny coastline of islands, coves, and archipelagos. Whether strolling along the beaches, sailing on the fjords, or hiking and fishing in the forested interior, Sorlandet is Norway at its most relaxed.

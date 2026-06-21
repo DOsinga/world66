@@ -9,6 +9,8 @@ latitude: 53.682954
 loc_type: city
 longitude: -1.496729
 score: 0.34
+snippet: Northern English city reinvented around art, from The Hepworth Wakefield
+  to nearby Yorkshire Sculpture Park.
 title: Wakefield
 type: location
 ---

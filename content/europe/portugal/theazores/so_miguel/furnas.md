@@ -11,6 +11,8 @@ longitude: -25.3133
 score: 0.55
 title: Furnas
 type: location
+snippet: São Miguel volcanic town of steaming fumaroles, lake-shore cozido pits, and
+  lush botanical gardens.
 ---
 
 Furnas is a small town in the volcanic interior of [São Miguel](/europe/portugal/theazores/so_miguel), with two main draws: the volcanic activity and the botanical garden.

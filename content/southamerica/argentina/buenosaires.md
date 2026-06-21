@@ -11,6 +11,8 @@ latitude: -34.609558
 loc_type: city
 longitude: -58.38879
 score: 0.64
+snippet: Argentine capital known for European-influenced architecture, tango culture,
+  and distinctive neighbourhoods.
 title: Buenos Aires
 type: location
 ---

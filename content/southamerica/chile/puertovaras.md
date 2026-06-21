@@ -9,6 +9,7 @@ latitude: -41.317802
 loc_type: city
 longitude: -72.982907
 score: 0.52
+snippet: "Chilean Lake District town with German-colonial houses and views across Llanquihue to Volcán Osorno."
 title: Puerto Varas
 type: location
 ---

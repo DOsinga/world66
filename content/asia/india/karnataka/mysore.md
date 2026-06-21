@@ -10,6 +10,8 @@ latitude: 12.2958
 loc_type: city
 longitude: 76.6394
 score: 0.58
+snippet: Royal Karnataka city of palaces, markets, silk, sandalwood, festivals, and
+  Wodeyar-era boulevards.
 title: Mysore
 type: location
 ---

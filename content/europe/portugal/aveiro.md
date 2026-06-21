@@ -9,6 +9,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:AveiroCanal2.jpg
 latitude: 40.6405
 loc_type: city
+snippet: Portuguese lagoon city of canals, moliceiro boats, Art Nouveau facades, and sweet ovos moles.
 longitude: -8.6538
 score: 0.54
 title: Aveiro

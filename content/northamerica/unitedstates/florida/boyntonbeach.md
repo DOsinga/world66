@@ -6,6 +6,8 @@ latitude: 26.5289
 loc_type: city
 longitude: -80.0581
 score: 0.31
+snippet: Southeast Florida beach city where the Gulf Stream brings drift-diving close
+  to shore.
 title: Boynton Beach
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 31.5639
 loc_type: city
 longitude: -7.6623
 score: 0.28
+snippet: Berber market town southeast of Marrakesh, where the Ouarzazate road starts
+  climbing toward Tizi n'Tichka.
 title: Ait Ourir
 type: location
 ---

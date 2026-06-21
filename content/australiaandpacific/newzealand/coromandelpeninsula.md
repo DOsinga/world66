@@ -2,17 +2,19 @@
 country: New Zealand
 done:
   wikitravel_coverage: '2026-06-05'
+image: coromandelpeninsula.jpg
+image_attribution: Stigm~commonswiki
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Coromandel_Waikawau_Bay.JPG
 latitude: -36.833
 loc_type: region
 longitude: 175.7
+snippet: North Island peninsula of bushy ranges, gold-rush towns, geothermal beaches,
+  and Pacific surf coves
 sources:
 - https://en.wikipedia.org/wiki/Coromandel_Peninsula
 title: Coromandel Peninsula
 type: location
-image: coromandelpeninsula.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Coromandel_Waikawau_Bay.JPG
-image_license: CC BY 2.5
-image_attribution: Stigm~commonswiki
 ---
 
 The Coromandel Peninsula stretches 85 kilometres north from the Bay of Plenty into the Hauraki Gulf, forming a rugged spine of bush-covered hills that drops steeply to the sea on both sides. The western shore faces the calm waters of the Firth of Thames; the eastern coast faces the Pacific, and this is where the best beaches are. The peninsula is close enough to Auckland — less than two hours' drive from the city — that it functions as the escape valve for half the North Island.

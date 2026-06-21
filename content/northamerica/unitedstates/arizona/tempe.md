@@ -10,6 +10,8 @@ latitude: 33.4255
 loc_type: city
 longitude: -111.94
 score: 0.32
+snippet: Phoenix-area university city where Arizona State, Mill Avenue, and Tempe
+  Town Lake define downtown life
 title: Tempe
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 36.4438
 loc_type: city
 longitude: 28.2274
 score: 0.66
+snippet: Walled medieval island city where Knights of St. John streets still shape
+  a living Old Town.
 title: Rhodes City
 type: location
 ---

@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-07'
 latitude: 1.4298
 longitude: 114.741
+snippet: "Indonesian Borneo region of rainforests, river journeys, and Dayak longhouse country beyond the usual routes."
 title: Kalimantan
 type: location
 score: 0.44

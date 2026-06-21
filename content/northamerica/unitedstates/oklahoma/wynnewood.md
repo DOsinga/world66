@@ -7,6 +7,7 @@ loc_type: city
 longitude: -97.164
 score: 0.21
 title: Wynnewood
+snippet: "Small south-central Oklahoma town near the Arbuckle Mountains, known from the Tiger King exotic animal park."
 type: location
 ---
 

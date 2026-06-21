@@ -10,6 +10,7 @@ latitude: 16.278813
 loc_type: city
 longitude: -0.041239
 score: 0.2
+snippet: Niger River city in Mali's Sahel, once a capital of the Songhai Empire.
 title: Gao
 type: location
 ---

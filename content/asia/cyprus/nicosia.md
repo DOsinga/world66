@@ -12,6 +12,8 @@ latitude: 35.17465
 loc_type: city
 longitude: 33.363878
 score: 0.47
+snippet: Divided Cypriot capital where Greek and Turkish quarters meet across the
+  Green Line inside Venetian walls.
 title: Nicosia
 type: location
 ---

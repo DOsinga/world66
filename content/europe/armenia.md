@@ -8,16 +8,18 @@ image_attribution: Andrew Behesnilian (<a href="//commons.wikimedia.org/wiki/Use
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Khor_Virap_Monastery_and_Mount_Ararat,_Armenia.jpg
 latitude: 40.769627
+loc_type: country
 longitude: 44.673665
 quick_facts:
-  Population: "2.8 million"
-  Religion: "97% Armenian Apostolic Christian"
-  First Christian Nation: "Adopted in 301 AD"
-  Chess: "Compulsory school subject since 2011"
+  Chess: Compulsory school subject since 2011
+  First Christian Nation: Adopted in 301 AD
+  Population: 2.8 million
+  Religion: 97% Armenian Apostolic Christian
 score: 0.69
+snippet: Landlocked South Caucasus country dense with ancient monasteries, volcanic
+  mountains, and early Christian history.
 title: Armenia
 type: location
-loc_type: country
 ---
 
 Armenia is one of the oldest Christian nations on earth, a small landlocked country in the South Caucasus wedged between Turkey, Georgia, Azerbaijan, and Iran. It is compact — you can cross the whole country in a few hours — but remarkably dense with ancient monasteries, Roman-era temples, medieval fortresses, volcanic mountains, and one of the largest alpine lakes in the world.

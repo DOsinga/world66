@@ -10,6 +10,8 @@ latitude: 21.028333
 loc_type: city
 longitude: 105.854041
 score: 0.65
+snippet: Vietnamese capital with an Old Quarter of trade streets, ancient temples,
+  French villas, and Hoàn Kiếm Lake.
 title: Hanoi
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 45.464194
 loc_type: city
 longitude: 9.189635
 score: 0.6
+snippet: Northern Italian business and fashion capital where the Duomo anchors a city
+  of Renaissance art and design.
 title: Milan
 type: location
 ---

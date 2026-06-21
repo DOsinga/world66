@@ -7,6 +7,7 @@ title: Assur
 type: location
 score: 0.28
 loc_type: city
+snippet: "Ancient Assyrian city above the Tigris, once the empire's first capital and sacred center of Ashur."
 ---
 
 Assur (also written Ashur) was the first capital of the Assyrian empire and the religious center of Assyrian civilization for over two thousand years. The site lies on a rocky promontory above the west bank of the Tigris, about 100 km south of Mosul. It is a UNESCO World Heritage Site.

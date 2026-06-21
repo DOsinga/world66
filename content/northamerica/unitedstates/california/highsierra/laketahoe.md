@@ -9,6 +9,8 @@ latitude: 39.088541
 loc_type: city
 longitude: -120.050353
 score: 0.59
+snippet: High Sierra alpine lake straddling California and Nevada, famous for cobalt
+  water and mountain resorts.
 title: Lake Tahoe
 type: location
 ---

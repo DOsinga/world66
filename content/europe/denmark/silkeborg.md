@@ -10,6 +10,7 @@ latitude: 56.169453
 loc_type: city
 longitude: 9.549514
 score: 0.45
+snippet: Danish lake-district town in central Jutland, linked by the Gudenå and the Hjejlen paddle steamer.
 title: Silkeborg
 type: location
 ---

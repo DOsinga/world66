@@ -5,6 +5,8 @@ score: 0.23
 title: Crawley
 type: location
 loc_type: city
+snippet: West Sussex New Town beside Gatwick, with a surviving medieval High Street
+  under the airport economy
 done:
   location_enrich: '2026-05-30'
 sources:

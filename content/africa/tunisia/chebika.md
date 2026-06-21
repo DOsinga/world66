@@ -6,6 +6,8 @@ latitude: 34.2167
 loc_type: city
 longitude: 7.9667
 score: 0.47
+snippet: Western Tunisian mountain oasis where springs feed palms beneath rust-coloured
+  Atlas foothills.
 sources:
 - https://en.wikipedia.org/wiki/Chebika
 title: Chebika

@@ -10,6 +10,8 @@ latitude: 61.481959
 loc_type: city
 longitude: -6.746296
 score: 0.38
+snippet: Small east-coast village on Suðuroy, with old turf-roofed buildings and views
+  across the fjord.
 title: Porkeri
 type: location
 ---

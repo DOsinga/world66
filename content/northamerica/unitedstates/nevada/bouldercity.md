@@ -10,6 +10,8 @@ latitude: 35.9788
 loc_type: city
 longitude: -114.8338
 score: 0.4
+snippet: Nevada dam town built for Hoover Dam workers, with historic downtown streets
+  and no casino gambling.
 title: Boulder City
 type: location
 ---

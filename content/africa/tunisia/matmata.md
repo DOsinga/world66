@@ -10,6 +10,8 @@ latitude: 33.5087
 loc_type: city
 longitude: 9.9786
 score: 0.46
+snippet: Southern Tunisian Berber town of troglodyte courtyard homes carved into ochre
+  earth.
 title: Matmata
 type: location
 ---

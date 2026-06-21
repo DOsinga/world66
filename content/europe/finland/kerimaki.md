@@ -10,6 +10,8 @@ latitude: 61.912084
 loc_type: city
 longitude: 29.281483
 score: 0.34
+snippet: Finnish lakeland village near Savonlinna, home to the vast wooden Kerimäki
+  Church.
 title: Kerimaki
 type: location
 ---

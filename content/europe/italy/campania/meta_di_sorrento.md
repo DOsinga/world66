@@ -9,6 +9,8 @@ latitude: 40.621538
 loc_type: city
 longitude: 14.422194
 score: 0.55
+snippet: Quieter Sorrentine Peninsula town with rail links to Sorrento and one of
+  the area's few sandy beaches.
 title: Meta di Sorrento
 type: location
 ---

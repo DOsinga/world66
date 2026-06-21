@@ -10,6 +10,8 @@ latitude: 36.448
 loc_type: city
 longitude: 74.9006
 score: 0.37
+snippet: Upper Hunza mountain village beside the Karakoram Highway, known for its
+  precarious suspension bridge.
 title: Hussaini
 type: location
 ---

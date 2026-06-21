@@ -6,6 +6,7 @@ latitude: 52.220985
 loc_type: city
 longitude: 6.894054
 score: 0.33
+snippet: Dutch university city in Twente, centred on the Oude Markt and rebuilt Roombeek neighbourhood.
 title: Enschede
 type: location
 ---

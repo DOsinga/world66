@@ -10,6 +10,8 @@ latitude: 50.7516
 loc_type: city
 longitude: 2.2534
 score: 0.38
+snippet: Northern French market town beside the marais audomarois, a canal wetland
+  of working vegetable gardens
 title: St. Omer
 type: location
 ---

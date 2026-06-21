@@ -10,6 +10,8 @@ latitude: 42.929683
 loc_type: city
 longitude: 17.448626
 score: 0.47
+snippet: Tiny Pelješac harbour village with clear Adriatic water, family konobas,
+  and nearby Dingač vineyards.
 title: Drače
 type: location
 ---

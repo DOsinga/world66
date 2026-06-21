@@ -5,6 +5,8 @@ latitude: 39.174843
 loc_type: region
 longitude: -6.152989
 score: 0.54
+snippet: Western Spanish region of dehesa woodlands, Roman Mérida, medieval Cáceres,
+  and rural landscapes.
 title: Extremadura
 type: location
 ---

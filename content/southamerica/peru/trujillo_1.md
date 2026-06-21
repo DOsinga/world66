@@ -9,6 +9,8 @@ latitude: -8.1117
 loc_type: city
 longitude: -79.0288
 score: 0.47
+snippet: Northern Peruvian city surrounded by major archaeological sites, including
+  Chan Chan and Huaca de la Luna.
 title: Trujillo
 type: location
 ---

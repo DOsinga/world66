@@ -6,6 +6,8 @@ latitude: 57.046263
 loc_type: city
 longitude: 9.921526
 score: 0.47
+snippet: Limfjord city in northern Jutland where Viking graves and modern waterfront
+  culture sit close together.
 title: Aalborg
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 37.560034
 loc_type: city
 longitude: -122.268852
 score: 0.26
+snippet: Planned Bay Area lagoon city built on tidal marsh, with waterfront trails
+  and suburban calm.
 title: Foster City
 type: location
 ---

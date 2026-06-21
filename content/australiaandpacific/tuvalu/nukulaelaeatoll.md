@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -9.40437
+loc_type: feature
 longitude: 179.852169
+score: 0.31
+snippet: Remote Tuvaluan coral atoll of tiny lagoon islets, reached only by infrequent
+  inter-island ships.
 title: Nukulaelae atoll
 type: location
-score: 0.31
-loc_type: feature
 ---
 
 Nukulaelae is a small coral atoll in the southern part of [Tuvalu](/australiaandpacific/tuvalu), about 130 kilometres south of the capital Funafuti. The atoll consists of a ring of islets around a shallow lagoon, with a total land area of barely a third of a square kilometre. A few hundred people live here, mostly on the main islet of Fangaua.

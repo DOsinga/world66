@@ -6,6 +6,8 @@ latitude: 35.8238
 loc_type: city
 longitude: 127.1473
 score: 0.43
+snippet: South Korean city known for bibimbap and a preserved Hanok Village of traditional
+  tile-roofed houses.
 title: Chonju
 type: location
 ---

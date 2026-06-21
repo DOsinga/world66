@@ -6,6 +6,8 @@ latitude: 10.970036
 loc_type: city
 longitude: -1.101674
 score: 0.36
+snippet: Upper East Ghana border town known for sacred crocodile ponds and Kassena
+  painted houses.
 title: Paga
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 40.9507
 loc_type: city
 longitude: 117.9567
 score: 0.49
+snippet: Former Qing summer capital in the Yanshan mountains, centred on imperial
+  gardens and outlying temples.
 title: Chengde
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 49.9783
 loc_type: city
 longitude: 7.9208
 score: 0.51
+snippet: Rheingau wine town on the Rhine, centred on taverns, castles, and Romantic-era
+  river scenery.
 sources:
 - https://en.wikipedia.org/wiki/R%C3%BCdesheim_am_Rhein
 title: Rüdesheim

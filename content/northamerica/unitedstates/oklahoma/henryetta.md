@@ -10,6 +10,8 @@ latitude: 35.439662
 loc_type: city
 longitude: -95.986514
 score: 0.22
+snippet: East-central Oklahoma city shaped by coal and oil, with unpretentious downtown
+  streets and Troy Aikman hometown lore
 title: Henryetta
 type: location
 ---

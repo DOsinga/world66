@@ -10,6 +10,7 @@ latitude: 28.2916
 loc_type: region
 longitude: -16.6291
 score: 0.72
+snippet: Volcanic Canary Island dominated by Mount Teide, split between lush northern valleys and sun-baked south.
 title: Tenerife
 type: location
 ---

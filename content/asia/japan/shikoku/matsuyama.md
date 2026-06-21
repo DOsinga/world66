@@ -10,6 +10,7 @@ latitude: 33.8395
 loc_type: city
 longitude: 132.7654
 score: 0.58
+snippet: Shikoku city of an original feudal castle, Dogo Onsen baths, and haiku heritage.
 sources:
 - https://en.wikipedia.org/wiki/Matsuyama
 title: Matsuyama

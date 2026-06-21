@@ -10,6 +10,8 @@ latitude: 23.216164
 loc_type: city
 longitude: 56.515355
 score: 0.27
+snippet: Old Omani caravan town in Ad Dhahirah, with a fort, local souq, and nearby
+  Bronze Age tombs
 title: Ibri
 type: location
 ---

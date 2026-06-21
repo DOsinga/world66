@@ -10,6 +10,8 @@ latitude: 34.366377
 loc_type: city
 longitude: -89.518766
 score: 0.33
+snippet: Literary Mississippi college town shaped by William Faulkner, Rowan Oak,
+  and the courthouse square.
 title: Oxford
 type: location
 ---

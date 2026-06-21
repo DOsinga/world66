@@ -6,6 +6,8 @@ latitude: 39.672741
 loc_type: city
 longitude: 44.913874
 score: 0.17
+snippet: Nakhchivan border town near Armenia and Turkey, marked by its fortress and
+  frontier railway history
 title: Sadarak
 type: location
 ---

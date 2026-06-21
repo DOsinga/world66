@@ -6,6 +6,8 @@ latitude: 40.0652
 loc_type: city
 longitude: 4.0128
 score: 0.53
+snippet: Menorcan fishing village on a sheltered bay known for watersports and caldereta
+  de llagosta.
 title: Fornells
 type: location
 ---

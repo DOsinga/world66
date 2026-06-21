@@ -5,6 +5,8 @@ latitude: 37.7463
 loc_type: region
 longitude: -25.6629
 score: 0.74
+snippet: Remote Portuguese Atlantic archipelago of volcanic islands, crater lakes,
+  hot springs, and whale waters.
 title: The Azores
 type: location
 ---

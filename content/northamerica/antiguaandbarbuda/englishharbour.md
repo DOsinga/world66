@@ -10,6 +10,7 @@ loc_type: city
 longitude: -61.7649
 score: 0.57
 title: English Harbour
+snippet: Historic Antiguan port centred on Nelson's Dockyard, a working Georgian naval base turned yachting harbour.
 type: location
 ---
 

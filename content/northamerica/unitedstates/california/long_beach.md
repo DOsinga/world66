@@ -10,6 +10,8 @@ latitude: 33.769
 loc_type: city
 longitude: -118.1916
 score: 0.41
+snippet: Southern California port city with its own waterfront life, anchored by the
+  Queen Mary and Aquarium of the Pacific.
 sources:
 - https://en.wikipedia.org/wiki/Long_Beach,_California
 title: Long Beach

@@ -10,6 +10,8 @@ latitude: 51.905994
 loc_type: city
 longitude: 10.426628
 score: 0.52
+snippet: Harz imperial town built on Rammelsberg silver, with a preserved old centre
+  and Romanesque palace.
 title: Goslar
 type: location
 ---

@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_Villages_in_Southe
 latitude: 30.0036
 loc_type: city
 longitude: 117.9817
+score: 0.54
+snippet: Ancient Anhui village whose whitewashed houses and Moon Pond form a classic
+  Hui landscape.
 sources:
 - https://en.wikivoyage.org/wiki/Hongcun
 title: Hongcun
 type: location
-score: 0.54
 ---
 
 Hongcun is the more photographed of southern Anhui's two UNESCO-listed ancient villages, and the reason is immediately apparent: the [Moon Pond](/asia/china/anhui/hongcun/moon_pond) at the village entrance, with its mirror reflection of whitewashed walls and ink-dark roofs, is one of the most composed natural photographs in China. The village appeared in Ang Lee's Crouching Tiger, Hidden Dragon and has been the subject of innumerable landscape paintings by the art students who descend on it in spring and autumn, easels set up along the pond bank.

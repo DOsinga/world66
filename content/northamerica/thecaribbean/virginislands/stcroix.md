@@ -2,14 +2,16 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-28'
+image: stcroix.jpg
+image_attribution: Jason P. Heym (Jpheym)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Christiansted,_US_Virgin_Islands,_from_Recovery_Hill.jpg
 loc_type: city
 score: 0.53
+snippet: Largest US Virgin Island, with Danish colonial towns and quietly strong Caribbean
+  diving.
 title: St. Croix
 type: location
-image: stcroix.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Christiansted,_US_Virgin_Islands,_from_Recovery_Hill.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Jason P. Heym (Jpheym)
 ---
 
 St. Croix is the largest of the US Virgin Islands, and the most historically layered. Where St. Thomas runs on tourism and St. John on eco-credentials, St. Croix has a quieter confidence — colonial architecture, working towns, and some of the best diving in the Caribbean without the crowds.

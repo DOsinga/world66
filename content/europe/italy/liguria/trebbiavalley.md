@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-22'
 latitude: 44.549
 loc_type: region
+snippet: Ligurian Apennine valley outside Genoa, threaded by the Trebbia River and
+  old pilgrimage villages
 longitude: 9.217
 score: 0.55
 sources:

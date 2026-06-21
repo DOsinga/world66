@@ -7,6 +7,7 @@ longitude: 110.4896
 sources:
 - https://en.wikivoyage.org/wiki/Shenmu
 title: Shenmu
+snippet: "Northern Shaanxi coal city near the vast Neolithic walled settlement of Shimao."
 type: location
 image: shenmu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shenmu,_Yulin,_Shaanxi,_China_-_panoramio_(2).jpg

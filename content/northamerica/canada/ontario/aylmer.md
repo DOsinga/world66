@@ -10,6 +10,8 @@ latitude: 42.7732
 loc_type: city
 longitude: -80.9837
 score: 0.29
+snippet: Southwestern Ontario farm town with a Victorian main street, near Long Point
+  bird migration and Lake Erie beaches.
 title: Aylmer
 type: location
 ---

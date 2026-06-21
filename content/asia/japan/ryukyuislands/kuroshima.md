@@ -10,6 +10,8 @@ latitude: 24.237325
 loc_type: city
 longitude: 124.011877
 score: 0.46
+snippet: Flat Yaeyama coral island nicknamed Cow Island, with pastures, quiet beaches,
+  and nesting turtles.
 title: Kuroshima
 type: location
 ---

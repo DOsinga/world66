@@ -9,6 +9,8 @@ latitude: 14.6958
 loc_type: city
 longitude: -91.2719
 score: 0.55
+snippet: Lake Atitlán pueblo below Volcán San Pedro, blending Tz’utujil Maya life
+  with Spanish schools.
 title: San Pedro la Laguna
 type: location
 ---

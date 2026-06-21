@@ -11,6 +11,7 @@ loc_type: city
 longitude: -1.2989
 score: 0.27
 title: Warsash
+snippet: River Hamble sailing village with maritime training, mudflats, and a foot ferry to Hamble-le-Rice.
 type: location
 ---
 

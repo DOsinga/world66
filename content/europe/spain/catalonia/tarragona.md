@@ -10,6 +10,7 @@ latitude: 41.117236
 loc_type: city
 longitude: 1.254606
 score: 0.56
+snippet: Costa Daurada city above the sea, rich in Roman remains from ancient Tarraco.
 title: Tarragona
 type: location
 ---

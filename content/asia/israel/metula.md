@@ -6,6 +6,8 @@ latitude: 33.269214
 loc_type: city
 longitude: 35.572338
 score: 0.3
+snippet: Upper Galilee border town on a northern ridge, with waterfall trails and
+  views toward Mount Hermon.
 title: Metula
 type: location
 ---

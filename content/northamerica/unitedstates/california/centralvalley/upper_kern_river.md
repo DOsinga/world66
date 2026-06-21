@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 35.999282
 longitude: -118.478468
+snippet: "Sierra Nevada whitewater canyon above Lake Isabella, where snowmelt feeds the Upper Kern River."
 title: Upper Kern River
 type: location
 score: 0.4

@@ -7,6 +7,8 @@ latitude: 52.093751
 loc_type: city
 longitude: 23.685185
 score: 0.33
+snippet: Belarusian border city on the Bug River, anchored by Brest Fortress and nearby
+  primeval forest
 title: Brest
 type: location
 ---

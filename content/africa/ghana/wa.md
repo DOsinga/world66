@@ -12,6 +12,7 @@ image: wa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palace_Pillas_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: DeanClericuzio
+snippet: Regional capital in Ghana's northern savanna known for Sudanese-style mud-brick palaces and mosques.
 ---
 
 Wa is the capital of [Ghana](/africa/ghana)'s Upper West Region, a quiet town in the dry northern savanna that few travelers ever reach. The pace here is unhurried, the people are welcoming, and the streets have a dusty, sun-baked charm that feels a world away from the bustle of Accra or Kumasi. What draws the eye is the mud-brick architecture — [Wa Naa's Palace](/africa/ghana/wa/wa_naas_palace) and several traditional mosques built in the Sudanese style, with their thick earthen walls and tapered buttresses. It is a place where Islam and traditional culture sit comfortably side by side, and the muezzin's call drifts over compounds where elders share stories in the shade.

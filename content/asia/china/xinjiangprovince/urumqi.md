@@ -10,6 +10,8 @@ latitude: 43.8244
 loc_type: city
 longitude: 87.6139
 score: 0.37
+snippet: Xinjiang capital and inland crossroads city of Uyghur bazaars, Han boulevards,
+  and Tianshan day trips
 title: Ürümqi
 type: location
 ---

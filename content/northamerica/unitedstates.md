@@ -14,6 +14,8 @@ quick_facts:
   Population: 335 million
   Time Zones: 6 (continental + Alaska/Hawaii)
 score: 0.95
+snippet: Vast federal country of big coastal cities, national parks, highways, and
+  landscapes stretching from Atlantic to Pacific.
 title: United States
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 50.1109
 loc_type: city
 longitude: 8.6821
 score: 0.48
+snippet: Major German city on the Main, combining a financial skyline with museums,
+  opera, and nightlife.
 title: Frankfurt
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 57.72597
 loc_type: city
 longitude: 10.58446
 score: 0.53
+snippet: Northern Danish town where two seas meet and nineteenth-century painters
+  chased the coastal light.
 title: Skagen
 type: location
 ---

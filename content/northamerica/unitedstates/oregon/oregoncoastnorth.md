@@ -4,6 +4,7 @@ type: location
 loc_type: region
 latitude: 45.8
 longitude: -123.97
+snippet: Northern Oregon coast region of sea stacks, sandy beaches, headlands, and towns like Cannon Beach.
 ---
 
 The northern Oregon coast runs from the Columbia River south to Lincoln City, a stretch of dramatic headlands, hidden coves, and long sandy beaches backed by the Coast Range. The weather is reliably unpredictable — fog rolls in off the Pacific without warning, and even summer days can turn grey and cold — but that is part of the appeal. The landscape is at its most spectacular when the weather is rough: waves pounding the sea stacks, spray over the headlands, deserted beaches as far as you can see in either direction.

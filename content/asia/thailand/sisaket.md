@@ -1,5 +1,6 @@
 ---
 title: Sisaket
+snippet: "Isan provincial capital near Cambodia, used as a base for Khmer ruins and Khao Phra Viharn."
 type: location
 loc_type: city
 latitude: 15.1167

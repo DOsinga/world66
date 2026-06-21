@@ -8,6 +8,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Panja_Sahib.jpg
 latitude: 33.816874
 loc_type: city
+snippet: Historic Pakistani town west of Rawalpindi, home to the Sikh shrine of Gurdwara Panja Sahib.
 longitude: 72.68572
 score: 0.28
 title: Hassan Abdal

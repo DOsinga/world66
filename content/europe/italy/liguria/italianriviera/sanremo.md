@@ -10,6 +10,8 @@ latitude: 43.8198
 loc_type: city
 longitude: 7.7749
 score: 0.53
+snippet: Italian Riviera resort town with Belle Époque hotels, palm promenades, a
+  casino, and the Sanremo Music Festival.
 sources:
 - https://en.wikipedia.org/wiki/Sanremo
 - https://en.wikipedia.org/wiki/Sanremo_Music_Festival

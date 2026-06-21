@@ -8,6 +8,8 @@ latitude: 10.47
 loc_type: region
 longitude: 123.83
 score: 0.66
+snippet: Long Visayan island and historic Spanish Philippines centre, with Cebu City
+  and white-sand islands nearby.
 title: Cebu
 type: location
 ---

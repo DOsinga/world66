@@ -10,6 +10,8 @@ latitude: 51.932463
 loc_type: city
 longitude: -8.568097
 score: 0.51
+snippet: Irish village outside Cork built around Blarney Castle, its famous stone,
+  and unexpectedly extensive gardens.
 title: Blarney
 type: location
 ---

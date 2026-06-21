@@ -7,6 +7,8 @@ latitude: 14.689
 loc_type: region
 longitude: -91.2008
 score: 0.68
+snippet: Volcanic highland lake ringed by Tolimán, Atitlán, San Pedro, and Maya villages
+  on its shores.
 title: Lake Atitlán
 type: location
 ---

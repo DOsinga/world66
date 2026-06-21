@@ -10,6 +10,8 @@ latitude: 43.7217
 loc_type: city
 longitude: 7.3563
 score: 0.57
+snippet: Low-key Côte d'Azur seaside village below Èze, with a pebble beach and direct
+  coastal trains.
 title: Eze-bord-de-mer
 type: location
 ---

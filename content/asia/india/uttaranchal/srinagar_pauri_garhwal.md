@@ -12,6 +12,7 @@ loc_type: city
 longitude: 78.7708
 score: 0.33
 title: Srinagar (Pauri Garhwal)
+snippet: Garhwal foothill town on the Alaknanda River, serving the Badrinath pilgrim route and university life
 type: location
 ---
 

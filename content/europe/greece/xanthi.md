@@ -10,6 +10,8 @@ latitude: 41.1381
 loc_type: city
 longitude: 24.8864
 score: 0.44
+snippet: Thracian university town with Ottoman mansions, tobacco-boom lanes, and a
+  strong Muslim minority.
 title: Xanthi
 type: location
 ---

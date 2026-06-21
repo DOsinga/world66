@@ -8,6 +8,7 @@ longitude: -57.1675
 score: 0.28
 title: Concepción
 type: location
+snippet: Frontier town on the Río Paraguay, traditionally used as a departure point for upstream river journeys.
 ---
 
 Concepción is an attractive frontier town on the [Río Paraguay](/southamerica/paraguay/concepcion/rio_paraguay_riverfront) in northern [Paraguay](/southamerica/paraguay). It is not really worth a detour in itself, but it is the traditional departure point for river journeys heading upstream toward [the Pantanal](/southamerica/paraguay/concepcion/pantanal_day_trips) of [Brazil](/southamerica/brazil).

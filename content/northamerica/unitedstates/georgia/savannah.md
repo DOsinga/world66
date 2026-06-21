@@ -9,6 +9,7 @@ loc_type: city
 longitude: -81.092134
 score: 0.57
 title: Savannah
+snippet: Historic Southern port city of shaded squares, live oaks, and intact nineteenth-century townhouses
 type: location
 ---
 

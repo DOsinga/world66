@@ -9,6 +9,8 @@ latitude: 49.18134
 loc_type: city
 longitude: -0.363561
 score: 0.52
+snippet: Normandy university city founded around William the Conqueror's castle and
+  two great medieval abbeys.
 title: Caen
 type: location
 ---

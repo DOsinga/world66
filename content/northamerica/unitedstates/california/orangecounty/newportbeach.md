@@ -10,6 +10,8 @@ latitude: 33.617009
 loc_type: city
 longitude: -117.92944
 score: 0.45
+snippet: Southern California beach city built around a large harbour, Balboa Peninsula,
+  and oceanfront boardwalks.
 title: Newport Beach
 type: location
 ---

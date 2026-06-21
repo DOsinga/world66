@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Monticello,_Utah
 title: Monticello
 type: location
+snippet: "Southeastern Utah town below the Abajo Mountains, used as a base for nearby canyon country."
 ---
 
 Monticello is a small town in southeastern Utah, about 50 miles south of [Moab](/northamerica/unitedstates/utah/moab) at the junction of US-191 and US-491 (formerly the notorious US-666). It's a useful stopping point in canyon country, with basic motels, gas stations, and restaurants, and the landscape all around it is stunning.

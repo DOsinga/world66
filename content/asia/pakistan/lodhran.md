@@ -8,6 +8,7 @@ longitude: 71.6344
 score: 0.18
 title: Lodhran
 type: location
+snippet: Southern Punjab district town near the Sutlej River, set in Pakistan's cotton belt.
 ---
 
 Lodhran is a small district town in southern Punjab, Pakistan, sitting near the Sutlej River in the heart of the cotton belt. It's a working agricultural town rather than a tourist destination — the surrounding district is known for cotton, wheat, and handicrafts.

@@ -9,6 +9,8 @@ latitude: 22.819399
 loc_type: city
 longitude: 108.314917
 score: 0.36
+snippet: Guangxi capital near Vietnam, a subtropical Green City used as a relaxed
+  southern China base.
 title: Nanning
 type: location
 ---

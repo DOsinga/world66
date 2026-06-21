@@ -11,6 +11,7 @@ loc_type: city
 longitude: -97.397835
 score: 0.33
 title: Tehuacan
+snippet: Puebla valley city known for mineral water and the cactus-rich Tehuacán-Cuicatlán landscape.
 type: location
 ---
 

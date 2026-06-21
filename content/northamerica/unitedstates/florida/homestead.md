@@ -12,6 +12,7 @@ longitude: -80.47599
 score: 0.34
 title: Homestead
 type: location
+snippet: "Homestead is a South Florida gateway town between Everglades and Biscayne national parks."
 ---
 
 Homestead is the last real town before the road runs out at the tip of the Florida peninsula. It sits between two national parks — [Everglades National Park](/northamerica/unitedstates/florida/evergladesnationalpark) to the west and [Biscayne National Park](/northamerica/unitedstates/florida/homestead/biscayne_national_park) to the east — and most visitors pass through on their way to one or the other.

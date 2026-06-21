@@ -3,11 +3,13 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
 latitude: -5.711312
+loc_type: region
 longitude: -78.817177
 score: 0.29
+snippet: Peruvian province around Jaén, ranging from hot river valleys to cooler mountain
+  towns.
 title: Jaén (province)
 type: location
-loc_type: region
 ---
 
 The province of Jaén is very diverse, from the hustle and bustle of steamy hot capital Jaén, its refreshing or ice cold rivers, to the isolated cool mountain towns like [Santa Rosa](/southamerica/peru/northern_pacific_t/jan/santa_rosa). Climates differ as much in rainfall as in temperature. Close to the Andean peaks on road to [Chiclayo](/southamerica/peru/chiclayo) it’s pretty dry, while the cloud forests of Huamantanga hardly ever see a day without rain.

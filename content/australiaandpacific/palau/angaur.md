@@ -10,6 +10,8 @@ latitude: 6.015599
 loc_type: city
 longitude: 133.632646
 score: 0.43
+snippet: Small southern Palauan island with World War II remnants, strong-current
+  reefs, and a quiet local population.
 title: Angaur
 type: location
 ---

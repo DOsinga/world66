@@ -9,6 +9,8 @@ latitude: 41.2371
 loc_type: city
 longitude: 1.8118
 score: 0.58
+snippet: Catalan seaside resort near Barcelona, shaped by modernista artists, whitewashed
+  lanes, and long sandy beaches.
 title: Sitges
 type: location
 ---

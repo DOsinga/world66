@@ -11,6 +11,8 @@ latitude: 50.8792
 loc_type: city
 longitude: 4.7012
 score: 0.51
+snippet: Belgian university city shaped by KU Leuven, medieval streets, and a large
+  student population.
 title: Leuven
 type: location
 ---

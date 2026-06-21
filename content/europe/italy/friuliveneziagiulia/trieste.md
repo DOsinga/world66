@@ -11,6 +11,8 @@ latitude: 45.649648
 loc_type: city
 longitude: 13.777278
 score: 0.54
+snippet: Adriatic port city where Italian, Slovenian, and Habsburg cultures meet under
+  the Carso plateau.
 title: Trieste
 type: location
 ---

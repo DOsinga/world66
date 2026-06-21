@@ -12,6 +12,7 @@ longitude: 100.559078
 score: 0.49
 title: Pangkor islands
 type: location
+snippet: Small Malaysian island near Lumut, with west-coast beaches, fishing villages, and Dutch trading history.
 ---
 
 Pangkor is a small island about 90 minutes by ferry from Lumut on the west coast of Malaysia, just south of [Ipoh](/asia/malaysia/ipoh). It sits in the sheltered Strait of Malacca, which has historically made it a significant waypoint for everyone from Dutch spice traders to pirates to holidaying Malaysians. Today it is best known for good beaches, fresh seafood, and a pace of life considerably slower than the mainland.

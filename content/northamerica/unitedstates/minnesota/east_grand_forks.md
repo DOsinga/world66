@@ -10,6 +10,8 @@ latitude: 47.931701
 loc_type: city
 longitude: -97.017579
 score: 0.23
+snippet: Red River city opposite Grand Forks, reshaped by flood recovery into greenways
+  and riverfront parks
 title: East Grand Forks
 type: location
 ---

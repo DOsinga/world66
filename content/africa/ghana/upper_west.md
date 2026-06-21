@@ -4,6 +4,7 @@ done:
 latitude: 10.366953
 longitude: -2.092143
 title: Upper West
+snippet: Less-travelled Ghanaian region of Wa, lively northern markets, and pito bars near the Burkina Faso border.
 type: location
 score: 0.31
 loc_type: region

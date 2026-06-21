@@ -10,6 +10,8 @@ latitude: 38.424
 loc_type: city
 longitude: 15.899
 score: 0.25
+snippet: Calabrian Tyrrhenian port city on ancient Metauros, dominated by a major
+  Mediterranean container terminal
 title: Gioia Tauro
 type: location
 ---

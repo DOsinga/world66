@@ -9,6 +9,8 @@ latitude: 50.352412
 loc_type: city
 longitude: 5.456248
 score: 0.48
+snippet: Tiny Ardennes city on the Ourthe, with a medieval core and forested hills
+  for kayaking
 title: Durbuy
 type: location
 ---

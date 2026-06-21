@@ -10,6 +10,8 @@ latitude: 46.36842
 loc_type: city
 longitude: 14.11006
 score: 0.71
+snippet: Alpine lake resort with a cliffside castle, island church, and Julian Alps
+  backdrop.
 title: Bled
 type: location
 ---

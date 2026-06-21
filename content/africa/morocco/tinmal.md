@@ -13,6 +13,7 @@ score: 0.41
 sources:
 - https://en.wikipedia.org/wiki/Tinmal_Mosque
 - https://en.wikipedia.org/wiki/Tinmel
+snippet: High Atlas historic site where the Almohad movement began, centred on the roofless Tinmal Mosque.
 title: Tin Mal
 type: location
 ---

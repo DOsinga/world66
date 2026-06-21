@@ -12,6 +12,8 @@ latitude: 33.3316
 loc_type: city
 longitude: -105.6731
 score: 0.42
+snippet: Southern New Mexico mountain resort in the Sacramento Mountains, edged by
+  Lincoln National Forest.
 title: Ruidoso
 type: location
 ---

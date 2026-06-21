@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Adams_The_Tetons_and_the_S
 latitude: 43.8333
 loc_type: feature
 longitude: -110.7008
+score: 0.65
+snippet: Wyoming national park where the Teton Range rises abruptly above lakes, sagebrush,
+  and the Jackson Hole valley.
 sources:
 - https://en.wikipedia.org/wiki/Grand_Teton_National_Park
 - https://en.wikipedia.org/wiki/Teton_Range
 title: Grand Teton
 type: location
-score: 0.65
 ---
 
 Grand Teton is the sharp-edged counterpoint to [Yellowstone](/northamerica/unitedstates/wyoming/yellowstone). Where Yellowstone sprawls around geysers, forests, and volcanic plateaus, Grand Teton rises abruptly from the valley floor in one of the cleanest mountain skylines in North America. The range looks almost theatrical: no foothills, just water, sagebrush, and granite.

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 45.130701
+loc_type: region
 longitude: -79.383961
+score: 0.53
+snippet: Ontario cottage country of granite shores, pine forests, and more than 1,600
+  lakes north of Toronto.
 title: Muskoka
 type: location
-score: 0.53
-loc_type: region
 ---
 
 Travel Guide

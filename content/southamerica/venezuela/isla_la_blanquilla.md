@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 11.85
+loc_type: feature
 longitude: -64.6167
+score: 0.33
+snippet: Remote uninhabited Venezuelan island of white beaches, shallow reefs, and
+  clear Caribbean water.
 title: Isla la Blanquilla
 type: location
-score: 0.33
-loc_type: feature
 ---
 
 La Blanquilla is a remote, uninhabited island off the northeastern coast of Venezuela — one of the most pristine in the Caribbean. The name comes from its startlingly white beaches: powdery sugar sand with almost no current, crystal-clear water, and shallow reefs teeming with marine life. It's a favourite destination for Venezuelan sailors and divers who want the Caribbean without the crowds.

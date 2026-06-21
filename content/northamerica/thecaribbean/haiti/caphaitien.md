@@ -12,6 +12,8 @@ latitude: 19.7572
 loc_type: city
 longitude: -72.2041
 score: 0.36
+snippet: Northern Haitian port city with colonial streets, visual art, and access
+  to Citadelle Laferrière.
 title: Cap-Haïtien
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 6.0
 loc_type: city
 longitude: 169.583333
 score: 0.37
+snippet: Marshall Islands atoll with German and Japanese colonial remains scattered
+  across its southern islets.
 title: Jaluit Atoll
 type: location
 ---

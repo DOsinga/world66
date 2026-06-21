@@ -10,6 +10,8 @@ latitude: 35.179303
 loc_type: city
 longitude: 33.902493
 score: 0.41
+snippet: Ancient Cypriot city with sprawling Greek and Roman ruins set in sandy scrub
+  north of Famagusta
 title: Salamis
 type: location
 ---

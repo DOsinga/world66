@@ -6,6 +6,8 @@ latitude: 21.623077
 loc_type: city
 longitude: 87.508253
 score: 0.33
+snippet: Bay of Bengal seaside resort in West Bengal, known for broad hard-sand beaches
+  near Kolkata.
 title: Digha
 type: location
 ---

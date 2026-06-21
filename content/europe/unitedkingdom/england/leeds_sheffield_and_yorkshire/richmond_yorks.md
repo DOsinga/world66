@@ -10,6 +10,8 @@ latitude: 54.4049
 loc_type: city
 longitude: -1.738
 score: 0.4
+snippet: Historic Swaledale market town above the River Swale, dominated by an 11th-century
+  Norman castle.
 title: Richmond
 type: location
 ---

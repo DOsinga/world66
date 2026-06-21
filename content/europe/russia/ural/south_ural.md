@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 54.256939
+loc_type: region
 longitude: 57.950404
+score: 0.26
+snippet: Southern Ural mountain region of industrial cities, birch forests, lakes,
+  and rafting rivers
 title: South Ural
 type: location
-score: 0.26
-loc_type: region
 ---
 
 The South Ural is the southernmost stretch of the Ural Mountains, where the range tapers down from its rugged northern heights into rolling, forested hills before meeting the Kazakh steppe. The landscape here is a mix of industrial cities, mountain lakes, dense birch and pine forests, and rivers good for rafting.

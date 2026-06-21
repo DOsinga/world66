@@ -1,5 +1,6 @@
 ---
 title: Mountain Areas
+snippet: High mountain territory of northern Pakistan where the Karakoram, Himalaya, and Hindu Kush meet.
 type: location
 loc_type: region
 latitude: 35.8000

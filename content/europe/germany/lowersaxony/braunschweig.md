@@ -6,6 +6,8 @@ latitude: 52.264658
 loc_type: city
 longitude: 10.523607
 score: 0.38
+snippet: Lower Saxony city and former Welf ducal seat, centred on Burgplatz and Henry
+  the Lion's legacy.
 title: Braunschweig
 type: location
 ---

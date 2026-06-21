@@ -8,6 +8,8 @@ latitude: 38.0739
 loc_type: city
 longitude: 46.2979
 score: 0.41
+snippet: Northwestern Iranian city of Azeri culture, Silk Road trade, and a vast covered
+  bazaar.
 title: Tabriz
 type: location
 ---

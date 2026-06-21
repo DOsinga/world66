@@ -10,6 +10,8 @@ latitude: 30.733442
 loc_type: city
 longitude: 76.779714
 score: 0.41
+snippet: Planned Indian city shaped by Le Corbusier's sectors, plazas, and monumental
+  Capitol Complex
 title: Chandigarh
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 10.086996
 loc_type: city
 longitude: 77.060091
 score: 0.55
+snippet: Kerala hill station wrapped in high tea plantations and cool Western Ghats
+  cloud.
 sources:
 - https://en.wikipedia.org/wiki/Munnar
 - https://en.wikipedia.org/wiki/Eravikulam_National_Park

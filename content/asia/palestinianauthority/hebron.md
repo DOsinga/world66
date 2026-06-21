@@ -10,6 +10,8 @@ latitude: 31.532569
 loc_type: city
 longitude: 35.099825
 score: 0.27
+snippet: Ancient West Bank city centred on the Cave of the Patriarchs and a lively
+  old-city souq.
 title: Hebron
 type: location
 ---

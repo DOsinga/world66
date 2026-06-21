@@ -10,6 +10,8 @@ latitude: 22.5694
 loc_type: city
 longitude: 59.5297
 score: 0.46
+snippet: Omani lagoon port where traditional dhow builders keep the town's Indian
+  Ocean seafaring history visible.
 title: Sur
 type: location
 ---

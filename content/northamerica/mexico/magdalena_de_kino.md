@@ -10,6 +10,8 @@ latitude: 30.6269
 loc_type: city
 longitude: -110.9615
 score: 0.28
+snippet: Sonoran mission city where Padre Kino's crypt anchors a plaza of pilgrimage
+  and political memory
 title: Magdalena de Kino
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 41.930202
 loc_type: city
 longitude: 2.254594
 score: 0.44
+snippet: Catalan cathedral city with a porticoed market square and a rich Romanesque
+  art collection.
 title: Vic
 type: location
 ---

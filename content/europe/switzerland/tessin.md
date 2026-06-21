@@ -6,6 +6,8 @@ latitude: 46.335191
 loc_type: region
 longitude: 8.75259
 score: 0.53
+snippet: Italian-speaking Swiss canton south of the Gotthard Pass, with lakeside palms
+  and Alpine valleys.
 sources:
 - https://www.myswitzerland.com/en-ch/destinations/ticino/
 - https://www.ticino.ch/en/travel-inspirations/top-10-ticino.html

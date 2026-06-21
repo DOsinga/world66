@@ -9,6 +9,8 @@ latitude: 39.0053
 loc_type: city
 longitude: 67.1135
 score: 0.47
+snippet: Uzbek town where Tamerlane was born, centred on the colossal ruins of his
+  Ak-Saray Palace.
 title: Shakhrisabz
 type: location
 ---

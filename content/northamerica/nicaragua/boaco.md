@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-05'
+image: boaco.jpg
+image_attribution: Ivan del Jesus
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Boaco_at_night.jpg
 latitude: 12.4722
 loc_type: city
 longitude: -85.6586
 score: 0.29
+snippet: Nicaraguan hill city of two levels, overlooking cattle country northeast
+  of Managua
 sources:
 - https://en.wikipedia.org/wiki/Boaco
 title: Boaco
 type: location
-image: boaco.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Boaco_at_night.jpg
-image_license: CC BY 2.0
-image_attribution: Ivan del Jesus
 ---
 
 Boaco sits about 90 km northeast of Managua, a hill town that has grown from a quiet mountaintop community into the bustling capital of the Department of Boaco. The city spreads down the flanks of its mountain and out into the surrounding cattle country — it calls itself "La Ciudad de Dos Pisos" (the City of Two Floors) for the way it occupies two distinct levels of the same hillside.

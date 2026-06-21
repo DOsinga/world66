@@ -8,6 +8,8 @@ latitude: 39.422519
 loc_type: region
 longitude: -111.714358
 score: 0.78
+snippet: Western U.S. state of red-rock national parks and a history shaped by Mormon
+  settlement.
 title: Utah
 type: location
 ---

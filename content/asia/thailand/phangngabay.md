@@ -10,6 +10,8 @@ latitude: 8.291667
 loc_type: city
 longitude: 98.552773
 score: 0.7
+snippet: Karst-filled marine bay between Phuket and Krabi, known for limestone towers
+  and hidden hongs.
 title: Phang Nga Bay
 type: location
 ---

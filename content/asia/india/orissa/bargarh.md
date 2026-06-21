@@ -10,6 +10,8 @@ latitude: 21.3347
 loc_type: city
 longitude: 83.6198
 score: 0.24
+snippet: Western Odisha town associated with Sambalpuri handloom weaving and the vast
+  open-air Dhanu Jatra festival
 title: Bargarh
 type: location
 ---

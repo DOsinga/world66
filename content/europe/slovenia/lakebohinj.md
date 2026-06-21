@@ -10,6 +10,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Bohinj.jpg
 latitude: 46.282265
 loc_type: city
+snippet: Julian Alps lake beneath Triglav, quieter than Bled and ringed by forests, peaks, and walking trails.
 longitude: 13.864531
 score: 0.61
 title: Lake Bohinj

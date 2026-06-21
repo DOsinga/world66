@@ -9,6 +9,8 @@ latitude: 15.8693
 loc_type: city
 longitude: -97.0726
 score: 0.55
+snippet: Oaxacan Pacific surf town where Playa Zicatela's heavy waves meet sheltered
+  coves and lagoon trips.
 title: Puerto Escondido
 type: location
 ---

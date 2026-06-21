@@ -10,6 +10,8 @@ latitude: 32.924726
 loc_type: city
 longitude: 73.719388
 score: 0.26
+snippet: Punjabi river city near Alexander's Hydaspes battlefield and the monumental
+  walls of Rohtas Fort.
 title: Jhelum
 type: location
 ---

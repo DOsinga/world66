@@ -10,6 +10,8 @@ latitude: 43.269784
 loc_type: city
 longitude: 10.59727
 score: 0.45
+snippet: Medieval Tuscan hill village above the Tyrrhenian coast, paired with a quieter
+  pine-backed beach resort.
 title: Bibbona
 type: location
 ---

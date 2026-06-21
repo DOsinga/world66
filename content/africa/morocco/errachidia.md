@@ -8,6 +8,8 @@ latitude: 31.929089
 loc_type: city
 longitude: -4.434081
 score: 0.38
+snippet: Eastern Moroccan garrison town on the Sahara edge, gateway to the Ziz Valley
+  and desert roads beyond
 title: Errachidia
 type: location
 ---

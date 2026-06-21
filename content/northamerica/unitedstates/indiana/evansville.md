@@ -10,6 +10,8 @@ latitude: 37.970495
 loc_type: city
 longitude: -87.571564
 score: 0.29
+snippet: Ohio River city in southwestern Indiana, with riverfront architecture and
+  the nearby Angel Mounds site.
 title: Evansville
 type: location
 ---

@@ -10,6 +10,7 @@ longitude: 2.1454
 sources:
 - https://en.wikipedia.org/wiki/Albi
 - https://en.wikivoyage.org/wiki/Albi
+snippet: "Tarn river city of red-brick Gothic power, anchored by Sainte-Cécile Cathedral and Toulouse-Lautrec's legacy."
 title: Albi
 type: location
 score: 0.55

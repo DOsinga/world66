@@ -8,6 +8,8 @@ latitude: 45.890028
 loc_type: city
 longitude: -123.961862
 score: 0.56
+snippet: Northern Oregon coast town where broad sand and forested headlands frame
+  Haystack Rock
 title: Cannon Beach
 type: location
 ---

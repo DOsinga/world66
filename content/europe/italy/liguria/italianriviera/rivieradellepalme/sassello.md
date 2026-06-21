@@ -9,6 +9,8 @@ latitude: 44.478969
 loc_type: city
 longitude: 8.490171
 score: 0.38
+snippet: Ligurian Apennine hill town known for soft amaretti and wooded Beigua Park
+  valleys.
 title: Sassello
 type: location
 ---

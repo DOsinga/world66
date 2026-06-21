@@ -10,6 +10,8 @@ latitude: 5.961412
 loc_type: city
 longitude: 10.151651
 score: 0.31
+snippet: Anglophone Cameroonian highland city, surrounded by tea hills, crater lakes,
+  and traditional chiefdom palaces
 title: Bamenda
 type: location
 ---

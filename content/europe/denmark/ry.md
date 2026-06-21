@@ -6,6 +6,8 @@ latitude: 56.088356
 loc_type: city
 longitude: 9.771875
 score: 0.4
+snippet: Danish lake town in Søhøjlandet, where the Gudenå, forested hills, and paddle
+  steamers meet near Himmelbjerget.
 title: Ry
 type: location
 ---

@@ -12,6 +12,7 @@ latitude: 30.5928
 loc_type: city
 longitude: 114.3055
 score: 0.38
+snippet: "Major Yangtze port city formed from Wuchang, Hankou, and Hanyang, with Yellow Crane Tower as its symbol."
 title: Wuhan
 type: location
 ---

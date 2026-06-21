@@ -11,6 +11,7 @@ loc_type: city
 longitude: 11.064066
 score: 0.51
 title: Oberammergau
+snippet: Bavarian Alpine village known for its ten-year Passion Play and painted Lüftlmalerei facades.
 type: location
 ---
 

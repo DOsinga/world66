@@ -11,6 +11,8 @@ latitude: 45.786
 loc_type: city
 longitude: 11.913
 score: 0.54
+snippet: Veneto hill town of cypress-framed horizons, artistic exiles, and Queen Caterina
+  Cornaro's court.
 title: Asolo
 type: location
 ---

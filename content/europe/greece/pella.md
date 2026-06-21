@@ -10,6 +10,8 @@ latitude: 40.760408
 loc_type: city
 longitude: 22.527112
 score: 0.44
+snippet: Ancient Macedonian capital and birthplace of Alexander the Great, with palace
+  ruins and exceptional pebble mosaics.
 title: Pella
 type: location
 ---

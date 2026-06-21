@@ -10,6 +10,8 @@ latitude: 17.9248
 loc_type: city
 longitude: -87.9714
 score: 0.59
+snippet: Belize's largest caye, centred on San Pedro and reef access at Hol Chan Marine
+  Reserve.
 title: Ambergris Caye
 type: location
 ---

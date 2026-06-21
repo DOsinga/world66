@@ -10,6 +10,8 @@ latitude: 41.031601
 loc_type: city
 longitude: 21.330251
 score: 0.43
+snippet: Pelagonia valley city with Ottoman boulevards, Heraclea mosaics, and North
+  Macedonia's relaxed urban elegance.
 title: Bitola
 type: location
 ---

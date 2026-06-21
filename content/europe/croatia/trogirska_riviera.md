@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 43.5167
+loc_type: region
 longitude: 16.25
+score: 0.64
+snippet: Dalmatian coast region around Trogir, with indented shorelines, pine-backed
+  coves, and Čiovo beaches.
 title: Trogirska Riviera
 type: location
-score: 0.64
-loc_type: region
 ---
 
 The Trogir Riviera stretches along one of the most indented sections of the Dalmatian coast, centred on the UNESCO-listed town of [Trogir](/europe/croatia/trogir). The coastline alternates between rocky capes and sheltered inlets with pebble and sandy beaches, backed by pine forests.

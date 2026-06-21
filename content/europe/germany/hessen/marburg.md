@@ -9,6 +9,8 @@ latitude: 50.809
 loc_type: city
 longitude: 8.7704
 score: 0.47
+snippet: Hessian university town of steep half-timbered lanes climbing from the Lahn
+  to a castle.
 title: Marburg
 type: location
 ---

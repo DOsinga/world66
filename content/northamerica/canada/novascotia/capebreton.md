@@ -10,6 +10,8 @@ latitude: 46.295
 loc_type: city
 longitude: -60.9361
 score: 0.5
+snippet: Nova Scotia island known for the Cabot Trail, highland scenery, and strong
+  Gaelic and Acadian culture.
 title: Cape Breton
 type: location
 ---

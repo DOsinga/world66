@@ -8,6 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bosaso,_Somalia.jpg
 latitude: 11.002615
 loc_type: city
+snippet: Puntland port city on the Gulf of Aden, backed by escarpment mountains and a busy commercial harbour.
 longitude: 49.410723
 score: 0.11
 title: Bossaso

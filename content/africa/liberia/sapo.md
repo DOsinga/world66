@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Zwergflusspferd_-_Pygmy_Hi
 latitude: 5.4167
 loc_type: feature
 longitude: -8.7167
+score: 0.31
+snippet: Liberia's only national park, protecting primary lowland rainforest in the
+  Upper Guinean Forest hotspot.
 sources:
 - https://en.wikipedia.org/wiki/Sapo_National_Park
 title: Sapo National Park
 type: location
-score: 0.31
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sapo National Park*

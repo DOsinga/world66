@@ -10,6 +10,8 @@ latitude: -1.9536
 loc_type: city
 longitude: 30.0606
 score: 0.45
+snippet: Hilltop Rwandan capital spread across green ridges, known for orderly streets
+  and the Kigali Genocide Memorial.
 title: Kigali
 type: location
 ---

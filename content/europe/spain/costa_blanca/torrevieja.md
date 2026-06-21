@@ -10,6 +10,8 @@ latitude: 37.977542
 loc_type: city
 longitude: -0.682845
 score: 0.46
+snippet: Alicante coastal town backed by pink and green salt lakes beside the Costa
+  Blanca beaches.
 title: Torrevieja
 type: location
 ---

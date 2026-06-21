@@ -10,6 +10,8 @@ latitude: 42.945522
 loc_type: city
 longitude: 17.533784
 score: 0.42
+snippet: Small Dalmatian coastal village overlooking the Bay of Mali Ston and the
+  Pelješac peninsula.
 title: Komarna
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 50.720151
 loc_type: city
 longitude: -1.879912
 score: 0.46
+snippet: Victorian south-coast resort town with seven miles of sand, clifftop gardens,
+  and a busy student edge.
 title: Bournemouth
 type: location
 ---

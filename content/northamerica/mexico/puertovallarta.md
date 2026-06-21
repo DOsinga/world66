@@ -12,6 +12,8 @@ latitude: 20.640718
 loc_type: city
 longitude: -105.220306
 score: 0.59
+snippet: Pacific resort city in Jalisco, with cobblestone streets, colonial roofs,
+  beaches, and a broad bay.
 title: Puerto Vallarta
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 46.806412
 loc_type: city
 longitude: 9.258127
 score: 0.53
+snippet: Graubünden ski village sharing a vast lift system with Flims and Falera below
+  the Vorab glacier.
 title: Laax
 type: location
 ---

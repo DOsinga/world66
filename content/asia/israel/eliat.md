@@ -1,10 +1,12 @@
 ---
-title: Eilat
-type: location
-loc_type: city
 latitude: 29.5581
+loc_type: city
 longitude: 34.9482
 score: 0.52
+snippet: Red Sea resort city at Israel’s southern tip, built around coral reefs and
+  desert winter sun.
+title: Eilat
+type: location
 ---
 
 Eilat is Israel's southernmost city, a resort town wedged into the northern tip of the Red Sea between Jordan to the east and Egypt's Sinai Peninsula to the west. The city exists almost entirely for tourism — beaches, diving, snorkeling, and winter sun. Israelis come for their own holidays, Jordanians cross the border at Aqaba a few kilometres away, and European charter flights arrive throughout the cooler months.

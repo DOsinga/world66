@@ -9,6 +9,8 @@ latitude: 39.365088
 loc_type: city
 longitude: 23.135561
 score: 0.52
+snippet: Aegean peninsula east of Volos, with chestnut forests, stone villages, and
+  mythic centaur associations.
 title: Pilion
 todo_location_cleanup: done
 type: location

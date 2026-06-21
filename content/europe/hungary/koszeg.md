@@ -10,8 +10,8 @@ latitude: 47.3895
 loc_type: city
 longitude: 16.5407
 score: 0.45
-snippet: Well-preserved medieval border town in western Hungary, famous for a 1532
-  siege that delayed Suleiman the Magnificent's march on Vienna.
+snippet: Hungarian border town below the Kőszeg Mountains, remembered for resisting
+  Suleiman's Ottoman army.
 sources:
 - https://en.wikipedia.org/wiki/K%C5%91szeg
 - https://en.wikipedia.org/wiki/Siege_of_K%C5%91szeg

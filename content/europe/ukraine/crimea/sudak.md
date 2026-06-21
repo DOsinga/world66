@@ -10,6 +10,8 @@ latitude: 44.8488
 loc_type: city
 longitude: 34.9711
 score: 0.38
+snippet: Crimean Black Sea resort town beneath a Genoese fortress, with ancient trade
+  history and wine valleys
 title: Sudak
 type: location
 ---

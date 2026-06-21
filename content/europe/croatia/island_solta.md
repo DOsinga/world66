@@ -5,6 +5,7 @@ done:
 latitude: 43.369525
 longitude: 16.324983
 score: 0.56
+snippet: "Quiet Dalmatian island near Split, with olive groves, stone villages, and a slower local summer rhythm."
 title: Island Šolta
 type: location
 loc_type: region

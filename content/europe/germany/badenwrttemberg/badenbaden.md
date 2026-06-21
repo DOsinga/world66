@@ -10,6 +10,8 @@ latitude: 48.761072
 loc_type: city
 longitude: 8.239959
 score: 0.55
+snippet: Black Forest spa town with Roman hot springs, grand Kurhaus, casino, and
+  Lichtentaler Allee promenade.
 title: Baden-Baden
 type: location
 ---

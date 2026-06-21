@@ -9,6 +9,8 @@ latitude: -17.683982
 loc_type: city
 longitude: 178.788679
 score: 0.47
+snippet: Volcanic Fijian island containing Levuka, the country's former capital and
+  a UNESCO-listed colonial town.
 title: Ovalau
 type: location
 ---

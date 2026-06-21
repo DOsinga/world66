@@ -8,6 +8,8 @@ latitude: -15.594596
 loc_type: region
 longitude: -72.048777
 score: 0.74
+snippet: Deep Andean canyon northwest of Arequipa, known for terraced villages and
+  soaring condors.
 title: Colca Canyon
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 18.2681
 loc_type: city
 longitude: -78.3516
 score: 0.61
+snippet: West Jamaica beach town split between Seven Mile Beach and limestone sunset
+  cliffs
 title: Negril
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 40.616453
 loc_type: city
 longitude: 43.281584
 score: 0.49
+snippet: Northeastern Turkish frontier city paired with Ani, the ruined medieval Armenian
+  capital on a windswept border plateau
 title: Kars & Ani
 type: location
 ---

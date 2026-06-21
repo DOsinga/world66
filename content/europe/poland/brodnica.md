@@ -10,6 +10,8 @@ latitude: 53.258092
 loc_type: city
 longitude: 19.399363
 score: 0.31
+snippet: Northern Polish town with a triangular market square, Teutonic castle remains,
+  and Drwęca river setting.
 title: Brodnica
 type: location
 ---

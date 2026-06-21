@@ -8,6 +8,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Longyearbyen_Nybyen.jpg
 latitude: 78.201014
 loc_type: city
+snippet: Former Svalbard mining settlement at Longyear Valley's end, a timber-house
+  cluster below the glacier
 longitude: 15.588229
 score: 0.35
 title: Nybyen

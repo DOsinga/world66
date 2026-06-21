@@ -9,6 +9,8 @@ latitude: 47.583663
 loc_type: city
 longitude: -3.079443
 score: 0.53
+snippet: Breton town famous for more than 3,000 prehistoric menhirs arranged across
+  the countryside.
 title: Carnac
 type: location
 ---

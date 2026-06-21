@@ -6,6 +6,8 @@ latitude: 46.448152
 loc_type: city
 longitude: -87.63059
 score: 0.4
+snippet: Lake Superior city on Michigan's Upper Peninsula, edged by red sandstone
+  bluffs and deep winter snow
 title: Marquette
 type: location
 ---

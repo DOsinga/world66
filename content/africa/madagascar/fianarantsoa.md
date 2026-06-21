@@ -11,6 +11,8 @@ latitude: -21.456444
 loc_type: city
 longitude: 47.085149
 score: 0.32
+snippet: Hilly Malagasy highland city and starting point for the scenic narrow-gauge
+  train to Manakara.
 title: Fianarantsoa
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 61.337132
 loc_type: city
 longitude: 24.264942
 score: 0.34
+snippet: Small Finnish lakeside municipality near Tampere, shaped by Pälkänevesi,
+  Mallasvesi, and Great Northern War history.
 title: Pälkäne
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 40.797038
 loc_type: city
 longitude: -74.480987
 score: 0.32
+snippet: New Jersey town west of Manhattan, centred on Revolutionary War sites from
+  Washington's winter encampments.
 sources:
 - https://en.wikipedia.org/wiki/Morristown,_New_Jersey
 - https://www.nps.gov/morr/index.htm

@@ -10,6 +10,8 @@ latitude: 36.5552
 loc_type: city
 longitude: -121.9233
 score: 0.58
+snippet: Monterey Peninsula arts village known for white-sand beach, galleries, and
+  fairytale cottage architecture.
 title: Carmel
 type: location
 ---

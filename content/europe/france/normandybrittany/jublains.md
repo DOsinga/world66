@@ -6,6 +6,8 @@ latitude: 48.257092
 loc_type: city
 longitude: -0.496392
 score: 0.37
+snippet: Mayenne village with unusually complete Gallo-Roman remains, including a
+  fortress, theatre, and baths.
 title: Jublains
 type: location
 ---

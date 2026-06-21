@@ -10,6 +10,8 @@ latitude: -0.8205
 loc_type: region
 longitude: -89.4248
 score: 0.8
+snippet: Galápagos island and provincial capital base where Darwin landed, with sea
+  lions across Puerto Baquerizo Moreno.
 title: San Cristóbal Island
 type: location
 ---

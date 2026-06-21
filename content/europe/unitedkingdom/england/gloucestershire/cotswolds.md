@@ -8,6 +8,8 @@ latitude: 51.833
 loc_type: region
 longitude: -1.6833
 score: 0.72
+snippet: Rural English region of rolling hills, dry-stone walls, and villages built
+  from honey-coloured stone.
 title: Cotswolds
 type: location
 ---

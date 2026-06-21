@@ -10,6 +10,8 @@ latitude: -32.7583
 loc_type: city
 longitude: 151.0917
 score: 0.34
+snippet: Tiny Hunter Valley wine village surrounded by quieter cellar doors, olive
+  groves, and sandstone wilderness
 title: Broke
 type: location
 ---

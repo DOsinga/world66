@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:19850709012NR_Ilmenau_Rath
 latitude: 50.6839
 loc_type: city
 longitude: 10.9194
+score: 0.37
+snippet: Thuringian Forest university town tied to Goethe, with wooded trails rising
+  from its small centre.
 sources:
 - https://en.wikipedia.org/wiki/Ilmenau
 - https://www.ilmenau.de/en/tourism/discover-experience/kickelhahn/
 title: Ilmenau
 type: location
-score: 0.37
 ---
 
 Ilmenau sits where the townscape of [Thuringia](/europe/germany/thuringia) gives way to the Thuringian Forest. It is a university town, a Goethe town, and a practical base for walking up into the wooded hills without having to sleep in a resort village. The centre is small, with a market square, the [St. Jakobus Church](/europe/germany/thuringia/ilmenau/st_jakobus_church), and enough cafes to remind you that the [Technische Universitaet Ilmenau](/europe/germany/thuringia/ilmenau/technische_universitaet_ilmenau) keeps the place young.

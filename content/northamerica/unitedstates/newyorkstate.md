@@ -5,6 +5,8 @@ latitude: 43.156168
 loc_type: region
 longitude: -75.844995
 score: 0.63
+snippet: Large US state stretching from New York City to the Hudson Valley, Adirondacks,
+  Great Lakes, and Finger Lakes.
 title: New York State
 type: location
 ---

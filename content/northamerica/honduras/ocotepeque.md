@@ -10,6 +10,8 @@ latitude: 14.4348
 loc_type: city
 longitude: -89.1836
 score: 0.28
+snippet: Western Honduran highland town near the meeting point of Honduras, Guatemala,
+  and El Salvador.
 title: Ocotepeque
 type: location
 ---

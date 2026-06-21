@@ -12,6 +12,8 @@ image: frisian_islands_in.jpg
 image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ralf Roletschek
+snippet: Wadden Sea barrier-island chain spanning Denmark, Germany, and the Netherlands
+  as one tidal ecosystem.
 ---
 
 The Frisian Islands are an interregional archipelago stretching in a crescent from the Dutch coast through Germany to Denmark. Divided between three countries for administrative purposes, they form a single ecological entity — a chain of low-lying barrier islands fronting the Wadden Sea, one of the world's most important tidal wetlands and a UNESCO World Heritage Site.

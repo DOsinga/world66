@@ -10,6 +10,7 @@ loc_type: city
 longitude: -2.026041
 score: 0.6
 title: Saint Malo
+snippet: Fortified Breton port city of corsairs, granite ramparts, and tidal islands off the Intra-Muros
 type: location
 ---
 

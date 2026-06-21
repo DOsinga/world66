@@ -13,6 +13,7 @@ loc_type: city
 longitude: 12.5683
 score: 0.71
 title: Copenhagen
+snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods, and bold modern architecture.
 type: location
 ---
 

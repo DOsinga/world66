@@ -7,6 +7,8 @@ latitude: 37.5443
 loc_type: region
 longitude: -4.7278
 score: 0.8
+snippet: Spanish region of white villages, flamenco, Moorish palaces, and landscapes
+  from Cádiz to Almería.
 title: Andalucia
 type: location
 ---

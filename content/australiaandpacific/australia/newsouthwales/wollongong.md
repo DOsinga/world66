@@ -11,6 +11,8 @@ latitude: -34.4244
 loc_type: city
 longitude: 150.8939
 score: 0.42
+snippet: Coastal New South Wales city below the Illawarra Escarpment, with beaches
+  and a long industrial history.
 title: Wollongong
 type: location
 ---

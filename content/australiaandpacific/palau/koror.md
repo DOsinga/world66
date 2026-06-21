@@ -9,6 +9,8 @@ latitude: 7.226
 loc_type: city
 longitude: 134.1312
 score: 0.6
+snippet: Palauan commercial island and dive base beside the limestone Rock Islands
+  and turquoise lagoons
 title: Koror
 type: location
 ---

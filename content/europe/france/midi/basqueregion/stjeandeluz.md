@@ -10,6 +10,8 @@ latitude: 43.3872
 loc_type: city
 longitude: -1.6637
 score: 0.56
+snippet: Basque fishing port and beach town pressed between the Pyrenees, the Atlantic,
+  and the Spanish border
 title: Saint-Jean-de-Luz
 type: location
 ---

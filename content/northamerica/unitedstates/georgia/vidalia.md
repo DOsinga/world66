@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-04'
+image: vidalia.jpg
+image_attribution: Michael Rivera
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Vidalia_Municipal_Building.jpg
 latitude: 32.2177
 loc_type: city
 longitude: -82.4135
 score: 0.24
+snippet: Southeast Georgia city known for Vidalia sweet onions grown in the surrounding
+  low-sulfur soils.
 title: Vidalia
 type: location
-image: vidalia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Vidalia_Municipal_Building.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Michael Rivera
 ---
 
 Vidalia is a small city in southeast Georgia best known as the home of the Vidalia sweet onion — Georgia's official state vegetable. The onion's unusual sweetness comes from the low sulfur content of the local soil, and by federal law, only onions grown in a designated 20-county area can use the name.

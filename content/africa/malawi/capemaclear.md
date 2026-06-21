@@ -10,6 +10,8 @@ latitude: -14.0264
 loc_type: city
 longitude: 34.8382
 score: 0.41
+snippet: Lake Malawi beach village backed by granite hills and protected waters rich
+  with cichlid fish.
 title: Cape Maclear
 type: location
 ---

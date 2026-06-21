@@ -9,6 +9,8 @@ latitude: 41.8412
 loc_type: city
 longitude: 43.3839
 score: 0.51
+snippet: Georgian mineral-water town in a pine-lined Mtkvari gorge beside Borjomi-Kharagauli
+  National Park
 title: Borjomi
 type: location
 ---

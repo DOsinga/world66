@@ -10,6 +10,8 @@ latitude: 5.3643
 loc_type: city
 longitude: 100.461
 score: 0.31
+snippet: Mainland Penang town with an old trading centre and Chinese temples beneath
+  Bukit Mertajam hill.
 title: Bukit Mertajam
 type: location
 ---

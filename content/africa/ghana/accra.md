@@ -13,6 +13,7 @@ loc_type: city
 longitude: -0.187
 score: 0.4
 title: Accra
+snippet: Atlantic Ghanaian capital where Ga fishing roots, colonial forts, markets, and modern banking towers collide.
 type: location
 ---
 

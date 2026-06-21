@@ -9,6 +9,8 @@ latitude: 42.6441
 loc_type: city
 longitude: 11.985
 score: 0.45
+snippet: Lakeside Lazio town on Europe's largest volcanic lake, with a medieval castle
+  and Eucharistic miracle basilica
 sources:
 - https://en.wikipedia.org/wiki/Bolsena
 title: Bolsena

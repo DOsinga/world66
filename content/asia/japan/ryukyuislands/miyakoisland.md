@@ -9,6 +9,8 @@ latitude: 24.813957
 loc_type: city
 longitude: 125.305579
 score: 0.56
+snippet: Ryukyu island of white coral beaches, clear turquoise water, and bridge-linked
+  islets
 title: Miyako Island
 type: location
 ---

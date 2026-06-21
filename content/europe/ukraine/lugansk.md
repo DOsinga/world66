@@ -12,6 +12,8 @@ latitude: 48.5717
 loc_type: city
 longitude: 39.2973
 score: 0.12
+snippet: Eastern Ukrainian industrial city in the Donets Basin, founded as a cannon-foundry
+  settlement in 1795.
 title: Lugansk
 type: location
 ---

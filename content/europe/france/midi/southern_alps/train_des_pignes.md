@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 43.530965
+loc_type: feature
 longitude: 6.467668
+score: 0.49
+snippet: Scenic Provençal railway linking Digne-les-Bains and Nice through steep gorges
+  and walking villages.
 title: Train des Pignes
 type: location
-score: 0.49
-loc_type: feature
 ---
 
 The Train des Pignes is a scenic railway running from Digne-les-Bains to Nice through the department of Alpes-de-Haute-Provence. The line passes through some of the most dramatic scenery in southern France, connecting small towns and villages that are ideal bases for walking.

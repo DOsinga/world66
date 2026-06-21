@@ -10,6 +10,8 @@ latitude: 38.74
 loc_type: city
 longitude: 125.407
 score: 0.07
+snippet: North Korean port city at the Taedong River mouth, known for the West Sea
+  Barrage.
 title: Nampo
 type: location
 ---

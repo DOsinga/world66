@@ -10,6 +10,7 @@ longitude: -3.45
 score: 0.52
 title: Dogon Country
 type: location
+snippet: "West African cliff region where Dogon villages line the sandstone walls of the Bandiagara Escarpment."
 ---
 
 Dogon Country is one of the highlights of West Africa. The Bandiagara Escarpment, a 200-kilometre sandstone cliff running through the heart of this region, shelters a string of villages built into the rock face by the Dogon people over centuries. Their culture, with its elaborate mask dances, animist ceremonies, and distinctive mud-brick architecture, has survived here largely because the terrain kept the outside world at bay.

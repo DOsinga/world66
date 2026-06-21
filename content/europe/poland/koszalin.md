@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-05-21'
 latitude: 54.19092
+loc_type: city
 longitude: 16.17707
 score: 0.31
-title: Koszalin
-type: location
-loc_type: city
+snippet: Western Pomeranian city inland from Baltic beaches, with Hanseatic traces
+  and easy access to Mielno.
 sources:
 - https://en.wikipedia.org/wiki/Koszalin
+title: Koszalin
+type: location
 ---
 
 Koszalin is a mid-sized city of around 105,000 in Western Pomerania, set a few kilometres inland from the Baltic coast. It is not a beach destination itself, but it serves as a practical base for the sandy coastline around [Mielno and Kołobrzeg](/europe/poland/koszalin/mielno_beach), both within easy reach. The city was a prosperous Hanseatic seaport in the medieval period — its 14th-century [St Mary's Cathedral](/europe/poland/koszalin/st_marys_cathedral) survives from that era — but the harbour silted up and Koszalin's maritime trade ended before the modern era.

@@ -11,6 +11,7 @@ latitude: 40.3217
 loc_type: city
 longitude: 9.3268
 score: 0.45
+snippet: Mountain Sardinian city at the heart of Barbagia, with literary legacy and interior traditions intact.
 title: Nuoro
 type: location
 ---

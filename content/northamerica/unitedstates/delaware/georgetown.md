@@ -6,6 +6,7 @@ latitude: 38.6901
 loc_type: city
 longitude: -75.3885
 score: 0.24
+snippet: "Sussex County seat in southern Delaware, laid out around the historic Circle and its 1837 courthouse."
 title: Georgetown
 type: location
 ---

@@ -4,6 +4,7 @@ done:
 latitude: -55.9797
 longitude: -67.2717
 title: Cape Horn
+snippet: Remote Chilean headland where Atlantic and Pacific waters meet at the stormy southern tip of the Americas
 type: location
 score: 0.48
 loc_type: feature

@@ -8,6 +8,8 @@ latitude: 45.710013
 loc_type: region
 longitude: 3.15318
 score: 0.57
+snippet: Volcanic French region of extinct cones, crater lakes, river gorges, and
+  dark-stone Clermont-Ferrand
 title: Auvergne
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 39.0917
 loc_type: city
 longitude: -104.8728
 score: 0.29
+snippet: Colorado Front Range town on the Palmer Divide, with pine forests and a mountain-town
+  feel.
 title: Monument
 type: location
 ---

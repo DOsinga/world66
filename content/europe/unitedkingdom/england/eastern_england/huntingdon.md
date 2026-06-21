@@ -11,6 +11,8 @@ sources:
 - https://en.wikipedia.org/wiki/Cromwell_Museum
 title: Huntingdon
 type: location
+snippet: Cambridgeshire market town on the Great Ouse, best known as Oliver Cromwell's
+  birthplace.
 ---
 
 Huntingdon is a small market town on the River Great Ouse in Cambridgeshire, best known as the birthplace of Oliver Cromwell. The [Cromwell Museum](/europe/unitedkingdom/england/eastern_england/huntingdon/cromwell_museum), housed in the former grammar school where he studied, tells the story of the man who overthrew a king and briefly turned England into a republic.

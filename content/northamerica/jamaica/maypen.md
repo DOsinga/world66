@@ -11,6 +11,8 @@ latitude: 17.9659
 loc_type: city
 longitude: -77.2431
 score: 0.3
+snippet: Clarendon parish capital and south-coast road junction, close to the Milk
+  River mineral baths
 title: May Pen
 type: location
 ---

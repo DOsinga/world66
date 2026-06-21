@@ -1,5 +1,6 @@
 ---
 title: Clare
+snippet: "Atlantic Irish county where the Cliffs of Moher frame a strong traditional music culture."
 type: location
 latitude: 52.842
 longitude: -8.9831

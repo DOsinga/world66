@@ -11,6 +11,7 @@ loc_type: city
 longitude: 21.767884
 score: 0.42
 title: Trikala
+snippet: "Thessaly city south of Meteora, set on ancient Trikka and the birthplace traditions of Asclepius."
 type: location
 ---
 

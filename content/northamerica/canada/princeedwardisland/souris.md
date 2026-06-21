@@ -10,6 +10,8 @@ latitude: 46.356529
 loc_type: city
 longitude: -62.250428
 score: 0.34
+snippet: Eastern Prince Edward Island port town, known for Basin Head's singing sands
+  and Magdalen Islands ferry.
 title: Souris
 type: location
 ---

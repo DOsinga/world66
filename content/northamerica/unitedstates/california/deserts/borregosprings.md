@@ -10,6 +10,8 @@ latitude: 33.2567
 loc_type: city
 longitude: -116.3783
 score: 0.39
+snippet: Desert community surrounded by Anza-Borrego Desert State Park and notable
+  dark skies.
 title: Borrego Springs
 type: location
 ---

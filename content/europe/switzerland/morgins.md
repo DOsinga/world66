@@ -8,6 +8,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Morgins_Vue_Station.JPG
 latitude: 46.237659
 loc_type: city
+snippet: Valais Alps border village in the Portes du Soleil, linking Swiss slopes with French mountain trails.
 longitude: 6.858102
 score: 0.46
 title: Morgins

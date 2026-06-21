@@ -10,6 +10,8 @@ latitude: 32.328503
 loc_type: city
 longitude: 36.365952
 score: 0.37
+snippet: Basalt-built ruined city in northeastern Jordan, preserving Nabataean, Byzantine,
+  and early Islamic remains.
 title: Umm el Jimal
 type: location
 ---

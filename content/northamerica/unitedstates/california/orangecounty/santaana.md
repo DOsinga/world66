@@ -5,11 +5,13 @@ done:
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
 latitude: 33.749495
+loc_type: city
 longitude: -117.873221
 score: 0.28
+snippet: Orange County seat southeast of Los Angeles, with a historic downtown and
+  strong Latino heritage.
 title: Santa Ana
 type: location
-loc_type: city
 ---
 
 Santa Ana is the county seat of [Orange County](/northamerica/unitedstates/california/orangecounty) and, with around 310,000 residents, its biggest city — though it is usually overshadowed in travel writing by neighbouring Anaheim (Disneyland), Huntington Beach and Newport Beach. It sits 45 km southeast of downtown Los Angeles, about 20 km inland from the Pacific. Most of the population is Mexican-American, and Santa Ana has one of the most vibrant Latino downtowns in Southern California: the restored Spanish-revival buildings of the historic Downtown Santa Ana and the parallel Latino shopping district of Calle Cuatro (4th Street) are the reason to visit.

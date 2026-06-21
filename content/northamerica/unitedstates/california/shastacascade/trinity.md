@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 40.9862
+loc_type: region
 longitude: -122.693
+score: 0.4
+snippet: Far northern California backcountry region centred on Trinity Lake and the
+  granite peaks of the Trinity Alps
 title: Trinity
 type: location
-score: 0.4
-loc_type: region
 ---
 
 Trinity County is deep backcountry in far northern California, centred on the Trinity Alps Wilderness and the reservoir of Trinity Lake. This is where Californians come to escape — houseboat on the lake, fish for bass and trout, hike into the alpine wilderness, or simply camp under pines with nobody around.

@@ -10,6 +10,8 @@ latitude: 39.653446
 loc_type: city
 longitude: -75.516588
 score: 0.24
+snippet: Small Delaware River township at the New Jersey end of the Delaware Memorial
+  Bridge.
 title: Pennsville
 type: location
 ---

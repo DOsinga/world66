@@ -10,6 +10,8 @@ latitude: 60.1042
 loc_type: city
 longitude: -149.4422
 score: 0.51
+snippet: Kenai Peninsula harbour town and gateway to tidewater glaciers in Kenai Fjords
+  National Park
 title: Seward
 type: location
 ---

@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Reggio_Calabria_-_Lungomar
 latitude: 38.1105
 loc_type: city
 longitude: 15.6467
+score: 0.44
+snippet: Southern Italian city facing Sicily, with Greek roots and the Riace Bronzes
+  at its archaeological museum
 sources:
 - https://en.wikipedia.org/wiki/Reggio_Calabria
 - https://en.wikivoyage.org/wiki/Reggio_Calabria
 title: Reggio di Calabria
 type: location
-score: 0.44
 ---
 
 Reggio di Calabria sits on the toe of Italy's boot, facing Sicily across the Strait of Messina with the Aspromonte mountains rising behind it. It is one of the oldest Greek colonies in the western Mediterranean, founded as Rhegion in the eighth century BC, and the [Museo Nazionale della Magna Grecia](/europe/italy/calabria/reggiocalabria/museo_nazionale_magna_grecia) holds proof of that ancient world in the form of the Riace Bronzes — two life-sized Greek warrior statues recovered from the sea in 1972 that are among the finest works of ancient art anywhere on earth.

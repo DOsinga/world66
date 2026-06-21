@@ -10,6 +10,8 @@ latitude: 34.145
 loc_type: city
 longitude: -107.8434
 score: 0.22
+snippet: Tiny New Mexico ranching village near Datil Well and the Very Large Array
+  basin.
 title: Datil
 type: location
 ---

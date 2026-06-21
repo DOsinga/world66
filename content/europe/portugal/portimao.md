@@ -9,6 +9,8 @@ latitude: 37.137581
 loc_type: city
 longitude: -8.536843
 score: 0.51
+snippet: Western Algarve working port on the Arade River, backed by sardine history
+  and Praia da Rocha
 sources:
 - https://en.wikipedia.org/wiki/Portim%C3%A3o
 - https://en.wikipedia.org/wiki/Praia_da_Rocha

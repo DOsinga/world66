@@ -9,6 +9,8 @@ latitude: 67.25
 loc_type: city
 longitude: 23.0
 score: 0.3
+snippet: Far northern Swedish town on the Torne River, associated with Laestadian
+  history.
 title: Pajala
 type: location
 ---

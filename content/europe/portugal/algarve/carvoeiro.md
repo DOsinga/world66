@@ -9,6 +9,7 @@ score: 0.56
 sources:
 - https://en.wikipedia.org/wiki/Carvoeiro_(Lagoa)
 title: Carvoeiro
+snippet: Algarve resort village built around a sheltered cove beneath ochre cliffs and limestone sea caves.
 type: location
 ---
 

@@ -9,6 +9,8 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhejiang
 title: Zhejiang
 type: location
+snippet: Eastern Chinese province of tea hills, water towns, and indented coast south
+  of Shanghai.
 ---
 
 Zhejiang is one of [China](/asia/china)'s smallest but wealthiest provinces, stretching along the eastern coast south of [Shanghai](/asia/china/shanghai). The provincial capital, [Hangzhou](/asia/china/zhejiang/hangzhou), has been famous for centuries — Marco Polo called it the finest city in the world — and its West Lake remains one of China's most celebrated landscapes.

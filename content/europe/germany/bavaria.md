@@ -8,6 +8,8 @@ latitude: 48.946756
 loc_type: region
 longitude: 11.403872
 score: 0.72
+snippet: German state of Alps, beer cities, baroque churches, and medieval towns from
+  Munich to Franconia.
 title: Bavaria
 type: location
 ---

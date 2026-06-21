@@ -6,6 +6,8 @@ latitude: -28.907794
 loc_type: city
 longitude: 136.341327
 score: 0.32
+snippet: Tiny South Australian outback settlement on the Oodnadatta Track beside vast
+  Anna Creek Station.
 title: William Creek
 type: location
 ---

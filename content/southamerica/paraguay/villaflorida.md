@@ -9,6 +9,8 @@ latitude: -26.408432
 loc_type: city
 longitude: -57.12521
 score: 0.27
+snippet: Small Paraguayan town on the Río Tebicuary, known locally for dorado and
+  surubí sport fishing.
 title: Villa Florida
 type: location
 ---

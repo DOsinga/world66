@@ -7,6 +7,8 @@ latitude: 28.1471
 loc_type: city
 longitude: -82.7564
 score: 0.44
+snippet: Gulf Coast sponge town shaped by Greek immigrants, waterfront tavernas, and
+  Dodecanese Boulevard.
 title: Tarpon Springs
 type: location
 ---

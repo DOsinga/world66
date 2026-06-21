@@ -6,11 +6,13 @@ image_attribution: Coolcaesar
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Californiacentralvalley.jpg
 latitude: 38.0
+loc_type: region
 longitude: -121.4
 score: 0.33
+snippet: California agricultural valley between the Coast Ranges and Sierra Nevada,
+  shaped by farms and water
 title: Central Valley
 type: location
-loc_type: region
 ---
 
 The Central Valley is the long agricultural trough running through the middle of California, roughly 450 miles from Redding in the north to Bakersfield in the south. It produces an enormous share of the United States' fruits, vegetables, and nuts — almonds, grapes, tomatoes, pistachios, oranges — and the flat, sun-baked landscape is shaped entirely by farming. This is one of the most productive agricultural regions in the world, and it is not principally a tourist destination.

@@ -8,6 +8,8 @@ latitude: 9.750896
 loc_type: region
 longitude: 105.22246
 score: 0.65
+snippet: Southern Vietnamese river delta where the Mekong's Nine Dragons spread into
+  rice fields and floating markets.
 title: Mekong delta
 type: location
 ---

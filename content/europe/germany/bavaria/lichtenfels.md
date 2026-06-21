@@ -11,6 +11,7 @@ loc_type: city
 longitude: 11.06382
 score: 0.32
 title: Lichtenfels
+snippet: Small Upper Franconian town on the Main, known as Germany's basket-making capital.
 type: location
 ---
 

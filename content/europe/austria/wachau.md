@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruine_Aggstein_02.JPG
 latitude: 48.364444
 loc_type: region
 longitude: 15.434167
+snippet: Danube wine valley of terraced vineyards, ruined castles, apricot orchards,
+  and old riverside towns.
 sources:
 - https://en.wikipedia.org/wiki/Wachau
 title: Wachau

@@ -11,6 +11,8 @@ latitude: 35.185105
 loc_type: city
 longitude: 136.899844
 score: 0.55
+snippet: Industrial central Honshu city where Toyota country, castle history, and
+  Atsuta Shrine meet.
 title: Nagoya
 type: location
 ---

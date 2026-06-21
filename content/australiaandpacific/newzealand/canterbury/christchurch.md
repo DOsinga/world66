@@ -10,6 +10,7 @@ latitude: -43.5321
 loc_type: city
 longitude: 172.6362
 score: 0.53
+snippet: "South Island city rebuilt after the 2011 earthquake, mixing English roots with new urban experiments."
 title: Christchurch
 type: location
 ---

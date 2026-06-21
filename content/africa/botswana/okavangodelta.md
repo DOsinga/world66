@@ -4,11 +4,13 @@ done:
   location_cleanup: 2026-04-07
   poi_cleanup: '2026-04-19'
 latitude: -19.154005
+loc_type: feature
 longitude: 22.980094
 score: 0.66
+snippet: Northern Botswana inland delta where Okavango waters spread into wetlands
+  across the Kalahari sands.
 title: Okavango Delta
 type: location
-loc_type: feature
 ---
 
 The Okavango River never reaches the sea. Instead, it fans out across northern Botswana into one of the largest inland deltas on earth — over 16,000 square kilometres of palm forests, grasslands, flood plains, islands, and lagoons, all spilling into the sands of the [Kalahari Desert](/africa/botswana/kalaharidesert). The contrast of lush wetland meeting bone-dry desert is what earns the delta its nickname: the Jewel of the Kalahari.

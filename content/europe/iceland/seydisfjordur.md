@@ -10,6 +10,8 @@ latitude: 65.259848
 loc_type: city
 longitude: -14.004901
 score: 0.49
+snippet: East Fjords harbour town of bright timber houses, tucked below mountains
+  at the end of Seyðisfjörður
 title: Seydisfjordur
 type: location
 ---

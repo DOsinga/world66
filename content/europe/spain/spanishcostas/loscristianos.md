@@ -7,6 +7,7 @@ longitude: -16.717
 sources:
 - https://en.wikipedia.org/wiki/Los_Cristianos
 title: Los Cristianos
+snippet: "South Tenerife resort town with fishing-village roots, a working port, and sheltered beaches."
 type: location
 image: loscristianos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Los_Cristianos.jpg

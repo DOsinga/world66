@@ -9,8 +9,8 @@ latitude: 14.2417
 loc_type: feature
 longitude: 40.3
 score: 0.38
-snippet: Extreme volcanic lowland shared by Eritrea, Ethiopia, and Djibouti — one
-  of the hottest and most otherworldly landscapes on earth.
+snippet: Eritrean lowland of salt flats, lava fields, sulphur springs, and Red Sea
+  desert approaches.
 sources:
 - https://en.wikipedia.org/wiki/Danakil_Depression
 - https://en.wikipedia.org/wiki/Danakil_Desert

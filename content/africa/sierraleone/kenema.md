@@ -6,6 +6,8 @@ latitude: 7.885972
 loc_type: city
 longitude: -11.186383
 score: 0.2
+snippet: Eastern Sierra Leone city at the edge of Gola Rainforest and gateway to diamond
+  country.
 title: Kenema
 type: location
 ---

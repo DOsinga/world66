@@ -10,6 +10,8 @@ latitude: 59.414668
 loc_type: city
 longitude: 10.659658
 score: 0.36
+snippet: Oslofjord industrial city south of Oslo, known for ferries, galleries, and
+  nearby coastal islands.
 title: Moss
 type: location
 ---

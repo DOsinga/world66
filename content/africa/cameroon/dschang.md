@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
+image: dschang.jpg
+image_attribution: eLaboureur from F-12510 OLEMPS
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dschang_Le_Centre_climatique.jpg
 latitude: 5.446992
+loc_type: city
 longitude: 10.053309
+score: 0.31
+snippet: Western Cameroonian hill town with mild highland air, tea country, and a
+  museum of regional kingdoms.
 title: Dschang
 type: location
-score: 0.31
-loc_type: city
-image: dschang.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Dschang_Le_Centre_climatique.jpg
-image_license: CC BY 2.0
-image_attribution: eLaboureur from F-12510 OLEMPS
 ---
 
 Dschang is a university town and hill station in western Cameroon, sitting at around 1,400 metres above sea level in the Menoua region. The altitude keeps temperatures mild and the surrounding landscape green — rolling hills, tea plantations, and forest patches that feel very different from the heat of the lowland cities.

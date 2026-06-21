@@ -5,6 +5,7 @@ latitude: -5.895173
 longitude: 22.408589
 score: 0.18
 title: Kananga
+snippet: "Kasai-Central provincial capital in DR Congo, an administrative and commercial hub once called Luluabourg."
 type: location
 loc_type: city
 ---

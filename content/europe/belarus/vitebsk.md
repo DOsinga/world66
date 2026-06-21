@@ -12,6 +12,8 @@ latitude: 55.19302
 loc_type: city
 longitude: 30.207044
 score: 0.34
+snippet: Belarusian river city rebuilt after war, remembered for Marc Chagall and
+  the Slavianski Bazaar festival.
 title: Vitebsk
 type: location
 ---

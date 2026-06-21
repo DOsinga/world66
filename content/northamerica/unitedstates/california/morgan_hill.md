@@ -12,6 +12,8 @@ longitude: -121.6544
 score: 0.31
 title: Morgan Hill
 type: location
+snippet: South Santa Clara County city with vineyards and open foothills at Silicon
+  Valley's rural edge.
 ---
 
 Morgan Hill is a small city of around 45,000 people at the southern end of Santa Clara County, about 25 miles south of San Jose in the Coyote Valley. It sits between the Diablo Range to the east and the Santa Cruz Mountains to the west — rolling hills, open grassland, and a genuinely agricultural feel that sets it apart from the denser Silicon Valley cities to the north.

@@ -6,6 +6,8 @@ latitude: 21.121965
 loc_type: city
 longitude: -101.682977
 score: 0.33
+snippet: Guanajuato industrial city and Mexico's footwear capital, with leather markets
+  and a compact historic centre
 title: León
 type: location
 ---

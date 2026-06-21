@@ -5,6 +5,8 @@ latitude: -30.13
 loc_type: region
 longitude: -70.5
 score: 0.52
+snippet: Andean valley east of La Serena, lined with vineyards, orchards, and major
+  astronomical observatories.
 title: Valle de Elqui
 type: location
 ---

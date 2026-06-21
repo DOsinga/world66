@@ -1,5 +1,6 @@
 ---
 title: Huang Shan
+snippet: "Anhui mountain area of granite peaks, twisted pines, and cloud seas celebrated in Chinese art."
 type: location
 latitude: 30.13
 longitude: 118.17

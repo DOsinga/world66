@@ -10,6 +10,8 @@ latitude: 55.232825
 loc_type: city
 longitude: 11.76741
 score: 0.36
+snippet: Næstved market town with medieval churches, Suså river walks, and castles
+  in the South Zealand countryside
 title: Nastved
 type: location
 ---

@@ -10,6 +10,7 @@ loc_type: city
 longitude: 103.2167
 sources:
 - https://en.wikivoyage.org/wiki/Linxia
+snippet: "Gansu mountain market town known as Little Mecca, with Hui mosques, Sufi shrines, and Islamic architecture."
 title: Linxia
 type: location
 score: 0.3

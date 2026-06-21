@@ -10,6 +10,8 @@ latitude: 13.891842
 loc_type: city
 longitude: 100.016566
 score: 0.41
+snippet: Bangkok day-trip city centered on Phra Pathom Chedi, Thailand's tallest Buddhist
+  stupa.
 title: Nakhon Pathom
 type: location
 ---

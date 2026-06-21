@@ -11,6 +11,7 @@ loc_type: city
 longitude: 4.883513
 score: 0.33
 title: Courthézon
+snippet: Southern Rhône wine village within Châteauneuf-du-Pape country, close to Beaucastel and medieval walls
 type: location
 ---
 

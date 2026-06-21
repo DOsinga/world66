@@ -8,6 +8,8 @@ latitude: -19.1421
 loc_type: city
 longitude: 146.8335
 score: 0.53
+snippet: North Queensland island of eucalyptus woodland, granite bays, walking tracks,
+  and wild koalas.
 title: Magnetic Island
 type: location
 ---

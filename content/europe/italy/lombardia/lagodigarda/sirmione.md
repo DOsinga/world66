@@ -11,6 +11,8 @@ latitude: 45.4688
 loc_type: city
 longitude: 10.6078
 score: 0.62
+snippet: Lake Garda peninsula town entered through a Scaligero castle and edged by
+  Roman villa ruins.
 title: Sirmione
 type: location
 ---

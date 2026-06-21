@@ -12,6 +12,8 @@ longitude: -76.9993
 score: 0.34
 title: Coca (Puerto Francisco de Orellana)
 type: location
+snippet: Ecuadorian Amazon frontier town at the Coca-Napo confluence, gateway to downriver
+  rainforest lodges.
 ---
 
 This rainforest frontier town is commonly known as **Coca**, though on official Ecuadorian maps it appears as **Puerto Francisco de Orellana**. It sits at the confluence of the Coca and Napo rivers in the Oriente, Ecuador's Amazon lowlands.

@@ -10,6 +10,8 @@ latitude: -20.3297
 loc_type: city
 longitude: -40.292
 score: 0.34
+snippet: Espírito Santo coastal city across from Vitória, with residential beaches
+  and the hilltop Penha Convent.
 title: Vila Velha
 type: location
 ---

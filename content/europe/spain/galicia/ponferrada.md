@@ -9,6 +9,8 @@ latitude: 42.5454
 loc_type: city
 longitude: -6.5939
 score: 0.45
+snippet: Bierzo valley town on the Camino de Santiago, dominated by a large Templar
+  castle.
 title: Ponferrada
 type: location
 ---

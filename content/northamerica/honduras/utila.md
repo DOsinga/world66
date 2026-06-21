@@ -10,6 +10,8 @@ latitude: 16.1013
 loc_type: city
 longitude: -86.9069
 score: 0.48
+snippet: Small Bay Islands dive base on the Mesoamerican Barrier Reef, known for affordable
+  scuba courses.
 title: Utila
 type: location
 ---

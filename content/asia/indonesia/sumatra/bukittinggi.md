@@ -10,6 +10,8 @@ latitude: -0.305195
 loc_type: city
 longitude: 100.369492
 score: 0.46
+snippet: West Sumatran mountain town with Minangkabau markets, canyon views, and Dutch-era
+  landmarks
 title: Bukittinggi
 type: location
 ---

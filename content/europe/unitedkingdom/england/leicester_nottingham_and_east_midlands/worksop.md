@@ -6,6 +6,8 @@ latitude: 53.304236
 loc_type: city
 longitude: -1.124617
 score: 0.28
+snippet: Nottinghamshire market town on the edge of Sherwood Forest, used as a base
+  for the Dukeries estates
 title: Worksop
 type: location
 ---

@@ -10,6 +10,8 @@ longitude: 101.624102
 score: 0.53
 title: Sumatra
 type: location
+snippet: Vast Indonesian island of rainforest, volcanoes, and remote overland routes
+  along the Bukit Barisan spine.
 ---
 
 Sumatra is the westernmost of Indonesia's main islands, 1,800 km long and 400 km wide — the sixth-largest island in the world. Most of its interior is still mountainous rainforest, with active volcanoes along the Bukit Barisan spine and some of the last remaining habitat of the Sumatran tiger, rhinoceros, and orangutan. About 30% of the original primary forest survives; the rest has been converted to rubber, palm oil, and rice.

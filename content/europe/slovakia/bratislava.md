@@ -9,6 +9,8 @@ latitude: 48.1559
 loc_type: city
 longitude: 17.1314
 score: 0.54
+snippet: Small Danube capital at Slovakia's western edge, pressed close to Austria
+  and Hungary
 title: Bratislava
 type: location
 ---

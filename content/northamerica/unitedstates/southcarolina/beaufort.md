@@ -10,6 +10,8 @@ latitude: 32.4316
 loc_type: city
 longitude: -80.6698
 score: 0.44
+snippet: Lowcountry town on Port Royal Island, with antebellum streets, Gullah heritage,
+  and a waterfront historic district.
 title: Beaufort
 type: location
 ---

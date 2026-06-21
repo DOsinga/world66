@@ -10,6 +10,7 @@ latitude: 18.3923
 loc_type: city
 longitude: -88.3975
 score: 0.37
+snippet: "Quiet northern Belize town on Corozal Bay, layered over the ancient Maya city of Chactemal."
 title: Corozal Town
 type: location
 ---

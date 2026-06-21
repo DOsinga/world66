@@ -6,6 +6,8 @@ latitude: 60.718202
 loc_type: city
 longitude: -46.038521
 score: 0.43
+snippet: Southern Greenland town of painted harbour houses, old Danish buildings,
+  and stone-and-man public art.
 title: Qaqortoq
 type: location
 ---

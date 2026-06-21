@@ -6,6 +6,8 @@ latitude: 10.9331
 loc_type: city
 longitude: -68.2828
 score: 0.35
+snippet: Small Venezuelan coastal town and main gateway to the cays of Morrocoy National
+  Park
 title: Chichiriviche
 type: location
 ---

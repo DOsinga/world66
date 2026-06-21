@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Chaozhou_Guangji_Bridge_20
 latitude: 23.67
 loc_type: city
 longitude: 116.63
+score: 0.41
+snippet: Teochew cultural city in Guangdong, with old walls, temples, and long Southeast
+  Asian diaspora ties.
 sources:
 - https://en.wikivoyage.org/wiki/Chaozhou
 title: Chaozhou
 type: location
-score: 0.41
 ---
 
 Chaozhou is the cultural heartland of the Teochew people, a city that has been sending emigrants to Southeast Asia for centuries while preserving, at home, one of the most distinctive cultures in southern China. The old city is compact and remarkably intact: a 2.6-kilometre stretch of Song-dynasty walls, narrow lanes of shop-houses, and temples layered with centuries of carved woodwork and gilded ornament. The diaspora communities of Bangkok, Phnom Penh, and Singapore are, in large measure, an extension of this place — and many of them still come back.

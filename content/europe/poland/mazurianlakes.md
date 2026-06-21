@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Poland_Mikolajki_-_Mikolaj
 latitude: 53.87
 loc_type: region
 longitude: 21.6
+snippet: Northeastern Polish lake district of more than 2,000 glacial lakes linked
+  by rivers and canals.
 sources:
 - https://en.wikipedia.org/wiki/Masurian_Lake_District
 title: Mazurian Lakes

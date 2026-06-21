@@ -12,6 +12,8 @@ latitude: -26.205
 loc_type: city
 longitude: 28.049722
 score: 0.39
+snippet: South African economic capital built on Witwatersrand gold, with mine dumps,
+  politics, and apartheid history.
 title: Johannesburg
 type: location
 ---

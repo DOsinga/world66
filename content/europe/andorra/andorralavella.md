@@ -1,10 +1,12 @@
 ---
-title: Andorra la Vella
-type: location
-loc_type: city
 latitude: 42.5063
+loc_type: city
 longitude: 1.5218
 score: 0.5
+snippet: High Pyrenean capital in the Valira valley, with stone old-quarter lanes
+  and Casa de la Vall.
+title: Andorra la Vella
+type: location
 ---
 
 Andorra la Vella is the capital of Andorra and, at 1,023 metres above sea level, the highest capital city in Europe. It sits in the Valira river valley surrounded by the Pyrenean mountains, and despite being the political and commercial centre of the micro-state, it retains a genuinely small-town feel.

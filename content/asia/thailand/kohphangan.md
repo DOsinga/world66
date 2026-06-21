@@ -11,6 +11,8 @@ latitude: 9.73495
 loc_type: city
 longitude: 100.030571
 score: 0.61
+snippet: Mountainous Gulf of Thailand island split between Haad Rin parties and quiet
+  jungle-backed beaches.
 title: Koh Phangan
 type: location
 ---

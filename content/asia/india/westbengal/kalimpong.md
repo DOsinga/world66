@@ -9,6 +9,7 @@ sources:
 - https://en.wikipedia.org/wiki/Kalimpong
 title: Kalimpong
 type: location
+snippet: "Kalimpong is a Teesta Valley hill town with Tibetan, Nepali, Bengali, and Bhutia influences."
 ---
 
 *Asia > India > West Bengal > Kalimpong*

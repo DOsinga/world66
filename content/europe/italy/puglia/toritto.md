@@ -10,6 +10,8 @@ latitude: 40.99823
 loc_type: city
 longitude: 16.679779
 score: 0.34
+snippet: Small Murgia hills town near Bari, known for Slow Food-recognised Mandorla
+  di Toritto almonds
 title: Toritto
 type: location
 ---

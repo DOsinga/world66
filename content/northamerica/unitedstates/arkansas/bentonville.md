@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-13'
 latitude: 36.372861
 loc_type: city
+snippet: Northwest Arkansas city shaped by Walmart and Crystal Bridges, with a walkable
+  square and strong museum scene
 longitude: -94.208787
 score: 0.36
 title: Bentonville

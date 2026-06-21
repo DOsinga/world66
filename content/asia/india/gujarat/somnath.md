@@ -8,6 +8,8 @@ latitude: 20.888532
 loc_type: city
 longitude: 70.401425
 score: 0.42
+snippet: Arabian Sea pilgrimage town centred on Somnath Temple, one of Shiva's twelve
+  jyotirlingas.
 title: Somnath
 type: location
 ---

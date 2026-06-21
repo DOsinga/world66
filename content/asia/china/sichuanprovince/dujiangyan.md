@@ -9,6 +9,8 @@ latitude: 30.996525
 loc_type: city
 longitude: 103.614272
 score: 0.49
+snippet: Sichuan city northwest of Chengdu, known for its ancient irrigation system
+  on the Min River.
 sources:
 - https://en.wikipedia.org/wiki/Dujiangyan
 - https://en.wikipedia.org/wiki/Dujiangyan_City

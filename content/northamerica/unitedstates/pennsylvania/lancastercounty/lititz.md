@@ -6,6 +6,8 @@ latitude: 40.157132
 loc_type: city
 longitude: -76.307162
 score: 0.37
+snippet: Moravian small town in Lancaster County, with a historic main street and
+  America's first commercial pretzel bakery
 title: Lititz
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 14.255407
 loc_type: city
 longitude: 120.86715
 score: 0.32
+snippet: Philippine province south of Manila Bay, central to the 1898 declaration
+  of independence.
 title: Cavite
 type: location
 ---

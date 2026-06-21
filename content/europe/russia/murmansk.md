@@ -10,6 +10,7 @@ latitude: 68.9707
 loc_type: city
 longitude: 33.075
 score: 0.34
+snippet: Arctic Circle port city on the Barents Sea, kept ice-free by warm Atlantic currents.
 title: Murmansk
 type: location
 ---

@@ -5,6 +5,7 @@ latitude: 44.312154
 longitude: 9.341706
 title: Lavagna
 type: location
+snippet: Quiet Ligurian coastal town across from Chiavari, centred on a large marina on the Entella.
 score: 0.43
 loc_type: city
 ---

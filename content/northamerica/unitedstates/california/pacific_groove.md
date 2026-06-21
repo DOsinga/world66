@@ -6,6 +6,8 @@ latitude: 36.6177
 loc_type: city
 longitude: -121.9166
 score: 0.47
+snippet: Monterey Peninsula coastal town known for Victorian houses, tide pools, and
+  migrating monarch butterflies.
 title: Pacific Grove
 type: location
 ---

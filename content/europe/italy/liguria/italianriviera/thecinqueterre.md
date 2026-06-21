@@ -10,6 +10,7 @@ loc_type: region
 longitude: 9.7354
 score: 0.79
 title: The Cinque Terre
+snippet: Rugged Ligurian coastal region where five fishing villages cling to terraced cliffs.
 type: location
 ---
 

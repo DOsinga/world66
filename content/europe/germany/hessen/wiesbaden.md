@@ -10,6 +10,8 @@ latitude: 50.082038
 loc_type: city
 longitude: 8.241656
 score: 0.47
+snippet: Hessian spa city between the Taunus and Rhine, shaped by hot springs and
+  Wilhelminian elegance
 title: Wiesbaden
 type: location
 ---

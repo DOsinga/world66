@@ -6,6 +6,8 @@ latitude: 13.2991
 loc_type: city
 longitude: -87.1917
 score: 0.27
+snippet: Southern Honduran city in a hot agricultural valley, with a colonial centre
+  and beloved baleadas.
 title: Choluteca
 type: location
 ---

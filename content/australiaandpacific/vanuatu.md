@@ -1,21 +1,23 @@
 ---
-title: Vanuatu
-type: location
-latitude: -16.525507
-longitude: 168.106915
-image: vanuatu.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Port_Vila_Harbour_(Imagicity_816).jpg
-image_license: CC BY-SA 3.0
-image_attribution: Graham Crumb
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "320,000"
-  Drives On: Left
-  Languages: "~140 — most per capita on Earth"
-  Land Diving on Pentecost: The original bungee jumping
-score: 0.52
+image: vanuatu.jpg
+image_attribution: Graham Crumb
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Port_Vila_Harbour_(Imagicity_816).jpg
+latitude: -16.525507
 loc_type: country
+longitude: 168.106915
+quick_facts:
+  Drives On: Left
+  Land Diving on Pentecost: The original bungee jumping
+  Languages: ~140 — most per capita on Earth
+  Population: 320,000
+score: 0.52
+snippet: South West Pacific archipelago of 83 islands with Melanesian kastom culture
+  and colonial New Hebrides history.
+title: Vanuatu
+type: location
 ---
 
 Vanuatu is an archipelago of 83 islands strung across the South West Pacific, roughly midway between Australia and Fiji. It became independent in 1980 after nearly a century of joint British and French rule — an unusual arrangement called the New Hebrides Condominium that left the country with two official European languages, two separate education systems, and an abiding fondness for French bread and kava in equal measure.

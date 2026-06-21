@@ -13,6 +13,8 @@ latitude: 53.965658
 loc_type: city
 longitude: -1.074305
 score: 0.59
+snippet: Walkable northern English city layering Roman foundations, Viking heritage,
+  medieval walls, and York Minster.
 title: York
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 39.781429
 loc_type: city
 longitude: 115.625229
 score: 0.52
+snippet: Unrestored Great Wall section near Beijing, with steep ridges, crumbling
+  towers, and a Jinshanling hiking route.
 title: Simatai
 type: location
 ---

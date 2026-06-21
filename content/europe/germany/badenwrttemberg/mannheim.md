@@ -12,6 +12,8 @@ latitude: 49.4875
 loc_type: city
 longitude: 8.466
 score: 0.39
+snippet: Rhine-Neckar city built on a grid, linked to Baroque palaces, industry, and
+  early automobiles.
 title: Mannheim
 type: location
 ---

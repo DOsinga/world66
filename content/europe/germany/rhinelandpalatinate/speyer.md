@@ -12,6 +12,8 @@ latitude: 49.316555
 loc_type: city
 longitude: 8.433615
 score: 0.49
+snippet: Rhine city with an imperial cathedral, Reformation history, and a weighty
+  Holy Roman Empire past.
 title: Speyer
 type: location
 ---

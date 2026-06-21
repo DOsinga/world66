@@ -7,6 +7,7 @@ loc_type: city
 longitude: -96.9102
 score: 0.42
 title: Xalapa
+snippet: Cool Veracruz state capital in cloud-forest hills, known for its major archaeology museum.
 type: location
 ---
 

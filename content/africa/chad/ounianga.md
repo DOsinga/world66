@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-31'
 latitude: 19.0539
-longitude: 20.5083
-title: Ounianga
-type: location
-score: 0.28
 loc_type: city
+longitude: 20.5083
+score: 0.28
+snippet: Saharan settlement beside Chad's extraordinary Ounianga lake chains, where
+  freshwater survives among dunes.
 sources:
 - https://en.wikipedia.org/wiki/Lakes_of_Ounianga
 - https://en.wikipedia.org/wiki/Ounianga_K%C3%A9bir_(town)
 - https://en.wikipedia.org/wiki/Lake_Yoa
+title: Ounianga
+type: location
 ---
 
 Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of [Chad's](/africa/chad) most extraordinary natural wonders. The [**Lakes of Ounianga**](/africa/chad/ounianga/lakes_of_ounianga), inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnected desert lakes with no business existing where they do.

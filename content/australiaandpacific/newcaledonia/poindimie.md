@@ -8,6 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plagepoindimi%C3%A9.JPG
 latitude: -20.9496
 loc_type: city
 longitude: 165.3293
+snippet: "East-coast New Caledonian town and lagoon base, close to Tiéti reef and Kanak valleys."
 title: Poindimié
 type: location
 score: 0.4

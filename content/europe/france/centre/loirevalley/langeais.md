@@ -10,6 +10,8 @@ latitude: 47.323934
 loc_type: city
 longitude: 0.407296
 score: 0.51
+snippet: Small Loire town dominated by a unified medieval château tied to Brittany's
+  royal marriage.
 title: Langeais
 type: location
 ---

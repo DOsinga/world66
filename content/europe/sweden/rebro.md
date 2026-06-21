@@ -10,6 +10,7 @@ latitude: 59.274729
 loc_type: city
 longitude: 15.215118
 score: 0.42
+snippet: Swedish market city on the Svartån, dominated by a medieval island castle.
 title: Örebro
 type: location
 ---

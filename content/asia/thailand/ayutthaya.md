@@ -8,6 +8,8 @@ latitude: 14.3561
 loc_type: city
 longitude: 100.5688
 score: 0.64
+snippet: Former Siamese capital of island ruins, brick prangs, and riverbank monasteries
+  north of Bangkok
 title: Ayutthaya
 type: location
 ---

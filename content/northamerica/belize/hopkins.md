@@ -12,6 +12,7 @@ longitude: -88.2669
 score: 0.46
 title: Hopkins
 type: location
+snippet: Garifuna village on Belize's coast, known for beaches, drumming culture, and access to nearby reefs.
 ---
 
 Hopkins is a Garifuna fishing village on the southern coast, about 45 km south of Dangriga. It's one of the best places in Belize to slow down, eat well, and experience Garifuna culture without the package-resort crowds.

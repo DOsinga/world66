@@ -10,6 +10,8 @@ latitude: 39.328141
 loc_type: city
 longitude: 46.15303
 score: 0.4
+snippet: Southern Armenian province of high plateaus, ancient petroglyphs, and megalithic
+  Carahunge near the Gates of Syunik.
 title: Syunik
 type: location
 ---

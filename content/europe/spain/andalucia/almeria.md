@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcazaba_1,_Almeria,_Spain
 latitude: 36.8402
 loc_type: city
 longitude: -2.468
+score: 0.48
+snippet: Dry Andalusian port city where a Moorish fortress rises above harbour streets
+  and desert hills.
 sources:
 - https://en.wikipedia.org/wiki/Almer%C3%ADa
 - https://www.turismodealmeria.org/
 title: Almería
 type: location
-score: 0.48
 ---
 
 Almería is the dry, bright eastern edge of Andalucía, a port city where the old Moorish frontier, a working harbour, and the desert landscapes of Cabo de Gata all meet. It is less polished than [Granada](/europe/spain/andalucia/granada) or [Seville](/europe/spain/andalucia/seville), and that is part of the appeal: the city still feels local, sun-baked, and faintly maritime rather than dressed for visitors.

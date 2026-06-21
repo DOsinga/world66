@@ -12,6 +12,8 @@ latitude: 47.71153
 loc_type: city
 longitude: 13.623933
 score: 0.48
+snippet: Salzkammergut spa town where Habsburg summer life still lingers around the
+  Kaiservilla and riverside villas.
 title: Bad Ischl
 type: location
 ---

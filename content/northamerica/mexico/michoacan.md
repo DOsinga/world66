@@ -9,6 +9,8 @@ latitude: 19.207098
 loc_type: city
 longitude: -101.878113
 score: 0.43
+snippet: Western Mexican state of Purépecha heritage, colonial towns, Pacific coast,
+  and wintering monarch butterflies.
 title: Michoacán
 type: location
 ---

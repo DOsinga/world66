@@ -9,6 +9,8 @@ latitude: 44.3593
 loc_type: city
 longitude: 8.575327
 score: 0.45
+snippet: Ligurian resort town on a broad bay, with Roman shipbuilding roots and Beigua
+  mountain slopes behind
 title: Varazze
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -3.730451
 loc_type: city
 longitude: -38.521799
 score: 0.45
+snippet: Ceará beach capital where Atlantic trade winds, craft markets, and night
+  music shape the waterfront
 title: Fortaleza
 type: location
 ---

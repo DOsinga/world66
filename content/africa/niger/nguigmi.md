@@ -7,6 +7,7 @@ loc_type: city
 longitude: 13.115596
 score: 0.15
 title: Nguigmi
+snippet: Dusty eastern Niger frontier town at the end of the road toward Chad and Lake Chad
 type: location
 ---
 

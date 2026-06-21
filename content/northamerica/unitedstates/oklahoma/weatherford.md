@@ -6,6 +6,8 @@ latitude: 35.526
 loc_type: city
 longitude: -98.707
 score: 0.26
+snippet: Western Oklahoma Route 66 city known for astronaut Thomas Stafford and an
+  unusually strong air-and-space museum
 title: Weatherford
 type: location
 ---

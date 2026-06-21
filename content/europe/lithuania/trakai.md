@@ -9,6 +9,8 @@ latitude: 54.6522
 loc_type: city
 longitude: 24.934
 score: 0.55
+snippet: Lithuanian lake town known for its island castle and the Karaim community's
+  wooden houses.
 title: Trakai
 type: location
 ---

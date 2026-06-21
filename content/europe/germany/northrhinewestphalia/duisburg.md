@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord
 - https://en.wikipedia.org/wiki/Duisburg_Inner_Harbour
 title: Duisburg
+snippet: Ruhr city at the Rhine-Ruhr confluence, known for turning industrial sites into public spaces.
 type: location
 ---
 

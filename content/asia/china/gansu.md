@@ -6,6 +6,8 @@ sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Gansu Province
 type: location
+snippet: Northwestern Chinese corridor province where Silk Road caves, Yellow River
+  noodles, and desert oases meet.
 ---
 
 Gansu is the long corridor through which China's history flowed. The province is shaped like a corridor — narrow, elongated, squeezed between the Tibetan plateau and the Gobi Desert — and the Hexi Corridor that runs along it was for two thousand years the only practical route between China proper and Central Asia. The Silk Road caravans came through here; so did Buddhist missionaries, Nestorian Christians, and Mongol armies. The traces of all of them are still visible.

@@ -10,6 +10,8 @@ latitude: 41.2683
 loc_type: city
 longitude: -110.9632
 score: 0.25
+snippet: Railroad town in southwestern Wyoming's Bear River Valley, with Union Pacific
+  history and nearby High Uinta scenery.
 title: Evanston
 type: location
 ---

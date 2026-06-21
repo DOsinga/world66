@@ -10,6 +10,8 @@ latitude: 54.685728
 loc_type: city
 longitude: -1.20937
 score: 0.28
+snippet: Durham coast port town with a historic quay and the preserved frigate HMS
+  Trincomalee.
 title: Hartlepool
 type: location
 ---

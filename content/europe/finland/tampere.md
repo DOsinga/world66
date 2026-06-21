@@ -8,6 +8,8 @@ latitude: 61.497793
 loc_type: city
 longitude: 23.761637
 score: 0.48
+snippet: Finnish lake city built around industrial rapids, red-brick factories, theatres,
+  and converted museum spaces.
 title: Tampere
 type: location
 ---

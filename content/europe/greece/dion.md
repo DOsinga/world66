@@ -10,6 +10,8 @@ latitude: 40.172173
 loc_type: city
 longitude: 22.487426
 score: 0.46
+snippet: Greek village below Mount Olympus, beside the sacred Macedonian ruins of
+  ancient Dion.
 title: Dion
 type: location
 ---

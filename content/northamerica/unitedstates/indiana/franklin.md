@@ -10,6 +10,8 @@ latitude: 39.4806
 loc_type: city
 longitude: -86.1308
 score: 0.25
+snippet: Midwestern county seat south of Indianapolis, anchored by a courthouse square
+  and Franklin College.
 title: Franklin
 type: location
 ---

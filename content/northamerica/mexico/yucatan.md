@@ -6,11 +6,13 @@ image_attribution: Giles Laurent
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:194_White-nosed_coati_at_the_beach_in_Yucat%C3%A1n_Photo_by_Giles_Laurent.jpg
 latitude: 20.684596
+loc_type: region
 longitude: -88.875567
 score: 0.75
+snippet: Maya heartland peninsula of archaeological cities, cenotes, colonial towns,
+  and Caribbean coast.
 title: Yucatan
 type: location
-loc_type: region
 ---
 
 The Yucatan Peninsula was the heartland of the Maya civilization, and it remains one of the most historically and naturally rich parts of Mexico. Chichen Itza, the most-visited archaeological site in the country, sits near the centre of the peninsula. But the ruins worth seeking out extend far beyond the famous names: Uxmal, Edzna, and the remote Calakmul — deep in a biosphere reserve near the Guatemalan border — are all exceptional and far less crowded.

@@ -10,6 +10,8 @@ latitude: 42.295226
 loc_type: city
 longitude: 12.40917
 score: 0.4
+snippet: Northern Lazio tufa town above a gorge, with Faliscan archaeology and a Renaissance
+  fortress.
 title: Civita Castellana
 type: location
 ---

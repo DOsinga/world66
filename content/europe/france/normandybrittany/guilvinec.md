@@ -8,6 +8,8 @@ image_license: CC BY-SA 2.0
 image_source: https://www.flickr.com/photos/125601701@N03/49921813791
 latitude: 47.799515
 loc_type: city
+snippet: Breton fishing port where weekday trawler landings and langoustine auctions
+  define the waterfront
 longitude: -4.285826
 score: 0.41
 title: Guilvinec

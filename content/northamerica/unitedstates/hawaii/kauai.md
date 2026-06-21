@@ -2,18 +2,20 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: 2026-05-23
+image: kauai.jpg
+image_attribution: Paul Bica
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Coast_of_Kauai,_Hawaii.jpg
 latitude: 22.050384
 loc_type: city
 longitude: -159.558862
 score: 0.74
-title: Kaua'i
-type: location
+snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
+  Canyon.
 sources:
 - https://en.wikipedia.org/wiki/Kaua%CA%BBi
-image: kauai.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Coast_of_Kauai,_Hawaii.jpg
-image_license: CC BY 2.0
-image_attribution: Paul Bica
+title: Kaua'i
+type: location
 ---
 
 Kaua'i is the oldest and northernmost of the main Hawaiian Islands — an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either Oʻahu or Maui. Its nickname, the **"Garden Island"**, is more than marketing: the interior is a near-continuous sheet of jungle and waterfall-filled valleys, and **Mount Waialeale** at the centre is one of the wettest spots on earth, averaging some 9,500 mm of rain a year. The result is that Kaua'i is the most dramatic-looking of the Hawaiian islands. It was used as the backdrop for *Jurassic Park*, *King Kong*, and *South Pacific*, among many others.

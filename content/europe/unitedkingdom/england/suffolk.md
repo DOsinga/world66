@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 52.241
+loc_type: region
 longitude: 1.0466
+score: 0.48
+snippet: Rural East Anglian county of big skies, wool churches, estuaries, and the
+  Sutton Hoo landscape
 title: Suffolk
 type: location
-score: 0.48
-loc_type: region
 ---
 
 Suffolk is a quiet, rural county on England's east coast, bordered by Norfolk to the north and Essex to the south. It is flat, green, and often overlooked — which is part of its appeal. The landscape of big skies, medieval wool churches, and gentle river estuaries inspired Constable and Gainsborough, and has changed less than you might expect since they painted it.

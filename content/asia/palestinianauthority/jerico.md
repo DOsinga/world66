@@ -10,6 +10,8 @@ latitude: 31.8611
 loc_type: city
 longitude: 35.4608
 score: 0.42
+snippet: Ancient Jordan Valley city with Neolithic ruins, desert monasteries, and
+  springs far below sea level
 title: Jericho
 type: location
 ---

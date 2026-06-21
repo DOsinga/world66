@@ -6,6 +6,7 @@ score: 0.42
 sources:
 - https://en.wikivoyage.org/wiki/Henan
 title: Henan Province
+snippet: Yellow River province and cradle of Chinese civilisation, with Luoyang, Kaifeng, Longmen, and Shaolin history.
 type: location
 ---
 

@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Meran,_Panorama_(Blick_vom
 latitude: 46.6704
 loc_type: city
 longitude: 11.1623
+score: 0.55
+snippet: South Tyrolean spa town with Alpine peaks, palm-lined promenades, and Belle
+  Époque resort history.
 sources:
 - https://en.wikipedia.org/wiki/Merano
 - https://en.wikivoyage.org/wiki/Merano
 title: Merano
 type: location
-score: 0.55
 ---
 
 Merano (Meran in German) is a spa town in South Tyrol, nestled in a deep Alpine valley where the Passirio and Adige rivers meet. At under 600 metres of altitude but surrounded by peaks that rise to 3,000 metres, it has an unusually mild microclimate — palm trees and oleander grow in the streets, and the town was a popular winter resort for the European aristocracy in the 19th century. Empress Elisabeth of Austria, known as Sisi, came here to recover from exhaustion in 1870, and her endorsement made the town fashionable.

@@ -10,6 +10,8 @@ latitude: 15.862
 loc_type: city
 longitude: 73.6322
 score: 0.3
+snippet: Konkan coast town near Goa, with cashew groves, fishing beaches, and Dutch-era
+  fort remains.
 title: Vengurla
 type: location
 ---

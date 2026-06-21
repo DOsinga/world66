@@ -12,6 +12,8 @@ latitude: -22.911014
 loc_type: city
 longitude: -43.209373
 score: 0.79
+snippet: Brazilian harbour city where beaches, green mountains, and Christ the Redeemer
+  frame everyday urban life.
 title: Rio de Janeiro
 type: location
 ---

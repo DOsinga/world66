@@ -10,6 +10,8 @@ latitude: 40.942204
 loc_type: city
 longitude: 19.705972
 score: 0.25
+snippet: Central Albanian market town in a fertile plain, remembered for the 1920
+  Congress of Lushnjë.
 title: Lushnjë
 type: location
 ---

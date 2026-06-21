@@ -10,6 +10,8 @@ latitude: 33.0305
 loc_type: city
 longitude: 74.9487
 score: 0.43
+snippet: Pilgrimage town on the Trikuta Mountains, centred on a cave shrine to Mata
+  Vaishno Devi.
 title: Vaishno Devi
 type: location
 ---

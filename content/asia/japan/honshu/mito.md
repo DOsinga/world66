@@ -10,6 +10,8 @@ latitude: 36.365917
 loc_type: city
 longitude: 140.473174
 score: 0.46
+snippet: Ibaraki capital known for Kairakuen, a hillside garden of thousands of plum
+  trees.
 title: Mito
 type: location
 ---

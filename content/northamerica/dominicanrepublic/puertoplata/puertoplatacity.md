@@ -6,6 +6,8 @@ latitude: 19.7957
 loc_type: city
 longitude: -70.688
 score: 0.47
+snippet: Victorian-era Dominican port city with gingerbread houses, Fort San Felipe,
+  and a seafront Malecón.
 title: Puerto Plata City
 type: location
 ---

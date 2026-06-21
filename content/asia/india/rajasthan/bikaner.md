@@ -9,6 +9,8 @@ latitude: 28.016
 loc_type: city
 longitude: 73.3171
 score: 0.49
+snippet: Rajasthani desert city with a flatland fort, carved havelis, and fewer crowds
+  than the western circuit.
 title: Bikaner
 type: location
 ---

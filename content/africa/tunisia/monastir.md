@@ -10,6 +10,8 @@ latitude: 35.770758
 loc_type: city
 longitude: 10.828051
 score: 0.44
+snippet: Eastern Tunisian coastal resort town with beaches, a historic ribat, and
+  a seafront peninsula.
 title: Monastir
 type: location
 ---

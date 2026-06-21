@@ -10,6 +10,8 @@ latitude: 15.01
 loc_type: city
 longitude: 74.023
 score: 0.52
+snippet: South Goa beach village on a sheltered crescent bay, quieter than the state's
+  northern resorts.
 title: Palolem
 type: location
 ---

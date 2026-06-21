@@ -12,6 +12,7 @@ loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Ashford,_New_York
 - https://www.ashfordny.gov/attractions.html
+snippet: "Rural western New York town in the Allegheny foothills, home to Griffis Sculpture Park."
 ---
 
 Ashford is a tiny rural community in northern Cattaraugus County, nestled in the rolling Allegheny foothills of western [New York State](/northamerica/unitedstates/newyorkstate). The town sits along US-219, the main corridor running south toward Ellicottville and the Pennsylvania border.

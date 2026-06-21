@@ -14,6 +14,7 @@ longitude: 24.757269
 score: 0.67
 title: Tallinn
 type: location
+snippet: "Baltic capital with a compact medieval old town of red roofs, stone towers, and Toompea views."
 ---
 
 Tallinn is the capital of Estonia and one of the best-preserved medieval cities in Northern Europe. Since the collapse of the Soviet Union it has transformed from a provincial town in a vast empire into the busy, wired, forward-looking capital of a small Baltic country — and it has done so without losing the cobbled streets, red roofs, and stone towers that made it famous in the first place.

@@ -14,6 +14,7 @@ sources:
 title: Lunenburg
 type: location
 score: 0.52
+snippet: Colonial harbour town in Nova Scotia with an 18th-century grid and brightly painted wooden streetscapes.
 ---
 
 *North America > Canada > Nova Scotia > Lunenburg*

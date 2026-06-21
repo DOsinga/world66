@@ -13,6 +13,7 @@ loc_type: city
 longitude: 151.7817
 score: 0.4
 title: Newcastle
+snippet: Working harbour city north of Sydney, reinvented after the closure of its steelworks.
 type: location
 ---
 

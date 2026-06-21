@@ -10,6 +10,8 @@ latitude: 45.184021
 loc_type: city
 longitude: 0.716039
 score: 0.5
+snippet: Dordogne capital where Roman ruins and the domed Cathédrale Saint-Front share
+  the Isle riverbank
 title: Périgueux
 type: location
 ---

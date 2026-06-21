@@ -9,6 +9,7 @@ latitude: 43.316667
 loc_type: city
 longitude: -2.666667
 score: 0.48
+snippet: Basque market town where the Gernika Oak and Peace Museum carry the weight of autonomy and bombing.
 title: Guernika
 type: location
 ---

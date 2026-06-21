@@ -9,6 +9,8 @@ latitude: 56.3289
 loc_type: region
 longitude: -6.4084
 score: 0.61
+snippet: Small Hebridean island where St Columba's monastic legacy gives five quiet
+  kilometres remarkable historical weight.
 title: Iona
 type: location
 ---

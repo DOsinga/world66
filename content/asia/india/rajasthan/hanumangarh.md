@@ -10,6 +10,8 @@ latitude: 29.5819
 loc_type: city
 longitude: 74.3294
 score: 0.24
+snippet: Northern Rajasthan agricultural town near Kalibangan's Indus Valley ruins
+  and Bhatner Fort.
 title: Hanumangarh
 type: location
 ---

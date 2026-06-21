@@ -8,6 +8,7 @@ latitude: 44.058902
 loc_type: region
 longitude: -72.6713
 score: 0.62
+snippet: Rural New England state of Green Mountain villages, Lake Champlain towns, skiing, and fall foliage.
 title: Vermont
 type: location
 ---

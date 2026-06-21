@@ -10,6 +10,8 @@ latitude: 41.521898
 loc_type: city
 longitude: 41.548918
 score: 0.37
+snippet: Georgian border village on the Turkish frontier, with a pebbly beach and
+  mixed Adjara traditions
 title: Sarpi
 type: location
 ---

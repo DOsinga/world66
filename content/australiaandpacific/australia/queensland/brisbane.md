@@ -11,6 +11,7 @@ loc_type: city
 longitude: 153.020563
 score: 0.51
 title: Brisbane
+snippet: Subtropical Queensland capital built along looping bends of the Brisbane River near Moreton Bay.
 type: location
 ---
 

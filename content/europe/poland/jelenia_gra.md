@@ -10,6 +10,8 @@ latitude: 50.9002
 loc_type: city
 longitude: 15.7349
 score: 0.41
+snippet: Karkonosze gateway city in southwestern Poland, with an arcaded old square
+  and mountain trails nearby.
 title: Jelenia Góra
 type: location
 ---

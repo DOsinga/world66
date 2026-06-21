@@ -9,6 +9,8 @@ latitude: 43.935718
 loc_type: city
 longitude: 11.094147
 score: 0.45
+snippet: Tuscan textile city near Florence, with medieval walls, Filippo Lippi art,
+  and Italy’s largest Chinese community
 title: Prato
 type: location
 ---

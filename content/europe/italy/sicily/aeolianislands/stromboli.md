@@ -10,6 +10,8 @@ latitude: 38.793
 loc_type: city
 longitude: 15.2109
 score: 0.58
+snippet: Volcanic Aeolian island built around an active cone that has erupted for
+  roughly two thousand years.
 title: Stromboli
 type: location
 ---

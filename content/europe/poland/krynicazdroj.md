@@ -10,6 +10,8 @@ latitude: 49.420614
 loc_type: city
 longitude: 20.959418
 score: 0.42
+snippet: Polish spa town in the Beskid Sądecki, built around mineral springs and mountain
+  seasons.
 sources:
 - https://en.wikipedia.org/wiki/Krynica-Zdr%C3%B3j
 title: Krynica-Zdrój

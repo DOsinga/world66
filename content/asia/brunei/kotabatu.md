@@ -10,6 +10,7 @@ latitude: 4.8808
 loc_type: city
 longitude: 114.9629
 title: Kota Batu
+snippet: Archaeological site east of Bandar Seri Begawan, once the capital of Brunei's medieval sultanate
 type: location
 score: 0.35
 ---

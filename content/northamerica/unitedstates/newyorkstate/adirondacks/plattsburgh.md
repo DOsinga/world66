@@ -11,6 +11,7 @@ loc_type: city
 longitude: -73.454291
 score: 0.35
 title: Plattsburgh
+snippet: Lake Champlain city near the Canadian border, remembered for a decisive War of 1812 naval battle.
 type: location
 ---
 

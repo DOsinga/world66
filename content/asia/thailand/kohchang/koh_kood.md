@@ -10,6 +10,8 @@ latitude: 11.662155
 loc_type: city
 longitude: 102.568105
 score: 0.59
+snippet: Quiet island in the Koh Chang archipelago, with palm-backed beaches, waterfalls,
+  and rubber plantations.
 title: Koh Kood
 type: location
 ---

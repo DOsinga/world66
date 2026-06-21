@@ -9,6 +9,7 @@ latitude: 42.45
 loc_type: city
 longitude: -8.73
 score: 0.52
+snippet: Galician wine coast where Albariño vineyards climb above estuaries, fishing villages, and mussel farms.
 title: Rías Baixas
 type: location
 ---

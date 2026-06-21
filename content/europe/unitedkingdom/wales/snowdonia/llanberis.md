@@ -6,6 +6,7 @@ latitude: 53.121276
 loc_type: city
 longitude: -4.127748
 score: 0.5
+snippet: Snowdonia village below Yr Wyddfa, beside Llyn Padarn and the old Dinorwig slate quarries.
 title: Llanberis
 type: location
 ---

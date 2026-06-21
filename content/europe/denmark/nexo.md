@@ -10,6 +10,8 @@ latitude: 55.065014
 loc_type: city
 longitude: 15.130727
 score: 0.38
+snippet: Working Bornholm fishing port with Baltic boats, postwar streets, and the
+  legacy of novelist Martin Andersen Nexø.
 sources:
 - https://en.wikipedia.org/wiki/Nex%C3%B8
 title: Nexo

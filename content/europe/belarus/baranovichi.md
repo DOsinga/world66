@@ -13,6 +13,8 @@ sources:
 - https://en.wikipedia.org/wiki/Baranovichi
 title: Baranovichi
 type: location
+snippet: Western Belarus railway junction city that grew where two imperial rail lines
+  crossed.
 ---
 
 Baranovichi is a mid-sized city of about 180,000 in western Belarus, roughly halfway between [Minsk](/europe/belarus/minsk) and [Brest](/europe/belarus/brest) on the main road and rail line. It is a railway junction town at heart — it grew up where two imperial rail lines crossed in the 1870s — and most travellers pass through rather than stop.

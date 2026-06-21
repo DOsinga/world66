@@ -10,6 +10,8 @@ latitude: 44.811349
 loc_type: city
 longitude: -91.498494
 score: 0.33
+snippet: Wisconsin college town at the Chippewa and Eau Claire river confluence, built
+  on lumber and music.
 title: Eau Claire
 type: location
 ---

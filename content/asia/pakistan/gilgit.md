@@ -10,6 +10,8 @@ latitude: 35.92081
 loc_type: city
 longitude: 74.314044
 score: 0.39
+snippet: Northern Pakistan transport hub in a dry mountain valley where Karakoram
+  caravan routes met.
 title: Gilgit
 type: location
 ---

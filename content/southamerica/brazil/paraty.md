@@ -9,6 +9,8 @@ latitude: -23.2196
 loc_type: city
 longitude: -44.7154
 score: 0.59
+snippet: Brazilian colonial port between Rio and São Paulo, where cobbled streets
+  flood gently with the tide.
 title: Paraty
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 11.861324
 loc_type: city
 longitude: -15.583055
 score: 0.23
+snippet: Unhurried West African capital with faded Portuguese colonial streets around
+  Bissau Velho.
 title: Bissau
 type: location
 ---

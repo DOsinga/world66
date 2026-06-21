@@ -10,6 +10,8 @@ latitude: -23.143675
 loc_type: city
 longitude: 113.770165
 score: 0.51
+snippet: Western Australian reef township where Ningaloo's coral lies close enough
+  to snorkel straight from shore.
 title: Coral Bay
 type: location
 ---

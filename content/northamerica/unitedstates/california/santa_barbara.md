@@ -12,6 +12,7 @@ longitude: -119.7027
 score: 0.62
 title: Santa Barbara
 type: location
+snippet: Coastal California city of Spanish Colonial Revival architecture between the Pacific and Santa Ynez Mountains.
 ---
 
 Santa Barbara earns its nickname — the American Riviera — without too much strain. The city sits where the Santa Ynez Mountains meet the Pacific Ocean 160 km north of Los Angeles, in a microclimate warm enough to support bougainvillea, palm trees, and year-round outdoor life. The architecture is predominantly Spanish Colonial Revival — white stucco, red-tiled roofs — the result of strict building codes put in place after a 1925 earthquake, and the effect is unusually coherent for a California city.

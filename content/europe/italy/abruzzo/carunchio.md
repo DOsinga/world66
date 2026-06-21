@@ -10,6 +10,8 @@ latitude: 41.916634
 loc_type: city
 longitude: 14.526722
 score: 0.36
+snippet: Quiet Abruzzo hilltop village with Maiella views, steep lanes, and a 17th-century
+  church organ
 title: Carunchio
 type: location
 ---

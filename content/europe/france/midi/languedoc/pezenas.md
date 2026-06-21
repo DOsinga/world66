@@ -10,6 +10,8 @@ latitude: 43.461178
 loc_type: city
 longitude: 3.422832
 score: 0.48
+snippet: Historic Hérault town where Renaissance mansions and Molière memories fill
+  a preserved 17th-century centre.
 title: Pézenas
 type: location
 ---

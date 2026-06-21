@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Paracas_Candelabra
 title: Paracas
 type: location
+snippet: Small Peruvian coastal town serving the Ballestas Islands and Paracas National Reserve.
 ---
 
 Paracas is a small coastal town south of [Pisco](/southamerica/peru/pisco), used mainly as a jumping-off point for two of Peru's best natural attractions: the [Islas Ballestas](/southamerica/peru/paracas/islas_ballestas) and the [Paracas National Reserve](/southamerica/peru/paracas/paracas_reserve).

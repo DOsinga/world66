@@ -12,6 +12,7 @@ loc_type: city
 longitude: 0.688927
 score: 0.58
 title: Tours
+snippet: "Loire Valley city at the Cher confluence, with half-timbered lanes and château-country access."
 type: location
 ---
 

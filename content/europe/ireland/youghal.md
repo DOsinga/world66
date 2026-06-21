@@ -10,6 +10,8 @@ latitude: 51.949474
 loc_type: city
 longitude: -7.843189
 score: 0.43
+snippet: Walled Irish harbour town at the Blackwater River mouth, with medieval streets
+  and a long sandy beach
 title: Youghal
 type: location
 ---

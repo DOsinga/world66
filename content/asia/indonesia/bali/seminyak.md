@@ -10,6 +10,7 @@ latitude: -8.69056
 loc_type: city
 longitude: 115.168704
 score: 0.63
+snippet: Upmarket Balinese beach strip north of Kuta, known for west-facing surf, boutiques, and restaurants.
 title: Seminyak
 type: location
 ---

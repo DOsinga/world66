@@ -10,6 +10,8 @@ latitude: 45.958151
 loc_type: city
 longitude: 13.6475
 score: 0.41
+snippet: Planned Slovenian border city facing Italian Gorizia, with vineyards, modernist
+  avenues, and Europe Square.
 title: Nova Gorica
 type: location
 ---

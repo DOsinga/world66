@@ -10,6 +10,8 @@ latitude: 30.4658
 loc_type: city
 longitude: 78.4837
 score: 0.37
+snippet: Himalayan Uttarakhand district defined by Tehri Dam, its vast reservoir,
+  and roads into Garhwal pilgrimage country.
 title: Tehri Garhwal
 type: location
 ---

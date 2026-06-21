@@ -8,6 +8,8 @@ latitude: 45.951094
 loc_type: region
 longitude: 8.634165
 score: 0.71
+snippet: Long Alpine lake between Italy and Switzerland, known for gardens, ferries,
+  and Borromean Islands villages
 title: Lago Maggiore
 type: location
 ---

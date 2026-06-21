@@ -12,6 +12,8 @@ latitude: 35.1856
 loc_type: city
 longitude: 33.3823
 score: 0.42
+snippet: Northern Nicosia district with Ottoman caravanserais, converted Gothic churches,
+  and Venetian walls.
 title: Lefkoşa
 type: location
 ---

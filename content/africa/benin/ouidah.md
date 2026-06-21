@@ -10,6 +10,7 @@ latitude: 6.366615
 loc_type: city
 longitude: 2.08536
 score: 0.39
+snippet: Historic West African town where slave-trade memory and Vodun practice shape the streets and shoreline.
 title: Ouidah
 type: location
 ---

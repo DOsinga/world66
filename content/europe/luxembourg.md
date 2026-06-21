@@ -1,22 +1,24 @@
 ---
-latitude: 49.815868
-longitude: 6.129675
-title: Luxembourg
-type: location
-image: luxembourg.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Luxembourg_railway_station_8_Oct_2024.jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Libreravi" title="User:Libreravi">Ravi
-  Dwivedi</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "680,000"
-  Public Transport: Free since 2020
-  Non-Luxembourgish Residents: "Nearly 50%"
-  Languages in Daily Use: "3 — Luxembourgish, French, German"
-score: 0.48
+image: luxembourg.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Libreravi" title="User:Libreravi">Ravi
+  Dwivedi</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Luxembourg_railway_station_8_Oct_2024.jpg
+latitude: 49.815868
 loc_type: country
+longitude: 6.129675
+quick_facts:
+  Languages in Daily Use: 3 — Luxembourgish, French, German
+  Non-Luxembourgish Residents: Nearly 50%
+  Population: 680,000
+  Public Transport: Free since 2020
+score: 0.48
+snippet: Small European grand duchy of fortress cities, Ardennes castles, Moselle
+  vineyards, and free public transport
+title: Luxembourg
+type: location
 ---
 
 The Grand Duchy of Luxembourg is one of Europe's smallest countries and quietly one of its most interesting. Wedged between Belgium, Germany, and France, it covers just 2,586 square kilometres — slightly smaller than Rhode Island — yet contains a genuine capital city, four distinct regions of countryside, a UNESCO-listed fortress, fine medieval castles, some of the best hiking in the Benelux, and a wine region that deserves more attention than it gets.

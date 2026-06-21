@@ -11,6 +11,7 @@ loc_type: city
 longitude: 121.0299
 score: 0.29
 title: San Juan
+snippet: "Compact Metro Manila city with outsized historical importance in the Philippine revolution."
 type: location
 ---
 

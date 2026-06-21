@@ -6,6 +6,7 @@ latitude: 1.092698
 loc_type: city
 longitude: 9.665485
 score: 0.16
+snippet: "Remote southern mainland Equatorial Guinea town on a broad estuary near the Gabonese border."
 title: Acalayong
 type: location
 ---

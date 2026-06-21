@@ -1,10 +1,12 @@
 ---
+latitude: 15.18
+loc_type: country
+longitude: 145.75
 score: 0.38
+snippet: Western Pacific archipelago where coral reefs and World War II history shape
+  Saipan, Tinian, and Rota.
 title: Northern Mariana Islands
 type: location
-loc_type: country
-latitude: 15.18
-longitude: 145.75
 ---
 
 The Northern Mariana Islands are a chain of fifteen islands in the western Pacific, a US commonwealth that stretches 750 kilometres from just north of Guam to the vicinity of Japan. The three inhabited islands — Saipan, Tinian, and Rota — each have a distinct character, though all share the warm water, coral reefs, and heavy World War II history that define the archipelago.

@@ -1,10 +1,12 @@
 ---
-title: Baška
-type: location
-loc_type: city
 latitude: 44.9667
+loc_type: city
 longitude: 14.7333
 score: 0.54
+snippet: Krk island beach town centred on Baška's long pebble strand and early Adriatic
+  bathing tradition
+title: Baška
+type: location
 ---
 
 The Great Beach is a natural pebble beach, 1800 m long, which can take several thousand swimmers with ease. It's particularly suitable for children and non-swimmers.

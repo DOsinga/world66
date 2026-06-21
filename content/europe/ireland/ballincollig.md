@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
 image: ballincollig.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Castles_of_Munster,_Ballincollig,_Cork_(1)_-_geograph.org.uk_-_3036584.jpg
 image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Castles_of_Munster,_Ballincollig,_Cork_(1)_-_geograph.org.uk_-_3036584.jpg
 latitude: 51.888264
+loc_type: city
 longitude: -8.591841
+score: 0.31
+snippet: Cork commuter town with an 18th-century gunpowder-mill complex preserved
+  along the River Lee.
 title: Ballincollig
 type: location
-score: 0.31
-loc_type: city
 ---
 
 Ballincollig is a large and growing town about 10 km west of [Cork](/europe/ireland/cork) city on the road to Macroom. Its most interesting feature is the [Royal Gunpowder Mills](/europe/ireland/ballincollig/royal_gunpowder_mills), an 18th-century industrial complex now preserved as a regional park with walking trails along the River Lee. The ruins of the mills, workers' cottages, and canal system give a vivid picture of what was once one of the largest gunpowder factories in the British Isles.

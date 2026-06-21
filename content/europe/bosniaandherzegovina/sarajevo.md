@@ -9,6 +9,8 @@ latitude: 43.8563
 loc_type: city
 longitude: 18.4131
 score: 0.58
+snippet: Bosnian capital where Ottoman lanes, Habsburg boulevards, and siege memory
+  meet in one narrow valley
 title: Sarajevo
 type: location
 ---

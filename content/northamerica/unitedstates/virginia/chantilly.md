@@ -1,4 +1,5 @@
 ---
+snippet: Northern Virginia suburb near Dulles, chiefly known for the Smithsonian's Udvar-Hazy air and space annex.
 title: Chantilly
 type: location
 latitude: 38.885219

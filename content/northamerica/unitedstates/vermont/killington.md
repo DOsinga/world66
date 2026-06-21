@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-05-29'
 image: killington.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Killington_Peak_View_Green_Mountains_Rutland_County_Vermont.jpg
 image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Killington_Peak_View_Green_Mountains_Rutland_County_Vermont.jpg
 latitude: 43.6743
+loc_type: city
 longitude: -72.7784
+score: 0.46
+snippet: Vermont mountain town centred on the state's largest ski resort and year-round
+  outdoor trails.
 title: Killington
 type: location
-score: 0.46
-loc_type: city
 ---
 
 Killington is Vermont's biggest ski resort and one of the largest in the eastern United States, with seven mountain areas, nearly 100 kilometres of trails, and a season that often stretches from October into May. Locals call it "The Beast of the East," and on a busy winter weekend the access road is a slow crawl of ski traffic.

@@ -10,6 +10,8 @@ latitude: 8.78
 loc_type: city
 longitude: -82.44
 score: 0.45
+snippet: Panamanian highland province of coffee towns, cloud forests, and Volcán Barú,
+  the country's highest peak
 title: Chiriquí
 type: location
 ---

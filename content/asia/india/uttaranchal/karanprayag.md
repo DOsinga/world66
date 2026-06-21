@@ -6,6 +6,8 @@ latitude: 30.26239
 loc_type: city
 longitude: 79.216163
 score: 0.33
+snippet: Garhwal Himalayan town at the sacred confluence of the Pindar and Alaknanda
+  rivers.
 title: Karanprayag
 type: location
 ---

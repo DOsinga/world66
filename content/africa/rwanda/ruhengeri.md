@@ -7,6 +7,8 @@ latitude: -1.497769
 loc_type: city
 longitude: 29.63226
 score: 0.48
+snippet: Northern Rwandan town below the Virunga peaks, used as the main base for
+  Volcanoes National Park
 title: Musanze (Ruhengeri)
 type: location
 ---

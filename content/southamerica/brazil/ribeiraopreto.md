@@ -10,6 +10,8 @@ latitude: -21.1776
 loc_type: city
 longitude: -47.8101
 score: 0.32
+snippet: Prosperous São Paulo interior city shaped by sugarcane, coffee wealth, and
+  agribusiness culture.
 title: Ribeirão Preto
 type: location
 ---

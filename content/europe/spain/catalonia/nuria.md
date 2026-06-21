@@ -9,6 +9,8 @@ latitude: 42.3977
 loc_type: feature
 longitude: 2.1547
 score: 0.52
+snippet: High Pyrenean sanctuary valley reached by rack railway, with pilgrimage traditions
+  and mountain walking.
 sources:
 - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
 - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria_Rack_Railway

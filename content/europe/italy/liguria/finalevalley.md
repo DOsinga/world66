@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 44.169
+loc_type: region
 longitude: 8.343
+score: 0.54
+snippet: Ligurian coastal valley of medieval Finalborgo, limestone climbing walls,
+  Roman bridges, olive groves, and Mediterranean cliffs.
 title: Finale Valley
 type: location
-score: 0.54
-loc_type: region
 ---
 
 The Finale valley on the Ligurian coast is one of the best-kept secrets of the Italian Riviera. Composed of several distinct centres — Finale Marina on the seafront, the medieval walled town of Finalborgo, and Finale Pia further inland — the area has a layered history stretching back to prehistoric times, and some of the best rock climbing in southern Europe.

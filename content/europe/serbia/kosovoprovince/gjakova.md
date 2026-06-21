@@ -1,10 +1,11 @@
 ---
-title: Gjakova
-type: location
-loc_type: city
 latitude: 42.3803
+loc_type: city
 longitude: 20.4289
 score: 0.32
+snippet: Kosovo trading city with a restored Ottoman bazaar and strong Albanian character.
+title: Gjakova
+type: location
 ---
 
 Gjakova (Đakovica in Serbian) is one of Kosovo's larger cities, in the southwest of the country near the Albanian border. It has a strong Albanian character and a long history as a trading and craft centre — the old bazaar, Çarshia e Gjatë, is one of the best-preserved Ottoman bazaars in the Balkans, stretching for nearly a kilometre through the centre of the old town.

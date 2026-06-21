@@ -10,6 +10,7 @@ loc_type: city
 longitude: 134.55
 score: 0.5
 title: Tokushima
+snippet: Shikoku city on the northeast coast, best known for the August Awa Odori dance festival.
 type: location
 ---
 

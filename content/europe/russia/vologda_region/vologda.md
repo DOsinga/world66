@@ -10,6 +10,8 @@ latitude: 59.2187
 loc_type: city
 longitude: 39.8914
 score: 0.29
+snippet: Historic Russian river city known for its Saint Sophia Cathedral, fortified
+  monasteries, and northern trade heritage.
 title: Vologda
 type: location
 ---

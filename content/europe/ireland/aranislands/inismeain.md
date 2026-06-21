@@ -11,6 +11,8 @@ latitude: 53.0855
 loc_type: city
 longitude: -9.587
 score: 0.46
+snippet: Middle Aran Island of Irish-speaking solitude, dry-stone walls, limestone
+  fields, and Synge associations.
 title: Inis Meáin
 type: location
 ---

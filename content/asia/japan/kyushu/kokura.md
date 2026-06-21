@@ -9,6 +9,8 @@ latitude: 33.8833
 loc_type: city
 longitude: 130.8752
 score: 0.43
+snippet: Kitakyushu district centered on a castle and sprawling covered arcades near
+  the Kanmon Strait
 title: Kokura
 type: location
 ---

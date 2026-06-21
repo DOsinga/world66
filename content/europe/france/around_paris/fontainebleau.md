@@ -9,6 +9,8 @@ latitude: 48.404938
 loc_type: city
 longitude: 2.701587
 score: 0.53
+snippet: Forest town south of Paris, anchored by a royal palace and world-famous sandstone
+  bouldering.
 title: Fontainebleau
 type: location
 ---

@@ -9,11 +9,13 @@ latitude: 38.343637
 loc_type: city
 longitude: -0.488171
 score: 0.55
-title: Alicante
-type: location
+snippet: Costa Blanca port city below Santa Bàrbara Castle, with a palm-lined marble
+  waterfront promenade.
 sources:
 - https://en.wikipedia.org/wiki/Alicante
 - https://en.wikipedia.org/wiki/Santa_B%C3%A0rbara_Castle
+title: Alicante
+type: location
 ---
 
 Alicante (Valencian: Alacant) is the main city of the Costa Blanca, a busy port and regional capital on Spain's southeastern coast with a genuinely attractive old city behind the tourist facade. The town climbs steeply from the waterfront promenade up to the enormous [Santa Bàrbara Castle](/europe/spain/spanishcostas/alicante/santa_barbara_castle) on Mount Benacantil — that castle, more than anything, is what gives Alicante its distinctive skyline and explains why the city has been fought over for centuries.

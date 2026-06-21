@@ -9,6 +9,8 @@ latitude: 8.077516
 loc_type: city
 longitude: 77.552346
 score: 0.46
+snippet: Southern tip of India where three seas meet beside temples, memorial rocks,
+  and multicoloured sand.
 title: Kanyakumari
 type: location
 ---

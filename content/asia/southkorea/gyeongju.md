@@ -1,16 +1,18 @@
 ---
-title: Gyeongju
-type: location
-loc_type: city
-latitude: 35.8562
-longitude: 129.2247
 done:
   add_missing_places: 2026-06-05
 image: gyeongju.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_under_blue_sky_in_Gyeongju_South_Korea.jpg
+latitude: 35.8562
+loc_type: city
+longitude: 129.2247
 score: 0.6
+snippet: Former Silla capital where royal tombs, Buddhist temples, and palace ruins
+  fill a living city.
+title: Gyeongju
+type: location
 ---
 
 Gyeongju was the capital of the Silla Kingdom for nearly a thousand years — from 57 BC to AD 935 — and is often called the 'museum without walls'. The modern city of 250,000 people sits on a landscape so saturated with ancient tombs, temples, shrines, palaces, and Buddhist art that UNESCO has designated the entire historic area a World Heritage Site. It is the closest thing Korea has to a Kyoto or Rome: a living city where daily life takes place among 1,500 years of mostly intact civilization.

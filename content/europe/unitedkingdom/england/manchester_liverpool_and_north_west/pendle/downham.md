@@ -11,6 +11,7 @@ loc_type: city
 longitude: -2.3123
 score: 0.29
 title: Downham
+snippet: "Lancashire village on Pendle Hill's western slopes, preserved by estate rules and witch-trial history."
 type: location
 ---
 

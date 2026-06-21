@@ -1,9 +1,11 @@
 ---
+latitude: 58.9
+loc_type: region
+longitude: 22.6
+snippet: Quiet Baltic island of lighthouses, juniper heaths, pine forests, and Estonia's
+  famously dry island humour.
 title: Hiiumaa
 type: location
-loc_type: region
-latitude: 58.9
-longitude: 22.6
 ---
 
 Hiiumaa is Estonia's second-largest island, lying in the eastern Baltic Sea west of the mainland. It is quieter and less visited than its larger neighbour Saaremaa, which suits the islanders fine. Life here moves at its own pace, and the islanders are known throughout Estonia for a dry, laconic humour that's become something of a national joke — and a point of local pride.

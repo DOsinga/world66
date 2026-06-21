@@ -7,6 +7,7 @@ loc_type: city
 longitude: -86.309078
 score: 0.34
 title: Montgomery
+snippet: "Alabama capital where Confederate history and the civil rights movement meet in a compact Southern city."
 type: location
 ---
 

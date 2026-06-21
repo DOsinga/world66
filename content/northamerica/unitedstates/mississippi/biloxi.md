@@ -8,6 +8,7 @@ longitude: -88.889382
 score: 0.36
 title: Biloxi
 type: location
+snippet: Mississippi Gulf Coast city on a narrow peninsula, known for casinos, seafood, and the Biloxi Lighthouse.
 ---
 
 Biloxi sits on a narrow peninsula between the Mississippi Sound and Back Bay, a Gulf Coast city that has reinvented itself several times over. It started as a French colonial capital, became a playground for New Orleans weekenders, was nearly wiped off the map by Hurricane Katrina in 2005, and rebuilt around its casino industry.

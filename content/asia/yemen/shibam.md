@@ -10,6 +10,8 @@ latitude: 15.9267
 loc_type: city
 longitude: 48.6262
 score: 0.37
+snippet: Hadramawt valley town famed for its walled cluster of tall mud-brick tower
+  houses.
 title: Shibam
 type: location
 ---

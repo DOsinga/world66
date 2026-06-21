@@ -10,6 +10,8 @@ latitude: 16.247
 loc_type: city
 longitude: 103.2506
 score: 0.32
+snippet: Isan college town whose universities give a young energy to otherwise untouristed
+  central Thailand.
 title: Mahasarakham
 type: location
 ---

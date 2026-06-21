@@ -12,6 +12,8 @@ latitude: 15.145
 loc_type: city
 longitude: 120.5887
 score: 0.35
+snippet: Pampanga city near Clark Field, shaped by air-base history, Kapampangan food,
+  and Mount Pinatubo
 title: Angeles City
 type: location
 ---

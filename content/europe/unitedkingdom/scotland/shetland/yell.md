@@ -10,6 +10,8 @@ latitude: 60.608075
 loc_type: city
 longitude: -1.16171
 score: 0.38
+snippet: Middle island of Shetland, largely covered by peat bog between Mainland and
+  Unst.
 title: Yell
 type: location
 ---

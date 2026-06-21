@@ -11,6 +11,7 @@ loc_type: city
 longitude: 34.295447
 score: 0.56
 title: Sharm el-Sheikh
+snippet: "Red Sea resort city at Sinai's southern tip, known for reefs around Ras Mohammed."
 type: location
 ---
 

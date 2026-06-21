@@ -11,6 +11,8 @@ latitude: 19.0414
 loc_type: city
 longitude: -98.2063
 score: 0.53
+snippet: Colonial Mexican city of tiled churches and mole poblano, framed by Popocatépetl
+  and Iztaccíhuatl.
 title: Puebla
 type: location
 ---

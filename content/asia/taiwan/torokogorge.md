@@ -10,6 +10,8 @@ latitude: 24.157617
 loc_type: feature
 longitude: 121.617428
 score: 0.68
+snippet: Taiwanese marble canyon where the Liwu River cuts through Taroko National
+  Park's high mountain walls.
 title: Taroko Gorge
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -17.290947
 loc_type: city
 longitude: 177.125786
 score: 0.65
+snippet: Volcanic Fijian island chain north of Viti Levu, with white beaches, clear
+  lagoons, and slow village life
 sources:
 - https://en.wikipedia.org/wiki/Yasawa
 - https://en.wikipedia.org/wiki/Yasawa_Islands

@@ -11,6 +11,8 @@ latitude: 45.437191
 loc_type: city
 longitude: 12.33459
 score: 0.93
+snippet: Lagoon city of canals, palaces, and Venetian painting, beautiful despite
+  summer crowds and decay
 title: Venice
 type: location
 ---

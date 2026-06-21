@@ -10,6 +10,8 @@ latitude: 9.516451
 loc_type: city
 longitude: 123.156635
 score: 0.29
+snippet: Old Negros Oriental coastal city with a Spanish-era church, plaza, and views
+  across Tañon Strait.
 title: Tanjay
 type: location
 ---

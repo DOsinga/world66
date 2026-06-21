@@ -7,6 +7,8 @@ score: 0.4
 title: West Bengal
 type: location
 loc_type: region
+snippet: Eastern Indian state stretching from Himalayan foothills to the Sundarbans,
+  shaped by Bengali culture.
 ---
 
 *Asia > India > West Bengal*

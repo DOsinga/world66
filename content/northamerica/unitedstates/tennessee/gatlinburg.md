@@ -11,6 +11,8 @@ latitude: 35.7143
 loc_type: city
 longitude: -83.5102
 score: 0.51
+snippet: Smoky Mountains resort town packed into a neon valley at the national park
+  entrance.
 title: Gatlinburg
 type: location
 ---

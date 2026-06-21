@@ -11,6 +11,7 @@ loc_type: city
 longitude: -2.890896
 score: 0.5
 title: Chester
+snippet: Walled English city on the River Dee, known for Roman remains and medieval shopping rows.
 type: location
 ---
 

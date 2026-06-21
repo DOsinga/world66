@@ -9,6 +9,8 @@ latitude: 52.191185
 loc_type: city
 longitude: -2.220658
 score: 0.33
+snippet: River Severn cathedral city where King John's tomb and cricket-ground views
+  anchor the historic centre.
 sources:
 - https://en.wikipedia.org/wiki/Worcester,_England
 - https://en.wikivoyage.org/wiki/Worcester_(England)

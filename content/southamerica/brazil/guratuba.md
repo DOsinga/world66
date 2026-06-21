@@ -6,6 +6,8 @@ latitude: -25.8832
 loc_type: city
 longitude: -48.5753
 score: 0.36
+snippet: Paraná coastal town where Atlantic beaches, Guaratuba Bay, mangroves, and
+  forested hills meet.
 title: Guaratuba
 type: location
 ---

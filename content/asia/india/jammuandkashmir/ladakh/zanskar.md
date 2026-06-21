@@ -21,6 +21,7 @@ latitude: 33.5
 loc_type: region
 longitude: 76.8
 title: Zanskar
+snippet: Remote Ladakhi valley region cut off by snow and anchored by Tibetan Buddhist monasteries.
 type: location
 ---
 

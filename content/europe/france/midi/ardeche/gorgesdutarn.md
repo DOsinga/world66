@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 44.2515
+loc_type: feature
 longitude: 3.231
+score: 0.52
+snippet: Southern French canyon where the Tarn cuts limestone cliffs between Florac
+  and Le Rozier.
 title: Gorges du Tarn
 type: location
-score: 0.52
-loc_type: feature
 ---
 
 The Gorges du Tarn is one of the great canyons of southern France — a dramatic slash through the limestone causses of Lozère and Aveyron, stretching for around 50 kilometres between the town of Florac in the north and Le Rozier in the south. The river carves through walls that rise up to 500 metres on either side, alternating between sheer pale cliffs and forested slopes tumbling down to the water.

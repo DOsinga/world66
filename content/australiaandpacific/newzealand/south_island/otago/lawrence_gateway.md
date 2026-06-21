@@ -6,6 +6,8 @@ latitude: -45.9171
 loc_type: city
 longitude: 169.6818
 score: 0.33
+snippet: Otago gold-rush town on the route toward Central Otago, with preserved nineteenth-century
+  streetscapes.
 sources:
 - https://en.wikipedia.org/wiki/Lawrence,_New_Zealand
 title: Lawrence

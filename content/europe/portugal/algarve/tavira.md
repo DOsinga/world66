@@ -10,6 +10,8 @@ latitude: 37.126249
 loc_type: city
 longitude: -7.649912
 score: 0.56
+snippet: Quiet Algarve river town of scissor rooftops, old churches, and ferry beaches
+  on Ilha de Tavira.
 title: Tavira
 type: location
 ---

@@ -10,6 +10,7 @@ loc_type: city
 longitude: -80.4476
 score: 0.5
 title: Key Largo
+snippet: First island of the Florida Keys, known for coral reefs, mangroves, and easy mainland access
 type: location
 ---
 

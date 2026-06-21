@@ -10,6 +10,8 @@ latitude: 53.905508
 loc_type: city
 longitude: -1.693887
 score: 0.38
+snippet: Wharfedale market town beneath the Chevin, with pubs, Turner views, and Chippendale
+  roots.
 title: Otley
 type: location
 ---

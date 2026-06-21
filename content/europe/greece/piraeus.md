@@ -10,6 +10,8 @@ latitude: 37.9431
 loc_type: city
 longitude: 23.6471
 score: 0.42
+snippet: Working port city of Athens, with island ferries, seafood harbours, and hillside
+  views over the Saronic Gulf.
 title: Piraeus
 type: location
 ---

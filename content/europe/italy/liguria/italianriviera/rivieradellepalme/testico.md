@@ -10,6 +10,8 @@ latitude: 44.005626
 loc_type: city
 longitude: 8.029249
 score: 0.29
+snippet: Quiet Ligurian ridge village with Roman roots, Doria history, and wide views
+  over inland valleys.
 title: Testico
 type: location
 ---

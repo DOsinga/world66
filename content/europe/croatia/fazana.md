@@ -9,6 +9,7 @@ latitude: 44.927333
 loc_type: city
 longitude: 13.805077
 score: 0.49
+snippet: Istrian fishing town facing the Brijuni Islands, with Roman roots and a compact stone old centre.
 title: Fazana
 type: location
 ---

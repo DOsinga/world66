@@ -4,6 +4,7 @@ done:
 latitude: 43.484913
 longitude: -71.655399
 score: 0.5
+snippet: "Small northern New England state known for the White Mountains, Mount Washington, and a strong independent streak."
 title: New Hampshire
 type: location
 loc_type: region

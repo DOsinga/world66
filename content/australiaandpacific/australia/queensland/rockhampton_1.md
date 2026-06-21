@@ -12,6 +12,7 @@ longitude: 150.513423
 score: 0.35
 title: Rockhampton
 type: location
+snippet: "Rockhampton is a central Queensland city on the Fitzroy River, closely tied to the beef industry."
 ---
 
 Rockhampton sits on the Fitzroy River in central Queensland, roughly halfway up the Queensland coast between Brisbane and Cairns. It lies almost exactly on the Tropic of Capricorn — a fact marked by several roadside signs on the highway — and the climate has the tropical warmth of the north without quite reaching its humidity.

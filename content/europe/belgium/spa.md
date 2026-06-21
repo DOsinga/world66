@@ -11,6 +11,8 @@ latitude: 50.4921
 loc_type: city
 longitude: 5.8628
 score: 0.45
+snippet: Original Ardennes spa town where mineral springs, faded elegance, and Spa-Francorchamps
+  share the hills.
 title: Spa
 type: location
 ---

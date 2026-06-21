@@ -12,6 +12,7 @@ longitude: 43.474723
 score: 0.2
 title: Saylac (Zeila)
 type: location
+snippet: Historic Gulf of Aden port on a Somaliland peninsula, once a gateway to the Ethiopian highlands.
 ---
 
 Saylac — known historically as Zeila — is one of the oldest port towns on the Horn of Africa, sitting on a small peninsula on the Gulf of Aden coast in Somaliland's Awdal Region. Surrounded by sea on three sides and by desert inland, it is about 170 miles northwest of Berbera and close to the Djibouti border.

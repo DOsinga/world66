@@ -9,6 +9,8 @@ latitude: 54.973847
 loc_type: city
 longitude: -1.613157
 score: 0.46
+snippet: Compact northern English city on the Tyne, with bold bridges, nightlife,
+  and Victorian-industrial architecture
 title: Newcastle upon Tyne
 type: location
 ---

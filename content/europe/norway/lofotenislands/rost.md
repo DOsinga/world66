@@ -1,13 +1,15 @@
 ---
-title: Røst
-type: location
-latitude: 67.527
-longitude: 12.1
 done:
   location_cleanup: 2026-04-07
   location_enrich: 2026-05-22
-score: 0.47
+latitude: 67.527
 loc_type: city
+longitude: 12.1
+score: 0.47
+snippet: Low Arctic island municipality in southern Lofoten, ringed by seabird cliffs
+  and open ocean.
+title: Røst
+type: location
 ---
 
 Røst is the southernmost municipality in the [Lofoten Islands](/europe/norway/lofotenislands), and it feels like the end of the world. An archipelago of 365 islands, holms, and skerries scattered across open ocean, about 100 km west of Bodø and well above the Arctic Circle. The main island, Røstlandet, barely rises 12 metres above sea level — flat, windswept, and utterly unlike the dramatic peaks that define the rest of Lofoten.

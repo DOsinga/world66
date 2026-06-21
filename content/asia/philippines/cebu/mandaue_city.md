@@ -9,6 +9,7 @@ latitude: 10.333474
 loc_type: city
 longitude: 123.961591
 score: 0.31
+snippet: Industrial Metro Cebu city on the Mactan Channel, with old civic buildings beside modern bridges.
 title: Mandaue City
 type: location
 ---

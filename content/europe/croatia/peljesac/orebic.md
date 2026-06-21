@@ -8,6 +8,8 @@ latitude: 42.976914
 loc_type: city
 longitude: 17.183237
 score: 0.53
+snippet: Pelješac seafaring town facing Korčula, backed by St. Ilija and long pebble
+  beaches.
 title: Orebić
 type: location
 ---

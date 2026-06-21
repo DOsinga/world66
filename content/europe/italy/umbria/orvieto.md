@@ -9,6 +9,7 @@ latitude: 42.718615
 loc_type: city
 longitude: 12.108791
 score: 0.59
+snippet: Umbrian hill town on a tufa plateau, crowned by a striped Gothic cathedral.
 title: Orvieto
 type: location
 ---

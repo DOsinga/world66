@@ -14,6 +14,7 @@ longitude: 14.258256
 score: 0.59
 title: Gozo
 type: location
+snippet: "Rural Maltese island of terraced fields, fishing harbours, Calypso legends, and Ġgantija's prehistoric temples."
 ---
 
 Gozo is the second-largest of the Maltese Islands, reached by car ferry from Ċirkewwa in northern Malta. Smaller, quieter, and noticeably more rural than its larger neighbour, it moves at a different pace — the towns thin out quickly into terraced farmland, rocky headlands, and fishing harbours where the catch is still unloaded by hand. Homer is said to have set the island of Ogygia, where the nymph Calypso kept Odysseus for seven years, on Gozo — and the [cave above Ramla Bay](/europe/malta/gozo/calypso_cave) still bears her name.

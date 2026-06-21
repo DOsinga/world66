@@ -9,6 +9,8 @@ latitude: 10.202862
 loc_type: city
 longitude: -64.630763
 score: 0.31
+snippet: Venezuelan beach resort city beside Mochima National Park, with ferries and
+  waterfront life along Paseo Colón.
 title: Puerto la Cruz
 type: location
 ---

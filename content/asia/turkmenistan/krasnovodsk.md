@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 latitude: 40.005539
-longitude: 52.993283
-title: Krasnovodsk (Türkmenbaşy)
-type: location
-score: 0.21
 loc_type: city
+longitude: 52.993283
+score: 0.21
+snippet: Caspian Sea port city officially renamed Türkmenbaşy, shaped by Russian railways
+  and Soviet-era maritime trade
 sources:
 - https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy,_Turkmenistan
 - https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Seaport
 - https://en.wikipedia.org/wiki/Turkmenbashi_railway_station
+title: Krasnovodsk (Türkmenbaşy)
+type: location
 ---
 
 Krasnovodsk — officially renamed Türkmenbaşy in 1993 — is a Caspian Sea port city on the western edge of [Turkmenistan](/asia/turkmenistan). The name change was personal: President Saparmurat Niyazov bestowed his own honorific title on the city, "Türkmenbaşy" meaning Leader of the Turkmens. The old name persists in international usage and among older travellers, and the city still goes by Krasnovodsk on many maps.

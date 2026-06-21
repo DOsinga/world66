@@ -9,6 +9,8 @@ latitude: 44.9397
 loc_type: city
 longitude: 1.0299
 score: 0.51
+snippet: Dordogne village in the Vézère valley, surrounded by caves and rock shelters
+  of prehistoric Europe.
 title: Les Eyzies
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 8.541026
 loc_type: city
 longitude: 39.270546
 score: 0.26
+snippet: Ethiopian Rift Valley crossroads city, shaped by trucks, traders, rail links,
+  and Oromo administration.
 title: Adama
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 36.886573
 loc_type: city
 longitude: 30.703024
 score: 0.62
+snippet: Large Turkish Mediterranean city and Turquoise Coast gateway, with Kaleiçi
+  at its historic core.
 title: Antalya
 type: location
 ---

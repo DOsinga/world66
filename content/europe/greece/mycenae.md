@@ -9,6 +9,8 @@ score: 0.57
 title: Mycenae
 type: location
 loc_type: feature
+snippet: Bronze Age citadel in the Peloponnese whose massive walls gave a civilisation
+  its name.
 ---
 
 Mycenae was the most powerful city in the Aegean world for five centuries — from around 1600 BC until its sudden collapse around 1100 BC. The citadel that survives today, perched on a rocky hill between two mountains in the northeastern Peloponnese, gave its name to an entire civilisation. It is one of the most important archaeological sites in Europe and a genuine thrill to visit, even for travelers who are not especially interested in ancient history.

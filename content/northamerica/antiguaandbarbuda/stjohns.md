@@ -10,6 +10,8 @@ latitude: 17.1175
 loc_type: city
 longitude: -61.8456
 score: 0.53
+snippet: Antiguan capital and colourful Caribbean port, marked by twin cathedral towers
+  and pastel colonial streets.
 title: St. John's
 type: location
 ---

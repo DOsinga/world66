@@ -10,6 +10,8 @@ latitude: 35.0568
 loc_type: city
 longitude: -94.62
 score: 0.23
+snippet: Southeastern Oklahoma county seat ringed by mountains and watched over by
+  Cavanal Hill
 title: Poteau
 type: location
 ---

@@ -10,6 +10,8 @@ image_license: CC BY-SA
 image_source: https://commons.wikimedia.org/wiki/File:Schleswig,_Fahrdorf_(P1100701-Pano).jpg
 latitude: 54.5185
 loc_type: city
+snippet: Baltic fjord town with Viking, Danish, and Prussian layers around the Schlei
+  and Gottorf Castle
 longitude: 9.5653
 score: 0.41
 title: Schleswig

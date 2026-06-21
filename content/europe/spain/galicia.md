@@ -6,6 +6,8 @@ latitude: 42.5751
 loc_type: region
 longitude: -8.1339
 score: 0.65
+snippet: Rainy Atlantic region of granite villages, rías, Galego language, and Celtic
+  hill-forts.
 title: Galicia
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 19.7975
 loc_type: feature
 longitude: 18.5486
 score: 0.26
+snippet: Massive shield volcano in Chad's Tibesti Mountains, the highest point in
+  the Sahara.
 title: Emi Koussi
 type: location
 ---

@@ -8,6 +8,8 @@ latitude: 43.55
 loc_type: region
 longitude: 2.6
 score: 0.54
+snippet: Remote-feeling French regional park of low mountains, forest valleys, and
+  granite plateaus above Béziers.
 title: Haut-Languedoc Regional Nature Park
 type: location
 ---

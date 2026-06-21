@@ -11,6 +11,8 @@ latitude: 13.083694
 loc_type: city
 longitude: 80.270186
 score: 0.42
+snippet: Capital city of Tamil Nadu, founded around Fort St George and a hub for exploring
+  the state.
 title: Chennai
 type: location
 ---

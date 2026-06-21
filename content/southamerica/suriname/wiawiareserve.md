@@ -6,6 +6,8 @@ latitude: 5.85
 loc_type: feature
 longitude: -54.7
 score: 0.33
+snippet: Surinamese coastal reserve of mangroves, migratory birds, and Atlantic leatherback
+  turtle nesting beaches
 title: Wia Wia Reserve
 type: location
 ---

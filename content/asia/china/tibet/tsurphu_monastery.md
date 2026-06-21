@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Tibet_-_Trek_2_-_03_Tsurpu
 latitude: 29.7267
 loc_type: feature
 longitude: 90.575
+score: 0.48
+snippet: Tibetan monastery valley northwest of Lhasa, traditional seat of the Karmapa
+  and a major Karma Kagyu centre.
 sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Tsurphu Monastery
 type: location
-score: 0.48
 ---
 
 Tsurphu Monastery sits at 4,300 metres in a narrow valley about 70 kilometres northwest of [Lhasa](/asia/china/tibet/lhasa), enclosed by high ridges on three sides and facing south down the valley. It is the traditional seat of the Karmapa, the head of the Karma Kagyu lineage of Tibetan Buddhism — the third highest figure in the faith after the Dalai Lama and the Panchen Lama. Founded in 1159 by Düsum Khyenpa, the first Karmapa, it is one of the oldest continuously functioning monasteries in Tibet and one of the most significant in the Kagyu school.

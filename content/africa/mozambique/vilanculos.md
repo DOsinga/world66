@@ -10,6 +10,7 @@ latitude: -21.998996
 loc_type: city
 longitude: 35.320475
 score: 0.44
+snippet: Mozambican coastal town and main gateway to the islands of the Bazaruto Archipelago.
 title: Vilanculos
 type: location
 ---

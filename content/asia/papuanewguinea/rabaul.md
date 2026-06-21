@@ -7,6 +7,7 @@ loc_type: city
 longitude: 152.172829
 score: 0.41
 title: Rabaul
+snippet: Volcanic harbour town on New Britain, half-buried by the 1994 eruption of the Rabaul caldera
 type: location
 image: rabaul.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rabaul_from_Vulcanology_Observatory.jpg

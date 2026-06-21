@@ -6,6 +6,7 @@ latitude: 39.7178
 loc_type: city
 longitude: 16.4878
 score: 0.33
+snippet: Ionian coastal town beside ancient Sybaris, once the byword for Magna Graecia luxury.
 title: Sibari
 type: location
 ---

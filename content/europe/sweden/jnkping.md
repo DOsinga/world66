@@ -10,6 +10,8 @@ latitude: 57.782563
 loc_type: city
 longitude: 14.165719
 score: 0.39
+snippet: Swedish lakefront city at the southern tip of Vättern, birthplace of the
+  modern safety match.
 title: Jönköping
 type: location
 ---

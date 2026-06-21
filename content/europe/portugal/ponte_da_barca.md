@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Ponte_Barca_Abril_2019-3a.
 latitude: 41.8086
 loc_type: city
 longitude: -8.4181
+score: 0.43
+snippet: Minho river town on the Lima, named for the ferry that preceded its granite
+  bridge
 sources:
 - https://en.wikipedia.org/wiki/Ponte_da_Barca
 title: Ponte da Barca
 type: location
-score: 0.43
 ---
 
 Ponte da Barca is a small town on the Lima river in the Minho — a few hundred metres of granite quays, a sixteenth-century bridge, and a market square that has stayed the same shape since the Renaissance. It takes its name from the barca, the ferry that used to carry pilgrims, traders, and ox-carts across the Lima before the bridge was built in the 1540s. The town sits at the foot of the Peneda-Gerês National Park and is one of the natural entry points to the wilder northern reaches.

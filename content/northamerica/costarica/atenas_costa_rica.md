@@ -10,6 +10,8 @@ latitude: 9.9758
 loc_type: city
 longitude: -84.3797
 score: 0.43
+snippet: Central Valley coffee town known for mild weather, expat life, and hills
+  west of San José.
 title: Atenas
 type: location
 ---

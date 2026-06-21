@@ -10,6 +10,8 @@ latitude: 42.097
 loc_type: city
 longitude: -79.2353
 score: 0.32
+snippet: Southwestern New York city on Chautauqua Lake's outlet, best known as Lucille
+  Ball's birthplace.
 title: Jamestown
 type: location
 ---

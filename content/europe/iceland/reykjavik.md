@@ -12,6 +12,7 @@ latitude: 64.1466
 loc_type: city
 longitude: -21.9426
 score: 0.73
+snippet: "Compact Icelandic capital of corrugated-iron houses, a working harbour, and hilltop Hallgrímskirkja."
 title: Reykjavik
 type: location
 ---

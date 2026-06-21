@@ -10,6 +10,8 @@ latitude: 32.678109
 loc_type: city
 longitude: -117.099197
 score: 0.27
+snippet: Historic San Diego County city with Victorian heritage and a rare surviving
+  transcontinental railroad terminus.
 title: National City
 type: location
 ---

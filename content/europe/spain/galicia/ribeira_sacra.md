@@ -10,6 +10,8 @@ latitude: 42.4678
 loc_type: city
 longitude: -7.5284
 score: 0.5
+snippet: Inland Galician wine region where Sil and Miño gorges hold terraced vineyards
+  and monasteries
 title: Ribeira Sacra
 type: location
 ---

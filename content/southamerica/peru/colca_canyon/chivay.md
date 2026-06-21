@@ -9,6 +9,8 @@ latitude: -15.636688
 loc_type: city
 longitude: -71.602217
 score: 0.53
+snippet: High Colca Valley town and canyon transport hub, with La Calera hot springs
+  above terraced fields.
 title: Chivay
 type: location
 ---

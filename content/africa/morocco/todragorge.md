@@ -9,6 +9,8 @@ latitude: 31.587352
 loc_type: city
 longitude: -5.591495
 score: 0.57
+snippet: High Atlas canyon near Tinghir, where red limestone walls narrow around the
+  Todra riverbed.
 title: Todra Gorge
 type: location
 ---

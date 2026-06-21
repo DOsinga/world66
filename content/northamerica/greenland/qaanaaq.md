@@ -10,6 +10,8 @@ latitude: 77.4686
 loc_type: city
 longitude: -69.2223
 score: 0.33
+snippet: Far-north Greenland town on Inglefield Bredning, rooted in the relocated
+  Thule community
 title: Qaanaaq
 type: location
 ---

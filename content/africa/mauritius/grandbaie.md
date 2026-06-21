@@ -10,6 +10,8 @@ latitude: -20.01302
 loc_type: city
 longitude: 57.584627
 score: 0.56
+snippet: Northern Mauritius tourist hub with restaurants, dive operators, nightlife,
+  and boat trips to offshore islands
 title: Grand Baie
 type: location
 ---

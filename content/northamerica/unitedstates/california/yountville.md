@@ -9,6 +9,8 @@ latitude: 38.402201
 loc_type: city
 longitude: -122.359506
 score: 0.51
+snippet: Napa Valley town known for serious restaurants, vineyards, and a walkable
+  main street.
 title: Yountville
 type: location
 ---

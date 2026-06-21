@@ -10,6 +10,8 @@ latitude: -35.261792
 loc_type: city
 longitude: 174.121529
 score: 0.46
+snippet: Tiny Bay of Islands waterfront town with outsized history as Kororareka,
+  early European New Zealand's rough capital.
 title: Russell
 type: location
 ---

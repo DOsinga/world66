@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-17'
+image: guaymas.jpg
+image_attribution: D Guisinger
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:El_Pescador,_Guaymas,_Sonora,_Mexico.jpg
 latitude: 27.9216
 loc_type: city
 longitude: -110.8994
 score: 0.38
+snippet: Working Sonoran port city on the Sea of Cortez, framed by volcanic mountains
+  and diving waters
 title: Guaymas
 type: location
-image: guaymas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:El_Pescador,_Guaymas,_Sonora,_Mexico.jpg
-image_license: CC BY 2.0
-image_attribution: D Guisinger
 ---
 
 Guaymas is a working port city on the Sea of Cortez in the state of Sonora, northwestern Mexico. Most visitors pass through on the way to the ferry to Santa Rosalia on the Baja California peninsula, but those who linger find a city with genuine character — a natural harbour framed by dramatic volcanic mountains, a colonial streetscape along [Serdan Street](/northamerica/mexico/guaymas/serdan_street), and some of the richest diving waters in the world just offshore.

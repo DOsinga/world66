@@ -10,6 +10,8 @@ latitude: 35.190858
 loc_type: city
 longitude: 25.717889
 score: 0.56
+snippet: Eastern Crete harbour town built around Lake Voulismeni and a small Venetian
+  waterfront.
 title: Agios Nikolaos
 type: location
 ---

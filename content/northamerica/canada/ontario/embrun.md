@@ -1,5 +1,6 @@
 ---
 title: Embrun
+snippet: Francophone eastern Ontario town southeast of Ottawa, with a former railway trail through its centre.
 type: location
 loc_type: city
 latitude: 45.2667

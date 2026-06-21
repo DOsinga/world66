@@ -11,6 +11,8 @@ latitude: 39.87522
 loc_type: city
 longitude: 20.006526
 score: 0.5
+snippet: Albanian Riviera resort town whose bay makes a base for Butrint and the Blue
+  Eye.
 title: Saranda
 type: location
 ---

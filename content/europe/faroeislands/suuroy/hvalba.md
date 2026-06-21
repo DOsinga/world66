@@ -10,6 +10,8 @@ latitude: 61.600628
 loc_type: city
 longitude: -6.956834
 score: 0.35
+snippet: Suðuroy village with Faroese coal-mining history, old pirate stories, and
+  early Norse remains
 title: Hvalba
 type: location
 ---

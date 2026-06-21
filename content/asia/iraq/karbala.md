@@ -10,6 +10,8 @@ latitude: 32.598406
 loc_type: city
 longitude: 44.015793
 score: 0.31
+snippet: Central Iraqi pilgrimage city, focused on the Imam Husayn and Al-Abbas shrines
+  of Shia Islam.
 title: Karbala
 type: location
 ---

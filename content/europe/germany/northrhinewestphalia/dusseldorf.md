@@ -11,6 +11,7 @@ latitude: 51.225402
 loc_type: city
 longitude: 6.776314
 score: 0.46
+snippet: Rhine financial and fashion city, with Königsallee polish, Altstadt beer halls, and modern Medienhafen architecture.
 title: Dusseldorf
 type: location
 ---

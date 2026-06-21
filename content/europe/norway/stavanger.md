@@ -11,6 +11,8 @@ latitude: 58.969968
 loc_type: city
 longitude: 5.73181
 score: 0.54
+snippet: Southern Norwegian oil city where white timber lanes overlook a modern North
+  Sea energy capital.
 title: Stavanger
 type: location
 ---

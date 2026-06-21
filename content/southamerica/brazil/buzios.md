@@ -9,6 +9,8 @@ latitude: -22.759781
 loc_type: city
 longitude: -41.887527
 score: 0.55
+snippet: Brazilian beach resort on a rocky peninsula east of Rio, with more than twenty
+  distinct beaches.
 title: Búzios
 type: location
 ---

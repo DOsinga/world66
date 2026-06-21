@@ -8,6 +8,8 @@ longitude: -2.417699
 score: 0.18
 title: Ouahigouya
 type: location
+snippet: Northern Burkina Faso market city and former Mossi kingdom seat in the dry
+  Sahel.
 ---
 
 Ouahigouya is the capital of the Yatenga province in northern Burkina Faso, and the third-largest city in the country. It was once the seat of a powerful Mossi kingdom, and the [Yatenga Naaba](/africa/burkinafaso/ouahigouya/yatenga_naaba_palace) (chief) still holds court and performs traditional ceremonies. The city sits in the dry Sahel zone, flat and dusty, with a [large market](/africa/burkinafaso/ouahigouya/grand_marche) that draws traders from the surrounding villages and from across the border in Mali.

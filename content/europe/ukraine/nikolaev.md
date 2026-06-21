@@ -1,18 +1,20 @@
 ---
-title: Mykolaiv
-type: location
-latitude: 46.975862
-longitude: 31.993967
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-01'
-score: 0.2
+latitude: 46.975862
 loc_type: city
+longitude: 31.993967
+score: 0.2
+snippet: Southern Ukrainian shipbuilding city at the Southern Bug-Inhul confluence,
+  historically known as Nikolaev.
 sources:
 - https://en.wikipedia.org/wiki/Mykolaiv
 - https://en.wikipedia.org/wiki/Museum_of_Shipbuilding_and_the_Fleet
 - https://en.wikipedia.org/wiki/Mykolaiv_Observatory
 - https://en.wikipedia.org/wiki/Dykyi_Sad_archaeological_site
+title: Mykolaiv
+type: location
 ---
 
 **Mykolaiv** (still widely known by its Russian name **Nikolaev**) is a city of around 480,000 people in southern Ukraine, sitting at the confluence of the **Southern Bug** and **Inhul** rivers, about 65 km inland from the Black Sea coast. Founded in 1789 as a Russian naval shipyard by Prince Grigory Potemkin on the orders of Catherine the Great, it grew throughout the 19th and 20th centuries into one of the world's most important shipbuilding cities. The aircraft carriers of the Soviet Black Sea Fleet were assembled in its yards, and the shipyards here later built most of China's first aircraft carriers too. The city is named after **Saint Nicholas**, the patron saint of sailors — a fitting dedication for a place that shaped naval history.

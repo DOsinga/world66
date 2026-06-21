@@ -9,6 +9,8 @@ latitude: 10.7202
 loc_type: city
 longitude: 122.5621
 score: 0.43
+snippet: Western Visayas port city with colonial churches, Calle Real facades, and
+  a celebrated food scene.
 title: Iloilo
 type: location
 ---

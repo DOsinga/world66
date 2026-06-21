@@ -8,6 +8,8 @@ latitude: 50.674522
 loc_type: city
 longitude: -120.327816
 score: 0.38
+snippet: Dry British Columbia interior city at the Thompson River confluence, ringed
+  by sagebrush hills.
 sources:
 - https://en.wikipedia.org/wiki/Kamloops
 - https://en.wikivoyage.org/wiki/Kamloops

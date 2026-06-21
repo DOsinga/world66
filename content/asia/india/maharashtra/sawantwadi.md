@@ -6,6 +6,8 @@ latitude: 15.90796
 loc_type: city
 longitude: 73.820531
 score: 0.32
+snippet: Former princely-state capital in the Sahyadri foothills, centred on Raj Wada
+  palace and Moti Talao.
 title: Sawantwadi
 type: location
 ---

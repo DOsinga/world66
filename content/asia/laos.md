@@ -11,12 +11,14 @@ longitude: 102.4955
 title: Laos
 type: location
 quick_facts:
-  Population: "8 million"
-  Budget Meal: "~$1-2"
-  Forest Cover: "~50%"
-  UXO Contamination: "most bombed country"
+  Population: 8 million
+  Budget Meal: ~$1-2
+  Forest Cover: ~50%
+  UXO Contamination: most bombed country
 score: 0.69
 loc_type: country
+snippet: Landlocked Southeast Asian country shaped by the Mekong River, mountains,
+  forests, and Buddhist towns.
 ---
 
 Laos is Southeast Asia's most languid country, a place where the Mekong River sets the pace and nobody rushes. Landlocked between [Thailand](/asia/thailand), [Vietnam](/asia/vietnam), [Cambodia](/asia/cambodia), [China](/asia/china) and [Myanmar](/asia/myanmar), it remains one of the region's least developed nations -- and that is a large part of its appeal. With a population of around 8 million, it feels blissfully uncrowded.

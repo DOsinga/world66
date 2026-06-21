@@ -10,6 +10,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Pitcairn_-_Church_of_Adamstown.jpg
 latitude: -25.065772
 longitude: -130.101782
+snippet: Remote South Pacific territory settled by Bounty mutineers, reached by sea at surf-washed Bounty Bay.
 title: Pitcairn Islands
 type: location
 quick_facts:

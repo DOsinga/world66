@@ -1,5 +1,6 @@
 ---
 title: Incisa in Valdarno
+snippet: Upper Arno Valley town south of Florence, marked by old roads, river narrows, and small church treasures.
 type: location
 loc_type: city
 latitude: 43.5632

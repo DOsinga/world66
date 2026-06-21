@@ -10,6 +10,8 @@ latitude: 32.6497
 loc_type: city
 longitude: -16.9087
 score: 0.59
+snippet: Madeiran capital spilling down volcanic hills to the Atlantic, with cobbled
+  streets and steep gardens
 title: Funchal
 type: location
 ---

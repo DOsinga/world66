@@ -13,6 +13,7 @@ loc_type: city
 longitude: -4.4214
 score: 0.6
 title: Malaga
+snippet: Costa del Sol port city with Moorish fortresses, Picasso roots, and a revived Mediterranean waterfront.
 type: location
 ---
 

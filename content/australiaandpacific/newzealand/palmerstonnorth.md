@@ -10,6 +10,8 @@ latitude: -40.356317
 loc_type: city
 longitude: 175.611239
 score: 0.36
+snippet: Manawatu university city centred on Massey University and one of New Zealand's
+  largest urban squares.
 title: Palmerston North
 type: location
 ---

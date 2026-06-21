@@ -12,6 +12,8 @@ latitude: 27.2222
 loc_type: city
 longitude: 33.8307
 score: 0.52
+snippet: Egyptian Red Sea resort city where a former fishing village fronts reefs,
+  dive boats, and El Dahar.
 title: Hurghada
 type: location
 ---

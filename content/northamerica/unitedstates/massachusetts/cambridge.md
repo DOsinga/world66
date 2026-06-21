@@ -10,6 +10,7 @@ latitude: 42.3656
 loc_type: city
 longitude: -71.104
 score: 0.53
+snippet: Academic city across the Charles from Boston, shaped by Harvard, MIT, and bookish square life.
 title: Cambridge
 type: location
 ---

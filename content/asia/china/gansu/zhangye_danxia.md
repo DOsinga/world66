@@ -11,6 +11,7 @@ longitude: 100.1019
 sources:
 - https://en.wikivoyage.org/wiki/Zhangye
 title: Zhangye Danxia Geological Park
+snippet: "Gansu geological park west of Zhangye, famous for striped danxia hills in red and ochre bands."
 type: location
 score: 0.62
 ---

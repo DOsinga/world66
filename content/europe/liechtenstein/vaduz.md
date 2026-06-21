@@ -8,6 +8,7 @@ latitude: 47.139286
 loc_type: city
 longitude: 9.522796
 score: 0.49
+snippet: "Tiny Liechtenstein capital below the prince's castle, with museums and Rhine Valley views."
 title: Vaduz
 type: location
 ---

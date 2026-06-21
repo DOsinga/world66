@@ -10,6 +10,8 @@ latitude: 54.4789
 loc_type: city
 longitude: -8.2783
 score: 0.44
+snippet: Donegal coastal town where Atlantic surf breaks roll beneath Ben Bulben and
+  Donegal Bay.
 title: Bundoran
 type: location
 ---

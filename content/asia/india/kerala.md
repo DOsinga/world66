@@ -8,6 +8,8 @@ latitude: 10.352874
 loc_type: region
 longitude: 76.51204
 score: 0.69
+snippet: South Indian state between the Arabian Sea and Western Ghats, layered with
+  backwaters, spices, and Malayalam culture
 title: Kerala
 type: location
 ---

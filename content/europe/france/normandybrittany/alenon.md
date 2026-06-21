@@ -10,6 +10,8 @@ latitude: 48.431206
 loc_type: city
 longitude: 0.091137
 score: 0.4
+snippet: Norman lace town between Paris and Mont-Saint-Michel, famous for UNESCO-recognised
+  Alençon point lace
 title: Alençon
 type: location
 ---

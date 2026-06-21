@@ -13,6 +13,7 @@ score: 0.39
 sources:
 - https://en.wikipedia.org/wiki/Paderborn
 title: Paderborn
+snippet: Compact Westphalian city built around the Pader springs, with a cathedral and medieval old-town core
 type: location
 ---
 

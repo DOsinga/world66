@@ -11,6 +11,8 @@ latitude: 25.048
 loc_type: city
 longitude: -77.3554
 score: 0.54
+snippet: Bahamian capital on New Providence, balancing colonial pastel streets, cruise
+  docks, and turquoise beaches
 title: Nassau
 type: location
 ---

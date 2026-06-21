@@ -10,6 +10,8 @@ latitude: 49.198282
 loc_type: city
 longitude: 8.112344
 score: 0.39
+snippet: Palatinate wine-route town with Vauban traces, vineyard hills, and a compact
+  cafe-lined centre.
 title: Landau
 type: location
 ---

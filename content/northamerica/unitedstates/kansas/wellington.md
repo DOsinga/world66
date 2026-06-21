@@ -6,6 +6,8 @@ latitude: 37.2661
 loc_type: city
 longitude: -97.3931
 score: 0.21
+snippet: Southern Kansas county seat known as the Wheat Capital of the World and host
+  of a long-running wheat festival.
 title: Wellington
 type: location
 ---

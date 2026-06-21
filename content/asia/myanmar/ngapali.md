@@ -9,6 +9,8 @@ latitude: 18.4333
 loc_type: city
 longitude: 94.3167
 score: 0.45
+snippet: Low-key Myanmar beach village with white sand, coconut palms, fishing hamlets,
+  and offshore snorkelling trips.
 title: Ngapali
 type: location
 ---

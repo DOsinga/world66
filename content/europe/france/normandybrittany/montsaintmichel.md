@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: montsaintmichel.jpg
+image_attribution: Lynx1211
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(2).jpg
 latitude: 48.635954
+loc_type: feature
 longitude: -1.51146
+score: 0.73
+snippet: Tidal granite island on the Normandy-Brittany border, crowned by a medieval
+  Benedictine abbey.
 title: Mont-Saint-Michel
 type: location
-score: 0.73
-image: montsaintmichel.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(2).jpg
-image_license: CC BY-SA 4.0
-image_attribution: Lynx1211
-loc_type: feature
 ---
 
 Mont-Saint-Michel is one of the most recognisable sights in Europe — a granite island topped by a medieval abbey, rising from vast tidal flats on the border of [Normandy](/europe/france/normandybrittany) and Brittany. At high tide the mount becomes an island; at low tide, the sea retreats to reveal kilometres of sand.

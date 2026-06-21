@@ -8,6 +8,7 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Antelope_Fire_-_2021_08_04-20.13.11.422-CDT.jpg
 latitude: 41.255712
 loc_type: city
+snippet: Historic lumber town below Mount Shasta, near forest trails and the three-tiered McCloud Falls.
 longitude: -122.139448
 score: 0.36
 title: McCloud

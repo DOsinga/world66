@@ -4,13 +4,15 @@ done:
 latitude: 32.0896
 loc_type: city
 longitude: 23.9539
+score: 0.18
+snippet: Eastern Libyan port city whose deep Mediterranean harbour anchors stark Second
+  World War battlefield history.
 sources:
 - https://en.wikipedia.org/wiki/Tobruk
 - https://www.cwgc.org/find-records/find-war-dead/cemetery-details/2020400/tobruk-war-cemetery/
 - https://commons.wikimedia.org/wiki/Category:Tobruk_German_cemetery
 title: Tobruk
 type: location
-score: 0.18
 ---
 
 Tobruk is a port city on Libya's far eastern Mediterranean coast, set around one of the best natural harbours in North Africa. Its name is inseparable from the Second World War, when the town and surrounding desert became a hard-fought hinge in the North African campaign.

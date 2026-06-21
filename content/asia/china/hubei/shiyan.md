@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Danjiangkou,_Shiyan,_Hubei
 latitude: 32.6333
 loc_type: city
 longitude: 110.8
+score: 0.28
+snippet: Industrial Hubei city built around Dongfeng Motor Corporation and used as
+  a gateway to the Wudang Mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Shiyan
 title: Shiyan
 type: location
-score: 0.28
 ---
 
 Shiyan is one of China's more improbable cities — a planned industrial town built almost from scratch in the 1960s and 1970s in a remote Hubei valley to house the Dongfeng Motor Corporation, one of China's largest automobile manufacturers. Before Dongfeng, there was almost nothing here. The city grew out of the factory, not the other way around, which gives it an unusual urban texture: wide Soviet-influenced boulevards, uniform worker housing blocks, and an economy that still revolves around automotive production. The [Dongfeng Museum](/asia/china/hubei/shiyan/dongfeng_museum), housed in the original factory complex, is a genuinely interesting document of twentieth-century Chinese industrial history.

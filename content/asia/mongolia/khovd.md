@@ -10,6 +10,8 @@ latitude: 48.0042
 loc_type: city
 longitude: 91.6406
 score: 0.32
+snippet: Western Mongolian city on the Buyant River, gateway to Altai mountains and
+  eagle-hunter valleys.
 title: Khovd
 type: location
 ---

@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-31'
 latitude: 41.539835
+loc_type: city
 longitude: 2.444893
+score: 0.37
+snippet: Maresme coastal city near Barcelona, linked to Spain's first railway and
+  broad sandy beaches.
 title: Mataró
 type: location
-score: 0.37
-loc_type: city
 ---
 
 Mataró is a coastal city about 30 km northeast of [Barcelona](/europe/spain/catalonia/barcelona), the capital of the Maresme comarca. It was the terminus of Spain's first railway line, opened in 1848, and today the Cercanías train still makes it an easy [day trip from Barcelona](/europe/spain/catalonia/mataro/getting_there).

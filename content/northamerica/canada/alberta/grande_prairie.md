@@ -10,6 +10,8 @@ latitude: 55.17108
 loc_type: city
 longitude: -118.794987
 score: 0.31
+snippet: Northwestern Alberta hub in Peace Country, shaped by farming, forestry, oil,
+  and the road north.
 title: Grande Prairie
 type: location
 ---

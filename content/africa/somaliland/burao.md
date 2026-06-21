@@ -6,6 +6,8 @@ latitude: 9.5277
 loc_type: city
 longitude: 45.538
 score: 0.13
+snippet: Dusty Somaliland market city where camel and goat trading underpins the central
+  plains
 title: Burao
 type: location
 ---

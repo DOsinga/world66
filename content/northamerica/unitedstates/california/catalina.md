@@ -11,6 +11,8 @@ latitude: 33.3872
 loc_type: city
 longitude: -118.416
 score: 0.51
+snippet: Island city off Los Angeles, centred on Avalon’s blue harbour and art deco
+  Casino Building.
 sources:
 - https://en.wikipedia.org/wiki/Santa_Catalina_Island_(California)
 title: Catalina

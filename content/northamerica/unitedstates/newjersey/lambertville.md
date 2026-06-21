@@ -3,14 +3,16 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
 latitude: 40.3656
-longitude: -74.9454
-title: Lambertville
-type: location
-score: 0.4
 loc_type: city
+longitude: -74.9454
+score: 0.4
+snippet: Delaware River town opposite New Hope, lined with antique shops, galleries,
+  and 19th-century houses
 sources:
 - https://en.wikipedia.org/wiki/Lambertville,_New_Jersey
 - https://visitnj.org/antiques-center-peoples-store
+title: Lambertville
+type: location
 ---
 
 Lambertville sits on the New Jersey side of the Delaware River, directly opposite New Hope, Pennsylvania, connected by a pedestrian bridge. The two towns together form one of the most visited antiques and arts destinations in the Mid-Atlantic — Lambertville is the quieter of the pair, with Victorian and Federal townhouses lining streets that have changed little since the 19th century.

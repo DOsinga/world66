@@ -10,6 +10,8 @@ latitude: 45.035153
 loc_type: city
 longitude: 38.97724
 score: 0.3
+snippet: Southern Russian city on the Kuban River, founded as a Cossack fort near
+  the Caucasus.
 title: Krasnodar
 type: location
 ---

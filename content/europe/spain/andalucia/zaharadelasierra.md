@@ -1,10 +1,12 @@
 ---
-title: Zahara de la Sierra
-type: location
-loc_type: city
 latitude: 36.8397
+loc_type: city
 longitude: -5.4031
 score: 0.52
+snippet: White Andalucian village perched above a reservoir in the green Sierra de
+  Grazalema.
+title: Zahara de la Sierra
+type: location
 ---
 
 Zahara de la Sierra is one of Andalucia's most striking white villages, perched on a rocky crag above the Zahara-El Gastor reservoir in the Sierra de Grazalema natural park. The village is small and quiet, its whitewashed houses climbing steeply toward a Moorish castle that was contested between Christians and Muslims for centuries during the Reconquista.

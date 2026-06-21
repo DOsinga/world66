@@ -10,6 +10,8 @@ latitude: 38.9853
 loc_type: city
 longitude: -3.9275
 score: 0.35
+snippet: La Mancha provincial capital with a quiet old centre, vineyards, and Don
+  Quixote country around it.
 title: Ciudad Real
 type: location
 ---

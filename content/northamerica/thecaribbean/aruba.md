@@ -6,6 +6,7 @@ latitude: 12.5093
 loc_type: region
 longitude: -69.9688
 score: 0.74
+snippet: Dry Caribbean island where white southern beaches contrast with cactus, trade winds, and a rugged north coast.
 title: Aruba
 type: location
 ---

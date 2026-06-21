@@ -1,10 +1,12 @@
 ---
+latitude: 44.0165
+loc_type: country
+longitude: 21.0059
 score: 0.64
+snippet: Former Balkan state page preserving the shared Serbia and Montenegro guide
+  before their 2006 separation.
 title: Serbia and Montenegro
 type: location
-loc_type: country
-latitude: 44.0165
-longitude: 21.0059
 ---
 
 Serbia and Montenegro existed as a joint state from 2003 until 2006, when Montenegro voted for independence in a referendum. The two republics are now separate sovereign countries — see [Serbia](/europe/serbia) and [Montenegro](/europe/montenegro) for current pages — but much of the original World66 content was written when they were still united, and is preserved here.

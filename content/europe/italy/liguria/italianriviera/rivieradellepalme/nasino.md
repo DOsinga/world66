@@ -10,6 +10,8 @@ latitude: 44.11375
 loc_type: city
 longitude: 8.031713
 score: 0.34
+snippet: Agricultural village in the Pennavaire valley, surrounded by woods, pastures,
+  and prehistoric cave sites.
 title: Nasino
 type: location
 ---

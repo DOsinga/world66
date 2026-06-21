@@ -10,6 +10,8 @@ latitude: 51.195375
 loc_type: city
 longitude: -3.618544
 score: 0.43
+snippet: Exmoor village below Porlock Hill, surrounded by moorland roads, coastal
+  views, and wooded valleys.
 title: Porlock and District
 type: location
 ---

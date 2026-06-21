@@ -12,6 +12,8 @@ latitude: 45.2272
 loc_type: city
 longitude: 13.5957
 score: 0.57
+snippet: Istrian coastal town with a Roman street grid and the mosaic-filled Euphrasian
+  Basilica.
 title: Porec
 type: location
 ---

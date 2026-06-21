@@ -10,6 +10,8 @@ latitude: 65.011791
 loc_type: city
 longitude: 25.470197
 score: 0.42
+snippet: Northern Finnish city on the Gulf of Bothnia, known for technology, cycling
+  paths, and waterfront markets.
 title: Oulu
 type: location
 ---

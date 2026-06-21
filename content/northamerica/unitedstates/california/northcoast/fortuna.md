@@ -9,6 +9,8 @@ latitude: 40.597407
 loc_type: city
 longitude: -124.156034
 score: 0.34
+snippet: North Coast California town near Eureka, set inland from the Pacific in a
+  milder redwood-country climate.
 title: Fortuna
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 38.870906
 loc_type: city
 longitude: 34.853666
 score: 0.54
+snippet: Cappadocian pottery town on the Kizilirmak, where red river clay feeds centuries-old
+  workshops.
 title: Avanos
 type: location
 ---

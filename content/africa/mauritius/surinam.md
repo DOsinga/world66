@@ -10,6 +10,8 @@ latitude: -20.512291
 loc_type: city
 longitude: 57.509683
 score: 0.25
+snippet: South Mauritius village near Souillac, close to basalt waterfalls, quiet
+  beaches, and exposed coastal cliffs.
 title: Surinam
 type: location
 ---

@@ -7,6 +7,8 @@ latitude: 53.3807
 loc_type: city
 longitude: -1.4702
 score: 0.38
+snippet: Steel city on Yorkshire hills, where industrial museums sit close to Peak
+  District moorland
 title: Sheffield
 type: location
 ---

@@ -7,6 +7,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ben_Nevis_from_Corpach_-_geograph.org.uk_-_3477518.jpg
 latitude: 56.8198
 loc_type: city
+snippet: Scottish Highlands town on Loch Linnhe, used as the main base for Ben Nevis and Glen Nevis.
 longitude: -5.1052
 score: 0.48
 sources:

@@ -14,6 +14,7 @@ score: 0.52
 sources:
 - https://en.wikipedia.org/wiki/Haarlem
 title: Haarlem
+snippet: Compact Dutch city of medieval lanes, courtyard almshouses, and museums a short train ride from Amsterdam.
 type: location
 ---
 

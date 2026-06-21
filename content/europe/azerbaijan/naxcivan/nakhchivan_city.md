@@ -8,6 +8,8 @@ latitude: 39.2176
 loc_type: city
 longitude: 45.4085
 score: 0.33
+snippet: Ancient Azerbaijani exclave capital in the Zangezur foothills, centred on
+  the Momine Khatum Mausoleum.
 title: Nakhchivan City
 type: location
 ---

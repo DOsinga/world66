@@ -9,6 +9,8 @@ latitude: 35.327
 loc_type: city
 longitude: -96.925
 score: 0.26
+snippet: Oklahoma county-seat city with Potawatomi heritage, early-twentieth-century
+  downtown, and an unexpectedly strong art museum
 sources:
 - https://en.wikipedia.org/wiki/Shawnee,_Oklahoma
 - https://en.wikipedia.org/wiki/Citizen_Potawatomi_Nation

@@ -10,6 +10,8 @@ latitude: 19.64
 loc_type: city
 longitude: -155.9969
 score: 0.63
+snippet: Big Island resort town on the Kona coast, strung along Ali'i Drive below
+  Hualalai volcano
 title: Kailua-Kona
 type: location
 ---

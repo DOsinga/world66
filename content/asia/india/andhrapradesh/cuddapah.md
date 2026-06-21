@@ -10,6 +10,8 @@ latitude: 14.49566
 loc_type: city
 longitude: 78.834928
 score: 0.24
+snippet: Rayalaseema trading city on the Papagni River, known for limestone slabs
+  and Seven Roads junction
 title: Cuddapah
 type: location
 ---

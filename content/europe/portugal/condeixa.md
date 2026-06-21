@@ -10,6 +10,8 @@ latitude: 40.113873
 loc_type: city
 longitude: -8.498632
 score: 0.38
+snippet: Central Portuguese town beside Conimbriga, the country's most important Roman
+  archaeological site.
 title: Condeixa
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 13.4137
 loc_type: city
 longitude: -16.365
 score: 0.35
+snippet: Gambia River village associated with Alex Haley's Roots and the Kunta Kinte
+  story.
 title: Juffure
 type: location
 ---

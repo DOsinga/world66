@@ -10,6 +10,8 @@ latitude: 37.270879
 loc_type: city
 longitude: -76.707404
 score: 0.52
+snippet: Virginia college town where Colonial Williamsburg turns an 18th-century capital
+  into living history.
 title: Williamsburg
 type: location
 ---

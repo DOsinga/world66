@@ -12,6 +12,8 @@ latitude: 12.067
 loc_type: city
 longitude: 124.5947
 score: 0.33
+snippet: Western Samar port city, used as a base for waterfalls and forested island
+  interior trips.
 title: Calbayog
 type: location
 ---

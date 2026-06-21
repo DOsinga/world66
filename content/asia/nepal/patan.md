@@ -9,6 +9,8 @@ latitude: 27.6766
 loc_type: city
 longitude: 85.3166
 score: 0.55
+snippet: Historic Newar city beside Kathmandu, known for Durbar Square, metalwork,
+  and quieter lanes.
 sources:
 - https://en.wikipedia.org/wiki/Lalitpur,_Nepal
 - https://en.wikipedia.org/wiki/Patan_Durbar_Square

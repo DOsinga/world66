@@ -6,6 +6,8 @@ latitude: 44.894272
 loc_type: city
 longitude: 37.316887
 score: 0.32
+snippet: Russian Black Sea resort town with broad sandy beaches and ancient Greek
+  Gorgippia remains.
 title: Anapa
 type: location
 ---

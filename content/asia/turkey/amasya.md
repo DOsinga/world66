@@ -8,6 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Amasya
 - https://en.wikivoyage.org/wiki/Amasya
 title: Amasya
+snippet: Historic Turkish river city in a gorge, framed by Pontic tombs and Ottoman timber mansions.
 type: location
 image: amasya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amasya-Pontisches_Grab-02.JPG

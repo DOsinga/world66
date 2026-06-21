@@ -10,6 +10,8 @@ latitude: -20.378147
 loc_type: city
 longitude: -43.417486
 score: 0.4
+snippet: Colonial Minas Gerais city and former state capital, centred on one of Brazil's
+  finest baroque squares.
 title: Mariana
 type: location
 ---

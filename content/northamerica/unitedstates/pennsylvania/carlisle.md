@@ -10,6 +10,8 @@ latitude: 40.201499
 loc_type: city
 longitude: -77.189078
 score: 0.3
+snippet: South-central Pennsylvania town with Dickinson College and the U.S. Army
+  War College at Carlisle Barracks.
 title: Carlisle
 type: location
 ---

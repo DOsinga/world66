@@ -9,6 +9,8 @@ latitude: 55.4295
 loc_type: city
 longitude: 13.8201
 score: 0.46
+snippet: South Swedish medieval town with half-timbered streets, Greyfriars Abbey,
+  and links to Wallander fiction.
 title: Ystad
 type: location
 ---

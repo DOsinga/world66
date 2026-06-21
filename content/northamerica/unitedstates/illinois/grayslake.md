@@ -10,6 +10,8 @@ latitude: 42.3434
 loc_type: city
 longitude: -88.0412
 score: 0.23
+snippet: Lake County community north of Chicago, with a compact downtown, college
+  events, and nearby forest preserves
 title: Grayslake
 type: location
 ---

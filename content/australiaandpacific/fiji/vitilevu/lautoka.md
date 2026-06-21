@@ -9,6 +9,8 @@ latitude: -17.604606
 loc_type: city
 longitude: 177.448277
 score: 0.44
+snippet: Fiji's Sugar City on western Viti Levu, built around cane fields, a mill,
+  and a busy market
 title: Lautoka
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 45.95625
 loc_type: city
 longitude: 12.65972
 score: 0.42
+snippet: Elegant Friuli city with porticoed Corso Vittorio Emanuele and frescoed Venetian-style
+  facades.
 title: Pordenone
 type: location
 ---

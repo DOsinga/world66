@@ -9,6 +9,8 @@ latitude: 32.278448
 loc_type: city
 longitude: 35.88968
 score: 0.59
+snippet: Jordanian town beside ancient Gerasa, one of the best-preserved Roman provincial
+  cities.
 title: Jerash
 type: location
 ---

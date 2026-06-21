@@ -2,6 +2,8 @@
 latitude: 38.5
 loc_type: region
 longitude: 115.5
+snippet: North China province wrapping Beijing and Tianjin, with Great Wall ridges
+  and Qing imperial retreats
 sources:
 - https://en.wikivoyage.org/wiki/Hebei
 title: Hebei Province

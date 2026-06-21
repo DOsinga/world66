@@ -10,6 +10,8 @@ latitude: 63.336667
 loc_type: city
 longitude: -142.985555
 score: 0.29
+snippet: Alaskan crossroads town where the Alaska Highway meets the Tok Cut-Off amid
+  long empty roads.
 title: Tok
 type: location
 ---

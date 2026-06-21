@@ -10,6 +10,8 @@ latitude: 39.3625
 loc_type: city
 longitude: 22.9402
 score: 0.48
+snippet: Greek port city on the Pagasitic Gulf, known for tsipouradika and access
+  to Pelion villages.
 title: Volos
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 18.0868
 loc_type: city
 longitude: -67.1497
 score: 0.5
+snippet: Southwestern Puerto Rican coastal town of salt flats, mangroves, sea cliffs,
+  and a lonely lighthouse
 sources:
 - https://en.wikipedia.org/wiki/Cabo_Rojo,_Puerto_Rico
 - https://en.wikipedia.org/wiki/Cabo_Rojo_National_Wildlife_Refuge

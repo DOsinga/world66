@@ -12,6 +12,8 @@ longitude: 24.283974
 score: 0.46
 title: Philippi
 type: location
+snippet: Northern Greek archaeological site where Roman battlefields, basilicas, and
+  Pauline history meet.
 ---
 
 Philippi is one of the most important archaeological sites in northern Greece, lying on the plain of Drama in eastern Macedonia, about 15 kilometres from [Kavala](/europe/greece/kavala). Founded by Philip II of Macedon in 356 BC to control the nearby gold mines, the city later became famous as the site of the battle where Octavian and Mark Antony defeated Brutus and Cassius in 42 BC, ending the Roman Republic.

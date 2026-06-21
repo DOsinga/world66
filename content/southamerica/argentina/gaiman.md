@@ -6,6 +6,8 @@ latitude: -43.291503
 loc_type: city
 longitude: -65.4983
 score: 0.4
+snippet: Welsh Patagonian town in the Chubut Valley, known for chapels, bilingual
+  signs, and tea houses
 title: Gaiman
 type: location
 ---

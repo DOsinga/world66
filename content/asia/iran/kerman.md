@@ -10,6 +10,7 @@ latitude: 30.2839
 loc_type: city
 longitude: 57.0834
 score: 0.35
+snippet: "Ancient Iranian desert city near the Lut Desert, known for carpets, long bazaars, and trade-route history."
 title: Kerman
 type: location
 ---

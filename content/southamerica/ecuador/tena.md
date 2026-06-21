@@ -11,6 +11,8 @@ latitude: -0.9943
 loc_type: city
 longitude: -77.8154
 score: 0.42
+snippet: Amazon gateway town in Ecuador where jungle rivers meet whitewater rafting
+  routes below the Andes
 title: Tena
 type: location
 ---

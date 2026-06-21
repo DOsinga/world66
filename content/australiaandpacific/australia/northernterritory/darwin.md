@@ -11,6 +11,8 @@ latitude: -12.46044
 loc_type: city
 longitude: 130.841047
 score: 0.45
+snippet: Tropical Northern Territory capital shaped by Asian food, wartime scars,
+  monsoon seasons, and Top End access.
 title: Darwin
 type: location
 ---

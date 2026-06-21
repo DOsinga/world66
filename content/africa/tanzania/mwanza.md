@@ -12,6 +12,8 @@ longitude: 32.9014
 score: 0.37
 title: Mwanza
 type: location
+snippet: Lake Victoria port city nicknamed Rock City for the granite boulders scattered
+  through town.
 ---
 
 Mwanza is Tanzania's second-largest city, spread along the southern shore of Lake Victoria among dramatic granite boulders that give it the nickname "Rock City." It is a busy, sprawling port town — not conventionally pretty, but with a character quite different from the tourist trail further east.

@@ -10,6 +10,8 @@ latitude: 34.85
 loc_type: city
 longitude: 32.8167
 score: 0.41
+snippet: Troodos wine village of stone lanes, commandaria traditions, and an old linos
+  wine press.
 title: Lania
 type: location
 ---

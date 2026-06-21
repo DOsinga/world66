@@ -11,6 +11,7 @@ loc_type: city
 longitude: 23.509101
 score: 0.32
 title: Noarootsi
+snippet: Coastal parish on Estonia's west coast shaped by centuries of Swedish settlement and Baltic fishing villages.
 type: location
 ---
 

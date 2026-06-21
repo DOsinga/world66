@@ -1,5 +1,6 @@
 ---
 title: Mount Kenya National Park
+snippet: High-altitude Kenyan national park around Africa's second-highest mountain, with rainforest, moorland, and jagged summit peaks
 type: location
 latitude: -0.1521
 longitude: 37.3084

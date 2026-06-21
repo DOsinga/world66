@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Biri_Island_rock_formation
 latitude: 12.4577
 loc_type: city
 longitude: 124.6438
+score: 0.32
+snippet: Northern Samar capital used for Biri Island trips, waterfalls, caves, and
+  local Visayan street food.
 sources:
 - https://en.wikipedia.org/wiki/Catarman,_Northern_Samar
 - https://en.wikipedia.org/wiki/Biri,_Northern_Samar
 title: Catarman
 type: location
-score: 0.32
 ---
 
 Catarman is the capital of Northern Samar, a modest provincial city that most visitors pass through on their way to Biri Island — and then wish they had stayed a little longer. It sits on the northern coast of Samar, far enough from the main tourist circuits to feel genuinely local. The streets run slow, the mornings smell of fresh tamalos from street stalls, and the University of Eastern Philippines — the first state university in the Visayas — gives the town an unexpected academic energy.

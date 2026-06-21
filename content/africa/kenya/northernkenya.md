@@ -1,12 +1,14 @@
 ---
-title: Northern Kenya
-type: location
-latitude: 2.5
-longitude: 37.5
 done:
   location_cleanup: 2026-04-07
-score: 0.47
+latitude: 2.5
 loc_type: region
+longitude: 37.5
+score: 0.47
+snippet: Vast semi-arid region north of the equator, shaped by desert landscapes and
+  pastoral communities.
+title: Northern Kenya
+type: location
 ---
 
 North of the equator, Kenya changes character entirely. The fertile highlands give way to semi-arid scrubland, then to true desert — a vast, sun-bleached expanse stretching toward the Ethiopian and Somali borders. This is one of the least-visited parts of Africa, and one of the most compelling for travellers willing to accept its challenges.

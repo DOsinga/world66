@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Engadine.jpg
 latitude: 46.4972
 loc_type: region
 longitude: 9.8378
+snippet: High Alpine valley of lakes, Romansh villages, and Inn River landscapes around
+  St. Moritz
 sources:
 - https://en.wikipedia.org/wiki/Engadin
 title: Engadine

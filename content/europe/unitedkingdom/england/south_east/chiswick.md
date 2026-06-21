@@ -8,6 +8,8 @@ longitude: -0.263818
 score: 0.38
 title: Chiswick
 type: location
+snippet: Leafy west London neighbourhood with village streets, Thames walks, and Palladian
+  Chiswick House.
 ---
 
 Chiswick is a leafy west [London](/europe/unitedkingdom/england/london) neighbourhood with a village feel that belies its proximity to central London — Turnham Green tube station is about 20 minutes from the West End on the District line.

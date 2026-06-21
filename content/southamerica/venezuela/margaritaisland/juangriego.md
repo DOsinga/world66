@@ -10,6 +10,7 @@ latitude: 11.0821
 loc_type: city
 longitude: -63.9652
 score: 0.37
+snippet: Margarita fishing town with a west-facing bay, waterfront sunsets, and Fortín de la Galera above.
 title: Juan Griego
 type: location
 ---

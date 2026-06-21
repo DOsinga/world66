@@ -10,6 +10,8 @@ latitude: 50.828692
 loc_type: city
 longitude: -0.174574
 score: 0.39
+snippet: Sussex seaside city west of Brighton, defined by Regency terraces and a quieter
+  shingle seafront.
 title: Hove
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 35.919922
 loc_type: city
 longitude: 14.487712
 score: 0.52
+snippet: Maltese waterfront town where Spinola Bay, Paceville nightlife, and rocky
+  swimming spots sit close together.
 title: St Julian's
 type: location
 ---

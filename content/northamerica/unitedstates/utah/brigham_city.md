@@ -9,6 +9,8 @@ latitude: 41.511
 loc_type: city
 longitude: -112.0155
 score: 0.31
+snippet: Wasatch Front county seat near Great Salt Lake wetlands and the Bear River
+  Migratory Bird Refuge
 title: Brigham City
 type: location
 ---

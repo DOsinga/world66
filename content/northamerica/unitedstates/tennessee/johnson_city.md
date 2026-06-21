@@ -8,6 +8,7 @@ done:
   location_enrich: '2026-05-21'
 score: 0.36
 loc_type: city
+snippet: "Appalachian Tri-Cities college town with a compact downtown and quick access to mountain trails."
 ---
 
 Johnson City is one of the "Tri-Cities" of northeastern Tennessee (together with Kingsport and Bristol), tucked into the southern Appalachian mountains close to the Virginia and North Carolina borders. It is home to **East Tennessee State University** — which anchors the downtown — and to a growing outdoor-sports scene built around the rivers, lakes and trails of the surrounding Blue Ridge.

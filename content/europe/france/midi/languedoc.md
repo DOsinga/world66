@@ -5,6 +5,8 @@ latitude: 43.654203
 loc_type: region
 longitude: 3.67467
 score: 0.63
+snippet: Southern French region of Occitan identity, Cathar history, Mediterranean
+  cities, vineyards, and Massif Central edges.
 title: Languedoc
 type: location
 ---

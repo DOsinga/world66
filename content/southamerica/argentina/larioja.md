@@ -3,11 +3,13 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
 latitude: -29.7825
+loc_type: city
 longitude: -67.1147
+score: 0.36
+snippet: Hot northwestern Argentine city at the Sierra de Velasco, used as a base
+  for Talampaya's red canyons.
 title: La Rioja
 type: location
-score: 0.36
-loc_type: city
 ---
 
 La Rioja is the capital of the province of the same name, set at the foot of the Sierra de Velasco in northwestern [Argentina](/southamerica/argentina). It is a hot, dry city — summer temperatures regularly exceed 40°C — and serves as a base for exploring the dramatic desert landscapes of the region.

@@ -11,6 +11,7 @@ latitude: 43.37097
 loc_type: city
 longitude: -8.395943
 score: 0.49
+snippet: Atlantic Galician port city guarded by the Roman Torre de Hércules lighthouse
 title: La Coruña
 type: location
 ---

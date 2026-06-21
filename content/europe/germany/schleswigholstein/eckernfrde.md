@@ -11,6 +11,7 @@ longitude: 9.8376
 score: 0.4
 title: Eckernförde
 type: location
+snippet: "Baltic seaside town in Schleswig-Holstein, known for a sandy bay, fishing harbour, and smoked sprats."
 ---
 
 Eckernförde is a small Baltic seaside town on the coast of Schleswig-Holstein, tucked into a sheltered bay between Kiel and Flensburg. It has the kind of understated charm that German beach towns do well -- a long sandy beach backed by a tree-lined promenade, a compact old town with brick and half-timbered houses, and a working fishing harbor that still smells of the sea rather than tourism. The town has been a modest resort since the 19th century, and it wears its role lightly.

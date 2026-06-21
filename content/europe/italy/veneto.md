@@ -6,6 +6,8 @@ latitude: 45.4654
 loc_type: region
 longitude: 11.5479
 score: 0.65
+snippet: Northeastern Italian region of lagoon cities, Palladian villas, Roman arenas,
+  alpine resorts, and wine country.
 title: Veneto
 type: location
 ---

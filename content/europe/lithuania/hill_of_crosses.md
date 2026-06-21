@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 56.01503
+loc_type: feature
 longitude: 23.415678
+score: 0.49
+snippet: Lithuanian pilgrimage mound near Šiauliai, covered with crosses that became
+  a symbol of peaceful resistance.
 title: Hill of Crosses
 type: location
-score: 0.49
-loc_type: feature
 ---
 
 The Hill of Crosses (Kryžių kalnas) is one of the most remarkable sites in Lithuania — a low mound 12km north of [Siauliai](/europe/lithuania/siauliai) covered with over 200,000 crosses of every size, material, and type. People have been leaving crosses here since at least the 19th century, and the practice took on powerful political meaning during the Soviet period when the hill became a symbol of peaceful resistance. Soviet authorities bulldozed it three times; each time crosses reappeared overnight.

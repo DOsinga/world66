@@ -11,6 +11,8 @@ latitude: 12.58301
 loc_type: city
 longitude: -81.697568
 score: 0.53
+snippet: Colombian Caribbean island with Raizal culture and reef waters known for
+  seven shades of blue
 sources:
 - https://en.wikipedia.org/wiki/San_Andr%C3%A9s_Island
 - https://en.wikipedia.org/wiki/Johnny_Cay

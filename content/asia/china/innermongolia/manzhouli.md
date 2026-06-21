@@ -6,6 +6,8 @@ latitude: 49.591404
 loc_type: city
 longitude: 117.446432
 score: 0.34
+snippet: Inner Mongolian border city where Russian cafes meet Chinese streets and
+  grasslands begin outside town
 title: Manzhouli
 type: location
 ---

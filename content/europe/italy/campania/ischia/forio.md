@@ -11,6 +11,7 @@ loc_type: city
 longitude: 13.8581
 score: 0.57
 title: Forio
+snippet: Western Ischia town of whitewashed lanes, watchtowers, beaches, vineyards, and sunset views from Soccorso church.
 type: location
 ---
 

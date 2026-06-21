@@ -6,6 +6,8 @@ latitude: -43.9176
 loc_type: city
 longitude: -176.1873
 score: 0.42
+snippet: Remote New Zealand archipelago east of Christchurch, marked by Moriori history
+  and rare endemic birds
 title: Chatham Islands
 type: location
 ---

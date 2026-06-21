@@ -11,6 +11,8 @@ latitude: 52.233374
 loc_type: city
 longitude: 21.071149
 score: 0.5
+snippet: Polish capital rebuilt after wartime destruction, with a reconstructed Old
+  Town and layered communist-era cityscape.
 title: Warsaw
 type: location
 ---

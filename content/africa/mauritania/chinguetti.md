@@ -11,6 +11,8 @@ latitude: 20.463434
 loc_type: city
 longitude: -12.366484
 score: 0.38
+snippet: Saharan learning town of mud-brick lanes, manuscript libraries, and a 13th-century
+  mosque tower.
 title: Chinguetti
 type: location
 ---

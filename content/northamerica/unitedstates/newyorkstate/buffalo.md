@@ -12,6 +12,8 @@ latitude: 42.886416
 loc_type: city
 longitude: -78.878149
 score: 0.37
+snippet: Lake Erie city near Niagara Falls with grain-port history and notable early
+  modern architecture.
 title: Buffalo
 type: location
 ---

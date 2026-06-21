@@ -10,6 +10,7 @@ latitude: 35.179953
 loc_type: city
 longitude: 129.075236
 score: 0.63
+snippet: "South Korea's second city, a busy port framed by hills, beaches, fish markets, and coastal neighbourhoods."
 title: Busan
 type: location
 ---

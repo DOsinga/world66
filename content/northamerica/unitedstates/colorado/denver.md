@@ -9,6 +9,8 @@ latitude: 39.739236
 loc_type: city
 longitude: -104.984862
 score: 0.51
+snippet: Mile-high Rocky Mountain city where Colorado's urban museums and food scene
+  meet fast access to the Front Range.
 title: Denver
 type: location
 ---

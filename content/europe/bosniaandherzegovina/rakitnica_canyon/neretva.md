@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Gornji_Crna%C4%8D
 title: Neretva
 type: location
+snippet: Upper Rakitnica Canyon village near the Neretva headwaters in the Dinaric Alps.
 ---
 
 The village of Neretva sits in the upper Rakitnica Canyon area of Bosnia and Herzegovina, tucked into the rugged limestone landscape of the central Dinaric Alps. It takes its name from the [Neretva River](/europe/bosniaandherzegovina/rakitnica_canyon/neretva/neretva_headwaters), which rises nearby in the mountains above Zelengora.

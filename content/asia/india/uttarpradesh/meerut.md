@@ -12,6 +12,8 @@ longitude: 77.768
 score: 0.25
 title: Meerut
 type: location
+snippet: North Indian city where the 1857 uprising began, with old cantonment streets
+  northeast of Delhi.
 ---
 
 Meerut is where modern Indian history began. On 10 May 1857, Indian soldiers in the British cantonment here refused to load their Enfield rifles — the cartridges were greased with animal fat, an affront to both Hindu and Muslim troops — and the mutiny that would shake the British Empire to its foundations started right here, on these parade grounds. The rebels marched to Delhi the same night, and nothing was ever the same again.

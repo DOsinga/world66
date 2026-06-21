@@ -10,6 +10,8 @@ latitude: 45.440584
 loc_type: city
 longitude: -75.732682
 score: 0.39
+snippet: Historic Gatineau district across the Ottawa River, known for Quebec nightlife
+  and the Canadian Museum of History.
 title: Gatineau (Hull)
 type: location
 ---

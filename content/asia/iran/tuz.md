@@ -11,6 +11,7 @@ loc_type: city
 longitude: 59.3177
 score: 0.26
 title: Tus
+snippet: "Ancient Iranian city near Mashhad, revered for the tomb of Ferdowsi, poet of the Shahnameh."
 type: location
 ---
 

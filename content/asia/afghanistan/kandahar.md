@@ -7,6 +7,7 @@ loc_type: city
 longitude: 65.7158
 score: 0.04
 title: Kandahar
+snippet: Historic Afghan city and Pashtun heartland of pomegranate orchards, mud-walled compounds, and Durrani-era memory.
 type: location
 ---
 

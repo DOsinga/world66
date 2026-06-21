@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
+image: hobe_sound.jpg
+image_attribution: Unknown
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:HobeSoundFlorida-sunset.jpg
 latitude: 27.080492
-longitude: -80.139918
-title: Hobe Sound
-type: location
-score: 0.33
 loc_type: city
+longitude: -80.139918
+score: 0.33
+snippet: Atlantic Florida community between nature reserves, protecting scrub, river
+  habitat, and old coastal landscape.
 sources:
 - https://en.wikipedia.org/wiki/Hobe_Sound,_Florida
-image: hobe_sound.jpg
-image_source: https://commons.wikimedia.org/wiki/File:HobeSoundFlorida-sunset.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Unknown
+title: Hobe Sound
+type: location
 ---
 
 Hobe Sound is a small community on the Atlantic coast of Florida, midway between Jupiter and Stuart in Martin County. The surrounding area is notable for two nature reserves that together protect a stretch of coast largely unchanged from before Florida's development boom.

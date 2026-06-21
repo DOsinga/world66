@@ -6,6 +6,8 @@ latitude: 19.619217
 loc_type: city
 longitude: 37.211709
 score: 0.17
+snippet: Red Sea port city founded as Sudan's railway outlet, with coral reefs offshore
+  from its utilitarian docks
 title: Port Sudan
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 29.654205
 loc_type: city
 longitude: 91.117301
 score: 0.61
+snippet: High Tibetan capital where the Potala Palace and Barkhor pilgrimage circuit
+  anchor a mountain city
 title: Lhasa
 type: location
 ---

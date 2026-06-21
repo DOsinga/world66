@@ -1,10 +1,12 @@
 ---
-title: Albisola and Albissola
-type: location
-loc_type: city
 latitude: 44.33
+loc_type: city
 longitude: 8.505
 score: 0.43
+snippet: Adjacent Ligurian coast towns known for centuries of ceramic workshops and
+  a mosaic-tiled seafront promenade.
+title: Albisola and Albissola
+type: location
 ---
 
 Albisola and Albissola Marina are two adjacent towns on the Ligurian coast between Savona and Genoa, so closely merged that they function as one place. The distinction is largely administrative: Albisola Superiore is the older hilltop settlement, while Albissola Marina runs along the seafront. Both are known primarily for ceramics — the towns have been producing distinctive Ligurian pottery since the 15th century, and today a mosaic-tiled promenade along the seafront celebrates that heritage with artworks embedded in the path.

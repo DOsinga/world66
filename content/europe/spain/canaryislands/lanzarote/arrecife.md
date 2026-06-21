@@ -9,6 +9,8 @@ latitude: 28.964
 loc_type: city
 longitude: -13.5499
 score: 0.49
+snippet: Working Lanzarote capital with a tidal lagoon, waterfront promenade, and
+  the islet fort of San Gabriel.
 title: Arrecife
 type: location
 ---

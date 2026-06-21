@@ -9,6 +9,8 @@ latitude: 12.03671
 loc_type: city
 longitude: 39.046112
 score: 0.58
+snippet: Ethiopian mountain town where medieval Orthodox churches were carved downward
+  from solid red rock.
 title: Lalibela
 type: location
 ---

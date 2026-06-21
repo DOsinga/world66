@@ -1,5 +1,6 @@
 ---
 title: Uruguay
+snippet: Small South American country between Argentina and Brazil, centred on Montevideo and Atlantic beach towns.
 type: location
 latitude: -32.875555
 longitude: -56.020153

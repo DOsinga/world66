@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Elephants_at_Amboseli_nati
 latitude: -2.6527
 loc_type: feature
 longitude: 37.2606
+score: 0.64
+snippet: Kenyan savanna park where elephants move across dusty plains below the great
+  cone of Kilimanjaro.
 title: Amboseli National Park
 type: location
-score: 0.64
 ---
 
 Amboseli National Park sits at the foot of Kilimanjaro on Kenya's southern border with Tanzania, and the view alone is worth the journey. On clear mornings the mountain fills the entire southern horizon — a perfect snow-capped cone rising to 5,895 metres above a flat expanse of dusty savanna, dry lake bed, and swamp. The combination of that backdrop with the densest elephant population in Kenya — over 1,600 individuals in a well-studied, semi-habituated population — makes Amboseli one of the most photogenic game parks in Africa.

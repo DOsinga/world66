@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Beautiful_Mussoorie.jpg
 latitude: 30.4569
 loc_type: city
+snippet: Uttarakhand hill station on a Himalayan ridge, with Mall Road and views over
+  the Doon Valley
 longitude: 78.0783
 score: 0.48
 title: Mussoorie

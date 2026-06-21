@@ -7,6 +7,8 @@ latitude: 34.3428
 loc_type: city
 longitude: 134.0466
 score: 0.54
+snippet: Shikoku gateway city known for Ritsurin-koen garden, sanuki udon, and ferries
+  across the Seto Inland Sea.
 title: Takamatsu
 type: location
 ---

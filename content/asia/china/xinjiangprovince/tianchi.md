@@ -4,12 +4,14 @@ done:
 latitude: 43.886
 loc_type: feature
 longitude: 88.1324
+score: 0.51
+snippet: Alpine lake in the Tian Shan, long known as Heavenly Lake and ringed by Kazakh
+  summer pastures
 sources:
 - https://en.wikivoyage.org/wiki/Xinjiang
 - https://en.wikipedia.org/wiki/Heaven_Lake_of_Tian_Shan
 title: Tianchi
 type: location
-score: 0.51
 ---
 
 Tianchi — Heavenly Lake — sits at 1,907 metres on the northern slope of the Bogda Shan, a spur of the eastern Tian Shan range about 110 kilometres east of Ürümqi. The name was given by a Qing military commander in 1783, but the lake has been known much longer: in older accounts it appears as Yaochi, Jade Lake, and Kazakh herders have used the surrounding pastures for centuries before it became a formal tourist destination. The British-Indian writer Vikram Seth began his 1983 journey from Heaven Lake to Kashmir here, a route that gave the lake a small literary fame in the English-speaking world before Chinese tourism made it a major domestic attraction.

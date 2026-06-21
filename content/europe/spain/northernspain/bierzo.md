@@ -8,6 +8,8 @@ latitude: 42.6527
 loc_type: region
 longitude: -6.6232
 score: 0.52
+snippet: Mountain-ringed Leonese comarca where the Camino de Santiago crosses Templar
+  castles and slate villages
 title: El Bierzo
 type: location
 ---

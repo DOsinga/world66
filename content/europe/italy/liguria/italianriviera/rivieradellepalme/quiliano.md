@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-05-22'
 latitude: 44.292536
 longitude: 8.412652
+snippet: Ligurian hill commune near Savona, with Roman road traces, wooded valleys, and rare Buzzetto wine.
 title: Quiliano
 type: location
 score: 0.36

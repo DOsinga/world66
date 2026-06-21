@@ -10,6 +10,7 @@ latitude: 42.2028
 loc_type: city
 longitude: -8.7207
 score: 0.49
+snippet: Galician sea inlet guarded by the Cíes Islands, with fishing ports and mussel platforms along its shores.
 title: Ría de Vigo
 type: location
 ---

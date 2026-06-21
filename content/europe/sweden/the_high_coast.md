@@ -1,4 +1,5 @@
 ---
+snippet: Swedish coastal region on the Bothnian Sea, shaped by dramatic post-glacial land uplift.
 title: The High Coast
 type: location
 latitude: 63.05

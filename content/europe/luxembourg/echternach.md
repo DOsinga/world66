@@ -10,6 +10,7 @@ latitude: 49.812096
 loc_type: city
 longitude: 6.421486
 score: 0.46
+snippet: Luxembourg abbey town founded by St Willibrord, with medieval streets and a famous dancing procession.
 title: Echternach
 type: location
 ---

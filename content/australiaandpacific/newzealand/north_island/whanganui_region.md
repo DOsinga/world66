@@ -5,6 +5,7 @@ latitude: -39.93
 loc_type: region
 longitude: 175.05
 score: 0.51
+snippet: Lower North Island region of river valleys, farmland, and volcanic country shaped by the Whanganui River.
 title: Manawatu-Whanganui Region
 type: location
 ---

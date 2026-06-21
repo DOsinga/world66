@@ -6,6 +6,7 @@ latitude: 38.7076
 loc_type: city
 longitude: -76.3382
 score: 0.37
+snippet: Chesapeake watermen's village on Maryland's Eastern Shore, known for skipjacks and wide bay horizons.
 title: Tilghman Island
 type: location
 ---

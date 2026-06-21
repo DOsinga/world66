@@ -9,6 +9,7 @@ latitude: 12.8547
 loc_type: city
 longitude: 76.4859
 score: 0.43
+snippet: Jain pilgrimage town in Karnataka, dominated by the monolithic Gommateshwara statue on Vindhyagiri Hill.
 title: Sravanabelagola
 type: location
 ---

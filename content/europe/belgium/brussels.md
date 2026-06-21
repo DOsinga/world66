@@ -11,6 +11,7 @@ latitude: 50.846737
 loc_type: city
 longitude: 4.352493
 score: 0.56
+snippet: Bilingual Belgian capital and EU seat, centred on the gilded Grand-Place and wry urban contradictions.
 title: Brussels
 type: location
 ---

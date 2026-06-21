@@ -13,6 +13,7 @@ score: 0.34
 sources:
 - https://en.wikipedia.org/wiki/Dras
 - https://en.wikipedia.org/wiki/Kargil_War_Memorial
+snippet: Himalayan frontier town in the Dras River valley, framed by bare mountains and Kargil War memorials.
 title: Drass
 type: location
 ---

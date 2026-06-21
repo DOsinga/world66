@@ -11,6 +11,7 @@ latitude: 47.324
 loc_type: city
 longitude: 12.7963
 score: 0.58
+snippet: Alpine lake resort in Salzburgerland, set between Schmittenhöhe ski slopes and the clear Zeller See.
 title: Zell am See
 type: location
 ---

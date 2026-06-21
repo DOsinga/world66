@@ -9,6 +9,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:CD-RJ_als_EC_73.jpg
 latitude: 49.8175
 longitude: 15.473
+snippet: Central European country of medieval towns, castles, Bohemian countryside, and one of the world's great beer cultures.
 title: Czech Republic
 type: location
 quick_facts:

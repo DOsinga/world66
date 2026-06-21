@@ -12,6 +12,7 @@ longitude: -57.2882
 sources:
 - https://en.wikipedia.org/wiki/Iber%C3%A1_National_Park
 - https://en.wikipedia.org/wiki/Iber%C3%A1_Wetlands
+snippet: Argentine wetland wilderness of lakes, marshes, and floating islands rich in caiman and capybara.
 title: Iberá Wetlands
 type: location
 score: 0.51

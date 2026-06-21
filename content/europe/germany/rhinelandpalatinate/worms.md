@@ -10,6 +10,7 @@ latitude: 49.6305
 loc_type: city
 longitude: 8.3636
 score: 0.44
+snippet: Rhine cathedral city with Roman roots, Nibelungen lore, Reformation history, and an ancient Jewish quarter.
 title: Worms
 type: location
 ---

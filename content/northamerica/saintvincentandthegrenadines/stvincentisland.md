@@ -11,6 +11,7 @@ longitude: -61.2
 sources:
 - https://en.wikipedia.org/wiki/Saint_Vincent_(Saint_Vincent_and_the_Grenadines)
 - https://en.wikipedia.org/wiki/Kingstown
+snippet: Volcanic Caribbean island of steep green valleys, black-sand beaches, and the La Soufrière skyline.
 title: St Vincent Island
 type: location
 score: 0.53

@@ -9,6 +9,7 @@ latitude: 30.607738
 loc_type: city
 longitude: -81.460091
 score: 0.48
+snippet: Florida barrier island by Georgia, with Fernandina Beach history and a record of eight flags.
 title: Amelia Island
 type: location
 ---

@@ -1,4 +1,5 @@
 ---
+snippet: Northland stream crossing to Ninety Mile Beach, backed by the giant Te Paki sand dunes.
 title: Te Paki Stream
 type: location
 latitude: -34.524582

@@ -1,7 +1,7 @@
 ---
 address: Portobello Promenade, Edinburgh EH15 2EN
-latitude: 55.9575
-longitude: -3.11
+latitude: 55.9545
+longitude: -3.109
 score: 7.5
 snippet: Edinburgh's beach, two miles of sandy shoreline on the Forth, with a Victorian
   promenade and arcades

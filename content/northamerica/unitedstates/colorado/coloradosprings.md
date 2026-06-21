@@ -11,6 +11,8 @@ longitude: -104.8253
 score: 0.55
 title: Colorado Springs
 type: location
+snippet: Front Range city at the foot of Pikes Peak, framed by red sandstone formations
+  and mountain air.
 ---
 
 Colorado Springs sits at the base of Pikes Peak on the edge of the Great Plains, a sprawling city of half a million people with the Rocky Mountains rising abruptly to the west. The setting is spectacular — red rock formations jut from the foothills, the air is thin and dry, and the views of the Front Range from almost anywhere in town are hard to beat.

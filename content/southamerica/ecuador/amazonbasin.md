@@ -7,6 +7,8 @@ loc_type: region
 score: 0.64
 title: Amazon basin
 type: location
+snippet: Ecuadorian rainforest region of Andean-fed rivers, humid forest, and Indigenous
+  settlements east of the mountains.
 ---
 
 **AMAZON IN ECUADOR** **TOP**

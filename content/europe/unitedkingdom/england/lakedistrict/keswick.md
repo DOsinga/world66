@@ -12,6 +12,8 @@ longitude: -3.1377
 score: 0.56
 title: Keswick
 type: location
+snippet: Northern Lake District town on Derwentwater, used as a base for Skiddaw and
+  Borrowdale walks.
 ---
 
 Keswick is the main town of the northern Lake District, sitting at the head of [Derwentwater](/europe/unitedkingdom/england/lakedistrict/keswick/derwentwater) with [Skiddaw](/europe/unitedkingdom/england/lakedistrict/keswick/skiddaw) rising behind it. It is a compact, slate-grey Victorian town of outdoor shops, pubs, and tea rooms — the launching point for walks up [Catbells](/europe/unitedkingdom/england/lakedistrict/keswick/catbells), Skiddaw, Blencathra, and the [Borrowdale](/europe/unitedkingdom/england/lakedistrict/keswick/borrowdale) fells, and home to the [Theatre by the Lake](/europe/unitedkingdom/england/lakedistrict/keswick/theatre_by_the_lake), one of the best small theatres in the north of England.

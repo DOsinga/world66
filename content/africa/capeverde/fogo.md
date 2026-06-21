@@ -12,6 +12,8 @@ sources:
 - https://www.capeverdeislands.org/islands/fogo/
 title: Fogo
 type: location
+snippet: Cape Verdean volcanic island dominated by Pico do Fogo and villages rebuilt
+  in black lava fields.
 ---
 
 Fogo is dominated by its volcano — [Pico do Fogo](/africa/capeverde/fogo/pico_do_fogo), rising to 2,829 metres, is the highest peak in Cape Verde and one of the most active volcanoes in the Atlantic. The island's landscape is dramatic and austere: dark lava fields, steep caldera walls, and a crater plain where [Chã das Caldeiras](/africa/capeverde/fogo/cha_das_caldeiras) sits — a village that was buried and rebuilt after the 1995 eruption and largely destroyed again in 2014, only for its inhabitants to return once more and plant new vines in the ash.

@@ -12,6 +12,8 @@ latitude: 53.219065
 loc_type: city
 longitude: 6.568008
 score: 0.47
+snippet: Northern Dutch university city with canal-ring fragments, medieval landmarks,
+  and a stubbornly independent character
 title: Groningen
 type: location
 ---

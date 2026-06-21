@@ -6,6 +6,8 @@ latitude: 37.82282
 loc_type: city
 longitude: -112.435756
 score: 0.38
+snippet: South-central Utah ranching town with pioneer brick storefronts, used as
+  a base for Bryce Canyon
 sources:
 - https://en.wikipedia.org/wiki/Panguitch,_Utah
 - https://en.wikipedia.org/wiki/Panguitch_Historic_District

@@ -9,6 +9,8 @@ latitude: -50.34
 loc_type: city
 longitude: -72.2648
 score: 0.66
+snippet: Patagonian gateway town on Lago Argentino, used as the base for reaching
+  Perito Moreno Glacier
 title: El Calafate
 type: location
 ---

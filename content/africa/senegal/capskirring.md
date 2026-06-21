@@ -9,6 +9,8 @@ latitude: 12.3885
 loc_type: city
 longitude: -16.7385
 score: 0.43
+snippet: Casamance beach village near Senegal's southern border, backed by Diola culture
+  and mangrove bolongs
 title: Cap Skirring
 type: location
 ---

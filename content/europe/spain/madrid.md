@@ -11,6 +11,8 @@ latitude: 40.416782
 loc_type: city
 longitude: -3.703507
 score: 0.66
+snippet: High inland Spanish capital of royal squares, late nights, and the Prado-centred
+  art triangle
 title: Madrid
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 49.759621
 loc_type: city
 longitude: 6.644188
 score: 0.54
+snippet: Roman-founded German city on the Moselle, dense with imperial ruins and early
+  Christian monuments
 title: Trier
 type: location
 ---

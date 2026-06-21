@@ -1,16 +1,18 @@
 ---
 done:
   location_enrich: '2026-06-02'
+image: ploiesti.jpg
+image_attribution: DnaX
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Church_in_Ploie%C8%99ti,_Romania_(77928).jpg
 latitude: 44.941747
 loc_type: city
 longitude: 26.02365
 score: 0.3
+snippet: Romanian oil city north of Bucharest, shaped by refineries, wartime bombing,
+  and an unexpected clock museum
 title: Ploiești
 type: location
-image: ploiesti.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Church_in_Ploie%C8%99ti,_Romania_(77928).jpg
-image_license: CC BY-SA 4.0
-image_attribution: DnaX
 ---
 
 Ploiești has been synonymous with oil since the mid-19th century, when Romania became one of the world's first petroleum-producing nations. The city's refineries made it a strategic target in both World Wars -- the 1943 American bombing raid, Operation Tidal Wave, was one of the costliest air operations of the conflict. That industrial heritage still shapes the city's character, though modern Ploiești is working to diversify beyond petrochemicals.

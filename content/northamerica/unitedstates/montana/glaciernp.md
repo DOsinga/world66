@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: glaciernp.jpg
+image_attribution: Vulturesong
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HCP_-_October_23,_2022_-_001.jpg
 latitude: 48.7596
+loc_type: feature
 longitude: -113.787
+score: 0.68
+snippet: Northern Montana national park of jagged peaks, glacier-carved lakes, and
+  the Going-to-the-Sun Road
 title: Glacier National Park
 type: location
-score: 0.68
-image: glaciernp.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HCP_-_October_23,_2022_-_001.jpg
-image_license: CC0
-image_attribution: Vulturesong
-loc_type: feature
 ---
 
 Glacier National Park, straddling the Continental Divide in northern Montana, is one of the finest wilderness areas in North America. The park protects more than a million acres of jagged peaks, clear lakes, dense forests, and — still, for now — glaciers.

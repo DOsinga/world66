@@ -12,6 +12,8 @@ latitude: 43.700936
 loc_type: city
 longitude: 7.268391
 score: 0.69
+snippet: Côte d'Azur city where grand seafront promenades meet Vieux Nice lanes and
+  a strong Italian accent
 title: Nice
 type: location
 ---

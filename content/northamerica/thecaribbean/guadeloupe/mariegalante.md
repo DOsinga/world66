@@ -9,6 +9,8 @@ latitude: 15.9333
 loc_type: city
 longitude: -61.2667
 score: 0.49
+snippet: Rural Guadeloupe island of sugarcane fields, windmill ruins, rum distilleries,
+  and quiet beaches
 sources:
 - https://en.wikipedia.org/wiki/Marie-Galante
 - https://en.wikipedia.org/wiki/Grand-Bourg

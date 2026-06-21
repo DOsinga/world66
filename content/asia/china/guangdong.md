@@ -2,6 +2,8 @@
 latitude: 23.5
 loc_type: region
 longitude: 113.5
+snippet: Southern Chinese province of Cantonese culture and Pearl River Delta factories,
+  ports, and outward-looking trade
 sources:
 - https://en.wikivoyage.org/wiki/Guangdong
 title: Guangdong Province

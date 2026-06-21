@@ -9,6 +9,8 @@ latitude: 63.9976
 loc_type: city
 longitude: -21.1868
 score: 0.51
+snippet: Geothermal Icelandic town east of Reykjavík, where steam vents and warm ground
+  shape everyday life
 title: Hveragerði
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 41.380974
 loc_type: city
 longitude: 43.28447
 score: 0.54
+snippet: Georgian cave monastery carved into Mount Erusheti above the Kura River in
+  the country's southwest
 title: Vardzia
 type: location
 ---

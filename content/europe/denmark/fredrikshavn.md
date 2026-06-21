@@ -10,6 +10,8 @@ latitude: 57.4412
 loc_type: city
 longitude: 10.5336
 score: 0.36
+snippet: Northern Jutland port city and ferry hub for Norway and Sweden, close to
+  the Skagen peninsula
 title: Frederikshavn
 type: location
 ---

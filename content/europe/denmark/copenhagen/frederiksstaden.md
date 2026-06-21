@@ -5,7 +5,7 @@ score: 7.8
 tags:
 - things_to_do
 - sight
-- osterbro
+- indre_by
 title: Frederiksstaden
 type: poi
 ---

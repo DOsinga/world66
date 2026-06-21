@@ -12,6 +12,7 @@ score: 0.51
 sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Hunan
+snippet: "South-central Chinese province known for Wulingyuan's sandstone pillars rising above forested gorges."
 type: location
 ---
 

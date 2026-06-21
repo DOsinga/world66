@@ -11,6 +11,7 @@ loc_type: city
 longitude: -149.565996
 score: 0.58
 title: Papeete
+snippet: "French Polynesian capital on Tahiti's northwest coast, serving as the territory's main transit hub."
 type: location
 ---
 

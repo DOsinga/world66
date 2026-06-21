@@ -7,6 +7,7 @@ loc_type: city
 longitude: 70.802838
 score: 0.32
 title: Rajkot
+snippet: "Saurashtra's main city, a former princely-state capital where Mahatma Gandhi spent part of his childhood."
 type: location
 image: rajkot.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Doordarshan_Kendra_Colony,_GIDC,_Rajkot,_Gujarat,_India_-_panoramio_(1).jpg

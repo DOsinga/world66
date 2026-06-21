@@ -12,6 +12,7 @@ score: 0.57
 sources:
 - https://en.wikipedia.org/wiki/George_Town,_Cayman_Islands
 title: George Town
+snippet: "Cayman Islands capital and Grand Cayman cruise port, centred on banking and duty-free waterfront commerce."
 type: location
 ---
 

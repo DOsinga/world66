@@ -13,6 +13,7 @@ loc_type: city
 longitude: -8.8
 score: 0.42
 title: O Salnes
+snippet: "Galician wine region along the Ria de Arousa, known for Albarino vineyards and coastal villages."
 type: location
 ---
 

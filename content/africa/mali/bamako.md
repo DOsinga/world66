@@ -9,6 +9,7 @@ loc_type: city
 longitude: -8.000337
 score: 0.24
 title: Bamako
+snippet: "Malian capital on the Niger River, ringed by dusty hills and central to travel inland."
 type: location
 ---
 

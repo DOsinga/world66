@@ -4,6 +4,7 @@ done:
 latitude: 28.291899
 longitude: -81.407584
 title: Kissimmee
+snippet: "Central Florida city just south of Orlando, serving as a budget gateway to Walt Disney World."
 type: location
 score: 0.4
 loc_type: city

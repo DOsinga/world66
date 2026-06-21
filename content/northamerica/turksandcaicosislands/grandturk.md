@@ -6,6 +6,7 @@ loc_type: region
 longitude: -71.139
 score: 0.65
 title: Grand Turk
+snippet: "Small capital island of the Turks and Caicos, with quiet streets and low colonial-era buildings."
 type: location
 ---
 

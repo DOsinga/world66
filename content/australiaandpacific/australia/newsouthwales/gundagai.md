@@ -8,6 +8,7 @@ loc_type: city
 longitude: 148.1007
 score: 0.31
 title: Gundagai
+snippet: "Historic Murrumbidgee River town on the Hume Highway between Sydney and Melbourne."
 type: location
 ---
 

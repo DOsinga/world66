@@ -9,6 +9,7 @@ latitude: 30.6942
 loc_type: city
 longitude: 111.2861
 title: Yichang
+snippet: "Yangtze River city at the gates of the Three Gorges and Three Gorges Dam."
 type: location
 score: 0.38
 ---

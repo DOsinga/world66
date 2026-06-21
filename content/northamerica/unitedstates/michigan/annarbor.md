@@ -12,6 +12,7 @@ loc_type: city
 longitude: -83.7485
 score: 0.41
 title: Ann Arbor
+snippet: "Michigan university city shaped by the University of Michigan and a broad cultural life."
 type: location
 ---
 

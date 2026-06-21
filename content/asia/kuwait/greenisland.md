@@ -4,6 +4,7 @@ done:
 latitude: 29.365024
 longitude: 48.026786
 title: Green Island
+snippet: "Artificial recreational island off Kuwait City's waterfront, linked to the shore by a short causeway."
 type: location
 score: 0.25
 loc_type: feature

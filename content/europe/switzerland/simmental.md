@@ -9,6 +9,8 @@ latitude: 46.6278
 loc_type: city
 longitude: 7.3941
 score: 0.46
+snippet: Bernese Oberland alpine valley of wooden chalets, mountain pasture, and red-and-white
+  Simmental cattle
 title: Simmental
 type: location
 ---

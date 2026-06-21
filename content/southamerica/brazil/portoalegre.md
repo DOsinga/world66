@@ -10,6 +10,8 @@ latitude: -30.0325
 loc_type: city
 longitude: -51.230377
 score: 0.38
+snippet: Southern Brazilian capital of gaúcho culture, shaped by pampas traditions
+  and European immigration
 title: Porto Alegre
 type: location
 ---

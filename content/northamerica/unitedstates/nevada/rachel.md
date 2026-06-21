@@ -10,6 +10,8 @@ latitude: 37.6464
 loc_type: city
 longitude: -115.7465
 score: 0.25
+snippet: Tiny Nevada desert settlement on the Extraterrestrial Highway, known for
+  Area 51 lore and dark skies
 title: Rachel
 type: location
 ---

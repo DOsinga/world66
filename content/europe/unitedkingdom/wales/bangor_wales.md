@@ -12,6 +12,8 @@ latitude: 53.227716
 loc_type: city
 longitude: -4.126882
 score: 0.37
+snippet: Small north Wales university city between Snowdonia and the Menai Strait,
+  rooted in an ancient cathedral
 title: Bangor, Wales
 type: location
 ---

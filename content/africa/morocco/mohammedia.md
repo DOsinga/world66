@@ -10,6 +10,8 @@ latitude: 33.6958
 loc_type: city
 longitude: -7.3893
 score: 0.35
+snippet: Moroccan coastal city between Casablanca and Rabat, with a relaxed corniche
+  and sandy beaches
 title: Mohammedia
 type: location
 ---

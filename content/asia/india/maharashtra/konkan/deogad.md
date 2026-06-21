@@ -12,6 +12,8 @@ latitude: 16.3808
 loc_type: city
 longitude: 73.3565
 score: 0.31
+snippet: Konkan coastal town with a sheltered harbour, fishing boats, and prized Alphonso
+  mango orchards
 title: Deogad
 type: location
 ---

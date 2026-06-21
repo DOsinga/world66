@@ -10,6 +10,8 @@ latitude: -26.190045
 loc_type: city
 longitude: 152.660026
 score: 0.34
+snippet: Queensland gold-rush town whose 1867 strike helped rescue the colony from
+  financial trouble
 title: Gympie
 type: location
 ---

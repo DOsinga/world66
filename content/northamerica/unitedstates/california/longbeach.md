@@ -12,6 +12,8 @@ latitude: 33.769
 loc_type: city
 longitude: -118.1916
 score: 0.41
+snippet: Southern California port city where the Queen Mary anchors a beachside arts
+  and waterfront scene
 title: Long Beach
 type: location
 ---

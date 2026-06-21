@@ -9,6 +9,8 @@ latitude: 40.583641
 loc_type: city
 longitude: -4.128143
 score: 0.5
+snippet: Sierra de Guadarrama town dominated by Philip II's austere royal monastery
+  and pantheon
 title: El Escorial
 type: location
 ---

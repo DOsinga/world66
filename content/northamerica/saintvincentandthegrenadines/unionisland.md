@@ -9,6 +9,8 @@ latitude: 12.5988
 loc_type: city
 longitude: -61.4308
 score: 0.56
+snippet: Mountainous Grenadines island with Clifton Harbour and sailing access to
+  the Tobago Cays
 title: Union Island
 type: location
 ---

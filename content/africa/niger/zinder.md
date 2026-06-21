@@ -12,6 +12,8 @@ latitude: 13.8063
 loc_type: city
 longitude: 8.9892
 score: 0.25
+snippet: Hausa trading city in Niger with a sultan's palace, old quarters, and a renowned
+  market
 title: Zinder
 type: location
 ---

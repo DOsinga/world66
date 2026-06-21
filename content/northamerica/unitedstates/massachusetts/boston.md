@@ -12,6 +12,8 @@ latitude: 42.3589
 loc_type: city
 longitude: -71.0568
 score: 0.61
+snippet: Compact New England city of Revolutionary history, universities, old neighbourhoods,
+  and waterfront culture
 title: Boston
 type: location
 ---

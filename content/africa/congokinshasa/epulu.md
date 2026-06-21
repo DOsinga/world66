@@ -10,6 +10,8 @@ latitude: 1.402924
 loc_type: city
 longitude: 28.572058
 score: 0.21
+snippet: Ituri Forest clearing and headquarters of the Okapi Wildlife Reserve in northeastern
+  Congo
 title: Epulu
 type: location
 ---

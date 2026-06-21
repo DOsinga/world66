@@ -9,6 +9,8 @@ latitude: 28.039465
 loc_type: city
 longitude: -81.949804
 score: 0.34
+snippet: Central Florida city of lakes, with Frank Lloyd Wright architecture across
+  Florida Southern College
 title: Lakeland
 type: location
 ---

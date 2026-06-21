@@ -10,6 +10,8 @@ latitude: 9.2194
 loc_type: city
 longitude: -1.8585
 score: 0.32
+snippet: Northern Ghana village known for Larabanga Mosque, a whitewashed Sudanese-style
+  landmark near Mole National Park
 title: Larabanga
 type: location
 ---

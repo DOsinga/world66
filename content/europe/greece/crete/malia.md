@@ -8,13 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Crete,_Malia_beach_2019_a.
 latitude: 35.2833
 loc_type: city
 longitude: 25.4647
+score: 0.48
+snippet: Cretan resort town split between coastal nightlife and the Bronze Age Minoan
+  Palace of Malia
 sources:
 - https://en.wikipedia.org/wiki/Malia,_Crete
 - https://en.wikipedia.org/wiki/Malia_(archaeological_site)
 - https://www.hh.gr/en/destinations/malia/
 title: Malia
 type: location
-score: 0.48
 ---
 
 Malia is two places awkwardly sharing one name. Along the coast it is one of Crete's best-known party resorts, a strip of bars, clubs, fast food, scooter rentals and sunburned holiday energy. A little inland, the old village is quieter, with tavernas and narrow lanes. East of both sits the real reason culturally curious travellers come: the [Minoan Palace of Malia](/europe/greece/crete/malia/minoan_palace_of_malia), one of the major Bronze Age sites of Crete.

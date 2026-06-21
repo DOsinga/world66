@@ -1,19 +1,21 @@
 ---
 done:
   location_create: '2026-06-04'
+image: godollo.jpg
+image_attribution: Rlevente
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace_of_G%C3%B6d%C3%B6ll%C5%91_001.JPG
 latitude: 47.5984
 loc_type: city
 longitude: 19.348
+score: 0.42
+snippet: Small Hungarian town known for the Royal Palace of Gödöllő, Sisi's favourite
+  country residence
 sources:
 - https://en.wikipedia.org/wiki/G%C3%B6d%C3%B6ll%C5%91
 - https://en.wikivoyage.org/wiki/G%C3%B6d%C3%B6ll%C5%91
 title: Gödöllő
 type: location
-image: godollo.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace_of_G%C3%B6d%C3%B6ll%C5%91_001.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Rlevente
-score: 0.42
 ---
 
 Gödöllő is a small town about 30 kilometres northeast of Budapest, easily reached by suburban railway (HÉV) in around 40 minutes. Its main attraction is the [Royal Palace of Gödöllő](/europe/hungary/godollo/royal_palace), the largest Baroque palace in Hungary and the favourite country residence of Emperor Franz Joseph I and his wife, Empress Elisabeth — the beloved "Sisi" whose portrait is known across Central Europe. The palace dominates the town and draws the majority of its visitors.

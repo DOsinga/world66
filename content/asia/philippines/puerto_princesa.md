@@ -9,6 +9,8 @@ latitude: 9.739856
 loc_type: city
 longitude: 118.743819
 score: 0.59
+snippet: Palawan capital and gateway to the underground river, Honda Bay islands,
+  and Sabang mangroves
 title: Puerto Princesa
 type: location
 ---

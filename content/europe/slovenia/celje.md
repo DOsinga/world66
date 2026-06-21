@@ -10,6 +10,8 @@ latitude: 46.229389
 loc_type: city
 longitude: 15.261683
 score: 0.44
+snippet: Slovenian river city below a vast medieval castle tied to the powerful Counts
+  of Celje
 sources:
 - https://en.wikipedia.org/wiki/Celje
 - https://en.wikipedia.org/wiki/Celje_Castle

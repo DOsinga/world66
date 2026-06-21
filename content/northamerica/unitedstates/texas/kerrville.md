@@ -10,6 +10,8 @@ latitude: 30.048469
 loc_type: city
 longitude: -99.139946
 score: 0.35
+snippet: Texas Hill Country town on the Guadalupe River, known for live music festivals
+  and limestone scenery
 title: Kerrville
 type: location
 ---

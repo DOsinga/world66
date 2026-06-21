@@ -8,6 +8,8 @@ latitude: 69.114413
 loc_type: region
 longitude: -52.286457
 score: 0.6
+snippet: West Greenland bay north of the Arctic Circle, fed by Ilulissat Icefjord
+  and crowded with icebergs
 title: Disko Bay
 type: location
 ---

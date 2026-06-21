@@ -6,6 +6,8 @@ latitude: 35.4867
 loc_type: city
 longitude: -96.685
 score: 0.18
+snippet: Small Oklahoma town with Czech roots, a kolache festival, and the preserved
+  birthplace of Jim Thorpe
 title: Prague
 type: location
 ---

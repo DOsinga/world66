@@ -10,6 +10,8 @@ latitude: -27.604883
 loc_type: city
 longitude: -59.1932
 score: 0.32
+snippet: Chaco provincial capital known as Argentina's City of Sculptures, with public
+  art across its plazas
 title: Resistencia
 type: location
 ---

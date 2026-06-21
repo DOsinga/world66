@@ -10,6 +10,8 @@ latitude: 8.3583
 loc_type: city
 longitude: 80.5122
 score: 0.48
+snippet: Sri Lankan pilgrimage hill where tradition places the island's first royal
+  conversion to Buddhism
 title: Mihintale
 type: location
 ---

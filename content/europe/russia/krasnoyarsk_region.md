@@ -1,9 +1,11 @@
 ---
+latitude: 61.0
+loc_type: region
+longitude: 94.0
+snippet: Vast Siberian region where the Yenisey links southern steppes, boreal forest,
+  tundra, and Arctic coast
 title: Krasnoyarsk Region
 type: location
-loc_type: region
-latitude: 61.0
-longitude: 94.0
 ---
 
 The Krasnoyarsk region (Krasnoyarsky krai) is the second-largest federal subject of Russia, stretching from the steppes of southern Siberia all the way to the Arctic Ocean. The Yenisey, one of the world's longest rivers, runs straight through the middle of it, carving a path through boreal forest, tundra, and remote indigenous settlements. Most visitors see little more than the city of Krasnoyarsk itself, but the region beyond the city is spectacular and barely visited.

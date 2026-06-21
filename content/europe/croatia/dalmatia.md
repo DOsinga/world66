@@ -6,6 +6,8 @@ latitude: 43.538796
 loc_type: region
 longitude: 16.175236
 score: 0.8
+snippet: Croatian Adriatic coastal region of limestone shores, ferry-linked islands,
+  Roman Split, and walled Dubrovnik
 title: Dalmatia
 type: location
 ---

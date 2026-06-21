@@ -9,6 +9,8 @@ latitude: 5.8475
 loc_type: city
 longitude: -0.1753
 score: 0.36
+snippet: Akuapem Ridge town above Accra, known for botanical gardens, cooler air,
+  and woodcarving workshops
 title: Aburi
 type: location
 ---

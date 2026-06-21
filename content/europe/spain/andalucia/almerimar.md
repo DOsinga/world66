@@ -10,6 +10,8 @@ latitude: 36.707867
 loc_type: city
 longitude: -2.807456
 score: 0.38
+snippet: Purpose-built Costa de Almería beach resort arranged around a marina, golf
+  courses, and wind-sport beaches
 title: Almerimar
 type: location
 ---

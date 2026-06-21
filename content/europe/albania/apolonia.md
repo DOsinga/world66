@@ -10,6 +10,8 @@ latitude: 40.723362
 loc_type: city
 longitude: 19.471828
 score: 0.45
+snippet: Greek archaeological site near Fier, with hilltop ruins, a monastery museum,
+  and a restored portico
 title: Apolonia
 type: location
 ---

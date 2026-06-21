@@ -10,6 +10,8 @@ latitude: 50.961692
 loc_type: city
 longitude: 13.938664
 score: 0.44
+snippet: Elbe River town near Dresden, gateway to Saxon Switzerland's sandstone gorges
+  and mesas
 title: Pirna
 type: location
 ---

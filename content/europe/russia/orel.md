@@ -10,6 +10,8 @@ latitude: 52.9709
 loc_type: city
 longitude: 36.0642
 score: 0.27
+snippet: Oka River city south of Moscow, founded as a fortress and closely tied to
+  Ivan Turgenev
 title: Orel
 type: location
 ---

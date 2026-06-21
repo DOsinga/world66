@@ -6,6 +6,8 @@ latitude: 47.647001
 loc_type: city
 longitude: 26.25226
 score: 0.41
+snippet: Bucovina city and former Moldavian capital, used as a base for painted monastery
+  routes
 title: Suceava
 type: location
 ---

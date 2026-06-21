@@ -11,6 +11,8 @@ latitude: 35.472989
 loc_type: city
 longitude: -97.517054
 score: 0.34
+snippet: Oklahoma state capital reshaped by Bricktown, oil history, cowboy culture,
+  and the National Memorial
 title: Oklahoma City
 type: location
 ---

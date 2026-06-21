@@ -10,6 +10,8 @@ latitude: 27.7107
 loc_type: city
 longitude: 85.3481
 score: 0.52
+snippet: Sacred Hindu temple complex on Kathmandu's Bagmati River, centred on Shiva
+  worship and cremation ghats
 title: Pashupatinath
 type: location
 ---

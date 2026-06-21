@@ -9,6 +9,8 @@ latitude: 46.4311
 loc_type: city
 longitude: 6.913
 score: 0.62
+snippet: Lake Geneva resort town on the Swiss Riviera, known for jazz, palms, and
+  mountain-sheltered promenades
 title: Montreux
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 36.682804
 loc_type: city
 longitude: -101.481549
 score: 0.22
+snippet: Oklahoma Panhandle town serving High Plains ranch country, known for cattle
+  feedlots and Pioneer Days Rodeo
 title: Guymon
 type: location
 ---

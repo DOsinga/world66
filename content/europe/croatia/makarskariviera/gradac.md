@@ -9,6 +9,8 @@ latitude: 43.106453
 loc_type: city
 longitude: 17.341693
 score: 0.51
+snippet: Southern Makarska Riviera town with a long pebble beach backed by pines and
+  Biokovo slopes
 title: Gradac
 type: location
 ---

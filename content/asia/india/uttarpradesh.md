@@ -6,11 +6,13 @@ image_attribution: Buiobuione
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cow_in_Uttar_Pradesh_India.jpg
 latitude: 27.130334
+loc_type: region
 longitude: 80.859666
 score: 0.4
+snippet: India's most populous state, where the Ganges links sacred cities, Mughal
+  monuments, and Hindi-belt politics
 title: Uttar Pradesh
 type: location
-loc_type: region
 ---
 
 Often referred to as the cow belt or Hindi belt, Uttar Pradesh is India's most populous state — with as many inhabitants as Brazil — and has been the most dominant state in Indian politics since Independence, producing nine of India's prime ministers. The Ganges River, which forms the backbone of the state, is the sacred river of Hinduism, and four of the religion's seven holy cities are here.

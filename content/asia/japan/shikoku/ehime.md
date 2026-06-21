@@ -1,9 +1,15 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: ehime.jpg
+image_attribution: Wei-Te Wong from Taipei City, Taiwan, Republic of China
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dogo_Onsen_2017-04-05_(34099934150).jpg
 latitude: 33.8416
 loc_type: region
 longitude: 132.7657
+snippet: Northwestern Shikoku prefecture of castles, citrus orchards, hot springs,
+  pilgrimage temples, and island bridges.
 sources:
 - https://en.wikipedia.org/wiki/Ehime_Prefecture
 - https://en.wikipedia.org/wiki/Matsuyama
@@ -11,10 +17,6 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Ishizuchi
 title: Ehime
 type: location
-image: ehime.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Dogo_Onsen_2017-04-05_(34099934150).jpg
-image_license: CC BY-SA 2.0
-image_attribution: Wei-Te Wong from Taipei City, Taiwan, Republic of China
 ---
 
 Ehime occupies the north-western side of [Shikoku](/asia/japan/shikoku), facing the Seto Inland Sea and climbing south into rugged mountains. It is quieter than the Kansai tourist circuit but deeply rewarding: original castles, old hot springs, citrus orchards, pilgrimage temples, island bridges, and small towns that still feel lived in.

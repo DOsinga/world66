@@ -9,6 +9,8 @@ latitude: 42.3439
 loc_type: city
 longitude: 13.6442
 score: 0.49
+snippet: Abruzzo stone hill village restored as an albergo diffuso below the Gran
+  Sasso massif.
 title: Santo Stefano di Sessanio
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 47.669414
 loc_type: city
 longitude: -122.123877
 score: 0.3
+snippet: Seattle suburb on Lake Sammamish, shaped by Microsoft, Nintendo, and broad
+  riverside trails.
 title: Redmond
 type: location
 ---

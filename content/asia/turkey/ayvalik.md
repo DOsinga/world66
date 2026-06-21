@@ -9,6 +9,8 @@ latitude: 39.318096
 loc_type: city
 longitude: 26.691671
 score: 0.49
+snippet: Aegean port town with Greek stone houses, olive groves, island restaurants,
+  and Lesbos ferries.
 title: Ayvalik
 type: location
 ---

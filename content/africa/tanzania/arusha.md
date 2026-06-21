@@ -9,6 +9,8 @@ latitude: -3.3697
 loc_type: city
 longitude: 36.6881
 score: 0.52
+snippet: Highland Tanzanian gateway city to Kilimanjaro climbs and the northern safari
+  circuit.
 title: Arusha
 type: location
 ---

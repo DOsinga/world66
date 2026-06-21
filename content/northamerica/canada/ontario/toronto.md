@@ -12,6 +12,8 @@ latitude: 43.653482
 loc_type: city
 longitude: -79.383935
 score: 0.54
+snippet: Lake Ontario metropolis of dense immigrant neighbourhoods, major museums,
+  and a CN Tower skyline.
 title: Toronto
 type: location
 ---

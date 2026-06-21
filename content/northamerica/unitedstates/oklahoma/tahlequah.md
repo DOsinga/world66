@@ -8,6 +8,8 @@ latitude: 35.91537
 loc_type: city
 longitude: -94.969956
 score: 0.31
+snippet: Northeastern Oklahoma city and Cherokee Nation capital, set among rivers,
+  hills, and university streets.
 title: Tahlequah
 type: location
 ---

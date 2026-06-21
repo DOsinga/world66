@@ -10,6 +10,8 @@ latitude: 47.99609
 loc_type: city
 longitude: 7.8494
 score: 0.54
+snippet: Black Forest university city with a sunny old town, Gothic Münster, and car-light
+  medieval lanes.
 title: Freiburg
 type: location
 ---

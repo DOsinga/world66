@@ -10,6 +10,8 @@ latitude: -2.529526
 loc_type: city
 longitude: -44.296394
 score: 0.45
+snippet: Island capital of Maranhão, known for French origins, tiled colonial facades,
+  and a UNESCO-listed old town.
 title: São Luís
 type: location
 ---

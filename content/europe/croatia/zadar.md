@@ -10,6 +10,8 @@ latitude: 44.116859
 loc_type: city
 longitude: 15.235326
 score: 0.6
+snippet: Ancient Dalmatian coastal city where Roman streets meet wave-powered waterfront
+  art.
 title: Zadar
 type: location
 ---

@@ -8,6 +8,7 @@ longitude: 5.245032
 score: 0.32
 title: Rochebrune
 type: location
+snippet: "Rochebrune is a tiny Drôme commune in the Baronnies Provençales foothills, known for its woodland castle."
 ---
 
 Rochebrune is a tiny commune in the Drôme department of southeastern France, tucked into the foothills of the Baronnies Provençales between the Ouvèze valley and the pre-Alpine ridges. The main draw is the [Château de Rochebrune](/europe/france/centre/limousin/rochebrune/chateau_de_rochebrune), seat of the Lords of Chabanais since the eleventh century, set in woodland that makes this corner of France feel a long way from anywhere. The castle is privately owned but occasionally opens for visits during the Journées du Patrimoine in September.

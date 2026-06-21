@@ -12,6 +12,7 @@ longitude: -4.910847
 score: 0.29
 title: Pedro Bernardo
 type: location
+snippet: "Pedro Bernardo is a Sierra de Gredos village above the Tiétar valley, surrounded by forests and waterfalls."
 ---
 
 Pedro Bernardo is a small village in the Sierra de Gredos, perched above the Tiétar valley in Ávila province. The setting is beautiful — dense forests of elm, pine, and hazel, with rivers and waterfalls cutting through the landscape and views south across the valley.

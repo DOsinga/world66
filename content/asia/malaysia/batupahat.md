@@ -14,6 +14,7 @@ longitude: 102.9322
 score: 0.32
 title: Batu Pahat
 type: location
+snippet: "Batu Pahat is a Johor market town whose Malay name means “chiselled stone.”"
 ---
 
 Batu Pahat is the second-largest town in Johor State, a regional commercial centre on the west coast of the Malaysian peninsula about 110 km northwest of Johor Bahru. The name means "chiselled stone" in Malay — a reference to an ancient well in the coastal village of [Kampung Minyak Beku](/asia/malaysia/batupahat/kampung_minyak_beku), said to have been cut by Siamese craftsmen and associated in legend with the warrior Hang Tuah. The town is not a major tourist destination but functions as the market and service hub for a wide agricultural and industrial hinterland.

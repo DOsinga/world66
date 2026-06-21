@@ -12,6 +12,7 @@ longitude: -3.888559
 score: 0.27
 title: Bingerville
 type: location
+snippet: "Bingerville is a former Côte d’Ivoire capital east of Abidjan, overlooking the lagoon."
 ---
 
 Bingerville is about 15 km east of [Abidjan](/africa/ivorycoast/abidjan), a charming town on a plateau overlooking the lagoon. Until the 1930s it served as the capital of Côte d'Ivoire.

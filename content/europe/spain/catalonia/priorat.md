@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Priorat_DOQ
 title: Priorat
 type: location
+snippet: "Priorat is an inland Catalan wine region of steep slate hills, tiny villages, and powerful red wines."
 ---
 
 Priorat is one of Catalonia's most distinctive inland regions: steep slate hills, tiny stone villages and vineyards that look too stubborn to be productive until you taste what comes out of them. It sits southwest of [Reus](/europe/spain/catalonia/reus), away from the coast and the easy traffic, and that slight remoteness is part of its charm.

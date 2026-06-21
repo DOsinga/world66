@@ -12,6 +12,7 @@ longitude: 25.661342
 score: 0.4
 title: Lahti
 type: location
+snippet: "Lahti is a southern Finnish lake city at the Salpausselkä ridge, known for Nordic skiing."
 ---
 
 Lahti is a city of about 120,000 people in southern Finland, roughly 100 km north of [Helsinki](/europe/finland/helsinki) — an hour by the fast train. It sits at the southern end of a lake system and at the foot of the Salpausselkä ridge, which gives the city its identity as a winter sports hub.

@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Tam_Giang%E2%80%93C%E1%BA%A7u_Hai_Lagoon
 title: Tam Giang Lagoon
 type: location
+snippet: "Tam Giang Lagoon is Vietnam’s largest lagoon system, a working landscape of fishing boats and brackish waters."
 ---
 
 Tam Giang and Cau Hai together form the largest lagoon system in Southeast Asia, stretching more than 70 kilometres along the coast north of [Hue](/asia/vietnam/hue). The shallow, brackish waters teem with fish, shrimp and crab, and the seafood here — eaten fresh at simple [waterside stalls](/asia/vietnam/hue/aroundhue/tamgianglagoon/stilt_seafood_restaurants) — is some of the best in central Vietnam.

@@ -1,9 +1,11 @@
 ---
+latitude: 46.2382
+loc_type: region
+longitude: -63.1311
+snippet: Canada's smallest province, a red-soiled Gulf island of beaches, potato farms,
+  lobster, and Anne of Green Gables lore.
 title: Prince Edward Island
 type: location
-loc_type: region
-latitude: 46.2382
-longitude: -63.1311
 ---
 
 Prince Edward Island is Canada's smallest province — a crescent of red-soiled farmland in the Gulf of St. Lawrence, connected to the mainland by the Confederation Bridge since 1997. It is flat, gentle, and unusually green in summer, with long sandy beaches along both coasts and a pace of life that most of Canada has long since abandoned. Potatoes and lobster are the two pillars of the economy; the province grows more potatoes per square kilometre than anywhere else in Canada, and the lobster fishing season is one of the most intensive on the Atlantic coast.

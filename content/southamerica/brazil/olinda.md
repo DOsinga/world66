@@ -10,6 +10,8 @@ latitude: -7.99864
 loc_type: city
 longitude: -34.845955
 score: 0.49
+snippet: Brazilian colonial hill town above the Atlantic, with UNESCO-listed churches,
+  pastel mansions, and frevo music.
 title: “Olinda”
 type: location
 ---

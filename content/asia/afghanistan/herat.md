@@ -10,6 +10,8 @@ latitude: 34.349144
 loc_type: city
 longitude: 62.216325
 score: 0.16
+snippet: Western Afghan city near Iran, shaped by Persian architecture, Dari culture,
+  and the great Friday Mosque.
 title: Herat
 type: location
 ---

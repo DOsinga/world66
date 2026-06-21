@@ -11,6 +11,8 @@ latitude: 15.5
 loc_type: feature
 longitude: -89.1667
 score: 0.42
+snippet: Guatemala's largest lake, draining through the Río Dulce gorge and sheltering
+  manatees, mangroves, and waterbirds.
 sources:
 - https://en.wikipedia.org/wiki/Lake_Izabal
 - https://en.wikipedia.org/wiki/Castillo_de_San_Felipe_de_Lara

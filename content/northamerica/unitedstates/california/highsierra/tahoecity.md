@@ -9,6 +9,8 @@ latitude: 39.168937
 loc_type: city
 longitude: -120.143478
 score: 0.52
+snippet: Northwest Lake Tahoe mountain town at the Truckee River outlet, with beaches,
+  trails, and quieter alpine energy.
 title: Tahoe City
 type: location
 ---

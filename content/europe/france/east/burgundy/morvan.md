@@ -8,6 +8,8 @@ latitude: 47.097814
 loc_type: region
 longitude: 4.086389
 score: 0.51
+snippet: Forested Burgundy upland of granite hills, rivers, and wild woodland, apart
+  from the region's vineyard country.
 title: Morvan
 type: location
 ---

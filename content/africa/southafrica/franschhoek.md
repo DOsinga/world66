@@ -10,6 +10,8 @@ latitude: -33.909167
 loc_type: city
 longitude: 19.119444
 score: 0.55
+snippet: Cape Winelands town in a mountain-framed valley, rooted in French Huguenot
+  vines and restaurant culture.
 title: Franschhoek
 type: location
 ---

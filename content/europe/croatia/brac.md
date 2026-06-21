@@ -6,6 +6,8 @@ latitude: 43.3239
 loc_type: city
 longitude: 16.6548
 score: 0.54
+snippet: Central Dalmatian island of pine woods, olive groves, white stone, and the
+  shifting Zlatni Rat beach.
 title: Brac
 type: location
 ---

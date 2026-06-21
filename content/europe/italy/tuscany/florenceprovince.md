@@ -1,9 +1,11 @@
 ---
+latitude: 43.85
+loc_type: region
+longitude: 11.2
+snippet: Tuscan province around Florence, spreading from Chianti vineyards to Mugello
+  valleys and Arno industrial towns.
 title: Florence Province
 type: location
-loc_type: region
-latitude: 43.85
-longitude: 11.2
 ---
 
 Florence Province (Città Metropolitana di Firenze) fans out from [Florence](/europe/italy/tuscany/florence) across a varied landscape: the vine-covered Chianti hills to the south, the wooded Apennine valleys of the Mugello to the north, and the industrial Arno valley towns to the west and east.

@@ -12,6 +12,8 @@ latitude: 51.5074
 loc_type: city
 longitude: -0.1278
 score: 0.78
+snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, West
+  End theatre, markets, and Georgian pubs.
 title: London
 type: location
 ---

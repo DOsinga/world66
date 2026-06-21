@@ -10,6 +10,8 @@ latitude: 47.346926
 loc_type: city
 longitude: 25.355764
 score: 0.42
+snippet: Romanian spa and ski town in an Eastern Carpathian valley, centred on mineral
+  springs and a Belle Époque casino.
 title: Vatra Dornei
 type: location
 ---

@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-29'
+image: saintpierre.jpg
+image_attribution: Radosław Botev
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ruins_in_Saint-Pierre_(Martinique)_2008.jpg
 latitude: 14.7419
 loc_type: city
 longitude: -61.1775
 score: 0.5
+snippet: Martinique town rebuilt among the ruins of the 1902 Mount Pelée eruption
+  that destroyed its colonial city.
 sources:
 - https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique
 title: Saint-Pierre
 type: location
-image: saintpierre.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ruins_in_Saint-Pierre_(Martinique)_2008.jpg
-image_license: CC BY 3.0
-image_attribution: Radosław Botev
 ---
 
 Saint-Pierre was once the cultural capital of the Caribbean — the "Paris of the Antilles," a prosperous colonial city of 30,000 people at the foot of Mount Pelée. On 8 May 1902, the volcano erupted with a superheated pyroclastic surge that killed virtually the entire population in minutes. The ruins have never been rebuilt. Walking through the overgrown streets and crumbled facades, you are essentially walking through a frozen moment in 1902.

@@ -9,6 +9,8 @@ latitude: 42.2666
 loc_type: city
 longitude: 2.9638
 score: 0.54
+snippet: Provincial Catalan town best known as Salvador Dalí's birthplace and home
+  of the Teatre-Museu Dalí.
 title: Figueres
 type: location
 ---

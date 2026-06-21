@@ -1,22 +1,24 @@
 ---
-title: Denmark
-type: location
-latitude: 55.670249
-longitude: 10.333328
-image: denmark.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg
-image_license: CC BY-SA 3.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:MikkelH" class="mw-redirect"
-  title="User:MikkelH">Mikkel Houmøller</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "5.9 million"
-  Cost Level: "Expensive — coffee costs ~$6"
-  Inhabited Islands: "About 70 of 400+"
-  Highest Point: "Just 171 m — one of the flattest countries on Earth"
-score: 0.74
+image: denmark.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:MikkelH" class="mw-redirect"
+  title="User:MikkelH">Mikkel Houmøller</a>
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mound_Denmark.jpg
+latitude: 55.670249
 loc_type: country
+longitude: 10.333328
+quick_facts:
+  Cost Level: Expensive — coffee costs ~$6
+  Highest Point: Just 171 m — one of the flattest countries on Earth
+  Inhabited Islands: About 70 of 400+
+  Population: 5.9 million
+score: 0.74
+snippet: Small Nordic country of Jutland and hundreds of islands, known for design,
+  cycling, and Copenhagen.
+title: Denmark
+type: location
 ---
 
 Denmark is small, flat, and extraordinarily livable. It occupies the Jutland peninsula and some 400 inhabited islands, jutting northward between the North Sea and the Baltic. Germany is its only land border. Norway and Sweden lie across the straits to the north and east.

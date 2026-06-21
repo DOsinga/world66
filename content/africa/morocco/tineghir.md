@@ -9,6 +9,8 @@ latitude: 31.5147
 loc_type: city
 longitude: -5.5328
 score: 0.47
+snippet: High Atlas edge town beside a great palmery, serving as the base for Todra
+  Gorge.
 title: Tineghir
 type: location
 ---

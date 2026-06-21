@@ -10,6 +10,8 @@ latitude: 13.293022
 loc_type: city
 longitude: 144.66113
 score: 0.38
+snippet: Historic Guam village on a sheltered southwestern bay, associated with Magellan's
+  1521 landing.
 title: Umatac
 type: location
 ---

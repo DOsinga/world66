@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-30'
 latitude: 11.9006
-longitude: -70.052
-title: Paraguaná Peninsula
-type: location
-score: 0.33
 loc_type: city
+longitude: -70.052
+score: 0.33
+snippet: Arid Venezuelan peninsula of windy Caribbean beaches, cacti, and one of the
+  world's largest refinery complexes.
 sources:
 - https://en.wikipedia.org/wiki/Paraguan%C3%A1_Peninsula
 - https://en.wikipedia.org/wiki/Cerro_Santa_Ana_Natural_Monument
 - https://en.wikipedia.org/wiki/Ad%C3%ADcora
+title: Paraguaná Peninsula
+type: location
 ---
 
 The Paraguaná Peninsula juts out from the northwest corner of Venezuela, connected to Falcón State only by a narrow land bridge near Coro. It's dry, windy, and flat — arid scrubland dotted with goats and cardón cacti, with a steady breeze blowing in from the Caribbean almost year round. The wind draws kitesurfers, and the warm-water beaches on the western and northern coasts are uncrowded by Venezuelan resort standards.

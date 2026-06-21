@@ -10,6 +10,8 @@ latitude: 37.6388
 loc_type: city
 longitude: 21.63
 score: 0.62
+snippet: Ancient Peloponnese sanctuary where the Olympic Games began in 776 BC in
+  honour of Zeus.
 title: Olympia
 type: location
 ---

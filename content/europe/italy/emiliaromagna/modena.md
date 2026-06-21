@@ -10,6 +10,8 @@ latitude: 44.6471
 loc_type: city
 longitude: 10.9252
 score: 0.55
+snippet: Prosperous Emilia-Romagna city known for motor heritage, balsamic vinegar,
+  and a UNESCO Romanesque cathedral.
 title: Modena
 type: location
 ---

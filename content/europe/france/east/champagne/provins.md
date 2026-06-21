@@ -9,6 +9,8 @@ latitude: 48.560296
 loc_type: city
 longitude: 3.298809
 score: 0.54
+snippet: Medieval market town southeast of Paris, preserved with ramparts, towers,
+  and underground vaults.
 title: Provins
 type: location
 ---

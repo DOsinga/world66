@@ -9,6 +9,8 @@ latitude: 40.63586
 loc_type: city
 longitude: 17.688498
 score: 0.46
+snippet: Puglian port city at the end of the Via Appia, long used for eastern Mediterranean
+  crossings.
 title: Brindisi
 type: location
 ---

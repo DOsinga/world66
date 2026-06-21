@@ -6,6 +6,8 @@ latitude: 39.138166
 loc_type: city
 longitude: -76.234954
 score: 0.33
+snippet: Small Chesapeake Bay waterfront town with crabbing, oystering traditions,
+  sailboats, and west-facing sunsets.
 title: Rock Hall
 type: location
 ---

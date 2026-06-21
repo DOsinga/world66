@@ -11,6 +11,8 @@ latitude: 49.257789
 loc_type: city
 longitude: 4.031926
 score: 0.55
+snippet: Champagne city where French kings were crowned and chalk tunnels store bottles
+  beneath the streets.
 title: Reims
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 37.724369
 loc_type: city
 longitude: 23.493811
 score: 0.56
+snippet: Saronic island near Athens, with pistachio groves, fishing villages, beaches,
+  and the Temple of Aphaia.
 title: Aegina
 type: location
 ---

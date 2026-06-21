@@ -1,9 +1,10 @@
 ---
 address: 62-64 Bath Street, Portobello, Edinburgh EH15 1HF
-latitude: 55.9562
-longitude: -3.1082
+latitude: 55.9549
+longitude: -3.1108
 score: 7.0
-snippet: Bar and restaurant on the Portobello seafront with sea views, a lively atmosphere, and live music
+snippet: Bar and restaurant on the Portobello seafront with sea views, a lively atmosphere,
+  and live music
 tags:
 - bars_and_cafes
 - portobello

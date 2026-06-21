@@ -1,9 +1,10 @@
 ---
 address: 100 Portobello High Street, Edinburgh EH15 1AN
-latitude: 55.9564
-longitude: -3.1097
+latitude: 55.954
+longitude: -3.116
 score: 6.5
-snippet: Bar and live music venue on Portobello High Street, a social hub with regular gig nights
+snippet: Bar and live music venue on Portobello High Street, a social hub with regular
+  gig nights
 tags:
 - bars_and_cafes
 - portobello

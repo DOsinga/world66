@@ -1,7 +1,7 @@
 ---
 address: 28-30 Portobello High Street, Edinburgh EH15 1DA
-latitude: 55.9559
-longitude: -3.1098
+latitude: 55.9553
+longitude: -3.1183
 score: 6.5
 snippet: Portobello neighbourhood burger and comfort food restaurant, one of the area's
   most popular casual dining spots

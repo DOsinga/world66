@@ -1,9 +1,10 @@
 ---
 address: Portobello Promenade, Edinburgh EH15
-latitude: 55.9556
-longitude: -3.1073
+latitude: 55.9536
+longitude: -3.1084
 score: 6.0
-snippet: Site of Edinburgh's historic outdoor lido, closed in 1978, now host to summer wild swimming events
+snippet: Site of Edinburgh's historic outdoor lido, closed in 1978, now host to summer
+  wild swimming events
 tags:
 - things_to_do
 - portobello

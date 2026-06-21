@@ -1,7 +1,7 @@
 ---
 address: Portobello High Street, Edinburgh EH15
-latitude: 55.9563
-longitude: -3.1101
+latitude: 55.9545
+longitude: -3.112
 score: 6.5
 snippet: Regular market on Portobello High Street with antiques, vintage clothing,
   food producers, and local crafts

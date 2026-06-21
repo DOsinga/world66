@@ -10,6 +10,8 @@ latitude: 12.799
 loc_type: city
 longitude: 99.9698
 score: 0.43
+snippet: Thai Gulf beach town with an eight-kilometre strand and a relaxed domestic-holiday
+  mood.
 sources:
 - https://en.wikipedia.org/wiki/Cha-am_district
 - https://en.wikipedia.org/wiki/Mrigadayavan_Palace

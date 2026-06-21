@@ -9,6 +9,8 @@ latitude: 47.1615
 loc_type: city
 longitude: 1.5666
 score: 0.45
+snippet: Loire Valley town dominated by Talleyrand’s grand Château de Valençay and
+  its formal gardens.
 title: Valençay
 type: location
 ---

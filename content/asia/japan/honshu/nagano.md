@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Nagano.jpg
 latitude: 36.6456
 loc_type: city
 longitude: 138.1885
+score: 0.61
+snippet: Mountain-ringed Japanese regional capital known for Zenkō-ji pilgrimage culture
+  and 1998 Winter Olympic legacy.
 sources:
 - https://en.wikipedia.org/wiki/Nagano_(city)
 title: Nagano
 type: location
-score: 0.61
 ---
 
 Nagano is a city that most Japanese people associate with two things: the 1998 Winter Olympics and [Zenkō-ji](/asia/japan/honshu/nagano/zenkoji), the ancient Buddhist temple that has drawn pilgrims for fourteen centuries. Both are worth your attention, but the city offers considerably more than these famous names suggest. Set in the Nagano Basin ringed by mountains, at an altitude of around 370 metres, it is a clean, compact regional capital of about 370,000 people with a serious culinary culture built on soba noodles, mountain vegetables, and miso.

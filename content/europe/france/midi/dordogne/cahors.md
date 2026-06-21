@@ -9,6 +9,8 @@ latitude: 44.4495
 loc_type: city
 longitude: 1.4365
 score: 0.48
+snippet: Lot River town wrapped by a water loop, known for Pont Valentré and dark
+  Malbec wines.
 title: Cahors
 type: location
 ---

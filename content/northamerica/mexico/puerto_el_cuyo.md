@@ -10,6 +10,8 @@ latitude: 21.516438
 loc_type: city
 longitude: -87.674312
 score: 0.28
+snippet: Quiet Yucatán fishing village between Gulf beaches and bird-rich lagoons
+  near flamingo habitat.
 title: Puerto El Cuyo
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 33.8715
 loc_type: city
 longitude: -117.8617
 score: 0.25
+snippet: Orange County suburb with Valencia orange roots and historic ranch houses
+  from California’s citrus era.
 title: Placentia
 type: location
 ---

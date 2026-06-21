@@ -6,6 +6,8 @@ latitude: 34.5034
 loc_type: city
 longitude: -82.6501
 score: 0.28
+snippet: Blue Ridge foothills city nicknamed The Electric City for its early hydroelectric
+  power.
 title: Anderson
 type: location
 ---

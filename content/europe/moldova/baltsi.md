@@ -10,6 +10,8 @@ latitude: 47.763559
 loc_type: city
 longitude: 27.929204
 score: 0.24
+snippet: Northern Moldovan city and practical base for Saharna, Curchi, and Soroca,
+  with a modest historic centre.
 sources:
 - https://en.wikipedia.org/wiki/B%C4%83l%C8%9Bi
 title: Baltsi

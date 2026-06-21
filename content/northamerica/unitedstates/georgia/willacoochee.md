@@ -10,6 +10,8 @@ latitude: 31.340755
 loc_type: city
 longitude: -83.045983
 score: 0.17
+snippet: Tiny south Georgia river town where blackwater streams wind through pine
+  flatwoods and cypress swamps.
 title: Willacoochee
 type: location
 ---

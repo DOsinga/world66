@@ -6,6 +6,8 @@ latitude: -23.013228
 loc_type: city
 longitude: -43.319711
 score: 0.4
+snippet: Modern Rio beach district of wide avenues, long surf, shopping malls, and
+  Atlantic high-rises.
 title: Barra de Tijuca
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 14.0019
 loc_type: city
 longitude: 99.5319
 score: 0.55
+snippet: Western Thai provincial capital marked by Death Railway history and nearby
+  jungle waterfalls.
 title: Kanchanaburi
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -20.315052
 loc_type: city
 longitude: 57.52115
 score: 0.38
+snippet: Central Plateau Mauritian town known for model ships, textile outlets, and
+  the Trou aux Cerfs crater.
 title: Curepipe
 type: location
 ---

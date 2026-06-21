@@ -10,6 +10,8 @@ latitude: 41.459526
 loc_type: city
 longitude: 13.012591
 score: 0.33
+snippet: Planned Lazio city from the Pontine Marshes, with rationalist piazzas and
+  nearby beaches.
 title: Latina
 type: location
 ---

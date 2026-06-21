@@ -5,6 +5,8 @@ latitude: 44.647176
 loc_type: region
 longitude: -100.348761
 score: 0.54
+snippet: Great Plains state split by the Missouri, with prairie east and Black Hills
+  landmarks west.
 title: South Dakota
 type: location
 ---

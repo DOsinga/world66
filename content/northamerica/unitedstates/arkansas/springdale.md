@@ -10,6 +10,8 @@ latitude: 36.186744
 loc_type: city
 longitude: -94.128814
 score: 0.3
+snippet: Ozark city shaped by poultry industry, Latino food streets, and northwest
+  Arkansas baseball culture.
 title: Springdale
 type: location
 ---

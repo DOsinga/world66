@@ -10,6 +10,8 @@ latitude: 39.5988
 loc_type: city
 longitude: -110.8107
 score: 0.29
+snippet: Eastern Utah coal town near Colorado Plateau canyon country, known for dinosaur
+  fossils and Nine Mile Canyon rock art.
 title: Price
 type: location
 ---

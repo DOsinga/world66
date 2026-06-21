@@ -10,6 +10,8 @@ latitude: 42.35
 loc_type: city
 longitude: 14.1667
 score: 0.38
+snippet: Abruzzo ridge city above the Pescara River, with Roman ruins and mountain-to-Adriatic
+  views.
 title: Chieti
 type: location
 ---

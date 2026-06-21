@@ -10,6 +10,8 @@ latitude: 37.8596
 loc_type: city
 longitude: 27.257
 score: 0.52
+snippet: Aegean cruise port and beach resort, used as the closest base for ancient
+  Ephesus.
 title: Kuşadası
 type: location
 ---

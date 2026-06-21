@@ -1,8 +1,14 @@
 # POI Location Check Task
 
-Verify the coordinates of every POI using Nominatim. This is a focused task: coordinates only. Do not rewrite content, do not add snippets, do not delete spam — just get the locations right.
+Verify the coordinates of every POI. This is a focused task: coordinates only. Do not rewrite content, do not add snippets, do not delete spam — just get the locations right.
 
 Use **5 agents** per batch, dividing the batch roughly equally between them.
+
+## Coordinate precision goal
+
+We want the pin to land at the **entrance** of the place, not the centroid of a building footprint or the middle of a city block. For a restaurant, bar, or small museum this is the front door. For a large complex (palace, cathedral, airport, big museum), it is the main public entrance.
+
+---
 
 ## For each POI in the batch
 
@@ -11,11 +17,9 @@ Use **5 agents** per batch, dividing the batch roughly equally between them.
 Derive the city/country from the file path:
 - `content/europe/france/paris/le_louvre.md` → Paris, France
 
-The POI's `title` field is the name you'll look up.
+The POI's `title` field is the name you will look up.
 
-### 2. Check Nominatim
-
-Query Nominatim to find the POI's real coordinates:
+### 2. Query Nominatim
 
 ```
 GET https://nominatim.openstreetmap.org/search
@@ -26,31 +30,54 @@ GET https://nominatim.openstreetmap.org/search
 User-Agent: world66-poi-checker/1.0
 ```
 
-- Always include `User-Agent: world66-poi-checker/1.0` in the request header.
+- Always include `User-Agent: world66-poi-checker/1.0`.
 - Wait at least 1 second between Nominatim requests (rate limit).
-- Try the most specific query first (`title, city, country`). If no result, broaden to (`title, country`) or just (`title, city`).
-- Pick the result whose `display_name` or `address` best matches the expected location — ignore results from the wrong country.
-- If Nominatim returns nothing useful, use a web search to find coordinates.
+- Try `title, city, country` first. Broaden to `title, country` or `title, city` if no result.
+- Pick the result whose `display_name` or `address` best matches the expected location — discard results from the wrong country.
+- Note the returned `osm_type` (`node`, `way`, or `relation`) and `osm_id` — you need these for step 3.
+- If Nominatim returns nothing useful, fall back to a web search for the coordinates.
 
-### 3. Compare with stored coordinates
+### 3. Find the entrance (for non-trivial buildings)
 
-**If the POI has `latitude` / `longitude`:**
+Nominatim returns the **centroid** of an OSM object, which is fine for a small node (a café, a small shop) but wrong for anything with a real footprint. For POIs that are ways or relations (museums, cathedrals, palaces, parks, stadiums, airports, large markets), query Overpass for the main entrance:
 
-Calculate the distance between the stored point and the Nominatim point:
-- Within ~500 m: **no change needed**.
-- Between 500 m and 5 km: check whether the discrepancy is explainable (large complex, neighbourhood centroid). If it looks like a genuine error, update to the Nominatim coordinates.
-- More than 5 km apart: almost certainly wrong. Update to the Nominatim coordinates.
-- If Nominatim returned coordinates in a clearly wrong country, do **not** blindly update — investigate with a web search and use your best judgement.
+**For a way:**
+```
+POST https://overpass-api.de/api/interpreter
+data=[out:json][timeout:15];
+node(w:<osm_id>)["entrance"~"^(main|yes)$"];
+out body;
+```
 
-**If the POI has no `latitude` / `longitude`:**
+**For a relation:**
+```
+POST https://overpass-api.de/api/interpreter
+data=[out:json][timeout:15];
+node(r:<osm_id>)["entrance"~"^(main|yes)$"];
+out body;
+```
 
-Add the coordinates returned by Nominatim (or your web search result) to the frontmatter.
+- Prefer `entrance=main` over `entrance=yes`. If multiple `entrance=yes` nodes exist, pick the one that faces the main street or has the most prominent position.
+- If no entrance node exists in OSM (common for older data), use the Nominatim centroid — it is still better than a wrong-country coordinate.
+- Small nodes (`osm_type=node`) are already a point location; skip the Overpass step entirely.
 
-### 4. Write the fix
+### 4. Compare with stored coordinates
 
-If a coordinate change is needed, update the file's frontmatter using `python-frontmatter`. Only touch `latitude` and `longitude` — do not alter any other field.
+Calculate the distance between the best coordinate found (entrance or centroid) and the POI's stored `latitude`/`longitude`.
 
-Example of the fix pattern (Python):
+| Distance | Action |
+|---|---|
+| < 25 m | Leave unchanged |
+| 25 m – 5 km | Investigate: is the discrepancy explained by entrance vs centroid, a large complex, or a secondary entrance? Update if the new point is clearly more accurate. |
+| > 5 km | Almost certainly wrong — update. |
+
+Off-by-continent errors are common in old World66 data (a London pub with coordinates in Texas, a Tokyo shrine in California). These are obvious — fix them.
+
+If the POI has **no coordinates**: add what you found.
+
+### 5. Write the fix
+
+If a change is needed, update the file using `python-frontmatter`. Only touch `latitude` and `longitude`.
 
 ```python
 import frontmatter
@@ -62,15 +89,19 @@ with open(path, 'wb') as f:
     frontmatter.dump(post, f)
 ```
 
-Round to 6 decimal places (~10 cm precision — more than enough).
+Round to 6 decimal places (~10 cm precision).
 
-### 5. Skip gracefully when uncertain
+### 6. Skip gracefully when uncertain
 
-If you cannot confidently determine the correct coordinates (ambiguous name, no Nominatim hit, can't tell which city), leave the file unchanged. Do **not** guess. It is better to leave a coordinate blank than to put in wrong ones.
+If you cannot confidently identify the right location — ambiguous name, no Nominatim result, can't tell which city — leave the file unchanged. Do not guess. A blank coordinate is better than a wrong one.
 
-## Tips
+---
 
-- The path encodes the country and city — use it as the primary location context.
-- Nominatim works well for named landmarks, museums, parks, and restaurants in major cities. It is less reliable for small local businesses or obscure sites.
-- Old World66 data has frequent off-by-continent errors: a London pub with coordinates in Texas, a Tokyo shrine with coordinates in California. These are obvious in the distance check.
-- For a restaurant/bar where Nominatim can't find the exact place, the parent city centroid is acceptable as a fallback if no better coordinates are available.
+## Quick reference
+
+| POI type | Where to get coords |
+|---|---|
+| Small node (café, shop, statue) | Nominatim centroid |
+| Named building (museum, cathedral) | Overpass entrance node, fall back to Nominatim centroid |
+| Large complex / park | Overpass main entrance, fall back to Nominatim centroid |
+| No Nominatim hit | Web search |

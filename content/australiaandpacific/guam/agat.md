@@ -10,6 +10,8 @@ latitude: 13.381459
 loc_type: city
 longitude: 144.658155
 score: 0.35
+snippet: Southwestern Guam village and 1944 landing beach, with War in the Pacific
+  sites at Gaan Point.
 title: Agat
 type: location
 ---

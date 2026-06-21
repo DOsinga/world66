@@ -10,6 +10,8 @@ latitude: 26.142
 loc_type: city
 longitude: -81.7948
 score: 0.41
+snippet: Refined Gulf Coast city in southwest Florida, known for beaches, tropical
+  gardens, and walkable downtown streets.
 title: Naples
 type: location
 ---

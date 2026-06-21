@@ -12,6 +12,8 @@ latitude: 45.4893
 loc_type: city
 longitude: 15.5486
 score: 0.44
+snippet: Croatian river city built as a Renaissance star fortress where the Kupa,
+  Korana, Mrežnica, and Dobra meet.
 title: Karlovac
 type: location
 ---

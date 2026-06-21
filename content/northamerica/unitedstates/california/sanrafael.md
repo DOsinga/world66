@@ -6,6 +6,8 @@ latitude: 37.974779
 loc_type: city
 longitude: -122.531669
 score: 0.34
+snippet: Marin County seat near San Francisco, known for Frank Lloyd Wright's Civic
+  Center and outdoor access.
 title: San Rafael
 type: location
 ---

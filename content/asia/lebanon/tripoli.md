@@ -9,6 +9,8 @@ latitude: 34.437362
 loc_type: city
 longitude: 35.834855
 score: 0.35
+snippet: Lebanon's second city, with Mamluk architecture, souks, and a Crusader-era
+  citadel above the old town.
 sources:
 - https://en.wikipedia.org/wiki/Tripoli,_Lebanon
 title: Tripoli

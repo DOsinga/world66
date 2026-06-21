@@ -10,6 +10,7 @@ latitude: 31.2406
 loc_type: city
 longitude: -6.1193
 score: 0.45
+snippet: Dadès Valley town at the centre of Morocco's damask rose-growing country.
 title: Kelaa M'Gouna
 type: location
 ---

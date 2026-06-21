@@ -10,6 +10,8 @@ latitude: 37.0556
 loc_type: city
 longitude: 10.0622
 score: 0.35
+snippet: Ancient Phoenician and Roman site in Tunisia, now inland after its harbour
+  silted up.
 title: Utique
 type: location
 ---

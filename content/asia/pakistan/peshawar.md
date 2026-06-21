@@ -11,6 +11,8 @@ latitude: 34.012385
 loc_type: city
 longitude: 71.578746
 score: 0.25
+snippet: Pashtun frontier city near the Khyber Pass, centred on the historic Qissa
+  Khwani Bazaar.
 sources:
 - https://en.wikipedia.org/wiki/Peshawar
 - https://en.wikivoyage.org/wiki/Peshawar

@@ -9,6 +9,8 @@ latitude: 38.5708
 loc_type: city
 longitude: -7.9093
 score: 0.57
+snippet: Alentejo hill city and UNESCO site, with Roman, medieval, and Portuguese
+  golden-age architecture.
 title: Évora
 type: location
 ---

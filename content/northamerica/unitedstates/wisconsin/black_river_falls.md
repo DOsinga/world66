@@ -11,6 +11,8 @@ latitude: 44.295215
 loc_type: city
 longitude: -90.848414
 score: 0.28
+snippet: Small Wisconsin city on Interstate 94, gateway to Black River State Forest
+  trails and wetlands.
 title: Black River Falls
 type: location
 ---

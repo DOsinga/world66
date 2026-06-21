@@ -8,6 +8,8 @@ latitude: 51.250559
 loc_type: city
 longitude: 22.570102
 score: 0.44
+snippet: Eastern Polish university city with a medieval old town and a layered Polish,
+  Ukrainian, and Jewish history.
 title: Lublin
 type: location
 ---

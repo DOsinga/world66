@@ -1,9 +1,11 @@
 ---
-title: "Riviera delle Palme"
-type: location
+latitude: 44.2
 loc_type: region
-latitude: 44.2000
-longitude: 8.2000
+longitude: 8.2
+snippet: Liguria coast district southwest of Savona, named for the palm-lined promenades
+  of its beach towns.
+title: Riviera delle Palme
+type: location
 ---
 
 The Riviera delle Palme — the Riviera of Palms — stretches along the Ligurian coast southwest of Savona, running from Varazze down toward the border with the Riviera dei Fiori. It takes its name from the palm-lined promenades that front the beach towns, a feature shared with the French Côte d'Azur just over the hills. The climate is mild year-round, the hills immediately behind the coast are steep and wooded, and the narrow coastal plain is packed with holiday towns, fishing villages, and market-garden terraces.

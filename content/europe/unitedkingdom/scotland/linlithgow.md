@@ -14,6 +14,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Am_linlithgow_palace_north
 image_license: CC BY-SA 2.0
 image_attribution: Alistair McMillan
 score: 0.46
+snippet: Scottish royal burgh beside a loch, dominated by the roofless palace of Mary Queen of Scots.
 ---
 
 *Europe > United Kingdom > Scotland > Linlithgow*

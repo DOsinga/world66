@@ -10,6 +10,7 @@ loc_type: city
 longitude: -80.244052
 score: 0.35
 title: Winston-Salem
+snippet: North Carolina city shaped by Moravian Salem, tobacco wealth, and the restored Old Salem district.
 type: location
 ---
 

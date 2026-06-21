@@ -11,6 +11,7 @@ loc_type: city
 longitude: 4.845691
 score: 0.41
 title: Oudeschild
+snippet: Texel harbour village on the Waddenzee, with fishing quays and the maritime Museum Kaap Skil.
 type: location
 ---
 

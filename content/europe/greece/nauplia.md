@@ -11,6 +11,7 @@ loc_type: city
 longitude: 22.806878
 score: 0.57
 title: Nauplia
+snippet: Peloponnese harbour town and early Greek capital, crowned by the Palamidi Fortress above Venetian streets.
 type: location
 ---
 

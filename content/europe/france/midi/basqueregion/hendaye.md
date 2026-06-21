@@ -11,6 +11,7 @@ loc_type: city
 longitude: -1.76165
 score: 0.43
 title: Hendaye
+snippet: French Basque border town with a long sheltered beach at the mouth of the Bidasoa River.
 type: location
 ---
 

@@ -18,6 +18,7 @@ sources:
 - https://en.wikipedia.org/wiki/Scots_Monastery,_Regensburg
 - https://en.wikipedia.org/wiki/Historische_Wurstkuchl
 title: Regensburg
+snippet: Danube city in eastern Bavaria, with an intact medieval centre spared from wartime destruction.
 type: location
 ---
 

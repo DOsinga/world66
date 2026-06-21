@@ -11,6 +11,7 @@ loc_type: city
 longitude: -88.5822
 score: 0.39
 title: Gracias
+snippet: Western Honduran colonial town below Celaque, the country's highest peak and cloud-forest national park.
 type: location
 ---
 

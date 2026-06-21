@@ -10,6 +10,7 @@ loc_type: city
 longitude: 149.101268
 score: 0.44
 title: Canberra
+snippet: Planned Australian capital of parliament, national museums, and broad lakefront avenues below low hills.
 type: location
 ---
 

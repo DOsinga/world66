@@ -12,6 +12,7 @@ loc_type: city
 longitude: -72.575
 score: 0.41
 title: Montpelier
+snippet: Tiny Vermont capital in a Winooski River valley, centred on a gold-domed State House.
 type: location
 ---
 

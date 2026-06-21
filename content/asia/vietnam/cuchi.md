@@ -7,6 +7,7 @@ loc_type: city
 longitude: 106.494897
 score: 0.47
 title: Cu Chi
+snippet: Vietnamese district northwest of Ho Chi Minh City, known for its wartime tunnel network.
 type: location
 ---
 

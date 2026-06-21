@@ -11,6 +11,7 @@ loc_type: city
 longitude: 27.026077
 score: 0.48
 title: Inari
+snippet: Northern Lapland municipality and Sámi cultural centre beside Lake Inari and Arctic wilderness areas.
 type: location
 ---
 

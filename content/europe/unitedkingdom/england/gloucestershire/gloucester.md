@@ -11,6 +11,7 @@ loc_type: city
 longitude: -2.245819
 score: 0.43
 title: Gloucester
+snippet: Severn Vale city with a Norman cathedral and restored Victorian docks near the historic centre.
 type: location
 ---
 

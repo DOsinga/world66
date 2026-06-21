@@ -11,6 +11,7 @@ loc_type: city
 longitude: 21.626
 score: 0.42
 title: Debrecen
+snippet: Eastern Hungarian city with Calvinist roots, centred on the Great Reformed Church and college.
 type: location
 ---
 

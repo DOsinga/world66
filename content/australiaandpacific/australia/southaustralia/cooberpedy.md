@@ -11,6 +11,7 @@ loc_type: city
 longitude: 134.7536
 score: 0.43
 title: Coober Pedy
+snippet: Outback opal-mining town where dugout homes shelter residents from South Australia's desert heat.
 type: location
 ---
 

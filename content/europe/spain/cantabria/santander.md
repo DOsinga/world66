@@ -7,6 +7,7 @@ loc_type: city
 longitude: -3.810026
 score: 0.49
 title: Santander
+snippet: Cantabrian capital and port city with royal summer architecture facing the Bay of Biscay.
 type: location
 image: santander.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muelle_de_Albareda,_Santander.jpg

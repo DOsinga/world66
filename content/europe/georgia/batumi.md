@@ -12,6 +12,7 @@ loc_type: city
 longitude: 41.636
 score: 0.53
 title: Batumi
+snippet: Georgian Black Sea port in subtropical Adjara, lined with palms, boulevards, and modern towers.
 type: location
 ---
 

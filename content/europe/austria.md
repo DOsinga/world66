@@ -12,7 +12,7 @@ quick_facts:
   Currency: Euro (€)
   Alpine Coverage: "62% of the country"
   Coffee Houses: "Viennese café culture is UNESCO Intangible Heritage"
-score: 0.67
+score: 0.85
 loc_type: country
 ---
 

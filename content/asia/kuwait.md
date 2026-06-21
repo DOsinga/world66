@@ -15,7 +15,7 @@ quick_facts:
   Best Months: "Nov–Mar (cool enough to be outside)"
   Summer Heat: "50°C+"
   Alcohol: Completely banned
-score: 0.37
+score: 0.34
 loc_type: country
 ---
 

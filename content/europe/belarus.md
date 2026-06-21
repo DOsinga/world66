@@ -13,7 +13,7 @@ quick_facts:
   Visa: "30-day visa-free via Minsk airport"
   Forest Cover: "40% of the country"
   Białowieża Forest: "Last primeval lowland forest in Europe"
-score: 0.33
+score: 0.42
 title: Belarus
 type: location
 loc_type: country

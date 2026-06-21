@@ -1,4 +1,5 @@
 ---
+score: 0.64
 title: Serbia and Montenegro
 type: location
 loc_type: country

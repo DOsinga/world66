@@ -12,7 +12,7 @@ quick_facts:
   Language: "Arabic & French"
   Sahara Coverage: "80%"
   Roman Ruins: "7 UNESCO sites"
-score: 0.31
+score: 0.63
 loc_type: country
 ---
 

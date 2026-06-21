@@ -14,7 +14,7 @@ quick_facts:
   Languages: "Arabic & French"
   UNESCO Sites: "8"
   Star Wars Filmed: Matmata
-score: 0.45
+score: 0.69
 title: Tunisia
 type: location
 loc_type: country

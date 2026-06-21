@@ -14,7 +14,7 @@ quick_facts:
   Distance to France: "Just 14 miles"
   Sark: "No cars allowed — last feudal state in Europe until 2008"
   Status: "British Crown dependencies, not part of the UK"
-score: 0.59
+score: 0.45
 loc_type: country
 ---
 

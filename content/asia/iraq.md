@@ -15,7 +15,7 @@ quick_facts:
   Tigris & Euphrates: "Both rivers flow through the country"
 done:
   country_cleanup: 2026-03-30
-score: 0.22
+score: 0.45
 loc_type: country
 ---
 

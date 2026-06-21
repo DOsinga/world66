@@ -14,7 +14,7 @@ quick_facts:
   Budget Meal: "~$4–6"
   Danube Delta: "5,165 km² wetland wilderness"
   Painted Monasteries: UNESCO-listed frescoed churches from the 1400s
-score: 0.54
+score: 0.74
 loc_type: country
 ---
 

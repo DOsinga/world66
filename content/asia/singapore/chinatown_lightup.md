@@ -1,14 +1,15 @@
 ---
 latitude: 1.2836
 longitude: 103.8444
+score: 6.9
 snippet: Annual Chinese New Year light display along festive streets
 tags:
 - things_to_do
 - sight
 - sights
+- chinatown
 title: Chinatown Light-Up
 type: poi
-score: 6.9
 ---
 
 Every year around Chinese New Year, the streets of Chinatown blaze with elaborate light installations stretching along Eu Tong Sen Street, New Bridge Road, and South Bridge Road. The designs change annually, typically featuring the zodiac animal of the year alongside lanterns, dragons, and traditional motifs.

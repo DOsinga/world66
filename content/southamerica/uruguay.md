@@ -15,7 +15,7 @@ quick_facts:
   Cost Level: "Priciest in South America"
   Cattle-to-People Ratio: "4 cows per person"
   Renewable Energy: "98% of electricity"
-score: 0.54
+score: 0.61
 loc_type: country
 ---
 

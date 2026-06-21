@@ -15,7 +15,7 @@ quick_facts:
   Time Zones: "11"
   Lake Baikal: "20% of the world's fresh water"
   Trans-Siberian Railway: "9,289 km — world's longest"
-score: 0.25
+score: 0.74
 loc_type: country
 ---
 

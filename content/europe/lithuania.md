@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€)
   Hill of Crosses: "Over 250,000 crosses and counting"
   Medieval Grand Duchy: "Once stretched from the Baltic to the Black Sea"
-score: 0.51
+score: 0.62
 loc_type: country
 ---
 

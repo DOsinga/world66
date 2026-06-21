@@ -13,7 +13,7 @@ quick_facts:
   Religion: "98% Sunni Muslim"
   Coups Since 1975: "20+"
   Known As: The Perfume Islands
-score: 0.42
+score: 0.38
 loc_type: country
 ---
 

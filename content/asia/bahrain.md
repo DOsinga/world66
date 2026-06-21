@@ -16,7 +16,7 @@ quick_facts:
   Tree of Life: "400+ years old"
 title: Bahrain
 type: location
-score: 0.54
+score: 0.40
 loc_type: country
 ---
 

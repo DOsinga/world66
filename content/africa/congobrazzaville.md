@@ -1,4 +1,5 @@
 ---
+score: 0.36
 title: Republic of the Congo
 type: location
 loc_type: country

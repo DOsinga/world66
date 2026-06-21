@@ -14,7 +14,7 @@ quick_facts:
   Travel Advisory: "Most governments advise against travel"
   Angel Falls: "979 m — world's highest waterfall"
   Bird Species: "1,400+ recorded"
-score: 0.34
+score: 0.53
 loc_type: country
 ---
 

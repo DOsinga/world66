@@ -15,7 +15,7 @@ quick_facts:
   Visa: "Letter of invitation required — no independent travel"
   Karakum Desert Coverage: "70% of the country"
   Darvaza Gas Crater: Burning since 1971
-score: 0.35
+score: 0.41
 loc_type: country
 ---
 

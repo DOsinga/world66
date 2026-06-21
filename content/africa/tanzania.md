@@ -16,7 +16,7 @@ quick_facts:
   Wildebeest Migration: "1.5 million"
 done:
   country_cleanup: 2026-03-31
-score: 0.46
+score: 0.83
 title: Tanzania
 type: location
 loc_type: country

@@ -15,7 +15,7 @@ quick_facts:
   Currency: Euro (€)
   Pubs: "Over 7,000 across the country"
   Bog Cover: "17% of land area"
-score: 0.48
+score: 0.80
 loc_type: country
 ---
 

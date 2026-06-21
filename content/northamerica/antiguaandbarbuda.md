@@ -1,4 +1,5 @@
 ---
+score: 0.48
 title: Antigua and Barbuda
 type: location
 loc_type: country

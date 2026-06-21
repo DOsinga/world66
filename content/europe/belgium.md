@@ -14,7 +14,7 @@ quick_facts:
   Currency: Euro (€)
   Beer Varieties: "Over 1,500 distinct beers"
   Official Languages: "3 — Dutch, French, and German"
-score: 0.38
+score: 0.75
 title: Belgium
 type: location
 loc_type: country

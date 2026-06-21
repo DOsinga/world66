@@ -10,6 +10,7 @@ latitude: 12.8783
 loc_type: city
 longitude: 100.872
 score: 0.62
+snippet: Quieter beach south of Pattaya with good windsurfing and watersports
 title: Jomtien Beach
 type: location
 ---

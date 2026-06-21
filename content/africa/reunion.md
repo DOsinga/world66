@@ -8,7 +8,7 @@ quick_facts:
   Currency: Euro (EUR)
   Highest Peak: "3,071 m (Piton des Neiges)"
   Active Volcano: Piton de la Fournaise
-score: 0.7
+score: 0.60
 loc_type: country
 ---
 

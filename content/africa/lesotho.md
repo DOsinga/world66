@@ -14,7 +14,7 @@ quick_facts:
   Lowest Point: "1,400 m — highest of any country"
 done:
   country_cleanup: 2026-03-31
-score: 0.41
+score: 0.48
 loc_type: country
 ---
 

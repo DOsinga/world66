@@ -15,7 +15,7 @@ quick_facts:
   Budget Meal: "~$3–4"
   Lake Ohrid: "1.4 million years old"
   Orthodox Churches: "Over 1,000"
-score: 0.57
+score: 0.60
 loc_type: country
 ---
 

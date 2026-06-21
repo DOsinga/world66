@@ -10,6 +10,8 @@ latitude: 37.770817
 loc_type: city
 longitude: 75.228089
 score: 0.39
+snippet: Pamir mountain town on the Karakoram Highway, named for its ancient stone
+  fortress.
 title: Tashkorgan
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 41.006381
 loc_type: city
 longitude: 28.975872
 score: 0.79
+snippet: Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, and
+  modern districts across two continents.
 title: Istanbul
 type: location
 ---

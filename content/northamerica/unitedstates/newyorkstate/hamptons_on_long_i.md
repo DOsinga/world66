@@ -5,6 +5,8 @@ latitude: 40.9632
 loc_type: region
 longitude: -72.1846
 score: 0.6
+snippet: Long Island beach region of villages and dunes, long used as a summer retreat
+  from New York.
 title: The Hamptons
 type: location
 ---

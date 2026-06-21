@@ -10,6 +10,8 @@ latitude: 8.4036
 loc_type: city
 longitude: -77.6878
 score: 0.18
+snippet: Darién Province capital on the Tuira River, used as a service base for deeper
+  rainforest travel.
 title: La Palma
 type: location
 ---

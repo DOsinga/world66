@@ -9,6 +9,8 @@ latitude: 53.962
 loc_type: city
 longitude: -2.0166
 score: 0.46
+snippet: Yorkshire market town with a medieval castle, canal towpath, and access to
+  the Dales.
 title: Skipton
 type: location
 ---

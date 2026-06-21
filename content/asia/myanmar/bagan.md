@@ -11,6 +11,8 @@ latitude: 21.1717
 loc_type: city
 longitude: 94.8585
 score: 0.65
+snippet: Ancient Burmese plain beside the Ayeyarwady, scattered with more than 2,000
+  temples and pagodas.
 title: Bagan
 type: location
 ---

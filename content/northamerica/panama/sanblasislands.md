@@ -9,6 +9,8 @@ latitude: 9.5817
 loc_type: city
 longitude: -78.9167
 score: 0.59
+snippet: Guna Yala archipelago of coral islets governed by the Indigenous Guna along
+  Panama's Caribbean coast.
 title: San Blas Islands
 type: location
 ---

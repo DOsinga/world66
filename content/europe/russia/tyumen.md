@@ -6,6 +6,8 @@ latitude: 57.153534
 loc_type: city
 longitude: 65.542274
 score: 0.26
+snippet: Siberian regional capital on the Tura River, founded in 1586 and shaped by
+  nearby oil wealth.
 title: Tyumen
 type: location
 ---

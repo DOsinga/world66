@@ -10,6 +10,8 @@ latitude: 24.992999
 loc_type: city
 longitude: 121.301
 score: 0.36
+snippet: Industrial city southwest of Taipei, best known for Taiwan Taoyuan International
+  Airport and Daxi Old Street.
 title: Taoyuan
 type: location
 ---

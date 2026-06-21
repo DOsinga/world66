@@ -11,6 +11,8 @@ latitude: 36.8966
 loc_type: city
 longitude: 22.2199
 score: 0.54
+snippet: Coastal Mani village backed by the Taygetos mountains, linked to ancient
+  legend and Patrick Leigh Fermor.
 title: Kardamili
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 21.4904
 loc_type: city
 longitude: 103.1046
 score: 0.39
+snippet: Northwest Vietnamese valley town known for the 1954 battle that ended French
+  colonial rule in Indochina.
 title: Dien Bien Phu
 type: location
 ---

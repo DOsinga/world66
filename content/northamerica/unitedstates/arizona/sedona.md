@@ -8,6 +8,8 @@ latitude: 34.868861
 loc_type: city
 longitude: -111.761439
 score: 0.64
+snippet: Arizona town set among red rock formations, Oak Creek greenery, and extensive
+  hiking trails.
 sources:
 - https://en.wikipedia.org/wiki/Sedona,_Arizona
 title: Sedona

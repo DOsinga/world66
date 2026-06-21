@@ -6,6 +6,8 @@ latitude: 24.3263
 loc_type: city
 longitude: 124.089
 score: 0.6
+snippet: Tiny Yaeyama coral island with sandy lanes, red-tiled roofs, shisa statues,
+  and star-sand beaches.
 sources:
 - https://en.wikipedia.org/wiki/Taketomi_Island
 - https://www.japan-guide.com/e/e7250.html

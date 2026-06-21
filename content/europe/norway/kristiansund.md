@@ -9,6 +9,8 @@ latitude: 63.1109
 loc_type: city
 longitude: 7.7281
 score: 0.46
+snippet: Norwegian coastal city spread across four islands, historically built on
+  klippfisk production and harbour trade.
 title: Kristiansund
 type: location
 ---

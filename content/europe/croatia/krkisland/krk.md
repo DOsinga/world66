@@ -10,6 +10,8 @@ latitude: 45.0267
 loc_type: city
 longitude: 14.5756
 score: 0.52
+snippet: Historic town on Krk island with Roman roots, medieval walls, Venetian stone,
+  and an old cathedral.
 title: Krk
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -14.919562
 loc_type: city
 longitude: 13.489751
 score: 0.27
+snippet: Angolan highland city with a cool plateau climate, colonial centre, and Cristo
+  Rei viewpoint.
 title: Lubango
 type: location
 ---

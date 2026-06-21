@@ -10,6 +10,8 @@ latitude: -17.87751
 loc_type: city
 longitude: 36.890216
 score: 0.29
+snippet: Mozambican port city in the Bons Sinais delta, with Portuguese-era architecture
+  and a busy municipal market.
 title: Quelimane
 type: location
 ---

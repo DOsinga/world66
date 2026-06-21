@@ -10,6 +10,8 @@ latitude: 15.773
 loc_type: city
 longitude: -86.781
 score: 0.35
+snippet: Honduran Caribbean city and Bay Islands ferry hub, backed by the Cordillera
+  Nombre de Dios mountains.
 sources:
 - https://en.wikipedia.org/wiki/La_Ceiba
 - https://en.wikipedia.org/wiki/Pico_Bonito_National_Park

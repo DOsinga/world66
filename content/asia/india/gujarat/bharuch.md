@@ -11,6 +11,7 @@ loc_type: city
 longitude: 72.995694
 score: 0.27
 title: Bharuch
+snippet: Ancient Gujarat trading port on the Narmada River near the Gulf of Khambhat.
 type: location
 ---
 

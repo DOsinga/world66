@@ -11,6 +11,7 @@ loc_type: city
 longitude: 12.543427
 score: 0.39
 title: Rungstedlund
+snippet: Coastal Danish estate north of Copenhagen, best known as Karen Blixen's lifelong home.
 type: location
 ---
 

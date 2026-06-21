@@ -11,6 +11,7 @@ loc_type: city
 longitude: 69.185058
 score: 0.11
 title: Kabul
+snippet: High-valley Afghan capital ringed by the Hindu Kush and marked by repeated destruction and rebuilding.
 type: location
 ---
 

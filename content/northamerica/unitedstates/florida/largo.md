@@ -11,6 +11,7 @@ loc_type: city
 longitude: -82.787324
 score: 0.3
 title: Largo
+snippet: Residential Gulf Coast city in Pinellas County, minutes from Clearwater Beach and barrier-island shores.
 type: location
 ---
 

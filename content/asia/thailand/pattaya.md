@@ -13,6 +13,7 @@ loc_type: city
 longitude: 100.8865
 score: 0.51
 title: Pattaya
+snippet: Busy Thai beach resort on the Gulf of Thailand, with heavy tourism infrastructure and offshore island trips.
 type: location
 ---
 

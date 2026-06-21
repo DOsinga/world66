@@ -11,6 +11,7 @@ loc_type: city
 longitude: -91.498494
 score: 0.33
 title: Eau Claire
+snippet: Wisconsin college town at two rivers, built on lumber and known for music and craft beer.
 type: location
 ---
 

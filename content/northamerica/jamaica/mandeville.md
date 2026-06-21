@@ -11,6 +11,7 @@ loc_type: city
 longitude: -77.5044
 score: 0.38
 title: Mandeville
+snippet: Cool highland town in Manchester parish, known for its English character and central green.
 type: location
 ---
 

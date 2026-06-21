@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Port_of_Lobito
 - https://en.wikipedia.org/wiki/Benguela_Railway
 title: Lobito
+snippet: Angolan port city built around the Restinga sandbar and its sheltered Atlantic harbour.
 type: location
 ---
 

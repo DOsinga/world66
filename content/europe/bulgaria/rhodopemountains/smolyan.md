@@ -1,5 +1,6 @@
 ---
 title: Smolyan
+snippet: Mountain town stretched along the Arda Valley, the largest settlement in Bulgaria's Rhodopes.
 type: location
 loc_type: city
 latitude: 41.5756

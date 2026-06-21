@@ -11,6 +11,7 @@ loc_type: city
 longitude: -84.700523
 score: 0.32
 title: Rugby, Tennessee
+snippet: Victorian village on Tennessee's Cumberland Plateau, founded as an English utopian colony.
 type: location
 ---
 

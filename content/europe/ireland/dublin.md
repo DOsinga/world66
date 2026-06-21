@@ -12,6 +12,7 @@ loc_type: city
 longitude: -6.260559
 score: 0.62
 title: Dublin
+snippet: Compact Irish capital on the Liffey, where literary history still shapes the pubs and Georgian streets.
 type: location
 ---
 

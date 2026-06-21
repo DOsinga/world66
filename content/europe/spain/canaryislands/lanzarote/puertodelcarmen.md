@@ -10,6 +10,7 @@ loc_type: city
 longitude: -13.6507
 score: 0.53
 title: Puerto del Carmen
+snippet: Lanzarote resort town with low white buildings along a six-kilometre southeast-coast beach strip.
 type: location
 ---
 

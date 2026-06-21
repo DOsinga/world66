@@ -11,6 +11,7 @@ loc_type: city
 longitude: 35.7557
 score: 0.34
 title: Anjara
+snippet: Northern Jordanian hill town and Christian pilgrimage site near Ajlun's wooded highlands.
 type: location
 ---
 

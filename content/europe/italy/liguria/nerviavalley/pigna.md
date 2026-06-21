@@ -11,6 +11,7 @@ loc_type: city
 longitude: 7.663314
 score: 0.43
 title: Pigna
+snippet: Hilltop Ligurian village in the Nervia Valley, known for thermal springs and stone lanes.
 type: location
 ---
 

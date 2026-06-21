@@ -11,6 +11,7 @@ loc_type: city
 longitude: -70.852975
 score: 0.57
 title: Valparaiso
+snippet: Pacific port city in Chile, built across steep hills linked by historic funicular elevators.
 type: location
 ---
 

@@ -4,6 +4,10 @@ Verify the coordinates of every POI. This is a focused task: coordinates only. D
 
 Use **5 agents** per batch, dividing the batch roughly equally between them.
 
+## Guiding principle
+
+**Trust OpenStreetMap above our own stored coordinates.** The existing lat/lon in World66 POIs is old, often wrong, and should be treated as a rough hint at best. OSM data — retrieved via Nominatim and Overpass — is the authority. When OSM says a place is somewhere, update the file to match, unless the OSM result is clearly for the wrong place (wrong country, wrong city, obviously a different venue with a similar name).
+
 ## Coordinate precision goal
 
 We want the pin to land at the **entrance** of the place, not the centroid of a building footprint or the middle of a city block. For a restaurant, bar, or small museum this is the front door. For a large complex (palace, cathedral, airport, big museum), it is the main public entrance.

@@ -9,6 +9,8 @@ latitude: 43.775349
 loc_type: city
 longitude: 7.502921
 score: 0.56
+snippet: Riviera border town with pastel hillside streets, lemon gardens, and an unusually
+  mild coastal climate
 title: Menton
 type: location
 ---

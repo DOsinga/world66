@@ -9,6 +9,8 @@ latitude: 55.861155
 loc_type: city
 longitude: -4.250169
 score: 0.53
+snippet: Scottish city defined by Victorian architecture, shipbuilding history, and a
+  sharp independent culture
 title: Glasgow
 type: location
 ---

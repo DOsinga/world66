@@ -1,12 +1,14 @@
 ---
-title: Armavir Marz
-type: location
-latitude: 40.163382
-longitude: 44.29412
 done:
   location_cleanup: 2026-04-07
-score: 0.36
+latitude: 40.163382
 loc_type: region
+longitude: 44.29412
+score: 0.36
+snippet: Western Armenian province on the Ararat plain, dense with churches, memorials,
+  and ancient archaeological sites
+title: Armavir Marz
+type: location
 ---
 
 Armavir Marz is a flat, dry province in western Armenia, extending across the Ararat plain from the Aras River to the outskirts of Yerevan. It is not scenic in a conventional sense, but it contains some of the most important sites in the country: the world headquarters of the Armenian Apostolic Church, three UNESCO World Heritage churches, Armenia's most significant battle memorial, and two archaeological sites from ancient civilisations that predate Armenia itself.

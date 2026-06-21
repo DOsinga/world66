@@ -8,6 +8,8 @@ latitude: 14.693425
 loc_type: city
 longitude: -17.447938
 score: 0.47
+snippet: West African capital on the Cap-Vert peninsula, alive with markets, music,
+  mosques, and Atlantic light
 title: Dakar
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 16.6173
 loc_type: city
 longitude: -7.2664
 score: 0.16
+snippet: Remote Saharan town on Mauritania's eastern edge, with nomadic trade and
+  very basic traveller facilities
 title: Nema
 type: location
 ---

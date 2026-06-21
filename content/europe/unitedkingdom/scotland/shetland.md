@@ -5,6 +5,8 @@ latitude: 60.333333
 loc_type: region
 longitude: -1.333333
 score: 0.56
+snippet: Northern Scottish archipelago of treeless moorland, seabird cliffs, Norse
+  archaeology, and long summer light
 title: Shetland
 type: location
 ---

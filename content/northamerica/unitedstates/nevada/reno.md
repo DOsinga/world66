@@ -12,6 +12,8 @@ latitude: 39.526179
 loc_type: city
 longitude: -119.812658
 score: 0.4
+snippet: Northern Nevada casino city with a scrappy arts scene and easy access to
+  the Sierra Nevada
 title: Reno
 type: location
 ---

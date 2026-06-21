@@ -5,6 +5,8 @@ latitude: 44.5
 loc_type: region
 longitude: 6.5
 score: 0.62
+snippet: Mediterranean French mountain region of limestone gorges, lavender valleys,
+  high pastures, and hill villages
 title: Southern Alps
 type: location
 ---

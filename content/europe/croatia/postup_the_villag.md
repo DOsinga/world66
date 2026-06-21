@@ -10,6 +10,8 @@ latitude: 42.9723
 loc_type: city
 longitude: 17.2387
 score: 0.46
+snippet: Pelješac wine village surrounded by Plavac Mali vineyards on steep Adriatic-facing
+  slopes
 title: Postup
 type: location
 ---

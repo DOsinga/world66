@@ -12,6 +12,8 @@ latitude: 36.8065
 loc_type: city
 longitude: 10.1815
 score: 0.5
+snippet: Layered Tunisian capital where a UNESCO medina meets French-built boulevards
+  and nearby Carthage ruins
 title: Tunis
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 51.451495
 loc_type: city
 longitude: -0.983634
 score: 0.28
+snippet: Thames Valley town known for its music festival, ruined medieval abbey, and
+  fast London rail links
 title: Reading
 type: location
 ---

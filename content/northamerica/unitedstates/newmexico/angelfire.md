@@ -10,6 +10,8 @@ latitude: 36.3931
 loc_type: city
 longitude: -105.285
 score: 0.38
+snippet: Moreno Valley ski town near Taos, with gentler slopes, summer biking, and
+  alpine meadows
 title: Angel Fire
 type: location
 ---

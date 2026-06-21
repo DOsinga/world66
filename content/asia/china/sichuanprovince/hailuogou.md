@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:HailuogouGlacierPanorama.j
 latitude: 29.6465
 loc_type: feature
 longitude: 102.1248
+score: 0.53
+snippet: Sichuan glacier park where Minya Konka ice descends through forest toward
+  Tibetan villages and hot springs
 sources:
 - https://en.wikivoyage.org/wiki/Hailuogou_Glacier_Park
 title: Hailuogou Glacier Park
 type: location
-score: 0.53
 ---
 
 Hailuogou Glacier Park lies on the eastern flank of Minya Konka — at 7,556 metres the highest peak in Sichuan and one of the highest in China outside Tibet — about 350 kilometres south of Chengdu. The glacier descends from the permanent snowfields of Minya Konka to an unusually low altitude, making it one of the most accessible glaciers in the country. The approach through bamboo and old-growth forest before the landscape transitions to ice and bare rock is part of what makes the place distinctive.

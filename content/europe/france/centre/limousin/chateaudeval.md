@@ -6,6 +6,8 @@ latitude: 45.442681
 loc_type: city
 longitude: 2.505324
 score: 0.45
+snippet: Lakeside French château with six battlemented towers reflected in the waters
+  of Lac de Bort
 title: Château de Val
 type: location
 ---

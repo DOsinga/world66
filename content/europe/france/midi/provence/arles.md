@@ -11,6 +11,8 @@ latitude: 43.677622
 loc_type: city
 longitude: 4.630965
 score: 0.6
+snippet: Provençal Roman town where an ancient arena, Van Gogh streets, and Rhône
+  light crowd the centre
 title: Arles
 type: location
 ---

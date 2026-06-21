@@ -2,7 +2,7 @@
 latitude: 35.0033
 longitude: 135.7813
 score: 8.5
-snippet: Kaiseki restaurant founded in 1716, one of the oldest in Gion
+snippet: Kaiseki restaurant inside Yasaka Shrine's torii, founded in 1716 and among the oldest in Gion
 tags:
 - things_to_do
 - eating_out

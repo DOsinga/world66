@@ -2,8 +2,7 @@
 latitude: 35.0207
 longitude: 135.757
 score: 9.0
-snippet: Three-Michelin-star kaiseki restaurant in continuous operation since the
-  16th century
+snippet: Three-Michelin-star kaiseki restaurant in continuous operation since the 16th century, overlooking Arashiyama
 tags:
 - things_to_do
 - eating_out

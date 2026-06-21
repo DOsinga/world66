@@ -2,7 +2,7 @@
 latitude: 35.0149
 longitude: 135.6757
 score: 6.5
-snippet: Riverside craft beer garden below Togetsukyo bridge, open-air in good weather
+snippet: Riverside craft beer garden below Togetsukyo bridge, open-air seating when weather allows it
 tags:
 - things_to_do
 - bars_and_cafes

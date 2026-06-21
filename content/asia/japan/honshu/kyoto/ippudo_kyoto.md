@@ -2,7 +2,7 @@
 latitude: 35.0093
 longitude: 135.7659
 score: 7.0
-snippet: Hakata-style tonkotsu ramen in a sleek Karasuma-Oike basement
+snippet: Hakata-style tonkotsu ramen chain outpost in a sleek Karasuma-Oike basement, reliably busy at lunch
 tags:
 - things_to_do
 - eating_out

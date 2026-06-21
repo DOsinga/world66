@@ -2,7 +2,7 @@
 latitude: 35.0072
 longitude: 135.7641
 score: 7.0
-snippet: Kyoto-style chicken and vegetable ramen near Kawaramachi, minimal MSG philosophy
+snippet: Kyoto-style chicken and vegetable ramen near Kawaramachi, built on a minimal-MSG broth philosophy
 tags:
 - things_to_do
 - eating_out

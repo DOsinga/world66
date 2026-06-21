@@ -2,7 +2,7 @@
 latitude: 35.0063
 longitude: 135.7703
 score: 6.5
-snippet: Long-running kaiten sushi popular with Kyoto locals near Sanjo shopping
+snippet: Long-running kaiten sushi popular with Kyoto locals near Sanjo shopping, fast and unfussy
 tags:
 - things_to_do
 - eating_out

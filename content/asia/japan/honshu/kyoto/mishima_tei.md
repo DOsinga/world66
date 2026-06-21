@@ -2,7 +2,7 @@
 latitude: 35.006
 longitude: 135.7669
 score: 7.5
-snippet: Sukiyaki institution operating from the same Sanjo townhouse since 1873
+snippet: Sukiyaki institution operating from the same Sanjo townhouse since 1873, a Kyoto classic
 tags:
 - things_to_do
 - eating_out

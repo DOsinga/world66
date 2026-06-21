@@ -2,7 +2,7 @@
 latitude: 35.0022
 longitude: 135.7761
 score: 7.0
-snippet: Kyoto-style okonomiyaki in a heritage building on Shijo, open late
+snippet: Kyoto-style okonomiyaki in a heritage building on Shijo, open late into the night
 tags:
 - things_to_do
 - eating_out

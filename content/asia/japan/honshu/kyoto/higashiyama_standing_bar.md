@@ -2,7 +2,7 @@
 latitude: 34.999
 longitude: 135.774
 score: 7.5
-snippet: Tiny standing whisky bar on Gion's Kiyamachi canal, all-Japanese selection
+snippet: Tiny standing whisky bar on Gion's Kiyamachi canal, with an all-Japanese pour selection
 tags:
 - things_to_do
 - bars_and_cafes

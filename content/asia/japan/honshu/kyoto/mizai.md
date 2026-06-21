@@ -2,8 +2,7 @@
 latitude: 35.0237
 longitude: 135.7478
 score: 9.5
-snippet: Three-Michelin-star kaiseki widely considered Japan's most rigorous traditional
-  kitchen
+snippet: Three-Michelin-star kaiseki widely considered one of Japan's most rigorous traditional kitchens to book
 tags:
 - things_to_do
 - eating_out

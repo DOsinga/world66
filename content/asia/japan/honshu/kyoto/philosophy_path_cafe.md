@@ -2,7 +2,7 @@
 latitude: 35.0259
 longitude: 135.7953
 score: 7.0
-snippet: Simple udon noodle restaurant near the Philosopher's Path, open since 1967
+snippet: Simple udon noodle restaurant near the Philosopher's Path, family-run and open since 1967
 tags:
 - things_to_do
 - eating_out

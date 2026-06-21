@@ -2,7 +2,7 @@
 latitude: 35.0161
 longitude: 135.6755
 score: 7.5
-snippet: Counter tempura restaurant overlooking the bamboo grove entrance in Arashiyama
+snippet: Counter tempura restaurant overlooking the bamboo grove entrance, omakase-style courses fried to order
 tags:
 - things_to_do
 - eating_out

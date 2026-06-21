@@ -2,7 +2,7 @@
 latitude: 34.941
 longitude: 135.7575
 score: 7.0
-snippet: Kizakura brewery restaurant with kappa folklore museum and sake tasting garden
+snippet: Kizakura brewery restaurant with an adjoining kappa folklore museum and sake tasting garden
 tags:
 - things_to_do
 - eating_out

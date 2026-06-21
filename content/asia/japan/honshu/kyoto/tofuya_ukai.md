@@ -2,7 +2,7 @@
 latitude: 34.978
 longitude: 135.7597
 score: 8.5
-snippet: Multi-room tofu kaiseki in a converted sake warehouse below Fushimi Inari
+snippet: Multi-room tofu kaiseki restaurant in a converted sake warehouse below Fushimi Inari shrine
 tags:
 - things_to_do
 - eating_out

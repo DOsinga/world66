@@ -2,7 +2,7 @@
 latitude: 34.9395
 longitude: 135.7562
 score: 7.5
-snippet: Tasting bar inside a working sake brewery on the Fushimi canal
+snippet: Tasting bar inside a working sake brewery on the Fushimi canal, flights of local brews
 tags:
 - things_to_do
 - eating_out

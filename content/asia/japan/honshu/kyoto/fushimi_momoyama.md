@@ -2,8 +2,7 @@
 latitude: 34.9459
 longitude: 135.782
 score: 7.0
-snippet: Reconstruction of Toyotomi Hideyoshi's 16th-century hilltop castle overlooking
-  Fushimi
+snippet: Reconstruction of Toyotomi Hideyoshi's 16th-century hilltop castle, overlooking Fushimi's sake-brewing district below
 tags:
 - things_to_do
 - sight

@@ -2,7 +2,7 @@
 latitude: 35.0257
 longitude: 135.7592
 score: 8.0
-snippet: Wagashi confectionery shop supplier to the imperial court, founded 1803
+snippet: Wagashi confectionery shop and supplier to the imperial court, founded in 1803
 tags:
 - things_to_do
 - eating_out

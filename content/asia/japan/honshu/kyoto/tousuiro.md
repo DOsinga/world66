@@ -2,7 +2,7 @@
 latitude: 35.0089
 longitude: 135.7569
 score: 7.5
-snippet: Refined tofu kaiseki on the Karasuma-Oike corridor, ideal for solo diners
+snippet: Refined tofu kaiseki on the Karasuma-Oike corridor, a good option for solo diners
 tags:
 - things_to_do
 - eating_out

@@ -2,8 +2,7 @@
 latitude: 34.9463
 longitude: 135.7614
 score: 8.0
-snippet: Heian-period palace garden shrine with famous seasonal wisteria and weeping
-  plum
+snippet: Heian-period palace garden shrine famous for its seasonal wisteria and weeping plum trees
 tags:
 - things_to_do
 - shrine

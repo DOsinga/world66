@@ -2,8 +2,7 @@
 latitude: 35.011
 longitude: 135.7625
 score: 8.0
-snippet: Kyoto-raised wagyu hamburger steak near the Imperial Palace, long-running
-  lunch queue
+snippet: Kyoto-raised wagyu hamburger steak near the Imperial Palace, with a long-running lunch queue
 tags:
 - things_to_do
 - eating_out

@@ -2,7 +2,7 @@
 latitude: 35.0006
 longitude: 135.7756
 score: 8.5
-snippet: Approachable kaiseki in a garden townhouse near Maruyama Park
+snippet: Approachable kaiseki in a garden townhouse near Maruyama Park, from a celebrated kitchen
 tags:
 - things_to_do
 - eating_out

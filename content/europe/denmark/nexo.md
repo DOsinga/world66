@@ -10,6 +10,11 @@ latitude: 55.065014
 loc_type: city
 longitude: 15.130727
 score: 0.38
+tags:
+- things_to_do
+- sight
+- town
+- bornholmisland
 snippet: Working Bornholm fishing port with Baltic boats, postwar streets, and the
   legacy of novelist Martin Andersen Nexø.
 sources:

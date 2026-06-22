@@ -470,7 +470,7 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, link
         add(_marker_from_page(loc))
 
     for loc in (linked_locations or []):
-        add(_marker_from_page(loc))
+        add(_marker_from_page(loc, highlight=True))
 
     page_is_sight = page.slug in _SIGHT_SLUGS
     for poi in pois:

@@ -1,6 +1,7 @@
 ---
 country: Cambodia
 done:
+  link_coverage: '2026-06-22'
   wikitravel_coverage: '2026-06-05'
 image: kampot.jpg
 image_attribution: Marcin Konsek

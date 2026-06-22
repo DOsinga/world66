@@ -5,6 +5,10 @@ longitude: 11.49
 score: 0.44
 title: Lolland
 type: location
+image: lolland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lolland_-_farm.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Lars Plougmann from United States
 ---
 
 Lolland is Denmark's fourth-largest island, lying south of Zealand across the Storstrøm and connected to the rest of the country by bridge. Flat, agricultural, and less visited than its neighbours, it rewards those who come looking for quiet countryside, medieval churches, and a coast that faces south across the Baltic.

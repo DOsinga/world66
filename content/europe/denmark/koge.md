@@ -9,6 +9,10 @@ snippet: Medieval harbour town on Køge Bay, with cobbled streets and Denmark's 
   dated house.
 title: Køge
 type: location
+image: koge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:K%C3%B8ge_-_Kirkestr%C3%A6de.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Hubertus45
 ---
 
 **Køge** is one of the best-preserved medieval towns in Denmark, sitting on the shore of Køge Bay about 40 km south of Copenhagen. The old harbour town grew prosperous in the 15th century, and a walk through the cobbled streets today shows how well that prosperity has been maintained.

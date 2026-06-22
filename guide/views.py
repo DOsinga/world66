@@ -66,7 +66,19 @@ def about(request):
 
 def home(request):
     import random
-    from .models import load_continents, load_story_pois, load_featured_cities
+    from .models import count_content_pages, load_continents, load_story_pois, load_featured_cities
+
+    def city_snippet(page):
+        snippet = page.meta.get('snippet', '')
+        if snippet:
+            return snippet
+        for paragraph in page.body.split('\n\n'):
+            text = ' '.join(paragraph.strip().split())
+            if text:
+                suffix = '...' if len(text) > 170 else ''
+                return text[:170].rsplit(' ', 1)[0] + suffix
+        return ''
+
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
@@ -93,22 +105,26 @@ def home(request):
     all_story_pois = load_story_pois()
     story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
     all_cities = load_featured_cities()
+    city_cards = [c for c in all_cities if c['lat'] and c['lng']]
     cities_json = json.dumps([
         {
             'title': c['page'].title,
             'url': c['page'].get_absolute_url(),
             'image': c['image_url'],
             'country': c['country'],
+            'snippet': city_snippet(c['page']),
             'lat': float(c['lat']),
             'lng': float(c['lng']),
             'score': c['score'],
         }
-        for c in all_cities if c['lat'] and c['lng']
+        for c in city_cards
     ])
     return render(request, "guide/home.html", {
         'continents': continents,
         'story_pois': story_pois,
         'cities_json': cities_json,
+        'featured_city_count': f"{len(city_cards):,}",
+        'search_page_count': f"{count_content_pages():,}",
     })
 
 

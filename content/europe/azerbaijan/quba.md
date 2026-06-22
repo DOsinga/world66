@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_between_Quba_and_Kr
 latitude: 41.188089
 loc_type: city
 longitude: 48.372145
-score: 0.41
+score: 7.36
 snippet: Caucasus foothill town known for apple orchards, carpet weaving, and a riverside
   old quarter
 title: Quba

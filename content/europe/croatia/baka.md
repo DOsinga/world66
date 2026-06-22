@@ -2,7 +2,7 @@
 latitude: 44.9667
 loc_type: city
 longitude: 14.7333
-score: 0.54
+score: 8.56
 snippet: Krk island beach town centred on Baška's long pebble strand and early Adriatic
   bathing tradition
 title: Baška

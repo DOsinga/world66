@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Khasab_(26467361548).jpg
 latitude: 26.18413
 loc_type: city
 longitude: 56.246979
-score: 0.52
+score: 8.41
 snippet: Quiet Omani town on the Musandam Peninsula, base for dhow cruises through
   limestone khors.
 title: Khasab

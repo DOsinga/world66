@@ -5,7 +5,7 @@ done:
 latitude: 44.261397
 loc_type: city
 longitude: -88.406974
-score: 0.32
+score: 6.37
 snippet: Fox River college city with Lawrence University, Houdini history, and a revived
   College Avenue.
 title: Appleton

@@ -5,7 +5,7 @@ done:
 latitude: 65.074258
 loc_type: city
 longitude: -22.730295
-score: 0.52
+score: 8.42
 snippet: Fishing town on the Snæfellsnes peninsula, with a natural harbour and ferry
   links across Breiðafjörður.
 title: Stykkisholmur

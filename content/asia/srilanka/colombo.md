@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colombo_city_skyline_at_ni
 latitude: 6.9271
 loc_type: city
 longitude: 79.8612
-score: 0.48
+score: 8.03
 snippet: Sri Lankan commercial capital where colonial Fort, Pettah markets, and Galle
   Face meet the Indian Ocean.
 title: Colombo

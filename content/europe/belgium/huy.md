@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Huy_-_Grand%27Place_(1).
 latitude: 50.503098
 loc_type: city
 longitude: 5.173023
-score: 0.4
+score: 7.26
 snippet: Walloon Meuse River town with a hilltop citadel and Notre-Dame's great Li
   Rondia rose window
 title: Huy

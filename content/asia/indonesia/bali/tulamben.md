@@ -5,7 +5,7 @@ done:
 latitude: -8.277542
 loc_type: city
 longitude: 115.592834
-score: 0.53
+score: 8.53
 snippet: Bali dive village on the northeast coast, defined by the coral-covered USAT
   Liberty wreck just offshore.
 sources:

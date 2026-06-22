@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Seafront_of_Camogli,_Ligur
 latitude: 44.3492
 loc_type: city
 longitude: 9.1589
-score: 0.57
+score: 8.78
 snippet: Liguria fishing village of painted harbour houses tucked between Portofino
   headland and the open sea
 sources:

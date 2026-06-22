@@ -4,7 +4,7 @@ done:
 latitude: 25.937251
 loc_type: feature
 longitude: -81.71573
-score: 0.47
+score: 8.01
 snippet: Developed Gulf Coast island where resort beaches meet the mangrove maze of
   the Ten Thousand Islands.
 title: Marco Island

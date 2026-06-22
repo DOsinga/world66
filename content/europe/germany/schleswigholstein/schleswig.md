@@ -13,7 +13,7 @@ loc_type: city
 snippet: Baltic fjord town with Viking, Danish, and Prussian layers around the Schlei
   and Gottorf Castle
 longitude: 9.5653
-score: 0.41
+score: 7.38
 title: Schleswig
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angel_Ledesma_House_aka_Gr
 latitude: 10.7994
 loc_type: city
 longitude: 122.9756
-score: 0.38
+score: 7.04
 title: Silay
 type: location
 snippet: Negros sugar-baron city with heritage mansions from the Visayas' late colonial

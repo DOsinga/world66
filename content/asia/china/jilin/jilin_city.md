@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:China_Jilin_City_Zhuquesha
 latitude: 43.8461
 loc_type: city
 longitude: 126.5616
-score: 0.31
+score: 6.28
 snippet: Northeast Chinese river city famed for winter rime ice along the Songhua
   River.
 sources:

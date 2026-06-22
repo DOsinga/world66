@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Budva_(26871774051).jpg
 latitude: 42.288566
 loc_type: city
 longitude: 18.84195
-score: 0.56
+score: 8.72
 snippet: Montenegrin beach resort with a small walled old town on a rocky Adriatic
   peninsula.
 title: Budva

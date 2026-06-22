@@ -5,7 +5,7 @@ done:
 latitude: 41.355619
 loc_type: city
 longitude: -72.09978
-score: 0.33
+score: 6.47
 snippet: Connecticut port city at the Thames River mouth, with a long whaling and
   naval history.
 title: New London

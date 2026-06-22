@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22The_Gunks%22_-_New_Palt
 latitude: 41.746497
 loc_type: city
 longitude: -74.084489
-score: 0.45
+score: 7.78
 snippet: Mid-Hudson college town below the Shawangunk Ridge, known for climbing, trails,
   and Huguenot history
 sources:

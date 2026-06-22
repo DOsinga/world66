@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gedung_Bank_Indonesia_di_B
 latitude: -3.3188
 loc_type: city
 longitude: 114.5926
-score: 0.37
+score: 6.9
 snippet: South Kalimantan river city where floating markets and stilt houses line
   the Barito and Martapura waterways.
 title: Banjarmasin

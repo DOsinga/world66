@@ -7,9 +7,10 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Hokitika_Township.jpg
 latitude: -42.913029
 loc_type: city
-snippet: West Coast town from New Zealand's gold-rush era, known for pounamu carving and wild driftwood beaches.
+snippet: West Coast town from New Zealand's gold-rush era, known for pounamu carving
+  and wild driftwood beaches.
 longitude: 170.973215
-score: 0.43
+score: 7.54
 sources:
 - https://en.wikipedia.org/wiki/Hokitika
 - https://en.wikipedia.org/wiki/Hokitika_Gorge

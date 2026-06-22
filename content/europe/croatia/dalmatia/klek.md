@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Klek,_Slivno.JPG
 latitude: 42.945587
 loc_type: city
 longitude: 17.563313
-score: 0.39
+score: 7.17
 snippet: Tiny Adriatic fishing village in a sheltered cove near the Neum corridor
   between Split and Dubrovnik.
 title: Klek

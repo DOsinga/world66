@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osorno_(39272242434).jpg
 latitude: -40.573695
 loc_type: city
 longitude: -73.135809
-score: 0.37
+score: 6.91
 snippet: Southern Chilean regional city in dairy country, watched over by the cone
   of Osorno volcano.
 title: Osorno

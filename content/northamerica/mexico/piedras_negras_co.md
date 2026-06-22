@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eagle_Pass_(USA)_%E2%80%93
 latitude: 28.7006
 loc_type: city
 longitude: -100.5237
-score: 0.26
+score: 5.81
 title: Piedras Negras
 type: location
 snippet: Coahuila border city facing Eagle Pass across the Rio Grande, more working

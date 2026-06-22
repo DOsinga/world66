@@ -5,7 +5,7 @@ done:
 latitude: 29.5488
 loc_type: city
 longitude: 94.6385
-score: 0.53
+score: 8.54
 snippet: Lush Tibetan prefecture where forests, cypress groves, and the Yarlung Tsangpo
   valley soften the plateau.
 title: Nyingchi

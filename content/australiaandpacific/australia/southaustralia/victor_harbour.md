@@ -5,7 +5,7 @@ done:
 latitude: -35.554527
 loc_type: city
 longitude: 138.624097
-score: 0.43
+score: 7.6
 snippet: Fleurieu Peninsula holiday town on Encounter Bay, linked to Granite Island
   and winter whale watching
 title: Victor Harbor

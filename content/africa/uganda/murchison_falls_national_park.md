@@ -4,7 +4,7 @@ done:
 latitude: 2.26472
 loc_type: feature
 longitude: 31.896723
-score: 0.54
+score: 8.58
 snippet: Ugandan national park where the Nile squeezes through Murchison Falls before
   widening toward Lake Albert
 title: Murchison Falls National Park

@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Eagle_Lake_1.jpg
 latitude: 35.442007
 loc_type: city
 longitude: -97.440871
-score: 0.2
+score: 4.84
 title: Del City
-snippet: Working-class Oklahoma City suburb shaped by neighbouring Tinker Air Force Base and military families.
+snippet: Working-class Oklahoma City suburb shaped by neighbouring Tinker Air Force
+  Base and military families.
 type: location
 ---
 

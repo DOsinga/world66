@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Wajoc_Dzor,
 latitude: 39.838819
 loc_type: city
 longitude: 45.671264
-score: 0.39
+score: 7.09
 snippet: High Armenian spa town where mineral springs, waterfalls, and Soviet sanatoriums
   sit above the Arpa gorge.
 title: Jermuk

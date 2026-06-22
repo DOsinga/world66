@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Tanganyika_,Kigoma_po
 latitude: -4.8833
 loc_type: city
 longitude: 29.6333
-score: 0.37
+score: 6.9
 snippet: Lake Tanganyika port town serving as the base for Gombe and Mahale chimpanzee
   forests.
 title: Kigoma

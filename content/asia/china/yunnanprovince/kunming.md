@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:55606-Kunming-Yuantong-Tem
 latitude: 25.039935
 loc_type: city
 longitude: 102.716906
-score: 0.5
+score: 8.21
 snippet: Yunnan's high-plateau capital, nicknamed the Spring City for its mild climate
   and regional connections.
 title: Kunming

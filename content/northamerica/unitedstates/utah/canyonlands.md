@@ -5,7 +5,7 @@ done:
 latitude: 38.2136
 loc_type: feature
 longitude: -109.8932
-score: 0.66
+score: 9.35
 snippet: Southeastern Utah national park of canyons, mesas, and arches carved by the
   Colorado and Green rivers.
 title: Canyonlands

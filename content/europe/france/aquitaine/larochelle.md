@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_rochelle,_Le_vieux_port
 latitude: 46.1597
 loc_type: city
 longitude: -1.1516
-score: 0.58
+score: 8.9
 snippet: Atlantic port city with arcaded streets, a tower-guarded Vieux Port, and
   a strong maritime past
 sources:

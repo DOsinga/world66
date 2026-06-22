@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhaoxing_001.jpg
 latitude: 25.9099
 loc_type: feature
 longitude: 109.1749
-score: 0.5
+score: 8.18
 snippet: Large Dong village in Guizhou, defined by five timber drum towers and wind-and-rain
   bridges.
 sources:

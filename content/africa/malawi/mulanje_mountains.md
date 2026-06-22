@@ -5,7 +5,7 @@ latitude: -15.95
 longitude: 35.65
 title: Mulanje Mountains
 type: location
-score: 0.45
+score: 7.81
 loc_type: feature
 snippet: Southern Malawi massif with high escarpments, cedar forests, and the 3,002-metre
   Sapitwa Peak.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fuerth_Stadttheater_2.jpg
 latitude: 49.488571
 loc_type: city
 longitude: 10.95872
-score: 0.38
+score: 7.08
 snippet: Franconian city beside Nuremberg, known for independent character and Germany’s
   first railway terminus
 title: Fürth

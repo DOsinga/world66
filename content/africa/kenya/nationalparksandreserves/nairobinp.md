@@ -4,7 +4,7 @@ done:
 latitude: -1.327609
 loc_type: feature
 longitude: 36.893877
-score: 0.53
+score: 8.46
 snippet: Kenyan savannah park beside Nairobi, where lions and rhinos roam within sight
   of the skyline.
 title: Nairobi National Park

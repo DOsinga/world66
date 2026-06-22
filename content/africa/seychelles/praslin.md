@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
 latitude: -4.325071
 loc_type: city
 longitude: 55.735608
-score: 0.72
+score: 9.49
 title: Praslin
 type: location
 snippet: Seychelles island known for Vallée de Mai palms, granite beaches, and calm

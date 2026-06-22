@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chongsheng_Temple_(1105063
 latitude: 25.6907
 loc_type: city
 longitude: 100.1639
-score: 0.55
+score: 8.69
 snippet: Yunnan old town between Cangshan Mountains and Erhai Lake, shaped by Bai
   culture and backpacker history.
 title: Dali

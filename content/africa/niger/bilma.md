@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bilma-Saline-85.jpg
 latitude: 18.686
 loc_type: city
 longitude: 12.916
-score: 0.17
+score: 4.43
 title: Bilma
 type: location
 snippet: Remote Kawar oasis in Niger, long tied to salt pans and Sahara caravan routes.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cabo_2010_Monte_Cara.jpg
 latitude: 16.85
 loc_type: city
 longitude: -24.97
-score: 0.42
+score: 7.44
 snippet: Dry Cape Verde island dominated by Mindelo, Porto Grande harbour, and views
   toward Santo Antão.
 title: São Vicente

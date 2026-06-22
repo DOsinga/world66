@@ -7,7 +7,7 @@ done:
 latitude: 4.8229
 loc_type: city
 longitude: -1.9169
-score: 0.34
+score: 6.59
 snippet: Small Ghanaian fishing village where forested hills, a quiet beach, and Fort
   Batenstein meet
 title: Butre

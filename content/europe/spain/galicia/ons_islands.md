@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Illa_de_Ons_(16).jpg
 latitude: 42.3826
 loc_type: city
 longitude: -8.9339
-score: 0.48
+score: 8.01
 title: Ons Islands
 type: location
 snippet: Galician Atlantic archipelago in the Illas Atlánticas park, with quiet paths,

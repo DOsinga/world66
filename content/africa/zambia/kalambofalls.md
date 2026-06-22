@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:235_meters_of_single_drop_
 latitude: -8.597
 loc_type: feature
 longitude: 31.234
-score: 0.4
+score: 7.25
 snippet: Remote Zambian waterfall dropping from a sheer cliff beside major prehistoric
   archaeological sites.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Meissen_-_Albrechtsburg_un
 latitude: 51.163087
 loc_type: city
 longitude: 13.470494
-score: 0.47
+score: 7.97
 title: Meissen
 type: location
 snippet: Elbe city near Dresden, famous as the birthplace of European hard-paste porcelain.

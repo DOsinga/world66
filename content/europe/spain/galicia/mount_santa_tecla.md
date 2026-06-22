@@ -4,7 +4,7 @@ done:
 latitude: 41.889
 loc_type: feature
 longitude: -8.8718
-score: 0.39
+score: 7.09
 snippet: Galician hill above the Miño River mouth, with Atlantic views and an excavated
   Celtic castro settlement.
 title: Mount Santa Tecla

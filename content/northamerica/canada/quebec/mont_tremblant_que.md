@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mont-Tremblant_Village.JPG
 latitude: 46.215793
 loc_type: city
 longitude: -74.580558
-score: 0.52
+score: 8.38
 snippet: Laurentian resort town north of Montréal, built around eastern Canada's best-known
   ski mountain.
 title: Mont-Tremblant

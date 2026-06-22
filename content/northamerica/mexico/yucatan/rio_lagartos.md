@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Parade_in_Rio_Lagartos,_20
 latitude: 21.5205
 loc_type: city
 longitude: -88.1332
-score: 0.46
+score: 7.83
 title: Rio Lagartos
-snippet: Yucatán fishing village beside Ría Lagartos Biosphere Reserve, known for flamingos and mangrove lagoons
+snippet: Yucatán fishing village beside Ría Lagartos Biosphere Reserve, known for
+  flamingos and mangrove lagoons
 type: location
 ---
 

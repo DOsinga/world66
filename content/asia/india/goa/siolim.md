@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Photo_from_Siolim,_Bardez,
 latitude: 15.627022
 loc_type: city
 longitude: 73.765685
-score: 0.42
+score: 7.48
 snippet: Quiet North Goa village on the Chapora River, historically shaped by its
   ferry crossing.
 title: Siolim

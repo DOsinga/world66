@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bornholm_Denmark_-_Roenne_
 latitude: 55.099451
 loc_type: city
 longitude: 14.706091
-score: 0.42
+score: 7.49
 snippet: Bornholm ferry port with half-timbered old streets, island museums, and a
   Baltic ceramics tradition
 title: Roenne

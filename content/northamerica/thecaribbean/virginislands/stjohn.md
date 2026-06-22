@@ -6,7 +6,7 @@ latitude: 18.3321
 longitude: -64.731
 title: St. John
 type: location
-score: 0.63
+score: 9.18
 loc_type: city
 snippet: US Virgin Island where national park protects much of the beaches, reefs,
   and tropical forest.

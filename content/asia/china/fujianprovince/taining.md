@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:TaiNing.JPG
 latitude: 26.9
 loc_type: feature
 longitude: 117.1743
-score: 0.41
+score: 7.42
 snippet: Fujian geopark county town surrounded by red Danxia cliffs, gorges, caves,
   and Jinhu Lake
 sources:

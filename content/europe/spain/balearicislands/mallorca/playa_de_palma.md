@@ -5,7 +5,7 @@ done:
 latitude: 39.5178
 loc_type: city
 longitude: 2.7426
-score: 0.48
+score: 8.08
 sources:
 - https://en.wikipedia.org/wiki/Playa_de_Palma
 title: Playa de Palma

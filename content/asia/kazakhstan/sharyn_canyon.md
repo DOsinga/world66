@@ -4,7 +4,7 @@ done:
 latitude: 43.351
 loc_type: feature
 longitude: 79.073
-score: 0.49
+score: 8.15
 snippet: Red-rock canyon east of Almaty, where the Sharyn River has carved towers
   from Tian Shan foothills.
 title: Sharyn Canyon

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SanVitoPanorama.jpg
 latitude: 46.4764
 loc_type: city
 longitude: 12.2079
-score: 0.5
+score: 8.21
 snippet: Dolomite mountain village near Cortina, used as a quiet base for skiing and
   hiking
 sources:

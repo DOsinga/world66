@@ -5,7 +5,7 @@ done:
 latitude: 33.685011
 loc_type: city
 longitude: 71.516624
-score: 0.1
+score: 2.03
 snippet: Pakistani bazaar town near Peshawar, known for workshops devoted to handmade
   firearms
 title: Darra Adam Khel

@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_Venere_from_Lerici.j
 latitude: 44.05066
 loc_type: city
 longitude: 9.834459
-score: 0.61
-snippet: Ligurian seaside village of tall painted houses, striped San Pietro church, and offshore islands.
+score: 9.05
+snippet: Ligurian seaside village of tall painted houses, striped San Pietro church,
+  and offshore islands.
 sources:
 - https://en.wikipedia.org/wiki/Portovenere
 - https://en.wikipedia.org/wiki/San_Pietro,_Porto_Venere

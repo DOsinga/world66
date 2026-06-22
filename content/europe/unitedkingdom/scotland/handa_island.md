@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Great_Stack_of_Handa_-
 latitude: 58.380916
 loc_type: feature
 longitude: -5.188608
-score: 0.38
+score: 7.02
 snippet: Scottish wildlife island of sandstone cliffs and dense summer seabird colonies
   off Sutherland.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:British_era_building_in_No
 latitude: 34.015561
 loc_type: city
 longitude: 71.981283
-score: 0.2
+score: 4.88
 snippet: Khyber Pakhtunkhwa garrison town on the Kabul River, shaped by cantonment
   history and Sufi shrines
 title: Nowshera

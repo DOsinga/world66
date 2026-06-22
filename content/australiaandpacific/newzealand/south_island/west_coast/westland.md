@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/88123769@N02/51993820620
 latitude: -42.8508
 loc_type: city
 longitude: 170.7152
-score: 0.49
+score: 8.15
 snippet: Rain-soaked West Coast district where rainforest and rare low-altitude glaciers
   meet the Southern Alps
 title: Westland

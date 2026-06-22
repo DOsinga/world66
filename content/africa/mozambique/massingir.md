@@ -5,7 +5,7 @@ done:
 latitude: -23.921426
 loc_type: city
 longitude: 32.160993
-score: 0.24
+score: 5.5
 snippet: Mozambican reservoir town beside Massingir Dam, with access to Parque Nacional
   do Limpopo.
 title: Massingir

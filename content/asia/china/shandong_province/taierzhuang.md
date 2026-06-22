@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_of_Taierzhuang.jpg
 latitude: 34.561
 loc_type: city
 longitude: 117.738
-score: 0.4
+score: 7.27
 snippet: Grand Canal town in southern Shandong, rebuilt around locks, bridges, wharves,
   and wartime memory.
 sources:

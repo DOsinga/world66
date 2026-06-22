@@ -5,7 +5,7 @@ done:
 latitude: 46.203167
 loc_type: city
 longitude: -123.383189
-score: 0.29
+score: 6.08
 snippet: Tiny Columbia River county seat with refuge wetlands, Puget Island, and Oregon-facing
   views.
 sources:

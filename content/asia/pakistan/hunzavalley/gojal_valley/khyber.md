@@ -4,7 +4,7 @@ done:
 latitude: 36.5862
 loc_type: city
 longitude: 74.7809
-score: 0.32
+score: 6.35
 snippet: Wakhi village in Upper Hunza, set among apricot terraces along the Karakoram
   Highway
 title: Khyber

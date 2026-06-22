@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eisenach_von_G%C3%B6pelsku
 latitude: 50.974713
 loc_type: city
 longitude: 10.319356
-score: 0.48
+score: 8.03
 snippet: Thuringian city below Wartburg Castle, tied to Martin Luther, Bach, and German
   cultural history.
 title: Eisenach

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Prince_Albert_National_Par
 latitude: 53.202029
 loc_type: city
 longitude: -105.755896
-score: 0.29
+score: 6.08
 snippet: Saskatchewan gateway city between prairie and boreal forest, close to Prince
   Albert National Park
 sources:

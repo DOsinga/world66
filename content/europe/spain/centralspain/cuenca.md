@@ -5,7 +5,7 @@ done:
 latitude: 40.066103
 loc_type: city
 longitude: -2.131353
-score: 0.53
+score: 8.45
 snippet: Medieval Spanish gorge city where the Huécar and Júcar rivers frame the Casas
   Colgadas
 title: Cuenca

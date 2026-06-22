@@ -4,7 +4,7 @@ done:
 latitude: 51.7687
 loc_type: feature
 longitude: -10.5417
-score: 0.6
+score: 9.0
 snippet: Atlantic rock islands off Kerry, crowned by an early Christian monastery
   and vast seabird colonies.
 title: Skelligs

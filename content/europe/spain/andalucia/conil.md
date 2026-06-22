@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Conil_de_la_Front
 latitude: 36.277054
 loc_type: city
 longitude: -6.088187
-score: 0.52
+score: 8.43
 sources:
 - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
 title: Conil

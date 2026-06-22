@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ketchikan_-_panor
 latitude: 55.34307
 loc_type: city
 longitude: -131.646682
-score: 0.52
+score: 8.43
 snippet: Rain-soaked Alaskan port on Tongass Narrows, known for Creek Street and standing
   totem poles.
 sources:

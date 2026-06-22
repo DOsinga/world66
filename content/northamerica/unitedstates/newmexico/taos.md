@@ -7,7 +7,7 @@ done:
 latitude: 36.4072
 loc_type: city
 longitude: -105.5733
-score: 0.53
+score: 8.51
 snippet: High-desert New Mexico town where Pueblo heritage, adobe architecture, and
   a deep art scene converge.
 title: Taos

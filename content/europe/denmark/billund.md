@@ -5,7 +5,7 @@ done:
 latitude: 55.7247
 loc_type: city
 longitude: 9.1196
-score: 0.44
+score: 7.63
 snippet: Central Jutland town defined by the original Legoland, Billund Airport, and
   Lego's headquarters.
 title: Billund

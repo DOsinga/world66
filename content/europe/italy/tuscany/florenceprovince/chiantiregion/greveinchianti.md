@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greve_piazza.JPG
 latitude: 43.58246
 loc_type: city
 longitude: 11.316873
-score: 0.54
+score: 8.58
 snippet: Chianti Classico wine town with a triangular arcaded piazza between Florence
   and Siena
 title: Greve in Chianti

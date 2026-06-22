@@ -4,7 +4,7 @@ done:
 latitude: 31.7131
 loc_type: city
 longitude: 73.985
-score: 0.22
+score: 5.2
 snippet: Industrial Punjab city known for Hiran Minar, Jahangir's Mughal hunting reserve
   and antelope memorial.
 title: Sheikhupura

@@ -9,8 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Barretto,_Olongapo,_Zambal
 latitude: 14.8386
 loc_type: city
 longitude: 120.2842
-score: 0.32
-snippet: "Luzon city and gateway to Subic Bay Freeport, the former US naval base."
+score: 6.31
+snippet: Luzon city and gateway to Subic Bay Freeport, the former US naval base.
 title: Olongapo City
 type: location
 ---

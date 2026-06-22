@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/71035721@N00/10553024603
 latitude: 30.3165
 loc_type: city
 longitude: 78.0322
-score: 0.41
+score: 7.41
 snippet: Uttarakhand capital in the green Doon Valley, framed by Himalayan foothills
   and old cantonment institutions
 title: Dehradun

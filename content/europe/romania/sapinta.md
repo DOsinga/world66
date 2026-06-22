@@ -5,7 +5,7 @@ done:
 latitude: 47.9725
 loc_type: city
 longitude: 23.6961
-score: 0.45
+score: 7.76
 snippet: Maramureș village near Ukraine, famous for the painted crosses of the Merry
   Cemetery.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheltenham_Art_Gallery_%26
 latitude: 51.899569
 loc_type: city
 longitude: -2.071156
-score: 0.46
+score: 7.91
 title: Cheltenham
 type: location
 snippet: Regency spa town beside the Cotswolds, with festivals, racecourse traditions,

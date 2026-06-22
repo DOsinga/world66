@@ -11,10 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Thornton_-_Freetown_-
 latitude: 8.479
 loc_type: city
 longitude: -13.268
-score: 0.3
+score: 6.16
 title: Freetown
 type: location
-snippet: West African capital on steep Atlantic hills, with Krio heritage centred around the Cotton Tree.
+snippet: West African capital on steep Atlantic hills, with Krio heritage centred
+  around the Cotton Tree.
 ---
 
 Freetown is the capital and by far the largest city in [Sierra Leone](/africa/sierraleone), home to about a third of the country's population. It is not a city you will fall in love with immediately — it is dense, noisy, and congested, built on steep hills running down to the Atlantic, with a geography that makes traffic a constant ordeal. But it has real energy and a distinct Krio character that sets it apart from other West African capitals.

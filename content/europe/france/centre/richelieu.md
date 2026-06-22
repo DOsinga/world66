@@ -5,7 +5,7 @@ done:
 latitude: 47.012492
 loc_type: city
 longitude: 0.324055
-score: 0.38
+score: 6.98
 snippet: Planned French town built by Cardinal Richelieu, still laid out on a strict
   17th-century grid
 title: Richelieu

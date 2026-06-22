@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/58661913@N00/14579966904
 latitude: 38.873044
 loc_type: city
 longitude: 24.524477
-score: 0.54
+score: 8.56
 title: Skyros
 type: location
 snippet: Remote Sporades island split between pine-covered north, rocky south, and

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Draak_%C3%96stersund_22jul
 latitude: 63.1794
 loc_type: city
 longitude: 14.6357
-score: 0.44
+score: 7.69
 snippet: Jämtland county capital on Lake Storsjön, with Frösön offshore and mountain
   views nearby.
 title: Östersund

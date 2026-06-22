@@ -5,7 +5,7 @@ done:
 latitude: -27.25
 loc_type: city
 longitude: 153.07
-score: 0.3
+score: 6.15
 snippet: Bayside suburb north of Brisbane, with a quiet foreshore facing Bramble Bay.
 title: Clontarf
 type: location

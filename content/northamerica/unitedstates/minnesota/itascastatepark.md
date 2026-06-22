@@ -4,7 +4,7 @@ done:
 latitude: 47.188183
 loc_type: feature
 longitude: -95.219606
-score: 0.42
+score: 7.46
 snippet: Minnesota state park where the Mississippi begins as clear water flowing
   out of Lake Itasca.
 title: Itasca State Park

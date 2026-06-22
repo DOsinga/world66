@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:02._Islas_flotantes_de_Uro
 latitude: -15.8402
 loc_type: city
 longitude: -70.0219
-score: 0.53
+score: 8.5
 snippet: High-altitude Peruvian city on Lake Titicaca, serving as the gateway to the
   Aymara altiplano.
 sources:

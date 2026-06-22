@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hjo,_Hamngatan,_den_7_juni
 latitude: 58.3
 loc_type: city
 longitude: 14.2833
-score: 0.42
+score: 7.51
 snippet: Lakeside wooden town on Lake Vättern, preserving medieval street patterns
   and nineteenth-century timber buildings.
 title: Hjo

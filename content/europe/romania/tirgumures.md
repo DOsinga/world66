@@ -2,7 +2,7 @@
 latitude: 46.5386
 loc_type: city
 longitude: 24.5581
-score: 0.37
+score: 6.9
 snippet: Transylvanian bilingual city on the Mures River, with Romanian-Hungarian
   culture, medieval walls, and rare-book libraries.
 title: Tirgu Mures

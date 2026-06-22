@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Radovis_View_2019.jpg
 latitude: 41.639832
 loc_type: city
 longitude: 22.464589
-score: 0.28
+score: 5.92
 snippet: Eastern North Macedonian valley city below Plačkovica, with Byzantine roots
   and a mixed Macedonian-Turkish culture
 sources:

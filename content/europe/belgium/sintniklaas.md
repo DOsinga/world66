@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sint-Niklaas_April_2012-1.
 latitude: 51.164668
 loc_type: city
 longitude: 4.139512
-score: 0.35
+score: 6.7
 snippet: Flemish Waasland city with Belgium's vast Grote Markt and a September balloon
   tradition.
 title: Sint-Niklaas

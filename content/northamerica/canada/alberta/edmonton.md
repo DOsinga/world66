@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2008-06-19_North_Saskatche
 latitude: 53.546205
 loc_type: city
 longitude: -113.491241
-score: 0.4
+score: 7.21
 snippet: Northern Alberta capital built around the North Saskatchewan River Valley's
   vast urban parkland.
 title: Edmonton

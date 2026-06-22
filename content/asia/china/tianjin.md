@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/93221896@N00/14579243649
 latitude: 39.303262
 loc_type: city
 longitude: 117.416364
-score: 0.4
+score: 7.19
 snippet: Northern Chinese port city near Beijing, marked by foreign-concession architecture
   and Hai River neighbourhoods
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DSC00373_(31677621487).jpg
 latitude: 34.3297
 loc_type: city
 longitude: 108.7092
-score: 0.35
+score: 6.69
 snippet: Ancient Qin capital near Xi'an, surrounded by imperial tombs from the Qin
   and Han dynasties.
 sources:

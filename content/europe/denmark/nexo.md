@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paradisvej,_Nex%C3%B8_-_ga
 latitude: 55.065014
 loc_type: city
 longitude: 15.130727
-score: 0.38
+score: 7.07
 snippet: Working Bornholm fishing port with Baltic boats, postwar streets, and the
   legacy of novelist Martin Andersen Nexø.
 sources:

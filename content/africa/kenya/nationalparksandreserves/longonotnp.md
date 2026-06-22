@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mt_Longonot_National_Park_
 latitude: -0.9145
 loc_type: feature
 longitude: 36.4536
-score: 0.47
+score: 8.0
 title: Mt Longonot National Park
 type: location
 snippet: Great Rift Valley volcano park with a steep crater-rim hike above a forested

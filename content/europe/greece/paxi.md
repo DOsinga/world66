@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Ankerfeld_Lakka.jpg
 latitude: 39.209398
 loc_type: city
 longitude: 20.161634
-score: 0.55
+score: 8.63
 title: Paxi
 type: location
-snippet: Small Ionian island of olive groves, pebble coves, and car-light villages reached by ferry.
+snippet: Small Ionian island of olive groves, pebble coves, and car-light villages
+  reached by ferry.
 ---
 
 Paxos (Paxi) is one of the smallest of the Ionian Islands, a few miles south of [Corfu](/europe/greece/corfu). There is no airport — you arrive by ferry from Corfu or Igoumenitsa, and the crossing itself sets the pace. The island is about 10 kilometres long, covered in olive groves, and fringed by small pebble coves on the east coast and dramatic white cliffs on the west. It is quiet in a way that most Greek islands stopped being decades ago.

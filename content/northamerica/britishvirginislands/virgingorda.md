@@ -10,10 +10,11 @@ loc_type: island
 longitude: -64.4
 sources:
 - https://en.wikipedia.org/wiki/Virgin_Gorda
-snippet: Granite-and-limestone Caribbean island in the British Virgins, famous for The Baths and sheltered North Sound.
+snippet: Granite-and-limestone Caribbean island in the British Virgins, famous for
+  The Baths and sheltered North Sound.
 title: Virgin Gorda
 type: location
-score: 0.62
+score: 9.15
 ---
 
 Virgin Gorda is the third largest of the [British Virgin Islands](/northamerica/britishvirginislands) and the most distinctive — a long, dragon-shaped sliver of granite and limestone running for ten miles from the airport at the south end to North Sound at the top. Christopher Columbus sighted it in 1493 and named it the "fat virgin" because of the round, reclining profile of the central hill (Gorda Peak), which from the sea genuinely does look like a sleeping body. The island is more spacious and less crowded than Tortola and rewards visitors with two of the most extraordinary natural features in the Caribbean.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_kom
 latitude: -8.589191
 loc_type: feature
 longitude: 119.462412
-score: 0.65
+score: 9.27
 snippet: Island in Komodo National Park, home to Komodo dragons and rich marine life
   in surrounding currents.
 sources:

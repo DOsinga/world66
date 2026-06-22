@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-C
 latitude: 26.212235
 loc_type: city
 longitude: 127.679145
-score: 0.58
+score: 8.9
 snippet: Okinawa's capital city, centered on Kokusai Street, Shuri Castle, and Ryukyu
   heritage.
 sources:

@@ -6,7 +6,7 @@ done:
 latitude: 42.050137
 loc_type: city
 longitude: -8.646641
-score: 0.44
+score: 7.73
 snippet: Galician border town above the River Miño, with a fortified cathedral and
   Camino Portugués route.
 title: Tui

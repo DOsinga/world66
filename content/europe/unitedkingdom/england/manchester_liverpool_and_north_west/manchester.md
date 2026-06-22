@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tower_Blocks_over_Knott_Mi
 latitude: 53.4808
 loc_type: city
 longitude: -2.2426
-score: 0.42
+score: 7.49
 snippet: Northern English industrial city shaped by cotton mills, railways, music,
   football, and grand Victorian civic architecture.
 title: Manchester

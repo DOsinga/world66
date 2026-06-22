@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/30375715864
 latitude: 30.495237
 loc_type: city
 longitude: 47.809098
-score: 0.19
+score: 4.68
 snippet: Iraq's southern seaport on the Shatt al-Arab, linked to Sinbad and marshland
   trade
 title: Basra

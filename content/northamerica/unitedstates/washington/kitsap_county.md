@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fragaria_washington.JPG
 latitude: 47.594502
 loc_type: city
 longitude: -122.647442
-score: 0.33
+score: 6.48
 snippet: Puget Sound peninsula county shaped by ferries, naval shipyards, and Olympic
   Mountain views.
 title: Kitsap County

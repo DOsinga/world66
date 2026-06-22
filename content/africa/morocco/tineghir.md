@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kasbha_Tinghir_Todra_Moroc
 latitude: 31.5147
 loc_type: city
 longitude: -5.5328
-score: 0.47
+score: 7.96
 snippet: High Atlas edge town beside a great palmery, serving as the base for Todra
   Gorge.
 title: Tineghir

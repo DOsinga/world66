@@ -4,7 +4,7 @@ done:
 latitude: 43.7734
 loc_type: feature
 longitude: 15.3365
-score: 0.59
+score: 8.95
 snippet: Adriatic island national park of bare limestone islets, steep sea cliffs,
   and boat-only access.
 title: Kornati National Park

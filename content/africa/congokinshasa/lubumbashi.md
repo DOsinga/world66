@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lubumbashi,_Democ
 latitude: -11.6647
 loc_type: city
 longitude: 27.4794
-score: 0.23
+score: 5.41
 snippet: Katanga mining city near Zambia, with copper wealth, colonial avenues, and
   a southern African feel.
 title: Lubumbashi

@@ -5,7 +5,7 @@ done:
 latitude: 11.103756
 loc_type: city
 longitude: -0.924685
-score: 0.39
+score: 7.19
 snippet: Kassena village in southern Burkina Faso, known for painted earthen compounds
   renewed after the rains.
 title: Tiébélé

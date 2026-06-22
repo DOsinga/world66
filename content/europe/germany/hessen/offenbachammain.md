@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCsing_Palais_d.jpg
 latitude: 50.1055
 loc_type: city
 longitude: 8.76107
-score: 0.32
+score: 6.37
 snippet: Main River city beside Frankfurt, marked by leather industry heritage, design
   schools, and multicultural street life.
 title: Offenbach am Main

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naufrage,_Prince_Edward_Is
 latitude: 46.467384
 loc_type: city
 longitude: -62.416511
-score: 0.33
+score: 6.44
 snippet: Tiny Prince Edward Island fishing harbour on the north shore, marked by its
   red-and-white lighthouse.
 title: Naufrage

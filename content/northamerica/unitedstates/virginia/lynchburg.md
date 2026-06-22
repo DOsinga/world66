@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LynchburgJune2021.jpg
 latitude: 37.413754
 loc_type: city
 longitude: -79.142246
-score: 0.33
+score: 6.47
 snippet: Central Virginia city on seven James River hills, rich in preserved tobacco-era
   architecture.
 sources:

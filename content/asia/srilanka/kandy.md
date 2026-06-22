@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Botanical_Garden_of_Perade
 latitude: 7.293121
 loc_type: city
 longitude: 80.635036
-score: 0.61
+score: 9.06
 snippet: Sri Lankan hill city and former royal capital, centred on the lakefront Temple
   of the Tooth
 title: Kandy

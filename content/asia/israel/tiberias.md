@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_peters_tiberias_1.jpg
 latitude: 32.7883
 loc_type: city
 longitude: 35.5424
-score: 0.49
+score: 8.12
 snippet: Sea of Galilee resort town and pilgrimage centre, sacred to Jewish, Christian,
   and Muslim traditions.
 sources:

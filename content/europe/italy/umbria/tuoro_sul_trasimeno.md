@@ -5,7 +5,7 @@ done:
 latitude: 43.206848
 loc_type: city
 longitude: 12.074615
-score: 0.44
+score: 7.7
 snippet: Lake Trasimeno hill village where Hannibal ambushed a Roman army in 217 BC.
 title: Tuoro sul Trasimeno
 type: location

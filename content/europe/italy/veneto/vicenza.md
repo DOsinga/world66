@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilica_Palladiana_(Vicen
 latitude: 45.634859
 loc_type: city
 longitude: 11.406354
-score: 0.55
+score: 8.66
 snippet: Veneto city at the foot of the Berici mountains, closely tied to architect
   Andrea Palladio.
 title: Vicenza

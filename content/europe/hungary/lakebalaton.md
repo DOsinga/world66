@@ -4,7 +4,7 @@ done:
 latitude: 46.8839
 loc_type: feature
 longitude: 17.8477
-score: 0.51
+score: 8.29
 snippet: Hungary's largest lake and summer resort region, ringed by vineyards, beaches,
   and spa towns.
 title: Lake Balaton

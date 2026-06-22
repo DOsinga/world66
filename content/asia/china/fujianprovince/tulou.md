@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:China_Fujian_Yongding_Tulo
 latitude: 24.589722
 loc_type: feature
 longitude: 117.062222
-score: 0.54
+score: 8.6
 snippet: Hakka earthen fortress-houses in western Fujian, built as clan villages around
   shared courtyards
 title: Fujian Tulou

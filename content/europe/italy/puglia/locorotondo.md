@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Locorotondo.jp
 latitude: 40.7556
 loc_type: city
 longitude: 17.3264
-score: 0.54
+score: 8.58
 snippet: Whitewashed Valle d'Itria hill town whose circular lanes overlook vineyards,
   olive groves, and trulli.
 sources:

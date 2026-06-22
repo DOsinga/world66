@@ -5,7 +5,7 @@ done:
 latitude: 52.138166
 loc_type: city
 longitude: -8.275223
-score: 0.33
+score: 6.46
 snippet: County Cork town on the River Blackwater, set between Cork city and Cahir.
 sources:
 - https://en.wikipedia.org/wiki/Fermoy

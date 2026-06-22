@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Thompson_Falls,_Montana.jp
 latitude: 47.5971
 loc_type: city
 longitude: -115.3443
-score: 0.35
+score: 6.74
 title: Thompson Falls
 type: location
-snippet: "Small Clark Fork River town in western Montana, set below Cabinet Mountains and a historic dam."
+snippet: Small Clark Fork River town in western Montana, set below Cabinet Mountains
+  and a historic dam.
 ---
 
 Thompson Falls sits in a tight river valley in far-western Montana, where the [Clark Fork River](/northamerica/unitedstates/montana/thompson_falls/clark_fork_river) cuts through the Cabinet Mountains before crossing into Idaho. It is a small, unhurried town — county seat of Sanders County, population around 1,300 — that most travelers pass through on US-2, but it rewards a stop.

@@ -4,7 +4,7 @@ done:
 latitude: 49.65
 loc_type: island
 longitude: -125.45
-score: 0.62
+score: 7.78
 snippet: Large Pacific island of rainforests, surf beaches, First Nations culture,
   and laid-back harbour towns.
 sources:

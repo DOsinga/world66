@@ -4,7 +4,7 @@ done:
 latitude: 39.6622
 loc_type: city
 longitude: -75.5663
-score: 0.33
+score: 6.43
 snippet: Historic Delaware River town founded as Fort Casimir, with colonial streets
   tied to Dutch, Swedish, and British rule.
 title: New Castle

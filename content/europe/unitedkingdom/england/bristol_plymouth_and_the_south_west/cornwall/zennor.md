@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zennor_Church1.JPG
 latitude: 50.18769
 loc_type: city
 longitude: -5.573281
-score: 0.45
+score: 7.79
 snippet: Tiny Penwith village near the north Cornwall coast, known for St Senara's
   Church and mermaid legend.
 title: Zennor

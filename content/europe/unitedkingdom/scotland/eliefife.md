@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Elie_Harbour_-_geograph.or
 latitude: 56.190452
 loc_type: city
 longitude: -2.820247
-score: 0.42
+score: 7.45
 title: Elie
 type: location
-snippet: East Neuk of Fife fishing village with a sheltered sandy bay and shoreline pub.
+snippet: East Neuk of Fife fishing village with a sheltered sandy bay and shoreline
+  pub.
 ---
 
 Elie is a small coastal village on the East Neuk of Fife, one of a string of pretty fishing villages that line the Firth of Forth between St Andrews and Kirkcaldy. It has a [long sandy beach](/europe/unitedkingdom/scotland/eliefife/elie_beach) that curves around a sheltered bay — one of the best beaches on Scotland's east coast, surprisingly uncrowded even in summer.

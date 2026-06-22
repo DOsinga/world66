@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FlorenceSkyline.jpg
 latitude: 43.769796
 loc_type: city
 longitude: 11.25564
-score: 0.88
+score: 9.95
 title: Florence
 type: location
 snippet: Tuscan city on the Arno, packed with Renaissance art, Medici palaces, and

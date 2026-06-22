@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_S
 latitude: 23.487634
 loc_type: city
 longitude: 77.736068
-score: 0.45
+score: 7.81
 snippet: Madhya Pradesh village centered on a hilltop Buddhist complex of stupas,
   temples, and monasteries.
 sources:

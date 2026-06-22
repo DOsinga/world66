@@ -2,7 +2,7 @@
 latitude: 6.1119
 loc_type: city
 longitude: 125.1716
-score: 0.32
+score: 6.39
 snippet: Mindanao harbour city on Sarangani Bay, shaped by yellowfin tuna fishing
   and highland cultures nearby.
 title: General Santos City

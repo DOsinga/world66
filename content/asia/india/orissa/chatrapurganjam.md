@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CAPC_RailwayStation_02.jpg
 latitude: 19.3542
 loc_type: city
 longitude: 84.9864
-score: 0.24
+score: 5.45
 title: Chatrapur
 type: location
 snippet: Southern Odisha administrative town on the Chennai-Howrah line, a base for

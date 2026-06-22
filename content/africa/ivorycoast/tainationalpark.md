@@ -4,7 +4,7 @@ done:
 latitude: 5.630703
 loc_type: feature
 longitude: -7.118699
-score: 0.37
+score: 6.89
 snippet: West African rainforest national park protecting chimpanzees, pygmy hippos,
   and the Upper Guinea forest.
 title: Tai national park

@@ -4,7 +4,7 @@ done:
 latitude: 11.9208
 loc_type: feature
 longitude: -86.0342
-score: 0.47
+score: 7.94
 snippet: Volcanic crater lake near Granada, filled with clear spring-fed water and
   ringed by dry forest.
 title: Laguna de Apoyo

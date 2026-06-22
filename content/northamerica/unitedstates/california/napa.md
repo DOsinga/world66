@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bothe-Napa_Valley_State_Pa
 latitude: 38.489868
 loc_type: city
 longitude: -122.321841
-score: 0.56
+score: 8.76
 snippet: Northern California wine town on the valley floor between the Mayacamas and
   Vaca ranges.
 title: Napa

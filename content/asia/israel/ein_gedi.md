@@ -5,7 +5,7 @@ done:
 latitude: 31.452396
 loc_type: city
 longitude: 35.384824
-score: 0.49
+score: 8.12
 snippet: Dead Sea oasis reserve where springs, waterfalls, ibex, and desert cliffs
   meet.
 title: Ein Gedi

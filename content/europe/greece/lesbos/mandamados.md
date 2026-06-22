@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agios_Taxiarchis_Monastery
 latitude: 39.310716
 loc_type: city
 longitude: 26.336002
-score: 0.43
+score: 7.58
 snippet: Northeastern Lesbos village known for wood-fired pottery workshops and the
   monastery of Taxiarchis
 title: Mandamados

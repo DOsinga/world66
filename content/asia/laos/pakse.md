@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Multiple_rows_of_golden_st
 latitude: 15.120146
 loc_type: city
 longitude: 105.804397
-score: 0.47
+score: 7.97
 snippet: Southern Laos river city at the Mekong and Se Don, gateway to Wat Phu and
   Bolaven waterfalls
 title: Pakse

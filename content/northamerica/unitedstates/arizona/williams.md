@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:WilliamsDepot_WilliamsAZ.j
 latitude: 35.2497
 loc_type: city
 longitude: -112.1909
-score: 0.38
+score: 7.01
 snippet: Route 66 town and Grand Canyon Railway terminus on the edge of Kaibab National
   Forest.
 title: Williams

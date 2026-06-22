@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blanes,_Spain_Overview.jpg
 latitude: 41.675618
 loc_type: city
 longitude: 2.793239
-score: 0.44
+score: 7.68
 snippet: Working fishing town at the southern gateway to the Costa Brava's rocky,
   pine-backed coast.
 sources:

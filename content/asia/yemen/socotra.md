@@ -5,7 +5,7 @@ done:
 latitude: 12.5
 loc_type: city
 longitude: 53.833333
-score: 0.5
+score: 8.19
 snippet: Remote Indian Ocean archipelago with dragon blood trees, desert roses, and
   limestone canyons.
 title: Socotra

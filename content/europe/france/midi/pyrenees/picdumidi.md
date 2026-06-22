@@ -5,7 +5,7 @@ latitude: 42.811723
 longitude: 1.993453
 title: Pic du Midi
 type: location
-score: 0.55
+score: 8.69
 loc_type: feature
 snippet: Pyrenean summit and observatory reached by cable car, with high terraces
   above the mountain chain

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Titusville,_FL,_Courthouse
 latitude: 28.6122
 loc_type: city
 longitude: -80.8076
-score: 0.36
+score: 6.83
 snippet: Space Coast town across the Indian River Lagoon from Kennedy Space Center's
   launch pads.
 sources:

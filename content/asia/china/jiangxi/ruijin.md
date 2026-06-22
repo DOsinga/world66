@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruijin_Shazhouba_Geming_Ji
 latitude: 25.8789
 loc_type: city
 longitude: 116.0286
-score: 0.29
+score: 6.03
 snippet: Jiangxi revolutionary city where the Chinese Soviet Republic began and the
   Long March set out.
 sources:

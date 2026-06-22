@@ -5,7 +5,7 @@ done:
 latitude: 42.141854
 loc_type: city
 longitude: 24.74993
-score: 0.56
+score: 8.71
 snippet: Bulgaria's second city, built across ancient hills above the Maritsa River.
 title: Plovdiv
 type: location

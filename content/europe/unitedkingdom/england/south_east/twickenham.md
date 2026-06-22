@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Building_-_Twickenham_-_Lo
 latitude: 51.4494
 loc_type: city
 longitude: -0.3368
-score: 0.39
+score: 7.12
 snippet: Riverside southwest London town best known for English rugby and a handsome
   stretch of the Thames.
 title: Twickenham

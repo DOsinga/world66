@@ -6,7 +6,7 @@ done:
 latitude: 50.86
 loc_type: feature
 longitude: -1.57
-score: 0.5
+score: 8.23
 snippet: South Hampshire national park of ancient woodland, heath, bog, and free-roaming
   New Forest ponies.
 title: The New Forest

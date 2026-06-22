@@ -4,7 +4,7 @@ done:
 latitude: -8.0
 loc_type: feature
 longitude: 178.37
-score: 0.32
+score: 6.31
 snippet: Central Tuvalu atoll of many islets around a wide lagoon, with World War
   II airstrip remnants.
 title: Nukufetau Atoll

@@ -10,9 +10,10 @@ image: eleusis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eleusis.JPG
 image_license: Public domain
 image_attribution: BishkekRocks
-score: 0.37
+score: 6.9
 loc_type: city
-snippet: Ancient sacred site and industrial port town where pilgrims once entered the Eleusinian Mysteries.
+snippet: Ancient sacred site and industrial port town where pilgrims once entered
+  the Eleusinian Mysteries.
 sources:
 - https://en.wikipedia.org/wiki/Elefsina
 - https://en.wikipedia.org/wiki/Eleusinian_Mysteries

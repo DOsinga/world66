@@ -4,8 +4,9 @@ done:
 latitude: 43.5448
 loc_type: city
 longitude: -80.2482
-score: 0.34
-snippet: Ontario university city with limestone Victorian streets, a landmark basilica, and a long-running farmers' market.
+score: 6.57
+snippet: Ontario university city with limestone Victorian streets, a landmark basilica,
+  and a long-running farmers' market.
 title: Guelph and area
 type: location
 ---

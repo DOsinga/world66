@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_Bolivar_A_Chavez.j
 latitude: 12.1364
 loc_type: city
 longitude: -86.2514
-score: 0.32
+score: 6.33
 snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earthquake
   and rough urban energy.
 title: Managua

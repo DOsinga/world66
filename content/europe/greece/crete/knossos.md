@@ -4,7 +4,7 @@ done:
 latitude: 35.298057
 loc_type: feature
 longitude: 25.162813
-score: 0.63
+score: 9.19
 snippet: Minoan palace site near Heraklion, Crete's largest Bronze Age archaeological
   complex and ceremonial heart.
 title: Knossos

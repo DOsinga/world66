@@ -7,7 +7,7 @@ done:
 latitude: 31.5785
 loc_type: city
 longitude: -84.1557
-score: 0.24
+score: 5.5
 snippet: Southwest Georgia city on the Flint River, with civil-rights history and
   a notable regional arts scene.
 title: Albany

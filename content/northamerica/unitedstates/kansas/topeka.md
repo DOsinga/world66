@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Charles_Curtis_House,_Tope
 latitude: 39.049011
 loc_type: city
 longitude: -95.677556
-score: 0.29
+score: 6.0
 title: Topeka
 type: location
 snippet: Kansas capital on the Kansas River, anchored by civil-rights history and

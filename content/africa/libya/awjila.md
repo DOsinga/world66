@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Old_mosque,_Awjilah.jp
 latitude: 29.1081
 loc_type: city
 longitude: 21.2869
-score: 0.14
+score: 3.47
 snippet: Historic Saharan oasis town on old caravan routes, with Amazigh language
   and palm groves
 title: Awjila

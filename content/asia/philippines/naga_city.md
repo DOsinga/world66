@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Facade_of_Naga_Cathedral_a
 latitude: 13.624
 loc_type: city
 longitude: 123.185
-score: 0.35
+score: 6.7
 snippet: Bicolano city and pilgrimage center shaped by spicy coconut cooking and the
   Peñafrancia Festival.
 sources:

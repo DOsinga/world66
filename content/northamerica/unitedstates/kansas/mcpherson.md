@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mcpherson_college_kansas_1
 latitude: 38.365901
 loc_type: city
 longitude: -97.657517
-score: 0.23
+score: 5.44
 snippet: Central Kansas prairie city with a restored opera house, local museum, and
   wheat-country calm.
 title: McPherson

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cha_Am_Beach.jpg
 latitude: 12.799
 loc_type: city
 longitude: 99.9698
-score: 0.43
+score: 7.59
 snippet: Thai Gulf beach town with an eight-kilometre strand and a relaxed domestic-holiday
   mood.
 sources:

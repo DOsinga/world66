@@ -2,7 +2,7 @@
 latitude: -20.2844
 loc_type: city
 longitude: 44.2794
-score: 0.4
+score: 7.29
 snippet: West-coast Malagasy town and gateway to the Avenue of the Baobabs near the
   Morondava River.
 title: Morondava

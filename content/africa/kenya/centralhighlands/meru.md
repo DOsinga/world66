@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/78368745@N00/3213868688
 latitude: 0.0464
 loc_type: city
 longitude: 37.6559
-score: 0.37
+score: 6.94
 snippet: Mount Kenya market town where the miraa trade anchors Meru culture and the
   northeastern highlands.
 title: Meru

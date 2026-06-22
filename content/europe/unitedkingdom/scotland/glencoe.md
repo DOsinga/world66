@@ -6,7 +6,7 @@ done:
 latitude: 56.682765
 loc_type: feature
 longitude: -5.101455
-score: 0.61
+score: 9.07
 snippet: Scottish glacial valley of dark history and immense ridges, drawing walkers
   into the Highlands.
 title: Glencoe

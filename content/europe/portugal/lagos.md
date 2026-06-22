@@ -2,7 +2,7 @@
 latitude: 37.1022
 loc_type: city
 longitude: -8.6741
-score: 0.65
+score: 9.29
 snippet: Algarve coastal town with a walled old centre and golden sandstone cliffs
   around Ponta da Piedade
 title: Lagos

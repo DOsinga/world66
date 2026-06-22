@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Widecombe-in-the-Moor_-_Oc
 latitude: 50.576819
 loc_type: city
 longitude: -3.812579
-score: 0.44
+score: 7.69
 snippet: Granite Dartmoor village known for Widecombe Fair and the tall-towered St
   Pancras church.
 title: Widecombe-in-the-Moor

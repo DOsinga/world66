@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Komodo_dragon,_Varanus_kom
 latitude: -8.589191
 loc_type: feature
 longitude: 119.462412
-score: 0.66
+score: 9.33
 snippet: Rugged Lesser Sunda island where Komodo dragons roam dry savannah above some
   of Indonesia’s richest reefs.
 title: Komodo Island

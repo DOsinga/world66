@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_Simata
 latitude: 39.781429
 loc_type: city
 longitude: 115.625229
-score: 0.52
+score: 8.39
 snippet: Unrestored Great Wall section near Beijing, with steep ridges, crumbling
   towers, and a Jinshanling hiking route.
 title: Simatai

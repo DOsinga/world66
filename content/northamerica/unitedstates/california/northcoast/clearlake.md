@@ -5,7 +5,7 @@ done:
 latitude: 39.0921
 loc_type: city
 longitude: -122.6275
-score: 0.3
+score: 6.14
 title: Clear Lake
 type: location
 snippet: Northern California lake town centered on bass fishing, boating, casual wineries,

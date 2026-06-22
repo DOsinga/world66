@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bethany,_Oklahoma.jpg
 latitude: 35.518
 loc_type: city
 longitude: -97.632
-score: 0.22
+score: 5.1
 title: Bethany
 type: location
 snippet: Small Oklahoma City suburb on Route 66, shaped by Nazarene roots and college-town

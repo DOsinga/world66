@@ -4,7 +4,7 @@ done:
 latitude: -4.015
 loc_type: feature
 longitude: 36.01
-score: 0.61
+score: 9.04
 snippet: Northern Tanzanian park of baobab savannah and dry-season wildlife along
   the Tarangire River
 title: Tarangire National Park

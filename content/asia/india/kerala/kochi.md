@@ -5,8 +5,9 @@ done:
 latitude: 9.967903
 loc_type: city
 longitude: 76.244438
-score: 0.55
-snippet: Kerala port city where Fort Kochi preserves Portuguese, Dutch, British, and Jewish traces by the waterfront.
+score: 8.68
+snippet: Kerala port city where Fort Kochi preserves Portuguese, Dutch, British, and
+  Jewish traces by the waterfront.
 title: Kochi
 type: location
 ---

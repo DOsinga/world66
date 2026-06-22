@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/10891659@N02/4868816348
 latitude: 47.2654
 loc_type: city
 longitude: 11.3928
-score: 0.62
+score: 9.16
 snippet: Tyrolean capital in an Alpine valley, with Habsburg landmarks and cable-car
   access to the Nordkette.
 title: Innsbruck

@@ -7,7 +7,7 @@ done:
 latitude: 20.9237
 loc_type: city
 longitude: 96.6693
-score: 0.44
+score: 7.67
 title: Pindaya
 type: location
 snippet: Small Shan Hills town beside Nattamiekan Lake, known for caves packed with

@@ -2,7 +2,7 @@
 latitude: -41.2865
 loc_type: city
 longitude: 174.7762
-score: 0.54
+score: 8.59
 snippet: Compact New Zealand capital around a windy harbour, with steep hills and
   strong cultural institutions.
 title: Wellington

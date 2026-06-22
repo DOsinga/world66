@@ -7,9 +7,10 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Grand-Place_de_Tournai.
 latitude: 50.605646
 loc_type: city
 longitude: 3.387818
-score: 0.45
+score: 7.77
 title: Tournai
-snippet: Ancient Belgian city on the Scheldt, anchored by a five-towered cathedral and deep Frankish history.
+snippet: Ancient Belgian city on the Scheldt, anchored by a five-towered cathedral
+  and deep Frankish history.
 type: location
 ---
 

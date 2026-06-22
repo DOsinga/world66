@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Chalt%C3%A9n.jpg
 latitude: -49.3303
 loc_type: city
 longitude: -72.8893
-score: 0.61
+score: 9.09
 snippet: Patagonian trekking village below Mount Fitz Roy, with trails leading straight
   from town into Los Glaciares.
 sources:

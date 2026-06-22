@@ -16,7 +16,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoi_An_(I).jpg
 latitude: 15.8801
 loc_type: city
 longitude: 108.338
-score: 0.71
+score: 9.46
 snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assembly
   halls, and a Japanese covered bridge.
 title: Hoi An

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narvik_harbour_2014.jpg
 latitude: 68.43838
 loc_type: city
 longitude: 17.427198
-score: 0.5
+score: 8.25
 snippet: Northern Norwegian ore port on Ofotfjord, ringed by mountains and tied to
   the Kiruna iron railway.
 title: Narvik

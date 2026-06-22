@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Almonaster_la_real_vue_d%2
 latitude: 37.872179
 loc_type: city
 longitude: -6.786602
-score: 0.41
+score: 7.31
 snippet: Sierra de Aracena village below a hilltop fortified mosque with broad countryside
   views.
 title: Almonaster La Real

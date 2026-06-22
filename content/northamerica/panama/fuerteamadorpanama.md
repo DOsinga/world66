@@ -2,7 +2,7 @@
 latitude: 8.918
 loc_type: feature
 longitude: -79.532
-score: 0.4
+score: 7.24
 snippet: Pacific causeway linking Panama City to small islands at the entrance to
   the Panama Canal.
 title: Fuerte Amador

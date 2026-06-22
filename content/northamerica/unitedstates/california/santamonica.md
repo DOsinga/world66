@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_U
 latitude: 34.01947
 loc_type: city
 longitude: -118.491227
-score: 0.56
+score: 8.73
 title: Santa Monica
-snippet: Walkable Los Angeles beach city with a landmark pier, oceanfront promenade, and compact civic centre
+snippet: Walkable Los Angeles beach city with a landmark pier, oceanfront promenade,
+  and compact civic centre
 type: location
 ---
 

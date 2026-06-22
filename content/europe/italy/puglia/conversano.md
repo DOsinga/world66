@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Conversano-Castellofotoaer
 latitude: 40.968514
 loc_type: city
 longitude: 17.115044
-score: 0.48
+score: 8.04
 snippet: Puglian hill town of Norman castle walls, Romanesque churches, cherry orchards,
   and quiet lanes above the Adriatic.
 sources:

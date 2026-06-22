@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tofino.Vue_vers_l%27est.JP
 latitude: 49.152964
 loc_type: city
 longitude: -125.904708
-score: 0.57
+score: 8.79
 snippet: West-coast Vancouver Island town of beaches, surf, rainforest, and access
   to Clayoquot Sound.
 title: Tofino

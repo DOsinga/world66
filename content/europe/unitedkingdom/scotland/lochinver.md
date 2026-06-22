@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochinver_harbour.jpg
 latitude: 58.152391
 loc_type: city
 longitude: -5.240577
-score: 0.45
+score: 7.73
 snippet: Northwest Scottish fishing village beneath Assynt peaks, known for Loch Inver
   harbour and legendary pies.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_build_in_Bromwich_1_-_
 latitude: 52.5187
 loc_type: city
 longitude: -1.9923
-score: 0.23
+score: 5.42
 snippet: Black Country town west of Birmingham, shaped by industry and anchored by
   its football ground.
 title: West Bromwich

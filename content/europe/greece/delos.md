@@ -4,7 +4,7 @@ done:
 latitude: 37.39089
 loc_type: feature
 longitude: 25.271739
-score: 0.6
+score: 9.01
 snippet: Uninhabited Cycladic island and major archaeological site, revered in antiquity
   as Apollo and Artemis's birthplace.
 title: Delos

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KanofromDalaHill.jpg
 latitude: 11.993998
 loc_type: city
 longitude: 8.521974
-score: 0.29
+score: 6.07
 title: Kano
 type: location
 snippet: Ancient Hausa trading city in northern Nigeria, centered on a walled Old

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Sacramento_from_t
 latitude: 38.581061
 loc_type: city
 longitude: -121.493895
-score: 0.39
+score: 7.18
 title: Sacramento
-snippet: "California capital at the Sacramento and American rivers, where the Gold Rush supply city took shape."
+snippet: California capital at the Sacramento and American rivers, where the Gold
+  Rush supply city took shape.
 type: location
 ---
 

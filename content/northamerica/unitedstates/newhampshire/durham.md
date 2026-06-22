@@ -5,7 +5,7 @@ done:
 latitude: 43.1337
 loc_type: city
 longitude: -70.9243
-score: 0.29
+score: 6.1
 snippet: Compact New Hampshire college town on the Oyster River, shaped by the University
   of New Hampshire
 sources:

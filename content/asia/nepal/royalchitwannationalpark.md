@@ -2,7 +2,7 @@
 latitude: 27.5042
 loc_type: feature
 longitude: 84.3333
-score: 0.57
+score: 8.8
 snippet: Terai national park protecting subtropical jungle, grassland, rhinoceros,
   tigers, and river valleys in lowland Nepal
 title: Royal Chitwan National Park

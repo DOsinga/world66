@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cape_Hatteras_086.JPG
 latitude: 35.127959
 loc_type: city
 longitude: -75.922081
-score: 0.46
+score: 7.88
 sources:
 - https://en.wikipedia.org/wiki/Ocracoke_Island
 title: Ocracoke Island

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/42201095@N03/26414619168
 latitude: 35.9133
 loc_type: city
 longitude: 14.4433
-score: 0.4
+score: 7.28
 snippet: Central Maltese town with Palazzo Parisio, formal gardens, and a richly decorated
   parish church
 title: Naxxar

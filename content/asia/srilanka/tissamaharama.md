@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tissa_Lake_Sri_Lanka.jpg
 latitude: 6.2845
 loc_type: city
 longitude: 81.2878
-score: 0.48
+score: 8.02
 snippet: Southern Sri Lankan town beside Tissa Wewa, used as the main gateway to Yala
   National Park
 title: Tissamaharama

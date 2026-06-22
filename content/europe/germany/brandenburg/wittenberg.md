@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lutherstadt_Wittenberg,_De
 latitude: 51.8667
 loc_type: city
 longitude: 12.6468
-score: 0.42
+score: 7.49
 snippet: Elbe Renaissance town where Martin Luther's theses launched the Reformation
   from the Castle Church.
 title: Wittenberg

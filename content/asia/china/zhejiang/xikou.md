@@ -5,7 +5,7 @@ done:
 latitude: 29.692261
 loc_type: city
 longitude: 121.278182
-score: 0.36
+score: 6.81
 snippet: Mountain town south of Ningbo, known for Chiang Kai-shek's residences and
   the Buddhist temples of Xuedou.
 title: Xikou

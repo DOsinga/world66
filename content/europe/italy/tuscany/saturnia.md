@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saturnia_Cascate_del_Mulin
 latitude: 42.665224
 loc_type: city
 longitude: 11.504989
-score: 0.52
+score: 8.42
 snippet: Tuscan hill village famous for the Cascate del Mulino, where warm sulphurous
   water fills natural limestone pools.
 title: Saturnia

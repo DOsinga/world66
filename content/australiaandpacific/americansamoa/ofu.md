@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ofu_Beach_American_Samoa_U
 latitude: -14.184507
 loc_type: city
 longitude: -169.669072
-score: 0.44
+score: 7.67
 snippet: Manu'a island with a national park beach and fringing reef off American Samoa's
   eastern edge
 title: Ofu

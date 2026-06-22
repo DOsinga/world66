@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bear_Lake,_Bear_Lake_Count
 latitude: 41.9634
 loc_type: feature
 longitude: -111.3221
-score: 0.43
+score: 7.59
 snippet: High mountain lake on the Utah-Idaho border, famous for its vivid turquoise
   water.
 sources:

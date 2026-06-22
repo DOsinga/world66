@@ -4,7 +4,7 @@ done:
 latitude: 37.7488
 loc_type: feature
 longitude: 14.9669
-score: 0.61
+score: 9.04
 snippet: Sicilian volcanic park of lava deserts, summit craters, chestnut forests,
   and Etna's fertile vineyard slopes.
 title: Mount Etna Park

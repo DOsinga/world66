@@ -2,7 +2,7 @@
 latitude: 33.833
 loc_type: city
 longitude: -111.946
-score: 0.39
+score: 7.14
 snippet: Sonoran Desert town north of Phoenix, keeping a Western main street beside
   protected cactus country
 title: Cave Creek

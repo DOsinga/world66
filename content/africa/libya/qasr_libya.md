@@ -2,7 +2,7 @@
 latitude: 32.6667
 loc_type: feature
 longitude: 21.55
-score: 0.24
+score: 5.45
 snippet: Ancient Jebel Akhdar settlement known for well-preserved Byzantine mosaics
   from sixth-century churches.
 title: Qasr Libya

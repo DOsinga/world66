@@ -4,7 +4,7 @@ done:
 latitude: 17.467913
 loc_type: feature
 longitude: 97.098275
-score: 0.46
+score: 7.88
 snippet: Buddhist pilgrimage site around the Golden Rock, a gilded boulder balanced
   on a cliff-edge.
 title: Kyaiktiyo

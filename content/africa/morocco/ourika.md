@@ -5,7 +5,7 @@ done:
 latitude: 31.378
 loc_type: city
 longitude: -7.8048
-score: 0.49
+score: 8.12
 snippet: High Atlas valley near Marrakesh where Berber villages cling above a fast-running
   mountain river.
 sources:

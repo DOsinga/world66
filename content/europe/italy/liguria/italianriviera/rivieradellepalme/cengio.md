@@ -5,7 +5,7 @@ done:
 latitude: 44.390259
 loc_type: city
 longitude: 8.207952
-score: 0.36
+score: 6.81
 snippet: Small Ligurian hill town in the Bormida valley, near the Alpine-Apennine
   divide at Cadibona Pass.
 title: Cengio

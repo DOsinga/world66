@@ -4,7 +4,7 @@ done:
 latitude: 26.791753
 loc_type: feature
 longitude: 37.951807
-score: 0.53
+score: 8.51
 snippet: Ancient Nabataean site in Al-Ula, known for monumental sandstone tombs and
   Saudi Arabia's first UNESCO listing.
 title: Mada'in Salih (Hegra)

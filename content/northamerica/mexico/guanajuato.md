@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Woman_beggar_in_Guanajuato
 latitude: 21.019
 loc_type: city
 longitude: -101.2574
-score: 0.67
+score: 9.38
 snippet: Colonial silver city in a central Mexican ravine, threaded by tunnels and
   steep painted alleys
 title: Guanajuato

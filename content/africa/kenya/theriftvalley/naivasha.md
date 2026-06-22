@@ -5,7 +5,7 @@ done:
 latitude: -0.722442
 loc_type: city
 longitude: 36.438783
-score: 0.49
+score: 8.12
 title: Naivasha
 type: location
 snippet: Rift Valley town by Lake Naivasha, with boat trips, Crescent Island walks,

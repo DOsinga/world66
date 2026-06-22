@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taizhou-china-bridge-001.j
 latitude: 32.48
 loc_type: city
 longitude: 119.9
-score: 0.28
+score: 5.96
 snippet: Historic Jiangsu city between the Grand Canal and coast, birthplace of Peking
   opera master Mei Lanfang.
 sources:

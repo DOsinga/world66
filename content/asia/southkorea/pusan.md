@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Gwangandaegyo_Bridge_in_Bu
 latitude: 35.179953
 loc_type: city
 longitude: 129.075236
-score: 0.63
-snippet: "South Korea's second city, a busy port framed by hills, beaches, fish markets, and coastal neighbourhoods."
+score: 9.17
+snippet: South Korea's second city, a busy port framed by hills, beaches, fish markets,
+  and coastal neighbourhoods.
 title: Busan
 type: location
 ---

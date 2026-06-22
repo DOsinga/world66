@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjara_-_Our_Lady_of_the_M
 latitude: 32.3066
 loc_type: city
 longitude: 35.7557
-score: 0.34
+score: 6.58
 title: Anjara
-snippet: Northern Jordanian hill town and Christian pilgrimage site near Ajlun's wooded highlands.
+snippet: Northern Jordanian hill town and Christian pilgrimage site near Ajlun's wooded
+  highlands.
 type: location
 ---
 

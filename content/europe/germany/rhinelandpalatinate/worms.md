@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Wormser_Dom_Seitenansicht.
 latitude: 49.6305
 loc_type: city
 longitude: 8.3636
-score: 0.44
-snippet: Rhine cathedral city with Roman roots, Nibelungen lore, Reformation history, and an ancient Jewish quarter.
+score: 7.72
+snippet: Rhine cathedral city with Roman roots, Nibelungen lore, Reformation history,
+  and an ancient Jewish quarter.
 title: Worms
 type: location
 ---

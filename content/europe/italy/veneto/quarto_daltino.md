@@ -5,7 +5,7 @@ done:
 latitude: 45.580451
 loc_type: city
 longitude: 12.3705
-score: 0.33
+score: 6.5
 snippet: Veneto transit town near Venice, sitting beside the Roman site of Altinum.
 title: Quarto D'Altino
 type: location

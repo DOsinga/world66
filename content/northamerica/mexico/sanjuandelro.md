@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/12950131@N06/7998321050
 latitude: 20.389
 loc_type: city
 longitude: -99.996
-score: 0.31
+score: 6.29
 snippet: Querétaro colonial city in a fertile valley, known for opal mining, gem workshops,
   and vineyards.
 title: San Juan del Río

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Valldemossa_2003.jpg
 lat: 39.7101
 loc_type: city
 long: 2.6218
-score: 0.56
+score: 8.72
 snippet: Mallorcan mountain village in the Serra de Tramuntana, linked to Chopin,
   George Sand, and the Real Cartuja.
 title: Valldemossa

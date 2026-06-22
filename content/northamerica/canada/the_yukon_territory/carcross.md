@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carcross,_Yuk%C3%B3n,_Cana
 latitude: 60.166789
 loc_type: city
 longitude: -134.708665
-score: 0.44
+score: 7.68
 snippet: Yukon village between Bennett and Tagish Lakes, with Klondike history and
   the pocket-sized Carcross Desert
 title: Carcross

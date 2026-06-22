@@ -4,7 +4,7 @@ done:
 latitude: 38.8734
 loc_type: feature
 longitude: -104.8863
-score: 0.61
+score: 9.09
 snippet: Colorado Springs public park of red sandstone fins rising below the snow-capped
   Pikes Peak backdrop
 title: Garden of the Gods

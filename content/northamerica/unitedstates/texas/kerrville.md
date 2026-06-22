@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Capt_charles_schreiner_man
 latitude: 30.048469
 loc_type: city
 longitude: -99.139946
-score: 0.35
+score: 6.67
 snippet: Texas Hill Country town on the Guadalupe River, with music festivals and
   limestone scenery
 title: Kerrville

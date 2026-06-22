@@ -5,7 +5,7 @@ done:
 latitude: 29.0928
 loc_type: city
 longitude: 48.0813
-score: 0.23
+score: 5.34
 snippet: Kuwaiti oil town of tree-lined avenues and garden suburbs, built by the Kuwait
   Oil Company.
 title: Ahmadi

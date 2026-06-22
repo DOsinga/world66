@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tramonto_sulla_cattedrale.
 latitude: 41.2751
 loc_type: city
 longitude: 16.4163
-score: 0.53
+score: 8.51
 snippet: Adriatic port town in Puglia, centred on a pale Romanesque cathedral beside
   the harbour.
 title: Trani

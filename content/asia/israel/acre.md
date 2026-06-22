@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:01%D7%A2%D7%9B%D7%95.jpg
 latitude: 32.928173
 loc_type: city
 longitude: 35.075638
-score: 0.56
+score: 8.75
 snippet: Ancient Mediterranean port city where Crusader vaults, Ottoman walls, and
   an Arab fishing harbour overlap
 sources:

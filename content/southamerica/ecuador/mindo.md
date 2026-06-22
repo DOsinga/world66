@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfall_in_Mindo.JPG
 latitude: -0.0512
 loc_type: city
 longitude: -78.7783
-score: 0.51
+score: 8.34
 snippet: Andean cloud forest town with extraordinary birdlife where tropical highlands
   meet Chocoan lowlands.
 sources:

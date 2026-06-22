@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ushuaia_aerial_panorama.jp
 latitude: -54.8073
 loc_type: city
 longitude: -68.3084
-score: 0.63
+score: 9.19
 sources:
 - https://en.wikipedia.org/wiki/Ushuaia
 - https://en.wikipedia.org/wiki/Tierra_del_Fuego_National_Park

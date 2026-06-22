@@ -4,8 +4,9 @@ done:
 latitude: 42.133299
 loc_type: feature
 longitude: 23.340187
-score: 0.57
-snippet: Rila Mountains monastery with National Revival frescoes, forested courtyards, and Bulgaria's patron saint at its heart.
+score: 8.81
+snippet: Rila Mountains monastery with National Revival frescoes, forested courtyards,
+  and Bulgaria's patron saint at its heart.
 title: Rila Monastery
 type: location
 ---

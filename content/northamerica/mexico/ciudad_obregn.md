@@ -5,8 +5,9 @@ done:
 latitude: 27.484662
 loc_type: city
 longitude: -109.933778
-score: 0.26
-snippet: "Agricultural city in Sonora's Río Yaqui Valley, known for Yaqui history and northern Mexican street food."
+score: 5.77
+snippet: Agricultural city in Sonora's Río Yaqui Valley, known for Yaqui history and
+  northern Mexican street food.
 title: Ciudad Obregón
 type: location
 ---

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagha_Mosque,_Rajshahi,_Ba
 latitude: 24.371666
 loc_type: city
 longitude: 88.60092
-score: 0.29
+score: 6.09
 title: Rajshahi
-snippet: Northwestern Bangladeshi river city known for silk weaving, mangoes, and Pala-Sena sculpture.
+snippet: Northwestern Bangladeshi river city known for silk weaving, mangoes, and
+  Pala-Sena sculpture.
 type: location
 ---
 

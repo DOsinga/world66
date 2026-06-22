@@ -4,7 +4,7 @@ done:
 latitude: 48.465549
 loc_type: feature
 longitude: -92.885397
-score: 0.49
+score: 8.17
 snippet: Water-bound national park on the Minnesota-Ontario border, shaped by lakes,
   islands, and fur-trade canoe routes
 title: Voyageurs National Park

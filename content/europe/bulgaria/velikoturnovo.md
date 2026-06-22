@@ -5,7 +5,7 @@ done:
 latitude: 43.082058
 loc_type: city
 longitude: 25.632131
-score: 0.52
+score: 8.39
 snippet: Medieval Bulgarian capital built above the Yantra River, dominated by the
   hilltop Tsarevets fortress.
 sources:

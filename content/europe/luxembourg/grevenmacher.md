@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/58411470@N00/6863379254
 latitude: 49.679313
 loc_type: city
 longitude: 6.443098
-score: 0.4
+score: 7.24
 snippet: Luxembourg Moselle wine town on the German border, with riverside terraces
   and sparkling wine cellars.
 title: Grevenmacher

@@ -4,7 +4,7 @@ done:
 latitude: 14.3814
 loc_type: feature
 longitude: -90.6014
-score: 0.53
+score: 8.49
 snippet: Guatemalan volcano near Antigua, climbed for lava fields, ash slopes, and
   broad highland views.
 title: Pacaya Volcano

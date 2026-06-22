@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bifyu_8.jpg
 latitude: 37.2775
 loc_type: city
 longitude: 127.0217
-score: 0.47
+score: 7.96
 snippet: Gyeonggi capital south of Seoul, defined by the UNESCO-listed walls of Hwaseong
   Fortress.
 sources:

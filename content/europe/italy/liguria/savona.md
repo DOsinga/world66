@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fortezza_del_Priamar_dalle
 latitude: 44.3091
 loc_type: city
 longitude: 8.4772
-score: 0.45
+score: 7.77
 snippet: Workaday Ligurian port city with a medieval core beneath the massive Priamar
   Fortress.
 sources:

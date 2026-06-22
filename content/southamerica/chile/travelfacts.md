@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-10'
 loc_type: feature
-score: 0.15
+score: 4.32
 snippet: Practical Chile travel reference for business hours, midday closures, bank
   schedules, and late restaurant meals.
 title: Business Hours

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Armacaodepera.jpg
 latitude: 37.1042
 loc_type: city
 longitude: -8.3627
-score: 0.48
+score: 8.05
 title: Armacao de Pera
 type: location
 snippet: Algarve beach resort beside a broad bay, with old fishing roots and limestone

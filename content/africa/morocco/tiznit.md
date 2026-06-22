@@ -5,7 +5,7 @@ done:
 latitude: 29.698624
 loc_type: city
 longitude: -9.731281
-score: 0.41
+score: 7.32
 snippet: Walled southern Moroccan town known for ochre ramparts and Berber silver
   jewellery.
 title: Tiznit

@@ -5,7 +5,7 @@ done:
 latitude: 38.8586
 loc_type: city
 longitude: -104.9179
-score: 0.49
+score: 8.16
 snippet: Artsy Colorado resort town at Pikes Peak's foot, built around mineral springs
   and steep mountain trails
 sources:

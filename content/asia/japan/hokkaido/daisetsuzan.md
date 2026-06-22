@@ -4,7 +4,7 @@ done:
 latitude: 43.5283
 loc_type: feature
 longitude: 142.994
-score: 0.51
+score: 8.3
 snippet: Vast Hokkaido national park of volcanoes, alpine plateaus, crater lakes,
   and rare Japanese wilderness.
 title: Daisetsuzan

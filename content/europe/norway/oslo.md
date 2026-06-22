@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nationaltheatret_evening.j
 latitude: 59.91333
 loc_type: city
 longitude: 10.73897
-score: 0.58
+score: 8.9
 snippet: Compact Nordic capital where harbour museums and modern architecture sit
   minutes from forest trails.
 title: Oslo

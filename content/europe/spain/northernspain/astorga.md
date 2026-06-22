@@ -5,7 +5,7 @@ done:
 latitude: 42.4554
 loc_type: city
 longitude: -6.0529
-score: 0.47
+score: 7.96
 snippet: Compact León province city on the Camino de Santiago, with a cathedral and
   Gaudí's Episcopal Palace.
 title: Astorga

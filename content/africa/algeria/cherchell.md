@@ -6,7 +6,7 @@ loc_type: city
 longitude: 2.1928
 title: Cherchell
 type: location
-score: 0.34
+score: 6.59
 snippet: Quiet coastal town built over Caesarea, the Roman capital of Mauretania Caesariensis.
 ---
 

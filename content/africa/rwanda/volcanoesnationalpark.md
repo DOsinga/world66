@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mountain_gorilla_from_Susa
 latitude: -1.4675
 loc_type: feature
 longitude: 29.4925
-score: 0.61
+score: 9.06
 snippet: Virunga mountain park in northwestern Rwanda, protecting gorilla habitat
   and Dian Fossey's research landscape.
 sources:

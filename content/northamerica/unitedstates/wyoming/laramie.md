@@ -5,8 +5,9 @@ done:
 latitude: 41.311644
 loc_type: city
 longitude: -105.591788
-score: 0.35
-snippet: High-plains university town in southeastern Wyoming, with frontier storefronts and Snowy Range access nearby.
+score: 6.68
+snippet: High-plains university town in southeastern Wyoming, with frontier storefronts
+  and Snowy Range access nearby.
 title: Laramie
 type: location
 ---

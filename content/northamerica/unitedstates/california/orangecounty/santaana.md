@@ -7,7 +7,7 @@ done:
 latitude: 33.749495
 loc_type: city
 longitude: -117.873221
-score: 0.28
+score: 5.98
 snippet: Orange County seat southeast of Los Angeles, with a historic downtown and
   strong Latino heritage.
 title: Santa Ana

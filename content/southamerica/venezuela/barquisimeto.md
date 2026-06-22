@@ -4,7 +4,7 @@ done:
 latitude: 10.077437
 loc_type: city
 longitude: -69.322229
-score: 0.24
+score: 5.55
 snippet: Northwestern Venezuelan city with early colonial roots, Lara state culture,
   and rebuilt streets after the 1812 earthquake.
 title: Barquisimeto

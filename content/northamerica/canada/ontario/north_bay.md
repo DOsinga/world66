@@ -5,7 +5,7 @@ done:
 latitude: 46.3091
 loc_type: city
 longitude: -79.4608
-score: 0.33
+score: 6.47
 snippet: Northern Ontario city on Lake Nipissing, gateway to cottage lakes and boreal
   forest.
 title: North Bay

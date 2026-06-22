@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PA260021.JPG
 latitude: 49.0816
 loc_type: city
 longitude: 19.3034
-score: 0.33
+score: 6.55
 snippet: Working Slovak mountain town at the Váh and Revúca confluence, close to Vlkolínec
   and Greater Fatra trails.
 title: Ružomberok

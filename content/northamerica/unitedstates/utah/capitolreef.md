@@ -4,7 +4,7 @@ done:
 latitude: 38.29
 loc_type: feature
 longitude: -111.26
-score: 0.58
+score: 8.86
 snippet: Utah national park defined by the Waterpocket Fold's tilted rock layers,
   domes, and canyons.
 title: Capitol Reef

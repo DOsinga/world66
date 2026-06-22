@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marienberg_wuerzburg.jpg
 latitude: 49.793372
 loc_type: city
 longitude: 9.930978
-score: 0.55
+score: 8.7
 title: Würzburg
 type: location
 snippet: Lower Franconian wine city on the Main, anchored by the Residenz and Bocksbeutel

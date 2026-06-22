@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCki_Gy%C3%B3gyf%C3%B
 latitude: 47.383396
 loc_type: city
 longitude: 16.753305
-score: 0.37
+score: 6.95
 snippet: Western Hungarian village near Austria, known for the mineral pools of Bükfürdő
   thermal spa
 title: Bük

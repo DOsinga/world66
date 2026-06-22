@@ -2,7 +2,7 @@
 latitude: 29.5581
 loc_type: city
 longitude: 34.9482
-score: 0.52
+score: 8.38
 snippet: Red Sea resort city at Israel’s southern tip, built around coral reefs and
   desert winter sun.
 title: Eilat

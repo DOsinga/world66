@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AIDAperla_in_Rotterdam_-_S
 latitude: 51.9225
 loc_type: city
 longitude: 4.4792
-score: 0.5
+score: 8.21
 tags:
 - architecture
 - culture
@@ -20,7 +20,8 @@ tags:
 - port_city
 - modern
 title: Rotterdam
-snippet: Architecturally daring Dutch port city rebuilt after wartime destruction into a modernist skyline of bridges and towers
+snippet: Architecturally daring Dutch port city rebuilt after wartime destruction
+  into a modernist skyline of bridges and towers
 type: location
 ---
 

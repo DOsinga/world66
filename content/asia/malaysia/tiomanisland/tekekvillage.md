@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Pulau_Tioman.JPG
 latitude: 2.818736
 loc_type: city
 longitude: 104.158587
-score: 0.45
+score: 7.75
 snippet: Tioman Island's administrative village, where practical services cluster
   beside the island's only paved road
 title: Tekek Village

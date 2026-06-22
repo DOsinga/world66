@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lukavec.jpg
 latitude: 45.7156
 loc_type: city
 longitude: 16.0717
-score: 0.32
+score: 6.4
 snippet: Town south of Zagreb best known for Zagreb Airport, with a compact centre
   and Turopolje heritage.
 title: Velika Gorica

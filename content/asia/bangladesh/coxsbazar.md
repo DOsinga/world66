@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cox%27s_Bazar_sea_beach_01
 latitude: 21.442004
 loc_type: city
 longitude: 91.981246
-score: 0.43
+score: 7.6
 snippet: Bangladeshi beach town on a 120-kilometre Bay of Bengal shoreline backed
   by low forested hills
 title: Cox's Bazar

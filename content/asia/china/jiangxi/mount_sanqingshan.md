@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:19194-SanQingShan_(4678662
 latitude: 28.94
 loc_type: feature
 longitude: 118.063
-score: 0.51
+score: 8.29
 snippet: Taoist mountain landscape of granite pillars, cloud forests, cliff paths,
   and ancient temple sites.
 sources:

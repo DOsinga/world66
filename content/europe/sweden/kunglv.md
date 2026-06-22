@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kung%C3%A4lv,_sedd_fr%C3%A
 latitude: 57.870795
 loc_type: city
 longitude: 11.979962
-score: 0.4
+score: 7.27
 snippet: Swedish river town north of Gothenburg, overlooked by the ruins of Bohus
   Fästning.
 title: Kungälv

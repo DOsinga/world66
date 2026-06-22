@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chishui,_Zunyi,_Guizhou,_C
 latitude: 28.5904
 loc_type: feature
 longitude: 105.6975
-score: 0.4
+score: 7.19
 snippet: Northern Guizhou landscape of bamboo, red Danxia sandstone cliffs, river
   gorges, and waterfalls.
 sources:

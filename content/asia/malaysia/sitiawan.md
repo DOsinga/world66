@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jalan_Klang-Sitiawan-Ipoh_
 latitude: 4.2167
 loc_type: city
 longitude: 100.7
-score: 0.3
+score: 6.11
 snippet: Perak market town with a strong Fuzhou Chinese identity and a reputation
   for clay-oven kong piang.
 title: Sitiawan

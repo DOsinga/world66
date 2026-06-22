@@ -4,7 +4,7 @@ done:
 latitude: 53.578286
 loc_type: city
 longitude: -2.430037
-score: 0.31
+score: 6.23
 snippet: Northern English mill town whose Victorian civic buildings reflect its cotton-era
   wealth and ambition.
 title: Bolton

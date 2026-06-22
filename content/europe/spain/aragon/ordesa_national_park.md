@@ -6,7 +6,7 @@ done:
 latitude: 42.626
 loc_type: feature
 longitude: -0.0434
-score: 0.6
+score: 9.01
 snippet: Pyrenean mountain park of glacial canyons, limestone walls, waterfalls, and
   Monte Perdido.
 title: Ordesa National Park

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Saratoga_Springs.
 latitude: 43.0833
 loc_type: city
 longitude: -73.7854
-score: 0.47
+score: 7.96
 snippet: Upstate New York spa city known for mineral springs, summer racing, and Victorian
   parkland
 title: Saratoga Springs

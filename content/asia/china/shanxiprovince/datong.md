@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Datong_Ancient_City_Wall_0
 latitude: 40.092319
 loc_type: city
 longitude: 113.295266
-score: 0.45
+score: 7.77
 snippet: Northern Shanxi frontier city on a dry plateau, known for the 5th-century
   Yungang Grottoes
 title: Datong

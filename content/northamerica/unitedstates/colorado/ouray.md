@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DowntownOurayCO.jpg
 latitude: 38.0228
 loc_type: city
 longitude: -107.6717
-score: 0.53
+score: 8.52
 snippet: San Juan mountain town in a dramatic box canyon, with Victorian mining streets,
   hot springs, and ice climbing.
 title: Ouray

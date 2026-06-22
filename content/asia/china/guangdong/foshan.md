@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Foshan_Ancestral_Temple_39
 latitude: 23.0292
 loc_type: city
 longitude: 113.1056
-score: 0.31
+score: 6.3
 snippet: Pearl River city historically known for ceramics, metalwork, textiles, and
   the long-running Shiwan kilns.
 sources:

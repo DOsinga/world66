@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Virginia_Beach_Oc
 latitude: 36.849658
 loc_type: city
 longitude: -75.976075
-score: 0.46
+score: 7.83
 snippet: Atlantic resort city where Virginia's boardwalk beach gives way to Sandbridge
   dunes and First Landing history.
 title: Virginia Beach

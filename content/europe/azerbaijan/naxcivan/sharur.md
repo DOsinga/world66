@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharur_view_from_plane.jpg
 latitude: 39.589265
 loc_type: city
 longitude: 45.036218
-score: 0.22
+score: 5.26
 snippet: Nakhchivan border town on the Turkish road, with Soviet railway traces and
   nearby Bronze Age mounds.
 title: Sharur

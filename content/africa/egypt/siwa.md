@@ -9,10 +9,11 @@ image_source: https://www.flickr.com/photos/87153545@N00/316594665
 latitude: 29.203466
 loc_type: city
 longitude: 25.519227
-score: 0.5
+score: 8.19
 title: Siwa
 type: location
-snippet: "Remote Western Desert oasis with Berber culture, freshwater springs, and the mud-brick Shali fortress."
+snippet: Remote Western Desert oasis with Berber culture, freshwater springs, and
+  the mud-brick Shali fortress.
 ---
 
 Siwa is an oasis town deep in the Western Desert of [Egypt](/africa/egypt), close to the Libyan border and about 560 km from [Cairo](/africa/egypt/cairo). It is one of Egypt's most remote and distinctive destinations — a place where Berber culture persists, locals speak Siwi rather than Arabic, and the pace of life has little in common with the Nile Valley.

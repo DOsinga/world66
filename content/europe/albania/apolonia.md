@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apollonia,_Albania_(by_Pud
 latitude: 40.723362
 loc_type: city
 longitude: 19.471828
-score: 0.45
+score: 7.77
 snippet: Greek archaeological site near Fier, with hilltop ruins, a monastery museum,
   and a restored portico
 title: Apolonia

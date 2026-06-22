@@ -5,9 +5,10 @@ done:
 latitude: 17.915
 longitude: -87.9657
 title: San Pedro
-snippet: Main town on Ambergris Caye, Belize's most developed base for reef diving and island tourism.
+snippet: Main town on Ambergris Caye, Belize's most developed base for reef diving
+  and island tourism.
 type: location
-score: 0.52
+score: 8.45
 loc_type: city
 ---
 

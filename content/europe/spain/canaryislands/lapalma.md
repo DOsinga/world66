@@ -5,7 +5,7 @@ done:
 latitude: 28.655116
 loc_type: city
 longitude: -17.857269
-score: 0.55
+score: 8.64
 snippet: Volcanic Canary island of laurel forests, banana slopes, observatories, and
   black-sand Atlantic shores
 title: La Palma

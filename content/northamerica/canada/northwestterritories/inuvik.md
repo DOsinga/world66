@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inuvik,_NT.jpg
 latitude: 68.3603
 loc_type: city
 longitude: -133.7204
-score: 0.37
+score: 6.93
 snippet: Northwest Territories town on the Mackenzie River Delta at the end of the
   Dempster Highway.
 title: Inuvik

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_town_of_Marathon,_Gree
 latitude: 38.153272
 loc_type: city
 longitude: 23.962089
-score: 0.47
+score: 7.96
 snippet: Greek coastal plain northeast of Athens, remembered for the 490 BC battle
   against Persia.
 title: Marathon

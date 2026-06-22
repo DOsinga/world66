@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ukraine-Vorokhta-Viaduct-2
 latitude: 48.293
 loc_type: city
 longitude: 24.5636
-score: 0.38
+score: 6.98
 snippet: Ukrainian Carpathian mountain town on the Prut, closest base for hikes to
   Mt. Hoverla
 title: Vorokhta

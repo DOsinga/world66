@@ -6,7 +6,7 @@ longitude: 15.1712
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-21'
-score: 0.42
+score: 7.47
 loc_type: city
 snippet: Dolenjska town wrapped by a horseshoe bend of the Krka River, with a compact
   medieval core

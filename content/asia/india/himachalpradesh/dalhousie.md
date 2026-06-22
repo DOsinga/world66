@@ -2,7 +2,7 @@
 latitude: 32.535
 loc_type: city
 longitude: 75.9697
-score: 0.46
+score: 7.85
 snippet: Himachal hill station spread across forested ridges, founded as a British
   summer retreat.
 title: Dalhousie

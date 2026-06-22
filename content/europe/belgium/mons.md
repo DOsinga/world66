@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Mons_-_H%C3%B4tel_de_vil
 latitude: 50.455
 loc_type: city
 longitude: 3.952
-score: 0.43
+score: 7.54
 snippet: Hainaut capital with a hilltop old centre, Sainte-Waudru heritage, and Belgium's
   only baroque belfry.
 sources:

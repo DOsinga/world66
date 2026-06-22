@@ -5,7 +5,7 @@ done:
 latitude: 12.532
 loc_type: city
 longitude: -61.384
-score: 0.56
+score: 8.76
 snippet: Private Grenadine island resort of scattered cottages, flag-based service,
   white sand, and boat-only access.
 title: Petit St. Vincent

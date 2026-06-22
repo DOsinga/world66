@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portobelo_Ruins_and_bay.jp
 latitude: 9.5497
 loc_type: city
 longitude: -79.6503
-score: 0.45
+score: 7.76
 sources:
 - https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n
 title: Portobelo

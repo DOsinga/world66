@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jind_Junction.jpeg
 latitude: 29.315207
 loc_type: city
 longitude: 76.314082
-score: 0.24
+score: 5.49
 snippet: Old Haryana town with Mahabharata traditions, Shiva temples, and the legacy
   of the princely state of Jind.
 title: Jind

@@ -4,7 +4,7 @@ done:
 latitude: 5.968829
 loc_type: feature
 longitude: -62.53615
-score: 0.62
+score: 9.1
 snippet: Canaima waterfall plunging from Auyán-tepui in the world's highest uninterrupted
   drop.
 title: Angel Falls

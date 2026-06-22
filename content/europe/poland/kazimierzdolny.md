@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20150518_Zamek_w_Kazimierz
 latitude: 51.322006
 loc_type: city
 longitude: 21.947372
-score: 0.48
+score: 8.05
 snippet: Vistula River town known for Renaissance merchant houses, castle ruins, wooded
   hills, and an artists' tradition.
 title: Kazimierz Dolny

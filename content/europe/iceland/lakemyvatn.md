@@ -4,9 +4,10 @@ done:
 latitude: 65.633116
 longitude: -17.005723
 title: Lake Mývatn
-snippet: Shallow volcanic lake in northeast Iceland, ringed by lava fields, pseudocraters, and geothermal vents
+snippet: Shallow volcanic lake in northeast Iceland, ringed by lava fields, pseudocraters,
+  and geothermal vents
 type: location
-score: 0.62
+score: 9.16
 loc_type: feature
 ---
 

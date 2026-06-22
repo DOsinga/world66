@@ -4,7 +4,7 @@ done:
 latitude: 36.7879
 loc_type: feature
 longitude: -118.6746
-score: 0.57
+score: 8.83
 snippet: Sierra Nevada national park of glacier-carved canyons, granite walls, and
   giant sequoia groves.
 title: Kings Canyon

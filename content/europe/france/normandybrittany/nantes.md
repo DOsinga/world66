@@ -5,7 +5,7 @@ done:
 latitude: 47.218637
 loc_type: city
 longitude: -1.554136
-score: 0.55
+score: 8.66
 title: Nantes
 type: location
 snippet: Loire port city with Breton memory, industrial wealth, and a sharp creative

@@ -4,7 +4,7 @@ done:
 latitude: 27.5347
 loc_type: feature
 longitude: -107.823
-score: 0.56
+score: 8.72
 snippet: Sierra Madre canyon network in Chihuahua, crossed by the Chepe railway through
   bridges, tunnels, and pine forests.
 title: Copper Canyon

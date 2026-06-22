@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Commercial_street_Davidson
 latitude: 35.499167
 loc_type: city
 longitude: -80.848611
-score: 0.3
+score: 6.14
 snippet: Small North Carolina college town with a classic Main Street and Davidson
   College at its heart.
 title: Davidson

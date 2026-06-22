@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portoverde_(Misano_Adriati
 latitude: 43.977495
 loc_type: city
 longitude: 12.698695
-score: 0.42
+score: 7.46
 title: Misano Adriatico
 type: location
 snippet: Romagna beach town with a quieter Adriatic shore and a major motorcycle racing

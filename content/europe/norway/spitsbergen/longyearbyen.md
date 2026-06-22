@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Longyearbyen-spisshus-2022
 latitude: 78.223156
 loc_type: city
 longitude: 15.646366
-score: 0.54
+score: 8.59
 snippet: Arctic settlement and Svalbard gateway, set among glaciers, coal history,
   and polar light
 title: Longyearbyen

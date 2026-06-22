@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Jamestown_Church_1_-_Stier
 latitude: 37.208918
 loc_type: city
 longitude: -76.7783
-score: 0.44
+score: 7.65
 title: Jamestown
-snippet: Virginia historic settlement where English America began, preserved through archaeology and living-history exhibits.
+snippet: Virginia historic settlement where English America began, preserved through
+  archaeology and living-history exhibits.
 type: location
 ---
 

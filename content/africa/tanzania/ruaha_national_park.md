@@ -5,9 +5,10 @@ latitude: -7.801654
 longitude: 34.373008
 title: Ruaha National Park
 type: location
-score: 0.56
+score: 8.71
 loc_type: feature
-snippet: Remote Tanzanian national park on the Great Ruaha River, known for dry-season wildlife concentrations.
+snippet: Remote Tanzanian national park on the Great Ruaha River, known for dry-season
+  wildlife concentrations.
 ---
 
 Ruaha is one of Tanzania's largest and least visited national parks — and many who make it here consider it the country's best. The park has a reputation for remoteness, but it is actually only 115 km from [Iringa](/africa/tanzania/iringa) on an all-weather road, and there are charter flights from Dar es Salaam.

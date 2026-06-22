@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG
 latitude: 9.798267
 loc_type: city
 longitude: 124.168422
-score: 0.59
+score: 8.92
 title: Chocolate Hills
 type: location
 snippet: Bohol landscape of more than a thousand cone-shaped limestone hills that

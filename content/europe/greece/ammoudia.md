@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ammoudia,_Greece,_haven.JP
 latitude: 39.238995
 loc_type: city
 longitude: 20.481996
-score: 0.46
+score: 7.91
 snippet: Quiet Ionian village at the Acheron River mouth, near wetlands and the ancient
   Necromanteion.
 title: Ammoudia

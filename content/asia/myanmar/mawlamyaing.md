@@ -5,7 +5,7 @@ done:
 latitude: 16.490803
 loc_type: city
 longitude: 97.628483
-score: 0.34
+score: 6.64
 snippet: Thanlwin River city of gilded hilltop pagodas, colonial waterfronts, and
   Kipling's old Moulmein.
 title: Mawlamyaing

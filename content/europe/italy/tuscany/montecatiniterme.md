@@ -2,7 +2,7 @@
 latitude: 43.8847
 loc_type: city
 longitude: 10.7736
-score: 0.51
+score: 8.28
 snippet: Tuscan spa town between Pistoia and Lucca, known for Belle Époque thermal
   pavilions and Montecatini Alto.
 title: Montecatini Terme

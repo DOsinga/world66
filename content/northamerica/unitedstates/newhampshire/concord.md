@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Hampshire_State_House.
 latitude: 43.2081
 loc_type: city
 longitude: -71.5376
-score: 0.35
+score: 6.73
 title: Concord
 type: location
 snippet: Compact New Hampshire capital on the Merrimack River, centred on its golden-domed

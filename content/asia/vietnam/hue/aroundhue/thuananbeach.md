@@ -5,7 +5,7 @@ done:
 latitude: 16.4583
 loc_type: city
 longitude: 107.635
-score: 0.41
+score: 7.38
 title: Thuan An Beach
 type: location
 snippet: Local beach east of Hue where the Huong River meets Tam Giang Lagoon and

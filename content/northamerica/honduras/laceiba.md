@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carnaval_La_Ceiba_Honduras
 latitude: 15.773
 loc_type: city
 longitude: -86.781
-score: 0.35
+score: 6.66
 snippet: Honduran Caribbean city and Bay Islands ferry hub, backed by the Cordillera
   Nombre de Dios mountains.
 sources:

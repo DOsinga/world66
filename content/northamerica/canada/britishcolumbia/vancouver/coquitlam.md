@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coquitlam_Lafarge_Lake.jpg
 latitude: 49.2839
 loc_type: city
 longitude: -122.7919
-score: 0.33
+score: 6.49
 snippet: Vancouver suburb against Coast Mountain foothills, useful for salmon rivers,
   wetlands, and mountain parks.
 sources:

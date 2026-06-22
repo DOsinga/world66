@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_lauterbrunnen_valley_201
 latitude: 46.593904
 loc_type: city
 longitude: 7.907802
-score: 0.75
+score: 9.68
 snippet: Alpine valley village below sheer limestone cliffs, where more than 70 waterfalls
   drop from the rim.
 title: Lauterbrunnen

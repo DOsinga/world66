@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dumaguete_Belfry_park_view
 latitude: 9.305478
 loc_type: city
 longitude: 123.308045
-score: 0.44
+score: 7.68
 snippet: Negros Oriental university city with a seafront promenade and easy access
   to Apo Island reefs.
 title: Dumaguete City

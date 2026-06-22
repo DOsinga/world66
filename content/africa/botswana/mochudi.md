@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mochudi.jpg
 latitude: -24.38286
 loc_type: city
 longitude: 26.14895
-score: 0.3
+score: 6.12
 snippet: Bakgatla village north of Gaborone, centred on Phuthadikobo Hill and Botswana's
   Setswana cultural history
 title: Mochudi

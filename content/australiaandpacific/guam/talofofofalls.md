@@ -4,7 +4,7 @@ done:
 latitude: 13.323803
 loc_type: feature
 longitude: 144.737472
-score: 0.44
+score: 7.72
 snippet: Southern Guam waterfall park where tropical pools share the valley with Shoichi
   Yokoi's wartime cave.
 title: Talofofo Falls

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhaltsike,_view_from_Raba
 latitude: 41.639513
 loc_type: city
 longitude: 42.985923
-score: 0.42
+score: 7.43
 title: Akhaltsikhe
 type: location
 snippet: Southwestern Georgian town below Rabati fortress, layered with Georgian,

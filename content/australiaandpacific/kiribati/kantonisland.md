@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanton_Island_01.jpg
 latitude: -2.8
 loc_type: city
 longitude: -171.7
-score: 0.28
+score: 5.93
 snippet: Remote Phoenix Islands atoll with aviation history and a place inside Kiribati's
   vast marine reserve.
 title: Kanton Island

@@ -10,7 +10,7 @@ loc_type: city
 snippet: Lebanese port city and Phoenician powerhouse, with Roman ruins spread across
   a UNESCO-listed peninsula
 longitude: 35.196402
-score: 0.46
+score: 7.9
 title: Tyre
 type: location
 ---

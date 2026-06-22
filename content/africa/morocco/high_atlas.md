@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crossing_the_High_Atlas_mo
 latitude: 31.06
 loc_type: city
 longitude: -7.9
-score: 0.57
+score: 8.78
 snippet: Morocco’s highest mountain range, stretching from Atlantic slopes to desert
   passes around Jebel Toubkal.
 title: High Atlas

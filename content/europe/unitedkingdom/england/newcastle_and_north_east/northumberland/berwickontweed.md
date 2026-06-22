@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/93398075@N00/6069464418
 latitude: 55.7692
 loc_type: city
 longitude: -2.0026
-score: 0.42
+score: 7.48
 snippet: England’s northernmost town, defined by River Tweed bridges and exceptionally
   complete Elizabethan defensive walls.
 title: Berwick-upon-Tweed

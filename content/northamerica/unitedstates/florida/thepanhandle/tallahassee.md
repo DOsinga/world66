@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Tallahassee_2023.
 latitude: 30.4381
 loc_type: city
 longitude: -84.2807
-score: 0.32
+score: 6.39
 snippet: Florida Panhandle capital shaped by state politics, major universities, and
   a distinctly Southern character.
 title: Tallahassee

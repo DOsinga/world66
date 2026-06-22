@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guisi_coast_(Nueva_Valenci
 latitude: 10.5731
 loc_type: city
 longitude: 122.6239
-score: 0.42
+score: 7.5
 snippet: Western Visayas island province between Panay and Negros, famous for mango
   orchards and quiet beaches
 title: Guimaras

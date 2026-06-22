@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 60.2
 longitude: 7.5
-score: 0.55
+score: 8.69
 snippet: Vast Norwegian mountain plateau and national park, protecting treeless highlands
   and wild reindeer habitat.
 ---

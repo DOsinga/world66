@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gfp-texas-galveston-island
 latitude: 29.2222
 loc_type: feature
 longitude: -94.9089
-score: 0.4
+score: 7.27
 snippet: Texas barrier island with Victorian architecture from its era as the state's
   leading port.
 title: Galveston Island

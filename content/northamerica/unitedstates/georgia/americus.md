@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Municipal_Building_City_of
 latitude: 32.072386
 loc_type: city
 longitude: -84.232688
-score: 0.26
+score: 5.82
 snippet: Southwest Georgia city in peanut country, used as a base for Andersonville
   and Plains.
 title: Americus

@@ -5,7 +5,7 @@ done:
 latitude: 10.2623
 loc_type: city
 longitude: 12.9479
-score: 0.15
+score: 4.3
 snippet: Small Adamawa plateau town near the Mandara Mountains, known for the granite
   formations of the Hong Hills.
 title: Hong

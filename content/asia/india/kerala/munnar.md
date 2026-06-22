@@ -4,7 +4,7 @@ done:
 latitude: 10.086996
 loc_type: city
 longitude: 77.060091
-score: 0.55
+score: 8.65
 snippet: Kerala hill station wrapped in high tea plantations and cool Western Ghats
   cloud.
 sources:

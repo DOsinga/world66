@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Darbar_Garh_Market_Jamnaga
 latitude: 22.473242
 loc_type: city
 longitude: 70.05521
-score: 0.33
+score: 6.44
 snippet: Gulf of Kutch city known for bandhani textiles, nearby Marine National Park,
   and bird sanctuaries.
 title: Jamnagar

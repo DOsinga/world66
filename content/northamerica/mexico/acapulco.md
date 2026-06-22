@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Acapulco3.jpg
 latitude: 16.86805
 loc_type: city
 longitude: -99.894018
-score: 0.35
+score: 6.69
 snippet: Pacific resort city around a deep natural bay, famed for mid-century glamour
   and cliff divers.
 title: Acapulco

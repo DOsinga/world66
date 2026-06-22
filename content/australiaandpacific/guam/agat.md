@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%A5gat,_Guam.jpg
 latitude: 13.381459
 loc_type: city
 longitude: 144.658155
-score: 0.35
+score: 6.7
 snippet: Southwestern Guam village and 1944 landing beach, with War in the Pacific
   sites at Gaan Point.
 title: Agat

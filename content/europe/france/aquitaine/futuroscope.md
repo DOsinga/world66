@@ -4,7 +4,7 @@ done:
 latitude: 46.670389
 loc_type: feature
 longitude: 0.370111
-score: 0.45
+score: 7.74
 snippet: Technology-focused theme park near Poitiers, built around immersive cinema,
   simulators, and crystalline architecture
 title: Futuroscope

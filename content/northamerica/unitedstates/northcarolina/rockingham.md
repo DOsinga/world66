@@ -5,8 +5,9 @@ done:
 latitude: 34.938611
 loc_type: city
 longitude: -79.774444
-score: 0.24
-snippet: "Sandhills county seat in North Carolina, known for Rockingham Speedway and its long NASCAR history."
+score: 5.46
+snippet: Sandhills county seat in North Carolina, known for Rockingham Speedway and
+  its long NASCAR history.
 title: Rockingham
 type: location
 ---

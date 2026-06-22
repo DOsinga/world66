@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/49399018@N00/28037411390
 latitude: -20.15606
 loc_type: city
 longitude: 28.588706
-score: 0.34
+score: 6.56
 snippet: Zimbabwe's second city and Matabeleland capital, with wide colonial streets
   and Ndebele history close by
 title: Bulawayo

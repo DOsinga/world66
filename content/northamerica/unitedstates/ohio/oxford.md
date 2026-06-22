@@ -8,7 +8,7 @@ image_license: Public domain
 latitude: 39.507
 loc_type: city
 longitude: -84.745
-score: 0.28
+score: 5.92
 title: Oxford
 type: location
 snippet: Southwest Ohio college town dominated by Miami University's Georgian Revival

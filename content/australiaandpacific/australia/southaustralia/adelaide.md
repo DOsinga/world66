@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Adelaide_skyline,_December
 latitude: -34.928181
 loc_type: city
 longitude: 138.599931
-score: 0.53
+score: 8.48
 title: Adelaide
 type: location
 snippet: Orderly South Australian capital laid out in a park-ringed grid between hills

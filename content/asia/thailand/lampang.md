@@ -2,8 +2,9 @@
 latitude: 18.2888
 loc_type: city
 longitude: 99.4972
-score: 0.46
-snippet: Northern Thai city on the Wang River, known for teak-era streets and Burmese-influenced temples.
+score: 7.9
+snippet: Northern Thai city on the Wang River, known for teak-era streets and Burmese-influenced
+  temples.
 title: Lampang
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 7.410258
 loc_type: city
 longitude: -7.550372
-score: 0.25
+score: 5.69
 snippet: Western Ivory Coast town backed by lush green hills, waterfalls, sacred forest,
   and mountain villages
 title: Man

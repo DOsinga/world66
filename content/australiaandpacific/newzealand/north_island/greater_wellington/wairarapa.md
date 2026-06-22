@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wairarapa.jpg
 latitude: -41.23618
 loc_type: city
 longitude: 175.21969
-score: 0.45
+score: 7.83
 snippet: Rural Greater Wellington region of wide valleys, vineyards, small towns,
   and Lake Wairarapa.
 title: Wairarapa

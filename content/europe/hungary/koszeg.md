@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fo_ter_in_Koszeg_(1).jpg
 latitude: 47.3895
 loc_type: city
 longitude: 16.5407
-score: 0.45
+score: 7.82
 snippet: Hungarian border town below the Kőszeg Mountains, remembered for resisting
   Suleiman's Ottoman army.
 sources:

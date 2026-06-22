@@ -11,9 +11,10 @@ longitude: 119.45
 sources:
 - https://en.wikivoyage.org/wiki/Hebei
 title: Nandaihe
-snippet: Quiet Bohai beach resort south of Beidaihe, with broad sand and calmer summer-holiday rhythms.
+snippet: Quiet Bohai beach resort south of Beidaihe, with broad sand and calmer summer-holiday
+  rhythms.
 type: location
-score: 0.32
+score: 6.42
 ---
 
 Nandaihe sits on the Bohai coast just south of the better-known Beidaihe resort, and its main appeal is precisely that it is the quieter option. Where Beidaihe has been crowded since the 1890s and carries generations of resort infrastructure and summer-party energy, Nandaihe developed later and more gently. The beach is broad and sandy, the water is calm and shallow enough for children, and the pace is slower than its neighbour to the north.

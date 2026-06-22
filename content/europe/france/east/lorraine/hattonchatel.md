@@ -6,7 +6,7 @@ image: ''
 latitude: 48.994407
 loc_type: city
 longitude: 5.677904
-score: 0.39
+score: 7.13
 snippet: Fortified Lorraine village restored after World War I, overlooking the Woëvre
   plain from a rocky promontory.
 sources:

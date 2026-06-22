@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-06
 latitude: -3.078653
 longitude: 37.419856
-score: 0.62
+score: 9.11
 title: Kilimanjaro
 type: location
 loc_type: feature

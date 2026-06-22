@@ -5,10 +5,10 @@ done:
 latitude: 38.299737
 loc_type: city
 longitude: -111.42047
-score: 0.48
+score: 8.08
 title: Torrey
 type: location
-snippet: "Tiny gateway town at the western entrance to Capitol Reef National Park."
+snippet: Tiny gateway town at the western entrance to Capitol Reef National Park.
 ---
 
 Torrey is a tiny town at the western entrance to [Capitol Reef National Park](/northamerica/unitedstates/utah/torrey/capitol_reef_national_park), one of Utah's least-visited but most rewarding national parks. The setting is spectacular — red rock cliffs rise directly behind the town, and the Waterpocket Fold stretches for a hundred miles to the south.

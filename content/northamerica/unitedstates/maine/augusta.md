@@ -7,7 +7,7 @@ done:
 latitude: 44.3106
 loc_type: city
 longitude: -69.7795
-score: 0.32
+score: 6.31
 snippet: Small Maine capital on the Kennebec River, anchored by Bulfinch's granite
   Capitol and 18th-century Fort Western.
 title: Augusta

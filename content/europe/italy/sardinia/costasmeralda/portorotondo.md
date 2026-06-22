@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Olbia,_frazione_Porto_Roto
 latitude: 41.02831
 loc_type: city
 longitude: 9.547705
-score: 0.52
+score: 8.44
 snippet: Planned Sardinian harbour resort built around a circular bay north of the
   Costa Smeralda.
 title: Porto Rotondo

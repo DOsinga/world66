@@ -5,7 +5,7 @@ latitude: 51.640934
 longitude: -2.676695
 title: Chepstow
 type: location
-score: 0.43
+score: 7.53
 loc_type: city
 snippet: Welsh border town above the Wye gorge, guarded by Britain's oldest surviving
   stone castle.

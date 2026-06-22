@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Canoe_At_The_River_Numbe
 latitude: 8.35
 loc_type: city
 longitude: -13.2167
-score: 0.36
+score: 6.86
 snippet: Forested Atlantic peninsula south of Freetown, known for long beaches backed
   by hills and villages.
 title: Freetown Peninsula

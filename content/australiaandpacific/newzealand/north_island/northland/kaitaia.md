@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_Street_New_Zealand_-_
 latitude: -35.114126
 loc_type: city
 longitude: 173.263996
-score: 0.39
+score: 7.18
 title: Kaitaia
 type: location
 snippet: Far North town at the base of the road to Cape Rēinga and Ninety Mile Beach.

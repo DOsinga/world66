@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ke%27te%27_Kesu%27_1.jpg
 latitude: -2.966619
 loc_type: city
 longitude: 119.875
-score: 0.53
+score: 8.53
 snippet: Sulawesi highland region where Torajan funeral rituals, cliff graves, and
   tongkonan houses define the landscape
 title: Toraja Highland

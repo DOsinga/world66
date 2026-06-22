@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cagliari_-_Castello_distri
 latitude: 39.217199
 loc_type: city
 longitude: 9.113311
-score: 0.59
+score: 8.94
 snippet: Sardinian capital on a broad southern bay, layered with Phoenician, Roman,
   Pisan, and Spanish history.
 sources:

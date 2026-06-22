@@ -5,7 +5,7 @@ done:
 latitude: 47.140208
 loc_type: city
 longitude: 7.243903
-score: 0.39
+score: 7.14
 snippet: Officially bilingual Swiss city on Lake Biel, where Jura foothills meet a
   major watchmaking centre.
 title: Biel-Bienne

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_de_G
 latitude: 41.4418
 loc_type: city
 longitude: -8.2956
-score: 0.56
+score: 8.72
 snippet: Northern Portuguese city regarded as the country's birthplace, with a UNESCO-listed
   medieval centre.
 title: Guimarães

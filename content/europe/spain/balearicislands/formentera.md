@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap_de_Barbaria,_Formenter
 latitude: 38.7062
 loc_type: city
 longitude: 1.4334
-score: 0.6
+score: 9.0
 snippet: Quiet Balearic island south of Ibiza, defined by white beaches, bicycles,
   and low-key villages.
 title: Formentera

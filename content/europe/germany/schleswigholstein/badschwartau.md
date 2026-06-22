@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bad-Schwartau_Brunnen_Im-S
 latitude: 53.919643
 loc_type: city
 longitude: 10.697869
-score: 0.3
+score: 6.15
 snippet: Small spa town north of Lübeck, known for iodine-saline springs and Schwartau
   jam production.
 title: Bad Schwartau

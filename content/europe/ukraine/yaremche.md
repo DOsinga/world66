@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yamna,_Yaremche,_Ivano-Fra
 latitude: 48.450413
 loc_type: city
 longitude: 24.550955
-score: 0.43
+score: 7.61
 snippet: Ukrainian Carpathian mountain town with Hutsul culture, Prut River gorge,
   and national-park trails
 title: Yaremche

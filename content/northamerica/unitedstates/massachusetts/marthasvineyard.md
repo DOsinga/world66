@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marthasvineyard-Aquinnah-c
 latitude: 41.392046
 loc_type: city
 longitude: -70.620814
-score: 0.56
+score: 8.73
 title: Martha's Vineyard
 type: location
 snippet: New England island off Cape Cod, long shaped by summer residents and ferry-bound

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Little_Cayman_Island_ISS.j
 latitude: 19.6833
 loc_type: island
 longitude: -80.05
-score: 0.58
+score: 8.84
 snippet: Smallest of the Cayman Islands, noted for quiet beaches and the Bloody Bay
   Wall dive site.
 sources:

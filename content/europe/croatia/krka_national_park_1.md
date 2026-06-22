@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Krka_Nationalpark_BW_2024-
 latitude: 43.918919
 loc_type: feature
 longitude: 15.978529
-score: 0.68
+score: 9.41
 snippet: Croatian national park along the Krka River, known for travertine waterfalls
   such as Skradinski Buk.
 title: Krka National Park

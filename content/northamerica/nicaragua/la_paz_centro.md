@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/15001405@N06/8353247721
 latitude: 12.3388
 loc_type: city
 longitude: -86.6753
-score: 0.27
+score: 5.84
 snippet: Small Nicaraguan town known for pottery workshops, quesillo vendors, and
   nearby volcanic landscapes.
 title: La Paz Centro

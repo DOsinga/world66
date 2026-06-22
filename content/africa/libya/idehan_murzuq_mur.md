@@ -4,7 +4,7 @@ done:
 latitude: 25.8167
 loc_type: feature
 longitude: 12.3833
-score: 0.23
+score: 5.34
 snippet: Saharan rock art site with sandstone petroglyphs depicting ancient wildlife
   and pastoral scenes.
 title: Wadi Matkhandoush

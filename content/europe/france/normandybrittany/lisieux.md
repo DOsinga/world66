@@ -11,7 +11,7 @@ loc_type: city
 snippet: Normandy pilgrimage city devoted to Saint Thérèse, with a vast basilica above
   the town
 longitude: 0.225517
-score: 0.44
+score: 7.66
 title: Lisieux
 type: location
 ---

@@ -9,11 +9,12 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_01.jpg
 latitude: 41.033229
 longitude: 29.02646
-score: 0.71
+score: 9.48
 title: The Bosphorus
 type: location
 loc_type: feature
-snippet: Istanbul strait dividing Europe and Asia, lined with Ottoman villas, palaces, ferries, and fortresses.
+snippet: Istanbul strait dividing Europe and Asia, lined with Ottoman villas, palaces,
+  ferries, and fortresses.
 ---
 
 The Bosphorus is the strait that separates Europe from Asia, and a trip along its shores is one of the essential Istanbul experiences. Both sides of the channel are lined with old Ottoman wooden villas, 19th-century palaces, and waterside restaurants where you can watch tankers and ferries glide past.

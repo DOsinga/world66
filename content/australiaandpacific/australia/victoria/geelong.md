@@ -5,7 +5,7 @@ done:
 latitude: -38.1493
 loc_type: city
 longitude: 144.3598
-score: 0.39
+score: 7.18
 snippet: Victoria's second-largest city, set on Port Phillip Bay with a revitalised
   waterfront and painted bollards.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%E1%BB%9D_bi%E1%BB%83n_V%
 latitude: 10.3479
 loc_type: city
 longitude: 107.0745
-score: 0.46
+score: 7.92
 title: Vung Tau
 type: location
 snippet: Vietnamese beach city on a South China Sea peninsula, mixing Saigon weekenders

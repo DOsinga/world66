@@ -7,7 +7,7 @@ done:
 latitude: 32.788436
 loc_type: city
 longitude: -79.939931
-score: 0.59
+score: 8.97
 snippet: Historic South Carolina port city of pastel townhouses, cobbled streets,
   and plantations shaped by slavery
 title: Charleston

@@ -7,7 +7,7 @@ done:
 latitude: 35.5284
 loc_type: city
 longitude: -108.7439
-score: 0.35
+score: 6.66
 snippet: Route 66 town in western New Mexico, known for Native American jewelry, trading
   posts, and ceremonial gatherings.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France_Cotes_d_Armor_Pontr
 latitude: 48.6972
 loc_type: city
 longitude: -3.163
-score: 0.42
+score: 7.52
 snippet: Breton river town on the tidal Trieux, known for restored lavoirs and half-timbered
   houses
 title: Pontrieux

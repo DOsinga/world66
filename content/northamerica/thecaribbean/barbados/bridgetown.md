@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridgetown_barbados_chambe
 latitude: 13.0969
 loc_type: city
 longitude: -59.6145
-score: 0.6
+score: 9.03
 snippet: Barbadian capital and compact Caribbean port city with a UNESCO-listed historic
   centre around the Careenage.
 sources:

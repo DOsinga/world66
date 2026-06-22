@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Penrhyn_Aerial_EFS_1280.jp
 latitude: -9.001434
 loc_type: city
 longitude: -157.968492
-score: 0.37
+score: 6.89
 snippet: Remote northern Cook Islands atoll with a vast lagoon, deepwater harbour,
   and fine pandanus weaving tradition.
 title: Penrhyn

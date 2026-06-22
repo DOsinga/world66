@@ -5,7 +5,7 @@ done:
 latitude: 47.650028
 loc_type: city
 longitude: 9.480086
-score: 0.41
+score: 7.41
 snippet: Lake Constance city and Zeppelin birthplace, with airship history on the
   promenade below Alpine views
 sources:

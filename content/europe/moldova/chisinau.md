@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arcul_de_Triumf_din_Chi%C8
 latitude: 47.024512
 loc_type: city
 longitude: 28.832292
-score: 0.34
+score: 6.58
 snippet: Moldovan capital with Soviet-era boulevards, chestnut trees, markets, and
   nearby wine-cellar day trips.
 title: Chisinau

@@ -3,9 +3,10 @@ done:
   location_cleanup: '2026-04-15'
 latitude: -30.296241
 longitude: 153.113529
-score: 0.41
+score: 7.38
 title: Coffs Harbour
-snippet: Mid-north coast city between Sydney and Brisbane, backed by bananas and the Solitary Islands Marine Park.
+snippet: Mid-north coast city between Sydney and Brisbane, backed by bananas and the
+  Solitary Islands Marine Park.
 type: location
 image: coffsharbour.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coffs_Harbour_IMG_4379_-_panoramio.jpg

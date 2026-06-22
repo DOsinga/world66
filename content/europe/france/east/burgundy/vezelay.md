@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:V%C3%A9zelay_-_Basilique_S
 latitude: 47.465731
 loc_type: city
 longitude: 3.746285
-score: 0.55
+score: 8.63
 snippet: Burgundy hilltop village crowned by Vézelay's Romanesque basilica on the
   old pilgrimage road
 title: Vézelay

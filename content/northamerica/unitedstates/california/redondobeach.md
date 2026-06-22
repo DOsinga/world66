@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:RedondoBeachKingHarborSign
 latitude: 33.8398
 loc_type: city
 longitude: -118.3846
-score: 0.38
+score: 6.99
 snippet: Southern California beach city built around King Harbor, its pier, and a
   broad Santa Monica Bay shoreline
 title: Redondo Beach

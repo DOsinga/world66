@@ -5,7 +5,7 @@ done:
 latitude: 52.952181
 loc_type: feature
 longitude: -8.303211
-score: 0.42
+score: 7.45
 snippet: Broad River Shannon lake bordered by Clare, Tipperary, and Galway villages
   and wooded hillsides.
 sources:

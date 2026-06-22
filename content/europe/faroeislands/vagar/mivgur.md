@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_V%C3%A1gar,
 latitude: 62.047955
 loc_type: city
 longitude: -7.192204
-score: 0.45
+score: 7.8
 snippet: Vágar island village on Sørvágsfjørður, used as a quieter base for nearby
   dramatic scenery.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Devi_Talab_Mandir.jpg
 latitude: 31.2922
 loc_type: city
 longitude: 75.5679
-score: 0.28
+score: 5.97
 snippet: Old Punjab city between Delhi and Amritsar, known for sports manufacturing,
   bazaars, temples, and gurudwaras.
 title: Jalandhar

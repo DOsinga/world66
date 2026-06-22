@@ -4,7 +4,7 @@ done:
 latitude: 48.263444
 loc_type: feature
 longitude: 8.164749
-score: 0.57
+score: 8.82
 snippet: Southwestern German forest region of spa towns, mountain villages, and scenic
   railways around Freiburg.
 title: Black Forest

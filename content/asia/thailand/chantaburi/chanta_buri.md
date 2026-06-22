@@ -5,7 +5,7 @@ done:
 latitude: 12.6112
 loc_type: city
 longitude: 102.1034
-score: 0.39
+score: 7.09
 title: Chantaburi
 type: location
 snippet: Eastern Thai riverside city known for gemstones, fruit orchards, and a French-influenced

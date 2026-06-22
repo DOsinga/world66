@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Sri_Rangam_
 latitude: 10.857331
 loc_type: city
 longitude: 78.693085
-score: 0.47
+score: 7.94
 snippet: Cauvery river island dominated by Sri Ranganathaswamy Temple, a major Vaishnava
   shrine in South India.
 title: Srirangam

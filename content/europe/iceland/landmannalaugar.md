@@ -4,7 +4,7 @@ done:
 latitude: 63.990511
 loc_type: feature
 longitude: -19.060491
-score: 0.62
+score: 9.09
 snippet: Icelandic highland area of rhyolite mountains, obsidian lava fields, hot
   springs, and the Laugavegur trailhead.
 title: Landmannalaugar

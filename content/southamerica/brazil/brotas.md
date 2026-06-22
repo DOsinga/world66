@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brotas-SP_-_panoramio.jpg
 latitude: -22.2841
 loc_type: city
 longitude: -48.1267
-score: 0.39
+score: 7.09
 snippet: São Paulo interior town on the Jacaré-Pepira river, Brazil's rafting and
   canyoning adventure base.
 title: Brotas

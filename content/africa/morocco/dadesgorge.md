@@ -4,7 +4,7 @@ done:
 latitude: 31.5106
 loc_type: feature
 longitude: -5.9583
-score: 0.55
+score: 8.65
 snippet: High Atlas gorge where red cliffs, green riverbed fields, and hairpin roads
   cut through the Dades valley.
 title: Dades Gorge

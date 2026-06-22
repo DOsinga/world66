@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Winter_Park_Ski_Resort_-_C
 latitude: 39.8917
 loc_type: city
 longitude: -105.7631
-score: 0.47
+score: 7.98
 snippet: Rocky Mountain ski town linked to Denver by the Winter Park Express and Mary
   Jane's mogul terrain.
 title: Winter Park

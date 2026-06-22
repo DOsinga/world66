@@ -4,9 +4,10 @@ done:
 latitude: 17.5
 longitude: -87.6
 title: Belize Barrier Reef
-snippet: "Caribbean barrier reef system stretching along Belize, with cayes, marine reserves, and rich diving sites."
+snippet: Caribbean barrier reef system stretching along Belize, with cayes, marine
+  reserves, and rich diving sites.
 type: location
-score: 0.66
+score: 9.37
 loc_type: feature
 ---
 

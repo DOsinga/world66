@@ -5,7 +5,7 @@ latitude: 43.1303
 longitude: 19.0144
 title: Durmitor National Park
 type: location
-score: 0.58
+score: 8.85
 loc_type: feature
 snippet: Montenegrin mountain national park of limestone peaks, glacial lakes, and
   the deep Tara Canyon.

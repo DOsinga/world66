@@ -6,7 +6,7 @@ latitude: 54.4605
 longitude: -110.1929
 title: Cold Lake
 type: location
-score: 0.27
+score: 5.9
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Cold_Lake,_Alberta

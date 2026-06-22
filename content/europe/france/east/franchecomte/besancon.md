@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Beaux_Arts.
 latitude: 47.236
 loc_type: city
 longitude: 6.0264
-score: 0.49
+score: 8.1
 snippet: Franche-Comté city tucked into a Doubs River loop beneath Vauban's hilltop
   citadel.
 sources:

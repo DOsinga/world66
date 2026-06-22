@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sim%C3%B3n_08_053.JPG
 latitude: 42.284221
 loc_type: city
 longitude: -8.608599
-score: 0.4
-snippet: "Galician ría town on the Camino Portugués, known for railway viaducts and cuttlefish."
+score: 7.31
+snippet: Galician ría town on the Camino Portugués, known for railway viaducts and
+  cuttlefish.
 title: Redondela
 type: location
 ---

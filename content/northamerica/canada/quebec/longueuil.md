@@ -5,7 +5,7 @@ done:
 latitude: 45.521906
 loc_type: city
 longitude: -73.464458
-score: 0.32
+score: 6.33
 snippet: South-shore Montréal city with Vieux-Longueuil restaurants, skyline views,
   and metro access to downtown.
 title: Longueuil

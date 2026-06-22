@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:March%C3%A9_Papeete2.jpg
 latitude: -17.537384
 loc_type: city
 longitude: -149.565996
-score: 0.58
+score: 8.92
 title: Papeete
-snippet: "French Polynesian capital on Tahiti's northwest coast, serving as the territory's main transit hub."
+snippet: French Polynesian capital on Tahiti's northwest coast, serving as the territory's
+  main transit hub.
 type: location
 ---
 

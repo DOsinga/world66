@@ -4,7 +4,7 @@ done:
 latitude: -7.9425
 loc_type: feature
 longitude: 112.953
-score: 0.56
+score: 8.74
 snippet: Volcanic East Java highland where Bromo, Batok, and Semeru rise from the
   Tengger Sand Sea.
 title: Tengger Massif

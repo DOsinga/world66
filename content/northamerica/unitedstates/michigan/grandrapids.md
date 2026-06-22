@@ -4,8 +4,9 @@ type: location
 loc_type: city
 latitude: 42.9634
 longitude: -85.6681
-score: 0.38
-snippet: "Western Michigan's Grand River city, historically Furniture City and now known for ArtPrize and breweries."
+score: 7.04
+snippet: Western Michigan's Grand River city, historically Furniture City and now
+  known for ArtPrize and breweries.
 ---
 
 Grand Rapids is Michigan's second-largest city, sitting on the Grand River in the western part of the state. It earned the nickname "Furniture City" in the late 19th century when it was the center of American furniture manufacturing, and that heritage is visible in its well-preserved Victorian architecture and the ArtPrize competition it hosts each autumn — one of the largest art events in the world by attendance and prize money.

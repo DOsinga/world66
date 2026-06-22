@@ -4,7 +4,7 @@ done:
 latitude: -0.3667
 loc_type: feature
 longitude: 36.0833
-score: 0.57
+score: 8.82
 snippet: Compact Rift Valley national park around a soda lake, known for flamingos
   and fenced rhino sanctuary.
 title: Lake Nakuru National Park

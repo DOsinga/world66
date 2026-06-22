@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:North_end_of_South_San_Fra
 latitude: 37.6538
 loc_type: city
 longitude: -122.4169
-score: 0.24
+score: 5.53
 snippet: Bay Area industrial city south of San Francisco, marked by its hillside sign
   and biotech history.
 sources:

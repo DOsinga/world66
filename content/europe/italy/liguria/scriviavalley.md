@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferrovia_Genova-Casella.jp
 latitude: 44.55
 loc_type: city
 longitude: 8.97
-score: 0.39
+score: 7.13
 snippet: Inland Ligurian valley of chestnut woods, small towns, and old routes toward
   the Giovi pass.
 sources:

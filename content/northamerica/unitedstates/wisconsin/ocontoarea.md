@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oconto_County_Lumbering.jp
 latitude: 44.905963
 loc_type: city
 longitude: -87.84602
-score: 0.27
+score: 5.91
 snippet: Northeastern Wisconsin county of Green Bay shoreline, Nicolet forest, public
   lakes, and trout streams.
 title: Oconto Area

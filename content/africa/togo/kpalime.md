@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kpalime_mountain_range.jpg
 latitude: 6.9107
 loc_type: city
 longitude: 0.6324
-score: 0.32
+score: 6.31
 snippet: Western Togolese hill town surrounded by coffee country, waterfalls, forest
   walks, and artisan workshops
 title: Kpalimé

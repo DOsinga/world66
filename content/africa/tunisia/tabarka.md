@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ile_de_tabarka_1.jpg
 lat: 36.9546
 loc_type: city
 long: 8.7574
-score: 0.42
+score: 7.5
 sources:
 - https://en.wikipedia.org/wiki/Tabarka
 - https://en.wikipedia.org/wiki/Tabarka_Rocks

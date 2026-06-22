@@ -5,9 +5,10 @@ done:
 latitude: 36.750927
 loc_type: city
 longitude: -95.977178
-score: 0.3
+score: 6.17
 title: Bartlesville
-snippet: Northeast Oklahoma oil city where Phillips Petroleum wealth left Frank Lloyd Wright's only completed skyscraper
+snippet: Northeast Oklahoma oil city where Phillips Petroleum wealth left Frank Lloyd
+  Wright's only completed skyscraper
 type: location
 image: bartlesville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Bartlesville,_OK.jpg

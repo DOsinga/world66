@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gjilani_pas_dite.jpg
 latitude: 42.4633
 loc_type: city
 longitude: 21.4694
-score: 0.25
+score: 5.63
 snippet: Eastern Kosovo city in the Morava e Binçës valley, with cafés, shops, and
   a covered bazaar.
 title: Gjilan

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palacio_Vergara,_Vi%C3%B1a
 latitude: -33.024453
 loc_type: city
 longitude: -71.551764
-score: 0.5
+score: 8.24
 title: Viña del Mar
 type: location
 snippet: Chilean beach resort beside Valparaíso, known for parks, cold Pacific water,

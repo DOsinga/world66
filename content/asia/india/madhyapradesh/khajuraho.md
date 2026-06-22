@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Khajuraho.jpg
 latitude: 24.851513
 loc_type: city
 longitude: 79.925979
-score: 0.53
+score: 8.55
 snippet: Madhya Pradesh temple town famed for Chandela-era sandstone shrines covered
   in intricate sculpture.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 3.8667
 loc_type: city
 longitude: 17.9833
-score: 0.14
+score: 3.38
 snippet: Lobaye Prefecture town in coffee country, near equatorial forest and Aka
   communities southwest of Bangui
 title: M'Baïki

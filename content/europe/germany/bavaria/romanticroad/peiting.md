@@ -5,7 +5,7 @@ done:
 latitude: 47.795986
 loc_type: city
 longitude: 10.922873
-score: 0.4
+score: 7.23
 snippet: Upper Bavarian town in the Pfaffenwinkel, surrounded by baroque churches
   and Alpine viewpoints.
 title: Peiting

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(1
 latitude: 32.0392
 loc_type: city
 longitude: 35.727
-score: 0.38
+score: 7.03
 snippet: Hill town west of Amman, known for Ottoman limestone houses, steep streets,
   and a working souq.
 title: Salt

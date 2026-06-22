@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erdene_Zuu_Monastery_05.jp
 latitude: 47.203657
 loc_type: city
 longitude: 102.843645
-score: 0.47
+score: 7.97
 snippet: Former Mongol Empire capital site, now known for the walled Erdene Zuu Monastery.
 title: Karakorum
 type: location

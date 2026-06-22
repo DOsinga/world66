@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Exeter_Cathedral,_Devon_21
 latitude: 50.725614
 loc_type: city
 longitude: -3.526921
-score: 0.47
+score: 7.94
 snippet: Ancient Devon city whose Gothic cathedral anchors a lively university town
   on the Exe
 sources:

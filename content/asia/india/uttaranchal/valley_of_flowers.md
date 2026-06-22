@@ -4,7 +4,7 @@ done:
 latitude: 30.70568
 loc_type: feature
 longitude: 79.595855
-score: 0.57
+score: 8.77
 snippet: Himalayan alpine valley and UNESCO site, carpeted with hundreds of wildflower
   species in monsoon season.
 title: Valley of Flowers

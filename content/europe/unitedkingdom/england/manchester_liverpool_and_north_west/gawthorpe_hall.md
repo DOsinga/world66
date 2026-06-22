@@ -2,7 +2,7 @@
 latitude: 53.802752
 loc_type: feature
 longitude: -2.294802
-score: 0.38
+score: 7.02
 snippet: Elizabethan Lancashire hall near Burnley, distinguished by the Kaye-Shuttleworth
   textile and needlework collections.
 title: Gawthorpe Hall

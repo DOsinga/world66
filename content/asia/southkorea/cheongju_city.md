@@ -7,7 +7,7 @@ done:
 latitude: 36.642117
 loc_type: city
 longitude: 127.489174
-score: 0.37
+score: 6.95
 snippet: Central Korean provincial capital known as the birthplace of Jikji, the oldest
   surviving metal-type book.
 sources:

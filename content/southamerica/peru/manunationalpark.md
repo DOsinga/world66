@@ -2,7 +2,7 @@
 latitude: -12.0
 loc_type: feature
 longitude: -71.5
-score: 0.56
+score: 8.73
 snippet: Peruvian Amazon reserve spanning cloud forest to lowland rainforest, with
   exceptional bird and mammal diversity.
 title: Manu National Park

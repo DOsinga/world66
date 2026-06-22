@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DewellaApartments01_(cropp
 latitude: 33.8708
 loc_type: city
 longitude: -117.9294
-score: 0.28
+score: 5.97
 snippet: Orange County college city with a historic downtown, music scene, and Cal
   State campus.
 title: Fullerton

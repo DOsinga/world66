@@ -5,7 +5,7 @@ done:
 latitude: -16.9186
 loc_type: city
 longitude: 145.7781
-score: 0.63
+score: 9.16
 snippet: Tropical Queensland gateway to the Great Barrier Reef and Daintree, with
   an easy backpacker rhythm.
 title: Cairns

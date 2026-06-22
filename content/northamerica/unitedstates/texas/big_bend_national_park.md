@@ -4,8 +4,9 @@ done:
 latitude: 29.3332
 loc_type: feature
 longitude: -103.1942
-score: 0.57
-snippet: Remote Texas national park where desert canyons, Rio Grande bends, and Chisos peaks meet.
+score: 8.81
+snippet: Remote Texas national park where desert canyons, Rio Grande bends, and Chisos
+  peaks meet.
 title: Big Bend National Park
 type: location
 ---

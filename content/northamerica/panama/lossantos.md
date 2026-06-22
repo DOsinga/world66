@@ -5,7 +5,7 @@ done:
 latitude: 7.9573
 loc_type: city
 longitude: -80.4159
-score: 0.33
+score: 6.51
 snippet: Azuero Peninsula province where Panamanian folk dress, Carnival traditions,
   and cattle country run deep
 title: Los Santos

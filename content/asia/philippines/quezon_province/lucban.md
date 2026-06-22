@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pahiyas_Festival_Lucban,_Q
 latitude: 14.114401
 loc_type: city
 longitude: 121.55486
-score: 0.39
+score: 7.1
 snippet: Quezon foothill town known for the Pahiyas Festival's colourful kiping decorations
   and Mount Banahaw setting
 title: Lucban

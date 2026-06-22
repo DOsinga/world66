@@ -2,7 +2,7 @@
 latitude: 41.5928
 loc_type: feature
 longitude: 1.8353
-score: 0.59
+score: 8.97
 snippet: Catalan mountain massif and Benedictine monastery, famous for serrated peaks
   and the Black Madonna.
 title: Montserrat

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%2BAyrivank_47.jpg
 latitude: 40.156623
 loc_type: city
 longitude: 44.799262
-score: 0.51
+score: 8.32
 snippet: Armenian monastery complex carved into the Azat River Gorge, named for the
   Holy Lance.
 title: Geghard

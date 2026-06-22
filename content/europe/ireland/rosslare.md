@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rosslare_Europort_-_aerial
 latitude: 52.2736
 loc_type: city
 longitude: -6.3869
-score: 0.35
+score: 6.72
 snippet: County Wexford ferry town with a long sandy strand and sea links to Wales
   and France.
 title: Rosslare

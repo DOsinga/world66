@@ -6,7 +6,7 @@ done:
 latitude: -4.7769
 loc_type: city
 longitude: 11.8635
-score: 0.27
+score: 5.85
 snippet: Congo-Brazzaville's main port city and oil hub, set on the country's Atlantic
   coast.
 title: Pointe-Noire

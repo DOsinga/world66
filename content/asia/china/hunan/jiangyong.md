@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_photo_of_Jiangyo
 latitude: 25.2669
 loc_type: city
 longitude: 111.3476
-score: 0.36
+score: 6.82
 snippet: Southern Hunan county known as the birthplace of Nüshu, the women's script
   of Jiangyong villages.
 sources:

@@ -5,10 +5,11 @@ done:
 latitude: -28.2925
 loc_type: city
 longitude: -49.9353
-score: 0.35
+score: 6.73
 title: São Joaquim
 type: location
-snippet: Highland Santa Catarina town known for cold weather, snow, Araucaria forests, and apple orchards.
+snippet: Highland Santa Catarina town known for cold weather, snow, Araucaria forests,
+  and apple orchards.
 ---
 
 São Joaquim sits at around 1,360 metres in the Serra Catarinense highlands of Santa Catarina state, making it one of the coldest towns in Brazil. Snow falls here most winters — a genuine novelty in a country more associated with beaches and heat — and when it does, Brazilians from across the south drive up to see it.

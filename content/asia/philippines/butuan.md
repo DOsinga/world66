@@ -5,8 +5,9 @@ done:
 latitude: 8.9475
 loc_type: city
 longitude: 125.5432
-score: 0.35
-snippet: Mindanao river city on Butuan Bay, known for ancient Balangay boats and precolonial trade finds.
+score: 6.72
+snippet: Mindanao river city on Butuan Bay, known for ancient Balangay boats and precolonial
+  trade finds.
 title: Butuan
 type: location
 ---

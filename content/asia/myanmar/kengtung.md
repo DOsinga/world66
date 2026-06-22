@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyaing_Tong_Market_Aerial_
 latitude: 21.291804
 loc_type: city
 longitude: 99.602865
-score: 0.37
+score: 6.95
 title: Kengtung
 type: location
 snippet: Highland Shan town in an isolated valley, culturally closer to the Thai borderlands

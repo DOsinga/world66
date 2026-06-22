@@ -5,7 +5,7 @@ done:
 latitude: 57.802439
 loc_type: city
 longitude: 23.243165
-score: 0.37
+score: 6.92
 title: Ruhnu Island
 type: location
 snippet: Remote Estonian island in the Gulf of Riga, home to wooden churches and a

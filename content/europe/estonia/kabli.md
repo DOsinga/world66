@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%A4%C3%A4demeeste_vald
 latitude: 58.002466
 loc_type: city
 longitude: 24.446867
-score: 0.26
+score: 5.73
 snippet: Quiet Pärnu Bay village with a long sandy beach and major Baltic bird migration
   views.
 title: Kabli

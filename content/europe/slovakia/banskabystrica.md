@@ -5,7 +5,7 @@ done:
 latitude: 48.738389
 loc_type: city
 longitude: 19.15858
-score: 0.42
+score: 7.47
 snippet: Central Slovak mining town with pastel squares, copper wealth, and Slovak
   National Uprising memory.
 title: Banská Bystrica

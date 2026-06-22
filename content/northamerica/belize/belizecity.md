@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belize_City_Montage.jpeg
 latitude: 17.251
 loc_type: city
 longitude: -88.7671
-score: 0.41
+score: 7.31
 snippet: Belize's largest city and main transport hub, where the Belize River meets
   the Caribbean Sea.
 title: Belize City

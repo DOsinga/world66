@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Utila,_Honduras_-_panorami
 latitude: 16.1013
 loc_type: city
 longitude: -86.9069
-score: 0.48
+score: 8.02
 snippet: Small Bay Islands dive base on the Mesoamerican Barrier Reef, known for affordable
   scuba courses.
 title: Utila

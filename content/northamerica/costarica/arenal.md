@@ -4,7 +4,7 @@ done:
 latitude: 10.4626
 loc_type: feature
 longitude: -84.7033
-score: 0.61
+score: 9.09
 snippet: Volcanic Costa Rican region around Arenal’s cone, with rainforest trails,
   lava fields, and natural hot springs.
 title: Arenal

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabul_Afghanistan,_place_w
 latitude: 34.52695
 loc_type: city
 longitude: 69.185058
-score: 0.11
+score: 2.21
 title: Kabul
-snippet: High-valley Afghan capital ringed by the Hindu Kush and marked by repeated destruction and rebuilding.
+snippet: High-valley Afghan capital ringed by the Hindu Kush and marked by repeated
+  destruction and rebuilding.
 type: location
 ---
 

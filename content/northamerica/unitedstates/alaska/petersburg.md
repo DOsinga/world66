@@ -5,7 +5,7 @@ done:
 latitude: 56.8125
 loc_type: city
 longitude: -132.9553
-score: 0.42
+score: 7.43
 title: Petersburg
 type: location
 snippet: Inside Passage fishing town on Mitkof Island, known as Alaska's Little Norway.

@@ -5,7 +5,7 @@ done:
 latitude: 29.333333
 loc_type: city
 longitude: -110.666667
-score: 0.34
+score: 6.64
 title: Sonora
 type: location
 snippet: Northwestern Mexican frontier state of Sonoran Desert, Sierra Madre foothills,

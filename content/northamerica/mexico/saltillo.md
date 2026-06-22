@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Saltillo_y_Pla
 latitude: 25.423043
 loc_type: city
 longitude: -100.992751
-score: 0.35
+score: 6.71
 snippet: High-desert Coahuila capital where colonial plazas, sarape weaving, and dinosaur
   fossils meet industry.
 title: Saltillo

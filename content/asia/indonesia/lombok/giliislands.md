@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_on_the_island,_Tropi
 latitude: -8.35
 loc_type: feature
 longitude: 116.06
-score: 0.6
+score: 9.03
 snippet: Three coral-fringed Lombok islands known for beaches, diving, and a complete
   absence of motorised vehicles.
 sources:

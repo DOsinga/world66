@@ -1,10 +1,11 @@
 ---
 title: Sossusvlei
-snippet: Namib Desert clay pan framed by towering red dunes near Sesriem and the Tsauchab River's dry end.
+snippet: Namib Desert clay pan framed by towering red dunes near Sesriem and the Tsauchab
+  River's dry end.
 type: location
 latitude: -24.739534
 longitude: 15.29236
-score: 0.6
+score: 9.01
 loc_type: feature
 ---
 

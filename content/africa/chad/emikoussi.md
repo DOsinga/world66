@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Emi_Koussi_Volcano,_Chad_F
 latitude: 19.7975
 loc_type: feature
 longitude: 18.5486
-score: 0.26
+score: 5.7
 snippet: Massive shield volcano in Chad's Tibesti Mountains, the highest point in
   the Sahara.
 title: Emi Koussi

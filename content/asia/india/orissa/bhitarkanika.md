@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bhitarkanika_National_Park
 latitude: 20.75
 loc_type: feature
 longitude: 87.0
-score: 0.41
+score: 7.38
 snippet: Eastern Indian mangrove park of creeks, mudflats, crocodiles, and quiet boat
   routes behind the Bay of Bengal
 sources:

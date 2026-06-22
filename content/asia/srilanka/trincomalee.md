@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_of_Trincomalee.jpg
 latitude: 8.576425
 loc_type: city
 longitude: 81.234495
-score: 0.5
+score: 8.2
 title: Trincomalee
-snippet: "Tamil northeast coast city on a deep natural harbour long coveted by Sri Lanka's naval powers."
+snippet: Tamil northeast coast city on a deep natural harbour long coveted by Sri
+  Lanka's naval powers.
 type: location
 ---
 

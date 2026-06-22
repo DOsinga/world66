@@ -7,7 +7,7 @@ loc_type: city
 snippet: Guinean highland town in the Fouta Djallon, a cool base for waterfalls and
   guided hikes
 longitude: -9.192616
-score: 0.28
+score: 5.95
 sources:
 - https://en.wikivoyage.org/wiki/Dalaba
 title: Dalaba

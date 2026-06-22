@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:EVENING_FALLS_IN_PORTOFINO
 latitude: 44.303665
 loc_type: city
 longitude: 9.209345
-score: 0.65
+score: 9.32
 snippet: Tiny Ligurian fishing village beneath Monte di Portofino, famous for its
   colourful harbour and Piazzetta.
 title: Portofino

@@ -4,7 +4,7 @@ done:
 latitude: 21.1243
 loc_type: feature
 longitude: 70.7932
-score: 0.49
+score: 8.16
 snippet: Gujarat forest park and last wild stronghold of the Asiatic lion in India
 title: Gir National Park
 type: location

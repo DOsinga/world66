@@ -5,7 +5,7 @@ done:
 latitude: 23.581665
 loc_type: city
 longitude: 72.140412
-score: 0.41
+score: 7.4
 title: Modhera
 type: location
 snippet: Gujarat village famed for its 11th-century Sun Temple and carved Surya Kund

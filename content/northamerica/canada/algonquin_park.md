@@ -4,7 +4,7 @@ done:
 latitude: 45.657136
 loc_type: feature
 longitude: -78.499539
-score: 0.52
+score: 8.43
 snippet: Vast Ontario provincial park of forest, lakes, and roadless canoe country
   north of Toronto.
 title: “Algonquin Park”

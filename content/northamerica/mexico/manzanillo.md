@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_Las_Hadas.JPG
 latitude: 19.0506
 loc_type: city
 longitude: -104.316
-score: 0.44
+score: 7.71
 snippet: Colima port city and Pacific resort spread around Manzanillo and Santiago
   bays.
 title: Manzanillo

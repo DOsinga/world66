@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Night_View_of_Baicheng
 latitude: 45.6148
 loc_type: city
 longitude: 122.832
-score: 0.24
+score: 5.51
 snippet: Northwestern Jilin city on the Mongolian steppe edge, near grassland and
   wetland nature reserves.
 sources:

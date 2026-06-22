@@ -5,7 +5,7 @@ done:
 latitude: 18.467479
 loc_type: city
 longitude: 78.8699
-score: 0.27
+score: 5.83
 snippet: Telangana pilgrimage town centred on Sri Raja Rajeshwara Swamy Temple and
   its shared devotional traditions.
 title: Vemulawada

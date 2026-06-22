@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_side_of_Veerabhadra_
 latitude: 13.8032
 loc_type: city
 longitude: 77.6097
-score: 0.41
+score: 7.34
 title: Lepakshi
 type: location
 snippet: Andhra Pradesh village known for its 16th-century Veerabhadra Temple and

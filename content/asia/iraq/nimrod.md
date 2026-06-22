@@ -4,7 +4,7 @@ done:
 latitude: 36.099206
 loc_type: feature
 longitude: 43.328611
-score: 0.17
+score: 4.42
 snippet: Ancient Assyrian capital near Mosul, known as Kalhu and excavated for palaces
   and reliefs.
 title: Nimrud

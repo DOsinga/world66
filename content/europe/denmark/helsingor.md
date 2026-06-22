@@ -5,7 +5,7 @@ done:
 latitude: 56.0349
 loc_type: city
 longitude: 12.613
-score: 0.55
+score: 8.7
 snippet: Danish Sound city guarded by Kronborg Castle, Shakespeare's Elsinore beside
   the Sweden ferry.
 title: Helsingør

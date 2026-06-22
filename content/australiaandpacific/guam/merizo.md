@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malesso,_Guam.jpg
 latitude: 13.268297
 loc_type: city
 longitude: 144.672611
-score: 0.39
+score: 7.15
 snippet: Southern Guam village with Chamorro traditions, Spanish colonial traces,
   and a reef-protected lagoon facing Cocos Island
 title: Merizo

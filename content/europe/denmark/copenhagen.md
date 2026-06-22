@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from
 latitude: 55.6761
 loc_type: city
 longitude: 12.5683
-score: 0.71
+score: 9.47
 title: Copenhagen
-snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods, and bold modern architecture.
+snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
+  and bold modern architecture.
 type: location
 ---
 

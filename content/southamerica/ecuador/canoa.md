@@ -5,7 +5,7 @@ done:
 latitude: -0.46255
 loc_type: city
 longitude: -80.455838
-score: 0.39
+score: 7.11
 title: Canoa
 type: location
 snippet: Easy-going Ecuadorian beach town with dark volcanic sand, beginner-friendly

@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahia_de_Algeciras.jpg
 latitude: 36.1312
 loc_type: city
 longitude: -5.4474
-score: 0.38
+score: 6.96
 title: Algeciras
 type: location
-snippet: Busy Bay of Gibraltar port city, the main Spanish ferry gateway to Ceuta and Tangier.
+snippet: Busy Bay of Gibraltar port city, the main Spanish ferry gateway to Ceuta
+  and Tangier.
 ---
 
 Algeciras is a busy port city on the Bay of Gibraltar, the main Spanish departure point for ferries to [Ceuta](/africa/ceuta) and [Tangier](/africa/morocco/tangier) in Morocco. Most travellers pass through quickly on their way to Africa, but the city has a certain rough-edged charm if you have time to kill.

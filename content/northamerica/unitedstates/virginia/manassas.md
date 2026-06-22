@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016-10-11_14_15_20_View_n
 latitude: 38.7509
 loc_type: city
 longitude: -77.4753
-score: 0.34
+score: 6.61
 snippet: Northern Virginia city shaped by Civil War battlefields and a historic railroad-era
   Old Town.
 title: Manassas

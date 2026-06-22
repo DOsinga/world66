@@ -5,8 +5,9 @@ done:
 latitude: -35.62
 loc_type: city
 longitude: 174.5367
-score: 0.51
-snippet: "Tiny Northland harbour settlement and launch point for diving the marine reserve around the Poor Knights."
+score: 8.28
+snippet: Tiny Northland harbour settlement and launch point for diving the marine
+  reserve around the Poor Knights.
 title: Tutukaka / Poor Knights
 type: location
 ---

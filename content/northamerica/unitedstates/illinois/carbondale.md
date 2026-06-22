@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Carbondale,
 latitude: 37.7275
 loc_type: city
 longitude: -89.2167
-score: 0.29
+score: 6.01
 snippet: Southern Illinois university town and gateway to the trails and bluffs of
   Shawnee National Forest
 title: Carbondale

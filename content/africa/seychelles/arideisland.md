@@ -4,7 +4,7 @@ done:
 latitude: -4.212433
 loc_type: feature
 longitude: 55.666628
-score: 0.48
+score: 8.02
 snippet: Seychelles nature reserve island with huge seabird colonies, Wright's gardenia,
   and granite slopes.
 title: Aride Island

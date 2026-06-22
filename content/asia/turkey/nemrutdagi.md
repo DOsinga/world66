@@ -5,8 +5,9 @@ latitude: 37.9806
 longitude: 38.7408
 done:
   location_cleanup: 2026-04-06
-score: 0.54
-snippet: Remote Anatolian mountaintop where toppled stone gods guard Antiochus I's ancient tumulus.
+score: 8.62
+snippet: Remote Anatolian mountaintop where toppled stone gods guard Antiochus I's
+  ancient tumulus.
 loc_type: feature
 ---
 

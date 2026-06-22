@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Champery-02.jpg
 latitude: 46.175679
 loc_type: city
 longitude: 6.868767
-score: 0.55
+score: 8.67
 snippet: Swiss-French Valais mountain village and Portes du Soleil gateway with chalet
   streets and high Alpine trails
 title: Champéry

@@ -4,7 +4,7 @@ done:
 latitude: 65.588055
 loc_type: feature
 longitude: -16.907936
-score: 0.55
+score: 8.67
 snippet: Lake Mývatn lava field of pillars, arches, and cave-like formations created
   by steam explosions.
 title: Dimmuborgir

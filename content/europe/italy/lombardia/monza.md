@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MonzaVillaReale.JPG
 latitude: 45.5843
 loc_type: city
 longitude: 9.2751
-score: 0.47
+score: 7.97
 snippet: Lombard city north of Milan, known for Formula 1 racing and the Iron Crown
   cathedral
 sources:

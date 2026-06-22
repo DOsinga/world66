@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_T%C3%B8nsberg_-_pa
 latitude: 59.2674
 loc_type: city
 longitude: 10.4076
-score: 0.46
+score: 7.9
 snippet: Old Norwegian fjord city where Viking-age history gathers around Slottsfjellet
   and the waterfront quays
 sources:

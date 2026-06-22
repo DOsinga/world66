@@ -5,7 +5,7 @@ done:
 latitude: -26.650009
 loc_type: city
 longitude: 15.157266
-score: 0.44
+score: 7.63
 snippet: Namibian coastal town of German Art Nouveau buildings, diamond-rush history,
   and stark Namib Desert edges
 title: Lüderitz

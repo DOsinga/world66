@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiangshan_Scenic_Area_8946
 latitude: 25.277989
 loc_type: city
 longitude: 110.291062
-score: 0.66
+score: 9.33
 snippet: Guangxi karst city where limestone peaks rise from rivers and rice fields
   like classical Chinese paintings.
 title: Guilin

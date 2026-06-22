@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noli_-_View_from_Capo_Noli
 latitude: 44.2059
 loc_type: city
 longitude: 8.4164
-score: 0.51
+score: 8.36
 title: Noli
 type: location
 snippet: Medieval Ligurian fishing village on the Italian Riviera, once a small maritime

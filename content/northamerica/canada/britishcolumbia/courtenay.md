@@ -5,7 +5,7 @@ done:
 latitude: 49.689406
 loc_type: city
 longitude: -124.995496
-score: 0.38
+score: 7.01
 snippet: Vancouver Island valley city between Strathcona mountains and the Strait
   of Georgia, rich in outdoor options.
 sources:

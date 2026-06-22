@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blackfriars_Bridge_from_So
 latitude: 42.983675
 loc_type: city
 longitude: -81.249607
-score: 0.32
+score: 6.43
 title: London, Ontario
 type: location
 snippet: Southwestern Ontario university city called the Forest City for its parks

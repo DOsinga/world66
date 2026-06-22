@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:01793jfMuseo_Katipunan_Pin
 latitude: 14.6044
 loc_type: city
 longitude: 121.0299
-score: 0.29
+score: 6.03
 title: San Juan
-snippet: "Compact Metro Manila city with outsized historical importance in the Philippine revolution."
+snippet: Compact Metro Manila city with outsized historical importance in the Philippine
+  revolution.
 type: location
 ---
 

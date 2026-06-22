@@ -4,7 +4,7 @@ done:
 latitude: 43.221216
 loc_type: feature
 longitude: 76.927036
-score: 0.31
+score: 6.21
 snippet: Tien Shan mountain peak famed for its marble pyramid shape and pink sunset
   glow.
 title: Khan Tengri

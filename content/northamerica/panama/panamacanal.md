@@ -4,7 +4,7 @@ done:
 latitude: 9.08
 loc_type: feature
 longitude: -79.68
-score: 0.59
+score: 8.97
 snippet: Transcontinental waterway of locks and cuts linking the Atlantic and Pacific
   through central Panama
 title: Panama Canal

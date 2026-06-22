@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nashik_bhandardhara.jpg
 latitude: 19.5218
 loc_type: city
 longitude: 73.7577
-score: 0.39
+score: 7.18
 snippet: Sahyadri hill station and reservoir area near Arthur Lake, with treks to
   Kalsubai Peak and Ratangad Fort.
 title: Bhandardhara

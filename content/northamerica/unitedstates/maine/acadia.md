@@ -5,7 +5,7 @@ latitude: 44.3386
 longitude: -68.2733
 title: Acadia
 type: location
-score: 0.59
+score: 8.97
 loc_type: feature
 snippet: Maine coastal national park of granite mountains, boreal forest, lakes, and
   rocky Atlantic shoreline.

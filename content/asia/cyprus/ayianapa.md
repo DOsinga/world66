@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayia_Napa_beach2_by_Paride
 latitude: 34.9893
 loc_type: city
 longitude: 33.9962
-score: 0.5
+score: 8.25
 snippet: Cypriot beach town where summer nightlife sits beside sea caves, white sand,
   and a 16th-century monastery.
 title: Ayia Napa

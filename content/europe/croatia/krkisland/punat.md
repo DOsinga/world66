@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Punat_krk.jpg
 latitude: 45.019588
 loc_type: city
 longitude: 14.631247
-score: 0.48
+score: 8.05
 snippet: Krk Island harbour town facing Košljun islet, with a deep marina and old
   stone lanes.
 title: Punat

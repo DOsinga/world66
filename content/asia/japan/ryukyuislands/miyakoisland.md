@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Miyakojima_sky_view.jpg
 latitude: 24.813957
 loc_type: city
 longitude: 125.305579
-score: 0.56
+score: 8.75
 snippet: Ryukyu island of white coral beaches, clear turquoise water, and bridge-linked
   islets
 title: Miyako Island

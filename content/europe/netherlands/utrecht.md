@@ -12,7 +12,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/49438549761
 latitude: 52.090701
 loc_type: city
 longitude: 5.121563
-score: 0.51
+score: 8.36
 snippet: Dutch university city of canals, wharf cellars, and medieval churches, with
   a calmer rhythm than Amsterdam.
 tags:

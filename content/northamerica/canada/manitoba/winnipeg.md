@@ -7,7 +7,7 @@ done:
 latitude: 49.895537
 loc_type: city
 longitude: -97.138458
-score: 0.36
+score: 6.84
 snippet: Prairie capital at the Red-Assiniboine confluence, where the Canadian Shield
   meets the Great Plains.
 sources:

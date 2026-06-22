@@ -5,7 +5,7 @@ done:
 latitude: 34.5527
 loc_type: city
 longitude: 38.2593
-score: 0.26
+score: 5.81
 snippet: Syrian desert oasis city, once a wealthy caravan hub under Queen Zenobia
   and Roman colonnades.
 title: Palmyra

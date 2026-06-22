@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alnwick_Castle_in_uk.jpg
 latitude: 55.4134
 loc_type: city
 longitude: -1.7069
-score: 0.48
+score: 8.05
 snippet: Northumberland market town dominated by Alnwick Castle, an ambitious garden,
   and Barter Books.
 sources:

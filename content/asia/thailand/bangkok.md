@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge
 latitude: 13.7563
 loc_type: city
 longitude: 100.5018
-score: 0.76
+score: 9.73
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
   and canal life crowd together
 title: Bangkok

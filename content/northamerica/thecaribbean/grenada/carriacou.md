@@ -2,7 +2,7 @@
 latitude: 12.475
 loc_type: city
 longitude: -61.45
-score: 0.51
+score: 8.27
 snippet: Small Grenadian sister island with Scottish boatbuilding roots and a self-contained
   village rhythm.
 title: Carriacou

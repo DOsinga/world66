@@ -3,10 +3,11 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 30.7165
 longitude: 90.5889
-snippet: Sacred Tibetan lake northwest of Lhasa, turquoise and high-altitude beneath snow peaks and prayer flags.
+snippet: Sacred Tibetan lake northwest of Lhasa, turquoise and high-altitude beneath
+  snow peaks and prayer flags.
 title: Namtso Lake
 type: location
-score: 0.56
+score: 8.75
 loc_type: feature
 ---
 

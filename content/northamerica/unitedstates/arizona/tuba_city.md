@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coal_Mine_Canyon_sunset.jp
 latitude: 36.123307
 loc_type: city
 longitude: -111.242188
-score: 0.31
+score: 6.23
 title: Tuba City
 type: location
 snippet: Navajo Nation community in northern Arizona, set between the Grand Canyon

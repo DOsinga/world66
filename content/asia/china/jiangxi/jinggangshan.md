@@ -4,7 +4,7 @@ done:
 latitude: 26.75052
 loc_type: feature
 longitude: 114.284594
-score: 0.41
+score: 7.35
 snippet: Mountainous Jiangxi-Hunan border area remembered as the first rural base
   of the Chinese revolution.
 title: Jinggangshan

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dehang_-_panoramio.jpg
 latitude: 28.45
 loc_type: feature
 longitude: 109.55
-score: 0.41
+score: 7.36
 snippet: Miao village in a western Hunan gorge, with terraced slopes, waterfalls,
   and local craft traditions.
 sources:

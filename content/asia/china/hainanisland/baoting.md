@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Reflection_(239540389).jpe
 latitude: 18.65
 loc_type: city
 longitude: 109.6667
-score: 0.36
+score: 6.81
 snippet: Highland Hainan county of Li and Miao communities, with tropical forests,
   streams, and waterfalls above the resort coast
 sources:

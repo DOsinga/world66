@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ca_dZan_-_John_Ringling_Ma
 latitude: 27.3364
 loc_type: city
 longitude: -82.5307
-score: 0.48
+score: 8.08
 snippet: Gulf Coast city where Florida beaches meet Ringling-era art, theatre, and
   a real downtown.
 title: Sarasota

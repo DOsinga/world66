@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santiago_de_los_Caballeros
 latitude: 19.4517
 loc_type: city
 longitude: -70.697
-score: 0.36
+score: 6.84
 snippet: Cibao Valley city and Dominican tobacco capital, with cigar factories, merengue
   clubs, and Centro León.
 title: Santiago de los Caballeros

@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lund_(Scani
 latitude: 55.7047
 loc_type: city
 longitude: 13.1921
-score: 0.45
+score: 7.8
 title: Lund
-snippet: "Old Scandinavian university city, with a Romanesque cathedral and medieval lanes shaped by centuries of students."
+snippet: Old Scandinavian university city, with a Romanesque cathedral and medieval
+  lanes shaped by centuries of students.
 type: location
 ---
 

@@ -4,7 +4,7 @@ done:
 latitude: -19.087
 loc_type: feature
 longitude: -169.803
-score: 0.41
+score: 7.32
 snippet: Protected rainforest reserve in southeastern Niue, where jungle paths lead
   to limestone chasms and coastal forest.
 title: Huvalu Forest Conservation Area

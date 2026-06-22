@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_cinque_terre_-_Manarola
 latitude: 44.106326
 loc_type: city
 longitude: 9.727481
-score: 0.69
+score: 9.43
 title: Manarola
 type: location
-snippet: "Cinque Terre village where pastel houses descend a steep Ligurian ravine to a tiny harbour."
+snippet: Cinque Terre village where pastel houses descend a steep Ligurian ravine
+  to a tiny harbour.
 ---
 
 Manarola is the most photogenic of the five Cinque Terre villages — the one you have seen on every postcard, with stacked pastel houses tumbling down a steep ravine to a tiny harbour. It sits between [Riomaggiore](/europe/italy/liguria/riomaggiore) and [Corniglia](/europe/italy/liguria/corniglia) on the Ligurian coast, connected to both by train and by the coastal hiking path.

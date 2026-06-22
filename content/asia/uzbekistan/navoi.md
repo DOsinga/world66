@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/8597739606
 latitude: 40.1003
 loc_type: city
 longitude: 65.3792
-score: 0.26
+score: 5.78
 snippet: Soviet-planned Uzbek industrial city in the desert between Samarkand and
   Bukhara, built around geometric boulevards.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amotha_Pauri_Garhwal_Uttar
 latitude: 30.065231
 loc_type: city
 longitude: 78.731572
-score: 0.36
+score: 6.78
 snippet: Lower Himalayan ridge town with road-accessible views of Nanda Devi, Trishul,
   and Chaukhamba.
 title: Pauri

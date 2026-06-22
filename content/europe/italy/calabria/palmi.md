@@ -12,10 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Palmi,_Calabria
 - https://turismo.reggiocal.it/en/tappa/palmi
 - https://en.wikipedia.org/wiki/Palmi_Cathedral
-snippet: "Calabrian terrace town above the Tyrrhenian, looking toward the Aeolian Islands and Sicily."
+snippet: Calabrian terrace town above the Tyrrhenian, looking toward the Aeolian Islands
+  and Sicily.
 title: Palmi
 type: location
-score: 0.43
+score: 7.54
 ---
 
 Palmi sits on a natural terrace above Calabria's Tyrrhenian coast, south of [Gioia Tauro](/europe/italy/calabria/gioia_tauro) and north of [Scilla](/europe/italy/calabria/scilla). It is one of the best viewpoints on the Costa Viola: on clear days the sea opens toward the Aeolian Islands, the Strait of Messina, and Sicily.

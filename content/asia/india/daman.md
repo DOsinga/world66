@@ -2,7 +2,7 @@
 latitude: 20.3974
 loc_type: city
 longitude: 72.8328
-score: 0.33
+score: 6.49
 snippet: Coastal former Portuguese town on India's west coast, with river forts and
   Gujarat weekenders.
 title: Daman

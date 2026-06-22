@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_cu_cerbi.JPG
 latitude: 46.220204
 loc_type: city
 longitude: 24.793448
-score: 0.57
+score: 8.81
 title: Sighisoara
 type: location
 snippet: Transylvanian citadel town with UNESCO-listed medieval walls and Vlad Tepes

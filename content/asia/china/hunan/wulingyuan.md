@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai
 latitude: 29.3456
 loc_type: feature
 longitude: 110.4667
-score: 0.62
+score: 9.15
 snippet: UNESCO sandstone landscape in Hunan, where thousands of forest-crowned pillars
   rise from deep gorges.
 sources:

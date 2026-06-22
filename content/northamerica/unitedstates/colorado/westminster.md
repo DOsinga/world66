@@ -5,7 +5,7 @@ done:
 latitude: 39.8367
 loc_type: city
 longitude: -105.0372
-score: 0.25
+score: 5.7
 snippet: Denver-area suburban city between Boulder and the capital, with trails, open
   space, and the Butterfly Pavilion.
 title: Westminster

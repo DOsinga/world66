@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanohashidate-drone.jpg
 latitude: 35.568002
 loc_type: city
 longitude: 135.190638
-score: 0.58
+score: 8.86
 snippet: Pine-covered sand spit across Miyazu Bay, counted among Japan's traditional
   Three Great Views.
 title: Amanohashidate

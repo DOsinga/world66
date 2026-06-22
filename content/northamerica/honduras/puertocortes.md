@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Continuing_Promise_2024_pe
 latitude: 15.8356
 loc_type: city
 longitude: -87.9506
-score: 0.28
+score: 5.98
 snippet: Working Caribbean port whose cargo waterfront gives way to Omoa's colonial
   fortress and beaches.
 title: Puerto Cortés

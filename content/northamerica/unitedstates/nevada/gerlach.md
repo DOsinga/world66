@@ -5,7 +5,7 @@ done:
 latitude: 40.6518
 loc_type: city
 longitude: -119.3563
-score: 0.27
+score: 5.91
 snippet: Remote Nevada desert town at the edge of the Black Rock playa and Burning
   Man country.
 sources:

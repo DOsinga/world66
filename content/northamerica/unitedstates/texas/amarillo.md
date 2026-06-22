@@ -7,7 +7,7 @@ done:
 latitude: 35.2073
 loc_type: city
 longitude: -101.8313
-score: 0.33
+score: 6.51
 snippet: Texas Panhandle city on old Route 66, known for high-plains skies and roadside
   Americana
 title: Amarillo

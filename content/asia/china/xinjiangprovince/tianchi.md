@@ -4,7 +4,7 @@ done:
 latitude: 43.886
 loc_type: feature
 longitude: 88.1324
-score: 0.51
+score: 8.35
 snippet: Alpine lake in the Tian Shan, long known as Heavenly Lake and ringed by Kazakh
   summer pastures
 sources:

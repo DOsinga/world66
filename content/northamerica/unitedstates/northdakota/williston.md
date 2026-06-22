@@ -5,7 +5,7 @@ done:
 latitude: 48.146546
 loc_type: city
 longitude: -103.621814
-score: 0.2
+score: 4.78
 snippet: North Dakota plains city reshaped by the Bakken oil boom near the Montana
   and Canadian borders
 title: Williston

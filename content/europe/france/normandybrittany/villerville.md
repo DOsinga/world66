@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/14012466@N07/50432771772
 latitude: 49.401667
 loc_type: city
 longitude: 0.129444
-score: 0.43
+score: 7.53
 snippet: Small Norman village on the Côte Fleurie headland between Honfleur and Deauville.
 title: Villerville
 type: location

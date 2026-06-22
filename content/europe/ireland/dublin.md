@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Dublin_-_aerial_-_2025-07-
 latitude: 53.349379
 loc_type: city
 longitude: -6.260559
-score: 0.62
+score: 9.11
 title: Dublin
-snippet: Compact Irish capital on the Liffey, where literary history still shapes the pubs and Georgian streets.
+snippet: Compact Irish capital on the Liffey, where literary history still shapes
+  the pubs and Georgian streets.
 type: location
 ---
 

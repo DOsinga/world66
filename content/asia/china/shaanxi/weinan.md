@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Weinan
 type: location
-score: 0.29
+score: 6.0
 snippet: Eastern Guanzhong Plain prefecture linking Xi'an with Hua Shan and Tang imperial
   tombs.
 ---

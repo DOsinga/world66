@@ -5,7 +5,7 @@ latitude: 33.5276
 longitude: -5.1074
 title: Ifrane
 type: location
-score: 0.45
+score: 7.76
 loc_type: city
 snippet: Middle Atlas hill station of Alpine-style villas, cedar forests, winter snow,
   and French-planned streets.

@@ -5,7 +5,7 @@ done:
 latitude: -5.411
 loc_type: city
 longitude: -78.756
-score: 0.24
+score: 5.47
 snippet: Isolated Peruvian district town with forested mountains behind it and broad
   river-valley views ahead.
 title: Santa Rosa

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fredrikskyrkan1.jpg
 latitude: 56.162107
 loc_type: city
 longitude: 15.586642
-score: 0.47
+score: 7.94
 snippet: Baroque Swedish naval city spread across islands, built for the fleet of
   King Karl XI.
 title: Karlskrona

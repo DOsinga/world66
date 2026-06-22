@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Ben
 latitude: 36.9147
 loc_type: city
 longitude: -111.4558
-score: 0.52
+score: 8.45
 snippet: Northern Arizona mesa town above Glen Canyon Dam, base for Antelope Canyon,
   Horseshoe Bend, and Lake Powell.
 title: Page

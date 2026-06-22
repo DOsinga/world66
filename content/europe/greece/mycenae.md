@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 37.729194
 longitude: 22.754429
-score: 0.57
+score: 8.82
 title: Mycenae
 type: location
 loc_type: feature

@@ -6,7 +6,7 @@ loc_type: city
 snippet: Bohol capital and transport base, useful for ferries, flights, and day trips
   into the island
 longitude: 123.855981
-score: 0.51
+score: 8.27
 title: Tagbilaran
 type: location
 ---

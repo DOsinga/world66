@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/74089637@N00/3736401474
 latitude: -0.5359
 loc_type: city
 longitude: 37.6653
-score: 0.32
+score: 6.33
 snippet: Mount Kenya foothills town where cool farmland rises toward forested southeastern
   slopes
 title: Embu

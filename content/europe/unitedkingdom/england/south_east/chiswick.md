@@ -5,7 +5,7 @@ done:
 latitude: 51.492314
 loc_type: city
 longitude: -0.263818
-score: 0.38
+score: 7.06
 title: Chiswick
 type: location
 snippet: Leafy west London neighbourhood with village streets, Thames walks, and Palladian

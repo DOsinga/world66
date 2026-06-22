@@ -5,7 +5,7 @@ done:
 latitude: 55.8541
 loc_type: city
 longitude: 12.5653
-score: 0.37
+score: 6.94
 snippet: Øresund coastal town north of Copenhagen, known for a Mesolithic burial ground
   at Bøgebakken
 title: Vedbæk

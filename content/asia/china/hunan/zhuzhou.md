@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Longshan_Temple_(Zhuzhou)_
 latitude: 27.8407
 loc_type: city
 longitude: 113.1469
-score: 0.26
+score: 5.74
 snippet: Hunan rail-junction city shaped by industry, with Shennongcheng honouring
   the mythical Emperor Yan
 sources:

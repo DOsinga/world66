@@ -9,7 +9,7 @@ loc_type: city
 snippet: Tuscan Arno city of marble Romanesque monuments, maritime-republic history,
   and the Leaning Tower
 longitude: 10.679791
-score: 0.61
+score: 9.07
 title: Pisa
 type: location
 ---

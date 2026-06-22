@@ -7,7 +7,7 @@ done:
 latitude: 52.3759
 loc_type: city
 longitude: 9.732
-score: 0.42
+score: 7.5
 snippet: Lower Saxony capital known for major trade fairs and the baroque Herrenhausen
   Gardens.
 title: Hannover

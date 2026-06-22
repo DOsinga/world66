@@ -5,7 +5,7 @@ done:
 latitude: 45.514649
 loc_type: city
 longitude: 13.591011
-score: 0.48
+score: 8.07
 snippet: Slovenian Adriatic resort town of spa hotels, sandy beach, salt-pans, and
   easy access to Piran.
 sources:

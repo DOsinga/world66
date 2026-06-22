@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jotiba_temple_kolhapur,mah
 latitude: 16.702841
 loc_type: city
 longitude: 74.240533
-score: 0.36
+score: 6.85
 snippet: Southern Maharashtra city known for Mahalakshmi Temple, wrestling traditions,
   and distinctive leather footwear.
 title: Kolhapur

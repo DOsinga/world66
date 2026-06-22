@@ -4,7 +4,7 @@ done:
 latitude: 43.0708
 loc_type: feature
 longitude: 17.3808
-score: 0.47
+score: 7.98
 snippet: Southern Dalmatian lake cluster of turquoise freshwater, swimming spots,
   and quiet kayaking near Ploče
 title: Baćina Lakes

@@ -4,7 +4,7 @@ done:
 latitude: 26.589253
 loc_type: feature
 longitude: 93.408474
-score: 0.51
+score: 8.3
 snippet: Assam national park of elephant grass and marshland, protecting the world's
   largest one-horned rhinoceros population
 title: Kaziranga

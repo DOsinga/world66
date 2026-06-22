@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1960_Capri_Marina.jpg
 latitude: 40.548843
 loc_type: city
 longitude: 14.228371
-score: 0.69
+score: 9.43
 snippet: Rocky Bay of Naples island with Roman imperial ruins, cliff paths, and long
   literary associations.
 title: Capri

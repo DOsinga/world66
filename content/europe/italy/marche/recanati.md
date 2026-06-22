@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Recanati_veduta_01.jpg
 latitude: 43.403509
 loc_type: city
 longitude: 13.548602
-score: 0.42
+score: 7.45
 snippet: Marche hilltop town known as the birthplace of poet Giacomo Leopardi and
   tenor Beniamino Gigli.
 title: Recanati

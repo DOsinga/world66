@@ -5,7 +5,7 @@ done:
 latitude: 16.6443
 loc_type: city
 longitude: 81.5885
-score: 0.26
+score: 5.82
 snippet: Andhra Pradesh delta district of rice fields, canal villages, Shiva temples,
   and lace-making towns.
 title: West Godavari

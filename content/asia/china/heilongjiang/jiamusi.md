@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:No._1_Government_building_
 latitude: 46.8081
 loc_type: city
 longitude: 130.3653
-score: 0.24
+score: 5.45
 snippet: Eastern Heilongjiang river city on the Sanjiang Plain, gateway to crane wetlands
   and open floodplain country
 sources:

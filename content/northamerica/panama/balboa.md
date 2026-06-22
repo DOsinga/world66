@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balboa,_Panama_City,_Panam
 latitude: 8.9524
 loc_type: city
 longitude: -79.5617
-score: 0.4
+score: 7.23
 title: Balboa
 type: location
 snippet: Former Canal Zone town at the Panama Canal's Pacific entrance, shaped by

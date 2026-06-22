@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boulder_Bank_Pano.jpg
 latitude: -41.271085
 loc_type: city
 longitude: 173.283676
-score: 0.53
+score: 8.5
 snippet: Sunny South Island city where coastal plains meet three national parks at
   the top of New Zealand.
 title: Nelson

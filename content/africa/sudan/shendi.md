@@ -10,7 +10,7 @@ loc_type: city
 snippet: Nile market town in Sudan's Butana steppe, base for the Kushite ruins of
   Meroë and Naqa
 longitude: 33.4323
-score: 0.18
+score: 4.49
 title: Shendi
 type: location
 ---

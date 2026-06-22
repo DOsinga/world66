@@ -4,7 +4,7 @@ done:
 latitude: 42.941523
 loc_type: feature
 longitude: -122.098771
-score: 0.58
+score: 8.92
 snippet: Volcanic caldera lake in the Oregon Cascades, famed for extraordinary depth
   and sapphire-blue water.
 title: Crater Lake

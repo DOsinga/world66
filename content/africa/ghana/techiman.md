@@ -5,7 +5,7 @@ done:
 latitude: 7.584971
 loc_type: city
 longitude: -1.936401
-score: 0.27
+score: 5.87
 snippet: Bono East market town whose six-day trade cycle draws food wholesalers from
   across Ghana.
 sources:

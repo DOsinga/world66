@@ -5,7 +5,7 @@ done:
 latitude: 49.851114
 loc_type: city
 longitude: -99.960892
-score: 0.27
+score: 5.91
 snippet: Manitoba prairie city known as the Wheat City, with agricultural roots and
   an Assiniboine River setting.
 title: Brandon

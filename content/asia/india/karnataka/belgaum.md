@@ -2,7 +2,7 @@
 latitude: 15.8497
 loc_type: city
 longitude: 74.4977
-score: 0.3
+score: 6.15
 snippet: Northern Karnataka city where Kannada, Marathi, Urdu, and colonial layers
   meet on the Deccan Plateau
 title: Belgaum

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koper,_mesto.jpg
 latitude: 45.547986
 loc_type: city
 longitude: 13.730478
-score: 0.48
+score: 8.05
 snippet: Slovenian Adriatic port city with a Venetian old town set around Titov Trg
 sources:
 - https://en.wikipedia.org/wiki/Koper

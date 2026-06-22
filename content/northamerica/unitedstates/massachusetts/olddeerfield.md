@@ -5,7 +5,7 @@ done:
 latitude: 42.5409
 loc_type: city
 longitude: -72.6076
-score: 0.39
+score: 7.13
 snippet: Historic Massachusetts village with 18th-century houses lining a tree-shaded
   Main Street and academy life.
 title: Old Deerfield

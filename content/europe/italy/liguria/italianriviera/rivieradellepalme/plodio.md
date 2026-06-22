@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_(Pl
 latitude: 44.3512
 loc_type: city
 longitude: 8.2565
-score: 0.3
+score: 6.14
 snippet: Ligurian Alps commune near the Bormida valleys, with prehistoric carvings
   and layered feudal history
 title: Plodio

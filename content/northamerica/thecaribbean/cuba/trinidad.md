@@ -5,7 +5,7 @@ done:
 latitude: 21.8027
 loc_type: city
 longitude: -79.9843
-score: 0.6
+score: 9.03
 snippet: Cuban colonial town of cobblestoned lanes, sugar mansions, music nights,
   and pastel houses around Plaza Mayor.
 title: Trinidad

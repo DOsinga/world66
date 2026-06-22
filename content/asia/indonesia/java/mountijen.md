@@ -14,7 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Ijen
 title: Mount Ijen
 type: location
-score: 0.55
+score: 8.66
 snippet: East Java stratovolcano known for blue volcanic flames, sulfur miners, and
   an acidic crater lake.
 ---

@@ -2,7 +2,7 @@
 latitude: 9.67
 loc_type: feature
 longitude: -83.22
-score: 0.49
+score: 8.13
 snippet: Rainforest river corridor on Costa Rica's Caribbean slope, known for Pacuare
   rafting and jungle lodges.
 title: Pacuare Protected Zone

@@ -2,7 +2,7 @@
 latitude: 14.8333
 loc_type: city
 longitude: -91.5167
-score: 0.44
+score: 7.67
 snippet: Highland Guatemalan city known as Xela, with Mayan markets, Spanish schools,
   and volcanoes around the valley.
 title: Quetzaltenango

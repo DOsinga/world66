@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_de_Ferrari,_Genoa.j
 latitude: 44.40726
 loc_type: city
 longitude: 8.933862
-score: 0.55
+score: 8.69
 title: Genoa
 type: location
-snippet: Working Ligurian port with Europe's largest medieval centre and palaces from its sea-republic era.
+snippet: Working Ligurian port with Europe's largest medieval centre and palaces from
+  its sea-republic era.
 sources:
 - https://en.wikipedia.org/wiki/Genoa
 - https://whc.unesco.org/en/list/1211

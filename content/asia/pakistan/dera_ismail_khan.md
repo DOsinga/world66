@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noll_Bagh_Dera_Ismail_Khan
 latitude: 31.8275
 loc_type: city
 longitude: 70.9091
-score: 0.19
+score: 4.62
 snippet: Indus River trading city known for Dhakki dates, old bazaars, and frontier
   crossroads history.
 sources:

@@ -7,7 +7,7 @@ done:
 latitude: 28.542122
 loc_type: city
 longitude: -81.379045
-score: 0.61
+score: 9.06
 snippet: Central Florida city whose southwestern sprawl forms the world's best-known
   theme park district.
 title: Orlando

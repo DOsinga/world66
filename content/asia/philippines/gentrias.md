@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GeneralTrias,Cavitejf2747_
 latitude: 14.386121
 loc_type: city
 longitude: 120.880285
-score: 0.26
+score: 5.76
 snippet: Cavite city south of Manila, tied to revolutionary history at San Francisco
   de Malabon church
 title: Gen. Trias

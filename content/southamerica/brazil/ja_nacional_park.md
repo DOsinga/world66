@@ -4,7 +4,7 @@ done:
 latitude: -2.0
 loc_type: feature
 longitude: -62.0
-score: 0.38
+score: 6.98
 snippet: Vast Amazon rainforest national park protecting blackwater rivers west of
   Manaus.
 title: Jaú National Park

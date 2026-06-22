@@ -4,7 +4,7 @@ done:
 latitude: 41.542101
 loc_type: city
 longitude: 2.113898
-score: 0.33
+score: 6.51
 title: Sabadell
 type: location
 image: sabadell.jpg

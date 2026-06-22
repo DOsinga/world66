@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-09-08_Sakurajima_Sunr
 latitude: 31.5216
 loc_type: city
 longitude: 130.5474
-score: 0.57
-snippet: "Southern Japanese bay city facing Sakurajima, tied to Satsuma history and volcanic ash."
+score: 8.78
+snippet: Southern Japanese bay city facing Sakurajima, tied to Satsuma history and
+  volcanic ash.
 title: Kagoshima
 type: location
 ---

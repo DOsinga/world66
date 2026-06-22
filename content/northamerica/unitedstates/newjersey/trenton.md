@@ -5,9 +5,10 @@ done:
 latitude: 40.2203
 longitude: -74.7659
 title: Trenton
-snippet: "New Jersey capital on the Delaware River, layered with Revolutionary War and industrial history."
+snippet: New Jersey capital on the Delaware River, layered with Revolutionary War
+  and industrial history.
 type: location
-score: 0.24
+score: 5.46
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Trenton,_New_Jersey

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Geograph_3117086_The_Unite
 latitude: 51.014789
 loc_type: city
 longitude: -3.102909
-score: 0.35
+score: 6.73
 snippet: Somerset county town in the Vale of Taunton Deane, between the Quantock and
   Blackdown hills.
 title: Taunton

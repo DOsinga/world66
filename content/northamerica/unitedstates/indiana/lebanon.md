@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/53136684@N00/49976417528
 latitude: 40.0484
 loc_type: city
 longitude: -86.4694
-score: 0.25
+score: 5.57
 snippet: Central Indiana county seat northwest of Indianapolis, centred on the domed
   Boone County Courthouse.
 title: Lebanon

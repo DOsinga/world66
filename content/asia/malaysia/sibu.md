@@ -13,7 +13,7 @@ sources:
 - https://www.visitsibu.com/
 title: Sibu
 type: location
-score: 0.34
+score: 6.62
 snippet: Central Sarawak river town where the Rajang economy and Foochow food culture
   meet.
 ---

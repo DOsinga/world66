@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_panorama_of_Benin_city.j
 latitude: 6.335
 loc_type: city
 longitude: 5.627
-score: 0.28
+score: 5.99
 title: Benin City
 type: location
 snippet: Edo State capital and former Benin Empire seat, still proud of its bronze-casting

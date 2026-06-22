@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_Vie
 latitude: 37.975565
 loc_type: city
 longitude: 23.734832
-score: 0.74
+score: 9.58
 snippet: Ancient Greek capital where the Acropolis rises above hot streets, concrete
   districts, and layered neighbourhoods
 tags:

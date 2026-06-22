@@ -10,7 +10,7 @@ latitude: 9.462799
 longitude: 77.789101
 title: Sivakasi
 type: location
-score: 0.24
+score: 5.54
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Sivakasi

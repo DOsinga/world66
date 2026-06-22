@@ -4,9 +4,10 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 68.429137
 longitude: 17.425708
-score: 0.58
+score: 8.84
 title: Hurtigruten
-snippet: "Norwegian coastal voyage route linking Bergen and Kirkenes through fjords, islands, and North Cape waters."
+snippet: Norwegian coastal voyage route linking Bergen and Kirkenes through fjords,
+  islands, and North Cape waters.
 type: location
 loc_type: feature
 ---

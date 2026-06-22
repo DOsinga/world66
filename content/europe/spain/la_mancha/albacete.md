@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_San_Juan_Bauti
 latitude: 38.995092
 loc_type: city
 longitude: -1.855915
-score: 0.36
+score: 6.77
 title: Albacete
 type: location
 snippet: Castilla-La Mancha's largest city, set on the plains between Madrid and Alicante.

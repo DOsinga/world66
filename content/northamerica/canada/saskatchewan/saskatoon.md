@@ -9,7 +9,7 @@ image_attribution: Mark AW on Flickr
 latitude: 52.1318
 loc_type: city
 longitude: -106.6608
-score: 0.37
+score: 6.89
 title: Saskatoon
 type: location
 snippet: Prairie river city in Saskatchewan, known for its South Saskatchewan bridges

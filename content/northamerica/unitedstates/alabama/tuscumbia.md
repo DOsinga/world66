@@ -8,7 +8,7 @@ loc_type: city
 snippet: Shoals town best known as Helen Keller's birthplace, with music history and
   a preserved historic downtown
 longitude: -87.70253
-score: 0.27
+score: 5.89
 title: Tuscumbia
 type: location
 image: tuscumbia.jpg

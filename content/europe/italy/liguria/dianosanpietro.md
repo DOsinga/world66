@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Diano_Marina_panorama.jpg
 latitude: 43.931424
 loc_type: city
 longitude: 8.071651
-score: 0.38
+score: 7.05
 snippet: Ligurian hill village above Diano Marina, overlooking the coast from olive
   groves and old mule tracks.
 sources:

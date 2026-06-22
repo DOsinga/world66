@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:250505_Korakuen_Okayama_Ja
 latitude: 34.65
 loc_type: city
 longitude: 133.9167
-score: 0.54
+score: 8.6
 snippet: Western Honshu city pairing black-walled Okayama Castle with Korakuen, one
   of Japan's great gardens.
 sources:

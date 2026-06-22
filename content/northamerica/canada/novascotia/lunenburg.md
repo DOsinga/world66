@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lunenburg,_Nova_Scotia,_Ca
 latitude: 44.3764
 loc_type: city
 longitude: -64.3115
-score: 0.52
+score: 8.39
 snippet: Colonial harbour town in Nova Scotia with an 18th-century grid and brightly
   painted wooden streetscapes.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Las_Palmas.JPG
 latitude: 0.734362
 loc_type: city
 longitude: -79.385887
-score: 0.3
+score: 6.17
 snippet: Afro-Ecuadorian port city at the Esmeraldas River mouth, known for marimba
   culture and coastal food.
 title: Esmeraldas

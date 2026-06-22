@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atascadero_City_Hall_-_Ata
 latitude: 35.489417
 loc_type: city
 longitude: -120.670726
-score: 0.31
+score: 6.21
 snippet: Central Coast city founded as a utopian colony, with a domed Italianate city
   hall at its core.
 title: Atascadero

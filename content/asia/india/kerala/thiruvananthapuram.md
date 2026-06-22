@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:TVM_Padmanabhaswamy_Temple
 latitude: 8.5031
 loc_type: city
 longitude: 76.951
-score: 0.46
+score: 7.86
 snippet: Quiet Kerala capital around Padmanabhaswamy Temple, where sacred lanes meet
   museums, gardens, and southern hill views.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roanoke_City_(Virginia)_fr
 latitude: 37.270973
 loc_type: city
 longitude: -79.941431
-score: 0.36
+score: 6.8
 title: Roanoke
 type: location
 snippet: Blue Ridge railroad city in western Virginia, anchored by transport museums

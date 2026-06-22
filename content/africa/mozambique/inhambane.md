@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nu_wel,_30_graadjes_en_lek
 latitude: -23.865
 loc_type: city
 longitude: 35.3834
-score: 0.4
+score: 7.28
 snippet: Old Mozambican port town with fading Portuguese buildings, dhow harbours,
   and beaches across the Inhambane peninsula.
 sources:

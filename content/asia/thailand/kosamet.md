@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:KoSamet.jpg
 latitude: 12.5523
 loc_type: city
 longitude: 101.4483
-score: 0.53
+score: 8.47
 snippet: Small island southeast of Bangkok, known for white beaches within Khao Laem
   Ya-Mu Ko Samet National Park.
 title: Ko Samet

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2019-04-06-12h10m43.jpg
 latitude: -33.4489
 loc_type: city
 longitude: -70.6693
-score: 0.5
+score: 8.2
 snippet: Chilean capital in a broad valley below the Andes, with mountains visible
   from across the city.
 title: Santiago

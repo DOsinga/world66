@@ -5,7 +5,7 @@ done:
 latitude: 34.8514
 loc_type: city
 longitude: -82.3985
-score: 0.39
+score: 7.1
 snippet: Upstate South Carolina city at the Blue Ridge foothills, centred on a revived
   downtown waterfall park.
 sources:

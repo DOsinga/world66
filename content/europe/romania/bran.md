@@ -5,7 +5,7 @@ done:
 latitude: 45.516329
 loc_type: city
 longitude: 25.371567
-score: 0.51
+score: 8.35
 snippet: Transylvanian village defined by Bran Castle, a rocky medieval fortress tied
   to the Dracula legend.
 title: Bran

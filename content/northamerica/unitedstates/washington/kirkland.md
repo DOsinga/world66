@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Kirkland_Washington
 latitude: 47.6765
 loc_type: city
 longitude: -122.2071
-score: 0.31
+score: 6.21
 snippet: Eastside Lake Washington town with a walkable waterfront, public beaches,
   and Seattle skyline views.
 title: Kirkland

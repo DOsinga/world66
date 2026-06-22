@@ -10,7 +10,7 @@ latitude: 35.5563
 longitude: 6.1741
 title: Batna
 type: location
-score: 0.28
+score: 5.94
 loc_type: city
 snippet: Highland gateway town to the Aurès Mountains and the Roman ruins of Timgad.
 ---

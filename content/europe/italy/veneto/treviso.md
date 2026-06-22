@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_dei_Signori_e_Palaz
 latitude: 45.806691
 loc_type: city
 longitude: 12.206316
-score: 0.53
+score: 8.52
 snippet: Walled medieval city near Venice, known for canals, arcades, radicchio, and
   the origins of tiramisu.
 title: Treviso

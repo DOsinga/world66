@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22786194@N04/2682444969
 latitude: 53.798182
 loc_type: city
 longitude: 21.577246
-score: 0.42
+score: 7.46
 snippet: Masurian lake town on a narrow isthmus between sailing waters and forested
   trails.
 title: Mikolajki

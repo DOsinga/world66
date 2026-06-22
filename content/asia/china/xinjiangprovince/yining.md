@@ -4,7 +4,7 @@ done:
 latitude: 43.92
 loc_type: city
 longitude: 81.32
-score: 0.32
+score: 6.38
 snippet: Ili Valley city known as Gulja, where Xinjiang deserts give way to meadows
   and orchards.
 title: Yining

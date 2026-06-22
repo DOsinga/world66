@@ -4,7 +4,7 @@ done:
 latitude: 29.7589
 loc_type: city
 longitude: -95.3677
-score: 0.38
+score: 7.07
 snippet: Huge Gulf Coast city of NASA, museums, and one of the United States' most
   diverse restaurant scenes
 title: Houston

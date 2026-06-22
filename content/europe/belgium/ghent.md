@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gent,_de_Graslei_vanaf_de_
 latitude: 51.053829
 loc_type: city
 longitude: 3.725012
-score: 0.61
+score: 9.08
 snippet: Historic Belgian city with medieval towers, canals, lively student life,
   and the van Eyck Ghent Altarpiece.
 title: Ghent

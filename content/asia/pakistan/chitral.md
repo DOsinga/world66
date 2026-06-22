@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Chitral.jpg
 latitude: 35.8509
 loc_type: city
 longitude: 71.7902
-score: 0.34
+score: 6.65
 snippet: Remote Hindu Kush valley town beneath Tirich Mir, gateway to the Kalash side
   valleys.
 title: Chitral

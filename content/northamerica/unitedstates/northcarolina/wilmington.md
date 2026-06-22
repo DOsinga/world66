@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battleship_NORTH_CAROLINA.
 latitude: 34.225727
 loc_type: city
 longitude: -77.94471
-score: 0.41
+score: 7.4
 snippet: Cape Fear river city with a large historic district and the moored USS North
   Carolina.
 title: Wilmington

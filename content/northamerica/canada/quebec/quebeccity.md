@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Quebec_City,_Canada.jpg
 latitude: 46.813743
 loc_type: city
 longitude: -71.208406
-score: 0.67
+score: 9.38
 title: Québec City
 type: location
 snippet: Fortified French-Canadian capital above the St. Lawrence, with an intact

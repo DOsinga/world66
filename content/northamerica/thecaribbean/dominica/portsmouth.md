@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tanetane-Dominica.jpg
 latitude: 15.5747
 loc_type: city
 longitude: -61.457
-score: 0.43
+score: 7.53
 snippet: Northern Dominican town on Prince Rupert Bay, base for Cabrits National Park
   and Fort Shirley
 title: Portsmouth

@@ -5,7 +5,7 @@ done:
 latitude: 55.134869
 loc_type: city
 longitude: 10.905283
-score: 0.36
+score: 6.84
 snippet: Small Langeland harbour village at Denmark's northern tip, edged by swimming
   coves and birdwatching coast
 title: Lohals

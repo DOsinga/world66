@@ -4,7 +4,7 @@ done:
 latitude: 12.518
 loc_type: island
 longitude: -61.385
-score: 0.4
+score: 7.28
 snippet: Tiny Grenadian volcanic island with boatbuilding traditions, fishing life,
   and views across the Grenadines.
 sources:

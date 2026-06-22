@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Langham_los_angeles.jpg
 latitude: 34.1478
 loc_type: city
 longitude: -118.1445
-score: 0.46
+score: 7.89
 snippet: Leafy Los Angeles city of Craftsman streets, Rose Bowl rituals, and heavyweight
   museums.
 title: Pasadena

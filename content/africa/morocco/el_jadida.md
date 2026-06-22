@@ -2,7 +2,7 @@
 latitude: 33.2316
 loc_type: city
 longitude: -8.5007
-score: 0.44
+score: 7.73
 snippet: Moroccan Atlantic port whose Portuguese-built Mazagan walls and vaulted cistern
   preserve a fortified colonial medina.
 title: El Jadida

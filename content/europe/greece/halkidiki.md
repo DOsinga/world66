@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Athos_monasteries,_Halkidi
 latitude: 40.331
 loc_type: city
 longitude: 23.3621
-score: 0.58
+score: 8.86
 snippet: Northern Greek peninsula with three prongs, combining beach resorts, pine
   forests, and Mount Athos monasteries.
 title: Halkidiki

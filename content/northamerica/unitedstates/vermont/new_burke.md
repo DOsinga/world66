@@ -2,7 +2,7 @@
 latitude: 44.5883
 loc_type: city
 longitude: -71.9631
-score: 0.36
+score: 6.85
 snippet: Vermont village built around Kingdom Trails mountain biking and old-school
   Burke Mountain skiing.
 title: East Burke

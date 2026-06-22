@@ -5,7 +5,7 @@ done:
 latitude: 20.8306
 loc_type: city
 longitude: -156.9029
-score: 0.57
+score: 8.81
 snippet: Quiet Hawaiian island shaped by pineapple plantations, one small town, and
   secluded beaches.
 sources:

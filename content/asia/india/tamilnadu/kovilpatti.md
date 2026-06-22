@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kovilpatti_railway_station
 latitude: 9.17559
 loc_type: city
 longitude: 77.8687
-score: 0.24
+score: 5.51
 snippet: Small industrial town in southern Tamil Nadu, known locally for kadalai mittai
   peanut brittle.
 title: Kovilpatti

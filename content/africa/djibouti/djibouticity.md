@@ -5,7 +5,7 @@ done:
 latitude: 11.588
 loc_type: city
 longitude: 43.1456
-score: 0.33
+score: 6.55
 snippet: Hot Red Sea capital where Djibouti's port, markets, and desert transport
   routes converge
 sources:

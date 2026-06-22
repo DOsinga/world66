@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaiping_Diaolou_(354869658
 latitude: 22.3763
 loc_type: city
 longitude: 112.6877
-score: 0.45
+score: 7.81
 snippet: Guangdong countryside city famous for diaolou watchtowers built by returned
   overseas Chinese families
 sources:

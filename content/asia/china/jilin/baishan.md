@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20240710_Baishan_Pagoda_01
 latitude: 41.9377
 loc_type: city
 longitude: 126.4179
-score: 0.29
+score: 6.03
 snippet: Mountain city in southern Jilin near the Yalu River and Changbai Mountain
   landscapes.
 sources:

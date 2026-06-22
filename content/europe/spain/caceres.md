@@ -5,10 +5,11 @@ done:
 latitude: 39.4745
 loc_type: city
 longitude: -6.3717
-score: 0.53
+score: 8.5
 title: Cáceres
 type: location
-snippet: "Cáceres is an Extremaduran city with a UNESCO-listed medieval old town of towers and Renaissance palaces."
+snippet: Cáceres is an Extremaduran city with a UNESCO-listed medieval old town of
+  towers and Renaissance palaces.
 ---
 
 Cáceres has one of the best-preserved medieval old towns in Europe, and hardly anyone outside Spain seems to know about it. The [Ciudad Monumental](/europe/spain/caceres/ciudad_monumental) — the walled upper town — is a UNESCO World Heritage Site of golden stone towers, Renaissance palaces, and narrow lanes that have changed so little since the fifteenth century that film crews keep coming back to use it as a period set. If you have seen Game of Thrones, you have seen Cáceres standing in for King's Landing.

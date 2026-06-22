@@ -7,7 +7,7 @@ loc_type: city
 snippet: Northeast Alabama town at Little River Canyon, with Lookout Mountain scenery
   and country music history
 longitude: -85.719689
-score: 0.3
+score: 6.17
 title: Fort Payne
 type: location
 image: fort_payne.jpg

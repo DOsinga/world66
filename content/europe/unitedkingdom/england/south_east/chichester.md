@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Market_Cross_Chicheste
 latitude: 50.836486
 loc_type: city
 longitude: -0.779172
-score: 0.47
+score: 7.92
 snippet: West Sussex cathedral city where Roman walls still frame a compact historic
   centre
 title: Chichester

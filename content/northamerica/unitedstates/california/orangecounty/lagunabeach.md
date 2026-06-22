@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laguna_Beach_photo_montage
 latitude: 33.5427
 loc_type: city
 longitude: -117.7854
-score: 0.56
+score: 8.73
 title: Laguna Beach
 type: location
 snippet: Orange County beach town where rocky coves, chaparral hills, and a long arts

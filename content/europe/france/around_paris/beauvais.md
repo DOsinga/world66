@@ -4,8 +4,9 @@ done:
   location_enrich: '2026-06-01'
 latitude: 49.4301
 longitude: 2.082336
-score: 0.37
-snippet: "Picardy city near Paris, dominated by an unfinished Gothic cathedral of startling height."
+score: 6.94
+snippet: Picardy city near Paris, dominated by an unfinished Gothic cathedral of startling
+  height.
 title: Beauvais
 type: location
 loc_type: city

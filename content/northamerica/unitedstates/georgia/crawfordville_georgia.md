@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Crawfordville,_Georgia_dow
 latitude: 33.553994
 loc_type: city
 longitude: -82.89619
-score: 0.21
-snippet: Tiny Georgia Piedmont county seat, centred on a courthouse square and A.H. Stephens history.
+score: 4.97
+snippet: Tiny Georgia Piedmont county seat, centred on a courthouse square and A.H.
+  Stephens history.
 title: Crawfordville, Georgia
 type: location
 ---

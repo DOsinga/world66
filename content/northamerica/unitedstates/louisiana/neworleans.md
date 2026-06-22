@@ -7,7 +7,7 @@ done:
 latitude: 29.956142
 loc_type: city
 longitude: -90.073393
-score: 0.65
+score: 9.31
 sources:
 - https://en.wikipedia.org/wiki/New_Orleans
 - https://en.wikipedia.org/wiki/French_Quarter
@@ -15,7 +15,8 @@ sources:
 - https://en.wikipedia.org/wiki/Preservation_Hall
 - https://en.wikipedia.org/wiki/Antoine%27s_Restaurant
 title: New Orleans
-snippet: Mississippi River city where French, Spanish, African, and Caribbean cultures shape the streets.
+snippet: Mississippi River city where French, Spanish, African, and Caribbean cultures
+  shape the streets.
 type: location
 ---
 

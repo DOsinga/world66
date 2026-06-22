@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Batalha_Portugal_Mosteiro_
 latitude: 39.6588
 loc_type: city
 longitude: -8.8254
-score: 0.49
+score: 8.15
 snippet: Central Portuguese town built around Batalha Monastery, a Gothic and Manueline
   monument to Aljubarrota.
 sources:

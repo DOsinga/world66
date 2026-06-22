@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ColourfulBeach.jpg
 latitude: 47.100178
 loc_type: city
 longitude: 88.434175
-score: 0.37
-snippet: "Northern Xinjiang prefecture of alpine meadows and glacier-fed rivers bordering Kazakhstan, Russia, and Mongolia."
+score: 6.92
+snippet: Northern Xinjiang prefecture of alpine meadows and glacier-fed rivers bordering
+  Kazakhstan, Russia, and Mongolia.
 title: Altay Prefecture
 type: location
 ---

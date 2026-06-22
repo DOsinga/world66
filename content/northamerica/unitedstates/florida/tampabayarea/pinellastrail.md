@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pinellas_Trail.jpg
 latitude: 27.9589
 loc_type: feature
 longitude: -82.7969
-score: 0.35
+score: 6.71
 snippet: Paved Pinellas County rail-trail linking Tarpon Springs and St. Petersburg
   along an old railway corridor
 sources:

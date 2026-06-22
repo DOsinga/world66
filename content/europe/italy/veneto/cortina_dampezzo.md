@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2019_Cortina_d%27Ampezzo.j
 latitude: 46.538333
 loc_type: city
 longitude: 12.137351
-score: 0.65
+score: 9.3
 snippet: Dolomite resort town in a broad alpine valley, host of the 1956 Winter Olympics.
 sources:
 - https://en.wikipedia.org/wiki/Cortina_d%27Ampezzo

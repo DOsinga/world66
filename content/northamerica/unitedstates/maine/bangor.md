@@ -4,7 +4,7 @@ done:
 latitude: 44.8016
 loc_type: city
 longitude: -68.7713
-score: 0.34
+score: 6.6
 snippet: Northern Maine city on the Penobscot River, known for lumber history and
   Stephen King associations.
 title: Bangor

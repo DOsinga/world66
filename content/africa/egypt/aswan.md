@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Aswan,_E
 latitude: 24.0911
 loc_type: city
 longitude: 32.8973
-score: 0.61
+score: 9.09
 snippet: Southern Nile city and gateway to Nubia, set among granite hills, islands,
   and palm-lined riverbanks.
 title: Aswan

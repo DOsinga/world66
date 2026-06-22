@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/62313790@N00/31138319913
 latitude: 37.1305
 loc_type: city
 longitude: -121.6544
-score: 0.31
+score: 6.21
 title: Morgan Hill
 type: location
 snippet: South Santa Clara County city with vineyards and open foothills at Silicon

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Basilique_Notre-Dam
 latitude: 43.0941
 loc_type: city
 longitude: -0.0465
-score: 0.51
+score: 8.29
 snippet: Pyrenean pilgrimage town centred on Bernadette Soubirous's grotto and the
   spring at the Gave de Pau.
 sources:

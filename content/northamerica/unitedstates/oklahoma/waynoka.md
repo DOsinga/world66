@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Little_Sahara_OK_1.jpg
 latitude: 36.582256
 loc_type: city
 longitude: -98.879814
-score: 0.23
+score: 5.4
 title: Waynoka
 type: location
 snippet: Tiny northwestern Oklahoma town beside Little Sahara dunes, a regional off-road

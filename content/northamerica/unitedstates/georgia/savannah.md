@@ -7,9 +7,10 @@ done:
 latitude: 32.079007
 loc_type: city
 longitude: -81.092134
-score: 0.57
+score: 8.82
 title: Savannah
-snippet: Historic Southern port city of shaded squares, live oaks, and intact nineteenth-century townhouses
+snippet: Historic Southern port city of shaded squares, live oaks, and intact nineteenth-century
+  townhouses
 type: location
 ---
 

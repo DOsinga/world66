@@ -4,7 +4,7 @@ done:
 latitude: 36.0119
 loc_type: feature
 longitude: 14.3369
-score: 0.56
+score: 8.76
 snippet: Tiny Maltese limestone island between Malta and Gozo, known for the turquoise
   Blue Lagoon.
 title: Comino

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pieve_di_Spaltenna.jpg
 latitude: 43.4683
 loc_type: city
 longitude: 11.4342
-score: 0.53
+score: 8.49
 title: Gaiole in Chianti
 type: location
 snippet: Rural Chianti wine village surrounded by working vineyards and medieval castles

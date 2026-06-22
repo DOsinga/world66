@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chongzuo_Railway_Station_2
 latitude: 22.42
 loc_type: city
 longitude: 107.37
-score: 0.34
+score: 6.57
 snippet: Guangxi border city near Vietnam, used for Huashan cliff murals and Zuojiang
   River karst landscapes.
 sources:

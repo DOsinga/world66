@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sestri_Levante_and_Baia_de
 latitude: 44.2715
 loc_type: city
 longitude: 9.3959
-score: 0.56
+score: 8.73
 title: Sestri Levante
 type: location
 snippet: Ligurian seaside town on a narrow peninsula, defined by the calm Baia del

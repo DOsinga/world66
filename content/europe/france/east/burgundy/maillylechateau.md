@@ -5,7 +5,7 @@ done:
 latitude: 47.5964
 loc_type: city
 longitude: 3.637
-score: 0.41
+score: 7.35
 snippet: Clifftop Burgundy village above the Yonne, split between medieval upper streets
   and the Canal du Nivernais.
 sources:

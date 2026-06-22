@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Chihuahua,_Pla
 latitude: 28.6353
 loc_type: city
 longitude: -106.0889
-score: 0.38
+score: 6.98
 snippet: Northern Mexican state capital and desert gateway to the Copper Canyon railway.
 sources:
 - https://en.wikipedia.org/wiki/Chihuahua_City

@@ -6,7 +6,7 @@ done:
 latitude: -19.154005
 loc_type: feature
 longitude: 22.980094
-score: 0.66
+score: 9.34
 snippet: Northern Botswana inland delta where Okavango waters spread into wetlands
   across the Kalahari sands.
 title: Okavango Delta

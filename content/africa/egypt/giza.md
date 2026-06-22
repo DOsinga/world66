@@ -11,10 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza_Plateau_(31762565191)
 latitude: 29.987075
 loc_type: city
 longitude: 31.211806
-score: 0.74
+score: 9.56
 title: Giza
 type: location
-snippet: Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and Giza Plateau.
+snippet: Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and
+  Giza Plateau.
 ---
 
 Giza is the western half of greater Cairo — a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **[Great Pyramids](/africa/egypt/giza/great_pyramid)** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surviving Wonder of the ancient world, the **Pyramid of Khufu** (Cheops) alone containing more than two million limestone blocks and older than almost anything else still standing on earth. The [Great Sphinx](/africa/egypt/giza/sphinx) crouches just below, weather-eaten and half the height of its pyramid, staring east toward the Nile.

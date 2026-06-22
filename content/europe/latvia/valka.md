@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 57.7752
 longitude: 26.016
-score: 0.32
+score: 6.41
 snippet: Latvian border town paired with Estonian Valga, once split by a line now
   barely visible.
 ---

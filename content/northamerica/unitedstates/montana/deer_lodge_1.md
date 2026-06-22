@@ -5,7 +5,7 @@ done:
 latitude: 46.0754
 loc_type: city
 longitude: -113.0893
-score: 0.3
+score: 6.18
 snippet: Montana valley town anchored by the Old Montana Prison and railroad-era history.
 title: Deer Lodge
 type: location

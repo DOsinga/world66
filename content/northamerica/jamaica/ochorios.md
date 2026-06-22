@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:JM-ocho_rios-hafen-01.jpg
 latitude: 18.4104
 loc_type: city
 longitude: -77.1024
-score: 0.57
+score: 8.8
 snippet: Jamaican cruise port and waterfall town on the north coast, named from Spanish
   Las Chorreras
 title: Ocho Rios

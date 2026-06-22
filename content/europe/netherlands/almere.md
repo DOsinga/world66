@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Almere_Leeghwaterplas_Leks
 latitude: 52.3723
 loc_type: city
 longitude: 5.2177
-score: 0.29
+score: 6.05
 snippet: Reclaimed Flevoland city built on former seabed, used as a laboratory for
   modern Dutch urban planning.
 title: Almere

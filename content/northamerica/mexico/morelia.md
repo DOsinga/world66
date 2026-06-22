@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_
 latitude: 19.6546
 loc_type: city
 longitude: -101.26238
-score: 0.54
+score: 8.55
 snippet: Michoacán capital of pink cantera arcades, baroque churches, and a UNESCO-listed
   colonial centre.
 title: Morelia

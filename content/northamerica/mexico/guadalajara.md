@@ -7,7 +7,7 @@ done:
 latitude: 20.6597
 loc_type: city
 longitude: -103.3496
-score: 0.55
+score: 8.69
 snippet: Jalisco capital and Mexican cultural stronghold of mariachi, tequila, charro
   tradition, and mural-filled plazas.
 title: Guadalajara

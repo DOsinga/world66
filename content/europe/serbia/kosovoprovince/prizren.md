@@ -2,7 +2,7 @@
 latitude: 42.2152
 loc_type: city
 longitude: 20.7393
-score: 0.46
+score: 7.83
 snippet: Kosovar mountain-valley city where Ottoman mosques, Byzantine churches, and
   stone streets crowd the Lumbardhi River
 title: Prizren

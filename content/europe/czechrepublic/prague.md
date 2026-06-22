@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190816_View_of_Prague_fr
 latitude: 50.087465
 loc_type: city
 longitude: 14.421254
-score: 0.74
+score: 9.6
 snippet: Central European capital on the Vltava, dense with intact Gothic, Baroque,
   and Art Nouveau streetscapes.
 title: Prague

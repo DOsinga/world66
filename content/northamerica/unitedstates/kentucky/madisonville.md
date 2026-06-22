@@ -5,7 +5,7 @@ done:
 latitude: 37.3281
 loc_type: city
 longitude: -87.4988
-score: 0.25
+score: 5.59
 snippet: Western Kentucky county seat shaped by coal mining, with a modest downtown
   and nearby Pennyrile forest
 title: Madisonville

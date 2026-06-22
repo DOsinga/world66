@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lagoa_das_Sete_Cidades_see
 latitude: 37.862
 loc_type: city
 longitude: -25.7969
-score: 0.59
+score: 8.96
 snippet: Tiny São Miguel crater village between the blue and green lakes of Lagoa
   das Sete Cidades.
 title: Sete Cidades

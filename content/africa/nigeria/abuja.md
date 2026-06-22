@@ -6,7 +6,7 @@ done:
 latitude: 9.064331
 loc_type: city
 longitude: 7.489297
-score: 0.31
+score: 6.25
 title: Abuja
 type: location
 snippet: Purpose-built Nigerian capital of broad boulevards, government districts,

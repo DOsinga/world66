@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats,_Cr
 latitude: 25.335649
 loc_type: city
 longitude: 83.007629
-score: 0.64
+score: 9.22
 snippet: Ancient Hindu sacred city on the Ganges, where ghats, cremations, and dawn
   rituals define daily life
 title: Varanasi

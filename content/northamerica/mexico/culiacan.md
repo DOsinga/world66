@@ -6,10 +6,11 @@ done:
 latitude: 24.7978
 loc_type: city
 longitude: -107.3934
-score: 0.21
+score: 5.01
 title: Culiacan
 type: location
-snippet: Sinaloa's capital sits where two rivers meet, with strong food traditions from its fertile valley.
+snippet: Sinaloa's capital sits where two rivers meet, with strong food traditions
+  from its fertile valley.
 ---
 
 Culiacan is the capital of Sinaloa and a city most travelers pass through rather than linger in. That is understandable — it lacks the colonial charm of nearby Mazatlan or the beach appeal of the Pacific coast — but the city has more going on than its reputation suggests. The food alone is worth a stop. Sinaloa is one of Mexico's agricultural powerhouses, and Culiacan eats exceptionally well as a result.

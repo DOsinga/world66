@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s
 latitude: 35.011575
 loc_type: city
 longitude: 135.768144
-score: 1.0
+score: 10.0
 snippet: Japan’s old imperial capital, dense with Buddhist temples, Shintō shrines,
   craft traditions, and geisha quarters
 title: Kyoto

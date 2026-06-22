@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Broad_Street_Downtown_Area
 latitude: 39.2626
 loc_type: city
 longitude: -121.0187
-score: 0.42
+score: 7.5
 snippet: California Gold Rush town of Victorian storefronts, brick buildings, galleries,
   and Deer Creek hills.
 title: Nevada City

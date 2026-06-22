@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuria13.jpg
 latitude: 42.3977
 loc_type: feature
 longitude: 2.1547
-score: 0.52
+score: 8.44
 snippet: High Pyrenean sanctuary valley reached by rack railway, with pilgrimage traditions
   and mountain walking.
 sources:

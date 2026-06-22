@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/36313666@N00/137681060
 latitude: 42.320498
 loc_type: city
 longitude: 12.174887
-score: 0.46
+score: 7.83
 snippet: Volcanic lake in northern Lazio, ringed by hazelnut groves, oak woods, and
   Monte Venere.
 title: Lake Vico

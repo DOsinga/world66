@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jungle_khai_gala_30.jpg
 latitude: 33.85
 loc_type: city
 longitude: 73.8333
-score: 0.25
+score: 5.64
 snippet: Roadside Azad Kashmir hill town between Rawalakot and Hajira, set around
   1,700 metres.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: -33.168212
 loc_type: feature
 longitude: 25.282611
-score: 0.57
+score: 8.77
 snippet: Eastern Cape wildlife park where elephant herds, coastal reserves, and marine
   bird colonies extend from bush to sea.
 title: Addo Elephant National Park

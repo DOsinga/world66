@@ -5,7 +5,7 @@ done:
 latitude: 5.01111
 loc_type: city
 longitude: -9.03889
-score: 0.19
+score: 4.64
 title: Greenville
 type: location
 snippet: Sinoe County port town founded by freed American slaves, with Kru and Bassa

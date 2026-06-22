@@ -7,7 +7,7 @@ done:
 latitude: -24.7859
 loc_type: city
 longitude: -65.4116
-score: 0.54
+score: 8.56
 snippet: Colonial city in Argentina’s Lerma Valley, known for its preserved centre
   and mountain-ringed setting.
 title: Salta

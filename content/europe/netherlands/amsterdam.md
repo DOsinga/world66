@@ -11,7 +11,7 @@ latitude: 52.37308
 loc_type: city
 longitude: 4.892453
 quote: Amsterdam makes more sense on two wheels than on foot.
-score: 0.8
+score: 9.87
 tagline: Seventeen canals, twelve million tulips, and the world's most visited painting.
 tip: Hire a bike on your first full day. Every neighbourhood is within 20 minutes
   of every other by bicycle, and the tram lanes and narrow pavements make walking

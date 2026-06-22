@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Ponferr
 latitude: 42.5454
 loc_type: city
 longitude: -6.5939
-score: 0.45
+score: 7.78
 snippet: Bierzo valley town on the Camino de Santiago, dominated by a large Templar
   castle.
 title: Ponferrada

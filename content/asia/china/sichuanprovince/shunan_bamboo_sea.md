@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Qicai_Waterfall_(330007906
 latitude: 28.4651
 loc_type: feature
 longitude: 104.9666
-score: 0.49
+score: 8.16
 snippet: Southern Sichuan bamboo forest of dense green canopies, waterfalls, cliff
   paths, and film-famous scenery
 sources:

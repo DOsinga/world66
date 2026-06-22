@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bushmills_Station,_Giant%2
 latitude: 55.205991
 loc_type: city
 longitude: -6.523416
-score: 0.48
+score: 8.09
 snippet: North Antrim village known for Old Bushmills Distillery, close to the Giant's
   Causeway coast
 title: Bushmills

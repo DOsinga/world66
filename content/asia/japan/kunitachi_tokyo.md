@@ -5,7 +5,7 @@ done:
 latitude: 35.681991
 loc_type: city
 longitude: 139.43624
-score: 0.36
+score: 6.83
 snippet: Quiet Western Tokyo college town centred on Hitotsubashi University and cherry-lined
   Daigaku-dori
 title: Kunitachi, Tokyo

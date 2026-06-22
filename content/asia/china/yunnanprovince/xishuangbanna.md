@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Templ
 latitude: 22.0099
 loc_type: city
 longitude: 100.8036
-score: 0.5
+score: 8.19
 snippet: Subtropical Yunnan region where Dai culture, tea forests, and Mekong lowlands
   meet Southeast Asia.
 title: Xishuangbanna

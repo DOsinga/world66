@@ -4,7 +4,7 @@ done:
 latitude: 49.1683
 loc_type: feature
 longitude: -122.5774
-score: 0.38
+score: 7.07
 snippet: Fort Langley heritage area in Greater Vancouver, focused on early British
   Columbia settlement history.
 tags:

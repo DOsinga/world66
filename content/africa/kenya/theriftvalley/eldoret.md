@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eldoret_1.JPG
 latitude: 0.519833
 loc_type: city
 longitude: 35.271548
-score: 0.29
+score: 6.05
 snippet: Rift Valley highland city and Kalenjin centre known for Kenya's distance-running
   training culture.
 title: Eldoret

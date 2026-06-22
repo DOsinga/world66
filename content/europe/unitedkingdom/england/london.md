@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Tower_of_London.jpg
 latitude: 51.5074
 loc_type: city
 longitude: -0.1278
-score: 0.78
+score: 9.81
 snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, West
   End theatre, markets, and Georgian pubs.
 title: London

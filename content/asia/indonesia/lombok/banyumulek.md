@@ -10,7 +10,7 @@ loc_type: city
 longitude: 116.1102
 title: Banyumulek
 type: location
-score: 0.36
+score: 6.83
 snippet: Lombok pottery village where household workshops shape terracotta pots on
   hand-turned wheels.
 ---

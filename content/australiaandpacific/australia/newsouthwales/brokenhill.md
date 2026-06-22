@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Argent_Street,_Broken_Hill
 latitude: -31.965
 loc_type: city
 longitude: 141.4511
-score: 0.39
+score: 7.17
 title: Broken Hill
 type: location
 snippet: Outback mining city in far western New South Wales, founded on a rich silver-lead-zinc

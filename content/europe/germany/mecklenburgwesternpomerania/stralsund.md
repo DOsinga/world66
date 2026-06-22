@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:WLM_-_2020_-_Stralsund_-_S
 latitude: 54.309631
 loc_type: city
 longitude: 13.082085
-score: 0.47
+score: 7.95
 title: Stralsund
 type: location
 snippet: Hanseatic Baltic port and UNESCO old town facing Rügen across the Strelasund.

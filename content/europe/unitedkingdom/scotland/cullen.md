@@ -2,7 +2,7 @@
 latitude: 57.6932
 loc_type: city
 longitude: -2.8229
-score: 0.41
+score: 7.32
 snippet: Moray Firth fishing village known for Cullen Skink, sandy beaches, and the
   Three Kings sea stacks.
 title: Cullen

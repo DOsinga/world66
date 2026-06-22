@@ -4,7 +4,7 @@ done:
 latitude: 49.68346
 loc_type: city
 longitude: 5.816771
-score: 0.36
+score: 6.85
 snippet: Southern Belgian city with Roman roots and a quiet old centre near the Luxembourg
   border
 title: Arlon

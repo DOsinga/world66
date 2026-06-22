@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nyika_grassland.jpg
 latitude: -10.6667
 loc_type: feature
 longitude: 33.8333
-score: 0.43
+score: 7.58
 snippet: High montane national park in northern Malawi, where rolling grassland rises
   above forested valleys.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grassy_mountainside_in_Tel
 latitude: 37.937494
 loc_type: city
 longitude: -107.812285
-score: 0.63
+score: 9.2
 snippet: Colorado mountain town in a San Juan box canyon, with mining streets below
   steep ski terrain.
 title: Telluride

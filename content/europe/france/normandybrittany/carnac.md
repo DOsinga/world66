@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kermario_Carnac.JPG
 latitude: 47.583663
 loc_type: city
 longitude: -3.079443
-score: 0.53
+score: 8.54
 snippet: Breton town famous for more than 3,000 prehistoric menhirs arranged across
   the countryside.
 title: Carnac

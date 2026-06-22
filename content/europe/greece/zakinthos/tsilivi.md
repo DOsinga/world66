@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zakynthos_May_2009_Tsilivi
 latitude: 37.812344
 loc_type: city
 longitude: 20.871852
-score: 0.52
+score: 8.43
 snippet: Family-oriented resort on Zakynthos' northeast coast, centred on a long sandy
   Ionian beach.
 title: Tsilivi

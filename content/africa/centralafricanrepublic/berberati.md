@@ -4,7 +4,7 @@ done:
 latitude: 4.2612
 loc_type: city
 longitude: 15.7919
-score: 0.14
+score: 3.89
 title: Berbérati
 type: location
 snippet: Southwestern Central African Republic town, historically linked to diamond

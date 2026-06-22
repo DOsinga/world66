@@ -5,7 +5,7 @@ done:
 latitude: 46.512655
 loc_type: city
 longitude: -84.33303
-score: 0.36
+score: 6.8
 title: Sault Ste. Marie
 type: location
 snippet: Northern Ontario city at the Superior-Huron narrows, gateway to rail trips

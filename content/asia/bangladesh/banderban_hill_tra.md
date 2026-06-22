@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandarban_City_02.jpg
 latitude: 22.192009
 loc_type: city
 longitude: 92.218533
-score: 0.4
+score: 7.2
 snippet: Hill Tracts town surrounded by forested ridges, indigenous villages, Buddhist
   shrines, and Bangladesh's highest trekking country.
 sources:

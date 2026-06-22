@@ -4,8 +4,9 @@ done:
 latitude: 45.9779
 loc_type: feature
 longitude: 7.1209
-score: 0.54
-snippet: Swiss alpine valley below Mont Blanc's southern massif, crossed by the Tour du Mont Blanc.
+score: 8.56
+snippet: Swiss alpine valley below Mont Blanc's southern massif, crossed by the Tour
+  du Mont Blanc.
 title: Val Ferret
 type: location
 ---

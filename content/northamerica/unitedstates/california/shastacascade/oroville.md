@@ -5,7 +5,7 @@ done:
 latitude: 39.513775
 loc_type: city
 longitude: -121.556359
-score: 0.3
+score: 6.13
 snippet: Northern California reservoir town below Lake Oroville Dam, with Feather
   River fishing and summer boating.
 title: Oroville

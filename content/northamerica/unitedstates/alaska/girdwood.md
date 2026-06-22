@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alaska_Railroad,_Girdwood,
 latitude: 60.9425
 loc_type: city
 longitude: -149.1664
-score: 0.48
+score: 8.06
 snippet: Chugach mountain resort town near Anchorage, tucked between Alyeska slopes
   and Turnagain Arm tidal flats.
 sources:

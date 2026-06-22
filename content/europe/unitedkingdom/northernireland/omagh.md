@@ -5,7 +5,7 @@ done:
 latitude: 54.599249
 loc_type: city
 longitude: -7.302991
-score: 0.34
+score: 6.64
 snippet: Tyrone market town where two rivers meet, with Sperrin Mountain trails and
   Ulster emigrant history nearby.
 title: Omagh

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mariehamn_2016_03.jpg
 latitude: 60.102423
 loc_type: city
 longitude: 19.94126
-score: 0.44
+score: 7.7
 snippet: Åland's only town and ferry capital, with Swedish-speaking streets between
   two harbours.
 title: Mariehamn

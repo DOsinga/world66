@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CaboSanLucasPort09.JPG
 latitude: 30.033892
 loc_type: city
 longitude: -115.142511
-score: 0.48
+score: 8.01
 snippet: Long arid peninsula between the Pacific and Gulf of California, stretching
   south from the US border.
 title: Baja California

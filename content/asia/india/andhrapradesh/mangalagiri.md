@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mangalagiri_town.jpg
 latitude: 16.431821
 loc_type: city
 longitude: 80.568807
-score: 0.27
+score: 5.86
 snippet: Andhra Pradesh temple town known for Panakala Narasimha Swamy Temple and
   distinctive Mangalagiri handloom cotton
 title: Mangalagiri

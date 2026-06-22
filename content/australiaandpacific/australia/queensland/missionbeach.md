@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Mission_Beach,_Qu
 latitude: -17.867234
 loc_type: city
 longitude: 146.107178
-score: 0.46
+score: 7.92
 title: Mission Beach
 type: location
 snippet: Tropical Queensland beach village where Wet Tropics rainforest reaches the

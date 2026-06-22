@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nainital_metro.jpg
 latitude: 29.294995
 loc_type: city
 longitude: 79.416251
-score: 0.47
+score: 7.99
 title: Nainital
 type: location
 snippet: Kumaon hill station wrapped around Naini Lake, with colonial promenades and

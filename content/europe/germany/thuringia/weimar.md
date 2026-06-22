@@ -10,9 +10,10 @@ image_source: https://www.flickr.com/photos/22890158@N08/2288697701
 latitude: 50.97933
 loc_type: city
 longitude: 11.329792
-score: 0.53
+score: 8.49
 title: Weimar
-snippet: Small Thuringian cultural city associated with Goethe, Schiller, the Weimar Republic, and the Bauhaus.
+snippet: Small Thuringian cultural city associated with Goethe, Schiller, the Weimar
+  Republic, and the Bauhaus.
 type: location
 ---
 

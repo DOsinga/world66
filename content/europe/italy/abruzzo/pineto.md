@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pineto-_Area_marina_protet
 latitude: 42.607771
 loc_type: city
 longitude: 14.067103
-score: 0.41
+score: 7.36
 snippet: Adriatic beach resort in Abruzzo, named for pine woods backing its protected
   sandy coast
 title: Pineto

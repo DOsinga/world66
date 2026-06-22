@@ -5,7 +5,7 @@ done:
 latitude: 41.136273
 loc_type: city
 longitude: -81.482812
-score: 0.28
+score: 5.99
 snippet: Ohio river city named for the Cuyahoga's rapids and cascades between Akron
   and Cleveland.
 title: Cuyahoga Falls

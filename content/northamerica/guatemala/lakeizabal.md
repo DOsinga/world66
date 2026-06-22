@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Festung_am_Lago_Izabal,Gua
 latitude: 15.5
 loc_type: feature
 longitude: -89.1667
-score: 0.42
+score: 7.48
 snippet: Guatemala's largest lake, draining through the Río Dulce gorge and sheltering
   manatees, mangroves, and waterbirds.
 sources:

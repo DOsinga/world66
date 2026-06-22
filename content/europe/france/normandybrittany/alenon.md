@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alen%C3%A7on_2024_juill_-0
 latitude: 48.431206
 loc_type: city
 longitude: 0.091137
-score: 0.4
+score: 7.24
 snippet: Norman lace town between Paris and Mont-Saint-Michel, famous for UNESCO-recognised
   Alençon point lace
 title: Alençon

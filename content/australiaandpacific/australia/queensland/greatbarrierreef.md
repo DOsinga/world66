@@ -2,7 +2,7 @@
 latitude: -18.2861
 loc_type: feature
 longitude: 147.7
-score: 0.79
+score: 9.83
 snippet: Vast Queensland reef system of coral, islands, and marine life stretching
   more than 2,300 kilometres.
 title: Great Barrier Reef

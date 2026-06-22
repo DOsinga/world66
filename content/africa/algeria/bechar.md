@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bechar_-_Place_1er_Novembr
 latitude: 31.385726
 loc_type: city
 longitude: -2.011596
-score: 0.26
+score: 5.73
 title: Béchar
 type: location
 snippet: Southwestern Saharan city and logistics base for the oases and sand seas

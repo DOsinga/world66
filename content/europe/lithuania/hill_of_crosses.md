@@ -4,7 +4,7 @@ done:
 latitude: 56.01503
 loc_type: feature
 longitude: 23.415678
-score: 0.49
+score: 8.11
 snippet: Lithuanian pilgrimage mound near Šiauliai, covered with crosses that became
   a symbol of peaceful resistance.
 title: Hill of Crosses

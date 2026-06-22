@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Storno-h%C3%A1z_T%C5%B1zto
 latitude: 47.680306
 loc_type: city
 longitude: 16.598346
-score: 0.47
+score: 7.99
 title: Sopron
 type: location
 snippet: Hungarian border city with an intact medieval core and a fierce memory of

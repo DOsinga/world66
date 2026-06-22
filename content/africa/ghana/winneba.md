@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fisherboats_in_Winneba,_Gh
 latitude: 5.35006
 loc_type: city
 longitude: -0.62134
-score: 0.31
+score: 6.28
 snippet: Ghanaian coastal town with a fishing harbour, university campus, and the
   dramatic Aboakyere deer-hunting festival.
 title: Winneba

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Colima_with_Basilica
 latitude: 19.2433
 loc_type: city
 longitude: -103.7247
-score: 0.34
+score: 6.65
 snippet: Small Mexican state capital in a green valley between Volcán de Fuego and
   Nevado de Colima.
 title: Colima

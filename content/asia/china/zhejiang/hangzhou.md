@@ -7,12 +7,13 @@ done:
 latitude: 30.248963
 loc_type: city
 longitude: 120.205234
-score: 0.61
+score: 9.05
 sources:
 - https://en.wikipedia.org/wiki/Hangzhou
 - https://en.wikipedia.org/wiki/West_Lake
 title: Hangzhou
-snippet: Celebrated Chinese lake city where West Lake, pagodas, tea hills, and literary pilgrimage define the centre
+snippet: Celebrated Chinese lake city where West Lake, pagodas, tea hills, and literary
+  pilgrimage define the centre
 type: location
 ---
 

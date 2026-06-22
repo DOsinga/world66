@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Goreme_fairy_chimneys-2.jp
 latitude: 38.642089
 loc_type: city
 longitude: 34.829623
-score: 0.73
+score: 9.53
 snippet: Cappadocian village surrounded by fairy chimneys and the rock-cut churches
   of Göreme Open-Air Museum.
 sources:

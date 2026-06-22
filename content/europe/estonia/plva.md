@@ -2,7 +2,7 @@
 latitude: 58.0594
 loc_type: city
 longitude: 27.0576
-score: 0.34
+score: 6.56
 snippet: Small southeastern Estonian town in Põlva County, set among rolling farmland,
   lakes, and forest.
 title: Põlva

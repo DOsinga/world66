@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22490717@N02/2216830855
 latitude: 31.183
 loc_type: city
 longitude: 35.7012
-score: 0.4
+score: 7.3
 snippet: Jordanian hilltop town on the King's Highway, dominated by the massive Crusader
   fortress of Kerak.
 title: Karak

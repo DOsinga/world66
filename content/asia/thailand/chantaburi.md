@@ -5,7 +5,7 @@ done:
 latitude: 12.6112
 loc_type: city
 longitude: 102.1034
-score: 0.43
+score: 7.56
 snippet: Eastern Thai provincial capital on the Chanthaburi River, long associated
   with rubies and sapphires.
 title: Chantaburi

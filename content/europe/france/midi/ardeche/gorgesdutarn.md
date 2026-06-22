@@ -4,7 +4,7 @@ done:
 latitude: 44.2515
 loc_type: feature
 longitude: 3.231
-score: 0.52
+score: 8.42
 snippet: Southern French canyon where the Tarn cuts limestone cliffs between Florac
   and Le Rozier.
 title: Gorges du Tarn

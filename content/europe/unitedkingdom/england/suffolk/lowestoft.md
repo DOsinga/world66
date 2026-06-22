@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lowestoft_beach_and_outer_
 latitude: 52.476631
 loc_type: city
 longitude: 1.753764
-score: 0.32
+score: 6.32
 snippet: Northeast Suffolk coastal town at the most easterly point of the United Kingdom.
 sources:
 - https://en.wikipedia.org/wiki/Lowestoft

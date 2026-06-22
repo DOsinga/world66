@@ -6,7 +6,7 @@ done:
 latitude: 11.940242
 loc_type: city
 longitude: 108.437576
-score: 0.55
+score: 8.64
 snippet: Cool Central Highlands city of pine forests, flower farms, French villas,
   and lake-centred streets.
 title: Dalat

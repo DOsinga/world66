@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Principal_Puerto_Esc
 latitude: 15.8693
 loc_type: city
 longitude: -97.0726
-score: 0.55
+score: 8.64
 snippet: Oaxacan Pacific surf town where Playa Zicatela's heavy waves meet sheltered
   coves and lagoon trips.
 title: Puerto Escondido

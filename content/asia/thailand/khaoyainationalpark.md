@@ -2,7 +2,7 @@
 latitude: 14.4
 loc_type: feature
 longitude: 101.3667
-score: 0.6
+score: 9.0
 snippet: Thailand's oldest national park, protecting forest, grassland, waterfalls,
   elephants, gibbons, and hornbills northeast of Bangkok.
 title: Khao Yai National Park

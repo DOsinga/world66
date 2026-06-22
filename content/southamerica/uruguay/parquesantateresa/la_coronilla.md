@@ -5,7 +5,7 @@ done:
 latitude: -33.896136
 loc_type: city
 longitude: -53.515474
-score: 0.33
+score: 6.55
 snippet: Tiny Uruguayan beach village near Brazil, with pine-backed Atlantic sand
   and Parque Nacional Santa Teresa nearby.
 title: La Coronilla

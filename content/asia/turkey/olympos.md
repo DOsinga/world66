@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Çıralı_coast_from_top_o
 latitude: 36.395012
 loc_type: city
 longitude: 30.473564
-score: 0.51
+score: 8.3
 snippet: Lycian coast backpacker village where ancient ruins sit in forest above a
   long pebble beach.
 title: Olympos

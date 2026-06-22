@@ -5,7 +5,7 @@ done:
 latitude: 15.502333
 loc_type: city
 longitude: 73.911743
-score: 0.53
+score: 8.5
 snippet: Former Portuguese India capital preserved as a cluster of monumental churches,
   convents, and ruins.
 sources:

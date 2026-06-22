@@ -5,7 +5,7 @@ done:
 latitude: 19.893
 loc_type: city
 longitude: -70.952
-score: 0.34
+score: 6.6
 snippet: North Dominican fishing town with a protected sailors’ harbour and nearby
   La Isabela ruins
 sources:

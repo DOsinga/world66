@@ -5,7 +5,7 @@ done:
 latitude: 50.693938
 loc_type: city
 longitude: -121.933691
-score: 0.39
+score: 7.09
 title: Lillooet
 type: location
 snippet: Dry British Columbia interior town where the Bridge and Fraser rivers meet

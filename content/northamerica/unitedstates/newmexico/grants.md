@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2926_in_Grants_Cut_New_Mex
 latitude: 35.1473
 loc_type: city
 longitude: -107.8514
-score: 0.28
+score: 5.93
 snippet: Route 66 highway town turned uranium capital, with black lava fields and
   ice caves just beyond town.
 sources:

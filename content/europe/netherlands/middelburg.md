@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/152930510@N02/49520209202
 latitude: 51.499678
 loc_type: city
 longitude: 3.613737
-score: 0.43
+score: 7.59
 snippet: Zeeland's capital, with canals, stepped-gable houses, a Gothic town hall,
   and a historic abbey complex.
 title: Middelburg

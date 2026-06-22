@@ -2,7 +2,7 @@
 latitude: -0.4223
 loc_type: city
 longitude: 37.5721
-score: 0.24
+score: 5.5
 snippet: Central Kenyan market town between Embu and Mount Kenya, rooted in coffee,
   tea, and weekly trade
 title: Runyenjes

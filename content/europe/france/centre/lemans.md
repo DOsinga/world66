@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_Mans_-_63_Grande-Rue.jp
 latitude: 48.007385
 loc_type: city
 longitude: 0.196785
-score: 0.46
+score: 7.91
 snippet: Loire-region city known for its 24-hour race and the medieval Cité Plantagenêt
   old town
 title: Le Mans

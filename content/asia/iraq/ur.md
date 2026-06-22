@@ -4,7 +4,7 @@ done:
 latitude: 30.961335
 loc_type: feature
 longitude: 46.105388
-score: 0.34
+score: 6.65
 snippet: Ancient Sumerian city site near Nasiriyah, dominated by Ur-Nammu's monumental
   brick ziggurat
 title: Ur

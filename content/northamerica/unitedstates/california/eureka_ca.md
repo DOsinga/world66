@@ -11,8 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Carson_Mansion_Eureka_Cali
 latitude: 40.801875
 loc_type: city
 longitude: -124.170756
-score: 0.37
-snippet: Victorian port city on Humboldt Bay, surrounded by redwood country and ornate timber-era architecture.
+score: 6.9
+snippet: Victorian port city on Humboldt Bay, surrounded by redwood country and ornate
+  timber-era architecture.
 title: Eureka, CA
 type: location
 ---

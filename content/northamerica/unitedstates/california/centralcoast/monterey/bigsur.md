@@ -6,7 +6,7 @@ done:
 latitude: 36.1437
 loc_type: feature
 longitude: -121.5646
-score: 0.66
+score: 9.35
 snippet: Wild California coastal corridor where Highway 1 threads Pacific cliffs,
   redwood canyons, and isolated beaches
 title: Big Sur

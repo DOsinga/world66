@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Darmstadt_Mathildenh%C3%B6
 latitude: 49.8728
 loc_type: city
 longitude: 8.6512
-score: 0.39
+score: 7.16
 snippet: Hessen science city whose Mathildenhöhe artists’ colony anchors Germany’s
   Jugendstil architecture.
 title: Darmstadt

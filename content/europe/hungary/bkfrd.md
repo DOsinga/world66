@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eingang_B%C3%BCkf%C3%BCrd%
 latitude: 47.381162
 loc_type: city
 longitude: 16.787056
-score: 0.38
+score: 7.06
 snippet: Western Hungarian spa village built around mineral springs discovered during
   oil drilling
 title: Bükfürdő

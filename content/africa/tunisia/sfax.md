@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20200106_Th%C3%A9%C3%A2tre
 latitude: 34.739436
 loc_type: city
 longitude: 10.760402
-score: 0.31
+score: 6.24
 snippet: Tunisia's second city, an east-coast commercial hub with a walled medina
   and access to the Kerkennah Islands.
 title: Sfax

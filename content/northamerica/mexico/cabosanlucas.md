@@ -5,7 +5,7 @@ done:
 latitude: 22.893888
 loc_type: city
 longitude: -109.92006
-score: 0.58
+score: 8.88
 snippet: Baja California resort town at Land's End, defined by El Arco and Sea of
   Cortez beaches
 title: Cabo San Lucas

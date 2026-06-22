@@ -6,10 +6,11 @@ done:
 latitude: 33.489
 loc_type: city
 longitude: 126.4983
-score: 0.66
+score: 9.38
 title: Jeju Island
 type: location
-snippet: "Volcanic Korean island around Hallasan, set apart by its dialect, stone architecture, and lava landscapes."
+snippet: Volcanic Korean island around Hallasan, set apart by its dialect, stone architecture,
+  and lava landscapes.
 ---
 
 Jeju Island (Jejudo) is South Korea's largest island, a volcanic landmass about 100 km off the southwest coast of the mainland. It is the country's most popular domestic holiday destination — particularly for honeymooners — and was designated a UNESCO World Heritage Site for its volcanic landscape. The island has a unique history, dialect, architecture, and tradition that set it apart from the mainland.

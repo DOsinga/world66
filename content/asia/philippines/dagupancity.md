@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:By_Jdcedit_-_Bangus_Festiv
 latitude: 16.0433
 loc_type: city
 longitude: 120.3341
-score: 0.32
+score: 6.38
 title: Dagupan City
 type: location
 snippet: Pangasinan coastal city where rivers, fishponds, and markets revolve around

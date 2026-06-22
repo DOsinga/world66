@@ -7,7 +7,7 @@ done:
 latitude: -32.8908
 loc_type: city
 longitude: -68.8272
-score: 0.56
+score: 8.72
 snippet: Argentine wine city at the foot of the Andes, known for Malbec and irrigation
   channels.
 title: Mendoza

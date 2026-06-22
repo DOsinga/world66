@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_Cortegana_en_Huel
 latitude: 37.909302
 loc_type: city
 longitude: -6.819617
-score: 0.38
+score: 6.97
 snippet: Sierra de Aracena village crowned by a medieval castle above oak-covered
   Huelva hills.
 title: Cortegana

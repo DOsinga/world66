@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1921_Karratha,_Western_
 latitude: -20.737007
 loc_type: city
 longitude: 116.847859
-score: 0.3
+score: 6.12
 snippet: Pilbara resource city near Murujuga, where industrial coastlines meet ancient
   Aboriginal rock art.
 title: Karratha

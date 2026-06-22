@@ -5,7 +5,7 @@ latitude: 51.807553
 longitude: -2.448843
 title: Severn Bore
 type: location
-score: 0.37
+score: 6.91
 loc_type: feature
 snippet: Tidal bore on the River Severn, where a single wave surges inland from the
   Bristol Channel.

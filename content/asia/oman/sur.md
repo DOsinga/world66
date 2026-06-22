@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oman,_Sur_(city_view).jpg
 latitude: 22.5694
 loc_type: city
 longitude: 59.5297
-score: 0.46
+score: 7.84
 snippet: Omani lagoon port where traditional dhow builders keep the town's Indian
   Ocean seafaring history visible.
 title: Sur

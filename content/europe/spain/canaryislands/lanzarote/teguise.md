@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lanzarote_-_Teguise_-_2019
 latitude: 29.0593
 loc_type: city
 longitude: -13.5602
-score: 0.51
+score: 8.36
 snippet: Former Lanzarote capital of cobbled lanes, whitewashed houses, old churches,
   and a Sunday island market
 title: Teguise

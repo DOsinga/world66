@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jakobstad_Skata_1.jpg
 latitude: 63.6745
 loc_type: city
 longitude: 22.7055
-score: 0.38
+score: 7.05
 snippet: Bilingual Gulf of Bothnia town with Swedish-speaking character and a preserved
   wooden Skata quarter
 title: Jakobstad

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Badaju_Market,_Zibo_(20250
 latitude: 36.7833
 loc_type: city
 longitude: 118.05
-score: 0.28
+score: 5.92
 snippet: Shandong city rooted in ancient Qi history, with major ruins and museums
   at Linzi.
 sources:

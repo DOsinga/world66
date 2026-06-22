@@ -11,7 +11,7 @@ tags:
 - things_to_do
 - sight
 - town
-- r_southern_fyn
+- aero
 title: Ærøskøbing
 type: location
 image: aeroskobing.jpg

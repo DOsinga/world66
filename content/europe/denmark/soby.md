@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - sight
 - town
-- r_southern_fyn
+- aero
 title: Søby
 type: location
 image: soby.jpg

@@ -1,5 +1,0 @@
-northamerica/canada/ontario/niagara
-northamerica/canada/quebec/gatineau
-northamerica/costarica/paquera
-northamerica/costarica/puertojimenez
-northamerica/costarica/sanisidrodeprezzeledn

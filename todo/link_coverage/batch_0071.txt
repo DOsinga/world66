@@ -1,5 +1,0 @@
-northamerica/canada/britishcolumbia/vancouverisland
-northamerica/canada/newfoundland/grosmornenationa
-northamerica/canada/newfoundland/terranovanationa
-northamerica/canada/novascotia/lunenburg
-northamerica/canada/nunavut/auyuittuq

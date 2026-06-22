@@ -10,7 +10,7 @@ tags:
 - things_to_do
 - sight
 - langley
-title: Museum
+title: Fort Langley Museums
 type: poi
 ---
 

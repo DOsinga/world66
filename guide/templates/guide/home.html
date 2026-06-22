@@ -98,7 +98,7 @@
     zoomControl: true,
     attributionControl: true
   });
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
     subdomains: 'abcd', maxZoom: 19
   }).addTo(map);
@@ -106,6 +106,7 @@
   var panel = document.getElementById('city-card-panel');
   var dotActive = { radius: 7, fillColor: '#b8532b', color: '#fff', weight: 2, fillOpacity: 0.95 };
   var currentMarker = null;
+  var travelLine = null;
   var preloadCache = {};
 
   function escapeHtml(value) {
@@ -241,6 +242,14 @@
   function closeCard() {
     panel.classList.remove('active');
     if (currentMarker) { map.removeLayer(currentMarker); currentMarker = null; }
+    clearTravelLine();
+  }
+
+  function clearTravelLine() {
+    if (travelLine) {
+      map.removeLayer(travelLine);
+      travelLine = null;
+    }
   }
 
   var exploreLayer = L.layerGroup().addTo(map);
@@ -288,7 +297,7 @@
   map.on('moveend', function() { if (isExploring) updateExploreDots(); });
   map.on('click', function() { if (isExploring) closeCard(); });
 
-  var cycleCities = cities.filter(function(c) { return c.score >= 0.70; });
+  var cycleCities = cities.slice();
   // Shuffle
   for (var i = cycleCities.length - 1; i > 0; i--) {
     var j = Math.floor(Math.random() * (i + 1));
@@ -309,12 +318,97 @@
 
   var cycleIdx = 0, cycleTimer = null, cycleStarted = false;
   var MIN_JUMP_M = 900000, MAX_JUMP_M = 5000000;
+  var MAX_HEADING_JITTER = Math.PI / 9; // 20 degrees
   var prevLat = null, prevLng = null;
+  var recentUrls = [];
+  var RECENT_WINDOW = Math.min(36, Math.max(8, Math.floor(cycleCities.length / 12)));
 
   // Normalize longitude difference to [-180, 180] to handle the dateline correctly
   function dlng(from, to) { var d = to - from; while (d > 180) d -= 360; while (d < -180) d += 360; return d; }
 
+  function bearing(fromLat, fromLng, toLat, toLng) {
+    var lat1 = fromLat * Math.PI / 180;
+    var lat2 = toLat * Math.PI / 180;
+    var dLng = dlng(fromLng, toLng) * Math.PI / 180;
+    var y = Math.sin(dLng) * Math.cos(lat2);
+    var x = Math.cos(lat1) * Math.sin(lat2) -
+            Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLng);
+    return Math.atan2(y, x);
+  }
+
+  function angleDelta(a, b) {
+    var d = b - a;
+    while (d > Math.PI) d -= Math.PI * 2;
+    while (d < -Math.PI) d += Math.PI * 2;
+    return d;
+  }
+
   var curLat = 14.7, curLng = -17.4; // start near Dakar
+
+  function rememberCity(city) {
+    if (!city || !city.url) return;
+    recentUrls.push(city.url);
+    while (recentUrls.length > RECENT_WINDOW) recentUrls.shift();
+  }
+
+  function isRecent(city) {
+    return city && city.url && recentUrls.indexOf(city.url) !== -1;
+  }
+
+  function routePoints(fromLat, fromLng, toLat, toLng, arcSign) {
+    var points = [];
+    var lngDelta = dlng(fromLng, toLng);
+    var steps = 28;
+    for (var i = 0; i <= steps; i++) {
+      var t = i / steps;
+      var ease = t * t * (3 - 2 * t);
+      var arc = Math.sin(Math.PI * t) * 10 * arcSign;
+      points.push([
+        fromLat + (toLat - fromLat) * ease + arc,
+        fromLng + lngDelta * ease
+      ]);
+    }
+    return points;
+  }
+
+  function chooseRoutePoints(picked) {
+    var direction = dlng(picked.fromLng, picked.city.lng) >= 0 ? 1 : -1;
+    return routePoints(picked.fromLat, picked.fromLng, picked.city.lat, picked.city.lng, direction);
+  }
+
+  function animateTravelLine(picked, done) {
+    clearTravelLine();
+    panel.classList.remove('active');
+    travelLine = L.polyline(
+      chooseRoutePoints(picked),
+      {
+        color: '#b8532b',
+        weight: 2,
+        opacity: 0.82,
+        interactive: false,
+        className: 'home-travel-line'
+      }
+    ).addTo(map);
+
+    requestAnimationFrame(function() {
+      var path = travelLine && travelLine.getElement ? travelLine.getElement() : null;
+      if (!path || !path.getTotalLength) {
+        setTimeout(done, 650);
+        return;
+      }
+      var length = path.getTotalLength();
+      path.style.strokeDasharray = length;
+      path.style.strokeDashoffset = length;
+      path.getBoundingClientRect();
+      path.style.transition = 'stroke-dashoffset 760ms ease-out, opacity 300ms ease 900ms';
+      path.style.strokeDashoffset = '0';
+      setTimeout(function() {
+        if (path) path.style.opacity = '0.36';
+        done();
+      }, 780);
+      setTimeout(clearTravelLine, 1500);
+    });
+  }
 
   function pickNext() {
     var scored = [];
@@ -323,6 +417,8 @@
       var d = map.distance([curLat, curLng], [city.lat, city.lng]);
       scored.push({ i: i, city: city, dist: d });
     }
+    var fresh = scored.filter(function(s) { return !isRecent(s.city); });
+    if (fresh.length) scored = fresh;
     var inRange = scored.filter(function(s) { return s.dist >= MIN_JUMP_M && s.dist <= MAX_JUMP_M; });
     if (!inRange.length) inRange = scored.filter(function(s) { return s.dist >= MIN_JUMP_M; });
     if (!inRange.length) inRange = scored;
@@ -330,10 +426,10 @@
     inRange.forEach(function(s) {
       var cosAngle = 0;
       if (prevLat !== null) {
-        var dx1 = dlng(prevLng, curLng), dy1 = curLat - prevLat;
-        var dx2 = dlng(curLng, s.city.lng), dy2 = s.city.lat - curLat;
-        var mag = Math.sqrt((dx1*dx1 + dy1*dy1) * (dx2*dx2 + dy2*dy2));
-        if (mag > 0) cosAngle = (dx1*dx2 + dy1*dy2) / mag;
+        var jitter = (Math.random() * 2 - 1) * MAX_HEADING_JITTER;
+        var previousBearing = bearing(prevLat, prevLng, curLat, curLng) + jitter;
+        var candidateBearing = bearing(curLat, curLng, s.city.lat, s.city.lng);
+        cosAngle = Math.cos(angleDelta(previousBearing, candidateBearing));
       }
       s.score = 1 - cosAngle;
     });
@@ -342,11 +438,13 @@
     var topN = inRange.slice(0, Math.min(3, inRange.length));
     var chosen = topN[Math.floor(Math.random() * topN.length)];
     var tmp = cycleCities[cycleIdx]; cycleCities[cycleIdx] = cycleCities[chosen.i]; cycleCities[chosen.i] = tmp;
+    var fromLat = curLat, fromLng = curLng;
     prevLat = curLat; prevLng = curLng;
     curLat = chosen.city.lat; curLng = chosen.city.lng;
     var city = cycleCities[cycleIdx];
     cycleIdx = (cycleIdx + 1) % cycleCities.length;
-    return { city: city, dist: chosen.dist };
+    rememberCity(city);
+    return { city: city, dist: chosen.dist, fromLat: fromLat, fromLng: fromLng };
   }
 
   function scheduleNext(delay) {
@@ -356,8 +454,11 @@
       var picked = pickNext();
       preloadImage(picked.city.image, function() {
         if (isExploring) return;
-        openCard(picked.city);
-        scheduleNext(4300);
+        animateTravelLine(picked, function() {
+          if (isExploring) return;
+          openCard(picked.city);
+          scheduleNext(4300);
+        });
       });
     }, delay || 0);
   }

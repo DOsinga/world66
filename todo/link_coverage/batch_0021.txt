@@ -1,5 +1,0 @@
-asia/india/madhyapradesh/mandu
-asia/india/madhyapradesh/omkareshwar
-asia/india/madhyapradesh/orchha
-asia/india/maharashtra/chiplun
-asia/india/manipur/moreh

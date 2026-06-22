@@ -26,5 +26,5 @@ Winters are cold and wet; summers are warm with long evenings. The best time to 
 ## Destinations in Tasmania
 
 [Hobart](/australiaandpacific/australia/tasmania/hobart)
-[Cradle Mountain](/australiaandpacific/australia/tasmania/cradlemountain)
+[Cradle Mountain](/australiaandpacific/australia/tasmania/northwest/cradlemountain)
 [Launceston](/australiaandpacific/australia/tasmania/launceston)

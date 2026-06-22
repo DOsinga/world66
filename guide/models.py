@@ -632,6 +632,12 @@ _CITY_SCORE_THRESHOLDS = {
 
 
 @lru_cache(maxsize=1)
+def count_content_pages():
+    """Return the number of markdown pages in the content tree."""
+    return sum(1 for _ in CONTENT_DIR.rglob("*.md"))
+
+
+@lru_cache(maxsize=1)
 def load_featured_cities():
     """Return location pages at city level (depth 3 or 4). Score threshold varies by continent."""
     result = []

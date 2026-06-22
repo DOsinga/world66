@@ -12,6 +12,10 @@ tags:
 - falster
 title: Nykøbing Falster
 type: location
+image: nykoebing_falster.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kirkepladsen,_Nyk%C3%B8bing_Falster_2022_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Smiley.toerist
 ---
 
 Nykøbing Falster is the main town on Falster and the largest settlement in the Guldborgsund municipality, sitting on the Guldborg Sound where the bridge connects the island to Lolland. It is a working market town rather than a tourist destination, but it has a compact historic centre worth an hour or two.

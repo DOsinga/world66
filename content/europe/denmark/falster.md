@@ -1,12 +1,16 @@
 ---
-latitude: 54.8000
-longitude: 11.9500
+latitude: 54.8
+longitude: 11.95
 loc_type: feature
 score: 0.38
 snippet: Flat Danish island south of Zealand with the beach resort of Marielyst, the
   market town of Nykøbing Falster, and the southernmost tip of Denmark.
 title: Falster
 type: location
+image: falster.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Far%C3%B8_sydbroen_Far%C3%B8_Falster_3.jpg
+image_license: CC BY-SA 4.0
+image_attribution: kallerna
 ---
 
 Falster is a flat agricultural island in the south of Denmark, connected to Zealand by the Storstrøm Bridge and Farø Bridges and to Lolland by bridge across the Guldborg Sound. At 514 square kilometres it is one of Denmark's larger islands, but it sits in the shadow of its more-visited neighbours and is largely known for two things: a busy market town and a stretch of beach.

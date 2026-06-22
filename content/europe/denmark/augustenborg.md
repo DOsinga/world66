@@ -1,6 +1,6 @@
 ---
 latitude: 54.9511
-longitude: 9.8800
+longitude: 9.88
 loc_type: city
 score: 0.33
 snippet: Small Als waterfront town with an 18th-century ducal palace, formal gardens,
@@ -12,6 +12,10 @@ tags:
 - als
 title: Augustenborg
 type: location
+image: augustenborg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:AugustenborgR%C3%A5dhusStoregade.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Beethoven9
 ---
 
 Augustenborg is a small town on the western shore of Als Fjord, built around the summer palace of the Augustenborg ducal line in the 18th century. The palace — a long, yellow Baroque building set in formal gardens above the water — now functions as a psychiatric hospital, but the grounds and garden are open to visitors, and the building can be viewed from outside. A small museum in the town covers the history of the duchy and the palace.

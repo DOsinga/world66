@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 55.425992
 longitude: 47.084943
+snippet: "Middle Volga republic with Turkic Chuvash culture, Orthodox traditions, and gentle farmland along the river."
 title: Chuvashia
 type: location
 score: 0.32

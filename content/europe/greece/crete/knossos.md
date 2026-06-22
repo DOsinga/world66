@@ -1,12 +1,14 @@
 ---
-title: Knossos
-type: location
-latitude: 35.298057
-longitude: 25.162813
 done:
   location_cleanup: '2026-04-07'
-score: 0.63
+latitude: 35.298057
 loc_type: feature
+longitude: 25.162813
+score: 0.63
+snippet: Minoan palace site near Heraklion, Crete's largest Bronze Age archaeological
+  complex and ceremonial heart.
+title: Knossos
+type: location
 ---
 
 Knossos is the largest Bronze Age archaeological site on Crete and one of the most extraordinary places in the Mediterranean. This was the ceremonial heart of Minoan civilization — a culture that flourished here for roughly 1,500 years before the rest of Europe had mastered the wheel. Walking its reconstructed corridors, you get an unsettling sense of how sophisticated these people were, and how completely they vanished.

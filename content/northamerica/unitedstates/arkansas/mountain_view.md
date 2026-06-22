@@ -12,6 +12,8 @@ longitude: -92.1174
 score: 0.34
 title: Mountain View
 type: location
+snippet: Ozark mountain town in Arkansas where courthouse-square music keeps old-time
+  folk traditions alive.
 ---
 
 Mountain View is a small town of about 3,000 people in the Ozark Mountains of north-central Arkansas, and it calls itself the "Folk Music Capital of the World" with some justification. Music is everywhere here -- on the [courthouse square](/northamerica/unitedstates/arkansas/mountain_view/courthouse_square) on weekend evenings, at the [Ozark Folk Center](/northamerica/unitedstates/arkansas/mountain_view/ozark_folk_center), and in impromptu jam sessions on front porches.

@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: 2026-04-04
+image: java.jpg
+image_attribution: CEphoto, Uwe Aranas
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-04.jpg
 latitude: -7.6145
+loc_type: region
 longitude: 110.7122
+score: 0.52
+snippet: Indonesia's densely populated core island, shaped by volcanoes, rice terraces,
+  and Javanese court culture.
 title: Java
 type: location
-score: 0.52
-image: java.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-04.jpg
-image_license: CC BY-SA 3.0
-image_attribution: CEphoto, Uwe Aranas
-loc_type: region
 ---
 
 Java is the heart of Indonesia -- the most populated island on earth and the country's political, economic, and cultural engine. More than 150 million people live here, packed into an island roughly the size of England, and yet there are still stretches of rice terraces, volcanic peaks, and dense forest that feel genuinely remote.

@@ -12,6 +12,8 @@ longitude: -111.8344
 score: 0.35
 title: Logan
 type: location
+snippet: Cache Valley university town framed by mountains and linked to the Wasatch
+  through Logan Canyon.
 ---
 
 Logan is a university town tucked into the Cache Valley in northern Utah, surrounded by mountains on three sides. [Utah State University](/northamerica/unitedstates/utah/logan/utah_state_university) gives it a youthful energy, and the setting — green farmland ringed by the Bear River and Wellsville ranges — is striking.

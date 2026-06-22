@@ -10,6 +10,8 @@ latitude: 44.8654
 loc_type: city
 longitude: 15.582
 score: 0.75
+snippet: Croatian national park of terraced karst lakes, waterfalls, and boardwalks
+  through mineral-bright water
 title: Plitvice Lakes
 type: location
 ---

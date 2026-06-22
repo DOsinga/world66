@@ -9,6 +9,7 @@ loc_type: city
 longitude: -76.8077
 score: 0.26
 title: Elmira
+snippet: Southern Tier river city where Mark Twain spent summers writing some of his best-known books.
 type: location
 ---
 

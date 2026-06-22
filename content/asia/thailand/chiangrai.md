@@ -11,6 +11,8 @@ latitude: 19.758952
 loc_type: city
 longitude: 99.673459
 score: 0.6
+snippet: Northern Thai city in a mountain-fringed river valley, calmer than Chiang
+  Mai and close to border country.
 title: Chiang Rai
 type: location
 ---

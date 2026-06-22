@@ -10,6 +10,8 @@ latitude: 42.451762
 loc_type: city
 longitude: 18.536752
 score: 0.5
+snippet: Bay of Kotor town near Croatia, with layered fortresses and a steep Ottoman-Baroque
+  old centre.
 title: Herceg Novi
 type: location
 ---

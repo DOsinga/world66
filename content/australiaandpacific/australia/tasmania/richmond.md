@@ -10,6 +10,8 @@ latitude: -42.7354
 loc_type: city
 longitude: 147.4381
 score: 0.43
+snippet: Georgian Tasmanian village in the Coal River Valley, centred on Australia's
+  oldest stone bridge.
 title: Richmond
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 5.085879
 loc_type: city
 longitude: -1.350578
 score: 0.48
+snippet: Small Ghanaian fishing town where Elmina Castle overlooks painted pirogues
+  in the Benya lagoon.
 title: Elmina
 type: location
 ---

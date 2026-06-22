@@ -16,6 +16,7 @@ sources:
 - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
 title: Urgup
 type: location
+snippet: Cappadocian base town of hillside stone houses, cave hotels, wine bars, and nearby fairy chimneys.
 ---
 
 Urgup is one of the main base towns for exploring [Cappadocia](/asia/turkey/cappadocia), along with [Goreme](/asia/turkey/cappadocia/goreme) and Avanos. It has a slightly more upmarket feel than Goreme — the [old stone houses on the hillside](/asia/turkey/cappadocia/urgup/urgup_cave_town) have been converted into boutique hotels carved directly from the volcanic tuff, and the town centre has good restaurants and a lively evening atmosphere anchored by Cappadocia's own [wine bars](/asia/turkey/cappadocia/urgup/urgup_wine).

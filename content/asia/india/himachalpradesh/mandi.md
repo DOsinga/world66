@@ -10,6 +10,7 @@ latitude: 31.706944
 loc_type: city
 longitude: 76.931666
 score: 0.4
+snippet: Historic Himachal trading town on the Beas, known for old stone temples.
 title: Mandi
 type: location
 ---

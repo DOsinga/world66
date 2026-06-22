@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-04'
+image: york.jpg
+image_attribution: Doug Kerr
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:York,_Pennsylvania_(65).jpg
 latitude: 39.962493
 loc_type: city
 longitude: -76.727699
 score: 0.33
+snippet: Pennsylvania city where the Continental Congress met during the Revolution
+  and adopted the Articles of Confederation.
 title: York
 type: location
-image: york.jpg
-image_source: https://commons.wikimedia.org/wiki/File:York,_Pennsylvania_(65).jpg
-image_license: CC BY-SA 2.0
-image_attribution: Doug Kerr
 ---
 
 York was briefly the capital of the United States during the American Revolution, when the Continental Congress met here in 1777–1778 while Philadelphia was occupied by the British. The Articles of Confederation were adopted in York, and the [York Colonial Complex](/northamerica/unitedstates/pennsylvania/york/york_colonial_complex) still preserves the buildings where it happened — an undervisited rival to Philadelphia's more famous sites.

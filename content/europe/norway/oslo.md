@@ -11,6 +11,8 @@ latitude: 59.91333
 loc_type: city
 longitude: 10.73897
 score: 0.58
+snippet: Compact Nordic capital where harbour museums and modern architecture sit
+  minutes from forest trails.
 title: Oslo
 type: location
 ---

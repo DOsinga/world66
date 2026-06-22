@@ -6,6 +6,8 @@ latitude: 51.469614
 loc_type: city
 longitude: 6.851444
 score: 0.31
+snippet: Ruhr industrial city known for Westfield CentrO and the Gasometer, a vast
+  former gas tank turned exhibition space.
 title: Oberhausen
 type: location
 ---

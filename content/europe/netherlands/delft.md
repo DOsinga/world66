@@ -10,6 +10,8 @@ latitude: 52.0116
 loc_type: city
 longitude: 4.3571
 score: 0.56
+snippet: Canal city between Rotterdam and The Hague, known for Vermeer, Delftware,
+  and Orange history
 title: Delft
 type: location
 ---

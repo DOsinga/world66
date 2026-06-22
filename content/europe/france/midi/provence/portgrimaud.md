@@ -10,6 +10,7 @@ latitude: 43.271812
 loc_type: city
 longitude: 6.581952
 score: 0.5
+snippet: Planned canal village on the Gulf of Saint-Tropez, built as a Provençal Venice.
 title: Port Grimaud
 type: location
 ---

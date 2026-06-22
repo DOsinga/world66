@@ -10,6 +10,8 @@ latitude: 35.912761
 loc_type: city
 longitude: 14.502071
 score: 0.51
+snippet: Northeast Malta resort and shopping district with a long waterfront promenade
+  facing Valletta.
 title: Sliema
 type: location
 ---

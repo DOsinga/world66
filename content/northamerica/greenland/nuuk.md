@@ -10,6 +10,8 @@ latitude: 64.176705
 loc_type: city
 longitude: -51.736144
 score: 0.43
+snippet: Greenlandic capital on a southwest coast peninsula, combining national institutions
+  with fjord and mountain scenery.
 title: Nuuk
 type: location
 ---

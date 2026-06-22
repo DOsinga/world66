@@ -11,6 +11,8 @@ latitude: 51.8791
 loc_type: city
 longitude: -9.584
 score: 0.49
+snippet: Colourful Kerry town at Kenmare Bay, laid out for markets between the Ring
+  and Beara landscapes.
 title: Kenmare
 type: location
 ---

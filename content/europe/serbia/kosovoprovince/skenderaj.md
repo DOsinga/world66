@@ -6,6 +6,8 @@ latitude: 42.7467
 loc_type: city
 longitude: 20.7889
 score: 0.21
+snippet: Drenica region city in central Kosovo, closely tied to modern independence
+  history and the Adem Jashari memorial.
 title: Skenderaj
 type: location
 ---

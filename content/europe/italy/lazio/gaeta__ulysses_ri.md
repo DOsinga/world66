@@ -9,6 +9,8 @@ latitude: 41.2114
 loc_type: city
 longitude: 13.5713
 score: 0.51
+snippet: Tyrrhenian harbour town on a rocky peninsula tied to Roman strategy and Ulysses
+  coast legends.
 sources:
 - https://en.wikipedia.org/wiki/Gaeta
 - https://en.wikivoyage.org/wiki/Gaeta

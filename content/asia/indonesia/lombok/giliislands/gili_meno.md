@@ -1,11 +1,13 @@
 ---
+country: Indonesia
+latitude: -8.3567
+loc_type: island
+longitude: 116.0647
+score: 0.56
+snippet: Quietest of the Gili Islands, with slow beach days, reef snorkelling, and
+  a submerged statue garden.
 title: Gili Meno
 type: location
-loc_type: island
-latitude: -8.3567
-longitude: 116.0647
-country: Indonesia
-score: 0.56
 ---
 
 Gili Meno is the middle island in size and the quietest by a considerable margin. It has fewer restaurants and bars than its neighbours, almost no nightlife, and a pace that suits people who want to do very little at all. It is the island couples choose — honeymooners in particular — and the stretches of beach on the west side are among the least crowded of the three.

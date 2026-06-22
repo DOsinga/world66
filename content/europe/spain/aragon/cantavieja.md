@@ -10,6 +10,8 @@ latitude: 40.525272
 loc_type: city
 longitude: -0.406213
 score: 0.41
+snippet: Fortified Maestrazgo hill village in Teruel, perched on a windy rocky spur
+  above mountain country
 title: Cantavieja
 type: location
 ---

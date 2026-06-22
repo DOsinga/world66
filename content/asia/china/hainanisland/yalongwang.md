@@ -10,6 +10,8 @@ latitude: 18.2109
 loc_type: city
 longitude: 109.7065
 score: 0.47
+snippet: Sheltered Hainan beach bay with clear shallows, white sand, and protected
+  marine-park waters near Sanya.
 title: Yalong Bay
 type: location
 ---

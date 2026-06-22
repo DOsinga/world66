@@ -9,6 +9,8 @@ latitude: 8.888194
 loc_type: city
 longitude: -12.044186
 score: 0.22
+snippet: Northern Sierra Leone market city and Bombali capital, with a university
+  town energy and regional trade.
 title: Makeni
 type: location
 ---

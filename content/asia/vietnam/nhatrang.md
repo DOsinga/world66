@@ -9,6 +9,8 @@ latitude: 12.208499
 loc_type: city
 longitude: 109.28712
 score: 0.57
+snippet: Vietnamese beach city wrapped around a mountain-ringed bay, with offshore
+  islands and a long urban strand.
 title: Nha Trang
 type: location
 ---

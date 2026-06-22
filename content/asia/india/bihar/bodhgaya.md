@@ -11,6 +11,7 @@ longitude: 84.9869
 score: 0.51
 title: Bodh Gaya
 type: location
+snippet: Buddhist pilgrimage town in Bihar where the Mahabodhi Temple marks the Buddha's enlightenment.
 ---
 
 Bodh Gaya is where Siddhartha Gautama sat beneath a pipal tree and became the Buddha. That single event, some 2,500 years ago, made this small town in Bihar one of the most important pilgrimage sites in the world. Today it draws thousands of Buddhist monks, nuns, and pilgrims from across Asia, alongside a steady stream of curious travelers.

@@ -12,6 +12,7 @@ latitude: 36.3278
 loc_type: city
 longitude: -119.6462
 score: 0.22
+snippet: Central Valley town with a preserved China Alley, historic courthouse square, and restored Fox Theater.
 title: Hanford
 type: location
 ---

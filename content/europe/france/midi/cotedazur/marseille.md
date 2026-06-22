@@ -12,6 +12,7 @@ loc_type: city
 longitude: 5.37
 score: 0.59
 title: Marseille
+snippet: Mediterranean port city and France's oldest major city, built around the Vieux-Port.
 type: location
 ---
 

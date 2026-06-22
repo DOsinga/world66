@@ -1,9 +1,11 @@
 ---
-title: "Lake Titicaca Area"
-type: location
-loc_type: region
 latitude: -15.8402
+loc_type: region
 longitude: -69.3354
+snippet: High Altiplano lake region around Puno, with reed islands, thin air, and
+  intense Andean light
+title: Lake Titicaca Area
+type: location
 ---
 
 Lake Titicaca sits at 3,800 metres above sea level on the Altiplano plateau, straddling the border between Peru and Bolivia. It is the highest navigable lake in the world, and the largest lake in South America by volume. The air is thin and the light is intense. First-time visitors often spend the first day or two moving slowly and drinking coca tea, waiting for their bodies to adjust.

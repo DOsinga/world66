@@ -9,6 +9,8 @@ latitude: 53.142547
 loc_type: city
 longitude: 0.340523
 score: 0.35
+snippet: Classic English seaside resort with bracing North Sea beaches, old amusement
+  arcades, and Butlin's holiday-camp legacy
 title: Skegness
 type: location
 ---

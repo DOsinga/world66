@@ -10,6 +10,8 @@ latitude: -26.8333
 loc_type: city
 longitude: -65.2038
 score: 0.38
+snippet: Northwest Argentine city where independence was declared, set amid subtropical
+  hills and empanada culture
 title: Tucuman
 type: location
 ---

@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Hangzhou
 - https://en.wikipedia.org/wiki/West_Lake
 title: Hangzhou
+snippet: Celebrated Chinese lake city where West Lake, pagodas, tea hills, and literary pilgrimage define the centre
 type: location
 ---
 

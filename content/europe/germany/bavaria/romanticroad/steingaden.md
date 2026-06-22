@@ -9,6 +9,8 @@ latitude: 47.701707
 loc_type: city
 longitude: 10.860269
 score: 0.48
+snippet: Romantic Road village known for the rococo Wieskirche and a 12th-century
+  monastery church
 title: Steingaden
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 59.4209
 loc_type: city
 longitude: 27.5133
 score: 0.36
+snippet: Seaside resort on northeast Estonia’s cliffs, centred on Toila-Oru Park and
+  the North Estonian Klint.
 sources:
 - https://en.wikipedia.org/wiki/Toila
 title: Toila

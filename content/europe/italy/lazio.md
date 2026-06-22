@@ -5,6 +5,8 @@ latitude: 41.980165
 loc_type: region
 longitude: 12.766797
 score: 0.55
+snippet: Central Italian region around Rome, layered with Roman ruins, hill towns,
+  volcanic lakes, and summer retreats.
 title: Lazio
 type: location
 ---

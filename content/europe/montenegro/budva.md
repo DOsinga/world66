@@ -11,6 +11,8 @@ latitude: 42.288566
 loc_type: city
 longitude: 18.84195
 score: 0.56
+snippet: Montenegrin beach resort with a small walled old town on a rocky Adriatic
+  peninsula.
 title: Budva
 type: location
 ---

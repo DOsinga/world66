@@ -10,6 +10,8 @@ latitude: -7.81831
 loc_type: city
 longitude: 110.397941
 score: 0.36
+snippet: Historic Yogyakarta district, former Mataram Sultanate centre and long-standing
+  silver-working quarter.
 title: Kotagede
 type: location
 ---

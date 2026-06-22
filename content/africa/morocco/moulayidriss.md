@@ -10,6 +10,8 @@ latitude: 34.0542
 loc_type: city
 longitude: -5.5272
 score: 0.48
+snippet: Holy Moroccan hill town overlooking Volubilis, named for the founder of the
+  first Moroccan dynasty.
 title: Moulay Idriss
 type: location
 ---

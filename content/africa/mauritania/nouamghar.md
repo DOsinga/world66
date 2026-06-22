@@ -6,6 +6,8 @@ latitude: 19.355923
 loc_type: city
 longitude: -16.512927
 score: 0.22
+snippet: Mauritanian fishing village where Imragen fishers work with dolphins beside
+  Banc d'Arguin coastal wetlands.
 title: Nouamghar
 type: location
 ---

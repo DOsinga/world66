@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-02'
+image: asuncion.jpg
+image_attribution: W. Bulach
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Paraguay_(S%C3%BCdamerika).jpg
 latitude: -25.28
 loc_type: city
 longitude: -57.6344
 score: 0.36
+snippet: Paraguayan capital on the east bank of the river, marked by colonial remnants
+  and scruffy charm
 title: Asuncion
 type: location
-image: asuncion.jpg
-image_source: https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Paraguay_(S%C3%BCdamerika).jpg
-image_license: CC BY-SA 4.0
-image_attribution: W. Bulach
 ---
 
 Asuncion is the capital of [Paraguay](/southamerica/paraguay) and the country's only real city, spread along the east bank of the Paraguay River. It is not a conventionally beautiful capital — decades of unfinished development projects have left an uneven skyline — but it has a scruffy charm, colonial remnants, and a pace of life that is distinctly its own.

@@ -4,11 +4,13 @@ done:
 latitude: 32.64
 loc_type: city
 longitude: 103.5972
+score: 0.49
+snippet: Northern Sichuan walled town and mountain gateway for Jiuzhaigou, Huanglong,
+  and long-running horse treks.
 sources:
 - https://en.wikivoyage.org/wiki/Songpan
 title: Songpan
 type: location
-score: 0.49
 ---
 
 Songpan is a small walled town in northern Sichuan that has found its identity as the gateway to Jiuzhaigou and Huanglong. It sits in a mountain valley at around 2,800 metres, and despite the volume of travellers passing through, it has retained enough of its historical character — surviving sections of city wall, carved stone gateways you can climb, a covered market bridge — to be worth more than a quick transit stop.

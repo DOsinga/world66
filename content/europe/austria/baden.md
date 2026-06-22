@@ -7,6 +7,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Baden_Panorama_01.jpg
 latitude: 48.0077
 loc_type: city
+snippet: Spa town south of Vienna, shaped by sulphur springs, Habsburg summers, and
+  Beethoven's Ninth Symphony
 longitude: 16.2344
 score: 0.46
 title: Baden bei Wien

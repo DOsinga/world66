@@ -1,12 +1,14 @@
 ---
-title: Mount Etna Park
-type: location
-latitude: 37.7488
-longitude: 14.9669
 done:
   location_cleanup: 2026-04-08
-score: 0.61
+latitude: 37.7488
 loc_type: feature
+longitude: 14.9669
+score: 0.61
+snippet: Sicilian volcanic park of lava deserts, summit craters, chestnut forests,
+  and Etna's fertile vineyard slopes.
+title: Mount Etna Park
+type: location
 ---
 
 The Parco dell'Etna is the protected area around Mount Etna, Europe's tallest and most active volcano, rising to over 3,300 metres on the eastern coast of [Sicily](/europe/italy/sicily) above [Catania](/europe/italy/sicily/catania). The park encompasses 20 municipalities and a remarkable range of landscapes — lava deserts, chestnut and pine forests, vineyards on volcanic soil, and the smoking summit craters themselves.

@@ -12,6 +12,8 @@ latitude: 33.907
 loc_type: city
 longitude: 73.3943
 score: 0.38
+snippet: Pir Panjal hill station above Islamabad, with colonial traces and pine ridges
+  along The Mall.
 title: Murree
 type: location
 ---

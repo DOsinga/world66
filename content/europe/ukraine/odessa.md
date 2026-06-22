@@ -14,6 +14,8 @@ longitude: 30.7323
 score: 0.36
 title: Odessa
 type: location
+snippet: Black Sea port city of Italianate boulevards, merchant palaces, opera, and
+  the Potemkin Stairs.
 ---
 
 Odessa is Ukraine's great port city, perched on the cliffs above the Black Sea. Founded in 1794 by Catherine the Great, it grew rapidly into one of the most cosmopolitan cities of the Russian Empire — a trading hub where Greek merchants, Jewish intellectuals, Italian architects, and French adventurers all left their mark on the streetscape. The result is a city unlike any other in Ukraine: grand boulevards lined with Italianate palaces, a famous opera house that rivals La Scala, and a sardonic wit that Odessans wear as a badge of honour.

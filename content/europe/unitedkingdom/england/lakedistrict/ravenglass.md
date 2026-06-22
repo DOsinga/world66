@@ -11,6 +11,8 @@ latitude: 54.353916
 loc_type: city
 longitude: -3.410166
 score: 0.43
+snippet: Cumbrian Coast village in the Lake District, with an estuary, Roman ruins,
+  and the Eskdale steam railway.
 title: Ravenglass
 type: location
 ---

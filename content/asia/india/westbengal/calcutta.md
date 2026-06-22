@@ -11,6 +11,8 @@ latitude: 22.5726
 loc_type: city
 longitude: 88.3639
 score: 0.46
+snippet: West Bengal metropolis on the Hooghly River, known for colonial architecture
+  and Bengali cultural life.
 title: Calcutta
 type: location
 ---

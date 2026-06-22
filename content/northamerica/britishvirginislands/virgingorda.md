@@ -10,6 +10,7 @@ loc_type: island
 longitude: -64.4
 sources:
 - https://en.wikipedia.org/wiki/Virgin_Gorda
+snippet: Granite-and-limestone Caribbean island in the British Virgins, famous for The Baths and sheltered North Sound.
 title: Virgin Gorda
 type: location
 score: 0.62

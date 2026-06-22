@@ -9,6 +9,8 @@ latitude: 52.584765
 loc_type: city
 longitude: -2.127567
 score: 0.3
+snippet: Black Country city with deep industrial roots, diverse communities, and a
+  strong free art gallery.
 title: Wolverhampton
 type: location
 ---

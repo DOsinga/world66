@@ -10,6 +10,8 @@ latitude: 39.7683
 loc_type: city
 longitude: -86.1584
 score: 0.39
+snippet: Indiana capital with a compact downtown, major sports venues, and the Indianapolis
+  Motor Speedway.
 title: Indianapolis
 type: location
 ---

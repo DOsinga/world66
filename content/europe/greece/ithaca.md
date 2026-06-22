@@ -10,6 +10,8 @@ latitude: 38.401896
 loc_type: city
 longitude: 20.670093
 score: 0.58
+snippet: Mountainous Ionian island famed as Odysseus's home, with deep harbours, green
+  hills, and quiet coves
 title: Ithaca
 type: location
 ---

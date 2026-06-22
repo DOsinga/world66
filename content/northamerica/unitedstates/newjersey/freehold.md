@@ -10,6 +10,8 @@ latitude: 40.2601
 loc_type: city
 longitude: -74.2738
 score: 0.28
+snippet: Central New Jersey borough known for Bruce Springsteen roots, colonial history,
+  and Monmouth battlefield nearby.
 title: Freehold
 type: location
 ---

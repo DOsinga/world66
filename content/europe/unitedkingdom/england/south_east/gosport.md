@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Royal_Hospital_Haslar
 - https://en.wikipedia.org/wiki/Fort_Blockhouse
 title: Gosport
+snippet: Harbour town opposite Portsmouth, defined by naval museums, submarine history, and the short Gosport ferry
 type: location
 ---
 

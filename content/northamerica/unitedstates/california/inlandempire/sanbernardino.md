@@ -21,6 +21,8 @@ latitude: 34.108345
 loc_type: city
 longitude: -117.289757
 score: 0.26
+snippet: Inland Empire city where Route 66 meets the San Bernardino Mountains and
+  desert pass.
 title: San Bernardino
 type: location
 ---

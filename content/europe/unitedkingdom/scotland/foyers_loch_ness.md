@@ -6,6 +6,8 @@ latitude: 57.2556
 loc_type: city
 longitude: -4.4865
 score: 0.43
+snippet: Tiny Loch Ness village on the quieter southeast shore, known for the wooded
+  Falls of Foyers.
 title: Foyers
 type: location
 ---

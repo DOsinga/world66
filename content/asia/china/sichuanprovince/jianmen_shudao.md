@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: jianmen_shudao.jpg
+image_attribution: User:Munford
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Jianmenguan.JPG
 latitude: 32.2131
 loc_type: feature
 longitude: 105.5633
+score: 0.52
+snippet: Historic mountain route in Sichuan, preserving cliffside plank roads through
+  the Jialing River canyon.
 sources:
 - https://en.wikivoyage.org/wiki/Jianmen_Shudao_National_Park
 title: Jianmen Shudao
 type: location
-image: jianmen_shudao.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Jianmenguan.JPG
-image_license: CC BY-SA 2.5
-image_attribution: User:Munford
-score: 0.52
 ---
 
 Jianmen Shudao National Park preserves a section of the ancient plank road that connected Sichuan to the north through the Qinling and Daba mountain ranges — one of the most strategically important routes in Chinese history and the subject of more classical poetry than perhaps any other piece of engineering. The road was built by carving notches into sheer cliff faces and suspending wooden planks from iron brackets above river gorges; sections of the reconstructed plank road still traverse the most dramatic passages of the Jialing River canyon.

@@ -11,6 +11,7 @@ loc_type: city
 longitude: -3.755985
 score: 0.36
 title: Ashburton
+snippet: "Dartmoor-edge market town and former stannary centre, with slate-hung streets and a strong independent food scene."
 type: location
 ---
 

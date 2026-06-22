@@ -9,6 +9,8 @@ latitude: 51.614382
 loc_type: city
 longitude: 7.197855
 score: 0.31
+snippet: Ruhr-edge city with a compact old town and an unusually rich museum of Orthodox
+  Christian icons.
 title: Recklinghausen
 type: location
 ---

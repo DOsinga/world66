@@ -4,11 +4,13 @@ done:
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-20'
 latitude: 22.33712
+loc_type: feature
 longitude: 31.625797
 score: 0.68
+snippet: Far-southern Egyptian site of Ramses II’s colossal rock-cut temples beside
+  Lake Nasser.
 title: Abu Simbel
 type: location
-loc_type: feature
 ---
 
 Abu Simbel sits in the far south of Egypt, almost on the Sudanese border, where the Nile opens out into the vast expanse of Lake Nasser. It is one of the great stops on any trip to Egypt — a pair of colossal rock-cut temples that Ramses II had carved directly into a sandstone cliff in the 13th century BC, intended to intimidate anyone arriving from the south and to remind the gods of his own divinity.

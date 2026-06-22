@@ -13,6 +13,7 @@ loc_type: city
 longitude: -3.945925
 score: 0.39
 title: Swansea
+snippet: "Welsh port city on Swansea Bay, balancing industrial edges with the beaches and cliffs of nearby Gower."
 type: location
 ---
 

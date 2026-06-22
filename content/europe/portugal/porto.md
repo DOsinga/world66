@@ -11,6 +11,7 @@ loc_type: city
 longitude: -8.611
 score: 0.71
 title: Porto
+snippet: "Granite Douro city of tiled facades, iron bridges, and port-wine cellars across the river."
 type: location
 ---
 

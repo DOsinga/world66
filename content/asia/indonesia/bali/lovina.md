@@ -9,6 +9,8 @@ latitude: -8.160924
 loc_type: city
 longitude: 115.024532
 score: 0.54
+snippet: North Bali beach village string, known for black sand, calm water, and dawn
+  dolphin boats
 title: Lovina
 type: location
 ---

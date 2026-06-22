@@ -9,6 +9,8 @@ latitude: 49.443217
 loc_type: city
 longitude: 7.768995
 score: 0.35
+snippet: Palatinate Forest city with medieval roots and a distinctive American military
+  presence around Ramstein.
 title: Kaiserslautern
 type: location
 ---

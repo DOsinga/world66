@@ -11,6 +11,7 @@ longitude: -2.795584
 score: 0.58
 title: St. Andrews
 type: location
+snippet: "Compact Scottish town combining medieval cathedral ruins, university life, and famous golf links."
 ---
 
 St. Andrews is a compact Scottish town where medieval history, world-class golf, and a lively university all sit within walking distance of each other. Everything here is close together, and that is a large part of its charm.

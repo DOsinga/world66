@@ -10,6 +10,8 @@ latitude: 40.037875
 loc_type: city
 longitude: -76.305514
 score: 0.38
+snippet: Historic Pennsylvania city with colonial capitals, Central Market, and Amish-country
+  farmland nearby.
 title: Lancaster City
 type: location
 ---

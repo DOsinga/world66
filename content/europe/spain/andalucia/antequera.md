@@ -8,6 +8,8 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Alcazaba_Antequera.jpg
 latitude: 37.018365
 loc_type: city
+snippet: Andalusian crossroads town between Málaga and Granada, with dolmens, an Alcazaba,
+  and El Torcal nearby
 longitude: -4.559665
 score: 0.52
 title: Antequera

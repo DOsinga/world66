@@ -9,6 +9,8 @@ latitude: 47.465731
 loc_type: city
 longitude: 3.746285
 score: 0.55
+snippet: Burgundy hilltop village crowned by Vézelay's Romanesque basilica on the
+  old pilgrimage road
 title: Vézelay
 type: location
 ---

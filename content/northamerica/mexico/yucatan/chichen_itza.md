@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 20.682852
+loc_type: feature
 longitude: -88.56872
+score: 0.69
+snippet: Maya archaeological city in the Yucatán, dominated by Kukulcán's stepped
+  pyramid and vast ceremonial courts.
 title: Chichen Itza
 type: location
-score: 0.69
-loc_type: feature
 ---
 
 Chichen Itza is the most visited archaeological site in Mexico and one of the great ancient cities of the world. A UNESCO World Heritage Site and one of the New Seven Wonders of the World, it sits in the heart of the Yucatan Peninsula and draws visitors from across the globe — and for good reason.

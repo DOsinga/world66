@@ -10,6 +10,8 @@ latitude: -20.549001
 loc_type: city
 longitude: 166.567395
 score: 0.61
+snippet: Loyalty Islands coral atoll with a 25-kilometre white beach and Kanak culture
+  north-east of Nouméa.
 title: Ouvea
 type: location
 ---

@@ -11,6 +11,7 @@ longitude: 109.4863
 sources:
 - https://en.wikivoyage.org/wiki/Yan%27an
 title: Yan'an
+snippet: Loess Plateau city where the Chinese Communist Party regrouped after the Long March.
 type: location
 score: 0.33
 ---

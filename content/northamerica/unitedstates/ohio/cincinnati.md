@@ -6,6 +6,8 @@ latitude: 39.1015
 loc_type: city
 longitude: -84.5125
 score: 0.41
+snippet: Ohio River city with German heritage, Cincinnati chili, and the brick Italianate
+  streets of Over-the-Rhine.
 title: Cincinnati
 type: location
 ---

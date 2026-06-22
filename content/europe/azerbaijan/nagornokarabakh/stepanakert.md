@@ -7,6 +7,7 @@ loc_type: city
 longitude: 46.751063
 score: 0.13
 title: Khankendi (Stepanakert)
+snippet: Karabakh city in a mountain valley, known as Stepanakert during decades of Armenian administration.
 type: location
 ---
 

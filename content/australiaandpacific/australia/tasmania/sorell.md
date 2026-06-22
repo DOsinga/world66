@@ -11,6 +11,8 @@ latitude: -42.7886
 loc_type: city
 longitude: 147.6671
 score: 0.33
+snippet: Historic Tasmanian farming town between Pitt Water and the Tasman Peninsula,
+  with Georgian buildings east of Hobart.
 title: Sorell
 type: location
 ---

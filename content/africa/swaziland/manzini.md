@@ -10,6 +10,8 @@ latitude: -26.497644
 loc_type: city
 longitude: 31.375082
 score: 0.31
+snippet: Eswatini commercial city and market hub, busier and grittier than nearby
+  Mbabane.
 title: Manzini
 type: location
 ---

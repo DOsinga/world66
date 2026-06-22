@@ -10,6 +10,8 @@ latitude: 10.61806
 loc_type: city
 longitude: 47.37
 score: 0.19
+snippet: Highland Somaliland town near Surud Ad, with cooler air, juniper forests,
+  and Daallo mountain views.
 title: Erigavo
 type: location
 ---

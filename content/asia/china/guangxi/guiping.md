@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: guiping.jpg
+image_attribution: Patrick Rowe
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Guiping.jpg
 latitude: 23.41
 loc_type: city
 longitude: 110.08
+score: 0.31
+snippet: Guangxi river city known for the Jintian Uprising and sacred West Mountain
+  temples.
 sources:
 - https://en.wikivoyage.org/wiki/Guiping
 title: Guiping
 type: location
-image: guiping.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Guiping.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Patrick Rowe
-score: 0.31
 ---
 
 Guiping is a mid-sized city in central Guangxi, on the Xun River south of [Liuzhou](/asia/china/guangxi/liuzhou), and its primary historical distinction is being the place where Hong Xiuquan launched the Taiping Rebellion in 1851 — one of the most destructive civil conflicts in human history, which killed somewhere between twenty and thirty million people over fourteen years before the Qing dynasty suppressed it. The [Jintian Uprising Site](/asia/china/guangxi/guiping/jintian_uprising_site), where the rebellion began, is now a park with a museum and ruins that takes the history seriously rather than packaging it for easy consumption.

@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Kamyanyets
 - https://en.wikipedia.org/wiki/Tower_of_Kamyenyets
 title: Kamianiec
+snippet: "Western Belarusian town best known for its nearly complete 13th-century brick Kamianiec Tower."
 type: location
 ---
 

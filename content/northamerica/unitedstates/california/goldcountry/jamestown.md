@@ -9,6 +9,8 @@ latitude: 37.954
 loc_type: city
 longitude: -120.4227
 score: 0.37
+snippet: Gold Rush town in California's Mother Lode, with preserved Main Street and
+  working steam locomotives.
 title: Jamestown
 type: location
 ---

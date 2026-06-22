@@ -5,6 +5,8 @@ latitude: 54.586
 loc_type: region
 longitude: -6.9592
 score: 0.62
+snippet: United Kingdom region on Ireland’s northeast, shaped by Belfast, Derry, basalt
+  coast, and lake country.
 title: Northern Ireland
 type: location
 ---

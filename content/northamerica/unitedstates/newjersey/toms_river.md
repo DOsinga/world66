@@ -10,6 +10,8 @@ latitude: 39.952839
 loc_type: city
 longitude: -74.196741
 score: 0.29
+snippet: Jersey Shore town on Barnegat Bay, with a riverfront downtown and barrier-island
+  beaches nearby
 title: Toms River
 type: location
 ---

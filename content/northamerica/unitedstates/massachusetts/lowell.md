@@ -10,6 +10,8 @@ latitude: 42.6414
 loc_type: city
 longitude: -71.3085
 score: 0.34
+snippet: Massachusetts mill city where canals and textile factories anchor Lowell
+  National Historical Park.
 title: Lowell
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 46.4927
 loc_type: city
 longitude: 7.5588
 score: 0.57
+snippet: Bernese Oberland alpine village with wooden chalets, Engstlige valley views,
+  and Chuenisbärgli ski racing.
 title: Adelboden
 type: location
 ---

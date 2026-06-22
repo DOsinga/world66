@@ -10,6 +10,8 @@ latitude: 42.567708
 loc_type: city
 longitude: 8.759053
 score: 0.58
+snippet: Corsican port town beneath a Genoese citadel, with a white-sand bay and pine-backed
+  beach.
 title: Calvi
 type: location
 ---

@@ -1,21 +1,23 @@
 ---
-title: Greece
-type: location
-latitude: 38.995368
-longitude: 21.987713
-image: greece.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Mstyslav Chernov
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "10.4 million"
-  Currency: Euro (€)
-  Islands: "6,000+ (fewer than 200 inhabited)"
-  Coastline: "Longest in the Mediterranean"
-score: 0.91
+image: greece.jpg
+image_attribution: Mstyslav Chernov
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Oia,_Santorini_island_(Thira),_Greece.jpg
+latitude: 38.995368
 loc_type: country
+longitude: 21.987713
+quick_facts:
+  Coastline: Longest in the Mediterranean
+  Currency: Euro (€)
+  Islands: 6,000+ (fewer than 200 inhabited)
+  Population: 10.4 million
+score: 0.91
+snippet: Mediterranean country where classical ruins, island coasts, and Balkan landscapes
+  still shape everyday life.
+title: Greece
+type: location
 ---
 
 Greece is where Western civilisation began, and the traces of that beginning are everywhere — in marble columns rising from clifftops, in names on road signs that appear in Shakespeare and the Bible, in temples that were already ancient when Julius Caesar was born. But Greece is not just a museum. It is a Mediterranean country with excellent food, a lively culture, and one of the most complex and beautiful landscapes in Europe.

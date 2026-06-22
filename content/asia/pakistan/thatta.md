@@ -10,6 +10,8 @@ latitude: 24.7469
 loc_type: city
 longitude: 67.924
 score: 0.34
+snippet: Lower Indus city of blue-tiled mosques and Makli tombs, once a capital of
+  Sindh.
 title: Thatta
 type: location
 ---

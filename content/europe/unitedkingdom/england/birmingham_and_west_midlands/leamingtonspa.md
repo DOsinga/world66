@@ -10,6 +10,8 @@ latitude: 52.2913
 loc_type: city
 longitude: -1.5364
 score: 0.38
+snippet: Regency Warwickshire spa town known for saline springs, white-stucco terraces,
+  and riverside Pump Room gardens.
 title: Leamington Spa
 type: location
 ---

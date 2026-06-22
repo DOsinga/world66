@@ -10,6 +10,8 @@ latitude: 36.304
 loc_type: city
 longitude: -106.0466
 score: 0.42
+snippet: Tiny New Mexico hot-springs hamlet where mineral pools sit below ancestral
+  Tewa pueblo ruins
 title: Ojo Caliente
 type: location
 ---

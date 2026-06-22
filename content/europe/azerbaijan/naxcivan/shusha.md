@@ -10,6 +10,8 @@ latitude: 39.763257
 loc_type: city
 longitude: 46.75115
 score: 0.26
+snippet: Historic Karabakh highland city at 1,400 metres, prized for its layered Caucasus
+  cultural heritage.
 title: Shusha
 type: location
 ---

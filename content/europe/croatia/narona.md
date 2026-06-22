@@ -6,6 +6,8 @@ latitude: 43.0804
 loc_type: city
 longitude: 17.6259
 score: 0.36
+snippet: Ancient Adriatic archaeological site near Metković, where Roman Narona grew
+  from an older Greek trading settlement.
 title: Narona
 type: location
 ---

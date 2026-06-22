@@ -9,6 +9,8 @@ latitude: 50.821463
 loc_type: city
 longitude: -0.140056
 score: 0.54
+snippet: English seaside city of Regency terraces, Royal Pavilion fantasy, and a long
+  pleasure-pier waterfront
 title: Brighton
 type: location
 ---

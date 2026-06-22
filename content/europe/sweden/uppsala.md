@@ -12,6 +12,8 @@ latitude: 59.8586
 loc_type: city
 longitude: 17.6387
 score: 0.51
+snippet: Swedish university city where Viking burial mounds, Uppsala Cathedral, and
+  student life share the Fyris River.
 title: Uppsala
 type: location
 ---

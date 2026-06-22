@@ -6,6 +6,8 @@ latitude: 42.91202
 loc_type: city
 longitude: -70.81742
 score: 0.39
+snippet: New Hampshire seaside resort with a broad Atlantic beach, boardwalk arcades,
+  and summer concerts.
 title: Hampton Beach
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: -13.164341
 loc_type: feature
 longitude: -72.545009
 score: 0.89
+snippet: Inca citadel set high above the Urubamba gorge, with precise stonework and
+  cloud-forest drama.
 title: Machu Picchu
 type: location
 ---

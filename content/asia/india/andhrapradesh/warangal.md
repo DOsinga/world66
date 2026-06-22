@@ -10,6 +10,8 @@ latitude: 17.982064
 loc_type: city
 longitude: 79.597095
 score: 0.34
+snippet: Historic Telangana city of Kakatiya temples, carved pillars, and the ruined
+  fort of a Deccan capital.
 title: Warangal
 type: location
 ---

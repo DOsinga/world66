@@ -12,6 +12,8 @@ latitude: 18.0111
 loc_type: city
 longitude: -66.6141
 score: 0.45
+snippet: Southern Puerto Rican colonial city of pastel mansions, opera houses, and
+  sugar-era grandeur.
 title: Ponce
 type: location
 ---

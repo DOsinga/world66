@@ -10,6 +10,8 @@ latitude: 32.7314
 loc_type: city
 longitude: -9.034
 score: 0.46
+snippet: Moroccan Atlantic lagoon town known for calm tidal waters, oysters, and bird-rich
+  shallows.
 title: Oualidia
 type: location
 ---

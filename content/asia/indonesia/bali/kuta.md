@@ -12,6 +12,7 @@ longitude: 115.173005
 score: 0.57
 title: Kuta
 type: location
+snippet: "Busy Bali beach town that grew from a surf village into the island's mass-tourism hub."
 ---
 
 *Asia > Indonesia > [Bali](/asia/indonesia/bali) > Kuta*

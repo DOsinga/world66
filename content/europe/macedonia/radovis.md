@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-27'
+image: radovis.jpg
+image_attribution: Patkica
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Radovis_View_2019.jpg
 latitude: 41.639832
 loc_type: city
 longitude: 22.464589
 score: 0.28
+snippet: Eastern North Macedonian valley city below Plačkovica, with Byzantine roots
+  and a mixed Macedonian-Turkish culture
 sources:
 - https://en.wikipedia.org/wiki/Radovi%C5%A1
 - https://en.wikipedia.org/wiki/Plachkovica
 title: Radovis
 type: location
-image: radovis.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Radovis_View_2019.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Patkica
 ---
 
 Radoviš (also spelled Radovis) is a small city of about 14,000 people in eastern North Macedonia, tucked into a fertile valley at the foot of the [Plačkovica mountain range](/europe/macedonia/radovis/plachkovica_mountain). It is one of those places that most travellers never hear of, but it has an agreeable, unhurried character and a history stretching back to Byzantine times.

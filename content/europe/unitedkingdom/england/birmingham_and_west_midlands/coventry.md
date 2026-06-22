@@ -12,6 +12,8 @@ latitude: 52.4082
 loc_type: city
 longitude: -1.5105
 score: 0.34
+snippet: West Midlands city of wartime ruins, modernist rebuilding, and the paired
+  old and new cathedrals
 sources:
 - https://en.wikipedia.org/wiki/Coventry
 - https://en.wikipedia.org/wiki/Coventry_Cathedral

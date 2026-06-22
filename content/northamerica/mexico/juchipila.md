@@ -6,6 +6,8 @@ latitude: 21.378099
 loc_type: city
 longitude: -103.126093
 score: 0.32
+snippet: Zacatecas canyon town on the Río Juchipila, shaped by festivals and Camino
+  Real history
 title: Juchipila
 type: location
 ---

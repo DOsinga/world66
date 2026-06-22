@@ -10,6 +10,7 @@ latitude: 9.6333
 loc_type: city
 longitude: -82.8333
 score: 0.49
+snippet: "Southern Caribbean canton of Costa Rica, spanning coral reefs, rainforest, Indigenous reserves, and Talamanca peaks."
 title: Talamanca
 type: location
 ---

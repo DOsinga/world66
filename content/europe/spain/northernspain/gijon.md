@@ -10,6 +10,7 @@ latitude: 43.544942
 loc_type: city
 longitude: -5.66275
 score: 0.47
+snippet: "Asturian working port with a central sandy beach, cider bars, and the headland quarter of Cimadevilla."
 title: Gijón
 type: location
 ---

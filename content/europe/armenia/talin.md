@@ -9,6 +9,8 @@ latitude: 40.3837
 loc_type: city
 longitude: 43.8736
 score: 0.27
+snippet: Aragatsotn provincial town west of Yerevan, known for the 7th-century ruins
+  of Talin Cathedral.
 title: Talin
 todo_location_cleanup: done
 type: location

@@ -10,6 +10,8 @@ latitude: 34.457
 loc_type: city
 longitude: -97.012
 score: 0.21
+snippet: Oklahoma recreation area of mineral springs, streams, and lakes in the Arbuckle
+  foothills.
 title: Chickasaw
 type: location
 ---

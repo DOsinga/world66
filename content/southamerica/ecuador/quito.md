@@ -11,6 +11,7 @@ longitude: -78.512327
 score: 0.6
 title: Quito
 type: location
+snippet: High Andean capital of Ecuador, known for its preserved colonial centre below Pichincha volcano.
 ---
 
 Quito is one of the highest capital cities in the world, at 2,850 metres above sea level, and the first city to be declared a UNESCO World Heritage Site (in 1978, jointly with Kraków). Its [Centro Histórico](/southamerica/ecuador/quito/centro_historico) is one of the best-preserved colonial urban centres in the Americas — forty churches, seventeen plazas, and streets that have changed little since the 16th century. The backdrop is extraordinary: the city fills a long, narrow valley with the active Pichincha volcano immediately to the west and a ring of snowcapped peaks visible on clear days.

@@ -10,6 +10,8 @@ latitude: 33.6447
 loc_type: city
 longitude: 75.0188
 score: 0.23
+snippet: Southern Kashmir town among rice paddies and apple orchards, with Aharbal
+  Falls up the Veshaw valley.
 title: Kulgam
 type: location
 ---

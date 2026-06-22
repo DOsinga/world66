@@ -9,6 +9,8 @@ latitude: 47.996032
 loc_type: city
 longitude: -4.102478
 score: 0.49
+snippet: Breton cultural city of half-timbered streets, twin-spired cathedral, and
+  hand-painted faïence pottery.
 title: Quimper
 type: location
 ---

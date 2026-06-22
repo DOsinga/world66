@@ -10,6 +10,8 @@ latitude: 45.4609
 loc_type: city
 longitude: -69.6162
 score: 0.33
+snippet: Moosehead Lake gateway town where Maine's settled south gives way to the
+  North Woods.
 title: Greenville Junction
 type: location
 ---

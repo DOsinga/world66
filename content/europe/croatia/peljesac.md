@@ -8,6 +8,8 @@ latitude: 42.904567
 loc_type: region
 longitude: 17.47521
 score: 0.64
+snippet: Long Dalmatian peninsula near Dubrovnik, with island-like villages, pebble
+  coves, and wine country.
 title: Pelješac
 type: location
 ---

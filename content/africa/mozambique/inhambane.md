@@ -10,6 +10,8 @@ latitude: -23.865
 loc_type: city
 longitude: 35.3834
 score: 0.4
+snippet: Old Mozambican port town with fading Portuguese buildings, dhow harbours,
+  and beaches across the Inhambane peninsula.
 sources:
 - https://en.wikipedia.org/wiki/Inhambane
 - https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Cathedral,_Inhambane

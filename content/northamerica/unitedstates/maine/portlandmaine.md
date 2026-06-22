@@ -10,6 +10,8 @@ latitude: 43.6884
 loc_type: city
 longitude: -70.2463
 score: 0.49
+snippet: Maine coastal city with a brick Old Port, serious seafood, and island ferries
+  across Casco Bay.
 title: Portland Maine
 type: location
 ---

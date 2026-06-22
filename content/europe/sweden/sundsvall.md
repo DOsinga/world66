@@ -10,6 +10,8 @@ latitude: 62.390755
 loc_type: city
 longitude: 17.307102
 score: 0.39
+snippet: Northern Swedish coastal city rebuilt in stone after the 1888 fire, creating
+  its Stenstan centre.
 title: Sundsvall
 type: location
 ---

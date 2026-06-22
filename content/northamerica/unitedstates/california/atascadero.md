@@ -10,6 +10,8 @@ latitude: 35.489417
 loc_type: city
 longitude: -120.670726
 score: 0.31
+snippet: Central Coast city founded as a utopian colony, with a domed Italianate city
+  hall at its core.
 title: Atascadero
 type: location
 ---

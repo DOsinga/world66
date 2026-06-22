@@ -11,6 +11,8 @@ image: cassadaga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Southern_Cassadaga_Spiritualist_Camp_Hist_Dist01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ebyabe
+snippet: Small Florida community known for the Southern Cassadaga Spiritualist Camp,
+  founded in 1894.
 ---
 
 Cassadaga is a small community in Volusia County, Florida, sometimes called the "Psychic Capital of the World." The [Southern Cassadaga Spiritualist Camp](/northamerica/unitedstates/florida/cassadaga/spiritualist_camp) was founded here in 1894 by George P. Colby, a medium from upstate New York, and the community has been home to practising psychics and mediums ever since.

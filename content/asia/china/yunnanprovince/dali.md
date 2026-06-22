@@ -2,16 +2,18 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-11'
+image: dali.jpg
+image_attribution: Andrew and Annemarie
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Chongsheng_Temple_(11050634113).jpg
 latitude: 25.6907
 loc_type: city
 longitude: 100.1639
 score: 0.55
+snippet: Yunnan old town between Cangshan Mountains and Erhai Lake, shaped by Bai
+  culture and backpacker history.
 title: Dali
 type: location
-image: dali.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Chongsheng_Temple_(11050634113).jpg
-image_license: CC BY-SA 2.0
-image_attribution: Andrew and Annemarie
 ---
 
 Dali is one of the most popular stops on the Yunnan backpacker trail — a walled old town set between the Cangshan Mountains and Erhai Lake, with a mild climate, cheap guesthouses, and a pace of life that encourages staying longer than planned. It once had the reputation of being a second Kathmandu, and while mass tourism has changed the character somewhat, the Bai minority culture, the mountain backdrop, and the lake still make it a compelling place.

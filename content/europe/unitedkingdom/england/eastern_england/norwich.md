@@ -10,6 +10,8 @@ latitude: 52.628558
 loc_type: city
 longitude: 1.292395
 score: 0.42
+snippet: Medieval East Anglian city with a Norman cathedral, hilltop castle, and dozens
+  of surviving churches.
 title: Norwich
 type: location
 ---

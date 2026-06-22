@@ -10,6 +10,8 @@ latitude: 40.739978
 loc_type: city
 longitude: -84.105006
 score: 0.23
+snippet: Northwestern Ohio industrial city where locomotive works and oil refining
+  shaped a riverfront county seat.
 title: Lima
 type: location
 ---

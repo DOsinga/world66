@@ -9,6 +9,7 @@ score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Tvedestrand
 title: Tvedestrand
+snippet: Southern Norwegian coastal town of white wooden houses rising from a narrow fjord harbour.
 type: location
 ---
 

@@ -11,6 +11,8 @@ latitude: 38.5991
 loc_type: city
 longitude: -0.0486
 score: 0.52
+snippet: Costa Blanca hill town with whitewashed lanes, blue-domed church, galleries,
+  and a bayfront pebble beach.
 title: Altea
 type: location
 ---

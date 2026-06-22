@@ -11,6 +11,7 @@ loc_type: city
 longitude: -70.152465
 score: 0.45
 title: Iquique
+snippet: Northern Chilean port city squeezed between the Atacama Desert and the Pacific Ocean.
 type: location
 ---
 

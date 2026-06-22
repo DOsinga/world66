@@ -10,6 +10,7 @@ latitude: 7.7383
 loc_type: city
 longitude: -7.6128
 score: 0.2
+snippet: Old Dan village north of Man, associated with the Goua acrobatic dance tradition.
 title: Biankouma
 type: location
 ---

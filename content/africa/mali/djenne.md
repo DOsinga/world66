@@ -9,6 +9,8 @@ latitude: 13.9052
 loc_type: city
 longitude: -4.5549
 score: 0.44
+snippet: Mud-brick city on the Bani River floodplain, centred on the Great Mosque
+  of Djenné.
 title: Djenné
 type: location
 ---

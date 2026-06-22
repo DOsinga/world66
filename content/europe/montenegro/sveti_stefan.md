@@ -9,6 +9,8 @@ latitude: 42.255651
 loc_type: city
 longitude: 18.89695
 score: 0.57
+snippet: Montenegrin coastal village facing a fortified island joined to shore by
+  a narrow sandy causeway
 title: Sveti Stefan
 type: location
 ---

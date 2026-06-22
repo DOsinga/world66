@@ -9,6 +9,8 @@ latitude: 43.272719
 loc_type: city
 longitude: 6.640523
 score: 0.63
+snippet: Côte d'Azur fishing village turned jet-set resort, with a citadel, old port,
+  and plane-shaded Place des Lices.
 title: St Tropez
 type: location
 ---

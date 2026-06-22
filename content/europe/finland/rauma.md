@@ -10,6 +10,7 @@ latitude: 61.1289
 loc_type: city
 longitude: 21.5039
 score: 0.46
+snippet: "Historic Finnish west-coast town with Old Rauma, the Nordic countries' largest unified wooden old town."
 title: Rauma
 type: location
 ---

@@ -5,6 +5,7 @@ latitude: 45.283504
 longitude: 34.200819
 score: 0.46
 title: Crimea
+snippet: Black Sea peninsula of steppes, salt lakes, Crimean Mountains, and a Mediterranean southern coast
 type: location
 loc_type: region
 ---

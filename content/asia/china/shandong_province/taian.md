@@ -10,6 +10,8 @@ latitude: 36.200297
 loc_type: city
 longitude: 117.080932
 score: 0.46
+snippet: Shandong city at the foot of Mount Tai, one of China's most venerated sacred
+  mountains.
 title: Tai'an
 type: location
 ---

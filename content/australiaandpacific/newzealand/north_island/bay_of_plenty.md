@@ -8,6 +8,8 @@ latitude: -37.9504
 loc_type: region
 longitude: 176.9383
 score: 0.6
+snippet: Sunny North Island coastal region of kiwifruit orchards, surf beaches, and
+  volcanic inland towns
 title: Bay of Plenty
 type: location
 ---

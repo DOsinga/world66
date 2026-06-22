@@ -3,6 +3,8 @@ done:
   location_enrich: '2026-06-03'
 latitude: 9.640261
 loc_type: city
+snippet: Bohol capital and transport base, useful for ferries, flights, and day trips
+  into the island
 longitude: 123.855981
 score: 0.51
 title: Tagbilaran

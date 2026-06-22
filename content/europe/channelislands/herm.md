@@ -10,6 +10,8 @@ latitude: 49.47
 loc_type: city
 longitude: -2.458
 score: 0.48
+snippet: Tiny car-free Channel Island east of Guernsey, known for cliff paths and
+  Shell Beach.
 title: Herm
 type: location
 ---

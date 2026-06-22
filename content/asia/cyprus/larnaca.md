@@ -6,6 +6,8 @@ latitude: 34.923609
 loc_type: city
 longitude: 33.623618
 score: 0.52
+snippet: Southeast Cypriot coastal city over ancient Kition, with a palm-lined seafront
+  and airport gateway role.
 title: Larnaca
 type: location
 ---

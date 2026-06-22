@@ -6,6 +6,7 @@ latitude: 42.2894
 loc_type: city
 longitude: -79.4217
 score: 0.42
+snippet: "New York lakeside community built around the Chautauqua Institution's lectures, concerts, opera, and religious debate."
 title: Chautauqua
 type: location
 image: chautauqua.jpg

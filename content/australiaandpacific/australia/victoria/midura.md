@@ -9,6 +9,8 @@ latitude: -34.1834
 loc_type: city
 longitude: 142.1628
 score: 0.35
+snippet: Murray River city where outback edges meet irrigated citrus, vineyards, and
+  a multicultural food scene.
 title: Mildura
 type: location
 ---

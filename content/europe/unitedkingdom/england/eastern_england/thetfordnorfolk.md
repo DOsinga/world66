@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-01'
 latitude: 52.4156
-longitude: 0.7487
-title: Thetford
-type: location
-score: 0.27
 loc_type: city
+longitude: 0.7487
+score: 0.27
+snippet: Norfolk market town in Breckland pine forest, with medieval royal roots and
+  priory ruins.
 sources:
 - https://en.wikipedia.org/wiki/Thetford
 - https://en.wikipedia.org/wiki/Thetford_Priory
 - https://en.wikipedia.org/wiki/Grime%27s_Graves
+title: Thetford
+type: location
 ---
 
 Thetford is a market town in the Brecklands of Norfolk, tucked among one of the largest lowland pine forests in Britain. The land around here is as flat as Norfolk gets, but Thetford Forest gives the place a quiet, sheltered character quite unlike the open skies of the coast — and the town itself carries more history than you'd expect for somewhere this size.

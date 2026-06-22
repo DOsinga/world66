@@ -9,6 +9,7 @@ latitude: 39.1455
 loc_type: city
 longitude: 8.3064
 score: 0.51
+snippet: Island harbour town off Sardinia, founded by Tabarchino-speaking settlers of Genoese origin.
 sources:
 - https://en.wikipedia.org/wiki/Carloforte
 title: Carloforte

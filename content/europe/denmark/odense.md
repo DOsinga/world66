@@ -10,6 +10,8 @@ image_license: CC BY-SA 2.0
 image_source: https://www.flickr.com/photos/22890158@N08/2270353719
 latitude: 55.3997
 loc_type: city
+snippet: Danish city and Hans Christian Andersen's birthplace, with a walkable old
+  centre beyond the fairy-tale trail
 longitude: 10.3852
 score: 0.61
 title: Odense

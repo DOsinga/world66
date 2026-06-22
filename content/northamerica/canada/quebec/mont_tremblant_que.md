@@ -9,6 +9,8 @@ latitude: 46.215793
 loc_type: city
 longitude: -74.580558
 score: 0.52
+snippet: Laurentian resort town north of Montréal, built around eastern Canada's best-known
+  ski mountain.
 title: Mont-Tremblant
 type: location
 ---

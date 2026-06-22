@@ -9,6 +9,8 @@ latitude: 14.577439
 loc_type: city
 longitude: 121.033897
 score: 0.25
+snippet: Metro Manila city between Makati and San Juan, dominated by malls, offices,
+  and condominium towers
 title: Mandaluyong
 type: location
 ---

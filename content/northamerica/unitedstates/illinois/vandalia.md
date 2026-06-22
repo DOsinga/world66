@@ -6,6 +6,8 @@ latitude: 38.9606
 loc_type: city
 longitude: -89.0937
 score: 0.24
+snippet: Small Illinois town whose restored state house preserves its years as the
+  young state's capital.
 title: Vandalia
 type: location
 ---

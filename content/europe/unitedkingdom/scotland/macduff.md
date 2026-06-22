@@ -12,6 +12,8 @@ latitude: 57.670211
 loc_type: city
 longitude: -2.494438
 score: 0.36
+snippet: Small Aberdeenshire fishing town with a working harbour, boatyards, and a
+  Moray Firth marine aquarium.
 title: Macduff
 type: location
 ---

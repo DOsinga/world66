@@ -10,6 +10,8 @@ latitude: 11.5308
 loc_type: city
 longitude: -85.5684
 score: 0.49
+snippet: Lake Nicaragua island formed by the twin volcanoes Concepción and Maderas
+  joined by an isthmus.
 title: Isla Ometepe
 type: location
 ---

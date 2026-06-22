@@ -10,6 +10,8 @@ latitude: 37.975565
 loc_type: city
 longitude: 23.734832
 score: 0.74
+snippet: Ancient Greek capital where the Acropolis rises above hot streets, concrete
+  districts, and layered neighbourhoods
 tags:
 - history
 - culture

@@ -10,6 +10,8 @@ latitude: 68.120468
 loc_type: city
 longitude: 13.049638
 score: 0.62
+snippet: Quiet Lofoten municipality of fishing hamlets, Arctic beaches, and wooden
+  churches along the E10 road.
 title: Flakstad
 type: location
 ---

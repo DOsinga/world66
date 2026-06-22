@@ -5,6 +5,7 @@ done:
 latitude: 53.6917
 longitude: -1.3106
 title: Pontefract
+snippet: "West Yorkshire market town known for a royal-prison castle and centuries of liquorice sweets."
 type: location
 score: 0.33
 loc_type: city

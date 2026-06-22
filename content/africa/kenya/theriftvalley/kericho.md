@@ -10,6 +10,8 @@ latitude: -0.320997
 loc_type: city
 longitude: 35.226128
 score: 0.35
+snippet: Western Rift Valley tea town surrounded by rolling green plantations and
+  cool, wet highland country
 title: Kericho
 type: location
 ---

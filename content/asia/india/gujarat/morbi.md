@@ -11,6 +11,8 @@ latitude: 22.800396
 loc_type: city
 longitude: 70.886232
 score: 0.25
+snippet: Gujarat ceramics city on the Machchu River, with princely-state remnants
+  and a famous hanging bridge
 title: Morbi
 type: location
 ---

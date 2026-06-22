@@ -12,6 +12,8 @@ latitude: -4.755769
 loc_type: city
 longitude: -79.773997
 score: 0.36
+snippet: Northern Peruvian mountain town known for the Señor Cautivo pilgrimage and
+  its highland border setting.
 title: Ayabaca
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 50.832353
 loc_type: city
 longitude: 12.918914
 score: 0.35
+snippet: Saxon industrial city marked by Karl-Marx-Stadt history and a colossal bronze
+  Marx monument downtown.
 title: Chemnitz
 type: location
 ---

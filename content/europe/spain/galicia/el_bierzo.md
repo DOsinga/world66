@@ -10,6 +10,8 @@ latitude: 42.65265
 loc_type: city
 longitude: -6.623184
 score: 0.45
+snippet: Sheltered mountain valley in northwest León, where Castilian plateau country
+  gives way to Galician green hills.
 title: El Bierzo
 type: location
 ---

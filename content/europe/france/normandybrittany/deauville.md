@@ -10,6 +10,8 @@ latitude: 49.3595
 loc_type: city
 longitude: 0.0747
 score: 0.52
+snippet: Norman seaside resort known for its boardwalk, racecourse, casino, and long
+  Parisian holiday tradition.
 title: Deauville
 type: location
 ---

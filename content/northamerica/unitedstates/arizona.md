@@ -9,6 +9,8 @@ latitude: 34.0489
 loc_type: region
 longitude: -111.0937
 score: 0.64
+snippet: Southwestern US state of Grand Canyon plateau, Sonoran Desert, red-rock towns,
+  and fast-growing Phoenix.
 title: Arizona
 type: location
 ---

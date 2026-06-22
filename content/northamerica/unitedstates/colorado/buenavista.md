@@ -4,13 +4,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
 image: buenavista.jpg
-image_source: https://www.flickr.com/photos/75683070@N00/15835197429
-image_license: CC BY-SA 2.0
 image_attribution: Ken Lund on Flickr
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/75683070@N00/15835197429
 latitude: 38.8422
 loc_type: city
 longitude: -106.1311
 score: 0.43
+snippet: Mountain town in Colorado's Collegiate Peaks, with Arkansas River rafting
+  and hot springs below the fourteeners
 title: Buena Vista
 type: location
 ---

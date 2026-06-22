@@ -11,6 +11,7 @@ loc_type: city
 longitude: -77.8939
 score: 0.58
 title: Montego Bay
+snippet: "Jamaican north-coast gateway city, with a wide bay, resort strip, and busy Hip Strip."
 type: location
 ---
 

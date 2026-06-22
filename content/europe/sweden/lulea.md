@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Lulea-city-festival-water.
 latitude: 65.5845
 loc_type: city
 longitude: 22.1505
+score: 0.41
+snippet: Northern Swedish university city on Bothnian Bay, where winter sea ice shapes
+  daily life
 sources:
 - https://en.wikipedia.org/wiki/Lule%C3%A5
 - https://en.wikivoyage.org/wiki/Lule%C3%A5
 title: Luleå
 type: location
-score: 0.41
 ---
 
 Luleå is the capital of Norrbotten, Sweden's northernmost county, perched where the Lule River empties into the Bothnian Bay. For much of the year this is a genuinely Arctic city — the bay freezes solid from January to April, and in deep winter the sun barely clears the horizon. That said, Luleå is a lively university city with a student population that keeps the bars and restaurants humming even when temperatures fall to minus twenty.

@@ -9,6 +9,8 @@ latitude: -34.8343
 loc_type: city
 longitude: 138.5124
 score: 0.34
+snippet: Historic maritime quarter of Adelaide, where old wool stores and warehouses
+  line the Port River.
 title: Port Adelaide
 type: location
 ---

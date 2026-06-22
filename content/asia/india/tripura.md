@@ -1,19 +1,21 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: tripura.jpg
+image_attribution: Sharada Prasad CS
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tripura_State_Museum_Agartala_Tripura_India.jpg
 latitude: 23.84
 loc_type: region
 longitude: 91.28
+snippet: Northeastern Indian state almost encircled by Bangladesh, mixing royal palaces,
+  tribal hills, and rock carvings
 sources:
 - https://tripura.gov.in/places-interest
 - https://en.wikipedia.org/wiki/Tripura
 - https://en.wikipedia.org/wiki/Ujjayanta_Palace
 title: Tripura
 type: location
-image: tripura.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Tripura_State_Museum_Agartala_Tripura_India.jpg
-image_license: CC BY 2.0
-image_attribution: Sharada Prasad CS
 ---
 
 Tripura is a small northeastern state with a surprisingly rich travel mix: royal palaces, Bengali-influenced towns, tribal hill country, lakes, wildlife sanctuaries, and some of India's most intriguing rock carvings. It sits almost wrapped by Bangladesh, which gives it a different feel from the larger Himalayan states to the north.

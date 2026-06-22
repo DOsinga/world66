@@ -9,6 +9,8 @@ latitude: 43.071195
 loc_type: city
 longitude: 12.614667
 score: 0.63
+snippet: Umbrian hill town of St. Francis, stone lanes, and Giotto frescoes above
+  Monte Subasio
 title: Assisi
 type: location
 ---

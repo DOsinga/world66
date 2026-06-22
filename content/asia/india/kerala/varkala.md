@@ -9,6 +9,8 @@ latitude: 8.7333
 loc_type: city
 longitude: 76.7167
 score: 0.52
+snippet: Kerala cliff-top beach town where Hindu pilgrimage sites share red laterite
+  bluffs above the Arabian Sea
 title: Varkala
 type: location
 ---

@@ -10,6 +10,7 @@ loc_type: city
 longitude: 153.091049
 score: 0.57
 title: Noosa Heads
+snippet: Sunshine Coast beach town with low-rise streets, sheltered surf, and Noosa National Park headland.
 type: location
 ---
 

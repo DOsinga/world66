@@ -9,6 +9,8 @@ latitude: 20.389
 loc_type: city
 longitude: -99.996
 score: 0.31
+snippet: Querétaro colonial city in a fertile valley, known for opal mining, gem workshops,
+  and vineyards.
 title: San Juan del Río
 type: location
 ---

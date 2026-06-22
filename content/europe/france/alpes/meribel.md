@@ -10,6 +10,7 @@ loc_type: city
 longitude: 6.577333
 score: 0.59
 title: Méribel
+snippet: "Savoyard ski resort in Les Trois Vallées, built with wood-and-stone discipline above Les Allues."
 type: location
 ---
 

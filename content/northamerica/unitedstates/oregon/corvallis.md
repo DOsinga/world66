@@ -10,6 +10,8 @@ latitude: 44.564566
 loc_type: city
 longitude: -123.262044
 score: 0.36
+snippet: Willamette Valley university city with a walkable brick downtown and Oregon
+  State campus energy
 title: Corvallis
 type: location
 ---

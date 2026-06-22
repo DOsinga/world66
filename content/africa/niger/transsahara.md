@@ -9,6 +9,7 @@ score: 0.16
 sources:
 - https://en.wikipedia.org/wiki/Trans-Sahara_Highway
 - https://sahara-overland.com/routes/
+snippet: Historic trans-Saharan crossing route through Niger, linking Agadez to desert tracks toward Algeria and Libya.
 title: Trans Sahara
 type: location
 ---

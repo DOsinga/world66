@@ -6,6 +6,8 @@ latitude: 37.957702
 loc_type: city
 longitude: -121.290779
 score: 0.21
+snippet: Central Valley city on the Sacramento–San Joaquin Delta, with waterways,
+  levees, and historic river towns nearby.
 title: Stockton
 type: location
 ---

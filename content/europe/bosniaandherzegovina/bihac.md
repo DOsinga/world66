@@ -10,6 +10,8 @@ latitude: 44.8169
 loc_type: city
 longitude: 15.8697
 score: 0.4
+snippet: Una River town in northwest Bosnia, gateway to travertine waterfalls and
+  forested Una National Park
 title: Bihać
 type: location
 ---

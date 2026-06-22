@@ -1,15 +1,17 @@
 ---
-title: Reunion
-type: location
 latitude: -21.130933
+loc_type: country
 longitude: 55.526577
 quick_facts:
-  Population: "900,000"
-  Currency: Euro (EUR)
-  Highest Peak: "3,071 m (Piton des Neiges)"
   Active Volcano: Piton de la Fournaise
-score: 0.60
-loc_type: country
+  Currency: Euro (EUR)
+  Highest Peak: 3,071 m (Piton des Neiges)
+  Population: 900,000
+score: 0.6
+snippet: French Indian Ocean island of volcanic peaks, sugar history, turquoise lagoons,
+  and Creole culture.
+title: Reunion
+type: location
 ---
 
 Reunion is a French department lost in the Indian Ocean. There are coconut trees and beaches in Reunion, the turquoise blue lagoons and the white barrier reef are there waiting for you to fulfil your exotic dreams. 

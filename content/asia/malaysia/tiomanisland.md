@@ -9,6 +9,8 @@ latitude: 2.806544
 loc_type: region
 longitude: 104.172156
 score: 0.64
+snippet: Malaysian island of rainforest, granite peaks, kampungs, coral reefs, and
+  duty-free beach life.
 title: Tioman Island
 type: location
 ---

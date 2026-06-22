@@ -9,6 +9,8 @@ latitude: -33.590295
 loc_type: city
 longitude: 22.204206
 score: 0.45
+snippet: Karoo ostrich town whose feather boom left grand sandstone palaces in a semi-desert
+  valley.
 title: Oudtshoorn
 type: location
 ---

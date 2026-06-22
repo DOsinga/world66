@@ -6,6 +6,8 @@ latitude: 37.012262
 loc_type: city
 longitude: -4.957831
 score: 0.4
+snippet: Málaga hill region of turquoise reservoirs, limestone gorges, and Andalucía's
+  paragliding circuits.
 sources:
 - https://en.wikipedia.org/wiki/Guadalhorce_Reservoir
 - https://en.wikipedia.org/wiki/Caminito_del_Rey

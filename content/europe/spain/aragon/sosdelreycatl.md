@@ -9,6 +9,8 @@ latitude: 42.496999
 loc_type: city
 longitude: -1.215063
 score: 0.45
+snippet: Aragonese medieval town of stone lanes and arcades, birthplace of Ferdinand
+  the Catholic
 title: Sos del Rey Católico
 type: location
 ---

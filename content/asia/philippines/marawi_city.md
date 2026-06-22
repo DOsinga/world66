@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-12'
+image: marawi_city.jpg
+image_attribution: Patrickroque01
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Marawi_City_proper,_Amai_Pakpak_Avenue-Basak_Malutlut_(Marawi,_Lanao_Del_Sur;_10-14-2023).jpg
 latitude: 7.9986
 loc_type: city
 longitude: 124.2928
 score: 0.18
+snippet: Maranao cultural city on Lake Lanao, known as the Philippines' predominantly
+  Muslim Islamic City.
 title: Marawi City
 type: location
-image: marawi_city.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Marawi_City_proper,_Amai_Pakpak_Avenue-Basak_Malutlut_(Marawi,_Lanao_Del_Sur;_10-14-2023).jpg
-image_license: CC BY-SA 4.0
-image_attribution: Patrickroque01
 ---
 
 Marawi City sits on the northern shore of [Lake Lanao](/asia/philippines/marawi_city/lake_lanao), the largest lake in Mindanao and one of the oldest in the world. As the capital of Lanao del Sur province, it serves as the cultural heart of the Maranao people and is sometimes called the Islamic City of Marawi — the only city in the Philippines with a predominantly Muslim population.

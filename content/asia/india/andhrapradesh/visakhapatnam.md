@@ -13,6 +13,7 @@ loc_type: city
 longitude: 83.29213
 score: 0.38
 title: Visakhapatnam
+snippet: Andhra Pradesh port city between the Eastern Ghats and Bay of Bengal, known locally as Vizag.
 type: location
 ---
 

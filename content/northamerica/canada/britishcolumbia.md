@@ -9,6 +9,8 @@ latitude: 55.001251
 loc_type: region
 longitude: -125.002441
 score: 0.64
+snippet: Pacific Canadian province of coastal cities, mountain ranges, waterways,
+  and deep cultural diversity
 title: British Columbia
 type: location
 ---

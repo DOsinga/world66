@@ -4,16 +4,18 @@ done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-06-02'
   poi_cleanup: '2026-04-19'
+image: volgograd.jpg
+image_attribution: Governor of Volgograd Oblast
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Dmitry_Medvedev_in_Volgograd_Oblast,_March_2010-3.JPG
 latitude: 48.708
 loc_type: city
 longitude: 44.5133
 score: 0.38
+snippet: Long Volga River city formerly called Stalingrad, rebuilt around the memory
+  of its decisive wartime battle.
 title: Volgograd
 type: location
-image: volgograd.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Dmitry_Medvedev_in_Volgograd_Oblast,_March_2010-3.JPG
-image_license: CC BY-SA 3.0
-image_attribution: Governor of Volgograd Oblast
 ---
 
 Volgograd is a Russian city of just over one million people, stretched for 80 kilometres along the west bank of the Volga River in the southern Russian steppe. It is known to the world almost entirely by its former name: Stalingrad. The Battle of Stalingrad, fought from August 1942 to February 1943, was the largest and bloodiest battle of the Second World War — an estimated two million casualties on all sides — and the point at which the German advance into the Soviet Union was broken. The city was essentially destroyed in the fighting and rebuilt from rubble after the war.

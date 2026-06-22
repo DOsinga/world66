@@ -10,6 +10,8 @@ latitude: 34.815353
 loc_type: city
 longitude: 134.685479
 score: 0.65
+snippet: Hyogo city dominated by White Heron Castle, one of Japan's original surviving
+  feudal keeps.
 title: Himeji
 type: location
 ---

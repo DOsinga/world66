@@ -10,6 +10,8 @@ latitude: 37.1367
 loc_type: city
 longitude: -6.8278
 score: 0.4
+snippet: Low-key Andalusian beach resort near Doñana, with pine-backed sands and sandstone
+  cliffs.
 title: Mazagón
 type: location
 ---

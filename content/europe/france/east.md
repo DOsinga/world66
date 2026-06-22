@@ -5,6 +5,7 @@ latitude: 48.0
 longitude: 5.5
 score: 0.37
 title: East France
+snippet: "Borderland French region of Champagne cellars, Alsatian towns, Jura vineyards, and Vosges mountain country."
 type: location
 loc_type: region
 ---

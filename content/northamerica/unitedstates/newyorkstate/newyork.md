@@ -13,6 +13,8 @@ latitude: 40.712728
 loc_type: city
 longitude: -74.006015
 score: 0.81
+snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
+  restless street life beside the Hudson.
 title: New York
 type: location
 ---

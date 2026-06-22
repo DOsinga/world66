@@ -9,6 +9,8 @@ latitude: -34.612603
 loc_type: city
 longitude: -68.330514
 score: 0.38
+snippet: Mendoza wine city in an orchard valley, base for Atuel Canyon and southern
+  Andean excursions.
 title: San Rafael
 type: location
 ---

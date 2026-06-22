@@ -12,6 +12,8 @@ latitude: 48.4284
 loc_type: city
 longitude: -123.3656
 score: 0.57
+snippet: British Columbia capital on Vancouver Island, centred on the Inner Harbour
+  and Parliament Buildings.
 title: Victoria
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 26.122308
 loc_type: city
 longitude: -80.143379
 score: 0.46
+snippet: Atlantic Florida city of beaches, canals, yachts, and waterfront neighbourhoods
+  north of Miami.
 title: Fort Lauderdale
 type: location
 ---

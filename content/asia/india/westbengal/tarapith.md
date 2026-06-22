@@ -10,6 +10,8 @@ latitude: 24.115199
 loc_type: city
 longitude: 87.796868
 score: 0.35
+snippet: Bengal pilgrimage town centred on the Tantric Tara temple and cremation grounds
+  associated with Bamakhepa.
 title: Tarapith
 type: location
 ---

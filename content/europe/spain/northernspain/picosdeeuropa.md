@@ -9,12 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Camino_Vadiniense,_Picos_d
 latitude: 43.1975
 loc_type: feature
 longitude: -4.8517
+score: 0.58
+snippet: Compact limestone massif in northern Spain, cut by deep gorges above the
+  Cantabrian coast.
 sources:
 - https://en.wikipedia.org/wiki/Picos_de_Europa_National_Park
 - https://en.wikipedia.org/wiki/Picos_de_Europa
 title: Picos de Europa
 type: location
-score: 0.58
 ---
 
 The Picos de Europa are a compact limestone massif rising dramatically above the green hills of northern Spain, straddling the borders of Asturias, Cantabria, and Castile and León. They are not high by Alpine standards — the highest peak, Torre de Cerredo, reaches 2,648 metres — but the vertical relief is extraordinary: the range drops from summit to sea level in barely 30 kilometres, and within the massif itself the gorges cut to depths of 1,000 metres or more. Spain's first national park was established here in 1918, and a UNESCO Biosphere Reserve designation followed in 2003.

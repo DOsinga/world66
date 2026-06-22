@@ -10,6 +10,8 @@ latitude: -28.503833
 loc_type: city
 longitude: 30.887501
 score: 0.54
+snippet: South African province from Indian Ocean beaches to Drakensberg peaks, rooted
+  in Zulu history
 title: KwaZulu-Natal
 type: location
 ---

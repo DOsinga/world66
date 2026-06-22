@@ -8,6 +8,8 @@ latitude: 45.529671
 loc_type: region
 longitude: 10.940022
 score: 0.62
+snippet: Veneto wine region north of Verona, producing Amarone among cherry orchards
+  and stone villages.
 title: Valpolicella
 type: location
 ---

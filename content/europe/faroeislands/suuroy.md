@@ -5,6 +5,8 @@ latitude: 61.5211
 loc_type: region
 longitude: -6.8142
 score: 0.54
+snippet: Southern Faroe island of basalt cliffs, narrow fjords, and fishing villages
+  far from the main tourist loop.
 title: Suðuroy
 type: location
 ---

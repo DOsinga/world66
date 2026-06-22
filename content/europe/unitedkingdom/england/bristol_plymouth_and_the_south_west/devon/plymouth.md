@@ -12,6 +12,8 @@ latitude: 50.3714
 loc_type: city
 longitude: -4.1424
 score: 0.42
+snippet: Devon naval city on Plymouth Sound, tied to the Mayflower, Drake, and Atlantic
+  seafaring.
 title: Plymouth
 type: location
 ---

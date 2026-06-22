@@ -1,16 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: yellowstone.jpg
+image_attribution: Brocken Inaglory
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Daisy_Geyser_erupting_in_Yellowstone_National_Park_edit.jpg
 latitude: 44.428
+loc_type: feature
 longitude: -110.5885
+score: 0.77
+snippet: Vast American national park on a volcanic hotspot, packed with geysers, hot
+  springs, and wildlife.
 title: Yellowstone
 type: location
-score: 0.77
-image: yellowstone.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Daisy_Geyser_erupting_in_Yellowstone_National_Park_edit.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Brocken Inaglory
-loc_type: feature
 ---
 
 Yellowstone became the world's first national park in 1872, and it remains one of the most extraordinary landscapes on earth. The park sits on top of a volcanic hotspot that powers over 10,000 thermal features — geysers, hot springs, mud pots and fumaroles — more than anywhere else on the planet.

@@ -4,6 +4,7 @@ done:
 latitude: 67.692237
 longitude: 26.728139
 title: Lapland
+snippet: Northern Finnish wilderness of reindeer, fell mountains, midnight sun, and winter northern lights
 type: location
 score: 0.71
 loc_type: region

@@ -10,6 +10,8 @@ latitude: 58.5909
 loc_type: city
 longitude: 16.1904
 score: 0.42
+snippet: Former Swedish textile city where riverside factories now hold museums, concerts,
+  and a university campus
 title: Norrköping
 type: location
 ---

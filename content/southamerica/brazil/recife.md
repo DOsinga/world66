@@ -9,6 +9,8 @@ latitude: -8.058493
 loc_type: city
 longitude: -34.884819
 score: 0.46
+snippet: Pernambuco capital built on rivers and islands, with frevo, maracatu, bridges,
+  and colonial quarters.
 title: Recife
 type: location
 ---

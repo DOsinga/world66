@@ -13,6 +13,7 @@ longitude: 6.1466
 score: 0.64
 title: Geneva
 type: location
+snippet: "Lake Geneva city and international hub, home to UN offices, CERN, and a steep old town."
 ---
 
 Geneva is a small city with a disproportionate presence in global affairs — home to the United Nations European headquarters, the Red Cross, WHO, [CERN](/europe/switzerland/geneva/cern), and dozens of other international organisations. It sits at the western end of Lake Geneva (Lac Léman) where the Rhône flows out, with the Alps visible on clear days and the French border within walking distance of the centre.

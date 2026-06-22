@@ -6,6 +6,8 @@ latitude: -30.514488
 loc_type: city
 longitude: 151.665656
 score: 0.36
+snippet: New England Tablelands university city with sandstone churches, autumn trees,
+  and gorge country to the east.
 title: Armidale
 type: location
 ---

@@ -14,6 +14,8 @@ sources:
 title: Llandudno
 type: location
 score: 0.45
+snippet: Victorian seaside resort between two limestone headlands, laid out with rare
+  architectural discipline.
 ---
 
 Llandudno is the most complete Victorian seaside resort in Britain. It was laid out from scratch in the 1850s on what had been a tract of sand and dune between two limestone headlands — the Great Orme and the Little Orme — and the original developers, the Mostyn family, were strict about keeping the new town orderly. The main streets follow a tight grid, the buildings are uniformly three and four storeys high, the seafront promenade is unbroken from one headland to the other, and there are almost no modern intrusions to spoil the effect. Walking the [North Shore](/europe/unitedkingdom/wales/llandudno/north_shore_promenade) on a clear evening is to step into a perfectly preserved 1880s holiday postcard.

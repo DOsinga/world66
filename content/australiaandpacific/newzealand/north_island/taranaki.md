@@ -5,6 +5,8 @@ latitude: -39.3848
 loc_type: region
 longitude: 174.1974
 score: 0.58
+snippet: West coast New Zealand region dominated by Mount Taranaki's volcanic cone,
+  rainforest, and dairy country
 title: Taranaki
 type: location
 ---

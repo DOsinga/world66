@@ -8,6 +8,8 @@ latitude: 41.7553
 loc_type: city
 longitude: -124.2018
 score: 0.36
+snippet: Far northern California fishing town on a crescent bay, beside redwoods and
+  Battery Point Lighthouse.
 title: Crescent City
 type: location
 ---

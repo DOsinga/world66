@@ -11,6 +11,7 @@ loc_type: city
 longitude: -80.019672
 score: 0.38
 title: Mompiche
+snippet: "Northern Ecuador fishing village in a sheltered bay, known for its long left-hand surf break."
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 29.4246
 loc_type: city
 longitude: -98.4951
 score: 0.48
+snippet: Texas city of Spanish missions, Mexican influence, and walkways along the
+  San Antonio River.
 title: San Antonio
 type: location
 ---

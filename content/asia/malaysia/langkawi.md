@@ -10,6 +10,8 @@ latitude: 6.370039
 loc_type: city
 longitude: 99.792863
 score: 0.62
+snippet: Malaysian archipelago of beaches, limestone karsts, mangroves, and duty-free
+  island life near Thailand.
 title: Langkawi
 type: location
 ---

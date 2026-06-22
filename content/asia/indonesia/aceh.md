@@ -1,9 +1,11 @@
 ---
+latitude: 4.7
+loc_type: region
+longitude: 96.7
+snippet: Northern Sumatran region with a distinct Islamic identity, tsunami memory,
+  and Pulau Weh reefs.
 title: Aceh
 type: location
-loc_type: region
-latitude: 4.7
-longitude: 96.7
 ---
 
 Aceh occupies the northern tip of Sumatra and has always been a place apart. It was the first part of Southeast Asia to convert to Islam, centuries before the rest of the archipelago, and its deeply conservative Islamic identity has shaped its character ever since. Aceh was also the point of Sumatra closest to the 2004 Indian Ocean earthquake epicentre; the tsunami that followed killed over 100,000 people here and reshaped the landscape of the coast. Recovery has been remarkable but the scars remain.

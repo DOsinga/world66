@@ -9,6 +9,8 @@ latitude: 28.774997
 loc_type: city
 longitude: 77.458697
 score: 0.22
+snippet: Industrial satellite city east of Delhi, linked by Metro and shaped by NCR
+  commuter life
 title: Ghaziabad
 type: location
 ---

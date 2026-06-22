@@ -10,6 +10,8 @@ latitude: 38.8462
 loc_type: city
 longitude: -77.3064
 score: 0.31
+snippet: Potomac-side Virginia region of suburbs, historic towns, and Mount Vernon,
+  just across from Washington DC.
 title: Northern Virginia
 type: location
 ---

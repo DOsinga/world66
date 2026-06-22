@@ -6,6 +6,8 @@ latitude: 10.953376
 loc_type: city
 longitude: 108.247176
 score: 0.53
+snippet: Vietnamese beach resort strip where grey sand, fishing boats, and red dunes
+  meet the South China Sea
 title: Mui Ne - Phan Thiet
 type: location
 ---

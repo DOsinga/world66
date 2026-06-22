@@ -10,6 +10,8 @@ latitude: 10.290307
 loc_type: city
 longitude: 78.817362
 score: 0.28
+snippet: Tamil Nadu town and former princely capital, with Chola bronzes and Jain
+  cave paintings nearby.
 sources:
 - https://en.wikipedia.org/wiki/Pudukkottai
 - https://en.wikipedia.org/wiki/Sittanavasal

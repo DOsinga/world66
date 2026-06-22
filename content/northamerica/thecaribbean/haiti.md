@@ -8,11 +8,13 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:At_the_Border_of_Haiti_and_the_Dominican_Republic_(8057179936).jpg
 latitude: 18.9712
+loc_type: region
 longitude: -72.2852
 score: 0.24
+snippet: Caribbean nation on western Hispaniola, shaped by mountains, Vodou culture,
+  and the first successful slave revolution.
 title: Haiti
 type: location
-loc_type: region
 ---
 
 Haiti occupies the western third of Hispaniola, the island it shares with the Dominican Republic. It was the first Black republic in the world, winning independence from France in 1804 after the only successful slave revolution in history — a fact that has shaped its identity, its relationship with the outside world, and the fierce pride of its people ever since.

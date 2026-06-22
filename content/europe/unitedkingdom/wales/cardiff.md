@@ -10,6 +10,7 @@ loc_type: city
 longitude: -3.179193
 score: 0.49
 title: Cardiff
+snippet: Compact Welsh capital where a castle-centred core meets bayfront redevelopment and a strong cultural life.
 type: location
 ---
 

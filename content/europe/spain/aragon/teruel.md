@@ -9,6 +9,8 @@ latitude: 40.6005
 loc_type: city
 longitude: -0.9229
 score: 0.45
+snippet: High Aragonese provincial capital whose Mudéjar towers form a compact UNESCO-listed
+  old centre
 title: Teruel
 type: location
 ---

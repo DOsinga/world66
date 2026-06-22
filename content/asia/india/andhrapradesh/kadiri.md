@@ -6,6 +6,8 @@ latitude: 14.10823
 loc_type: city
 longitude: 78.161069
 score: 0.24
+snippet: Andhra Pradesh town centred on the Sri Lakshmi Narasimha Swamy Temple and
+  Vijayanagara-era traditions.
 title: Kadiri
 type: location
 ---

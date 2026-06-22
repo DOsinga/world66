@@ -5,6 +5,8 @@ latitude: 49.121191
 loc_type: region
 longitude: -56.64034
 score: 0.58
+snippet: Atlantic Canadian island known for St. John's, Cape Spear, fishing villages,
+  and rugged coastal scenery.
 title: Newfoundland
 type: location
 ---

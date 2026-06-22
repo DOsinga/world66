@@ -10,6 +10,8 @@ latitude: 56.13996
 loc_type: city
 longitude: 47.2481
 score: 0.29
+snippet: Volga river capital of Chuvashia, where Russian Orthodox landmarks sit beside
+  Chuvash cultural institutions
 title: Cheboksary
 type: location
 ---

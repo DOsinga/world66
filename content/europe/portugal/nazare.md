@@ -6,6 +6,8 @@ latitude: 39.602911
 loc_type: city
 longitude: -9.070157
 score: 0.54
+snippet: Portuguese fishing town defined by Nazaré Canyon surf and a two-level Atlantic
+  seafront.
 sources:
 - https://en.wikipedia.org/wiki/Nazar%C3%A9,_Portugal
 - https://en.wikipedia.org/wiki/Praia_do_Norte_(Nazar%C3%A9)

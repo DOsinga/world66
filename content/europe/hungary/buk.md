@@ -10,6 +10,8 @@ latitude: 47.383396
 loc_type: city
 longitude: 16.753305
 score: 0.37
+snippet: Western Hungarian village near Austria, known for the mineral pools of Bükfürdő
+  thermal spa
 title: Bük
 type: location
 ---

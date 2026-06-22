@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 46.5864
+loc_type: region
 longitude: -120.5278
+score: 0.44
+snippet: Central Washington wine valley of vineyards, hops, apples, and Yakama Nation
+  history
 title: Yakima Valley
 type: location
-score: 0.44
-loc_type: region
 ---
 
 The Yakima Valley stretches east from the Cascade foothills across semi-arid high desert in central Washington, producing more than 70% of Washington State's wine grapes and a significant share of its hops, apples, and other fruit. The valley is Washington wine country's heartland — less fashionable than Walla Walla but with a wider range of wineries and a more casual, less polished atmosphere.

@@ -11,6 +11,7 @@ latitude: 27.041
 loc_type: city
 longitude: 88.2663
 score: 0.58
+snippet: "Tea-growing hill town in West Bengal with ridge-top views of Kanchenjunga and a narrow-gauge Himalayan railway."
 title: Darjeeling
 type: location
 ---

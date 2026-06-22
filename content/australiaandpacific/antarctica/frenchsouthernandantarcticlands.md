@@ -1,9 +1,11 @@
 ---
+latitude: -49.35
+loc_type: region
+longitude: 70.2167
+snippet: Remote French sub-Antarctic territory of Kerguelen, Crozet, Amsterdam, Saint-Paul,
+  and Antarctic claims
 title: French Southern and Antarctic Lands
 type: location
-loc_type: region
-latitude: -49.3500
-longitude: 70.2167
 ---
 
 The French Southern and Antarctic Lands (Terres australes et antarctiques françaises, TAAF) is a French overseas territory comprising several remote sub-Antarctic island groups in the southern Indian Ocean and a sector of Antarctica itself. The main islands are Crozet, Kerguelen, Amsterdam, and Saint-Paul. There is no permanent civilian population — only rotating teams of researchers and military personnel, numbering around 100 at any given time.

@@ -9,6 +9,8 @@ latitude: 39.191113
 loc_type: city
 longitude: -106.82356
 score: 0.61
+snippet: Roaring Fork Valley ski town where a silver-mining past meets four high Colorado
+  mountains.
 title: Aspen
 type: location
 ---

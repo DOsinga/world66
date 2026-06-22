@@ -10,6 +10,7 @@ latitude: 23.852328
 loc_type: city
 longitude: 120.928607
 score: 0.58
+snippet: Taiwanese mountain lake ringed by tea hills, temples, cycling paths, and misty morning views.
 title: Sun Moon Lake
 type: location
 ---

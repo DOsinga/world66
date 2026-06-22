@@ -10,6 +10,8 @@ latitude: 29.234
 loc_type: city
 longitude: -13.503
 score: 0.54
+snippet: Car-free Canary island north of Lanzarote, with volcanic sand tracks and
+  Chinijo Archipelago beaches.
 title: La Graciosa
 type: location
 ---

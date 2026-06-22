@@ -9,6 +9,7 @@ loc_type: region
 longitude: -57.455336
 score: 0.65
 title: Pantanal
+snippet: Vast tropical wetland in western Brazil, renowned for open landscapes and visible wildlife.
 type: location
 ---
 

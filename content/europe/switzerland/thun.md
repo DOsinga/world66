@@ -8,6 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:1_thun_castle_view_2012.jpg
 latitude: 46.758283
 loc_type: city
+snippet: Lakeside Swiss city and Bernese Oberland gateway, with a castle-topped old town above the Aare.
 longitude: 7.628086
 score: 0.55
 title: Thun

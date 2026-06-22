@@ -9,11 +9,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Statue_of_Robert_the_Bruce
 latitude: 56.1165
 loc_type: city
 longitude: -3.9369
+score: 0.57
+snippet: Historic Scottish city at the River Forth crossing, guarded by a castle above
+  the Highlands road
 sources:
 - https://en.wikipedia.org/wiki/Stirling
 title: Stirling
 type: location
-score: 0.57
 ---
 
 Stirling sits at the narrowest crossing point of the River Forth, where the Lowlands meet the Highlands, and that geography has shaped its entire history. Whoever held Stirling held the road north — which is why two of Scotland's most decisive battles, Stirling Bridge in 1297 and Bannockburn in 1314, were fought within a few miles of the city. The volcanic crag rising above the river carries one of the finest castles in Britain, and the old town that tumbles down the hill below it is among the most evocative in Scotland.

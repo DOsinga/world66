@@ -5,6 +5,8 @@ latitude: 39.056
 loc_type: region
 longitude: 16.5942
 score: 0.53
+snippet: Mountainous Italian region at the boot's toe, with Ionian beaches, chili-rich
+  food, and Greek layers
 title: Calabria
 type: location
 ---

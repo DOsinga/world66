@@ -6,6 +6,7 @@ latitude: 33.952847
 longitude: -84.549615
 title: Marietta
 type: location
+snippet: Cobb County city northwest of Atlanta, centred on a preserved historic square and Glover Park.
 image: marietta.jpg
 image_source: https://www.flickr.com/photos/71428177@N00/2257174944
 image_license: CC BY-SA 2.0

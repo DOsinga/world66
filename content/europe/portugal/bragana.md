@@ -11,6 +11,7 @@ image: bragana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Citadela_de_Bragan%C3%A7a_-_Portugal_(7415446134)_(cropped).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Vitor Oliveira from Torres Vedras, PORTUGAL
+snippet: "Remote Trás-os-Montes capital crowned by a lived-in medieval citadel and rare Romanesque Domus Municipalis."
 ---
 
 Bragança is the capital of the remote Trás-os-Montes region in Portugal's far northeast, about as far from Lisbon as you can get and still be in the country. The city is best known for its magnificent citadel, a walled medieval compound that crowns the hilltop above the modern town. Inside the walls you will find the [Castle of Bragança](/europe/portugal/bragana/castle_of_braganca), a pillory, the [Domus Municipalis](/europe/portugal/bragana/domus_municipalis) — one of the rarest examples of civic Romanesque architecture in the Iberian Peninsula — and a handful of houses that people still live in. It is one of the most atmospheric fortified towns in Portugal.

@@ -6,6 +6,8 @@ latitude: 36.5547
 loc_type: city
 longitude: 29.1167
 score: 0.43
+snippet: Resort village in pine-covered hills above Ölüdeniz, used as a base for beaches
+  and trails.
 title: Hisaronu
 type: location
 ---

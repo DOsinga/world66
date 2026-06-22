@@ -10,6 +10,8 @@ latitude: 57.41748
 loc_type: city
 longitude: 18.536958
 score: 0.54
+snippet: Baltic limestone island of raukar sea stacks, farmland, and Visby's walled
+  medieval streets.
 title: Gotland
 type: location
 ---

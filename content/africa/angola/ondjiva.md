@@ -10,6 +10,8 @@ latitude: -17.0705
 loc_type: city
 longitude: 15.728
 score: 0.19
+snippet: Southern Angolan border town and overland waypoint, marked by dry plains
+  and war-scarred provincial history.
 title: Ondjiva
 type: location
 ---

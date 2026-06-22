@@ -10,6 +10,8 @@ latitude: 58.754541
 loc_type: city
 longitude: 17.012066
 score: 0.37
+snippet: Old Baltic town on the Nyköpingsån, marked by medieval royal intrigue at
+  Nyköping Castle.
 sources:
 - https://en.wikipedia.org/wiki/Nyk%C3%B6ping
 - https://en.wikipedia.org/wiki/Nyk%C3%B6ping_Castle

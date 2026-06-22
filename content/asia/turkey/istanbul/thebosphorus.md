@@ -13,6 +13,7 @@ score: 0.71
 title: The Bosphorus
 type: location
 loc_type: feature
+snippet: Istanbul strait dividing Europe and Asia, lined with Ottoman villas, palaces, ferries, and fortresses.
 ---
 
 The Bosphorus is the strait that separates Europe from Asia, and a trip along its shores is one of the essential Istanbul experiences. Both sides of the channel are lined with old Ottoman wooden villas, 19th-century palaces, and waterside restaurants where you can watch tankers and ferries glide past.

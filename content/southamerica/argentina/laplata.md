@@ -6,6 +6,8 @@ latitude: -34.92068
 loc_type: city
 longitude: -57.953764
 score: 0.38
+snippet: Planned Argentine city with diagonal boulevards, regular plazas, and a neo-Gothic
+  cathedral anchoring its grid.
 sources:
 - https://en.wikipedia.org/wiki/La_Plata
 - https://wander-argentina.com/la-plata-places-of-interest/

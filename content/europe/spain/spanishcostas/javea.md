@@ -10,6 +10,8 @@ latitude: 38.78938
 loc_type: city
 longitude: 0.163417
 score: 0.5
+snippet: Costa Blanca bay town with separate old town, fishing port, and Arenal beach
+  districts
 title: Javea
 type: location
 ---

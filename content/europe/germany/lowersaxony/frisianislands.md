@@ -6,6 +6,7 @@ loc_type: region
 longitude: 7.23402
 score: 0.55
 title: Frisian Islands
+snippet: North Sea island chain off Lower Saxony, known for car-free villages, spas, and Wadden landscapes.
 type: location
 ---
 

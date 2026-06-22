@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Solothurn_-_St._Ursen_von_
 latitude: 47.2073
 loc_type: city
 longitude: 7.5367
+score: 0.52
+snippet: Swiss Baroque city on the Aare, famous for eleven-themed landmarks and French
+  ambassadorial history
 sources:
 - https://en.wikipedia.org/wiki/Solothurn
 - https://en.wikivoyage.org/wiki/Solothurn
 title: Solothurn
 type: location
-score: 0.52
 ---
 
 Solothurn is a small city on the Aare with one of the best-preserved Baroque old towns in Switzerland. Its obsession with the number eleven — eleven churches, eleven chapels, eleven fountains, eleven towers, all relating to the city's foundational mythology — is either endearing or peculiar depending on your disposition, but the [Cathedral of Saint Ursus](/europe/switzerland/solothurn/solothurn_cathedral) rising above the rooftops makes a strong case for the former. Built between 1762 and 1773, it is one of the finest Baroque buildings in the country.

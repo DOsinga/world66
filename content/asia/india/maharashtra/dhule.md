@@ -11,6 +11,8 @@ latitude: 21.130522
 loc_type: city
 longitude: 74.490061
 score: 0.23
+snippet: Northern Maharashtra city at major highway crossroads, with nearby pilgrimage
+  fairs and historic forts.
 title: Dhule
 type: location
 ---

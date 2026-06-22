@@ -12,6 +12,8 @@ latitude: 22.3193
 loc_type: city
 longitude: 114.1694
 score: 0.73
+snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
+  Kong Island and Kowloon
 sources:
 - https://en.wikivoyage.org/wiki/Hong_Kong
 title: Hong Kong

@@ -11,6 +11,7 @@ loc_type: city
 longitude: 16.162287
 score: 0.38
 title: Náchod
+snippet: Northeastern Bohemian border town with a Renaissance château and nearby 1930s fortifications.
 type: location
 ---
 

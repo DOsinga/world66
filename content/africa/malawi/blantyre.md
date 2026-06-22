@@ -6,6 +6,8 @@ latitude: -15.786254
 loc_type: city
 longitude: 35.003569
 score: 0.28
+snippet: Malawi's commercial capital, spread across southern hills and named for David
+  Livingstone's birthplace.
 title: Blantyre
 type: location
 ---

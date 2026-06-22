@@ -7,16 +7,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Awa-odori_2008_Tokushima.jpg
 latitude: 36.574844
+loc_type: country
 longitude: 139.239418
 quick_facts:
-  Population: "125 million"
   Currency: Yen
-  Islands: "~7,000"
-  Vending Machines: "5.5 million"
+  Islands: ~7,000
+  Population: 125 million
+  Vending Machines: 5.5 million
 score: 0.97
+snippet: East Asian archipelago of four main islands, combining dense cities, temples,
+  mountains, and coastal landscapes.
 title: Japan
 type: location
-loc_type: country
 ---
 
 Japan is one of the most rewarding countries in the world to travel. It is modern and ancient simultaneously: bullet trains run on the second, while Buddhist monks chant in thousand-year-old temples. Streets are spotlessly clean and almost completely safe. The food is extraordinary. And despite the language barrier, Japan is surprisingly easy to get around.

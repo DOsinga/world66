@@ -10,6 +10,8 @@ latitude: -17.956691
 loc_type: city
 longitude: 122.224018
 score: 0.52
+snippet: Kimberley coast town shaped by pearling history, Cable Beach light, and multicultural
+  northern Australia.
 title: Broome
 type: location
 ---

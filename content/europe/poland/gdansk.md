@@ -11,6 +11,8 @@ latitude: 54.352
 loc_type: city
 longitude: 18.6466
 score: 0.58
+snippet: Baltic port city where the Second World War began and the Solidarity movement
+  later took shape.
 title: Gdansk
 type: location
 ---

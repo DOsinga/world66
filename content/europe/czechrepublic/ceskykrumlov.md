@@ -10,6 +10,8 @@ latitude: 48.810653
 loc_type: city
 longitude: 14.315059
 score: 0.65
+snippet: UNESCO-listed Czech river town wrapped by the Vltava beneath a vast castle
+  complex.
 sources:
 - https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov
 title: Český Krumlov

@@ -9,6 +9,8 @@ latitude: 37.0047
 loc_type: city
 longitude: -111.9514
 score: 0.52
+snippet: Navajo sandstone slot canyon with 16 miles of deep, narrow passage through
+  the Paria wilderness.
 sources:
 - https://en.wikipedia.org/wiki/Buckskin_Gulch
 - https://en.wikipedia.org/wiki/The_Wave_(Arizona)

@@ -8,6 +8,8 @@ done:
   location_enrich: '2026-05-29'
 score: 0.45
 loc_type: city
+snippet: Kentucky river city of bourbon, horse racing, and Ohio River neighborhoods
+  at the edge of the South
 image: louisville.jpg
 image_source: https://www.flickr.com/photos/27119975@N00/21535469791
 image_license: CC BY-SA 2.0

@@ -10,6 +10,8 @@ latitude: 35.312605
 loc_type: city
 longitude: 46.997864
 score: 0.26
+snippet: Mountain-valley capital of Iranian Kurdistan, where Kurdish music, bazaars,
+  and Abidar views shape the city.
 title: Sanandaj
 type: location
 ---

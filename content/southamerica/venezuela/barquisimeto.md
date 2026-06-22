@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 10.077437
+loc_type: city
 longitude: -69.322229
+score: 0.24
+snippet: Northwestern Venezuelan city with early colonial roots, Lara state culture,
+  and rebuilt streets after the 1812 earthquake.
 title: Barquisimeto
 type: location
-score: 0.24
-loc_type: city
 ---
 
 Barquisimeto is Venezuela's fourth-largest city and the capital of Lara state, situated at around 560 m elevation in the northwestern interior. It was among the earliest Spanish colonial settlements in Venezuela — founded in 1552 — though a catastrophic earthquake in 1812 destroyed much of the original town. Some colonial buildings survived and the city was rebuilt, mixing old and new.

@@ -7,6 +7,7 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Massicci_nei_dintorni_di_senaf%C3%A9,_04.JPG
 latitude: 14.887
 loc_type: city
+snippet: Southern Eritrean highland market town near Qohaito and Matara's pre-Aksumite and Aksumite ruins.
 longitude: 39.435
 sources:
 - https://en.wikipedia.org/wiki/Senafe

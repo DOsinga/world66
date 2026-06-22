@@ -10,6 +10,8 @@ latitude: 42.9956
 loc_type: city
 longitude: -71.4548
 score: 0.3
+snippet: New Hampshire mill city on the Merrimack River, shaped by the vast Amoskeag
+  textile works
 title: Manchester
 type: location
 ---

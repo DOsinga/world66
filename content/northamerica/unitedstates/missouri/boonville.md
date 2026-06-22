@@ -6,6 +6,8 @@ latitude: 38.975155
 loc_type: city
 longitude: -92.744028
 score: 0.27
+snippet: Missouri River county seat with Santa Fe Trail roots and a preserved 19th-century
+  Main Street
 title: Boonville
 type: location
 ---

@@ -10,6 +10,7 @@ latitude: 53.771059
 loc_type: city
 longitude: 7.694663
 score: 0.43
+snippet: Car-free East Frisian island of brick cottages, high dunes, and wide North Sea beaches.
 title: Spiekeroog
 type: location
 ---

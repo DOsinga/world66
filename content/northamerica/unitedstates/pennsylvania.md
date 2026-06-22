@@ -7,6 +7,8 @@ done:
   location_cleanup: 2026-04-04
 score: 0.48
 loc_type: region
+snippet: Keystone State of American independence, Civil War battlefields, Appalachian
+  ridges, Philadelphia, and Pittsburgh.
 ---
 
 Pennsylvania punches well above its weight in American history. The Declaration of Independence and the Constitution were both signed in [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia), which served as the nation's first capital. The Battle of Gettysburg turned the tide of the Civil War. And the state's nickname, the Keystone State, reflects its central role among the original thirteen colonies.

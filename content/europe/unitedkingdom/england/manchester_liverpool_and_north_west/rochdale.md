@@ -10,6 +10,7 @@ latitude: 53.615366
 loc_type: city
 longitude: -2.155756
 score: 0.27
+snippet: Pennine mill town where the modern cooperative movement began on Toad Lane.
 title: Rochdale
 type: location
 ---

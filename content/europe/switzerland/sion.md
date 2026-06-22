@@ -10,6 +10,8 @@ latitude: 46.231175
 loc_type: city
 longitude: 7.358879
 score: 0.51
+snippet: Swiss Rhône valley city marked by vineyard slopes and twin castle-topped
+  hills above its centre.
 title: Sion
 type: location
 ---

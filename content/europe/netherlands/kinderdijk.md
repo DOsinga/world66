@@ -10,6 +10,8 @@ latitude: 51.888695
 loc_type: city
 longitude: 4.635697
 score: 0.56
+snippet: Dutch polder village with nineteen 18th-century windmills lined along the
+  low Alblasserwaard waterways.
 title: Kinderdijk
 type: location
 ---

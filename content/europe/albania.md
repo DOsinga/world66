@@ -15,6 +15,7 @@ quick_facts:
   Bunkers: "Over 170,000 built during communist era"
   UNESCO Ottoman Towns: "2 — Berat and Gjirokastër"
 score: 0.69
+snippet: Adriatic Balkan country where communist isolation left rugged mountains, old towns, and fast-changing coastlines.
 title: Albania
 type: location
 loc_type: country

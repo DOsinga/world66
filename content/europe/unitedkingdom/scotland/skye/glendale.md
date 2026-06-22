@@ -10,6 +10,7 @@ latitude: 57.448286
 loc_type: city
 longitude: -6.709385
 score: 0.49
+snippet: "Remote Skye crofting township tied to land reform history and the sea cliffs of Neist Point."
 title: Glendale
 type: location
 ---

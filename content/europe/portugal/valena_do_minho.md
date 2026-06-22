@@ -10,6 +10,8 @@ latitude: 42.027305
 loc_type: city
 longitude: -8.64042
 score: 0.45
+snippet: Portuguese border fortress town above the Minho, facing Spain across a fortified
+  river crossing.
 title: Valença do Minho
 type: location
 ---

@@ -13,6 +13,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Shangluo,_April
 image_license: CC BY-SA 4.0
 image_attribution: A Chinese ID
 score: 0.29
+snippet: Southeastern Shaanxi mountain prefecture where Qinling valleys shelter traditional
+  villages and dramatic gorges.
 ---
 
 Shangluo is the least-visited prefecture in Shaanxi, occupying the southeastern corner of the province where the Qinling and Funiu ranges converge. The terrain is extreme — deep river valleys, densely forested ridges, a landscape that has historically resisted both governance and tourism — and the result is a part of China where traditional village life has survived with unusual completeness, and where the natural scenery is spectacular without the accompanying crowds.

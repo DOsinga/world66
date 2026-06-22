@@ -10,6 +10,7 @@ latitude: 48.742758
 loc_type: city
 longitude: 9.307168
 score: 0.48
+snippet: Medieval Neckar town east of Stuttgart, with half-timbered streets and Germany's oldest Sekt producer.
 title: Esslingen
 type: location
 ---

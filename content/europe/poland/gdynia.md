@@ -10,6 +10,8 @@ latitude: 54.516498
 loc_type: city
 longitude: 18.540274
 score: 0.43
+snippet: Baltic port city in Poland's Tri-City, built in the 1920s around modernist
+  streets and a working harbour.
 title: Gdynia
 type: location
 ---

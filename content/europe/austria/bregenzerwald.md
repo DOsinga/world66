@@ -11,6 +11,7 @@ longitude: 9.956064
 score: 0.5
 title: Bregenzerwald
 type: location
+snippet: Vorarlberg valley region with ski villages, alpine pastures, and the cliff-faced Kanisfluh massif.
 ---
 
 The Bregenzerwald is a valley region in the Austrian state of Vorarlberg, east of Bregenz and running up into the Allgäu Alps. In winter it offers skiing and snowboarding across a linked network of mid-sized resorts — Schoppernau, [Damüls-Mellau](/europe/austria/bregenzerwald/damuls_ski_resort), and the Mellau area among them — at accessible prices compared to the larger Austrian ski areas. In summer the valley transforms into excellent hiking and cycling terrain with well-marked trails through green meadows, forests, and alpine pastures. The most iconic landmark is the [Kanisfluh](/europe/austria/bregenzerwald/kanisfluh), a dramatic cliff-faced massif rising above the valley.

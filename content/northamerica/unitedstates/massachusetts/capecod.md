@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 41.798759
+loc_type: region
 longitude: -69.996066
+score: 0.47
+snippet: Hook-shaped Massachusetts peninsula of dune beaches, cranberry bogs, and
+  weathered Route 6A villages.
 title: Cape Cod
 type: location
-score: 0.47
-loc_type: region
 ---
 
 Cape Cod is a hook-shaped peninsula stretching into the Atlantic from southeastern Massachusetts. Despite its modest size, the Cape packs in dune-backed beaches, saltwater marshes, cranberry bogs, and a string of towns each with their own character — from the antique shops of Sandwich to the artist colony atmosphere of Provincetown at the very tip.

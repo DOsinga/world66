@@ -9,6 +9,8 @@ latitude: 6.032814
 loc_type: city
 longitude: 80.214955
 score: 0.59
+snippet: Sri Lankan coastal city centred on a well-preserved seventeenth-century Dutch
+  fort.
 title: Galle
 type: location
 ---

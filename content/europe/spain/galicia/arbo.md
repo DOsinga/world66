@@ -12,6 +12,8 @@ latitude: 42.120133
 loc_type: city
 longitude: -8.31824
 score: 0.38
+snippet: Galician border town on the Miño, known for lamprey fishing, stone pesqueiras,
+  and Condado de Tea wines.
 title: Arbo
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: -16.4955
 loc_type: city
 longitude: -68.1336
 score: 0.53
+snippet: High Andean capital spilling through a canyon beneath Illimani and El Alto's
+  plateau
 title: La Paz
 type: location
 ---

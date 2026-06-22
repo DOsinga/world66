@@ -9,6 +9,8 @@ latitude: 41.998327
 loc_type: city
 longitude: 14.993937
 score: 0.46
+snippet: Adriatic port town with a medieval promontory old quarter and ferry links
+  to the Tremiti Islands
 title: Termoli
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -26.30449
 loc_type: city
 longitude: -48.848673
 score: 0.34
+snippet: Southern Brazilian industrial city on Babitonga Bay, shaped by immigrant
+  heritage and dance culture
 title: Joinville
 type: location
 ---

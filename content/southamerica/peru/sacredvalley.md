@@ -8,6 +8,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_Sacred_Valley
 latitude: -13.3333
 loc_type: region
 longitude: -72.0833
+snippet: Andean agricultural valley along the Urubamba River, lower than Cuzco and
+  dense with Inca sites.
 sources:
 - https://en.wikipedia.org/wiki/Sacred_Valley
 title: Sacred Valley

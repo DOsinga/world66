@@ -13,6 +13,7 @@ loc_type: city
 longitude: -90.1994
 score: 0.39
 title: St. Louis
+snippet: "Mississippi River city where the Gateway Arch marks the eastern edge of the American West."
 type: location
 ---
 

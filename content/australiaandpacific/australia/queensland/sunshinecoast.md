@@ -7,6 +7,7 @@ loc_type: city
 longitude: 153.093367
 score: 0.53
 title: Sunshine Coast
+snippet: Queensland coastal region of surf beaches, rainforest hinterland, and low-rise towns north of Brisbane.
 type: location
 ---
 

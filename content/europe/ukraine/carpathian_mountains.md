@@ -8,6 +8,8 @@ latitude: 48.25
 loc_type: region
 longitude: 24.5
 score: 0.53
+snippet: Western Ukrainian mountain region of beech forests, polonyny meadows, wooden
+  churches, and Hutsul villages.
 title: Carpathian Mountains
 type: location
 ---

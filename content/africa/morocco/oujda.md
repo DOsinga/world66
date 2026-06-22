@@ -11,6 +11,7 @@ latitude: 34.677874
 loc_type: city
 longitude: -1.929306
 score: 0.35
+snippet: Eastern Moroccan border city where Algerian influence and Rai music give it a frontier identity.
 title: Oujda
 type: location
 ---

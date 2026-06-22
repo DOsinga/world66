@@ -11,6 +11,8 @@ latitude: 57.148243
 loc_type: city
 longitude: -2.092809
 score: 0.44
+snippet: Granite Scottish port city with compact museums, floral parks, and a long
+  North Sea maritime life.
 title: Aberdeen
 type: location
 ---

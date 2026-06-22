@@ -10,6 +10,8 @@ latitude: 43.635336
 loc_type: city
 longitude: 51.168222
 score: 0.31
+snippet: Caspian port city in western Kazakhstan, shaped by Mangystau oil, ferries,
+  and white cliffs.
 title: Aqtau
 type: location
 ---

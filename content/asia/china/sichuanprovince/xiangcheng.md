@@ -3,6 +3,8 @@ done:
   location_enrich: '2026-05-17'
 latitude: 28.934
 loc_type: city
+snippet: High Tibetan county town in western Sichuan, known for white-chalked houses
+  and valley monasteries
 longitude: 99.7995
 sources:
 - https://en.wikivoyage.org/wiki/Xiangcheng_(Sichuan)

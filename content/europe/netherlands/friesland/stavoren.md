@@ -10,6 +10,7 @@ latitude: 52.883269
 loc_type: city
 longitude: 5.360213
 score: 0.37
+snippet: Frisian harbour town on the IJsselmeer, with medieval city rights and the Vrouwe van Stavoren legend.
 title: Stavoren
 type: location
 ---

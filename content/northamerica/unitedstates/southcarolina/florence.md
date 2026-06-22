@@ -6,6 +6,8 @@ latitude: 34.1954
 loc_type: city
 longitude: -79.7626
 score: 0.26
+snippet: Pee Dee crossroads city with railroad history, a revived downtown, and Civil
+  War memory sites
 title: Florence
 type: location
 ---

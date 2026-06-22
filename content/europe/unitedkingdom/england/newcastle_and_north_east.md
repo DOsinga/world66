@@ -7,6 +7,7 @@ score: 0.52
 title: Newcastle and North East
 type: location
 loc_type: region
+snippet: "Newcastle and North East covers Roman walls, industrial cities, religious heritage, and unspoiled northern scenery."
 ---
 
 The North East offers miles of beautiful and unspoiled scenery, a rich

@@ -10,6 +10,7 @@ latitude: 29.5748
 loc_type: city
 longitude: 35.4218
 score: 0.65
+snippet: "Bedouin village gateway to Wadi Rum, where jeep and camel trips enter the sandstone desert."
 title: Rum
 type: location
 ---

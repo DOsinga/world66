@@ -9,6 +9,8 @@ latitude: 68.130075
 loc_type: city
 longitude: 13.849229
 score: 0.52
+snippet: Lofoten fishing village on Vestvågøy, where Hurtigruten ships call beside
+  rorbu cabins and theatre stages.
 title: Stamsund
 type: location
 ---

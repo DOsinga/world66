@@ -10,6 +10,8 @@ latitude: -0.162778
 loc_type: city
 longitude: 37.023557
 score: 0.37
+snippet: Mount Kenya foothills town and main staging point for climbs on the Naro
+  Moru route.
 title: Naro Moru
 type: location
 ---

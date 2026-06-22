@@ -7,6 +7,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Epinal_Centre_Nuit.jpg
 latitude: 48.1744
 loc_type: city
+snippet: Vosges foothills city on the Moselle, known for popular prints, river walks,
+  and a ruined castle
 longitude: 6.45
 sources:
 - https://en.wikipedia.org/wiki/%C3%89pinal

@@ -9,6 +9,8 @@ latitude: 33.883
 loc_type: region
 longitude: 130.8749
 score: 0.55
+snippet: Northern Kyushu industrial city on the Kanmon Strait, shaped by steel, coal,
+  and port history.
 title: Kitakyushu
 type: location
 ---

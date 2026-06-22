@@ -9,6 +9,8 @@ latitude: 40.6824
 loc_type: city
 longitude: 14.7681
 score: 0.52
+snippet: Working Campanian port city beside the Amalfi Coast, with medieval lanes
+  and a grand seafront promenade
 title: Salerno
 type: location
 ---

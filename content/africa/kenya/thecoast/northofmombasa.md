@@ -7,6 +7,7 @@ title: North of Mombasa
 type: location
 score: 0.51
 loc_type: region
+snippet: Kenyan coastal strip of beach communities and resort hotels along the road north from Mombasa.
 ---
 
 The coast north of [Mombasa](/africa/kenya/thecoast/mombasa) stretches through a string of beach communities — Nyali, Bamburi, Shanzu, and Kikambala — connected by the main coast road toward [Kilifi](/africa/kenya/thecoast/kilifi). The beaches are long and palm-fringed, and most of the large resort hotels are clustered along this strip.

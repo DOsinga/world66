@@ -7,6 +7,7 @@ loc_type: city
 longitude: -87.937043
 score: 0.33
 title: Sheboygan
+snippet: "Lake Michigan city of German bratwurst traditions and the outsider-art collection at the Kohler Arts Center."
 type: location
 ---
 

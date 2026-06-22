@@ -10,6 +10,8 @@ latitude: 34.9314
 loc_type: city
 longitude: 128.0683
 score: 0.34
+snippet: South Korean port town below rocky cliffs, known for shoreline dinosaur footprints
+  at Sangjokam.
 title: Samcheunpo
 type: location
 ---

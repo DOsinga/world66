@@ -10,6 +10,8 @@ latitude: 33.898413
 loc_type: city
 longitude: -5.532158
 score: 0.52
+snippet: Moroccan imperial city defined by Moulay Ismail's ramparts, monumental gates,
+  granaries, and stables.
 title: Meknes
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -19.916358
 loc_type: city
 longitude: -158.197198
 score: 0.45
+snippet: Raised-coral Cook Island with forested makatea, limestone caves, endemic
+  birds, and clustered inland villages.
 title: Atiu
 type: location
 ---

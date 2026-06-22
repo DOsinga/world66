@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Shusha_State_Historical_and_Architectural_Reserve
 - https://en.wikipedia.org/wiki/Jidir_Plain
 title: Shusha
+snippet: Rocky Karabakh ridge city revered in Azerbaijani culture and central to the region's recent conflicts
 type: location
 ---
 

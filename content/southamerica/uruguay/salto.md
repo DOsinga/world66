@@ -6,6 +6,7 @@ loc_type: city
 longitude: -57.9609
 score: 0.35
 title: Salto
+snippet: "Uruguay River city in citrus country, with thermal baths and the Salto Grande Dam nearby."
 todo_location_cleanup: done
 type: location
 ---

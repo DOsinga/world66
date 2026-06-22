@@ -10,6 +10,7 @@ latitude: 31.530172
 loc_type: city
 longitude: -113.389719
 score: 0.42
+snippet: "Sonoran beach town on the Sea of Cortez, where Arizona crowds meet shrimp boats and desert estuaries."
 title: Puerto Peñasco
 type: location
 ---

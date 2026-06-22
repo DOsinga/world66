@@ -7,6 +7,7 @@ title: Harvard Glacier
 type: location
 score: 0.43
 loc_type: feature
+snippet: "Tidewater glacier in College Fjord, the largest glacier in Prince William Sound's university-named group."
 ---
 
 Harvard Glacier is a tidewater glacier at the head of College Fjord in Prince William Sound, about 120 miles east of Anchorage. It is the largest of the glaciers in the fjord, which takes its name from an early 20th-century tradition of naming the area's glaciers after Ivy League universities.

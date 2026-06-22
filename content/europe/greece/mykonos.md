@@ -12,6 +12,8 @@ latitude: 37.4454
 loc_type: city
 longitude: 25.3287
 score: 0.69
+snippet: Cycladic island of whitewashed lanes, protected architecture, beach clubs,
+  and boat trips to Delos
 title: Mykonos
 type: location
 ---

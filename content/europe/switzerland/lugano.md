@@ -9,6 +9,8 @@ latitude: 46.005
 loc_type: city
 longitude: 8.952
 score: 0.61
+snippet: Italian-speaking Swiss lakeside city in Ticino, with Mediterranean habits
+  and precise Swiss infrastructure.
 title: Lugano
 type: location
 ---

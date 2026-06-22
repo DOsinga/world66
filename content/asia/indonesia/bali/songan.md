@@ -10,6 +10,7 @@ latitude: -8.223766
 loc_type: city
 longitude: 115.409504
 score: 0.47
+snippet: Lakeside Balinese village inside Batur crater, with caldera trails and fresh lake fish.
 title: Songan
 type: location
 ---

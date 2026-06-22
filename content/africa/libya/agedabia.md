@@ -9,6 +9,7 @@ sources:
 - https://slsgazetteer.org/irt_geo/recordview/?id=1190
 - https://www.temehu.com/islamic-tourism-and-mosques.htm
 title: Agedabia
+snippet: "Eastern Libyan crossroads near the Gulf of Sidra, where coastal and desert roads meet."
 type: location
 image: agedabia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Senussi_centre_in_Ajdabiya.png

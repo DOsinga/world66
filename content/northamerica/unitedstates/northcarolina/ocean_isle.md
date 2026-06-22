@@ -10,6 +10,8 @@ latitude: 33.891944
 loc_type: city
 longitude: -78.428889
 score: 0.39
+snippet: Quiet North Carolina barrier-island beach town with gentle surf and a family-focused
+  shoreline
 title: Ocean Isle Beach
 type: location
 ---

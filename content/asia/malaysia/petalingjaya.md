@@ -10,6 +10,7 @@ latitude: 3.1073
 loc_type: city
 longitude: 101.6067
 score: 0.34
+snippet: Kuala Lumpur satellite city with neighbourhood hawker centres, malls, and the relaxed identity locals call PJ.
 title: Petaling Jaya
 type: location
 ---

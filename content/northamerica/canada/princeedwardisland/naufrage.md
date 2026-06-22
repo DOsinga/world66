@@ -9,6 +9,8 @@ latitude: 46.467384
 loc_type: city
 longitude: -62.416511
 score: 0.33
+snippet: Tiny Prince Edward Island fishing harbour on the north shore, marked by its
+  red-and-white lighthouse.
 title: Naufrage
 type: location
 ---

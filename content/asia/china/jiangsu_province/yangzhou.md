@@ -8,9 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Daming_temple.JPG
 latitude: 32.3947
 loc_type: city
 longitude: 119.4123
+score: 0.45
+snippet: Historic Jiangsu city once enriched by salt trade, canals, gardens, and Silk
+  Road merchants.
 title: Yangzhou
 type: location
-score: 0.45
 ---
 
 Yangzhou (扬州) is one of China's great old cities, and one of its most underappreciated. For much of the Tang and Song dynasties it was among the wealthiest places in the empire — a salt-trading hub where Arab and Persian merchants mingled with Chinese scholars and where the salt merchants' gardens became among the most lavish in the country. Marco Polo claimed to have governed it for three years, which historians dispute but which tells you something about the city's reputation. That prosperity is still visible today: Yangzhou has more and better classical gardens per square kilometre than almost anywhere in China.

@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumul,_Xinjiang,_China_-_p
 latitude: 42.8306
 loc_type: city
 longitude: 93.5053
+score: 0.3
+snippet: Oasis city at Xinjiang’s eastern gateway, historically tied to Silk Road
+  routes and the celebrated Hami melon.
 sources:
 - https://en.wikivoyage.org/wiki/Hami
 title: Hami
 type: location
-score: 0.3
 ---
 
 Hami — historically Kumul, now officially designated Yizhou District — sits at the eastern gateway to Xinjiang, where the Gansu corridor finally opens into the wider Central Asian basin. It is the first proper oasis city after the long desert crossing from the east, and for centuries of Silk Road travellers it represented the beginning of the most dangerous portion of the journey: the approach to the Taklamakan. The name Hami is inseparable from its melon, a long golden variety with white flesh and exceptional sweetness that is celebrated across China. The combination of intense summer sun, cold nights, and the particular minerals in the oasis soil produces a flavour that resists replication elsewhere.

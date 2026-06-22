@@ -13,6 +13,7 @@ score: 0.43
 sources:
 - https://en.wikipedia.org/wiki/Chenini
 - https://en.wikipedia.org/wiki/Ksar_Chenini
+snippet: "Hilltop Berber village in southern Tunisia, with cave dwellings and a white mosque above the plain."
 title: Chenini
 type: location
 ---

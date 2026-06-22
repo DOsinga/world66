@@ -10,6 +10,8 @@ latitude: 36.2382
 loc_type: city
 longitude: 137.9687
 score: 0.62
+snippet: Japanese Alps city in Nagano, centred on a black-walled original 16th-century
+  castle
 title: Matsumoto
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 41.512
 loc_type: city
 longitude: -82.9377
 score: 0.31
+snippet: Lake Erie fishing town and island gateway anchored by walleye runs and summer
+  ferries.
 title: Port Clinton
 type: location
 ---

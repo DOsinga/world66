@@ -9,6 +9,8 @@ latitude: 41.751086
 loc_type: city
 longitude: 43.528006
 score: 0.42
+snippet: Georgian mountain resort on the Trialeti Range, with Soviet-era ski slopes
+  and spruce forests
 title: Bakuriani
 type: location
 ---

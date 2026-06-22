@@ -10,6 +10,8 @@ latitude: 45.806691
 loc_type: city
 longitude: 12.206316
 score: 0.53
+snippet: Walled medieval city near Venice, known for canals, arcades, radicchio, and
+  the origins of tiramisu.
 title: Treviso
 type: location
 ---

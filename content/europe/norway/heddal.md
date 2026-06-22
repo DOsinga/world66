@@ -10,6 +10,7 @@ latitude: 59.581084
 loc_type: city
 longitude: 9.173583
 score: 0.43
+snippet: Telemark village known for Heddal Stave Church, Norway's largest surviving medieval timber church.
 title: Heddal
 type: location
 ---

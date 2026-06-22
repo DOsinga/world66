@@ -7,6 +7,7 @@ loc_type: city
 longitude: 8.20485
 score: 0.45
 title: Toirano
+snippet: Medieval Ligurian village in the Val Varatella, known for karst caves and prehistoric finds
 type: location
 ---
 

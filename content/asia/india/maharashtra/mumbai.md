@@ -15,6 +15,7 @@ longitude: 72.869203
 score: 0.51
 title: Mumbai
 type: location
+snippet: "Mumbai is India’s financial capital, a peninsula megacity of colonial landmarks, Art Deco blocks, and Bollywood."
 ---
 
 Mumbai is India's commercial and financial capital, a city of roughly 20 million people built on a peninsula that juts into the Arabian Sea. It was the British-era Bombay — a name still in common use — and the transformation from colonial port to global megacity happened faster here than almost anywhere. The result is a city of extremes: extraordinary wealth alongside [Dharavi](/asia/india/maharashtra/mumbai/dharavi), Art Deco apartments along [Marine Drive](/asia/india/maharashtra/mumbai/marine_drive) beside Victorian Gothic railway stations, a cosmopolitan energy that makes it feel like no other city in India.

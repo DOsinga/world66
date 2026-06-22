@@ -10,6 +10,8 @@ latitude: 42.6023
 loc_type: city
 longitude: -6.815
 score: 0.41
+snippet: Camino town in El Bierzo, with medieval pilgrim streets before the route
+  climbs into Galicia.
 title: Vilafranca del Bierzo
 type: location
 ---

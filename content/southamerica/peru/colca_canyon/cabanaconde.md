@@ -12,6 +12,7 @@ longitude: -71.98087
 score: 0.58
 title: Cabanaconde
 type: location
+snippet: "Small Colca Canyon town used as the starting point for hikes down to Sangalle."
 ---
 
 Cabanaconde is a small, dusty town at the far end of the [Colca Canyon](/southamerica/peru/colca_canyon), and the starting point for most hikes down into the canyon. Stock up on water and supplies here before heading down — there is little available below.

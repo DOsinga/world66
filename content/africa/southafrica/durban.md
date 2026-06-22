@@ -12,6 +12,8 @@ latitude: -29.8587
 loc_type: city
 longitude: 31.0218
 score: 0.48
+snippet: Indian Ocean port city where Zulu, Indian, English, and Afrikaans cultures
+  meet along warm beaches.
 title: Durban
 type: location
 ---

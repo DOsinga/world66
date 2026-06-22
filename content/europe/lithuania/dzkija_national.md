@@ -6,6 +6,7 @@ latitude: 54.083359
 loc_type: city
 longitude: 24.278474
 score: 0.41
+snippet: Lithuanian national park of sandy pine forest, clear rivers, old villages, and mushroom-gathering traditions.
 title: Dzūkija National park
 type: location
 ---

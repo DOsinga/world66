@@ -10,6 +10,8 @@ latitude: 35.9606
 loc_type: city
 longitude: -83.9207
 score: 0.37
+snippet: East Tennessee university city on the Tennessee River, backed by the Great
+  Smoky Mountains foothills
 title: Knoxville
 type: location
 ---

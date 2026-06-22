@@ -11,6 +11,8 @@ latitude: 17.0732
 loc_type: city
 longitude: -96.7266
 score: 0.64
+snippet: Highland Mexican colonial city of volcanic-stone streets, baroque churches,
+  Zapotec ruins, and serious food culture.
 title: Oaxaca
 type: location
 ---

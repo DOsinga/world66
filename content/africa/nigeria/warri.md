@@ -8,6 +8,8 @@ latitude: 5.5186
 loc_type: city
 longitude: 5.748
 score: 0.19
+snippet: Niger Delta port city with Itsekiri royal roots, oil-industry grit, and lively
+  river commerce.
 title: Warri
 type: location
 ---

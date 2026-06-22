@@ -6,6 +6,8 @@ latitude: 49.2068
 loc_type: city
 longitude: -122.9109
 score: 0.36
+snippet: Fraser River city east of Vancouver, western Canada's old capital with a
+  historic waterfront.
 title: New Westminster
 type: location
 ---

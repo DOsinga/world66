@@ -10,6 +10,8 @@ latitude: 35.296644
 loc_type: city
 longitude: 10.71284
 score: 0.49
+snippet: Small Tunisian town dominated by the Amphitheatre of Thysdrus, a vast Roman
+  arena rising above modern streets
 title: El Jem
 type: location
 ---

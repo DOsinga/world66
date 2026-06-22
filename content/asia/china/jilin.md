@@ -2,6 +2,8 @@
 latitude: 43.5
 loc_type: region
 longitude: 126.5
+snippet: Northeast Chinese province of Manchurian history, Songhua River rime ice,
+  and Changbai Mountain.
 sources:
 - https://en.wikivoyage.org/wiki/Jilin
 title: Jilin Province

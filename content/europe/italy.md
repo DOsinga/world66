@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Jebulon" title="Us
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Vue_des_toits_depuis_la_Sainte-Trinité-des-Monts,_Rome,_Italy.jpg
 latitude: 42.638426
+loc_type: country
 longitude: 12.674297
 quick_facts:
-  Population: "59 million"
   Currency: Euro (€)
-  UNESCO Sites: "59 — most of any country"
-  Pasta Shapes: "Over 350 named varieties"
+  Pasta Shapes: Over 350 named varieties
+  Population: 59 million
+  UNESCO Sites: 59 — most of any country
 score: 0.99
+snippet: Mediterranean country of Roman ruins, Renaissance cities, Catholic traditions,
+  and fiercely regional landscapes
 title: Italy
 type: location
-loc_type: country
 ---
 
 Italy is one of those countries to which you probably have already quite a number of preconceptions even before you have put one foot into the country. Country of olive oil and pasta, wine and sunshine, roman ruins and renaissance palaces. 

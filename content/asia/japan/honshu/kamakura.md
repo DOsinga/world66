@@ -1,16 +1,18 @@
 ---
-title: Kamakura
-type: location
-loc_type: city
-latitude: 35.3197
-longitude: 139.5502
 done:
   add_missing_places: 2026-06-05
 image: kamakura.jpg
-image_source: https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_Japan01s3.jpg
-image_license: CC BY-SA 4.0
 image_attribution: 663highland
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_Japan01s3.jpg
+latitude: 35.3197
+loc_type: city
+longitude: 139.5502
 score: 0.7
+snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit
+  between wooded hills and the sea.
+title: Kamakura
+type: location
 ---
 
 Kamakura is the ancient warrior capital of Japan, a city that ruled the country for nearly a century and a half from its fortified position on the Miura Peninsula south of Tokyo. Ringed on three sides by forested hills and open to the sea on the fourth, it is one of the most naturally defensible cities in Japan — and one of the most beautiful. Samurai history, Zen Buddhism, and excellent coastal scenery combine here in a way found nowhere else.

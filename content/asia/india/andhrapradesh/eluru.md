@@ -10,6 +10,8 @@ latitude: 16.710426
 loc_type: city
 longitude: 81.115382
 score: 0.25
+snippet: Andhra Pradesh delta city between the Krishna and Godavari rivers, known
+  for canals and ancient Helapuri roots.
 title: Eluru
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 46.997064
 loc_type: city
 longitude: -120.545122
 score: 0.31
+snippet: Kittitas Valley city with rodeo roots, a brick downtown, and Central Washington
+  University energy
 title: Ellensburg
 type: location
 ---

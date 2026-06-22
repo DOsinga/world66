@@ -10,6 +10,8 @@ latitude: 49.042561
 loc_type: city
 longitude: 3.952866
 score: 0.56
+snippet: Champagne wine city built above chalk cellars beneath the mansion-lined Avenue
+  de Champagne.
 title: Epernay
 type: location
 ---

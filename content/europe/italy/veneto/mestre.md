@@ -12,6 +12,8 @@ latitude: 45.4903
 loc_type: city
 longitude: 12.2381
 score: 0.33
+snippet: Mainland Venice city with normal Italian street life around Piazza Ferretto,
+  just beyond the lagoon.
 title: Mestre
 type: location
 ---

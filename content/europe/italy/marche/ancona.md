@@ -9,6 +9,8 @@ latitude: 43.480119
 loc_type: city
 longitude: 13.218728
 score: 0.46
+snippet: Marche port city on an Adriatic promontory, with a hilltop cathedral and
+  the Conero Riviera nearby.
 title: Ancona
 type: location
 ---

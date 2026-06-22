@@ -8,6 +8,8 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Air_view_of_Rehoboth_Beach_and_boardwalk_from_the_south,_Rehoboth_Beach,_Del_(63081).jpg
 latitude: 38.716477
 loc_type: city
+snippet: Delaware beach town with a mile-long boardwalk, Atlantic sand, and Washington
+  summer-crowd traditions
 longitude: -75.083511
 score: 0.43
 title: Rehoboth Beach

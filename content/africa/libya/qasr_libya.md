@@ -1,10 +1,12 @@
 ---
-title: Qasr Libya
-type: location
-loc_type: feature
 latitude: 32.6667
+loc_type: feature
 longitude: 21.55
 score: 0.24
+snippet: Ancient Jebel Akhdar settlement known for well-preserved Byzantine mosaics
+  from sixth-century churches.
+title: Qasr Libya
+type: location
 ---
 
 Qasr Libya is an ancient settlement in the Green Mountains (Jebel Akhdar) of northeastern Libya, known primarily for the remarkably well-preserved Byzantine mosaics found at the site. The mosaics, discovered in the 1950s in two 6th-century churches, are among the finest Byzantine artworks in North Africa — intricate floor panels depicting personifications, animals, and allegorical figures in a style that reflects the provincial Byzantine culture of the period.

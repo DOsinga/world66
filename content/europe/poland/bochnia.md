@@ -11,6 +11,7 @@ loc_type: city
 longitude: 20.430541
 score: 0.37
 title: Bochnia
+snippet: Southern Polish town near Kraków, known for one of Europe's oldest salt mines.
 type: location
 ---
 

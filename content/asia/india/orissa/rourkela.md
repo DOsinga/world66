@@ -12,6 +12,8 @@ latitude: 22.2309
 loc_type: city
 longitude: 84.8679
 score: 0.25
+snippet: Odisha steel city on the Brahmani River, built around industry but surprisingly
+  green and well planned.
 title: Rourkela
 type: location
 ---

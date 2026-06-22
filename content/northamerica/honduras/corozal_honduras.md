@@ -10,6 +10,8 @@ latitude: 15.7803
 loc_type: city
 longitude: -86.6714
 score: 0.22
+snippet: Garifuna village on Honduras' Caribbean coast, east of La Ceiba along the
+  beach road.
 title: Corozal
 type: location
 ---

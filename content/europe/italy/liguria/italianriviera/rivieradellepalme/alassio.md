@@ -9,6 +9,8 @@ latitude: 44.008011
 loc_type: city
 longitude: 8.173027
 score: 0.51
+snippet: Western Ligurian resort town with a long sandy beach, pastel houses, and
+  Il Budello promenade
 title: Alassio
 type: location
 ---

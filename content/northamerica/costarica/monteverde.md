@@ -11,6 +11,8 @@ latitude: 10.3025
 loc_type: city
 longitude: -84.8245
 score: 0.61
+snippet: Costa Rican cloud-forest town in the Tilarán Mountains, known for quetzals,
+  mist, and Quaker roots
 title: Monteverde
 type: location
 ---

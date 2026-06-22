@@ -12,6 +12,8 @@ latitude: 16.5062
 loc_type: city
 longitude: 80.648
 score: 0.32
+snippet: Busy Krishna River city and railway junction, squeezed between granite hills
+  and delta plains.
 title: Vijayawada
 type: location
 ---

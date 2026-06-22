@@ -9,6 +9,8 @@ latitude: 10.233712
 loc_type: city
 longitude: 77.491972
 score: 0.46
+snippet: Tamil Nadu hill station in the Palani Hills, centred on Kodai Lake, forests,
+  and escarpment views.
 title: Kodaikanal
 type: location
 ---

@@ -7,6 +7,7 @@ loc_type: city
 longitude: 1.3667
 score: 0.45
 title: St. Aignan
+snippet: Loire Valley town on the Cher, with hillside lanes below a château and Romanesque church.
 type: location
 ---
 

@@ -11,6 +11,7 @@ loc_type: city
 longitude: 7.358
 score: 0.67
 title: Colmar
+snippet: Alsatian wine city of half-timbered lanes, canal quarters, and the Unterlinden Museum's Issenheim Altarpiece.
 type: location
 ---
 

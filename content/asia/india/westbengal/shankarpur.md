@@ -9,6 +9,8 @@ latitude: 21.634065
 loc_type: city
 longitude: 87.582665
 score: 0.27
+snippet: Small Bay of Bengal fishing village with an unspoiled beach and working harbour
+  east of Digha.
 title: Shankarpur
 type: location
 ---

@@ -4,6 +4,7 @@ done:
 latitude: 36.208553
 longitude: -115.033833
 score: 0.69
+snippet: California mountain region of granite parks, alpine lakes, sequoia groves, and Sierra Nevada snowfields.
 title: High Sierra
 type: location
 loc_type: region

@@ -1,17 +1,20 @@
 ---
-score: 0.71
-title: "Antarctica"
-type: location
 image: antarctica.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:Lemaire_Channel,_Antarctica.jpg"
-image_license: "CC BY-SA 2.0"
-image_attribution: '<a rel="nofollow" class="external text" href="https://www.flickr.com/people/59222181@N03">Liam Quinn</a> from Canada'
-quick_facts:
-  Permanent Population: "0"
-  Ice Sheet Thickness: Up to 4 km
-  Coldest Recorded Temperature: "-89.2 C"
-  Visiting Season: November to March
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/59222181@N03">Liam
+  Quinn</a> from Canada
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Lemaire_Channel,_Antarctica.jpg
 loc_type: country
+quick_facts:
+  Coldest Recorded Temperature: -89.2 C
+  Ice Sheet Thickness: Up to 4 km
+  Permanent Population: '0'
+  Visiting Season: November to March
+score: 0.71
+snippet: Ice-covered polar continent with no permanent population and expedition access
+  to the Antarctic Peninsula.
+title: Antarctica
+type: location
 ---
 
 Antarctica is the coldest, driest, windiest, and highest continent on earth. Almost the entire landmass lies buried under ice up to four kilometres thick. It has no permanent human population, no cities, no roads, and no government. What it has, in overwhelming abundance, is wildness.

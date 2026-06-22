@@ -6,6 +6,8 @@ latitude: 41.8026
 loc_type: city
 longitude: 123.4279
 score: 0.34
+snippet: Northeast Chinese industrial metropolis with Qing imperial roots and a palace
+  older than Beijing’s rule.
 title: Shenyang
 type: location
 ---

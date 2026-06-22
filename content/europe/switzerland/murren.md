@@ -10,6 +10,8 @@ latitude: 46.55914
 loc_type: city
 longitude: 7.892879
 score: 0.66
+snippet: Car-free Bernese Oberland village on a cliff terrace facing the Eiger, Mönch,
+  and Jungfrau.
 title: Murren
 type: location
 ---

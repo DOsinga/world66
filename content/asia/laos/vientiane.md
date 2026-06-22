@@ -12,6 +12,8 @@ latitude: 17.964099
 loc_type: city
 longitude: 102.613371
 score: 0.48
+snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded temples,
+  and riverside evenings.
 title: Vientiane
 type: location
 ---

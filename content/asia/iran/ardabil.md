@@ -10,6 +10,7 @@ latitude: 38.2498
 loc_type: city
 longitude: 48.2933
 score: 0.35
+snippet: Cold Iranian Azerbaijan city on a high plain, birthplace of the Safavid dynasty
 title: Ardabil
 type: location
 ---

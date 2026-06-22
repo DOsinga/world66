@@ -11,6 +11,8 @@ latitude: 40.751737
 loc_type: feature
 longitude: 14.490564
 score: 0.71
+snippet: Ancient Roman city sealed by Vesuvius in 79 AD, preserving streets, houses,
+  gardens, and human traces.
 title: Pompeii
 type: location
 ---

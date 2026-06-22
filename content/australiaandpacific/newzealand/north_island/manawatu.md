@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: -40.32841
+loc_type: region
 longitude: 175.819068
+score: 0.42
+snippet: Lower North Island region named for a river that cuts through the Ruahine
+  Range.
 title: Manawatu
 type: location
-score: 0.42
-loc_type: region
 ---
 
 The Manawatu is a region of the lower North Island named for its great river — powerful enough to cut a [gorge](/australiaandpacific/newzealand/north_island/manawatu/manawatu_gorge) through the Ruahine Range that divides the eastern and western coasts. The river drains catchments on both sides of the main mountain range before emptying into the Tasman Sea at Foxton. It is one of the few New Zealand rivers that flows east to west through a range rather than around it.

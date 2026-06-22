@@ -9,6 +9,7 @@ loc_type: city
 longitude: 3.8963
 score: 0.29
 title: Ibadan
+snippet: Large Yoruba city in southwestern Nigeria, spread across rocky hills northeast of Lagos.
 type: location
 ---
 

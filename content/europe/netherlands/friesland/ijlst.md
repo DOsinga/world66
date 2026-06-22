@@ -10,6 +10,7 @@ latitude: 53.010137
 loc_type: city
 longitude: 5.623324
 score: 0.34
+snippet: Tiny Frisian city on the Geeuw, known for old city rights and a working sawmill.
 title: IJlst
 type: location
 ---

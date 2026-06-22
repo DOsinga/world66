@@ -7,6 +7,8 @@ latitude: 29.379653
 loc_type: city
 longitude: 47.973417
 score: 0.34
+snippet: Kuwaiti capital on Kuwait Bay, where oil-era towers replaced a mud-brick
+  pearl-diving town.
 title: Kuwait City
 type: location
 ---

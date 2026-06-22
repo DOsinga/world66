@@ -100,7 +100,8 @@ The `type` field in frontmatter is the source of truth. Directory filtering in t
 ## Working with Git
 
 - Don't work on main — create a branch for your work. Always branch off `origin/main`, not wherever you happen to be.
-- Use worktrees if you are doing multiple things at the same time.
+- Use a worktree unless the user explicitly tells you otherwise.
+- Don't start working on a dirty branch or when there are clearly other changes in progress; create a fresh worktree from `origin/main` or coordinate first.
 - If working on an existing branch or PR, create a worktree for that branch and push follow-up work to the same branch in the spirit of collaborating.
 - When opening a PR, include a preview link that uses the commit hash in the URL: `https://world66.ai/<short-commit-hash>/<content-path>` (for example, `https://world66.ai/abc123def0/europe/france/paris`). When pushing updates to an existing PR, update that preview link to the latest commit hash. The hash URL reads content from GitHub for that commit, so the commit does not need to exist in the server's local checkout. `staging.world66.ai` follows GitHub `main` and is not the right host for PR-specific previews.
 - Try to separate changes to the code from changes to the content from changes to the instruction markdowns — open multiple PRs if needed.

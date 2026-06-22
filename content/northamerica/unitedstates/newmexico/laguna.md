@@ -10,6 +10,8 @@ latitude: 35.0404
 loc_type: city
 longitude: -107.4266
 score: 0.29
+snippet: New Mexico pueblo hill settlement dominated by the 1699 San José de la Laguna
+  Mission
 title: Laguna
 type: location
 ---

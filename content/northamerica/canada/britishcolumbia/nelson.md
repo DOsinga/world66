@@ -10,6 +10,8 @@ latitude: 49.4949
 loc_type: city
 longitude: -117.29
 score: 0.43
+snippet: Small Kootenay Lake city with silver-boom architecture and a mountain-town
+  arts scene.
 sources:
 - https://en.wikipedia.org/wiki/Nelson,_British_Columbia
 - https://skiwhitewater.com

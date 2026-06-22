@@ -10,6 +10,8 @@ longitude: 42.985923
 score: 0.42
 title: Akhaltsikhe
 type: location
+snippet: Southwestern Georgian town below Rabati fortress, layered with Georgian,
+  Ottoman, and Russian history.
 ---
 
 Akhaltsikhe — the name means "new fortress" in Georgian — is the regional capital of Samtskhe-Javakheti in southwestern Georgia, sitting at about 1,000 metres elevation in a river basin about 50 km from the Turkish border. The town of around 17,000 people has a long and layered history: it was a seat of the Georgian Jaqeli dynasty in the 13th century, fell to the Ottomans in 1579, and was taken by the Russian Empire in 1828. Each period left its mark.

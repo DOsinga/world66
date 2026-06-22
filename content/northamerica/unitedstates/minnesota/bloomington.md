@@ -6,6 +6,8 @@ latitude: 44.840798
 loc_type: city
 longitude: -93.298163
 score: 0.34
+snippet: Minneapolis suburb home to Mall of America and riverside trails in Minnesota
+  Valley National Wildlife Refuge.
 title: Bloomington
 type: location
 ---

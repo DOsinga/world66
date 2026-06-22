@@ -3,17 +3,19 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-03'
 image: samarinda.jpg
+image_attribution: IndoMet in the Heart of Borneo on Flickr
+image_license: CC BY 2.0
+image_source: https://www.flickr.com/photos/128622178@N04/15165646163
 latitude: -0.5018
 loc_type: city
 longitude: 117.1393
 score: 0.3
+snippet: East Kalimantan river port on the Mahakam, starting point for journeys into
+  the Bornean interior
 sources:
 - https://en.wikipedia.org/wiki/Samarinda
 title: Samarinda
 type: location
-image_source: https://www.flickr.com/photos/128622178@N04/15165646163
-image_license: CC BY 2.0
-image_attribution: IndoMet in the Heart of Borneo on Flickr
 ---
 
 Samarinda is the provincial capital of East Kalimantan and a major river port on the Mahakam River. The city of around 800,000 people is the main starting point for travel into the Bornean interior — [the Mahakam valley](/asia/indonesia/kalimantan/samarinda/mahakam_river_journey), with its Dayak longhouses, lake communities, and dense rainforest, begins effectively at [Samarinda's docks](/asia/indonesia/kalimantan/samarinda/sungai_kunjang_port).

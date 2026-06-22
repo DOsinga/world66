@@ -10,6 +10,8 @@ latitude: 20.787011
 loc_type: city
 longitude: 97.038726
 score: 0.33
+snippet: Shan State capital perched on a scarp slope, known for its market and hill
+  cultures.
 title: Taunggyi
 type: location
 ---

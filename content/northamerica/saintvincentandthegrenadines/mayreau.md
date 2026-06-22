@@ -9,6 +9,8 @@ latitude: 12.6389
 loc_type: city
 longitude: -61.3944
 score: 0.55
+snippet: Tiny car-free Grenadine island where one hilltop village overlooks both Atlantic
+  and Caribbean waters.
 title: Mayreau
 type: location
 ---

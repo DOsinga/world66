@@ -10,6 +10,8 @@ latitude: 65.5928
 loc_type: city
 longitude: 19.1736
 score: 0.35
+snippet: Swedish Lapland town known for winter vehicle testing and Lappstaden, a preserved
+  Sami church town.
 title: Arvidsjaur
 type: location
 ---

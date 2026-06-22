@@ -10,6 +10,8 @@ latitude: -16.680882
 loc_type: city
 longitude: -49.253269
 score: 0.33
+snippet: Planned central Brazilian capital of Goiás, built with broad avenues and
+  a strong Art Deco core.
 title: Goiânia
 type: location
 ---

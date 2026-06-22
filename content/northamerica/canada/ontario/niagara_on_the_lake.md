@@ -10,6 +10,8 @@ latitude: 43.255612
 loc_type: city
 longitude: -79.072326
 score: 0.52
+snippet: Immaculate Ontario wine town at the Niagara River mouth, with Loyalist streets
+  and Shaw Festival theatres.
 title: Niagara-on-the-Lake
 type: location
 ---

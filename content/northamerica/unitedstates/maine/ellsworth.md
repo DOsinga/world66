@@ -6,6 +6,8 @@ latitude: 44.5434
 loc_type: city
 longitude: -68.4195
 score: 0.33
+snippet: Hancock County service town on the Union River, a useful last stop before
+  Bar Harbor and Acadia.
 title: Ellsworth
 type: location
 ---

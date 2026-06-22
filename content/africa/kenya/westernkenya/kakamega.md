@@ -10,6 +10,7 @@ latitude: 0.2822
 loc_type: city
 longitude: 34.754
 score: 0.31
+snippet: "Small western Kenyan town and gateway to Kakamega Forest, Kenya's remnant Guineo-Congolian rainforest."
 title: Kakamega
 type: location
 ---

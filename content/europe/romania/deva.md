@@ -10,6 +10,8 @@ latitude: 45.8817
 loc_type: city
 longitude: 22.9009
 score: 0.37
+snippet: Compact Transylvanian town on the Mureș, overlooked by a ruined citadel on
+  a volcanic hill
 title: Deva
 type: location
 ---

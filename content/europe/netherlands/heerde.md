@@ -9,6 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Heerde2.jpg
 latitude: 52.4056
 longitude: 6.0414
 title: Heerde
+snippet: Quiet Gelderland municipality between the IJssel River and Veluwe woods, suited to cycling and walking
 type: location
 score: 0.31
 loc_type: city

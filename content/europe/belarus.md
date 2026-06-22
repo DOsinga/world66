@@ -7,16 +7,18 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Zedlik" title="Use
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Miensk_-_Plac_Niezaležnaści.jpg
 latitude: 53.425061
+loc_type: country
 longitude: 27.697136
 quick_facts:
-  Population: "9.2 million"
-  Visa: "30-day visa-free via Minsk airport"
-  Forest Cover: "40% of the country"
-  Białowieża Forest: "Last primeval lowland forest in Europe"
+  Białowieża Forest: Last primeval lowland forest in Europe
+  Forest Cover: 40% of the country
+  Population: 9.2 million
+  Visa: 30-day visa-free via Minsk airport
 score: 0.42
+snippet: Forested Eastern European country where Soviet-era avenues, quiet villages,
+  and Białowieża woodland shape a reserved travel landscape.
 title: Belarus
 type: location
-loc_type: country
 ---
 
 The very word Belarus should inspire visions of beauty and kindness, if it does not, then most likely you have not been there. Belarus has retained its mystery, it has remained virtually closed and unexplored since the fall of Communism. Belarus is little known, little understood, and even less traveled. It is one of the few countries in the former Soviet Union where Lenin still stands and the Soviet symbol, the sickle and hammer, can be found in abundance. It is the only country that still uses the KGB. Powerful forces in Belarus are guiding it forward and forcing it backward at the same time.

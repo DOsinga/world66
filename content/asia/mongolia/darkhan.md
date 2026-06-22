@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-17'
+image: darkhan.jpg
+image_attribution: Chongkian
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Darkhan.jpg
 latitude: 49.492243
 loc_type: city
 longitude: 105.936161
 score: 0.24
+snippet: Soviet-built Mongolian industrial city on the Trans-Mongolian line, useful
+  for monastery country.
 title: Darkhan
 type: location
-image: darkhan.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Darkhan.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Chongkian
 ---
 
 Darkhan is Mongolia's third-largest city, a Soviet-built industrial centre about 200 km northwest of [Ulaanbaatar](/asia/mongolia/ulaanbaatar), connected to the capital by daily buses and frequent express trains on the Trans-Mongolian line. The city itself is not a prime attraction — its wide Soviet-era streets and industrial districts have more in common with Siberian towns than the nomadic Mongolia of the tourist imagination — but it is an honest, functional place with a few cultural highlights and, more importantly, good access to two of the most rewarding monasteries in the country.

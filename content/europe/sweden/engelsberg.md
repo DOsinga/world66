@@ -7,6 +7,8 @@ title: Engelsberg
 type: location
 score: 0.33
 loc_type: city
+snippet: Swedish ironworks village in Bergslagen with an unusually intact preserved
+  industrial complex.
 ---
 
 In the central Swedish uplands (Bergslagen), dozens of villages once centred around ironworks, built on a particular Swedish model: the owner provided the buildings, the housing, the school, the church, and the health care — for those who behaved. Today the industry is gone and most of the ironwork buildings are ruins. Engelsberg is the only exception. The [Engelsberg Ironworks](/europe/sweden/engelsberg/engelsberg_ironworks) has been preserved almost completely intact, with machinery still in working condition — the waterwheel, the blower, the hammer, the crusher — alongside the smelting house, the weighing house where charcoal was delivered, the ironmaster's mansion, and the workers' housing.

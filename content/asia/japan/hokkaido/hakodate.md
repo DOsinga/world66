@@ -11,6 +11,7 @@ longitude: 140.7202
 sources:
 - https://en.wikipedia.org/wiki/Hakodate
 title: Hakodate
+snippet: "Southern Hokkaido port city opened to foreign trade in 1854, with historic Motomachi streets."
 type: location
 score: 0.59
 ---

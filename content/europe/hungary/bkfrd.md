@@ -3,12 +3,14 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-06-02'
 image: bkfrd.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Eingang_B%C3%BCkf%C3%BCrd%C5%91_Thermal_%26_Spa.jpg
 image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Eingang_B%C3%BCkf%C3%BCrd%C5%91_Thermal_%26_Spa.jpg
 latitude: 47.381162
 loc_type: city
 longitude: 16.787056
 score: 0.38
+snippet: Western Hungarian spa village built around mineral springs discovered during
+  oil drilling
 title: Bükfürdő
 type: location
 ---

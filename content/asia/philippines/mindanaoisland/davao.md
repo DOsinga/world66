@@ -11,6 +11,8 @@ latitude: 7.064831
 loc_type: city
 longitude: 125.608062
 score: 0.4
+snippet: Mindanao's largest city, where durian markets and Davao Gulf sit below Mount
+  Apo.
 title: Davao
 type: location
 ---

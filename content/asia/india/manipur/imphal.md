@@ -6,6 +6,8 @@ latitude: 24.7991
 loc_type: city
 longitude: 93.9364
 score: 0.33
+snippet: Manipur's valley capital, ringed by blue-grey hills and culturally distinct
+  from mainland India.
 title: Imphal
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 15.061014
 loc_type: city
 longitude: 103.761312
 score: 0.39
+snippet: Isan provincial city near Cambodia, known for elephant traditions, jasmine
+  rice, and Khmer temple ruins
 sources:
 - https://en.wikipedia.org/wiki/Surin,_Surin
 title: Surin

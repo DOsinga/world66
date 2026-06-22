@@ -10,6 +10,8 @@ latitude: 34.16523
 loc_type: city
 longitude: -84.799761
 score: 0.32
+snippet: Small northwest Georgia city near Etowah Indian Mounds and notable downtown
+  museums.
 title: Cartersville
 type: location
 ---

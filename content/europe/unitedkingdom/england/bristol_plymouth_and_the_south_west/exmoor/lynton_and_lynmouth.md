@@ -6,6 +6,8 @@ latitude: 51.229
 loc_type: city
 longitude: -3.833
 score: 0.48
+snippet: Twin Exmoor villages linked by a Victorian water-powered cliff railway above
+  the North Devon coast.
 sources:
 - https://en.wikipedia.org/wiki/Lynton
 - https://en.wikipedia.org/wiki/Lynmouth

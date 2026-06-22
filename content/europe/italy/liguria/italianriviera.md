@@ -8,6 +8,8 @@ latitude: 44.14828
 loc_type: region
 longitude: 8.271494
 score: 0.74
+snippet: Ligurian coastal region of terraced hills, pastel fishing villages, resort
+  beaches, and steep Mediterranean coves.
 title: Italian Riviera
 type: location
 ---

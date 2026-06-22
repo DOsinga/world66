@@ -10,6 +10,7 @@ latitude: 47.1282
 loc_type: city
 longitude: 0.998
 score: 0.51
+snippet: "Medieval Loire Valley town above the Indre, dominated by a royal citadel, keep, and former dungeons."
 title: Loches
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 52.071683
 loc_type: city
 longitude: 5.745511
 score: 0.32
+snippet: Dutch town on the Veluwe’s western edge, close to Hoge Veluwe National Park
+  and the Kröller-Müller Museum.
 title: Ede
 type: location
 ---

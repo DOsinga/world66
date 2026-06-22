@@ -12,6 +12,8 @@ longitude: -2.071156
 score: 0.46
 title: Cheltenham
 type: location
+snippet: Regency spa town beside the Cotswolds, with festivals, racecourse traditions,
+  and Pittville Pump Room.
 ---
 
 Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/gloucestershire/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.

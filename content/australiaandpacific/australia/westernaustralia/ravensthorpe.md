@@ -10,6 +10,8 @@ latitude: -33.581345
 loc_type: city
 longitude: 120.04735
 score: 0.25
+snippet: Small Western Australian town amid ancient ranges, known for spring wildflowers
+  and the Ravensthorpe Range.
 title: Ravensthorpe
 type: location
 ---

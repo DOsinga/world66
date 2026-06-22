@@ -9,6 +9,8 @@ latitude: 37.624854
 loc_type: city
 longitude: -122.414599
 score: 0.26
+snippet: Bay Area suburb between SFO and San Bruno Mountain, marked by Tanforan's
+  layered history.
 title: San Bruno
 type: location
 ---

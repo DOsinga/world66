@@ -9,6 +9,8 @@ latitude: 36.947997
 loc_type: city
 longitude: -81.086975
 score: 0.26
+snippet: Southwest Virginia town at the I-77 and I-81 junction, named for signer George
+  Wythe.
 title: Wytheville
 type: location
 ---

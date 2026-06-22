@@ -9,6 +9,8 @@ latitude: 39.74379
 loc_type: city
 longitude: -8.807112
 score: 0.45
+snippet: Central Portuguese city below a hilltop castle, once a southern outpost of
+  the early kingdom.
 title: Leiria
 type: location
 ---

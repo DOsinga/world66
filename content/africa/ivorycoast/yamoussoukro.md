@@ -12,6 +12,8 @@ latitude: 6.82
 loc_type: city
 longitude: -5.2776
 score: 0.34
+snippet: Purpose-built Ivorian capital of oversized boulevards, sacred crocodiles,
+  and an improbably vast basilica
 title: Yamoussoukro
 type: location
 ---

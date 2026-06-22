@@ -11,6 +11,7 @@ longitude: 10.8868
 score: 0.61
 title: Bamberg
 type: location
+snippet: "Medieval Franconian city on seven hills, preserving riverfront lanes, smoked beer, and prince-bishops' palaces."
 ---
 
 Bamberg is one of the best-preserved medieval towns in Germany and a UNESCO World Heritage Site. Built on seven hills along the Regnitz River, it escaped major wartime damage and still looks remarkably as it did centuries ago — half-timbered houses, Baroque facades, and narrow lanes climbing up from the waterfront.

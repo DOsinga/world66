@@ -9,6 +9,8 @@ latitude: 35.206218
 loc_type: city
 longitude: 26.101482
 score: 0.51
+snippet: Small Cretan port town with a relaxed waterfront and a Venetian fortress
+  above the harbour.
 title: Sitia
 type: location
 ---

@@ -11,6 +11,7 @@ longitude: 129.388
 sources:
 - https://en.wikivoyage.org/wiki/Yanji
 title: Yanji
+snippet: Bicultural northeast Chinese city where Chinese and Korean language, food, and identity meet in Yanbian
 type: location
 score: 0.32
 ---

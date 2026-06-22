@@ -10,6 +10,8 @@ latitude: 10.0024
 loc_type: city
 longitude: -84.1165
 score: 0.4
+snippet: Costa Rican university city north of San José, nicknamed the City of Flowers
+  for its garden streets
 title: Heredia
 type: location
 ---

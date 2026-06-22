@@ -6,6 +6,8 @@ latitude: 34.700904
 loc_type: city
 longitude: -83.729455
 score: 0.4
+snippet: Northeast Georgia mountain town remade as a Bavarian village beside the Chattahoochee
+  River.
 title: Helen
 type: location
 ---

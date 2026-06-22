@@ -10,6 +10,8 @@ latitude: 18.8167
 loc_type: city
 longitude: -98.95
 score: 0.29
+snippet: Morelos city of thermal springs and revolutionary history, set southeast
+  of Mexico City
 title: Cuautla
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: -15.7939
 loc_type: city
 longitude: -47.8828
 score: 0.45
+snippet: Purpose-built Brazilian capital of Niemeyer curves, monumental axes, and
+  vast modernist government spaces
 title: Brasilia
 type: location
 ---

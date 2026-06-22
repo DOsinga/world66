@@ -8,6 +8,8 @@ latitude: 34.7473
 loc_type: city
 longitude: 113.6193
 score: 0.34
+snippet: Henan capital and transport hub near Shang ruins, Mount Songshan, and the
+  Shaolin Monastery.
 sources:
 - https://en.wikipedia.org/wiki/Zhengzhou
 - https://en.wikipedia.org/wiki/Shaolin_Monastery

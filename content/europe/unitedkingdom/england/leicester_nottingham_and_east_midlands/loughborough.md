@@ -8,6 +8,8 @@ latitude: 52.772386
 loc_type: city
 longitude: -1.207798
 score: 0.32
+snippet: Leicestershire university town with a major sports campus and Britain's double-track
+  heritage railway.
 title: Loughborough
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 52.4578
 loc_type: city
 longitude: 5.1068
 score: 0.45
+snippet: Former IJmeer island village of green wooden houses, raised mounds, and old
+  fishing culture.
 title: Marken
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 41.150219
 loc_type: city
 longitude: -8.61035
 score: 0.67
+snippet: Steep northern Portuguese city where Douro riverfront streets face the port
+  lodges of Vila Nova de Gaia.
 title: Oporto
 type: location
 ---

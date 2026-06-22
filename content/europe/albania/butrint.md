@@ -8,6 +8,8 @@ latitude: 39.745869
 loc_type: city
 longitude: 20.020999
 score: 0.5
+snippet: Forested Albanian archaeological site where Greek, Roman, Byzantine, and
+  Venetian ruins crowd a lagoon peninsula
 title: Butrint
 type: location
 ---

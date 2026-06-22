@@ -10,6 +10,8 @@ latitude: 51.674707
 loc_type: city
 longitude: 8.347194
 score: 0.32
+snippet: Westphalian river town with a medieval core threaded by Lippe channels and
+  crowned by Große Marienkirche.
 sources:
 - https://en.wikipedia.org/wiki/Lippstadt
 - https://historisches-lippstadt.de/marienkirche/

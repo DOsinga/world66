@@ -6,6 +6,8 @@ latitude: 51.289698
 loc_type: city
 longitude: -0.051667
 score: 0.28
+snippet: Surrey Downs village with chalk walks, woodland, and quick train access from
+  central London
 title: Woldingham
 type: location
 ---

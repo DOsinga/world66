@@ -12,6 +12,8 @@ latitude: 46.5218
 loc_type: city
 longitude: 6.6327
 score: 0.57
+snippet: Steep Swiss lake city above Geneva's shore, known for Olympic history, Gothic
+  stone, and Lavaux vineyards
 title: Lausanne
 type: location
 ---

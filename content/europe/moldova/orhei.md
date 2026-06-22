@@ -10,6 +10,8 @@ latitude: 47.378229
 loc_type: city
 longitude: 28.824675
 score: 0.33
+snippet: Moldovan market town on the Răut River, often used as the gateway to Orheiul
+  Vechi.
 title: Orhei
 type: location
 ---

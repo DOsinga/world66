@@ -9,6 +9,8 @@ latitude: 45.798
 loc_type: city
 longitude: 8.411
 score: 0.59
+snippet: Lakeside town on Lago d'Orta, facing Isola San Giulio and backed by the Sacro
+  Monte.
 title: Orta San Giulio
 type: location
 ---

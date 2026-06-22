@@ -10,6 +10,8 @@ latitude: 39.0833
 loc_type: city
 longitude: 17.1167
 score: 0.41
+snippet: Ionian Calabrian port city on ancient Kroton, with Magna Graecia history
+  and a headland old town.
 sources:
 - https://en.wikipedia.org/wiki/Crotone
 - https://en.wikipedia.org/wiki/Capo_Colonna

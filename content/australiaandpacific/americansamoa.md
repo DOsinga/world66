@@ -3,8 +3,7 @@ done:
   country_cleanup: 2026-03-30
   location_cleanup: '2026-04-08'
 image: americansamoa.jpg
-image_attribution: <a href="https://en.wikipedia.org/wiki/User:Marshman" class="extiw"
-  title="en:User:Marshman">Eric Guinther</a>
+image_attribution: <a href="https://en.wikipedia.org/wiki/User:Marshman" class="extiw" title="en:User:Marshman">Eric Guinther</a>
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Fagatogo_Dock.jpg
 latitude: -14.297124
@@ -12,12 +11,13 @@ longitude: -170.713148
 title: American Samoa
 type: location
 quick_facts:
-  Population: "About 49,000"
+  Population: About 49,000
   Currency: US dollar
-  Number of Islands: "7"
-  National Park Visitors per Year: "Fewer than 30,000"
+  Number of Islands: '7'
+  National Park Visitors per Year: Fewer than 30,000
 score: 0.38
 loc_type: country
+snippet: Remote U.S. territory in the South Pacific, centred on Pago Pago's volcanic harbour and Samoan villages.
 ---
 
 American Samoa is a small U.S. territory in the South Pacific — seven islands scattered between the equator and the Tropic of Capricorn, about halfway between Hawaii and New Zealand. It's remote, genuinely beautiful, and almost entirely off the tourist trail.

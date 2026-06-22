@@ -10,6 +10,8 @@ latitude: 50.928172
 loc_type: city
 longitude: 11.587936
 score: 0.4
+snippet: Saale valley university city framed by limestone cliffs and linked to German
+  philosophy and optics.
 title: Jena
 type: location
 ---

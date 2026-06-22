@@ -10,6 +10,8 @@ latitude: 34.014486
 loc_type: city
 longitude: 75.328516
 score: 0.52
+snippet: Kashmir trekking town at the Lidder and Sheshnag rivers, gateway to Aru Valley
+  and Amarnath.
 title: Pahalgam
 type: location
 ---

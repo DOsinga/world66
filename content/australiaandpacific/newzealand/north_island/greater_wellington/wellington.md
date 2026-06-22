@@ -10,6 +10,8 @@ latitude: -41.288795
 loc_type: city
 longitude: 174.777211
 score: 0.57
+snippet: Compact harbour capital wedged between forested hills, wild coast, parliament,
+  cafes, and relentless wind
 title: Wellington
 type: location
 ---

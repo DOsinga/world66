@@ -12,6 +12,8 @@ latitude: 43.961354
 loc_type: city
 longitude: 11.32442
 score: 0.41
+snippet: Mugello valley village north of Florence, tied to Medici villas, castles,
+  and Apennine foothills.
 title: San Piero a Sieve
 type: location
 ---

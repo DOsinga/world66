@@ -9,6 +9,8 @@ latitude: 53.38918
 loc_type: city
 longitude: 5.305595
 score: 0.39
+snippet: Terschelling village centred on a working windmill and a shipwreck museum
+  built from coastal salvage.
 title: Formerum
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 46.254631
 loc_type: city
 longitude: 20.148602
 score: 0.44
+snippet: Great Southern Plain university city on the Tisza, rebuilt with grand boulevards
+  after the 1879 flood.
 title: Szeged
 type: location
 ---

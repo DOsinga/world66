@@ -12,6 +12,8 @@ latitude: 8.3368
 loc_type: city
 longitude: 80.4082
 score: 0.55
+snippet: Ancient Sri Lankan capital and Buddhist sacred city, spread with dagobas,
+  monastic ruins, and forested pools
 title: Anuradhapura
 type: location
 ---

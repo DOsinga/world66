@@ -10,6 +10,8 @@ latitude: 46.0038
 loc_type: city
 longitude: -112.5348
 score: 0.36
+snippet: Montana mining city whose copper wealth left Victorian streets, miners' cottages,
+  and the Berkeley Pit.
 title: Butte
 type: location
 ---

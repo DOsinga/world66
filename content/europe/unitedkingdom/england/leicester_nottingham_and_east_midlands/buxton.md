@@ -9,6 +9,8 @@ latitude: 53.259342
 loc_type: city
 longitude: -1.910077
 score: 0.39
+snippet: High Derbyshire spa town with Georgian crescents, thermal springs, and Peak
+  District hills at its doorstep.
 title: Buxton
 type: location
 ---

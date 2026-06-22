@@ -18,6 +18,8 @@ done:
   country_cleanup: 2026-03-29
 score: 0.47
 loc_type: country
+snippet: British Caribbean territory of low islands and cays scattered across a shallow
+  Atlantic bank.
 ---
 
 The Turks and Caicos Islands are a British Overseas Territory of about 40 islands and cays scattered across a broad shallow bank in the Atlantic Ocean, southeast of the Bahamas. Most are uninhabited. The ones that are not have become, improbably, some of the most sought-after beach destinations in the Caribbean.

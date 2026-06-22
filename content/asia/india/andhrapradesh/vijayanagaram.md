@@ -10,6 +10,8 @@ latitude: 18.114126
 loc_type: city
 longitude: 83.411439
 score: 0.26
+snippet: Northern Andhra town with princely-state colleges, fort walls, and a strong
+  classical arts legacy.
 title: Vijayanagaram
 type: location
 ---

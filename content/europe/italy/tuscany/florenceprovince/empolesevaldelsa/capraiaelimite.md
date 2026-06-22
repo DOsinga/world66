@@ -10,6 +10,8 @@ latitude: 43.7596
 loc_type: city
 longitude: 10.9997
 score: 0.36
+snippet: Tuscan Arno-side comune where old shipbuilding traditions meet Montalbano
+  hill trails and villas.
 title: Capraia e Limite
 type: location
 ---

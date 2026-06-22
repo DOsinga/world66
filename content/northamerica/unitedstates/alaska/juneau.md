@@ -11,6 +11,8 @@ latitude: 58.301961
 loc_type: city
 longitude: -134.419675
 score: 0.56
+snippet: Alaska capital on the Gastineau Channel, reachable only by sea or air and
+  backed by mountains.
 title: Juneau
 type: location
 ---

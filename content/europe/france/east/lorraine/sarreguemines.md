@@ -6,6 +6,8 @@ latitude: 49.1095
 loc_type: city
 longitude: 7.0709
 score: 0.35
+snippet: French-German border town at two rivers, historically known for its faience
+  ceramics industry.
 title: Sarreguemines
 type: location
 ---

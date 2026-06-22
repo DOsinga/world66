@@ -6,6 +6,8 @@ latitude: 40.360581
 loc_type: city
 longitude: 16.835227
 score: 0.41
+snippet: Low-key Ionian beach resort in Basilicata, with long sandy shoreline and
+  shallow water.
 title: Lido di Metaponto
 type: location
 ---

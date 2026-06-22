@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-27'
+image: virginiacity.jpg
+image_attribution: SchmuckyTheCat
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Virginia_City,_Montana.jpg
 latitude: 45.3535
 loc_type: city
 longitude: -111.9418
 score: 0.4
+snippet: Preserved Montana gold-rush town, left with Victorian storefronts after Alder
+  Gulch riches ran out.
 sources:
 - https://en.wikipedia.org/wiki/Virginia_City,_Montana
 - https://en.wikipedia.org/wiki/Virginia_City_Historic_District_(Virginia_City,_Montana)
 title: Virginia City
 type: location
-image: virginiacity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Virginia_City,_Montana.jpg
-image_license: CC BY-SA 3.0
-image_attribution: SchmuckyTheCat
 ---
 
 Virginia City, Montana is frozen in time. It was the site of one of the richest gold strikes in the American West — the [Alder Gulch](/northamerica/unitedstates/montana/virginiacity/alder_gulch_gold_panning) discovery of 1863 — and for a brief, furious period it was the most important town in the territory, serving as Montana's first territorial capital. When the gold petered out, there wasn't enough money left to modernize, so the town simply stopped. The Victorian storefronts, the wooden sidewalks, the hotel with its iron beds — all of it survived intact because nobody could afford to tear it down.

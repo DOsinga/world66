@@ -10,6 +10,8 @@ latitude: 51.315783
 loc_type: city
 longitude: 9.497848
 score: 0.41
+snippet: German art city on the Fulda, tied to documenta, Bergpark Wilhelmshöhe, and
+  the Brothers Grimm
 title: Kassel
 type: location
 ---

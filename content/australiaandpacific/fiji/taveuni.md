@@ -12,6 +12,7 @@ image: taveuni.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Taveuni,_Fiji_looking_toward_Matagi.jpg
 image_license: CC BY 2.0
 image_attribution: Barry Peters
+snippet: "Lush volcanic Fijian island known as the Garden Island, crossed by the 180th meridian."
 ---
 
 Taveuni is Fiji's "Garden Island," the third-largest island in the archipelago and one of its most beautiful. The volcanic soil and heavy rainfall produce an almost absurdly lush landscape: dense tropical forest, cascading waterfalls, and hillsides thick with coconut palms and tropical flowers. The 180th meridian runs through the island, which means you can technically stand with one foot in today and one foot in yesterday, though the International Date Line itself was long ago bent around Fiji for practical reasons.

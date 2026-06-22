@@ -8,6 +8,8 @@ latitude: 39.250823
 loc_type: city
 longitude: -106.292524
 score: 0.42
+snippet: Colorado Rockies mining town at 10,152 feet, between Mount Elbert and Mount
+  Massive.
 title: Leadville
 type: location
 ---

@@ -4,6 +4,7 @@ type: location
 latitude: 62.619403
 longitude: 33.492027
 score: 0.42
+snippet: Northwest Russian republic of lakes and forests between Finland, Lake Onega, and the White Sea.
 loc_type: region
 ---
 

@@ -9,6 +9,8 @@ latitude: 42.047423
 loc_type: city
 longitude: 13.927011
 score: 0.5
+snippet: Abruzzo mountain town in the Peligna Valley, known for Ovid, medieval squares,
+  and sugared almonds.
 sources:
 - https://en.wikipedia.org/wiki/Sulmona
 - https://en.wikipedia.org/wiki/Sulmona_Cathedral

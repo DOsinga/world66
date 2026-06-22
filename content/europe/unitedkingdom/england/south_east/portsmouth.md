@@ -12,6 +12,8 @@ latitude: 50.800031
 loc_type: city
 longitude: -1.090602
 score: 0.42
+snippet: Naval port city on Portsea Island, home to HMS Victory, the Mary Rose, and
+  a historic dockyard
 title: Portsmouth
 type: location
 ---

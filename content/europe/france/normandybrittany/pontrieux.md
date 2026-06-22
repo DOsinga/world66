@@ -9,6 +9,8 @@ latitude: 48.6972
 loc_type: city
 longitude: -3.163
 score: 0.42
+snippet: Breton river town on the tidal Trieux, known for restored lavoirs and half-timbered
+  houses
 title: Pontrieux
 type: location
 ---

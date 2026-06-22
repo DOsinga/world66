@@ -10,6 +10,8 @@ latitude: -20.272494
 loc_type: city
 longitude: 148.718147
 score: 0.54
+snippet: Tropical Queensland coastal town and main sailing gateway to the Whitsunday
+  Islands and Whitehaven Beach.
 title: Airlie Beach
 type: location
 ---

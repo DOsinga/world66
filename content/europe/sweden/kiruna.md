@@ -9,6 +9,8 @@ latitude: 67.8558
 loc_type: city
 longitude: 20.2253
 score: 0.49
+snippet: Arctic Swedish mining city being moved east as iron ore workings reshape
+  the ground.
 sources:
 - https://en.wikipedia.org/wiki/Kiruna
 - https://en.wikipedia.org/wiki/Kiruna_mine

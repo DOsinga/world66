@@ -10,6 +10,8 @@ latitude: 8.35
 loc_type: city
 longitude: -13.2167
 score: 0.36
+snippet: Forested Atlantic peninsula south of Freetown, known for long beaches backed
+  by hills and villages.
 title: Freetown Peninsula
 type: location
 ---

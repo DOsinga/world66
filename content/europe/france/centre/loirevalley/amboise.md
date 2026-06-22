@@ -12,6 +12,8 @@ longitude: 0.9837
 score: 0.59
 title: Amboise
 type: location
+snippet: Loire Valley town dominated by its Renaissance château and Leonardo da Vinci's
+  final home.
 ---
 
 Amboise sits on the Loire 25 km east of [Tours](/europe/france/centre/loirevalley/tours), a small town with an outsized history. The [Château d'Amboise](/europe/france/centre/loirevalley/amboise/chateau_damboise) looms over everything — one of the first true Renaissance buildings in France, built by Charles VIII and later used by Francois I, who invited Leonardo da Vinci to spend his final years here. Leonardo is buried in the castle's Saint-Hubert chapel, and the [Manoir du Clos Lucé](/europe/france/centre/loirevalley/amboise/manoir_du_clos_luce), his home for his final three years, is a short walk from the chateau.

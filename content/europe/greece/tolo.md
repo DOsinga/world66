@@ -10,6 +10,8 @@ latitude: 37.521139
 loc_type: city
 longitude: 22.859787
 score: 0.45
+snippet: Argolid beach village with a long sandy bay, shallow Gulf water, and working
+  fishing harbour
 title: Tolo
 type: location
 ---

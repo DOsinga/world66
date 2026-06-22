@@ -6,6 +6,8 @@ latitude: 26.7167
 loc_type: city
 longitude: 90.9167
 score: 0.23
+snippet: Small Assam village near Manas National Park, surrounded by Bhutan-border
+  wildlife and riverine forest
 title: Panpur
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 40.899874
 loc_type: city
 longitude: 20.657388
 score: 0.41
+snippet: Albanian lakeside town on Lake Ohrid, backed by mountains and known for clear
+  water and koran trout.
 title: Pogradec
 type: location
 ---

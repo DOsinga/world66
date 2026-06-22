@@ -9,6 +9,7 @@ loc_type: region
 longitude: 1.0
 score: 0.52
 title: Norfolk
+snippet: Flat East Anglian county of big skies, medieval churches, Broads waterways, and North Sea beaches
 type: location
 ---
 

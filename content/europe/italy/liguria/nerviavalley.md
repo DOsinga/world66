@@ -1,6 +1,7 @@
 ---
 title: Nervia Valley
 type: location
+snippet: Western Ligurian valley near Ventimiglia, with olive terraces, limestone gorges, and medieval hill villages.
 loc_type: region
 latitude: 43.88
 longitude: 7.63

@@ -9,6 +9,8 @@ latitude: 41.926012
 loc_type: city
 longitude: 19.205556
 score: 0.48
+snippet: Southern Montenegrin coastal town near Albania, with an old town above long
+  Adriatic beaches.
 title: Ulcinj
 type: location
 ---

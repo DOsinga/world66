@@ -11,6 +11,7 @@ latitude: 37.8512
 loc_type: city
 longitude: 15.283
 score: 0.71
+snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
 title: Taormina
 type: location
 ---

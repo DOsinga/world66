@@ -10,6 +10,8 @@ latitude: 38.9918
 loc_type: city
 longitude: -74.8148
 score: 0.38
+snippet: Classic Jersey Shore boardwalk town with free wide beaches, amusement piers,
+  and Doo Wop motels.
 title: Wildwood
 type: location
 ---

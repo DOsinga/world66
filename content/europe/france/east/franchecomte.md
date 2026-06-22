@@ -6,6 +6,7 @@ loc_type: region
 longitude: 6.132022
 score: 0.54
 title: Franche-Comté
+snippet: Eastern French region of forested hills, Jura borderlands, navigable rivers, lakes, and Comté cheese
 type: location
 ---
 

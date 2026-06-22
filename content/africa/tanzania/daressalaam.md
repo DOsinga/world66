@@ -12,6 +12,8 @@ latitude: -6.7924
 loc_type: city
 longitude: 39.2083
 score: 0.41
+snippet: Sweltering Tanzanian port city and commercial engine, staging point for Zanzibar
+  and inland safari routes.
 title: Dar es Salaam
 type: location
 ---

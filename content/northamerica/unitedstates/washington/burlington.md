@@ -6,6 +6,8 @@ latitude: 48.474
 loc_type: city
 longitude: -122.328
 score: 0.32
+snippet: Skagit Valley city amid bulb fields, known for spring tulips between Cascades
+  and Puget Sound.
 title: Burlington
 type: location
 ---

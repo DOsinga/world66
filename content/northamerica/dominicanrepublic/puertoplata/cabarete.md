@@ -9,6 +9,8 @@ latitude: 19.788
 loc_type: city
 longitude: -70.513
 score: 0.5
+snippet: North-coast Dominican beach town shaped by trade winds, kitesurfing, and
+  windsurfing schools
 title: Cabarete
 type: location
 ---

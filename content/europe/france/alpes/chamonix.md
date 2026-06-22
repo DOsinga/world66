@@ -10,6 +10,8 @@ latitude: 45.92467
 loc_type: city
 longitude: 6.872751
 score: 0.72
+snippet: Alpine town at the foot of Mont Blanc, known for mountaineering history and
+  varied ski areas.
 sources:
 - https://en.wikipedia.org/wiki/Chamonix
 title: Chamonix

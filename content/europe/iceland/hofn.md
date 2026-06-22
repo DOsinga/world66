@@ -10,6 +10,8 @@ latitude: 64.253265
 loc_type: city
 longitude: -15.208044
 score: 0.49
+snippet: Southeastern Iceland fishing town on Hornafjörður bay, facing Vatnajökull
+  and known for langoustine.
 title: Höfn
 type: location
 ---

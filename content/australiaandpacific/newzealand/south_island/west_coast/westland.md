@@ -10,6 +10,8 @@ latitude: -42.8508
 loc_type: city
 longitude: 170.7152
 score: 0.49
+snippet: Rain-soaked West Coast district where rainforest and rare low-altitude glaciers
+  meet the Southern Alps
 title: Westland
 type: location
 ---

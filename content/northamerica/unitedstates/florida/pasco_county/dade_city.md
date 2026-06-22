@@ -10,6 +10,7 @@ latitude: 28.364725
 loc_type: city
 longitude: -82.195918
 score: 0.26
+snippet: Eastern Pasco County town with brick streets, antique shops, and a courthouse-centred downtown.
 title: Dade City
 type: location
 ---

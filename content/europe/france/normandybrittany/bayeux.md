@@ -9,6 +9,8 @@ latitude: 49.2765
 loc_type: city
 longitude: -0.7025
 score: 0.58
+snippet: Norman town best known for the Bayeux Tapestry, with a Gothic cathedral and
+  intact wartime centre.
 sources:
 - https://en.wikipedia.org/wiki/Bayeux
 - https://en.wikipedia.org/wiki/Bayeux_Tapestry

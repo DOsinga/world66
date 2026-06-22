@@ -6,6 +6,8 @@ latitude: 36.7581
 loc_type: city
 longitude: 66.898
 score: 0.23
+snippet: Ancient northern Afghan city, once Bactra, with Timurid shrines rising from
+  ruined walls and fields
 sources:
 - https://en.wikipedia.org/wiki/Balkh
 title: Balkh

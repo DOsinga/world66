@@ -10,6 +10,8 @@ latitude: 38.674444
 loc_type: city
 longitude: 39.222778
 score: 0.3
+snippet: Elazığ is an eastern Turkish city in the upper Euphrates basin, gateway to
+  Harput and the Keban Dam reservoir.
 title: Elazığ
 type: location
 ---

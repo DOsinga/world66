@@ -10,6 +10,8 @@ latitude: -20.111863
 loc_type: city
 longitude: 16.156687
 score: 0.33
+snippet: Northern Namibian town with German colonial traces and supplies for Etosha's
+  Anderson Gate.
 title: Outjo
 type: location
 ---

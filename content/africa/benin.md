@@ -1,20 +1,22 @@
 ---
-latitude: 9.529347
-longitude: 2.258441
-title: Benin
-type: location
 image: benin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Benin_-_Aeroporto_de_Cotonou_-_Entrada.JPG
-image_license: CC BY-SA 3.0
 image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Vitorabdala&amp;action=edit&amp;redlink=1"
   class="new" title="User:Vitorabdala (page does not exist)">Vitorabdala</a>
-quick_facts:
-  Population: "13.7 million"
-  Language: "French essential"
-  Birthplace of Voodoo: "West African origin"
-  Ethnic Groups: "42"
-score: 0.49
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Benin_-_Aeroporto_de_Cotonou_-_Entrada.JPG
+latitude: 9.529347
 loc_type: country
+longitude: 2.258441
+quick_facts:
+  Birthplace of Voodoo: West African origin
+  Ethnic Groups: '42'
+  Language: French essential
+  Population: 13.7 million
+score: 0.49
+snippet: Slender West African country shaped by Dahomey history, Vodun culture, and
+  palm-lined Atlantic coast.
+title: Benin
+type: location
 ---
 
 Benin is one of West Africa's most fascinating small countries -- the birthplace of voodoo, the heart of the old Dahomey kingdom, and a major center of the Atlantic slave trade. It packs extraordinary history and culture into a slender strip of land between Togo and Nigeria, running from the palm-lined coast up through savanna to the Atakora mountains in the north.

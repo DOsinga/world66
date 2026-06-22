@@ -14,6 +14,7 @@ sources:
 title: Arcachon
 type: location
 score: 0.53
+snippet: "Arcachon is a French Atlantic resort beside a sheltered oyster lagoon and the Landes pine forests."
 ---
 
 Arcachon occupies a special position on the French Atlantic coast — a Victorian seaside resort that never quite became fashionable in the way Biarritz did, and is better for it. The town sits on the southern shore of the [Arcachon Bay](https://en.wikipedia.org/wiki/Arcachon_Bay), a vast sheltered lagoon of oyster beds, bird-filled mudflats, and sand islands. Behind the town, the pine forests of the Landes stretch away for hundreds of kilometres. The whole setup is improbable and beautiful.

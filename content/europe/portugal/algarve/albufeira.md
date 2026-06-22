@@ -10,6 +10,8 @@ latitude: 37.088241
 loc_type: city
 longitude: -8.252634
 score: 0.57
+snippet: Algarve resort town where whitewashed old lanes sit above golden beaches
+  and late-night bars
 title: Albufeira
 type: location
 ---

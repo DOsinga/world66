@@ -14,6 +14,7 @@ image_license: CC BY-SA 3.0
 image_attribution: Alexander Z.
 sources:
 - https://en.wikipedia.org/wiki/Marktl
+snippet: Bavarian Inn River village known as the birthplace of Pope Benedict XVI.
 ---
 
 Marktl am Inn is a quiet village on the Inn river in southeastern [Bavaria](/europe/germany/bavaria), near the Austrian border. It became famous in 2005 as the birthplace of Cardinal Josef Ratzinger, who that year became Pope Benedict XVI — the [Benedict XVI Birthplace](/europe/germany/bavaria/marktl_am_inn/benedikt_xvi_geburtshaus) and [Saint Oswald's Church](/europe/germany/bavaria/marktl_am_inn/st_oswald_church), where he was baptised, are the main pilgrimage draws. Benedict resigned the papacy in 2013, the first pope to do so since the 15th century, and died in 2022. Pilgrims still come.

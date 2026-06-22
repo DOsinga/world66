@@ -12,6 +12,7 @@ longitude: 107.583911
 score: 0.35
 title: Ulan Ude
 type: location
+snippet: Buryatia's capital near Lake Baikal, where Russian, Mongolian, and Tibetan cultural ties meet.
 ---
 
 Ulan-Ude is the capital of the Republic of Buryatia, a Russian federal subject whose people share close cultural ties with Mongolia and Tibet. The city sits 100 kilometres southeast of Lake Baikal, in a broad valley where the Selenga and Uda rivers meet, surrounded by the Khamar-Daban and Ulan-Burgasy mountain ranges. It is a natural base for exploring the eastern shores of Baikal, but it also rewards time spent in the city itself.

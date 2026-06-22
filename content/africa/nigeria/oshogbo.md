@@ -9,6 +9,8 @@ latitude: 7.779167
 loc_type: city
 longitude: 4.553889
 score: 0.32
+snippet: Yoruba art city in Osun State, anchored by the Osun-Osogbo Sacred Grove and
+  studios
 sources:
 - https://en.wikipedia.org/wiki/Osogbo
 - https://en.wikipedia.org/wiki/Osun-Osogbo

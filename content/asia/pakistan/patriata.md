@@ -10,6 +10,8 @@ latitude: 33.856674
 loc_type: city
 longitude: 73.482003
 score: 0.38
+snippet: Galyat hill resort near Murree, reached by chairlift and cable car above
+  forested valleys
 title: Patriata
 type: location
 ---

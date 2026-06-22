@@ -12,6 +12,7 @@ latitude: 20.6461
 loc_type: city
 longitude: -87.0806
 score: 0.6
+snippet: Riviera Maya beach town with Cozumel ferries, white sand, and a busy Quinta Avenida.
 title: Playa del Carmen
 type: location
 ---

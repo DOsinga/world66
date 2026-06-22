@@ -10,6 +10,7 @@ latitude: 28.1818
 loc_type: city
 longitude: -16.8168
 score: 0.42
+snippet: Tenerife fishing village with a working harbour, dark-sand beach, and quieter southwest-coast rhythm.
 title: Playa San Juan
 type: location
 ---

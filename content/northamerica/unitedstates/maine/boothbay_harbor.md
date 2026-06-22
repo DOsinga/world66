@@ -10,6 +10,8 @@ latitude: 43.8513
 loc_type: city
 longitude: -69.6278
 score: 0.48
+snippet: Maine harbour village with whale cruises, puffin trips, and botanical gardens
+  just inland
 title: Boothbay Harbor
 type: location
 ---

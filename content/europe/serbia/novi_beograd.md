@@ -10,6 +10,8 @@ latitude: 44.8133
 loc_type: city
 longitude: 20.4183
 score: 0.31
+snippet: Planned New Belgrade municipality of broad socialist boulevards, riverfront
+  promenades, and floating Sava nightlife.
 title: Novi Beograd
 type: location
 ---

@@ -10,6 +10,7 @@ latitude: 16.8302
 loc_type: city
 longitude: 75.71
 score: 0.42
+snippet: Historic Deccan city of Adil Shahi domes, minarets, and the echoing Gol Gumbaz.
 title: Bijapur
 type: location
 ---

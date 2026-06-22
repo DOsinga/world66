@@ -10,6 +10,8 @@ latitude: 39.206062
 loc_type: city
 longitude: 26.21065
 score: 0.45
+snippet: Lesbos beach village on the Gulf of Kalloni, beside shallow family beaches
+  and bird-rich wetlands
 title: Skala Kalloni
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 9.17559
 loc_type: city
 longitude: 77.8687
 score: 0.24
+snippet: Small industrial town in southern Tamil Nadu, known locally for kadalai mittai
+  peanut brittle.
 title: Kovilpatti
 type: location
 ---

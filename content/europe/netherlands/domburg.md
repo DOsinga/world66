@@ -10,6 +10,7 @@ loc_type: city
 longitude: 3.496728
 score: 0.43
 title: Domburg
+snippet: Old Zeeland seaside resort of wide dunes, refined beach life, and the light that drew Mondrian.
 type: location
 ---
 

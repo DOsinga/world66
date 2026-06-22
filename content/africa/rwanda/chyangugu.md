@@ -9,6 +9,8 @@ latitude: -2.485
 loc_type: city
 longitude: 28.908
 score: 0.37
+snippet: Lake Kivu border town facing Bukavu, with forested hills rising toward Nyungwe
+  National Park.
 sources:
 - https://en.wikipedia.org/wiki/Cyangugu
 - https://en.wikipedia.org/wiki/Rusizi_District

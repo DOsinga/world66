@@ -10,6 +10,8 @@ latitude: 38.7062
 loc_type: city
 longitude: 1.4334
 score: 0.6
+snippet: Quiet Balearic island south of Ibiza, defined by white beaches, bicycles,
+  and low-key villages.
 title: Formentera
 type: location
 ---

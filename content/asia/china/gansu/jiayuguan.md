@@ -10,6 +10,7 @@ loc_type: city
 longitude: 98.2862
 sources:
 - https://en.wikivoyage.org/wiki/Jiayuguan
+snippet: Gobi frontier city built around Jiayu Pass, the Ming Great Wall's western stronghold.
 title: Jiayuguan
 type: location
 score: 0.47

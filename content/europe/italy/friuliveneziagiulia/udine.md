@@ -10,6 +10,8 @@ latitude: 46.063463
 loc_type: city
 longitude: 13.235838
 score: 0.48
+snippet: Friulian city between Alps and Adriatic, with Venetian squares and Tiepolo-filled
+  palaces.
 title: Udine
 type: location
 ---

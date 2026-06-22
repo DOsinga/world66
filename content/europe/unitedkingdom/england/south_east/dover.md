@@ -12,6 +12,7 @@ loc_type: city
 longitude: 1.313423
 score: 0.41
 title: Dover
+snippet: Channel port town beneath England's white cliffs, guarded by a fortress above the harbour.
 type: location
 ---
 

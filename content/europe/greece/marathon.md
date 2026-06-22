@@ -10,6 +10,8 @@ latitude: 38.153272
 loc_type: city
 longitude: 23.962089
 score: 0.47
+snippet: Greek coastal plain northeast of Athens, remembered for the 490 BC battle
+  against Persia.
 title: Marathon
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 42.544151
 loc_type: city
 longitude: -2.545422
 score: 0.49
+snippet: Walled Rioja Alavesa wine town honeycombed with centuries-old cellars beneath
+  pedestrian lanes
 title: Laguardia
 type: location
 ---

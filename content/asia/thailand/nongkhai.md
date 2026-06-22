@@ -10,6 +10,8 @@ latitude: 17.8783
 loc_type: city
 longitude: 102.745
 score: 0.45
+snippet: Mekong border town facing Laos, known for riverfront sunsets and the surreal
+  Sala Kaew Ku sculpture park.
 title: Nong Khai
 type: location
 ---

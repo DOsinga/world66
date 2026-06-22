@@ -8,6 +8,8 @@ latitude: 34.596074
 loc_type: city
 longitude: -120.138374
 score: 0.44
+snippet: Danish-heritage town in the Santa Ynez Valley, with half-timbered storefronts,
+  bakeries, and nearby wine country.
 title: Solvang
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 33.820495
 loc_type: city
 longitude: 7.872451
 score: 0.42
+snippet: Southwestern Tunisian oasis town beside Chott el-Jerid, with Sufi traditions
+  and the palm-filled Corbeille.
 sources:
 - https://en.wikipedia.org/wiki/Nefta,_Tunisia
 - https://www.atlasobscura.com/places/corbeille-of-nefta

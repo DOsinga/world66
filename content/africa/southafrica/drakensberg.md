@@ -8,6 +8,8 @@ latitude: -28.612916
 loc_type: region
 longitude: 29.126864
 score: 0.64
+snippet: Mountain region along South Africa's eastern edge, known for basalt cliffs,
+  hiking, and San rock art.
 title: Drakensberg
 type: location
 ---

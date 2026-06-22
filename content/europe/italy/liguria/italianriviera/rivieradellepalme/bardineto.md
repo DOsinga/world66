@@ -10,6 +10,8 @@ latitude: 44.193123
 loc_type: city
 longitude: 8.132452
 score: 0.37
+snippet: Quiet Ligurian hill town on a wooded plateau, with medieval traces and forest
+  walks
 title: Bardineto
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 45.4385
 loc_type: city
 longitude: 10.9916
 score: 0.65
+snippet: Veneto city on the Adige, known for its Roman Arena and medieval Romeo-and-Juliet
+  associations.
 sources:
 - https://en.wikipedia.org/wiki/Verona
 - https://en.wikipedia.org/wiki/Verona_Arena

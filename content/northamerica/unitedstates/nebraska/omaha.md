@@ -11,6 +11,8 @@ latitude: 41.258746
 loc_type: city
 longitude: -95.938376
 score: 0.33
+snippet: Missouri River city and Nebraska's largest, historically the eastern terminus
+  of the first transcontinental railroad.
 title: Omaha
 type: location
 ---

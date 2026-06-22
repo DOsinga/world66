@@ -9,6 +9,8 @@ latitude: 5.402553
 loc_type: city
 longitude: 100.303551
 score: 0.61
+snippet: Penang capital of shophouses, clan jetties, and layered Straits of Malacca
+  trading history
 title: Georgetown
 type: location
 ---

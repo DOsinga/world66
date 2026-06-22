@@ -10,6 +10,8 @@ latitude: 45.479091
 loc_type: city
 longitude: 4.646935
 score: 0.42
+snippet: Tiny French village built inside a former Carthusian monastery in the Pilat
+  hills southwest of Lyon
 title: Sainte-Croix-en-Jarez
 type: location
 ---

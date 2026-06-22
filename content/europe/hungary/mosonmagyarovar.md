@@ -11,6 +11,7 @@ loc_type: city
 longitude: 17.272234
 score: 0.31
 title: Mosonmagyaróvár
+snippet: Northwestern Hungarian border town where the Lajta meets the Mosoni-Danube near Austria and Slovakia.
 type: location
 ---
 

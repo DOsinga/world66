@@ -10,6 +10,8 @@ latitude: 10.960411
 loc_type: city
 longitude: 79.382086
 score: 0.4
+snippet: Cauvery Delta temple town with a dense cluster of major Dravidian temples
+  within walking distance.
 title: Kumbakonam
 type: location
 ---

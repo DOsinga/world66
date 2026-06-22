@@ -10,6 +10,8 @@ latitude: 55.283008
 loc_type: city
 longitude: 14.791535
 score: 0.49
+snippet: Twin villages at northern Bornholm, near granite cliffs and the medieval
+  fortress ruins of Hammershus.
 title: Sandvig-Allinge
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 44.45
 loc_type: city
 longitude: 15.05
 score: 0.51
+snippet: North Dalmatian island of bare karst, bora winds, sheep cheese, salt pans,
+  and stark Adriatic light.
 title: Pag Island
 type: location
 ---

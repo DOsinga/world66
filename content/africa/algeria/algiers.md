@@ -14,6 +14,8 @@ longitude: 3.0588
 score: 0.39
 title: Algiers
 type: location
+snippet: Mediterranean capital of white hillside buildings, where the Casbah rises
+  above a French colonial centre.
 ---
 
 Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche — the White City. Close to three million people live here, making it the largest city in the Maghreb.

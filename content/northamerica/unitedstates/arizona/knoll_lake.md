@@ -5,6 +5,7 @@ latitude: 34.424697
 longitude: -111.088127
 title: Knoll Lake
 type: location
+snippet: Secluded trout lake on the Mogollon Rim, surrounded by ponderosa pine forest at 7,340 feet.
 score: 0.29
 loc_type: feature
 ---

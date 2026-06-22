@@ -9,6 +9,8 @@ latitude: 52.074946
 loc_type: city
 longitude: 4.26968
 score: 0.54
+snippet: Dutch government city of royal palaces, international courts, the Binnenhof,
+  and North Sea beaches
 sources:
 - https://en.wikipedia.org/wiki/The_Hague
 - https://en.wikipedia.org/wiki/Mauritshuis

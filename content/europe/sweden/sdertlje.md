@@ -10,6 +10,8 @@ latitude: 59.196429
 loc_type: city
 longitude: 17.627166
 score: 0.29
+snippet: Industrial Swedish canal city south of Stockholm, where a major lock connects
+  Mälaren to the Baltic.
 title: Södertälje
 type: location
 ---

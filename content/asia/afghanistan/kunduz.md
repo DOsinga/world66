@@ -10,6 +10,8 @@ latitude: 36.7286
 loc_type: city
 longitude: 68.8681
 score: 0.08
+snippet: Northeastern Afghan trading city on fertile Kunduz River plains, near Kushan
+  and Greco-Buddhist sites.
 title: Kunduz
 type: location
 ---

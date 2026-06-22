@@ -11,6 +11,7 @@ loc_type: city
 longitude: -87.567526
 score: 0.29
 title: Tuscaloosa
+snippet: "Alabama college town dominated by the University of Alabama and its football culture."
 type: location
 ---
 

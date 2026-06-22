@@ -11,6 +11,8 @@ latitude: 25.6802
 loc_type: city
 longitude: -100.3153
 score: 0.37
+snippet: Northern Mexican industrial city beneath the Sierra Madre, with museums and
+  public plazas around the Macroplaza.
 title: Monterrey
 type: location
 ---

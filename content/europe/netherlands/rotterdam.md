@@ -20,6 +20,7 @@ tags:
 - port_city
 - modern
 title: Rotterdam
+snippet: Architecturally daring Dutch port city rebuilt after wartime destruction into a modernist skyline of bridges and towers
 type: location
 ---
 

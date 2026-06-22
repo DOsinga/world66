@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-22'
 latitude: 13.519054
 loc_type: city
+snippet: Northern Guam village and island population centre, opening onto beaches,
+  markets, and the Ritidian coast
 longitude: 144.837839
 score: 0.31
 sources:

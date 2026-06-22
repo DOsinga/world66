@@ -6,6 +6,8 @@ latitude: 27.752773
 loc_type: region
 longitude: -15.597083
 score: 0.64
+snippet: Gran Canaria resort at the island's southern tip, defined by dunes, lagoon,
+  and palm oasis.
 title: Maspalomas
 type: location
 ---

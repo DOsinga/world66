@@ -9,6 +9,8 @@ latitude: 44.6683
 loc_type: city
 longitude: 6.778
 score: 0.49
+snippet: Quiet Queyras alpine village with painted sundials, separate ski slopes,
+  and trails to high mountain lakes.
 sources:
 - https://en.wikipedia.org/wiki/Ceillac
 - https://en.wikipedia.org/wiki/Lac_Miroir

@@ -2,6 +2,8 @@
 latitude: 27.0
 loc_type: region
 longitude: 107.0
+snippet: Mountainous Chinese province where Miao, Dong, and Buyi villages preserve
+  minority festivals and wooden architecture
 sources:
 - https://en.wikivoyage.org/wiki/Guizhou
 title: Guizhou Province

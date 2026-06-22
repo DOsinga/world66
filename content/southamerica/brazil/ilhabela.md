@@ -10,6 +10,8 @@ latitude: -23.816628
 loc_type: city
 longitude: -45.368685
 score: 0.52
+snippet: Brazilian island archipelago of Atlantic Forest, waterfalls, beaches, and
+  São Paulo's sailing culture.
 title: Ilhabela
 type: location
 ---

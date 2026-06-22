@@ -10,6 +10,8 @@ latitude: 33.80827
 loc_type: city
 longitude: 35.606118
 score: 0.39
+snippet: Mount Lebanon summer town above Beirut, known for cool air, stone houses,
+  and terrace restaurants
 title: Aley
 type: location
 ---

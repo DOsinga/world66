@@ -59,6 +59,29 @@ The overview is the most important page. It should make someone want to visit �
 3. Be practical and opinionated — if something is great, say it's great
 4. 3–5 paragraphs for a city, shorter for a small town
 
+## The snippet
+
+Every location should have a `snippet:` field in its frontmatter — a one-line definition of the place that renders below the title on the location page, and is used as the blurb in destination cards, search results, and meta descriptions. It's the same field POIs use, but the content rule is different because locations are categorically broader.
+
+**The rule:** what kind of place + the single thing that makes it itself.
+
+Not a list of attractions. Not "things you can do here." One identifying truth, optionally with a second clause that adds geography, era, or atmosphere.
+
+- **Target length:** 12–20 words. Hard cap 25. If it doesn't fit, the lede paragraph is doing the work anyway.
+- Lead with the **kind of place** (capital, port city, mountain region, archipelago, imperial city, wine region…) so it reads as a definition.
+- Add **one** distinguishing fact. Resist the temptation to list two.
+- No verbs of address ("explore", "discover", "visit"), no hollow superlatives ("amazing", "must-see").
+- Should still make sense out of context — in a search result, a tooltip, a card on a continent page.
+
+Examples:
+
+- **Paris** — Romantic French capital of art, food, and Haussmann boulevards, divided by the Seine into the grand Right Bank and quieter Left
+- **Tokyo** — Vast, orderly Japanese megacity where neon entertainment districts sit beside wooden shrines and the world's busiest commuter rail network
+- **Kyoto** — Japan's old imperial capital, dense with Zen temples, moss gardens, and tea houses, ringed by forested hills
+- **Reykjavik** — Tiny North Atlantic capital and gateway to Iceland's volcanic interior, with geothermal pools and long subarctic summer light
+- **Patagonia** — Wind-scoured wilderness of glaciers, granite spires, and sheep estancias spanning the southern tip of Argentina and Chile
+- **France** — Europe's archetypal country: Atlantic and Mediterranean coasts, alpine villages, Loire châteaux, and the wine regions that define the western table
+
 ## Sections
 
 Every location has sections - they are separate md files in the location folder. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.

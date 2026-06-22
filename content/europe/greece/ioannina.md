@@ -10,6 +10,8 @@ latitude: 39.663982
 loc_type: city
 longitude: 20.852278
 score: 0.53
+snippet: Epirus lake city framed by mountains, Ottoman castle walls, and Ali Pasha
+  history.
 title: Ioannina
 type: location
 ---

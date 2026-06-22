@@ -10,6 +10,8 @@ latitude: 32.931524
 loc_type: city
 longitude: 10.450396
 score: 0.42
+snippet: Southern Tunisian city near Berber ksour, whose name inspired Star Wars'
+  Tatooine.
 title: Tataouine
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 48.5203
 loc_type: city
 longitude: 9.0536
 score: 0.51
+snippet: German university town above the Neckar, packed with students, half-timbered
+  lanes, and literary landmarks.
 title: Tubingen
 type: location
 ---

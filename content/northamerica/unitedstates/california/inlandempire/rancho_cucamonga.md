@@ -11,6 +11,7 @@ loc_type: city
 longitude: -117.575173
 score: 0.25
 title: Rancho Cucamonga
+snippet: Inland Empire city below the San Gabriel Mountains, where Route 66 suburbia overlays old Cucamonga vineyards.
 type: location
 sources:
 - https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California

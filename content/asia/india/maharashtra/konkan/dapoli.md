@@ -11,6 +11,7 @@ loc_type: city
 longitude: 73.188708
 score: 0.33
 title: Dapoli
+snippet: "Konkan coastal town above the sea, with nearby beaches and Suvarnadurg fort offshore from Murud."
 type: location
 ---
 

@@ -9,6 +9,8 @@ latitude: 43.060395
 loc_type: city
 longitude: 11.603645
 score: 0.58
+snippet: Small walled Tuscan town on the Via Francigena, set among Val d'Orcia hills
+  and cypresses.
 title: San Quirico d'Orcia
 type: location
 ---

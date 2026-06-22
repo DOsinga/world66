@@ -9,6 +9,8 @@ latitude: 43.4832
 loc_type: city
 longitude: -1.5586
 score: 0.58
+snippet: Basque coast resort where belle époque villas meet Atlantic surf below Empress
+  Eugénie's palace.
 title: Biarritz
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 19.7197
 loc_type: city
 longitude: -155.0885
 score: 0.53
+snippet: Rainy Big Island town with plantation-era streets, lush gardens, waterfalls,
+  and a local Hawaiian rhythm
 title: Hilo
 type: location
 ---

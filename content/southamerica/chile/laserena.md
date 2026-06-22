@@ -10,6 +10,7 @@ latitude: -29.902705
 loc_type: city
 longitude: -71.251958
 score: 0.46
+snippet: Coquimbo Region capital and colonial-era city at the mouth of the Elqui Valley.
 title: La Serena
 type: location
 ---

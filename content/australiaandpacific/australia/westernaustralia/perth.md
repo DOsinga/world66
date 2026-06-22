@@ -10,6 +10,8 @@ latitude: -31.955897
 loc_type: city
 longitude: 115.860578
 score: 0.55
+snippet: Western Australian capital on the Swan River, with ocean beaches, Kings Park,
+  and Fremantle close by.
 title: Perth
 type: location
 ---

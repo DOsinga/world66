@@ -10,6 +10,8 @@ latitude: 54.459388
 loc_type: city
 longitude: -3.024366
 score: 0.54
+snippet: Lake District village associated with William Wordsworth, Dove Cottage, St
+  Oswald's churchyard, and local gingerbread.
 title: Grasmere
 type: location
 ---

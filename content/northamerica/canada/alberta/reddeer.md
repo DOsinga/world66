@@ -9,6 +9,8 @@ latitude: 52.269063
 loc_type: city
 longitude: -113.814146
 score: 0.3
+snippet: Central Alberta city between Calgary and Edmonton, with river-valley trails
+  and a historic downtown.
 title: Red Deer
 type: location
 ---

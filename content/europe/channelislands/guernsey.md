@@ -5,6 +5,8 @@ latitude: 49.458
 loc_type: region
 longitude: -2.535
 score: 0.6
+snippet: Channel Island of granite harbours, Norman place names, wartime fortifications,
+  and rich local dairy culture.
 title: Guernsey
 type: location
 ---

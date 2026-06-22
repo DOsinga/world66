@@ -3,17 +3,19 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-02'
 latitude: 50.856005
-longitude: -2.165177
-title: Blandford Forum
-type: location
-score: 0.38
 loc_type: city
+longitude: -2.165177
+score: 0.38
+snippet: Dorset market town with a notably intact Georgian centre rebuilt after the
+  1731 fire.
 sources:
 - https://en.wikipedia.org/wiki/Blandford_Forum
 - https://en.wikipedia.org/wiki/Blandford_Forum_Town_Hall
 - https://en.wikipedia.org/wiki/Royal_Signals_Museum
 - https://en.wikipedia.org/wiki/Hall_%26_Woodhouse
 - https://en.wikipedia.org/wiki/Bryanston_School
+title: Blandford Forum
+type: location
 ---
 
 Blandford Forum is a small market town in Dorset, set in the Stour valley in the rolling chalk downlands of central Dorset. Much of the town centre was rebuilt after a devastating fire swept through in 1731, leaving it with a remarkably uniform Georgian character — red-brick townhouses, a fine church, and a market place that give it an elegance unusual for a town of its size. It is, by some measures, the finest intact example of Georgian town planning in rural England.

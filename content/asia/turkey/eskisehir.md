@@ -10,6 +10,8 @@ latitude: 39.774394
 loc_type: city
 longitude: 30.519116
 score: 0.45
+snippet: Anatolian university city with restored Odunpazarı houses, student cafes,
+  and a lively arts scene
 title: Eskişehir
 type: location
 ---

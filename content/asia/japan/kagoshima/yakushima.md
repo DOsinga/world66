@@ -4,6 +4,7 @@ done:
   wikitravel_coverage: '2026-06-05'
 latitude: 30.3624
 loc_type: island
+snippet: Mountainous Japanese island south of Kyushu, known for ancient cedar forests and moss-draped hiking trails.
 longitude: 130.5465
 sources:
 - https://en.wikipedia.org/wiki/Yakushima

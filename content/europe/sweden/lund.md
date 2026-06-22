@@ -13,6 +13,7 @@ loc_type: city
 longitude: 13.1921
 score: 0.45
 title: Lund
+snippet: "Old Scandinavian university city, with a Romanesque cathedral and medieval lanes shaped by centuries of students."
 type: location
 ---
 

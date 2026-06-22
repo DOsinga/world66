@@ -2,19 +2,21 @@
 country: Canada
 done:
   wikitravel_coverage: '2026-06-05'
+image: bayoffundy.jpg
+image_attribution: cjuneau
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Bay_of_Fundy,_New_Brunswick,_Canada_(8169791550).jpg
 latitude: 45.3
 loc_type: region
 longitude: -65.5
+snippet: Tidal bay where Fundy's 16-metre waters expose red mudflats and sea stacks
+  twice daily.
 sources:
 - https://en.wikipedia.org/wiki/Bay_of_Fundy
 - https://en.wikipedia.org/wiki/Hopewell_Rocks
 - https://en.wikipedia.org/wiki/Fundy_National_Park
 title: Bay of Fundy
 type: location
-image: bayoffundy.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Bay_of_Fundy,_New_Brunswick,_Canada_(8169791550).jpg
-image_license: CC BY 2.0
-image_attribution: cjuneau
 ---
 
 The Bay of Fundy has the highest tidal range in the world. Twice a day, more water flows into and out of the bay than all the freshwater rivers on earth combined — the water rises and falls up to 16 metres between low and high tide, and the spectacle this creates is one of the great natural phenomena of North America. At low tide, vast mudflats exposed by the retreating sea become temporary geography: you can walk on the ocean floor between sea stacks that stand in open water at high tide, and return six hours later to find them submerged to the neck.

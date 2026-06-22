@@ -10,6 +10,8 @@ latitude: 18.7
 loc_type: city
 longitude: 12.9
 score: 0.14
+snippet: Saharan oasis chain in northeastern Niger, where salt towns sit below the
+  Kawar escarpment
 title: Kawar
 type: location
 ---

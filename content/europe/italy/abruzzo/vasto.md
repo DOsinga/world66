@@ -12,6 +12,8 @@ longitude: 14.705923
 score: 0.48
 title: Vasto
 type: location
+snippet: Abruzzo hilltop town above the Adriatic, with a sandy marina and nearby trabocchi
+  coast.
 ---
 
 Vasto is a hilltop town on the Adriatic coast of Abruzzo, perched above a long stretch of sandy beach and a small but pretty marina. The old town up top has a medieval [castle](/europe/italy/abruzzo/vasto/castello_caldoresco), a [cathedral](/europe/italy/abruzzo/vasto/vasto_cathedral), and narrow streets with views out over the sea — it feels a world away from the beach resort below.

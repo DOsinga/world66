@@ -10,6 +10,8 @@ latitude: 49.1589
 loc_type: city
 longitude: 5.3867
 score: 0.47
+snippet: Meuse River city defined by First World War battlefields, memorials, and
+  an older treaty-making history.
 title: Verdun
 type: location
 ---

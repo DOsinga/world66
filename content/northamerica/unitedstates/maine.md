@@ -5,6 +5,8 @@ latitude: 45.2538
 loc_type: region
 longitude: -69.4455
 score: 0.62
+snippet: Forested New England state of rocky Atlantic coastline, lobster towns, and
+  the wilderness around Katahdin.
 title: Maine
 type: location
 ---

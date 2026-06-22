@@ -9,6 +9,8 @@ latitude: 43.3615
 loc_type: city
 longitude: -70.4771
 score: 0.47
+snippet: Southern Maine fishing port and resort town centred on Dock Square and nearby
+  beaches.
 title: Kennebunkport
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 37.0
 loc_type: region
 longitude: 112.0
 score: 0.49
+snippet: Dry loess province west of the Taihang range, rich in preserved walled cities
+  and Buddhist caves
 sources:
 - https://en.wikivoyage.org/wiki/Shanxi
 title: Shanxi Province

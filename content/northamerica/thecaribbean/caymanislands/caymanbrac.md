@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayman_Brac_Watering_Place
 latitude: 19.72
 loc_type: island
 longitude: -79.8
+score: 0.53
+snippet: Limestone Cayman island with caves, cliff trails, rock climbing, and the
+  43-metre Bluff.
 sources:
 - https://en.wikipedia.org/wiki/Cayman_Brac
 - https://en.wikipedia.org/wiki/The_Bluff_(Cayman_Islands)
 title: Cayman Brac
 type: location
-score: 0.53
 ---
 
 Cayman Brac is the eccentric middle sibling of the Cayman Islands — 19 kilometres of limestone running east-to-west, rising at its eastern end into [the Bluff](/northamerica/thecaribbean/caymanislands/caymanbrac/the_bluff), a 43-metre cliff that is by some distance the highest point in the country. Grand Cayman is flat as a billiard table; Cayman Brac has caves, rock-climbing routes, hiking trails along the cliff edge, and a 2,000-person population that knows everyone else's business. The name comes from the Gaelic *brac*, meaning "bluff" — a remnant of the Scottish sailors who settled here in the 18th century.

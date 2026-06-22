@@ -10,6 +10,8 @@ latitude: 10.2993
 loc_type: city
 longitude: -85.8401
 score: 0.54
+snippet: Guanacaste beach town built around a broad Pacific bay, consistent surf,
+  and a busy visitor strip.
 title: Tamarindo
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 34.000754
 loc_type: city
 longitude: -81.035231
 score: 0.34
+snippet: South Carolina capital and university city, marked by riverside museums and
+  Civil War scars on the State House.
 title: Columbia
 type: location
 ---

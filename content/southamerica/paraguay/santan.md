@@ -10,6 +10,8 @@ latitude: -24.665743
 loc_type: city
 longitude: -56.44168
 score: 0.23
+snippet: Small Paraguayan market town, officially San Estanislao, showing rural San
+  Pedro life around its central plaza
 title: Santaní
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -12.579005
 loc_type: city
 longitude: 13.403712
 score: 0.28
+snippet: Angolan Atlantic port founded by the Portuguese, linked historically to the
+  Benguela Railway.
 title: Benguela
 type: location
 ---

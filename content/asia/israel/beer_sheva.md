@@ -10,6 +10,8 @@ latitude: 31.245744
 loc_type: city
 longitude: 34.792518
 score: 0.36
+snippet: Negev capital and university city, with Ottoman-era streets and desert routes
+  radiating south
 title: Be'er Sheva
 type: location
 ---

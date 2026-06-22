@@ -11,6 +11,8 @@ latitude: 33.7545
 loc_type: city
 longitude: -84.3898
 score: 0.47
+snippet: Georgia's capital and the largest city in the American South, with major
+  museums and civil-rights landmarks.
 title: Atlanta
 type: location
 ---

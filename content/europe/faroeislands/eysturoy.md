@@ -5,6 +5,8 @@ latitude: 62.19887
 loc_type: region
 longitude: -6.817845
 score: 0.57
+snippet: Second-largest Faroe island, home to Slættaratindur and dramatic drives between
+  sea cliffs and mountain passes.
 title: Eysturoy
 type: location
 ---

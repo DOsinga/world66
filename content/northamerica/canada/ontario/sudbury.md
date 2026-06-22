@@ -6,6 +6,8 @@ latitude: 46.49272
 loc_type: city
 longitude: -80.991211
 score: 0.33
+snippet: Northern Ontario nickel city built on an ancient meteorite impact and surrounded
+  by hundreds of lakes.
 title: Sudbury
 type: location
 ---

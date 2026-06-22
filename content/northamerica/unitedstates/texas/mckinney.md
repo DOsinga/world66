@@ -10,6 +10,8 @@ latitude: 33.19765
 loc_type: city
 longitude: -96.615447
 score: 0.29
+snippet: Collin County seat with a historic town square, Victorian homes, and tree-covered
+  rolling hills.
 title: McKinney
 type: location
 ---

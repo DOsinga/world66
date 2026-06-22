@@ -10,6 +10,8 @@ latitude: 45.6932
 loc_type: city
 longitude: -0.325
 score: 0.52
+snippet: Charente river town whose warehouses and blackened walls are shaped by the
+  brandy bearing its name
 title: Cognac
 type: location
 ---

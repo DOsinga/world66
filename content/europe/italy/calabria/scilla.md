@@ -6,6 +6,8 @@ latitude: 38.25067
 loc_type: city
 longitude: 15.718993
 score: 0.52
+snippet: Calabrian fishing village at the Strait of Messina, linked to Scylla's myth
+  and the Chianalea waterfront.
 title: Scilla
 type: location
 ---

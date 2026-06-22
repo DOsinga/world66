@@ -7,6 +7,8 @@ longitude: -13.6363
 score: 0.7
 title: Lanzarote
 type: location
+snippet: Volcanic Canary Island of black lava fields, white villages, and César Manrique's
+  low-rise vision.
 ---
 
 Lanzarote looks like nowhere else in Europe. The island is almost entirely volcanic, a landscape of black lava fields, rust-red craters, and pale sandy beaches under a sky that rarely clouds over. What could be barren and hostile is instead strangely beautiful -- the contrast between dark rock and white sand, between the deep blue Atlantic and the ochre desert interior, gives the island an otherworldly quality that stays with you.

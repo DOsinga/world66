@@ -10,6 +10,8 @@ latitude: 35.996653
 loc_type: city
 longitude: -78.901805
 score: 0.37
+snippet: Research Triangle city remade from tobacco warehouses by Duke University,
+  food culture, and downtown revival.
 title: Durham
 type: location
 ---

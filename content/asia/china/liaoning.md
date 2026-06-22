@@ -2,6 +2,8 @@
 latitude: 41.5
 loc_type: region
 longitude: 122.5
+snippet: Northeastern Chinese province with industrial cities, Manchu history, and
+  Yellow Sea and Bohai coastlines.
 sources:
 - https://en.wikivoyage.org/wiki/Liaoning
 title: Liaoning Province

@@ -10,6 +10,8 @@ latitude: 43.909811
 loc_type: city
 longitude: 12.913123
 score: 0.45
+snippet: Adriatic city in the Marche, defined by Rossini heritage, beach life, and
+  a handsome medieval centre
 title: Pesaro
 type: location
 ---

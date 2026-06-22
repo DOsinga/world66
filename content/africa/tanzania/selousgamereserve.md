@@ -1,9 +1,11 @@
 ---
+latitude: -9.0
+loc_type: region
+longitude: 37.8
+snippet: Vast southern Tanzanian game reserve centred on the Rufiji River and miombo
+  woodland.
 title: Selous Game Reserve
 type: location
-loc_type: region
-latitude: -9.0000
-longitude: 37.8000
 ---
 
 The Selous is one of the largest game reserves in Africa — over 50,000 square kilometres of southern Tanzania — and one of the least visited despite its size. It was declared a UNESCO World Heritage Site in 1982, and unlike the northern circuit parks, most of the Selous sees very few tourists. The landscape combines miombo woodland, grassland, and the Rufiji River system, which draws enormous concentrations of wildlife.

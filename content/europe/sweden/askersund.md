@@ -10,6 +10,8 @@ latitude: 58.866667
 loc_type: city
 longitude: 14.916667
 score: 0.37
+snippet: Wooden Swedish lake town where Lake Vättern opens into islands and Tiveden
+  forest.
 title: Askersund
 type: location
 ---

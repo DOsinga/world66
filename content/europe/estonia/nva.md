@@ -9,6 +9,8 @@ latitude: 59.22471
 loc_type: city
 longitude: 23.688303
 score: 0.28
+snippet: Quiet Estonian coastal village with Swedish heritage, pine forest, sandy
+  beach, and berry-picking country
 title: Nõva
 type: location
 ---

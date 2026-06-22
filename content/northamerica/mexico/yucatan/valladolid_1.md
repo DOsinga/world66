@@ -10,6 +10,8 @@ latitude: 20.690251
 loc_type: city
 longitude: -88.2017
 score: 0.55
+snippet: Yucatán colonial city between Mérida and Cancún, with cenotes, convent walls,
+  and Caste War history
 title: Valladolid
 type: location
 ---

@@ -11,6 +11,7 @@ loc_type: city
 longitude: -89.4742
 score: 0.18
 title: Forest
+snippet: Small Mississippi county seat near Bienville National Forest, known locally for its Wing Dang Doodle Festival.
 type: location
 ---
 

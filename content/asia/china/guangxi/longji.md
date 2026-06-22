@@ -9,6 +9,8 @@ latitude: 25.7975
 loc_type: feature
 longitude: 110.004722
 score: 0.58
+snippet: Steep Guangxi rice-terrace landscape farmed by Zhuang and Yao villages for
+  centuries.
 title: Longji Rice Terraces
 type: location
 ---

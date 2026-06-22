@@ -7,6 +7,8 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Pyramids_in_Shendi,_Sudan.jpg
 latitude: 16.6885
 loc_type: city
+snippet: Nile market town in Sudan's Butana steppe, base for the Kushite ruins of
+  Meroë and Naqa
 longitude: 33.4323
 score: 0.18
 title: Shendi

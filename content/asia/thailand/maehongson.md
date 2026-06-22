@@ -9,6 +9,8 @@ latitude: 19.392746
 loc_type: city
 longitude: 98.203111
 score: 0.53
+snippet: Mountain town in northwest Thailand, shaped by Burmese temples and a quiet
+  lakefront centre.
 title: Mae Hong Son
 type: location
 ---

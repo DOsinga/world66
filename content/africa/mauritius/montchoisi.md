@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-05-11'
 latitude: -20.027
 loc_type: city
+snippet: Quiet Mauritius beach area north of Grand Baie, with casuarina shade and calm shallow water.
 longitude: 57.582
 score: 0.37
 title: Mont Choisi

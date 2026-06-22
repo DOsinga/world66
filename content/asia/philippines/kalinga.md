@@ -10,6 +10,8 @@ latitude: 17.46
 loc_type: city
 longitude: 121.31
 score: 0.37
+snippet: Mountainous Cordillera province of river gorges, rice terraces, and living
+  Kalinga tattoo traditions.
 title: Kalinga
 type: location
 ---

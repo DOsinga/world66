@@ -2,14 +2,16 @@
 done:
   location_cleanup: '2026-04-09'
 image: tekekvillage.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Pulau_Tioman.JPG
 image_license: Copyrighted free use
+image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Pulau_Tioman.JPG
 latitude: 2.818736
+loc_type: city
 longitude: 104.158587
+score: 0.45
+snippet: Tioman Island's administrative village, where practical services cluster
+  beside the island's only paved road
 title: Tekek Village
 type: location
-score: 0.45
-loc_type: city
 ---
 
 Tekek is the administrative heart of Tioman. The [airport](/asia/malaysia/tiomanisland/tekekvillage/tioman_airport), police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it.

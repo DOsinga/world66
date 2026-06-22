@@ -4,6 +4,8 @@ latitude: -43.586562
 loc_type: region
 longitude: 171.212329
 score: 0.87
+snippet: Mountainous New Zealand island where the Southern Alps divide rainforests,
+  plains, vineyards, and fiords.
 title: South Island
 type: location
 ---

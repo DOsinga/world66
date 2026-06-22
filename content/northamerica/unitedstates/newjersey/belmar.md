@@ -10,6 +10,7 @@ latitude: 40.1782
 loc_type: city
 longitude: -74.0218
 score: 0.34
+snippet: "No-frills Jersey Shore beach town with wide sand, surfing jetties, and Shark River kayaking."
 title: Belmar
 type: location
 ---

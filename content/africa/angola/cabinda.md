@@ -9,6 +9,8 @@ latitude: -5.056395
 loc_type: city
 longitude: 12.321175
 score: 0.2
+snippet: Angolan exclave at the Congo River mouth, economically shaped by offshore
+  oil fields.
 title: Cabinda
 type: location
 ---

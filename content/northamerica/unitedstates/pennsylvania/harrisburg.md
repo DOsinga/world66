@@ -12,6 +12,7 @@ longitude: -76.886112
 score: 0.35
 title: Harrisburg
 type: location
+snippet: "Pennsylvania capital on the Susquehanna River, centred on a domed State Capitol and river islands."
 ---
 
 Harrisburg is the capital of Pennsylvania, situated on the east bank of the Susquehanna River in the south-central part of the state. The grand State Capitol building, with its Renaissance-style dome modeled after St. Peter's Basilica in Rome, is the city's architectural centerpiece and worth a guided tour.

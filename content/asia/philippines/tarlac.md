@@ -9,6 +9,8 @@ latitude: 15.493725
 loc_type: city
 longitude: 120.496409
 score: 0.28
+snippet: Central Luzon provincial capital and crossroads, set among sugarcane country
+  between Manila and northern hill regions.
 sources:
 - https://en.wikipedia.org/wiki/Tarlac
 - https://en.wikipedia.org/wiki/Tarlac_City

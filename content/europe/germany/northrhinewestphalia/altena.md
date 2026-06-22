@@ -10,6 +10,8 @@ latitude: 51.299026
 loc_type: city
 longitude: 7.673484
 score: 0.34
+snippet: Sauerland castle town where the world's first youth hostel opened inside
+  Burg Altena.
 title: Altena
 type: location
 ---

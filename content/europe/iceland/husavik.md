@@ -10,6 +10,8 @@ latitude: 66.0433
 loc_type: city
 longitude: -17.341
 score: 0.5
+snippet: North Iceland fishing town on Skjálfandi Bay, known for whale watching and
+  colourful harbour houses.
 title: Husavik
 type: location
 ---

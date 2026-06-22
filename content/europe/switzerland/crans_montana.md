@@ -11,6 +11,8 @@ latitude: 46.3069
 loc_type: city
 longitude: 7.469
 score: 0.58
+snippet: Valais ski resort on a sunny plateau above the Rhône Valley, facing the Matterhorn
+  and high Alpine peaks.
 title: Crans-Montana
 type: location
 ---

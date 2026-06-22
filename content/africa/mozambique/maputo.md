@@ -9,6 +9,8 @@ latitude: -25.966213
 loc_type: city
 longitude: 32.56745
 score: 0.38
+snippet: Mozambican capital on Maputo Bay, shaped by Portuguese avenues, Art Deco
+  blocks, and Indian Ocean port life.
 sources:
 - https://en.wikipedia.org/wiki/Maputo
 - https://en.wikivoyage.org/wiki/Maputo

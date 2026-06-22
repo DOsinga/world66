@@ -3,6 +3,8 @@ latitude: 43.144528
 loc_type: region
 longitude: -2.203796
 score: 0.6
+snippet: Small Basque province between the Pyrenees and Bay of Biscay, anchored by
+  Donostia-San Sebastián.
 title: Gipuzkoa
 type: location
 ---

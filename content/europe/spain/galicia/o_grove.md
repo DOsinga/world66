@@ -11,6 +11,7 @@ loc_type: city
 longitude: -8.895
 score: 0.46
 title: O Grove
+snippet: Galician fishing town on the Ría de Arousa, known for shellfish and mussel-farming rafts.
 type: location
 ---
 

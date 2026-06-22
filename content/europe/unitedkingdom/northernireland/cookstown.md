@@ -9,6 +9,8 @@ latitude: 54.643673
 loc_type: city
 longitude: -6.741601
 score: 0.3
+snippet: County Tyrone market town with a famously long main street aligned toward
+  Slieve Gallion
 title: Cookstown
 type: location
 ---

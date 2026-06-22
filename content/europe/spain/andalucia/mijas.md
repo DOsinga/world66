@@ -9,6 +9,8 @@ latitude: 36.595747
 loc_type: city
 longitude: -4.637519
 score: 0.54
+snippet: Whitewashed Andalusian hill village above the Costa del Sol, shaped by views
+  and carefully kept streets.
 title: Mijas
 type: location
 ---

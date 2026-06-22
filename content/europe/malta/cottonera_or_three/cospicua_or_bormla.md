@@ -10,6 +10,8 @@ latitude: 35.8805
 loc_type: city
 longitude: 14.5225
 score: 0.44
+snippet: Grand Harbour city and dockyard town, officially Cospicua, with Phoenician
+  roots and Knights-era fortifications.
 title: Cospicua (or Bormla)
 type: location
 ---

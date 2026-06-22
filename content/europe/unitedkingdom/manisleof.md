@@ -5,6 +5,8 @@ latitude: 54.2361
 loc_type: region
 longitude: -4.5481
 score: 0.58
+snippet: Self-governing Irish Sea island with Tynwald, rugged moorland, wooded glens,
+  castles, and Celtic crosses
 title: Isle of Man
 type: location
 ---

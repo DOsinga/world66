@@ -10,6 +10,8 @@ latitude: 47.023906
 loc_type: city
 longitude: 4.838043
 score: 0.6
+snippet: Burgundy wine town inside medieval ramparts, surrounded by Côte de Beaune
+  vineyards and anchored by the Hospices
 title: Beaune
 type: location
 ---

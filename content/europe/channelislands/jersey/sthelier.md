@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+image: sthelier.jpg
+image_attribution: Wolfgang Pehlemann
+image_license: CC BY-SA 3.0 de
+image_source: https://commons.wikimedia.org/wiki/File:Elizabeth_Castle_Island_St_Helier_Insel_Jersey_Channel_Islands_United_Kingdom_-_Foto_2017_Wolfgang_Pehlemann_P1170258.jpg
 latitude: 49.188
 loc_type: city
 longitude: -2.104
 score: 0.44
-title: St Helier
-type: location
-image: sthelier.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Elizabeth_Castle_Island_St_Helier_Insel_Jersey_Channel_Islands_United_Kingdom_-_Foto_2017_Wolfgang_Pehlemann_P1170258.jpg
-image_license: CC BY-SA 3.0 de
-image_attribution: Wolfgang Pehlemann
+snippet: Jersey's capital and main harbour town, facing Elizabeth Castle on a tidal
+  island.
 sources:
 - https://en.wikipedia.org/wiki/St_Helier
 - https://en.wikipedia.org/wiki/Elizabeth_Castle
+title: St Helier
+type: location
 ---
 
 St Helier is the capital of [Jersey](/europe/channelislands/jersey) and home to about a third of the island's population. It sits on the south coast around a natural harbour, with [Elizabeth Castle](/europe/channelislands/jersey/sthelier/elizabeth_castle) standing on a tidal island at the entrance — accessible on foot at low tide or by amphibious ferry when the water comes in.

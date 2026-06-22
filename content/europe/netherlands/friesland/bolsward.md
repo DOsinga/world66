@@ -6,6 +6,8 @@ latitude: 53.062018
 loc_type: city
 longitude: 5.522896
 score: 0.38
+snippet: Historic Frisian market town on the Elfstedentocht route, with canals, monuments,
+  and a Renaissance city hall.
 title: Bolsward
 type: location
 ---

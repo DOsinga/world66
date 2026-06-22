@@ -9,6 +9,8 @@ latitude: 42.1148
 loc_type: city
 longitude: 15.487124
 score: 0.54
+snippet: Tiny Adriatic archipelago off Puglia, with limestone cliffs, pine woods,
+  and coves reached by ferry
 title: Tremiti Islands
 type: location
 ---

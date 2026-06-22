@@ -10,6 +10,8 @@ latitude: 35.3859
 loc_type: city
 longitude: -94.3985
 score: 0.32
+snippet: Arkansas-Oklahoma border city with frontier court history at the meeting
+  of the Arkansas and Poteau rivers
 title: Fort Smith
 type: location
 ---

@@ -10,6 +10,7 @@ loc_type: city
 longitude: -9.525355
 score: 0.52
 title: Inis Oirr
+snippet: Smallest Aran Island at Galway Bay's mouth, with Irish-speaking culture and limestone-walled fields.
 type: location
 ---
 

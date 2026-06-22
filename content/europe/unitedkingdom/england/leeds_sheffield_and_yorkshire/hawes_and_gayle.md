@@ -10,6 +10,7 @@ latitude: 54.303275
 loc_type: city
 longitude: -2.197243
 score: 0.41
+snippet: Yorkshire Dales market town in upper Wensleydale, known for cheese, rope-making, and fellside atmosphere.
 title: Hawes and Gayle
 type: location
 ---

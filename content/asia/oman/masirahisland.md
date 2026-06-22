@@ -1,4 +1,5 @@
 ---
+snippet: "Windswept Omani island known for empty Arabian Sea beaches and seasonal sea-turtle nesting."
 title: Masirah Island
 type: location
 latitude: 20.429221

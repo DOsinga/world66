@@ -9,6 +9,8 @@ latitude: -20.689369
 loc_type: city
 longitude: 164.944037
 score: 0.44
+snippet: Kanak town on Grande Terre's northeast coast, framed by dark limestone formations
+  in turquoise water.
 title: Hienghène
 type: location
 ---

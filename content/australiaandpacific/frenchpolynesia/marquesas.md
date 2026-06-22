@@ -10,6 +10,8 @@ latitude: -9.779326
 loc_type: city
 longitude: -139.006784
 score: 0.61
+snippet: Remote Polynesian island group of jagged volcanic peaks, lush valleys, stone
+  platforms, and giant tiki.
 title: Marquesas
 type: location
 ---

@@ -13,6 +13,7 @@ longitude: 8.933862
 score: 0.55
 title: Genoa
 type: location
+snippet: Working Ligurian port with Europe's largest medieval centre and palaces from its sea-republic era.
 sources:
 - https://en.wikipedia.org/wiki/Genoa
 - https://whc.unesco.org/en/list/1211

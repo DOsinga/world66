@@ -10,6 +10,8 @@ latitude: 43.552937
 loc_type: city
 longitude: 10.912773
 score: 0.46
+snippet: Medieval Valdelsa hill town near San Vivaldo's Renaissance chapels in a wooded
+  Tuscan hillside.
 title: Montaione
 type: location
 ---

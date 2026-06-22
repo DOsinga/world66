@@ -11,6 +11,8 @@ latitude: 34.230155
 loc_type: city
 longitude: -4.010104
 score: 0.33
+snippet: Moroccan market town guarding the Taza Gap between the Rif and Middle Atlas
+  mountains.
 title: Taza
 type: location
 ---

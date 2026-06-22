@@ -6,6 +6,8 @@ latitude: 54.099992
 loc_type: city
 longitude: -6.251283
 score: 0.34
+snippet: Compact seaside town on Carlingford Lough, with Mourne Mountain views from
+  the waterfront
 title: Warrenpoint
 type: location
 ---

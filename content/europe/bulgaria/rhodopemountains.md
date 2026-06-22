@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:.green_fields_in_Rhodope_m
 latitude: 41.6
 loc_type: region
 longitude: 24.8
+snippet: Southern Bulgarian mountain range of forested ridges, river gorges, Pomak
+  villages, and ski towns.
 title: Rhodope Mountains
 type: location
 ---

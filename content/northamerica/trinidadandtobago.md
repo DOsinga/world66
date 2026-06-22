@@ -1,10 +1,12 @@
 ---
+latitude: 10.6918
+loc_type: country
+longitude: -61.2225
 score: 0.53
+snippet: Twin-island Caribbean republic where Trinidad's Carnival culture contrasts
+  with Tobago's slower beaches and reefs.
 title: Trinidad and Tobago
 type: location
-loc_type: country
-latitude: 10.6918
-longitude: -61.2225
 ---
 
 Trinidad and Tobago is a twin-island republic at the southern end of the Caribbean, so close to Venezuela that on a clear day you can see the South American coast from the hills above [Port of Spain](/northamerica/trinidadandtobago/port_of_spain). The two islands are geologically, culturally, and temperamentally quite different from each other, and together they are unlike anywhere else in the Caribbean.

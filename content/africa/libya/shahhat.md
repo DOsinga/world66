@@ -4,13 +4,15 @@ done:
 latitude: 32.8043
 loc_type: city
 longitude: 21.8661
+score: 0.28
+snippet: Jebel Akhdar town beside ancient Cyrene, with Greek and Roman ruins above
+  Cyrenaica's green hills
 sources:
 - https://en.wikipedia.org/wiki/Shahhat
 - https://en.wikipedia.org/wiki/Cyrene,_Libya
 - https://whc.unesco.org/en/list/190
 title: Shahhat
 type: location
-score: 0.28
 ---
 
 Shahhat is a modern town in the Jebel Akhdar, but the reason to come is ancient [Cyrene](/africa/libya/shahhat/cyrene_archaeological_site), one of the great Greek and Roman sites of North Africa. The ruins sit just north of town on a ridge above the green folds of Cyrenaica, with the Mediterranean somewhere beyond the hills.

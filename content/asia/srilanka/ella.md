@@ -12,6 +12,8 @@ latitude: 6.8736
 loc_type: city
 longitude: 81.049
 score: 0.58
+snippet: Small Sri Lankan hill town set around a mountain gap with views toward the
+  southern plains.
 title: Ella
 type: location
 ---

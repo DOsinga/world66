@@ -9,6 +9,8 @@ latitude: 43.319
 loc_type: city
 longitude: -3.0199
 score: 0.43
+snippet: Basque estuary town downstream from Bilbao, anchored by the UNESCO-listed
+  Vizcaya transporter bridge.
 title: Portugalete
 type: location
 ---

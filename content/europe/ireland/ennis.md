@@ -9,6 +9,7 @@ latitude: 52.843515
 loc_type: city
 longitude: -8.983747
 score: 0.46
+snippet: County Clare market town of trad-music pubs, medieval friary ruins, and west-coast day trips.
 title: Ennis
 type: location
 ---

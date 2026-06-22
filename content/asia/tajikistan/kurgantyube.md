@@ -10,6 +10,8 @@ latitude: 37.835722
 loc_type: city
 longitude: 68.782096
 score: 0.19
+snippet: Southern Tajik city now called Bokhtar, serving Khatlon's Vakhsh plain, Ajina-Tepe,
+  and Tigrovaya Balka trips.
 title: Kurgan-Tyube
 type: location
 ---

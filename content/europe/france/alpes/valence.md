@@ -6,6 +6,8 @@ latitude: 44.933228
 loc_type: city
 longitude: 4.892081
 score: 0.43
+snippet: Rhône Valley stopover city with Romanesque churches, Renaissance facades,
+  and a compact old town.
 title: Valence
 type: location
 ---

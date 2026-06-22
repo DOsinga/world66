@@ -6,6 +6,8 @@ latitude: 38.538
 loc_type: city
 longitude: -75.0589
 score: 0.38
+snippet: Quiet Delaware beach town with a short boardwalk, summer bandstand concerts,
+  and family-focused sands.
 title: Bethany Beach
 type: location
 ---

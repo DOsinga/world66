@@ -9,6 +9,8 @@ latitude: 42.8182
 loc_type: city
 longitude: -1.644
 score: 0.54
+snippet: Navarrese capital of medieval walls and Camino pilgrims, famous for San Fermín's
+  running bulls.
 title: Pamplona
 type: location
 ---

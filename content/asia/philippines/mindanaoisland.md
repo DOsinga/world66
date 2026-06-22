@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 7.689779
+loc_type: region
 longitude: 125.236531
 score: 0.45
+snippet: Southern Philippine island region of mountains, surf, diving, Lumad communities,
+  and Bangsamoro culture.
 title: Mindanao
 type: location
-loc_type: region
 ---
 
 Mindanao is the second-largest island in the Philippines, the country's southern frontier, and the part of the archipelago that looks least like the rest of it. Its interior is mountainous and heavily forested. Its coast holds some of the best surf and diving in Southeast Asia. And its people — a mix of Christian settlers from the Visayas and Luzon, indigenous Lumad groups, and the Muslim Bangsamoro — give it a cultural texture you won't find farther north.

@@ -10,6 +10,8 @@ latitude: 43.076549
 loc_type: city
 longitude: 11.678908
 score: 0.59
+snippet: Tiny Tuscan Renaissance town redesigned by Pope Pius II as an ideal city
+  in the Val d'Orcia.
 title: Pienza
 type: location
 ---

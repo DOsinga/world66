@@ -10,6 +10,8 @@ latitude: -16.234795
 loc_type: city
 longitude: 168.065564
 score: 0.44
+snippet: Volcanic Vanuatu island dominated by a vast caldera, live craters, and traditional
+  sand drawing.
 title: Ambrym
 type: location
 ---

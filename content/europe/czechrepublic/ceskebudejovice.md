@@ -8,6 +8,8 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:View_from_Black_Tower_in_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice,_20250504_1544_8930.jpg
 latitude: 48.974736
 loc_type: city
+snippet: South Bohemian city of Budvar beer, arcaded squares, and a well-preserved
+  old town
 longitude: 14.474285
 score: 0.47
 title: České Budějovice

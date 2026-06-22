@@ -10,6 +10,8 @@ latitude: 47.534878
 loc_type: city
 longitude: -122.043297
 score: 0.35
+snippet: Cascade foothills town east of Seattle, with trailheads and salmon runs almost
+  in the centre.
 title: Issaquah
 type: location
 ---

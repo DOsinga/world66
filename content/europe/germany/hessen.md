@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 50.608065
+loc_type: region
 longitude: 9.028465
 score: 0.46
+snippet: Central German state where Frankfurt's financial skyline sits near spa towns,
+  vineyards, and apple-wine taverns.
 title: Hessen
 type: location
-loc_type: region
 ---
 
 Hessen sits in the heart of Germany and manages to be both the country's financial engine and one of its most rewarding regions for travellers. [Frankfurt](/europe/germany/hessen/frankfurt) am Main -- known locally as Mainhattan for its improbable skyline -- is home to the European Central Bank and one of Europe's busiest airports, but also to a superb row of museums along the Main river and some of the liveliest apple wine taverns in the country.

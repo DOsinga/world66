@@ -1,12 +1,14 @@
 ---
-title: The Finger Lakes
-type: location
-latitude: 42.151524
-longitude: -77.063574
 done:
   location_cleanup: 2026-04-06
-score: 0.61
+latitude: 42.151524
 loc_type: region
+longitude: -77.063574
+score: 0.61
+snippet: Upstate New York lake region of glacier-carved valleys, Riesling vineyards,
+  gorges, and small college towns.
+title: The Finger Lakes
+type: location
 ---
 
 The Finger Lakes region of upstate New York is named for the eleven long, narrow lakes that glaciers carved into the landscape thousands of years ago. Stretched out across rolling hills south of Syracuse and Rochester, the lakes create a patchwork of vineyards, gorges, and small towns that feels a world apart from New York City.

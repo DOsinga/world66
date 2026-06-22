@@ -12,6 +12,7 @@ title: Cuba
 type: location
 score: 0.6
 loc_type: region
+snippet: Caribbean island nation of Spanish colonial cities, music, vintage cars, and socialist-era contrasts.
 ---
 
 Cuba is unlike anywhere else in the Caribbean, or anywhere else in the world. A socialist island nation frozen in some respects at around 1960 — vintage American cars, crumbling Spanish colonial architecture, ration books — yet thrumming with music, color, and a social energy that constantly defies the deprivations of the system. It is a place where everything is an improvisation and somehow it all works.

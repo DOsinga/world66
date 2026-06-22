@@ -10,6 +10,8 @@ latitude: -20.737007
 loc_type: city
 longitude: 116.847859
 score: 0.3
+snippet: Pilbara resource city near Murujuga, where industrial coastlines meet ancient
+  Aboriginal rock art.
 title: Karratha
 type: location
 ---

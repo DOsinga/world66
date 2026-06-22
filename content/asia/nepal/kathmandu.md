@@ -12,6 +12,8 @@ latitude: 27.708317
 loc_type: city
 longitude: 85.320582
 score: 0.64
+snippet: High valley capital of Nepal, dense with living temple neighbourhoods beneath
+  the Himalayan rim.
 title: Kathmandu
 type: location
 ---

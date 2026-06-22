@@ -10,6 +10,8 @@ latitude: 41.55179
 loc_type: city
 longitude: 60.631281
 score: 0.38
+snippet: Khorezm transit city and gateway for trips to Khiva, canals, and the Aral
+  Sea route.
 title: Urgench
 type: location
 ---

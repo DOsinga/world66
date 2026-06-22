@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-05-23'
 latitude: 22.336
 loc_type: city
+snippet: Northern Vietnamese hill station and trekking base among Hoang Lien Son peaks
+  and hill-tribe villages
 longitude: 103.844
 score: 0.6
 title: Sapa

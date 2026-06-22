@@ -9,9 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Frederiksberg_All%C3%A9_-_
 latitude: 55.678
 loc_type: city
 longitude: 12.5326
+score: 0.42
+snippet: Independent municipality within Copenhagen, known for broad avenues, Frederiksberg
+  Gardens, and Cisternerne underground art space.
 title: Frederiksberg
 type: location
-score: 0.42
 ---
 
 Frederiksberg is a municipality entirely surrounded by Copenhagen, though it is technically an independent municipality and not part of the city. From a visitor's perspective the distinction is invisible: Frederiksberg is a wealthy, gracious inner suburb that feels like a seamless part of central Copenhagen, with wide tree-lined avenues, elegant apartment buildings, and an excellent collection of parks and cultural institutions.

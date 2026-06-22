@@ -11,6 +11,7 @@ latitude: 52.205531
 loc_type: city
 longitude: 0.118664
 score: 0.6
+snippet: English university city on the River Cam, where medieval colleges meet the science parks of Silicon Fen.
 title: Cambridge
 type: location
 ---

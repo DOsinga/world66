@@ -10,6 +10,8 @@ latitude: -2.5388
 loc_type: city
 longitude: 140.7037
 score: 0.33
+snippet: Papuan bay city and transport gateway, layered with Dutch, Indonesian, and
+  local histories
 title: Jayapura
 type: location
 ---

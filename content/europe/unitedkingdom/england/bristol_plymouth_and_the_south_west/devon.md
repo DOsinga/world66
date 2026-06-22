@@ -8,6 +8,8 @@ latitude: 50.72414
 loc_type: region
 longitude: -3.660779
 score: 0.63
+snippet: Southwest English county of moorland tors, wooded valleys, resort coasts,
+  and Exeter's cathedral city.
 title: Devon
 type: location
 ---

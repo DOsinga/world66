@@ -10,6 +10,7 @@ loc_type: feature
 longitude: 116.1875
 sources:
 - https://en.wikipedia.org/wiki/Tianzhu_Mountain
+snippet: Anhui mountain reserve around the Heavenly Pillar peak, with granite formations away from Huang Shan crowds.
 title: Tianzhu Mountain
 type: location
 score: 0.46

@@ -1,12 +1,14 @@
 ---
-title: Paradise Gulf
-type: location
-latitude: 44.35
-longitude: 9.15
 done:
   location_cleanup: 2026-04-06
-score: 0.58
+latitude: 44.35
 loc_type: region
+longitude: 9.15
+score: 0.58
+snippet: Liguria coastal gulf between Genoa and Portofino, lined with fishing towns
+  below steep green hills
+title: Paradise Gulf
+type: location
 ---
 
 The Golfo Paradiso -- Paradise Gulf -- is the stretch of Ligurian coast between Genoa and Portofino, a string of small fishing towns backed by steep green hills dropping straight into the sea. The name is not an exaggeration: the light here is extraordinary, the water is clean, and the little harbours still feel like working places rather than stage sets.

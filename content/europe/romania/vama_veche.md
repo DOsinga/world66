@@ -10,6 +10,8 @@ latitude: 43.7525
 loc_type: city
 longitude: 28.5722
 score: 0.39
+snippet: Black Sea beach village with Romania's bohemian, music-heavy alternative
+  seaside culture.
 title: Vama Veche
 type: location
 ---

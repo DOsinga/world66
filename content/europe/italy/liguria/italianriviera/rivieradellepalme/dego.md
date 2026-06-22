@@ -4,6 +4,7 @@ done:
 latitude: 44.443038
 longitude: 8.305947
 title: Dego
+snippet: Agricultural Ligurian Apennine village on the Bormida plain, surrounded by vineyards, hazelnuts, and chestnuts
 type: location
 score: 0.32
 loc_type: city

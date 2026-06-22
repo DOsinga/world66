@@ -11,6 +11,7 @@ loc_type: city
 longitude: 88.60092
 score: 0.29
 title: Rajshahi
+snippet: Northwestern Bangladeshi river city known for silk weaving, mangoes, and Pala-Sena sculpture.
 type: location
 ---
 

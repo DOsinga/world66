@@ -9,6 +9,8 @@ latitude: 57.363018
 loc_type: region
 longitude: -6.302346
 score: 0.74
+snippet: Inner Hebridean island of Cuillin mountains, clan castles, peaty whisky,
+  and dramatic Trotternish rock formations
 title: Skye
 type: location
 ---

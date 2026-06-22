@@ -13,6 +13,7 @@ longitude: 98.98588
 score: 0.71
 title: Chiang mai
 type: location
+snippet: Northern Thailand's cultural capital, founded as the Lanna Kingdom's capital and ringed by temple-filled old walls.
 ---
 
 **Chiang Mai** is the cultural capital of northern Thailand and one of the most rewarding cities in Southeast Asia to spend time in. Founded in 1296 by King Mangrai as the capital of the Lanna Kingdom, it has a distinct identity that sets it apart from Bangkok — a slower pace, cooler climate, a richer concentration of temples, and a cuisine entirely its own.

@@ -1,21 +1,23 @@
 ---
-title: Honduras
-type: location
-latitude: 15.2
-longitude: -86.2
-image: honduras.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG
-image_license: CC BY-SA 4.0
-image_attribution: 'User: (WT-shared) Velorian at  wts wikivoyage'
 done:
   country_cleanup: 2026-03-29
-quick_facts:
-  Population: "10.4 million"
-  Budget Meal: "~$3–4"
-  Mesoamerican Barrier Reef: "World's second-largest, off the Bay Islands"
-  Copán Stelae: Carved Maya portraits unlike any other site
-score: 0.52
+image: honduras.jpg
+image_attribution: 'User: (WT-shared) Velorian at  wts wikivoyage'
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Central_America_Tegucigalpa_urban_surroundings.JPG
+latitude: 15.2
 loc_type: country
+longitude: -86.2
+quick_facts:
+  Budget Meal: ~$3–4
+  Copán Stelae: Carved Maya portraits unlike any other site
+  Mesoamerican Barrier Reef: World's second-largest, off the Bay Islands
+  Population: 10.4 million
+score: 0.52
+snippet: Central American country of Maya ruins, Caribbean reefs, cloud forests, and
+  the remote wetlands of La Mosquitia
+title: Honduras
+type: location
 ---
 
 Honduras is the second-largest country in Central America and one of its least-visited — which is both a shame and a recommendation. The country has extraordinary variety: Caribbean beaches and coral reefs in the north, cloud-forested mountains in the west, the vast wetlands of La Mosquitia in the east, and Mayan ruins that rival anything in the region. Travelers who make it here are generally glad they did.

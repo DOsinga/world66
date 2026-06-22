@@ -4,13 +4,15 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-29'
 image: monroe.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Impressive_architectural_details_grace_the_Old_US_Post_Office_in_Monroe.JPG
-image_license: CC BY-SA 3.0
 image_attribution: Mpbusyb
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Impressive_architectural_details_grace_the_Old_US_Post_Office_in_Monroe.JPG
 latitude: 32.51
 loc_type: city
 longitude: -92.12
 score: 0.26
+snippet: Northeast Louisiana city on the Ouachita River, linked to early Delta Air
+  Lines and Coca-Cola bottling history.
 title: Monroe
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 44.958411
 loc_type: city
 longitude: 14.409484
 score: 0.45
+snippet: Forested Croatian highland between Kvarner and Karlovac, known for karst
+  caves, cool summers, and Risnjak.
 title: Gorski Kotar
 type: location
 ---

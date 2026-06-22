@@ -10,6 +10,8 @@ latitude: 44.073607
 loc_type: city
 longitude: 9.909914
 score: 0.55
+snippet: Liguria harbour town on the Bay of Poets, clustered below a medieval castle
+  above the Gulf of La Spezia
 title: Lerici
 type: location
 ---

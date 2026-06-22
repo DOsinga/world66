@@ -9,6 +9,8 @@ latitude: 43.516414
 loc_type: city
 longitude: 16.249716
 score: 0.62
+snippet: UNESCO-listed Adriatic town with a preserved Romanesque-Gothic core on a
+  small island near Split.
 title: Trogir
 type: location
 ---

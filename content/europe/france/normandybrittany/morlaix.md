@@ -12,6 +12,8 @@ longitude: -3.833197
 score: 0.45
 title: Morlaix
 type: location
+snippet: Breton valley town dominated by a towering railway viaduct above half-timbered
+  lanes.
 ---
 
 Morlaix is a handsome Breton town built around the steep valley of the Dossen river, dominated by a colossal 19th-century railway [viaduct](/europe/france/normandybrittany/morlaix/viaduc_de_morlaix) that spans the town centre two storeys above the rooftops. The viaduct is the first thing you see and the thing you remember — it gives Morlaix an almost surreal sense of scale.

@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Svaneti,_Georgia._2018_117
 latitude: 43.0
 loc_type: region
 longitude: 42.75
+snippet: High Caucasus region of northwest Georgia, known for Svan villages and medieval
+  defensive towers.
 sources:
 - https://en.wikipedia.org/wiki/Svaneti
 title: Svaneti

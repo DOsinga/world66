@@ -10,6 +10,8 @@ latitude: 30.033892
 loc_type: city
 longitude: -115.142511
 score: 0.48
+snippet: Long arid peninsula between the Pacific and Gulf of California, stretching
+  south from the US border.
 title: Baja California
 type: location
 ---

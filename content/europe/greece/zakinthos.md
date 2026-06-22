@@ -9,6 +9,8 @@ latitude: 37.7855
 loc_type: region
 longitude: 20.8992
 score: 0.72
+snippet: Ionian island of cliffs, green valleys, and beaches, known in Italian as
+  Zante
 title: Zakinthos
 type: location
 ---

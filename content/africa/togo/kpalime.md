@@ -10,6 +10,8 @@ latitude: 6.9107
 loc_type: city
 longitude: 0.6324
 score: 0.32
+snippet: Western Togolese hill town surrounded by coffee country, waterfalls, forest
+  walks, and artisan workshops
 title: Kpalimé
 type: location
 ---

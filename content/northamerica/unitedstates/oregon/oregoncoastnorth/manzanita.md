@@ -9,6 +9,8 @@ latitude: 45.718616
 loc_type: city
 longitude: -123.935038
 score: 0.41
+snippet: Quiet Oregon beach town backed by Neahkahnie Mountain, with four miles of
+  dark sand and coastal trails nearby.
 title: Manzanita
 type: location
 ---

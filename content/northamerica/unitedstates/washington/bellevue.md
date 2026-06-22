@@ -10,6 +10,7 @@ latitude: 47.614422
 loc_type: city
 longitude: -122.192337
 score: 0.35
+snippet: Lakeside tech city across from Seattle, with manicured downtown towers and a strong Eastside food scene.
 title: Bellevue
 type: location
 ---

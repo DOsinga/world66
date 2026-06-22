@@ -8,6 +8,8 @@ latitude: 35.63422
 loc_type: region
 longitude: -83.402366
 score: 0.64
+snippet: Appalachian national park region of forested ridges, Cherokee gateways, and
+  quieter North Carolina trails.
 title: Smoky Mountains
 type: location
 ---

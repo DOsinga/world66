@@ -10,6 +10,8 @@ latitude: 43.939627
 loc_type: city
 longitude: 8.010234
 score: 0.44
+snippet: Ligurian inland valley of olive groves, medieval villages, and quiet roads
+  behind Imperia.
 title: Impero Valley
 type: location
 ---

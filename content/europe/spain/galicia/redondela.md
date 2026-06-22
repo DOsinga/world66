@@ -10,6 +10,7 @@ latitude: 42.284221
 loc_type: city
 longitude: -8.608599
 score: 0.4
+snippet: "Galician ría town on the Camino Portugués, known for railway viaducts and cuttlefish."
 title: Redondela
 type: location
 ---

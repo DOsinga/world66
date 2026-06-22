@@ -10,6 +10,8 @@ latitude: 49.1039
 loc_type: city
 longitude: -122.657
 score: 0.32
+snippet: Suburban Fraser Valley municipality centred on Fort Langley, the restored
+  birthplace of British Columbia.
 title: Langley
 type: location
 ---

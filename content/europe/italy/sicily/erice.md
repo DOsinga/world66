@@ -9,6 +9,8 @@ latitude: 38.0382
 loc_type: city
 longitude: 12.5872
 score: 0.59
+snippet: Medieval Sicilian hilltop village above Trapani, built on the ancient sanctuary
+  of Venus Erycina.
 title: Erice
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: 36.974363
 loc_type: city
 longitude: -122.029467
 score: 0.48
+snippet: California beach town where redwood mountains meet Monterey Bay, surf culture,
+  and a vintage boardwalk
 title: Santa Cruz
 type: location
 ---

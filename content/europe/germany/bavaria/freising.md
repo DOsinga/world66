@@ -10,6 +10,8 @@ latitude: 48.400827
 loc_type: city
 longitude: 11.743956
 score: 0.39
+snippet: Old Bavarian cathedral city north of Munich, once more important than its
+  famous southern neighbour
 title: Freising
 type: location
 ---

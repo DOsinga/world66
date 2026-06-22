@@ -8,6 +8,8 @@ latitude: 39.515882
 loc_type: region
 longitude: -116.853722
 score: 0.51
+snippet: Great Basin desert state split between Las Vegas spectacle, mining ghost
+  towns, and vast open basins
 title: Nevada
 type: location
 ---

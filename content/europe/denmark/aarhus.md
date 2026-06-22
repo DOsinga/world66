@@ -10,6 +10,8 @@ latitude: 56.1496
 loc_type: city
 longitude: 10.2134
 score: 0.48
+snippet: Jutland university city with old streets, strong museums, and ARoS’s rainbow
+  panorama above town
 title: Aarhus
 type: location
 ---

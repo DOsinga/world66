@@ -12,6 +12,8 @@ latitude: 53.2489
 loc_type: city
 longitude: 10.4083
 score: 0.47
+snippet: Medieval north German salt city, with Gothic brick churches and gabled houses
+  preserved by decline.
 title: Lüneburg
 type: location
 ---

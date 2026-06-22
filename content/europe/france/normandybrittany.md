@@ -1,9 +1,11 @@
 ---
-title: "Normandy and Brittany"
-type: location
+latitude: 48.5
 loc_type: region
-latitude: 48.5000
-longitude: -2.5000
+longitude: -2.5
+snippet: Northwest French region of cider country, granite coasts, ferry ports, and
+  Mont Saint-Michel on the border.
+title: Normandy and Brittany
+type: location
 ---
 
 Normandy and Brittany together make up the northwest bulge of France, two regions with very different personalities sharing a long Atlantic and Channel coastline. They are linked by ferry routes, by the pilgrimage island of [Mont Saint-Michel](/europe/france/normandybrittany/montsaintmichel) on the border between them, and by a shared sense of distance from Paris.

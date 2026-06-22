@@ -10,6 +10,7 @@ loc_type: city
 longitude: 0.046012
 score: 0.48
 title: Calpe
+snippet: Costa Blanca town dominated by the Penyal d'Ifac, a limestone rock rising from the sea.
 type: location
 ---
 

@@ -11,6 +11,8 @@ latitude: 55.625578
 loc_type: city
 longitude: 37.606392
 score: 0.51
+snippet: Russian capital built around the Kremlin and Red Square, with medieval, imperial,
+  and Soviet landmarks.
 title: Moscow
 type: location
 ---

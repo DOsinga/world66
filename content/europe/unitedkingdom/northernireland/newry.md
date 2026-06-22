@@ -10,6 +10,8 @@ latitude: 54.177528
 loc_type: city
 longitude: -6.337506
 score: 0.36
+snippet: Borderland city between the Mournes and Slieve Gullion, built around canal,
+  trade, and crossing routes.
 title: Newry
 type: location
 ---

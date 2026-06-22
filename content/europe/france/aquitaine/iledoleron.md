@@ -10,6 +10,8 @@ latitude: 45.9167
 loc_type: city
 longitude: -1.3167
 score: 0.49
+snippet: Atlantic French island of dunes, oyster beds, surf beaches, and fishing ports
+  linked by bridge to Charente.
 title: Ile d'Oleron
 type: location
 ---

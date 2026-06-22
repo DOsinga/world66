@@ -8,6 +8,8 @@ latitude: 53.07123
 loc_type: region
 longitude: -4.074173
 score: 0.69
+snippet: North Wales mountain region of Yr Wyddfa, slate valleys, lakes, ridge walks,
+  and forest trails.
 title: Snowdonia
 type: location
 ---

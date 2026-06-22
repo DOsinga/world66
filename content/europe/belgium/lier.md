@@ -10,6 +10,8 @@ latitude: 51.1311
 loc_type: city
 longitude: 4.5697
 score: 0.4
+snippet: Quiet Flemish river town with a preserved beguinage and brick lanes near
+  Antwerp.
 title: Lier
 type: location
 ---

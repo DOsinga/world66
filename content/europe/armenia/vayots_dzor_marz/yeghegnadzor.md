@@ -10,6 +10,8 @@ latitude: 39.760101
 loc_type: city
 longitude: 45.330227
 score: 0.37
+snippet: Armenian provincial capital in a sun-baked Vayots Dzor valley, close to Noravank
+  and Areni wine country.
 title: Yeghegnadzor
 type: location
 ---

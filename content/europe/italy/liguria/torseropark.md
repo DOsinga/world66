@@ -4,6 +4,7 @@ done:
 latitude: 44.086969
 longitude: 8.216493
 title: Torsero Park
+snippet: Small Ligurian nature reserve inland from Ceriale, noted for Pliocene marine fossils.
 type: location
 score: 0.39
 loc_type: feature

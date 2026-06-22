@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-28'
+image: bellingham.jpg
+image_attribution: Nick Kelly / Faithlife Corporation
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Bellingham,_Washington.jpg
 latitude: 48.754401
 loc_type: city
 longitude: -122.478836
 score: 0.4
+snippet: Outdoorsy Washington university city on Bellingham Bay, with San Juan Islands
+  and Mount Baker access.
 title: Bellingham
 type: location
-image: bellingham.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Bellingham,_Washington.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Nick Kelly / Faithlife Corporation
 ---
 
 Bellingham is a small, outdoorsy city about 130 km north of Seattle and 30 km south of the Canadian border. It is home to [Western Washington University](/northamerica/unitedstates/washington/bellingham/western_washington_university), which gives it a youthful, progressive feel and an unusually good coffee and craft beer scene for a city of 90,000.

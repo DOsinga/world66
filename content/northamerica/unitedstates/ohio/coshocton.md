@@ -10,6 +10,7 @@ latitude: 40.290568
 loc_type: city
 longitude: -81.927144
 score: 0.25
+snippet: Eastern Ohio town known for Roscoe Village and its restored canal-era buildings.
 title: Coshocton
 type: location
 ---

@@ -9,6 +9,7 @@ loc_type: city
 longitude: 13.7841
 score: 0.58
 title: Vestvagoy
+snippet: Agricultural Lofoten island of green farmland, lamb, cheese, and Scandinavia's largest Viking longhouse site
 type: location
 ---
 

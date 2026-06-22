@@ -6,6 +6,8 @@ latitude: 44.23755
 loc_type: city
 longitude: 8.353741
 score: 0.32
+snippet: Ligurian hill commune of stone hamlets above the coast between Spotorno and
+  Finale Ligure
 title: Vezzi Portio
 type: location
 ---

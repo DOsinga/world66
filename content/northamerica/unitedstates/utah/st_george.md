@@ -10,6 +10,8 @@ latitude: 37.109877
 loc_type: city
 longitude: -113.583206
 score: 0.47
+snippet: Southwestern Utah desert city ringed by red rock cliffs, mild winters, and
+  nearby canyon parks
 title: St. George
 type: location
 ---

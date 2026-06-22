@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -0.608197
+loc_type: region
 longitude: -77.952034
+score: 0.47
+snippet: Ecuadorian Oriente province descending from Antisana’s páramo through cloud
+  forest to Amazon tributaries
 title: Napo
 type: location
-score: 0.47
-loc_type: region
 ---
 
 Napo Province stretches from the high páramo east of [Quito](/southamerica/ecuador/quito) down through cloud forest into the upper Amazon basin. It is one of the easiest routes into Ecuador's Oriente — the road from Quito drops through Papallacta pass and descends to the lowland town of Tena in a few hours.

@@ -5,6 +5,8 @@ latitude: -42.8
 loc_type: region
 longitude: 145.9
 score: 0.59
+snippet: Roadless Tasmanian wilderness of quartzite peaks, rainforest, and wild rivers
+  facing Southern Ocean weather.
 title: South-West
 type: location
 ---

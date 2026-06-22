@@ -10,6 +10,8 @@ latitude: 56.412017
 loc_type: city
 longitude: -5.472373
 score: 0.53
+snippet: Argyll harbour town and ferry gateway to Mull, Lismore, Colonsay, and the
+  Inner Hebrides.
 title: Oban
 type: location
 ---

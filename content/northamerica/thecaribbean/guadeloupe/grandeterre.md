@@ -8,6 +8,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Plage_Sainte_Anne.JPG
 latitude: 16.33
 loc_type: city
+snippet: Flat eastern half of Guadeloupe, known for white-sand beaches, dry limestone
+  landscapes, and Pointe des Châteaux
 longitude: -61.48
 title: Grande-Terre
 type: location

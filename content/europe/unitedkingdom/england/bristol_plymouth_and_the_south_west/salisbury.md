@@ -10,6 +10,7 @@ sources:
 - https://en.wikipedia.org/wiki/Salisbury
 - https://en.wikipedia.org/wiki/Salisbury_Cathedral
 title: Salisbury
+snippet: Wiltshire cathedral city whose medieval skyline is dominated by England's tallest church spire
 type: location
 ---
 

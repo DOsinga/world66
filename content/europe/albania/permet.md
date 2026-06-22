@@ -10,6 +10,8 @@ latitude: 40.2335
 loc_type: city
 longitude: 20.3532
 score: 0.4
+snippet: Southern Albanian mountain town on the Vjosa, tied to nationalism and wartime
+  resistance.
 title: Permet
 type: location
 ---

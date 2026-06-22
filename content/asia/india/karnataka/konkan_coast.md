@@ -1,9 +1,11 @@
 ---
+latitude: 13.5
+loc_type: region
+longitude: 74.7
+snippet: Arabian Sea coastal region where Karnataka's port towns sit below the forested
+  Western Ghats.
 title: Konkan Coast
 type: location
-loc_type: region
-latitude: 13.5
-longitude: 74.7
 ---
 
 The Konkan Coast is the narrow strip of land between the Western Ghats and the Arabian Sea that runs through Karnataka and into Goa and Maharashtra. In Karnataka it encompasses a series of port towns, fishing villages, backwater estuaries, and temple towns backed by the steep forested wall of the Ghats.

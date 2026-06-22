@@ -10,6 +10,7 @@ loc_type: city
 longitude: 15.871738
 score: 0.52
 title: Ptuj
+snippet: Oldest town in Slovenia, clustered below a castle above medieval lanes and wine cellars.
 type: location
 ---
 

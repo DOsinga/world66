@@ -7,6 +7,8 @@ latitude: 39.158168
 loc_type: city
 longitude: -75.524368
 score: 0.31
+snippet: Delaware capital with an 18th-century green, colonial statehouse, and a quieter
+  historic core
 title: Dover
 type: location
 ---

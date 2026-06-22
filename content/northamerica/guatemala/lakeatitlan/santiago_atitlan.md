@@ -10,6 +10,7 @@ loc_type: city
 longitude: -91.2268
 score: 0.54
 title: Santiago Atitlan
+snippet: Tz'utujil Maya town on Lake Atitlán, set between volcanoes and centred on living traditional culture.
 type: location
 ---
 

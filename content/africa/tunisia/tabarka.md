@@ -14,6 +14,8 @@ sources:
 - https://en.wikipedia.org/wiki/Tabarka_Rocks
 title: Tabarka
 type: location
+snippet: Northwestern Tunisian coastal town between the Kroumirie Hills and Mediterranean
+  coral waters.
 ---
 
 Tabarka sits in the far northwest of Tunisia, squeezed between the [Kroumirie Hills](/africa/tunisia/tabarka/kroumirie_hills) and the Mediterranean. The setting is genuinely pretty, and the town has grown into a low-key resort without losing too much of its character.

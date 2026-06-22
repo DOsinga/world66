@@ -1,22 +1,22 @@
 ---
-title: Ireland
-type: location
-latitude: 52.865196
-longitude: -7.97946
-image: ireland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg
-image_license: CC BY-SA 4.0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:B%C3%A4rwinkel,Klaus"
-  title="User:Bärwinkel,Klaus">Bärwinkel,Klaus</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "5.1 million"
-  Currency: Euro (€)
-  Pubs: "Over 7,000 across the country"
-  Bog Cover: "17% of land area"
-score: 0.80
+image: ireland.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:B%C3%A4rwinkel,Klaus" title="User:Bärwinkel,Klaus">Bärwinkel,Klaus</a>
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:2019_Trim_Castle_4.jpg
+latitude: 52.865196
 loc_type: country
+longitude: -7.97946
+quick_facts:
+  Bog Cover: 17% of land area
+  Currency: Euro (€)
+  Population: 5.1 million
+  Pubs: Over 7,000 across the country
+score: 0.8
+snippet: Atlantic island country of green hills, literary cities, coastal roads, and stubbornly alive Celtic memory.
+title: Ireland
+type: location
 ---
 
 The **Republic of Ireland** occupies most of a small island on the northwest edge of Europe. It is a country of green hills, bogland, stone walls, and coast — and also of cities that punch well above their weight in terms of pubs, literature, and life. The Irish are genuinely welcoming to strangers, and traveling here rarely feels like hard work.

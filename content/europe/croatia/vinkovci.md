@@ -10,6 +10,8 @@ latitude: 45.288377
 loc_type: city
 longitude: 18.804525
 score: 0.33
+snippet: Slavonian city in eastern Croatia, layered with Neolithic finds and the Roman
+  town of Cibalae.
 title: Vinkovci
 type: location
 ---

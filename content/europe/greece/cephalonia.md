@@ -10,6 +10,7 @@ latitude: 38.266032
 loc_type: region
 longitude: 20.53739
 score: 0.7
+snippet: "Largest Ionian island, known for limestone mountains, cypress groves, and villages rebuilt after the 1953 earthquake."
 title: Cephalonia
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 51.790976
 loc_type: city
 longitude: 0.952176
 score: 0.38
+snippet: Essex island community of oysters, sailing creeks, marshes, and a tide-flooded
+  causeway.
 sources:
 - https://en.wikipedia.org/wiki/Mersea_Island
 - https://en.wikipedia.org/wiki/West_Mersea

@@ -9,6 +9,8 @@ latitude: 35.271701
 loc_type: city
 longitude: 136.263448
 score: 0.52
+snippet: Castle town on Lake Biwa, known for one of Japan’s few original National
+  Treasure castles.
 title: Hikone
 type: location
 ---

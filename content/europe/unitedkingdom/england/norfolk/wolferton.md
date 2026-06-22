@@ -10,6 +10,8 @@ latitude: 52.8293
 loc_type: city
 longitude: 0.4626
 score: 0.27
+snippet: Tiny Norfolk village on the Sandringham Estate, centred on a former royal
+  railway station in secluded woodland
 title: Wolferton
 type: location
 ---

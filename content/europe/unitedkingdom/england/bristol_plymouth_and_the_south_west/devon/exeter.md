@@ -9,6 +9,8 @@ latitude: 50.725614
 loc_type: city
 longitude: -3.526921
 score: 0.47
+snippet: Ancient Devon city whose Gothic cathedral anchors a lively university town
+  on the Exe
 sources:
 - https://en.wikipedia.org/wiki/Exeter
 - https://en.wikipedia.org/wiki/Isca_Dumnoniorum

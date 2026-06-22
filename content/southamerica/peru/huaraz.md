@@ -9,6 +9,8 @@ latitude: -9.5279
 loc_type: city
 longitude: -77.5278
 score: 0.55
+snippet: High Andean trekking city and gateway to Peru's Cordillera Blanca beneath
+  snow-capped peaks.
 title: Huaraz
 type: location
 ---

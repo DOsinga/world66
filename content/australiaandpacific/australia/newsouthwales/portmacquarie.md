@@ -10,6 +10,7 @@ latitude: -31.42995
 loc_type: city
 longitude: 152.910352
 score: 0.43
+snippet: "New South Wales coastal town at the Hastings River mouth, known for beaches and its Koala Hospital."
 title: Port Macquarie
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 32.12
 loc_type: city
 longitude: 20.0812
 score: 0.16
+snippet: Eastern Libyan port city on the Gulf of Sirte, with a distinct commercial
+  identity from Tripoli.
 title: Benghazi
 type: location
 ---

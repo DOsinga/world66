@@ -10,6 +10,8 @@ latitude: 50.6541
 loc_type: city
 longitude: 12.2004
 score: 0.33
+snippet: Thuringian town in the Vogtland, known for princely palaces along the White
+  Elster valley
 title: Greiz
 type: location
 ---

@@ -1,18 +1,20 @@
 ---
 done:
   link_coverage: '2026-06-07'
+image: lasamericas.jpg
+image_attribution: Kawon Kez Sel
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Playa_de_las_Am%C3%A9ricas_by_night,_Tenerife,_December_2025.jpg
 latitude: 28.0675
 loc_type: city
 longitude: -16.7325
+score: 0.45
+snippet: Tenerife south-coast resort built for beaches, bars, late nights, and easy
+  island excursions
 sources:
 - https://en.wikipedia.org/wiki/Playa_de_las_Am%C3%A9ricas
 title: Playa de las Américas
 type: location
-image: lasamericas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Playa_de_las_Am%C3%A9ricas_by_night,_Tenerife,_December_2025.jpg
-image_license: CC0
-image_attribution: Kawon Kez Sel
-score: 0.45
 ---
 
 Playa de las Américas is Tenerife's loud, purpose-built south-coast resort: sunny, convenient, heavily developed, and not even slightly shy about what it is. If you want whitewashed villages and silence, look elsewhere. If you want beaches, bars, late nights, and easy access to excursions without renting a car, it does the job very efficiently.

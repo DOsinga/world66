@@ -1,5 +1,6 @@
 ---
 title: South Korea
+snippet: Mountainous East Asian country where Buddhist temples, hypermodern cities, and Korean pop culture sit close together.
 type: location
 latitude: 36.638392
 longitude: 127.696119

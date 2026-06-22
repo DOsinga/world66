@@ -13,6 +13,7 @@ longitude: 22.9444
 score: 0.59
 title: Thessaloniki
 type: location
+snippet: "Greece's second city, a layered port of Byzantine, Ottoman, Sephardic, and modern Greek history."
 ---
 
 Thessaloniki is Greece's second city, and many would argue its most interesting. Where Athens trades on classical antiquity, Thessaloniki is a layered Byzantine, Ottoman, Sephardic and modern Greek port that wears all those pasts at once. It has a young, irreverent edge thanks to a huge student population, the best food scene in the country, and a long curving waterfront on the Thermaic Gulf with a view across to Mount Olympus.

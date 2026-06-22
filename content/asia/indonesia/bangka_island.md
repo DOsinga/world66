@@ -10,6 +10,8 @@ latitude: -2.308124
 loc_type: city
 longitude: 106.028152
 score: 0.4
+snippet: Sumatran island known for tin history, quiet beaches, and a relaxed pace
+  beyond Pangkalpinang
 title: Bangka Island
 type: location
 ---

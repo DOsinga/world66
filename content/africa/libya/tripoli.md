@@ -12,6 +12,8 @@ latitude: 32.896672
 loc_type: city
 longitude: 13.177792
 score: 0.22
+snippet: Mediterranean Libyan capital where an old medina and Roman arch survive beside
+  oil-era concrete sprawl.
 title: Tripoli
 type: location
 ---

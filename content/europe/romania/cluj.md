@@ -10,6 +10,8 @@ latitude: 46.7712
 loc_type: city
 longitude: 23.6236
 score: 0.49
+snippet: Lively Transylvanian university city with Austro-Hungarian squares, Gothic
+  churches, and a busy cafe culture.
 title: Cluj-Napoca
 type: location
 ---

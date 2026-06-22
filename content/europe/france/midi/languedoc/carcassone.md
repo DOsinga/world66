@@ -10,6 +10,8 @@ latitude: 43.213
 loc_type: city
 longitude: 2.3491
 score: 0.65
+snippet: Fortified Languedoc city with 52 towers and concentric medieval ramparts
+  above the Aude River.
 title: Carcassonne
 type: location
 ---

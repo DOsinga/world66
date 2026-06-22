@@ -10,6 +10,8 @@ latitude: 39.915137
 loc_type: city
 longitude: -7.461465
 score: 0.26
+snippet: Small Beira Baixa town north of Castelo Branco, set among streams and quiet
+  interior farmland.
 title: Alcains
 type: location
 ---

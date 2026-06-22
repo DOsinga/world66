@@ -10,6 +10,8 @@ latitude: -5.0742
 loc_type: city
 longitude: 39.0992
 score: 0.36
+snippet: Quiet Tanzanian port city with faded German colonial architecture and a slow
+  northern-coast rhythm.
 title: Tanga
 type: location
 ---

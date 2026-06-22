@@ -10,6 +10,8 @@ latitude: 23.131
 loc_type: city
 longitude: 53.7611
 score: 0.38
+snippet: Abu Dhabi oasis chain on the Rub al Khali edge, homeland of ruling families
+  and giant dunes.
 title: Liwa
 type: location
 ---

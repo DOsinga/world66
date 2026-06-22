@@ -10,6 +10,8 @@ latitude: 50.7835
 loc_type: city
 longitude: -0.6731
 score: 0.33
+snippet: Unpretentious West Sussex seaside town with a royal suffix and a long sand-and-shingle
+  beach.
 title: Bognor Regis
 type: location
 ---

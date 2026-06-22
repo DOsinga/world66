@@ -10,6 +10,8 @@ latitude: 42.803608
 loc_type: city
 longitude: 10.196768
 score: 0.5
+snippet: Quiet Elba harbour resort below Monte Capanne, mixing fishing boats, yachts,
+  beaches, and ferry links to Capraia.
 title: Marciana Marina
 type: location
 ---

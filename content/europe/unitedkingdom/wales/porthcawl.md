@@ -10,6 +10,8 @@ latitude: 51.479556
 loc_type: city
 longitude: -3.70407
 score: 0.39
+snippet: South Wales seaside resort on the Heritage Coast, with beaches at Sandy Bay
+  and Trecco Bay.
 title: Porthcawl
 type: location
 ---

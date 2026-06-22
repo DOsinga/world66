@@ -10,6 +10,8 @@ latitude: -37.328289
 loc_type: city
 longitude: -59.135696
 score: 0.43
+snippet: Buenos Aires province city where granite hills break the flat pampa and shape
+  a food-loving interior town
 title: Tandil
 type: location
 ---

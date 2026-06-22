@@ -10,6 +10,8 @@ latitude: 46.8701
 loc_type: city
 longitude: -113.9953
 score: 0.4
+snippet: Mountain-valley university city where Montana's literary culture meets rivers,
+  breweries, and northern Rockies trails
 title: Missoula
 type: location
 ---

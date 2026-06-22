@@ -11,6 +11,7 @@ loc_type: city
 longitude: -0.431568
 score: 0.42
 title: Beverley
+snippet: "East Yorkshire market town anchored by Beverley Minster and a medieval street plan of unusual grace."
 type: location
 ---
 

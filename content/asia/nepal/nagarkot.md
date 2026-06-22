@@ -6,6 +6,8 @@ latitude: 27.718508
 loc_type: city
 longitude: 85.51973
 score: 0.53
+snippet: Kathmandu Valley hilltop village known for sunrise views across Himalayan
+  ranges from Manaslu to Everest.
 sources:
 - https://en.wikipedia.org/wiki/Nagarkot
 - https://nepaldesk.com/places-visit/nagarkot

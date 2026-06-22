@@ -10,6 +10,8 @@ latitude: 38.68313
 loc_type: city
 longitude: -9.15763
 score: 0.4
+snippet: Tagus-side city opposite Lisbon, marked by the Cristo Rei statue and ferry
+  links across the river.
 sources:
 - https://en.wikipedia.org/wiki/Almada
 - https://en.wikipedia.org/wiki/Cacilhas

@@ -10,6 +10,8 @@ latitude: 35.373871
 loc_type: city
 longitude: -119.019463
 score: 0.25
+snippet: Central Valley city shaped by oil fields, Basque sheepherders, and the Bakersfield
+  country sound.
 title: Bakersfield
 type: location
 ---

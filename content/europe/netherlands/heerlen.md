@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Molenberg
 title: Heerlen
 type: location
+snippet: South Limburg city with coal-mining history, Roman bathhouse remains, and glassy modernist architecture.
 ---
 
 Heerlen is a city in the far south of the Netherlands, in the hilly province of Limburg, just a few kilometres from the German and Belgian borders. It was once a prosperous coal mining town, and the closure of the mines in the 1960s and 70s hit it hard. The city has been reinventing itself since, and while it still has a rough edge, there is more here than first meets the eye.

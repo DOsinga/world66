@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Olympic_Peninsula
 - https://en.wikipedia.org/wiki/Olympic_National_Park
 title: Olympic Peninsula
+snippet: "Rain-battered Washington peninsula of ferry towns, glacial lakes, tribal lands, and wild Pacific coastline."
 type: location
 ---
 

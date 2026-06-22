@@ -9,6 +9,8 @@ latitude: 46.9896
 loc_type: city
 longitude: 6.9293
 score: 0.51
+snippet: Swiss lakeside city of golden sandstone streets, Jura slopes, and a medieval
+  château above Lake Neuchâtel.
 title: Neuchatel
 type: location
 ---

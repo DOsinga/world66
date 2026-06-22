@@ -9,6 +9,8 @@ latitude: 54.969843
 loc_type: feature
 longitude: 12.424946
 score: 0.49
+snippet: Danish island south of Zealand, known for pastoral villages, beaches, and
+  the chalk cliffs of Møns Klint.
 title: Møn
 type: location
 ---

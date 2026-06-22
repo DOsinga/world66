@@ -8,6 +8,8 @@ latitude: 51.133841
 loc_type: region
 longitude: -3.603995
 score: 0.61
+snippet: Exmoor National Park region of open moorland, red deer, wooded valleys, and
+  cliff-backed coast.
 title: Exmoor
 type: location
 ---

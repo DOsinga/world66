@@ -10,6 +10,8 @@ latitude: 43.806669
 loc_type: city
 longitude: 11.293074
 score: 0.56
+snippet: Hill town above Florence with Etruscan origins, Roman ruins, and wide Arno
+  valley views.
 title: Fiesole
 type: location
 ---

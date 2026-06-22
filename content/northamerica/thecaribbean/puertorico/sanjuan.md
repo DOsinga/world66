@@ -10,6 +10,8 @@ latitude: 18.46633
 loc_type: city
 longitude: -66.10572
 score: 0.59
+snippet: Puerto Rican capital where walled Old San Juan meets Caribbean beaches and
+  massive Spanish fortifications
 title: San Juan
 type: location
 ---

@@ -7,16 +7,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Beautiful_pier_Caye_Caulker_Belize_(21401259271).jpg
 latitude: 17.1899
+loc_type: country
 longitude: -88.4976
 quick_facts:
-  Population: "~430,000"
-  Currency: Belize dollar (BZD), pegged 2:1 to USD
   Barrier Reef: Second longest in the world
-  Language: "Only English-speaking country in Central America"
+  Currency: Belize dollar (BZD), pegged 2:1 to USD
+  Language: Only English-speaking country in Central America
+  Population: ~430,000
 score: 0.64
+snippet: Small Central American country with Caribbean reefs, offshore cayes, jungle
+  interior, and Maya ruins.
 title: Belize
 type: location
-loc_type: country
 ---
 
 Belize is a small country on the Caribbean coast of Central America, tucked between [Mexico](/northamerica/mexico) to the north and [Guatemala](/northamerica/guatemala) to the west. It punches well above its weight for travelers: the second-longest barrier reef in the world, three offshore atolls, hundreds of cayes, and a jungle interior scattered with Maya ruins. In a single day you can snorkel among sharks and rays in the morning and walk through a rainforest in the afternoon.

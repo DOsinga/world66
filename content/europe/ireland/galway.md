@@ -9,6 +9,8 @@ latitude: 53.274412
 loc_type: city
 longitude: -9.04906
 score: 0.61
+snippet: West-coast Irish city on Galway Bay, alive with traditional music, university
+  energy, and colourful streets.
 title: Galway
 type: location
 ---

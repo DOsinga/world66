@@ -10,6 +10,8 @@ latitude: 14.791461
 loc_type: city
 longitude: -16.925605
 score: 0.29
+snippet: Senegalese transport city east of Dakar, known for its national tapestry
+  atelier and railway history.
 title: Thiès
 type: location
 ---

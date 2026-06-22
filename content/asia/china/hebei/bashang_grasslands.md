@@ -10,6 +10,7 @@ longitude: 116.65
 sources:
 - https://en.wikivoyage.org/wiki/Hebei
 title: Bashang Grasslands
+snippet: "Hebei grassland plateau north of Beijing, where the Yan Mountains flatten toward Inner Mongolia."
 type: location
 score: 0.45
 ---

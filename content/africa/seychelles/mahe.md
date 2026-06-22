@@ -10,6 +10,8 @@ latitude: -4.6838
 loc_type: city
 longitude: 55.4926
 score: 0.67
+snippet: Largest Seychelles island, with granite peaks, tropical forest, Victoria,
+  and more than 75 beaches.
 title: Mahe
 type: location
 ---

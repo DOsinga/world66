@@ -9,6 +9,8 @@ latitude: 20.747626
 loc_type: city
 longitude: -156.45499
 score: 0.6
+snippet: Southwest Maui beach town in Haleakalā's rain shadow, lined with sandy parks
+  and low-rise condos.
 title: Kihei
 type: location
 ---

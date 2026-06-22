@@ -11,6 +11,8 @@ latitude: 14.667205
 loc_type: city
 longitude: -17.398356
 score: 0.5
+snippet: Small island off Dakar, deeply tied to Atlantic trade, colonial rivalry,
+  and slavery memory.
 title: Ile de Gorée
 type: location
 ---

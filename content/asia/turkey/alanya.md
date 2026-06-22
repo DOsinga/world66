@@ -9,6 +9,8 @@ latitude: 36.5487
 loc_type: city
 longitude: 31.9994
 score: 0.55
+snippet: Mediterranean resort town east of Antalya, set around a rocky promontory
+  crowned by a Seljuk fortress.
 title: Alanya
 type: location
 ---

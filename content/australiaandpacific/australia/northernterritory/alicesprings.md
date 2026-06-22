@@ -11,6 +11,8 @@ latitude: -23.698
 loc_type: city
 longitude: 133.8807
 score: 0.47
+snippet: Central Australian town between the MacDonnell Ranges, rooted in Telegraph
+  Line history and Red Centre travel.
 title: Alice Springs
 type: location
 ---

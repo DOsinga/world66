@@ -9,6 +9,8 @@ latitude: 44.2826
 loc_type: city
 longitude: 8.2021
 score: 0.37
+snippet: Small Ligurian Alps village beside Lago di Osiglia, shaped by feudal history
+  and chestnut woods.
 title: Osiglia
 todo_location_cleanup: done
 type: location

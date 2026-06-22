@@ -10,6 +10,8 @@ latitude: 7.737373
 loc_type: city
 longitude: 98.770455
 score: 0.64
+snippet: Andaman Sea island group between Phuket and Krabi, known for limestone cliffs
+  and coral reefs.
 title: Koh Phi Phi
 type: location
 ---

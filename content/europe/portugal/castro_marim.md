@@ -10,6 +10,8 @@ latitude: 37.2179
 loc_type: city
 longitude: -7.4457
 score: 0.44
+snippet: Eastern Algarve border town where twin hilltop forts overlook Guadiana saltmarshes
+  and the Spanish frontier.
 title: Castro Marim
 type: location
 ---

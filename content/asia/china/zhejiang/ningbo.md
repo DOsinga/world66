@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:A_dock_besides_Dongqian_La
 latitude: 29.8667
 loc_type: city
 longitude: 121.55
+score: 0.39
+snippet: Zhejiang port city with treaty-port grit and TianYi Pavilion, China's oldest
+  surviving private library.
 sources:
 - https://en.wikivoyage.org/wiki/Ningbo
 title: Ningbo
 type: location
-score: 0.39
 ---
 
 Ningbo is Zhejiang's second city and one of China's oldest ports, opened to foreign trade as a treaty port in 1842 and already thriving as a maritime hub centuries before that. Where Hangzhou attracts tourists, Ningbo attracts business, and the city has a grittier, more self-sufficient character — less manicured, more purposeful. It sits at the southern edge of the Yangtze Delta, connected to Shanghai and Hangzhou by high-speed rail, and faces the East China Sea across a coastline of estuaries and islands.

@@ -10,6 +10,7 @@ latitude: -6.162653
 loc_type: city
 longitude: 39.189655
 score: 0.63
+snippet: Old Zanzibar port town of coral-stone alleys, carved doors, and layered Swahili trading history.
 title: Stone Town
 type: location
 ---

@@ -7,6 +7,8 @@ latitude: 34.642294
 loc_type: city
 longitude: 50.880118
 score: 0.26
+snippet: Iranian religious city where Shia seminaries gather around the Shrine of
+  Fatimah al-Masumah.
 title: Qom
 type: location
 ---

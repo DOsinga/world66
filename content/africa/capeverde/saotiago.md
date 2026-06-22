@@ -6,6 +6,7 @@ longitude: -23.524434
 title: Santiago
 type: location
 score: 0.48
+snippet: Cape Verde's largest island, with Cidade Velha history, green mountains, and Praia as its capital.
 loc_type: region
 ---
 

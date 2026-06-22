@@ -10,6 +10,8 @@ latitude: 17.605
 loc_type: city
 longitude: 80.7137
 score: 0.19
+snippet: Telangana industrial town on the Godavari, backed by Kinnerasani forest and
+  Eastern Ghats foothills
 title: Paloncha
 type: location
 ---

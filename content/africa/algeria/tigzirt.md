@@ -6,6 +6,8 @@ latitude: 36.892661
 loc_type: city
 longitude: 4.126179
 score: 0.33
+snippet: Kabyle coastal town where Roman Iomnium's ruins stand beside a sheltered
+  stony Mediterranean beach
 title: Tigzirt
 type: location
 ---

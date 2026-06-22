@@ -1,21 +1,23 @@
 ---
-title: United Kingdom
-type: location
-latitude: 54.702354
-longitude: -3.276575
-image: unitedkingdom.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg
-image_license: CC BY 2.0
-image_attribution: Andrew Colin
 done:
   country_cleanup: 2026-03-29
-quick_facts:
-  Population: "68 million"
-  Driving Side: Left
-  Pubs: "~40,000 across the country"
-  Countries Within a Country: "4 (England, Scotland, Wales, N. Ireland)"
-score: 0.91
+image: unitedkingdom.jpg
+image_attribution: Andrew Colin
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Edinburgh.jpg
+latitude: 54.702354
 loc_type: country
+longitude: -3.276575
+quick_facts:
+  Countries Within a Country: 4 (England, Scotland, Wales, N. Ireland)
+  Driving Side: Left
+  Population: 68 million
+  Pubs: ~40,000 across the country
+score: 0.91
+snippet: Island nation of four countries, combining shared institutions with distinct
+  English, Scottish, Welsh, and Northern Irish identities.
+title: United Kingdom
+type: location
 ---
 
 The United Kingdom brings together four countries — [England](/europe/unitedkingdom/england), [Scotland](/europe/unitedkingdom/scotland), [Wales](/europe/unitedkingdom/wales) and [Northern Ireland](/europe/unitedkingdom/northernireland) — each with a distinct identity, language tradition, and sense of place. A Welshman is not English, and a Scot will let you know the difference. That said, the countries share infrastructure, currency, and an enormous amount of history, and crossing between them rarely feels like crossing a border at all.

@@ -10,6 +10,8 @@ latitude: 9.7405
 loc_type: city
 longitude: 98.4036
 score: 0.55
+snippet: Small Andaman island off Ranong, known for long beaches and a cashew-growing
+  interior.
 title: Koh Phayam
 type: location
 ---

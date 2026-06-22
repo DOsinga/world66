@@ -10,6 +10,8 @@ latitude: 4.887401
 loc_type: city
 longitude: -1.751932
 score: 0.31
+snippet: Busy Ghanaian port city and oil hub, paired with older Sekondi on the Gulf
+  of Guinea
 title: Takoradi
 type: location
 ---

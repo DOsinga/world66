@@ -7,6 +7,7 @@ loc_type: city
 longitude: -93.093103
 score: 0.38
 title: St. Paul
+snippet: Minnesota capital and historic half of the Twin Cities, known for Summit Avenue and Cass Gilbert's capitol.
 type: location
 ---
 

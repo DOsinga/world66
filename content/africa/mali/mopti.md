@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
 image: mopti.jpg
+image_attribution: Arensond
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Mopti_053.jpg
-image_attribution: Arensond
 latitude: 14.514489
+loc_type: city
 longitude: -3.646458
+score: 0.35
+snippet: Malian river market town where the Niger and Bani meet, long used as a Dogon
+  Country gateway.
 title: Mopti
 type: location
-score: 0.35
-loc_type: city
 ---
 
 Mopti is about halfway from [Bamako](/africa/mali/bamako) to [Timbuktu](/africa/mali/timbuktu), spread across three islands at the junction of the Niger and Bani rivers. Mostly inhabited by Fulani traders, it is a busy, colourful market town where various ethnic groups come to trade fish, salt, cloth, leather goods, masks, jewellery, amber, and intricately woven [Fulani wedding blankets](/africa/mali/mopti/fulani_blankets).

@@ -9,6 +9,8 @@ latitude: 47.953419
 loc_type: city
 longitude: 8.495926
 score: 0.37
+snippet: Black Forest town claiming the Danube's source beside the spring in Fürstenberg
+  Palace grounds
 title: Donaueschingen
 type: location
 ---

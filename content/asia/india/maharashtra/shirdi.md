@@ -6,6 +6,8 @@ latitude: 19.766812
 loc_type: city
 longitude: 74.475439
 score: 0.37
+snippet: Maharashtra pilgrimage town centered on Sai Baba's shrine and a cross-faith
+  devotional circuit.
 title: Shirdi
 type: location
 ---

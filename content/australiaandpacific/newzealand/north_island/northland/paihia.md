@@ -9,6 +9,8 @@ latitude: -35.281241
 loc_type: city
 longitude: 174.092088
 score: 0.54
+snippet: Bay of Islands base town, where Northland boat trips leave for dolphins,
+  kayaking, and island coves.
 title: Paihia
 type: location
 ---

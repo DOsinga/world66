@@ -10,6 +10,8 @@ latitude: 36.709344
 loc_type: city
 longitude: 24.506834
 score: 0.66
+snippet: Volcanic Cycladic island of white pumice coastlines, sea caves, hot springs,
+  and the Venus de Milo.
 title: Milos
 type: location
 ---

@@ -8,6 +8,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cinema_Avenida_-_Sidi_Ifni.jpg
 latitude: 29.3791
 loc_type: city
+snippet: Moroccan Atlantic town with Spanish colonial Art Deco streets and a breezy Iberian edge.
 longitude: -10.1716
 score: 0.4
 title: Sidi Ifni

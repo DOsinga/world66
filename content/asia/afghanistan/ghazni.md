@@ -10,6 +10,8 @@ latitude: 33.544897
 loc_type: city
 longitude: 68.413211
 score: 0.08
+snippet: Historic Afghan city whose minarets recall the Ghaznavid empire's medieval
+  court and power
 title: Ghazni
 type: location
 ---

@@ -3,15 +3,17 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
 latitude: 43.86191
-longitude: 11.300935
-title: Pratolino
-todo_location_cleanup: done
-type: location
-score: 0.43
 loc_type: city
+longitude: 11.300935
+score: 0.43
+snippet: Small Tuscan village north of Florence, visited for the Medici-born park
+  of Villa Demidoff.
 sources:
 - https://en.wikipedia.org/wiki/Villa_di_Pratolino
 - https://en.wikipedia.org/wiki/Apennine_Colossus
+title: Pratolino
+todo_location_cleanup: done
+type: location
 ---
 
 Pratolino is a small village north of Florence on the Via Bolognese (state highway 65), on the road toward Borgo San Lorenzo. It is worth visiting almost entirely for one thing: the [Parco Demidoff](/europe/italy/tuscany/florenceprovince/florentinearea/pratolino/parco_demidoff), the vast park surrounding the former Medici villa.

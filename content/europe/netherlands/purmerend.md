@@ -10,6 +10,8 @@ latitude: 52.5025
 loc_type: city
 longitude: 4.9615
 score: 0.34
+snippet: North Holland market town near Amsterdam, set among flat polder cycling routes
+  and old trading squares
 title: Purmerend
 type: location
 ---

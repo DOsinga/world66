@@ -10,6 +10,8 @@ latitude: 41.9468
 loc_type: city
 longitude: -7.4491
 score: 0.38
+snippet: Galician wine comarca on the Portuguese border, centred on Verín and the
+  Tamega valley
 title: Monterrei
 type: location
 ---

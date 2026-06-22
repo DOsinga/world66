@@ -10,6 +10,8 @@ latitude: 40.597392
 loc_type: city
 longitude: -6.533518
 score: 0.45
+snippet: Walled Castilian city near Portugal, with medieval streets enclosed by sturdy
+  stone defences
 title: Ciudad Rodrigo
 type: location
 ---

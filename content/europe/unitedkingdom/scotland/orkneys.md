@@ -5,6 +5,8 @@ latitude: 58.9809
 loc_type: region
 longitude: -2.9605
 score: 0.68
+snippet: Scottish island archipelago north of the mainland, noted for dense Neolithic
+  remains on Mainland.
 title: Orkney
 type: location
 ---

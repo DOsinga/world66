@@ -9,6 +9,8 @@ latitude: 11.0181
 loc_type: city
 longitude: -84.4031
 score: 0.41
+snippet: Boat-accessible Río San Juan village named for a 17th-century Spanish fortress
+  above the rapids.
 title: El Castillo
 type: location
 ---

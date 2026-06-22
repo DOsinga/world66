@@ -10,6 +10,8 @@ latitude: 48.7713
 loc_type: city
 longitude: 5.1624
 score: 0.35
+snippet: Meuse town whose upper quarter preserves Renaissance stone architecture in
+  northeastern France.
 title: Bar-le-Duc
 type: location
 ---

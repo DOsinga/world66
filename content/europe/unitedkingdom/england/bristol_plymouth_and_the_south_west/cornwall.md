@@ -8,6 +8,8 @@ latitude: 50.26
 loc_type: region
 longitude: -5.05
 score: 0.65
+snippet: Rugged Cornish peninsula of Celtic heritage, Atlantic cliffs, surf beaches,
+  fishing towns, and moorland.
 title: Cornwall
 type: location
 ---

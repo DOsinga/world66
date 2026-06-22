@@ -9,6 +9,8 @@ latitude: 30.503981
 loc_type: city
 longitude: 35.566664
 score: 0.4
+snippet: King's Highway village below Montreal Castle, a Crusader fortress on a conical
+  hill south of Karak
 title: Shobak
 type: location
 ---

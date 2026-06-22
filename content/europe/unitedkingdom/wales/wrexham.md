@@ -10,6 +10,8 @@ latitude: 53.046508
 loc_type: city
 longitude: -2.993787
 score: 0.34
+snippet: North Wales city with coal-and-steel roots, St Giles' tower, and a global
+  football story.
 title: Wrexham
 type: location
 ---

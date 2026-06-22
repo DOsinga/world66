@@ -4,6 +4,7 @@ done:
 latitude: 41.9283
 longitude: 60.8122
 title: The Qalas
+snippet: Karakalpak desert fortress route of ancient mud-brick qalas scattered across western Uzbekistan's Kyzyl Kum
 type: location
 score: 0.24
 loc_type: feature

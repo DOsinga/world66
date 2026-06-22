@@ -5,6 +5,8 @@ latitude: -42.035067
 loc_type: region
 longitude: 146.636689
 score: 0.66
+snippet: Australian island state of World Heritage wilderness, convict history, and
+  compact journeys between mountains and sea
 title: Tasmania
 type: location
 ---

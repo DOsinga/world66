@@ -9,6 +9,8 @@ latitude: 28.0917
 loc_type: city
 longitude: -17.3326
 score: 0.55
+snippet: La Gomera valley resort of terraced cliffs, black-sand beaches, and long-stay
+  alternative travellers.
 title: Valle Gran Rey
 type: location
 ---

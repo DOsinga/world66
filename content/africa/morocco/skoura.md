@@ -6,6 +6,8 @@ latitude: 31.060412
 loc_type: city
 longitude: -6.55755
 score: 0.48
+snippet: Draa Valley oasis town where palm groves and mud-brick kasbahs surround shaded
+  irrigation paths.
 sources:
 - https://en.wikipedia.org/wiki/Skoura
 - https://en.wikipedia.org/wiki/Kasbah_Amridil

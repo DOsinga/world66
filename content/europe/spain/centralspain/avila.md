@@ -9,6 +9,8 @@ latitude: 40.6565
 loc_type: city
 longitude: -4.7002
 score: 0.54
+snippet: High Castilian city encircled by intact medieval walls with 88 towers and
+  nine gates.
 title: Ávila
 type: location
 ---

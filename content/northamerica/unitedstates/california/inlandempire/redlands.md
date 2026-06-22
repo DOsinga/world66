@@ -12,6 +12,8 @@ latitude: 34.055033
 loc_type: city
 longitude: -117.182744
 score: 0.31
+snippet: Small Inland Empire city known for citrus-era Victorian homes, museums, and
+  the long-running Redlands Bowl concerts.
 title: Redlands
 type: location
 ---

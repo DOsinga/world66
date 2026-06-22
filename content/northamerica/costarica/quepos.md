@@ -9,6 +9,8 @@ latitude: 9.4311
 loc_type: city
 longitude: -84.1616
 score: 0.5
+snippet: Central Pacific fishing town and harbour gateway to Manuel Antonio National
+  Park.
 title: Quepos
 type: location
 ---

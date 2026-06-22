@@ -9,6 +9,8 @@ latitude: 15.585041
 loc_type: city
 longitude: 73.743815
 score: 0.53
+snippet: North Goa beach village shaped by hippie-trail parties, flea markets, and
+  the Chapora coast.
 title: Anjuna
 type: location
 ---

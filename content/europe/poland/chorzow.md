@@ -10,6 +10,8 @@ latitude: 50.288473
 loc_type: city
 longitude: 18.97038
 score: 0.31
+snippet: Industrial Silesian city best known for Silesian Park, one of Europe's largest
+  urban parks.
 title: Chorzow
 type: location
 ---

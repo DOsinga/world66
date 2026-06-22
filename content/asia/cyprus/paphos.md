@@ -11,6 +11,8 @@ latitude: 34.774399
 loc_type: city
 longitude: 32.423159
 score: 0.58
+snippet: Cypriot coastal town where harbour resorts sit beside Roman mosaics and Aphrodite
+  legends.
 title: Paphos
 type: location
 ---

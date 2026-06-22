@@ -10,6 +10,8 @@ latitude: 18.2457
 loc_type: city
 longitude: 96.1005
 score: 0.33
+snippet: Ancient Mon capital near Yangon, known for enormous pagodas, reclining Buddhas,
+  and old royal monasteries.
 title: Bago
 type: location
 ---

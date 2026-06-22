@@ -12,6 +12,8 @@ latitude: 49.599833
 loc_type: city
 longitude: 6.13572
 score: 0.58
+snippet: Luxembourg capital on Alzette and Pétrusse gorges, with fortress cliffs and
+  European institutions
 title: Luxembourg City
 type: location
 ---

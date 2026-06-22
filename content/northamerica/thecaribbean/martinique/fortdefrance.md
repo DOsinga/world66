@@ -11,6 +11,8 @@ latitude: 14.6037
 loc_type: city
 longitude: -61.0586
 score: 0.49
+snippet: French Caribbean capital with Creole markets, balconied streets, and ferries
+  from La Savane waterfront.
 title: Fort-de-France
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: -17.793383
 loc_type: region
 longitude: 177.978225
 score: 0.67
+snippet: Fiji's largest island, linking Nadi, Suva, rainforest highlands, sugarcane
+  country, and the Coral Coast
 title: Viti Levu
 type: location
 ---

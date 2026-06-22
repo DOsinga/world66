@@ -9,6 +9,8 @@ latitude: 49.457841
 loc_type: city
 longitude: -2.534967
 score: 0.52
+snippet: Guernsey harbour capital of granite lanes, Castle Cornet, French views, and
+  Victor Hugo exile history.
 sources:
 - https://en.wikipedia.org/wiki/Saint_Peter_Port
 - https://en.wikipedia.org/wiki/Castle_Cornet

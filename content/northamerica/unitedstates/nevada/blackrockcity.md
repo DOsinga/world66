@@ -1,4 +1,5 @@
 ---
+snippet: Temporary desert city on Nevada's Black Rock playa, built each year around Burning Man.
 title: Black Rock City
 type: location
 latitude: 40.793249

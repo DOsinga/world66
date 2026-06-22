@@ -10,6 +10,8 @@ latitude: 25.6093
 loc_type: city
 longitude: 85.1235
 score: 0.27
+snippet: Bihar capital on the Ganges, heir to ancient Pataliputra and the Maurya and
+  Gupta empires
 title: Patna
 type: location
 ---

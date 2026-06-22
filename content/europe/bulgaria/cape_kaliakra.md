@@ -9,8 +9,8 @@ latitude: 43.3604
 loc_type: city
 longitude: 28.4652
 score: 0.44
-snippet: Dramatic Black Sea headland with 70-metre cliffs, medieval fortress ruins,
-  and one of Bulgaria's best birdwatching sites.
+snippet: Black Sea headland southeast of Kavarna, marked by red-brown cliffs and steppe
+  grassland.
 title: Cape Kaliakra
 type: location
 ---

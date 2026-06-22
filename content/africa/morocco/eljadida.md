@@ -9,6 +9,8 @@ latitude: 33.243331
 loc_type: city
 longitude: -8.49884
 score: 0.44
+snippet: Moroccan Atlantic port city with Portuguese Mazagan walls and a vaulted cistern
+  below the old quarter
 sources:
 - https://en.wikipedia.org/wiki/El_Jadida
 - https://en.wikipedia.org/wiki/Portuguese_Cistern_(Mazagan)

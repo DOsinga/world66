@@ -10,6 +10,7 @@ latitude: 34.638126
 loc_type: city
 longitude: -99.333975
 score: 0.23
+snippet: Southwestern Oklahoma city in cotton and wheat country, anchored by Altus Air Force Base.
 title: Altus
 type: location
 ---

@@ -8,6 +8,7 @@ latitude: -7.9771
 loc_type: city
 longitude: 112.634
 score: 0.44
+snippet: East Javan highland city of cooler air, Dutch boulevards, and routes toward Mount Bromo.
 title: Malang
 type: location
 ---

@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: pingliang.jpg
+image_attribution: Unknown, Republic of China era photograph
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:A_gongbei_sufi_saints_tomb_at_Pingliang_Gansu.jpg
 latitude: 35.5412
 loc_type: city
 longitude: 106.6819
+score: 0.32
+snippet: Eastern Gansu city serving Taoist pilgrims bound for temple-studded Kongtong
+  Mountain and Loess Plateau scenery.
 sources:
 - https://en.wikivoyage.org/wiki/Pingliang
 title: Pingliang
 type: location
-image: pingliang.jpg
-image_source: https://commons.wikimedia.org/wiki/File:A_gongbei_sufi_saints_tomb_at_Pingliang_Gansu.jpg
-image_license: Public domain
-image_attribution: Unknown, Republic of China era photograph
-score: 0.32
 ---
 
 Pingliang sits in the eastern corner of Gansu, at the point where the Loess Plateau meets the mountains, and its main significance for travellers is as the base for [Kongtong Mountain](/asia/china/gansu/pingliang/kongtong_mountain) — Kongtongshan — one of the most sacred sites in Chinese Taoism. According to legend, the Yellow Emperor himself climbed to Kongtong to receive instruction from the immortal Guangchengzi, and the mountain has been a Taoist centre of pilgrimage ever since. The temple complex spread across its slopes and summit dates to the Tang Dynasty in its earliest layers, though most of what stands today is Ming and Qing reconstruction.

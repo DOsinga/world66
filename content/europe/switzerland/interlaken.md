@@ -10,6 +10,8 @@ latitude: 46.6863
 loc_type: city
 longitude: 7.8632
 score: 0.74
+snippet: Swiss resort town between Lake Thun and Lake Brienz, beneath the Eiger, Mönch,
+  and Jungfrau.
 title: Interlaken
 type: location
 ---

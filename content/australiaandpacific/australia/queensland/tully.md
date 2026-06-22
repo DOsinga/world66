@@ -10,6 +10,8 @@ latitude: -17.942923
 loc_type: city
 longitude: 145.928582
 score: 0.31
+snippet: Wet Tropics sugar town known for extreme rainfall and white-water rafting
+  on the Tully River.
 title: Tully
 type: location
 ---

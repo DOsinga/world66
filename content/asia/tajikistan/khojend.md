@@ -10,6 +10,8 @@ latitude: 40.2787
 loc_type: city
 longitude: 69.62
 score: 0.36
+snippet: Northern Tajik city in the Fergana Valley, with Silk Road roots and a vast
+  covered bazaar.
 title: Khujand
 type: location
 ---

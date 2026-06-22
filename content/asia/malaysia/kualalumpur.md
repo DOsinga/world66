@@ -12,6 +12,8 @@ latitude: 3.151696
 loc_type: city
 longitude: 101.694237
 score: 0.62
+snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
+  rainforest parks, and glass towers.
 title: Kuala Lumpur
 type: location
 ---

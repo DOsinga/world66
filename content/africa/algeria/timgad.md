@@ -10,6 +10,8 @@ latitude: 35.483633
 loc_type: city
 longitude: 6.466812
 score: 0.47
+snippet: Roman ruin city in Algeria, laid out on Trajan's grid at the edge of the
+  Aurès Mountains.
 title: Timgad
 type: location
 ---

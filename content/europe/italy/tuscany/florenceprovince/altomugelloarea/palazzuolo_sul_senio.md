@@ -10,6 +10,8 @@ latitude: 44.1125
 loc_type: city
 longitude: 11.5477
 score: 0.42
+snippet: Tuscan-Romagnan border village in the Senio valley, surrounded by wooded
+  hills, clear streams, and trails.
 title: Palazzuolo sul Senio
 type: location
 ---

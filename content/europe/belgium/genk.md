@@ -10,6 +10,8 @@ latitude: 50.965486
 loc_type: city
 longitude: 5.500146
 score: 0.33
+snippet: Flemish mining city transformed by coal migration, with C-Mine preserving
+  its industrial heritage
 title: Genk
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: -22.6762
 loc_type: city
 longitude: 14.5253
 score: 0.49
+snippet: Namibian coastal town where German colonial architecture meets Atlantic fog
+  and the Namib Desert dunes.
 title: Swakopmund
 type: location
 ---

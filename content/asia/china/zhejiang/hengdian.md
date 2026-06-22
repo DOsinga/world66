@@ -11,6 +11,7 @@ longitude: 120.2981
 sources:
 - https://en.wikipedia.org/wiki/Hengdian_World_Studios
 title: Hengdian World Studios
+snippet: Chinese film-studio town built around vast period sets, from Forbidden City replicas to old Shanghai streets
 type: location
 score: 0.43
 ---

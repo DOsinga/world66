@@ -11,6 +11,7 @@ latitude: 54.6872
 loc_type: city
 longitude: 25.2797
 title: Vilnius
+snippet: "Lithuanian capital of Baroque church spires, cobbled old-town courtyards, and layered Baltic history."
 type: location
 score: 0.58
 ---

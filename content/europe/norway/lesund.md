@@ -9,6 +9,8 @@ latitude: 62.480236
 loc_type: city
 longitude: 6.555074
 score: 0.61
+snippet: Norwegian coastal town rebuilt in Jugendstil after the 1904 fire, set among
+  islands and channels.
 title: Ålesund
 type: location
 ---

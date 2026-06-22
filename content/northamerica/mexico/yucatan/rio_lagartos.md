@@ -11,6 +11,7 @@ loc_type: city
 longitude: -88.1332
 score: 0.46
 title: Rio Lagartos
+snippet: Yucatán fishing village beside Ría Lagartos Biosphere Reserve, known for flamingos and mangrove lagoons
 type: location
 ---
 

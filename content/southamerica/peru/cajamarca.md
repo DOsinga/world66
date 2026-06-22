@@ -9,6 +9,8 @@ latitude: -7.1617
 loc_type: city
 longitude: -78.5128
 score: 0.48
+snippet: Andean Peruvian city where Atahualpa was captured, with colonial streets
+  and nearby hot springs.
 title: Cajamarca
 type: location
 ---

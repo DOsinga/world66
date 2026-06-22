@@ -11,6 +11,7 @@ loc_type: city
 longitude: 10.5348
 score: 0.4
 title: Wolfenbüttel
+snippet: Lower Saxon town of timber-frame streets, ducal history, and the great Herzog August Bibliothek.
 type: location
 ---
 

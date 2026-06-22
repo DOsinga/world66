@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sch%C5%93lcher
 title: Schoelcher
 type: location
+snippet: Coastal Martinique town north of Fort-de-France, with university life, small beaches, and hill trails.
 ---
 
 Schoelcher is the first town you hit heading north along the coastal road from [Fort-de-France](/northamerica/thecaribbean/martinique/fortdefrance), and it functions essentially as the capital's beach suburb. Named after Victor Schoelcher, who championed the abolition of slavery in the French colonies, the town is home to the University of the French West Indies and a string of small beaches popular with locals on weekends.

@@ -12,6 +12,8 @@ latitude: 23.021537
 loc_type: city
 longitude: 72.580057
 score: 0.41
+snippet: Gujarat’s largest city, founded on the Sabarmati River and known for Gandhi’s
+  ashram and old pol neighbourhoods.
 title: Ahmedabad
 type: location
 ---

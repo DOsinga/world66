@@ -10,6 +10,8 @@ latitude: 35.0724
 loc_type: city
 longitude: -107.5265
 score: 0.21
+snippet: Semi-ghost town on old Route 66, centred on Bud Rice’s closed trading post
+  and unsolved murder story
 title: Budville
 type: location
 ---

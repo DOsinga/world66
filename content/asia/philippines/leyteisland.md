@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 10.784116
+loc_type: region
 longitude: 124.892321
+score: 0.49
+snippet: Eastern Visayas island linked to Samar, known for MacArthur's 1944 landing
+  at Red Beach.
 title: Leyte island
 type: location
-score: 0.49
-loc_type: region
 ---
 
 Leyte is an island in the Eastern Visayas of the Philippines, linked by bridge to the smaller island of Samar to the north. The capital is Tacloban, birthplace of Imelda Marcos and the main entry point for the island.

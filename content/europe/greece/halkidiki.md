@@ -10,6 +10,8 @@ latitude: 40.331
 loc_type: city
 longitude: 23.3621
 score: 0.58
+snippet: Northern Greek peninsula with three prongs, combining beach resorts, pine
+  forests, and Mount Athos monasteries.
 title: Halkidiki
 type: location
 ---

@@ -11,6 +11,7 @@ loc_type: city
 longitude: 10.2236
 score: 0.29
 title: Lambarene
+snippet: "Ogooué River town known for Albert Schweitzer's hospital and inland Gabon's river life."
 type: location
 ---
 

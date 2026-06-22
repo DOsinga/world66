@@ -6,6 +6,7 @@ longitude: -69.670344
 title: Tambopata
 type: location
 score: 0.59
+snippet: Amazon reserve in Madre de Dios, famed for biodiversity and macaws gathering at clay licks.
 loc_type: feature
 ---
 

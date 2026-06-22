@@ -4,6 +4,8 @@ done:
   location_enrich: '2026-06-02'
 latitude: 23.033333
 loc_type: city
+snippet: Gujarat port town on the Gulf of Kutch, driven by salt, grain, oil, and cargo
+  ships
 longitude: 70.216667
 score: 0.25
 title: Kandla

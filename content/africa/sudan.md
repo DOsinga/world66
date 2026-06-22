@@ -1,15 +1,17 @@
 ---
-title: Sudan
-type: location
 latitude: 14.584444
+loc_type: country
 longitude: 29.491769
 quick_facts:
-  Population: "48 million"
-  Language: "Arabic"
-  Pyramids: "~255 (more than Egypt)"
+  Language: Arabic
   Nile Confluence: Blue + White Nile meet at Khartoum
+  Population: 48 million
+  Pyramids: ~255 (more than Egypt)
 score: 0.25
-loc_type: country
+snippet: Vast northeastern African country of Nile confluences, Nubian pyramids, Red
+  Sea coast, and Sahara landscapes.
+title: Sudan
+type: location
 ---
 
 Sudan is a vast country in northeastern Africa, bordering the Red Sea between [Egypt](/africa/egypt) and [Eritrea](/africa/eritrea). Since [South Sudan](/africa/southsudan) split away in 2011, it remains Africa's third-largest country by area. The landscape ranges from the Sahara in the north through the fertile Nile valley to the mountains of Darfur in the west.

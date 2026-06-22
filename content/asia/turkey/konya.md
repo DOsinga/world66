@@ -10,6 +10,8 @@ latitude: 37.8728
 loc_type: city
 longitude: 32.4925
 score: 0.46
+snippet: Anatolian city and spiritual home of Rumi, where Seljuk monuments surround
+  the Mevlana dervish tradition.
 title: Konya
 type: location
 ---

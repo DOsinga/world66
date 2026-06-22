@@ -10,6 +10,8 @@ latitude: 44.526311
 loc_type: city
 longitude: -109.056392
 score: 0.47
+snippet: Wyoming gateway town to Yellowstone, founded by Buffalo Bill and steeped
+  in western showmanship.
 title: Cody
 type: location
 ---

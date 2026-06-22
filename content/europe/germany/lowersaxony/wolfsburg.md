@@ -8,6 +8,8 @@ image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Autostadt,_Wolfsburg_Gel%C3%A4nde.jpg
 latitude: 52.420559
 loc_type: city
+snippet: Volkswagen-built Lower Saxony city centred on the factory, Autostadt, and
+  modern automotive museums
 longitude: 10.786168
 score: 0.36
 title: Wolfsburg

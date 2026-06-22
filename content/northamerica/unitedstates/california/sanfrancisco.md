@@ -17,6 +17,8 @@ latitude: 37.7749
 loc_type: city
 longitude: -122.4194
 score: 0.75
+snippet: Hilly Pacific port city where fog, Victorian streets, and bay views define
+  northern California's imagination
 title: San Francisco
 type: location
 ---

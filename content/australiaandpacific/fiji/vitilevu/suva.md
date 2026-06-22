@@ -11,6 +11,8 @@ latitude: -18.141588
 loc_type: city
 longitude: 178.442166
 score: 0.45
+snippet: Fiji's capital and largest South Pacific city outside Australia and New Zealand,
+  set on Viti Levu.
 title: Suva
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 38.97439
 loc_type: region
 longitude: 1.419746
 score: 0.71
+snippet: Balearic island region known for club culture, hippie history, beaches, and
+  whitewashed inland villages.
 title: Ibiza
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 67.6548
 loc_type: city
 longitude: 12.7262
 score: 0.58
+snippet: Rugged Lofoten island where fishing villages face mountains, bird cliffs,
+  and the open Atlantic.
 title: Værøy
 type: location
 ---

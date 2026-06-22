@@ -9,6 +9,8 @@ latitude: 38.1444
 loc_type: city
 longitude: -92.6595
 score: 0.37
+snippet: Central Missouri reservoir winding through Ozark hills, with an astonishing
+  maze of wooded shoreline.
 sources:
 - https://en.wikipedia.org/wiki/Lake_of_the_Ozarks
 - https://en.wikipedia.org/wiki/Bagnell_Dam

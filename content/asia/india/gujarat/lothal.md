@@ -10,6 +10,8 @@ latitude: 22.522677
 loc_type: city
 longitude: 72.249308
 score: 0.4
+snippet: Indus Valley archaeological site near Ahmedabad, preserving ancient streets,
+  drainage, and a possible early dock.
 title: Lothal
 type: location
 ---

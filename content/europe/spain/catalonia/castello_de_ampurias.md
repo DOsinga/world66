@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Maria_de_Castell%C3%
 latitude: 42.2583
 loc_type: city
 longitude: 3.075
+score: 0.44
+snippet: Medieval Catalan town inland from the Bay of Roses, centred on the Basilica
+  of Santa Maria
 sources:
 - https://en.wikipedia.org/wiki/Castell%C3%B3_d%27Emp%C3%BAries
 title: Castello d'Empuries
 type: location
-score: 0.44
 ---
 
 Castello d'Empuries sits just inland from the Bay of Roses, close enough to the Costa Brava to work as a beach detour but old enough to feel like a different world from the resort strip. In the Middle Ages it was the capital of the county of Empuries, and the town still has the heavy stone presence of a place that once mattered.

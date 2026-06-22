@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-15'
 latitude: 41.65002
+loc_type: region
 longitude: -72.734216
 score: 0.49
+snippet: Small New England state of historic river cities, Litchfield hills, coastal
+  towns, and wooded villages.
 title: Connecticut
 type: location
-loc_type: region
 ---
 
 Connecticut is located in the Northeast of the US and is one of the six states that make up New England. It borders

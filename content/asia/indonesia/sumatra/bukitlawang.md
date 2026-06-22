@@ -11,6 +11,7 @@ longitude: 98.1272
 score: 0.52
 title: Bukit Lawang
 type: location
+snippet: "Riverside Sumatran village on Gunung Leuser's edge, known for orangutan treks and Bohorok River tubing."
 ---
 
 Bukit Lawang is a small riverside village on the edge of [Gunung Leuser National Park](/asia/indonesia/sumatra/gununglesuer), best known as the site of a long-running orangutan rehabilitation program. Semi-wild orangutans still roam the forest here and can be encountered on guided treks — it's one of the most accessible places in the world to see these animals.

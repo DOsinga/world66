@@ -10,6 +10,8 @@ latitude: 51.7855
 loc_type: city
 longitude: 11.152
 score: 0.51
+snippet: Medieval Harz-edge town with more than 1,300 half-timbered houses across
+  six centuries.
 title: Quedlinburg
 type: location
 ---

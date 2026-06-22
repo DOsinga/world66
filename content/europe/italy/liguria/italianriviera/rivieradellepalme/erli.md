@@ -10,6 +10,7 @@ latitude: 44.137529
 loc_type: city
 longitude: 8.103148
 score: 0.34
+snippet: "Small Ligurian Alps municipality on the old Salt Road, with medieval frescoes and chestnut woods."
 title: Erli
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 20.9084
 loc_type: city
 longitude: 107.0683
 score: 0.74
+snippet: Vietnamese karst bay where nearly two thousand limestone islands rise from
+  the Gulf of Tonkin.
 tags:
 - natural_wonder
 - cruising

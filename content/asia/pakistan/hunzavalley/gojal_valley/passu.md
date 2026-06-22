@@ -9,6 +9,8 @@ latitude: 36.4658
 loc_type: city
 longitude: 74.8943
 score: 0.46
+snippet: Karakoram Highway village framed by Passu Cathedral, glaciers, and the upper
+  Hunza River valley.
 title: Passu
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 33.697969
 loc_type: city
 longitude: 35.564743
 score: 0.45
+snippet: Chouf mountain town of red-tiled stone houses, once the historic capital
+  of Mount Lebanon.
 title: Deir el Qamar
 type: location
 ---

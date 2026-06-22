@@ -9,6 +9,8 @@ latitude: 43.719488
 loc_type: city
 longitude: 10.945856
 score: 0.37
+snippet: Working Arno valley town near Florence, with a Romanesque collegiate church
+  and surprisingly rich Renaissance art museum.
 title: Empoli
 type: location
 ---

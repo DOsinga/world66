@@ -10,6 +10,8 @@ latitude: 44.128754
 loc_type: city
 longitude: 8.259371
 score: 0.46
+snippet: Western Ligurian seaside town on the Riviera delle Palme, where Roman bridges
+  survive beside the Aurelia road.
 title: Loano
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 44.4094
 loc_type: city
 longitude: -103.5091
 score: 0.37
+snippet: Northern Black Hills ranching town best known for the Sturgis Motorcycle
+  Rally, held since 1938.
 title: “Sturgis”
 type: location
 ---

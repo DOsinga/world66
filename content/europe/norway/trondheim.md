@@ -12,6 +12,8 @@ latitude: 63.430447
 loc_type: city
 longitude: 10.395212
 score: 0.52
+snippet: Norwegian cathedral city and former medieval capital, still centred on the
+  Gothic shrine of Saint Olav.
 title: Trondheim
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 34.6197
 loc_type: city
 longitude: 112.4477
 score: 0.48
+snippet: Ancient Henan capital known for Longmen Grottoes, White Horse Temple, and
+  peony cultivation.
 title: Luoyang
 type: location
 ---

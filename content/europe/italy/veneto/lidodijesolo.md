@@ -9,6 +9,8 @@ latitude: 45.5033
 loc_type: city
 longitude: 12.6324
 score: 0.45
+snippet: Veneto Adriatic beach resort with 15 kilometres of sand, summer crowds, and
+  easy access from Venice.
 title: Lido di Jesolo
 type: location
 ---

@@ -5,6 +5,8 @@ latitude: 45.090196
 loc_type: region
 longitude: 14.549668
 score: 0.67
+snippet: Accessible northern Adriatic island linked to mainland Croatia by bridge
+  and known for medieval coastal towns.
 title: Krk Island
 type: location
 ---

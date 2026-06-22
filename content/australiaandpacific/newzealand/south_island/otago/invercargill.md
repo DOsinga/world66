@@ -10,6 +10,8 @@ latitude: -46.4132
 loc_type: city
 longitude: 168.3538
 score: 0.39
+snippet: Southern New Zealand city with a Scottish grid, Victorian streetscapes, and
+  access to Southland's wild coast.
 title: Invercargill
 type: location
 ---

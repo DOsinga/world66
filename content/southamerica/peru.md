@@ -7,16 +7,18 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:023_Uros_Islands_of_Reeds_Lake_Titicaca_Peru_3074_(15181518852).jpg
 latitude: -6.86997
+loc_type: country
 longitude: -75.045851
 quick_facts:
-  Population: "34 million"
-  Altitude Warning: "Cusco is at 3,400 m — acclimatize"
-  Potato Varieties: "3,000+ native cultivars"
+  Altitude Warning: Cusco is at 3,400 m — acclimatize
   Nazca Lines: visible only from the air
+  Population: 34 million
+  Potato Varieties: 3,000+ native cultivars
 score: 0.91
+snippet: Andean country of Inca ruins, Amazon forests, Pacific deserts, and highland
+  potato traditions.
 title: Peru
 type: location
-loc_type: country
 ---
 
 **The Land of the Incas**

@@ -10,6 +10,8 @@ latitude: 31.640634
 loc_type: feature
 longitude: 35.574684
 score: 0.6
+snippet: Hypersaline desert lake below sea level where mineral cliffs frame Jordan's
+  famously buoyant shore.
 title: Dead Sea
 type: location
 ---

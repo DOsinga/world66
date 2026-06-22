@@ -1,22 +1,24 @@
 ---
-latitude: 64.984182
-longitude: -18.105901
-title: Iceland
-type: location
-image: iceland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Thingvellir_village_from_above.JPG
-image_license: CC0
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finland"
-  title="User:Ypsilon from Finland">Ypsilon from Finland</a>
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "380,000"
-  Cost Level: "A beer costs ~$12"
-  Glaciers: "Cover 11% of the country"
-  No Surnames: Icelanders use patronymics
-score: 0.84
+image: iceland.jpg
+image_attribution: <a href="//commons.wikimedia.org/wiki/User:Ypsilon_from_Finland"
+  title="User:Ypsilon from Finland">Ypsilon from Finland</a>
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Thingvellir_village_from_above.JPG
+latitude: 64.984182
 loc_type: country
+longitude: -18.105901
+quick_facts:
+  Cost Level: A beer costs ~$12
+  Glaciers: Cover 11% of the country
+  No Surnames: Icelanders use patronymics
+  Population: 380,000
+score: 0.84
+snippet: North Atlantic island country on the Mid-Atlantic Ridge, shaped by volcanoes,
+  glaciers, sagas, and sparse settlement.
+title: Iceland
+type: location
 ---
 
 Iceland sits on the Mid-Atlantic Ridge, the boundary between the North American and Eurasian tectonic plates, and the geology makes itself known at every turn — volcanoes, geysers, hot springs, lava fields, and glaciers covering more than ten percent of the country's surface. It is one of the most volcanically active places on Earth, and also one of the most sparsely populated countries in Europe.

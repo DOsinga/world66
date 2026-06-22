@@ -10,6 +10,8 @@ latitude: 30.917061
 loc_type: city
 longitude: -2.029475
 score: 0.42
+snippet: Western Algerian oasis town where palm groves meet the dunes of the Grand
+  Erg Occidental.
 title: Taghit
 type: location
 ---

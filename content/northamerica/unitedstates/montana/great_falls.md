@@ -6,6 +6,8 @@ latitude: 47.5049
 loc_type: city
 longitude: -111.2919
 score: 0.34
+snippet: Montana river city named for the Missouri waterfalls that forced Lewis and
+  Clark's hardest portage
 title: Great Falls
 type: location
 ---

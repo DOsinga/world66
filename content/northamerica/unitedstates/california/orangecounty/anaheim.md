@@ -11,6 +11,7 @@ loc_type: city
 longitude: -117.9117
 score: 0.43
 title: Anaheim
+snippet: Orange County city defined by Disneyland, with theme parks replacing the orange groves that shaped it
 type: location
 ---
 

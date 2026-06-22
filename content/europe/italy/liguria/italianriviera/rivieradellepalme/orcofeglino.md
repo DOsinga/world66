@@ -6,6 +6,8 @@ latitude: 44.234315
 loc_type: city
 longitude: 8.325372
 score: 0.35
+snippet: Liguria hill municipality above Finale Ligure, split between valley hamlet
+  and ridge village below Monte Alto
 title: Orco Feglino
 type: location
 ---

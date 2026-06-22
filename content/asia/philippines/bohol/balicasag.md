@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 9.548431
+loc_type: feature
 longitude: 123.771958
+score: 0.56
+snippet: Small Bohol dive island near Panglao, with protected reefs, clear water,
+  and abundant reef fish.
 title: Balicasag Island
 type: location
-score: 0.56
-loc_type: feature
 ---
 
 Balicasag Island has long been considered one of the best dive spots in the Philippines. Only 45 minutes by boat from Panglao, the visibility is often extraordinary, the coral cover is excellent, and fish are abundant. Large species found here include barracuda, jacks, parrot fish, and grouper.

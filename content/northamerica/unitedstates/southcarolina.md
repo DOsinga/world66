@@ -9,6 +9,8 @@ latitude: 33.687439
 loc_type: region
 longitude: -80.436374
 score: 0.54
+snippet: Atlantic Southern state of historic coastal cities, sandy resorts, and forested
+  Blue Ridge foothills.
 title: South Carolina
 type: location
 ---

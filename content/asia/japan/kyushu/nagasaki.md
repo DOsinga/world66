@@ -11,6 +11,7 @@ loc_type: city
 longitude: 129.8779
 score: 0.62
 title: Nagasaki
+snippet: Harbour city on western Kyushu, shaped by foreign contact and the 1945 atomic bombing.
 type: location
 ---
 

@@ -12,6 +12,7 @@ longitude: -118.439204
 score: 0.3
 title: Grand Forks
 type: location
+snippet: "Boundary Country town at the Kettle and Granby rivers, with visible Doukhobor heritage."
 ---
 
 Grand Forks sits at the confluence of the Kettle and [Granby](/northamerica/canada/britishcolumbia/grandforks/granby_river) rivers in the Boundary Country of southeastern [British Columbia](/northamerica/canada/britishcolumbia). It is a small, quiet town with a distinctive heritage — Doukhobor settlers from Russia arrived in the early 1900s, and their influence is still visible in the community halls at the [Hardy Mountain village](/northamerica/canada/britishcolumbia/grandforks/hardy_mountain_village), the excellent borscht and perogies served at local restaurants, and the surrounding farmland.

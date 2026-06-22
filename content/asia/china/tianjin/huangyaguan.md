@@ -10,6 +10,8 @@ latitude: 40.2467
 loc_type: city
 longitude: 117.4518
 score: 0.41
+snippet: Great Wall mountain pass where Ming fortifications climb steep Yanshan ridges
+  north of Tianjin.
 title: Huangyaguan
 type: location
 ---

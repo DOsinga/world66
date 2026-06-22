@@ -6,6 +6,8 @@ latitude: 32.69152
 loc_type: city
 longitude: -117.176695
 score: 0.5
+snippet: Resort-like city across San Diego Bay, centred on Orange Avenue and the historic
+  Hotel del Coronado.
 title: Coronado
 type: location
 ---

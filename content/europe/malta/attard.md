@@ -8,6 +8,8 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/136563543@N04/23853918560
 latitude: 35.890917
 loc_type: city
+snippet: Central Maltese town known for San Anton Palace, public gardens, and a quiet
+  old village core
 longitude: 14.443009
 score: 0.43
 title: Attard

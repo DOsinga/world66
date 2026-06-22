@@ -10,6 +10,8 @@ latitude: 58.852057
 loc_type: city
 longitude: -3.28694
 score: 0.57
+snippet: Scottish archipelago of wind-scoured islands, Neolithic monuments, Viking
+  traces, and red sandstone Kirkwall
 title: Orkney
 type: location
 ---

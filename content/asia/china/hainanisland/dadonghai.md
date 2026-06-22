@@ -10,6 +10,8 @@ latitude: 18.218626
 loc_type: city
 longitude: 109.517611
 score: 0.41
+snippet: Compact Hainan beach resort near Sanya, with clear-water snorkelling and
+  a scrappy coastal nightlife.
 title: Dadonghai
 type: location
 ---

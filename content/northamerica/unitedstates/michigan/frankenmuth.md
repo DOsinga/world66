@@ -10,6 +10,8 @@ latitude: 43.332368
 loc_type: city
 longitude: -83.739229
 score: 0.41
+snippet: Michigan town founded by Bavarian immigrants, built around German food, architecture,
+  and year-round Christmas shops
 title: Frankenmuth
 type: location
 ---

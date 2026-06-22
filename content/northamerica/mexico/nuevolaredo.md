@@ -9,6 +9,8 @@ latitude: 27.479303
 loc_type: city
 longitude: -99.522108
 score: 0.21
+snippet: Tamaulipas border city opposite Laredo, defined by Rio Grande bridges and
+  heavy commercial truck traffic.
 title: Nuevo Laredo
 type: location
 ---

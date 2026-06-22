@@ -11,6 +11,8 @@ latitude: 45.14391
 loc_type: city
 longitude: 13.908675
 score: 0.38
+snippet: Central Istrian hilltop town with stone lanes, castle remnants, and countryside
+  cave excursions nearby
 title: Žminj
 type: location
 ---

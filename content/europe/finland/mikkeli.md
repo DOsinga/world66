@@ -10,8 +10,8 @@ latitude: 61.687782
 loc_type: city
 longitude: 27.273192
 score: 0.38
-snippet: Lakeland city in eastern Finland that served as Finnish military headquarters
-  during both the Winter War and Continuation War.
+snippet: Eastern Finnish lakeland town with wartime headquarters history and easy
+  access to Saimaa forests and lakes.
 title: Mikkeli
 type: location
 ---

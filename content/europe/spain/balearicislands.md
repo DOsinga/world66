@@ -8,6 +8,8 @@ latitude: 39.613432
 loc_type: region
 longitude: 2.882919
 score: 0.71
+snippet: Spanish Mediterranean island region of Mallorca, Menorca, Ibiza, and Formentera,
+  balancing beach resorts with distinct island identities.
 title: Balearic islands
 type: location
 ---

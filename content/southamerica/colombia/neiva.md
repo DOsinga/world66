@@ -10,6 +10,8 @@ latitude: 3.033255
 loc_type: city
 longitude: -75.27943
 score: 0.33
+snippet: Huila department capital on the Magdalena River, base for Tatacoa Desert
+  and southern Colombia archaeology
 title: Neiva
 type: location
 ---

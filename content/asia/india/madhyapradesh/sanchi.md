@@ -9,6 +9,8 @@ latitude: 23.487634
 loc_type: city
 longitude: 77.736068
 score: 0.45
+snippet: Madhya Pradesh village centered on a hilltop Buddhist complex of stupas,
+  temples, and monasteries.
 sources:
 - https://en.wikipedia.org/wiki/Sanchi_Stupa
 - https://en.wikipedia.org/wiki/Sanchi_Archaeological_Museum

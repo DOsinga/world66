@@ -12,6 +12,8 @@ latitude: 2.4422
 loc_type: city
 longitude: -76.6072
 score: 0.49
+snippet: Colombian White City of colonial churches and luminous streets on a mild
+  Cauca volcanic plateau
 title: Popayan
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 52.261
 loc_type: city
 longitude: -7.111908
 score: 0.47
+snippet: Ireland's oldest city, founded by Vikings and anchored by Reginald's Tower
+  on the River Suir.
 title: Waterford
 type: location
 ---

@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:D%C3%BDrafj%C3%B6r%C3%B0ur
 latitude: 65.9
 loc_type: region
 longitude: -23.0
+snippet: Remote Icelandic peninsula of deep fjords, winding roads, and sea cliffs
+  reaching toward Greenland
 title: Westfjords
 type: location
 ---

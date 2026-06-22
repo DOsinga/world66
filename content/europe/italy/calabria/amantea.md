@@ -10,6 +10,8 @@ latitude: 39.1332
 loc_type: city
 longitude: 16.0746
 score: 0.43
+snippet: Layered Calabrian coastal town where Byzantine, Arab, Norman, and Roman traces
+  meet above the Tyrrhenian Sea.
 title: Amantea
 type: location
 ---

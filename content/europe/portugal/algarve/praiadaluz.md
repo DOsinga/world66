@@ -12,6 +12,8 @@ latitude: 37.0868
 loc_type: city
 longitude: -8.7255
 score: 0.52
+snippet: Low-key Algarve beach village near Lagos, set below Rocha Negra and a broad
+  sandy bay.
 title: Praia da Luz
 type: location
 ---

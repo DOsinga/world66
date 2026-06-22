@@ -9,6 +9,8 @@ latitude: 36.519238
 loc_type: city
 longitude: -5.317754
 score: 0.46
+snippet: Andalucian hilltop village with whitewashed lanes and clear-day views to
+  Gibraltar and Morocco
 title: Gaucin
 type: location
 ---

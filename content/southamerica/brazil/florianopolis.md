@@ -10,6 +10,8 @@ latitude: -27.5973
 loc_type: city
 longitude: -48.54961
 score: 0.55
+snippet: Southern Brazilian island capital with more than a hundred beaches and a
+  Portuguese colonial centre
 title: Florianópolis
 type: location
 ---

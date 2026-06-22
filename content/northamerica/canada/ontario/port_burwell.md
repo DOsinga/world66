@@ -10,6 +10,8 @@ latitude: 42.6467
 loc_type: city
 longitude: -80.8003
 score: 0.3
+snippet: Quiet Lake Erie town with sandy beaches, a historic lighthouse, and local
+  perch on summer tables.
 title: Port Burwell
 type: location
 ---

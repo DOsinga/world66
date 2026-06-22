@@ -11,6 +11,8 @@ latitude: 20.632
 loc_type: city
 longitude: 96.901
 score: 0.34
+snippet: Inle Lake gateway town of guesthouses and tea shops beside floating gardens
+  and Intha villages.
 title: Nyangshwe
 type: location
 ---

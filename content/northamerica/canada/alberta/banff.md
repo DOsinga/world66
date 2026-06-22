@@ -21,6 +21,7 @@ tags:
 - wildlife
 - rockies
 title: Banff
+snippet: Rocky Mountain park town surrounded by Canada's first national park, hot springs, elk, and alpine peaks
 type: location
 loc_type: city
 ---

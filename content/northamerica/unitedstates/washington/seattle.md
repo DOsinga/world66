@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Space_Needle
 title: Seattle
 type: location
+snippet: "Seattle is a Puget Sound city framed by water, evergreen hills, Mount Rainier, and the Cascades."
 ---
 
 Seattle sits at the edge of a continent, hemmed in by water on three sides and backed by the Cascade Range. Elliott Bay to the west, Lake Washington to the east, and Puget Sound stretching north and south give the city its defining quality: you are always aware of being somewhere particular. On a clear day, Mount Rainier floats above the southern horizon, impossibly large and close, and the Olympic Mountains wall off the west. It is one of the most dramatically sited cities in North America.

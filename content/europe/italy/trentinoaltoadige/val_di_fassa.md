@@ -5,6 +5,8 @@ latitude: 46.448973
 loc_type: region
 longitude: 11.698703
 score: 0.67
+snippet: Ladin-speaking Dolomite valley linking ski villages, via ferrata routes,
+  and the Marmolada glacier.
 title: Val di Fassa
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 53.759336
 loc_type: city
 longitude: -2.699272
 score: 0.32
+snippet: Lancashire city on the Ribble, with Victorian civic buildings and deep textile-era
+  roots.
 title: Preston
 type: location
 ---

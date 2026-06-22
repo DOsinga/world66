@@ -11,6 +11,8 @@ latitude: 53.478789
 loc_type: city
 longitude: 6.203772
 score: 0.43
+snippet: Car-free Wadden island village, surrounded by dunes, tidal flats, and a national
+  park.
 title: Schiermonnikoog
 type: location
 ---

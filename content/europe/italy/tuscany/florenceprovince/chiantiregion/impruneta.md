@@ -9,6 +9,8 @@ latitude: 43.685345
 loc_type: city
 longitude: 11.254664
 score: 0.46
+snippet: Chianti hill town south of Florence, long known for red terracotta tiles,
+  pots, and kilns.
 title: Impruneta
 type: location
 ---

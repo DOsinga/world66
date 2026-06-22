@@ -9,6 +9,8 @@ latitude: 10.1767
 loc_type: city
 longitude: -75.7721
 score: 0.52
+snippet: Coral island archipelago southwest of Cartagena, protected within a Colombian
+  Caribbean national park.
 title: Islas del Rosario
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 10.2636
 loc_type: city
 longitude: -85.585
 score: 0.41
+snippet: Guanacaste service town near Costa Rica's Pacific beaches, with local artists
+  and regional traditions.
 title: Santa Cruz
 type: location
 ---

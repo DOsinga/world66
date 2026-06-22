@@ -10,6 +10,8 @@ latitude: 37.444329
 loc_type: city
 longitude: -122.159847
 score: 0.37
+snippet: San Francisco Peninsula city defined by Stanford University's campus and
+  Silicon Valley's early heart.
 title: Palo Alto
 type: location
 ---

@@ -12,6 +12,8 @@ latitude: -19.2512
 loc_type: city
 longitude: 17.7178
 score: 0.34
+snippet: Northern Namibian mining town and practical gateway to Etosha, with a museum
+  rooted in copper history
 title: Tsumeb, Gateway to the North and Etosha
 type: location
 ---

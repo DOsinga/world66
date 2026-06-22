@@ -9,6 +9,8 @@ latitude: 52.7076
 loc_type: city
 longitude: -2.754
 score: 0.44
+snippet: Shropshire market town almost encircled by the River Severn, with medieval
+  lanes and timbered houses.
 title: Shrewsbury
 type: location
 ---

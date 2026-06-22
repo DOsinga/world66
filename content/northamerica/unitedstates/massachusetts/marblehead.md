@@ -8,6 +8,8 @@ latitude: 42.500096
 loc_type: city
 longitude: -70.857825
 score: 0.42
+snippet: New England harbour town of yachts, twisting lanes, and Georgian houses built
+  on fishing wealth
 title: Marblehead
 type: location
 ---

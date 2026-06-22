@@ -4,11 +4,13 @@ done:
 latitude: 26.669
 loc_type: city
 longitude: 108.3201
+score: 0.34
+snippet: Guizhou county in the Qingshui River valley, noted for Miao villages and
+  the Sister Festival.
 sources:
 - https://en.wikivoyage.org/wiki/Taijiang
 title: Taijiang
 type: location
-score: 0.34
 ---
 
 Taijiang calls itself the first county of Miao nationality in the world, and while the superlative is debatable, the underlying claim is not: the Qingshui River valley around Taijiang is densely settled with Miao communities whose cultural practices have survived more intact than almost anywhere. The county has no airport and no railway station, which until recently kept it off most tourist itineraries, and the result is that the villages here have a working quality absent from the more-visited Miao sites closer to Kaili.

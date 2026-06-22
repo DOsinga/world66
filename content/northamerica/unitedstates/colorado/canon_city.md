@@ -10,6 +10,8 @@ latitude: 38.442251
 loc_type: city
 longitude: -105.23488
 score: 0.43
+snippet: Rocky Mountain foothills town on the Arkansas River, gateway to the Royal
+  Gorge
 title: Cañon City
 type: location
 ---

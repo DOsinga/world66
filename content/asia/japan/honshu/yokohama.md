@@ -9,6 +9,8 @@ latitude: 35.4503
 loc_type: city
 longitude: 139.6344
 score: 0.61
+snippet: Major Japanese port south of Tokyo, with Minato Mirai waterfront sights and
+  the country's largest Chinatown.
 title: Yokohama
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 34.422437
 loc_type: city
 longitude: 8.784386
 score: 0.27
+snippet: Working oasis city in west-central Tunisia, shaped by phosphate mines and
+  deep Roman history.
 title: Gafsa
 type: location
 ---

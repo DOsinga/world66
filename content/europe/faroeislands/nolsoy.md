@@ -6,6 +6,8 @@ latitude: 61.985446
 loc_type: city
 longitude: -6.653137
 score: 0.41
+snippet: Faroese island village near Tórshavn, known for storm petrel colonies and
+  ridge walks to Borðan lighthouse.
 title: Nólsoy
 type: location
 ---

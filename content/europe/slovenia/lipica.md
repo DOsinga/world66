@@ -11,6 +11,7 @@ loc_type: city
 longitude: 14.042983
 score: 0.46
 title: Lipica
+snippet: Karst village near the Italian border, birthplace of the Lipizzan horse and its historic stud farm
 type: location
 ---
 

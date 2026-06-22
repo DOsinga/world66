@@ -10,6 +10,8 @@ latitude: 0.734362
 loc_type: city
 longitude: -79.385887
 score: 0.3
+snippet: Afro-Ecuadorian port city at the Esmeraldas River mouth, known for marimba
+  culture and coastal food.
 title: Esmeraldas
 type: location
 ---

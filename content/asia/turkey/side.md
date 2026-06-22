@@ -5,6 +5,7 @@ done:
   location_enrich: '2026-05-13'
 latitude: 36.7664
 loc_type: city
+snippet: Mediterranean Turkish town on a narrow peninsula, where Roman ruins thread through beachside lanes.
 longitude: 31.3892
 score: 0.55
 title: Side

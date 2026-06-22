@@ -5,6 +5,8 @@ latitude: 45.0522
 loc_type: region
 longitude: 7.5155
 score: 0.7
+snippet: Alpine Italian region of Barolo hills, Turin arcades, and truffle-rich towns
+  below the mountains.
 title: Piemonte
 type: location
 ---

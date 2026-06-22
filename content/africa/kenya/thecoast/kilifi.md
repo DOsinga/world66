@@ -6,6 +6,8 @@ latitude: -3.150739
 loc_type: city
 longitude: 39.675072
 score: 0.44
+snippet: Small Kenyan coastal town on Kilifi Creek, with Mnarani ruins and quiet Indian
+  Ocean beaches nearby.
 title: Kilifi
 type: location
 ---

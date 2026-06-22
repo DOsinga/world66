@@ -12,6 +12,8 @@ latitude: 39.2757
 loc_type: city
 longitude: -76.8317
 score: 0.34
+snippet: Maryland mill town in a granite Patapsco gorge, with a steep 18th-century
+  Main Street.
 title: Ellicott City
 type: location
 ---

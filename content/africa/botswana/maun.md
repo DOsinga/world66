@@ -10,6 +10,7 @@ latitude: -19.9861
 loc_type: city
 longitude: 23.4224
 score: 0.45
+snippet: Botswana safari town on the Thamalakane River, gateway to the Okavango Delta and northern parks.
 title: Maun
 type: location
 ---

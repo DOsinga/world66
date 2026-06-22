@@ -10,6 +10,8 @@ latitude: 46.476881
 loc_type: city
 longitude: 11.771075
 score: 0.56
+snippet: Dolomite village in Val di Fassa, beneath Marmolada and linked to the Sella
+  Ronda
 title: Canazei
 type: location
 ---

@@ -7,6 +7,7 @@ loc_type: city
 longitude: 18.583
 score: 0.15
 title: Zinga
+snippet: "Oubangui River settlement south of Bangui, where wooden houses and fishing pirogues line the border waterway."
 type: location
 ---
 

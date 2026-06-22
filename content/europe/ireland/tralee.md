@@ -9,6 +9,8 @@ latitude: 52.269212
 loc_type: city
 longitude: -9.705705
 score: 0.44
+snippet: Kerry county town and practical gateway to the Dingle Peninsula, with parks,
+  pubs, and local history.
 title: Tralee
 type: location
 ---

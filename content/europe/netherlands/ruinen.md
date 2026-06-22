@@ -10,6 +10,8 @@ latitude: 52.764154
 loc_type: city
 longitude: 6.360008
 score: 0.31
+snippet: Drenthe brink village with a traditional green, medieval church, and heathland
+  cycling nearby.
 title: Ruinen
 type: location
 ---

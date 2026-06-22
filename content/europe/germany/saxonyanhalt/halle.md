@@ -12,6 +12,8 @@ latitude: 51.482435
 loc_type: city
 longitude: 11.971298
 score: 0.4
+snippet: Saxon-Anhalt salt city on the Saale, marked by Golden Age churches and five
+  famous towers
 title: Halle
 type: location
 ---

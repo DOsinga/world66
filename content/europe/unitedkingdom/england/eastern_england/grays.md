@@ -2,18 +2,20 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-23'
+image: grays.jpg
+image_attribution: Peter Hammond
+image_license: Public Domain
+image_source: https://commons.wikimedia.org/wiki/File:The_State_Nov_07.jpg
 latitude: 51.47809
-longitude: 0.323313
-title: Grays
-type: location
-score: 0.23
 loc_type: city
+longitude: 0.323313
+score: 0.23
+snippet: Thames-side Essex town in Thurrock, with riverside walks and industrial estuary
+  history east of London
 sources:
 - https://en.wikipedia.org/wiki/Grays,_Essex
-image: grays.jpg
-image_source: https://commons.wikimedia.org/wiki/File:The_State_Nov_07.jpg
-image_license: Public Domain
-image_attribution: Peter Hammond
+title: Grays
+type: location
 ---
 
 Grays is a Thames-side town in the borough of Thurrock, Essex, sitting on the north bank of the river about 30 kilometres east of central London. It is a working town rather than a tourist destination, but it has a few things worth stopping for if you are passing through or exploring the Thames estuary.

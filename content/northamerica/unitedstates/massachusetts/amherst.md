@@ -10,6 +10,8 @@ latitude: 42.3732
 loc_type: city
 longitude: -72.5199
 score: 0.38
+snippet: Pioneer Valley college town shaped by three campuses, Emily Dickinson, and
+  New England farmland
 title: Amherst
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 48.8566
 loc_type: city
 longitude: 2.3522
 score: 0.98
+snippet: French capital on the Seine, defined by historic quartiers, major museums,
+  and Haussmann boulevards.
 title: Paris
 type: location
 ---

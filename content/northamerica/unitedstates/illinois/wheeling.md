@@ -10,6 +10,8 @@ latitude: 42.1389
 loc_type: city
 longitude: -87.9311
 score: 0.24
+snippet: Chicago suburb known for Milwaukee Avenue's Restaurant Row and its Korean,
+  Indian, and Filipino kitchens.
 title: Wheeling
 type: location
 ---

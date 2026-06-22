@@ -11,6 +11,8 @@ latitude: 30.197838
 loc_type: city
 longitude: 71.471968
 score: 0.29
+snippet: Ancient Punjabi city of Sufi shrines, hot bazaars, and monumental brick-and-tile
+  mausoleums.
 title: Multan
 type: location
 ---

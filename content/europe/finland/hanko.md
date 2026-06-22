@@ -4,6 +4,7 @@ done:
   location_enrich: '2026-06-03'
 latitude: 59.8228
 loc_type: city
+snippet: Finland's southernmost seaside town, with Baltic beaches, wooden villas, and an old resort-harbour atmosphere.
 longitude: 22.9695
 score: 0.41
 title: Hanko

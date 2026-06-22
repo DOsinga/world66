@@ -9,6 +9,8 @@ latitude: 39.729432
 loc_type: city
 longitude: -104.831917
 score: 0.29
+snippet: Colorado plains city where Denver suburbia meets a wide-ranging international
+  dining scene.
 title: Aurora
 type: location
 ---

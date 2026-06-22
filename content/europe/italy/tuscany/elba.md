@@ -5,6 +5,7 @@ latitude: 42.790238
 loc_type: region
 longitude: 10.340224
 score: 0.66
+snippet: "Tuscan Archipelago island of beaches, mining history, and Napoleon's brief exile in Portoferraio."
 title: Elba
 type: location
 ---

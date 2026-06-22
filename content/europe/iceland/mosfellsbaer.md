@@ -11,6 +11,7 @@ loc_type: city
 longitude: -21.6971
 score: 0.36
 title: Mosfellsbær
+snippet: Greater Reykjavik town between Esja and the coast, home to Halldór Laxness's preserved farmhouse.
 type: location
 ---
 

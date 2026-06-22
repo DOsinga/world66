@@ -9,11 +9,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Falaise_de_l%27Escal%C3%A8
 latitude: 43.7378
 loc_type: feature
 longitude: 6.3639
+score: 0.63
+snippet: Haute-Provence limestone canyon where the turquoise Verdon River cuts between
+  high cliffs
 sources:
 - https://en.wikipedia.org/wiki/Verdon_Gorge
 title: Verdon Gorge
 type: location
-score: 0.63
 ---
 
 The Verdon Gorge is Europe's answer to the Grand Canyon — a dramatic slash through the limestone plateau of Haute-Provence, carved by the turquoise Verdon river to depths of up to 700 metres. It is the largest canyon in Europe, and one of the great natural spectacles of the continent. The water at the bottom glows an implausible blue-green — the colour comes from the glacial silt suspended in the flow from the Alps upstream — and the walls rise in sheer bands of white, grey, and ochre.

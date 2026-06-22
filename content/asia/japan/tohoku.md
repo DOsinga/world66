@@ -5,6 +5,8 @@ latitude: 39.173618
 loc_type: region
 longitude: 140.731915
 score: 0.64
+snippet: Northeastern Honshu region of rural festivals, hot springs, and Japan's resilient
+  old traditions.
 title: Tohoku
 type: location
 ---

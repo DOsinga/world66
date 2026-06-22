@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 62.1017
 longitude: 7.0967
+snippet: "Narrow Norwegian fjord of sheer cliffs and waterfalls, with Geiranger village at its head."
 title: Geirangerfjord
 type: location
 score: 0.76

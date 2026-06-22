@@ -6,6 +6,8 @@ latitude: 11.998551
 loc_type: city
 longitude: 120.205161
 score: 0.66
+snippet: Palawan dive town beside Tagbanua-managed Coron Island, known for Japanese
+  wrecks and clear limestone lakes.
 title: Coron
 type: location
 ---

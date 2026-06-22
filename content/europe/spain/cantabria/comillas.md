@@ -9,6 +9,8 @@ latitude: 43.3855
 loc_type: city
 longitude: -4.2902
 score: 0.51
+snippet: Cantabrian coastal town whose small fishing-village scale hides Gaudí's El
+  Capricho and grand modernista monuments.
 title: Comillas
 type: location
 ---

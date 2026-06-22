@@ -6,6 +6,8 @@ latitude: 47.2517
 loc_type: city
 longitude: 16.9342
 score: 0.39
+snippet: Western Hungarian spa town with a Renaissance castle, thermal baths, and
+  arboretum beside the Gyöngyös.
 title: Sárvár
 type: location
 ---

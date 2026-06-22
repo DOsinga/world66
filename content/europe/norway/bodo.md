@@ -11,6 +11,8 @@ latitude: 67.2844
 loc_type: city
 longitude: 14.3818
 score: 0.48
+snippet: Arctic Circle coastal city and Lofoten gateway, rebuilt after wartime bombing
+  beneath fjords and mountains
 title: Bodø
 type: location
 ---

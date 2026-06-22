@@ -9,6 +9,8 @@ latitude: 52.252
 loc_type: city
 longitude: 6.161
 score: 0.44
+snippet: Dutch IJssel river city with a medieval centre and centuries-old Deventer
+  Koek baking tradition
 title: Deventer
 type: location
 ---

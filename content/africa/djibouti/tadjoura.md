@@ -6,6 +6,8 @@ latitude: 11.7833
 loc_type: city
 longitude: 42.8833
 score: 0.32
+snippet: Historic port on the Gulf of Tadjoura, with whitewashed old-town buildings
+  and Afar heritage.
 title: Tadjoura
 type: location
 ---

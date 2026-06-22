@@ -10,6 +10,8 @@ latitude: 11.7089
 loc_type: city
 longitude: 122.364
 score: 0.4
+snippet: Aklan market town and Boracay gateway, best known for the drum-filled Ati-Atihan
+  Festival
 title: Kalibo
 type: location
 ---

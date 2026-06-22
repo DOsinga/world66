@@ -6,6 +6,7 @@ loc_type: region
 longitude: 8.034963
 score: 0.54
 title: Agder
+snippet: "Southern Norwegian coastal region of sheltered bays, rocky islands, white wooden towns, and warm summer harbours."
 type: location
 ---
 

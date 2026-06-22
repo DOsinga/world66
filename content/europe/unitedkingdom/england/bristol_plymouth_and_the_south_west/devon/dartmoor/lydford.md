@@ -11,6 +11,8 @@ latitude: 50.646
 loc_type: city
 longitude: -4.0828
 score: 0.44
+snippet: Dartmoor-edge village with a wooded river gorge, Norman castle, and medieval
+  church above the Lyd.
 title: Lydford
 type: location
 ---

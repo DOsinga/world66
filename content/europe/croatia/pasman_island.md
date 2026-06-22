@@ -4,6 +4,7 @@ done:
 latitude: 43.961
 longitude: 15.383
 title: Pašman Island
+snippet: "Slender Zadar archipelago island of pine woods, olive groves, and clear currents in the Pašman Channel."
 type: location
 score: 0.56
 loc_type: region

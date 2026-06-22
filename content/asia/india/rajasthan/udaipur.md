@@ -13,6 +13,7 @@ loc_type: city
 longitude: 73.6863
 score: 0.66
 title: Udaipur
+snippet: Rajasthani lake city of white palaces, Aravalli hills, ghats, and sunset views over Lake Pichola.
 type: location
 ---
 

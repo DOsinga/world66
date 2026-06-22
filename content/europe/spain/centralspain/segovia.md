@@ -10,6 +10,8 @@ latitude: 40.9481
 loc_type: city
 longitude: -4.1172
 score: 0.59
+snippet: Walled Castilian city where a Roman aqueduct strides into the old centre
+  below the Alcázar
 title: Segovia
 type: location
 ---

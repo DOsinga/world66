@@ -9,6 +9,8 @@ latitude: 31.218286
 loc_type: city
 longitude: -81.361208
 score: 0.44
+snippet: Georgia Golden Isle with a residential village feel, seafood restaurants,
+  and beaches reached by causeway from Brunswick.
 title: St. Simons Island
 type: location
 ---

@@ -1,18 +1,20 @@
 ---
 done:
   location_enrich: '2026-05-17'
+image: meizhouisland.jpg
+image_attribution: Jet.Xu
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Mazu_Temple.jpg
 latitude: 25.1
 loc_type: feature
 longitude: 119.1
+score: 0.35
+snippet: Fujian island pilgrimage site, revered as Mazu’s birthplace and home to her
+  mother temple.
 sources:
 - https://en.wikivoyage.org/wiki/Putian
 title: Meizhou Island
 type: location
-image: meizhouisland.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Mazu_Temple.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Jet.Xu
-score: 0.35
 ---
 
 Meizhou Island is a small island off the coast of Putian, connected to the mainland by ferry, and it is one of the most important pilgrimage sites in the Chinese religious world. This is where Mazu was born — Lin Mo, a young woman who drowned in the strait in the 10th century and was subsequently venerated as the goddess of the sea. The cult spread wherever Fujianese and Cantonese sailors travelled, generating more than three thousand temples worldwide, but the Mazu Temple complex on the ridge of Meizhou Island remains the mother temple and the destination for serious pilgrims.

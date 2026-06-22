@@ -14,6 +14,7 @@ snippet: Historic Frisian port town on the IJsselmeer, known for the Jopie Huism
   Museum and its late-Gothic church.
 title: Workum
 type: location
+snippet: "Historic Frisian town on the IJsselmeer, once a Zuiderzee trading port with stepped-gable streets."
 ---
 
 Workum is one of the eleven historic Frisian cities, a quiet town on the shore of the IJsselmeer with a handsome church tower and a traditional harbour. It has city rights since 1399 and the stepped gables along its streets tell the story of a prosperous trading port on what was then the Zuiderzee. Today it is calm and unhurried, which is precisely why the Dutch come here.

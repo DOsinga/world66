@@ -5,6 +5,8 @@ latitude: 27.9202
 loc_type: region
 longitude: -15.5474
 score: 0.68
+snippet: Volcanic Canary Island of resort beaches, pine-clad ravines, and cloud-catching
+  interior mountains.
 title: Gran Canaria
 type: location
 ---

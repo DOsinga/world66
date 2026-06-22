@@ -9,6 +9,8 @@ latitude: 43.0718
 loc_type: city
 longitude: -70.7626
 score: 0.45
+snippet: Historic New Hampshire seaport with colonial streets, brick downtown blocks,
+  and the Strawbery Banke museum
 title: Portsmouth
 type: location
 ---

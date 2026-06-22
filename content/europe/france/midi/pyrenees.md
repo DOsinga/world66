@@ -8,6 +8,8 @@ latitude: 42.95
 loc_type: region
 longitude: 0.15
 score: 0.69
+snippet: French mountain region along the Spanish border, with high passes, ski villages,
+  and Tour de France cols.
 title: Pyrenees
 type: location
 ---

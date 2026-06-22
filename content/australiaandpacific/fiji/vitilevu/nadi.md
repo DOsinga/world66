@@ -9,6 +9,8 @@ latitude: -17.7753
 loc_type: city
 longitude: 177.4356
 score: 0.55
+snippet: Fijian gateway town on Viti Levu, marked by Indo-Fijian markets and easy
+  island connections.
 title: Nadi
 type: location
 ---

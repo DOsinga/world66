@@ -6,6 +6,8 @@ latitude: -34.752387
 loc_type: city
 longitude: 149.719801
 score: 0.32
+snippet: Southern Tablelands country city with Victorian streetscapes, rail history,
+  and Australia's famous Big Merino.
 title: Goulburn
 type: location
 ---

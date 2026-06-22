@@ -9,6 +9,8 @@ latitude: 33.30617
 loc_type: city
 longitude: 44.387221
 score: 0.13
+snippet: Tigris capital founded by the Abbasids, once a circular city at the heart
+  of the Islamic Golden Age
 title: Baghdad
 type: location
 ---

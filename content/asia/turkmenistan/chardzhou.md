@@ -9,6 +9,8 @@ latitude: 39.087278
 loc_type: city
 longitude: 63.572502
 score: 0.21
+snippet: Amu Darya border city and eastern Turkmenistan transport hub, also known
+  as Türkmenabat.
 title: Chardzhou
 type: location
 ---

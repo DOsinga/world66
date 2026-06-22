@@ -10,6 +10,8 @@ latitude: 51.193339
 loc_type: city
 longitude: 8.533406
 score: 0.41
+snippet: Sauerland winter-sports town in western Germany, with ski slopes, hiking,
+  mountain biking, and bobrun facilities.
 title: Winterberg
 type: location
 ---

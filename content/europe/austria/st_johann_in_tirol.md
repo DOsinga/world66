@@ -9,6 +9,8 @@ latitude: 47.5224
 loc_type: city
 longitude: 12.4287
 score: 0.51
+snippet: Kitzbühel Alps market town offering a quieter base for skiing, hiking, and
+  alpine rail travel.
 title: St. Johann in Tirol
 type: location
 ---

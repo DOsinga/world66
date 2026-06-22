@@ -9,6 +9,8 @@ latitude: 30.495237
 loc_type: city
 longitude: 47.809098
 score: 0.19
+snippet: Iraq's southern seaport on the Shatt al-Arab, linked to Sinbad and marshland
+  trade
 title: Basra
 type: location
 ---

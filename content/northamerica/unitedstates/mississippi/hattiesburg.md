@@ -10,6 +10,8 @@ latitude: 31.3271
 loc_type: city
 longitude: -89.2903
 score: 0.27
+snippet: Southern Mississippi college town in the Pine Belt, energised by two universities
+  and local food.
 sources:
 - https://en.wikipedia.org/wiki/Hattiesburg,_Mississippi
 title: Hattiesburg

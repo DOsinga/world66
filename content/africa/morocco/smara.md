@@ -10,6 +10,7 @@ latitude: 26.743583
 loc_type: city
 longitude: -11.664549
 score: 0.21
+snippet: "Remote Saharan town in Western Sahara, known for Ma El Ainin's ruined religious complex."
 title: Smara
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 44.907611
 loc_type: city
 longitude: 13.773154
 score: 0.5
+snippet: Istrian island national park shaped by Tito's retreat, safari animals, and
+  Roman traces.
 title: Brioni Islands
 type: location
 ---

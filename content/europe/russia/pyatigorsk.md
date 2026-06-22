@@ -11,6 +11,7 @@ loc_type: city
 longitude: 43.036367
 score: 0.34
 title: Pyatigorsk
+snippet: "Northern Caucasus spa town framed by volcanic peaks and the mineral-water resort culture of Mount Mashuk."
 type: location
 ---
 

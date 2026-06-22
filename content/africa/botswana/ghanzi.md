@@ -10,6 +10,8 @@ latitude: -22.145794
 loc_type: city
 longitude: 22.761083
 score: 0.27
+snippet: Central Kalahari ranching town, used as a gateway to San cultural walks and
+  art centres.
 title: Ghanzi
 type: location
 ---

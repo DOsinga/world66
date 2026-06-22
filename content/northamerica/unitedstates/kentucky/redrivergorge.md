@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 37.7422
 longitude: -83.5753
+snippet: "Eastern Kentucky canyon system in Daniel Boone National Forest, known for sandstone arches and rock climbing."
 title: Red River Gorge
 type: location
 score: 0.47

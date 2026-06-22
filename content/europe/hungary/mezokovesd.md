@@ -10,6 +10,8 @@ latitude: 47.809753
 loc_type: city
 longitude: 20.566089
 score: 0.36
+snippet: Small northeastern Hungarian town and heartland of Matyó folk culture, known
+  for elaborate floral embroidery.
 title: Mezőkövesd
 type: location
 ---

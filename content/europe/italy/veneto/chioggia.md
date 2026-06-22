@@ -10,6 +10,8 @@ latitude: 45.218894
 loc_type: city
 longitude: 12.278581
 score: 0.49
+snippet: Fishing town at the southern Venetian lagoon, with canals, bridges, and a
+  working harbour.
 title: Chioggia
 type: location
 ---

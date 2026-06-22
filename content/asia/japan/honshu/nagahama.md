@@ -10,6 +10,8 @@ latitude: 35.380862
 loc_type: city
 longitude: 136.278507
 score: 0.47
+snippet: Lake Biwa city with machiya streets, glass workshops, and a reconstructed
+  castle above the shore
 title: Nagahama
 type: location
 ---

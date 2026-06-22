@@ -6,6 +6,8 @@ latitude: 44.857288
 loc_type: city
 longitude: 24.872116
 score: 0.3
+snippet: Southern Romanian city on the Argeș River, known for Dacia industry and nearby
+  Carpathian foothills.
 title: Pitești
 type: location
 ---

@@ -7,6 +7,7 @@ latitude: 23.258486
 loc_type: city
 longitude: 77.401989
 score: 0.37
+snippet: Madhya Pradesh capital known for lakes, mosques, and the old city's Taj-ul-Masajid.
 title: Bhopal
 type: location
 ---

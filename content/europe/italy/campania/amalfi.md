@@ -10,6 +10,8 @@ latitude: 40.63367
 loc_type: region
 longitude: 14.602609
 score: 0.84
+snippet: Cliff-hung Campanian coast where pastel towns and lemon terraces line the
+  southern Sorrento peninsula.
 title: Amalfi
 type: location
 ---

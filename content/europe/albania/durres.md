@@ -6,6 +6,8 @@ latitude: 41.313255
 loc_type: city
 longitude: 19.446235
 score: 0.42
+snippet: Albania's main Adriatic port, founded as Epidamnos and home to a large Roman
+  amphitheatre.
 title: Durres
 type: location
 ---

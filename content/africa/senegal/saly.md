@@ -10,6 +10,8 @@ latitude: 14.441115
 loc_type: city
 longitude: -17.01483
 score: 0.4
+snippet: Petite Côte resort town south of Dakar, built around a long sandy beach and
+  package-holiday hotels.
 title: Saly
 type: location
 ---

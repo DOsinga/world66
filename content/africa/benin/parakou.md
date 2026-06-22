@@ -10,6 +10,8 @@ latitude: 9.34
 loc_type: city
 longitude: 2.6278
 score: 0.26
+snippet: Northern Benin commercial hub at the railway end, with a large market for
+  Bariba textiles.
 title: Parakou
 type: location
 ---

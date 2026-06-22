@@ -10,6 +10,7 @@ latitude: 55.86117
 loc_type: city
 longitude: 9.844477
 score: 0.39
+snippet: East Jutland fjord town known for large concerts and a major medieval festival
 title: Horsens
 type: location
 ---

@@ -12,6 +12,7 @@ latitude: 43.25608
 loc_type: city
 longitude: -79.872858
 score: 0.35
+snippet: Lake Ontario steel city cut by the Niagara Escarpment and ringed with waterfalls.
 title: Hamilton
 type: location
 ---

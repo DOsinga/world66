@@ -10,6 +10,8 @@ latitude: 48.4827
 loc_type: city
 longitude: 135.084
 score: 0.32
+snippet: Far Eastern Russian city on the Amur River, with broad boulevards and Trans-Siberian
+  connections
 title: Khabarovsk
 type: location
 ---

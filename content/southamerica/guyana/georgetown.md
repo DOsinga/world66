@@ -12,6 +12,8 @@ latitude: 6.803256
 loc_type: city
 longitude: -58.14554
 score: 0.34
+snippet: Guyanese capital below sea level, marked by wooden colonial architecture
+  and Dutch-engineered canals.
 title: Georgetown
 type: location
 ---

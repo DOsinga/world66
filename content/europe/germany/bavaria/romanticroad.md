@@ -5,6 +5,8 @@ latitude: 49.167757
 loc_type: region
 longitude: 10.331195
 score: 0.73
+snippet: Bavarian scenic route linking Würzburg and Füssen through medieval towns,
+  baroque churches, and Alpine foothills.
 title: Romantic Road
 type: location
 ---

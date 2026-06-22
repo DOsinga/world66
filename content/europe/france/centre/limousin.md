@@ -1,12 +1,14 @@
 ---
-title: Limousin
-type: location
-latitude: 45.6879
-longitude: 1.6348
 done:
   location_cleanup: 2026-04-06
-score: 0.43
+latitude: 45.6879
 loc_type: region
+longitude: 1.6348
+score: 0.43
+snippet: Rural French region of green meadows, river gorges, porcelain towns, and
+  hearty cattle-country cooking.
+title: Limousin
+type: location
 ---
 
 The Limousin is one of the least visited and least populated regions of France, spread across the western slopes of the Massif Central. For travellers in search of unspoiled countryside — rolling green meadows, deep river gorges, ancient village churches, and very few tourists — it is hard to beat.

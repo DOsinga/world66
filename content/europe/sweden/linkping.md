@@ -10,6 +10,7 @@ loc_type: city
 longitude: 15.624525
 score: 0.4
 title: Linköping
+snippet: Östergötland university city shaped by medieval churches, aerospace engineering, and the SAAB aircraft industry
 type: location
 ---
 

@@ -9,6 +9,7 @@ latitude: -20.2709
 loc_type: city
 longitude: 30.9332
 score: 0.47
+snippet: Shona stone-city ruins whose Great Enclosure gave modern Zimbabwe its name.
 title: Great Zimbabwe
 type: location
 ---

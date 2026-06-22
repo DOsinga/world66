@@ -10,6 +10,8 @@ latitude: 23.8539
 loc_type: city
 longitude: 73.7087
 score: 0.36
+snippet: Southern Rajasthani town in the Aravalli foothills, known for Juna Mahal
+  and Bhil village country.
 title: Dungarpur
 type: location
 ---

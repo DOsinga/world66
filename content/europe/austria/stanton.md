@@ -9,6 +9,8 @@ latitude: 47.13
 loc_type: city
 longitude: 10.27
 score: 0.58
+snippet: Arlberg ski village with a British tradition and demanding off-piste terrain
+  below the Valluga
 title: St. Anton
 type: location
 ---

@@ -8,6 +8,8 @@ score: 0.72
 title: Rock Islands
 type: location
 loc_type: feature
+snippet: Limestone island maze in Palau's lagoon, known for mushroom-shaped islets,
+  marine lakes, and clear dive water
 ---
 
 The Rock Islands of Palau are one of the most extraordinary landscapes in the Pacific. Roughly 250 to 300 limestone islands rise from the turquoise lagoon between Koror and Peleliu, their bases undercut by centuries of erosion so they look like green mushrooms floating on the water. The whole area was designated a UNESCO World Heritage Site in 2012, and for good reason -- there is nothing else quite like it on earth.

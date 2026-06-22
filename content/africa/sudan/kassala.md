@@ -10,6 +10,8 @@ latitude: 16.043199
 loc_type: city
 longitude: 36.018111
 score: 0.26
+snippet: Eastern Sudanese city beside the Eritrean border, backed by the dramatic
+  Taka Mountains.
 title: Kassala
 type: location
 ---

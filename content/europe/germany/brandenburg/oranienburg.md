@@ -12,6 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Oranienburg
 - https://en.wikivoyage.org/wiki/Oranienburg
 title: Oranienburg
+snippet: Havel River town north of Berlin, weighted by Sachsenhausen and layered with Baroque palace history
 type: location
 score: 0.31
 ---

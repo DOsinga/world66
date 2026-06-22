@@ -10,6 +10,7 @@ latitude: 42.812124
 loc_type: city
 longitude: -114.898669
 score: 0.3
+snippet: "Small Snake River Canyon town known for nearby Pliocene fossil beds and the Hagerman Horse."
 title: Hagerman
 type: location
 ---

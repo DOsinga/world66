@@ -9,6 +9,8 @@ latitude: 58.380916
 loc_type: feature
 longitude: -5.188608
 score: 0.38
+snippet: Scottish wildlife island of sandstone cliffs and dense summer seabird colonies
+  off Sutherland.
 sources:
 - https://en.wikipedia.org/wiki/Handa_Island
 - https://en.wikipedia.org/wiki/Tarbet,_Sutherland

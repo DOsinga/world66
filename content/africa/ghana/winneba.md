@@ -10,6 +10,8 @@ latitude: 5.35006
 loc_type: city
 longitude: -0.62134
 score: 0.31
+snippet: Ghanaian coastal town with a fishing harbour, university campus, and the
+  dramatic Aboakyere deer-hunting festival.
 title: Winneba
 type: location
 ---

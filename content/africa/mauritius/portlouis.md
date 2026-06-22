@@ -10,6 +10,8 @@ latitude: -20.162452
 loc_type: city
 longitude: 57.502804
 score: 0.5
+snippet: Mauritian capital and harbour city where colonial markets, Chinatown, and
+  Aapravasi Ghat crowd beneath mountain slopes.
 title: Port Louis
 type: location
 ---

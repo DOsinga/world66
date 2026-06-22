@@ -1,9 +1,11 @@
 ---
+latitude: 37.4138
+loc_type: region
+longitude: 127.5183
+snippet: Seoul-wrapping Korean province of fortress walls, folk villages, ski hills,
+  and DMZ day trips
 title: Gyeonggi
 type: location
-loc_type: region
-latitude: 37.4138
-longitude: 127.5183
 ---
 
 Gyeonggi Province surrounds Seoul on all sides and is the most populous province in South Korea, home to nearly 14 million people. It is not a place most visitors plan to spend time in its own right, but it contains some of the most visited destinations in the country — many of them easily reached as day trips from the capital.

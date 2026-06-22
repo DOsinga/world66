@@ -10,6 +10,7 @@ longitude: -68.99
 score: 0.65
 title: Curacao
 type: location
+snippet: Dry southern Caribbean island with pastel Dutch colonial Willemstad and sheltered shore-diving beaches.
 ---
 
 Curacao is the largest of the former Netherlands Antilles, a dry, hilly island in the southern Caribbean just off the coast of Venezuela. Its capital, [Willemstad](/northamerica/netherlandsantilles/curacao/willemstad), is a UNESCO World Heritage Site — rows of Dutch colonial buildings painted in bright pastels lining the harbour of St. Anna Bay, connected by the famous Queen Emma pontoon bridge that swings open for passing ships.

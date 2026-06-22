@@ -11,6 +11,7 @@ latitude: 20.590127
 loc_type: city
 longitude: 93.191577
 score: 0.42
+snippet: "Former Rakhine capital in western Myanmar, where fortress-like Buddhist temples rise around a small market town."
 title: Mrauk-U
 type: location
 ---

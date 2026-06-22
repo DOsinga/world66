@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
+image: yanbu.jpg
+image_attribution: Richard Mortel
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:House_of_Lawrence_of_Arabia_1915-16_in_Yanbu,_Saudi_Arabia_(2).jpg
 latitude: 24.089019
 loc_type: city
 longitude: 38.068708
 score: 0.22
+snippet: Red Sea port city in the Hejaz, split between petrochemical industry and
+  reef-rich diving waters
 title: Yanbu
 type: location
-image: yanbu.jpg
-image_source: https://commons.wikimedia.org/wiki/File:House_of_Lawrence_of_Arabia_1915-16_in_Yanbu,_Saudi_Arabia_(2).jpg
-image_license: CC BY 2.0
-image_attribution: Richard Mortel
 ---
 
 Yanbu is a Red Sea port city in the Hejaz, about 300 kilometres north of [Jeddah](/asia/saudiarabia/jeddah). Like Jubail on the Gulf coast, it has been heavily developed as an industrial and petrochemical centre since the 1970s, and the industrial city and the older historic town ([Al-Balad](/asia/saudiarabia/yanbu/old_town)) are separate areas separated both physically and in character.

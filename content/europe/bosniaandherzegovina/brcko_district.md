@@ -10,6 +10,8 @@ latitude: 44.8693
 loc_type: city
 longitude: 18.8086
 score: 0.3
+snippet: Self-governing Bosnian district on the Sava River, distinct from both main
+  post-Dayton entities.
 title: Brcko District
 type: location
 ---

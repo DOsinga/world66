@@ -10,6 +10,8 @@ latitude: 20.802957
 loc_type: city
 longitude: -156.310683
 score: 0.82
+snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
+  road to Hāna.
 title: Maui
 type: location
 ---

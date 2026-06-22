@@ -10,6 +10,8 @@ latitude: 20.8351
 loc_type: city
 longitude: 85.6022
 score: 0.25
+snippet: Central Odisha district town and former princely seat, surrounded by forested
+  hills and temple detours.
 title: Dhenkanal
 type: location
 ---

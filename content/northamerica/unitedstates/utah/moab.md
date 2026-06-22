@@ -6,6 +6,8 @@ latitude: 38.5738
 loc_type: city
 longitude: -109.5462
 score: 0.64
+snippet: Desert adventure town on the Colorado River, ringed by red rock parks and
+  canyon country
 title: Moab
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 34.3706
 loc_type: city
 longitude: 73.4718
 score: 0.29
+snippet: Azad Kashmir capital at the Jhelum-Neelum river confluence, surrounded by
+  steep forested mountains.
 sources:
 - https://en.wikipedia.org/wiki/Muzaffarabad
 title: Muzaffarabad

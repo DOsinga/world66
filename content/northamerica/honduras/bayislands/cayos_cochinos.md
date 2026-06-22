@@ -9,6 +9,8 @@ latitude: 15.96
 loc_type: city
 longitude: -86.48
 score: 0.5
+snippet: Honduran Caribbean archipelago of coral cays, Garifuna village life, and
+  a protected reef.
 title: Cayos Cochinos
 type: location
 ---

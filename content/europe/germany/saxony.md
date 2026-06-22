@@ -5,6 +5,8 @@ latitude: 50.9296
 loc_type: region
 longitude: 13.4585
 score: 0.6
+snippet: Eastern German state where Dresden baroque, Leipzig culture, and Ore Mountain
+  towns share a compact region.
 title: Saxony
 type: location
 ---

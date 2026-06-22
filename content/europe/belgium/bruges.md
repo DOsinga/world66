@@ -11,6 +11,8 @@ latitude: 51.208553
 loc_type: city
 longitude: 3.226772
 score: 0.7
+snippet: Canal city in Flanders whose medieval trading wealth left bridges, guild
+  houses, and market squares.
 title: Bruges
 type: location
 ---

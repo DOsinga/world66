@@ -10,6 +10,8 @@ latitude: 11.009
 loc_type: city
 longitude: 124.6094
 score: 0.34
+snippet: West Leyte city and sugar-country gateway to Lake Danao National Park above
+  the coast.
 title: Ormoc City
 type: location
 ---

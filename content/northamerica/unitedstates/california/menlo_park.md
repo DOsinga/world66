@@ -10,6 +10,7 @@ latitude: 37.452
 loc_type: city
 longitude: -122.178
 score: 0.29
+snippet: Affluent Peninsula city where Silicon Valley research history meets a compact Santa Cruz Avenue downtown.
 title: Menlo Park
 type: location
 ---

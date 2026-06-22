@@ -11,6 +11,7 @@ loc_type: city
 longitude: -89.5891
 score: 0.29
 title: Peoria
+snippet: Illinois River city in central Illinois, long known as a bellwether for mainstream American taste.
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 50.04303
 loc_type: city
 longitude: -110.679016
 score: 0.33
+snippet: Southeastern Alberta city above the South Saskatchewan River, historically
+  shaped by natural gas and ceramics.
 title: Medicine Hat
 type: location
 ---

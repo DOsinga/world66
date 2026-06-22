@@ -7,6 +7,8 @@ latitude: 41.940609
 loc_type: city
 longitude: -7.440603
 score: 0.35
+snippet: Galician border town in the Monterrei valley, known for thermal springs and
+  the masked Entroido carnival.
 title: Verín
 type: location
 ---

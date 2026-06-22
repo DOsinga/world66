@@ -12,6 +12,7 @@ latitude: 22.297314
 loc_type: city
 longitude: 73.194257
 score: 0.37
+snippet: Gujarati city of Gaekwad palaces, tree-lined avenues, and a strong arts tradition
 title: Vadodara
 type: location
 ---

@@ -7,6 +7,7 @@ loc_type: city
 longitude: 43.678606
 score: 0.14
 title: Tikrit
+snippet: Tigris River city north of Baghdad, known for Saddam Hussein's birthplace and recent conflict history
 type: location
 ---
 

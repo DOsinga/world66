@@ -12,6 +12,8 @@ latitude: 51.4416
 loc_type: city
 longitude: 5.4697
 score: 0.41
+snippet: Dutch design and technology city shaped by Philips, the High Tech Campus,
+  and Design Academy.
 title: Eindhoven
 type: location
 ---

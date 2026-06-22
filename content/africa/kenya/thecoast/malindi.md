@@ -9,6 +9,8 @@ latitude: -3.229594
 loc_type: city
 longitude: 39.975088
 score: 0.43
+snippet: Kenyan coastal town with Swahili history, Indian Ocean beaches, and access
+  to marine parks.
 title: Malindi
 type: location
 ---

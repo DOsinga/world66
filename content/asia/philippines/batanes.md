@@ -10,6 +10,8 @@ latitude: 20.644247
 loc_type: city
 longitude: 121.893946
 score: 0.54
+snippet: Northern Philippine island province of Ivatan stone houses, green hills,
+  and Pacific cliffs.
 title: Batanes
 type: location
 ---

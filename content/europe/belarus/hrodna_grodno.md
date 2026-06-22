@@ -10,6 +10,8 @@ latitude: 53.6884
 loc_type: city
 longitude: 23.8258
 score: 0.35
+snippet: Western Belarusian river city with Polish-Lithuanian heritage, baroque churches,
+  synagogues, and twin castles.
 title: Hrodna (Grodno)
 type: location
 ---

@@ -3,6 +3,8 @@ done:
   location_cleanup: 2026-04-07
 latitude: 62.089898
 loc_type: region
+snippet: Faroese island with the archipelago's airport, Sørvágsvatn lake, and some
+  of its sharpest coastal drama
 longitude: -7.234584
 score: 0.62
 title: Vagar

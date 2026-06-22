@@ -10,6 +10,7 @@ latitude: -17.65487
 loc_type: city
 longitude: 145.956352
 score: 0.33
+snippet: Wet Tropics township known for Paronella Park, a jungle castle beside Mena Creek waterfall.
 title: Mena Creek
 type: location
 ---

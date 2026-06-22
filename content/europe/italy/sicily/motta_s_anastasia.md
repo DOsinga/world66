@@ -10,6 +10,7 @@ latitude: 37.4648
 loc_type: city
 longitude: 14.9355
 score: 0.33
+snippet: Sicilian town west of Catania, marked by a Norman castle on a basalt plug.
 title: Motta S. Anastasia
 type: location
 ---

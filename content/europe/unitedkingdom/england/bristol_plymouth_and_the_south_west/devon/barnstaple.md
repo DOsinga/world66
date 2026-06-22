@@ -7,6 +7,7 @@ loc_type: city
 longitude: -4.060598
 score: 0.39
 title: Barnstaple
+snippet: North Devon market town on the Taw estuary, anchored by its Pannier Market and Tarka Trail.
 type: location
 ---
 

@@ -3,13 +3,14 @@ done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-06-05'
 image: sanblas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:San_Blas_(Mexico).JPG
-image_license: CC BY-SA 3.0
 image_attribution: Vic0 at en.wikipedia
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:San_Blas_(Mexico).JPG
 latitude: 21.538143
 loc_type: city
 longitude: -105.183878
 score: 0.39
+snippet: Small Nayarit fishing and surfing town with a slow colonial port character.
 title: San Blas
 type: location
 ---

@@ -11,6 +11,7 @@ loc_type: region
 longitude: -61.371
 score: 0.64
 title: Dominica
+snippet: Volcanic Caribbean island of rainforest, rivers, hot springs, and a rugged interior made for hiking.
 type: location
 ---
 

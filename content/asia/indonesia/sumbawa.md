@@ -9,6 +9,8 @@ latitude: -8.594902
 loc_type: city
 longitude: 117.271607
 score: 0.4
+snippet: Rugged Indonesian island of former sultanates, horse culture, and volcanic
+  country between Lombok and Flores.
 sources:
 - https://en.wikipedia.org/wiki/Sumbawa_Besar
 title: Sumbawa

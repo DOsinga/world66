@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Appalachian_Trail_plaque_S
 latitude: 34.6266
 loc_type: feature
 longitude: -84.1935
+score: 0.33
+snippet: Blue Ridge summit marking the Appalachian Trail's southern terminus in north
+  Georgia's Chattahoochee forest.
 sources:
 - https://en.wikipedia.org/wiki/Springer_Mountain
 - https://en.wikipedia.org/wiki/Appalachian_Trail
 title: Springer Mountain
 type: location
-score: 0.33
 ---
 
 Springer Mountain is a 3,782-foot summit in the Chattahoochee National Forest of north Georgia, distinguished from the dozens of similar Blue Ridge peaks around it by one fact: a small bronze plaque on its bare rock face marks the southern terminus of the Appalachian Trail. From here the trail runs 2,194 miles north to [Mount Katahdin](/northamerica/unitedstates/maine/katahdin) in Maine, and every thru-hiker — somewhere around 3,000 a year start, about 25 percent finish — begins their walk here, usually in March or early April.

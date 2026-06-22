@@ -11,6 +11,7 @@ latitude: 50.852195
 loc_type: city
 longitude: 2.884605
 score: 0.53
+snippet: Small Flemish town rebuilt after World War I, with medieval cloth-trade grandeur and battlefield memory entwined.
 title: Ypres
 type: location
 ---

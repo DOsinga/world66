@@ -11,6 +11,7 @@ loc_type: city
 longitude: -62.1874
 score: 0.47
 title: Montserrat
+snippet: "Volcanic Caribbean island territory marked by Irish heritage and the buried former capital of Plymouth."
 type: location
 ---
 

@@ -5,6 +5,8 @@ latitude: -46.0
 loc_type: region
 longitude: -69.0
 score: 0.73
+snippet: Vast Argentine wilderness of steppe, glaciers, jagged peaks, and wildlife-rich
+  Atlantic coastline
 title: Patagonia
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 50.8434
 loc_type: city
 longitude: 3.6041
 score: 0.42
+snippet: Flemish Ardennes town on the Scheldt, inseparable from the Tour of Flanders
+  and its cobbled climbs.
 title: Oudenaarde
 type: location
 ---

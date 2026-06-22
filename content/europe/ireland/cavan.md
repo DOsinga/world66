@@ -10,6 +10,8 @@ latitude: 54.034975
 loc_type: city
 longitude: -7.293702
 score: 0.34
+snippet: Irish county town in drumlin country, surrounded by lakes, angling waters,
+  and Shannon headwaters
 title: Cavan
 type: location
 ---

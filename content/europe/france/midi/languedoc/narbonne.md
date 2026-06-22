@@ -11,6 +11,8 @@ latitude: 43.1836
 loc_type: city
 longitude: 3.0042
 score: 0.48
+snippet: Roman Languedoc city on the Canal de la Robine, with markets, Gothic stone,
+  and ancient roads
 title: Narbonne
 type: location
 ---

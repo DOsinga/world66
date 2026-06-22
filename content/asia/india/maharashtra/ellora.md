@@ -7,6 +7,7 @@ image: ellora.jpg
 image_attribution: Krishsa
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ellora,_Aurangabad,_Maharashtra.jpg
+snippet: Rock-cut archaeological site in Maharashtra, where Buddhist, Hindu, and Jain caves share one basalt cliff.
 title: Ellora
 type: location
 score: 0.61

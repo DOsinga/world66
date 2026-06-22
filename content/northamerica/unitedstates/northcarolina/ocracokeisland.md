@@ -13,6 +13,8 @@ sources:
 - https://en.wikipedia.org/wiki/Ocracoke_Island
 title: Ocracoke Island
 type: location
+snippet: Ferry-only Outer Banks island with unspoiled beaches, a small village, and
+  Blackbeard lore.
 ---
 
 Ocracoke Island is a small island off the coast of North Carolina, accessible only by ferry, and one of the most peaceful places on the East Coast. Long stretches of unspoiled beach, magnificent sunrises and sunsets over the Atlantic, and a pace of life that is genuinely slow make this a retreat in every sense.

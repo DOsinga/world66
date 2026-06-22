@@ -8,6 +8,8 @@ longitude: 102.1034
 score: 0.39
 title: Chantaburi
 type: location
+snippet: Eastern Thai riverside city known for gemstones, fruit orchards, and a French-influenced
+  cathedral quarter.
 ---
 
 Chantaburi is a prosperous provincial capital on [Thailand](/asia/thailand)'s eastern seaboard, about 245 km southeast of Bangkok. The city sits on the Chanthaburi River, ten kilometres inland from the Gulf of Thailand, and has long been famous for two things: rubies and sapphires. The mines surrounding the town produced most of the world's high-end coloured stones from the 1960s to the 1990s. The mines are now exhausted but the [gem market](/asia/thailand/chantaburi/chanta_buri/gem_market) still trades every weekend, drawing buyers from Geneva, Bangkok, and the diamond districts of Mumbai.

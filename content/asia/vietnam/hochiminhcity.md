@@ -11,6 +11,8 @@ latitude: 10.775525
 loc_type: city
 longitude: 106.702105
 score: 0.59
+snippet: Vietnam's commercial capital, a fast-moving city of markets, motorbikes,
+  and French colonial landmarks.
 title: Ho Chi Minh City
 type: location
 ---

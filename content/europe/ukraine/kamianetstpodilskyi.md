@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:68-104-9007_Kamianets-Podi
 latitude: 48.6774
 loc_type: city
 longitude: 26.5797
+score: 0.46
+snippet: Fortified Ukrainian old town on a Smotrych River island, dominated by a many-towered
+  medieval castle.
 sources:
 - https://en.wikipedia.org/wiki/Kamianets-Podilskyi
 - https://en.wikivoyage.org/wiki/Kamianets-Podilskyi
 title: Kamianets-Podilskyi
 type: location
-score: 0.46
 ---
 
 Kamianets-Podilskyi is one of the most dramatic small cities in Ukraine — an old town set on a rocky island formed by a horseshoe bend of the Smotrych River, connected to the mainland by a single narrow bridge, and dominated by a formidable medieval castle at the island's western tip. The combination of the canyon landscape, the castle, and the densely packed old town inside the loop of the river makes it visually extraordinary and very unlike anywhere else in central Europe.

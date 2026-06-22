@@ -8,12 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Monte_Circeo_e_Villa_Volpi
 latitude: 41.3014
 loc_type: city
 longitude: 13.0261
+score: 0.43
+snippet: Tyrrhenian planned town built from reclaimed Pontine Marshes, with striking
+  Italian rationalist architecture
 sources:
 - https://en.wikipedia.org/wiki/Sabaudia
 - https://en.wikipedia.org/wiki/Circeo_National_Park
 title: Sabaudia
 type: location
-score: 0.43
 ---
 
 Sabaudia is a planned town on the Tyrrhenian coast about 100 km south of [Rome](/europe/italy/lazio/rome), built between 1933 and 1934 on land reclaimed from the Pontine Marshes. The town was designed and constructed in 253 days by a young team of rationalist architects — Cancellotti, Montuori, Piccinato, and Scalpelli — and it is, with [Latina](/europe/italy/lazio/latina) and a handful of others, the most coherent surviving example of Italian Fascist-era new-town planning. Where Latina has been swallowed by sprawl, Sabaudia has stayed close to its original scale, and the centre is now protected as a piece of twentieth-century heritage.

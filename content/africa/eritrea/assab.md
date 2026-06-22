@@ -9,6 +9,8 @@ latitude: 13.009129
 loc_type: city
 longitude: 42.74446
 score: 0.18
+snippet: Remote southern Eritrean Red Sea port with Italian colonial traces and a
+  hot, arid coastal setting.
 title: Assab
 type: location
 ---

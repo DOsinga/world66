@@ -10,6 +10,8 @@ latitude: 40.455683
 loc_type: city
 longitude: -109.528474
 score: 0.39
+snippet: Uintah Basin town on Utah's dinosaur frontier, near fossil quarries, red-rock
+  canyons, and Flaming Gorge.
 title: Vernal
 type: location
 ---

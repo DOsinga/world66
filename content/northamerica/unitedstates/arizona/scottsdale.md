@@ -10,6 +10,8 @@ latitude: 33.494219
 loc_type: city
 longitude: -111.926018
 score: 0.49
+snippet: Sonoran Desert resort city beside Phoenix, with adobe Old Town galleries
+  and polished spa culture.
 title: Scottsdale
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: -33.577376
 loc_type: city
 longitude: 115.825129
 score: 0.31
+snippet: Southwest Australian country town known for Preston River orchards and Donnybrook
+  sandstone heritage.
 title: Donnybrook
 type: location
 ---

@@ -2,19 +2,21 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-23'
+image: calabar.jpg
+image_attribution: Onyinyeonuoha
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Calabar_Group_2.jpg
 latitude: 4.9796
 loc_type: city
 longitude: 8.33736
 score: 0.35
+snippet: Southeastern Nigerian river port with colonial history, Efik heritage, and
+  access to rainforest reserves.
 sources:
 - https://en.wikipedia.org/wiki/Calabar
 - https://en.wikipedia.org/wiki/Mary_Slessor
 title: Calabar
 type: location
-image: calabar.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Calabar_Group_2.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Onyinyeonuoha
 ---
 
 Calabar is a tropical river port in the far south-east of Nigeria, sitting on a ridge above the Calabar River just upstream of the Bight of Biafra. It is by some margin the most pleasant city in Nigeria — green, well-laid-out, cleaner and safer than most of the country, and with a long history as a trading centre stretching back to the 15th century, when Portuguese traders first arrived here. In the 19th century it was the headquarters of the British Niger Coast Protectorate and a major embarkation point for the Atlantic slave trade — an estimated 200,000 enslaved Africans passed through this port. Presbyterian missionaries, most famously the Scot **Mary Slessor**, arrived in the 1870s and eventually helped put a stop to it.

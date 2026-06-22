@@ -6,6 +6,8 @@ latitude: 25.1288
 loc_type: city
 longitude: 56.3264
 score: 0.42
+snippet: Eastern UAE emirate on the Gulf of Oman, backed by the Hajar Mountains and
+  known for diving.
 title: Fujairah
 type: location
 ---

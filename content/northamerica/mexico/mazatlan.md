@@ -6,6 +6,8 @@ latitude: 23.203578
 loc_type: city
 longitude: -106.420839
 score: 0.53
+snippet: Pacific port city with a beach resort strip, restored old town, and long
+  seafront malecón
 title: Mazatlan
 type: location
 ---

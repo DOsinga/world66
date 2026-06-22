@@ -10,6 +10,8 @@ latitude: 38.175673
 loc_type: city
 longitude: 20.48788
 score: 0.55
+snippet: Cephalonia's rebuilt capital on a sheltered bay, with a waterfront market
+  and the Drapano Bridge.
 title: Argostoli
 type: location
 ---

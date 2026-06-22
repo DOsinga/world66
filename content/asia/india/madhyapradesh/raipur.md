@@ -10,6 +10,8 @@ latitude: 21.238091
 loc_type: city
 longitude: 81.633699
 score: 0.24
+snippet: Chhattisgarh capital and commercial gateway to central India's tribal heartlands,
+  forests, and temple sites
 title: Raipur
 type: location
 ---

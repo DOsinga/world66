@@ -9,6 +9,8 @@ latitude: 24.5551
 loc_type: city
 longitude: -81.78
 score: 0.62
+snippet: End-of-the-road Florida island city of Old Town porches, Duval Street bars,
+  and Caribbean light.
 title: Key West
 type: location
 ---

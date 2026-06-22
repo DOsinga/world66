@@ -10,6 +10,8 @@ latitude: 37.9829
 loc_type: city
 longitude: -120.3822
 score: 0.39
+snippet: Southern Gold Country town with a Mexican-miner name, historic downtown,
+  and Columbia nearby.
 title: Sonora
 type: location
 ---

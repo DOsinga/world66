@@ -9,6 +9,8 @@ latitude: 16.887
 loc_type: city
 longitude: -24.9812
 score: 0.5
+snippet: Cape Verdean harbour city on São Vicente, famed for morna music and faded
+  colonial streets
 title: Mindelo
 type: location
 ---

@@ -1,9 +1,11 @@
 ---
+latitude: 38.65
+loc_type: region
+longitude: 128.12
+snippet: Granite mountain region on North Korea's east coast, long celebrated in Korean
+  poetry and painting
 title: Kumgang Mountains
 type: location
-loc_type: region
-latitude: 38.65
-longitude: 128.12
 ---
 
 The Kumgang Mountains (Diamond Mountains) rise along North Korea's eastern coast, a range of granite peaks and gorges that have been celebrated in Korean poetry and painting for over a thousand years. From 1998 to 2008 they were the site of a remarkable experiment: a joint tourist project between North Korea and the South Korean conglomerate Hyundai Asan allowed South Korean tourists to visit the mountains overland or by sea, bringing limited contact between the divided peninsula's people.

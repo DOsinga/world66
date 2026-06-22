@@ -5,6 +5,8 @@ latitude: 33.0
 loc_type: region
 longitude: 130.5
 score: 0.75
+snippet: Southern Japanese main island of smoking volcanoes, hot springs, and long
+  links with overseas trade
 title: Kyushu
 type: location
 ---

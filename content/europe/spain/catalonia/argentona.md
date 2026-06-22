@@ -10,6 +10,8 @@ latitude: 41.555433
 loc_type: city
 longitude: 2.400279
 score: 0.36
+snippet: Maresme town near Barcelona with Modernista villas, mineral springs, and
+  a museum devoted to Catalan water jugs.
 title: Argentona
 type: location
 ---

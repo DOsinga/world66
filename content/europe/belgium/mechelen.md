@@ -9,6 +9,7 @@ loc_type: city
 longitude: 4.480345
 score: 0.49
 title: Mechelen
+snippet: "Flemish small city between Brussels and Antwerp, with St. Rumbold's Cathedral above guild-house streets."
 type: location
 ---
 

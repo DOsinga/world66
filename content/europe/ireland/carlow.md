@@ -4,6 +4,7 @@ done:
 latitude: 52.8408
 longitude: -6.9261
 title: Carlow
+snippet: Small southeastern Irish county and Barrow River town, with castle ruins and Blackstairs walking country.
 type: location
 score: 0.45
 loc_type: region

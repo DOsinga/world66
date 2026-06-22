@@ -13,6 +13,7 @@ sources:
 title: Silverton
 type: location
 score: 0.49
+snippet: "High San Juan Mountains mining town reached by narrow-gauge railroad or the Million Dollar Highway."
 ---
 
 Silverton sits high in a bowl of the San Juan Mountains, hemmed in by steep slopes and old mining roads. It began as a silver and gold camp, and it still looks the part: a small grid of historic buildings, unpaved side streets, big peaks at the end of every view, and weather that reminds you this is over 9,300 feet above sea level.

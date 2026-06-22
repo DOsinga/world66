@@ -8,6 +8,8 @@ latitude: 58.152391
 loc_type: city
 longitude: -5.240577
 score: 0.45
+snippet: Northwest Scottish fishing village beneath Assynt peaks, known for Loch Inver
+  harbour and legendary pies.
 sources:
 - https://en.wikipedia.org/wiki/Lochinver
 title: Lochinver

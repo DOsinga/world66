@@ -10,6 +10,8 @@ latitude: 51.034771
 loc_type: city
 longitude: 2.377252
 score: 0.34
+snippet: Flemish North Sea port city remembered for 1940, with carnival culture and
+  working docks.
 title: Dunkerque
 type: location
 ---

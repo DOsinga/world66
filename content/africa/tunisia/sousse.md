@@ -9,6 +9,8 @@ latitude: 35.828828
 loc_type: city
 longitude: 10.640525
 score: 0.49
+snippet: Tunisian beach city where a resort-lined Mediterranean shore meets a UNESCO-listed
+  medieval Medina
 title: Sousse
 type: location
 ---

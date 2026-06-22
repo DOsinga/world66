@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Quirimbas_Islands_(iss
 latitude: -11.9
 loc_type: region
 longitude: 40.6
+snippet: Northern Mozambican coral archipelago of Swahili islands, old Portuguese
+  forts, and remote reef systems.
 title: Quirimbas Archipelago
 type: location
 ---

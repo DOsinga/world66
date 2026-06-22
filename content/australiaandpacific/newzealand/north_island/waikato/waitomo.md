@@ -9,6 +9,8 @@ latitude: -38.2611
 loc_type: city
 longitude: 175.1103
 score: 0.59
+snippet: Rural Waikato cave area famed for limestone systems and glowworm-lit underground
+  boat rides.
 title: Waitomo
 type: location
 ---

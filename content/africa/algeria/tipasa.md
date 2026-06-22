@@ -6,11 +6,13 @@ image_attribution: Bernard Gagnon
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Martyrium_(Tipasa)_01.jpg
 latitude: 36.5899
+loc_type: feature
 longitude: 2.4484
 score: 0.44
+snippet: Mediterranean archaeological town where Punic, Roman, and early Christian
+  ruins stand above the sea.
 title: Tipasa
 type: location
-loc_type: feature
 ---
 
 Tipasa is where Roman ruins meet the Mediterranean, and the combination is hard to beat. This small coastal town about 70 kilometers west of [Algiers](/africa/algeria/algiers) holds one of Algeria's most atmospheric archaeological sites -- a UNESCO World Heritage Site where crumbling temples and basilicas stand among wildflowers with the sea crashing below.

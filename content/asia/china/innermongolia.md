@@ -2,6 +2,8 @@
 latitude: 44.0
 loc_type: region
 longitude: 113.0
+snippet: Northern Chinese region of steppe, desert, forest, and Mongolian grassland
+  culture.
 sources:
 - https://en.wikivoyage.org/wiki/Inner_Mongolia
 title: Inner Mongolia

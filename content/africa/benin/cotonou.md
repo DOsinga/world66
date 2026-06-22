@@ -3,12 +3,14 @@ done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-06-02'
 image: cotonou.jpg
-image_source: https://commons.wikimedia.org/wiki/File:BCEAO_tower_Cotonou,_Benin.jpg
 image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:BCEAO_tower_Cotonou,_Benin.jpg
 latitude: 6.3677
 loc_type: city
 longitude: 2.4253
 score: 0.3
+snippet: Benin's commercial city and transport hub, centred on Dantokpa Market, the
+  lagoon, and Boulevard de la Marina.
 title: Cotonou
 type: location
 ---

@@ -11,6 +11,8 @@ latitude: 40.162776
 loc_type: city
 longitude: 44.293166
 score: 0.44
+snippet: Armenian spiritual capital where the Mother See anchors seventeen centuries
+  of Apostolic Church history.
 title: Echmiadzin
 type: location
 ---

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: -19.846878
+loc_type: feature
 longitude: -174.402455
+score: 0.44
+snippet: Largely uninhabited Tongan island in Ha'apai, with reef flats, beach fales,
+  and quiet snorkelling.
 title: '''Uoleva'
 type: location
-score: 0.44
-loc_type: feature
 ---
 
 'Uoleva is a small, largely uninhabited island south of Lifuka in the Ha'apai group, connected by a shallow reef flat you can wade across at low tide. It is one of the most untouched spots in Tonga — no roads, no electricity grid, and no permanent settlement beyond a handful of simple beach fales.

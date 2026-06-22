@@ -10,6 +10,8 @@ latitude: 43.978826
 loc_type: city
 longitude: 8.157351
 score: 0.51
+snippet: Small Riviera delle Palme seaside village preserving narrow streets, old
+  houses, and Ligurian baroque San Matteo.
 title: Laigueglia
 type: location
 ---

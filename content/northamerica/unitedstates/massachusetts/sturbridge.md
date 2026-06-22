@@ -10,6 +10,8 @@ latitude: 42.1084
 loc_type: city
 longitude: -72.0808
 score: 0.38
+snippet: Small Massachusetts town known for Old Sturbridge Village and early New England
+  history
 title: Sturbridge
 type: location
 ---

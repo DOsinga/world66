@@ -10,6 +10,7 @@ latitude: 46.63405
 loc_type: city
 longitude: 8.594815
 score: 0.51
+snippet: Swiss Alpine resort at the meeting of the Gotthard, Oberalp, and Furka passes.
 title: Andermatt
 type: location
 ---

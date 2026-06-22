@@ -2,19 +2,21 @@
 done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-27'
+image: douglas.jpg
+image_attribution: Montanabw
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Douglas,_Wyoming_area.jpg
 latitude: 42.7597
 loc_type: city
 longitude: -105.3822
 score: 0.26
+snippet: Wyoming ranching town on the North Platte River, proudly tied to the jackalope
+  legend.
 sources:
 - https://en.wikipedia.org/wiki/Douglas,_Wyoming
 - https://conversecountytourism.com
 title: Douglas
 type: location
-image: douglas.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Douglas,_Wyoming_area.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Montanabw
 ---
 
 Douglas is a small Wyoming ranching town on the North Platte River, known for two things: the [Wyoming State Fair](/northamerica/unitedstates/wyoming/douglas/wyoming_state_fair), held here every August since 1905, and the [Jackalope](/northamerica/unitedstates/wyoming/douglas/jackalope_square). The mythical antlered jackrabbit was invented here in 1934 by local taxidermist Douglas Herrick, who grafted a set of deer antlers onto a jackrabbit carcass and sold the result to the Hotel LaBonte for $10. Douglas has embraced the joke ever since — the giant [Jackalope Square](/northamerica/unitedstates/wyoming/douglas/jackalope_square) statue stands in the centre of town, and the Chamber of Commerce issues official hunting licenses good for a single fictional date each year.

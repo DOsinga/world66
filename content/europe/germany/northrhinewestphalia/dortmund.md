@@ -10,6 +10,8 @@ latitude: 51.514227
 loc_type: city
 longitude: 7.465279
 score: 0.38
+snippet: Ruhr city synonymous with Borussia Dortmund football, beer halls, and post-industrial
+  German grit.
 title: Dortmund
 type: location
 ---

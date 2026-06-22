@@ -10,6 +10,8 @@ latitude: 52.171513
 loc_type: city
 longitude: 6.343658
 score: 0.36
+snippet: Quiet Achterhoek town surrounded by forests, estates, heathland, and the
+  wooded Lochemse Berg ridge.
 title: Lochem
 type: location
 ---

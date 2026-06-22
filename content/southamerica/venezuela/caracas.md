@@ -11,6 +11,8 @@ latitude: 10.506093
 loc_type: city
 longitude: -66.914601
 score: 0.17
+snippet: Venezuelan capital stretched through the Río Guaire valley beneath the green
+  wall of Ávila mountain.
 title: Caracas
 type: location
 ---

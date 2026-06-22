@@ -5,6 +5,8 @@ latitude: 53.712386
 loc_type: region
 longitude: 7.23402
 score: 0.54
+snippet: North Sea island chain in the Lower Saxony Wadden Sea, with car-free villages
+  and tidal flats
 title: East Frisian Islands
 type: location
 ---

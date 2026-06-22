@@ -12,6 +12,7 @@ longitude: 17.8794
 score: 0.36
 title: Lövstabruk
 type: location
+snippet: "Preserved Uppland ironworks village, rebuilt by the De Geer family after Russian raids in 1719."
 ---
 
 Lövstabruk (also written Leufsta bruk) is a former ironworks village in northern Uppland, about 150 kilometres north of Stockholm. Once one of the most important iron-producing sites in the world, it is now a remarkably well-preserved example of Sweden's industrial heritage — part open-air museum, part living village.

@@ -10,6 +10,8 @@ latitude: 51.752013
 loc_type: city
 longitude: -1.25785
 score: 0.6
+snippet: English university city of medieval colleges, cloisters, chapels, and gardens
+  packed into a walkable centre.
 title: Oxford
 type: location
 ---

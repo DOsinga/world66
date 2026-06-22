@@ -10,6 +10,8 @@ latitude: 16.4023
 loc_type: city
 longitude: 120.596
 score: 0.49
+snippet: Cordillera hill station above Luzon, cooled by pine forests and a Filipino
+  summer-capital tradition.
 title: Baguio
 type: location
 ---

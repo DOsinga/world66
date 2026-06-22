@@ -10,6 +10,8 @@ latitude: -6.8167
 loc_type: city
 longitude: 39.2833
 score: 0.54
+snippet: Tanzanian Indian Ocean coastline of Swahili trading towns, carved doors,
+  coral ruins, and quiet beaches
 title: Swahili Coast
 type: location
 ---

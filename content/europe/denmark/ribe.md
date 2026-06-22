@@ -12,6 +12,8 @@ latitude: 55.328404
 loc_type: city
 longitude: 8.764784
 score: 0.5
+snippet: Denmark's oldest town, a Viking trading place with half-timbered lanes and
+  Wadden Sea marshes nearby.
 title: Ribe
 type: location
 ---

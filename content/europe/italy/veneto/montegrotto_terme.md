@@ -11,6 +11,8 @@ latitude: 45.3317
 loc_type: city
 longitude: 11.7833
 score: 0.44
+snippet: Euganean Hills spa town near Padua, built around Roman-used thermal waters,
+  sulphurous pools, and vineyard slopes.
 title: Montegrotto Terme
 type: location
 ---

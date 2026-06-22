@@ -11,6 +11,7 @@ loc_type: city
 longitude: -58.621426
 score: 0.3
 title: Bartica
+snippet: "Guyanese river town at the Essequibo, Mazaruni, and Cuyuni confluence, gateway to mining country."
 type: location
 ---
 

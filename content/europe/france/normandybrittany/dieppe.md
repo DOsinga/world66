@@ -9,6 +9,8 @@ latitude: 49.924618
 loc_type: city
 longitude: 1.079144
 score: 0.46
+snippet: Normandy port town facing England, shaped by ferries, fishing, Channel light,
+  and painterly seaside history.
 title: Dieppe
 type: location
 ---

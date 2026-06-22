@@ -9,6 +9,8 @@ latitude: 26.7058
 loc_type: city
 longitude: -80.0364
 score: 0.48
+snippet: Barrier-island enclave between the Atlantic and Lake Worth Lagoon, defined
+  by old money and Worth Avenue polish.
 title: Palm Beach
 type: location
 ---

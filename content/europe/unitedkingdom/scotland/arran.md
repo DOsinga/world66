@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 55.577451
+loc_type: region
 longitude: -5.252161
+score: 0.64
+snippet: Accessible Scottish island of rugged mountains, sandy bays, and ferry-linked
+  villages around Goat Fell.
 title: Arran
 type: location
-score: 0.64
-loc_type: region
 ---
 
 Arran is often called "Scotland in Miniature" — the northern half is rugged mountain country dominated by Goat Fell (874m), while the southern half is rolling farmland and sandy bays. It is one of the most accessible Scottish islands, reached by a short CalMac ferry from Ardrossan on the Ayrshire coast.

@@ -5,6 +5,8 @@ latitude: 36.398987
 loc_type: region
 longitude: 118.505569
 score: 0.46
+snippet: Coastal Chinese province where Confucius, Sun Tzu, silk traditions, and Tsingtao
+  beer all began.
 sources:
 - https://en.wikivoyage.org/wiki/Shandong
 title: Shandong Province

@@ -8,6 +8,8 @@ latitude: 53.5228
 loc_type: city
 longitude: -1.1335
 score: 0.32
+snippet: South Yorkshire market town with Roman roots and England's oldest classic
+  horse race.
 title: Doncaster
 type: location
 ---

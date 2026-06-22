@@ -9,6 +9,8 @@ latitude: 41.551058
 loc_type: city
 longitude: -8.428005
 score: 0.56
+snippet: Portuguese religious city packed with baroque churches, Roman traces, and
+  the hillside Bom Jesus sanctuary
 title: Braga
 type: location
 ---

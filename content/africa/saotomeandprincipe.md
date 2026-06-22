@@ -1,6 +1,7 @@
 ---
 score: 0.49
 title: São Tomé and Príncipe
+snippet: Small Gulf of Guinea island nation of volcanic landscapes and Portuguese plantation history.
 type: location
 loc_type: country
 latitude: 0.1864

@@ -1,6 +1,7 @@
 ---
 title: Venezuela
 type: location
+snippet: Northern South American country of Andes, Caribbean islands, Orinoco plains, tepui highlands, and Angel Falls.
 latitude: 8.001871
 longitude: -66.110932
 image: venezuela.jpg

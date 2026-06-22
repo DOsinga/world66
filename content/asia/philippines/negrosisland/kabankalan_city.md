@@ -7,6 +7,7 @@ loc_type: city
 longitude: 122.81348
 score: 0.29
 title: Kabankalan City
+snippet: Agricultural city in southern Negros Occidental, surrounded by sugarcane lowlands and mountain barangays.
 type: location
 image: kabankalan_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:New_Kabankalan_Cathedral.jpg

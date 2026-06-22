@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherchen_Man_mummy_in_XUAR
 latitude: 38.138
 loc_type: city
 longitude: 85.5287
+score: 0.2
+snippet: Southern Silk Road oasis town on the Taklamakan edge, linked to Jade Road
+  history
 sources:
 - https://en.wikivoyage.org/wiki/Cherchen
 title: Cherchen
 type: location
-score: 0.2
 ---
 
 Cherchen — the Chinese name is Qiemo — is a small oasis town on the southeastern edge of the Taklamakan, roughly midway along the southern Silk Road between Hotan and Ruoqiang. It is among the least visited towns in Xinjiang accessible without special permits, which is precisely what makes it interesting. The ancient settlement of Calmadana once stood here, a waystation on the Jade Road predating the Silk Road proper. Xuanzang stopped here in 644 CE on his return from India; Marco Polo passed through in 1273. Neither devoted much space to it in their accounts, and the town maintains a similar modesty today.

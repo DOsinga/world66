@@ -9,6 +9,7 @@ latitude: 45.547986
 loc_type: city
 longitude: 13.730478
 score: 0.48
+snippet: Slovenian Adriatic port city with a Venetian old town set around Titov Trg
 sources:
 - https://en.wikipedia.org/wiki/Koper
 - https://en.wikipedia.org/wiki/Praetorian_Palace

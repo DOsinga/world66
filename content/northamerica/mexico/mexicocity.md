@@ -12,6 +12,7 @@ latitude: 19.4326
 loc_type: city
 longitude: -99.1332
 score: 0.53
+snippet: "High-altitude Mexican capital built over Tenochtitlan, centred on the Zócalo and layered Aztec-colonial history."
 title: Mexico City
 type: location
 ---

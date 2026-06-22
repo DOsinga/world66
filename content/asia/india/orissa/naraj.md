@@ -9,6 +9,8 @@ latitude: 20.475067
 loc_type: city
 longitude: 85.779593
 score: 0.26
+snippet: Mahanadi delta town near Cuttack, set where the river divides toward coastal
+  Odisha.
 title: Naraj
 type: location
 ---

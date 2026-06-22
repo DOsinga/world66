@@ -10,6 +10,8 @@ latitude: 42.129471
 loc_type: city
 longitude: -80.085269
 score: 0.34
+snippet: Pennsylvania Great Lakes port city defined by Presque Isle's beaches, bay,
+  and Lake Erie sunsets
 title: Erie
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 55.0288
 loc_type: city
 longitude: 82.9227
 score: 0.3
+snippet: Siberian metropolis born at the Trans-Siberian Railway's Ob River crossing,
+  with opera and Constructivist architecture.
 title: Novosibirsk
 type: location
 ---

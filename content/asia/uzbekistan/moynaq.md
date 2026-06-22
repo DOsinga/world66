@@ -10,6 +10,8 @@ latitude: 43.7683
 loc_type: city
 longitude: 59.0214
 score: 0.34
+snippet: Former Aral Sea port stranded in desert, where rusting ships mark a vanished
+  fishing fleet
 title: Moynaq
 type: location
 ---

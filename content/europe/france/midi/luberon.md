@@ -9,6 +9,8 @@ image_source: https://commons.wikimedia.org/wiki/File:Menerbes_Plaine_du_Luberon
 latitude: 43.7961
 loc_type: region
 longitude: 5.2239
+snippet: Provençal limestone hill region of perched villages, lavender, ochre stone,
+  and Peter Mayle fame
 sources:
 - https://en.wikipedia.org/wiki/Luberon
 title: Luberon

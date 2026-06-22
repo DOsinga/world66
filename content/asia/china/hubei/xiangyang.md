@@ -8,11 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:20250525_Xiangyang_Gulou.j
 latitude: 32.0654
 loc_type: city
 longitude: 112.1531
+score: 0.3
+snippet: Strategic Han River city whose walls guarded the historic corridor between
+  northern and southern China.
 sources:
 - https://en.wikivoyage.org/wiki/Xiangyang
 title: Xiangyang
 type: location
-score: 0.3
 ---
 
 Xiangyang sits where the Han River squeezes through a gap between hills in northern Hubei, and for most of Chinese history that geography made it the most strategically important city in central China. Whoever held Xiangyang controlled the corridor between north and south. In the thirteenth century, Kublai Khan's Mongol army spent five years besieging the city before it finally fell — the decisive breach that allowed the Yuan dynasty to complete its conquest of China. The [city walls](/asia/china/hubei/xiangyang/xiangyang_ancient_city_walls) that stand today are largely Han dynasty in origin, 7.3 kilometres of them, surrounded on three sides by water, and they are free to enter and walk.

@@ -12,6 +12,8 @@ latitude: 15.498995
 loc_type: city
 longitude: 73.828214
 score: 0.49
+snippet: Compact Goan capital with Portuguese-era lanes in Fontainhas and Mandovi
+  estuary views.
 title: Panaji
 type: location
 ---

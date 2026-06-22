@@ -10,6 +10,7 @@ latitude: 34.4779
 loc_type: city
 longitude: -114.338
 score: 0.37
+snippet: Colorado River city on Lake Havasu, known for the relocated 1831 London Bridge.
 title: Lake Havasu City
 type: location
 ---

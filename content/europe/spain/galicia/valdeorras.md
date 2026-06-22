@@ -10,6 +10,8 @@ latitude: 42.3483
 loc_type: city
 longitude: -6.966
 score: 0.37
+snippet: Galician wine comarca along the Sil and Xares valleys, known especially for
+  Godello and Mencía.
 title: Valdeorras
 type: location
 ---

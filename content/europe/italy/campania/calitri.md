@@ -10,6 +10,8 @@ latitude: 40.902119
 loc_type: city
 longitude: 15.430556
 score: 0.39
+snippet: Medieval Campanian hill town known for layered pastel streets and a centuries-old
+  ceramics tradition.
 title: Calitri
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 40.543651
 loc_type: city
 longitude: 44.734297
 score: 0.44
+snippet: Armenian highland resort northeast of Yerevan, known for skiing and the name
+  'valley of flowers'.
 sources:
 - https://en.wikipedia.org/wiki/Tsaghkadzor
 - https://en.wikipedia.org/wiki/Kecharis_Monastery

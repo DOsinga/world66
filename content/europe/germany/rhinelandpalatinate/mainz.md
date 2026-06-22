@@ -11,6 +11,8 @@ latitude: 49.9995
 loc_type: city
 longitude: 8.2736
 score: 0.5
+snippet: Rhine city of Roman roots, archbishops, wine taverns, and Gutenberg's printing
+  legacy.
 title: Mainz
 type: location
 ---

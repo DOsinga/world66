@@ -9,6 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angry_villain_in_Dashavata
 latitude: 17.919394
 longitude: 73.189508
 score: 0.45
+snippet: "Maharashtrian coastal region between the Western Ghats and Arabian Sea, with beaches and sea-forts."
 title: Konkan
 type: location
 loc_type: region

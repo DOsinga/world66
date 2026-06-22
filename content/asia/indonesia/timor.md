@@ -10,6 +10,8 @@ latitude: -9.75
 loc_type: city
 longitude: 124.0
 score: 0.33
+snippet: Indonesian half of Timor island, a dry savannah region with traditional villages
+  and distinct culture.
 title: Timor
 type: location
 ---

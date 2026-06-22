@@ -10,6 +10,8 @@ latitude: 39.168937
 loc_type: city
 longitude: -120.143478
 score: 0.5
+snippet: North Lake Tahoe hub with Truckee River views, lake beaches, and nearby Palisades
+  Tahoe slopes.
 title: Tahoe City
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 49.992318
 loc_type: city
 longitude: 36.231015
 score: 0.27
+snippet: Eastern Ukrainian university city with monumental Soviet architecture, vast
+  squares, and a restless cultural life
 title: Kharkiv
 type: location
 ---

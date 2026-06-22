@@ -11,6 +11,8 @@ latitude: 49.0069
 loc_type: city
 longitude: 8.4037
 score: 0.42
+snippet: Baroque planned city whose fan-shaped streets radiate from the palace and
+  founder's pyramid.
 title: Karlsruhe
 type: location
 ---

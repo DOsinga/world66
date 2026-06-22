@@ -6,6 +6,8 @@ latitude: 19.1901
 loc_type: city
 longitude: -96.1533
 score: 0.43
+snippet: Gulf port city where Cortés founded Spanish Mexico and son jarocho fills
+  the plazas.
 title: Veracruz
 type: location
 ---

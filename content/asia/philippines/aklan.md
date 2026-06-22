@@ -1,9 +1,11 @@
 ---
+latitude: 11.7089
+loc_type: region
+longitude: 122.364
+snippet: Panay province best known as Boracay's gateway, with Kalibo's Ati-Atihan
+  festival at its heart.
 title: Aklan
 type: location
-loc_type: region
-latitude: 11.7089
-longitude: 122.3640
 ---
 
 Aklan is a province on the northwestern tip of Panay Island in the Western Visayas region of the Philippines. For most travellers it is simply the gateway to [Boracay](/asia/philippines/boracay) — the island lies just off the coast, reached by a short boat crossing from [Malay](/asia/philippines/aklan/malay)'s Caticlan Jetty Port. But the province deserves more than a hurried transit.

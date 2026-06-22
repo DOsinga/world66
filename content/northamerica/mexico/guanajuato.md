@@ -10,6 +10,8 @@ latitude: 21.019
 loc_type: city
 longitude: -101.2574
 score: 0.67
+snippet: Colonial silver city in a central Mexican ravine, threaded by tunnels and
+  steep painted alleys
 title: Guanajuato
 type: location
 ---

@@ -12,6 +12,7 @@ loc_type: city
 longitude: 11.329792
 score: 0.53
 title: Weimar
+snippet: Small Thuringian cultural city associated with Goethe, Schiller, the Weimar Republic, and the Bauhaus.
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 22.620335
 loc_type: city
 longitude: 120.312038
 score: 0.5
+snippet: Tropical port city in southern Taiwan, reshaped from heavy industry by riverfront
+  and harbour renewal.
 title: Kaohsiung
 type: location
 ---

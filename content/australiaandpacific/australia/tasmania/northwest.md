@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: -41.18
+loc_type: region
 longitude: 145.9
+score: 0.47
+snippet: Tasmanian agricultural region with red basalt soils and access to Cradle
+  Mountain wilderness.
 title: North-West
 type: location
-score: 0.47
-loc_type: region
 ---
 
 The North-West is Tasmania's agricultural heartland, blessed with rich red basalt soils that produce fine dairy products, beef, and vegetables — particularly potatoes, which grow exceptionally well in this climate. The coastline is pleasant for much of its length, broken by the industrial town of Burnie, which is a functional stopover rather than a destination.

@@ -10,6 +10,8 @@ latitude: 39.067257
 loc_type: city
 longitude: -108.56448
 score: 0.41
+snippet: Western Slope city where the Colorado and Gunnison rivers meet near red-rock
+  canyons and vineyards.
 sources:
 - https://en.wikipedia.org/wiki/Grand_Junction,_Colorado
 - https://en.wikipedia.org/wiki/Colorado_National_Monument

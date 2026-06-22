@@ -10,6 +10,8 @@ latitude: -3.3186
 loc_type: city
 longitude: 114.5944
 score: 0.33
+snippet: Kalimantan city threaded by canals and rivers, known for stilt houses and
+  floating markets.
 title: Banjamarsin
 type: location
 ---

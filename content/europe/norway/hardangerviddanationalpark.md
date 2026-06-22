@@ -5,6 +5,8 @@ loc_type: feature
 latitude: 60.2
 longitude: 7.5
 score: 0.55
+snippet: Vast Norwegian mountain plateau and national park, protecting treeless highlands
+  and wild reindeer habitat.
 ---
 
 Hardangervidda is Europe's largest mountain plateau, a vast elevated tableland in central Norway covering more than 3,400 square kilometres. Most of it sits at between 1,200 and 1,400 metres above sea level, giving it a landscape unlike anything else in the country — treeless, wind-swept, and magnificent in a way that takes some getting used to. The plateau supports the largest wild reindeer herd in Europe, and in summer the tundra-like terrain blooms with wildflowers, berries, and dwarf willows.

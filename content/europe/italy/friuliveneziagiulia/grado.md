@@ -12,6 +12,8 @@ longitude: 13.3979
 score: 0.47
 title: Grado
 type: location
+snippet: Lagoon island town in Friuli Venezia Giulia, with early Christian basilicas
+  and old resort bones.
 ---
 
 Grado is a small island town in the lagoon of Friuli Venezia Giulia, connected to the mainland by a causeway. Known as the "Sunny Isle" (Isola del Sole), it has been a seaside resort since the late nineteenth century, when Austro-Hungarian aristocrats came for the mild climate and the thermal springs. The [old town](/europe/italy/friuliveneziagiulia/grado/old_town) on the western end of the island is a maze of narrow streets and tiny squares with early Christian basilicas — the [Basilica di Sant'Eufemia](/europe/italy/friuliveneziagiulia/grado/basilica_di_santeufemia) and the [Basilica di Santa Maria delle Grazie](/europe/italy/friuliveneziagiulia/grado/basilica_santa_maria_delle_grazie) date from the fifth and sixth centuries.

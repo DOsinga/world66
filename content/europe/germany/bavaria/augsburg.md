@@ -14,6 +14,8 @@ latitude: 48.3691
 loc_type: city
 longitude: 10.8978
 score: 0.51
+snippet: Bavarian city with Roman origins, Renaissance civic buildings, and the historic
+  Fuggerei housing complex.
 title: Augsburg
 type: location
 ---

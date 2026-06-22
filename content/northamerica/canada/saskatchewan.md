@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 52.9399
+loc_type: region
 longitude: -106.4509
 score: 0.4
+snippet: Canadian prairie province of big skies, wheat fields, boreal forest, and
+  Northern Plains Indigenous heritage.
 title: Saskatchewan
 type: location
-loc_type: region
 ---
 
 *Land of Living Skies*

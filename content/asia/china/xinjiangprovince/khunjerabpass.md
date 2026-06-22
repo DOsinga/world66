@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 36.846
+loc_type: feature
 longitude: 75.4197
+score: 0.43
+snippet: High Karakoram border pass where the paved highway crosses from Xinjiang
+  into Pakistan among glaciers.
 title: Khunjerab Pass
 type: location
-score: 0.43
-loc_type: feature
 ---
 
 The Khunjerab Pass sits at 4,693 metres — the highest paved international border crossing in the world and the point where the Karakoram Highway crosses from China into Pakistan. The scenery around the pass is extraordinary: jagged peaks, glaciers, and high plateau grassland where yaks and Marco Polo sheep graze.

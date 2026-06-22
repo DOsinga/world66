@@ -7,6 +7,8 @@ latitude: 39.438582
 loc_type: city
 longitude: 45.607133
 score: 0.23
+snippet: Mountain district of Nakhchivan, marked by high valleys, mineral springs,
+  and ancient watchtowers.
 sources:
 - https://en.wikipedia.org/wiki/%C5%9Eahbuz
 title: Shahbuz

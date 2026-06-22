@@ -1,10 +1,12 @@
 ---
-title: Westport
-type: location
-loc_type: city
 latitude: 46.8904
+loc_type: city
 longitude: -124.1059
 score: 0.32
+snippet: Washington fishing and beach town at Grays Harbor, with a working fleet and
+  Pacific surf
+title: Westport
+type: location
 ---
 
 Westport is a small fishing and beach town on the southern Washington coast, sitting at the mouth of Grays Harbor where the bay meets the Pacific Ocean. It is the kind of place that gets described as the end of the road — US 105 terminates here — and it has the straightforward, unpretentious character that comes with that geography.

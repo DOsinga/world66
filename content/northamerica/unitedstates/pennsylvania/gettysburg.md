@@ -10,6 +10,8 @@ latitude: 39.830897
 loc_type: city
 longitude: -77.231012
 score: 0.51
+snippet: Pennsylvania battlefield town centered on Civil War memory, military parkland,
+  and Lincoln's famous address.
 title: Gettysburg
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 43.1628
 loc_type: city
 longitude: -73.0723
 score: 0.43
+snippet: Green Mountains town below Mount Equinox, known for outlet shopping, valley
+  scenery, and Hildene
 title: Manchester
 type: location
 ---

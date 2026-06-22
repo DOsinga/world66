@@ -9,6 +9,8 @@ latitude: 36.6756
 loc_type: city
 longitude: 25.1162
 score: 0.54
+snippet: Quiet Cycladic island of whitewashed hill villages, mule tracks, and sea
+  views from the Hora.
 title: Sikinos
 type: location
 ---

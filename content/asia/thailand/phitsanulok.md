@@ -12,6 +12,8 @@ latitude: 16.8158
 loc_type: city
 longitude: 100.2636
 score: 0.43
+snippet: Northern Thai provincial city on the Nan River, centered on Wat Yai and King
+  Naresuan history
 title: Phitsanulok
 type: location
 ---

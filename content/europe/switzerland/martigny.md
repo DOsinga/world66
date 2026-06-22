@@ -9,6 +9,7 @@ score: 0.5
 sources:
 - https://en.wikipedia.org/wiki/Martigny
 title: Martigny
+snippet: "Valais crossroads town at the Rhône bend, with Roman Octodurus remains and Alpine pass routes nearby."
 type: location
 image: martigny.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_romain_de_Martigny_-_Stands_est.jpg

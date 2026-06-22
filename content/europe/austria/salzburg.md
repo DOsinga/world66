@@ -12,6 +12,8 @@ latitude: 47.798135
 loc_type: city
 longitude: 13.046481
 score: 0.73
+snippet: Baroque Austrian city on an Alpine river, built from salt wealth and Mozart
+  history.
 title: Salzburg
 type: location
 ---

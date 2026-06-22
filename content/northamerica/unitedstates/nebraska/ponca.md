@@ -10,6 +10,8 @@ latitude: 42.562528
 loc_type: city
 longitude: -96.705563
 score: 0.24
+snippet: Nebraska Missouri River town above free-flowing channels, hardwood bluffs,
+  and Ponca State Park.
 title: Ponca
 type: location
 ---

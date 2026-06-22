@@ -6,6 +6,8 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg
 latitude: 29.508444
 loc_type: region
+snippet: Jordanian desert region of red sand, sandstone cliffs, Bedouin camps, and
+  Lawrence of Arabia associations
 longitude: 35.336215
 score: 0.75
 title: Wadi Rum

@@ -3,13 +3,15 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-23'
 image: lessaintes.jpg
-image_source: https://commons.wikimedia.org/wiki/File:View_of_Terre-de-Haut,_Les_Saintes.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Pkraemer
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:View_of_Terre-de-Haut,_Les_Saintes.jpg
 latitude: 15.8569
 loc_type: city
 longitude: -61.5833
 score: 0.58
+snippet: Small Guadeloupe archipelago where Terre-de-Haut surrounds a turquoise bay
+  below Fort Napoléon.
 title: Les Saintes
 type: location
 ---

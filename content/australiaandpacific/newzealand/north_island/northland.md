@@ -5,6 +5,7 @@ latitude: -35.375509
 longitude: 173.947011
 score: 0.58
 title: Northland
+snippet: Subtropical New Zealand peninsula of kauri forests, early colonial sites, and Cape Reinga traditions.
 type: location
 loc_type: region
 ---

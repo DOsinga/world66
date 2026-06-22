@@ -12,6 +12,7 @@ loc_type: city
 longitude: -65.2995
 score: 0.47
 title: Jujuy
+snippet: Northern Argentine provincial capital where Andean culture opens onto the Quebrada de Humahuaca.
 type: location
 ---
 

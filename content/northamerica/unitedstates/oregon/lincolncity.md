@@ -11,6 +11,7 @@ loc_type: city
 longitude: -124.015952
 score: 0.4
 title: Lincoln City
+snippet: "Oregon coast beach town stretched along seven windy miles, known for hidden hand-blown glass floats."
 type: location
 ---
 

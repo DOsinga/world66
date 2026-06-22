@@ -6,6 +6,8 @@ latitude: 50.041943
 loc_type: city
 longitude: 1.334025
 score: 0.38
+snippet: Small Alabaster Coast hamlet with chalk cliffs, a rocky beach, and access
+  to the GR21 path.
 title: Mesnil-Val
 type: location
 ---

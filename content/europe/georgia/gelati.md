@@ -9,6 +9,7 @@ latitude: 42.2971
 loc_type: city
 longitude: 42.7687
 score: 0.49
+snippet: "Medieval Georgian monastery near Kutaisi, founded by David the Builder as both monastery and academy."
 title: Gelati Monastery
 type: location
 ---

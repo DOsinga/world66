@@ -10,6 +10,7 @@ latitude: 35.7331
 loc_type: city
 longitude: -118.434
 score: 0.37
+snippet: Sierra Nevada river town on the Kern, a base for whitewater, camping, and mountain back roads.
 title: Kernville
 type: location
 ---

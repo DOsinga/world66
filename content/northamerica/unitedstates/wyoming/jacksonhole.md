@@ -7,6 +7,8 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Barns_grand_tetons.jpg
 latitude: 43.4799
 loc_type: city
+snippet: Wyoming valley below the Tetons, a base for national parks, wildlife, and
+  steep mountain terrain
 longitude: -110.7624
 score: 0.64
 title: Jackson Hole

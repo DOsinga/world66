@@ -8,6 +8,8 @@ latitude: -1.007483
 loc_type: region
 longitude: 121.256461
 score: 0.59
+snippet: Large Indonesian island of four peninsulas, known for Tana Toraja culture
+  and diving near Bunaken.
 title: Sulawesi
 type: location
 ---

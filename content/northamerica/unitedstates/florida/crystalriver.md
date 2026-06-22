@@ -10,6 +10,8 @@ latitude: 28.9025
 loc_type: city
 longitude: -82.5926
 score: 0.43
+snippet: Gulf Coast Florida town where warm spring waters draw wintering manatees
+  into Kings Bay.
 title: Crystal River
 type: location
 ---

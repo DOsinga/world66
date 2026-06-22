@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Londrina
 - https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_Cathedral,_Londrina
 title: Londrina
+snippet: Northern Paraná city founded as a coffee boomtown, with British roots and a large Japanese-Brazilian community.
 type: location
 ---
 

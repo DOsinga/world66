@@ -10,6 +10,8 @@ latitude: 47.4997
 loc_type: city
 longitude: 1.4611
 score: 0.54
+snippet: Loire Valley chateau estate still owned by the Hurault family after nearly
+  seven centuries.
 title: Cheverny
 type: location
 ---

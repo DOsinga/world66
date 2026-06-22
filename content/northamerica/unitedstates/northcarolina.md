@@ -7,6 +7,7 @@ loc_type: region
 longitude: -79.039292
 score: 0.52
 title: North Carolina
+snippet: Southeastern US state stretching from Blue Ridge mountains to Outer Banks barrier islands.
 type: location
 ---
 

@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 58.367546
+loc_type: feature
 longitude: 19.257578
+score: 0.38
+snippet: Isolated Baltic sand island and national park of shifting dunes, pine forest,
+  and shipwreck history.
 title: Gotska Sandön
 type: location
-score: 0.38
-loc_type: feature
 ---
 
 Gotska Sandön is one of the most isolated islands in the Baltic Sea — a 9-by-6-kilometre slab of sand sitting 38 km north of [Gotland](/europe/sweden/gotland), entirely given over to a national park. The sand is about 70 metres deep, and the wind constantly reshapes the dunes, the highest of which reach 43 metres above sea level. Innumerable ships have wrecked on its shores over the centuries; the first lighthouse went up in 1858.

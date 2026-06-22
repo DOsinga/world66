@@ -10,6 +10,8 @@ latitude: 51.483789
 loc_type: city
 longitude: -0.604042
 score: 0.53
+snippet: Thames-side royal town dominated by Windsor Castle, a working residence with
+  nearly a millennium of history.
 title: Windsor
 type: location
 ---

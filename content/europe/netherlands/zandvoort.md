@@ -10,6 +10,7 @@ latitude: 52.359522
 loc_type: city
 longitude: 4.535026
 score: 0.44
+snippet: Dutch seaside town by the dunes, serving as Amsterdam's easiest train-linked beach escape.
 title: Zandvoort
 type: location
 ---

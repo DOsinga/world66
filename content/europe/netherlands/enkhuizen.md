@@ -10,6 +10,8 @@ latitude: 52.75772
 loc_type: city
 longitude: 5.320694
 score: 0.46
+snippet: Old Zuiderzee harbour town with Dutch Golden Age trading roots and the open-air
+  Zuiderzee Museum
 title: Enkhuizen
 type: location
 ---

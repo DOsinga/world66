@@ -9,6 +9,7 @@ latitude: 32.4004
 loc_type: feature
 longitude: 111.0044
 title: Wudang Mountains
+snippet: Sacred Taoist mountain range in Hubei, associated with Tai Chi and Ming-dynasty temple complexes
 type: location
 score: 0.55
 ---

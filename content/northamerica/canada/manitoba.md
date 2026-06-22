@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 55.001251
+loc_type: region
 longitude: -97.001038
 score: 0.43
+snippet: Canadian prairie province where Winnipeg gives way to boreal lakes and Churchill's
+  Hudson Bay wilds
 title: Manitoba
 type: location
-loc_type: region
 ---
 
 Manitoba is Canada's prairie heart, the middle of the three "prairie provinces" between the Canadian Shield and the Rockies. Its licence plates say "Friendly Manitoba", and the people do live up to it — Manitoban hospitality is a real thing, shaped by long winters and the long distances between towns.

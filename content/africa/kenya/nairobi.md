@@ -12,6 +12,8 @@ latitude: -1.302615
 loc_type: city
 longitude: 36.828842
 score: 0.43
+snippet: Mile-high Kenyan capital where East African urban life meets wildlife inside
+  city limits.
 title: Nairobi
 type: location
 ---

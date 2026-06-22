@@ -9,6 +9,8 @@ latitude: 12.043267
 loc_type: city
 longitude: 99.748723
 score: 0.47
+snippet: Quiet Gulf of Thailand province squeezed between limestone mountains and
+  the country's narrowest coast
 title: Prachuap Khiri Khan
 type: location
 ---

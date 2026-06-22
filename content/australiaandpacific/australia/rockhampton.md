@@ -10,6 +10,8 @@ latitude: -23.3782
 loc_type: city
 longitude: 150.5134
 score: 0.35
+snippet: Central Queensland city on the Fitzroy River, known for beef country and
+  Quay Street heritage buildings.
 title: Rockhampton
 type: location
 ---

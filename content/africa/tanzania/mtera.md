@@ -10,6 +10,8 @@ latitude: -7.161444
 loc_type: city
 longitude: 35.776251
 score: 0.21
+snippet: Rural Tanzanian reservoir stop on the Ruaha River, known for quiet wetlands
+  and rich birdlife near Mtera Dam.
 title: Mtera
 type: location
 ---

@@ -6,6 +6,8 @@ latitude: 46.932
 loc_type: city
 longitude: 26.3695
 score: 0.39
+snippet: Moldavian mountain city on the Bistrița River, ringed by monasteries, forests,
+  and medieval court remains
 title: Piatra Neamț
 type: location
 ---

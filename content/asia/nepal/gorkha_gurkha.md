@@ -12,6 +12,8 @@ latitude: 28.0
 loc_type: city
 longitude: 84.6333
 score: 0.46
+snippet: Hillside Nepali town where the Shah dynasty began and the Gurkha name took
+  root.
 title: Gorkha
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 54.851878
 loc_type: city
 longitude: -1.833374
 score: 0.25
+snippet: County Durham market town on a North Pennines ridge, built around its former
+  steelworks.
 title: Consett
 type: location
 ---

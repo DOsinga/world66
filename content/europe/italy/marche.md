@@ -6,6 +6,7 @@ loc_type: region
 longitude: 13.141587
 score: 0.53
 title: Marche
+snippet: Adriatic Italian region of hill towns, vineyards, and Renaissance cities east of the Apennines.
 type: location
 ---
 

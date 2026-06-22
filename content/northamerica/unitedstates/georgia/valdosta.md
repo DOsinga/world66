@@ -6,6 +6,7 @@ latitude: 30.832702
 loc_type: city
 longitude: -83.278485
 score: 0.28
+snippet: South Georgia stopover city near Florida, with university life and Wild Adventures on its edge.
 sources:
 - https://en.wikipedia.org/wiki/Valdosta,_Georgia
 title: Valdosta

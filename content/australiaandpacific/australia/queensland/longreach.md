@@ -9,6 +9,8 @@ latitude: -23.4378
 loc_type: city
 longitude: 144.2587
 score: 0.38
+snippet: Outback Queensland bush town where Qantas began, with museums devoted to
+  aviation and stockmen
 title: Longreach
 type: location
 ---

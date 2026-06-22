@@ -9,6 +9,8 @@ latitude: 8.390259
 loc_type: city
 longitude: 76.978515
 score: 0.49
+snippet: Kerala beach town of three rocky coves, fishing boats, and cliffside restaurants
+  south of Thiruvananthapuram.
 title: Kovalam
 type: location
 ---

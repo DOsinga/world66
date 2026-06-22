@@ -12,6 +12,7 @@ latitude: 42.4249
 loc_type: city
 longitude: 18.7713
 score: 0.68
+snippet: Walled Venetian old town on the Bay of Kotor, backed by steep limestone mountains.
 title: Kotor
 type: location
 ---

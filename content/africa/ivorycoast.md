@@ -17,6 +17,8 @@ done:
   country_cleanup: 2026-03-31
 score: 0.51
 loc_type: country
+snippet: Francophone West African country built on cocoa, coffee, and the restless
+  urban energy of Abidjan.
 ---
 
 Côte d'Ivoire — usually called Ivory Coast in English — was for decades the economic powerhouse of Francophone West Africa. The cocoa and coffee boom of the 1960s and 70s built roads, hospitals, and a skyline in [Abidjan](/africa/ivorycoast/abidjan) that drew comparisons to Paris. That era ended badly — a period of coups, contested elections, and two civil wars consumed most of the 2000s and early 2010s. The country has since stabilised, and Abidjan in particular has bounced back as one of the most dynamic cities on the continent.

@@ -2,16 +2,18 @@
 done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-06-03'
+image: cagnessurmer.jpg
+image_attribution: Rdavout
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis_le_chateau).jpg
 latitude: 43.6612
 loc_type: city
 longitude: 7.1514
+score: 0.5
+snippet: Côte d'Azur town split between medieval Haut-de-Cagnes and the beach resort
+  below.
 title: Cagnes-sur-Mer
 type: location
-image: cagnessurmer.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis_le_chateau).jpg
-image_license: CC BY-SA 3.0
-image_attribution: Rdavout
-score: 0.5
 ---
 
 Cagnes-sur-Mer sits between Nice and Antibes on the Côte d'Azur, split between a medieval hilltop village and a modern beach resort below. The two parts barely resemble each other: the lower town, [Cros-de-Cagnes](/europe/france/midi/cotedazur/cagnessurmer/cros_de_cagnes_beach), is a functional coastal resort, while [Haut-de-Cagnes](/europe/france/midi/cotedazur/cagnessurmer/haut_de_cagnes) is a remarkably intact medieval hill village of narrow lanes, old houses, and sweeping views over the coast.

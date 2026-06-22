@@ -3,6 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 63.620728
 longitude: -148.719587
+snippet: "Vast Alaskan wilderness park anchored by Denali, with one road through tundra, taiga, and wildlife."
 title: Denali National Park
 type: location
 score: 0.67

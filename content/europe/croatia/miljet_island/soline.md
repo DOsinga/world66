@@ -10,6 +10,8 @@ latitude: 42.744
 loc_type: city
 longitude: 17.555
 score: 0.48
+snippet: Tiny Mljet village beside the warm channel linking Veliko jezero to the open
+  sea.
 title: Soline
 type: location
 ---

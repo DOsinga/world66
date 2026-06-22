@@ -8,6 +8,8 @@ longitude: -122.972545
 score: 0.35
 title: Burnaby
 type: location
+snippet: Metro Vancouver city east of downtown, with mountain parks, lakes, and a
+  large urban mall.
 ---
 
 Burnaby lies just east of Vancouver, bordered by the Burrard Inlet to the north, Burnaby Mountain to the east, and the Fraser River to the south. It is often overlooked in favour of its more famous neighbour, but Burnaby has its own distinct character: [Deer Lake Park](/northamerica/canada/britishcolumbia/burnaby/deer_lake_park) with its heritage house art gallery, [Burnaby Lake Regional Park](/northamerica/canada/britishcolumbia/burnaby/burnaby_lake_regional_park) for wildlife watching, and [Simon Fraser University](/northamerica/canada/britishcolumbia/burnaby/simon_fraser_university) perched dramatically on top of [Burnaby Mountain](/northamerica/canada/britishcolumbia/burnaby/burnaby_mountain_park).

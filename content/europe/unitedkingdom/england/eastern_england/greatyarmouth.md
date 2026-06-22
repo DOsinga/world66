@@ -9,6 +9,8 @@ latitude: 52.607174
 loc_type: city
 longitude: 1.731485
 score: 0.37
+snippet: Traditional Norfolk seaside town with arcades, chip shops, a pleasure beach,
+  and maritime backstreets.
 title: Great Yarmouth
 type: location
 ---

@@ -10,6 +10,8 @@ latitude: 48.95317
 loc_type: city
 longitude: -57.947388
 score: 0.37
+snippet: Industrial Newfoundland city on the Bay of Islands, backed by Long Range
+  Mountains and Cook-surveyed waters
 title: Corner Brook
 type: location
 ---

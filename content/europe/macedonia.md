@@ -1,22 +1,24 @@
 ---
-title: Macedonia
-type: location
-latitude: 41.192774
-longitude: -95.42562
-image: macedonia.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Macedonia_IMG_2622_(11955520694).jpg
-image_license: CC BY 2.0
-image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/62409281@N08">Athena
-  Lao</a> from Bulgaria
 done:
   country_cleanup: 2026-03-30
-quick_facts:
-  Population: "2.1 million"
-  Budget Meal: "~$3–4"
-  Lake Ohrid: "1.4 million years old"
-  Orthodox Churches: "Over 1,000"
-score: 0.60
+image: macedonia.jpg
+image_attribution: <a rel="nofollow" class="external text" href="https://www.flickr.com/people/62409281@N08">Athena
+  Lao</a> from Bulgaria
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Macedonia_IMG_2622_(11955520694).jpg
+latitude: 41.192774
 loc_type: country
+longitude: -95.42562
+quick_facts:
+  Budget Meal: ~$3–4
+  Lake Ohrid: 1.4 million years old
+  Orthodox Churches: Over 1,000
+  Population: 2.1 million
+score: 0.6
+snippet: Landlocked Balkan country where Skopje, mountain lakes, and Orthodox monasteries
+  anchor the interior Balkans
+title: Macedonia
+type: location
 ---
 
 Macedonia is a landlocked country in the heart of the Balkan. It is bordered by [Bulgaria](../bulgaria) , Serbia , [Greece](../greece) and [Albania](../albania) . It is easiest to reach from Greece or Bulgaria. 

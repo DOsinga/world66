@@ -10,6 +10,8 @@ latitude: 41.1036
 loc_type: city
 longitude: -80.652
 score: 0.23
+snippet: Former Ohio steel city in the Mahoning Valley, marked by deindustrialisation
+  and American art.
 title: Youngstown
 type: location
 ---

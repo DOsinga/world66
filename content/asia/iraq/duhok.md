@@ -10,6 +10,7 @@ latitude: 36.85426
 loc_type: city
 longitude: 42.992453
 score: 0.25
+snippet: Northern Iraqi Kurdistan city in a mountain valley near the Turkish border.
 title: Duhok
 type: location
 ---

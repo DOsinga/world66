@@ -7,12 +7,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Rapperswil_-_Hafen_-_Schlo
 latitude: 47.2267
 loc_type: city
 longitude: 8.8222
+score: 0.54
+snippet: Medieval Lake Zurich town of roses, castle towers, lakeside promenades, and
+  an unexpected Polish exile museum.
 sources:
 - https://en.wikipedia.org/wiki/Rapperswil-Jona
 - https://en.wikivoyage.org/wiki/Rapperswil
 title: Rapperswil
 type: location
-score: 0.54
 ---
 
 Rapperswil is a small medieval town on the north shore of Lake Zurich, built on a rocky peninsula that juts into the narrowest point of the lake. It calls itself the town of roses — the rose gardens along the lakefront are one of the prettiest spots in eastern Switzerland in early summer — and it has the compact charm and intact old town of a place that history largely left alone. The castle on the hill, the Gothic parish church, and the lakeside promenade can be covered in a half day, but most visitors end up staying longer.

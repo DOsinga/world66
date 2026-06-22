@@ -10,6 +10,8 @@ latitude: 47.56217
 loc_type: city
 longitude: 13.64867
 score: 0.71
+snippet: Lakeside Salzkammergut village where prehistoric salt mines meet Dachstein
+  cliffs and stacked wooden houses.
 title: Hallstatt
 type: location
 ---

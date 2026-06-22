@@ -6,6 +6,8 @@ latitude: 27.8225
 loc_type: city
 longitude: 75.0253
 score: 0.36
+snippet: Shekhawati market town known for painted merchant havelis and a boulder-crowned
+  hilltop fort.
 title: Lachhmangarh
 type: location
 ---

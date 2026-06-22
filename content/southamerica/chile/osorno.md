@@ -9,6 +9,8 @@ latitude: -40.573695
 loc_type: city
 longitude: -73.135809
 score: 0.37
+snippet: Southern Chilean regional city in dairy country, watched over by the cone
+  of Osorno volcano.
 title: Osorno
 type: location
 ---

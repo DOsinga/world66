@@ -9,6 +9,8 @@ latitude: 27.756389
 loc_type: feature
 longitude: 117.972778
 score: 0.52
+snippet: Fujian mountain landscape of red sandstone cliffs, tea culture, and the winding
+  Nine-Bend River.
 title: Wuyishan
 type: location
 ---

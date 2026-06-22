@@ -11,6 +11,8 @@ latitude: 50.1484
 loc_type: city
 longitude: 7.1663
 score: 0.53
+snippet: Mosel wine town of half-timbered lanes and a hilltop Reichsburg above river
+  bends.
 title: Cochem
 type: location
 ---

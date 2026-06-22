@@ -10,6 +10,8 @@ latitude: 30.1588
 loc_type: city
 longitude: -85.6602
 score: 0.39
+snippet: Florida Panhandle bay city with a working waterfront, modest downtown, and
+  easy St. Andrews access
 title: Panama City
 type: location
 ---

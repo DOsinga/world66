@@ -9,6 +9,8 @@ latitude: 29.105841
 loc_type: city
 longitude: 86.875398
 score: 0.5
+snippet: Tibetan city in the Yarlung Tsangpo valley, centered on Tashilhunpo Monastery
+  and Panchen Lama history.
 title: Shigatse
 type: location
 ---

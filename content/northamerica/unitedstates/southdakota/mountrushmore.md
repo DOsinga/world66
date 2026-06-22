@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-07'
 latitude: 43.879403
+loc_type: feature
 longitude: -103.459805
+score: 0.53
+snippet: Black Hills memorial where four presidential faces are carved into granite
+  above South Dakota forest
 title: Mount Rushmore
 type: location
-score: 0.53
-loc_type: feature
 ---
 
 Mount Rushmore is one of those places that manages to be both exactly what you expect and more impressive than you imagined. The four presidential faces — Washington, Jefferson, Roosevelt, and Lincoln — carved into the granite of the Black Hills by Gutzon Borglum and his son are enormous up close, and the setting in the South Dakota wilderness adds to the impact.

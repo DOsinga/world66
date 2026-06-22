@@ -10,6 +10,8 @@ latitude: 15.3167
 loc_type: city
 longitude: -91.4667
 score: 0.34
+snippet: Guatemalan highland capital used as a base for the Cuchumatanes Mountains
+  and Mam Maya Zaculeu ruins
 title: Huehuetenango
 type: location
 ---

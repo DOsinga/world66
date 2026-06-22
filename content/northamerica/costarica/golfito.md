@@ -10,6 +10,8 @@ latitude: 8.6033
 loc_type: city
 longitude: -83.1134
 score: 0.43
+snippet: Rough-edged Pacific port town squeezed between Golfo Dulce and a steep jungle
+  ridge.
 title: Golfito
 type: location
 ---

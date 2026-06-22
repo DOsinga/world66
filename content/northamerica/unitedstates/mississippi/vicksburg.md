@@ -6,6 +6,8 @@ latitude: 32.3528
 loc_type: city
 longitude: -90.8777
 score: 0.38
+snippet: Mississippi river city where the 1863 Civil War siege split the Confederacy
+  and left a vast battlefield park
 title: Vicksburg
 type: location
 ---

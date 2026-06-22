@@ -10,6 +10,8 @@ latitude: 44.0864
 loc_type: city
 longitude: 8.1474
 score: 0.39
+snippet: Medieval Ligurian village on the Neva, preserving a quadrangular plan, corner
+  towers, and olive-growing hamlets.
 title: Cisano sul Neva
 type: location
 ---

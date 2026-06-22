@@ -8,6 +8,8 @@ score: 0.62
 title: Kilimanjaro
 type: location
 loc_type: feature
+snippet: Tanzanian mountain region around Kilimanjaro, with Chagga history on Africa's
+  highest slopes.
 ---
 
 **Part of history**

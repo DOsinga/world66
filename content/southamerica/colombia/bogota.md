@@ -12,6 +12,8 @@ latitude: 4.711
 loc_type: city
 longitude: -74.0721
 score: 0.53
+snippet: High Andean capital where colonial La Candelaria, street art, and glass towers
+  sit at 2,640 metres
 title: Bogota
 type: location
 ---

@@ -9,6 +9,8 @@ latitude: 40.092319
 loc_type: city
 longitude: 113.295266
 score: 0.45
+snippet: Northern Shanxi frontier city on a dry plateau, known for the 5th-century
+  Yungang Grottoes
 title: Datong
 type: location
 ---

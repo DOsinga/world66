@@ -6,6 +6,8 @@ latitude: 26.131526
 loc_type: city
 longitude: 50.550343
 score: 0.32
+snippet: Bahraini residential city south of Manama, known for Riffa Fort and nearby
+  Formula 1 racing
 title: Riffa
 type: location
 ---

@@ -11,6 +11,7 @@ loc_type: city
 longitude: 17.8078
 score: 0.61
 title: Mostar
+snippet: Herzegovinian city on the Neretva, defined by Ottoman stone lanes and the rebuilt Stari Most.
 type: location
 ---
 

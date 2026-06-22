@@ -10,6 +10,8 @@ latitude: 28.782535
 loc_type: city
 longitude: -82.606527
 score: 0.37
+snippet: Nature Coast community on spring-fed Homosassa River, known for manatees
+  and Gulf marshes.
 title: Homosassa
 type: location
 ---

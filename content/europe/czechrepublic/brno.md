@@ -10,6 +10,8 @@ latitude: 49.192244
 loc_type: city
 longitude: 16.611338
 score: 0.48
+snippet: Moravian capital with university energy, functionalist architecture, and
+  a less polished Czech urban rhythm.
 title: Brno
 type: location
 ---

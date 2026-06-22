@@ -2,11 +2,12 @@
 done:
   location_cleanup: '2026-04-16'
 latitude: 0.1167
+loc_type: region
 longitude: 34.75
 score: 0.41
+snippet: Lake Victoria and highland region of markets, tea country, and Kakamega rainforest.
 title: Western Kenya
 type: location
-loc_type: region
 ---
 
 *Africa > Kenya > Western Kenya*

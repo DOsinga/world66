@@ -9,6 +9,8 @@ latitude: 49.780755
 loc_type: city
 longitude: -126.047302
 score: 0.29
+snippet: Vancouver Island village reached through Strathcona Provincial Park and glacier-fed
+  lake scenery.
 title: Gold River
 type: location
 ---

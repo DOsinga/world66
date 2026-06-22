@@ -10,6 +10,8 @@ latitude: 3.9001
 loc_type: city
 longitude: -76.302
 score: 0.36
+snippet: Valle del Cauca colonial city known for the Basílica del Señor de los Milagros
+  pilgrimage
 title: Buga
 type: location
 ---

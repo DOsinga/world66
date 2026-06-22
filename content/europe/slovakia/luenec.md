@@ -7,6 +7,7 @@ loc_type: city
 longitude: 19.663415
 score: 0.29
 title: Lučenec
+snippet: Small Novohrad town in southern Slovakia, marked by Hungarian influence and its restored Moorish-revival synagogue
 type: location
 image: luenec.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lu%C4%8Denec,_Slovakia-_Neological_Synagogue_-_2024.jpg

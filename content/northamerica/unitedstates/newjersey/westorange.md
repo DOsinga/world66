@@ -6,6 +6,8 @@ latitude: 40.799
 loc_type: city
 longitude: -74.239
 score: 0.31
+snippet: Essex County township best known for Thomas Edison's preserved laboratory
+  and invention-filled industrial complex.
 title: West Orange
 type: location
 ---

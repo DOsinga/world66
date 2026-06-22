@@ -12,6 +12,8 @@ latitude: 7.447078
 loc_type: city
 longitude: 125.809485
 score: 0.3
+snippet: Mindanao provincial capital serving Davao del Norte's banana plantations,
+  music festivals, beaches, and Mount Apo approaches.
 title: Tagum City
 type: location
 ---

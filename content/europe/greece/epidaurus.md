@@ -13,6 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Epidaurus
 - https://en.wikipedia.org/wiki/Ancient_Theatre_of_Epidaurus
 title: Epidaurus
+snippet: "Ancient Peloponnese sanctuary site, centred on a theatre famed for its precise acoustics."
 type: location
 ---
 

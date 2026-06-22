@@ -9,6 +9,7 @@ loc_type: city
 longitude: -99.0987
 score: 0.23
 title: Larned
+snippet: "Small Kansas town on the Arkansas River, best known for its intact Santa Fe Trail fort."
 type: location
 ---
 

@@ -10,6 +10,8 @@ latitude: 52.6324
 loc_type: city
 longitude: 4.7484
 score: 0.5
+snippet: North Holland canal town known for its ritual cheese market, stepped gables,
+  and historic hofjes.
 title: Alkmaar
 type: location
 ---

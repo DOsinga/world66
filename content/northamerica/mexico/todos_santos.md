@@ -10,6 +10,8 @@ latitude: 23.4501
 loc_type: city
 longitude: -110.2254
 score: 0.49
+snippet: Baja California Sur arts town near Pacific surf breaks, with galleries in
+  colonial streets
 title: Todos Santos
 type: location
 ---

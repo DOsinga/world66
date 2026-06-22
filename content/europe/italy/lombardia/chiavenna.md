@@ -9,6 +9,8 @@ latitude: 46.319786
 loc_type: city
 longitude: 9.398494
 score: 0.48
+snippet: Alpine Lombardy town at old Swiss passes, known for stone palazzi and natural
+  crotti cellars.
 title: Chiavenna
 type: location
 ---

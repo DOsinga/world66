@@ -9,6 +9,8 @@ latitude: 9.587653
 loc_type: city
 longitude: -11.550064
 score: 0.25
+snippet: Northern Sierra Leone town below the Wara Wara Mountains, used for trips
+  toward Mount Bintumani.
 title: Kabala
 type: location
 ---

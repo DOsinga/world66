@@ -6,6 +6,8 @@ latitude: 4.262992
 loc_type: city
 longitude: 72.991745
 score: 0.62
+snippet: Local Maldivian island in Ari Atoll, known for guesthouses, house reefs,
+  and hammerhead dives
 title: Rasdhoo
 type: location
 ---

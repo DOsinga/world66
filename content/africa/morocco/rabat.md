@@ -11,6 +11,8 @@ latitude: 34.021845
 loc_type: city
 longitude: -6.840893
 score: 0.55
+snippet: Atlantic Moroccan capital at the Bou Regreg, with Oudaya lanes, Chellah ruins,
+  and a calmer imperial-city pace.
 sources:
 - https://en.wikipedia.org/wiki/Rabat
 - https://en.wikivoyage.org/wiki/Rabat

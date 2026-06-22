@@ -12,6 +12,8 @@ longitude: -122.6068
 title: Oregon City
 type: location
 score: 0.35
+snippet: Oregon Trail endpoint on the Willamette River, built around the falls that
+  powered early industry.
 ---
 
 Oregon City is the oldest incorporated city west of the Rocky Mountains, founded in 1844 at the falls of the Willamette River — the point where the Oregon Trail ended for most emigrants who arrived by wagon from Missouri. It sits about 20 km south of Portland and is part of the metropolitan area, but it has a distinct identity shaped by its historical significance and the dramatic geography of the Willamette Falls.

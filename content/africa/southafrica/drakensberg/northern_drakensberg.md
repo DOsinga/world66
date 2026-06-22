@@ -6,6 +6,8 @@ latitude: -28.617207
 loc_type: city
 longitude: 29.031599
 score: 0.52
+snippet: High Drakensberg mountain region of basalt escarpments, Tugela Falls, and
+  the Amphitheatre above Royal Natal
 sources:
 - https://en.wikipedia.org/wiki/Drakensberg
 title: Northern Drakensberg

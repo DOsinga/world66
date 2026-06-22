@@ -6,6 +6,8 @@ latitude: 18.750369
 loc_type: city
 longitude: 73.406944
 score: 0.44
+snippet: Sahyadri hill station between Mumbai and Pune, known for monsoon waterfalls
+  and basalt escarpment views.
 title: Lonavala
 type: location
 ---

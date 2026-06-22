@@ -10,6 +10,8 @@ latitude: -29.379286
 loc_type: city
 longitude: -50.873702
 score: 0.51
+snippet: Serra Gaúcha mountain resort where German and Italian immigrant heritage
+  shapes chocolate shops and half-timbered streets.
 title: Gramado
 type: location
 ---

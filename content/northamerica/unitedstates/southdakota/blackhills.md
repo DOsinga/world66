@@ -9,6 +9,7 @@ loc_type: region
 longitude: -103.526487
 score: 0.64
 title: Black Hills
+snippet: Pine-dark South Dakota mountain range layered with Lakota sacred ground, caves, granite spires, and frontier towns.
 type: location
 ---
 

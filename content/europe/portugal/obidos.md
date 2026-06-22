@@ -10,6 +10,8 @@ latitude: 39.361951
 loc_type: city
 longitude: -9.157153
 score: 0.56
+snippet: Medieval Portuguese walled town of whitewashed lanes and walkable battlements
+  north of Lisbon.
 title: Óbidos
 type: location
 ---

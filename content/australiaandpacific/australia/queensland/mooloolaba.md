@@ -9,6 +9,8 @@ latitude: -26.685257
 loc_type: city
 longitude: 153.113185
 score: 0.48
+snippet: Sunshine Coast beach town with a sheltered north-facing beach and a working
+  harbour precinct.
 title: Mooloolaba
 type: location
 ---

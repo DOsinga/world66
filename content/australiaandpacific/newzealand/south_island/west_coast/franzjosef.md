@@ -10,6 +10,8 @@ latitude: -43.387382
 loc_type: city
 longitude: 170.181932
 score: 0.57
+snippet: West Coast glacier village where alpine ice descends close to temperate rainforest
+  in Westland Tai Poutini.
 title: Franz Josef
 type: location
 ---

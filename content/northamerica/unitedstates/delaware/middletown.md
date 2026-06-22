@@ -6,6 +6,7 @@ latitude: 39.4496
 loc_type: city
 longitude: -75.7163
 score: 0.23
+snippet: "Growing Delaware town on the Delmarva route, with farming roots and nearby Historic Odessa."
 title: Middletown
 type: location
 ---

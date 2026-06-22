@@ -10,6 +10,8 @@ latitude: 45.899235
 loc_type: city
 longitude: 6.128885
 score: 0.68
+snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castle,
+  and mountain-framed Lake Annecy.
 title: Annecy
 type: location
 ---

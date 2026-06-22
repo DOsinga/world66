@@ -6,6 +6,8 @@ latitude: 62.036071
 loc_type: city
 longitude: 14.359839
 score: 0.32
+snippet: Quiet Härjedalen town on the Ljusnan, known for Inlandsbanan rail travel
+  and a giant wooden bear
 title: Sveg
 type: location
 ---

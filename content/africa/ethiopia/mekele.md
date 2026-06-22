@@ -11,6 +11,7 @@ latitude: 13.4967
 loc_type: city
 longitude: 39.4769
 score: 0.27
+snippet: Tigrayan plateau city in northern Ethiopia, used as a base for Danakil and rock-church journeys.
 title: Mekele
 type: location
 ---

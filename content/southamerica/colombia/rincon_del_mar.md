@@ -11,6 +11,7 @@ loc_type: city
 longitude: -75.641092
 score: 0.37
 title: Rincón del Mar
+snippet: Caribbean beach village on Colombia's Gulf of Morrosquillo, facing the Islas de San Bernardo
 type: location
 ---
 

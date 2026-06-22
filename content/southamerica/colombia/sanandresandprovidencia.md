@@ -2,6 +2,7 @@
 title: San Andrés and Providencia
 type: location
 loc_type: region
+snippet: Colombian Caribbean archipelago with Raizal culture, pairing busy San Andrés with volcanic Providencia.
 latitude: 12.9833
 longitude: -81.5333
 ---

@@ -629,6 +629,7 @@ _CITY_SCORE_THRESHOLDS = {
     "northamerica": 0.60,
     "europe": 0.65,
 }
+_COUNTRY_FEATURED_FALLBACK_THRESHOLD = 0.50
 
 
 @lru_cache(maxsize=1)
@@ -639,23 +640,22 @@ def count_content_pages():
 
 @lru_cache(maxsize=1)
 def load_featured_cities():
-    """Return location pages at city level (depth 3 or 4). Score threshold varies by continent."""
+    """Return featured location pages at city level, with at least one strong entry per country."""
     result = []
+    country_best = {}
+    represented_countries = set()
 
-    def _try_city(city_file, cont_name, country_name, state_name=None):
+    def _city_candidate(city_file, cont_name, country_name, state_name=None):
         r = _load_md(city_file)
         if not r:
-            return
+            return None
         meta, body = r
         if meta.get("type") != "location":
-            return
+            return None
         score = float(meta.get("score", 0) or 0)
-        threshold = _CITY_SCORE_THRESHOLDS.get(cont_name, 0.60)
-        if score < threshold:
-            return
         image = meta.get("image", "")
         if not image:
-            return
+            return None
         # At depth-3 (no state_name), skip entries that are state/province containers —
         # i.e. pages whose corresponding directory holds child location pages (cities).
         # Those cities are already captured at depth-4.
@@ -666,7 +666,7 @@ def load_featured_cities():
                     if child.is_file() and child.suffix == ".md":
                         child_r = _load_md(child)
                         if child_r and child_r[0].get("type") == "location":
-                            return  # this is a state/region page, not a city
+                            return None  # this is a state/region page, not a city
                         break
         stem = city_file.stem
         if state_name:
@@ -693,19 +693,34 @@ def load_featured_cities():
                 image_url = f"/content-image/{candidate}"
                 break
         else:
-            return
+            return None
         page = _load_page_from_file(city_file, url_path)
         if not page:
-            return
+            return None
         country = load_page(f"{cont_name}/{country_name}")
-        result.append({
+        return {
             "page": page,
             "image_url": image_url,
             "country": country.title if country else "",
             "lat": meta.get("latitude"),
             "lng": meta.get("longitude"),
             "score": score,
-        })
+        }
+
+    def _try_city(city_file, cont_name, country_name, state_name=None):
+        candidate = _city_candidate(city_file, cont_name, country_name, state_name)
+        if not candidate:
+            return
+        country_key = (cont_name, country_name)
+        score = candidate["score"]
+        if score >= _COUNTRY_FEATURED_FALLBACK_THRESHOLD:
+            current = country_best.get(country_key)
+            if not current or score > current["score"]:
+                country_best[country_key] = candidate
+        threshold = _CITY_SCORE_THRESHOLDS.get(cont_name, 0.60)
+        if score >= threshold:
+            represented_countries.add(country_key)
+            result.append(candidate)
 
     for cont_dir in sorted(CONTENT_DIR.iterdir()):
         if not cont_dir.is_dir():
@@ -722,6 +737,11 @@ def load_featured_cities():
                     for city_file in sorted(entry.iterdir()):
                         if city_file.is_file() and city_file.suffix == ".md":
                             _try_city(city_file, cont_dir.name, country_dir.name, entry.name)
+    for country_key, candidate in sorted(
+        country_best.items(), key=lambda item: (-item[1]["score"], item[0])
+    ):
+        if country_key not in represented_countries:
+            result.append(candidate)
     return result
 
 

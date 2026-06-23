@@ -1,0 +1,25 @@
+world66_path,wv_name,reason
+africa/algeria/oran,Oran zoo,below 6.0 threshold; small zoo with weak visitor value and animal-welfare concern in description
+africa/benin/ouidah,Brazilian Mansion,duplicate/alias of existing Maison Francisco de Souza (Maison du Brésil)
+africa/burkinafaso/gaoua,Poni Museum,duplicate of existing Musée de Poni
+africa/burkinafaso/gaoua,Ruins of Loropéni,duplicate of existing Loropéni Ruins
+africa/egypt/dahab,Abu Galoum,duplicate/alias of existing Ras Abu Galum Protectorate
+africa/ethiopia/addisababa,Ethiopian National Library,generic institution rather than a clear traveller POI; below local 6.0 threshold
+africa/ivorycoast/abidjan,Museum of Civilizations in Côte d'Ivoire,duplicate of existing National Museum entry for Musée des Civilisations de Côte d'Ivoire
+africa/kenya/nairobi,Kereita Forest zip line,activity operator/zip-line venue outside Nairobi; not clearly worth a standalone city POI
+africa/morocco/essaouira,Mogador island,restricted nature reserve not normally visitable; below standalone POI threshold
+africa/morocco/larache,The ruins of Lixus,duplicate of existing Lixus
+africa/morocco/smara,Mosquée Cheikh Maelainin,duplicate/alias of existing Ma El Ainin's Zawiya
+africa/nigeria/ibadan,Cathedral of St. Peters,"duplicate of existing St Peter's Cathedral, Ake in Abeokuta; wrong parent location"
+africa/nigeria/ibadan,IITA,duplicate of existing International Institute of Tropical Agriculture
+africa/nigeria/oshogbo,Busseyin Shrine,subsite/overlap with existing Osun-Osogbo Sacred Grove and Adunni Olorisha Trust; not strong enough as separate POI
+africa/nigeria/warri,Delta Ports,port infrastructure rather than traveller attraction; not clearly worth a standalone POI
+africa/nigeria/warri,Falcorp Mangrove Park and Mini Zoo,private leisure/mini-zoo venue with weak independent travel value; below local threshold
+africa/tunisia/tunis,Chambre des Conseillers,empty former parliamentary building; not clearly worth 6.0 beside stronger Tunis architecture and museums
+africa/zimbabwe/victoriafalls,Victoria Falls National Park,duplicates the parent feature and existing Tour of the Falls POI
+asia/bangladesh/chittagong,Anandabazar Sea Beach,minor beach/coastal area below 6.0 threshold and weaker than existing Patenga Beach
+asia/bangladesh/chittagong,BNS Issa Khan,active naval base/service facility rather than a visitor POI
+asia/cambodia/battambang,Battambang Circus,duplicate/alias of existing Phare Ponleu Selpak (Phare Circus)
+asia/china/anhui/huaibei,Former site of Zhaoji Second-Level Pumping Station,niche protected engineering site; below local 6.0 visitor threshold
+asia/china/fujianprovince/ningde,Xianshan Pasture,remote generic pasture far from Ningde; not clearly worth a standalone POI
+asia/china/fujianprovince/tulou,Tianhou Palace,minor subsite within the existing Hongkeng Folk Village POI; below standalone threshold

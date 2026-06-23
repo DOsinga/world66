@@ -1,0 +1,28 @@
+world66_path,wv_name,reason
+africa/botswana/gaborone,Statue of Seretse Khama,below score threshold; small civic statue already outclassed by Three Dikgosi Monument and National Museum
+africa/botswana/gaborone,The Hindu hall,generic active religious/community venue; not clearly worth score 6.0 in Gaborone lineup
+africa/cameroon/foumban,Palais des Sultans Bamoun,duplicate of existing Royal Palace of Foumban/Foumban Royal Palace and Museum POIs
+africa/eritrea/danakildepression,Lake Afrera,wrong-location; Lake Afrera/Afdera is in Ethiopia rather than the Eritrea Danakil parent
+africa/eritrea/danakildepression,Lake Bakili,reject after review: too obscure and geographically/source ambiguous for a 6.0 POI; generic Danakil listing overlaps Ethiopia/Eritrea split
+africa/ethiopia/gondar,Atse Tewodros Square,below score threshold; traffic circle statue not strong enough beside Gondar's royal and church sights
+africa/ghana/tamale,Ambariya Sunni Community,below score threshold; local religious headquarters rather than a visitor POI
+africa/ghana/tamale,Masjid Bayaan Institute,wrong-location coordinates near Accra and not a Tamale POI
+africa/kenya/thecoast/malindi,The Hanging Gardens of Malindi,generic commercial nursery; not clearly worth score 6.0
+africa/libya/shahhat,Cyrene,duplicate of existing Cyrene Archaeological Site POI
+africa/madagascar/nosybe,Moraingy fight games,event/activity rather than stable POI with a visitor site; coordinates not enough to publish
+africa/mali/bamako,Bamako Botanical Gardens,duplicate of existing Parc Zoologique et Botanique du Mali POI
+africa/mali/bamako,Bamako Zoo,duplicate of existing Parc Zoologique et Botanique du Mali POI
+africa/morocco/chaouen,Jemaa Bouzafar Mosque,alias/duplicate of existing Spanish Mosque POI
+africa/nigeria/abuja,An Noor Mosque,below score threshold and too similar to existing Nigerian National Mosque coverage
+africa/nigeria/abuja,Sarius Planetum,generic commercial garden/restaurant; not clearly worth score 6.0
+africa/nigeria/ife,Igi Nla,insufficiently verifiable visitor POI; description is mostly legend and access/location are uncertain
+africa/nigeria/portharcourt,Choba Park Public Toilet,service facility; not a travel-guide POI
+africa/nigeria/yola,Beth Haran Garden and Marquee,generic event centre; not clearly worth score 6.0
+africa/nigeria/yola,Gashaka Gumti National Park,wrong-location for Yola city; major park should be separate feature/day-trip target rather than flat city POI
+africa/somalia/mogadishu,Almnara Tower,duplicate/alias of existing Mogadishu Lighthouse POI
+africa/somalia/mogadishu,Black Hawk Down Crash Site,unsafe and not a stable visitor POI; conflict site requires protection and is not suitable for inclusion
+africa/tunisia/sousse,The Sousse Catacombs,duplicate of existing Catacombs of Sousse POI
+africa/uganda/kampala,Bahai Temple,duplicate of existing Baha'i House of Worship POI
+africa/uganda/kampala,Easy Coach,transport operator/service; not a POI
+asia/cambodia/phnompenh,Former M-13 Prison,wrong-location for Phnom Penh city and too remote for flat city POI
+asia/china/fujianprovince/putian,Mount Taikuan,insufficient independent sourcing; generic mountain listing not clearly worth score 6.0 beside stronger Putian sights

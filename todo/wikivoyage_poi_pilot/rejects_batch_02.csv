@@ -1,0 +1,21 @@
+world66_path,wv_name,reason
+africa/algeria/constantine,Bois de la Légion d'Honneur,Low-value generic park for Constantine compared with existing gorge bridge medina museum coverage
+africa/cameroon/kribi,Lobe Falls,Duplicate of existing Chutes de la Lobé POI
+africa/congokinshasa/kinshasa,Bombo-Lumene Game Reserve,Too far from Kinshasa core and not clearly strong enough as a flat city POI
+africa/kenya/centralhighlands/nanyuki,St. Georges Church,Generic local church with insufficient evidence of traveller value at score 6 or higher
+africa/kenya/theriftvalley/kericho,Chereres-Waterfall,Thin/uncertain local hiking sight with weak independent support and no clear advantage over existing Kericho nature POIs
+africa/kenya/theriftvalley/kericho,Sacred Heart Cathedral,Wrong-location row; coordinates and likely identity point away from Kericho
+africa/malawi/lilongwe,Kumbali Cultural Centre,Private cultural venue/operator attached to a lodge complex rather than a durable public POI
+africa/morocco/errachidia,Sijilmassa Museum,Ambiguous candidate and not clearly separate from existing Sijilmassa restaurant/Rissani-area coverage
+africa/niger/niamey,Centre Culturel Oumarou Ganda,Alias/duplicate of existing Franco-Nigerien Cultural Centre coverage
+africa/nigeria/calabar,Drill Monkey Rehab Centre,Duplicate of existing Drill Ranch (Pandrillus) POI
+africa/nigeria/jos,Gbong Gwom Jos' palace,Private traditional ruler palace with unclear public access and insufficient traveller value
+africa/nigeria/jos,Jos Museum and Zoo,Duplicate/alias of existing Jos National Museum and museum-complex coverage
+africa/nigeria/sokoto,IBB CENTER UDUS,University facility rather than a traveller POI
+africa/nigeria/sokoto,Skyland Park and Wellness Center,Generic private leisure/wellness venue below guide threshold
+africa/southafrica/capetown,Galleria Gibello,Small private gallery below Cape Town's existing things-to-do threshold
+africa/southafrica/capetown,Phoenix Dance Company,Performing group/operator and wrong fit for flat durable POI coverage
+africa/sudan/portsudan,Virgin Mary Church of Port Sudan,Insufficient reliable independent support and unclear visitor access under current conditions
+asia/bahrain/manama,Council of Representatives Building,Generic government building with low visitor value
+asia/brunei/kualabelait,Jalan Pretty,Generic street/road rather than a distinct POI
+asia/brunei/kualabelait,Kampong Pandan Mosque,Local neighbourhood mosque with insufficient evidence of visitor value at score 6 or higher

@@ -1,0 +1,25 @@
+world66_path,wv_name,reason
+africa/burundi/bujumbura,Bugarama,Viewpoint is far outside Bujumbura and too thinly described to clear the local POI threshold.
+africa/centralafricanrepublic/bangui,Boganda National Museum,Duplicate/alias of existing Musée de Boganda POI.
+africa/centralafricanrepublic/bangui,Renaissance Palace,Exterior-only presidential palace view is below the local threshold for Bangui.
+africa/egypt/minya,Al-Fouly Mosque,Minor mosque with weak traveller value compared with Minya's major archaeological sights.
+africa/gabon/libreville,Notre Dame de Lourdes,Small church below Libreville's local threshold; existing stronger church POIs already cover this category.
+africa/ivorycoast/yamoussoukro,Saint Augustin Cathedral,Minor cathedral in a city dominated by much stronger religious and civic landmarks.
+africa/kenya/thecoast/mombasa,Ambulances St John,"Service listing, not a traveller POI."
+africa/kenya/thecoast/mombasa,Commonwealth War Cemetery Manyimbo,Respectable memorial but below Mombasa's local threshold for a general travel POI.
+africa/madagascar/antananarivo,Independence Avenue,Duplicate/alias of existing Avenue de l'Indépendance POI.
+africa/nigeria/akure,Ebomi Lake Tourist Centre,Wrong location for the Akure page and coordinates are not credible for the named lake.
+africa/nigeria/akure,Igbokoda,Wrong location for Akure; Igbokoda is a separate waterfront town/area and the row reuses bad coordinates.
+africa/nigeria/kano,Albasu Central Mosque,Wrong location for Kano city; Albasu is far outside the parent location.
+africa/nigeria/zaria,ABU Gymnasium (Indoor Hall),"Ordinary campus gym and fitness facility, below the travel POI threshold."
+africa/nigeria/zaria,N.I.T.T. Field Zaria,"Generic recreational/event field, below the travel POI threshold."
+africa/somaliland/hargeisa,Laas Geel,Duplicate/alias of existing Laas Geel Cave Paintings POI.
+africa/southafrica/krugernationalpark,Albasini Ruins,Small ruins/picnic stop below Kruger National Park's local threshold.
+africa/southafrica/krugernationalpark,Anna Ledeboer Plaque,Minor grave marker below the local threshold for a major national park page.
+africa/tanzania/bagamoyo,Daladala station,"Transport service listing, not a things-to-do POI."
+africa/tanzania/bagamoyo,Mangrove forests,Vague beach-walk area with safety concerns and no named visitor site; below threshold.
+africa/tunisia/tataouine,Local louage station,"Transport service listing, not a things-to-do POI."
+africa/zimbabwe/harare,Harare City Library,Ordinary civic library with weak traveller value; below Harare's local threshold.
+asia/afghanistan/kabul,Bagh-e Zanana,"Current traveller access and operating status are uncertain, and the attraction is too thin for Kabul's threshold."
+asia/china/anhui/tongling,Jiulangjian Forest Park,Ordinary local forest park with weak independent sourcing; below Tongling's local threshold.
+asia/china/anhui/tongling,Martyrs Memorial Hall,Generic memorial hall below Tongling's local threshold.

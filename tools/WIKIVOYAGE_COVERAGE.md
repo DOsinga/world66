@@ -27,16 +27,28 @@ tools/wikivoyage_coverage.sqlite
 
 ## Reports
 
-Show likely missing Wikivoyage listings for one destination:
+Show filtered candidate gaps for one destination:
+
+```bash
+python3 tools/wikivoyage_coverage.py candidates --destination Paris
+```
+
+Write a CSV of filtered candidate gaps for one destination:
+
+```bash
+python3 tools/wikivoyage_coverage.py candidates --destination Paris --csv > paris_candidates.csv
+```
+
+Sample candidate gaps across 100 destinations:
+
+```bash
+python3 tools/wikivoyage_coverage.py sample-candidates --limit 100 --csv > wikivoyage_candidate_sample.csv
+```
+
+Show raw missing listings for debugging, including likely noise and aliases:
 
 ```bash
 python3 tools/wikivoyage_coverage.py missing --destination Paris
-```
-
-Write a CSV of missing listings for one destination:
-
-```bash
-python3 tools/wikivoyage_coverage.py missing --destination Paris --csv > paris_missing.csv
 ```
 
 Summarize all matched destinations by apparent coverage:
@@ -62,3 +74,20 @@ POIs/listings are considered covered when one of these is true:
 
 The output is a triage list. It should identify places to investigate, not
 automatically create World66 pages.
+
+## Candidate Filtering
+
+The `candidates` and `sample-candidates` commands apply additional filters so
+the output is more useful for content planning:
+
+- suppress `go` transport listings by default
+- suppress accommodation, embassies/consulates, tourist information offices,
+  rentals, taxis, schools/classes, tour operators, clinics/hospitals, hotels,
+  and similar operational rows
+- suppress likely aliases where World66 already has a close name or coordinate
+  match
+- score rows higher when they have coordinates, descriptions, and high-value
+  travel types such as `see` and `do`
+
+Use `--include-go`, `--include-noise`, or `--include-aliases` when auditing the
+filters themselves.

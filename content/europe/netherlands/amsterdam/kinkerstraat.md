@@ -9,6 +9,10 @@ tags:
 - oud_west
 title: Kinkerstraat
 type: neighbourhood
+image: kinkerstraat.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Overtoom_Amsterdam.JPG
+image_license: Public domain
+image_attribution: Arch
 ---
 
 The main commercial artery of Oud-West — a long, busy street with a covered market hall (the Hallen, in a converted tram depot), independent restaurants, and the kind of ordinary neighbourhood shops that have been pushed out of areas closer to the centre. The Hallen is worth going into for the food market on weekends.

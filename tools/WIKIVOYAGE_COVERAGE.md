@@ -45,6 +45,18 @@ Sample candidate gaps across 100 destinations:
 python3 tools/wikivoyage_coverage.py sample-candidates --limit 100 --csv > wikivoyage_candidate_sample.csv
 ```
 
+Export a ranked queue for worker batches:
+
+```bash
+python3 tools/wikivoyage_coverage.py export-candidates \
+  --limit 250 \
+  --min-score 0.82 \
+  --require-coords \
+  --max-per-destination 2 \
+  --exclude-csv todo/wikivoyage_poi_pilot/candidates_250.csv \
+  --csv > wikivoyage_followup_250.csv
+```
+
 Show raw missing listings for debugging, including likely noise and aliases:
 
 ```bash
@@ -86,8 +98,14 @@ the output is more useful for content planning:
   and similar operational rows
 - suppress likely aliases where World66 already has a close name or coordinate
   match
-- score rows higher when they have coordinates, descriptions, and high-value
-  travel types such as `see` and `do`
+- score rows higher when they have coordinates, external URLs, descriptions,
+  strong travel terms, and high-value travel types such as `see` and `do`
+- flag rows that need an external source, are far from the parent destination,
+  lack coordinates, or look like weak travel candidates
+- omit raw Wikivoyage descriptions from candidate CSV output by default
 
 Use `--include-go`, `--include-noise`, or `--include-aliases` when auditing the
 filters themselves.
+
+Use `--include-descriptions` only for source-auditing. Worker queues should
+avoid raw Wikivoyage prose so new POI copy stays original.

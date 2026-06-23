@@ -141,13 +141,30 @@ COUNTRY_NAME_NOISE = {
     "the netherlands", "turkey", "united kingdom", "united states",
 }
 LISTING_TYPE_SCORE = {
-    "see": 0.78,
-    "do": 0.72,
-    "eat": 0.58,
-    "drink": 0.54,
-    "buy": 0.50,
+    "see": 0.62,
+    "do": 0.62,
+    "eat": 0.44,
+    "drink": 0.40,
+    "buy": 0.38,
     "go": 0.35,
 }
+TRAVEL_SIGNAL_RE = re.compile(
+    r"\b("
+    r"museum|gallery|monument|memorial|mosque|church|cathedral|temple|"
+    r"synagogue|palace|fort|fortress|castle|citadel|ruins?|archaeolog|"
+    r"historic|heritage|unesco|garden|park|reserve|sanctuary|waterfall|"
+    r"beach|viewpoint|trail|hiking|cave|island|zoo|aquarium|theatre|"
+    r"opera|market|medina|old town|national park"
+    r")\b",
+    re.I,
+)
+WEAK_SIGNAL_RE = re.compile(
+    r"\b("
+    r"office|company|mall|shopping centre|shopping center|stadium|arena|"
+    r"cinema|nightclub|club|spa|gym|pool|library|campus|factory|terminal"
+    r")\b",
+    re.I,
+)
 
 
 @dataclass
@@ -867,6 +884,7 @@ def best_world66_candidate(
 def candidate_assessment(
     listing: sqlite3.Row,
     pois: list[sqlite3.Row],
+    parent: sqlite3.Row | None = None,
     include_go: bool = False,
     include_noise: bool = False,
     include_aliases: bool = False,
@@ -877,9 +895,18 @@ def candidate_assessment(
     text = f"{name} {description}"
     listing_type = listing["listing_type"]
     best_poi, best_score, best_distance = best_world66_candidate(pois, listing)
+    parent_distance = None
+    if parent is not None:
+        parent_distance = haversine_km(
+            parent["latitude"],
+            parent["longitude"],
+            listing["latitude"],
+            listing["longitude"],
+        )
 
     status = "candidate"
     reason = []
+    flags = []
     score = LISTING_TYPE_SCORE.get(listing_type, 0.45)
 
     if listing_type == "go" and not include_go:
@@ -899,12 +926,34 @@ def candidate_assessment(
     if listing["latitude"] is not None and listing["longitude"] is not None:
         score += 0.10
         reason.append("has coordinates")
+    else:
+        score -= 0.20
+        flags.append("missing_coordinates")
     if description:
         score += 0.08
         reason.append("has description")
     if listing_type in {"see", "do"}:
         score += 0.05
         reason.append("high-value type")
+    if listing["url"]:
+        score += 0.04
+        reason.append("has external URL")
+        flags.append("has_external_url")
+    else:
+        flags.append("needs_external_source")
+    if TRAVEL_SIGNAL_RE.search(text):
+        score += 0.04
+        reason.append("strong travel term")
+    if WEAK_SIGNAL_RE.search(text):
+        score -= 0.08
+        flags.append("weak_travel_signal")
+    if parent_distance is not None:
+        if parent_distance > 80:
+            score -= 0.22
+            flags.append("far_from_parent")
+        elif parent_distance > 25:
+            score -= 0.10
+            flags.append("day_trip_review")
     if best_score >= 0.55:
         score -= 0.15
     if status != "candidate":
@@ -918,6 +967,9 @@ def candidate_assessment(
         "best_w66_path": best_poi["path"] if best_poi else "",
         "best_match_score": round(best_score, 3),
         "best_distance_km": "" if best_distance is None else round(best_distance, 3),
+        "parent_distance_km": "" if parent_distance is None else round(parent_distance, 3),
+        "candidate_flags": "; ".join(flags),
+        "external_url": listing["url"] or "",
     }
 
 
@@ -937,6 +989,7 @@ def candidate_rows_for_match(
         assessment = candidate_assessment(
             listing,
             pois,
+            parent=match,
             include_go=include_go,
             include_noise=include_noise,
             include_aliases=include_aliases,
@@ -1084,7 +1137,11 @@ def print_missing(
         print(f"  {listing['source_url']}")
 
 
-def write_candidate_rows(rows: list[dict], csv_output: bool) -> None:
+def write_candidate_rows(
+    rows: list[dict],
+    csv_output: bool,
+    include_descriptions: bool = False,
+) -> None:
     fieldnames = [
         "world66_path",
         "world66_title",
@@ -1102,13 +1159,17 @@ def write_candidate_rows(rows: list[dict], csv_output: bool) -> None:
         "best_w66_path",
         "best_match_score",
         "best_distance_km",
+        "parent_distance_km",
+        "candidate_flags",
+        "external_url",
         "source_url",
-        "description",
     ]
+    if include_descriptions:
+        fieldnames.append("description")
     if csv_output:
         writer = csv.DictWriter(sys.stdout, fieldnames=fieldnames)
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows({field: row.get(field, "") for field in fieldnames} for row in rows)
         return
 
     for row in rows:
@@ -1126,7 +1187,7 @@ def write_candidate_rows(rows: list[dict], csv_output: bool) -> None:
                 f"  nearest/name: {row['best_w66_title']} "
                 f"(score {row['best_match_score']}, distance {row['best_distance_km']})"
             )
-        if row["description"]:
+        if include_descriptions and row["description"]:
             print(f"  {row['description'][:220]}")
         print(f"  {row['source_url']}")
 
@@ -1140,6 +1201,7 @@ def print_candidates(
     include_go: bool,
     include_noise: bool,
     include_aliases: bool,
+    include_descriptions: bool,
 ) -> None:
     match = find_destination_match(conn, destination)
     if not match:
@@ -1152,7 +1214,7 @@ def print_candidates(
         include_noise=include_noise,
         include_aliases=include_aliases,
     )
-    write_candidate_rows(rows[:limit], csv_output)
+    write_candidate_rows(rows[:limit], csv_output, include_descriptions=include_descriptions)
 
 
 def sample_candidates(
@@ -1166,11 +1228,12 @@ def sample_candidates(
     include_go: bool,
     include_noise: bool,
     include_aliases: bool,
+    include_descriptions: bool,
 ) -> None:
     placeholders = ",".join("?" for _ in loc_types)
     matches = conn.execute(
         f"""
-        SELECT dm.*, w.title AS world66_title, w.loc_type
+        SELECT dm.*, w.title AS world66_title, w.loc_type, w.latitude, w.longitude
         FROM destination_matches dm
         JOIN world66_pages w ON w.path = dm.world66_path
         WHERE w.loc_type IN ({placeholders})
@@ -1201,7 +1264,92 @@ def sample_candidates(
         if len(rows) >= limit:
             break
     rows.sort(key=lambda row: (-row["candidate_score"], row["world66_path"], row["wv_name"]))
-    write_candidate_rows(rows, csv_output)
+    write_candidate_rows(rows, csv_output, include_descriptions=include_descriptions)
+
+
+def export_candidates(
+    conn: sqlite3.Connection,
+    limit: int,
+    radius_m: float,
+    csv_output: bool,
+    min_wikivoyage: int,
+    loc_types: set[str],
+    include_go: bool,
+    include_noise: bool,
+    include_aliases: bool,
+    include_descriptions: bool,
+    min_score: float,
+    require_coords: bool,
+    max_per_destination: int,
+    exclude_flags: set[str],
+    exclude_keys: set[tuple[str, str]],
+    seed: int,
+) -> None:
+    placeholders = ",".join("?" for _ in loc_types)
+    matches = conn.execute(
+        f"""
+        SELECT dm.*, w.title AS world66_title, w.loc_type, w.latitude, w.longitude
+        FROM destination_matches dm
+        JOIN world66_pages w ON w.path = dm.world66_path
+        WHERE w.loc_type IN ({placeholders})
+        """,
+        tuple(sorted(loc_types)),
+    ).fetchall()
+    rows = []
+    for match in matches:
+        listings_count = conn.execute(
+            "SELECT COUNT(*) FROM wikivoyage_listings WHERE page_title = ?",
+            (match["wikivoyage_title"],),
+        ).fetchone()[0]
+        if listings_count < min_wikivoyage:
+            continue
+        candidates, _ = candidate_rows_for_match(
+            conn,
+            match,
+            radius_m,
+            include_go=include_go,
+            include_noise=include_noise,
+            include_aliases=include_aliases,
+        )
+        kept_for_destination = 0
+        for row in candidates:
+            flags = {value.strip() for value in row["candidate_flags"].split(";") if value.strip()}
+            key = (row["world66_path"], normalize_name(row["wv_name"]))
+            if key in exclude_keys:
+                continue
+            if row["candidate_score"] < min_score:
+                continue
+            if require_coords and (row["wv_lat"] is None or row["wv_lng"] is None):
+                continue
+            if flags & exclude_flags:
+                continue
+            rows.append(row)
+            kept_for_destination += 1
+            if kept_for_destination >= max_per_destination:
+                break
+
+    rng = random.Random(seed)
+    rng.shuffle(rows)
+    rows.sort(
+        key=lambda row: (
+            -row["candidate_score"],
+            "needs_external_source" in row["candidate_flags"],
+        )
+    )
+    write_candidate_rows(rows[:limit], csv_output, include_descriptions=include_descriptions)
+
+
+def load_exclude_keys(paths: list[Path]) -> set[tuple[str, str]]:
+    keys = set()
+    for path in paths:
+        with path.open(newline="") as handle:
+            reader = csv.DictReader(handle)
+            for row in reader:
+                world66_path = row.get("world66_path", "")
+                wv_name = row.get("wv_name", "")
+                if world66_path and wv_name:
+                    keys.add((world66_path, normalize_name(wv_name)))
+    return keys
 
 
 def destination_report(
@@ -1335,6 +1483,7 @@ def main() -> None:
     p_candidates.add_argument("--include-go", action="store_true", help="Include transport/getting-there listings")
     p_candidates.add_argument("--include-noise", action="store_true", help="Include operational listings normally filtered out")
     p_candidates.add_argument("--include-aliases", action="store_true", help="Include likely aliases/near-duplicates")
+    p_candidates.add_argument("--include-descriptions", action="store_true", help="Include raw Wikivoyage descriptions in output")
     p_candidates.add_argument("--csv", action="store_true")
 
     p_sample = sub.add_parser("sample-candidates", help="Sample filtered candidate gaps across destinations")
@@ -1351,7 +1500,40 @@ def main() -> None:
     p_sample.add_argument("--include-go", action="store_true", help="Include transport/getting-there listings")
     p_sample.add_argument("--include-noise", action="store_true", help="Include operational listings normally filtered out")
     p_sample.add_argument("--include-aliases", action="store_true", help="Include likely aliases/near-duplicates")
+    p_sample.add_argument("--include-descriptions", action="store_true", help="Include raw Wikivoyage descriptions in output")
     p_sample.add_argument("--csv", action="store_true")
+
+    p_export = sub.add_parser("export-candidates", help="Export ranked filtered candidate gaps across destinations")
+    add_common_db_arg(p_export)
+    p_export.add_argument("--limit", type=int, default=250)
+    p_export.add_argument("--seed", type=int, default=66)
+    p_export.add_argument("--radius-m", type=float, default=150)
+    p_export.add_argument("--min-wikivoyage", type=int, default=5)
+    p_export.add_argument("--min-score", type=float, default=0.82)
+    p_export.add_argument("--max-per-destination", type=int, default=2)
+    p_export.add_argument("--require-coords", action="store_true")
+    p_export.add_argument(
+        "--exclude-flags",
+        default="far_from_parent,weak_travel_signal",
+        help="Comma-separated candidate flags to exclude",
+    )
+    p_export.add_argument(
+        "--loc-types",
+        default="city,feature,island",
+        help="Comma-separated World66 loc_type values to include (default: city,feature,island)",
+    )
+    p_export.add_argument("--include-go", action="store_true", help="Include transport/getting-there listings")
+    p_export.add_argument("--include-noise", action="store_true", help="Include operational listings normally filtered out")
+    p_export.add_argument("--include-aliases", action="store_true", help="Include likely aliases/near-duplicates")
+    p_export.add_argument("--include-descriptions", action="store_true", help="Include raw Wikivoyage descriptions in output")
+    p_export.add_argument(
+        "--exclude-csv",
+        action="append",
+        type=Path,
+        default=[],
+        help="Candidate/reject CSV to exclude by world66_path and wv_name; may be repeated",
+    )
+    p_export.add_argument("--csv", action="store_true")
 
     p_report = sub.add_parser("destination-report", help="Summarize coverage for all matched destinations")
     add_common_db_arg(p_report)
@@ -1397,6 +1579,7 @@ def main() -> None:
             args.include_go,
             args.include_noise,
             args.include_aliases,
+            args.include_descriptions,
         )
     elif args.command == "sample-candidates":
         loc_types = {value.strip() for value in args.loc_types.split(",") if value.strip()}
@@ -1411,6 +1594,29 @@ def main() -> None:
             args.include_go,
             args.include_noise,
             args.include_aliases,
+            args.include_descriptions,
+        )
+    elif args.command == "export-candidates":
+        loc_types = {value.strip() for value in args.loc_types.split(",") if value.strip()}
+        exclude_flags = {value.strip() for value in args.exclude_flags.split(",") if value.strip()}
+        exclude_keys = load_exclude_keys(args.exclude_csv)
+        export_candidates(
+            conn,
+            args.limit,
+            args.radius_m,
+            args.csv,
+            args.min_wikivoyage,
+            loc_types,
+            args.include_go,
+            args.include_noise,
+            args.include_aliases,
+            args.include_descriptions,
+            args.min_score,
+            args.require_coords,
+            args.max_per_destination,
+            exclude_flags,
+            exclude_keys,
+            args.seed,
         )
     elif args.command == "destination-report":
         loc_types = {value.strip() for value in args.loc_types.split(",") if value.strip()}

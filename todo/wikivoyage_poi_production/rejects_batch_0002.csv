@@ -1,0 +1,8 @@
+world66_path,wv_name,reason
+europe/ukraine/vinnista,National Pirogov`s Estate Museum,duplicate of existing POI europe/ukraine/vinnista/pirogov_museum
+europe/hungary/sopron,Harka,nearby settlement rather than a POI; better handled as a separate location or day trip
+europe/denmark/esbjerg,Island of Fanø,island destination rather than a flat POI; existing Esbjerg day-trips section is the better display model
+europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham,Moseley Bog & Joy's Wood Nature Reserve,duplicate/alias of existing POI europe/unitedkingdom/england/birmingham_and_west_midlands/birmingham/moseley_bog
+northamerica/unitedstates/virginia/williamsburg,Jamestown,major separate historic destination/day trip rather than a Williamsburg POI
+northamerica/unitedstates/newmexico/farmington,Aztec Museum & Pioneer Village,in a separate town over 20 km from Farmington; does not clearly belong as a parent-location POI
+southamerica/argentina/iguazufalls,Parque das Aves,duplicate/wrong-side listing; accepted under southamerica/brazil/iguacufalls where the bird park is located

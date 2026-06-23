@@ -1,0 +1,12 @@
+world66_path,wv_name,reason
+northamerica/unitedstates/idaho/rexburg,Farnsworth TV & Pioneer Museum,Rejected: parent fit is weak; the museum is in Rigby roughly 20 km from Rexburg and does not clearly belong as a Rexburg POI.
+northamerica/unitedstates/northdakota/fargo,Thunder Road Family Fun Park,Rejected: local family amusement attraction; does not clearly clear score >= 6.0 for Fargo travel coverage.
+northamerica/canada/alberta/banff,Holiday on Horseback,Rejected: commercial tour operator rather than a stable public POI; Banff already has stronger horseback and outdoor coverage candidates.
+europe/norway/bergen,Troldhaugen,Rejected: duplicate; Troldhaugen already exists at content/europe/norway/bergen/troldhaugen.md.
+northamerica/unitedstates/washington/ocean_shores,Quinault Beach Resort and Casino,Rejected: resort/casino listing is accommodation-led and conflicts with the no hotel/accommodation content rule.
+asia/malaysia/ipoh,Tanjung Tualang Tin Dredge Ship,Rejected: parent fit is weak; the dredge is a separate out-of-town attraction over 20 km from Ipoh and is better handled as a day trip or separate feature.
+northamerica/unitedstates/florida/lake_wales,SUMICA,Rejected: parent fit is weak; SUMICA is about 21 km from Lake Wales and reads as a separate nature-area outing rather than a city POI.
+northamerica/unitedstates/florida/tampabayarea/tampa,Sky Zone Tampa,Rejected: chain trampoline park with low destination-specific travel value; does not clearly clear score >= 6.0 for Tampa.
+australiaandpacific/australia/queensland/sunshinecoast,Seaview House,Rejected: niche heritage listing with weak parent fit for the broad Sunshine Coast page; does not clearly clear score >= 6.0.
+southamerica/brazil/fortaleza,Museu da Escrita,Rejected: niche private/specialist museum; does not clearly clear score >= 6.0 against Fortaleza's existing attractions.
+europe/finland/joensuu,Sinkkola petting zoo,Rejected: local family attraction; does not clearly clear score >= 6.0 for Joensuu travel coverage.

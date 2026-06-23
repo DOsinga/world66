@@ -1284,6 +1284,7 @@ def export_candidates(
     exclude_flags: set[str],
     exclude_keys: set[tuple[str, str]],
     seed: int,
+    listing_types: set[str],
 ) -> None:
     placeholders = ",".join("?" for _ in loc_types)
     matches = conn.execute(
@@ -1315,6 +1316,8 @@ def export_candidates(
         for row in candidates:
             flags = {value.strip() for value in row["candidate_flags"].split(";") if value.strip()}
             key = (row["world66_path"], normalize_name(row["wv_name"]))
+            if row["wv_type"] not in listing_types:
+                continue
             if key in exclude_keys:
                 continue
             if row["candidate_score"] < min_score:
@@ -1325,7 +1328,7 @@ def export_candidates(
                 continue
             rows.append(row)
             kept_for_destination += 1
-            if kept_for_destination >= max_per_destination:
+            if max_per_destination > 0 and kept_for_destination >= max_per_destination:
                 break
 
     rng = random.Random(seed)
@@ -1510,7 +1513,12 @@ def main() -> None:
     p_export.add_argument("--radius-m", type=float, default=150)
     p_export.add_argument("--min-wikivoyage", type=int, default=5)
     p_export.add_argument("--min-score", type=float, default=0.82)
-    p_export.add_argument("--max-per-destination", type=int, default=2)
+    p_export.add_argument(
+        "--max-per-destination",
+        type=int,
+        default=2,
+        help="Maximum candidates per World66 destination; use 0 for no cap",
+    )
     p_export.add_argument("--require-coords", action="store_true")
     p_export.add_argument(
         "--exclude-flags",
@@ -1521,6 +1529,11 @@ def main() -> None:
         "--loc-types",
         default="city,feature,island",
         help="Comma-separated World66 loc_type values to include (default: city,feature,island)",
+    )
+    p_export.add_argument(
+        "--listing-types",
+        default="see,do",
+        help="Comma-separated Wikivoyage listing types to include (default: see,do)",
     )
     p_export.add_argument("--include-go", action="store_true", help="Include transport/getting-there listings")
     p_export.add_argument("--include-noise", action="store_true", help="Include operational listings normally filtered out")
@@ -1598,6 +1611,7 @@ def main() -> None:
         )
     elif args.command == "export-candidates":
         loc_types = {value.strip() for value in args.loc_types.split(",") if value.strip()}
+        listing_types = {value.strip() for value in args.listing_types.split(",") if value.strip()}
         exclude_flags = {value.strip() for value in args.exclude_flags.split(",") if value.strip()}
         exclude_keys = load_exclude_keys(args.exclude_csv)
         export_candidates(
@@ -1617,6 +1631,7 @@ def main() -> None:
             exclude_flags,
             exclude_keys,
             args.seed,
+            listing_types,
         )
     elif args.command == "destination-report":
         loc_types = {value.strip() for value in args.loc_types.split(",") if value.strip()}

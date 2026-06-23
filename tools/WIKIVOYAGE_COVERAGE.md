@@ -57,6 +57,24 @@ python3 tools/wikivoyage_coverage.py export-candidates \
   --csv > wikivoyage_followup_250.csv
 ```
 
+Export a production queue for harvesting the highest-ranked `see` and `do`
+gaps without a per-destination cap:
+
+```bash
+python3 tools/wikivoyage_coverage.py export-candidates \
+  --limit 30000 \
+  --min-score 0 \
+  --max-per-destination 0 \
+  --exclude-flags weak_travel_signal \
+  --listing-types see,do \
+  --exclude-csv todo/wikivoyage_poi_pilot/candidates_250.csv \
+  --csv > wikivoyage_production_30000.csv
+```
+
+Use a positive `--max-per-destination` for sampling. Use
+`--max-per-destination 0` when building a production queue where dense
+destinations should be fully harvested.
+
 Show raw missing listings for debugging, including likely noise and aliases:
 
 ```bash

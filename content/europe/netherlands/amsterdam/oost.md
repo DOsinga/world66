@@ -4,6 +4,9 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Dappermarkt_netherlands.JPG
 latitude: 52.36
 longitude: 4.926
+tags:
+- things_to_do
+- neighbourhood
 title: Oost
 type: neighbourhood
 ---

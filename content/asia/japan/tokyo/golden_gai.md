@@ -1,5 +1,9 @@
 ---
 address: 1-chome Kabukicho, Shinjuku, Tokyo
+image: golden_gai.jpg
+image_attribution: garberus
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Akarui_Hanazono_Ichiban_Street_20140720.jpg
 latitude: 35.693845
 longitude: 139.703667
 opening_hours: Most bars from 8pm; some open from 6pm
@@ -10,10 +14,6 @@ tags:
 - neighbourhood
 title: Golden Gai
 type: neighbourhood
-image: golden_gai.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Akarui_Hanazono_Ichiban_Street_20140720.jpg
-image_license: CC BY-SA 2.0
-image_attribution: garberus
 ---
 
 Golden Gai is six narrow lanes in Shinjuku, built after the war and unchanged since, containing over 200 tiny bars — each seating five to twelve people, each with its own personality, music, décor, and clientele. It is one of the last surviving examples of postwar Tokyo's street-level drinking culture, somehow preserved despite the surrounding development.

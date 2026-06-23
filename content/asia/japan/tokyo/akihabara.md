@@ -3,18 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-20'
+image: akihabara.jpg
+image_attribution: ElHeineken
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Akihabara_Night.jpg
 latitude: 35.701893
 longitude: 139.774368
 score: 0.66
+tags:
+- things_to_do
+- neighbourhood
 title: Akihabara
 type: neighbourhood
-tags:
-- neighbourhood
-- things_to_do
-image: akihabara.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Akihabara_Night.jpg
-image_license: CC BY 4.0
-image_attribution: ElHeineken
 ---
 
 Akihabara — nicknamed "Electric Town" — is Tokyo's legendary electronics district, a dense cluster of multi-storey shops selling everything from the latest consumer gadgets to obscure vintage components. Its reputation took root after World War II, when surplus electrical parts flooded into the black market here, and it has never looked back.

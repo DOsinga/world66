@@ -1,5 +1,9 @@
 ---
 address: Takeshita Street, Jingumae, Shibuya, Tokyo
+image: harajuku_takeshita.jpg
+image_attribution: Joe Mabel on Flickr as Joe Mabel from Seattle, US
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Harajuku_-_Takeshita_Street_20_(15119969724).jpg
 latitude: 35.670578
 longitude: 139.703467
 snippet: The epicentre of Japanese youth fashion and kawaii culture
@@ -8,10 +12,6 @@ tags:
 - neighbourhood
 title: Harajuku and Takeshita Street
 type: neighbourhood
-image: harajuku_takeshita.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Harajuku_-_Takeshita_Street_20_(15119969724).jpg
-image_license: CC BY-SA 3.0
-image_attribution: Joe Mabel on Flickr as Joe Mabel from Seattle, US
 ---
 
 Harajuku is the neighbourhood where Tokyo's youth fashion subcultures have played out since the 1980s — the origins of Lolita fashion, Visual Kei, and the broader kawaii aesthetic that has influenced global fashion. Takeshita Street is the compressed, pedestrianised heart of it: 350 metres of crepe stands, vintage clothing shops, cosplay boutiques, accessory stalls, and bubble tea. On weekends it is packed to the walls.

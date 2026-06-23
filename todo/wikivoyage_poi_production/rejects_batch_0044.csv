@@ -1,0 +1,11 @@
+world66_path,wv_name,reason
+northamerica/unitedstates/maryland/cumberland,Brooke Whiting House of Art,Small local gallery below Cumberland's existing things-to-do threshold.
+northamerica/unitedstates/newjersey/newark,City Without Walls,Small gallery/nonprofit space below Newark's local threshold compared with stronger museums and neighbourhood POIs.
+europe/hungary/veszprem,Nemesvámos,Separate village outside Veszprém; not a flat city POI and too broad for this batch.
+europe/hungary/mosonmagyarovar,Lébény,Separate town well outside Mosonmagyaróvár; should not be added as a city POI.
+northamerica/unitedstates/newyorkstate/buffalo,St. George Orthodox Church,Neighbourhood church below Buffalo's local threshold for general travel coverage.
+europe/latvia/ventspils,Children's Town,Playground/family facility below Ventspils' local things-to-do threshold.
+europe/ukraine/lviv,Shevchenkivskyi Hay,Duplicate/alias of existing Museum of National Folk Architecture and Rural Life Shevchenkivsky Hay POI.
+northamerica/unitedstates/indiana/indianapolis,Kuaba Gallery,Far from Indianapolis core and below the local threshold as a standalone visitor POI.
+europe/hungary/miskolc,Castle of Diósgyőr,Duplicate/alias of existing Diósgyőr Castle POI.
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield,Weston Park Museum,Duplicate/alias of existing Weston Park Museum page under the same parent.

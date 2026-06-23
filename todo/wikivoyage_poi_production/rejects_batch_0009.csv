@@ -1,0 +1,19 @@
+world66_path,wv_name,reason
+europe/germany/saxony/leipzig,Exhibition centre,trade fair complex does not clearly clear leisure travel threshold
+asia/china/hunan/zhuzhou,Zhuzhou Fantawild adventure theme park,far from Zhuzhou centre and better treated as separate excursion
+europe/germany/bavaria/freising,Uferlos festival,temporary annual event rather than a durable POI
+northamerica/unitedstates/oklahoma/broken_bow,Hochatown Rescue Center & Petting Zoo,"belongs to Hochatown resort area, not Broken Bow proper"
+northamerica/unitedstates/massachusetts/salem,Derby Wharf,already covered by existing Salem Maritime National Historic Site POI
+europe/hungary/veszprem,Herend porcelain manufactory and Museum,separate Herend destination rather than Veszprém POI
+asia/malaysia/johorbahru,Johor Heritage Foundation,overlaps existing Johor Bahru Chinese Heritage Museum/heritage coverage
+asia/southkorea/dae_gu,Daegu Art Fair,temporary fair rather than a durable POI
+europe/slovakia/ruomberok,Freestyle skating/biking park,local recreation facility with weak travel value
+northamerica/unitedstates/iowa/desmoines,National Balloon Museum,Indianola attraction too far from Des Moines parent
+europe/netherlands/utrecht,Perron 9 Berlijnplein,local neighbourhood heritage marker with weak visitor value
+europe/hungary/mor,Csókakő,"separate village/castle lead, better as day trip than Mór POI"
+europe/hungary/godollo,Gödöllő Land Protected Area,broad protected-area lead with weak single-POI definition
+asia/philippines/banaue,Museum of Cordilleran Sculpture,appears to overlap existing Hiwang Native Village and Museum coverage
+europe/hungary/satoraljaujhely,Castle of Füzér,separate castle destination too distant from Sátoraljaújhely parent
+europe/russia/vladivostok,The bridge to the Russkiy island across Eastern Bosphorus strait,duplicate of existing Russky Bridge POI
+northamerica/mexico/guadalajara,Chapalita Roundabout,traffic circle/neighbourhood marker with weak standalone travel value
+northamerica/unitedstates/newjersey/longbeachisland,Beach Haven Watersports,"commercial activity operator, not a durable public POI"

@@ -1,0 +1,22 @@
+world66_path,wv_name,reason
+europe/belgium/mechelen,Clocks and watches Museum,Specialist private museum outside central Mechelen with limited evidence of score-6 visitor value.
+europe/poland/sosnowiec,"Orthodox Church of Sts Vera, Nadia, Luba and their mother Zofia",Local church with limited independent traveller draw for Sosnowiec.
+asia/indonesia/java/ambarawa,Banaran Agrotourism Park,Commercial agrotourism resort/park lead that does not clearly clear the public POI threshold for Ambarawa.
+europe/hungary/satoraljaujhely,Heritage Museum,Far from Satoraljaujhely and tied to Fuzer-area heritage rather than the assigned parent.
+europe/germany/saxony/dresden,Gohliser Windmühle,Small local windmill outside Dresden with limited independent visitor value for the city parent.
+europe/finland/turku,JukuPark Waterpark,Seasonal commercial waterpark; not strong enough as a durable Turku POI.
+northamerica/unitedstates/louisiana/shreveport,Wonder Oasis Waterpark (formerly Splash Kingdom Family Waterpark),Commercial waterpark far from Shreveport core and below the threshold for a destination POI.
+northamerica/unitedstates/florida/keylargo,Island Ventures,Commercial dive/snorkel operator rather than a durable public POI.
+europe/netherlands/apeldoorn,Orpheus Theater,Performing-arts venue with limited independent traveller draw for Apeldoorn outside specific events.
+europe/unitedkingdom/wales/fishguard,Mayberry Kayaking,Commercial kayaking operator rather than a durable public POI.
+europe/finland/turku,Ruisrock,"Seasonal music festival, not a year-round Turku POI."
+europe/poland/torun,Fort I Twierdzy,Fort I has weak/currently limited public-visitor evidence and is not strong enough against Torun's existing heritage sights.
+asia/malaysia/johorbahru,Tristan Park,Commercial adventure/water park far from Johor Bahru core; below threshold as a durable city POI.
+asia/china/jiangsu_province/nanjing,Nanjing Non-Government Museum of the War of Resistance Against Japan,Specialist museum with weak independent travel signal and overlap with existing Nanjing war-history coverage.
+asia/philippines/iloilo_city,Museum of Philippine Maritime History,Small specialist museum with limited corroborated visitor signal for Iloilo City.
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield,Graves Gallery,Duplicate/alias of existing Graves Art Gallery POI in Sheffield.
+asia/turkey/cappadocia/avanos,Living History Museum,Far from Avanos and weakly sourced as a current public attraction; does not clear the threshold.
+europe/denmark/haderslev,Årø,Separate island destination rather than a POI in Haderslev.
+europe/italy/piemonte/turin,MACA,Small specialist environmental museum; does not clearly clear score 6.0 against Turin's much stronger museum set.
+northamerica/unitedstates/california/oakland,Transmission Gallery,Commercial/private gallery with limited traveller draw as an Oakland POI.
+europe/russia/irkutsk,Irkutsk-City business-center,"Business center/office complex, not a traveller POI."

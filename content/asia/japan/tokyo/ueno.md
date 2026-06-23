@@ -9,6 +9,10 @@ score: 0.7
 tags:
 - neighbourhood
 - things_to_do
+image: ueno.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1-10_~_11_Ueno,_Taito-ward,_Tokyo_(2015-06-14_07.47.19_by_Franklin_Heijnen).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Franklin Heijnen
 ---
 
 Ueno is Tokyo's cultural heart — a neighbourhood centred on a large park that holds more world-class museums per square kilometre than almost anywhere else in the city. Ueno Park was Japan's first public park, established in 1873 on the grounds of the former Kan'ei-ji temple, and it remains the place where Tokyo comes to see cherry blossoms in early April.

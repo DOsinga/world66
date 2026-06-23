@@ -9,6 +9,10 @@ score: 0.6
 tags:
 - neighbourhood
 - things_to_do
+image: ebisu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atre_Ebisu_station_building_Tokyo_Japan_2021.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Srgyu
 ---
 
 Ebisu is one of Tokyo's most likeable neighbourhoods — upscale but not flashy, with excellent restaurants and a relaxed atmosphere that sets it apart from the sensory overload of nearby [Shibuya](/asia/japan/tokyo/shibuya). The district takes its name from the Shinto god of fishermen, but the more relevant origin story is the Yebisu beer brewery that operated here until 1988.

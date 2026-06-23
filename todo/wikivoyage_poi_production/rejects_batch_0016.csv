@@ -1,0 +1,5 @@
+world66_path,wv_name,reason
+europe/finland/joensuu,Botania,Already covered as Botania Botanical Garden in the Joensuu POI set.
+australiaandpacific/fiji/vitilevu/nadi,Pacific Island Air Scenic Flights,Commercial flightseeing operator rather than a durable attraction; insufficient independent POI value for Nadi.
+northamerica/unitedstates/westvirginia/harpersferry,Tubing Down the Shenandoah River,Generic river activity/operator lead rather than a stable named POI; better handled in things-to-do text.
+northamerica/unitedstates/arizona/williams,Wild West Junction,Tourist complex overlaps accommodation/restaurant use and does not clearly clear the durable POI threshold for Williams.

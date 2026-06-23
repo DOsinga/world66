@@ -1,0 +1,31 @@
+world66_path,wv_name,reason
+northamerica/unitedstates/massachusetts/concord,Drumlin Farm Educational Center,Educational farm is in Lincoln rather than Concord and does not clearly clear the POI threshold for Concord.
+northamerica/unitedstates/florida/westpalmbeach,McCarthys Wildlife Sanctuary,Wildlife sanctuary is nearly 20 km inland from West Palm Beach and reads more as a separate excursion than a city POI.
+europe/unitedkingdom/scotland/peterhead,Aberdeenshire Farming Museum,Small rural museum well outside Peterhead with weaker parent fit than the city's stronger coastal and maritime leads.
+australiaandpacific/australia/northernterritory/alicesprings,Pioneer Park Races,Racecourse and event venue rather than a durable public things-to-do POI.
+northamerica/unitedstates/westvirginia/fairmont,Mary Lou Retton Park,Local youth sports park with limited independent travel draw.
+europe/poland/katowice,Teatr Gry i Ludzie,Small local theatre with limited evidence of score-6 visitor value for Katowice.
+northamerica/unitedstates/kansas/kansascity,Starlight Theatre,Duplicate of existing Starlight Theatre POI under Missouri Kansas City and attached to the wrong parent.
+australiaandpacific/australia/victoria/bright,Bogong Horseback Adventures,Commercial horseback tour operator far from Bright rather than a stable public POI.
+northamerica/unitedstates/oregon/corvallis,Fort Hoskins Historical Park,Historical park is almost 20 km from Corvallis and fits better as a county day trip than a flat city POI.
+europe/france/normandybrittany/montsaintmichel,Abbey of Mont Saint Michel,Would duplicate the core Mont Saint Michel destination rather than add a distinct child POI.
+northamerica/unitedstates/california/centralcoast/monterey/bigsur,Pfeiffer Big Sur State Park,Overlaps existing Big Sur POI coverage and is too broad for a second flat POI in this parent.
+europe/italy/trentinoaltoadige/bolzano,Mercantile Palace,Lead coordinates do not verify cleanly against the Bolzano parent so it was not added.
+asia/indonesia/java/ambarawa,Gua Maria Kerep,Regional pilgrimage compound with limited independent travel draw for Ambarawa compared with stronger heritage leads.
+northamerica/canada/britishcolumbia/vancouver/coquitlam,Silver City Coquitlam,Cinema multiplex does not clear the standalone things-to-do threshold.
+northamerica/unitedstates/arizona/mesa,Mesa Historical Museum,Local history museum is useful but does not clearly clear score 6.0 for the Mesa parent.
+europe/unitedkingdom/scotland/dundee,Whitehall Theatre,Local performance venue with limited standalone traveller value.
+northamerica/unitedstates/newyorkstate/buffalo,Alleyway Theatre,Small theatre venue with limited POI value compared with Buffalo's stronger cultural sites.
+australiaandpacific/australia/victoria/ballarat,Museum of Australian Democracy at Eureka,Former MADE institution is obsolete and has been superseded by other Eureka-site interpretation.
+australiaandpacific/australia/newsouthwales/brokenhill,Silver City Scenic Flights,Commercial flight operator rather than a public POI.
+europe/greece/drama,Dripstone cave of Aggitis,Significant cave is more than 20 km from Drama and fits better as a separate excursion lead.
+northamerica/unitedstates/arkansas/littlerock,Wildwood Park for the Arts,Local arts park does not clearly clear the score threshold for Little Rock.
+europe/hungary/sopron,St. Michael Church with tower,Secondary church with limited independent travel draw compared with Sopron's stronger historic core sights.
+europe/slovakia/nitra,Arboretum Mlyňany,Major arboretum is over 20 km from Nitra and fits better as a separate excursion.
+asia/china/sichuanprovince/leshan,Leshan Ebony Museum,Specialist museum well outside Leshan's primary visitor circuit and below the clear score threshold.
+northamerica/unitedstates/indiana/indianapolis,Southeastway Park,Local park nearly 20 km from central Indianapolis with limited destination value.
+europe/russia/irkutsk,St. Nicholas Church,Minor local church that does not clearly clear score 6.0 for Irkutsk.
+asia/malaysia/bintulu,Pasar Utama & Pasar Tamu Bintulu,Duplicate of existing Pasar Tamu POI.
+europe/greece/philippi,Lasponera,Commercial mud-bath operation rather than a durable public POI for Philippi.
+europe/sweden/gotska_sandn,Nature and local heritage museum,Small local museum with limited evidence of independent travel draw for the island parent.
+northamerica/unitedstates/california/longbeach,Long Beach Firefighter's Museum,Specialist local museum below the clear score threshold for Long Beach.

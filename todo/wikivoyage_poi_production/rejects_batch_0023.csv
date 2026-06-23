@@ -1,0 +1,15 @@
+world66_path,wv_name,reason
+europe/hungary/gyor,Abda,"Separate village near Gyor, not a POI belonging flat under the Gyor page."
+europe/germany/saxony/dresden,Hechtfest,Seasonal neighbourhood festival rather than a durable Dresden POI.
+europe/estonia/otep,Leigo Lake Music Festival,Seasonal festival outside Otepaa; not a durable location POI.
+asia/southkorea/dae_gu,Biseul Mountain Azalea Festival,Seasonal mountain festival far from Daegu; better treated as event/day-trip context.
+europe/unitedkingdom/england/south_east/slough,Jump In Slough,Commercial trampoline park with limited independent travel value for Slough.
+europe/netherlands/waddenislands/schiermonnikoog_is/schiermonnikoog,Schelpenmuseum Paal 14,"Assigned World66 parent path is missing, so coordinates and placement cannot be safely validated."
+northamerica/belize/belizecity,Cave Tubing,Commercial tour/activity lead away from Belize City rather than a durable city POI.
+northamerica/unitedstates/arizona/cave_creek,Cave Creek Trail Rides,Assigned World66 parent path is missing and the lead is a commercial operator.
+northamerica/canada/manitoba/winnipeg,Manitoba Chamber Orchestra,Performing ensemble rather than a stable public POI; venue/programme varies.
+europe/romania/bucharest,Military History Museum,Duplicate/alias of existing National Military Museum POI in Bucharest.
+northamerica/unitedstates/rhodeisland/newport,Newport Gulls Baseball Team,Seasonal baseball team rather than a durable Newport things-to-do POI.
+europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/sheffield,Studio Theatre,Duplicate/venue component of existing Sheffield Theatres coverage rather than a distinct POI.
+europe/romania/bucharest,"National Museum of ""George Enescu""",Duplicate/alias of existing George Enescu Museum POI in Bucharest.
+asia/jordan/deadsea,Qumran National Park,Wrong-parent/cross-border lead for the Jordan Dead Sea page; should not be added under this location.

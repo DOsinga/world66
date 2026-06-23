@@ -1,0 +1,10 @@
+world66_path,wv_name,reason
+northamerica/unitedstates/minnesota/bloomington,Great Wolf Lodge,Hotel-led waterpark resort; accommodation content is excluded and the attraction does not stand alone cleanly as a World66 POI.
+northamerica/unitedstates/wisconsin/wausau,Wausau Woodchucks,Seasonal collegiate baseball team rather than a durable visitor POI for Wausau.
+europe/croatia/krka_national_park_1,Lozovac,"Separate village/gateway settlement for Krka National Park, not a POI in the assigned park page."
+europe/hungary/tapolca,Szigliget,Separate Lake Balaton village/castle destination rather than a Tapolca POI.
+europe/unitedkingdom/england/south_east/guildford,Craggy Island,Commercial indoor climbing gym with limited independent travel value for Guildford.
+europe/ireland/limerick,Glenstal Abbey,Meaningfully outside Limerick and primarily a separate rural monastery/school setting; better as a day-trip lead than city POI.
+europe/ukraine/kharkiv,Slavianskiy Bazar Exhibition center/Student Palace?,Ambiguous/uncertain listing name and corroboration; not clear enough to create a reliable Kharkiv POI.
+europe/greece/philippi,Lydia,Duplicate/alias of existing Baptistery of Lydia POI in Philippi.
+northamerica/unitedstates/pennsylvania/johnstown,Gallitzin State Forest,Large state forest well outside Johnstown; wrong-parent outdoor-region lead rather than a city POI.

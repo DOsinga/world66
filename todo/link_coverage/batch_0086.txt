@@ -1,5 +1,0 @@
-northamerica/unitedstates/oklahoma/davis
-northamerica/unitedstates/oklahoma/edmond
-northamerica/unitedstates/oklahoma/stillwater
-northamerica/unitedstates/pennsylvania/allentown
-northamerica/unitedstates/pennsylvania/bucks_county/doylestown

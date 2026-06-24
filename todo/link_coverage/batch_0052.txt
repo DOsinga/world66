@@ -1,5 +1,5 @@
 europe/greece/zakinthos/argassi
 europe/hungary/lakebalaton/keszthely
 europe/hungary/lakebalaton/tihany
-europe/hungary/pecs
+europe/bulgaria/blagoevgrad/day_trips/melnik
 europe/iceland/reykjanespeninsula

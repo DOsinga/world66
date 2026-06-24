@@ -9,6 +9,10 @@ snippet: Lake Mývatn lava field of pillars, arches, and cave-like formations cr
   by steam explosions.
 title: Dimmuborgir
 type: location
+image: dimmuborgir.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Dimmuborgir_Kirkjan.jpg
+image_license: CC BY 3.0
+image_attribution: Chmee2/Valtameri
 ---
 
 **Dimmuborgir** (the Dark Castles) is a dramatic field of lava formations on the eastern shore of Lake Myvatn in northeast [Iceland](/europe/iceland). The pillars, arches, and cave-like structures were created about 2,300 years ago when a lava flow passed over a lake, causing steam explosions that left behind these strange, castle-like shapes.

@@ -40,6 +40,6 @@ Mozambique has some of the best beaches on the East African coast, offering azur
 [Xai-xai](/africa/mozambique/xaixai)
 [Inhambane](/africa/mozambique/inhambane)
 [Ibo island](/africa/mozambique/iboisland)
-[Mozambique island](/africa/mozambique/mozambiqueisland)
-[Gorongosa game reserve](/africa/mozambique/gorongosagamereserve)
+[Mozambique Island](/africa/mozambique/mozambiqueisland)
+[Gorongosa National Park](/africa/mozambique/gorongosa)
 [Bazaruto archipelago](/africa/mozambique/vilanculos/bazaruto_archipelago)

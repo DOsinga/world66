@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- asia/turkey/thebosphorus
+title: Day Trips
 type: section
 ---
 

@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-05'
   location_enrich: '2026-05-29'
-lat: 43.45
+latitude: 43.45
 loc_type: city
-long: 17.5833
+longitude: 17.5833
 score: 0.4
 sources:
 - https://en.wikipedia.org/wiki/Gornji_Crna%C4%8D

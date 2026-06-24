@@ -1,4 +1,4 @@
-europe/france/midi/cotedazur/collioure
+europe/austria/salzkammergut/salzkammergutbahn
 europe/france/midi/dordogne/pujols
 europe/france/midi/dordogne/saintcirqlapopie
 europe/france/midi/dordogne/villeneuvesurlot

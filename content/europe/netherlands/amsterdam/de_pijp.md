@@ -4,6 +4,9 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Albert_Cuypmarkt.jpg
 latitude: 52.354
 longitude: 4.8975
+tags:
+- things_to_do
+- neighbourhood
 title: De Pijp
 type: neighbourhood
 ---

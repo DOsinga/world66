@@ -1,9 +1,14 @@
 ---
+image: bahnhofstrasse.jpg
+image_attribution: KeanoManu
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bahnhofstrasse-2019.jpg
 latitude: 47.372258
 longitude: 8.538436
 snippet: Zurich's grand shopping boulevard running from the station to the lake
 tags:
 - things_to_do
+- neighbourhood
 title: Bahnhofstrasse
 type: neighbourhood
 ---

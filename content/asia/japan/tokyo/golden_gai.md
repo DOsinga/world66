@@ -1,9 +1,14 @@
 ---
 address: 1-chome Kabukicho, Shinjuku, Tokyo
+image: golden_gai.jpg
+image_attribution: garberus
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Akarui_Hanazono_Ichiban_Street_20140720.jpg
 latitude: 35.693845
 longitude: 139.703667
 opening_hours: Most bars from 8pm; some open from 6pm
-snippet: 200 tiny bars in six lanes of Shinjuku — the most atmospheric drinking district in Asia
+snippet: 200 tiny bars in six lanes of Shinjuku — the most atmospheric drinking district
+  in Asia
 tags:
 - things_to_do
 - neighbourhood

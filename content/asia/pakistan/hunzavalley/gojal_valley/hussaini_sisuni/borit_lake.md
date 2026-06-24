@@ -2,11 +2,14 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 36.430774
-loc_type: feature
 longitude: 74.862402
 score: 0.39
 snippet: High-altitude lake in Gojal Valley, near Hussaini village and the Karakoram's
   stark mountain scenery.
+tags:
+- things_to_do
+- sight
+- hiking
 title: Borit Lake
 type: poi
 ---

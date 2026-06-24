@@ -1,13 +1,13 @@
 ---
 address: Calea Victoriei 141, Bucharest
-latitude: 44.4470
-loc_type: feature
+latitude: 44.447
 longitude: 26.0907
 snippet: Romania's greatest composer remembered in the Belle Epoque Cantacuzino Palace
 tags:
 - things_to_do
 - museum
 title: George Enescu Museum
+type: poi
 ---
 
 The museum dedicated to Romania's greatest composer and the country's most internationally recognised musician, in the spectacular Cantacuzino Palace on Calea Victoriei — a Belle Epoque mansion finished in 1903 with an Art Nouveau staircase and stained-glass ceiling. Enescu briefly lived in the small annex behind the main building from 1937 to 1946.

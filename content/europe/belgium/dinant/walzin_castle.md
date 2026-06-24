@@ -1,13 +1,13 @@
 ---
 address: Walzin, 5500 Dinant
-latitude: 50.2190
-loc_type: feature
-longitude: 4.9230
+latitude: 50.219
+longitude: 4.923
 snippet: Romantic medieval castle dramatically perched above the Lesse
 tags:
 - things_to_do
 - sight
 title: Walzin Castle
+type: poi
 ---
 
 A picture-book medieval castle clinging to a limestone cliff above a sharp bend in the River Lesse, 8 km south of Dinant. The current building is largely a 19th-century restoration of a much-rebuilt 13th-century fortress that controlled the Lesse valley for the prince-bishops of Liège.

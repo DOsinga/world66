@@ -5,6 +5,8 @@ done:
   location_cleanup: 2026-04-07
 score: 0.59
 loc_type: feature
+latitude: 8.55
+longitude: -83.58333
 snippet: Remote Costa Rican national park on the Osa Peninsula, protecting Pacific
   rainforest, beaches, and dense wildlife.
 image: corcovado.jpg

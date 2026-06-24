@@ -4,6 +4,9 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_(DSCF0528).jpg
 latitude: 52.358
 longitude: 4.879
+tags:
+- things_to_do
+- neighbourhood
 title: Museum Quarter
 type: neighbourhood
 ---

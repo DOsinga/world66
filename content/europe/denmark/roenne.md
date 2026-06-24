@@ -10,6 +10,11 @@ latitude: 55.099451
 loc_type: city
 longitude: 14.706091
 score: 0.42
+tags:
+- things_to_do
+- sight
+- town
+- bornholmisland
 snippet: Bornholm ferry port with half-timbered old streets, island museums, and a
   Baltic ceramics tradition
 title: Roenne

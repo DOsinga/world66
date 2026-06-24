@@ -2,11 +2,15 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 40.530158
-loc_type: feature
 longitude: 44.670161
 score: 0.41
 snippet: Forested Armenian ski resort with Soviet training roots, affordable winter
   runs, and Kecharis Monastery.
+tags:
+- things_to_do
+- activities
+- sight
+- skiing
 title: Tsaghkadzor Ski Resort
 type: poi
 ---

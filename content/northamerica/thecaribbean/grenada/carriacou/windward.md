@@ -9,7 +9,7 @@ score: 0.4
 snippet: Carriacou village with Scottish boatbuilding roots and a surviving tradition
   of wooden sloop construction.
 title: Windward
-type: neighbourhood
+type: location
 ---
 
 Windward is a small village on the eastern coast of Carriacou, the largest of Grenada's sister islands. It has an unusual history: a group of Scottish boatbuilders settled here in the 19th century, and their names and skills have been passed down through the generations.

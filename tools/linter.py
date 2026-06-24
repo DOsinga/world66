@@ -11,10 +11,12 @@ Checks:
   bad_attribution_quotes   image_attribution with unescaped inner "  [fixable]
   md_inside_own_dir        location/poi file at <dir>/<dir>.md       [report]
   missing_loc_type         type=location without loc_type field      [report]
+  missing_coordinates      type=location without latitude/longitude  [report]
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
+  city_has_child_location  city contains a child location page        [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
 
@@ -264,6 +266,23 @@ def check_missing_loc_type(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_missing_coordinates(pages: list[Page]) -> list[Issue]:
+    issues = []
+    for p in pages:
+        if p.page_type != "location" or p.meta.get("loc_type") == "continent":
+            continue
+        missing = [
+            key for key in ("latitude", "longitude")
+            if p.meta.get(key) in (None, "")
+        ]
+        if missing:
+            issues.append(Issue(
+                path=p.path, check="missing_coordinates",
+                message=f"type=location without {', '.join(missing)}",
+            ))
+    return issues
+
+
 def check_invalid_loc_type(pages: list[Page]) -> list[Issue]:
     issues = []
     for p in pages:
@@ -329,6 +348,39 @@ def check_country_misplaced(pages: list[Page]) -> list[Issue]:
                 message=f"continent child must be type=location loc_type=country "
                         f"(got type={p.page_type} loc_type={p.meta.get('loc_type')!r})",
             ))
+    return issues
+
+
+def _content_path_key(path: Path) -> str:
+    """Return the URL-style content key for a markdown file path."""
+    return str(path.relative_to(CONTENT_DIR).with_suffix(""))
+
+
+def check_city_has_child_location(pages: list[Page]) -> list[Issue]:
+    """Location pages with loc_type=city must not contain child locations."""
+    locations_by_key = {
+        _content_path_key(p.path): p
+        for p in pages
+        if p.page_type == "location"
+    }
+    issues = []
+    for p in pages:
+        if p.page_type != "location":
+            continue
+        rel_parent = p.path.parent.relative_to(CONTENT_DIR)
+        if not rel_parent.parts:
+            continue
+        parent = locations_by_key.get(str(rel_parent))
+        if not parent or parent.meta.get("loc_type") != "city":
+            continue
+        issues.append(Issue(
+            path=p.path,
+            check="city_has_child_location",
+            message=(
+                f"city {parent.path.relative_to(CONTENT_DIR).with_suffix('')} "
+                f"contains child location loc_type={p.meta.get('loc_type')!r}"
+            ),
+        ))
     return issues
 
 
@@ -455,10 +507,12 @@ def check_broken_links(pages: list[Page]) -> list[Issue]:
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
+    check_missing_coordinates,
     check_invalid_loc_type,
     check_invalid_page_type,
     check_continent_misplaced,
     check_country_misplaced,
+    check_city_has_child_location,
     check_non_canonical_section,
     check_broken_links,
 ]

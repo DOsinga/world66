@@ -2,11 +2,14 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 38.8734
-loc_type: feature
 longitude: -104.8863
 score: 0.61
 snippet: Colorado Springs public park of red sandstone fins rising below the snow-capped
   Pikes Peak backdrop
+tags:
+- things_to_do
+- sight
+- hiking
 title: Garden of the Gods
 type: poi
 image: gardenofgods.jpg

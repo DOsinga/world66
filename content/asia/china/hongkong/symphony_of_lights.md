@@ -1,13 +1,15 @@
 ---
-title: "Symphony of Lights"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 22.2934
 longitude: 114.1694
-snippet: Nightly light show across the Hong Kong and Kowloon skylines, best viewed from the Star Ferry pier
 score: 4.6
+snippet: Nightly light show across the Hong Kong and Kowloon skylines, best viewed
+  from the Star Ferry pier
+tags:
+- things_to_do
+- sight
+- kowloon
+title: Symphony of Lights
+type: poi
 ---
 
 Every night at 8pm, the buildings on both sides of Victoria Harbour synchronise their lights, lasers, and searchlights in a 13-minute choreographed display visible from the waterfront. The Tsim Sha Tsui waterfront promenade on the Kowloon side gives the widest angle of view; the Star Ferry pier puts you in the middle of the harbour. Music accompanies the show from speakers along the promenade.

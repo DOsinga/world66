@@ -7,7 +7,6 @@ longitude: 114.1567
 score: 6.8
 snippet: Arts venue in a heritage Victorian building with rooftop bar
 tags:
-- hongkongisland
 - central
 - things_to_do
 - landmark

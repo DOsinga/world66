@@ -8,7 +8,6 @@ score: 6.8
 snippet: Colonial-era institution serving Western and Chinese classics since 1928
 tags:
 - eating_out
-- hongkongisland
 - central
 title: Jimmy's Kitchen
 type: poi

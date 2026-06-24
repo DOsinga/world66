@@ -13,7 +13,6 @@ story: 'The escalator runs downhill from 6am to 10am, carrying workers down to t
   '
 tags:
 - things_to_do
-- hongkongisland
 - central
 - sight
 title: Central-Mid-Levels Escalator

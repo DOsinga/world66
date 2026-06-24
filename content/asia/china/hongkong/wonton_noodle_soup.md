@@ -1,13 +1,15 @@
 ---
-title: "Wonton Noodle Soup"
-type: poi
-tags:
-  - eating_out
-  - restaurant
 latitude: 22.2836
 longitude: 114.1581
-snippet: Hong Kong's definitive street food — prawns in thin-skinned dumplings, springy noodles, clear broth
 score: 8.6
+snippet: Hong Kong's definitive street food — prawns in thin-skinned dumplings, springy
+  noodles, clear broth
+tags:
+- eating_out
+- restaurant
+- central
+title: Wonton Noodle Soup
+type: poi
 ---
 
 Wonton noodle soup is Hong Kong's most essential meal, and the differences between a good bowl and a bad one are matters of fierce local debate. The wontons should be fat and tight-skinned, filled mostly with prawn rather than pork. The noodles — thin, springy, and made with egg and lye water — must have the right bite. The broth is clear, delicate, and based on shrimp roe and pork bones simmered for hours.

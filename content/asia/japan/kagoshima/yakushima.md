@@ -2,20 +2,21 @@
 country: Japan
 done:
   wikitravel_coverage: '2026-06-05'
+image: yakushima.jpg
+image_attribution: Σ64
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Forest_in_Yakushima_61.jpg
 latitude: 30.3624
 loc_type: island
-snippet: Mountainous Japanese island south of Kyushu, known for ancient cedar forests and moss-draped hiking trails.
 longitude: 130.5465
+score: 0.62
+snippet: Mountainous Japanese island south of Kyushu, known for ancient cedar forests
+  and moss-draped hiking trails.
 sources:
 - https://en.wikipedia.org/wiki/Yakushima
 - https://en.wikipedia.org/wiki/Yakushima_National_Park
 title: Yakushima
-type: location
-image: yakushima.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Forest_in_Yakushima_61.jpg
-image_license: CC BY 3.0
-image_attribution: Σ64
-score: 0.62
+type: neighbourhood
 ---
 
 Yakushima is a round, mountainous island about 60 kilometres south of Kyushu, and it feels like Japan's primeval heart. The interior is dominated by ancient cedar forest — yakusugi trees, some thousands of years old, draped in moss and fern in an atmosphere so damp and green that Hayao Miyazaki reportedly used it as inspiration for Princess Mononoke. UNESCO listed the island as a World Heritage Site in 1993, the same year as Himeji Castle and Horyu-ji — recognition that this island's ecological value ranks with Japan's greatest architectural treasures.

@@ -8,7 +8,7 @@ score: 0.55
 snippet: Colorado fourteener above Colorado Springs, reachable by highway or cog railway
   to wide summit views
 title: Pikes Peak
-type: location
+type: poi
 ---
 
 Pikes Peak is one of Colorado's most famous fourteeners at 14,115 feet, and unlike most of them, you do not have to be a mountaineer to reach the top. The Pikes Peak Highway winds 19 miles up the mountain through changing vegetation zones — from pine forest through alpine tundra to bare rock — and the views from the summit stretch endlessly across the plains to the east and the Rockies to the west. This is the view that inspired Katharine Lee Bates to write "America the Beautiful" in 1893.

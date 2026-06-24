@@ -9,7 +9,7 @@ score: 0.32
 snippet: Odisha town in Mayurbhanj district, serving as the main gateway to Similipal
   National Park.
 title: Karanjia & Similipal
-type: location
+type: neighbourhood
 ---
 
 Karanjia is a small town in the Mayurbhanj district of Odisha, serving as the main gateway to [Similipal National Park](/asia/india/orissa/bhubaneswar/karanjia__similip/similipal_national_park) — one of India's largest tiger reserves, spread over 2,750 square kilometres of sal forest, grasslands, and hills.

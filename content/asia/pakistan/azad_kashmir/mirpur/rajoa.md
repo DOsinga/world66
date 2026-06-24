@@ -10,7 +10,7 @@ snippet: Azad Kashmir village tied to Mirpur's diaspora networks and the Baba Ba
 sources:
 - https://en.wikipedia.org/wiki/Rajoa
 title: Rajoa
-type: location
+type: neighbourhood
 ---
 
 Rajoa is a small village in Dadyal tehsil, within Mirpur District of Azad Kashmir. It is not a conventional travel stop, and most visitors will only come with family connections, local business, or a specific interest in the villages that feed Mirpur's enormous overseas diaspora.

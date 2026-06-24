@@ -8,7 +8,7 @@ score: 0.46
 snippet: Sicilian archaeological site with a preserved agora, theatre, and finds displayed
   in Aidone.
 title: Morgantina
-type: location
+type: poi
 ---
 
 The archaeological site of Morgantina lies in east-central Sicily, about two kilometres from the modern town of Aidone in the province of Enna. The site covers a two-kilometre ridge called Serra Orlando and a neighbouring hill called Cittadella.

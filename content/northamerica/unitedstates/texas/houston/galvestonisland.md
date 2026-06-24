@@ -12,7 +12,7 @@ score: 0.4
 snippet: Texas barrier island with Victorian architecture from its era as the state's
   leading port.
 title: Galveston Island
-type: location
+type: poi
 ---
 
 Galveston Island is a barrier island about an hour south of [Houston](/northamerica/unitedstates/texas/houston), stretched out along the upper Texas coast. Before the catastrophic hurricane of 1900 — still the deadliest natural disaster in American history — Galveston was the richest city in Texas and its main port. That history left behind an extraordinary collection of Victorian architecture that the rest of the Texas coast cannot match.

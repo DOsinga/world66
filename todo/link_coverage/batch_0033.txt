@@ -1,5 +1,0 @@
-australiaandpacific/australia/queensland/whitsundays
-australiaandpacific/australia/tasmania/cradlemountain
-australiaandpacific/australia/tasmania/northwest/cradlemountain
-australiaandpacific/australia/victoria/greatoceanroad
-australiaandpacific/australia/westernaustralia/exmouth

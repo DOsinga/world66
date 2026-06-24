@@ -8,7 +8,12 @@ longitude: -61.1833
 score: 0.55
 title: Mustique
 type: location
-snippet: "Private Grenadine island of villas and beaches, managed collectively by its property owners."
+snippet: Private Grenadine island of villas and beaches, managed collectively by its
+  property owners.
+image: mustique.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mustique_beach.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Stefan Schäfer, Lich
 ---
 
 Mustique is the most famous private island in the Caribbean — and it earns the reputation. Covering just five square kilometres in the southern Grenadines, the island has been privately managed since the 1960s, when Scottish aristocrat Colin Tennant bought it and set about building a playground for the elite. The result is a place that is strikingly beautiful, conspicuously unhurried, and genuinely unlike anywhere else in the region.

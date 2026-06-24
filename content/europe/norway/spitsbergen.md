@@ -9,6 +9,10 @@ snippet: Largest island in the Svalbard archipelago, shaped by Arctic fjords, gl
   and polar landscapes.
 title: Spitsbergen
 type: location
+image: spitsbergen.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lilliehookfjorden1_(js).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Jerzy Strzelecki
 ---
 
 Spitsbergen is the largest island of the Svalbard archipelago, sitting deep inside the Arctic Circle at roughly 78°N — closer to the North Pole than to Oslo. The landscape is raw and immense: glaciers calving into cold fjords, polar bears crossing tundra, reindeer grazing on rocky hillsides, and in summer, a sun that never sets. If you want genuine Arctic wilderness without the logistical extremes of Greenland or Antarctica, this is where to go.

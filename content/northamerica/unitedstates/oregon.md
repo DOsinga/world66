@@ -9,6 +9,10 @@ snippet: Pacific Northwest state of volcanic lakes, forested mountains, rugged c
   and outdoor-minded cities
 title: Oregon
 type: location
+image: oregon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Walter Siegmund (talk)
 ---
 
 Oregon is located on the west coast of the United States between [California](/northamerica/unitedstates/california) and [Washington](/northamerica/unitedstates/washington). It is a state full of sights, things to and especially great for outdoor opportunities.

@@ -9,6 +9,10 @@ snippet: Assam national park of elephant grass and marshland, protecting the wor
   largest one-horned rhinoceros population
 title: Kaziranga
 type: location
+image: kaziranga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beauty_of_Kaziranga_National_Park.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Diganta Talukdar
 ---
 
 Kaziranga National Park lies on the south bank of the Brahmaputra in Assam, covering 688 square kilometres of tall elephant grass, marshland, and dense tropical forest. First established in 1908 as a reserve forest with barely a dozen rhinos, it was declared a National Park in 1974 and is now a UNESCO World Heritage Site.

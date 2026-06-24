@@ -8,7 +8,7 @@ score: 0.55
 snippet: Southeastern Sri Lankan national park of dry forest and lagoons, known for
   leopards and jeep safaris
 title: Yala National Park
-type: poi
+type: location
 image: yala_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Elephant_Herd_Yala_National_Park.jpg
 image_license: CC BY-SA 3.0

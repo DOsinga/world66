@@ -8,7 +8,7 @@ score: 0.58
 snippet: Coastal region around Hue where lagoons, beaches, tombs, and the Hai Van
   Pass sit within easy reach.
 title: Around Hue
-type: neighbourhood
+type: location
 image: aroundhue.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5_%E1%BB%9F_Hu%E1%BA%BF.jpg
 image_license: CC BY-SA 3.0

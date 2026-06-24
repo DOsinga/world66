@@ -1,13 +1,13 @@
 ---
 address: Strada Constantin Aristia 8, Bucharest
 latitude: 44.4402
-loc_type: feature
 longitude: 26.0982
 snippet: 19th-century painter's house, kept exactly as he left it
 tags:
 - things_to_do
 - museum
 title: Theodor Aman Museum
+type: poi
 ---
 
 The house of Theodor Aman (1831-1891), the founder of Romanian modern painting and a great salon portraitist, in the back streets behind the Athenaeum. Aman designed every detail of the building — including the wrought-iron balcony and the carved wooden doors — and lived here for decades. After his death the house was preserved as a museum almost unchanged.

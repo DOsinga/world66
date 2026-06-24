@@ -4,6 +4,9 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Gustaaf%20Oosterhuis%2C%20Afb%20OSIM00008005927.jpg
 latitude: 52.3875
 longitude: 4.8703
+tags:
+- things_to_do
+- neighbourhood
 title: Westerpark
 type: neighbourhood
 ---

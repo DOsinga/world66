@@ -9,6 +9,10 @@ snippet: Vast North Sumatran volcanic lake with cool highland air and Samosir Is
   rising from its caldera
 title: Lake Toba
 type: location
+image: laketoba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Toba_and_the_surrounding_hills.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bisajunisa
 ---
 
 Lake Toba is the largest volcanic lake in the world, formed by a supervolcanic eruption roughly 74,000 years ago that left a caldera 100 kilometres long and 30 kilometres wide. The lake sits at 900 metres above sea level in the highlands of North Sumatra, giving it a cool, pleasant climate that makes it a welcome escape from the heat of Medan, less than 200 km away. Rising from the lake's centre is Samosir Island, a landmass roughly the size of Singapore that functions almost as a world within a world.

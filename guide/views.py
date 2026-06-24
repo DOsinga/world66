@@ -2,6 +2,7 @@ import json
 import re
 import sqlite3
 import subprocess
+from dataclasses import replace
 from pathlib import Path
 
 import markdown as md
@@ -57,16 +58,32 @@ def _short_revision(full_hash):
 def _prefix_internal_links(html, url_prefix):
     if not html or not url_prefix:
         return html
-    return INTERNAL_GUIDE_HREF_RE.sub(rf'\1{url_prefix.strip("/")}/', html)
+    return INTERNAL_GUIDE_HREF_RE.sub(
+        lambda match: f'{match.group(1)}{url_prefix.strip("/")}/',
+        html,
+    )
+
+
+def _revision_page(page, source_ref, url_revision):
+    if not page or not source_ref:
+        return page
+    return replace(page, revision=url_revision, source_ref=source_ref)
+
+
+def _prefixed_url(url, url_prefix):
+    if not url or not url_prefix or not url.startswith("/"):
+        return url
+    return f"{url_prefix}{url}"
 
 
 def about(request):
     return render(request, "guide/about.html")
 
 
-def home(request):
+def home(request, source_ref=None, url_revision=""):
     import random
     from .models import count_content_pages, load_continents, load_story_pois, load_featured_cities
+    url_prefix = f"/{url_revision}" if url_revision else ""
 
     def city_snippet(page):
         snippet = page.meta.get('snippet', '')
@@ -82,19 +99,21 @@ def home(request):
     continents_raw = load_continents()
     continents = []
     for cont, countries in continents_raw:
+        cont = _revision_page(cont, source_ref, url_revision)
+        countries = [_revision_page(country, source_ref, url_revision) for country in countries]
         sorted_countries = sorted(
             countries,
             key=lambda l: float(l.meta.get('score', 0) or 0),
             reverse=True,
         )
         # Use the continent's own image; fall back to top-scored country
-        img = _image_path(cont)
+        img = _image_path(cont, source_ref)
         if not img:
             for country in sorted_countries[:10]:
-                img = _image_path(country)
+                img = _image_path(country, source_ref)
                 if img:
                     break
-        image_url = f'/content-image/{img}' if img else None
+        image_url = f'{url_prefix}/content-image/{img}' if img else None
         continents.append({
             'page': cont,
             'countries': sorted_countries[:8],
@@ -104,8 +123,20 @@ def home(request):
     import json
     all_story_pois = load_story_pois()
     story_pois = random.sample(all_story_pois, min(6, len(all_story_pois)))
+    story_pois = [
+        {**poi, "page": _revision_page(poi["page"], source_ref, url_revision)}
+        for poi in story_pois
+    ]
     all_cities = load_featured_cities()
     city_cards = [c for c in all_cities if c['lat'] and c['lng']]
+    city_cards = [
+        {
+            **city,
+            "page": _revision_page(city["page"], source_ref, url_revision),
+            "image_url": _prefixed_url(city["image_url"], url_prefix),
+        }
+        for city in city_cards
+    ]
     cities_json = json.dumps([
         {
             'title': c['page'].title,
@@ -125,7 +156,15 @@ def home(request):
         'cities_json': cities_json,
         'featured_city_count': f"{len(city_cards):,}",
         'search_page_count': f"{count_content_pages():,}",
+        'url_prefix': url_prefix,
     })
+
+
+def home_at_revision(request, revision):
+    source_ref = _resolve_revision_hash(revision)
+    if not source_ref:
+        raise Http404
+    return home(request, source_ref=source_ref, url_revision=_short_revision(source_ref))
 
 
 def location_or_section(request, path):

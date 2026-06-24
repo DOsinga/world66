@@ -4,6 +4,7 @@ image_attribution: Rorser at English Wikipedia
 image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Portmarnock_beach.jpg
 latitude: 53.4234
+loc_type: city
 longitude: -6.1389
 snippet: Coastal Fingal town north of Dublin, known for Velvet Strand beach and championship
   links golf.

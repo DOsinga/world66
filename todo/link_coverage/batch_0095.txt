@@ -1,5 +1,0 @@
-southamerica/suriname/brownsbergnaturepark
-southamerica/uruguay/chuy
-southamerica/uruguay/coloniadelsacramento
-southamerica/uruguay/minas
-southamerica/uruguay/rocha

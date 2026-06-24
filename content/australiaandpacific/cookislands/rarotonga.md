@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: 2026-04-05
-image_attribution: 'Photographer: Unknown'
+image_attribution: Georgia mann
 latitude: -21.236831
 loc_type: region
 longitude: -159.777474
@@ -10,6 +10,9 @@ title: Rarotonga
 type: location
 snippet: Volcanic Cook Islands hub ringed by reef lagoon and jagged interior peaks
   above Avarua.
+image: rarotonga.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Te_Rua_Manga_(The_Needle)_lookout.jpg
+image_license: CC BY-SA 4.0
 ---
 
 Rarotonga is the largest and most populous of the Cook Islands, a self-governing territory in free association with New Zealand. The island is roughly circular, about 32 km in circumference, with a dramatic interior of jagged volcanic peaks rising to over 600 metres and a narrow coastal plain ringed by a reef lagoon. It comes close to the archetype of a South Pacific island and is popular as a less commercial alternative to Fiji or Tahiti.

@@ -1,5 +1,0 @@
-europe/lithuania/kernave
-europe/luxembourg/diekirch
-europe/macedonia/veles
-europe/montenegro/skadarlake
-europe/netherlands/hoorn

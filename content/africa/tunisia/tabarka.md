@@ -5,9 +5,9 @@ done:
 image: tabarka.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ile_de_tabarka_1.jpg
-lat: 36.9546
+latitude: 36.9544
 loc_type: city
-long: 8.7574
+longitude: 8.758
 score: 0.42
 sources:
 - https://en.wikipedia.org/wiki/Tabarka

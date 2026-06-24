@@ -1,13 +1,13 @@
 ---
 address: West Bar Green, Sheffield S1 2DA
 latitude: 53.3855
-loc_type: feature
 longitude: -1.4707
 snippet: Police, fire, and ambulance history in a converted Victorian fire station
 tags:
 - things_to_do
 - museum
 title: National Emergency Services Museum
+type: poi
 ---
 
 A surprisingly large museum housed in a complete Victorian-era fire and police station on the north edge of the centre. The collection runs from horse-drawn fire pumps to a 1970s Yorkshire Police helicopter, with cells you can lock yourself into and a working ambulance you can climb inside.

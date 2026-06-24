@@ -1,5 +1,0 @@
-europe/denmark/fredensborg
-europe/denmark/humlebaek
-europe/estonia/narva
-europe/estonia/parnu
-europe/estonia/saaremaa

@@ -1,6 +1,6 @@
 ---
 done:
-  link_coverage: '2026-06-07'
+  link_coverage: '2026-06-22'
 image: greymouth.jpg
 image_attribution: Michal Klajban
 image_license: CC BY-SA 4.0

@@ -9,6 +9,13 @@ snippet: Northeastern South Island wine region centred on the Wairau Valley and 
   Zealand Sauvignon Blanc.
 title: Marlborough
 type: location
+image: marlborough.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Marlborough_Sounds_From_Ferry.jpg
+image_license: Public domain
+image_attribution: 'Ingolfson at English Wikipedia
+
+
+  (Original text: Uploader.)'
 ---
 
 Marlborough is New Zealand's most celebrated wine region, producing the majority of the country's Sauvignon Blanc along with respected Riesling and Pinot Noir. It occupies the northeast corner of the South Island, a sun-trap of valleys sheltered by ranges to the west and warmed by long dry summers that give the wines their intensity. The Wairau Valley, running inland from the coastal town of Blenheim, is the heart of the wine country — vineyard estates line the valley floor, and most welcome visitors for tastings.

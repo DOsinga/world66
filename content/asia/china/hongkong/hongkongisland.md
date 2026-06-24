@@ -3,9 +3,16 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   poi_cleanup: '2026-04-21'
+image: hongkongisland.jpg
+image_attribution: Prosperity Horizons
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Island_Panorama_(2).jpg
 latitude: 22.2783
 longitude: 114.1747
 score: 0.77
+tags:
+- things_to_do
+- neighbourhood
 title: Hong Kong Island
 type: neighbourhood
 ---
@@ -14,8 +21,8 @@ Hong Kong Island is the original city — the place where Captain Charles Elliot
 
 The **Peak** is the obvious place to start, if only to get your bearings. The tram climbs at an alarming angle through the mid-levels to a viewing platform 400 metres above the harbour; the view down over the forest of skyscrapers and across to Kowloon is the defining image of the city, and the circular Lugard Road walk around the top takes about 45 minutes and is free. Go late afternoon and stay for dusk — the skyline's light show is genuinely worth sitting through.
 
-Down in **Central** and **Sheung Wan**, the walking is good. Hollywood Road runs east-west through the antique district, past [Man Mo Temple](/asia/china/hongkong/hongkongisland/things_to_do/man_mo_temple) with its heavy coils of incense, up into SoHo's galleries and restaurants, and on to the Fringe Club. [Hong Kong Park](/asia/china/hongkong/hongkongisland/things_to_do/hong_kong_park), wedged between Admiralty's skyscrapers, has a walk-in aviary and the Museum of Tea Ware in the oldest surviving colonial building on the island. The Mid-Levels Escalator, the longest outdoor covered escalator in the world, gets you up the hillside without the sweat.
+Down in **Central** and **Sheung Wan**, the walking is good. Hollywood Road runs east-west through the antique district, past [Man Mo Temple](/asia/china/hongkong/man_mo_temple) with its heavy coils of incense, up into SoHo's galleries and restaurants, and on to the Fringe Club. [Hong Kong Park](/asia/china/hongkong/hong_kong_park), wedged between Admiralty's skyscrapers, has a walk-in aviary and the Museum of Tea Ware in the oldest surviving colonial building on the island. The Mid-Levels Escalator, the longest outdoor covered escalator in the world, gets you up the hillside without the sweat.
 
 Eating is the other reason to be here. The island has everything from three-Michelin-star tasting menus in Central to cheap cha chaan tengs in the Western District, but the classic Hong Kong meal is still **dim sum** — Maxim's Palace in City Hall, Lin Heung Tea House in Sheung Wan, or Fook Lam Moon in Wan Chai — all rolling carts, elbow room, and very good food. Late-night, the action is split between the tightly packed bars of Lan Kwai Fong, the more grown-up drinks in SoHo, and the surviving Wan Chai strip along Lockhart Road.
 
-The **south side** is the surprise. Twenty minutes on a bus from Central and the skyscrapers give way to headlands, beaches, and the old fishing village of Aberdeen with its remaining boat dwellers. [Stanley](/asia/china/hongkong/hongkongisland/things_to_do/stanley) has a market, seafood restaurants, and a swimmable beach. The Dragon's Back ridge trail from Shau Kei Wan MTR drops down to Big Wave Bay after a couple of hours of easy walking — the best urban hike in the city, and the one that tells you most clearly that Hong Kong is not just a metropolis but a set of green islands in the South China Sea.
+The **south side** is the surprise. Twenty minutes on a bus from Central and the skyscrapers give way to headlands, beaches, and the old fishing village of Aberdeen with its remaining boat dwellers. [Stanley](/asia/china/hongkong/stanley) has a market, seafood restaurants, and a swimmable beach. The Dragon's Back ridge trail from Shau Kei Wan MTR drops down to Big Wave Bay after a couple of hours of easy walking — the best urban hike in the city, and the one that tells you most clearly that Hong Kong is not just a metropolis but a set of green islands in the South China Sea.

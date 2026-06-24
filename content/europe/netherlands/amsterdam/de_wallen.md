@@ -4,6 +4,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Oudezijds_Achterburgwal.jpg
 latitude: 52.3742
 longitude: 4.8981
+tags:
+- things_to_do
+- neighbourhood
 title: De Wallen
 type: neighbourhood
 ---

@@ -3,12 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-06
   poi_cleanup: '2026-04-19'
+latitude: -1.5
 loc_type: region
+longitude: -77.9
 score: 0.64
-title: Amazon basin
-type: location
 snippet: Ecuadorian rainforest region of Andean-fed rivers, humid forest, and Indigenous
   settlements east of the mountains.
+title: Amazon basin
+type: location
+image: amazonbasin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Campo12Foto_2.JPG
+image_license: CC BY 3.0
+image_attribution: Jorge.kike.medina
 ---
 
 **AMAZON IN ECUADOR** **TOP**

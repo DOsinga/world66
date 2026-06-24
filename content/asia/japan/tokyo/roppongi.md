@@ -3,14 +3,18 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-05'
   poi_cleanup: '2026-04-21'
+image: roppongi.jpg
+image_attribution: Syced
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Roppongi_Avenue_seen_from_Roppongi_Hills_Mori_Tower_3.jpg
 latitude: 35.6628
 longitude: 139.732
 score: 0.64
+tags:
+- things_to_do
+- neighbourhood
 title: Roppongi
 type: neighbourhood
-tags:
-- neighbourhood
-- things_to_do
 ---
 
 Roppongi is Tokyo's most international district — a dense mix of nightclubs, jazz bars, upscale restaurants, and world-class art museums. The neighbourhood has long attracted expats, tourists, and Tokyo's nightlife crowd, which gives it a different energy from the rest of the city. It can be loud and brash after dark, but it also has a serious cultural side that most visitors overlook.

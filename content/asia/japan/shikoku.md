@@ -9,6 +9,10 @@ snippet: Mountainous Japanese island of temples, pilgrimage roads, and rural vil
   south of the Inland Sea
 title: Shikoku
 type: location
+image: shikoku.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ashizurimisaki_Cape.JPG
+image_license: CC BY-SA 3.0
+image_attribution: (WT-en) Jpatokal at English Wikivoyage
 ---
 
 Shikoku is the smallest of Japan's four main islands and the least visited by foreign travellers — a quiet, mountainous, mostly rural island south of the Inland Sea, with a population of about four million spread across four prefectures. That quietness is part of the appeal: away from the crowds of Kyoto and Tokyo, Shikoku moves at a slower pace, the food is excellent, and the landscape is a mixture of steep forested mountains, rocky coastline, small castle towns, and terraced rice fields. For many Japanese it is the most traditional-feeling part of the country.

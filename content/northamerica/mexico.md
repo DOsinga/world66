@@ -15,6 +15,10 @@ snippet: Large North American country of deserts, jungles, two coasts, and deep 
   and Spanish colonial layers.
 title: Mexico
 type: location
+image: mexico.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Xavier Quetzalcoatl Contreras Castillo
 ---
 
 Mexico rewards travelers who look beyond the all-inclusive resorts. It is the 14th largest country in the world, spanning deserts, jungles, mountains, and two coastlines, with a history that runs from ancient Mesoamerican civilizations through Spanish colonialism to a thriving contemporary culture. The food alone justifies the trip.

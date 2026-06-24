@@ -14,6 +14,10 @@ snippet: Large Middle Eastern country with ancient Persian sites, old cities, mo
   deserts, and Caspian coast.
 title: Iran
 type: location
+image: iran.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Choqa_Zanbil_Darafsh_1_(36).JPG
+image_license: GFDL
+image_attribution: درفش کاویانی
 ---
 
 Known as **Persia** until 1935, **Iran** became an Islamic republic in 1979. This country has nearly 10% of the world's known oil and the second biggest gas reserves.

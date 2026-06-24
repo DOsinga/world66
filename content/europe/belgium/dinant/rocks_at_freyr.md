@@ -1,13 +1,13 @@
 ---
 address: Rochers de Freÿr, 5500 Dinant
 latitude: 50.2254
-loc_type: feature
-longitude: 4.8940
+longitude: 4.894
 snippet: Towering limestone cliffs on the Meuse, popular with climbers
 tags:
 - things_to_do
 - sight
 title: Rocks at Freÿr
+type: poi
 ---
 
 A spectacular mass of limestone cliffs on the left bank of the Meuse, opposite the Castle of Freÿr, rising 120 metres straight out of the river. The site is one of Belgium's premier rock-climbing destinations — more than 250 routes have been bolted on the various faces — but you don't have to climb to appreciate it. The view from the Castle gardens on the opposite bank is the postcard shot of the lower Meuse.

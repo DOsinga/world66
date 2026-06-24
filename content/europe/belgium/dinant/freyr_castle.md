@@ -1,14 +1,14 @@
 ---
 address: Domaine de Freÿr, 5540 Hastière
-latitude: 50.2260
-loc_type: feature
-longitude: 4.8890
+latitude: 50.226
+longitude: 4.889
 snippet: Renaissance castle and formal French gardens beside the Meuse
 tags:
 - things_to_do
 - sight
 - architecture
 title: Castle of Freÿr
+type: poi
 ---
 
 A Renaissance and 18th-century chateau set on the right bank of the Meuse 6 km downstream from Dinant, facing the dramatic cliffs known as the Rocks of Freÿr. The castle has been in the same family — the Beaufort-Spontin — for more than 400 years and is still partly inhabited, which gives the guided tour an unusual sense of lived-in continuity.

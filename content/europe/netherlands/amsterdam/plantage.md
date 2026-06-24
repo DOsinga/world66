@@ -4,6 +4,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:De_Plantage_(17).jpg
 latitude: 52.3681
 longitude: 4.913
+tags:
+- things_to_do
+- neighbourhood
 title: Plantage
 type: neighbourhood
 ---

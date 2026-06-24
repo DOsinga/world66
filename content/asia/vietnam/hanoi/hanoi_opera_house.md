@@ -1,15 +1,23 @@
 ---
-title: "Hanoi Opera House"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - architecture
 latitude: 21.02417
 longitude: 105.85778
-snippet: "1911 colonial opera house; it was from this balcony that revolutionaries announced independence"
-story: "On August 19, 1945, as the Japanese occupation crumbled at the end of World War II, Viet Minh forces seized the Opera House. From its upper balcony, they announced the success of the August Revolution to tens of thousands of people gathered in the square below. It was the moment the Viet Minh took effective control of Hanoi — weeks before Ho Chi Minh read the Declaration of Independence in Ba Dinh Square. The building that the French had built as a symbol of colonial civilization had become the staging ground for its overthrow."
 score: 7.6
+snippet: 1911 colonial opera house; it was from this balcony that revolutionaries
+  announced independence
+story: On August 19, 1945, as the Japanese occupation crumbled at the end of World
+  War II, Viet Minh forces seized the Opera House. From its upper balcony, they announced
+  the success of the August Revolution to tens of thousands of people gathered in
+  the square below. It was the moment the Viet Minh took effective control of Hanoi
+  — weeks before Ho Chi Minh read the Declaration of Independence in Ba Dinh Square.
+  The building that the French had built as a symbol of colonial civilization had
+  become the staging ground for its overthrow.
+tags:
+- things_to_do
+- french_quarter
+- sight
+- architecture
+title: Hanoi Opera House
+type: poi
 ---
 
 The Hanoi Opera House is a scaled-down copy of the Palais Garnier in Paris, built between 1901 and 1911 at the height of French colonial ambition. The exterior is a confident statement of Beaux-Arts classicism — columns, balconies, arched windows, green copper roof — dropped into the middle of a city that would spend the following decades dismantling everything it represented. It sits at the eastern end of Trang Tien Street, one of the central axes of the French Quarter, and still commands the square in front of it.

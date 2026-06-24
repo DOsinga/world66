@@ -22,4 +22,4 @@ There is not much else for the conventional tourist, and Mirpur is honest about 
 
 ## Destinations in Mirpur
 
-[Rajoa](/asia/pakistan/azad_kashmir/mirpur/rajoa)
+[Rajoa](/asia/pakistan/azad_kashmir/rajoa)

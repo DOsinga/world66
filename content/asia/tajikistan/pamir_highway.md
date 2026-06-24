@@ -9,6 +9,10 @@ snippet: High Pamir overland route across eastern Tajikistan, crossing stark pla
   between Dushanbe and Osh.
 title: Pamir Highway
 type: location
+image: pamir_highway.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pamir_Highway_-_Tajikistan.jpg
+image_license: CC BY 2.0
+image_attribution: lee hughes
 ---
 
 The Pamir Highway (M41) is one of the great overland routes in the world. Running from [Dushanbe](/asia/tajikistan/dushanbe) across the eastern half of Tajikistan to Osh in Kyrgyzstan, it crosses terrain that was largely closed to outsiders until the 1990s. The Pamirs sit at the crossroads of the Karakoram, Himalaya, Hindu Kush, and Tian Shan mountain systems — the "Roof of the World" is not an idle phrase.

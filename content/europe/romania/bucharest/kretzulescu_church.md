@@ -1,13 +1,13 @@
 ---
 address: Calea Victoriei 47, Bucharest
 latitude: 44.4381
-loc_type: feature
 longitude: 26.0966
 snippet: 1722 Brâncovenesc-style church on Revolution Square
 tags:
 - things_to_do
 - sight
 title: Kretzulescu Church
+type: poi
 ---
 
 A 1722 Orthodox church in the Brâncovenesc style, built by Iordache Crețulescu and his wife Safta — daughter of Constantin Brâncoveanu, the prince who gave the style its name. The brick-and-stone exterior, the carved porch, and the original frescoes (rediscovered under later layers in the 1930s) make it one of the best examples of early-18th-century Wallachian church architecture in the city.

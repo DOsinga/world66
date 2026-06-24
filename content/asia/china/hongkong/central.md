@@ -1,10 +1,14 @@
 ---
+image: central.jpg
+image_attribution: Baycrest
+image_license: CC BY-SA 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Central_Pier_9.jpg
 latitude: 22.2819
 longitude: 114.1582
 snippet: Financial heart and colonial core of Hong Kong Island
 tags:
-- hongkongisland
 - things_to_do
+- neighbourhood
 title: Central
 type: neighbourhood
 ---

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/L%C4%81na%27i
 title: Lanai
 type: location
+image: lanai.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Garden_of_the_Gods2.jpg
+image_license: Public domain
+image_attribution: Halibut Thyme at en.wikipedia
 ---
 
 For nearly 70 years, Lanai — dubbed the "Pineapple Island" — was operated as a plantation by the Dole Company. In its heyday it was the world's largest source of pineapple, grown on more than 16,000 acres, until the industry began to falter. By 1993 pineapple was phased out in favour of resort development, ranching, and other agriculture.

@@ -12,6 +12,10 @@ title: Belgrade
 type: location
 snippet: Gritty Serbian capital at the Sava-Danube confluence, rebuilt around Kalemegdan
   fortress and river nightlife.
+image: belgrade.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Belgrad2006parlament.jpg
+image_license: CC BY-SA 2.5 pl
+image_attribution: Unknown
 ---
 
 Belgrade is the capital of Serbia, a city of around 1.3 million people perched on the confluence of the Sava and the Danube — one of the most strategic river junctions in Europe, and one that has been fought over and rebuilt so often (forty-odd times, by most counts) that the layered, slightly battered character of the old city is part of its identity. It is neither as pretty as Prague nor as polished as Vienna, and it doesn't pretend to be. It is gritty, raucous, fiercely proud, and has one of the best nightlife scenes in Europe. It has become, in the last decade or so, one of the more compelling city breaks in the Balkans.

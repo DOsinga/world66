@@ -9,6 +9,10 @@ snippet: Hilly northern Tuscan region of medieval villages, chestnut forests, ca
   and Ligurian-Emilian food traditions.
 title: Lunigiana
 type: location
+image: lunigiana.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pontremoli.JPG
+image_license: CC BY-SA 3.0
+image_attribution: William Domenichini
 ---
 
 Lunigiana is the quiet, hilly corner of northern Tuscany that most visitors drive straight past on their way to Florence or the Cinque Terre. Their loss. The region is a patchwork of medieval hill villages, chestnut forests, and river valleys, with a food culture that owes as much to nearby Liguria and Emilia-Romagna as it does to Tuscany.

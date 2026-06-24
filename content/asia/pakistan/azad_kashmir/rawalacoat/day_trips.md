@@ -1,5 +1,7 @@
 ---
-title: "Day Trips from Rawalakot"
+linked_locations:
+- asia/pakistan/azad_kashmir/khaigala
+title: Day Trips from Rawalakot
 type: section
 ---
 

@@ -4,6 +4,7 @@ type: section
 linked_locations:
   - europe/italy/abruzzo/chieti
   - europe/italy/abruzzo/sulmona
+  - europe/italy/abruzzo/gransasso
   - europe/italy/abruzzo/pescasseroli
   - europe/italy/abruzzo/aquila
 ---

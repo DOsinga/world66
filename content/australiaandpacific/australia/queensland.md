@@ -9,6 +9,10 @@ snippet: Tropical Australian state linking Brisbane, surf coasts, the Great Barr
   Reef, and Daintree rainforest.
 title: Queensland
 type: location
+image: queensland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gold_Coast_skyline.jpg
+image_license: CC BY 2.0
+image_attribution: Petra
 ---
 
 Queensland is Australia's second-largest state by area and the one most visitors picture when they think of tropical Australia. The state runs from the Gold Coast and Sunshine Coast in the southeast — relatively built-up, beach-and-surf territory — through Brisbane up to the tropics, where the Great Barrier Reef and the Daintree rainforest are the main draws.

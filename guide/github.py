@@ -60,10 +60,15 @@ def short_hash(full_hash):
 
 
 @lru_cache(maxsize=4096)
-def get_file_bytes(ref, content_path):
+def _get_contents(ref, content_path):
     full_hash = resolve_commit(ref) or ref
     quoted_path = _quote_path(content_path)
-    data = _request_json(_url(f"/contents/{quoted_path}?ref={quote(full_hash, safe='')}"))
+    return _request_json(_url(f"/contents/{quoted_path}?ref={quote(full_hash, safe='')}"))
+
+
+@lru_cache(maxsize=4096)
+def get_file_bytes(ref, content_path):
+    data = _get_contents(ref, content_path)
     if not isinstance(data, dict) or data.get("type") != "file":
         return None
 
@@ -92,9 +97,7 @@ def get_file_text(ref, content_path):
 
 @lru_cache(maxsize=4096)
 def list_dir(ref, content_path):
-    full_hash = resolve_commit(ref) or ref
-    quoted_path = _quote_path(content_path)
-    data = _request_json(_url(f"/contents/{quoted_path}?ref={quote(full_hash, safe='')}"))
+    data = _get_contents(ref, content_path)
     if not isinstance(data, list):
         return []
     return [
@@ -109,7 +112,8 @@ def list_dir(ref, content_path):
 
 
 def file_exists(ref, content_path):
-    return get_file_bytes(ref, content_path) is not None
+    data = _get_contents(ref, content_path)
+    return isinstance(data, dict) and data.get("type") == "file"
 
 
 def iter_files(ref, content_path):

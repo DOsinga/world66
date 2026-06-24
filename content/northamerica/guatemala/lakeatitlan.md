@@ -11,6 +11,10 @@ snippet: Volcanic highland lake ringed by Tolimán, Atitlán, San Pedro, and May
   on its shores.
 title: Lake Atitlán
 type: location
+image: lakeatitlan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Atitlan_Lake_and_Volcanoes_(3746396035).jpg
+image_license: CC BY 2.0
+image_attribution: Francisco Anzola
 ---
 
 When Aldous Huxley visited in the 1930s he called Lake Atitlán "the most beautiful lake in the world." It still provokes that kind of hyperbole. The lake sits at 1,562 metres in a volcanic caldera, its deep blue water ringed by three volcanoes — Tolimán, Atitlán, and San Pedro — and a dozen Maya villages on its shores.

@@ -9,6 +9,10 @@ snippet: Coastal region around Hue where lagoons, beaches, tombs, and the Hai Va
   Pass sit within easy reach.
 title: Around Hue
 type: neighbourhood
+image: aroundhue.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%B9a_Thi%C3%AAn_M%E1%BB%A5_%E1%BB%9F_Hu%E1%BA%BF.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Bùi Thụy Đào Nguyên
 ---
 
 The area around [Hue](/asia/vietnam/hue) offers easy escapes from the city, most of them reachable in under an hour. To the east, the coast opens up along long stretches of sand where the Huong River meets the South China Sea. To the north, the road toward [Da Nang](/asia/vietnam/danang) climbs over the spectacular Hai Van Pass, with beaches tucked into the bays below.

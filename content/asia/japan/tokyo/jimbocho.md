@@ -9,9 +9,10 @@ story: Jimbōchō's concentration of bookshops dates to the early 20th century, 
   firebombing of 1945, and has been continuously selling secondhand books ever since.
 tags:
 - things_to_do
-- neighbourhood
+- shopping
+- akihabara
 title: Jimbōchō Book Town
-type: neighbourhood
+type: poi
 ---
 
 Jimbōchō is a compact district in Chiyoda where over 170 bookshops line a few blocks of Yasukuni-dori. The shops range from general secondhand stores to dealers specializing in art books, manga, maps, woodblock prints, sporting books, academic texts, and foreign-language literature. It is the densest concentration of secondhand books anywhere in the world.

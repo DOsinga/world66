@@ -2,7 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   poi_cleanup: '2026-04-20'
-image_attribution: Euskal Bizikleta
+image_attribution: Malopez 21
 latitude: 37.5443
 loc_type: region
 longitude: -4.7278
@@ -11,6 +11,9 @@ snippet: Spanish region of white villages, flamenco, Moorish palaces, and landsc
   from Cádiz to Almería.
 title: Andalucia
 type: location
+image: andalucia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arcos_de_la_Frontera,_desde_el_balc%C3%B3n_de_la_Pe%C3%B1a_Nueva.jpg
+image_license: CC BY-SA 4.0
 ---
 
 Andalucia is the Spain people picture when they haven't been: whitewashed villages stacked on rocky hillsides, flamenco rhythms drifting from bars, the smell of orange blossom, and the ghost of eight centuries of Moorish civilisation layered over everything. This is Spain's largest and arguably most dramatic region, stretching from the Atlantic coast at Cádiz all the way east to Almería's near-desert landscapes.

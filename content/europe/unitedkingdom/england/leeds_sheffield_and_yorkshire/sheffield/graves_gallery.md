@@ -1,13 +1,13 @@
 ---
 address: Surrey Street, Sheffield S1 1XZ
 latitude: 53.3801
-loc_type: feature
 longitude: -1.4667
 snippet: Permanent gallery of British and European fine art above the Central Library
 tags:
 - things_to_do
 - museum
 title: Graves Art Gallery
+type: poi
 ---
 
 A small but excellent gallery on the upper floor of Sheffield's Central Library, holding the city's collection of British art from the 18th century onwards alongside a smattering of Old Masters and modern European works. The collection includes Cézanne, Klee, Picasso, Sickert, Stanley Spencer, and a number of important pieces by the Sheffield-born Joe Scarborough.

@@ -1,5 +1,0 @@
-asia/srilanka/weligama
-asia/syria/tartus
-asia/taiwan/matsu
-asia/thailand/khonkaen
-asia/thailand/krabi/aonang

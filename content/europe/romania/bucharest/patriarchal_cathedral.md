@@ -1,7 +1,6 @@
 ---
 address: Aleea Dealul Mitropoliei 25, Bucharest
 latitude: 44.4246
-loc_type: feature
 longitude: 26.0978
 snippet: 17th-century Orthodox cathedral on the hill of the Patriarchate
 tags:
@@ -9,6 +8,7 @@ tags:
 - sight
 - architecture
 title: Romanian Patriarchal Cathedral
+type: poi
 ---
 
 The mother church of the Romanian Orthodox Church, built in 1656-1658 by Prince Constantin Șerban on the small hill of Dealul Mitropoliei. The complex includes the cathedral, the Patriarchal Palace, a bell tower from 1698, and the former parliament building. Surrounded by gardens and trees, it feels like a tiny monastic village dropped into the middle of the city.

@@ -1,7 +1,6 @@
 ---
 address: Rue de Furfooz 3, 5561 Celles
 latitude: 50.2253
-loc_type: feature
 longitude: 4.9933
 snippet: Picture-book medieval castle in the village of Celles
 tags:
@@ -9,6 +8,7 @@ tags:
 - sight
 - architecture
 title: Château de Vêves
+type: poi
 ---
 
 A small but extraordinarily photogenic medieval castle in the village of Celles, 10 km east of Dinant. Five circular towers cluster around a tight central courtyard, the whole thing rising straight out of a meadow with no defensive moat — the architecture is more aristocratic country house than fortress despite its medieval bones.

@@ -1,7 +1,6 @@
 ---
 address: Church Street, Sheffield S1 1HA
-latitude: 53.3830
-loc_type: feature
+latitude: 53.383
 longitude: -1.4694
 snippet: 13th-century parish church promoted to cathedral in 1914
 tags:
@@ -9,6 +8,7 @@ tags:
 - sight
 - architecture
 title: Sheffield Cathedral
+type: poi
 ---
 
 A predominantly Perpendicular Gothic parish church on the site of an Anglo-Saxon foundation, promoted to cathedral status in 1914 when the Diocese of Sheffield was created. The east end and parts of the tower survive from the medieval church; most of the rest is 15th- or 19th-century, with a striking 20th-century extension on the south side that includes the Te Deum window — modern abstract stained glass washing the nave with colour.

@@ -1,12 +1,17 @@
 ---
-title: "Powiśle"
-type: neighbourhood
-tags:
-  - things_to_do
-  - neighbourhood
+image: powisle_district.jpg
+image_attribution: Igor123121
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dobra_street,_2026,_Warsaw,_Powi%C5%9Ble,_Poland.jpg
 latitude: 52.2355
-longitude: 21.0280
-snippet: "Fashionable riverside neighbourhood between the Royal Route and the Vistula, with Warsaw's best bar scene"
+longitude: 21.028
+snippet: Fashionable riverside neighbourhood between the Royal Route and the Vistula,
+  with Warsaw's best bar scene
+tags:
+- things_to_do
+- neighbourhood
+title: Powiśle
+type: neighbourhood
 ---
 
 Powiśle (roughly "below the escarpment") is the neighbourhood that runs between the Royal Route and the Vistula riverbank. It was a working-class area for most of its history and was only lightly developed after the war. Since around 2010 it has become Warsaw's most desirable neighbourhood: the [Elektrownia Powiśle](/europe/poland/warsaw/electrownia_powisle) complex, the [Copernicus Science Centre](/europe/poland/warsaw/centre_science_copernicus), the [University Library Garden](/europe/poland/warsaw/university_library_garden), and the [Warsaw University Library](/europe/poland/warsaw/university_library_garden) are all here.

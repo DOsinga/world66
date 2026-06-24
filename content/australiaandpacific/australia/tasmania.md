@@ -9,6 +9,10 @@ snippet: Australian island state of World Heritage wilderness, convict history, 
   compact journeys between mountains and sea
 title: Tasmania
 type: location
+image: tasmania.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cradle_Mountain_from_the_shore_of_Dove_Lake,_Tasmania,_Australia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mousehammer
 ---
 
 Tasmania is Australia's island state — separated from the mainland by the Bass Strait — and the most easily overlooked by international visitors, which is their loss. It's a compact, wild, and distinctive place that offers a different Australia from the beach-and-reef circuit most people follow.

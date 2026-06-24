@@ -1,12 +1,14 @@
 ---
 done:
   location_cleanup: '2026-04-16'
-score: 0.54
-title: Manchester, Liverpool and North West
-type: location
+latitude: 53.8
 loc_type: region
+longitude: -2.6
+score: 0.54
 snippet: North West England region anchored by industrial Manchester, maritime Liverpool,
   and nearby national-park landscapes.
+title: Manchester, Liverpool and North West
+type: location
 ---
 
 The North West of England is anchored by two great cities -- [Manchester](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/manchester) and [Liverpool](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/liverpool) -- that shaped the modern world through industry, trade and culture. Manchester powered the Industrial Revolution with its cotton mills, while Liverpool's docks connected Britain to every corner of the globe. Today both cities buzz with music, sport, nightlife and some of the best museums in England.

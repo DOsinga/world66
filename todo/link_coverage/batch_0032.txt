@@ -1,5 +1,0 @@
-asia/thailand/pranburi
-asia/thailand/trat
-asia/turkey/gazipasa
-asia/vietnam/moc_chau
-australiaandpacific/australia/northernterritory/kakadunationalpark

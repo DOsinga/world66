@@ -10,6 +10,10 @@ snippet: Southeast Cypriot coastal city over ancient Kition, with a palm-lined s
   and airport gateway role.
 title: Larnaca
 type: location
+image: larnaca.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cyprus_-_Larnacacastle_1.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Dickelbers
 ---
 
 Larnaca is the main international gateway to Cyprus and the island's third city, sitting on the southeast coast about 50 kilometres from [Nicosia](/asia/cyprus/nicosia). Most visitors pass through on their way to [Limassol](/asia/cyprus/limassol) or the beach resorts, but those who stop find a city with more depth than its airport-transit reputation suggests. The name comes from the Greek larnax — coffin or chest — a reference to the many ancient burials unearthed here, and the city sits directly on top of [ancient Kition](/asia/cyprus/larnaca/kition), one of the great Phoenician and Greek city-kingdoms of Cyprus.

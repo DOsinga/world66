@@ -9,6 +9,10 @@ snippet: English coastal region of salt marshes, tidal creeks, dunes, and shingl
   banks between Hunstanton and Cromer.
 title: The North Norfolk Coast
 type: location
+image: the_north_norfolk_coast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cley_windmill,_from_Beach_Road,_Cley_next_the_Sea_-_geograph.org.uk_-_3005259_(cropped).jpg
+image_license: CC BY-SA 2.0
+image_attribution: Julian Dowse
 ---
 
 The North Norfolk Coast is one of England's most rewarding stretches of coastline — an Area of Outstanding Natural Beauty that runs from Hunstanton in the west to Cromer in the east. Unlike the sandy resort beaches further south, this coast is defined by salt marshes, tidal creeks, dune systems, and shingle banks, with the sea often invisible from the land.

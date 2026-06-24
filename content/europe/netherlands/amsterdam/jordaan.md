@@ -4,6 +4,9 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Eerste_Leliedwarsstraat.jpg
 latitude: 52.3773
 longitude: 4.8814
+tags:
+- things_to_do
+- neighbourhood
 title: The Jordaan
 type: neighbourhood
 ---

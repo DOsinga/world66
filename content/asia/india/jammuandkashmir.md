@@ -9,6 +9,10 @@ snippet: Northern Indian mountain region spanning Hindu Jammu, the Kashmir Valle
   and high-altitude Buddhist Ladakh.
 title: Jammu and Kashmir
 type: location
+image: jammuandkashmir.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chenab_Rail_Bridge,_Reasi_district,_Jammu_and_Kashmir,_India.jpg
+image_license: GODL-India
+image_attribution: Konkan Railway Corporation Limited
 ---
 
 India's northernmost state divides neatly into three very different worlds. Jammu in the south is a Hindu pilgrimage city and the jumping-off point for the mountains. The Kashmir Valley in the middle is one of the most beautiful places in Asia — lakes, Mughal gardens, snow-capped peaks — and one of the most politically fraught. Ladakh in the east is high-altitude desert, Buddhist monasteries on cliff-faces, and some of the most dramatic scenery on earth.

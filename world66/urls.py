@@ -14,6 +14,7 @@ urlpatterns = [
     path("passport/", include("passport_app.urls")),
     path("regions", RedirectView.as_view(url="/regions/", permanent=False)),
     path("regions/", include("regions_app.urls")),
+    re_path(r"^(?P<revision>[0-9a-fA-F]{7,40})/?$", views.home_at_revision, name="home_at_revision"),
     re_path(r"^(?P<revision>[0-9a-fA-F]{7,40})/content-image/(?P<path>.+)$", views.content_image_at_revision, name="content_image_at_revision"),
     re_path(r"^(?P<revision>[0-9a-fA-F]{7,40})/(?P<path>.+)$", views.location_or_section_at_revision, name="location_or_section_at_revision"),
     path("<path:path>", views.location_or_section, name="location_or_section"),

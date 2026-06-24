@@ -1,10 +1,19 @@
 ---
-title: Søby
-type: poi
-tags: [things_to_do, sight, town]
 latitude: 54.9396
+loc_type: city
 longitude: 10.2562
-score: 6.0
+score: 0.36
+tags:
+- things_to_do
+- sight
+- town
+- aero
+title: Søby
+type: location
+image: soby.jpg
+image_source: https://commons.wikimedia.org/wiki/File:S%C3%B8by_Havn_6.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Erik Christensen
 ---
 
 Søby sits at the northern tip of Ærø, 15 km from Ærøskøbing and 23 km from Marstal. It is the third of the island's towns and the smallest — a working fishing harbour with a small shipyard that still builds and repairs steel vessels. The atmosphere is unfussed: nets drying on the quay, a couple of seasonal cafes, and a ferry running across to Fynshav on the island of Als in southern Jutland.

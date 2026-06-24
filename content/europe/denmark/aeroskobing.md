@@ -1,11 +1,23 @@
 ---
-title: Ærøskøbing
-type: poi
-tags: [things_to_do, sight, town]
 latitude: 54.8917
+loc_type: city
 longitude: 10.4125
-story: "Ærøskøbing escaped the redevelopment that swept other Danish towns largely because nothing much happened here after the age of sail collapsed in the late 19th century. The town lost its merchants and its money — and as a side effect, kept its 17th- and 18th-century houses almost untouched."
-score: 8.6
+score: 0.57
+story: Ærøskøbing escaped the redevelopment that swept other Danish towns largely
+  because nothing much happened here after the age of sail collapsed in the late 19th
+  century. The town lost its merchants and its money — and as a side effect, kept
+  its 17th- and 18th-century houses almost untouched.
+tags:
+- things_to_do
+- sight
+- town
+- aero
+title: Ærøskøbing
+type: location
+image: aeroskobing.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gyden,_%C3%86r%C3%B8sk%C3%B8bing.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Erik Christensen
 ---
 
 Ærøskøbing is the island's old merchant town and one of the best-preserved small towns in northern Europe. The streets are cobbled, the doorways are low, and the timber-framed houses lean gently against each other in lines of yellow ochre, deep red, and washed pink. There is no medieval centre and no industrial fringe — just a few crooked streets that have looked roughly the same since the 1700s.

@@ -1,5 +1,0 @@
-europe/greece/zakinthos/argassi
-europe/hungary/lakebalaton/keszthely
-europe/hungary/lakebalaton/tihany
-europe/hungary/pecs
-europe/iceland/reykjanespeninsula

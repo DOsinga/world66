@@ -1,13 +1,14 @@
 ---
 latitude: 47.369656
 longitude: 8.538831
+score: 6.3
 snippet: Zurich's financial nerve centre, home to UBS, Credit Suisse, and Sprüngli
 tags:
 - things_to_do
+- bahnhofstrasse
 - landmark
 title: Paradeplatz
 type: poi
-score: 6.3
 ---
 
 Paradeplatz is the compact square at the centre of Zurich's Bahnhofstrasse, the city's main shopping street and one of the most expensive commercial strips in the world. The square itself is small and tram-busy, but it carries outsized symbolic weight: the headquarters of UBS and Credit Suisse face each other across it, making it the symbolic heart of Swiss banking.

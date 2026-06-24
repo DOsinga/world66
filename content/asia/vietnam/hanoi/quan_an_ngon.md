@@ -1,13 +1,14 @@
 ---
-title: "Quan An Ngon"
-type: poi
-tags:
-  - eating_out
-  - restaurant
 latitude: 21.025
 longitude: 105.846
-snippet: "Colonial villa courtyard housing street-food stalls from across Vietnam"
 score: 6.9
+snippet: Colonial villa courtyard housing street-food stalls from across Vietnam
+tags:
+- eating_out
+- french_quarter
+- restaurant
+title: Quan An Ngon
+type: poi
 ---
 
 Quan An Ngon occupies a converted French colonial villa on Phan Boi Chau Street, its courtyard filled with individual food stalls each representing a different Vietnamese regional street food. The concept is a deliberate anthology: banh xeo from the south, bun bo Hue from central Vietnam, northern-style pho, central Vietnamese bun thit nuong, banh cuon from Hanoi — all made to order by individual cooks at their stations around the courtyard. It is more expensive than eating these dishes at their source, and less authentic than finding each one at a specialist street stall, but it is an efficient and enjoyable way to eat across Vietnamese regional cuisines in a single meal.

@@ -1,5 +1,5 @@
 northamerica/elsalvador/lalibertad
 northamerica/elsalvador/launion
 northamerica/elsalvador/sanvicente
-northamerica/guatemala/antigua
+europe/italy/sicily/trapani/castello_di_terra
 northamerica/guatemala/lakeatitlan/panajachel

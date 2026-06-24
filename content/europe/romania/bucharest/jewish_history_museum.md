@@ -1,13 +1,13 @@
 ---
 address: Strada Mămulari 3, Bucharest
 latitude: 44.4267
-loc_type: feature
 longitude: 26.1083
 snippet: Synagogue housing a museum of Romanian Jewish history
 tags:
 - things_to_do
 - museum
 title: Museum of Romanian Jewish History
+type: poi
 ---
 
 Housed in the 1850 Holy Union Temple (Templul Unirea Sfântă), a small Sephardic synagogue in what was the heart of Bucharest's Jewish quarter before most of it was demolished during the Ceaușescu redevelopments. The museum traces the long Jewish presence in Romania — going back to Roman Dacia — through documents, ritual objects, photographs, and personal effects.

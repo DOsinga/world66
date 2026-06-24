@@ -1,7 +1,6 @@
 ---
 address: 84 Green Lane, Sheffield S3 8SE
-latitude: 53.3890
-loc_type: feature
+latitude: 53.389
 longitude: -1.4747
 snippet: Long-standing gastropub on the edge of Kelham Island
 tags:
@@ -9,6 +8,7 @@ tags:
 - restaurant
 - kelham_island
 title: The Milestone
+type: poi
 ---
 
 A gastropub on the edge of Kelham Island that has been a fixture of the Sheffield food scene since the mid-2000s, with a modern British menu that leans on Yorkshire producers — game from the moors, beef from the Don Valley, vegetables from local market gardens. The Sunday roast is exceptional and the wine list is considered.

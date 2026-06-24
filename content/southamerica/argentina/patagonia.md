@@ -9,6 +9,10 @@ snippet: Vast Argentine wilderness of steppe, glaciers, jagged peaks, and wildli
   Atlantic coastline
 title: Patagonia
 type: location
+image: patagonia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bariloche-_Argentina.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chipppy
 ---
 
 Made famous by Bruce Chatwin's restless travelogue, Patagonia covers the vast southern cone of Argentina from roughly the Rio Colorado down to Tierra del Fuego. It is a land of rugged beauty and wilderness -- endless steppe, jagged peaks, ancient glaciers, and a coastline teeming with marine life. If you are looking for wide open spaces and serious outdoor adventure, this is it.

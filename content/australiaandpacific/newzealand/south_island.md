@@ -1,5 +1,5 @@
 ---
-image_attribution: ravas51
+image_attribution: W. Bulach
 latitude: -43.586562
 loc_type: region
 longitude: 171.212329
@@ -8,6 +8,9 @@ snippet: Mountainous New Zealand island where the Southern Alps divide rainfores
   plains, vineyards, and fiords.
 title: South Island
 type: location
+image: south_island.jpg
+image_source: https://commons.wikimedia.org/wiki/File:00_1371_New_Zealand_-_Milford_Sound.jpg
+image_license: CC BY-SA 4.0
 ---
 
 The **South Island** of [New Zealand](/australiaandpacific/newzealand) is renowned for its spectacular scenery. The Southern Alps run the length of the island like a spine, rising to Aoraki/Mount Cook at 3,724m — the highest peak in New Zealand. West of the Alps is the wild, rain-drenched [West Coast](/australiaandpacific/newzealand/south_island/west_coast); east is the Canterbury Plains, Central Otago's wine country and dry schist landscapes, and the deep fiords of Fiordland in the far south.

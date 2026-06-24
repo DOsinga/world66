@@ -9,6 +9,10 @@ snippet: Spanish Atlantic archipelago of volcanic islands, trade-wind climates, 
   lava landscapes, and busy resort coasts.
 title: Canary Islands
 type: location
+image: canaryislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2012-01-10_14-53-40_Spain_Canarias_Cofete.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Hansueli Krapf  This   file was uploaded  with Commonist.
 ---
 
 The Canary Islands are a Spanish archipelago of seven inhabited volcanic islands in the Atlantic, closer to Morocco than to mainland Spain. The latitude (28°N, about level with southern Florida) and the persistent trade winds give them the gentlest year-round climate in Europe — coastal temperatures bounce between 18°C in January and 25°C in August, with almost no rain on the south coasts of the big islands. That consistency, combined with cheap charter flights from northern Europe, has made the Canaries the continent's winter-sun destination of choice; more than twelve million visitors arrive each year.

@@ -4,6 +4,9 @@ image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam,_Vondelpark,_at_the_pond-2.jpg
 latitude: 52.352
 longitude: 4.878
+tags:
+- things_to_do
+- neighbourhood
 title: Oud-Zuid
 type: neighbourhood
 ---

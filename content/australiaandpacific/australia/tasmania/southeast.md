@@ -12,6 +12,10 @@ snippet: Tasmanian region around Hobart, spanning convict ruins, sheltered chann
   rainforest, and the Tasman Peninsula
 title: Southeast Tasmania
 type: location
+image: southeast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Derwent_Valley_(22645573102).jpg
+image_license: CC BY 2.0
+image_attribution: eGuide Travel
 ---
 
 Southeast Tasmania radiates outward from Hobart, the state capital, into some of the most varied landscape in Australia. Within a couple of hours' drive you can reach temperate rainforest, convict ruins, sheltered waterways, and wild ocean coastline. Everything here works as a day trip from the city, though several spots reward a longer stay.

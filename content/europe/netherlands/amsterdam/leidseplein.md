@@ -4,6 +4,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Stadsschouwburg%2C_Amsterdam_2335.jpg
 latitude: 52.364
 longitude: 4.8828
+tags:
+- things_to_do
+- neighbourhood
 title: Leidseplein
 type: neighbourhood
 ---

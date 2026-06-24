@@ -1,7 +1,6 @@
 ---
 address: 62 Russell Street, Sheffield S3 8RW
 latitude: 53.3882
-loc_type: feature
 longitude: -1.4722
 snippet: Multi-award-winning real ale pub in the Kelham Island quarter
 tags:
@@ -9,6 +8,7 @@ tags:
 - bar
 - kelham_island
 title: Kelham Island Tavern
+type: poi
 ---
 
 One of the most decorated real-ale pubs in England — twice winner of CAMRA's National Pub of the Year — and the place that put Kelham Island on the beer-tourism map. The bar holds a constantly rotating selection of 13 cask ales, including unusual milds and porters that you struggle to find anywhere else, alongside a strong list of Belgian and German bottles.

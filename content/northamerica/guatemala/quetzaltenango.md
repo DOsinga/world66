@@ -9,7 +9,7 @@ title: Quetzaltenango
 type: location
 ---
 
-Quetzaltenango — universally known as Xela, from its Mayan name Xelajú — is Guatemala's second city and feels like it. Where [Antigua](/northamerica/guatemala/antigua) is polished and heavily touristed, Xela is working and real, with a large indigenous Mayan population, busy markets, and a pace set by its residents rather than its visitors.
+Quetzaltenango — universally known as Xela, from its Mayan name Xelajú — is Guatemala's second city and feels like it. Where [Antigua](/northamerica/guatemala/antiguaguatemala) is polished and heavily touristed, Xela is working and real, with a large indigenous Mayan population, busy markets, and a pace set by its residents rather than its visitors.
 
 The city sits in a highland valley at around 2,300 metres, surrounded by volcanoes including Santa María, which loomed over the 1902 eruption that devastated the region. The colonial centro historico is built around the Parque Central America, dominated by the Municipalidad with its neoclassical facade. Spanish language schools have operated here since the 1970s, drawing students who prefer a less tourist-heavy environment than Antigua, and the schools have brought an international layer to the cafes and restaurants around the centre.
 

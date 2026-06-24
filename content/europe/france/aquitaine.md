@@ -1,12 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-15'
+latitude: 45.42859
 loc_type: region
+longitude: -0.66636
 score: 0.7
 snippet: Southwest French region of Bordeaux wine, Atlantic dunes, Cognac houses,
   and Basque foothills
 title: Bordeaux and the Atlantic Coast
 type: location
+image: aquitaine.jpg
+image_source: https://commons.wikimedia.org/wiki/File:1_Saint-%C3%89milion_aerial_pano_2016.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chensiyuan
 ---
 
 [Bordeaux](/europe/france/aquitaine/bordeaux) is the undisputed capital of this region, a grand 18th-century port city built on wine money and recently transformed by an ambitious urban renewal that cleaned its limestone facades and added a stunning riverside promenade. The surrounding vineyards -- Saint-Emilion, Medoc, Graves, Pauillac -- produce some of the most celebrated wines in the world, and visiting the chateaux is easy as a day trip or a week-long obsession. Further north, [Cognac](/europe/france/aquitaine/cognac) does the same for brandy, with centuries-old distilleries open for tours along the Charente river.

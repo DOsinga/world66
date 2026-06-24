@@ -2,7 +2,7 @@
 title: "Day Trips"
 type: section
 linked_locations:
-  - northamerica/unitedstates/california/centralcoast/monterey/bigsur
+  - northamerica/unitedstates/california/centralcoast/bigsur
   - northamerica/unitedstates/california/carmel
 ---
 

@@ -1,14 +1,15 @@
 ---
-title: "Rathaus (Town Hall)"
-type: poi
 latitude: 47.3714
 longitude: 8.5425
-tags:
-  - things_to_do
-  - sight
-  - architecture
-snippet: "Late Renaissance town hall standing on stilts over the river"
 score: 7.4
+snippet: Late Renaissance town hall standing on stilts over the river
+tags:
+- things_to_do
+- niederdorf
+- sight
+- architecture
+title: Rathaus (Town Hall)
+type: poi
 ---
 
 Zurich's town hall — the Rathaus — sits on a small artificial island in the Limmat, built so that the building stands literally on stilts over the river. Constructed in 1694–98 in a restrained late Renaissance style, it has been the meeting place of both the city council and the cantonal parliament ever since (the canton sits to the right of the entrance, the city to the left).

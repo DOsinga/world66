@@ -5,7 +5,7 @@ image: bornholmisland.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Wybrze%C5%BCe_Bornholmu.JPG
 latitude: 55.1431
-loc_type: region
+loc_type: feature
 longitude: 14.9226
 score: 0.59
 title: Bornholm Island

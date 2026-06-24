@@ -1,13 +1,13 @@
 ---
 address: Calea Victoriei 13, Bucharest
 latitude: 44.4318
-loc_type: feature
 longitude: 26.0985
 snippet: Belle Epoque banking palace with an enormous glass dome
 tags:
 - things_to_do
 - architecture
 title: CEC Palace
+type: poi
 ---
 
 A grand French-Renaissance bank palace finished in 1900 by the architect Paul Gottereau, sitting on a corner of Calea Victoriei opposite the National History Museum. The four-storey façade is theatrical — caryatids, allegorical statues of industry and trade, and a triumphal entrance arch — and the central glass-and-iron dome is the largest of its kind in the city.

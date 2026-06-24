@@ -3,11 +3,16 @@ done:
   location_cleanup: '2026-04-16'
 latitude: 46.0
 loc_type: region
-snippet: Autonomous northeastern Italian region where Alpine, Adriatic, Slovenian, Austrian, and Friulian influences meet.
+snippet: Autonomous northeastern Italian region where Alpine, Adriatic, Slovenian,
+  Austrian, and Friulian influences meet.
 longitude: 13.2
 score: 0.6
 title: Friuli Venezia Giulia
 type: location
+image: friuliveneziagiulia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cividale_Panorama_(24645109410).jpg
+image_license: CC BY 2.0
+image_attribution: Bernd Thaller from Graz, Austria
 ---
 
 Friuli Venezia Giulia is Italy's north-eastern corner, wedged between the Alps, the Adriatic, Slovenia, and Austria. It is one of the country's five special autonomous regions, and its identity is genuinely distinct — part Italian, part Central European, shaped by centuries of Habsburg rule and a mix of Italian, Slovenian, and Friulian languages still spoken today.

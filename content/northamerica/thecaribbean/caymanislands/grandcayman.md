@@ -7,7 +7,12 @@ longitude: -81.2546
 score: 0.68
 title: Grand Cayman
 type: location
-snippet: Cayman Islands beach island where Seven Mile Beach and western-shore diving define the visitor scene.
+snippet: Cayman Islands beach island where Seven Mile Beach and western-shore diving
+  define the visitor scene.
+image: grandcayman.jpg
+image_source: https://commons.wikimedia.org/wiki/File:East_End_Blow_Hole.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Lhb1239
 ---
 
 Grand Cayman is the largest of the three Cayman Islands and handles the vast majority of visitors. The capital, George Town, sits on the western shore. Seven Mile Beach stretches north from the capital — this is where most hotels, restaurants, and tourist activity is concentrated. The eastern side of the island is quieter, more residential, and largely overlooked by visitors in a hurry.

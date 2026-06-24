@@ -1,0 +1,5 @@
+europe/slovakia/kosice/kosice_zoo
+europe/slovakia/kosice/museum_of_aviation
+europe/spain/galicia/ferrol
+europe/unitedkingdom/scotland/edinburgh/newtown_1
+northamerica/canada/novascotia/mahone_bay

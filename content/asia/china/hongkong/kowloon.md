@@ -2,9 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
+image: kowloon.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Kowloon_Waterfront,_Hong_Kong,_2013-08-09,_DD_05.jpg
 latitude: 22.304925
 longitude: 114.1616
 score: 0.7
+tags:
+- things_to_do
+- neighbourhood
 title: Kowloon
 type: neighbourhood
 ---

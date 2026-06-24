@@ -4,6 +4,9 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Brug_24_in_de_Hartenstraat_over_de_Herengracht_foto_2.jpg
 latitude: 52.37
 longitude: 4.8858
+tags:
+- things_to_do
+- neighbourhood
 title: Negen Straatjes
 type: neighbourhood
 ---

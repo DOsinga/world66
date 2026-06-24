@@ -1,5 +1,5 @@
 europe/austria/ossiachersee
-europe/austria/salzkammergut
+australiaandpacific/newzealand/marahau
 europe/azerbaijan/lenkoran
 europe/azerbaijan/yardimli
 europe/belarus/mogilev

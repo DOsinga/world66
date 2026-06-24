@@ -1,13 +1,13 @@
 ---
 address: Strada Vasile Alecsandri 16, Bucharest
 latitude: 44.4516
-loc_type: feature
 longitude: 26.0908
 snippet: Three generations of the Storck sculptor family in their own house
 tags:
 - things_to_do
 - museum
 title: Frederic and Cecilia Storck Museum
+type: poi
 ---
 
 A small, evocative museum in the house and studio of the Storck family — three generations of important Romanian sculptors. Frederic Storck (1872-1942) was one of the founders of Romanian modern sculpture; his wife Cecilia Cuțescu-Storck was the country's first female academic of painting; and their son Carol continued the family trade.

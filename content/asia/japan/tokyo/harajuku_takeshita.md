@@ -1,5 +1,9 @@
 ---
 address: Takeshita Street, Jingumae, Shibuya, Tokyo
+image: harajuku_takeshita.jpg
+image_attribution: Joe Mabel on Flickr as Joe Mabel from Seattle, US
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Harajuku_-_Takeshita_Street_20_(15119969724).jpg
 latitude: 35.670578
 longitude: 139.703467
 snippet: The epicentre of Japanese youth fashion and kawaii culture

@@ -233,6 +233,7 @@
     isExploring = false;
     closeCard();
     mapEl.classList.remove('is-exploring-globe');
+    canvas.style.cursor = '';
     drawGlobe();
     modeBtn.textContent = 'Explore the globe';
     scheduleNext(1400);
@@ -242,8 +243,41 @@
     if (isExploring) exitExploreMode(); else enterExploreMode();
   };
 
+  function canvasPoint(event) {
+    var rect = canvas.getBoundingClientRect();
+    return {
+      x: event.clientX - rect.left,
+      y: event.clientY - rect.top
+    };
+  }
+
+  function destinationAtPoint(x, y) {
+    var best = null;
+    cities.forEach(function(city) {
+      var p = project(city.lng, city.lat);
+      if (!p || !p.visible) return;
+      var dx = p.x - x;
+      var dy = p.y - y;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist <= 12 && (!best || dist < best.dist)) {
+        best = { city: city, dist: dist };
+      }
+    });
+    return best ? best.city : null;
+  }
+
+  function updateCanvasCursor(event) {
+    if (!isExploring || dragState) {
+      canvas.style.cursor = '';
+      return;
+    }
+    var point = canvasPoint(event);
+    canvas.style.cursor = destinationAtPoint(point.x, point.y) ? 'pointer' : 'grab';
+  }
+
   canvas.addEventListener('pointerdown', function(event) {
     if (!isExploring) return;
+    canvas.style.cursor = 'grabbing';
     dragState = {
       pointerId: event.pointerId,
       startX: event.clientX,
@@ -256,7 +290,10 @@
   });
 
   canvas.addEventListener('pointermove', function(event) {
-    if (!dragState || dragState.pointerId !== event.pointerId) return;
+    if (!dragState || dragState.pointerId !== event.pointerId) {
+      updateCanvasCursor(event);
+      return;
+    }
     var dx = event.clientX - dragState.lastX;
     var dy = event.clientY - dragState.lastY;
     var totalDx = event.clientX - dragState.startX;
@@ -279,32 +316,24 @@
     if (!dragState || dragState.pointerId !== event.pointerId) return;
     canvas.releasePointerCapture(event.pointerId);
     dragState = null;
+    updateCanvasCursor(event);
     setTimeout(function() { suppressNextClick = false; }, 0);
   }
 
   canvas.addEventListener('pointerup', endDrag);
   canvas.addEventListener('pointercancel', endDrag);
+  canvas.addEventListener('pointerleave', function() {
+    if (!dragState) canvas.style.cursor = '';
+  });
 
   canvas.addEventListener('click', function(event) {
     if (!isExploring) return;
     if (suppressNextClick) return;
-    var rect = canvas.getBoundingClientRect();
-    var x = event.clientX - rect.left;
-    var y = event.clientY - rect.top;
-    var best = null;
-    cities.forEach(function(city) {
-      var p = project(city.lng, city.lat);
-      if (!p || !p.visible) return;
-      var dx = p.x - x;
-      var dy = p.y - y;
-      var dist = Math.sqrt(dx * dx + dy * dy);
-      if (dist <= 12 && (!best || dist < best.dist)) {
-        best = { city: city, dist: dist };
-      }
-    });
-    if (!best) return;
-    setGlobeRotation(best.city, 420);
-    openCard(best.city);
+    var point = canvasPoint(event);
+    var city = destinationAtPoint(point.x, point.y);
+    if (!city) return;
+    setGlobeRotation(city, 420);
+    openCard(city);
   });
 
   var cycleCities = cities.slice();

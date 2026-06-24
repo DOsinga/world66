@@ -485,10 +485,6 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
     for loc in locations:
         add(_marker_from_page(loc))
 
-    for nav in nav_pages:
-        if nav.page_type == "neighbourhood":
-            add(_marker_from_page(nav))
-
     page_is_sight = page.slug in _SIGHT_SLUGS
     for poi in pois:
         poi_tags = set(poi.meta.get("tags") or [])

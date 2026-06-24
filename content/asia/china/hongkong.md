@@ -10,7 +10,7 @@ image_attribution: Benh LIEU SONG (Flickr)
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg
 latitude: 22.3193
-loc_type: country
+loc_type: city
 longitude: 114.1694
 score: 0.73
 snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong

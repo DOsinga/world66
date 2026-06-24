@@ -4,14 +4,15 @@ latitude: 35.64686
 longitude: 139.713154
 opening_hours: Daily 11am–11pm (hours vary by branch)
 price_range: ¥1,100–1,600
+score: 6.9
 snippet: Yuzu shio ramen — Tokyo's most elegant bowl, light and citrus-bright
 tags:
 - eating_out
 - restaurant
+- ebisu
 title: AFURI
 type: poi
 url: www.afuri.com
-score: 6.9
 ---
 
 AFURI's yuzu shio (salt and yuzu citrus) ramen is one of the most distinctive bowls in Tokyo — a clear chicken broth infused with the fragrance of yuzu, topped with sliced chicken breast, a half-cured egg, and a sheet of nori. Everything about it is delicate rather than assertive. It is the opposite of tonkotsu in every way.

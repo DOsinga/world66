@@ -3,15 +3,16 @@ address: 1-1 Chiyoda, Chiyoda, Tokyo
 admission: Free (east gardens); palace grounds by advance reservation only
 latitude: 35.685175
 longitude: 139.753442
-opening_hours: "East Garden: Tue–Sun 9am–4pm; closed Mon and palace-designated days"
+opening_hours: 'East Garden: Tue–Sun 9am–4pm; closed Mon and palace-designated days'
+score: 8.5
 snippet: The emperor's residence, surrounded by moats and ancient pine gardens
 tags:
 - things_to_do
 - sight
 - architecture
+- marunouchi
 title: Imperial Palace and East Garden
 type: poi
-score: 8.5
 ---
 
 The Imperial Palace occupies the site of Edo Castle, which was the seat of the Tokugawa shogunate from 1603 to 1868. The palace buildings themselves are closed except on two public days a year, but the East Garden (Higashi Gyoen) is open to visitors and is one of the most beautiful formal gardens in Tokyo — ancient pines, traditional stone lanterns, reconstructed guardhouses, and the remains of the original castle foundations.

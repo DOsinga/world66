@@ -11,6 +11,10 @@ snippet: Shikoku gateway city known for Ritsurin-koen garden, sanuki udon, and f
   across the Seto Inland Sea.
 title: Takamatsu
 type: location
+image: takamatsu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hanazyukai20220729_7a.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dokudami
 ---
 
 Takamatsu is the gateway to Shikoku — the island most visitors reach by rail across the Seto-ohashi Bridge from Okayama. It is the largest city in Kagawa Prefecture and a modern, comfortable base for exploring the island's more remote corners. Largely rebuilt after being flattened by wartime bombing, it lacks old-city atmosphere, but compensates with Japan's finest strolling garden, an abundance of excellent udon, and easy ferry connections to the islands of the Seto Inland Sea.

@@ -6,8 +6,13 @@ loc_type: region
 longitude: 7.23402
 score: 0.55
 title: Frisian Islands
-snippet: North Sea island chain off Lower Saxony, known for car-free villages, spas, and Wadden landscapes.
+snippet: North Sea island chain off Lower Saxony, known for car-free villages, spas,
+  and Wadden landscapes.
 type: location
+image: frisianislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Baltrum_and_Langeoog,_Germany.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dicklyon
 ---
 
 The East Frisian Islands lie before the North Sea coast like a string of pearls, attracting thousands of visitors every year. They consist of seven islands: Borkum, Juist, Norderney, Baltrum, Langeoog, Spiekeroog and Wangerooge.

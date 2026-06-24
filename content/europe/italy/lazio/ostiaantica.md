@@ -7,7 +7,12 @@ title: Ostia Antica
 type: location
 score: 0.55
 loc_type: feature
-snippet: Ancient Roman harbour site near Rome, preserved as an extensive archaeological day trip.
+snippet: Ancient Roman harbour site near Rome, preserved as an extensive archaeological
+  day trip.
+image: ostiaantica.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Area_archeologica_di_Ostia_Antica_-_panoramio_(52).jpg
+image_license: CC BY 3.0
+image_attribution: Mister No
 ---
 
 Ostia Antica is the old harbour of the Romans, and visiting it is like visiting Tivoli and Hadrian's Villa: a relaxing day trip that takes you away from the noise and sirens of [Rome](/europe/italy/lazio/rome). Reserve a whole day — not just to relax, but because Ostia deserves it.

@@ -3,6 +3,7 @@ latitude: 21.0287
 longitude: 105.8524
 tags:
 - things_to_do
+- old_quarter
 - landmark
 snippet: "Hanoi's social heart with lakeside temple and sword legend"
 title: Hoan Kiem Lake

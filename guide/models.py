@@ -630,6 +630,7 @@ _CITY_SCORE_THRESHOLDS = {
     "europe": 0.65,
 }
 _COUNTRY_FEATURED_FALLBACK_THRESHOLD = 0.50
+_COUNTRY_POI_FEATURED_FALLBACK_THRESHOLD = 9.0
 
 
 @lru_cache(maxsize=1)
@@ -643,6 +644,7 @@ def load_featured_cities():
     """Return featured location pages at city level, with at least one strong entry per country."""
     result = []
     country_best = {}
+    country_best_poi = {}
     represented_countries = set()
 
     def _city_candidate(city_file, cont_name, country_name, state_name=None):
@@ -707,12 +709,43 @@ def load_featured_cities():
             "score": score,
         }
 
+    def _top_poi_score(city_file):
+        top_score = 0
+        sub = city_file.parent / city_file.stem
+        if not sub.is_dir():
+            return top_score
+        for child in sorted(sub.iterdir()):
+            if not child.is_file() or child.suffix != ".md":
+                continue
+            child_r = _load_md(child)
+            if not child_r or child_r[0].get("type") != "poi":
+                continue
+            try:
+                score = float(child_r[0].get("score", 0) or 0)
+            except (TypeError, ValueError):
+                score = 0
+            top_score = max(top_score, score)
+        return top_score
+
     def _try_city(city_file, cont_name, country_name, state_name=None):
         candidate = _city_candidate(city_file, cont_name, country_name, state_name)
         if not candidate:
             return
         country_key = (cont_name, country_name)
         score = candidate["score"]
+        top_poi_score = _top_poi_score(city_file)
+        if top_poi_score >= _COUNTRY_POI_FEATURED_FALLBACK_THRESHOLD:
+            current = country_best_poi.get(country_key)
+            if (
+                not current
+                or top_poi_score > current["top_poi_score"]
+                or (
+                    top_poi_score == current["top_poi_score"]
+                    and score > current["score"]
+                )
+            ):
+                candidate["top_poi_score"] = top_poi_score
+                country_best_poi[country_key] = candidate
         if score >= _COUNTRY_FEATURED_FALLBACK_THRESHOLD:
             current = country_best.get(country_key)
             if not current or score > current["score"]:
@@ -737,8 +770,17 @@ def load_featured_cities():
                     for city_file in sorted(entry.iterdir()):
                         if city_file.is_file() and city_file.suffix == ".md":
                             _try_city(city_file, cont_dir.name, country_dir.name, entry.name)
+    country_fallbacks = {
+        **country_best,
+        **country_best_poi,
+    }
     for country_key, candidate in sorted(
-        country_best.items(), key=lambda item: (-item[1]["score"], item[0])
+        country_fallbacks.items(),
+        key=lambda item: (
+            -item[1].get("top_poi_score", 0),
+            -item[1]["score"],
+            item[0],
+        ),
     ):
         if country_key not in represented_countries:
             result.append(candidate)

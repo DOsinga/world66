@@ -6,7 +6,7 @@ score: 8.7
 snippet: Ridgeline hike with sweeping South China Sea views
 tags:
 - things_to_do
-- hongkongisland
+- stanley
 title: Dragon's Back Trail
 type: poi
 ---

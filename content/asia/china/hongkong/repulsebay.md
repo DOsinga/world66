@@ -4,8 +4,9 @@ longitude: 114.1963
 score: 6.8
 snippet: Hong Kong Island's most popular and accessible beach
 tags:
+- things_to_do
 - beaches
-- hongkongisland
+- stanley
 title: Repulse Bay
 type: poi
 ---

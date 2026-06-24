@@ -8,7 +8,7 @@ snippet: Hong Kong Island's 552m summit with spectacular harbour views
 tags:
 - things_to_do
 - sight
-- hongkongisland
+- central
 title: Victoria Peak
 type: poi
 ---

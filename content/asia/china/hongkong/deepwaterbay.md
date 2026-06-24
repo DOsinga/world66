@@ -6,8 +6,9 @@ longitude: 114.187541
 score: 6.8
 snippet: Quiet beach flanked by mansions and flame trees, with a path to Repulse Bay
 tags:
+- things_to_do
 - beaches
-- hongkongisland
+- stanley
 title: Deep Water Bay
 type: poi
 ---

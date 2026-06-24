@@ -9,7 +9,7 @@ snippet: Theme park and marine attraction sprawling above the South China Sea
 tags:
 - things_to_do
 - family
-- hongkongisland
+- stanley
 title: Ocean Park
 type: poi
 url: www.oceanpark.com.hk

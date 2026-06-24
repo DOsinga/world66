@@ -27,7 +27,6 @@ The main sight on the island is the Venetian fortress. It situated in the place 
 
 ## Destinations in Zakinthos
 
-[Agios sostis/lithakia](/europe/greece/zakinthos/agiossostislithakia)
 [Zakynthos City](/europe/greece/zakinthos/zakynthoscity)
 [Tsilivi](/europe/greece/zakinthos/tsilivi)
 [Argassi](/europe/greece/zakinthos/argassi)

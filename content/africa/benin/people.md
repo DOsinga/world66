@@ -9,7 +9,7 @@ The **Fon** are the largest group, concentrated in the south and central regions
 
 The **Yoruba** live mainly in the southeast, around [Porto Novo](/africa/benin/portonovo) and along the Nigerian border. They share deep cultural ties with the Yoruba of Nigeria and maintain their own religious traditions alongside Islam and Christianity. The **Bariba** and **Dendi** peoples dominate the north, with a more Sahelian character -- Islam is the main religion, architecture shifts to mud-brick compounds, and the pace of life feels distinctly different from the south.
 
-In the Atakora mountains, the **Somba** (Betammaribe) people live in their remarkable tata compounds and maintain traditions that have resisted outside influence more than most. Visiting the [Somba villages](/africa/benin/sombavillages) around Natitingou is one of the most memorable experiences in the country.
+In the Atakora mountains, the **Somba** (Betammaribe) people live in their remarkable tata compounds and maintain traditions that have resisted outside influence more than most. Visiting the Somba villages around Natitingou is one of the most memorable experiences in the country.
 
 Beninois are generally warm and welcoming to travelers, though the warmth tends to be more reserved than in some other West African countries. Greetings matter enormously -- always greet people before launching into a question or request. A handshake with the right hand is standard. In Muslim areas of the north, touching your right hand to your heart after shaking hands is a common courtesy.
 

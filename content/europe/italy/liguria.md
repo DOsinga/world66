@@ -9,6 +9,10 @@ snippet: Narrow Italian Riviera region where mountains rise sharply behind Genoa
   fishing towns, and hidden valleys.
 title: Liguria
 type: location
+image: liguria.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cervo_Altstadt_20090902.jpg
+image_license: Attribution
+image_attribution: Rudolf Stricker
 ---
 
 Liguria is a thin crescent of land pressed between the Apennine mountains and the Ligurian Sea — barely 100km from end to end, but packed with more variety than regions ten times its size. The Italian Riviera runs along the entire coast, but Liguria is not just coastline. The mountains rise steeply from the shore, hiding medieval villages, ancient pilgrimage routes, and a network of valleys that most tourists never reach.

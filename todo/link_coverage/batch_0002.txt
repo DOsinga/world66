@@ -2,4 +2,4 @@ africa/benin/nationalparks
 africa/benin/pendjari
 africa/benin/sombavillages
 africa/botswana/chobe
-africa/botswana/chobenationalpark
+africa/guineeconakry/nzerekore/diecke_forest

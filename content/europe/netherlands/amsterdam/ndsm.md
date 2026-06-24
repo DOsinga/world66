@@ -1,11 +1,14 @@
 ---
-title: "NDSM"
-type: neighbourhood
+image: ndsm.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:NDSM%20werf%20Amsterdam%20%2815411760015%29.jpg
 latitude: 52.4024
 longitude: 4.8988
-image: ndsm.jpg
-image_source: "https://commons.wikimedia.org/wiki/File:NDSM%20werf%20Amsterdam%20%2815411760015%29.jpg"
-image_license: "CC BY 2.0"
+tags:
+- things_to_do
+- neighbourhood
+title: NDSM
+type: neighbourhood
 ---
 
 NDSM takes its name from the Nederlandsche Dok en Scheepsbouw Maatschappij — the shipbuilding company that operated this vast dry dock on Amsterdam's north bank until the 1980s. When the shipyard closed, the site sat derelict for years before artists and squatters moved in. The city eventually formalised the occupation, and what emerged is one of Europe's most convincing examples of industrial regeneration: a creative quarter that has retained the scale and roughness of the original without being sanitised into a theme park.

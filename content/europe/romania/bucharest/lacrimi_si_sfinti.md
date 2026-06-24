@@ -1,7 +1,6 @@
 ---
 address: Strada Șepcari 16, Bucharest
 latitude: 44.4321
-loc_type: feature
 longitude: 26.1018
 snippet: Modern Romanian cuisine in a stripped-back Old Centre interior
 tags:
@@ -9,6 +8,7 @@ tags:
 - restaurant
 - old_centre
 title: Lacrimi și Sfinți
+type: poi
 ---
 
 A self-consciously avant-garde Romanian restaurant in the Old Centre, named after a 1942 essay by the philosopher Emil Cioran. The interior is whitewashed and bare — exposed beams, wooden planks, a single oil painting — and the menu is short and seasonal, focused on Romanian peasant ingredients given modern dressing.

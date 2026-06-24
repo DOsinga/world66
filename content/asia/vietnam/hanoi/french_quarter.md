@@ -1,11 +1,16 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: french_quarter.jpg
+image_attribution: thalling55
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:French_Quarter,_Hanoi_(1346056681).jpg
 latitude: 21.0245
 longitude: 105.8562
 snippet: Colonial boulevards south of Hoan Kiem Lake with Opera House and cafes
 tags:
 - things_to_do
+- neighbourhood
 title: French Quarter
 type: neighbourhood
 ---

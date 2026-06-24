@@ -1,6 +1,0 @@
-europe/netherlands/amsterdam
-asia/japan/tokyo
-asia/china/hongkong
-europe/switzerland/zurich
-europe/poland/warsaw
-asia/vietnam/hanoi

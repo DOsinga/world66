@@ -1,5 +1,5 @@
-europe/portugal/tomar
+europe/denmark/copenhagen/harbourfront
 europe/russia/izborsk
 europe/russia/tver
 europe/serbiaandmontenegro/tivat
-europe/slovakia/kosice
+europe/denmark/copenhagen/stroget

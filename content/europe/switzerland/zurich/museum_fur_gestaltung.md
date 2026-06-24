@@ -1,13 +1,15 @@
 ---
-title: "Museum für Gestaltung"
-type: poi
 latitude: 47.3858
 longitude: 8.5305
-tags:
-  - things_to_do
-  - museum
-snippet: "Switzerland's leading design and applied arts museum, with two sites in the city"
 score: 7.5
+snippet: Switzerland's leading design and applied arts museum, with two sites in the
+  city
+tags:
+- things_to_do
+- zurich_west
+- museum
+title: Museum für Gestaltung
+type: poi
 ---
 
 The Museum für Gestaltung is Switzerland's design museum, with a deep collection covering graphic design, poster art, applied art, and Swiss industrial design — chairs by the Vitra family, Helvetica typography in original drawings, watches by the kilo. It operates from two sites: the original Toni Areal building in Kreis 5 (large temporary exhibitions and the collections highlights gallery) and the smaller former Schule für Gestaltung building near Limmatplatz.

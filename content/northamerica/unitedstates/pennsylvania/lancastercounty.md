@@ -9,6 +9,10 @@ snippet: Pennsylvania Dutch county of Amish and Mennonite farmland, historic mar
   covered bridges, and small towns.
 title: Lancaster County
 type: location
+image: lancastercounty.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amish_farmer_and_his_team_of_draft_horses_16027v.jpg
+image_license: Public domain
+image_attribution: Unknown
 ---
 
 Lancaster County is the heart of Pennsylvania Dutch country, where Amish and Mennonite communities have farmed the rolling countryside since the 18th century. Horse-drawn buggies share the roads with cars, and roadside stands sell fresh-baked shoofly pie, whoopie pies, and locally grown produce.

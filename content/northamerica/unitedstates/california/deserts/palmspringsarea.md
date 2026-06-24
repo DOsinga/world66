@@ -9,6 +9,10 @@ snippet: Coachella Valley desert region of mid-century architecture, golf course
   palm oases, and San Jacinto mountain views.
 title: Palm Springs Area
 type: location
+image: palmspringsarea.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Koerner_House_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Farragutful
 ---
 
 The Palm Springs area stretches across the Coachella Valley at the base of the San Jacinto Mountains — a string of desert cities including Palm Springs, Palm Desert, Cathedral City, Indian Wells, La Quinta, and Rancho Mirage. Golf courses, mid-century modern architecture, and year-round sunshine are the main draws.

@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- asia/japan/yakushima
+title: Day Trips
 type: section
 ---
 

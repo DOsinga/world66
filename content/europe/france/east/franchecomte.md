@@ -6,8 +6,13 @@ loc_type: region
 longitude: 6.132022
 score: 0.54
 title: Franche-Comté
-snippet: Eastern French region of forested hills, Jura borderlands, navigable rivers, lakes, and Comté cheese
+snippet: Eastern French region of forested hills, Jura borderlands, navigable rivers,
+  lakes, and Comté cheese
 type: location
+image: franchecomte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Belvoir,_le_ch%C3%A2teau.jpg
+image_license: CC BY-SA 4.0
+image_attribution: JGS25
 ---
 
 Franche-Comté is a region tucked between [Alsace](/europe/france/east/alsace), [Burgundy](/europe/france/east/burgundy) and [Switzerland](/europe/switzerland), and it borrows a little from each: the mountain character of the Swiss border, the rolling vineyards of Burgundy, and the forested quietness of Alsace. It is one of France's least-visited regions, which is precisely why it is worth visiting.

@@ -8,6 +8,8 @@ image_attribution: Nigel Pacquette
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:El_Capitolio_Havana_Cuba.jpg
 loc_type: city
+latitude: 23.113592
+longitude: -82.366592
 score: 0.67
 snippet: Cuban capital of colonial plazas and mid-century architecture, centred on
   UNESCO-listed Old Havana.

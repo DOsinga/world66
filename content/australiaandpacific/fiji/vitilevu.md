@@ -9,6 +9,10 @@ snippet: Fiji's largest island, linking Nadi, Suva, rainforest highlands, sugarc
   country, and the Coral Coast
 title: Viti Levu
 type: location
+image: vitilevu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Korotogo.jpg
+image_license: CC BY-SA 3.0
+image_attribution: User:Doron
 ---
 
 Viti Levu is the largest island in Fiji and the one most visitors see. The international airport sits on the west coast at [Nadi](/australiaandpacific/fiji/vitilevu/nadi), and the capital [Suva](/australiaandpacific/fiji/vitilevu/suva) is on the wetter east side. In between you get the full range of Fijian landscapes — lush rainforest interior, coral reefs, sugarcane plantations, and the famous [Coral Coast](/australiaandpacific/fiji/vitilevu/coral_coast) strip of beach resorts along the southern shore.

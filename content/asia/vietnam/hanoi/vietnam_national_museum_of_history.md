@@ -1,13 +1,14 @@
 ---
-title: "Vietnam National Museum of History"
-type: poi
-tags:
-  - things_to_do
-  - museum
 latitude: 21.02472
 longitude: 105.85972
-snippet: "Comprehensive Vietnamese history museum in a beautiful colonial building"
 score: 8.7
+snippet: Comprehensive Vietnamese history museum in a beautiful colonial building
+tags:
+- things_to_do
+- french_quarter
+- museum
+title: Vietnam National Museum of History
+type: poi
 ---
 
 The Vietnam National Museum of History occupies two buildings on Trang Tien Street in the French Quarter — the older of the two is a 1932 colonial building designed in the "Indochinese style" that blended French Beaux-Arts structure with Vietnamese decorative motifs, a rare attempt by the colonial administration to synthesize the two cultures architecturally. The collection spans from the Dong Son bronze culture of 3,000 years ago through the successive Vietnamese dynasties, the Cham civilization of central Vietnam, and on to the French period and reunification.

@@ -1,14 +1,19 @@
 ---
-title: "Praga District"
-type: neighbourhood
-tags:
-  - things_to_do
-  - neighbourhood
+image: praga_district.jpg
+image_attribution: Giuseppe Milo
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Praga_District_Warsaw_Poland_Color_Street_Photography_(110530947).jpeg
 latitude: 52.2532
-longitude: 21.0530
-snippet: "Warsaw's most authentic neighbourhood, on the east bank of the Vistula — survived the war and is now the city's creative hub"
+longitude: 21.053
+snippet: Warsaw's most authentic neighbourhood, on the east bank of the Vistula —
+  survived the war and is now the city's creative hub
 sources:
-  - https://en.wikipedia.org/wiki/Praga,_Warsaw
+- https://en.wikipedia.org/wiki/Praga,_Warsaw
+tags:
+- things_to_do
+- neighbourhood
+title: Praga District
+type: neighbourhood
 ---
 
 Praga is the part of Warsaw that wasn't destroyed. While German forces methodically demolished the west bank of the city in 1944, Praga on the east bank was taken quickly by Soviet forces and survived largely intact. This means its streets retain the pre-war tenement buildings, courtyards, and scale that nowhere else in Warsaw has — worn, lived-in, and genuine.

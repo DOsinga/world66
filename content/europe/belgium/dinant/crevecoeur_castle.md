@@ -1,13 +1,13 @@
 ---
 address: Bouvignes-sur-Meuse, 5500 Dinant
-latitude: 50.2730
-loc_type: feature
-longitude: 4.8960
+latitude: 50.273
+longitude: 4.896
 snippet: Ruined medieval castle on the hill above Bouvignes
 tags:
 - things_to_do
 - sight
 title: Crèvecœur Castle
+type: poi
 ---
 
 A ruined medieval castle on the limestone bluff above Bouvignes, built in the 14th century by the Counts of Namur to guard the Meuse. The name — "heartbreak" in French — supposedly comes from the despair of the inhabitants after the castle was definitively destroyed by Henri II of France in 1554.

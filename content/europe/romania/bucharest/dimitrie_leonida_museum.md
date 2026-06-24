@@ -1,13 +1,13 @@
 ---
 address: Strada Candiano Popescu 2, Bucharest
 latitude: 44.4159
-loc_type: feature
 longitude: 26.0982
 snippet: Retro-futurist museum of Romanian engineering
 tags:
 - things_to_do
 - museum
 title: Dimitrie Leonida Technical Museum
+type: poi
 ---
 
 A delightfully dusty technical museum at the southern edge of Carol Park, named after the engineer who founded the first Romanian polytechnic school. The collection covers Romanian engineering history — early steam engines, telegraphy, radio, electrical machinery, Romanian-built cars, an entire submarine cut in half — and the displays themselves, mostly unchanged since the Communist era, give the whole place an unintentional retrofuturist atmosphere.

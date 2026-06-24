@@ -6,8 +6,13 @@ loc_type: region
 longitude: 74.893065
 score: 0.54
 title: Karakoram Highway
-snippet: "Mountain highway linking Pakistan and Kashgar across the Khunjerab Pass, following old Silk Road routes through the Karakoram."
+snippet: Mountain highway linking Pakistan and Kashgar across the Khunjerab Pass,
+  following old Silk Road routes through the Karakoram.
 type: location
+image: karakoram_highway.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Karakorum-carretera-d08.jpg
+image_license: CC BY-SA 2.5 es
+image_attribution: Colegota
 ---
 
 Travel Guide

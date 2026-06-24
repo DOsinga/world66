@@ -1,10 +1,14 @@
 ---
+image: stanley.jpg
+image_attribution: Yinan Chen
+image_license: Public Domain
+image_source: https://commons.wikimedia.org/wiki/File:Gfp-china-hong-kong-sea-and-shore-at-stanley-market.jpg
 latitude: 22.2188
 longitude: 114.2092
 snippet: Former fishing village with market, seafood, and colonial waterfront
 tags:
-- hongkongisland
 - things_to_do
+- neighbourhood
 title: Stanley
 type: neighbourhood
 ---

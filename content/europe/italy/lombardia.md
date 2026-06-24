@@ -10,6 +10,10 @@ snippet: Northern Italian region of Milan, Alpine lakes, and Po Valley cities sh
   by art and industry.
 title: Lombardia
 type: location
+image: lombardia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2014-01-01-Pavia_Certosa.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Blackcat
 ---
 
 Lombardia is Italy's economic engine and its most populous region — yet it contains some of the country's most beautiful landscapes. The Alps form its northern edge, dropping through foothills and lake districts before flattening into the broad Po Valley. Within a couple of hours you can go from Milan's fashion boutiques to mountain villages that haven't changed much in a century.

@@ -4,6 +4,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Dam_Square_2024.jpg
 latitude: 52.373
 longitude: 4.893
+tags:
+- things_to_do
+- neighbourhood
 title: Centrum
 type: neighbourhood
 ---

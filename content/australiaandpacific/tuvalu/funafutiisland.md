@@ -1,6 +1,6 @@
 ---
 done:
-  link_coverage: '2026-06-08'
+  link_coverage: '2026-06-22'
 image: funafutiisland.jpg
 image_attribution: Davidarfonjones
 image_license: CC BY-SA 3.0

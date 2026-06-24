@@ -10,6 +10,10 @@ snippet: French-speaking Canadian province of St. Lawrence cities, Laurentian fo
   Gaspé shores, and northern shield country.
 title: Québec
 type: location
+image: quebec.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Basilique_Sainte-Anne-de-Beaupr%C3%A9_12.jpg
+image_license: CC BY 4.0
+image_attribution: Hayden Soloviev
 ---
 
 Québec is the largest province in Canada by area and the only one with a French-speaking majority. About 8.5 million people live here, most of them along the St. Lawrence River valley between [Montréal](/northamerica/canada/quebec/montreal) and [Québec City](/northamerica/canada/quebec/quebeccity). Beyond that corridor, the province is enormous, remote and wild — the Laurentians to the north, the forested Laurentide plateau, the Saguenay Fjord, the Gaspé Peninsula jutting into the Gulf of St. Lawrence, and the vast subarctic expanse of the Canadian Shield.

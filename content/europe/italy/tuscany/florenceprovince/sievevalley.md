@@ -7,6 +7,10 @@ snippet: Tuscan valley northeast of Florence, threaded by the River Sieve, Chian
   Rufina vineyards, and fortified villages.
 title: Sieve Valley
 type: location
+image: sievevalley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Torre-Idraulica-Diga.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Christianlorenz97
 ---
 
 The Sieve Valley (Valdarno di Sopra) runs northeast from Florence along the River Sieve through a landscape of olive groves, vineyards, and medieval hill villages. The valley was part of the Florentine Republic's eastern defensive perimeter, and walled towns, fortified bridges, and Medici villas are scattered along the hillsides. The area lies within the Chianti Rufina wine zone, one of the smaller and less-touristed sub-appellations of Chianti.

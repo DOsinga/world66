@@ -7,8 +7,8 @@ image: shinjuku.jpg
 image_attribution: Basile Morin
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg
-latitude: 35.6938
-longitude: 139.7036
+latitude: 35.6895
+longitude: 139.6917
 score: 0.75
 tags:
 - things_to_do

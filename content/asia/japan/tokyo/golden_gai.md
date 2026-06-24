@@ -7,11 +7,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Akarui_Hanazono_Ichiban_St
 latitude: 35.693991
 longitude: 139.7047
 opening_hours: Most bars from 8pm; some open from 6pm
+score: 9.0
 snippet: 200 tiny bars in six lanes of Shinjuku — the most atmospheric drinking district
   in Asia
 tags:
 - things_to_do
 - neighbourhood
+- shinjuku
 title: Golden Gai
 type: neighbourhood
 ---

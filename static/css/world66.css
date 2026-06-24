@@ -1863,6 +1863,59 @@ img { max-width: 100%; height: auto; }
   box-shadow: 0 4px 16px rgba(0,0,0,0.22);
 }
 
+.map-fullscreen-btn {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 950;
+  background: var(--paper);
+  border: none;
+  border-radius: 20px;
+  padding: 9px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: var(--label-font);
+  cursor: pointer;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  color: var(--ink);
+  white-space: nowrap;
+  transition: background 0.15s, box-shadow 0.15s;
+}
+
+.map-fullscreen-btn:hover {
+  background: var(--paper-2);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.22);
+}
+
+.map-fullscreen-logo {
+  display: none;
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  z-index: 960;
+  font-family: var(--display-font);
+  font-size: 24px;
+  line-height: 1;
+  color: var(--ink);
+  text-decoration: none;
+  text-shadow: 0 1px 8px rgba(255,255,255,0.78);
+}
+
+.map-fullscreen-logo:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.map-fullscreen-logo span {
+  display: inline-block;
+  width: 0.28em;
+  height: 0.28em;
+  margin: 0 0.05em;
+  border-radius: 50%;
+  background: var(--accent);
+  vertical-align: 0.08em;
+}
+
 /* Continent cards section */
 .home-continents-section {
   max-width: 1440px;
@@ -2050,6 +2103,34 @@ img { max-width: 100%; height: auto; }
   border-radius: 8px;
   overflow: visible;
   box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+}
+
+.home-city-map-wrap:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  border-radius: 0;
+  overflow: hidden;
+  background: var(--paper-2);
+  box-shadow: none;
+}
+
+.home-city-map-wrap:-webkit-full-screen {
+  width: 100vw;
+  height: 100vh;
+  border-radius: 0;
+  overflow: hidden;
+  background: var(--paper-2);
+  box-shadow: none;
+}
+
+.home-city-map-wrap:fullscreen .map-fullscreen-logo,
+.home-city-map-wrap:-webkit-full-screen .map-fullscreen-logo {
+  display: block;
+}
+
+.home-city-map-wrap:fullscreen #city-map,
+.home-city-map-wrap:-webkit-full-screen #city-map {
+  border-radius: 0;
 }
 
 #city-map {

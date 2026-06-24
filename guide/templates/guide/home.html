@@ -75,9 +75,11 @@
   <h2 class="home-section-label">Around the world in in-depth destination guides</h2>
   <p class="home-section-sub">{{ featured_city_count }} featured destination guides — <a href="/search">search all {{ search_page_count }} pages →</a></p>
   <div class="home-city-map-wrap">
+    <a href="{{ url_prefix|default:'' }}/" class="map-fullscreen-logo" aria-label="World66 home">World<span></span>66</a>
     <div id="city-map"></div>
     <div id="city-card-panel" class="home-city-card-panel"></div>
     <button id="map-mode-btn" class="map-mode-btn">Explore the globe</button>
+    <button id="map-fullscreen-btn" class="map-fullscreen-btn" type="button" aria-label="View globe full screen">Full screen</button>
   </div>
 </div>
 <script type="application/json" id="home-city-data">{{ cities_json|safe }}</script>
@@ -92,8 +94,10 @@
   if (!el) return;
   var cities = JSON.parse(el.textContent);
   var mapEl = document.getElementById('city-map');
+  var mapWrap = document.querySelector('.home-city-map-wrap');
   var panel = document.getElementById('city-card-panel');
   var modeBtn = document.getElementById('map-mode-btn');
+  var fullscreenBtn = document.getElementById('map-fullscreen-btn');
   var canvas = document.createElement('canvas');
   var ctx = canvas.getContext('2d');
   var preloadCache = {};
@@ -130,20 +134,22 @@
     img.onload = finish;
     img.onerror = finish;
     img.src = src;
-    setTimeout(finish, 1800);
   }
 
   function positionCard(city) {
-    var wrap = document.querySelector('.home-city-map-wrap');
-    if (!wrap) return;
-    if (wrap.clientWidth >= 760) {
-      var centerX = wrap.clientWidth / 2;
-      var centerY = wrap.clientHeight / 3;
-      panel.style.left = Math.round(centerX + 48) + 'px';
+    if (!mapWrap) return;
+    if (mapWrap.clientWidth >= 760 || isMapFullscreen()) {
+      var centerX = mapWrap.clientWidth / 2;
+      var centerY = mapWrap.clientHeight / 3;
+      var left = centerX + 48;
+      if (isMapFullscreen() && mapWrap.clientWidth < 760) {
+        left = Math.max(16, (mapWrap.clientWidth - panel.offsetWidth) / 2);
+      }
+      panel.style.left = Math.round(left) + 'px';
       panel.style.top = Math.round(Math.max(20, centerY - panel.offsetHeight / 2)) + 'px';
     } else {
-      panel.style.left = Math.max(16, (wrap.clientWidth - panel.offsetWidth) / 2) + 'px';
-      panel.style.top = (wrap.clientHeight + 24) + 'px';
+      panel.style.left = Math.max(16, (mapWrap.clientWidth - panel.offsetWidth) / 2) + 'px';
+      panel.style.top = (mapWrap.clientHeight + 24) + 'px';
     }
   }
 
@@ -156,7 +162,7 @@
     panel.innerHTML =
       '<a href="' + encodeURI(city.url) + '" class="city-card-link" aria-label="Explore ' + escapeHtml(city.title) + '">' +
         '<div class="city-card-photo">' +
-          '<img src="' + encodeURI(city.image) + '" alt="' + escapeHtml(city.title) + '" loading="lazy">' +
+          '<img src="' + encodeURI(city.image) + '" alt="' + escapeHtml(city.title) + '" loading="eager">' +
           '<div class="city-card-photo-shade"></div>' +
           '<div class="city-card-title-block">' +
             '<div class="city-card-name">' + escapeHtml(city.title) + '</div>' +
@@ -242,6 +248,52 @@
   modeBtn.onclick = function() {
     if (isExploring) exitExploreMode(); else enterExploreMode();
   };
+
+  function fullscreenElement() {
+    return document.fullscreenElement || document.webkitFullscreenElement;
+  }
+
+  function isMapFullscreen() {
+    return fullscreenElement() === mapWrap;
+  }
+
+  function updateFullscreenButton() {
+    if (!fullscreenBtn) return;
+    fullscreenBtn.textContent = isMapFullscreen() ? 'Exit full screen' : 'Full screen';
+    fullscreenBtn.setAttribute(
+      'aria-label',
+      isMapFullscreen() ? 'Exit globe full screen' : 'View globe full screen'
+    );
+  }
+
+  function toggleFullscreen() {
+    if (!mapWrap) return;
+    if (isMapFullscreen()) {
+      if (document.exitFullscreen) document.exitFullscreen();
+      else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
+      return;
+    }
+    if (mapWrap.requestFullscreen) mapWrap.requestFullscreen();
+    else if (mapWrap.webkitRequestFullscreen) mapWrap.webkitRequestFullscreen();
+  }
+
+  if (fullscreenBtn) {
+    if (!mapWrap.requestFullscreen && !mapWrap.webkitRequestFullscreen) {
+      fullscreenBtn.hidden = true;
+    } else {
+      fullscreenBtn.addEventListener('click', toggleFullscreen);
+      document.addEventListener('fullscreenchange', function() {
+        updateFullscreenButton();
+        resizeCanvas();
+        if (activeCity) positionCard(activeCity);
+      });
+      document.addEventListener('webkitfullscreenchange', function() {
+        updateFullscreenButton();
+        resizeCanvas();
+        if (activeCity) positionCard(activeCity);
+      });
+    }
+  }
 
   function canvasPoint(event) {
     var rect = canvas.getBoundingClientRect();
@@ -517,13 +569,21 @@
     cycleTimer = setTimeout(function() {
       if (!cycleCities.length) { scheduleNext(500); return; }
       var picked = pickNext();
+      var imageReady = false;
+      var routeReady = false;
+      function maybeOpenCard() {
+        if (!imageReady || !routeReady || isExploring) return;
+        openCard(picked.city);
+        scheduleNext(4300);
+      }
       preloadImage(picked.city.image, function() {
+        imageReady = true;
+        maybeOpenCard();
+      });
+      animateTravelLine(picked, function() {
         if (isExploring) return;
-        animateTravelLine(picked, function() {
-          if (isExploring) return;
-          openCard(picked.city);
-          scheduleNext(4300);
-        });
+        routeReady = true;
+        maybeOpenCard();
       });
     }, delay || 0);
   }

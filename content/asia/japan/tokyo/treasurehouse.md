@@ -7,7 +7,7 @@ snippet: Imperial belongings and state carriage at Meiji Shrine
 tags:
 - things_to_do
 - museum
-- shibuya
+- harajuku_takeshita
 title: Meiji Jingu Treasure House
 type: poi
 score: 7.0

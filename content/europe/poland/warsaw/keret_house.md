@@ -1,6 +1,6 @@
 ---
-latitude: 52.2308
-longitude: 20.998
+latitude: 52.2370
+longitude: 20.9990
 score: 7.0
 snippet: The world's narrowest house — a sliver of art space wedged between two buildings
   in Muranów

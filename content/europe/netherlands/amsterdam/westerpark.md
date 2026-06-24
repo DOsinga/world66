@@ -1,7 +1,7 @@
 ---
 image: westerpark.jpg
-image_license: Public domain
-image_source: https://commons.wikimedia.org/wiki/File:Gustaaf%20Oosterhuis%2C%20Afb%20OSIM00008005927.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:A_photo_of_parks_in_Amsterdam_city,_free_download;_an_Autumn_view_of_the_pond_and_fountain_in_the_Westerpark_with_yellowing_trees_by_Fall._Fons_Heijnsbroek,_street_photography_of_The_Netherlands_2018_in_high_resolution;_free_image_CC0.jpg
 latitude: 52.3875
 longitude: 4.8703
 tags:
@@ -9,6 +9,7 @@ tags:
 - neighbourhood
 title: Westerpark
 type: neighbourhood
+image_attribution: Fons Heijnsbroek
 ---
 
 Westerpark takes its name from the park and the former Westergasfabriek — a Victorian gasworks complex whose ornate brick buildings have been transformed into one of Amsterdam's best cultural and dining destinations. The area sits just north of the Jordaan and west of the ring canals, close enough to the centre to be convenient but far enough to feel genuinely local.

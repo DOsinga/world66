@@ -13,7 +13,7 @@ story: The Palace of Culture was a 'gift' from the Soviet Union, completed in 19
   itself.
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_poludniowe
 - sight
 - architecture
 title: Palace of Culture and Science

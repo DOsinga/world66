@@ -8,7 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - sight
 title: Tomb of the Unknown Soldier
 type: poi

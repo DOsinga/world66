@@ -8,7 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Presidential_Palace,_Warsaw
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - sight
 title: Presidential Palace
 type: poi

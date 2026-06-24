@@ -14,7 +14,7 @@ story: When Chopin died in Paris in 1849, he asked that his heart be taken to Po
   pillar.
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - sight
 title: Holy Cross Church
 type: poi

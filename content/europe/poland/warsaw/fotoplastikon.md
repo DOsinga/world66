@@ -8,7 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Warsaw_Fotoplastikon
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_poludniowe
 - sight
 title: Warsaw Fotoplastikon
 type: poi

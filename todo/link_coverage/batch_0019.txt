@@ -1,5 +1,0 @@
-asia/india/haryana/ambala
-asia/india/haryana/gurgaon
-asia/india/haryana/sirsa
-asia/india/karnataka/badami
-asia/india/karnataka/belur

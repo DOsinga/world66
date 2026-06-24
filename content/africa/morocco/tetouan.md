@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-22'
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-28'
 image: tetouan.jpg
@@ -10,10 +11,10 @@ latitude: 35.5702
 loc_type: city
 longitude: -5.3743
 score: 0.51
-title: Tétouan
-type: location
 snippet: Northern Moroccan city with an Andalusian medina shaped by Muslim refugees
   from Spain.
+title: Tétouan
+type: location
 ---
 
 For people coming into Morocco through Ceuta, Tétouan is likely to be their first encounter with the country. Take a deep breath when you get out of the bus, because you will be besieged — students and touts will compete for your attention, and the street hustle here is more assertive than in most Moroccan cities. Once you have got used to it, though, Tétouan can be a very rewarding place.

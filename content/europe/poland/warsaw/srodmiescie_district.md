@@ -1,12 +1,17 @@
 ---
-title: "Śródmieście (City Centre)"
-type: neighbourhood
-tags:
-  - things_to_do
-  - neighbourhood
-latitude: 52.2270
+image: srodmiescie_district.jpg
+image_attribution: Emptywords
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aleja_Niepdleglosci_Warsaw_2022_aerial_(cropped).jpg
+latitude: 52.227
 longitude: 21.0157
-snippet: "Warsaw's central district — from the Palace of Culture south to Zbawiciela Square, the beating heart of modern city life"
+snippet: Warsaw's central district — from the Palace of Culture south to Zbawiciela
+  Square, the beating heart of modern city life
+tags:
+- things_to_do
+- neighbourhood
+title: Śródmieście (City Centre)
+type: neighbourhood
 ---
 
 Śródmieście (literally "inner city") is the central district of Warsaw that lies south of the Royal Route between the Old Town and Łazienki Park. It contains the [Palace of Culture and Science](/europe/poland/warsaw/palace_of_culture), the main rail and bus stations, the [National Museum](/europe/poland/warsaw/national_museum_warsaw), [Hala Koszyki](/europe/poland/warsaw/hala_koszyki), and the dense grid of streets around Zbawiciela Square that constitute Warsaw's most concentrated dining and bar scene.

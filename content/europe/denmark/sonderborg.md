@@ -10,6 +10,11 @@ latitude: 54.908919
 loc_type: city
 longitude: 9.7898
 score: 0.41
+tags:
+- things_to_do
+- sight
+- town
+- als
 title: Sønderborg
 type: location
 snippet: Danish town on Als island, centered on Sønderborg Castle and the Flensburg

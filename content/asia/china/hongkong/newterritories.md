@@ -2,9 +2,16 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
+image: newterritories.jpg
+image_attribution: LBM1948
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_1978_01.jpg
 latitude: 22.4301
 longitude: 114.0724
 score: 0.57
+tags:
+- things_to_do
+- neighbourhood
 title: New Territories
 type: neighbourhood
 ---

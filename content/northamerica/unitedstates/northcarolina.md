@@ -7,8 +7,13 @@ loc_type: region
 longitude: -79.039292
 score: 0.52
 title: North Carolina
-snippet: Southeastern US state stretching from Blue Ridge mountains to Outer Banks barrier islands.
+snippet: Southeastern US state stretching from Blue Ridge mountains to Outer Banks
+  barrier islands.
 type: location
+image: northcarolina.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Biltmore_Estate,_2012.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Blake Lewis
 ---
 
 North Carolina stretches from the Appalachian Mountains to the Atlantic coast, offering an unusual range of landscapes for a single state. The [Smoky Mountains](/northamerica/unitedstates/northcarolina/smokymountains) in the west rise above 6,000 feet, with some of the oldest mountains on Earth and forests so dense they create the blue haze that gives the Blue Ridge its name. The coast, meanwhile, is defined by the [Outer Banks](/northamerica/unitedstates/northcarolina/outerbanks) -- a chain of narrow barrier islands where the Wright Brothers first flew and Blackbeard met his end.

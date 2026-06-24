@@ -12,7 +12,12 @@ sources:
 - https://en.wikipedia.org/wiki/Gentofte_Municipality
 - https://en.wikipedia.org/wiki/Ordrupgaard
 - https://en.wikipedia.org/wiki/Charlottenlund_Palace
-snippet: "Leafy Copenhagen suburb along the Øresund, home to Bakken and the Jægersborg Dyrehave deer park."
+snippet: Leafy Copenhagen suburb along the Øresund, home to Bakken and the Jægersborg
+  Dyrehave deer park.
+image: gentofte.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gentofte_Hotel.jpg
+image_license: CC0
+image_attribution: PaigePhault
 ---
 
 Gentofte is Copenhagen's wealthiest neighbour — an arc of leafy suburbs stretching north along the Øresund coast, home to embassies, old money, and a handful of attractions that genuinely warrant the short S-tog ride from the city centre.

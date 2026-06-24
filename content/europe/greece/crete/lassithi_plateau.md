@@ -10,6 +10,10 @@ type: location
 loc_type: feature
 snippet: Cretan mountain plateau ringed by the Dikti range, once irrigated by thousands
   of white-sailed windmills
+image: lassithi_plateau.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kreta-Lass%C3%ADthi-Hochebene.jpg
+image_license: Copyrighted free use
+image_attribution: Haloorange
 ---
 
 The Lassithi plateau is a large fertile plain in the northwest part of eastern [Crete](/europe/greece/crete), ringed by the Dikti Mountains. People have lived here since Neolithic times, around 6000 BC, drawn by the rich alluvial soil deposited each spring as snowmelt runs down from the surrounding peaks.

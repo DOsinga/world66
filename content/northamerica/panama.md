@@ -6,7 +6,9 @@ image_attribution: <a href="//commons.wikimedia.org/w/index.php?title=User:Gualb
   class="new" title="User:Gualberto107 (page does not exist)">Gualberto107</a>
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Aduana_de_Portobelo,_Panama.jpg
+latitude: 8.89177
 loc_type: country
+longitude: -79.60802
 quick_facts:
   Currency: US dollar (and balboa)
   Darién Gap: Only break in the 30,000 km Pan-American Highway

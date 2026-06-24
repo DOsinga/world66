@@ -1,13 +1,17 @@
 ---
 address: Rue Grande, 5500 Dinant
 latitude: 50.2611
-loc_type: feature
 longitude: 4.9115
 snippet: Famously hard honey biscuits from Dinant, pressed into decorative moulds
+story: Local legend says the biscuit was invented during the 1466 siege when starving
+  citizens mixed the only ingredients they had — flour and honey — and baked the resulting
+  paste. The biscuits proved so hard and so durable that they survived in long-storage
+  form thereafter. Even today, the standard advice is to suck them rather than bite
+  them.
 tags:
 - eating_out
 title: Couques de Dinant
-story: "Local legend says the biscuit was invented during the 1466 siege when starving citizens mixed the only ingredients they had — flour and honey — and baked the resulting paste. The biscuits proved so hard and so durable that they survived in long-storage form thereafter. Even today, the standard advice is to suck them rather than bite them."
+type: poi
 ---
 
 Dinant's most famous edible export, the couque is a hard, golden honey biscuit shaped into elaborate designs — figures, animals, coats of arms — using carved wooden moulds. The recipe contains only flour and honey, baked to a dense, glassy consistency that is meant to be sucked rather than bitten; chewing one is widely held to be how to break a tooth in Dinant.

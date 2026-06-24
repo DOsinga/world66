@@ -15,6 +15,6 @@ sources:
 score: 8.3
 ---
 
-The Barr Trail is the main hiking route up [Pikes Peak](/northamerica/unitedstates/colorado/coloradosprings/pikespeak), starting at the cog railway base station in Manitou Springs and climbing 7,800 feet over thirteen miles to the 14,115-foot summit. It is a serious undertaking — plan six to nine hours one-way for most fit hikers, and altitude sickness is a genuine risk even for people who feel fine at the trailhead. Barr Camp, at the halfway point, offers bunk beds, tent camping, and simple meals if you want to break the ascent into two days.
+The Barr Trail is the main hiking route up [Pikes Peak](/northamerica/unitedstates/colorado/pikespeak), starting at the cog railway base station in Manitou Springs and climbing 7,800 feet over thirteen miles to the 14,115-foot summit. It is a serious undertaking — plan six to nine hours one-way for most fit hikers, and altitude sickness is a genuine risk even for people who feel fine at the trailhead. Barr Camp, at the halfway point, offers bunk beds, tent camping, and simple meals if you want to break the ascent into two days.
 
 Many visitors hike only the first few miles up to a viewpoint and return — this is entirely legitimate and gives a good sense of the Front Range landscape without committing to a full summit attempt. The trail is well-maintained and clearly marked. Trailhead parking fills early on summer weekends; arrive before 7am or take the Manitou Springs Incline shuttle.

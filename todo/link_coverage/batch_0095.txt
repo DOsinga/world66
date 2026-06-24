@@ -1,5 +1,5 @@
 southamerica/suriname/brownsbergnaturepark
 southamerica/uruguay/chuy
-southamerica/uruguay/coloniadelsacramento
+europe/italy/sicily/trapani/segesta
 southamerica/uruguay/minas
 southamerica/uruguay/rocha

@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- asia/china/outlyingislands
+title: Day Trips
 type: section
 ---
 

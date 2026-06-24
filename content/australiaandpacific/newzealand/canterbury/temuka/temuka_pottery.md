@@ -1,13 +1,14 @@
 ---
 address: King Street, Temuka
-latitude: -44.2440
-loc_type: feature
-longitude: 171.2790
-snippet: Site of the famous Temuka Pottery, which produced New Zealand's domestic earthenware
+latitude: -44.244
+longitude: 171.279
+snippet: Site of the famous Temuka Pottery, which produced New Zealand's domestic
+  earthenware
 tags:
 - things_to_do
 - sight
 title: Temuka Pottery Site
+type: poi
 ---
 
 For most of the 20th century, Temuka was synonymous with one of New Zealand's most beloved domestic ceramic brands. The Temuka Pottery, founded in 1929 and operating in the town until 2003, produced the speckled earthenware dinner sets that grace kitchens up and down the country — to the point where "I had it served on Temuka" is a common turn of phrase.

@@ -1,6 +1,7 @@
 ---
 done:
   add_missing_places: 2026-06-05
+  link_coverage: '2026-06-22'
 image: gyeongju.jpg
 image_attribution: Basile Morin
 image_license: CC BY-SA 4.0

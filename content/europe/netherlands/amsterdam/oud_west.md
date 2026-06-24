@@ -4,6 +4,9 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Bilderdijkpark%2C%20Amsterdam.jpg
 latitude: 52.3681
 longitude: 4.865
+tags:
+- things_to_do
+- neighbourhood
 title: Oud-West
 type: neighbourhood
 ---

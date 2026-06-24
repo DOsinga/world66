@@ -1,7 +1,6 @@
 ---
 address: Bulevardul I. C. Brătianu 2, Bucharest
 latitude: 44.4344
-loc_type: feature
 longitude: 26.1027
 snippet: 1834 neogothic palace housing the Bucharest City Museum
 tags:
@@ -9,6 +8,7 @@ tags:
 - museum
 - architecture
 title: Șuțu Palace (Bucharest City Museum)
+type: poi
 ---
 
 A neogothic palace on the corner of University Square, finished in 1834 for the boyar Costache Grigore Șuțu, and one of the few palaces of pre-modern Bucharest to have survived in its original form. The grand interior — particularly the famous mirrored ballroom — was the heart of mid-19th-century Bucharest society life.

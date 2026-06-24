@@ -1,13 +1,13 @@
 ---
 address: Cemetery Road, Sheffield S11 8FT
 latitude: 53.3717
-loc_type: feature
 longitude: -1.4858
 snippet: Atmospheric Victorian garden cemetery on the slopes of Highfield
 tags:
 - things_to_do
 - sight
 title: Sheffield General Cemetery
+type: poi
 ---
 
 A sprawling Victorian cemetery on the slopes south of the centre, opened in 1836 by the Sheffield General Cemetery Company as a privately run alternative to the overflowing parish graveyards. The Anglican chapel, the Nonconformist chapel, and the impressive Egyptian-style gatehouse all survive in various states of repair, surrounded by 87,000 burials including many of the Victorian industrialists who built modern Sheffield.

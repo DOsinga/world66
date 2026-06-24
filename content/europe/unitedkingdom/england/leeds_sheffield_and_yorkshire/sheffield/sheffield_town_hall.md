@@ -1,7 +1,6 @@
 ---
 address: Pinstone Street, Sheffield S1 2HH
 latitude: 53.3803
-loc_type: feature
 longitude: -1.4694
 snippet: 1897 Renaissance Revival town hall with a Vulcan-topped tower
 tags:
@@ -9,6 +8,7 @@ tags:
 - architecture
 - sight
 title: Sheffield Town Hall
+type: poi
 ---
 
 Sheffield's seat of local government, completed in 1897 in a confident Renaissance Revival style and topped by a 64-metre clock tower crowned with a bronze statue of Vulcan, Roman god of metalworking — an appropriate symbol for a city built on steel. The carved façade running around the building depicts scenes of Sheffield trades and industries.

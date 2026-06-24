@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: livingstone.jpg
 image_attribution: Diego Delso

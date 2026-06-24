@@ -9,6 +9,10 @@ snippet: Canary island of deep ravines, terrace farms, palm valleys, and misty l
   forest.
 title: La Gomera
 type: location
+image: lagomera.jpg
+image_source: https://commons.wikimedia.org/wiki/File:La_Gomera_D81_7693_(32635325232).jpg
+image_license: CC BY 2.0
+image_attribution: Bengt Nyman from Vaxholm, Sweden
 ---
 
 **An Ecological Paradise** 

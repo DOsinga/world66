@@ -6,8 +6,13 @@ longitude: 11.32
 done:
   location_cleanup: 2026-04-07
 score: 0.73
-snippet: Tuscan wine region of vineyards, olive groves, and stone villages between Florence and Siena.
+snippet: Tuscan wine region of vineyards, olive groves, and stone villages between
+  Florence and Siena.
 loc_type: region
+image: chiantiregion.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Poggio_Amorelli_Castellina_in_Chianti.jpg
+image_license: CC BY 2.0
+image_attribution: Ray in Manila
 ---
 
 Chianti is the rolling hill country between [Florence](/europe/italy/tuscany/florence) and [Siena](/europe/italy/tuscany/siena), a landscape of vineyards, olive groves, stone farmhouses, and cypress-lined roads that has come to define the Tuscan postcard. It is also one of Italy's great wine regions — Chianti Classico, the heart of the appellation, produces some of the country's finest reds.

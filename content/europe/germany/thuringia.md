@@ -9,6 +9,10 @@ snippet: Central German state of forests and culture, tied to Luther, Bach, Goet
   Schiller, and Bauhaus.
 title: Thuringia
 type: location
+image: thuringia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Erfurter_Dom_von_Oben_08.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Eremeev
 ---
 
 Thuringia (*Thüringen*) is the green heart of Germany — a small state of about two million people tucked in the centre of the country, dominated by the dark, rolling **Thuringian Forest**. For travellers, it has an almost unfair concentration of cultural sites for its size. This is where Luther translated the New Testament into German, where Bach was born and first played the organ, where Goethe and Schiller wrote side by side, and where Bauhaus was founded. It is also where, in 1937, the Nazis built Buchenwald, a short tram ride from the house where Goethe had once entertained Napoleon.

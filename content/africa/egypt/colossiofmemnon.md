@@ -4,10 +4,15 @@ done:
 latitude: 25.720495
 longitude: 32.610441
 title: Colossi of Memnon
-snippet: "Ancient Nile-side statue pair, surviving from Amenhotep III's vast funerary temple near Luxor."
+snippet: Ancient Nile-side statue pair, surviving from Amenhotep III's vast funerary
+  temple near Luxor.
 type: location
 score: 0.55
 loc_type: feature
+image: colossiofmemnon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG
+image_license: CC BY-SA 4.0
+image_attribution: MusikAnimal
 ---
 
 The Colossi of Memnon are a pair of massive stone statues standing 18 metres tall on the western bank of the Nile at [Luxor](/africa/egypt/luxor), facing east across the river toward the rising sun. They are the most visible remnant of the funerary temple of Amenhotep III, built in the 14th century BC and once the largest temple complex in ancient Egypt. The Nile's annual floods destroyed the temple over the centuries, but the two quartzite colossi survived.

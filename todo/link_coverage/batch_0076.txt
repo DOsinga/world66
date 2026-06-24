@@ -1,5 +1,0 @@
-northamerica/mexico/patzcuaro
-northamerica/mexico/sancristobaldelascasas
-northamerica/mexico/zacatecas
-northamerica/nicaragua/leon
-northamerica/saintlucia/saintlucianationalrainforest

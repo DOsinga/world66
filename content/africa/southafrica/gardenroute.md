@@ -9,6 +9,10 @@ snippet: South African coastal route of seaside towns, indigenous forests, lakes
   mountains, and golden beaches.
 title: Garden Route
 type: location
+image: gardenroute.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Garden_Route_Dam.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Oli4eben
 ---
 
 Scattered along the Garden Route, fashionable seaside resorts abound, attracting jet-setters from around the globe. On a less affluent scale, tine coastal villages appeal especially to outdoor people who enjoy an unstructured holiday agenda. Mountains crowd close to a shoreline dotted with beaches and bays, and vividly coloured wild flowers delight the eye.

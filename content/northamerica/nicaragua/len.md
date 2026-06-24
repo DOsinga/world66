@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-04'
 image: leon_cathedral.jpg

@@ -4,6 +4,9 @@ image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:NDSM%20werf%20Amsterdam%20%2815411760015%29.jpg
 latitude: 52.3926
 longitude: 4.9033
+tags:
+- things_to_do
+- neighbourhood
 title: Amsterdam Noord
 type: neighbourhood
 ---

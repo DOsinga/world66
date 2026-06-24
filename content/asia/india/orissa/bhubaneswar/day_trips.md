@@ -1,5 +1,7 @@
 ---
-title: 'Day Trips'
+linked_locations:
+- asia/india/orissa/karanjia__similip
+title: Day Trips
 type: section
 ---
 

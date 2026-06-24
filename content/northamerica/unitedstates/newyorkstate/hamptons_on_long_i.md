@@ -9,6 +9,10 @@ snippet: Long Island beach region of villages and dunes, long used as a summer r
   from New York.
 title: The Hamptons
 type: location
+image: hamptons_on_long_i.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Montauk_Point_Lighthouse_2008.jpeg
+image_license: Public domain
+image_attribution: United States Coast Guard, photo by Pamela Bednarik
 ---
 
 The Hamptons stretch along the south shore of eastern Long Island, a string of towns and villages — Westhampton, Southampton, Bridgehampton, East Hampton, Amagansett — that have been the summer retreat of wealthy New Yorkers for over a century. The beaches are long, wide, and backed by dunes; the villages have a manicured New England charm with white clapboard buildings, farm stands, and upscale shops.

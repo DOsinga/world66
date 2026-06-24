@@ -1,12 +1,17 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: causeway_bay.jpg
+image_attribution: No machine-readable author provided. BEVERLYSHEN assumed (based
+  on copyright claims).
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:HK_Tin_Hau_Temple_fd.jpg
 latitude: 22.28
 longitude: 114.1855
 snippet: Hong Kong Island's densest shopping and dining district
 tags:
-- hongkongisland
 - things_to_do
+- neighbourhood
 title: Causeway Bay
 type: neighbourhood
 ---

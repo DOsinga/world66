@@ -10,6 +10,10 @@ snippet: Hilly US Virgin Island with Danish-era Charlotte Amalie, a busy harbour
   and historic red-roofed streets.
 title: St. Thomas
 type: location
+image: stthomas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bluebeard%27s_Castle_2.png
+image_license: CC BY 4.0
+image_attribution: Danivpat
 ---
 
 St. Thomas is the busiest of the US Virgin Islands — a lush, hilly island of 32 square miles that was Danish for 250 years before the United States bought the territory in 1917 for $25 million in gold. The Danish legacy is everywhere: red-roofed buildings climbing the hills of Charlotte Amalie, Danish street names (Dronningens Gade, Kongens Gade), and the second-oldest synagogue in the western hemisphere, built in 1833 with a sand floor to muffle the footsteps of its Sephardic founders.

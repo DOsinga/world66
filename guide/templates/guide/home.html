@@ -410,9 +410,12 @@
     return city && city.url && recentUrls.indexOf(city.url) !== -1;
   }
 
-  function routePoints(fromLat, fromLng, toLat, toLng) {
+  var ROUTE_SEGMENT_METERS = 40000;
+  var MIN_ROUTE_STEPS = 24;
+
+  function routePoints(fromLat, fromLng, toLat, toLng, distance) {
     var points = [];
-    var steps = 42;
+    var steps = Math.max(MIN_ROUTE_STEPS, Math.ceil(distance / ROUTE_SEGMENT_METERS));
     var lat1 = fromLat * Math.PI / 180;
     var lng1 = fromLng * Math.PI / 180;
     var lat2 = toLat * Math.PI / 180;
@@ -440,7 +443,7 @@
   }
 
   function chooseRoutePoints(picked) {
-    return routePoints(picked.fromLat, picked.fromLng, picked.city.lat, picked.city.lng);
+    return routePoints(picked.fromLat, picked.fromLng, picked.city.lat, picked.city.lng, picked.dist);
   }
 
   function animateTravelLine(picked, done) {

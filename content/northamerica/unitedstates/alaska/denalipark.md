@@ -3,11 +3,16 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 63.620728
 longitude: -148.719587
-snippet: "Vast Alaskan wilderness park anchored by Denali, with one road through tundra, taiga, and wildlife."
+snippet: Vast Alaskan wilderness park anchored by Denali, with one road through tundra,
+  taiga, and wildlife.
 title: Denali National Park
 type: location
 score: 0.67
 loc_type: feature
+image: denalipark.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Mount_McKinley_and_Denali_National_Park_Road_2048px.jpg
+image_license: GFDL 1.2
+image_attribution: Photo (c)2006 Derek Ramsey (Ram-Man)
 ---
 
 Denali National Park protects six million acres of Alaskan wilderness anchored by Denali itself — at 6,190 metres, the highest peak in North America. The scale is hard to overstate: the park is larger than the state of New Hampshire, and only a single road penetrates it.

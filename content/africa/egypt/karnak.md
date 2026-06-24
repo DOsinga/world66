@@ -3,11 +3,16 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 25.729427
 longitude: 32.65945
-snippet: "Ancient Theban temple complex at Luxor, dominated by Amun's sanctuary and the Great Hypostyle Hall."
+snippet: Ancient Theban temple complex at Luxor, dominated by Amun's sanctuary and
+  the Great Hypostyle Hall.
 title: Karnak
 type: location
 score: 0.65
 loc_type: feature
+image: karnak.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_2012.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Taranis-iuppiter
 ---
 
 Karnak is the site of ancient Thebes, and one of the most staggering human constructions on earth. The complex is massive — 1,500 metres by 800 metres — built, added to, restored, enlarged and redecorated over a period of 1,500 years. At its heart is the enormous Amun Temple, largely constructed between 1570 and 1090 BC. Later pharaohs kept adding their own touches, and the Ptolemies and early Christians also left their mark.

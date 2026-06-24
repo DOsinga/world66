@@ -7,6 +7,10 @@ snippet: Galician pilgrimage city where the Camino de Santiago ends at a golden-
   cathedral and medieval old town.
 title: Santiago de Compostela
 type: location
+image: santiagodecompostela.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2010-07-18-_San_Marti%C3%B1o_Pinario-Santiago_Compostela-Galicia_(Spain).jpg
+image_license: CC BY-SA 3.0
+image_attribution: Luis Miguel Bugallo Sánchez
 ---
 
 Santiago de Compostela is one of the great pilgrimage cities of the world. For over a thousand years, Christians have walked the Camino de Santiago — the Way of Saint James — from all over Europe to reach the cathedral that stands at the city's heart and allegedly contains the tomb of the apostle James. Today the pilgrims still come, and the city that has grown up to receive them is one of the finest old towns in Spain, built from the golden-grey granite of Galicia and draped in the Atlantic rain that keeps everything green.

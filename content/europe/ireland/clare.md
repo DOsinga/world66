@@ -1,6 +1,7 @@
 ---
 title: Clare
-snippet: "Atlantic Irish county where the Cliffs of Moher frame a strong traditional music culture."
+snippet: Atlantic Irish county where the Cliffs of Moher frame a strong traditional
+  music culture.
 type: location
 latitude: 52.842
 longitude: -8.9831
@@ -8,6 +9,10 @@ done:
   location_cleanup: 2026-04-08
 score: 0.59
 loc_type: region
+image: clare.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cliffs_of_Moher,_Ireland_(8577753321).jpg
+image_license: CC BY 2.0
+image_attribution: Michal Osmenda from Brussels, Belgium
 ---
 
 County Clare occupies a striking stretch of Ireland's Atlantic coast, from the towering Cliffs of Moher in the west to the shores of Lough Derg in the east. It is one of the most visited counties in Ireland, and for good reason — the landscape is dramatic, the traditional music is the best in the country, and the pace of life is unhurried.

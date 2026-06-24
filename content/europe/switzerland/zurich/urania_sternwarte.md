@@ -1,13 +1,15 @@
 ---
-title: "Urania Sternwarte"
-type: poi
 latitude: 47.3744
 longitude: 8.5395
-tags:
-  - things_to_do
-  - sight
-snippet: "Switzerland's oldest public observatory, built into the Urania tower over the city centre"
 score: 6.7
+snippet: Switzerland's oldest public observatory, built into the Urania tower over
+  the city centre
+tags:
+- things_to_do
+- sight
+- city_lindenhof
+title: Urania Sternwarte
+type: poi
 ---
 
 The Urania Sternwarte, opened in 1907, is the oldest public observatory in Switzerland and one of the few in any city centre still genuinely used for star-gazing rather than as a curiosity. The big refractor telescope — a 1907 Zeiss 30 cm — sits in a green-domed cupola on top of the Urania tower above Bahnhofstrasse, and astronomer-guides open it for evening viewings most clear nights.

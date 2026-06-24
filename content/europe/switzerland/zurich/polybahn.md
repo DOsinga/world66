@@ -1,13 +1,14 @@
 ---
-title: "Polybahn"
-type: poi
 latitude: 47.3764
 longitude: 8.5439
-tags:
-  - things_to_do
-  - sight
-snippet: "Tiny red funicular climbing up to ETH Zurich since 1889"
 score: 7.2
+snippet: Tiny red funicular climbing up to ETH Zurich since 1889
+tags:
+- things_to_do
+- sight
+- niederdorf
+title: Polybahn
+type: poi
 ---
 
 The Polybahn — officially the UBS Polybahn since the bank took over sponsorship in the 1990s — is a small bright-red funicular that climbs from Central, in the heart of the old town, up to the ETH Zurich's main building on the hillside in about a minute and a half. It first ran in 1889, electrified in 1897, and is one of the city's signature short journeys.

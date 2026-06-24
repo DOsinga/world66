@@ -6,15 +6,16 @@ latitude: 47.373344
 longitude: 8.539098
 opening_hours: Mon–Thu 11:00–00:00, Fri–Sat 11:00–02:00, Sun 12:00–00:00
 phone: +41 44 221 18 28
+score: 5.8
 snippet: Authentic Victorian Irish pub with original Dublin fittings
 tags:
 - James Joyce
 - Literature
 - bars_and_cafes
+- city_lindenhof
 title: James Joyce Pub
 type: poi
 url: www.jamesjoyce.ch/pub
-score: 5.8
 ---
 
 The James Joyce Pub near Zurich's main station was built using the original Victorian fittings of a 19th-century Dublin pub — mahogany bar, stained glass, and brass fixtures transported wholesale from Ireland. The result is about as close as Zurich gets to a genuine literary pub, and it has a loyal following among expats, tourists, and locals who appreciate a proper Guinness.

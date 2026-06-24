@@ -1,14 +1,15 @@
 ---
-title: "Zunfthaus zur Saffran"
-type: poi
 latitude: 47.3714
 longitude: 8.5431
-tags:
-  - things_to_do
-  - sight
-  - architecture
-snippet: "Late-Gothic guild house of the spice merchants on the Limmatquai"
 score: 6.8
+snippet: Late-Gothic guild house of the spice merchants on the Limmatquai
+tags:
+- things_to_do
+- sight
+- architecture
+- niederdorf
+title: Zunfthaus zur Saffran
+type: poi
 ---
 
 The Saffran is one of the best-preserved of Zurich's medieval guild houses — the *Zunfthäuser* that line the Limmatquai. The guild itself, founded in 1336, originally united the spice merchants, apothecaries and silk weavers; the current building dates from 1718 but incorporates parts of a much earlier guild hall on the same spot. The pale-coloured Baroque facade faces the river, with elegant carved window surrounds and the guild coat of arms above the door.

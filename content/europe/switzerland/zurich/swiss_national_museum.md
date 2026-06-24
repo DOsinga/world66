@@ -1,13 +1,15 @@
 ---
-title: "Swiss National Museum (Landesmuseum)"
-type: poi
 latitude: 47.3791
 longitude: 8.5402
-tags:
-  - things_to_do
-  - museum
-snippet: "Switzerland's history under one fairytale neo-Gothic roof, next to the main station"
 score: 8.9
+snippet: Switzerland's history under one fairytale neo-Gothic roof, next to the main
+  station
+tags:
+- things_to_do
+- museum
+- city_lindenhof
+title: Swiss National Museum (Landesmuseum)
+type: poi
 ---
 
 The Schweizerisches Landesmuseum, an exuberant late-19th-century fantasia of turrets and gables built right beside the Hauptbahnhof, houses Switzerland's most comprehensive collection of Swiss history. The displays run from prehistoric flints through medieval ecclesiastical art, Renaissance armour, Reformation-era weapons and intricate silver, on into 20th-century design.

@@ -5,8 +5,8 @@ score: 8.1
 snippet: Centuries of horology in the basement of a Bahnhofstrasse watch shop
 tags:
 - things_to_do
-- bahnhofstrasse
 - museum
+- city_lindenhof
 title: Uhrenmuseum Beyer
 type: poi
 ---

@@ -7,7 +7,12 @@ title: Lake Constance
 type: location
 score: 0.53
 loc_type: feature
-snippet: "Large central European lake shared by Germany, Switzerland, and Austria, with vineyard towns and islands."
+snippet: Large central European lake shared by Germany, Switzerland, and Austria,
+  with vineyard towns and islands.
+image: lakeconstance.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_mouth_of_the_Rhine_into_Lake_Constance.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Carsten Steger
 ---
 
 Lake Constance — Bodensee in German — sits where Germany, Switzerland and Austria meet, and has one of the warmest summer microclimates in central Europe. The lake is large enough to feel almost like an inland sea, and the surrounding countryside is green, hilly and dotted with vineyards.

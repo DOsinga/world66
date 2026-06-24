@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Drakensberg
 title: Northern Drakensberg
 type: location
+image: northern_drakensberg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_Drakensberg.jpg
+image_license: Public domain
+image_attribution: User:Bothar
 ---
 
 The Northern Drakensberg is the highest and most dramatic section of the Drakensberg range, rising to over 3,000m along the escarpment that forms the border between KwaZulu-Natal and the mountain kingdom of Lesotho. The Zulu name is Ukhahlamba — "Barrier of Spears." The basalt peaks divide the watershed: rain falling west flows towards the Atlantic, while on the eastern side it tumbles down frequently vertical slopes into KwaZulu-Natal, towards the Indian Ocean.

@@ -11,6 +11,10 @@ snippet: Largest Channel Island, blending sandy bays, granite cliffs, Jersey Roy
   and occupation history.
 title: Jersey
 type: location
+image: jersey.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_fields_in_St_Clement,_Jersey.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Danrok
 ---
 
 Jersey is the largest of the Channel Islands and the most visited. It has around 110,000 residents, its own parliament (the States of Jersey), and a financial sector that makes it one of the wealthier places in Europe per capita. The main town, St Helier, is a busy commercial hub with good restaurants and a covered market that sells local produce, fish, and Jersey-made goods.

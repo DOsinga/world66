@@ -1,5 +1,6 @@
 ---
-snippet: Swedish coastal region on the Bothnian Sea, shaped by dramatic post-glacial land uplift.
+snippet: Swedish coastal region on the Bothnian Sea, shaped by dramatic post-glacial
+  land uplift.
 title: The High Coast
 type: location
 latitude: 63.05
@@ -11,6 +12,10 @@ done:
   location_cleanup: 2026-04-06
 score: 0.57
 loc_type: region
+image: the_high_coast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ulv%C3%B6nGH.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Glen Hodgson
 ---
 
 The High Coast (Höga Kusten) is a UNESCO World Heritage Site along the eastern side of central Sweden, on the Bothnian Sea. What makes this stretch of coastline extraordinary is the isostatic land uplift — during the last ice age, the land was pressed down under the immense weight of glacial ice. When the ice melted, the land began rising again, a process that continues today, though at a decreasing rate. The maximum extent of the uplift is found here: land up to 285 metres above the present sea level was once under water.

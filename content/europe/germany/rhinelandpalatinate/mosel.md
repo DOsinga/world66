@@ -9,6 +9,10 @@ snippet: German Riesling valley where vines cling to steep slate slopes above lo
   river towns
 title: Mosel
 type: location
+image: mosel.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cochem_and_Reichsburg.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kai Pilger
 ---
 
 The Mosel valley is Germany's most dramatic wine region, where the river cuts deep loops through steep slate hillsides covered in Riesling vines. The gradient is so extreme that most work is done by hand — mechanical harvesting is impossible on many slopes — which contributes to wines of uncommon intensity and precision.

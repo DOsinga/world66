@@ -7,6 +7,7 @@ score: 7.6
 snippet: Roman hilltop square with panoramic views over the Limmat
 tags:
 - things_to_do
+- schipfe
 - landmark
 - city_lindenhof
 title: Lindenhof

@@ -7,6 +7,10 @@ snippet: Arabian federation of seven emirates transformed from pearling settleme
   into oil-built desert cities.
 title: United Arab Emirates
 type: location
+image: unitedarabemirates.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Wadiia
 ---
 
 The United Arab Emirates is a federation of seven emirates on the southeastern tip of the Arabian Peninsula, bordered by Saudi Arabia to the south and west and Oman to the east. It has transformed itself within a single generation from a collection of pearl-diving and fishing settlements into one of the wealthiest countries in the world, built on oil revenues and a determined project of urban development and economic diversification.

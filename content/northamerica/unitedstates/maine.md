@@ -9,6 +9,10 @@ snippet: Forested New England state of rocky Atlantic coastline, lobster towns, 
   the wilderness around Katahdin.
 title: Maine
 type: location
+image: maine.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Fall_Foliage_Buttermilk_Falls_Gulf_Hagas.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Andythrasher
 ---
 
 Maine's motto -- "The Way Life Should Be" -- captures something real about this vast New England state. Ninety percent forest, over five thousand miles of coastline, and a culture that values independence and self-reliance above all else.

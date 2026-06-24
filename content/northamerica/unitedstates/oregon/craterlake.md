@@ -9,6 +9,10 @@ snippet: Volcanic caldera lake in the Oregon Cascades, famed for extraordinary d
   and sapphire-blue water.
 title: Crater Lake
 type: location
+image: craterlake.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg
+image_license: CC BY-SA 3.0
+image_attribution: WolfmanSF
 ---
 
 Crater Lake is the deepest lake in the United States — 592 metres at its deepest point — and its colour is extraordinary, an almost unreal shade of sapphire blue caused by the water's exceptional clarity and depth. The lake fills the caldera of Mount Mazama, which collapsed in a catastrophic eruption roughly 7,700 years ago.

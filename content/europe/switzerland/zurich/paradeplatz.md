@@ -5,6 +5,7 @@ score: 6.3
 snippet: Zurich's financial nerve centre, home to UBS, Credit Suisse, and Sprüngli
 tags:
 - things_to_do
+- bahnhofstrasse
 - landmark
 - city_lindenhof
 title: Paradeplatz

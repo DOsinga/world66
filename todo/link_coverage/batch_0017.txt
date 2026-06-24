@@ -1,5 +1,5 @@
 africa/tunisia/tamerza
-africa/zambia/livingstone
+africa/tanzania/zanzibar/jozani_chwaka_bay
 africa/zimbabwe/hwange
 africa/zimbabwe/manapools
-asia/cambodia/kampot
+africa/tanzania/zanzibar/nungwi

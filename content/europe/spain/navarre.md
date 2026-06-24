@@ -6,8 +6,13 @@ loc_type: region
 longitude: -1.708623
 score: 0.61
 title: Navarre
-snippet: Northern Spanish region between Pyrenees and Ebro plains, shaped by old kingdom history and sharp landscape contrasts.
+snippet: Northern Spanish region between Pyrenees and Ebro plains, shaped by old kingdom
+  history and sharp landscape contrasts.
 type: location
+image: navarre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Baztan.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Aitzol Berasategi
 ---
 
 Navarre sits between the Pyrenees and the Ebro valley, a small region with an outsized history. For centuries it was an independent kingdom, caught between France and Spain, and that fierce independence still shows in everything from local politics to the food on the table.

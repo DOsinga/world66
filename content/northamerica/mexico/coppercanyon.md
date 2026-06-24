@@ -9,6 +9,10 @@ snippet: Sierra Madre canyon network in Chihuahua, crossed by the Chepe railway 
   bridges, tunnels, and pine forests.
 title: Copper Canyon
 type: location
+image: coppercanyon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rio_urique_kupferschlucht.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Unknown
 ---
 
 Copper Canyon — Barranca del Cobre — is not one canyon but a network of more than 20, carved into the Sierra Madre Occidental in the state of Chihuahua. Together they cover a vast area, deeper and four times larger than the Grand Canyon in the United States. The name comes from the greenish copper colour of the canyon walls.

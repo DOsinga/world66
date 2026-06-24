@@ -4,13 +4,18 @@ type: location
 latitude: 12.543322
 longitude: 104.814491
 quick_facts:
-  Population: "17 million"
+  Population: 17 million
   Currency: Riel (USD widely used)
-  Angkor Temples: "1,000+"
+  Angkor Temples: 1,000+
   Tonle Sap: Reverses flow yearly
 score: 0.77
 loc_type: country
-snippet: "Cambodia is a Southeast Asian country shaped by Angkor temples, Khmer history, and Mekong lowlands."
+snippet: Cambodia is a Southeast Asian country shaped by Angkor temples, Khmer history,
+  and Mekong lowlands.
+image: cambodia.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bjørn Christian Tørrissen
 ---
 
 Cambodia is one of Southeast Asia's most absorbing countries — a place where one of history's greatest civilizations left its mark in stone, and where a more recent history of extraordinary suffering is still within living memory. The contrast between Angkor's immense temples and the Khmer Rouge killing fields gives Cambodia a weight that few countries in the region can match.

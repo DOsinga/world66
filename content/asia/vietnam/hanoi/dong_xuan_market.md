@@ -1,14 +1,15 @@
 ---
-title: "Dong Xuan Market"
-type: poi
-tags:
-  - things_to_do
-  - market
-  - sight
 latitude: 21.0382
-longitude: 105.8500
-snippet: "Hanoi's oldest and largest market, in the Old Quarter since 1889"
+longitude: 105.85
 score: 7.0
+snippet: Hanoi's oldest and largest market, in the Old Quarter since 1889
+tags:
+- things_to_do
+- old_quarter
+- market
+- sight
+title: Dong Xuan Market
+type: poi
 ---
 
 Dong Xuan Market has been at the northern end of the Old Quarter since 1889, when the French colonial administration consolidated Hanoi's street traders into a covered building. The current three-storey structure dates from a 1994 reconstruction after a fire destroyed the original hall. It is primarily a wholesale market — plastic goods, fabrics, garments, electronics, housewares — though retail buyers are welcome. The upper floors are more chaotic and less visited by tourists, which makes them more interesting.

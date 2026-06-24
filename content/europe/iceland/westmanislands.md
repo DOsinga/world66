@@ -9,6 +9,10 @@ snippet: Volcanic island group off south Iceland, centered on Heimaey's cliffs, 
   and eruption-scarred harbour.
 title: Westman islands
 type: location
+image: westmanislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vestmannaeyjar044.JPG
+image_license: CC BY-SA 2.5
+image_attribution: Hansueli Krapf (User:Simisa)
 ---
 
 **Vestmannaeyjar**- Westman Islands- Vestman-islands 

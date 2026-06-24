@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: lunenburg.jpg
 image_attribution: Madereugeneandrew
@@ -8,13 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Lunenburg,_Nova_Scotia,_Ca
 latitude: 44.3764
 loc_type: city
 longitude: -64.3115
+score: 0.52
+snippet: Colonial harbour town in Nova Scotia with an 18th-century grid and brightly
+  painted wooden streetscapes.
 sources:
 - https://en.wikipedia.org/wiki/Lunenburg,_Nova_Scotia
 - https://en.wikivoyage.org/wiki/Lunenburg
 title: Lunenburg
 type: location
-score: 0.52
-snippet: Colonial harbour town in Nova Scotia with an 18th-century grid and brightly painted wooden streetscapes.
 ---
 
 *North America > Canada > Nova Scotia > Lunenburg*

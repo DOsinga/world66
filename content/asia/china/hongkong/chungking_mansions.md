@@ -1,19 +1,23 @@
 ---
-title: "Chungking Mansions"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - neighbourhood
 latitude: 22.2989
 longitude: 114.1722
-snippet: Legendary tower block of cheap guesthouses, curry restaurants, and informal trade
-story: >
-  Anthropologist Gordon Mathews called Chungking Mansions "the most globalized building in the world,"
-  a place where traders from South Asia, Sub-Saharan Africa, and Southeast Asia converge in a single
-  17-storey block. Surveys suggest that around 20 percent of the mobile phones in Sub-Saharan Africa
-  pass through it at some point in their distribution chain.
 score: 8.8
+snippet: Legendary tower block of cheap guesthouses, curry restaurants, and informal
+  trade
+story: 'Anthropologist Gordon Mathews called Chungking Mansions "the most globalized
+  building in the world," a place where traders from South Asia, Sub-Saharan Africa,
+  and Southeast Asia converge in a single 17-storey block. Surveys suggest that around
+  20 percent of the mobile phones in Sub-Saharan Africa pass through it at some point
+  in their distribution chain.
+
+  '
+tags:
+- things_to_do
+- kowloon
+- sight
+- neighbourhood
+title: Chungking Mansions
+type: poi
 ---
 
 Chungking Mansions on Nathan Road in Tsim Sha Tsui is one of the most improbable places in Hong Kong: a crumbling 17-storey residential block from 1961 that has become a global hub of informal trade, cheap accommodation, and South Asian street food. It is simultaneously tatty, vital, overwhelming, and irreplaceable.

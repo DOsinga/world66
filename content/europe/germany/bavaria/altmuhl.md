@@ -10,6 +10,10 @@ snippet: Bavarian river valley of limestone cliffs, medieval towns, Roman traces
   and long-distance cycling routes
 title: Altmühl Valley
 type: location
+image: altmuhl.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Essing_Altm%C3%BChl2009_P1020203.jpeg
+image_license: CC BY 3.0
+image_attribution: Jacquesverlaeken
 ---
 
 The Altmühl Valley (Altmühltal) is a natural park in central Bavaria, threading along the Altmühl River between Gunzenhausen and Kelheim. It is one of Germany's most popular cycling and hiking destinations, and it earns that reputation: limestone cliffs, medieval walled towns, Roman ruins, and a river wide enough to canoe make for a genuinely varied few days.

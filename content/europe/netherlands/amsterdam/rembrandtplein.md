@@ -4,6 +4,9 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:NieuwRembrandtplein.JPG
 latitude: 52.366
 longitude: 4.8966
+tags:
+- things_to_do
+- neighbourhood
 title: Rembrandtplein
 type: neighbourhood
 ---

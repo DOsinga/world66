@@ -9,8 +9,13 @@ score: 0.56
 sources:
 - https://en.wikipedia.org/wiki/Carvoeiro_(Lagoa)
 title: Carvoeiro
-snippet: Algarve resort village built around a sheltered cove beneath ochre cliffs and limestone sea caves.
+snippet: Algarve resort village built around a sheltered cove beneath ochre cliffs
+  and limestone sea caves.
 type: location
+image: carvoeiro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Carvoeiro_Portugal_February_2015_03.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bengt Nyman
 ---
 
 Carvoeiro is a small, picturesque resort village built around a sandy cove framed by ochre cliffs. Once a fishing village, it retains a quieter, more laid-back atmosphere than [Albufeira](/europe/portugal/algarve/albufeira) to the east. The beach is compact but sheltered, and the surrounding coastline has some of the best diving in the Algarve.

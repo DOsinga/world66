@@ -11,6 +11,11 @@ snippet: Desert peninsula between the Gulfs of Suez and Aqaba, with granite moun
   wadis, and coral reefs.
 title: Sinai Peninsula
 type: location
+image: sinaidesert.jpg
+image_source: https://commons.wikimedia.org/wiki/File:ISJabalMusa.JPG
+image_license: Public domain
+image_attribution: No machine-readable author provided. Cirodite assumed (based on
+  copyright claims).
 ---
 
 The Sinai Peninsula is a triangular wedge of desert and mountains wedged between Africa and Asia, connecting the two continents while belonging fully to neither. To the west lies the Gulf of Suez; to the east, the Gulf of Aqaba. The Mediterranean closes it off in the north. It is a place of granite mountains, deep sandy wadis, turquoise water, and some of the world's best coral reefs — all packed into a relatively small area that rewards travellers willing to look beyond the beach resorts.

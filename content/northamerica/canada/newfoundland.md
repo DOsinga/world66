@@ -9,6 +9,10 @@ snippet: Atlantic Canadian island known for St. John's, Cape Spear, fishing vill
   and rugged coastal scenery.
 title: Newfoundland
 type: location
+image: newfoundland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bonavista_Cabot_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Evan T Jones
 ---
 
 Come to the place where the New World begins. Feel the power of the Atlantic as it meets North America for the first time. It happens right here at Cape Spear. Where Newfoundland's oldest surviving lighthouse has stood for 16 decades. Where the wind warms your soul and where you're closer to Ireland's Cape Clear than Ontario's Thunder Bay. 

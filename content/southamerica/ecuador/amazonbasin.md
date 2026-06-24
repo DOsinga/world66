@@ -11,6 +11,10 @@ snippet: Ecuadorian rainforest region of Andean-fed rivers, humid forest, and In
   settlements east of the mountains.
 title: Amazon basin
 type: location
+image: amazonbasin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Campo12Foto_2.JPG
+image_license: CC BY 3.0
+image_attribution: Jorge.kike.medina
 ---
 
 **AMAZON IN ECUADOR** **TOP**

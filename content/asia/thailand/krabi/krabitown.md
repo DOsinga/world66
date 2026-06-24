@@ -9,6 +9,10 @@ snippet: Provincial capital on the Krabi River, with markets and temples near An
   coast ferries.
 title: Krabi Town
 type: location
+image: krabitown.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Wat_Tham_Sua_18.jpg
+image_license: CC BY-SA 3.0
+image_attribution: kallerna
 ---
 
 Krabi Town is the provincial capital of Krabi, sitting where the Krabi River flows into Phang Nga Bay on Thailand's Andaman coast. Most travellers pass through on their way to the beaches and islands — [Ao Nang](/asia/thailand/krabi/aonang), Railay, and the ferry piers are all nearby — but the town itself is worth a couple of days. It has a genuine character that the resort strips lack: a busy morning market, a walkable riverside promenade, Buddhist temples, and a lively night market.

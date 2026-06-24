@@ -9,6 +9,10 @@ snippet: Mountainous Cape Verde island of green ravines, dry volcanic slopes, an
   cobbled village walking paths
 title: Santo Antão
 type: location
+image: santo_antao.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vale_do_Pa%C3%BAl,_Santo_Ant%C3%A3o,_Cape_Verde.jpg
+image_license: CC BY-SA 4.0
+image_attribution: CaptainDarwin
 ---
 
 Santo Antão is the northernmost and most mountainous island in the Cape Verde archipelago, and for many visitors it is the most beautiful. The island splits dramatically into two halves: the northeast is green and lush, with steep valleys filled with sugarcane, banana plantations, and dripping tropical vegetation, while the southwest is dry, barren, and volcanic.

@@ -9,6 +9,10 @@ snippet: High Tibetan base camp below Everest's north face, reached across the p
   via Rongbuk Monastery
 title: Everest Base Camp (Tibet)
 type: location
+image: everest_base_camp.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Everest_Base_Camp_sits_on_top_of_melting_glacier.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nirojsedhai
 ---
 
 The Tibetan-side Everest Base Camp sits at 5,200 metres on the northern approach to the mountain, several days' drive from Lhasa across the high plateau. It is less visited than the Nepali side, but the journey through Tibet is spectacular and the views of Everest's north face from Rongbuk are unforgettable. Be prepared for four seasons in a day — blazing sun, bitter wind, sudden snow, and everything in between.

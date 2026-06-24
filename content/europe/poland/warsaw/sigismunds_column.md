@@ -1,16 +1,18 @@
 ---
-title: "Sigismund's Column"
-type: poi
-tags:
-  - things_to_do
-  - old_town
-  - sight
 latitude: 52.2473
 longitude: 21.0134
-snippet: "Warsaw's most iconic monument — a 17th-century column topped by the king who moved the capital here"
-sources:
-  - https://en.wikipedia.org/wiki/Sigismund's_Column
 score: 6.3
+snippet: Warsaw's most iconic monument — a 17th-century column topped by the king
+  who moved the capital here
+sources:
+- https://en.wikipedia.org/wiki/Sigismund's_Column
+tags:
+- things_to_do
+- old_town_district
+- old_town
+- sight
+title: Sigismund's Column
+type: poi
 ---
 
 Sigismund's Column in Castle Square is the most recognisable landmark in Warsaw. Erected in 1644 by King Władysław IV in honour of his father Sigismund III Vasa — who moved the Polish capital from Kraków to Warsaw in 1596 — it was one of the first secular columns erected in northern Europe in the classical tradition. The king holds a cross and a sword atop a 22-metre granite column.

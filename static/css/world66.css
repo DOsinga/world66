@@ -2059,6 +2059,19 @@ img { max-width: 100%; height: auto; }
   overflow: hidden;
 }
 
+#city-map canvas {
+  display: block;
+}
+
+#city-map.is-exploring-globe canvas {
+  cursor: grab;
+  touch-action: none;
+}
+
+#city-map.is-exploring-globe canvas:active {
+  cursor: grabbing;
+}
+
 .home-travel-line {
   filter: drop-shadow(0 1px 2px rgba(90,40,16,0.28));
   stroke-linecap: round;
@@ -2178,7 +2191,7 @@ img { max-width: 100%; height: auto; }
   .home-hero-body { padding: 0 24px; max-width: 100%; }
   .home-continent-grid { grid-template-columns: repeat(2, 1fr); }
   .home-story-grid { grid-template-columns: repeat(2, 1fr); }
-  .home-city-map-wrap { height: 400px; margin-bottom: 180px; }
+  .home-city-map-wrap { height: 400px; margin-bottom: 330px; }
   .wide-block { padding-left: 20px; padding-right: 20px; }
 }
 

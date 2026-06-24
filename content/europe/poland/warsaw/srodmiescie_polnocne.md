@@ -8,6 +8,10 @@ tags:
 - neighbourhood
 title: Śródmieście Północne
 type: neighbourhood
+image: srodmiescie_polnocne.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Warszawa,_pl._Zamkowy,_ul._Krakowskie_Przedmie%C5%9Bcie_20170516_001.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tilman2007
 ---
 
 Śródmieście Północne is the northern half of Warsaw's city centre, stretching from the edge of the Old Town south to Aleje Jerozolimskie. Its spine is [Krakowskie Przedmieście](/europe/poland/warsaw/krakowskie_przedmiescie), the grandest street in Poland — a procession of Baroque and Neoclassical palaces, embassies, churches, and the University of Warsaw, lined with outdoor cafes in summer.

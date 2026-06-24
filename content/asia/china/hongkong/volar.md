@@ -1,14 +1,16 @@
 ---
-title: "Volar"
-type: poi
-address: "Basement, 38-44 D'Aguilar Street, Lan Kwai Fong"
+address: Basement, 38-44 D'Aguilar Street, Lan Kwai Fong
 latitude: 22.2808
 longitude: 114.1544
-tags:
-  - bars_and_cafes
-  - bar
-  - lan_kwai_fong
 score: 5.7
+tags:
+- bars_and_cafes
+- hongkongisland
+- central
+- bar
+- lan_kwai_fong
+title: Volar
+type: poi
 ---
 
 A basement club in the thick of Lan Kwai Fong that built its reputation on hip-hop and electronic nights, with a steady stream of international DJs alongside resident spinners. The room is small and gets very crowded on weekends.

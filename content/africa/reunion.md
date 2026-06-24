@@ -12,6 +12,10 @@ snippet: French Indian Ocean island of volcanic peaks, sugar history, turquoise 
   and Creole culture.
 title: Reunion
 type: location
+image: reunion.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20140915-1002_-_R%C3%A9union_-_0814.jpg
+image_license: CC BY-SA 4.0
+image_attribution: JarodFR
 ---
 
 Reunion is a French department lost in the Indian Ocean. There are coconut trees and beaches in Reunion, the turquoise blue lagoons and the white barrier reef are there waiting for you to fulfil your exotic dreams. 

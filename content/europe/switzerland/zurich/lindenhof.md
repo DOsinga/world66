@@ -3,13 +3,14 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 47.372916
 longitude: 8.540176
+score: 7.6
 snippet: Roman hilltop square with panoramic views over the Limmat
 tags:
 - things_to_do
+- schipfe
 - landmark
 title: Lindenhof
 type: poi
-score: 7.6
 ---
 
 A quiet square on a low hill above the Limmat, the Lindenhof sits on the site of a Roman fort and customs post that guarded the river crossing. Today it is one of Zurich's most pleasant spots to pause — locals play giant chess here, and the view stretches across the river to Grossmünster and the old town rooftops.

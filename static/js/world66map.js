@@ -299,11 +299,24 @@ function initLocationMap(elementId, markers, options) {
         labelled.forEach(function(m) { _addLabelMarker(m, isSingle); });
     }
 
+    // Returns a bounds covering the middle 80% of markers (trimming the outermost
+    // 10% on each geographic axis). Prevents a single outlier from forcing a
+    // city map to zoom out to show e.g. a suburban day-trip POI.
+    // Returns null when there are too few markers to trim meaningfully.
+    function _trimmedBounds(mkrs) {
+        if (mkrs.length < 6) return null;
+        var lats = mkrs.map(function(m) { return m.lat; }).sort(function(a, b) { return a - b; });
+        var lngs = mkrs.map(function(m) { return m.lng; }).sort(function(a, b) { return a - b; });
+        var lo = Math.floor(mkrs.length * 0.1);
+        var hi = Math.ceil(mkrs.length * 0.9) - 1;
+        return L.latLngBounds([lats[lo], lngs[lo]], [lats[hi], lngs[hi]]);
+    }
+
     function _fitToGroup(grp, mkrs, opts) {
         if ((opts || {}).bounds) {
             map.fitBounds((opts).bounds, {animate: false});
         } else if (mkrs.length > 1) {
-            map.fitBounds(grp.getBounds().pad(0.15));
+            map.fitBounds((_trimmedBounds(mkrs) || grp.getBounds()).pad(0.15));
         } else if (mkrs.length === 1) {
             var zoom = (opts || {}).isPoi ? 15 : 10;
             var center = L.latLng(mkrs[0].lat, mkrs[0].lng);
@@ -343,7 +356,7 @@ function initLocationMap(elementId, markers, options) {
                 map.invalidateSize();
                 _renderMarkers(_allMarkers);
                 if (group.getLayers().length > 1) {
-                    map.fitBounds(group.getBounds().pad(0.15));
+                    map.fitBounds((_trimmedBounds(_allMarkers) || group.getBounds()).pad(0.15));
                 }
             });
         });
@@ -361,10 +374,10 @@ function initLocationMap(elementId, markers, options) {
         if (btn) {
             function refitMap() {
                 map.invalidateSize();
-                if (markers.length > 1) {
-                    map.fitBounds(group.getBounds().pad(0.15));
-                } else if (markers.length === 1) {
-                    map.setView([markers[0].lat, markers[0].lng], options.isPoi ? 15 : 10);
+                if (_allMarkers.length > 1) {
+                    map.fitBounds((_trimmedBounds(_allMarkers) || group.getBounds()).pad(0.15));
+                } else if (_allMarkers.length === 1) {
+                    map.setView([_allMarkers[0].lat, _allMarkers[0].lng], options.isPoi ? 15 : 10);
                 }
             }
 

@@ -11,6 +11,6 @@ story: >
 score: 7.2
 ---
 
-Cerro Negro, near [León](/northamerica/nicaragua/leon) about two hours northwest of Managua, has developed an unusual tourist speciality: volcano boarding, or sliding down the steep ash slopes of an active volcano on a wooden board. The volcano last erupted in 1999 and remains active; the black ash slopes are loose and very steep, and the ride down is fast and uncontrolled in a genuinely exciting way.
+Cerro Negro, near [León](/northamerica/nicaragua/len) about two hours northwest of Managua, has developed an unusual tourist speciality: volcano boarding, or sliding down the steep ash slopes of an active volcano on a wooden board. The volcano last erupted in 1999 and remains active; the black ash slopes are loose and very steep, and the ride down is fast and uncontrolled in a genuinely exciting way.
 
 The activity is organised by tour operators in León and takes a half-day. The hike up the 728-metre cone takes about 45 minutes and gives extraordinary views over the volcanic landscape of western Nicaragua. The board ride down takes considerably less. You emerge at the bottom covered in black volcanic ash. It is one of the more memorable activities in Central America and is easily combined with a visit to León from Managua.

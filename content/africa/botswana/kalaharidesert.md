@@ -9,6 +9,10 @@ snippet: Semi-arid sand basin across Botswana, with savannah, salt pans, and the
   name Kgalagadi.
 title: Kalahari Desert
 type: location
+image: kalaharidesert.jpg
+image_source: https://commons.wikimedia.org/wiki/File:KalahariBirdView.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Elisabeth Dürr &amp; Hp.Baumeler
 ---
 
 Derived from the Tswana word "Kgalagadi" meaning "the great thirst", the Kalahari is one of the world's most extensive mantles of sand. It stretches south into [South Africa](/africa/southafrica), west into [Namibia](/africa/namibia), and north into [Angola](/africa/angola) and [Zambia](/africa/zambia). This ocean of sand covers the hollow basin of Botswana and forms a flat plain that accounts for nearly 70% of the country.

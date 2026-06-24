@@ -3,12 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 22.247077
 longitude: 114.187541
+score: 6.8
 snippet: Quiet beach flanked by mansions and flame trees, with a path to Repulse Bay
 tags:
 - beaches
+- hongkongisland
 title: Deep Water Bay
 type: poi
-score: 6.8
 ---
 
 This attractive bay lies beyond Aberdeen along a scenic coastal road flanked by flame trees and imposing cliffside mansions. Its public beach, one of the most attractive in Hong Kong, is next to the Hong Kong Golf Club's annex. A scenic pathway winds along the coast from here to Repulse Bay.

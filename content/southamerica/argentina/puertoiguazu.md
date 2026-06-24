@@ -10,6 +10,10 @@ snippet: Argentine border town at the Iguazú and Paraná rivers, serving as the
   for Iguazú Falls.
 title: Puerto Iguazú
 type: location
+image: puertoiguazu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Puerto_Iguaz%C3%BA.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Betuca Buril from Brazil
 ---
 
 Puerto Iguazú is a small Argentine town whose entire reason for being is proximity to one of the world's great natural spectacles: Iguazú Falls. Sitting at the confluence of the Iguazú and Paraná rivers, where Argentina, Brazil, and Paraguay meet, the town is a quiet, low-key base for exploring the national park. Most visitors arrive, spend a day or two at the falls, and leave — but the town itself is pleasant enough and accommodation is plentiful.

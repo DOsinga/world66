@@ -9,6 +9,10 @@ snippet: Tonga's largest island and main population centre, with Nuku'alofa on i
   north coast.
 title: Tongatapu
 type: location
+image: tongatapu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sandy_beach_in_southern_Tongatapu.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Uhooep
 ---
 
 Tongatapu is the largest island in Tonga and home to about two-thirds of the country's population. It's flat — most of the island barely rises above sea level — and roughly triangular, about 34km from west to east. The north coast is a low reef platform; the south and east coasts meet steep limestone cliffs dropping into deep water.

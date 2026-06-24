@@ -12,6 +12,8 @@ longitude: 11.6341
 score: 0.34
 snippet: Small Lolland town known for a grinning yellow water tower and quiet island
   harbour.
+tags:
+- lolland
 title: Sakskøbing
 type: location
 ---

@@ -1,13 +1,13 @@
 ---
 address: Western Bank, Sheffield S10 2TP
 latitude: 53.3797
-loc_type: feature
 longitude: -1.4945
 snippet: Sheffield's main civic museum — local history, archaeology, and natural history
 tags:
 - things_to_do
 - museum
 title: Weston Park Museum
+type: poi
 ---
 
 Sheffield's main civic museum, reopened in 2006 after a major refit, with collections covering local history, archaeology, world cultures, and natural history. The Sheffield Life and Times gallery is the strongest — Bronze Age finds from Stanage Edge, a reconstructed 1950s steel-worker's kitchen, contemporary objects donated by Sheffield residents.

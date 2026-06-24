@@ -1,9 +1,14 @@
 ---
-title: 'Day Trips'
+title: Day Trips
 type: section
+linked_locations:
+- northamerica/unitedstates/texas/galveston
+- northamerica/unitedstates/texas/fortbendcounty
 ---
 
 Houston's central Gulf Coast location puts beaches, small towns, and state parks within easy driving distance.
+
+Galveston Island and Fort Bend County are the easiest full-day escapes: one for Gulf beaches and Victorian streets, the other for Brazos River towns and Brazos Bend State Park.
 
 **Blue Bell Creamery**
 

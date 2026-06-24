@@ -1,5 +1,0 @@
-europe/faroeislands/eysturoy/noroyggjar/eii
-europe/faroeislands/mykines
-europe/france/alpes/samoens
-europe/albania/apollonia
-europe/france/aquitaine/saint_emilion

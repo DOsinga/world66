@@ -6,6 +6,7 @@ snippet: "Cocktail lounge on Oxford Street for sitting and sipping"
 tags:
 - bars_and_cafes
 - bar
+- darlinghurst
 title: Gilligans
 type: poi
 score: 5.5

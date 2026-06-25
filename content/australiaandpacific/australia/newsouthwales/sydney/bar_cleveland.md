@@ -9,6 +9,7 @@ snippet: Heritage-listed Surry Hills pub with craft beers on tap
 tags:
 - bars_and_cafes
 - bar
+- surry_hills
 score: 5.8
 ---
 

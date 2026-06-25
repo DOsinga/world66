@@ -9,6 +9,10 @@ score: 0.45
 tags:
 - neighbourhood
 - things_to_do
+image: surry_hills.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Looking_over_Surry_Hills_and_Central_station_(11381496365).jpg
+image_license: CC BY 2.0
+image_attribution: FotoSleuth
 ---
 
 Surry Hills is an inner-city neighbourhood of Sydney, south of the CBD and east of Central Station, that has transformed over several decades from a working-class district of terrace houses into one of Sydney's most active eating and drinking precincts. The change happened gradually — artists and designers moved in first, then cafes and restaurants followed, and the neighbourhood never quite lost its edge even as the prices rose.

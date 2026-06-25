@@ -8,6 +8,7 @@ snippet: Over-the-water seafood dining at Manly Cove
 tags:
 - eating_out
 - restaurant
+- manly
 score: 6.3
 ---
 

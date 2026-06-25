@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-21'
 latitude: 16.4583
-loc_type: city
+loc_type: feature
 longitude: 107.635
 score: 7.38
 snippet: Local beach east of Hue where the Huong River meets Tam Giang Lagoon and

@@ -6,7 +6,7 @@ image: tamgianglagoon.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Tam_Giang_Lagoon.jpg
 latitude: 16.373383
-loc_type: city
+loc_type: feature
 longitude: 107.876348
 score: 7.97
 snippet: Tam Giang Lagoon is Vietnam’s largest lagoon system, a working landscape

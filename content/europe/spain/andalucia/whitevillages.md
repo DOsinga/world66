@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-15'
 latitude: 36.7468
-loc_type: city
+loc_type: feature
 longitude: -5.1609
 score: 9.16
 snippet: Andalucía's white hill-town region, where castle-topped villages sit among

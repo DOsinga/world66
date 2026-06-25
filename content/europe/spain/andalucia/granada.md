@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-21'
 image: granada.jpg
-image_attribution: Quintin Soloviev
+image_attribution: Tesla Delacroix
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Alhambra_El_Partal_(cropped)_(cropped).jpg
 latitude: 37.173499

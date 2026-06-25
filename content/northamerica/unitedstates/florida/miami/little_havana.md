@@ -1,8 +1,12 @@
 ---
+image: little_havana.jpg
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:April_7,_2015_-_Little_Havana,_Miami,_Florida.jpg
 latitude: 25.7726
 longitude: -80.2146
 tags:
 - things_to_do
+- neighbourhood
 title: Little Havana
 type: neighbourhood
 ---

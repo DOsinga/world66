@@ -1,8 +1,12 @@
 ---
+image: wynwood.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Wynwood_Walls_Miami_Florida_October_2013.jpg
 latitude: 25.804
 longitude: -80.199
 tags:
 - things_to_do
+- neighbourhood
 title: Wynwood
 type: neighbourhood
 ---

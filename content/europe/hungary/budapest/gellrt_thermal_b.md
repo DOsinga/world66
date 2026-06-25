@@ -7,6 +7,7 @@ score: 8.8
 snippet: Budapest's most beautiful Art Nouveau thermal bath, opened in 1918
 tags:
 - things_to_do
+- ujbuda
 - bath
 - museum
 - architecture

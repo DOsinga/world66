@@ -6,6 +6,7 @@ phone: (02)562-1075 (Korean)
 snippet: "Everything you ever wanted to know about Korea's national dish"
 tags:
 - things_to_do
+- gangnam
 - museum
 title: Kimchi Museum
 type: poi

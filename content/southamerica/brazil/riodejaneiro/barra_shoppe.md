@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -22.998257
 longitude: -43.357461
+score: 3.2
 snippet: Massive mall in Barra da Tijuca with cinemas
 tags:
 - shopping
 - shop
+- barra_da_tijuca
 title: BarraShopping
 type: poi
-score: 3.2
 ---
 
 One of Rio's largest shopping malls, BarraShopping sits in Barra da Tijuca, the sprawling beachfront district west of Zona Sul. It houses hundreds of shops across multiple floors, anchored by major Brazilian and international brands. The attached New York City Center complex adds a multiplex cinema and additional restaurants.

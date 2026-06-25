@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-03'
+  major_city_neighborhoods: '2026-06-23'
   poi_cleanup: '2026-04-21'
 image: zurich.jpg
 image_license: CC BY-SA 3.0 de

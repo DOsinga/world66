@@ -9,6 +9,10 @@ snippet: Attica headland where the Temple of Poseidon stands above the Aegean at
   southern tip.
 title: Cape Sounion
 type: location
+image: capesounion.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sounio_Naos_Poseidona.jpg
+image_license: CC BY-SA 4.0
+image_attribution: GeorgiosDiamantopoulos
 ---
 
 Cape Sounion sits at the southernmost tip of the Attica peninsula, about 70 km from Athens. The Temple of Poseidon, perched on the cliff edge 60 metres above the Aegean, is one of the most dramatically sited ancient ruins in Greece. The temple dates to 440 BC — roughly contemporary with the Parthenon — and its surviving Doric columns are visible from far out at sea.

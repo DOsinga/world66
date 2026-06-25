@@ -8,6 +8,10 @@ snippet: Catalan mountain massif and Benedictine monastery, famous for serrated 
 title: Montserrat
 todo_location_cleanup: done
 type: location
+image: montserrat.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Montserrat_des_de_Manresa.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Josep Renalias
 ---
 
 Montserrat is the spiritual heart of Catalonia, a dramatic massif of jagged serrated peaks rising out of the plains northwest of Barcelona. The name means "serrated mountain," and the silhouette lives up to it — the strange, rounded rock formations have inspired legends across the centuries, including the story that Parsifal found the Holy Grail here and that Wagner sought inspiration for his opera among the peaks.

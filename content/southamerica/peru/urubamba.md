@@ -7,6 +7,10 @@ snippet: Sacred Valley market town below Cusco, set among fertile fields along t
   Urubamba River.
 title: Urubamba
 type: location
+image: urubamba.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Urubamba_2019-10-10-1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Alexey Komarov
 ---
 
 Urubamba is a small market town in Peru's Sacred Valley, about 60 kilometres northwest of Cusco along the valley floor. At 2,863 metres, it sits lower than Cusco and has a noticeably warmer, more agricultural feel — the valley here is wide and fertile, planted with maize and vegetables that supply Cusco and the surrounding towns.

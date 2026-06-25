@@ -18,6 +18,10 @@ title: New Orleans
 snippet: Mississippi River city where French, Spanish, African, and Caribbean cultures
   shape the streets.
 type: location
+image: neworleans.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cafe_du_Monde_New_Orleans.jpg
+image_license: Public domain
+image_attribution: justinsomnia.org
 ---
 
 New Orleans is unlike any other city in the United States: part French, part Spanish, part African, part Caribbean, and entirely itself. It is a city of above-ground cemeteries, brass bands, voodoo, Mardi Gras, and Creole cuisine — a place where the past is not preserved behind glass but still operating in the streets. [Jackson Square](/northamerica/unitedstates/louisiana/neworleans/jackson_square) and [St. Louis Cathedral](/northamerica/unitedstates/louisiana/neworleans/st_louis_cathedral) define the heart of the [French Quarter](/northamerica/unitedstates/louisiana/neworleans/french_quarter); [Frenchmen Street](/northamerica/unitedstates/louisiana/neworleans/frenchmen_street) in the [Faubourg Marigny](/northamerica/unitedstates/louisiana/neworleans/marigny) is where the music actually lives.

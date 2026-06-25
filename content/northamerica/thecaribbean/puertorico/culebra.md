@@ -10,6 +10,10 @@ snippet: Small Puerto Rican island of arid hills, reefs, and Flamenco Beach's pa
   sand
 title: Culebra
 type: location
+image: culebra.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Culebra_Island,_Puerto_Rico.jpg
+image_license: CC BY-SA 2.5
+image_attribution: Hmalaret
 ---
 
 Culebra is a small, arid island off the east coast of [Puerto Rico](/northamerica/thecaribbean/puertorico), reachable by ferry from Ceiba or by a short flight from [San Juan](/northamerica/thecaribbean/puertorico/sanjuan) — the aerial views of the cays and reefs on approach are worth the fare alone.

@@ -1,14 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: jiuzhaigou.jpg
+image_attribution: chensiyuan
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_rhino_lake_2011.jpg
 latitude: 33.30716
-longitude: 103.932599
-title: Jiuzhaigou
-type: location
-score: 9.43
 loc_type: feature
+longitude: 103.932599
+score: 9.43
 snippet: Northern Sichuan valley of turquoise lakes, Tibetan villages, waterfalls,
   and forested snow peaks.
+title: Jiuzhaigou
+type: location
 ---
 
 Jiuzhaigou Valley is one of China's most spectacular natural landscapes — a UNESCO World Heritage Site in northern Sichuan Province where turquoise lakes, multi-tiered waterfalls, and snow-dusted peaks are set in dense forests of spruce, fir, and birch. The name means "Nine Village Valley," after the Tibetan settlements scattered along the valley floor.

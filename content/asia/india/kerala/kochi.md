@@ -2,6 +2,10 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-22'
+image: kochi.jpg
+image_attribution: Kno-Biesdorf
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:07.10.2007_Sunset_at_Kochi-Fishernets.jpg
 latitude: 9.967903
 loc_type: city
 longitude: 76.244438

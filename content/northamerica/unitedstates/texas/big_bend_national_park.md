@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+image: big_bend_national_park.jpg
+image_attribution: Adbar
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Big_Bend_Chihuahuan_Desert.jpg
 latitude: 29.3332
 loc_type: feature
 longitude: -103.1942

@@ -1,6 +1,6 @@
 ---
 latitude: 12.475
-loc_type: city
+loc_type: island
 longitude: -61.45
 score: 8.27
 snippet: Small Grenadian sister island with Scottish boatbuilding roots and a self-contained

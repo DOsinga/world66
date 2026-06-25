@@ -1,9 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: lantau.jpg
+image_attribution: Diego Delso
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Costa_de_la_Isla_Lantau,_Hong_Kong,_2013-08-13,_DD_01.jpg
 latitude: 22.2935
 longitude: 113.9601
 score: 0.63
+tags:
+- things_to_do
+- neighbourhood
 title: Lantau
 type: neighbourhood
 ---

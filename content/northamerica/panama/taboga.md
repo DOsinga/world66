@@ -6,7 +6,9 @@ image: taboga.jpg
 image_attribution: Editorpana
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Taboga_island.jpg
+latitude: 8.8
 loc_type: city
+longitude: -79.55
 score: 7.67
 snippet: Small Bay of Panama island with a colonial village, green hills, and beaches
   near the capital.

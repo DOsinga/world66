@@ -7,6 +7,10 @@ snippet: Terai national park protecting subtropical jungle, grassland, rhinocero
   tigers, and river valleys in lowland Nepal
 title: Royal Chitwan National Park
 type: location
+image: royalchitwannationalpark.jpg
+image_source: https://commons.wikimedia.org/wiki/File:One-Horned_Rhino_Peeing.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Tsephu
 ---
 
 Royal Chitwan National Park is Nepal's oldest national park and one of Asia's great wildlife reserves, protecting a large expanse of subtropical lowland jungle, grassland, and riverside forest in the Terai. It was established in 1973 and declared a UNESCO World Heritage Site in 1984. The park covers about 952 square kilometres of the Rapti and Reu river valleys, with the Siwalik Hills rising to the north and the Narayani River marking the western boundary.

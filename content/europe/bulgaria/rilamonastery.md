@@ -1,6 +1,10 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: rilamonastery.jpg
+image_attribution: Daniel Petrov
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Rila_Monastery,_view_to_the_main_church_%22Nativity_of_the_Virgin_Mother%22.jpg
 latitude: 42.133299
 loc_type: feature
 longitude: 23.340187

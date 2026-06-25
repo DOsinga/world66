@@ -12,6 +12,10 @@ snippet: High-desert New Mexico town where Pueblo heritage, adobe architecture, 
   a deep art scene converge.
 title: Taos
 type: location
+image: taos.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Church_ruins_at_Taos_Pueblo,_NM.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Maralynyanco
 ---
 
 For a town in the middle of nowhere, Taos has a lot going for it. From the numerous art galleries and shops around [Taos Plaza](/northamerica/unitedstates/newmexico/taos/taos_plaza) to the magnificent ancient dwellings of [Taos Pueblo](/northamerica/unitedstates/newmexico/taos/taos_pueblo), the place has a depth that takes time to appreciate.

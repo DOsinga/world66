@@ -9,6 +9,10 @@ snippet: Central Drakensberg nature reserve beneath a basalt buttress, known for
   and San rock art.
 title: Giant's Castle
 type: location
+image: giants_castle.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Giants_Castle_at_sunrise_from_the_contour_path.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Smurfatefrog
 ---
 
 Giant's Castle is a nature reserve in the Central Drakensberg, named after the massive basalt buttress that dominates its skyline. If you are looking for serious hiking without the crowds, this is one of the best spots in the range. It is entirely possible to spend a day on the trails and see nobody but the game guard at the park entrance.

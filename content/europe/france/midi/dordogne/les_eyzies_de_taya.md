@@ -1,12 +1,16 @@
 ---
-title: Les Eyzies de Tayac
-type: location
-snippet: Dordogne village in the Vézère Valley, surrounded by prehistoric caves and
-  limestone rock shelters.
-loc_type: city
+image: les_eyzies_de_taya.jpg
+image_attribution: Ethan Doyle White
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Les_Eyzies_de_Tayac_town_centre.jpg
 latitude: 44.9353
+loc_type: city
 longitude: 1.0175
 score: 8.42
+snippet: Dordogne village in the Vézère Valley, surrounded by prehistoric caves and
+  limestone rock shelters.
+title: Les Eyzies de Tayac
+type: location
 ---
 
 Les Eyzies de Tayac sits in the Vézère Valley in the Dordogne, in the limestone country of southwestern France, and it claims the title of "world capital of prehistory" without much argument. The cliffs above the village are riddled with caves and rock shelters used by humans for more than 250,000 years, and the valley as a whole contains more recognised UNESCO prehistoric sites than anywhere else on Earth.

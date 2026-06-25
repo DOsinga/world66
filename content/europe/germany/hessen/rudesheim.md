@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/R%C3%BCdesheim_am_Rhein
 title: Rüdesheim
 type: location
+image: rudesheim.jpg
+image_source: https://commons.wikimedia.org/wiki/File:R%C3%BCdeshem_Burg_Ehrenfels_564-65-kh.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Pedelecs
 ---
 
 Rüdesheim am Rhein is one of Germany's most visited small towns — remarkable given its modest population — due to its position at the southern end of the Rheingau wine region and its dramatic Rhine Valley setting. It has been a stop for travellers since at least the early 19th century, when English and German Romantic writers made the Rhine valley fashionable.

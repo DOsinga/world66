@@ -12,6 +12,11 @@ longitude: 14.706091
 score: 7.49
 snippet: Bornholm ferry port with half-timbered old streets, island museums, and a
   Baltic ceramics tradition
+tags:
+- things_to_do
+- sight
+- town
+- bornholmisland
 title: Roenne
 type: location
 ---

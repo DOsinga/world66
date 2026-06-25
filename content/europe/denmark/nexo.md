@@ -14,6 +14,11 @@ snippet: Working Bornholm fishing port with Baltic boats, postwar streets, and t
   legacy of novelist Martin Andersen Nexø.
 sources:
 - https://en.wikipedia.org/wiki/Nex%C3%B8
+tags:
+- things_to_do
+- sight
+- town
+- bornholmisland
 title: Nexo
 type: location
 ---

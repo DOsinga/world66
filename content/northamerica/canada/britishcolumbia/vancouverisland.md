@@ -13,6 +13,10 @@ sources:
 - https://bcparks.ca/macmillan-park/
 title: Vancouver Island
 type: location
+image: vancouverisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Campsite_at_Mystic_Beach,_Vancouver_Island,_Canada.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Michal Klajban
 ---
 
 *North America > Canada > British Columbia > Vancouver Island*

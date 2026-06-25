@@ -1,7 +1,11 @@
 ---
 title: Schiermonnikoog
 type: location
-loc_type: city
+loc_type: island
+image: schiermonnikoog.jpg
+image_attribution: Rudolphous
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Schiermonnikoog_-_Vuurtoren_met_duinen.jpg
 latitude: 53.4788
 longitude: 6.2038
 score: 7.76

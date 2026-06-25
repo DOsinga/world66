@@ -7,7 +7,9 @@ image: lofotenislands.jpg
 image_attribution: Ximonic (Simo Räsänen)
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Cirrus_front_over_Austnesfjorden,_Austvågøya,_Lofoten,_Norway,_2015_April.jpg
+latitude: 67.97982
 loc_type: region
+longitude: 13.48478
 score: 0.89
 snippet: Northern Norwegian archipelago of fishing villages, stockfish racks, and
   sharp mountains above the Atlantic.

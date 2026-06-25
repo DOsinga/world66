@@ -10,6 +10,10 @@ snippet: Main town on Ambergris Caye, Belize's most developed base for reef divi
 type: location
 score: 8.45
 loc_type: city
+image: san_pedro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:San_Pedro,_Ambergris_Caye.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Haakon S. Krohn
 ---
 
 San Pedro is the main town on [Ambergris Caye](/northamerica/belize/ambergriscaye), located at the southern end of the island. What was a fishing village until the 1980s is now Belize's most developed tourist destination, with resorts, restaurants, dive shops, bars, and a permanent population that swells significantly during high season.

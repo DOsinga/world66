@@ -7,6 +7,10 @@ snippet: Thailand's oldest national park, protecting forest, grassland, waterfal
   elephants, gibbons, and hornbills northeast of Bangkok.
 title: Khao Yai National Park
 type: location
+image: khaoyainationalpark.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Haew_Suwat_Waterfall_Khao-Yai02.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Nawit science
 ---
 
 Khao Yai is Thailand's oldest national park and one of its best. It covers 2,168 square kilometres of forest and grassland across four provinces about 200 kilometres northeast of Bangkok, straddling an important watershed in the Dangrek mountain range. In 2005, it was declared a UNESCO World Heritage Site as part of the larger Dong Phayayen–Khao Yai Forest Complex.

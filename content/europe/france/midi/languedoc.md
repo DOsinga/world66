@@ -9,6 +9,10 @@ snippet: Southern French region of Occitan identity, Cathar history, Mediterrane
   cities, vineyards, and Massif Central edges.
 title: Languedoc
 type: location
+image: languedoc.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cevennes_Florac_Mimente_depuis_Causse_Mejean.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Myrabella
 ---
 
 Languedoc sits in the warm south of France, stretching from the Rhône delta west to the Pyrenees and north into the Massif Central. It's a region with its own language — Occitan — its own food, and a history shaped as much by Cathar heresy and royal crusades as by Mediterranean sun. Despite what the Paris-centric narrative would have you believe, this is not quite France in the usual sense. It feels older, rougher around the edges, and more interesting for it.

@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-12'
+  major_city_neighborhoods: '2026-06-23'
 image: hanoi.jpg
 image_attribution: CEphoto, Uwe Aranas
 image_license: CC BY-SA 3.0

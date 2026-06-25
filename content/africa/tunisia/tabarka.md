@@ -6,16 +6,18 @@ image: tabarka.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ile_de_tabarka_1.jpg
 lat: 36.9546
+latitude: 36.9544
 loc_type: city
 long: 8.7574
+longitude: 8.758
 score: 7.5
+snippet: Northwestern Tunisian coastal town between the Kroumirie Hills and Mediterranean
+  coral waters.
 sources:
 - https://en.wikipedia.org/wiki/Tabarka
 - https://en.wikipedia.org/wiki/Tabarka_Rocks
 title: Tabarka
 type: location
-snippet: Northwestern Tunisian coastal town between the Kroumirie Hills and Mediterranean
-  coral waters.
 ---
 
 Tabarka sits in the far northwest of Tunisia, squeezed between the [Kroumirie Hills](/africa/tunisia/tabarka/kroumirie_hills) and the Mediterranean. The setting is genuinely pretty, and the town has grown into a low-key resort without losing too much of its character.

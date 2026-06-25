@@ -35,4 +35,4 @@ The food scene reflects the city's demographics — Vancouver has the largest Ch
 [Burnaby](/northamerica/canada/britishcolumbia/burnaby)
 [Golden Ears](/northamerica/canada/britishcolumbia/goldenears)
 [New Westminster](/northamerica/canada/britishcolumbia/newwestminster)
-[Coquitlam](/northamerica/canada/britishcolumbia/vancouver/coquitlam)
+[Coquitlam](/northamerica/canada/britishcolumbia/coquitlam)

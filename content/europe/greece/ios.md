@@ -2,6 +2,10 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-21'
+image: ios.jpg
+image_attribution: Davide Taviani (Helios)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Manganari2.jpg
 latitude: 36.717324
 loc_type: city
 longitude: 25.333112

@@ -10,6 +10,10 @@ snippet: Danish Sound city guarded by Kronborg Castle, Shakespeare's Elsinore be
   the Sweden ferry.
 title: Helsingør
 type: location
+image: helsingor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kronborg_02.jpg
+image_license: CC BY-SA 3.0
+image_attribution: DanNav
 ---
 
 Helsingør — known to English speakers as Elsinore — sits at Denmark's narrowest point, where the Sound separates it from Helsingborg in Sweden by just four kilometres of water. It's been a strategically vital crossing since the medieval period, and [Kronborg Castle](/europe/denmark/helsingor/kronborg_castle), which guards the strait, is one of the most impressive Renaissance fortresses in northern Europe. Shakespeare set Hamlet here, though he probably never visited — the play cemented the castle's fame far beyond Scandinavia.

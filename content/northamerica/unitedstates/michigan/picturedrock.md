@@ -9,6 +9,10 @@ snippet: Lake Superior national lakeshore where multicolored sandstone cliffs, w
   and forest trails line Michigan’s Upper Peninsula.
 title: Pictured Rocks
 type: location
+image: picturedrock.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Indian_Head_Pictured_Rocks_Michigan.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Veryhuman
 ---
 
 Pictured Rocks National Lakeshore was the first national lakeshore in the United States, designated in 1966, and it remains one of the most dramatic stretches of shoreline in the Great Lakes. For more than 40 miles, multicolored sandstone cliffs drop straight into Lake Superior — mineral seepage stains them in streaks of copper green, iron red, and manganese black, giving the park its name.

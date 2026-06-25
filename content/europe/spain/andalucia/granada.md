@@ -4,15 +4,18 @@ done:
   location_cleanup: 2026-04-02
   location_enrich: '2026-05-23'
   poi_cleanup: '2026-04-21'
+image: granada.jpg
 image_attribution: Quintin Soloviev
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Alhambra_El_Partal_(cropped)_(cropped).jpg
 latitude: 37.173499
 loc_type: city
 longitude: -3.599534
 score: 9.5
-title: Granada
-type: location
 snippet: Historic Andalusian city below the Alhambra, the great surviving palace of
   Moorish Spain.
+title: Granada
+type: location
 ---
 
 Granada is the last great city of Moorish Spain and one of the most intensely historic places in Europe. When Boabdil surrendered the [Alhambra](/europe/spain/andalucia/granada/alhambra) to Ferdinand and Isabella in 1492, he ended eight centuries of Islamic civilization in Spain and gave the Catholic Monarchs a prize that still draws millions of visitors each year. The palace complex on its hill above the city — the Nasrid Palaces, the Generalife gardens, the Alcazaba fortress — is the finest surviving example of Islamic architecture in the western world.

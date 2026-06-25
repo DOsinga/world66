@@ -1,5 +1,0 @@
-europe/spain/madrid
-northamerica/unitedstates/illinois/chicago
-asia/china/shanghai
-asia/india/delhi
-asia/india/maharashtra/mumbai

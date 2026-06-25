@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: 2026-04-05
 latitude: 25.2866
 loc_type: feature

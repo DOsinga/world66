@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-14'
 image: comodoro_rivadavia.jpg

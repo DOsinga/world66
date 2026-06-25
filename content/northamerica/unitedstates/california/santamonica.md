@@ -1,6 +1,7 @@
 ---
 done:
   city_tag_migration: '2026-04-17'
+  link_coverage: '2026-06-22'
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-14'
 image: santamonica.jpg
@@ -11,9 +12,9 @@ latitude: 34.01947
 loc_type: city
 longitude: -118.491227
 score: 8.73
-title: Santa Monica
 snippet: Walkable Los Angeles beach city with a landmark pier, oceanfront promenade,
   and compact civic centre
+title: Santa Monica
 type: location
 ---
 
@@ -23,4 +24,4 @@ The pier is the obvious landmark — the oldest on the West Coast, built between
 
 Santa Monica has a serious restaurant scene concentrated around Pico Boulevard and the streets off Main Street — Michelin-starred kitchens alongside serious taco trucks — and an art world centred on Bergamot Station, a former trolley yard turned gallery complex. For outdoor activity, Palisades Park runs along the clifftop above the Pacific Coast Highway with views south to Palos Verdes and north to Malibu. The Santa Monica Stairs in Pacific Palisades are a local fitness ritual done by the kind of people who choose to live here.
 
-From here [Beverly Hills](/northamerica/unitedstates/california/losangeles/beverlyhills), [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood), [Venice](/northamerica/unitedstates/california/losangeles/venice), and [Malibu](/northamerica/unitedstates/california/losangeles/malibu) are all within reasonable reach.
+From here [Beverly Hills](/northamerica/unitedstates/california/losangeles/beverlyhills), [Hollywood](/northamerica/unitedstates/california/losangeles/hollywood), [Venice Beach](/northamerica/unitedstates/california/losangeles/venice_beach), and [Malibu](/northamerica/unitedstates/california/losangeles/malibu) are all within reasonable reach.

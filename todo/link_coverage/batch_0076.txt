@@ -1,5 +1,0 @@
-northamerica/mexico/patzcuaro
-europe/italy/sicily/trapani/egadi
-northamerica/mexico/zacatecas
-northamerica/nicaragua/leon
-northamerica/saintlucia/saintlucianationalrainforest

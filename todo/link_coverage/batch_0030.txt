@@ -1,5 +1,0 @@
-asia/philippines/pangasinan
-asia/philippines/southern_leyte/bontoc
-asia/philippines/southern_leyte/stbernard
-asia/malaysia/kualalumpur/lakegardens
-asia/srilanka/hikkaduwa

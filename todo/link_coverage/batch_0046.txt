@@ -1,5 +1,0 @@
-europe/austria/salzkammergut/halstatter_see
-europe/france/centre/limousin/tulle
-europe/france/centre/loirevalley/montsoreau
-europe/france/east/alsace/riquewihr
-europe/france/east/lorraine/conslagrandville

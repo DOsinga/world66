@@ -21,6 +21,7 @@ Find copyright-free photos for World66 content pages using Wikimedia Commons and
 3. **Review the candidates**. Parse the JSON output. If `candidates` is non-empty:
    - Read each thumbnail image file from the `thumb_path` fields
    - Pick the best photo based on relevance to the destination, visual quality, and how well it represents the place
+   - Avoid extreme panoramas or very thin crops; hero images should usually have a natural landscape-photo aspect ratio, roughly between 1.2:1 and 2.5:1, so they crop well in the site layout
    - Note the chosen candidate's `index`
 
 4. **Save the chosen photo**:

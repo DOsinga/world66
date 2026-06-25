@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-04'
 image: algeciras.jpg
@@ -16,7 +17,7 @@ snippet: Busy Bay of Gibraltar port city, the main Spanish ferry gateway to Ceut
   and Tangier.
 ---
 
-Algeciras is a busy port city on the Bay of Gibraltar, the main Spanish departure point for ferries to [Ceuta](/africa/ceuta) and [Tangier](/africa/morocco/tangier) in Morocco. Most travellers pass through quickly on their way to Africa, but the city has a certain rough-edged charm if you have time to kill.
+Algeciras is a busy port city on the Bay of Gibraltar, the main Spanish departure point for ferries to [Ceuta](/europe/spain/ceuta) and [Tangier](/africa/morocco/tangier) in Morocco. Most travellers pass through quickly on their way to Africa, but the city has a certain rough-edged charm if you have time to kill.
 
 The old town climbs a hillside above the port and centres on the [Plaza Alta](/europe/spain/andalucia/algeciras/plaza_alta), a pleasant square tiled in azulejo ceramics with orange trees and a church on each corner. The [Marinid Walls](/europe/spain/andalucia/algeciras/marinid_walls) nearby are among the best-preserved medieval Islamic fortifications in Andalusia — they were buried under the modern city for 600 years before being excavated in the 20th century. The [Parque Maria Cristina](/europe/spain/andalucia/algeciras/parque_maria_cristina) provides shade and the Hotel Reina Cristina next to it was where the 1906 Algeciras Conference — a key prelude to World War I — was held. The [Municipal Museum](/europe/spain/andalucia/algeciras/municipal_museum) covers the city's long history as a Roman, Moorish, and medieval port.
 

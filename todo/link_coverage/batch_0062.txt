@@ -1,5 +1,0 @@
-europe/denmark/copenhagen/harbourfront
-europe/russia/izborsk
-europe/russia/tver
-europe/serbiaandmontenegro/tivat
-europe/denmark/copenhagen/stroget

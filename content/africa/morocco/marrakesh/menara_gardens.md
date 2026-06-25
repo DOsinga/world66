@@ -6,7 +6,6 @@ tags:
 - things_to_do
 - sight
 - garden
-- hivernage
 title: Menara Gardens
 type: poi
 ---

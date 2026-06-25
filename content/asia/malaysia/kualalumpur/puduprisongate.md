@@ -12,6 +12,7 @@ story: When the rest of the prison was demolished in 2010 to make way for the Bu
 tags:
 - things_to_do
 - sight
+- bukit_bintang
 title: Pudu Prison Gate
 type: poi
 ---

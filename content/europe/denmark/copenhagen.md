@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-20'
 image: copenhagen.jpg
 image_attribution: Moahim
@@ -12,9 +13,9 @@ latitude: 55.6761
 loc_type: city
 longitude: 12.5683
 score: 9.47
-title: Copenhagen
 snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
   and bold modern architecture.
+title: Copenhagen
 type: location
 ---
 

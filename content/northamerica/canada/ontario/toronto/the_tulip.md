@@ -7,8 +7,7 @@ price: $20.00
 tags:
 - eating_out
 - restaurant
-- beach
-- neighbourhood
+- the_beaches
 title: The Tulip
 type: poi
 score: 4.5

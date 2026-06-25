@@ -6,6 +6,10 @@ tags:
 - neighbourhood
 title: Kensington Market
 type: neighbourhood
+image: kensington_market.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kensington_Market_Toronto_August_2017_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Arild Vågen
 ---
 
 Kensington Market is Toronto's most densely layered neighbourhood — a few square blocks west of Spadina and north of Dundas where successive waves of immigration have deposited their food cultures, clothing, and commerce on top of each other without ever completely displacing what was there before. Portuguese fishmongers and West Indian spice shops sit next to vintage clothing stores, artisan cheese shops, and cheap ramen counters.

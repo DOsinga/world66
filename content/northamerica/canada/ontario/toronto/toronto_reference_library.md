@@ -5,6 +5,7 @@ snippet: North America's largest public reference library, open to all visitors
 tags:
 - things_to_do
 - library
+- yorkville
 title: Toronto Reference Library
 type: poi
 url: https://www.torontopubliclibrary.ca/trl/

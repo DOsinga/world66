@@ -7,6 +7,7 @@ phone: 416 504-0320
 tags:
 - eating_out
 - restaurant
+- queen_west
 title: Terroni
 type: poi
 score: 5.5

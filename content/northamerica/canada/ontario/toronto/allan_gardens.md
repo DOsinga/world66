@@ -6,6 +6,7 @@ tags:
 - things_to_do
 - garden
 - museum
+- cabbagetown
 title: Allan Gardens Conservatory
 type: poi
 score: 7.5

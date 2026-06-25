@@ -6,6 +6,7 @@ phone: (416) 929-9111
 tags:
 - eating_out
 - restaurant
+- yorkville
 title: Bellini's
 type: poi
 score: 4.1

@@ -5,23 +5,25 @@ latitude: 51.508308
 longitude: -0.076099
 opening_hours: Tue-Sat 9am-5:30pm, Sun-Mon 10am-5:30pm
 phone: +44 20 3166 6000
+score: 9.8
 snippet: Nine centuries of royal history, Crown Jewels, and Beefeater tours
-story: >
-  The Tower of London has been the site of some of England's most dramatic
-  history. Anne Boleyn was arrested, tried, and beheaded here in 1536. The
-  two young princes — Edward V and his brother Richard — disappeared within
-  its walls in 1483, almost certainly murdered. The bones of two children
-  were found beneath a staircase in 1674 and are believed to be theirs. They
-  were reinterred in Westminster Abbey by order of Charles II.
+story: 'The Tower of London has been the site of some of England''s most dramatic
+  history. Anne Boleyn was arrested, tried, and beheaded here in 1536. The two young
+  princes — Edward V and his brother Richard — disappeared within its walls in 1483,
+  almost certainly murdered. The bones of two children were found beneath a staircase
+  in 1674 and are believed to be theirs. They were reinterred in Westminster Abbey
+  by order of Charles II.
+
+  '
 tags:
 - things_to_do
 - sight
 - palace
 - architecture
+- the_city
 title: Tower of London
 type: poi
 url: www.hrp.org.uk/tower-of-london
-score: 9.8
 ---
 
 Nine hundred years of British history compressed into a single riverside fortress. The White Tower at its core dates from 1078; the surrounding walls, towers, and moat came later, added by successive kings who used the complex as palace, prison, and treasury.

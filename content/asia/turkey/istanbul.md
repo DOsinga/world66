@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-21'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-20'
 image: istanbul.jpg
 image_attribution: A.Savin

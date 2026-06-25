@@ -1,4 +1,7 @@
 ---
+image: jewish_quarter.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Dohany-Street-Synagogue-Budapest.jpg
 latitude: 47.498
 longitude: 19.061
 tags:

@@ -4,7 +4,7 @@ done:
 latitude: -5.9342
 loc_type: city
 longitude: 12.3494
-score: 0.34
+score: 6.82
 snippet: DRC's small Atlantic coastal town, where oil roads, beaches, and mangroves
   meet the Congo River mouth.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abruzzo,_Lazio_and_Molise_
 latitude: 41.7642
 loc_type: feature
 longitude: 13.8689
-score: 0.5
+score: 7.4
 snippet: Historic central Apennine national park of beech forests, high meadows, wolves,
   chamois, and Marsican bears.
 sources:

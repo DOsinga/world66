@@ -4,7 +4,7 @@ done:
 latitude: 36.116
 loc_type: city
 longitude: -97.059
-score: 0.49
+score: 7.36
 snippet: Oklahoma college town where OSU campus life, red-dirt music, and old downtown
   blocks meet.
 sources:

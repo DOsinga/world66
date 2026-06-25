@@ -4,7 +4,7 @@ done:
 latitude: 46.7697
 loc_type: city
 longitude: 17.2481
-score: 0.49
+score: 7.36
 snippet: Western Balaton town anchored by Festetics Palace, lake beaches, and nearby
   Hévíz thermal lake.
 sources:

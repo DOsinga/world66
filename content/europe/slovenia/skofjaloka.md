@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cappuchin_Bridge_(30706076
 latitude: 46.1672
 loc_type: city
 longitude: 14.303
-score: 0.52
+score: 7.46
 snippet: Preserved medieval town below a castle, set where the Selca and Poljane Sora
   rivers meet.
 sources:

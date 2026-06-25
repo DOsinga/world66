@@ -4,7 +4,7 @@ done:
 latitude: 26.185
 loc_type: feature
 longitude: 31.9189
-score: 0.61
+score: 7.75
 snippet: Ancient Upper Egyptian sacred city, famous for Seti I's temple and the Osiris
   cult landscape.
 sources:

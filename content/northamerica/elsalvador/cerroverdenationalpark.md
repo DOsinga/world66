@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerro_verde_e_Ilamatepec.j
 latitude: 13.8272
 loc_type: feature
 longitude: -89.6233
-score: 0.39
+score: 7.0
 snippet: Cloud-forest volcano park and trailhead for Santa Ana and Izalco, with big
   views over Coatepeque.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ganga_Barrage_Kanpur.jpg
 latitude: 26.4499
 loc_type: city
 longitude: 80.3319
-score: 0.36
+score: 6.9
 snippet: Industrial Ganges city of leather, textile mills, 1857 memory, and old Cawnpore
   grit.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ASAN_RIDGE_BATTLE_AREA_ASA
 latitude: 13.4695
 loc_type: city
 longitude: 144.7116
-score: 0.34
+score: 6.82
 snippet: Western Guam village framed by 1944 invasion beaches and War in the Pacific
   memorial sites.
 sources:

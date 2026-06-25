@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corpus_Christi_skyline.jpg
 latitude: 27.8006
 loc_type: city
 longitude: -97.3964
-score: 0.48
+score: 7.33
 snippet: South Texas bay city of beaches, ships, Selena memories, and barrier-island
   wind.
 sources:

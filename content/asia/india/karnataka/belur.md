@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Friezes_at_the_Chennakesav
 latitude: 13.1629
 loc_type: city
 longitude: 75.8571
-score: 0.45
+score: 7.22
 snippet: Hoysala temple town in Hassan district, centred on the carved Chennakeshava
   complex.
 sources:

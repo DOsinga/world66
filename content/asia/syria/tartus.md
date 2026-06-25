@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_of_Tortosa
 title: Tartus
 type: location
+score: 4.5
 ---
 
 Tartus is Syria's main Mediterranean port after Latakia, a coastal city where the sea gives the country a different mood from the inland caravan cities. It is practical rather than grand, but the old centre has Crusader masonry, narrow lanes, and enough sea air to make it a useful stop on the coast.

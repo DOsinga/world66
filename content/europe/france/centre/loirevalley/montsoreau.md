@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau-montsoreau-france-
 latitude: 47.2164
 loc_type: city
 longitude: 0.0569
-score: 0.48
+score: 7.33
 snippet: Small Loire village at the Vienne confluence, with a riverfront château and
   pale tufa lanes.
 sources:

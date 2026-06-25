@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Centre_Toliara_2007.j
 latitude: -23.35
 loc_type: city
 longitude: 43.6667
-score: 0.42
+score: 7.11
 snippet: Sunny southwest Madagascar gateway to spiny forest, reef villages, Anakao,
   and Ifaty.
 sources:

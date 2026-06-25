@@ -4,7 +4,7 @@ done:
 latitude: 34.5047
 loc_type: city
 longitude: -97.1086
-score: 0.31
+score: 6.72
 snippet: Small Arbuckle Mountains gateway town best known for Turner Falls and easy
   access to Chickasaw country.
 sources:

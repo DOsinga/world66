@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%A4ikeset%C3%B5us_P%C3
 latitude: 58.3833
 loc_type: city
 longitude: 24.5
-score: 0.47
+score: 7.29
 snippet: Estonia's summer capital, a relaxed spa city with a broad beach and small
   old centre.
 sources:

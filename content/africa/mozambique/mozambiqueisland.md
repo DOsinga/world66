@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilha_de_Mocambique.jpg
 latitude: -15.0367
 loc_type: island
 longitude: 40.7328
-score: 0.55
+score: 7.56
 snippet: Coral island former capital of Portuguese East Africa, dense with forts,
   mosques, churches, and Swahili coast memory.
 sources:

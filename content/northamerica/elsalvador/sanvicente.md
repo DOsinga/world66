@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_San_Vicente,_E
 latitude: 13.6453
 loc_type: city
 longitude: -88.7842
-score: 0.22
+score: 6.36
 snippet: Central Salvadoran city below Chichontepec volcano, with a landmark clock
   tower and nearby crater lakes.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Nicholas%27_Church,_Ste
 latitude: 51.9017
 loc_type: city
 longitude: -0.2019
-score: 0.25
+score: 6.5
 snippet: Hertfordshire new town with Roman barrows, an older village core, and fast
   trains north of London.
 sources:

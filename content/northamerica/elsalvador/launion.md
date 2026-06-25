@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_La_Uni%C3%B3n.jpg
 latitude: 13.3369
 loc_type: city
 longitude: -87.8439
-score: 0.24
+score: 6.45
 snippet: Eastern Salvadoran port on the Gulf of Fonseca, with island boats and Conchagua
   volcano nearby.
 sources:

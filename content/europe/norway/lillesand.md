@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lillesand_Blindleia.jpg
 latitude: 58.2495
 loc_type: city
 longitude: 8.3772
-score: 0.4
+score: 7.04
 snippet: Small Sørlandet harbour town of white wooden houses, skerries, summer boats,
   and Blindleia.
 sources:

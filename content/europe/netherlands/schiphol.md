@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_Schiphol_Airport
 latitude: 52.3
 loc_type: feature
 longitude: 4.765
-score: 0.36
+score: 6.9
 snippet: Major Dutch airport gateway southwest of Amsterdam, with trains, art, shops,
   and aircraft-watching terraces.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: 46.0847
 loc_type: city
 longitude: 6.7281
-score: 0.53
+score: 7.5
 snippet: Haute-Savoie mountain village with stonecutters' houses, alpine gardens,
   and Grand Massif access.
 sources:

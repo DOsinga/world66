@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gran_Sasso_Abruzzo.jpg
 latitude: 42.4694
 loc_type: feature
 longitude: 13.5653
-score: 0.52
+score: 7.46
 snippet: Abruzzo's highest Apennine massif, with Corno Grande, Campo Imperatore, and
   high limestone walking country.
 sources:

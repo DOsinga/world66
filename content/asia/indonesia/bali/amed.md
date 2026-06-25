@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balinese_Local_in_Amed_Bea
 latitude: -8.333333
 loc_type: city
 longitude: 115.65
-score: 0.5
+score: 7.4
 snippet: Quiet east Bali coast of fishing villages, black beaches, salt pans, and
   shore diving.
 sources:

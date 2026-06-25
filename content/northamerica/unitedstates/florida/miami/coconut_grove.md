@@ -1,8 +1,12 @@
 ---
+image: coconut_grove.jpg
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Coconut_Grove_Street_20100321.jpg
 latitude: 25.7167
 longitude: -80.25
 tags:
 - things_to_do
+- neighbourhood
 title: Coconut Grove
 type: neighbourhood
 ---

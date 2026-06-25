@@ -1,8 +1,12 @@
 ---
+image: south_beach.jpg
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Boulevard_Hotel_(Neon_sign),_Miami_Beach.jpg
 latitude: 25.7819
 longitude: -80.1363
 tags:
 - things_to_do
+- neighbourhood
 title: South Beach
 type: neighbourhood
 ---

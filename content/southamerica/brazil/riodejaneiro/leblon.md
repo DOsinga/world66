@@ -1,13 +1,15 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
+image: leblon.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_of_Praia_do_Leblon_and_Ipanema,_Rio_de_Janeiro,_Brazil.jpg
 latitude: -22.983461
 longitude: -43.224966
 snippet: Quieter extension of Ipanema with upscale dining on Rua Dias Ferreira
 tags:
-- beaches
-- beach
-- restaurant
+- things_to_do
+- neighbourhood
 title: Leblon
 type: neighbourhood
 ---

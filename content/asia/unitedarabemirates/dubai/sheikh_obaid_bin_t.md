@@ -8,6 +8,7 @@ phone: 04-3933240
 score: 6.7
 snippet: Restored 1916 stone-and-mud merchant house turned museum
 tags:
+- things_to_do
 - al_fahidi
 title: Sheikh Obaid Bin Thani House
 type: poi

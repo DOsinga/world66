@@ -2,6 +2,7 @@
 latitude: 34.6672
 longitude: 135.5075
 score: 7.5
+snippet: Osaka's liveliest covered food market — fresh seafood and street snacks
 story: Kuromon has been Osaka's primary wholesale food market since the 1820s, earning
   the nickname 'Osaka's Kitchen.' Most of the 170 stalls are still wholesale operations
   that sell to restaurants before 9am, but they stay open through the lunch hour selling

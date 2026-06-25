@@ -6,7 +6,6 @@ snippet: Rooftop bar at the Unique hotel, with a red pool and a view of Paulista
 tags:
 - bars_and_cafes
 - bar
-- avenida_paulista
 - avenidapaulista
 title: Skye Bar
 type: poi

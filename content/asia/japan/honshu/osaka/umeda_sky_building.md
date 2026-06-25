@@ -2,6 +2,7 @@
 latitude: 34.7053
 longitude: 135.49
 score: 8.3
+snippet: Twin towers joined by a 173-metre Floating Garden Observatory
 tags:
 - things_to_do
 - sight

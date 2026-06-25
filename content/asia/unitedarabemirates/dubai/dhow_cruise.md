@@ -2,6 +2,7 @@
 latitude: 25.2636
 longitude: 55.2981
 score: 6.9
+snippet: Evening dinner cruise along Dubai Creek on a traditional wooden dhow
 tags:
 - things_to_do
 - sight

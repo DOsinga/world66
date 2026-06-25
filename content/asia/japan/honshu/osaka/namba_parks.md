@@ -2,6 +2,7 @@
 latitude: 34.6621
 longitude: 135.5013
 score: 6.7
+snippet: Shopping complex crowned by a terraced eight-storey rooftop garden
 tags:
 - things_to_do
 - shopping

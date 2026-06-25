@@ -2,6 +2,7 @@
 latitude: 34.674
 longitude: 135.5005
 score: 5.9
+snippet: 600-metre covered shopping arcade, one of the longest in Japan
 tags:
 - things_to_do
 - shopping

@@ -2,6 +2,7 @@
 latitude: 25.271
 longitude: 55.2916
 score: 8.7
+snippet: Heritage-precinct museum telling the story of old Dubai by the Creek
 tags:
 - things_to_do
 - sight

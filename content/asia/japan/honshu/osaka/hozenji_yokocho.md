@@ -2,6 +2,7 @@
 latitude: 34.6679
 longitude: 135.5047
 score: 8.4
+snippet: Atmospheric stone-paved alley of tiny bars and izakaya off Dotonbori
 story: Hozenji Yokocho is a stone-paved alley barely wide enough for two people to
   pass, flanked by tiny bars and restaurants with lanterns glowing at head height.
   The small temple at its centre — Hozenji — has a moss-covered Fudo-Myo-o statue

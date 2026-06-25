@@ -2,6 +2,7 @@
 latitude: 34.6688
 longitude: 135.5007
 score: 8.1
+snippet: Osaka's flagship comedy theatre, home of Yoshimoto manzai
 tags:
 - things_to_do
 - entertainment

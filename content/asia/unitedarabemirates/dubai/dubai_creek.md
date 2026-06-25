@@ -2,6 +2,7 @@
 latitude: 25.265
 longitude: 55.306
 score: 9.2
+snippet: The tidal inlet that founded Dubai, still busy with trading dhows
 tags:
 - things_to_do
 - sight

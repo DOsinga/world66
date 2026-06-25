@@ -2,6 +2,7 @@
 latitude: 34.648
 longitude: 135.5091
 score: 7.4
+snippet: Tennoji temple known for Buddha statues made from worshippers' ashes
 story: Isshin-ji is best known for its Okotsu Butsu — Buddha statues made from the
   compressed ashes and bones of the deceased. The temple has made eight such statues
   since 1903, each incorporating the remains of between 150,000 and 200,000 people

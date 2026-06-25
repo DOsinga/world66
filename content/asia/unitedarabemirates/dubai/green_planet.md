@@ -2,6 +2,7 @@
 latitude: 25.2065
 longitude: 55.2606
 score: 5.8
+snippet: Climate-controlled indoor rainforest biodome at City Walk
 tags:
 - things_to_do
 - sight

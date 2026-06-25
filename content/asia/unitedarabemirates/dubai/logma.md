@@ -2,6 +2,7 @@
 latitude: 25.1918
 longitude: 55.2443
 score: 6.8
+snippet: Modern Emirati cooking — balaleet, harees, chebab — in Umm Suqeim
 tags:
 - eating_out
 - restaurant

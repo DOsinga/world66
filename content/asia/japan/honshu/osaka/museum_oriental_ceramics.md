@@ -2,6 +2,7 @@
 latitude: 34.6934
 longitude: 135.5055
 score: 8.2
+snippet: World-class Korean and Chinese ceramics on Nakanoshima island
 tags:
 - things_to_do
 - museum

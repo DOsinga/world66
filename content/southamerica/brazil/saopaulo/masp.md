@@ -13,7 +13,6 @@ tags:
 - things_to_do
 - museum
 - architecture
-- avenida_paulista
 - avenidapaulista
 title: MASP
 type: poi

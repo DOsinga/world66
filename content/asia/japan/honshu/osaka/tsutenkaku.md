@@ -2,6 +2,7 @@
 latitude: 34.6524
 longitude: 135.5063
 score: 7.0
+snippet: Retro 1956 tower that is the symbol of the Shinsekai district
 story: The current Tsutenkaku Tower is the second to stand on this spot. The original,
   built in 1912 as part of the New World entertainment district, was demolished in
   1943 and its steel donated for the war effort. The replacement was built in 1956

@@ -2,6 +2,7 @@
 latitude: 34.6936
 longitude: 135.504
 score: 8.0
+snippet: Landmark 1918 red-brick, copper-domed civic hall on Nakanoshima
 story: The Central Public Hall was funded largely by a donation of 1 million yen from
   Okawa Kisaburo, a rice broker who won his fortune in a single day's trading and
   immediately donated almost all of it to the city. Construction took five years from

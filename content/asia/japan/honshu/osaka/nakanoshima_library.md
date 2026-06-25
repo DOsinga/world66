@@ -2,6 +2,7 @@
 latitude: 34.6937
 longitude: 135.5032
 score: 8.2
+snippet: Grand 1904 Neo-Classical library, a Meiji-era civic landmark
 tags:
 - things_to_do
 - sight

@@ -7,7 +7,6 @@ snippet: Classic Pinheiros boteco — chopp, croquetes, and crowds spilling onto
 tags:
 - bars_and_cafes
 - bar
-- pinheiros
 - vila_madalena
 title: Pirajá
 type: poi

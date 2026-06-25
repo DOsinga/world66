@@ -2,6 +2,7 @@
 latitude: 34.6616
 longitude: 135.5067
 score: 6.6
+snippet: Osaka's Akihabara — blocks of electronics, anime, manga, and retro games
 tags:
 - things_to_do
 - shopping

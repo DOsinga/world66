@@ -2,6 +2,7 @@
 latitude: 34.6607
 longitude: 135.4987
 score: 7.0
+snippet: Shrine with a giant 12-metre lion's-head hall, jaws open wide
 story: 'The main hall of Namba Yasaka Shrine is built in the shape of a giant lion''s
   head — a 12-metre-tall structure with open jaws forming the entrance, enormous eyes
   for windows, and ears projecting from the roofline. The design is deliberate: the

@@ -2,6 +2,7 @@
 latitude: 34.6688
 longitude: 135.5013
 score: 5.8
+snippet: Osaka's most photographed sight — the neon running man over Dotonbori
 story: The Glico Running Man has presided over Dotonbori since 1935. The original
   sign was erected after Glico candy made a successful business recovery from a factory
   fire, and the running figure — a celebration — became the visual mascot of Osaka

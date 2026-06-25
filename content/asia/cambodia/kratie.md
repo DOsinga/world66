@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20171123_Sunset_over_Mekon
 latitude: 12.678302
 loc_type: city
 longitude: 106.058173
-score: 0.41
+score: 7.41
 snippet: Upper Mekong town known for Irrawaddy dolphins, French shophouses, riverside
   markets, and Koh Trong island.
 sources:

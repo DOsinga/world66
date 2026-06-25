@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sagfh_borujerdi_ha.jpg
 latitude: 33.9877
 loc_type: city
 longitude: 51.4429
-score: 0.47
+score: 7.95
 snippet: Desert-edge Iranian city of traditional merchant houses, windtowers, rosewater,
   and tiled courtyards.
 title: Kashan

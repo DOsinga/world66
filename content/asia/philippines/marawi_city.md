@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marawi_City_proper,_Amai_P
 latitude: 7.9986
 loc_type: city
 longitude: 124.2928
-score: 0.18
+score: 4.48
 snippet: Maranao cultural city on Lake Lanao, known as the Philippines' predominantly
   Muslim Islamic City.
 title: Marawi City

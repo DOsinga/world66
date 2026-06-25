@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahir_Dar_5.jpg
 latitude: 11.5936
 loc_type: city
 longitude: 37.3908
-score: 0.47
+score: 7.94
 snippet: Relaxed Ethiopian lake city on Lake Tana, base for monasteries and the Blue
   Nile Falls
 sources:

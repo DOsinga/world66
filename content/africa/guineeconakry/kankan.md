@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kankan_nabayah.jpg
 latitude: 10.624835
 loc_type: city
 longitude: -9.317517
-score: 0.2
+score: 4.85
 snippet: Eastern Guinean city on the Milo River, spiritual heartland of Malinke culture
   and Mali Empire memory
 title: Kankan

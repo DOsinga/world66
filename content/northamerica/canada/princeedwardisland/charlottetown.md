@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Charlottetown,_Prince_Edwa
 latitude: 46.2354
 loc_type: city
 longitude: -63.1265
-score: 0.47
+score: 7.98
 snippet: Prince Edward Island capital and Confederation birthplace, with a compact
   Victorian downtown and harbour.
 title: Charlottetown

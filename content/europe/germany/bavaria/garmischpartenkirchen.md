@@ -2,7 +2,7 @@
 latitude: 47.4928
 loc_type: city
 longitude: 11.0957
-score: 0.56
+score: 8.76
 snippet: Bavarian alpine resort below the Zugspitze, split between painted Partenkirchen
   and ski-focused Garmisch
 title: Garmisch-Partenkirchen

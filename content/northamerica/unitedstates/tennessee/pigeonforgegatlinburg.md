@@ -2,7 +2,7 @@
 latitude: 35.7882
 loc_type: city
 longitude: -83.554
-score: 0.48
+score: 8.08
 snippet: Twin Tennessee gateway towns to the Smokies, pairing Dollywood spectacle
   with a compact mountain main street
 title: Pigeon Forge and Gatlinburg

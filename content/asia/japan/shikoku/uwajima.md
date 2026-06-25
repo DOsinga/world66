@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Uwajima_Bay.JPG
 latitude: 33.223231
 loc_type: city
 longitude: 132.560651
-score: 0.43
+score: 7.52
 snippet: Shikoku castle city at the end of the railway, known for its original keep
   and fertility shrine
 title: Uwajima

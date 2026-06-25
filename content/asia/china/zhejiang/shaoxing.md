@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fushanzhi_Street_01_2018-0
 latitude: 30.0
 loc_type: city
 longitude: 120.6
-score: 0.42
+score: 7.46
 snippet: Literary Zhejiang canal city known for Lu Xun, black-awning boats, and stone
   arched bridges
 sources:

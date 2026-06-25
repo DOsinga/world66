@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Metaponto_Lido.jpg
 latitude: 40.374078
 loc_type: city
 longitude: 16.810096
-score: 0.41
+score: 7.34
 title: Metaponto
-snippet: "Ionian coastal town on a Magna Graecia landscape where Pythagoras spent his final years."
+snippet: Ionian coastal town on a Magna Graecia landscape where Pythagoras spent his
+  final years.
 type: location
 ---
 

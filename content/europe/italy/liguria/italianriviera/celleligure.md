@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CelleLigure_veduta.jpg
 latitude: 44.3463
 loc_type: city
 longitude: 8.5444
-score: 0.48
+score: 8.08
 snippet: Small Ligurian beach resort with a rare sandy bay between Cape Celle and
   Cape Olmo.
 title: Celle Ligure

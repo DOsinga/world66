@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:20190202_Nagasaki_harbor-1
 latitude: 32.7503
 loc_type: city
 longitude: 129.8779
-score: 0.62
+score: 9.14
 title: Nagasaki
-snippet: Harbour city on western Kyushu, shaped by foreign contact and the 1945 atomic bombing.
+snippet: Harbour city on western Kyushu, shaped by foreign contact and the 1945 atomic
+  bombing.
 type: location
 ---
 

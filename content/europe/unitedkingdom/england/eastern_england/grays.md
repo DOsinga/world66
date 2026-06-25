@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_State_Nov_07.jpg
 latitude: 51.47809
 loc_type: city
 longitude: 0.323313
-score: 0.23
+score: 5.43
 snippet: Thames-side Essex town in Thurrock, with riverside walks and industrial estuary
   history east of London
 sources:

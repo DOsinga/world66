@@ -6,9 +6,10 @@ done:
 latitude: 9.749127
 loc_type: city
 longitude: 122.40406
-score: 0.44
+score: 7.64
 title: Sipalay
-snippet: "Beach and diving town on southwest Negros, still quieter than the Philippines' better-known resorts."
+snippet: Beach and diving town on southwest Negros, still quieter than the Philippines'
+  better-known resorts.
 type: location
 ---
 

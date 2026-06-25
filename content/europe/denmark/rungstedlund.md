@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rungsted,_casa-museo_di_ka
 latitude: 55.883327
 loc_type: city
 longitude: 12.543427
-score: 0.39
+score: 7.14
 snippet: Coastal Danish estate north of Copenhagen, best known as Karen Blixen's lifelong
   home.
 title: Rungstedlund

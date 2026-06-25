@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_Blanc_chateau_Naillac.J
 latitude: 46.633229
 loc_type: city
 longitude: 1.06323
-score: 0.36
+score: 6.81
 snippet: Small Indre market town on the Creuse, beside the wetlands and birdlife of
   Brenne regional nature park.
 title: Le Blanc

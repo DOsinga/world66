@@ -6,7 +6,7 @@ done:
 latitude: 22.33712
 loc_type: feature
 longitude: 31.625797
-score: 0.68
+score: 9.4
 snippet: Far-southern Egyptian site of Ramses II’s colossal rock-cut temples beside
   Lake Nasser.
 title: Abu Simbel

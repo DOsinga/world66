@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Key_Largo,_FL_33037,_USA_-
 latitude: 25.0861
 loc_type: city
 longitude: -80.4476
-score: 0.5
+score: 8.23
 title: Key Largo
-snippet: First island of the Florida Keys, known for coral reefs, mangroves, and easy mainland access
+snippet: First island of the Florida Keys, known for coral reefs, mangroves, and easy
+  mainland access
 type: location
 ---
 

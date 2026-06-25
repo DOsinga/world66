@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Australia_bundaberg_aerial
 latitude: -24.8653
 loc_type: city
 longitude: 152.3517
-score: 0.38
+score: 6.96
 snippet: Queensland sugarcane city on the Burnett River, known for rum and nearby
   turtle nesting beaches.
 title: Bundaberg

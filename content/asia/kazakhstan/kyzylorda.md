@@ -5,7 +5,7 @@ done:
 latitude: 45.2059
 loc_type: city
 longitude: 63.9155
-score: 0.23
+score: 5.42
 snippet: Southwestern Kazakh city on the Syr-Darya, set in windy semidesert near the
   Aral Sea
 title: Kyzylorda

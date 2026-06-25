@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amberes;_vistas_MAS_2.jpg
 latitude: 51.22111
 loc_type: city
 longitude: 4.399708
-score: 0.61
+score: 9.06
 title: Antwerp
 type: location
 snippet: Flemish port city of Rubens, diamonds, fashion, and guildhouse squares with

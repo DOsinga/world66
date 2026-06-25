@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Poros_Evlahos.jpg
 latitude: 37.526921
 loc_type: city
 longitude: 23.475245
-score: 0.54
+score: 8.55
 title: Poros
 type: location
 snippet: Saronic Gulf island town facing the Peloponnese across a narrow, ferry-filled

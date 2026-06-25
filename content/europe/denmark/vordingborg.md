@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_G%C3%A5set%C3%A5
 latitude: 55.010252
 loc_type: city
 longitude: 11.909748
-score: 0.38
+score: 7.08
 snippet: Small Zealand town below the Goose Tower, last remnant of a major medieval
   royal fortress.
 title: Vordingborg

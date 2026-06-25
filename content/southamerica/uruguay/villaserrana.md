@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DESDE_EL_TANQUE_-_panorami
 latitude: -34.3224
 loc_type: city
 longitude: -54.9894
-score: 0.38
+score: 6.99
 title: Villa Serrana
 type: location
 snippet: Planned Uruguayan hillside village of stone retreats, native forest, and

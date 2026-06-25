@@ -5,7 +5,7 @@ done:
 latitude: 17.1562
 loc_type: city
 longitude: -89.0706
-score: 0.51
+score: 8.27
 snippet: Western Belize market town on the Macal River, used as a base for Maya ruins
   and caves.
 title: San Ignacio

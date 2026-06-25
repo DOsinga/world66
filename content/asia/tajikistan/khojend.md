@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Historical_Museum_of_Sughd
 latitude: 40.2787
 loc_type: city
 longitude: 69.62
-score: 0.36
+score: 6.85
 snippet: Northern Tajik city in the Fergana Valley, with Silk Road roots and a vast
   covered bazaar.
 title: Khujand

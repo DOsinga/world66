@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crete,_Malia_beach_2019_a.
 latitude: 35.2833
 loc_type: city
 longitude: 25.4647
-score: 0.48
+score: 8.03
 snippet: Cretan resort town divided between coastal nightlife and the Bronze Age Minoan
   Palace of Malia
 sources:

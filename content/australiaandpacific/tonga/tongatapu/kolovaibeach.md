@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandy_beach_in_southern_To
 latitude: -21.0962
 loc_type: city
 longitude: -175.3552
-score: 0.4
+score: 7.2
 snippet: Western Tongatapu beach village with calm reef water, open-ocean sunsets,
   and roosting flying foxes nearby.
 title: Kolovai Beach

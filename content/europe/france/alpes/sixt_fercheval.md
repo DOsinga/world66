@@ -5,7 +5,7 @@ done:
 latitude: 46.0547
 loc_type: city
 longitude: 6.7754
-score: 0.54
+score: 8.55
 snippet: Haute-Savoie mountain village at a horseshoe cirque ringed by cliffs and
   waterfalls.
 sources:

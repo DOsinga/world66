@@ -11,7 +11,7 @@ loc_type: city
 snippet: Breton fishing port where weekday trawler landings and langoustine auctions
   define the waterfront
 longitude: -4.285826
-score: 0.41
+score: 7.39
 title: Guilvinec
 type: location
 ---

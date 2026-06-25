@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wick_of_scaw.jpg
 latitude: 60.75952
 loc_type: city
 longitude: -0.896019
-score: 0.41
+score: 7.41
 snippet: Northernmost inhabited British island, with Shetland moorland, seabird cliffs,
   and views toward Muckle Flugga.
 title: Unst

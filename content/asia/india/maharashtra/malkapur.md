@@ -5,7 +5,7 @@ done:
 latitude: 20.891958
 loc_type: city
 longitude: 76.204035
-score: 0.22
+score: 5.24
 snippet: Small Maharashtra rail town used as a base for Lonar Crater and its ancient
   lakeside temples.
 title: Malkapur

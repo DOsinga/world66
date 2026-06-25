@@ -5,7 +5,7 @@ latitude: 28.93
 longitude: -81.228
 title: Cassadaga
 type: location
-score: 0.33
+score: 6.45
 loc_type: city
 image: cassadaga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Southern_Cassadaga_Spiritualist_Camp_Hist_Dist01.jpg

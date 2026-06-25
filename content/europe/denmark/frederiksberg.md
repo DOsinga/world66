@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Frederiksberg_All%C3%A9_-_
 latitude: 55.678
 loc_type: city
 longitude: 12.5326
-score: 0.42
+score: 7.51
 snippet: Independent municipality within Copenhagen, known for broad avenues, Frederiksberg
   Gardens, and Cisternerne underground art space.
 title: Frederiksberg

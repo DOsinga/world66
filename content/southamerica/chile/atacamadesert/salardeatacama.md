@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salar_d%27Atacama_h%C3%A9.
 latitude: -23.5
 loc_type: feature
 longitude: -68.25
-score: 0.57
+score: 8.8
 snippet: High desert salt basin near San Pedro de Atacama, broken by volcano-framed
   lagoons and flamingos
 sources:

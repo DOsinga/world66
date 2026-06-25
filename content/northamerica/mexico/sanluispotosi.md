@@ -5,7 +5,7 @@ done:
 latitude: 22.1565
 loc_type: city
 longitude: -100.9855
-score: 0.44
+score: 7.69
 snippet: Central Mexican colonial city founded as a mining settlement, with baroque
   churches and grand plazas.
 title: San Luis Potosí

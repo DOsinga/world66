@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AshiNoKo.jpg
 latitude: 35.2
 loc_type: city
 longitude: 139.02
-score: 0.72
+score: 9.48
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views
   toward Mount Fuji
 title: Hakone

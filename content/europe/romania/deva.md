@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deva,_tr%C5%BEnice.jpg
 latitude: 45.8817
 loc_type: city
 longitude: 22.9009
-score: 0.37
+score: 6.89
 snippet: Compact Transylvanian town on the Mureș, overlooked by a ruined citadel on
   a volcanic hill
 title: Deva

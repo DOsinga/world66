@@ -5,7 +5,7 @@ done:
 latitude: 38.9013
 loc_type: city
 longitude: 46.2459
-score: 0.31
+score: 6.3
 snippet: Southern Armenian border town above the Arax River, with medieval churches
   and Middle Eastern texture.
 title: Meghri

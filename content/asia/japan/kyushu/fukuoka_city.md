@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hakata_Port_from_Fukuoka_T
 latitude: 33.591
 loc_type: city
 longitude: 130.4066
-score: 0.62
+score: 9.14
 snippet: Young Kyushu port city where Hakata traditions, Tenjin shopping, and riverside
   yatai define the centre.
 sources:

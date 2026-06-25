@@ -5,7 +5,7 @@ latitude: 61.769693
 longitude: 34.370758
 title: Kizhi
 type: location
-score: 0.49
+score: 8.12
 loc_type: feature
 snippet: Lake Onega island with UNESCO-listed wooden churches, onion domes, and open-air
   Karelian architecture.

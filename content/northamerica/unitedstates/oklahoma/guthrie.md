@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guthrie,_OK_USA_-_panorami
 latitude: 35.879
 loc_type: city
 longitude: -97.426
-score: 0.32
+score: 6.43
 snippet: Oklahoma's first state capital, with a large preserved Victorian-era downtown
   historic district
 title: Guthrie

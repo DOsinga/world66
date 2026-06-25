@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandav%C3%A1gur,_Faroe_Isl
 latitude: 62.0545
 loc_type: city
 longitude: -7.1511
-score: 0.43
+score: 7.56
 snippet: Vágar village reached from the Streymoy subsea tunnel, with a churchyard
   Viking runestone.
 title: Sandavágur

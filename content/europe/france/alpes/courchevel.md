@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Courchevel_1850_au_matin_(
 latitude: 45.414098
 loc_type: city
 longitude: 6.634989
-score: 0.59
+score: 8.97
 title: Courchevel
-snippet: French Alpine ski resort in Les Trois Vallées, split between villages of sharply different altitude and mood.
+snippet: French Alpine ski resort in Les Trois Vallées, split between villages of
+  sharply different altitude and mood.
 type: location
 ---
 

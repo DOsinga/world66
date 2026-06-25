@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wells_Cathedral_Nave_Photo
 latitude: 51.209451
 loc_type: city
 longitude: -2.64512
-score: 0.49
+score: 8.12
 snippet: Tiny cathedral city in Somerset, centred on Early English Gothic stonework
   and a moated bishop's palace.
 sources:

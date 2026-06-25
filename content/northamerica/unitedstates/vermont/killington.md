@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Killington_Peak_View_Green
 latitude: 43.6743
 loc_type: city
 longitude: -72.7784
-score: 0.46
+score: 7.92
 snippet: Vermont mountain town centred on the state's largest ski resort and year-round
   outdoor trails.
 title: Killington

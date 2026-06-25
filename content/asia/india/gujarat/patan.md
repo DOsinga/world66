@@ -11,7 +11,7 @@ loc_type: city
 snippet: Former Gujarat capital known for Rani ki Vav, a richly carved 11th-century
   stepwell
 longitude: 72.125
-score: 0.39
+score: 7.1
 title: Patan
 type: location
 ---

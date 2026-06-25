@@ -5,7 +5,7 @@ done:
 latitude: 8.061609
 loc_type: city
 longitude: 80.2463
-score: 0.24
+score: 5.52
 snippet: Ancient Sri Lankan monastery site where elephant-shaped rock overlooks centuries
   of Buddhist ruins.
 title: Haththikuchchi

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Queenstown,_New_Zealand.jp
 latitude: -45.0322
 loc_type: city
 longitude: 168.661
-score: 0.76
+score: 9.75
 snippet: Lake Wakatipu mountain town and New Zealand adventure capital beneath the
   Remarkables range.
 title: Queenstown

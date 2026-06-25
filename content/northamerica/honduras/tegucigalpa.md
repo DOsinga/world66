@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tegucigalpa
 latitude: 14.0818
 loc_type: city
 longitude: -87.2068
-score: 0.26
+score: 5.81
 snippet: Hilly Honduran capital with colonial churches, major pilgrimage sites, and
   quick access to La Tigra cloud forest.
 title: Tegucigalpa

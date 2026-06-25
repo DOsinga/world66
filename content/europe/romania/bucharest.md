@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bucharest_University_Squar
 latitude: 44.4361
 loc_type: city
 longitude: 26.1027
-score: 0.48
+score: 8.07
 snippet: Romanian capital of Belle Époque mansions, brutalist blocks, and stubborn
   old-city life around Lipscani.
 title: Bucharest

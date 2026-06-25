@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Sue
 latitude: 29.974498
 loc_type: city
 longitude: 32.537086
-score: 0.32
+score: 6.4
 snippet: Canal city at Egypt's Red Sea edge, where container ships cross a desert
   landscape
 title: Suez

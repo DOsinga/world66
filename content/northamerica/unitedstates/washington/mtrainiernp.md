@@ -4,7 +4,7 @@ done:
 latitude: 46.8543
 loc_type: feature
 longitude: -121.7063
-score: 0.6
+score: 9.03
 snippet: Washington national park centred on glaciated Mount Rainier, with old-growth
   forest and wildflower meadows.
 title: Mt. Rainier National Park

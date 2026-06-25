@@ -5,7 +5,7 @@ done:
 latitude: 31.323064
 loc_type: city
 longitude: 48.67932
-score: 0.22
+score: 5.19
 snippet: Industrial Khuzestan city on the Karun River, used as a base for ancient
   Elamite sites.
 title: Ahvaz

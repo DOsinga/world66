@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 36.430774
 longitude: 74.862402
-score: 0.39
+score: 7.15
 snippet: High-altitude lake in Gojal Valley, near Hussaini village and the Karakoram's
   stark mountain scenery.
 tags:

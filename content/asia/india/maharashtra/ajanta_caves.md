@@ -4,7 +4,7 @@ done:
 latitude: 20.5525
 loc_type: feature
 longitude: 75.6995
-score: 0.63
+score: 9.16
 snippet: Ancient Buddhist cave complex where cliff-cut sanctuaries preserve some of
   India's finest early paintings.
 title: Ajanta Caves

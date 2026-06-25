@@ -2,7 +2,7 @@
 latitude: 42.8782
 loc_type: city
 longitude: -8.5448
-score: 0.6
+score: 9.03
 snippet: Galician pilgrimage city where the Camino de Santiago ends at a golden-stone
   cathedral and medieval old town.
 title: Santiago de Compostela

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_gardens_panorama_(3
 latitude: 52.2112
 loc_type: city
 longitude: 5.9699
-score: 0.41
+score: 7.37
 snippet: Veluwe city in the central Netherlands, balancing forest access, palace gardens,
   and small-town roots.
 tags:

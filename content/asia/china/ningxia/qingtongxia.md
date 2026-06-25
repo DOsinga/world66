@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Qingtongxia,_Wuzhong,_Ning
 latitude: 38.0209
 loc_type: city
 longitude: 106.0691
-score: 0.27
+score: 5.88
 snippet: Yellow River city in Ningxia known for the triangular hillside array of 108
   Dagobas
 sources:

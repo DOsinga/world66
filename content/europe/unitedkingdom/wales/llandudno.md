@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Llandudno
 title: Llandudno
 type: location
-score: 0.45
+score: 7.8
 snippet: Victorian seaside resort between two limestone headlands, laid out with rare
   architectural discipline.
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beja_agriculture.jpg
 latitude: 36.7333
 loc_type: city
 longitude: 9.1833
-score: 0.32
+score: 6.42
 snippet: Northwestern Tunisian provincial city in wheat country, with Roman Vaga history
   and a hilltop kasbah.
 title: Béja

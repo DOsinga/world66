@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/46191841@N00/11994197924
 latitude: 54.3692
 loc_type: city
 longitude: -3.0747
-score: 0.49
+score: 8.12
 snippet: Lake District village below Coniston Old Man, tied to Coniston Water, slate
   fells, and John Ruskin's Brantwood.
 title: Coniston

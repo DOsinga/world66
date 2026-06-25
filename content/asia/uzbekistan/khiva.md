@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_the_city_walls,_
 latitude: 41.3775
 loc_type: city
 longitude: 60.3635
-score: 0.57
+score: 8.8
 snippet: Walled Silk Road city in Uzbekistan, preserving Itchan Kala's mud-brick lanes,
   minarets, and madrassas
 title: Khiva

@@ -4,7 +4,7 @@ done:
 latitude: 43.0
 loc_type: feature
 longitude: 107.0
-score: 0.48
+score: 8.02
 snippet: Mongolian desert region of rocky steppe, singing dunes, dinosaur fossils,
   and nomadic ger camps.
 title: Gobi Desert

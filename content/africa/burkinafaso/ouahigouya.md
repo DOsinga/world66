@@ -5,7 +5,7 @@ done:
 latitude: 13.580982
 loc_type: city
 longitude: -2.417699
-score: 0.18
+score: 4.62
 title: Ouahigouya
 type: location
 snippet: Northern Burkina Faso market city and former Mossi kingdom seat in the dry

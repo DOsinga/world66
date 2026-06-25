@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Moji_20201230_163247.jpg
 latitude: 33.9045
 loc_type: city
 longitude: 130.9329
-score: 0.45
+score: 7.78
 title: Moji
 type: location
-snippet: Kyushu port district on the Kanmon Strait, known for preserved Meiji and Taisho brick buildings.
+snippet: Kyushu port district on the Kanmon Strait, known for preserved Meiji and
+  Taisho brick buildings.
 ---
 
 Moji is where Kyushu begins — or ends, depending on which way you're crossing. The Kanmon Strait is narrow here, just a few hundred metres between Kyushu and Honshu, bridged above and tunnelled below.

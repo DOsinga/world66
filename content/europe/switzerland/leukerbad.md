@@ -4,7 +4,7 @@ done:
 latitude: 46.3794
 loc_type: city
 longitude: 7.6284
-score: 0.51
+score: 8.36
 snippet: Valais thermal spa village below the Gemmi Pass, known for mineral baths
   and sheer mountain walls
 sources:

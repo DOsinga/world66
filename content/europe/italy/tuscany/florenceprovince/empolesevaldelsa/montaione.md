@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MontaionePanorama8.jpg
 latitude: 43.552937
 loc_type: city
 longitude: 10.912773
-score: 0.46
+score: 7.9
 snippet: Medieval Valdelsa hill town near San Vivaldo's Renaissance chapels in a wooded
   Tuscan hillside.
 title: Montaione

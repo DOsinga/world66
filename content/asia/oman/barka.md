@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barka,_Oman_(10)_(27574466
 latitude: 23.666575
 loc_type: city
 longitude: 57.88206
-score: 0.38
+score: 6.99
 title: Barka
 type: location
 snippet: Batinah coast town west of Muscat, known for its waterfront fort and working

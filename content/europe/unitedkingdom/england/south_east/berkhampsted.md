@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Berkhamsted_Castle_-_geogr
 latitude: 51.7592
 loc_type: city
 longitude: -0.5634
-score: 0.34
+score: 6.58
 snippet: Chiltern market town where England's nobles surrendered to William the Conqueror
   in 1066.
 title: Berkhamsted

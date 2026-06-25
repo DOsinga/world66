@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2013,_Route_66,_View_W_fro
 latitude: 35.0828
 loc_type: city
 longitude: -107.598
-score: 0.22
+score: 5.13
 snippet: Tiny Route 66 hamlet with unrestored roadside relics, a mission church, and
   high-desert wine.
 title: San Fidel

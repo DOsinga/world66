@@ -4,7 +4,7 @@ done:
 latitude: -37.8294
 loc_type: city
 longitude: 140.7828
-score: 0.41
+score: 7.35
 snippet: South Australian volcanic city of crater lakes, sinkholes, caves, and the
   seasonal Blue Lake
 sources:

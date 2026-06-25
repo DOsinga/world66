@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HailuogouGlacierPanorama.j
 latitude: 29.6465
 loc_type: feature
 longitude: 102.1248
-score: 0.53
+score: 8.53
 snippet: Sichuan glacier park where Minya Konka ice descends through forest toward
   Tibetan villages and hot springs
 sources:

@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Notre-Dame_de_la_Garde_aer
 latitude: 43.2962
 loc_type: city
 longitude: 5.37
-score: 0.59
+score: 8.96
 title: Marseille
-snippet: Mediterranean port city and France's oldest major city, built around the Vieux-Port.
+snippet: Mediterranean port city and France's oldest major city, built around the
+  Vieux-Port.
 type: location
 ---
 

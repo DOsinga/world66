@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jigongshan_(Rooster_Mounta
 latitude: 31.85
 loc_type: feature
 longitude: 114.0833
-score: 0.36
+score: 6.76
 snippet: Forested Henan mountain resort once lined with foreign villas and cool summer
   retreats.
 sources:

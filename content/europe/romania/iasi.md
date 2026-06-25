@@ -6,7 +6,7 @@ done:
 latitude: 47.16156
 loc_type: city
 longitude: 27.583781
-score: 0.42
+score: 7.47
 snippet: Moldavian university city and cultural capital, centred on palaces, monasteries,
   and carved stone churches.
 sources:

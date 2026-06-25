@@ -11,7 +11,7 @@ image: jostvandyke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jost_van_Dyke.jpg
 image_license: Public domain
 image_attribution: Legis
-score: 0.57
+score: 8.83
 snippet: Small British Virgin Island known for sandy bays, beach bars, and hilly coastal
   trails.
 ---

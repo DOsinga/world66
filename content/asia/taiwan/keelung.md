@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keelung_Miaokou_Night_Mark
 latitude: 25.1276
 loc_type: city
 longitude: 121.7392
-score: 0.41
+score: 7.38
 title: Keelung
 type: location
 snippet: Rainy Taiwanese port city with a working harbour and the food-focused Miaokou

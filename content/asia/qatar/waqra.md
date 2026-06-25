@@ -5,7 +5,7 @@ done:
 latitude: 25.055
 loc_type: city
 longitude: 51.424
-score: 0.24
+score: 5.56
 snippet: Small coastal settlement south of Doha, with a little-visited nineteenth-century
   shoreline fort.
 title: Waqra

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Night_Scenery_of_Tongren_2
 latitude: 27.7233
 loc_type: city
 longitude: 109.1885
-score: 0.34
+score: 6.58
 snippet: Northeastern Guizhou city used as the main gateway to Mount Fanjing’s wild
   ridge country.
 sources:

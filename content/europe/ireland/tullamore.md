@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_the_Assumption,_
 latitude: 53.2744
 loc_type: city
 longitude: -7.4927
-score: 0.36
+score: 6.85
 snippet: County town of Offaly on the Grand Canal, known for Tullamore D.E.W. whiskey.
 title: Tullamore
 type: location

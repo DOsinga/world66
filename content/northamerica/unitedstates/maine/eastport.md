@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eastport,_Maine_waterfront
 latitude: 44.905
 loc_type: city
 longitude: -66.9846
-score: 0.35
+score: 6.69
 snippet: Maine island city at the country's eastern edge, shaped by Bay of Fundy tides
   and borderland quiet.
 sources:

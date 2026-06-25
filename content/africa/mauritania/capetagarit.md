@@ -5,7 +5,7 @@ done:
 latitude: 20.167451
 loc_type: city
 longitude: -16.224841
-score: 0.14
+score: 3.61
 snippet: Mauritanian Atlantic headland near Banc d'Arguin, with clear water, fishing,
   and migratory birds
 title: Cape Tagarit

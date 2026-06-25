@@ -7,7 +7,7 @@ done:
 latitude: 53.6467
 loc_type: city
 longitude: -1.7822
-score: 0.34
+score: 6.63
 snippet: West Yorkshire mill town between Leeds and Manchester, with Pennine views
   from Castle Hill.
 title: Huddersfield

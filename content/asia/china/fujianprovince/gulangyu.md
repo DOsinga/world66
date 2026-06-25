@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagua_Mansion,_Kulangsu,_2
 latitude: 24.4476
 loc_type: feature
 longitude: 118.0625
-score: 0.53
+score: 8.53
 snippet: Car-free Xiamen island and UNESCO site, known for colonial-era architecture
   and quiet lanes.
 sources:

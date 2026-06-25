@@ -5,7 +5,7 @@ done:
 latitude: 19.0539
 loc_type: city
 longitude: 20.5083
-score: 0.28
+score: 5.95
 snippet: Saharan settlement beside Chad's extraordinary Ounianga lake chains, where
   freshwater survives among dunes.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_House,_Monaghan_-_g
 latitude: 54.248558
 loc_type: city
 longitude: -6.968885
-score: 0.35
+score: 6.73
 snippet: Compact Irish market town near the Northern Ireland border, centred on a
   diamond-shaped Ulster square.
 title: Monaghan

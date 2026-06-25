@@ -11,7 +11,7 @@ loc_type: city
 snippet: Dalmatian river town at the Cetina gorge, once a pirate stronghold above
   the Adriatic
 longitude: 16.692277
-score: 0.54
+score: 8.62
 title: Omiš
 type: location
 ---

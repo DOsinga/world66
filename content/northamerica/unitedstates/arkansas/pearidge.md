@@ -4,7 +4,7 @@ done:
 latitude: 36.451504
 loc_type: city
 longitude: -94.116215
-score: 0.26
+score: 5.77
 snippet: Ozark foothills town known for Pea Ridge National Military Park and its Civil
   War battlefield.
 title: Pea Ridge

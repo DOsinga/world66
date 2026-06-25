@@ -11,8 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Av._de_la_Republica,_Mexic
 latitude: 19.4326
 loc_type: city
 longitude: -99.1332
-score: 0.53
-snippet: "High-altitude Mexican capital built over Tenochtitlan, centred on the Zócalo and layered Aztec-colonial history."
+score: 8.45
+snippet: High-altitude Mexican capital built over Tenochtitlan, centred on the Zócalo
+  and layered Aztec-colonial history.
 title: Mexico City
 type: location
 ---

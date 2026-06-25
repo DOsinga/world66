@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Schlei
 latitude: 48.249423
 loc_type: city
 longitude: 11.553075
-score: 0.42
+score: 7.52
 snippet: Bavarian town north of Munich, known for the Schleissheim palace complex
   and its baroque gardens.
 title: Schleissheim

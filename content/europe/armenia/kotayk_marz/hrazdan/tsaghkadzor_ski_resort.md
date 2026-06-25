@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 40.530158
 longitude: 44.670161
-score: 0.41
+score: 7.32
 snippet: Forested Armenian ski resort with Soviet training roots, affordable winter
   runs, and Kecharis Monastery.
 tags:

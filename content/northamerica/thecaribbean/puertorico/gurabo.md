@@ -4,7 +4,7 @@ done:
 latitude: 18.2544
 loc_type: city
 longitude: -65.9728
-score: 0.31
+score: 6.22
 snippet: Rural Puerto Rican municipality in the Sierra de Cayey, associated with the
   traditional pasillo.
 title: Gurabo

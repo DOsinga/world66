@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:JacmelView.jpg
 latitude: 18.2342
 loc_type: city
 longitude: -72.5358
-score: 0.38
-snippet: "Southern Haitian port town known for ironwork houses, papier-mâché carnival masks, and waterfall pools nearby."
+score: 7.02
+snippet: Southern Haitian port town known for ironwork houses, papier-mâché carnival
+  masks, and waterfall pools nearby.
 title: Jacmel
 type: location
 ---

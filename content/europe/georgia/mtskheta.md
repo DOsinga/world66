@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_to_Mtskheta_from_Jvar
 latitude: 41.8463
 loc_type: city
 longitude: 44.7196
-score: 0.53
+score: 8.47
 title: Mtskheta
 type: location
 snippet: Ancient Georgian capital and Orthodox spiritual centre, anchored by UNESCO-listed

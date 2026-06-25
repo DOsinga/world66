@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Seven_Pillars_2008_e5.jpg
 latitude: 29.5748
 loc_type: city
 longitude: 35.4218
-score: 0.65
-snippet: "Bedouin village gateway to Wadi Rum, where jeep and camel trips enter the sandstone desert."
+score: 9.3
+snippet: Bedouin village gateway to Wadi Rum, where jeep and camel trips enter the
+  sandstone desert.
 title: Rum
 type: location
 ---

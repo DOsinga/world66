@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_
 latitude: 15.585041
 loc_type: city
 longitude: 73.743815
-score: 0.53
+score: 8.46
 snippet: North Goa beach village shaped by hippie-trail parties, flea markets, and
   the Chapora coast.
 title: Anjuna

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BaldeneyseeVonWerden.jpg
 latitude: 51.458224
 loc_type: city
 longitude: 7.015817
-score: 0.37
+score: 6.9
 snippet: Ruhr post-industrial city shaped by coal, steel, Zollverein, and major art
   collections
 title: Essen

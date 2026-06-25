@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Niger,_Dosso_(24),_Place_D
 latitude: 13.049
 loc_type: city
 longitude: 3.1937
-score: 0.14
+score: 3.8
 snippet: Zarma road town east of Niamey, with a historic palace, mosque, and regional
   royal heritage.
 sources:

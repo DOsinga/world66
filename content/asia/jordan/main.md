@@ -4,7 +4,7 @@ done:
 latitude: 31.680476
 loc_type: feature
 longitude: 35.732646
-score: 0.43
+score: 7.59
 snippet: Dead Sea escarpment valley of hot springs and waterfalls southwest of Amman.
 title: Ma'in
 type: location

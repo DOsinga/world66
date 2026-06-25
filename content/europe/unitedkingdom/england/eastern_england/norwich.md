@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:38_Elm_Hill_-_Truman%27s_G
 latitude: 52.628558
 loc_type: city
 longitude: 1.292395
-score: 0.42
+score: 7.48
 snippet: Medieval East Anglian city with a Norman cathedral, hilltop castle, and dozens
   of surviving churches.
 title: Norwich

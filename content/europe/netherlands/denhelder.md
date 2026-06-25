@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2_IC_in_Den_Helder_Station
 latitude: 52.952989
 loc_type: city
 longitude: 4.826759
-score: 0.37
+score: 6.91
 snippet: Northern Dutch navy city at the Wadden Sea, serving maritime museums and
   the ferry to Texel.
 title: Den Helder

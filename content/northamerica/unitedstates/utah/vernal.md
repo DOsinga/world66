@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_entry_to_Vernal,_Utah
 latitude: 40.455683
 loc_type: city
 longitude: -109.528474
-score: 0.39
+score: 7.11
 snippet: Uintah Basin town on Utah's dinosaur frontier, near fossil quarries, red-rock
   canyons, and Flaming Gorge.
 title: Vernal

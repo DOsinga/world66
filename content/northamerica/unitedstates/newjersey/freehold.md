@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_of_Monmouth_Monumen
 latitude: 40.2601
 loc_type: city
 longitude: -74.2738
-score: 0.28
+score: 5.92
 snippet: Central New Jersey borough known for Bruce Springsteen roots, colonial history,
   and Monmouth battlefield nearby.
 title: Freehold

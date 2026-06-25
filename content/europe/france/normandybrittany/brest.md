@@ -10,10 +10,11 @@ longitude: -4.4894
 sources:
 - https://en.wikipedia.org/wiki/Brest,_France
 - https://en.wikivoyage.org/wiki/Brest_(France)
-snippet: "Western Brittany naval city rebuilt after 1944, with an Atlantic harbour and the surviving Château de Brest."
+snippet: Western Brittany naval city rebuilt after 1944, with an Atlantic harbour
+  and the surviving Château de Brest.
 title: Brest
 type: location
-score: 0.44
+score: 7.71
 ---
 
 Brest sits at the far western tip of Brittany, a naval city of considerable strategic importance and a character that is entirely its own. It faces the Atlantic directly, and the weather — changeable, wet, and frequently spectacular — is as much a presence in the city as the port, the military installations, and the wide postwar boulevards that were rebuilt after Allied bombing flattened most of the old town in 1944.

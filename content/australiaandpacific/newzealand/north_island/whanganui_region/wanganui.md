@@ -5,9 +5,10 @@ done:
 latitude: -39.9325
 loc_type: city
 longitude: 175.0519
-score: 0.38
+score: 7.01
 title: Wanganui
-snippet: Whanganui River city with strong Victorian and Edwardian architecture on New Zealand's west coast.
+snippet: Whanganui River city with strong Victorian and Edwardian architecture on
+  New Zealand's west coast.
 type: location
 ---
 

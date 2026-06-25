@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caveman_Bridge.jpg
 latitude: 42.4394
 loc_type: city
 longitude: -123.3272
-score: 0.34
+score: 6.61
 snippet: Rogue Valley city serving as a gateway to the Rogue River's Wild and Scenic
   reaches.
 title: Grants Pass

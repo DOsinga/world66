@@ -5,7 +5,7 @@ done:
 latitude: 39.6837
 loc_type: city
 longitude: -75.7497
-score: 0.24
+score: 5.46
 snippet: Northern Delaware college town shaped by the University of Delaware and a
   walkable Main Street.
 title: Newark

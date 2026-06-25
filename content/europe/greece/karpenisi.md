@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/153329952@N02/36303483776
 latitude: 38.915243
 loc_type: city
 longitude: 21.794349
-score: 0.44
+score: 7.64
 title: Karpenisi
 type: location
 snippet: Central Greek mountain town in Evrytania, known for Velouchi skiing and Agrafa

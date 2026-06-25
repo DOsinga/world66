@@ -4,7 +4,7 @@ done:
 latitude: 28.1365
 loc_type: feature
 longitude: 86.8555
-score: 0.55
+score: 8.66
 snippet: High Tibetan base camp below Everest's north face, reached across the plateau
   via Rongbuk Monastery
 title: Everest Base Camp (Tibet)

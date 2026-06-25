@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mulhouse_-_Town_hall.jpg
 latitude: 47.7467
 loc_type: city
 longitude: 7.339
-score: 0.41
+score: 7.31
 snippet: Industrial Alsatian city near three borders, known for automobile, railway,
   and textile museums.
 title: Mulhouse

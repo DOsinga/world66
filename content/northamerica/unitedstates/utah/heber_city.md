@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Heber_Valley_Historic_Rail
 latitude: 40.5065
 loc_type: city
 longitude: -111.4133
-score: 0.39
-snippet: Working Utah valley town near Park City, with reservoirs and the Heber Valley Railroad.
+score: 7.18
+snippet: Working Utah valley town near Park City, with reservoirs and the Heber Valley
+  Railroad.
 title: Heber City
 type: location
 ---

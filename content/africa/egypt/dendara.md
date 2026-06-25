@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denderah_Outside.JPG
 latitude: 26.1451
 loc_type: city
 longitude: 32.6717
-score: 0.52
+score: 8.38
 snippet: Upper Egyptian temple village known for the remarkably intact Ptolemaic Temple
   of Hathor
 title: Dendara

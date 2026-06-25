@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chitradurga_fort_Image_(10
 latitude: 14.304917
 loc_type: city
 longitude: 76.529667
-score: 0.36
+score: 6.85
 snippet: Central Karnataka city built among ancient granite boulders and a seven-ring
   hill fortress.
 title: Chitradurga

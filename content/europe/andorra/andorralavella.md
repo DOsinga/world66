@@ -2,7 +2,7 @@
 latitude: 42.5063
 loc_type: city
 longitude: 1.5218
-score: 0.5
+score: 8.21
 snippet: High Pyrenean capital in the Valira valley, with stone old-quarter lanes
   and Casa de la Vall.
 title: Andorra la Vella

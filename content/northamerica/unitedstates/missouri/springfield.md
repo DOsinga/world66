@@ -6,7 +6,7 @@ latitude: 37.2153
 longitude: -93.2982
 title: Springfield
 type: location
-score: 0.31
+score: 6.3
 loc_type: city
 snippet: Ozarks hub city with a compact downtown, university campuses, and a long
   regional nickname.

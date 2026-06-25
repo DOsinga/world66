@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Antonio_Botanical_Gard
 latitude: 29.4246
 loc_type: city
 longitude: -98.4951
-score: 0.48
+score: 8.04
 snippet: Texas city of Spanish missions, Mexican influence, and walkways along the
   San Antonio River.
 title: San Antonio

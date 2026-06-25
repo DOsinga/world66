@@ -5,7 +5,7 @@ done:
 latitude: 41.636215
 loc_type: city
 longitude: -70.934205
-score: 0.36
+score: 6.76
 snippet: Massachusetts port city whose whaling wealth shaped its waterfront, architecture,
   and Moby-Dick connections.
 title: New Bedford

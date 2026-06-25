@@ -2,7 +2,7 @@
 latitude: 42.3803
 loc_type: city
 longitude: 20.4289
-score: 0.32
+score: 6.42
 snippet: Kosovo trading city with a restored Ottoman bazaar and strong Albanian character.
 title: Gjakova
 type: location

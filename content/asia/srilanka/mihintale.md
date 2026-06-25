@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_staircase.jpg
 latitude: 8.3583
 loc_type: city
 longitude: 80.5122
-score: 0.48
+score: 8.04
 snippet: Sri Lankan pilgrimage hill traditionally linked to the island's first royal
   conversion to Buddhism
 title: Mihintale

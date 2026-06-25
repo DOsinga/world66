@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Norderney_
 latitude: 53.712386
 loc_type: city
 longitude: 7.23402
-score: 0.42
+score: 7.52
 snippet: East Frisian island resort with an old spa town, long beaches, and protected
   dune landscapes.
 title: Norderney

@@ -6,7 +6,7 @@ latitude: 30.105194
 longitude: -90.987592
 title: Donaldsonville
 type: location
-score: 0.26
+score: 5.7
 loc_type: city
 snippet: Small Louisiana river town at Bayou Lafourche, with former capital history
   and River Road access.

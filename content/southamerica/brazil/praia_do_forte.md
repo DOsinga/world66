@@ -2,7 +2,7 @@
 latitude: -12.5667
 loc_type: city
 longitude: -37.9833
-score: 0.47
+score: 8.0
 snippet: Bahian beach village on the Coconut Coast, known for calm water and the Projeto
   TAMAR turtle station
 title: Praia do Forte

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/24810268@N05/5245044567
 latitude: 32.598406
 loc_type: city
 longitude: 44.015793
-score: 0.31
+score: 6.2
 snippet: Central Iraqi pilgrimage city, focused on the Imam Husayn and Al-Abbas shrines
   of Shia Islam.
 title: Karbala

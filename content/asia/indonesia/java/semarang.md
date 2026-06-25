@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Becak_Tugu_Muda_Semarang_C
 latitude: -6.9904
 loc_type: city
 longitude: 110.4229
-score: 0.42
+score: 7.47
 snippet: Central Java port city where Dutch colonial quarters, Chinese temples, and
   Lawang Sewu mark the north coast.
 title: Semarang

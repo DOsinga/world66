@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ANKARA_KOCATEPE_CAM%C4%B0%
 latitude: 39.920776
 loc_type: city
 longitude: 32.85405
-score: 0.41
+score: 7.4
 snippet: Inland Turkish capital chosen by Atatürk, with its old core clustered around
   Ankara Castle.
 title: Ankara

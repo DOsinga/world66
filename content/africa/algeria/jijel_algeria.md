@@ -15,7 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Corniche_Jijelienne
 title: Jijel
 type: location
-score: 0.32
+score: 6.33
 snippet: Mediterranean coastal city where forested Kabylie mountains drop to cliffs,
   coves, and small beaches.
 ---

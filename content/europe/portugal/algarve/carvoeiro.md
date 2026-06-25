@@ -5,7 +5,7 @@ done:
 latitude: 37.094
 loc_type: city
 longitude: -8.471
-score: 0.56
+score: 8.76
 sources:
 - https://en.wikipedia.org/wiki/Carvoeiro_(Lagoa)
 title: Carvoeiro

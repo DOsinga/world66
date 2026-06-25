@@ -5,7 +5,7 @@ done:
 latitude: 31.5604
 loc_type: city
 longitude: -91.4032
-score: 0.43
+score: 7.55
 snippet: Mississippi River bluff town with a notable concentration of antebellum houses
   and Natchez Trace history.
 title: Natchez

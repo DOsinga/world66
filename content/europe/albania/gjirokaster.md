@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Gjirokaster_2016-2017.jpg
 latitude: 40.077087
 loc_type: city
 longitude: 20.139336
-score: 0.53
+score: 8.45
 title: Gjirokaster
 type: location
-snippet: UNESCO-listed Ottoman hillside town in southern Albania, known for slate roofs, tower houses, and a fortress.
+snippet: UNESCO-listed Ottoman hillside town in southern Albania, known for slate
+  roofs, tower houses, and a fortress.
 ---
 
 Gjirokastër — the "City of Stone" — is one of the best-preserved Ottoman towns in the Balkans and a UNESCO World Heritage Site jointly listed with Berat. It climbs a steep hillside in southern Albania, all grey-slate rooftops, cobbled alleys, and tower houses with overhanging upper floors. The setting, ringed by mountains, is dramatic in any season.

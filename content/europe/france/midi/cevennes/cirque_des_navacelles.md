@@ -4,7 +4,7 @@ done:
 latitude: 43.892762
 loc_type: feature
 longitude: 3.509978
-score: 0.51
+score: 8.3
 snippet: Cévennes limestone amphitheatre carved by the Vis River, with Navacelles
   village stranded below sheer plateau rims.
 title: Cirque des Navacelles

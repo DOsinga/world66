@@ -4,7 +4,7 @@ done:
 latitude: 37.3379
 loc_type: feature
 longitude: -80.7566
-score: 0.55
+score: 8.66
 snippet: Long-distance Appalachian footpath linking Katahdin and Springer Mountain
   across fourteen eastern states.
 title: Appalachian Trail

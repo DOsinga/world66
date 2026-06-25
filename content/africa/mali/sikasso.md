@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/13176024@N02/2264917560
 latitude: 11.529684
 loc_type: city
 longitude: -6.866326
-score: 0.21
+score: 5.06
 snippet: Southern Malian city in green border country, anchored by Kénédougou walls
   and a busy regional market
 title: Sikasso

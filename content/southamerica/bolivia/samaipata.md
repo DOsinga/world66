@@ -5,7 +5,7 @@ done:
 latitude: -18.179655
 loc_type: city
 longitude: -63.875825
-score: 0.47
+score: 7.96
 snippet: Andean foothill town near Santa Cruz, known for El Fuerte and cloud-forest
   excursions.
 title: Samaipata

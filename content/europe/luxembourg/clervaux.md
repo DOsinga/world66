@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Clervaux_101021_V1.JPG
 latitude: 50.054791
 loc_type: city
 longitude: 6.027551
-score: 0.46
+score: 7.86
 snippet: Luxembourgish valley town dominated by a castle housing The Family of Man
   photography exhibition
 title: Clervaux

@@ -5,7 +5,7 @@ done:
 latitude: 47.3648
 loc_type: city
 longitude: -1.1816
-score: 0.38
+score: 7.01
 snippet: Loire riverside town between Nantes and Angers, with castle ruins and vineyards
   along the cycle route.
 sources:

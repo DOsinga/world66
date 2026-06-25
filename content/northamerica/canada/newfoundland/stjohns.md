@@ -5,7 +5,7 @@ done:
 latitude: 47.5615
 loc_type: city
 longitude: -52.7126
-score: 0.43
+score: 7.6
 title: St. John's
 type: location
 snippet: Newfoundland capital on a narrow harbour, famous for steep streets and painted

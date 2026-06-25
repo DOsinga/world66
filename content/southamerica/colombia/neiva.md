@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_la_toma.jpg
 latitude: 3.033255
 loc_type: city
 longitude: -75.27943
-score: 0.33
+score: 6.52
 snippet: Huila department capital on the Magdalena River, base for Tatacoa Desert
   and southern Colombia archaeology
 title: Neiva

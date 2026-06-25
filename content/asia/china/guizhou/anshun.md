@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anshun.jpg
 latitude: 26.2456
 loc_type: city
 longitude: 105.934
-score: 0.38
+score: 7.04
 snippet: Guizhou city used as a base for Huangguoshu Waterfall and nearby karst caves.
 sources:
 - https://en.wikivoyage.org/wiki/Anshun

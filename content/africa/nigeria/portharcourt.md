@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1st_Artilery_Cross_Road,_P
 latitude: 4.767658
 loc_type: city
 longitude: 7.018853
-score: 0.24
+score: 5.46
 snippet: Niger Delta port city and oil-industry capital, founded on the Bonny River
   in 1913.
 sources:

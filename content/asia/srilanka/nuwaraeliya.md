@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuwara_Eliya_Gregory_Lake.
 latitude: 6.9709
 loc_type: city
 longitude: 80.7832
-score: 0.55
+score: 8.63
 snippet: Sri Lankan hill-country town of tea estates, cool air, and British colonial
   oddities
 title: Nuwara Eliya

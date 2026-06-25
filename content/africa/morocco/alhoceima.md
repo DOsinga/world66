@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Hoceima_Quemado.jpg
 latitude: 35.245114
 loc_type: city
 longitude: -3.930186
-score: 0.45
+score: 7.76
 snippet: Mediterranean beach town on Morocco's Rif coast, with Spanish-era roots and
   cliff-backed Plage Quemado.
 title: Al Hoceima

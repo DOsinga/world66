@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Elizabeth_Castle_Island_St
 latitude: 49.188
 loc_type: city
 longitude: -2.104
-score: 0.44
+score: 7.64
 snippet: Jersey's capital and main harbour town, facing Elizabeth Castle on a tidal
   island.
 sources:

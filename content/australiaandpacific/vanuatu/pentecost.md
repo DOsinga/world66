@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melsisi_from_above.jpg
 latitude: -15.75
 loc_type: island
 longitude: 168.17
-score: 0.46
+score: 7.85
 snippet: Mountainous Vanuatu island famous for Naghol land diving from tall wooden
   towers
 sources:

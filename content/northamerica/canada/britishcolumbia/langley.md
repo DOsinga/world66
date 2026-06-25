@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Douglas_Park_(City_of_Lang
 latitude: 49.1039
 loc_type: city
 longitude: -122.657
-score: 0.32
+score: 6.41
 snippet: Suburban Fraser Valley municipality centred on Fort Langley, the restored
   birthplace of British Columbia.
 title: Langley

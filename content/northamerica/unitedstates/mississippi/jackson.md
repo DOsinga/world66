@@ -5,7 +5,7 @@ done:
 latitude: 32.2988
 loc_type: city
 longitude: -90.1848
-score: 0.29
+score: 6.02
 title: Jackson
 type: location
 snippet: Mississippi capital on the Pearl River, shaped by Deep South history and

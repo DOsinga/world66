@@ -5,7 +5,7 @@ done:
 latitude: 10.649809
 loc_type: city
 longitude: -71.64436
-score: 0.24
+score: 5.49
 title: Maracaibo
 type: location
 snippet: Venezuelan oil city on Lake Maracaibo, with restored waterfront streets and

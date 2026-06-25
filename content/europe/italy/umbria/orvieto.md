@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_orvieto_aerial_pano_2024
 latitude: 42.718615
 loc_type: city
 longitude: 12.108791
-score: 0.59
+score: 8.93
 snippet: Umbrian hill town on a tufa plateau, crowned by a striped Gothic cathedral.
 title: Orvieto
 type: location

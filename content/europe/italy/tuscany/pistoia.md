@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pistoia_Cathedral_facade_a
 latitude: 43.974096
 loc_type: city
 longitude: 10.868708
-score: 0.5
+score: 8.2
 title: Pistoia
 type: location
 snippet: Tuscan city with a compact medieval centre and a cathedral square spared

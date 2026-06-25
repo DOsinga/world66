@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_Arch_-_Anti
 latitude: 14.5575
 loc_type: city
 longitude: -90.7333
-score: 0.62
+score: 9.1
 snippet: Colonial Guatemalan city of earthquake-scarred churches, ochre streets, and
   a UNESCO-listed historic core.
 sources:

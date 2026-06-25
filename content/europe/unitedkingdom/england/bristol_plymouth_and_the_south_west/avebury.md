@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wiltshire-Avebury.jpg
 latitude: 51.42861
 loc_type: city
 longitude: -1.851705
-score: 0.52
+score: 8.38
 snippet: Wiltshire village built inside Europe's largest stone circle, with lanes,
   a pub, and a church among the stones.
 title: Avebury

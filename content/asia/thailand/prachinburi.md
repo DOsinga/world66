@@ -5,7 +5,7 @@ done:
 latitude: 14.0509
 loc_type: city
 longitude: 101.3717
-score: 0.33
+score: 6.44
 snippet: Quiet Thai province east of Bangkok, bordering Khao Yai and Thap Lan national
   parks.
 sources:

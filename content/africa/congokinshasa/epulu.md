@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Epulu_Okapi_Reserve.jpg
 latitude: 1.402924
 loc_type: city
 longitude: 28.572058
-score: 0.21
+score: 4.91
 snippet: Ituri Forest settlement and base for the Okapi Wildlife Reserve in northeastern
   Congo
 title: Epulu

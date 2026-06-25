@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jos_nigeria05.jpg
 latitude: 9.9167
 loc_type: city
 longitude: 8.8983
-score: 0.29
+score: 6.07
 snippet: Plateau State capital in central Nigeria, set at 1,200 metres on the cooler
   Jos Plateau.
 title: Jos

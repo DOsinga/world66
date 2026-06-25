@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/94442743@N00/7783769726
 latitude: 46.6425
 loc_type: city
 longitude: 32.625
-score: 0.18
+score: 4.62
 snippet: Lower Dnipro port city with shipyards, fertile farmland, river beaches, and
   Black Sea history
 title: Kherson

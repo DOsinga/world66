@@ -4,7 +4,7 @@ done:
 latitude: 46.937496
 loc_type: feature
 longitude: -90.582415
-score: 0.41
+score: 7.42
 snippet: Lake Superior archipelago of 21 protected islands, sandstone cliffs, lighthouses,
   and quiet national lakeshore.
 title: Apostle Islands

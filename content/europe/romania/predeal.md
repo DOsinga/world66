@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Predeal_and_Mount_Postavar
 latitude: 45.502688
 loc_type: city
 longitude: 25.576158
-score: 0.4
+score: 7.24
 title: Predeal
 type: location
 snippet: Romania's highest town, a Bucegi Mountains ski and hiking base between Brașov

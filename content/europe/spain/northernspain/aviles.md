@@ -4,7 +4,7 @@ done:
 latitude: 43.5561
 loc_type: city
 longitude: -5.9222
-score: 0.38
+score: 6.98
 snippet: Asturian industrial city with an intact old town and a revived cultural waterfront.
 sources:
 - https://en.wikipedia.org/wiki/Avil%C3%A9s

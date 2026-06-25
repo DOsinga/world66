@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beit_Shean_11.jpg
 latitude: 32.4968
 loc_type: city
 longitude: 35.4973
-score: 0.44
+score: 7.73
 snippet: Jordan Valley city where a Roman lower town sits beside a tel of seven thousand
   years.
 title: Beit Shean

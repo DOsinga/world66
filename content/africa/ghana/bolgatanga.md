@@ -5,10 +5,11 @@ done:
 latitude: 10.785396
 loc_type: city
 longitude: -0.848732
-score: 0.29
+score: 6.0
 sources:
 - https://en.wikipedia.org/wiki/Bolgatanga
-snippet: "Northern Ghanaian market town known for Bolga baskets, Sahelian compounds, and Tongo Hills excursions."
+snippet: Northern Ghanaian market town known for Bolga baskets, Sahelian compounds,
+  and Tongo Hills excursions.
 title: Bolgatanga
 type: location
 ---

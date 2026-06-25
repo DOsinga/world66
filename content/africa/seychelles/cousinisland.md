@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/80403443@N00/58246896
 latitude: -4.3323
 loc_type: city
 longitude: 55.6644
-score: 0.53
+score: 8.49
 title: Cousin Island
 type: location
 snippet: Tiny Seychelles nature reserve southwest of Praslin, dense with seabirds

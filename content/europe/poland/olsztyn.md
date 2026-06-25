@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-07_Olsztyn_(72).jpg
 latitude: 53.7766
 loc_type: city
 longitude: 20.4778
-score: 0.4
+score: 7.29
 snippet: Warmia-Masuria lake city with a Gothic castle, Copernicus connections, and
   forests close by.
 title: Olsztyn

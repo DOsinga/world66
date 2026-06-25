@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Medina_ghat.jpg
 latitude: 24.9626
 loc_type: city
 longitude: 10.1797
-score: 0.18
+score: 4.54
 snippet: Libyan oasis town in Tuareg country, near old caravan routes and Tadrart
   Acacus rock art
 sources:

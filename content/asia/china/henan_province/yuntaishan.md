@@ -8,7 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Henan
 title: Yuntaishan
 type: location
-score: 0.48
+score: 8.09
 snippet: Henan mountain scenic area of red-rock gorges cut through quartzite and limestone.
 ---
 

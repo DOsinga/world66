@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_P
 latitude: 35.67101
 loc_type: city
 longitude: 10.10062
-score: 0.49
+score: 8.1
 snippet: North African Islamic city founded in 670, centred on the Great Mosque and
   medina shrines
 title: Kairouan

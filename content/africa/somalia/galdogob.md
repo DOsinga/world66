@@ -5,7 +5,7 @@ done:
 latitude: 7.048863
 loc_type: city
 longitude: 47.206094
-score: 0.1
+score: 1.89
 title: Galdogob
 type: location
 snippet: Central Somali livestock town near the Ethiopian border, surrounded by arid

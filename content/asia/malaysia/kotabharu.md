@@ -11,10 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Istana_Jahar,_Kota_Bharu.j
 latitude: 6.1254
 loc_type: city
 longitude: 102.2381
-score: 0.43
+score: 7.63
 title: Kota Bharu
 type: location
-snippet: Kelantan's capital near the Thai border, known for Malay market life and traditional crafts.
+snippet: Kelantan's capital near the Thai border, known for Malay market life and
+  traditional crafts.
 ---
 
 Kota Bharu is the most Malay city in Malaysia. The capital of Kelantan, tucked into the northeast corner of the peninsula near the Thai border, it runs on Islamic principles and old-fashioned hospitality. There are no bars, no nightclubs, and no pretense. What you get instead is one of the most culturally authentic towns in the country.

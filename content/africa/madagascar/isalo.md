@@ -4,7 +4,7 @@ done:
 latitude: -19.737291
 loc_type: feature
 longitude: 45.439491
-score: 0.49
+score: 8.11
 snippet: Sandstone national park in southwestern Madagascar, carved into canyons,
   cliffs, pools, and lemur-filled forests
 title: Isalo

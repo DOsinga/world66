@@ -5,7 +5,7 @@ done:
 latitude: 14.5568
 loc_type: city
 longitude: 121.0211
-score: 0.36
+score: 6.81
 snippet: Metro Manila business district of glass towers, walkable malls, and Poblacion
   nightlife.
 title: Makati

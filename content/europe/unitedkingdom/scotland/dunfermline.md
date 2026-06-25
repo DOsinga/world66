@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abbot_House,_Dunfermline_F
 latitude: 56.0712
 loc_type: city
 longitude: -3.4616
-score: 0.42
+score: 7.51
 snippet: Former Scottish capital where royal abbey ruins and Andrew Carnegie's birthplace
   share the old town
 sources:

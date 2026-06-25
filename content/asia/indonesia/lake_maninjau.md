@@ -2,7 +2,7 @@
 latitude: -0.3167
 loc_type: feature
 longitude: 100.1667
-score: 0.46
+score: 7.85
 snippet: West Sumatra caldera lake reached by 44 hairpins, with quiet shore villages
   below volcanic hills.
 title: Lake Maninjau

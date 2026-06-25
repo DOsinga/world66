@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HukouWaterfall4.jpg
 latitude: 36.1472
 loc_type: feature
 longitude: 110.4439
-score: 0.46
+score: 7.83
 snippet: Yellow River waterfall where broad loess-plateau water squeezes through a
   narrow basalt gorge.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fulda,_Schlossgarten,_2019
 latitude: 50.554233
 loc_type: city
 longitude: 9.677045
-score: 0.43
+score: 7.57
 snippet: Eastern Hesse city founded around a Benedictine monastery and associated
   with Saint Boniface.
 sources:

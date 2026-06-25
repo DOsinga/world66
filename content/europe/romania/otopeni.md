@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:16.09.21_Aeroport_Henri_Co
 latitude: 44.550794
 loc_type: city
 longitude: 26.072927
-score: 0.28
+score: 5.94
 title: Otopeni
 type: location
 snippet: Small town north of Bucharest best known as the site of Romania's main international

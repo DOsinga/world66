@@ -5,7 +5,7 @@ done:
 latitude: 39.33312
 loc_type: city
 longitude: -82.982402
-score: 0.29
+score: 6.09
 snippet: Scioto Valley town and former Ohio capital, beside major Hopewell earthworks
   and mound complexes
 title: Chillicothe

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shimonoseki_20080503_11454
 latitude: 33.9577
 loc_type: city
 longitude: 130.9415
-score: 0.46
+score: 7.91
 snippet: Honshu port city on the Kanmon Strait, known for maritime history and fugu
   cuisine.
 title: Shimonoseki

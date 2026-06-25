@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Kiel,_Aleman
 latitude: 54.3227
 loc_type: city
 longitude: 10.1355
-score: 0.41
+score: 7.33
 snippet: Baltic port city at the Kiel Canal, with ferries, shipyards, and the long
   Kieler Förde waterfront.
 sources:

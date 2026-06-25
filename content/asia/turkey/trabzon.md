@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayasofyatrabzon.jpg
 latitude: 41.0042
 loc_type: city
 longitude: 39.7278
-score: 0.47
+score: 7.95
 snippet: Black Sea port city with Trapezus roots, Byzantine churches, and mountain
   monasteries above the coast.
 sources:

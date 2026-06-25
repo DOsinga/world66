@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20251004_Temple_of_Marquis
 latitude: 32.9987
 loc_type: city
 longitude: 112.5292
-score: 0.27
+score: 5.86
 snippet: Southwestern Henan basin city layered with ancient history, jade trade, and
   Zhuge Liang memorials.
 sources:

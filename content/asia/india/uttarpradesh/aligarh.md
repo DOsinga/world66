@@ -5,7 +5,7 @@ done:
 latitude: 27.876107
 loc_type: city
 longitude: 78.135815
-score: 0.26
+score: 5.72
 snippet: Western Uttar Pradesh city known for Aligarh Muslim University and India's
   lock-making industry.
 title: Aligarh

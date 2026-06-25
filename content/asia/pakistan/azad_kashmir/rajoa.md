@@ -4,7 +4,7 @@ done:
 latitude: 33.3018
 loc_type: city
 longitude: 73.0482
-score: 0.17
+score: 4.4
 snippet: Azad Kashmir village tied to Mirpur's diaspora networks and the Baba Badar
   Shah shrine.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2019_Mission_Basilica_San_
 latitude: 33.5012
 loc_type: city
 longitude: -117.6626
-score: 0.44
+score: 7.64
 snippet: Orange County mission town with Spanish colonial architecture, adobe ruins,
   and a genuinely old downtown.
 title: San Juan Capistrano

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Luton_from_the_air_-_geogr
 latitude: 51.891073
 loc_type: city
 longitude: -0.42303
-score: 0.24
+score: 5.47
 snippet: Bedfordshire transit town north of London, with a major airport and overlooked
   hat-making heritage
 title: Luton

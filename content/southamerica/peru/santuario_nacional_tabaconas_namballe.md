@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -5.172406
 longitude: -79.278118
-score: 0.35
+score: 6.68
 snippet: Remote northern Peruvian sanctuary of cloud forest, páramo grassland, highland
   lakes, and Andean mountain tapir habitat.
 title: Santuario Nacional Tabaconas Namballe

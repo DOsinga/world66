@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Derna,_Libya.jpg
 latitude: 32.76361
 loc_type: city
 longitude: 22.63611
-score: 0.13
+score: 2.96
 snippet: Dramatic Libyan coastal city between the Mediterranean, Jebel Akhdar, and
   the gorge of Wadi Derna.
 sources:

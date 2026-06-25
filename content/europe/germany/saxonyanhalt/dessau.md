@@ -5,7 +5,7 @@ done:
 latitude: 51.8313
 loc_type: city
 longitude: 12.2442
-score: 0.34
+score: 6.59
 snippet: Small Elbe city where Bauhaus modernism and the Dessau-Wörlitz Garden Kingdom
   share UNESCO status.
 sources:

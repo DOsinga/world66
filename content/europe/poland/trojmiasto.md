@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:D%C5%82ugie_Pobrze%C5%BCe_
 latitude: 54.44948
 loc_type: city
 longitude: 18.733495
-score: 0.48
+score: 8.02
 snippet: Baltic tri-city region linking Gdansk, Sopot, and Gdynia by beaches, shipyards,
   and commuter rail.
 title: Trojmiasto

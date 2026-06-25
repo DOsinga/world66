@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20130610_-_Monumento_aos_H
 latitude: 11.861324
 loc_type: city
 longitude: -15.583055
-score: 0.23
+score: 5.41
 snippet: Unhurried West African capital with faded Portuguese colonial streets around
   Bissau Velho.
 title: Bissau

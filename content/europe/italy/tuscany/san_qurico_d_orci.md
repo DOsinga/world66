@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cipressi_di_S.Quirico_d%27
 latitude: 43.0568
 loc_type: city
 longitude: 11.6058
-score: 0.58
+score: 8.88
 snippet: Tuscan hill town on the Via Francigena amid the cypress-lined landscapes
   of the Val d'Orcia.
 title: San Quirico d'Orcia

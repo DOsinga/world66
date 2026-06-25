@@ -5,7 +5,7 @@ done:
 latitude: -8.35
 loc_type: city
 longitude: 157.5833
-score: 0.33
+score: 6.45
 snippet: Largest island in the Solomon Islands’ Western Province, edged by Roviana
   Lagoon and WWII history.
 sources:

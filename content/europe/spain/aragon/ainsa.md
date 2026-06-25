@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor,_Ainsa,_Spain.
 latitude: 42.41719
 loc_type: city
 longitude: 0.138644
-score: 0.51
+score: 8.28
 snippet: Medieval village in the Aragón Pyrenees, perched above the Cinca and Ara
   rivers around a vast arcaded square.
 sources:

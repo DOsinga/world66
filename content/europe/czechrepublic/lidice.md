@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lidice,_pomn%C3%ADk_lidick
 latitude: 50.143583
 loc_type: city
 longitude: 14.190522
-score: 0.33
+score: 6.55
 snippet: Czech village west of Prague, remembered for its 1942 destruction and memorial
   landscape.
 title: Lidice

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Biserica_Domneasc%C4%83_Ad
 latitude: 44.926771
 loc_type: city
 longitude: 25.462816
-score: 0.38
+score: 6.97
 title: Târgoviște
-snippet: "Former Wallachian capital northwest of Bucharest, centred on the Princely Court of Vlad the Impaler."
+snippet: Former Wallachian capital northwest of Bucharest, centred on the Princely
+  Court of Vlad the Impaler.
 type: location
 ---
 

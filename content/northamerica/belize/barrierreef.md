@@ -7,7 +7,7 @@ title: Belize Barrier Reef
 snippet: Caribbean barrier reef system stretching along Belize, with cayes, marine
   reserves, and rich diving sites.
 type: location
-score: 0.66
+score: 9.37
 loc_type: feature
 image: barrierreef.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef,_Ambergris_Caye,_Belize.jpg

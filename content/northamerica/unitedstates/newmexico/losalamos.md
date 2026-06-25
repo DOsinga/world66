@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/21874566@N07/20293334623
 latitude: 35.8814
 loc_type: city
 longitude: -106.299
-score: 0.37
+score: 6.91
 snippet: New Mexico mesa town shaped by the Manhattan Project and nearby Bandelier's
   ancestral Pueblo canyons.
 title: Los Alamos

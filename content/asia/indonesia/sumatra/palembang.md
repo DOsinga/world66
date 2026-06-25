@@ -11,7 +11,7 @@ loc_type: city
 snippet: South Sumatra river city and former Srivijaya capital, centred on the broad
   Musi River
 longitude: 104.756851
-score: 0.34
+score: 6.58
 title: Palembang
 type: location
 ---

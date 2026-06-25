@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Crist%C3%B3b
 latitude: 14.5886
 loc_type: city
 longitude: -88.5822
-score: 0.39
+score: 7.09
 title: Gracias
-snippet: Western Honduran colonial town below Celaque, the country's highest peak and cloud-forest national park.
+snippet: Western Honduran colonial town below Celaque, the country's highest peak
+  and cloud-forest national park.
 type: location
 ---
 

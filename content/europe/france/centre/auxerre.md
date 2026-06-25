@@ -10,7 +10,7 @@ latitude: 47.796129
 longitude: 3.570579
 title: Auxerre
 type: location
-score: 0.44
+score: 7.7
 loc_type: city
 snippet: Burgundy river town with medieval church towers, half-timbered lanes, and
   Chablis vineyards nearby.

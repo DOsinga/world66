@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autumninmoncton.JPG
 latitude: 46.0986
 loc_type: city
 longitude: -64.8004
-score: 0.36
+score: 6.77
 title: Moncton
 type: location
 snippet: Bilingual New Brunswick city and Maritime hub, known for Magnetic Hill and

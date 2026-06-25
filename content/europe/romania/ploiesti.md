@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_in_Ploie%C8%99ti,_R
 latitude: 44.941747
 loc_type: city
 longitude: 26.02365
-score: 0.3
+score: 6.12
 snippet: Romanian oil city north of Bucharest, shaped by refineries, wartime bombing,
   and an unexpected clock museum
 title: Ploiești

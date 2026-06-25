@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bremgarten,_Aargau_Switzer
 latitude: 47.3528
 loc_type: city
 longitude: 8.3336
-score: 0.4
+score: 7.22
 snippet: Medieval Aargau town wrapped by the Reuss River, with half-timbered houses
   and a covered bridge.
 title: Bremgarten

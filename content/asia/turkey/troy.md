@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg
 latitude: 39.9574
 loc_type: city
 longitude: 26.2385
-score: 0.51
+score: 8.33
 snippet: Legendary Aegean archaeological mound where nine layers of Troy reveal Bronze
   Age walls behind Homer's story.
 title: Troy

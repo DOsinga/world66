@@ -3,11 +3,12 @@ done:
   location_cleanup: '2026-04-15'
 latitude: 51.5679
 longitude: -1.7714
-score: 0.43
+score: 7.53
 title: The Ridgeway
 type: location
 loc_type: feature
-snippet: "Ancient English National Trail following chalk downland past prehistoric monuments and Chiltern viewpoints."
+snippet: Ancient English National Trail following chalk downland past prehistoric
+  monuments and Chiltern viewpoints.
 ---
 
 The Ridgeway is one of Britain's oldest roads, a prehistoric track that has been walked for at least 5,000 years. Today it is a National Trail running 87 miles (139km) from Ovingham in Wiltshire eastward to Ivinghoe Beacon in Buckinghamshire, crossing some of the most open and ancient downland in southern England.

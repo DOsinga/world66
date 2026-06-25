@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Falaise_de_l%27Escal%C3%A8
 latitude: 43.7378
 loc_type: feature
 longitude: 6.3639
-score: 0.63
+score: 9.2
 snippet: Haute-Provence limestone canyon where the turquoise Verdon River cuts between
   high cliffs
 sources:

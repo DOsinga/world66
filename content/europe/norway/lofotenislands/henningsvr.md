@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henning
 latitude: 68.1529
 loc_type: city
 longitude: 14.2007
-score: 0.64
+score: 9.24
 snippet: Lofoten fishing village spread across islets beneath Mount Vågakaillen and
   the Vestfjord
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Metal_Cross.jpg
 latitude: 4.7948
 loc_type: city
 longitude: -1.9464
-score: 0.35
+score: 6.7
 snippet: Fishing village on Ghana's southwest coast, with Fort Metal Cross above a
   working harbour.
 title: Dixcove

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cevennes_Florac_Mimente_de
 latitude: 44.324
 loc_type: city
 longitude: 3.594
-score: 0.45
+score: 7.79
 snippet: Cévennes gateway town where three rivers meet below limestone plateaus and
   national-park trails
 title: Florac

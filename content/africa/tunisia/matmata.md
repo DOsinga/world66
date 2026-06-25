@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Matmata_house.jpg
 latitude: 33.5087
 loc_type: city
 longitude: 9.9786
-score: 0.46
+score: 7.86
 snippet: Southern Tunisian Berber town of troglodyte courtyard homes carved into ochre
   earth.
 title: Matmata

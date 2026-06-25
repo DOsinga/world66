@@ -2,7 +2,7 @@
 latitude: 32.2427
 loc_type: city
 longitude: 76.3234
-score: 0.53
+score: 8.48
 snippet: Himachal hill town above Dharamsala, home to the Tibetan government-in-exile
   and the Dalai Lama’s temple complex.
 title: McLeod Ganj

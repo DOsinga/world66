@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Laosicheng
 type: location
-score: 0.39
+score: 7.15
 snippet: Tujia archaeological city in western Hunan, once the semi-autonomous capital
   of the Peng clan Tusi.
 ---

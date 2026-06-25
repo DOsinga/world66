@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Grado_(vie
 latitude: 45.6781
 loc_type: city
 longitude: 13.3979
-score: 0.47
+score: 7.98
 title: Grado
 type: location
 snippet: Lagoon island town in Friuli Venezia Giulia, with early Christian basilicas

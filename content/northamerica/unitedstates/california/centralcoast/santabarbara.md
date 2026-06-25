@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cliffs_at_Arroyo_Burro_Bea
 latitude: 34.422132
 loc_type: city
 longitude: -119.702667
-score: 0.58
+score: 8.88
 title: Santa Barbara
 type: location
 snippet: Central Coast city of Spanish Colonial Revival streets, south-facing beaches,

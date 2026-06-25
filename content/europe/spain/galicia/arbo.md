@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Concello_de_Arbo.JPG
 latitude: 42.120133
 loc_type: city
 longitude: -8.31824
-score: 0.38
+score: 7.0
 snippet: Galician border town on the Miño, known for lamprey fishing, stone pesqueiras,
   and Condado de Tea wines.
 title: Arbo

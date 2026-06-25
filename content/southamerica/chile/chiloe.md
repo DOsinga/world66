@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sendero_Parque_Nacional_Ch
 latitude: -42.6767
 loc_type: island
 longitude: -73.9933
-score: 0.5
+score: 8.2
 snippet: Rainy Chilean island of wooden churches, stilt houses, fishing coves, and
   sea-facing folklore beyond Puerto Montt
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 36.5718
 loc_type: city
 longitude: -119.6126
-score: 0.22
+score: 5.14
 snippet: San Joaquin Valley city surrounded by raisin vineyards south of Fresno.
 title: Selma
 type: location

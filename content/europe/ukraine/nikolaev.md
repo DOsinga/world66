@@ -5,7 +5,7 @@ done:
 latitude: 46.975862
 loc_type: city
 longitude: 31.993967
-score: 0.2
+score: 4.77
 snippet: Southern Ukrainian shipbuilding city at the Southern Bug-Inhul confluence,
   historically known as Nikolaev.
 sources:

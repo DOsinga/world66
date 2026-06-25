@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sorvagur,_faroe_islands,_v
 latitude: 62.070745
 loc_type: city
 longitude: -7.306047
-score: 0.5
+score: 8.23
 snippet: Faroese village on Vágar, beside the airport, Mykines ferry, and trails toward
   lake-above-the-sea views.
 sources:

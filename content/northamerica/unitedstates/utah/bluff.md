@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47026734@N08/8338730446
 latitude: 37.2942
 loc_type: city
 longitude: -109.5512
-score: 0.4
+score: 7.29
 snippet: Small San Juan River town in southeastern Utah, surrounded by red rock bluffs
   and Ancestral Puebloan sites.
 title: Bluff

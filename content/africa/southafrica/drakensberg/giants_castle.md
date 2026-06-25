@@ -4,7 +4,7 @@ done:
 latitude: -29.2697
 loc_type: feature
 longitude: 29.5314
-score: 0.51
+score: 8.3
 snippet: Central Drakensberg nature reserve beneath a basalt buttress, known for hiking
   and San rock art.
 title: Giant's Castle

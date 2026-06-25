@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Emami_Jagannath_Temple,_Ba
 latitude: 21.500642
 loc_type: city
 longitude: 86.919884
-score: 0.27
+score: 5.9
 snippet: Coastal Odisha district known for rice country and Chandipur beach's unusually
   retreating tide.
 title: Balasore

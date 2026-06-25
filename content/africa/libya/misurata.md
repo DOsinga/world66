@@ -5,7 +5,7 @@ done:
 latitude: 32.374592
 loc_type: city
 longitude: 15.09058
-score: 0.16
+score: 4.37
 snippet: Libyan port city east of Tripoli, marked by Phoenician roots and the 2011
   siege
 title: Misurata

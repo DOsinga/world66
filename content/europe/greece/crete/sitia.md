@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kreta_sitia_hafen.jpg
 latitude: 35.206218
 loc_type: city
 longitude: 26.101482
-score: 0.51
+score: 8.33
 snippet: Small Cretan port town with a relaxed waterfront and a Venetian fortress
   above the harbour.
 title: Sitia

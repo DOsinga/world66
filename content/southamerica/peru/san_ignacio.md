@@ -9,9 +9,10 @@ image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:San_Ignacio_Peru_square.jpg
 latitude: -5.124368
 loc_type: city
-snippet: Northern Peruvian foothill town near the Ecuador road and Tabaconas Namballe's cloud-forest sanctuary.
+snippet: Northern Peruvian foothill town near the Ecuador road and Tabaconas Namballe's
+  cloud-forest sanctuary.
 longitude: -78.89563
-score: 0.25
+score: 5.63
 title: San Ignacio
 type: location
 ---

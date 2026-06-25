@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Scranton_-_Downtown_(48472
 latitude: 41.408687
 loc_type: city
 longitude: -75.662129
-score: 0.28
+score: 5.96
 title: Scranton
 type: location
 snippet: Former anthracite coal and railroad city in Pennsylvania's Lackawanna Valley,

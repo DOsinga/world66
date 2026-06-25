@@ -5,8 +5,9 @@ done:
 latitude: 48.142715
 loc_type: city
 longitude: 8.197494
-score: 0.33
-snippet: "Black Forest village known for cuckoo-clock making, high pastures, and year-round trail access."
+score: 6.43
+snippet: Black Forest village known for cuckoo-clock making, high pastures, and year-round
+  trail access.
 title: Schönach
 type: location
 ---

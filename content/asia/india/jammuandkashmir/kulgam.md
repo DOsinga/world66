@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aharbal.jpg
 latitude: 33.6447
 loc_type: city
 longitude: 75.0188
-score: 0.23
+score: 5.38
 snippet: Southern Kashmir town among rice paddies and apple orchards, with Aharbal
   Falls up the Veshaw valley.
 title: Kulgam

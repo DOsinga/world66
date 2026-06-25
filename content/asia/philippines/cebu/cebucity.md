@@ -6,7 +6,7 @@ done:
 latitude: 10.3157
 loc_type: city
 longitude: 123.8854
-score: 0.5
+score: 8.23
 title: Cebu City
 type: location
 snippet: Visayan hub and early Spanish colonial city, anchored by Fort San Pedro and

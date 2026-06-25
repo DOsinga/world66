@@ -11,7 +11,7 @@ loc_type: city
 snippet: Grand Harbour fortified town, Birgu to locals, and the Knights of St. John's
   first Maltese seat
 longitude: 14.5238
-score: 0.5
+score: 8.25
 title: Vittoriosa
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: 10.5183
 loc_type: city
 longitude: 7.436
-score: 0.22
+score: 5.29
 snippet: Northern Nigerian river city with colonial boulevards and the former political
   architecture of British administration
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kazybek_Bi_District,_Karag
 latitude: 49.8028
 loc_type: city
 longitude: 73.1056
-score: 0.25
+score: 5.65
 snippet: Kazakh coal city shaped by Soviet industry, Gulag history, and a large university
   population.
 title: Karagandy

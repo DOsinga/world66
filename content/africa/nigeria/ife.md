@@ -5,7 +5,7 @@ done:
 latitude: 7.4828
 loc_type: city
 longitude: 4.5604
-score: 0.31
+score: 6.2
 snippet: Yoruba sacred city and university town, famed for medieval bronzes, terracottas,
   and creation traditions
 title: Ile-Ife

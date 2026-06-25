@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akbar_Fort_Allahabad.jpg
 latitude: 25.4381
 loc_type: city
 longitude: 81.8338
-score: 0.38
+score: 7.07
 snippet: Sacred north Indian city at the Triveni Sangam, known for Kumbh Mela and
   colonial-era history.
 title: Allahabad

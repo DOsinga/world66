@@ -5,7 +5,7 @@ done:
 latitude: 67.527
 loc_type: city
 longitude: 12.1
-score: 0.47
+score: 7.96
 snippet: Low Arctic island municipality in southern Lofoten, ringed by seabird cliffs
   and open ocean.
 title: Røst

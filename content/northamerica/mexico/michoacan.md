@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerro_Patamban.jpg
 latitude: 19.207098
 loc_type: city
 longitude: -101.878113
-score: 0.43
+score: 7.58
 snippet: Western Mexican state of Purépecha heritage, colonial towns, Pacific coast,
   and wintering monarch butterflies.
 title: Michoacán

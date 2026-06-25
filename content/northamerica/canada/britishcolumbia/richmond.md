@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buddhist_Temple_on_No._5_R
 latitude: 49.1632
 loc_type: city
 longitude: -123.1374
-score: 0.35
+score: 6.7
 snippet: Fraser River island city south of Vancouver, home to the airport and notable
   East Asian food courts.
 title: Richmond

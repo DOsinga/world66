@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wuzhi_Shan_Hainan_China.jp
 latitude: 18.7787
 loc_type: city
 longitude: 109.5117
-score: 0.36
+score: 6.81
 snippet: Central Hainan highland city beneath Wuzhi Mountain, with Li and Miao villages
   nearby.
 sources:

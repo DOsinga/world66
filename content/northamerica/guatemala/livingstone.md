@@ -5,7 +5,7 @@ done:
 latitude: 15.8281
 loc_type: city
 longitude: -88.7533
-score: 0.39
+score: 7.17
 title: Livingston
 type: location
 snippet: Boat-only Garífuna town at the Río Dulce mouth, with Caribbean music, food,

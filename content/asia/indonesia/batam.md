@@ -7,8 +7,9 @@ done:
 latitude: 1.0769
 loc_type: city
 longitude: 104.0306
-score: 0.36
-snippet: Indonesian industrial island near Singapore, mixing ferry traffic, factories, resorts, and the Barelang Bridges.
+score: 6.78
+snippet: Indonesian industrial island near Singapore, mixing ferry traffic, factories,
+  resorts, and the Barelang Bridges.
 title: Batam
 type: location
 ---

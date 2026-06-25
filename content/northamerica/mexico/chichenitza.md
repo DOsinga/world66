@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_2.jpg
 latitude: 20.682852
 loc_type: feature
 longitude: -88.56872
-score: 0.72
+score: 9.49
 snippet: Maya archaeological site in Yucatán, dominated by El Castillo and a vast
   ceremonial core.
 title: Chichen Itza

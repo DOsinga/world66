@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Toulon_-_Hafen.jpg
 latitude: 43.125731
 loc_type: city
 longitude: 5.930492
-score: 0.48
+score: 8.03
 snippet: Working naval city on the Côte d'Azur, with a rough-edged port and Mediterranean
   fleet.
 title: Toulon

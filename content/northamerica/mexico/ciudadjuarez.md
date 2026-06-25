@@ -5,7 +5,7 @@ done:
 latitude: 31.690798
 loc_type: city
 longitude: -106.425321
-score: 0.17
+score: 4.46
 snippet: Chihuahua border city across from El Paso, shaped by international bridges,
   manufacturing, and a busy historic centre.
 title: Ciudad Juárez

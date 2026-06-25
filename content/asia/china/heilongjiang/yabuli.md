@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yabuli_Ski_Resort.jpg
 latitude: 44.7815
 loc_type: feature
 longitude: 128.4502
-score: 0.33
+score: 6.52
 snippet: Chinese ski resort in Heilongjiang, with Daqingshan runs built for serious
   alpine training.
 sources:

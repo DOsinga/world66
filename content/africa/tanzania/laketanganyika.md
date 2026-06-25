@@ -4,8 +4,9 @@ done:
 latitude: -4.883
 loc_type: feature
 longitude: 29.6227
-score: 0.46
-snippet: East African rift lake of clear deep water, forested shores, cichlids, and MV Liemba ferry stops.
+score: 7.87
+snippet: East African rift lake of clear deep water, forested shores, cichlids, and
+  MV Liemba ferry stops.
 title: Lake Tanganyika
 type: location
 ---

@@ -5,7 +5,7 @@ done:
 latitude: -8.955169
 loc_type: city
 longitude: 160.951441
-score: 0.28
+score: 5.93
 snippet: Mountainous Solomon Islands island known for Lau Lagoon artificial villages
   and resilient traditional culture.
 title: Malaita

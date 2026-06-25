@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20230130_Old_City_of_Quanz
 latitude: 24.908853
 loc_type: city
 longitude: 118.587952
-score: 0.42
+score: 7.52
 snippet: Historic Fujian port where Maritime Silk Road temples, mosques, and merchant
   streets still shape the city
 title: Quanzhou

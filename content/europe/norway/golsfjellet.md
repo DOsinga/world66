@@ -4,7 +4,7 @@ done:
 latitude: 60.8272
 loc_type: feature
 longitude: 8.9882
-score: 0.38
+score: 7.04
 snippet: Norwegian mountain plateau above Gol, with open ski fields in winter and
   hiking country in summer.
 title: Golsfjellet

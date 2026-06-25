@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Black_Eagle_Palace,_Oradea
 latitude: 47.054916
 loc_type: city
 longitude: 21.928523
-score: 0.45
+score: 7.76
 snippet: Northwestern Romanian border city with Hungarian roots, Art Nouveau boulevards,
   and grand Habsburg architecture
 title: Oradea

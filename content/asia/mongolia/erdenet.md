@@ -2,7 +2,7 @@
 latitude: 49.0272
 loc_type: city
 longitude: 104.0452
-score: 0.29
+score: 6.02
 snippet: Planned Mongolian industrial city built around one of the world's largest
   copper and molybdenum deposits.
 title: Erdenet

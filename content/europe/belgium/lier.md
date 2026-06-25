@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:10361_Stadhuis_van_Lier.jp
 latitude: 51.1311
 loc_type: city
 longitude: 4.5697
-score: 0.4
+score: 7.2
 snippet: Quiet Flemish river town with a preserved beguinage and brick lanes near
   Antwerp.
 title: Lier

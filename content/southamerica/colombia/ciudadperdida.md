@@ -4,7 +4,7 @@ done:
 latitude: 11.037855
 loc_type: feature
 longitude: -73.925775
-score: 0.59
+score: 8.98
 snippet: Sierra Nevada archaeological site of Tairona terraces, reached by a demanding
   guided jungle trek.
 title: Ciudad Perdida

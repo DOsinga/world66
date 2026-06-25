@@ -5,7 +5,7 @@ done:
 latitude: 32.0239
 loc_type: city
 longitude: -106.409
-score: 0.19
+score: 4.65
 snippet: High-desert community straddling the New Mexico-Texas border just north of
   El Paso.
 title: Chaparral

@@ -9,7 +9,7 @@ done:
 latitude: 29.7205
 loc_type: city
 longitude: -8.9745
-score: 0.46
+score: 7.9
 snippet: Anti-Atlas mountain town ringed by pink granite formations, palm groves,
   and Berber villages
 title: Tafraoute

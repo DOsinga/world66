@@ -2,7 +2,7 @@
 latitude: 9.8333
 loc_type: feature
 longitude: 10.4167
-score: 0.4
+score: 7.29
 snippet: Nigerian savanna wildlife reserve centered on elephants and the warm spring
   waters of Wikki Camp.
 title: Yankari Game Reserve

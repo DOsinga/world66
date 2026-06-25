@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-10-08_View_of_downtow
 latitude: 39.2481
 loc_type: city
 longitude: -114.8917
-score: 0.29
+score: 6.09
 title: Ely
 type: location
 snippet: Isolated Great Basin mining town with a railway yard and mountain-ringed

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cooranbong_Airfield_in_195
 latitude: -33.07621
 loc_type: city
 longitude: 151.453613
-score: 0.27
+score: 5.9
 snippet: Quiet Lake Macquarie town at the foot of the Watagan Mountains, close to
   forest trails.
 title: Cooranbong

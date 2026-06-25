@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_view_sea_side_from_K
 latitude: 30.4205
 loc_type: city
 longitude: -9.5838
-score: 0.51
+score: 8.33
 snippet: Planned Moroccan Atlantic resort city rebuilt after 1960, defined by a long
   sheltered beach
 title: Agadir

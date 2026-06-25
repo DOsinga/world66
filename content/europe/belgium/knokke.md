@@ -5,7 +5,7 @@ done:
 latitude: 51.339827
 loc_type: city
 longitude: 3.284322
-score: 0.43
+score: 7.63
 snippet: Belgian seaside resort on the Dutch border, known for galleries, dunes, and
   the Zwin marsh
 title: Knokke

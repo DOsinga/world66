@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karnala_Fort_06.JPG
 latitude: 18.881349
 loc_type: city
 longitude: 73.118167
-score: 0.33
+score: 6.53
 snippet: Maharashtra hill-fort escape near Mumbai, rising above a compact bird sanctuary
   and forest trails
 title: Karnala

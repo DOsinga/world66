@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Malabo.j
 latitude: 3.741877
 loc_type: city
 longitude: 8.774066
-score: 0.24
+score: 5.47
 title: Malabo
 type: location
 snippet: Equatorial Guinea capital on Bioko Island, framed by Pico Basile and Spanish

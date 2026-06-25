@@ -11,7 +11,7 @@ loc_type: city
 snippet: Arizona desert town with gold-rush history, dude ranches, and the Vulture
   Mine in its backstory
 longitude: -112.7299
-score: 0.34
+score: 6.63
 title: Wickenburg
 type: location
 ---

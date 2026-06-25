@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:32040_Borca_di_Cadore,_Pro
 latitude: 46.4333
 loc_type: city
 longitude: 12.2167
-score: 0.44
+score: 7.64
 snippet: Dolomite village known for Villaggio ENI, a forested modernist holiday complex
   with a Carlo Scarpa chapel.
 sources:

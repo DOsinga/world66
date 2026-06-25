@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Samcheonpo_Bridge_(16)_(12
 latitude: 34.9314
 loc_type: city
 longitude: 128.0683
-score: 0.34
+score: 6.56
 snippet: South Korean port town below rocky cliffs, known for shoreline dinosaur footprints
   at Sangjokam.
 title: Samcheunpo

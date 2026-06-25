@@ -9,13 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Nevsehir_2020_stitch3.jpg
 latitude: 38.623507
 loc_type: city
 longitude: 34.719417
-score: 0.67
+score: 9.39
 sources:
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Castle
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Museum
 title: Nevşehir
-snippet: "Cappadocia transport hub and provincial capital shaped by Damat İbrahim Paşa's Ottoman-era rebuilding."
+snippet: Cappadocia transport hub and provincial capital shaped by Damat İbrahim Paşa's
+  Ottoman-era rebuilding.
 type: location
 ---
 

@@ -2,7 +2,7 @@
 latitude: 17.6392
 loc_type: city
 longitude: -101.5518
-score: 0.53
+score: 8.5
 snippet: Twin Pacific coast destination pairing planned Ixtapa resorts with Zihuatanejo's
   working fishing bay.
 title: Ixtapa-Zihuatanejo

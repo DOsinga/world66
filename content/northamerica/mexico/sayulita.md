@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Sayulita,_Mexico.
 latitude: 20.8689
 loc_type: city
 longitude: -105.4407
-score: 0.54
+score: 8.61
 snippet: Pacific surf town north of Puerto Vallarta, with a sandy beach and relaxed
   plaza life
 sources:

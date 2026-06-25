@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Pontevedra_13_Praza_da_le%
 latitude: 42.431888
 loc_type: city
 longitude: -8.643159
-score: 0.53
+score: 8.51
 title: Pontevedra
 type: location
-snippet: Galician city with a preserved pedestrian old town, granite arcades, and squares above the Lérez River.
+snippet: Galician city with a preserved pedestrian old town, granite arcades, and
+  squares above the Lérez River.
 ---
 
 Pontevedra is the capital of the province of the same name in [Galicia](/europe/spain/galicia), and connoisseurs often rate it the most charming city in southern Galicia. It lacks a single mega-attraction like the cathedral of [Santiago de Compostela](/europe/spain/galicia/santiagodecompostela), but the old town is immensely pleasing — a maze of narrow granite streets opening onto hidden squares, each with its own character.

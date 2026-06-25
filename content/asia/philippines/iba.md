@@ -5,7 +5,7 @@ done:
 latitude: 15.326461
 loc_type: city
 longitude: 119.980104
-score: 0.31
+score: 6.22
 snippet: Zambales coastal capital known for grey-sand beaches, clean water, and the
   sweet Dinamulag mangoes harvested in spring.
 sources:

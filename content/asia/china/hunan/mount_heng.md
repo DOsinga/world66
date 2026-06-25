@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HengshanMountains.JPG
 latitude: 27.3017
 loc_type: feature
 longitude: 112.6847
-score: 0.46
+score: 7.86
 snippet: Southern Sacred Mountain in Hunan, with Taoist and Buddhist temples across
   72 named summits.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salida_del_lago_de_Varna_a
 latitude: 43.207387
 loc_type: city
 longitude: 27.916665
-score: 0.51
+score: 8.29
 snippet: Black Sea port city with Roman baths, seaside gardens, and the ancient Gold
   of Varna.
 title: Varna

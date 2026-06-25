@@ -5,7 +5,7 @@ done:
 latitude: 54.2282
 loc_type: city
 longitude: -4.3938
-score: 0.42
+score: 7.43
 title: Laxey
 type: location
 snippet: Isle of Man village where heritage railways meet the sea beneath the giant

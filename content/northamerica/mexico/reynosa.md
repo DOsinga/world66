@@ -5,7 +5,7 @@ done:
 latitude: 26.0908
 loc_type: city
 longitude: -98.2788
-score: 0.22
+score: 5.23
 snippet: Tamaulipas border city across from McAllen, driven by maquiladoras, trade,
   and Rio Grande crossing culture.
 sources:

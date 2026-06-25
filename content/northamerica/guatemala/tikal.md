@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_of_the_Seven_Temples
 latitude: 17.222
 loc_type: feature
 longitude: -89.6237
-score: 0.65
+score: 9.31
 snippet: Great Maya archaeological site in the Petén jungle, where temple pyramids
   rise above thick forest
 title: Tikal

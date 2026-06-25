@@ -4,7 +4,7 @@ done:
 latitude: 34.8403
 loc_type: feature
 longitude: -83.5577
-score: 0.35
+score: 6.72
 snippet: Northeast Georgia mountain lake of clear Tallulah River water, forested ridges,
   and longstanding family cabins.
 title: Lake Burton

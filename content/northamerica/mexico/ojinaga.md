@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21328181@N00/314141173
 latitude: 29.545625
 loc_type: city
 longitude: -104.58711
-score: 0.26
+score: 5.83
 title: Ojinaga
 type: location
 snippet: Quiet Chihuahua border town where ranch country meets the Rio Grande opposite

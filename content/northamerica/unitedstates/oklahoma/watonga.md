@@ -5,7 +5,7 @@ done:
 latitude: 35.848387
 loc_type: city
 longitude: -98.41332
-score: 0.24
+score: 5.48
 title: Watonga
 type: location
 snippet: Small western Oklahoma city tied to Cheyenne-Arapaho country and spring-fed

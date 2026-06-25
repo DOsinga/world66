@@ -4,7 +4,7 @@ type: location
 latitude: -0.65
 longitude: -90.43
 todo_location_cleanup: done
-score: 0.8
+score: 9.88
 image: theislands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Iguana_marina_(Amblyrhynchus_cristatus),_Las_Bachas,_isla_Santa_Cruz,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-23,_DD_23.jpg
 image_license: CC BY-SA 4.0

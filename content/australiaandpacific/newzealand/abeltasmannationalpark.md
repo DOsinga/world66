@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abel_Tasman,_Aotearoa.jpg
 latitude: -40.9
 loc_type: feature
 longitude: 172.971
-score: 0.66
+score: 9.35
 snippet: Coastal New Zealand national park of golden beaches, granite headlands, and
   water-taxi trails.
 sources:

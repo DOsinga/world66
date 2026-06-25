@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yushu_annual_horse_fair_he
 latitude: 32.9955
 loc_type: city
 longitude: 97.0082
-score: 0.34
+score: 6.59
 snippet: Tibetan Qinghai city at 3,700 metres, rebuilt around monasteries, markets,
   and plateau grasslands
 sources:

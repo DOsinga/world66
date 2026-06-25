@@ -11,7 +11,7 @@ loc_type: city
 snippet: Andalusian crossroads town between Málaga and Granada, with dolmens, an Alcazaba,
   and El Torcal nearby
 longitude: -4.559665
-score: 0.52
+score: 8.44
 title: Antequera
 type: location
 ---

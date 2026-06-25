@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CapFerret.JPG
 latitude: 44.795105
 loc_type: city
 longitude: -1.14721
-score: 0.49
+score: 8.14
 title: Lege Cap Ferret
 type: location
 snippet: Arcachon peninsula of oyster villages, pine lanes, calm bassin water, and

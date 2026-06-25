@@ -4,7 +4,7 @@ done:
 latitude: 52.167533
 loc_type: feature
 longitude: -2.33116
-score: 0.44
+score: 7.68
 snippet: Ancient Worcestershire ridge of pre-Cambrian rock, with long views and paths
   above Great Malvern.
 title: Malvern Hills

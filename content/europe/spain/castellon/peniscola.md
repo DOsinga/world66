@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Peniscola_from_the_beach._
 latitude: 40.3578
 loc_type: city
 longitude: 0.4074
-score: 0.49
+score: 8.13
 snippet: Costa del Azahar fishing resort beneath Peñíscola's walled headland and papal
   castle.
 sources:

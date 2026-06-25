@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Weymouth_-_Weymouth_Harbou
 latitude: 50.609626
 loc_type: city
 longitude: -2.454342
-score: 0.43
+score: 7.61
 snippet: Dorset seaside town with a Georgian esplanade, working harbour, and easy
   access to the Jurassic Coast.
 title: Weymouth

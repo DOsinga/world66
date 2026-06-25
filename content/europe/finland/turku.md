@@ -7,7 +7,7 @@ done:
 latitude: 60.451594
 loc_type: city
 longitude: 22.266999
-score: 0.49
+score: 8.11
 snippet: Finland's oldest city, set on the Aura River with a medieval castle and cathedral.
 title: Turku
 type: location

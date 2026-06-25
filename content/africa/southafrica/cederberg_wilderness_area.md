@@ -4,7 +4,7 @@ done:
 latitude: -32.365037
 loc_type: feature
 longitude: 19.112816
-score: 0.48
+score: 8.04
 snippet: Rugged South African mountain wilderness of sandstone formations, cedar trees,
   and dense San rock art.
 title: Cederberg Wilderness Area

@@ -4,7 +4,7 @@ done:
 latitude: 14.8648
 loc_type: city
 longitude: -24.6942
-score: 0.39
+score: 7.09
 snippet: Brava hill town with mild mountain air, island-paced squares, and the literary
   memory of Eugénio Tavares.
 title: Vila Nova Sintra

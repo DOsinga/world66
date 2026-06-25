@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sherbro_Island_-_panoramio
 latitude: 7.5121
 loc_type: city
 longitude: -12.6069
-score: 0.24
+score: 5.48
 snippet: Sierra Leone island in the Sherbro estuary, marked by Bonthe's colonial ruins
   and mangrove channels.
 title: Sherbro Island

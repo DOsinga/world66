@@ -5,7 +5,7 @@ done:
 latitude: 16.9902
 loc_type: city
 longitude: 73.312
-score: 0.38
+score: 6.97
 snippet: Konkan Coast district in Maharashtra, known for Alphonso mangoes between
   the Sahyadri hills and Arabian Sea.
 title: Ratnagiri

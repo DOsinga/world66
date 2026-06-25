@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Clarita_(27914344664
 latitude: 34.4129
 loc_type: city
 longitude: -118.5538
-score: 0.29
-snippet: Southern California valley city beyond Newhall Pass, mixing roller coasters with silent-film and gold-mining history.
+score: 6.02
+snippet: Southern California valley city beyond Newhall Pass, mixing roller coasters
+  with silent-film and gold-mining history.
 title: Santa Clarita
 type: location
 ---

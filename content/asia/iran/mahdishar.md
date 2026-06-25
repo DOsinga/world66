@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Mahdishahr.jpg
 latitude: 35.708
 loc_type: city
 longitude: 53.348
-score: 0.14
-snippet: Cool Alborz foothill city above Semnan, with Darband Cave and desert views nearby.
+score: 3.66
+snippet: Cool Alborz foothill city above Semnan, with Darband Cave and desert views
+  nearby.
 sources:
 - https://en.wikipedia.org/wiki/Mehdishahr
 - https://en.wikipedia.org/wiki/Shahmirzad

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melk_-_Stift_(1).JPG
 latitude: 48.227207
 loc_type: city
 longitude: 15.336999
-score: 0.55
+score: 8.62
 snippet: Danube town dominated by Stift Melk, a Baroque Benedictine abbey above the
   river.
 title: Melk

@@ -10,7 +10,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Xiangcheng_(Sichuan)
 title: Xiangcheng
 type: location
-score: 0.36
+score: 6.79
 ---
 
 Xiangcheng is a county town in the far south of Ganzi Prefecture, sitting on the high road between western Sichuan and Yunnan. At around 3,000 metres it occupies a long valley that opens into wheat fields and traditional Tibetan villages, and its most striking visual feature is its vernacular architecture: large cubic houses with white-chalked exterior walls that give the valley an incongruous, almost North African quality against the surrounding peaks.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Children_playing_at_sunset
 latitude: 14.0
 loc_type: feature
 longitude: 105.9
-score: 0.55
+score: 8.67
 snippet: Mekong river archipelago near Cambodia, where channels, waterfalls, and rice
   islands slow travel to island pace.
 sources:

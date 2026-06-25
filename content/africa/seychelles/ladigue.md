@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:198_Granite_rock_in_La_Dig
 latitude: -4.3601
 loc_type: city
 longitude: 55.8385
-score: 0.7
+score: 9.45
 title: La Digue
-snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox carts around La Passe.
+snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox
+  carts around La Passe.
 type: location
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bogoyavlenskiy_sobor.jpg
 latitude: 52.9709
 loc_type: city
 longitude: 36.0642
-score: 0.27
+score: 5.89
 snippet: Oka River city south of Moscow, founded as a fortress and closely tied to
   Ivan Turgenev
 title: Orel

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gaeta_-_Comune_di_Gaeta_-_
 latitude: 41.2114
 loc_type: city
 longitude: 13.5713
-score: 0.51
+score: 8.31
 snippet: Tyrrhenian harbour town on a rocky peninsula tied to Roman strategy and Ulysses
   coast legends.
 sources:

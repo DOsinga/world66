@@ -6,7 +6,7 @@ done:
 latitude: 54.017193
 loc_type: city
 longitude: 23.977228
-score: 0.42
+score: 7.5
 snippet: Lithuanian spa resort among Nemunas pine forests, built around mineral springs,
   baths, and quiet borderland air.
 title: Druskininkai

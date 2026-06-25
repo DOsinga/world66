@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cliff_Palace_Mesa_Verde_Na
 latitude: 37.3495
 loc_type: city
 longitude: -108.5841
-score: 0.38
+score: 6.98
 snippet: Four Corners high-desert town, gateway to Mesa Verde and Ancestral Puebloan
   cliff dwellings.
 title: Cortez

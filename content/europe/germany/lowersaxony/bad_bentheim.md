@@ -4,7 +4,7 @@ done:
 latitude: 52.307033
 loc_type: city
 longitude: 7.116182
-score: 0.37
+score: 6.87
 snippet: Lower Saxony spa town near the Dutch border, dominated by hilltop Bentheim
   Castle.
 title: Bad Bentheim

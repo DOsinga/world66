@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%9B%98%E9%94%A6%E7%BA%A
 latitude: 41.1167
 loc_type: city
 longitude: 122.05
-score: 0.35
+score: 6.72
 snippet: Liaoning oil city on the Liaohe delta, famous for autumn crimson marshes
   at Red Beach
 sources:

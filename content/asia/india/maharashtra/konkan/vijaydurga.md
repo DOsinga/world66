@@ -6,7 +6,7 @@ latitude: 16.5481
 longitude: 73.3367
 title: Vijaydurga
 type: location
-score: 0.35
+score: 6.74
 loc_type: city
 snippet: Konkan fishing town named for its sea fort, with beaches, creek dolphins,
   and Alphonso mango country

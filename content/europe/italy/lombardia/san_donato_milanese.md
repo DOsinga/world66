@@ -5,7 +5,7 @@ done:
 latitude: 45.41807
 loc_type: city
 longitude: 9.27165
-score: 0.26
+score: 5.83
 snippet: Milan satellite town shaped by ENI's Metanopoli, a postwar experiment in
   modernist company urbanism.
 sources:

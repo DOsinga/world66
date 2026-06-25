@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Deekshabhoomi_-_panoramio.
 latitude: 21.149813
 loc_type: city
 longitude: 79.082056
-score: 0.31
+score: 6.23
 snippet: Central Indian rail city famous for oranges, Zero Mile Stone, and Deekshabhoomi's
   vast Buddhist stupa.
 sources:

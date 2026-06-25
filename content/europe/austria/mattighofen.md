@@ -4,7 +4,7 @@ done:
 latitude: 48.103079
 loc_type: city
 longitude: 13.150311
-score: 0.31
+score: 6.27
 snippet: Upper Austrian market town near Bavaria, known as the home of motorcycle
   manufacturer KTM.
 title: Mattighofen

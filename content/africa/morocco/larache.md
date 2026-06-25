@@ -5,7 +5,7 @@ done:
 latitude: 35.195233
 loc_type: city
 longitude: -6.152913
-score: 0.39
+score: 7.12
 snippet: Relaxed Moroccan Atlantic town beside an estuary, with Spanish colonial streets
   and nearby Lixus ruins.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lamu_Old_Town.jpg
 latitude: -2.2675
 loc_type: city
 longitude: 40.9011
-score: 0.54
+score: 8.57
 snippet: Historic Swahili island town off Kenya's northern coast, with coral-stone
   houses and car-free lanes.
 title: Lamu

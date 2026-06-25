@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_from_Sinuiju,_North
 latitude: 40.1167
 loc_type: city
 longitude: 124.3833
-score: 0.38
+score: 7.03
 snippet: Chinese border city on the Yalu River, facing North Korea across a sharply
   contrasting waterfront
 sources:

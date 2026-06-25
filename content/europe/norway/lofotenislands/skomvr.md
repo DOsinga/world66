@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skomv%C3%A6r_fyr_01.jpg
 latitude: 67.409889
 loc_type: city
 longitude: 11.875678
-score: 0.44
+score: 7.68
 snippet: Outer Lofoten island with an 1887 lighthouse, seabird colonies, and Theodor
   Kittelsen's storm-shaped artistic legacy.
 title: Skomvær

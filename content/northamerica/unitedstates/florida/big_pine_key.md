@@ -4,8 +4,9 @@ done:
 latitude: 24.6986
 loc_type: city
 longitude: -81.3792
-score: 0.42
-snippet: Florida Keys island where pine rockland shelters tiny Key deer beside Looe Key reef waters.
+score: 7.51
+snippet: Florida Keys island where pine rockland shelters tiny Key deer beside Looe
+  Key reef waters.
 sources:
 - https://en.wikipedia.org/wiki/Big_Pine_Key,_Florida
 - https://en.wikipedia.org/wiki/National_Key_Deer_Refuge

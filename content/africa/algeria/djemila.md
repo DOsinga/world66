@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Caracalla_(Djemila
 latitude: 36.3214
 loc_type: city
 longitude: 5.7368
-score: 0.46
+score: 7.9
 title: Djemila
 type: location
 snippet: Mountain Roman site where ancient Cuicul survives on a narrow ridge between

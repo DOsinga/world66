@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amdo,_Nagqu,_Tibet,_China_
 latitude: 31.48
 loc_type: city
 longitude: 92.05
-score: 0.32
+score: 6.37
 snippet: High northern Tibetan town on the Chang Tang, set around 4,500 metres beside
   the Qinghai-Tibet Railway
 sources:

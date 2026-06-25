@@ -5,7 +5,7 @@ done:
 latitude: 43.044
 loc_type: city
 longitude: 17.651
-score: 0.34
+score: 6.61
 title: Neretva
 type: location
 snippet: Adriatic river valley and wetland delta, green against Croatia's bare limestone

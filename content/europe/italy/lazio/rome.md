@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-
 latitude: 41.9028
 loc_type: city
 longitude: 12.4964
-score: 0.99
+score: 9.99
 snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
   everyday street life layer three millennia together
 title: Rome

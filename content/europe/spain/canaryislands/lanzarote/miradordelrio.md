@@ -4,7 +4,7 @@ done:
 latitude: 29.2145
 loc_type: feature
 longitude: -13.4812
-score: 0.53
+score: 8.47
 snippet: César Manrique-designed clifftop viewpoint on Lanzarote, overlooking La Graciosa
   from 475 metres.
 title: Mirador del Rio

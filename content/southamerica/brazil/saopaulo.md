@@ -6,7 +6,7 @@ done:
 latitude: -23.550651
 loc_type: city
 longitude: -46.633382
-score: 0.46
+score: 7.89
 snippet: Vast Brazilian megacity where concrete sprawl hides extraordinary immigrant
   food, music, and nightlife.
 title: São Paulo

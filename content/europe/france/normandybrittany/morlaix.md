@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Viaduc_(Morlaix).jpg
 latitude: 48.582493
 loc_type: city
 longitude: -3.833197
-score: 0.45
+score: 7.79
 title: Morlaix
 type: location
 snippet: Breton valley town dominated by a towering railway viaduct above half-timbered

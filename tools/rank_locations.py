@@ -23,6 +23,7 @@ be rebuilt from them via `replay`.
 """
 
 import argparse
+import bisect
 import datetime as dt
 import json
 import math
@@ -50,6 +51,23 @@ DEFAULT_MODEL = 'claude-sonnet-4-6'
 # PL regularization: L2 pull toward 0. Prevents scores from diverging
 # for items with very few comparisons.
 REGULARIZATION = 0.01
+
+# Rough POI score distribution from current scored POI frontmatter.
+# Location scores are percentile-mapped onto this curve so location and POI
+# scores share a similar 0-10 distribution without changing location ranking.
+POI_SCORE_QUANTILES = (
+    (0.00, 1.0),
+    (0.01, 4.3),
+    (0.05, 5.4),
+    (0.10, 5.8),
+    (0.25, 6.5),
+    (0.50, 7.4),
+    (0.75, 8.2),
+    (0.90, 8.8),
+    (0.95, 9.1),
+    (0.99, 9.5),
+    (1.00, 10.0),
+)
 
 
 # ---------------------------------------------------------------------------
@@ -806,8 +824,40 @@ def cmd_replay(args) -> None:
     print(f'Fitted {state.rounds} rounds across {len(state.ratings)} locations.')
 
 
+def _percentile_rank(value: float, sorted_values: list[float]) -> float:
+    """Return a 0-1 percentile rank, averaging over ties."""
+    n = len(sorted_values)
+    if n <= 1:
+        return 0.5
+
+    left = bisect.bisect_left(sorted_values, value)
+    right = bisect.bisect_right(sorted_values, value)
+    midpoint = (left + right - 1) / 2
+    return max(0.0, min(1.0, midpoint / (n - 1)))
+
+
+def _score_from_quantiles(percentile: float) -> float:
+    """Interpolate the POI-like 0-10 score for a percentile."""
+    percentile = max(0.0, min(1.0, percentile))
+    for i, (q_hi, score_hi) in enumerate(POI_SCORE_QUANTILES):
+        if percentile <= q_hi:
+            if i == 0:
+                return score_hi
+            q_lo, score_lo = POI_SCORE_QUANTILES[i - 1]
+            if q_hi == q_lo:
+                return score_hi
+            t = (percentile - q_lo) / (q_hi - q_lo)
+            return score_lo + t * (score_hi - score_lo)
+    return POI_SCORE_QUANTILES[-1][1]
+
+
+def _location_display_score(raw_score: float, sorted_raw_scores: list[float]) -> float:
+    percentile = _percentile_rank(raw_score, sorted_raw_scores)
+    return _score_from_quantiles(percentile)
+
+
 def cmd_apply(args) -> None:
-    """Write a normalized 0-1 score into each location's frontmatter."""
+    """Write a POI-distribution-mapped 0-10 score into location frontmatter."""
     state = State.load()
     if not state.ratings:
         print('No locations in state. Run `discover` first.', file=sys.stderr)
@@ -819,14 +869,10 @@ def cmd_apply(args) -> None:
         print(f'No locations with >= {min_n} comparisons.', file=sys.stderr)
         sys.exit(2)
 
-    s_min = min(r.score for r in rated)
-    s_max = max(r.score for r in rated)
-    s_range = s_max - s_min
-    if s_range < 1e-9:
-        print('All rated locations have the same score.', file=sys.stderr)
-        sys.exit(2)
-
-    print(f'Normalizing score [{s_min:.3f}, {s_max:.3f}] → [0.0, 1.0]')
+    sorted_raw_scores = sorted(r.score for r in rated)
+    s_min = sorted_raw_scores[0]
+    s_max = sorted_raw_scores[-1]
+    print(f'Mapping raw score [{s_min:.3f}, {s_max:.3f}] through POI score quantiles → [1.0, 10.0]')
 
     updated = 0
     skipped_n = 0
@@ -843,7 +889,7 @@ def cmd_apply(args) -> None:
             continue
 
         post = frontmatter.load(md_path)
-        score = round((r.score - s_min) / s_range, 2)
+        score = round(_location_display_score(r.score, sorted_raw_scores), 2)
 
         if post.metadata.get('score') == score:
             continue

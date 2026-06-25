@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Jolla_Shores_view_(crop
 latitude: 32.71742
 loc_type: city
 longitude: -117.162772
-score: 0.61
+score: 9.06
 snippet: Southern California border city built around Pacific beaches, Balboa Park,
   and a relaxed outdoor climate
 title: San Diego

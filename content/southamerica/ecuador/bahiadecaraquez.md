@@ -5,7 +5,7 @@ done:
 latitude: -0.6
 loc_type: city
 longitude: -80.4236
-score: 0.39
+score: 7.09
 snippet: Quiet Ecuadorian coastal city on the Río Chone peninsula, rebuilt around
   an eco-city identity
 title: Bahia de Caraquez

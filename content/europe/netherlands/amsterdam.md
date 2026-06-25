@@ -12,7 +12,7 @@ latitude: 52.37308
 loc_type: city
 longitude: 4.892453
 quote: Amsterdam makes more sense on two wheels than on foot.
-score: 0.8
+score: 9.87
 snippet: Compact Dutch capital defined by Golden Age canals, narrow gabled houses,
   and slow waterside wandering.
 tagline: Seventeen canals, twelve million tulips, and the world's most visited painting.

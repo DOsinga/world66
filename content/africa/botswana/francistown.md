@@ -4,7 +4,7 @@ done:
 latitude: -21.16636
 loc_type: city
 longitude: 27.502515
-score: 0.28
+score: 5.97
 snippet: Botswana's second city and oldest urban settlement, rooted in the Tati gold
   rush
 sources:

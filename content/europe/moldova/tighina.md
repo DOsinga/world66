@@ -5,7 +5,7 @@ done:
 latitude: 46.819196
 loc_type: city
 longitude: 29.474065
-score: 0.27
+score: 5.88
 snippet: Dniester city also known as Bender, with a largely intact sixteenth-century
   fortress.
 title: Tighina

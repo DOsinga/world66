@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ElMalpaisLava.JPG
 latitude: 34.88
 loc_type: city
 longitude: -107.97
-score: 0.4
+score: 7.29
 snippet: New Mexico national monument near Grants, shaped by lava flows, cinder cones,
   sandstone bluffs, and lava tubes.
 title: El Malpais

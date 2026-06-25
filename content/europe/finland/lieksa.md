@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/39049383@N00/4907561201
 latitude: 63.3178
 loc_type: city
 longitude: 30.0191
-score: 0.37
+score: 6.87
 title: Lieksa
 type: location
 snippet: North Karelian lake town on Pielinen, backed by forest and the ridges of

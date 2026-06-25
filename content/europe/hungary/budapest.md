@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:19-10-03-Margarethenbr%C3%
 latitude: 47.4979
 loc_type: city
 longitude: 19.0402
-score: 0.74
+score: 9.65
 title: Budapest
 type: location
 snippet: Danube capital where hilly Buda, busy Pest, imperial architecture, and thermal

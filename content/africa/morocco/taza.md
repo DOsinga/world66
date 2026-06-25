@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Distant_South_Taza_Morocco
 latitude: 34.230155
 loc_type: city
 longitude: -4.010104
-score: 0.33
+score: 6.53
 snippet: Moroccan market town guarding the Taza Gap between the Rif and Middle Atlas
   mountains.
 title: Taza

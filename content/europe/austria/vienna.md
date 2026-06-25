@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:20250502_B%C3%A4ckerstra%C
 latitude: 48.208354
 loc_type: city
 longitude: 16.372504
-score: 0.74
+score: 9.55
 title: Vienna
-snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music, and vineyards beyond the suburbs.
+snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
+  and vineyards beyond the suburbs.
 type: location
 ---
 

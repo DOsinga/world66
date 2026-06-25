@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_palais_des_Etats_d%27Ar
 latitude: 50.291
 loc_type: city
 longitude: 2.7772
-score: 0.43
+score: 7.6
 title: Arras
 type: location
 snippet: Northern French city of Flemish baroque squares, rebuilt after war above

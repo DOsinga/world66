@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Carmona-IMG_20240925_18431
 latitude: 37.4718
 loc_type: city
 longitude: -5.6413
-score: 0.52
+score: 8.43
 title: Carmona
-snippet: Andalusian ridge town east of Seville, with Roman and Moorish walls and a remarkable necropolis
+snippet: Andalusian ridge town east of Seville, with Roman and Moorish walls and a
+  remarkable necropolis
 type: location
 ---
 

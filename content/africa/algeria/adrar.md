@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2010-10-26-112535_-_Adrar_
 latitude: 27.8742
 loc_type: city
 longitude: -0.2939
-score: 0.21
+score: 5.0
 title: Adrar
 type: location
 snippet: Saharan oasis town on the Tidikelt plateau, known for ancient foggara water

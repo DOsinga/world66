@@ -4,7 +4,7 @@ done:
 latitude: -25.2744
 loc_type: feature
 longitude: 152.7093
-score: 0.51
+score: 8.34
 snippet: Queensland wilderness network spanning Wet Tropics rainforest, Carnarvon
   gorges, K'gari dunes, and Cape York rivers
 title: National Parks

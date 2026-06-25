@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Cala_Ratjad
 latitude: 39.710638
 loc_type: city
 longitude: 3.460213
-score: 0.53
+score: 8.51
 snippet: Northeastern Mallorca fishing port turned resort, with working boats and
   beaches around the Llevant peninsula.
 title: Cala Ratjada

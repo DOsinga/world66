@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Teton_Valley_Idaho.jpg
 latitude: 43.81448
 loc_type: city
 longitude: -111.160207
-score: 0.35
+score: 6.68
 snippet: Tiny farming community in Idaho's Teton Valley, with wide-open views of the
   jagged Teton Range.
 title: Tetonia

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:15_April_at_Keukenhof,_Lis
 latitude: 52.269873
 loc_type: feature
 longitude: 4.547257
-score: 0.67
+score: 9.39
 snippet: Spring bulb garden between Haarlem and Leiden, with millions of tulips spread
   across Dutch parkland.
 title: Keukenhof

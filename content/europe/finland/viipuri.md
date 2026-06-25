@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Espil%C3%A4_restaurant
 latitude: 60.71
 loc_type: city
 longitude: 28.75
-score: 0.41
+score: 7.37
 snippet: Historically Finnish Baltic city around Vyborg Castle, Alvar Aalto's library,
   and Monrepos Park.
 title: Viipuri (Vyborg)

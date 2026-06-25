@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Branitz,_Cottbus,_Germany,
 latitude: 51.756745
 loc_type: city
 longitude: 14.335731
-score: 0.33
+score: 6.53
 snippet: Brandenburg city on the Spreewald edge, with bilingual Sorbian street signs
   and Branitz Palace gardens
 title: Cottbus

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Otep%C3%A4%C3%A4_-_wmee-00
 latitude: 58.058491
 loc_type: city
 longitude: 26.49606
-score: 0.39
+score: 7.13
 snippet: Southern Estonian winter sports town in the Otepää Uplands, with ski trails,
   lakes, and rolling hills.
 title: Otepää

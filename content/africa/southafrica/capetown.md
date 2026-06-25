@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CapeTown_CityHall.jpg
 latitude: -33.92883
 loc_type: city
 longitude: 18.41722
-score: 0.8
+score: 9.86
 snippet: South African coastal city beneath Table Mountain, blending beaches, vineyards,
   colonial history, and post-apartheid complexity.
 title: Cape Town

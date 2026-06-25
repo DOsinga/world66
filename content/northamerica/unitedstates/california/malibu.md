@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.0259
 longitude: -118.7798
-score: 0.52
+score: 8.44
 snippet: Los Angeles coastal strip where the Santa Monica Mountains press against
   Pacific beaches.
 ---

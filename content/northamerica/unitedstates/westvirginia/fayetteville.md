@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_River_Gorge_Bridge.jpg
 latitude: 38.0562
 loc_type: city
 longitude: -81.1043
-score: 0.38
+score: 7.02
 snippet: West Virginia gorge town with rafting, climbing, and trails at the rim of
   New River Gorge
 title: Fayetteville

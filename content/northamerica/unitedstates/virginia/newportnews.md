@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:NNSB-00522.jpg
 latitude: 36.977502
 loc_type: city
 longitude: -76.42977
-score: 0.32
+score: 6.33
 title: Newport News
-snippet: James River shipbuilding city on the Virginia Peninsula, known for aircraft carriers and maritime history
+snippet: James River shipbuilding city on the Virginia Peninsula, known for aircraft
+  carriers and maritime history
 type: location
 ---
 

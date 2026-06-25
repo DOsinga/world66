@@ -14,7 +14,7 @@ sources:
 - https://commons.wikimedia.org/wiki/Category:Lama_Monachile_(Polignano_a_Mare)
 title: Polignano a Mare
 type: location
-score: 0.61
+score: 9.07
 snippet: Puglian cliff town balanced above the Adriatic, with white lanes overlooking
   Lama Monachile.
 ---

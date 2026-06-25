@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Miami_aerial_2008
 latitude: 25.774157
 loc_type: city
 longitude: -80.193597
-score: 0.59
+score: 8.95
 snippet: Caribbean-leaning American city of Spanish-speaking neighbourhoods, pastel
   Art Deco, and towers over Biscayne Bay.
 title: Miami

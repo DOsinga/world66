@@ -2,7 +2,7 @@
 latitude: 18.3017
 loc_type: feature
 longitude: -65.7898
-score: 0.55
+score: 8.66
 snippet: Puerto Rican rainforest in the Luquillo Mountains, with sacred Taíno associations,
   waterfalls, and cloud-wrapped trails.
 title: El Yunque

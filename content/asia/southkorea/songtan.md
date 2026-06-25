@@ -4,7 +4,7 @@ done:
 latitude: 37.075356
 loc_type: city
 longitude: 127.054366
-score: 0.34
+score: 6.63
 title: Songtan
 type: location
 snippet: Pyeongtaek neighbourhood beside Osan Air Base, known for Shin-Jang shopping

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alconchel_de_Ariza,_Zarago
 latitude: 41.652134
 loc_type: city
 longitude: -0.880943
-score: 0.51
+score: 8.33
 snippet: Aragonese capital on the Ebro, layered with Roman ruins, Mudéjar churches,
   and Baroque basilicas.
 title: Zaragoza

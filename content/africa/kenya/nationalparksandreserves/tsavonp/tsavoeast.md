@@ -4,7 +4,7 @@ done:
 latitude: -2.842033
 loc_type: feature
 longitude: 38.818984
-score: 0.54
+score: 8.62
 snippet: Kenyan savanna park of red plains, elephant herds, and wide skies along the
   Galana River.
 title: Tsavo East

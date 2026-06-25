@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_Street_and_the_Rows
 latitude: 53.190887
 loc_type: city
 longitude: -2.890896
-score: 0.5
+score: 8.22
 title: Chester
-snippet: Walled English city on the River Dee, known for Roman remains and medieval shopping rows.
+snippet: Walled English city on the River Dee, known for Roman remains and medieval
+  shopping rows.
 type: location
 ---
 

@@ -7,7 +7,7 @@ done:
 latitude: 28.5091
 loc_type: city
 longitude: 34.5131
-score: 0.54
+score: 8.57
 snippet: Sinai beach town on the Gulf of Aqaba, shaped by Bedouin roots, backpacker
   cafés, and Red Sea diving
 title: Dahab

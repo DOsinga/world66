@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahadarwaja,_Raigad_Fort,_
 latitude: 18.2333
 loc_type: city
 longitude: 73.44
-score: 0.37
-snippet: Maratha hill fort in the Western Ghats, where Shivaji was crowned and later buried.
+score: 6.87
+snippet: Maratha hill fort in the Western Ghats, where Shivaji was crowned and later
+  buried.
 title: Raigad
 type: location
 ---

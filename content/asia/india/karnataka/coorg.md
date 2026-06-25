@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22098403@N00/3804100429
 latitude: 12.3827
 loc_type: city
 longitude: 75.6641
-score: 0.48
+score: 8.07
 snippet: Misty Karnataka hill district of coffee estates, Kodava culture, and Western
   Ghats forest ridges.
 title: Coorg

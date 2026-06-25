@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rapallo-IMG_0436.JPG
 latitude: 44.351147
 loc_type: city
 longitude: 9.229671
-score: 0.53
+score: 8.51
 snippet: Tigullio Gulf resort town with a sea-edge castle, palm-lined promenade, and
   Montallegro cable car
 sources:

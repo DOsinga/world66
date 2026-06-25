@@ -5,7 +5,7 @@ done:
 latitude: 52.5167
 loc_type: city
 longitude: -7.8914
-score: 0.54
+score: 8.6
 snippet: Tipperary town beneath the Rock of Cashel, a limestone outcrop crowned with
   medieval church ruins.
 title: Cashel

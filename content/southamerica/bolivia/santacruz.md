@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Santa_Cru
 latitude: -17.7834
 loc_type: city
 longitude: -63.1821
-score: 0.36
+score: 6.86
 title: Santa Cruz
 type: location
 snippet: Tropical Bolivian lowland city of ring roads, cattle country, and fast-growing

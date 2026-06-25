@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Mersea_waterfront.jpg
 latitude: 51.790976
 loc_type: city
 longitude: 0.952176
-score: 0.38
+score: 7.08
 snippet: Essex island community of oysters, sailing creeks, marshes, and a tide-flooded
   causeway.
 sources:

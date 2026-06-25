@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Entebbe_Aerial_view.jpg
 latitude: 0.0612
 loc_type: city
 longitude: 32.4699
-score: 0.39
+score: 7.12
 snippet: Quiet Ugandan lakeside town on Lake Victoria, home to the international airport
   and botanical gardens.
 title: Entebbe

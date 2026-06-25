@@ -4,7 +4,7 @@ done:
 latitude: 63.734757
 loc_type: feature
 longitude: -148.885135
-score: 0.66
+score: 9.35
 snippet: Alaskan wilderness park around Denali, where tundra, boreal forest, and North
   America's highest peak meet
 title: Denali National Park and Preserve

@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Tongling
 title: Tongling
 type: location
-score: 0.27
+score: 5.83
 snippet: Yangtze River copper city in Anhui, shaped by 3,500 years of mining and bronze
   culture.
 ---

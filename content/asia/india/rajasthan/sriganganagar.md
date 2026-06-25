@@ -5,7 +5,7 @@ done:
 latitude: 29.932
 loc_type: city
 longitude: 73.8723
-score: 0.24
+score: 5.54
 snippet: Northern Rajasthan agricultural city built around the Ganga Canal, with Punjabi
   flavor and kinnow orchards
 title: Sri Ganganagar

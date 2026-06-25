@@ -12,7 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Yichun,_Jiangxi
 title: Yichun
 type: location
-score: 0.29
+score: 6.06
 snippet: Mountainous Jiangxi prefecture known for forested landscapes, rivers, hot
   springs, and Mingyue Mountain.
 ---

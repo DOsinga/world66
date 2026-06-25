@@ -5,7 +5,7 @@ done:
 latitude: -7.689418
 loc_type: city
 longitude: 110.38129
-score: 0.35
+score: 6.69
 title: Sleman
 type: location
 snippet: Yogyakarta regency climbing from city fringes to the volcanic slopes of Mount

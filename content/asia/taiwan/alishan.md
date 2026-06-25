@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alishan_Taiwan_Alishan-For
 latitude: 23.515035
 loc_type: city
 longitude: 120.809754
-score: 0.56
+score: 8.72
 snippet: Taiwanese mountain resort of cloud seas, ancient cypress forest, and a narrow-gauge
   forest railway.
 title: Alishan

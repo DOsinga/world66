@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/181920661@N03/51665040339
 latitude: 45.51904
 loc_type: city
 longitude: -123.111055
-score: 0.32
+score: 6.34
 snippet: Small Oregon college town where Pacific University anchors the Tualatin Valley’s
   western edge
 title: Forest Grove

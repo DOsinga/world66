@@ -7,7 +7,7 @@ title: Lake Mývatn
 snippet: Shallow volcanic lake in northeast Iceland, ringed by lava fields, pseudocraters,
   and geothermal vents
 type: location
-score: 0.62
+score: 9.16
 loc_type: feature
 image: lakemyvatn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MyvatnIsland.jpg

@@ -4,7 +4,7 @@ done:
 latitude: 32.6144
 loc_type: city
 longitude: 21.3995
-score: 0.24
+score: 5.52
 snippet: Small Jebel Akhdar village known for sixth-century Byzantine mosaics from
   ancient Olbia.
 sources:

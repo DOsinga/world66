@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_portu%C3%A1ria_de_r
 latitude: -25.514882
 loc_type: city
 longitude: -48.522669
-score: 0.33
+score: 6.51
 title: Paranaguá
 type: location
 snippet: Brazilian port city below Curitiba, reached by a dramatic railway through

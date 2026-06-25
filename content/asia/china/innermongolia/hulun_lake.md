@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HulunLake2.jpg
 latitude: 48.9731
 loc_type: feature
 longitude: 117.4358
-score: 0.42
+score: 7.43
 snippet: Huge Inner Mongolian freshwater lake where steppe, reed beds, and migratory
   waterfowl meet.
 sources:

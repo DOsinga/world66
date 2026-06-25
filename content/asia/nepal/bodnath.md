@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boudhanath_stupa_,_Kathman
 latitude: 27.7215
 loc_type: city
 longitude: 85.362
-score: 0.56
+score: 8.73
 snippet: Kathmandu Valley suburb centred on Nepal's largest stupa and one of the great
   Tibetan Buddhist hubs.
 title: Bodnath

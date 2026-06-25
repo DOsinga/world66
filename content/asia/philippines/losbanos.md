@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baker_hall.jpg
 latitude: 14.17909
 loc_type: city
 longitude: 121.221791
-score: 0.3
+score: 6.17
 snippet: Lakeside Philippine university town at Mount Makiling’s foot, named for its
   volcanic hot springs.
 title: Los Banos

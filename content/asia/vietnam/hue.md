@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colors-i54-ring.png
 latitude: 16.4639
 loc_type: city
 longitude: 107.5863
-score: 0.62
+score: 9.09
 snippet: Former Vietnamese imperial capital on the Perfume River, centred on citadel
   walls and royal tombs
 title: Hue

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:York,_Pennsylvania_(65).jp
 latitude: 39.962493
 loc_type: city
 longitude: -76.727699
-score: 0.33
+score: 6.44
 snippet: Pennsylvania city where the Continental Congress met during the Revolution
   and adopted the Articles of Confederation.
 title: York

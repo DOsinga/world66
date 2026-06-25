@@ -4,7 +4,7 @@ done:
 latitude: 35.290895
 loc_type: city
 longitude: -97.812266
-score: 0.19
+score: 4.63
 snippet: Central Oklahoma town southwest of Oklahoma City, where ranch country meets
   a commuter community
 title: Tuttle

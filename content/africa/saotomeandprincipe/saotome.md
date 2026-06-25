@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/79721788@N00/21050088389
 latitude: 0.25
 loc_type: city
 longitude: 6.61
-score: 0.43
+score: 7.57
 snippet: Equatorial Gulf of Guinea island and capital, with Portuguese forts, cocoa-era
   history, and intensely green volcanic slopes
 title: São Tomé

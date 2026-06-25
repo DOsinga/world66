@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_gongbei_sufi_saints_tomb
 latitude: 35.5412
 loc_type: city
 longitude: 106.6819
-score: 0.32
+score: 6.42
 snippet: Eastern Gansu city serving Taoist pilgrims bound for temple-studded Kongtong
   Mountain and Loess Plateau scenery.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 45.4397
 loc_type: city
 longitude: 4.3872
-score: 0.38
+score: 7.06
 snippet: Former Loire industrial city where coal and arms factories have given way
   to serious modern art
 sources:

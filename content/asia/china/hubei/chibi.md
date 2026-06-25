@@ -4,7 +4,7 @@ done:
 latitude: 29.717
 loc_type: city
 longitude: 113.9
-score: 0.23
+score: 5.42
 snippet: Yangtze river city named for the Red Cliffs, battlefield of the Three Kingdoms
   era
 sources:

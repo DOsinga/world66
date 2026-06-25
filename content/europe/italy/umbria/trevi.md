@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trevi_-_Torre_dei_Colonnes
 latitude: 42.877497
 loc_type: city
 longitude: 12.747455
-score: 0.48
+score: 8.05
 title: Trevi
 type: location
 snippet: Umbrian hilltop village stacked above olive groves in the Valle Umbra.

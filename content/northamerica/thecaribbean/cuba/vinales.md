@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cuba_Vinales_Centro.jpg
 latitude: 22.6136
 loc_type: city
 longitude: -83.7183
-score: 0.6
+score: 9.02
 snippet: Western Cuban valley town surrounded by tobacco fields, palms, and steep
   limestone mogotes.
 sources:

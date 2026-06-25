@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stare_Miasto,_Ratusz_Staro
 latitude: 53.010272
 loc_type: city
 longitude: 18.604809
-score: 0.5
+score: 8.2
 snippet: Medieval Vistula city with an intact Gothic old town and deep Copernicus
   associations.
 title: Toruń

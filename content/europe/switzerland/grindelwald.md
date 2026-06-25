@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0020_Grindelwald_-_Wett
 latitude: 46.624273
 loc_type: city
 longitude: 8.036746
-score: 0.75
+score: 9.65
 snippet: Bernese Oberland village beneath the Eiger, Mönch, and Jungfrau, long associated
   with Alpine tourism.
 title: Grindelwald

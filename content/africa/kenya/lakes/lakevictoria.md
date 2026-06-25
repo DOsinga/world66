@@ -3,10 +3,11 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -0.1143
 longitude: 34.7616
-snippet: East African lake on Kenya's Luo shore, where fishing villages face islands and water-hyacinth-choked bays.
+snippet: East African lake on Kenya's Luo shore, where fishing villages face islands
+  and water-hyacinth-choked bays.
 title: Lake Victoria
 type: location
-score: 0.45
+score: 7.76
 loc_type: feature
 ---
 

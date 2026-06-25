@@ -5,7 +5,7 @@ done:
 latitude: 50.7263
 loc_type: city
 longitude: 1.6136
-score: 0.33
+score: 6.48
 snippet: Fishing port on France's northern coast, with a walled Haute Ville above
   the working harbour.
 title: Boulogne

@@ -4,7 +4,7 @@ done:
 latitude: 40.239984
 loc_type: feature
 longitude: 44.271155
-score: 0.44
+score: 7.65
 snippet: Medieval Armenian fortress and church complex high on Mount Aragats, once
   held by the Pahlavuni princes.
 title: Amberd

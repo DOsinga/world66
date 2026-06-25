@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_frente_a_San_Fra
 latitude: -16.4955
 loc_type: city
 longitude: -68.1336
-score: 0.53
+score: 8.45
 snippet: High Andean capital spilling through a canyon beneath Illimani and El Alto's
   plateau
 title: La Paz

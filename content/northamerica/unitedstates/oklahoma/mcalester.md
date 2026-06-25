@@ -11,7 +11,7 @@ loc_type: city
 snippet: Southeastern Oklahoma hub with coal-mining roots, Italian heritage, and a
   crossroads setting in wooded hills
 longitude: -95.769793
-score: 0.26
+score: 5.73
 title: McAlester
 type: location
 ---

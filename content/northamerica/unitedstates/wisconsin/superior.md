@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duluth_Harbor_Entrance_in_
 latitude: 46.720774
 loc_type: city
 longitude: -92.10408
-score: 0.29
+score: 6.0
 snippet: Lake Superior port city with a deep-water harbour, Wisconsin Point beaches,
   and access to Big Manitou Falls.
 title: Superior

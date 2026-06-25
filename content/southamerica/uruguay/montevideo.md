@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:PALACIO_LEGISLATIVO_01.JPG
 latitude: -34.905892
 loc_type: city
 longitude: -56.19131
-score: 0.49
+score: 8.17
 title: Montevideo
-snippet: Uruguay's walkable Río de la Plata capital, mixing faded grandeur, café culture, and waterfront promenades
+snippet: Uruguay's walkable Río de la Plata capital, mixing faded grandeur, café culture,
+  and waterfront promenades
 type: location
 ---
 

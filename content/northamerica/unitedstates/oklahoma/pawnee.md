@@ -5,7 +5,7 @@ done:
 latitude: 36.337
 loc_type: city
 longitude: -96.804
-score: 0.25
+score: 5.68
 snippet: Small north-central Oklahoma town tied to Pawnee Bill, Wild West history,
   and the Pawnee Nation.
 title: Pawnee

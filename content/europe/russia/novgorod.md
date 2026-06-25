@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Novgorod_-_View_on_Yuriev_
 latitude: 58.521
 loc_type: city
 longitude: 31.2756
-score: 0.42
+score: 7.43
 snippet: Ancient Russian city on the Volkhov River, preserving medieval churches around
   its fortified Detinets.
 title: Novgorod

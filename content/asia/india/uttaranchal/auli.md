@@ -5,7 +5,7 @@ done:
 latitude: 30.537787
 loc_type: city
 longitude: 79.565724
-score: 0.46
+score: 7.9
 snippet: Garhwal Himalayan ski resort with high-altitude slopes and views toward Nanda
   Devi and Kamet
 title: Auli

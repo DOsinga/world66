@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Majuli_-_The_largest_river
 latitude: 26.95
 loc_type: feature
 longitude: 94.1667
-score: 0.42
+score: 7.46
 snippet: Brahmaputra river island in Assam, home to Vaishnavite satras preserving
   classical Assamese arts and devotion
 sources:

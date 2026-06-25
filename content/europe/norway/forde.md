@@ -4,7 +4,7 @@ done:
 latitude: 61.452176
 loc_type: city
 longitude: 5.857172
-score: 0.48
+score: 8.08
 snippet: Sunnfjord regional town used as a base for western Norway's glaciers, lakes,
   and waterfall valleys.
 title: Forde

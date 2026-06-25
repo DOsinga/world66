@@ -4,7 +4,7 @@ done:
 latitude: 34.622222
 loc_type: feature
 longitude: -76.523889
-score: 0.4
+score: 7.28
 snippet: Undeveloped Outer Banks national seashore of barrier islands, wild horses,
   shelling, and ferry-only solitude.
 title: Cape Lookout

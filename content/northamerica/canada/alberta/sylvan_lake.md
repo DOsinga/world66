@@ -5,7 +5,7 @@ done:
 latitude: 52.310214
 loc_type: city
 longitude: -114.097415
-score: 0.36
+score: 6.76
 snippet: Central Alberta resort town on Sylvan Lake, known for its broad beach and
   waterfront strip.
 title: Sylvan Lake

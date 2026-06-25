@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/21186555@N07/51316747178
 latitude: 51.3884
 loc_type: city
 longitude: 0.5049
-score: 0.44
+score: 7.64
 snippet: Kentish Medway city dominated by a Norman castle, ancient cathedral, and
   Dickens associations
 title: Rochester

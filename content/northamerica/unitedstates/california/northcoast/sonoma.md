@@ -5,7 +5,7 @@ done:
 latitude: 38.292
 loc_type: city
 longitude: -122.458
-score: 0.48
+score: 8.04
 snippet: California wine county of redwoods, Pacific coast, and relaxed tasting rooms
   west of Napa.
 title: Sonoma

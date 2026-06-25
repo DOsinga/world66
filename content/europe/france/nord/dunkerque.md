@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunkerque_postcard_NG.jpg
 latitude: 51.034771
 loc_type: city
 longitude: 2.377252
-score: 0.34
+score: 6.6
 snippet: Flemish North Sea port city remembered for 1940, with carnival culture and
   working docks.
 title: Dunkerque

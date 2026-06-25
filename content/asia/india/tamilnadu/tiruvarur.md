@@ -5,7 +5,7 @@ done:
 latitude: 10.938061
 loc_type: city
 longitude: 79.413043
-score: 0.3
+score: 6.16
 sources:
 - https://en.wikipedia.org/wiki/Thiruvarur
 title: Tiruvarur

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gare_vu_Valkenburg.jpg
 latitude: 50.8648
 loc_type: city
 longitude: 5.8313
-score: 0.45
+score: 7.8
 title: Valkenburg
 type: location
 snippet: Small Limburg hill town built around a ruined castle, cave systems, and the

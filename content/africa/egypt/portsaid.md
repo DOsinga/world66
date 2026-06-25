@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Said,_Egypt,_Beach_of
 latitude: 31.2632
 loc_type: city
 longitude: 32.3055
-score: 0.36
+score: 6.85
 snippet: Suez Canal port city at the Mediterranean entrance, built around the canal's
   nineteenth-century opening.
 title: Port Said

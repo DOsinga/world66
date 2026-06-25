@@ -5,7 +5,7 @@ done:
 latitude: 41.1537
 loc_type: city
 longitude: -81.3579
-score: 0.28
+score: 5.96
 snippet: Northeast Ohio college town shaped by Kent State University and the May 4,
   1970 shootings.
 title: Kent

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Qurghonteppa,bazar1.jpg
 latitude: 37.835722
 loc_type: city
 longitude: 68.782096
-score: 0.19
+score: 4.73
 snippet: Southern Tajik city now called Bokhtar, serving Khatlon's Vakhsh plain, Ajina-Tepe,
   and Tigrovaya Balka trips.
 title: Kurgan-Tyube

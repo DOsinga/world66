@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheomseongdae_Observatory_
 latitude: 35.8562
 loc_type: city
 longitude: 129.2247
-score: 0.6
+score: 8.99
 snippet: Former Silla capital where royal tombs, Buddhist temples, and palace ruins
   fill a living city.
 title: Gyeongju

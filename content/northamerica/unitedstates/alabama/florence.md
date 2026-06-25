@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/16069488@N00/27634317182
 latitude: 34.79981
 loc_type: city
 longitude: -87.677251
-score: 0.32
+score: 6.34
 snippet: Tennessee River city in the Shoals, birthplace of blues pioneer W.C. Handy.
 title: Florence
 type: location

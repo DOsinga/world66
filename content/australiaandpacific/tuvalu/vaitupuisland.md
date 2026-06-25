@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS002-E-6431_-_View_of_Tu
 latitude: -7.4833
 loc_type: island
 longitude: 178.6833
-score: 0.3
+score: 6.11
 snippet: Tuvaluan reef island known for Motufoua Secondary School and a closely settled
   village life
 sources:

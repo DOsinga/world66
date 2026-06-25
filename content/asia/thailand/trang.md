@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/94636189@N00/3565756415
 latitude: 7.5563
 loc_type: city
 longitude: 99.6114
-score: 0.47
+score: 7.97
 snippet: Southern Thai province of limestone coasts, Andaman islands, and a food-focused
   capital known for roast pork.
 title: Trang

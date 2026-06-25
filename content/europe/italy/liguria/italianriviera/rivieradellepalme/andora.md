@@ -5,7 +5,7 @@ done:
 latitude: 43.9519
 loc_type: city
 longitude: 8.1456
-score: 0.38
+score: 7.04
 snippet: Riviera delle Palme resort town where a medieval hill village overlooks a
   broad marina bay.
 title: Andora

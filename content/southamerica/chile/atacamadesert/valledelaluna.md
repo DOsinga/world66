@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Duna_Mayor,_Valle_de_la_Lu
 latitude: -22.9112
 loc_type: feature
 longitude: -68.323
-score: 0.62
+score: 9.1
 snippet: Atacama desert valley of salt crust, dunes, and wind-carved ridges near San
   Pedro de Atacama
 sources:

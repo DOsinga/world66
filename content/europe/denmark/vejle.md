@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryggen_i_Vejle.JPG
 latitude: 55.707931
 loc_type: city
 longitude: 9.532942
-score: 0.4
+score: 7.29
 snippet: Eastern Jutland fjord town near the UNESCO-listed Jelling Stones, with wooded
   hills and modern waterfront architecture.
 title: Vejle

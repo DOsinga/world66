@@ -9,9 +9,10 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/79721788@N00/10029936275
 latitude: -12.8275
 loc_type: city
-snippet: French island in the Comoros archipelago, where traditional villages sit beside a vast coral lagoon.
+snippet: French island in the Comoros archipelago, where traditional villages sit
+  beside a vast coral lagoon.
 longitude: 45.1662
-score: 0.44
+score: 7.69
 title: Mayotte
 type: location
 ---

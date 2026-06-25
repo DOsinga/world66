@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1857_mutineers_mosque_meer
 latitude: 29.0018
 loc_type: city
 longitude: 77.768
-score: 0.25
+score: 5.59
 title: Meerut
 type: location
 snippet: North Indian city where the 1857 uprising began, with old cantonment streets

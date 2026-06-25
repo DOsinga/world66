@@ -12,7 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Carmarthen
 title: Carmarthen
 type: location
-score: 0.36
+score: 6.84
 snippet: West Wales market town with Roman roots, Arthurian claims, and a stubbornly
   practical centre.
 ---

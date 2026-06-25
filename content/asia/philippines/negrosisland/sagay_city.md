@@ -5,7 +5,7 @@ done:
 latitude: 10.896068
 loc_type: city
 longitude: 123.415462
-score: 0.33
+score: 6.47
 snippet: Northern Negros coastal city known for Sagay Marine Reserve's coral reefs,
   mangroves, and Visayan Sea islands.
 sources:

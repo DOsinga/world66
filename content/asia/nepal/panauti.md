@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panauti_Core_Settlement.jp
 latitude: 27.580735
 loc_type: city
 longitude: 85.522857
-score: 0.43
+score: 7.62
 snippet: Newar temple town southeast of Kathmandu, clustered around sacred river confluences
   and carved medieval woodwork.
 sources:

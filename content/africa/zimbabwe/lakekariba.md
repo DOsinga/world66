@@ -4,7 +4,7 @@ done:
 latitude: -16.531595
 loc_type: feature
 longitude: 28.772178
-score: 0.42
+score: 7.47
 snippet: Vast Zambezi reservoir on Zimbabwe's northern border, where drowned teak
   trees rise from wildlife-rich waters.
 title: Lake Kariba

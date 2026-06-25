@@ -5,7 +5,7 @@ done:
 latitude: 34.181209
 loc_type: city
 longitude: -118.307201
-score: 0.33
+score: 6.52
 title: Burbank
 type: location
 snippet: Los Angeles studio city where American film and television are made behind

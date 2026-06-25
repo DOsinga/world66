@@ -5,7 +5,7 @@ done:
 latitude: 47.6295
 loc_type: city
 longitude: 108.298
-score: 0.42
+score: 7.45
 snippet: Mongolian nature reserve of open steppe, wetland lakes, and Baits mountain
   wildlife habitat
 title: Gun-Galuut

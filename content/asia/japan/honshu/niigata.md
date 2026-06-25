@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Akakura_Onsen_Ski_Area.jpg
 latitude: 37.9026
 loc_type: city
 longitude: 139.0232
-score: 0.43
+score: 7.58
 title: Niigata
 type: location
 snippet: Sea of Japan port city and snow-country gateway, known for rice, sake, and

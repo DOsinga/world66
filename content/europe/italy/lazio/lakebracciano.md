@@ -4,7 +4,7 @@ done:
 latitude: 42.121058
 loc_type: feature
 longitude: 12.230275
-score: 0.49
+score: 8.15
 snippet: Volcanic lake northwest of Rome, with clean motorboat-free water and lakeside
   medieval towns
 title: Lake Bracciano

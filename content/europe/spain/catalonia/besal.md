@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pont_Besal%C3%BA_1.jpg
 latitude: 42.198644
 loc_type: city
 longitude: 2.695956
-score: 0.54
+score: 8.59
 snippet: Medieval Catalan town above the Fluvià, entered by a fortified Romanesque
   bridge and old Jewish quarter
 title: Besalú

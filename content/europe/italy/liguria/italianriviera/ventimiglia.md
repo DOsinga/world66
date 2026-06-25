@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-09-22_Ventimiglia_Cat
 latitude: 43.791762
 loc_type: city
 longitude: 7.603313
-score: 0.46
+score: 7.88
 snippet: Westernmost Italian Riviera town at the French border, split between riverfront
   flats and a medieval hill.
 title: Ventimiglia

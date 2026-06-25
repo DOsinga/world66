@@ -10,7 +10,7 @@ loc_type: city
 longitude: 13.5614
 title: Novigrad
 type: location
-score: 0.53
+score: 8.51
 snippet: Small Istrian walled town where Venetian stone houses cluster around a quiet
   Adriatic harbour.
 ---

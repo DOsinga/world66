@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Vail,_Colorad
 latitude: 39.643803
 loc_type: city
 longitude: -106.388823
-score: 0.56
+score: 8.72
 snippet: Colorado Rockies ski resort town built around Gore Creek and vast mountain
   terrain.
 sources:

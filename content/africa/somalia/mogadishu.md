@@ -5,7 +5,7 @@ done:
 latitude: 2.034931
 loc_type: city
 longitude: 45.341918
-score: 0.05
+score: 1.23
 title: Mogadishu
 type: location
 snippet: Historic Somali port capital on the Indian Ocean, with old trading roots

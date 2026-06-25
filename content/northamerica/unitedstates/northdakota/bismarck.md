@@ -5,10 +5,11 @@ done:
 latitude: 46.808327
 loc_type: city
 longitude: -100.783739
-score: 0.31
+score: 6.23
 title: Bismarck
 type: location
-snippet: "North Dakota capital on the Missouri River, with a modernist capitol and strong state-history museums."
+snippet: North Dakota capital on the Missouri River, with a modernist capitol and
+  strong state-history museums.
 ---
 
 Bismarck is the capital of North Dakota and sits on the east bank of the Missouri River, a position that shaped both its founding and its character. It's not on most travellers' radar, but it punches above its weight as a state capital: the modernist skyscraper of the [state capitol](/northamerica/unitedstates/northdakota/bismarck/north_dakota_state_capitol), nicknamed the "Skyscraper of the Prairie," is the tallest building in the state, and the former Governor's Mansion nearby is a handsome Victorian-era residence open for tours.

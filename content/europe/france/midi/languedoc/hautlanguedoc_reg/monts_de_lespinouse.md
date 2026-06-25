@@ -5,7 +5,7 @@ latitude: 43.6
 longitude: 2.967
 title: Monts de l'Espinouse
 type: location
-score: 0.44
+score: 7.65
 loc_type: feature
 snippet: Rugged Haut-Languedoc mountain plateau of chestnut forest, moorland ridges,
   and views toward the Mediterranean.

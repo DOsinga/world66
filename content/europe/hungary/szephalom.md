@@ -5,7 +5,7 @@ done:
 latitude: 48.389
 loc_type: city
 longitude: 21.525
-score: 0.29
+score: 6.03
 snippet: Small Hungarian literary settlement where Ferenc Kazinczy's memorial hall
   anchors the language-reform pilgrimage.
 title: Széphalom

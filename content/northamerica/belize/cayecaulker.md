@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belize_Caye_Caulker-221.jp
 latitude: 17.7456
 loc_type: city
 longitude: -88.0309
-score: 0.56
+score: 8.73
 snippet: Small Belizean coral island with no cars, budget guesthouses, and reef trips
   from The Split.
 title: Caye Caulker

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bhaktapur-city-centre-larg
 latitude: 27.671113
 loc_type: city
 longitude: 85.426168
-score: 0.59
+score: 8.95
 snippet: Kathmandu Valley royal city of Newari temples, car-free squares, and working
   pottery courtyards.
 title: Bhaktapur

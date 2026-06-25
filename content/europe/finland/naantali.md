@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/126397594@N03/26112087216
 latitude: 60.468869
 loc_type: city
 longitude: 22.029115
-score: 0.44
+score: 7.64
 snippet: Finnish coastal town near Turku, known for wooden lanes, spa history, and
   Moominworld on Kailo Island
 title: Naantali

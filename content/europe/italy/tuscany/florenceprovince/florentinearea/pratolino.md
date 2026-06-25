@@ -5,7 +5,7 @@ done:
 latitude: 43.86191
 loc_type: city
 longitude: 11.300935
-score: 0.43
+score: 7.63
 snippet: Small Tuscan village north of Florence, visited for the Medici-born park
   of Villa Demidoff.
 sources:

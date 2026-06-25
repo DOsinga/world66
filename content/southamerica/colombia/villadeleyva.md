@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Villa_de_Leyva_Boyaca_22.J
 latitude: 5.662
 loc_type: city
 longitude: -73.5284
-score: 0.53
-snippet: Colombian colonial town north of Bogotá, centred on a vast cobbled Plaza Mayor and fossil-rich countryside.
+score: 8.49
+snippet: Colombian colonial town north of Bogotá, centred on a vast cobbled Plaza
+  Mayor and fossil-rich countryside.
 title: Villa de Leyva
 type: location
 ---

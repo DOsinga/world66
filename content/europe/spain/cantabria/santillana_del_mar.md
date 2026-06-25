@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colegiata_Santa_Juliana,_S
 latitude: 43.3925
 loc_type: city
 longitude: -4.106
-score: 0.52
+score: 8.4
 snippet: Medieval Cantabrian town of golden sandstone lanes, famous for its intact
   old centre and nearby Altamira cave art.
 sources:

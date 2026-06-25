@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1062-mu-koh-lanta-national
 latitude: 7.573
 loc_type: city
 longitude: 99.042
-score: 0.6
+score: 9.02
 snippet: Laid-back Andaman island of forested hills, west-coast beaches, and a stilted
   Old Town.
 title: Koh Lanta

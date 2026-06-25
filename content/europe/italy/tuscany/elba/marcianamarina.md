@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marciana_marina,_veduta_da
 latitude: 42.803608
 loc_type: city
 longitude: 10.196768
-score: 0.5
+score: 8.2
 snippet: Quiet Elba harbour resort below Monte Capanne, mixing fishing boats, yachts,
   beaches, and ferry links to Capraia.
 title: Marciana Marina

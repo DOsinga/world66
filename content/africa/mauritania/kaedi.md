@@ -5,7 +5,7 @@ done:
 latitude: 16.152368
 loc_type: city
 longitude: -13.503987
-score: 0.18
+score: 4.48
 snippet: Senegal River town in southern Mauritania, known for its earthen Hassan Fathy-designed
   regional hospital.
 title: Kaedi

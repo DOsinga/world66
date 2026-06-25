@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7737054@N07/37928131261
 latitude: 38.524178
 loc_type: city
 longitude: -8.893234
-score: 0.45
+score: 7.81
 snippet: Working Portuguese port city on the Sado estuary, known for fishing boats
   and choco frito.
 title: Setúbal

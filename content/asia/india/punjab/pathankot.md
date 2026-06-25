@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhar_Kalan,_Pathankot_view
 latitude: 32.3022
 loc_type: city
 longitude: 75.6589
-score: 0.29
+score: 6.01
 snippet: Northern Punjab transport junction where the plains meet routes into Himachal
   and the Himalayas.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GardenPlaceHamilton.jpg
 latitude: -37.7879
 loc_type: city
 longitude: 175.2818
-score: 0.36
+score: 6.84
 snippet: Waikato river city and university town, useful as a base for Hobbiton and
   Waitomo Caves.
 title: Hamilton

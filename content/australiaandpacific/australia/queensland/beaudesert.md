@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BeaudesertMainStreet.JPG
 latitude: -27.988562
 loc_type: city
 longitude: 152.996119
-score: 0.3
+score: 6.2
 snippet: Rural Scenic Rim town in the Logan River valley, used as a gateway to Lamington
   National Park.
 title: Beaudesert

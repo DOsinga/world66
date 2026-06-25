@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_theatre_-_Philippi
 latitude: 41.013284
 loc_type: city
 longitude: 24.283974
-score: 0.46
+score: 7.87
 title: Philippi
 type: location
 snippet: Northern Greek archaeological site where Roman battlefields, basilicas, and

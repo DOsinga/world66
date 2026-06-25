@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Nepal_Patan_Durbar_Square_
 latitude: 27.6766
 loc_type: city
 longitude: 85.3166
-score: 0.56
+score: 8.71
 title: Lalitpur (Patan)
 type: location
-snippet: Kathmandu Valley city known as Patan, with Newari courtyards and Patan Durbar Square.
+snippet: Kathmandu Valley city known as Patan, with Newari courtyards and Patan Durbar
+  Square.
 ---
 
 Lalitpur — better known as Patan — sits just across the Bagmati River from Kathmandu, close enough to reach in twenty minutes yet distinct enough to feel like a different world. Where Kathmandu can be hectic and commercial, Patan has a quieter, more refined character. It's a city of courtyards, carved wooden windows, and some of the finest Newari architecture in the valley.

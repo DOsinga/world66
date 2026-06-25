@@ -4,7 +4,7 @@ done:
 latitude: 48.458093
 loc_type: city
 longitude: 18.898841
-score: 0.47
+score: 8.0
 snippet: Mining town in central Slovakia, set among wooded hills and Renaissance-Baroque
   wealth.
 title: Banská Stiavnica

@@ -5,7 +5,7 @@ done:
 latitude: 36.7138
 loc_type: city
 longitude: 4.0494
-score: 0.32
+score: 6.36
 snippet: Kabylie capital in a mountain valley, where Amazigh identity shapes markets,
   language, and city life.
 sources:

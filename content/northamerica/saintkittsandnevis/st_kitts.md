@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Kitts_-_Brimstone_Hi
 latitude: 17.3578
 loc_type: city
 longitude: -62.783
-score: 0.54
+score: 8.57
 snippet: Volcanic Caribbean island known for Brimstone Hill Fortress, Basseterre,
   and rainforest-covered Mount Liamuiga.
 title: St. Kitts

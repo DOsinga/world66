@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pai_canyon.jpg
 latitude: 19.3583
 loc_type: city
 longitude: 98.4394
-score: 0.57
+score: 8.78
 snippet: Mae Hong Son mountain town with hot springs, waterfalls, canyon trails, and
   a relaxed Pai River valley scene.
 sources:

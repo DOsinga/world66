@@ -4,7 +4,7 @@ done:
 latitude: -40.7781
 loc_type: feature
 longitude: -72.2014
-score: 0.4
+score: 7.21
 snippet: Rustic Chilean ski area inside Puyehue National Park, set among araucaria
   forest and volcanic peaks
 title: Antillanca

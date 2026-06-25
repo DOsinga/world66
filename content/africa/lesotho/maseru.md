@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BasothoHatShop.jpg
 latitude: -29.310054
 loc_type: city
 longitude: 27.478222
-score: 0.3
+score: 6.17
 title: Maseru
 type: location
 snippet: Highland capital of Lesotho, shaped by red sandstone, Basotho street life,

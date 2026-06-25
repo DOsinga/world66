@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dresden_Frauenkirche_2013.
 latitude: 51.049329
 loc_type: city
 longitude: 13.738144
-score: 0.61
+score: 9.09
 snippet: Saxon Baroque city on the Elbe, rebuilt around royal museums, villas, and
   garden-city experiments.
 title: Dresden

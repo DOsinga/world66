@@ -10,10 +10,11 @@ image_source: https://en.wikipedia.org/wiki/File:Burj_Khalifa_2021.jpg
 latitude: 25.2048
 loc_type: city
 longitude: 55.2708
-score: 0.63
+score: 9.2
 title: Dubai
 type: location
-snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands, and rapid transformation from trading port.
+snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands,
+  and rapid transformation from trading port.
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.

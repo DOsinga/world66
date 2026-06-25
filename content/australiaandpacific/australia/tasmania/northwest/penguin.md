@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Big-Penguin-20070420-035.j
 latitude: -41.115104
 loc_type: city
 longitude: 146.07248
-score: 0.32
+score: 6.38
 snippet: Small northwest Tasmania coastal town named for the little penguins that
   nest along its foreshore.
 title: Penguin

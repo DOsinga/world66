@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karonbeach_2004.jpg
 latitude: 7.84752
 loc_type: city
 longitude: 98.298114
-score: 0.55
+score: 8.7
 snippet: Phuket beach resort with a broad three-kilometre bay between calmer Kata
   and louder Patong.
 title: Karon

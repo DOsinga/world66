@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hama,_Syria.jpg
 latitude: 35.134337
 loc_type: city
 longitude: 36.749628
-score: 0.24
+score: 5.49
 snippet: Ancient Syrian city on the Orontes River, famous for its enormous wooden
   norias.
 title: Hama

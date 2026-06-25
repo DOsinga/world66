@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Luxor,_Egypt,_Boats_on_Nil
 latitude: 25.702096
 loc_type: city
 longitude: 32.647186
-score: 0.73
+score: 9.51
 snippet: Nile city built over ancient Thebes, with Karnak, Luxor Temple, and West
   Bank necropolises nearby.
 title: Luxor

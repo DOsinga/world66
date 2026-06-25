@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Devi_Gali2.jpg
 latitude: 33.771551
 loc_type: city
 longitude: 73.896786
-score: 0.29
+score: 6.04
 snippet: Poonch District hill town in Azad Kashmir, with pine forests and a frontier
   bazaar.
 sources:

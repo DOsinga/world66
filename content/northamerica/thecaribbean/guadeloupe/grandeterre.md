@@ -13,7 +13,7 @@ snippet: Flat eastern half of Guadeloupe, known for white-sand beaches, dry lime
 longitude: -61.48
 title: Grande-Terre
 type: location
-score: 0.55
+score: 8.64
 ---
 
 Grande-Terre is the eastern half of Guadeloupe, separated from Basse-Terre by the narrow Rivière Salée. Where Basse-Terre is volcanic, mountainous, and lush, Grande-Terre is flat, dry, and lined with beaches — the two halves of the butterfly-shaped island could hardly be more different.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Half_Dome_from_Glacier_Poi
 latitude: 37.570148
 loc_type: city
 longitude: -119.903659
-score: 0.39
+score: 7.17
 snippet: Sierra Nevada Gold Rush town and western gateway to Yosemite via the Merced
   River canyon.
 title: Mariposa

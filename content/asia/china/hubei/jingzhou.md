@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jingzhou_Museum_2014.04.20
 latitude: 30.3363
 loc_type: city
 longitude: 112.2414
-score: 0.3
+score: 6.19
 snippet: Historic Hubei city on the Yangtze, with Chu tombs, ancient walls, and a
   museum of lacquerware and silk.
 sources:

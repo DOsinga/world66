@@ -4,7 +4,7 @@ done:
 latitude: 43.426
 loc_type: feature
 longitude: -73.7124
-score: 0.48
+score: 8.01
 snippet: Adirondack lake famed for clear spring-fed water and French and Indian War
   forts between Hudson and Champlain routes.
 title: Lake George

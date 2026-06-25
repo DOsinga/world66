@@ -4,7 +4,7 @@ done:
 latitude: 2.610838
 loc_type: feature
 longitude: 98.902308
-score: 0.58
+score: 8.87
 snippet: Vast North Sumatran volcanic lake with cool highland air and Samosir Island
   rising from its caldera
 title: Lake Toba

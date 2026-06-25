@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_North_Battleford,
 latitude: 52.7762
 loc_type: city
 longitude: -108.3005
-score: 0.25
+score: 5.7
 title: North Battleford
-snippet: West-central Saskatchewan city on the North Saskatchewan River, tied to Battleford and Northwest Resistance history
+snippet: West-central Saskatchewan city on the North Saskatchewan River, tied to Battleford
+  and Northwest Resistance history
 type: location
 ---
 

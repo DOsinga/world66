@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/51096110@N00/14609994818
 latitude: 40.040863
 loc_type: city
 longitude: -86.899738
-score: 0.27
+score: 5.85
 title: Crawfordsville
 type: location
 snippet: West-central Indiana college town linked to Lew Wallace and the writing of

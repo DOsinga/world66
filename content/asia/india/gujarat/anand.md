@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amul_Plant_at_Anand.jpg
 latitude: 22.558656
 loc_type: city
 longitude: 72.962723
-score: 0.27
+score: 5.89
 title: Anand
 type: location
 snippet: Gujarat dairy city where Amul and India's cooperative milk revolution began

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hellevoetsluis_005.jpg
 latitude: 51.833921
 loc_type: city
 longitude: 4.143674
-score: 0.34
+score: 6.6
 snippet: Fortified South Holland harbour town with Dutch Republic naval docks, ramparts,
   and a historic dry dock.
 title: Hellevoetsluis

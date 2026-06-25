@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochranza._-_panoramio_(1)
 latitude: 55.704586
 loc_type: city
 longitude: -5.295153
-score: 0.46
+score: 7.84
 title: Lochranza
-snippet: Tiny Arran sea-loch village with a ruined castle, deer, whisky distillery, and northern ferry link
+snippet: Tiny Arran sea-loch village with a ruined castle, deer, whisky distillery,
+  and northern ferry link
 type: location
 ---
 

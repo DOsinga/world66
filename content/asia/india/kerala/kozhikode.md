@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/84292292@N00/6841779155
 latitude: 11.245056
 loc_type: city
 longitude: 75.775472
-score: 0.44
+score: 7.64
 snippet: Malabar Coast city formerly called Calicut, shaped by spice trade, Zamorin
   history, and deeply local food.
 title: Kozhikode

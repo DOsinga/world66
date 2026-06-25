@@ -5,7 +5,7 @@ done:
 latitude: 40.3656
 loc_type: city
 longitude: -74.9454
-score: 0.4
+score: 7.24
 snippet: Delaware River town opposite New Hope, lined with antique shops, galleries,
   and 19th-century houses
 sources:

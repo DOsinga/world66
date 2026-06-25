@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/13176024@N02/2477631289
 latitude: 6.698561
 loc_type: city
 longitude: -1.623309
-score: 0.4
+score: 7.23
 title: Kumasi
 type: location
 snippet: Ashanti kingdom city in Ghana where Manhyia Palace, kente weaving, and Kejetia

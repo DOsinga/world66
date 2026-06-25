@@ -4,7 +4,7 @@ done:
 latitude: 58.367546
 loc_type: feature
 longitude: 19.257578
-score: 0.38
+score: 7.02
 snippet: Isolated Baltic sand island and national park of shifting dunes, pine forest,
   and shipwreck history.
 title: Gotska Sandön

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Perugia_-_Comune_di_Perugi
 latitude: 43.1107
 loc_type: city
 longitude: 12.3908
-score: 0.58
+score: 8.88
 snippet: Umbrian hill city with Etruscan walls, medieval lanes, and a long university
   tradition.
 title: Perugia

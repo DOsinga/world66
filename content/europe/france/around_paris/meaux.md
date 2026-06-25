@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Meaux_140708_01.jpg
 latitude: 48.958271
 loc_type: city
 longitude: 2.877354
-score: 0.34
+score: 6.58
 snippet: Marne river city east of Paris, defined by Gothic Saint-Étienne and Brie
   de Meaux.
 sources:

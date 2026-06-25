@@ -10,7 +10,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Banff_Ave,_Banff,_south_view_20240820_1.jpg
 latitude: 51.175076
 longitude: -115.572077
-score: 0.77
+score: 9.78
 tier: 3
 tags:
 - mountains
@@ -21,7 +21,8 @@ tags:
 - wildlife
 - rockies
 title: Banff
-snippet: Rocky Mountain park town surrounded by Canada's first national park, hot springs, elk, and alpine peaks
+snippet: Rocky Mountain park town surrounded by Canada's first national park, hot
+  springs, elk, and alpine peaks
 type: location
 loc_type: city
 ---

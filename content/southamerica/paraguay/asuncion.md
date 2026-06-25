@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3819_Asunci%C3%B3n_-_Pa
 latitude: -25.28
 loc_type: city
 longitude: -57.6344
-score: 0.36
+score: 6.86
 snippet: Paraguayan capital on the east bank of the river, marked by colonial remnants
   and scruffy charm
 title: Asuncion

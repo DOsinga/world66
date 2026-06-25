@@ -5,7 +5,7 @@ done:
 latitude: 44.035932
 loc_type: city
 longitude: 10.139552
-score: 0.4
+score: 7.29
 snippet: Northern Tuscan town between Apuan Alps and sea, overlooked by a Malaspina
   castle.
 title: Massa

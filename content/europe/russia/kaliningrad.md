@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaliningrad_05-2017_img29_
 latitude: 54.7119
 loc_type: city
 longitude: 20.5082
-score: 0.39
+score: 7.14
 snippet: Russian Baltic exclave city, formerly Königsberg, where Prussian brick Gothic
   survives beside amber markets
 sources:

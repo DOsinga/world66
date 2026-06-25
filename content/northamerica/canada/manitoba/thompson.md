@@ -5,7 +5,7 @@ done:
 latitude: 55.743347
 loc_type: city
 longitude: -97.863464
-score: 0.24
+score: 5.51
 snippet: Northern Manitoba mining city on the boreal edge, used as the rail gateway
   to Churchill.
 title: Thompson

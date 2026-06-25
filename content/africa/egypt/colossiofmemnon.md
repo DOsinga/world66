@@ -7,7 +7,7 @@ title: Colossi of Memnon
 snippet: Ancient Nile-side statue pair, surviving from Amenhotep III's vast funerary
   temple near Luxor.
 type: location
-score: 0.55
+score: 8.66
 loc_type: feature
 image: colossiofmemnon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colossi_of_Memnon_May_2015_2.JPG

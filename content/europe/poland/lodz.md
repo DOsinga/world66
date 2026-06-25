@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20180913_182134_Pa%C5%82ac
 latitude: 51.7702
 loc_type: city
 longitude: 19.4572
-score: 0.38
+score: 7.0
 snippet: Former textile powerhouse in central Poland, shaped by industrial palaces
   and brick factory districts.
 sources:

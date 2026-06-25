@@ -2,7 +2,7 @@
 latitude: 66.3127
 loc_type: city
 longitude: 14.145
-score: 0.39
+score: 7.1
 snippet: Industrial Nordland city on the Ranfjord, just north of the Arctic Circle
   near Svartisen glacier.
 title: Mo i Rana

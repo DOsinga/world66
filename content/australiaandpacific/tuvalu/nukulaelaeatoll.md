@@ -4,7 +4,7 @@ done:
 latitude: -9.40437
 loc_type: feature
 longitude: 179.852169
-score: 0.31
+score: 6.29
 snippet: Remote Tuvaluan coral atoll of tiny lagoon islets, reached only by infrequent
   inter-island ships.
 title: Nukulaelae atoll

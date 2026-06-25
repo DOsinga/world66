@@ -12,7 +12,7 @@ image: hanzhong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hanzhong_District.jpg
 image_license: Public domain
 image_attribution: NASA
-score: 0.34
+score: 6.62
 snippet: Fertile Han River valley city where the Han Dynasty name and Three Kingdoms
   memory converge.
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lughaya_Awdal3.jpg
 latitude: 10.730573
 loc_type: city
 longitude: 43.691688
-score: 0.13
+score: 3.1
 snippet: Remote Somaliland coastal town on the Guban Coast, with dhow fishing and
   undeveloped Gulf of Aden beaches.
 title: Lughaya

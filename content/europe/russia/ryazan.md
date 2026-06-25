@@ -4,7 +4,7 @@ done:
 latitude: 54.629569
 loc_type: city
 longitude: 39.742504
-score: 0.31
+score: 6.21
 snippet: Central Russian city on the Oka River, rebuilt after one of the Mongol invasion's
   harshest destructions
 title: Ryazan

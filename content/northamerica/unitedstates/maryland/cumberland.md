@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cumberland_Aerial_2022.jpg
 latitude: 39.6529
 loc_type: city
 longitude: -78.7625
-score: 0.32
+score: 6.31
 snippet: Allegheny valley city at the C&O Canal terminus, with rail history and mountain
   ridgelines
 title: Cumberland

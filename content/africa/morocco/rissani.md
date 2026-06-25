@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MAUSOL%C3%89E_MOULAY_ALI_C
 latitude: 31.285948
 loc_type: city
 longitude: -4.275093
-score: 0.4
+score: 7.27
 snippet: Saharan-edge town in the Ziz Valley, beside the ruins of the medieval trading
   city Sijilmassa.
 title: Rissani

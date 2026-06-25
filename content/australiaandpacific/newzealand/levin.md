@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Queen_Street_in_Levin.jpg
 latitude: -40.6219
 loc_type: city
 longitude: 175.2867
-score: 0.3
+score: 6.16
 snippet: Horowhenua farming town between the Tararua Range and Tasman Sea, on New
   Zealand's main north-south corridor
 sources:

@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Sognefjord
 title: Sognefjorden
 type: location
-score: 0.71
+score: 9.47
 snippet: Norway's longest and deepest fjord, lined by steep mountains, villages, and
   glacier-fed arms.
 ---

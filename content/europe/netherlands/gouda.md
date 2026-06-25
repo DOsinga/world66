@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chesses_gouda_affinage.JPG
 latitude: 52.011492
 loc_type: city
 longitude: 4.710609
-score: 0.49
+score: 8.14
 snippet: South Holland city known for cheese, a cobbled Markt, Gothic town hall, and
   Sint Janskerk stained glass.
 tags:

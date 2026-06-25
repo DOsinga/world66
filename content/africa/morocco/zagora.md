@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Camel_trekking_for_the_tou
 latitude: 30.327905
 loc_type: city
 longitude: -5.836996
-score: 0.47
+score: 7.94
 title: Zagora
 type: location
 snippet: Southern Moroccan desert town at the edge of the Draa Valley and Sahara routes.

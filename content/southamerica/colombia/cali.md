@@ -7,7 +7,7 @@ done:
 latitude: 3.4516
 loc_type: city
 longitude: -76.532
-score: 0.42
+score: 7.47
 snippet: Hot Cauca Valley city where Colombia's salsa capital spreads below the Western
   Cordillera.
 title: Cali

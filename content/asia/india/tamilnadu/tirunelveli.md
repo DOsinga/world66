@@ -4,7 +4,7 @@ done:
 latitude: 8.7139
 loc_type: city
 longitude: 77.7567
-score: 0.31
+score: 6.26
 snippet: Southern Tamil Nadu city on the Thamirabarani River, known for Nellaiappar
   Temple and wheat halwa.
 title: Tirunelveli

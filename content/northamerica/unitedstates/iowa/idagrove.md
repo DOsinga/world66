@@ -5,7 +5,7 @@ done:
 latitude: 42.344975
 loc_type: city
 longitude: -95.471358
-score: 0.2
+score: 4.77
 snippet: Small western Iowa town with castles, a skating rink, and other eccentric
   local landmarks.
 title: Ida Grove

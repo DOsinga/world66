@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:USS_Oak_Hill,_26th_MEU_Mar
 latitude: 41.651
 loc_type: city
 longitude: 41.636
-score: 0.53
+score: 8.46
 title: Batumi
-snippet: Georgian Black Sea port in subtropical Adjara, lined with palms, boulevards, and modern towers.
+snippet: Georgian Black Sea port in subtropical Adjara, lined with palms, boulevards,
+  and modern towers.
 type: location
 ---
 

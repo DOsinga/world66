@@ -7,7 +7,7 @@ snippet: Green Réunion cirque with waterfall-lined cliffs, Creole villages, and
   road-end settlement of Hell-Bourg.
 title: Cirque de Salazie
 type: location
-score: 0.55
+score: 8.65
 loc_type: feature
 image: cirquedesalazie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Domaine-de-Mare-%C3%A0-Citrons.jpg

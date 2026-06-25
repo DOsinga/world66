@@ -9,13 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Borobudur,_Java,_Indonesia
 latitude: -7.608
 loc_type: feature
 longitude: 110.2038
-score: 0.69
+score: 9.43
 sources:
 - https://en.wikipedia.org/wiki/Borobudur
 - https://en.wikivoyage.org/wiki/Borobudur
 title: Borobudur
 type: location
-snippet: "Ninth-century Buddhist monument near Yogyakarta, built as a stone mandala and pilgrimage route."
+snippet: Ninth-century Buddhist monument near Yogyakarta, built as a stone mandala
+  and pilgrimage route.
 ---
 
 Borobudur is the world's largest Buddhist monument and one of the greatest architectural achievements of Southeast Asia. Built in the 9th century by the Sailendra dynasty, this UNESCO World Heritage Site rises from the fertile Kedu Plain about 42 km northwest of [Yogyakarta](/asia/indonesia/java/yogyakarta), its ten terraces stacked in a stepped pyramid of stone. The name derives from an Old Javanese expression meaning roughly "mountain of accumulated merits."

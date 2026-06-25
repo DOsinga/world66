@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bangalore_Panorama_edit1.j
 latitude: 12.976794
 loc_type: city
 longitude: 77.590082
-score: 0.4
+score: 7.22
 snippet: Indian tech capital and garden city, where Cubbon Park and old neighbourhoods
   soften a fast-growing metropolis
 title: Bangalore

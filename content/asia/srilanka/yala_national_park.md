@@ -4,7 +4,7 @@ done:
 latitude: 6.570972
 loc_type: feature
 longitude: 81.507282
-score: 0.55
+score: 8.7
 snippet: Southeastern Sri Lankan national park of dry forest and lagoons, known for
   leopards and jeep safaris
 title: Yala National Park

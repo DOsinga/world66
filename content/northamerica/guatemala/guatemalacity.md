@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guatemala_City_Vista_2014.
 latitude: 14.6349
 loc_type: city
 longitude: -90.5069
-score: 0.33
+score: 6.53
 snippet: Highland Central American capital with a mild valley climate and an underrated
   historic centre
 title: Guatemala City

@@ -5,7 +5,7 @@ done:
 latitude: 11.0801
 loc_type: city
 longitude: 106.2611
-score: 0.41
+score: 7.34
 title: Tay Ninh
 type: location
 snippet: Vietnamese provincial capital and spiritual centre of Cao Dai, northwest

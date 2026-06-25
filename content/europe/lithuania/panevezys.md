@@ -5,7 +5,7 @@ done:
 latitude: 55.734499
 loc_type: city
 longitude: 24.357806
-score: 0.3
+score: 6.2
 snippet: Northern Lithuanian provincial city in Aukštaitija, known for Juozas Miltinis
   theatre and public murals.
 title: Panevėžys

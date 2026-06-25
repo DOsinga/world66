@@ -17,7 +17,7 @@ sources:
 - https://en.irancultura.it/tourism/attractions/Gilan-attractions/Gilan-Heritage-Museum/
 title: Rasht
 type: location
-score: 0.32
+score: 6.41
 snippet: Humid Gilan capital and Caspian gateway, known for rice paddies, bazaar life,
   and food.
 ---

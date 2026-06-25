@@ -6,7 +6,7 @@ done:
 latitude: 37.9694
 loc_type: city
 longitude: 126.5567
-score: 0.17
+score: 4.44
 title: Kaesong
 type: location
 snippet: Historic city near the Korean Demilitarized Zone, known for Koryo-era sites

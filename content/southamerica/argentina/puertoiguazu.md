@@ -5,7 +5,7 @@ done:
 latitude: -25.610751
 loc_type: city
 longitude: -54.57642
-score: 0.67
+score: 9.4
 snippet: Argentine border town at the Iguazú and Paraná rivers, serving as the base
   for Iguazú Falls.
 title: Puerto Iguazú

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/103413003@N02/10151632736
 latitude: 10.132506
 loc_type: city
 longitude: 124.838515
-score: 0.31
+score: 6.25
 title: Maasin City
 type: location
 snippet: Southern Leyte capital on the Bohol Sea, linked to Sogod Bay diving and Spanish-era

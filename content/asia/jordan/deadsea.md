@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dead_Sea,_Jordanian_Shore.
 latitude: 31.640634
 loc_type: feature
 longitude: 35.574684
-score: 0.6
+score: 9.02
 snippet: Hypersaline desert lake below sea level where mineral cliffs frame Jordan's
   famously buoyant shore.
 title: Dead Sea

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kalutara_Ci
 latitude: 6.57453
 loc_type: city
 longitude: 80.028631
-score: 0.47
+score: 7.95
 snippet: Coastal town south of Colombo where the Kalu Ganga meets the Indian Ocean.
 title: Kalutara
 type: location

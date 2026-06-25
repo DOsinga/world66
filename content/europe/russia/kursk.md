@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/77650784@N04/52648722306
 latitude: 51.727036
 loc_type: city
 longitude: 36.192248
-score: 0.24
+score: 5.52
 snippet: Western Russian city on the Seym River, associated with the huge 1943 tank
   battle nearby.
 title: Kursk

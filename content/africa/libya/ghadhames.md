@@ -5,7 +5,7 @@ done:
 latitude: 30.133
 loc_type: city
 longitude: 9.5
-score: 0.39
+score: 7.15
 snippet: Saharan oasis town in western Libya, famous for mud-brick lanes, rooftop
   passages, and desert-edge architecture.
 title: Ghadames

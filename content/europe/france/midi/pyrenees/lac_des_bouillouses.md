@@ -4,7 +4,7 @@ done:
 latitude: 42.570695
 loc_type: feature
 longitude: 1.999136
-score: 0.49
+score: 8.09
 snippet: High Pyrenean lake surrounded by granite peaks, alpine meadows, and routes
   up Pic Carlit.
 title: Lac des Bouillouses

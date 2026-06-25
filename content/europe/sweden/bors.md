@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boras.jpg
 latitude: 57.721
 loc_type: city
 longitude: 12.9401
-score: 0.35
+score: 6.71
 snippet: Swedish textile city reinvented around design schools, street sculpture,
   museums, and the Viskan river mills.
 title: Borås

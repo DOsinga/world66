@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Perhentian_Islands
 title: Perhentian Islands
 type: location
-score: 0.6
+score: 9.03
 snippet: Terengganu island pair off Malaysia's northeast coast, known for clear water
   and relaxed diving bases.
 ---

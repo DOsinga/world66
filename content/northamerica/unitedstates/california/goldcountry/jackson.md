@@ -4,9 +4,10 @@ done:
   location_enrich: '2026-05-15'
 latitude: 38.3494
 loc_type: city
-snippet: Amador County Gold Country town with 19th-century streets and the historic Kennedy Gold Mine.
+snippet: Amador County Gold Country town with 19th-century streets and the historic
+  Kennedy Gold Mine.
 longitude: -120.7741
-score: 0.35
+score: 6.7
 title: Jackson
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moknine,_place_municipale,
 latitude: 35.628257
 loc_type: city
 longitude: 10.900133
-score: 0.28
+score: 5.92
 snippet: Tunisian Sahel town surrounded by olive fields and known for centuries-old
   pottery workshops.
 title: Moknine

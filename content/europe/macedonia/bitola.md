@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ambientalna_ulica_Marsal_T
 latitude: 41.031601
 loc_type: city
 longitude: 21.330251
-score: 0.43
+score: 7.57
 snippet: Pelagonia valley city with Ottoman boulevards, Heraclea mosaics, and North
   Macedonia's relaxed urban elegance.
 title: Bitola

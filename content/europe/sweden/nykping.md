@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryggeriet_Nyk%C3%B6ping_F
 latitude: 58.754541
 loc_type: city
 longitude: 17.012066
-score: 0.37
+score: 6.92
 snippet: Old Baltic town on the Nyköpingsån, marked by medieval royal intrigue at
   Nyköping Castle.
 sources:

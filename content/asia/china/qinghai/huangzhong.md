@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Huangzhong
 title: Huangzhong
 type: location
-score: 0.38
+score: 6.98
 snippet: Small Qinghai city visited for Kumbum Monastery, a major Gelugpa centre near
   Xining.
 ---

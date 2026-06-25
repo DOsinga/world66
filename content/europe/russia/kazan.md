@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Architektura_kazan.JPG
 latitude: 55.7946
 loc_type: city
 longitude: 49.1115
-score: 0.44
+score: 7.66
 snippet: Tatarstan capital where Volga riverfront, Islamic minarets, and Russian Orthodox
   domes share the skyline.
 title: Kazan

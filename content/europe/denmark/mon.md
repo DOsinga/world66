@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:M%C3%B8ns_Klint_5.jpg
 latitude: 54.969843
 loc_type: feature
 longitude: 12.424946
-score: 0.49
+score: 8.1
 snippet: Danish island south of Zealand, known for pastoral villages, beaches, and
   the chalk cliffs of Møns Klint.
 title: Møn

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Thang-Long-W
 latitude: 21.028333
 loc_type: city
 longitude: 105.854041
-score: 0.65
+score: 9.27
 snippet: Vietnamese capital with an Old Quarter of trade streets, ancient temples,
   French villas, and Hoàn Kiếm Lake.
 title: Hanoi

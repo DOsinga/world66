@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aracena_in_Spain_01.jpg
 latitude: 37.8949
 loc_type: city
 longitude: -6.5625
-score: 0.48
+score: 8.03
 snippet: Andalusian hill town crowned by a Moorish castle above the Gruta de las Maravillas
   caves.
 title: Aracena

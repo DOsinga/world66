@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Opatija_Statue.jpg
 latitude: 45.3369
 loc_type: city
 longitude: 14.3053
-score: 0.53
+score: 8.51
 title: Opatija
-snippet: Grand Kvarner Gulf resort town with Austro-Hungarian villas, formal gardens, and a seafront promenade
+snippet: Grand Kvarner Gulf resort town with Austro-Hungarian villas, formal gardens,
+  and a seafront promenade
 type: location
 ---
 

@@ -5,7 +5,7 @@ latitude: 11.1667
 longitude: 41.8833
 title: Lac Abbe
 type: location
-score: 0.44
+score: 7.66
 loc_type: feature
 snippet: Djibouti-Ethiopia border lakebed known for steaming travertine chimneys,
   salt flats, and geothermal springs.

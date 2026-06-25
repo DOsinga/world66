@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Broken_Arrow.jpg
 latitude: 36.052599
 loc_type: city
 longitude: -95.790819
-score: 0.25
+score: 5.67
 snippet: Tulsa-area city with Creek Nation roots and a revived downtown Rose District.
 title: Broken Arrow
 type: location

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E8%8C%B6%E5%8D%A1%E7%9B%9
 latitude: 36.7333
 loc_type: feature
 longitude: 99.08
-score: 0.5
+score: 8.24
 snippet: Qinghai salt lake west of Xining, known for reflective shallow brine and
   surrounding mountains.
 sources:

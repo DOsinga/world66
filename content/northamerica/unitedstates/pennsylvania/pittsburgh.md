@@ -5,7 +5,7 @@ done:
 latitude: 40.440697
 loc_type: city
 longitude: -80.002567
-score: 0.43
+score: 7.55
 snippet: Pennsylvania river city where the Allegheny and Monongahela meet beneath
   steep industrial hills
 sources:

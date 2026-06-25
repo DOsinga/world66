@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanece_en_Vinaros_-_panor
 latitude: 40.470399
 loc_type: city
 longitude: 0.474608
-score: 0.41
+score: 7.37
 snippet: Working Castellón fishing port known for the deep-water red prawn landed
   at Vinaròs.
 title: Vinaros

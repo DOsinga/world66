@@ -5,7 +5,7 @@ done:
 latitude: -33.3441
 loc_type: city
 longitude: 151.496
-score: 0.4
+score: 7.19
 snippet: Central Coast beach town between Tuggerah Lake and the Pacific, known for
   easy sands north of Sydney.
 title: The Entrance

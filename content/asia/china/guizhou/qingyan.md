@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ground_Opera_Troupe_at_Qin
 latitude: 26.375
 loc_type: city
 longitude: 106.658
-score: 0.52
+score: 8.44
 snippet: Ming-era walled town south of Guiyang, with stone gates, flagstone streets,
   and old guild halls.
 sources:

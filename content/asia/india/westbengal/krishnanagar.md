@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Krishnanagar_Clay_Models.j
 latitude: 23.405848
 loc_type: city
 longitude: 88.495893
-score: 0.28
+score: 5.92
 snippet: Nadia district town known for Ghurni's centuries-old painted clay sculpture
   workshop lanes.
 title: Krishnanagar

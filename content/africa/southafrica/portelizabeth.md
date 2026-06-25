@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/25779097@N08/2417710541
 latitude: -33.96186
 loc_type: city
 longitude: 25.618673
-score: 0.39
+score: 7.11
 snippet: Eastern Cape port city, also called Gqeberha, with Algoa Bay beaches and
   1820 settler history.
 title: Port Elizabeth

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/32781193@N00/16000744275
 latitude: 46.8544
 loc_type: city
 longitude: 9.5269
-score: 0.49
+score: 8.15
 snippet: Alpine Rhine-valley city and Graubünden capital, with a crooked old town
   and deep Roman roots
 title: Chur

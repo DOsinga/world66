@@ -5,7 +5,7 @@ done:
 latitude: 42.193936
 loc_type: city
 longitude: -73.362773
-score: 0.42
+score: 7.42
 title: Great Barrington
 type: location
 snippet: Southern Berkshires town with a compact Main Street framed by Taconic and

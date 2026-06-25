@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_xijiang_panorama.jpg
 latitude: 26.4966
 loc_type: feature
 longitude: 108.1699
-score: 0.49
+score: 8.14
 snippet: Guizhou Miao hillside village of wooden stilt houses, rice terraces, and
   an unusually concentrated Miao community.
 sources:

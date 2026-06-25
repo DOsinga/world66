@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cripple_Creek,_Colorado,_1
 latitude: 38.746656
 loc_type: city
 longitude: -105.178315
-score: 0.41
+score: 7.34
 snippet: Former Colorado gold-mining town high in the Rockies, west of Colorado Springs
   and Pikes Peak.
 sources:

@@ -6,7 +6,7 @@ done:
 latitude: 43.3679
 loc_type: city
 longitude: -124.2175
-score: 0.37
+score: 6.86
 snippet: Southern Oregon coast city on Coos Bay, shaped by timber, shipping, dunes,
   and Native place names.
 title: Coos Bay

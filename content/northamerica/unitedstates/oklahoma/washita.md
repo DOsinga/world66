@@ -11,7 +11,7 @@ loc_type: city
 snippet: Oklahoma historic site preserving the Southern Cheyenne village attacked
   by Custer's 7th Cavalry in 1868
 longitude: -98.996697
-score: 0.21
+score: 5.05
 title: Washita
 type: location
 ---

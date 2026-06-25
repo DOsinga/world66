@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bibi_Ka_Maqbara_-_The_Taj_
 latitude: 19.8762
 loc_type: city
 longitude: 75.3433
-score: 0.47
+score: 7.97
 snippet: Mughal Deccan city used as the base for Ajanta, Ellora, and Bibi Ka Maqbara
 sources:
 - https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra

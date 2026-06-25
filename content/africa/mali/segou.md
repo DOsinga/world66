@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/48600082269@N01/6389148
 latitude: 14.048761
 loc_type: city
 longitude: -6.004709
-score: 0.31
+score: 6.26
 snippet: Niger River city and historic Bambara capital known for woven textiles and
   slow riverfront life.
 title: Segou

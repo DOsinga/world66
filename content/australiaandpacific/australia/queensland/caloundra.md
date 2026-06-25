@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kings_Beach,_Caloundra_(1)
 latitude: -26.798163
 loc_type: city
 longitude: 153.135443
-score: 0.43
+score: 7.53
 snippet: Sunshine Coast seaside town of family beaches, Pumicestone Passage views,
   surf breaks, and historic headland lighthouses.
 sources:

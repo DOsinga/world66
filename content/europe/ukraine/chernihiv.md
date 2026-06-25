@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_%D0%93%D0%BE%D1%82%D0
 latitude: 51.4943
 loc_type: city
 longitude: 31.2943
-score: 0.35
+score: 6.67
 snippet: Ancient Ukrainian city on the Desna River with a rare concentration of pre-Mongol
   churches.
 sources:

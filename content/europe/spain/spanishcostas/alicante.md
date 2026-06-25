@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alicante,_Spain.jpg
 latitude: 38.343637
 loc_type: city
 longitude: -0.488171
-score: 0.55
+score: 8.64
 snippet: Costa Blanca port city below Santa Bàrbara Castle, with a palm-lined marble
   waterfront promenade.
 sources:

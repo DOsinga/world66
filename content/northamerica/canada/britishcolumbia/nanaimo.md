@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanaimo,_British_Columbia_
 latitude: 49.1639
 loc_type: city
 longitude: -123.9381
-score: 0.42
+score: 7.5
 snippet: Vancouver Island harbour city known for coal-mining history, waterfront walks,
   and the Nanaimo bar.
 title: Nanaimo

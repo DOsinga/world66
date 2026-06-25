@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Blas_(Mexico).JPG
 latitude: 21.538143
 loc_type: city
 longitude: -105.183878
-score: 0.39
+score: 7.16
 snippet: Small Nayarit fishing and surfing town with a slow colonial port character.
 title: San Blas
 type: location

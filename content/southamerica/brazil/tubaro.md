@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_tubar%C3%A3o.jpg
 latitude: -28.471488
 loc_type: city
 longitude: -49.014132
-score: 0.29
+score: 6.08
 snippet: Southern Santa Catarina city near thermal waters and the heritage Maria Fumaça
   railway.
 title: Tubarão

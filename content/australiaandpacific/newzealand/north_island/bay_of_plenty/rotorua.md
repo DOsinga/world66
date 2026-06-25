@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Rotorua.jpg
 latitude: -38.136073
 loc_type: city
 longitude: 176.252543
-score: 0.61
+score: 9.07
 snippet: North Island geothermal city known for geysers, bubbling mud pools, hot springs,
   and Te Arawa Maori culture.
 title: Rotorua

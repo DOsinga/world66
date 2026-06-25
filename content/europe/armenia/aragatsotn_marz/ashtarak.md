@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/74089637@N00/2975046670
 latitude: 40.2887
 loc_type: city
 longitude: 44.3613
-score: 0.36
+score: 6.86
 snippet: Historic Armenian town on the Kasagh gorge, known for small medieval churches
   near Mount Aragats.
 title: Ashtarak

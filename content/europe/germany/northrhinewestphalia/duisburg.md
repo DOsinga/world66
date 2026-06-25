@@ -9,13 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Duisburg,_Landschaftspark_
 latitude: 51.434999
 loc_type: city
 longitude: 6.759562
-score: 0.29
+score: 6.01
 sources:
 - https://en.wikipedia.org/wiki/Duisburg
 - https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord
 - https://en.wikipedia.org/wiki/Duisburg_Inner_Harbour
 title: Duisburg
-snippet: Ruhr city at the Rhine-Ruhr confluence, known for turning industrial sites into public spaces.
+snippet: Ruhr city at the Rhine-Ruhr confluence, known for turning industrial sites
+  into public spaces.
 type: location
 ---
 

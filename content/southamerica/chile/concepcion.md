@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atlas_pittoresque_pl_036.j
 latitude: -36.82707
 loc_type: city
 longitude: -73.050206
-score: 0.34
+score: 6.64
 snippet: Biobío port city and university hub, known for public murals and a rainier
   industrial character
 title: Concepción

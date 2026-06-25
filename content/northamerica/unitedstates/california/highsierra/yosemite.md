@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Half_Dome_from_Glacier_Poi
 latitude: 37.749
 loc_type: feature
 longitude: -119.5885
-score: 0.78
+score: 9.8
 snippet: Sierra Nevada national park known for Yosemite Valley, waterfalls, granite
   cliffs, meadows, and giant sequoia groves.
 title: Yosemite

@@ -2,7 +2,7 @@
 latitude: 41.4354
 loc_type: city
 longitude: -73.6832
-score: 0.29
+score: 6.06
 snippet: Hudson Valley town in Putnam County, associated with Lake Carmel and Sybil
   Ludington's 1777 ride.
 title: Carmel

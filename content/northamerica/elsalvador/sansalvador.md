@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/35385832@N05/42383473791
 latitude: 13.6929
 loc_type: city
 longitude: -89.2182
-score: 0.33
+score: 6.51
 snippet: Highland Salvadoran capital below San Salvador Volcano, rebuilt around markets,
   malls, and a compact historic centre
 title: San Salvador

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iglesia_de_Cuatro_Ci%C3%A9
 latitude: 26.915564
 loc_type: city
 longitude: -101.473853
-score: 0.4
+score: 7.28
 title: Cuatrocienegas
 type: location
 snippet: Coahuila desert town beside spring-fed pozas with endemic species and living

@@ -5,13 +5,14 @@ done:
 latitude: -4.643114
 loc_type: city
 longitude: 35.95904
-score: 0.36
+score: 6.76
 sources:
 - https://en.wikipedia.org/wiki/Kondoa_Mjini
 - https://whc.unesco.org/en/list/1183
 - https://en.wikipedia.org/wiki/Battle_of_Kondoa_Irangi
 title: Kondoa
-snippet: "Small Central Plateau town near the Irangi Hills' UNESCO-listed prehistoric rock art shelters."
+snippet: Small Central Plateau town near the Irangi Hills' UNESCO-listed prehistoric
+  rock art shelters.
 type: location
 image: kondoa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kondoa_Irangi_Rock_Paintings_(51506922307).jpg

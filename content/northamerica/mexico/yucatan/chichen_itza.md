@@ -4,7 +4,7 @@ done:
 latitude: 20.682852
 loc_type: feature
 longitude: -88.56872
-score: 0.69
+score: 9.43
 snippet: Maya archaeological city in the Yucatán, dominated by Kukulcán's stepped
   pyramid and vast ceremonial courts.
 title: Chichen Itza

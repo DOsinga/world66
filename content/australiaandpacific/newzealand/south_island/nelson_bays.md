@@ -5,7 +5,7 @@ done:
 latitude: -41.234862
 loc_type: city
 longitude: 173.306509
-score: 0.56
+score: 8.74
 snippet: Sunny South Island region of fruit country, sheltered bays, and trails near
   Abel Tasman
 title: Nelson Bays

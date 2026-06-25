@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Laax_See.jpg
 latitude: 46.806412
 loc_type: city
 longitude: 9.258127
-score: 0.53
+score: 8.49
 snippet: Graubünden ski village sharing a vast lift system with Flims and Falera below
   the Vorab glacier.
 title: Laax

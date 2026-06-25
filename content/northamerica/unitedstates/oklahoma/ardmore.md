@@ -5,7 +5,7 @@ done:
 latitude: 34.172927
 loc_type: city
 longitude: -97.130912
-score: 0.25
+score: 5.66
 snippet: South-central Oklahoma railroad city between Oklahoma City and Dallas, near
   Arbuckle hills, springs, and Lake Murray.
 title: Ardmore

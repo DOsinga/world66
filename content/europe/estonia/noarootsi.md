@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Noarootsi_kirik,_2011,_reg
 latitude: 59.037843
 loc_type: city
 longitude: 23.509101
-score: 0.32
+score: 6.35
 title: Noarootsi
-snippet: Coastal parish on Estonia's west coast shaped by centuries of Swedish settlement and Baltic fishing villages.
+snippet: Coastal parish on Estonia's west coast shaped by centuries of Swedish settlement
+  and Baltic fishing villages.
 type: location
 ---
 

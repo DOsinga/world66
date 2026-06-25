@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cuiab%C3%A1,_Brazil_(33270
 latitude: -15.598669
 loc_type: city
 longitude: -56.09913
-score: 0.35
+score: 6.67
 snippet: Mato Grosso capital and gateway to the northern Pantanal, with Brazil's geodetic
   centre on its edge.
 title: Cuiabá

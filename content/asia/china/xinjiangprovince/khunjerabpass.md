@@ -4,7 +4,7 @@ done:
 latitude: 36.846
 loc_type: feature
 longitude: 75.4197
-score: 0.43
+score: 7.62
 snippet: High Karakoram border pass where the paved highway crosses from Xinjiang
   into Pakistan among glaciers.
 title: Khunjerab Pass

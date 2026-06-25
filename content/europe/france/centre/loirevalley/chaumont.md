@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chaumont_sur_Loire_chateau
 latitude: 47.4791
 loc_type: city
 longitude: 1.1818
-score: 0.53
+score: 8.54
 title: Chaumont-sur-Loire
 type: location
 snippet: Loire village crowned by Château de Chaumont and its annual festival of experimental

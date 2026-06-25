@@ -4,7 +4,7 @@ done:
 latitude: 39.0511
 loc_type: feature
 longitude: -108.6979
-score: 0.52
+score: 8.41
 snippet: Red-rock canyon monument above Grand Junction, with sandstone towers and
   Rim Rock Drive tracing the cliffs.
 title: Colorado National Monument

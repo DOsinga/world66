@@ -5,7 +5,7 @@ done:
 latitude: 41.4457
 loc_type: city
 longitude: -87.0725
-score: 0.29
+score: 6.02
 snippet: Lake Michigan town beside Indiana Dunes National Park, where beaches meet
   dunes, bogs, and oak savanna
 sources:

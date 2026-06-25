@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buljarica_beach.jpg
 latitude: 42.182802
 loc_type: city
 longitude: 18.979156
-score: 0.44
+score: 7.7
 snippet: Quiet Montenegrin coastal village with a long pebble beach backed by marsh,
   olive groves, and mountains.
 title: Buljarica

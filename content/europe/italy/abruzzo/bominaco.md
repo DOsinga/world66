@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bominaco_AQ_-_Castello_29.
 latitude: 42.243811
 loc_type: city
 longitude: 13.65779
-score: 0.39
+score: 7.17
 title: Bominaco
 type: location
 snippet: Tiny Abruzzo hill village with exceptional medieval frescoes in the Oratorio

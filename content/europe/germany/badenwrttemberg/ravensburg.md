@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ravensburg_Mehlsack_und_Ob
 latitude: 47.781101
 loc_type: city
 longitude: 9.612468
-score: 0.45
+score: 7.78
 snippet: Upper Swabian medieval town of towers and gates, best known as the home of
   Ravensburger puzzles
 title: Ravensburg

@@ -7,7 +7,7 @@ done:
 latitude: 51.033341
 loc_type: city
 longitude: 2.864718
-score: 0.4
+score: 7.2
 title: Diksmuide
 type: location
 snippet: Flemish market town in West Flanders, rebuilt around some of Belgium's most

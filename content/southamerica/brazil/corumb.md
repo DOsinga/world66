@@ -5,7 +5,7 @@ done:
 latitude: -19.0006
 loc_type: city
 longitude: -57.6508
-score: 0.36
+score: 6.78
 snippet: Paraguay River border city and southern Pantanal gateway, with colonial port
   houses and wetland wildlife access.
 title: Corumbá

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AsyutSalamTaggatLibrary.jp
 latitude: 27.183282
 loc_type: city
 longitude: 31.185384
-score: 0.28
+score: 5.94
 snippet: Upper Egyptian Nile city and commercial hub near Coptic monasteries and cliffside
   tombs
 title: Asyut

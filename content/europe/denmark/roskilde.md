@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:RD_fra_bispegaarden.jpg
 latitude: 55.643348
 loc_type: city
 longitude: 12.081925
-score: 0.5
+score: 8.25
 snippet: Former Danish capital with a Viking ship museum and cathedral burial church
   of Danish monarchs.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Tirupathi_laddu.jpg
 latitude: 13.6288
 loc_type: city
 longitude: 79.4192
-score: 0.43
+score: 7.56
 snippet: Andhra Pradesh pilgrimage city serving Tirumala's Sri Venkateswara Temple
   and its vast devotional crowds
 title: Tirupati

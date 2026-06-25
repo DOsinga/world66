@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Annot,_vieille_ville.jpg
 latitude: 43.966132
 loc_type: city
 longitude: 6.667486
-score: 0.47
+score: 7.92
 snippet: Southern Alps railway town known for Grès d'Annot boulders and medieval lanes
   pressed against stone.
 title: Annot

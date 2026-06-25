@@ -5,7 +5,7 @@ done:
 latitude: 51.4606
 loc_type: city
 longitude: -0.301
-score: 0.46
+score: 7.83
 snippet: Thames-side London town with a green, riverside walks, and Richmond Park's
   roaming deer
 title: Richmond

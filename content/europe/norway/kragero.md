@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Krager%C3%B801.jpg
 latitude: 58.869622
 loc_type: city
 longitude: 9.414214
-score: 0.45
+score: 7.73
 snippet: Southern Norwegian coastal town where white wooden houses overlook an island-filled
   harbour.
 sources:

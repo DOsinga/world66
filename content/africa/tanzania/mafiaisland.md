@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Mafia_Island_(51554991378)
 latitude: -7.843
 loc_type: city
 longitude: 39.7853
-score: 0.48
-snippet: "Low-key Tanzanian island south of Dar es Salaam, centred on Chole Bay and its protected marine park."
+score: 8.06
+snippet: Low-key Tanzanian island south of Dar es Salaam, centred on Chole Bay and
+  its protected marine park.
 title: Mafia Island
 type: location
 ---

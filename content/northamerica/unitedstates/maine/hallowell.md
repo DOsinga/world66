@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hallowell_Maine_(358888997
 latitude: 44.2856
 loc_type: city
 longitude: -69.7903
-score: 0.33
+score: 6.44
 title: Hallowell
 type: location
 snippet: Kennebec River hillside town with antique shops, artists, pubs, and a compact

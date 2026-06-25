@@ -5,7 +5,7 @@ done:
 latitude: 31.7054
 loc_type: city
 longitude: 35.2024
-score: 0.45
+score: 7.81
 snippet: Palestinian pilgrimage town centred on the Church of the Nativity and lively
   Star Street market
 title: Bethlehem

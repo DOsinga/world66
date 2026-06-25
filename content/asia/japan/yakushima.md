@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Forest_in_Yakushima_61.jpg
 latitude: 30.3624
 loc_type: feature
 longitude: 130.5465
-score: 0.62
+score: 9.14
 snippet: Mountainous Japanese island south of Kyushu, known for ancient cedar forests
   and moss-draped hiking trails.
 sources:

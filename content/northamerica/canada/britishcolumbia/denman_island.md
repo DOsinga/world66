@@ -7,7 +7,7 @@ loc_type: city
 snippet: Rural Gulf Island known for its arts community, white sand beaches, and dry
   Strait of Georgia climate
 longitude: -124.7945
-score: 0.37
+score: 6.86
 title: Denman Island
 type: location
 image: denman_island.jpg

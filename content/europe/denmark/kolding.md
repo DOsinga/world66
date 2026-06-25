@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kolding_-_Slots%C3%B81.JPG
 latitude: 55.4895
 loc_type: city
 longitude: 9.47905
-score: 0.43
+score: 7.62
 snippet: Southeast Jutland city on Kolding Fjord, anchored by a medieval castle with
   a bold modern restoration.
 title: Kolding

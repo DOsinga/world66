@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boaco_at_night.jpg
 latitude: 12.4722
 loc_type: city
 longitude: -85.6586
-score: 0.29
+score: 6.01
 snippet: Nicaraguan hill city of two levels, overlooking cattle country northeast
   of Managua
 sources:

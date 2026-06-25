@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bar-headed_Goose_and_Ruddy
 latitude: 32.0507
 loc_type: city
 longitude: 76.0888
-score: 0.26
+score: 5.74
 snippet: Small Himachal town on Pong Dam Lake, a practical base for Ramsar wetland
   birdwatching.
 title: Nagrota Surian

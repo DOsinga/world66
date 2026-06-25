@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 10.6321
 longitude: -85.44
-score: 0.41
+score: 7.34
 snippet: Guanacaste cattle-country capital at the road junction for Costa Rica's Pacific
   beaches.
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CBP_San_Diego_Operations_-
 latitude: 32.552
 loc_type: city
 longitude: -117.0431
-score: 0.26
+score: 5.72
 snippet: San Diego border neighbourhood known for the San Ysidro Port of Entry into
   Tijuana.
 sources:

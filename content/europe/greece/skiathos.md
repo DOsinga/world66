@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skiathos_10_-_panoramio.jp
 latitude: 39.169298
 loc_type: city
 longitude: 23.455251
-score: 0.62
+score: 9.11
 snippet: Sporades island with more than sixty beaches, many sandy and backed by pine
   forest.
 sources:

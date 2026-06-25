@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Moulay_el_Mehdi_-_
 latitude: 35.5702
 loc_type: city
 longitude: -5.3743
-score: 0.51
+score: 8.32
 snippet: Northern Moroccan city with an Andalusian medina shaped by Muslim refugees
   from Spain.
 title: Tétouan

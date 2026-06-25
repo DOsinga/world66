@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DV405_no.253_Killarney.png
 latitude: 52.059575
 loc_type: city
 longitude: -9.505322
-score: 0.61
+score: 9.06
 snippet: Irish visitor town beside lakes and mountains, used as a base for Killarney
   National Park
 title: Killarney

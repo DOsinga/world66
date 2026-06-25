@@ -3,7 +3,7 @@ title: Arroyo de la Miel
 type: location
 latitude: 36.631099
 longitude: -4.56749
-score: 0.39
+score: 7.11
 loc_type: city
 done:
   location_enrich: '2026-06-01'

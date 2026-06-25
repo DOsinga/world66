@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagana_Volcano.jpg
 latitude: -6.144128
 loc_type: city
 longitude: 155.205934
-score: 0.3
+score: 6.11
 snippet: Mountainous Pacific island region with rainforest, volcanoes, and a difficult
   history around the Panguna mine.
 title: Bougainville

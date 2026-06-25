@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Da_svet_photo_%D0%B2%D1%82
 latitude: 58.6163
 loc_type: city
 longitude: 50.1357
-score: 0.21
+score: 5.03
 snippet: Old Russian river city in the taiga belt, known for Dymkovo toys and merchant-era
   streets
 title: Vyatka

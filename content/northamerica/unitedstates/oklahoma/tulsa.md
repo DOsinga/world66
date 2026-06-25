@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20240905_1015_1st_Methodis
 latitude: 36.156312
 loc_type: city
 longitude: -95.992752
-score: 0.33
+score: 6.51
 title: Tulsa
 type: location
 snippet: Oklahoma oil city on Route 66 with a strong Art Deco architectural inheritance.

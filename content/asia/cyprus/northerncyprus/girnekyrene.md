@@ -7,7 +7,7 @@ done:
 latitude: 35.339629
 loc_type: city
 longitude: 33.320529
-score: 0.52
+score: 8.45
 snippet: Northern Cyprus harbour town below the Kyrenia Range, framed by castle walls
   and Ottoman-era quays.
 title: Girne (Kyrenia)

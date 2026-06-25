@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leba_Dunes.jpg
 latitude: 54.758521
 loc_type: city
 longitude: 17.555417
-score: 0.4
+score: 7.27
 title: Leba
 type: location
 snippet: Baltic fishing port beside Słowiński National Park and the shifting white

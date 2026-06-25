@@ -5,7 +5,7 @@ done:
 latitude: 9.8839
 loc_type: city
 longitude: -85.5296
-score: 0.48
+score: 8.06
 snippet: Nicoya Peninsula beach town on a reef-protected bay, with calm Pacific water
   around Playa Sámara.
 title: Samara

@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Calpe-Marina-Alta-2019.jpg
 latitude: 38.644325
 loc_type: city
 longitude: 0.046012
-score: 0.48
+score: 8.07
 title: Calpe
-snippet: Costa Blanca town dominated by the Penyal d'Ifac, a limestone rock rising from the sea.
+snippet: Costa Blanca town dominated by the Penyal d'Ifac, a limestone rock rising
+  from the sea.
 type: location
 ---
 

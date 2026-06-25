@@ -7,7 +7,7 @@ done:
 latitude: 13.45535
 loc_type: city
 longitude: -16.575646
-score: 0.37
+score: 6.87
 snippet: Compact Gambian capital on St Mary's Island, with Albert Market and a working
   riverfront at its core.
 title: Banjul

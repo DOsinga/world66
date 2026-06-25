@@ -5,7 +5,7 @@ done:
 latitude: 16.9685
 loc_type: city
 longitude: -88.2312
-score: 0.37
+score: 6.86
 snippet: Southern Belize working town and Garifuna cultural capital, especially tied
   to Settlement Day traditions
 title: Dangriga

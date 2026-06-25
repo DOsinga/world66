@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/43547009@N00/48156128391
 latitude: 39.7683
 loc_type: city
 longitude: -86.1584
-score: 0.39
+score: 7.11
 snippet: Indiana capital with a compact downtown, major sports venues, and the Indianapolis
   Motor Speedway.
 title: Indianapolis

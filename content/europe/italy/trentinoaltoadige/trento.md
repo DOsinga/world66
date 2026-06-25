@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_trento.jpg
 latitude: 46.066423
 loc_type: city
 longitude: 11.12576
-score: 0.55
+score: 8.68
 title: Trento
 type: location
-snippet: Prosperous Alpine city in the Adige valley, famous for the Council of Trent and Buonconsiglio Castle.
+snippet: Prosperous Alpine city in the Adige valley, famous for the Council of Trent
+  and Buonconsiglio Castle.
 ---
 
 Trento is a prosperous city tucked into the Adige valley in the Italian Alps, with a wealth that comes from farming, wine, and high-tech industry. The town is best known for the Council of Trent (1545–1563), the Catholic Church's marathon response to the Reformation, which met in the [Duomo](/europe/italy/trentinoaltoadige/trento/duomo) and the [Castello del Buonconsiglio](/europe/italy/trentinoaltoadige/trento/castello_del_buonconsiglio) over nearly two decades. The castle is now the largest museum in the Trentino region, with medieval art, archaeology, and frescoes — including the spectacular [Cycle of the Months](/europe/italy/trentinoaltoadige/trento/torre_aquila) in the Torre Aquila.

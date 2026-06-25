@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Niger,_In-Gall_(13).JPG
 latitude: 16.7861
 loc_type: city
 longitude: 6.9336
-score: 0.16
+score: 4.38
 snippet: Small Tuareg oasis town near Agadez, host of the annual Cure Salée nomad
   gathering.
 title: In-Gall

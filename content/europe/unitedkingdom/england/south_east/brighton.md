@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:At_Brighton,_East_Sussex_2
 latitude: 50.821463
 loc_type: city
 longitude: -0.140056
-score: 0.54
+score: 8.58
 snippet: English seaside city of Regency terraces, Royal Pavilion fantasy, and a long
   pleasure-pier waterfront
 title: Brighton

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arcachon-Jetee-Eyrac-byRun
 latitude: 44.6603781
 loc_type: city
 longitude: -1.1666548
-score: 0.53
+score: 8.46
 snippet: Arcachon is a French Atlantic resort beside a sheltered oyster lagoon and
   the Landes pine forests.
 sources:

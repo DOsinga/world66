@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Sands_of_E
 latitude: 58.852057
 loc_type: city
 longitude: -3.28694
-score: 0.57
+score: 8.78
 snippet: Scottish archipelago of wind-scoured islands, Neolithic monuments, Viking
   traces, and red sandstone Kirkwall
 title: Orkney

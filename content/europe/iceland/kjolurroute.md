@@ -5,7 +5,7 @@ latitude: 64.85
 longitude: -19.55
 title: Kjölur Route
 type: location
-score: 0.51
+score: 8.3
 loc_type: feature
 snippet: Icelandic highland gravel route between Langjökull and Hofsjökull, crossing
   hot springs and open interior desert.

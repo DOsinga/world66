@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colonia-Calle_San_Pedro-TM
 latitude: -34.4712
 loc_type: city
 longitude: -57.8511
-score: 0.53
+score: 8.46
 snippet: Río de la Plata colonial town where Portuguese and Spanish layers survive
   in cobbled streets.
 sources:

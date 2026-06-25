@@ -6,7 +6,7 @@ done:
 latitude: 20.5399
 loc_type: feature
 longitude: 96.9172
-score: 0.58
+score: 8.88
 snippet: Shan Hills freshwater lake where stilt villages, floating gardens, and leg-rowing
   fishermen shape life on the water
 title: Inle Lake

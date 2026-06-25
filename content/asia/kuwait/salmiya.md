@@ -5,10 +5,11 @@ done:
 latitude: 29.332783
 loc_type: city
 longitude: 48.068488
-score: 0.29
+score: 6.07
 title: Salmiya
 type: location
-snippet: "Salmiya is a densely populated Kuwaiti district known for shopping streets, waterfront dining, and expatriate communities."
+snippet: Salmiya is a densely populated Kuwaiti district known for shopping streets,
+  waterfront dining, and expatriate communities.
 ---
 
 Salmiya is Kuwait's second city in all but name — a densely populated district about 12 km south of central [Kuwait City](/asia/kuwait/kuwaitcity) that serves as the country's main commercial and entertainment hub. Over 90% of its 150,000 residents are expatriates, giving it a cosmopolitan, multicultural atmosphere unlike anywhere else in the Gulf.

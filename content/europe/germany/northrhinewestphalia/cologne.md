@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_A
 latitude: 50.938361
 loc_type: city
 longitude: 6.959974
-score: 0.56
+score: 8.76
 snippet: Rhine city founded as a Roman colony, dominated by its Gothic cathedral and
   convivial Kölsch beer culture
 title: Cologne

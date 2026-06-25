@@ -4,7 +4,7 @@ done:
 latitude: 33.1064
 loc_type: city
 longitude: 6.0588
-score: 0.25
+score: 5.61
 snippet: Saharan oasis city on Algeria's palm-fringed salt lakes, once a caravan hub
   and independent kingdom
 title: Touggourt

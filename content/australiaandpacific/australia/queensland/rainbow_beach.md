@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Carlow_Sand_Blow,_Rainbow_
 latitude: -25.905661
 loc_type: city
 longitude: 153.074391
-score: 0.49
+score: 8.14
 title: Rainbow Beach
-snippet: Small Queensland beach town and K'gari gateway, backed by coloured sand cliffs and the Carlo Sandblow
+snippet: Small Queensland beach town and K'gari gateway, backed by coloured sand cliffs
+  and the Carlo Sandblow
 type: location
 ---
 

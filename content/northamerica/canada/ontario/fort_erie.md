@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Erie_Old_Fort_Erie_ca
 latitude: 42.91308
 loc_type: city
 longitude: -78.918611
-score: 0.33
-snippet: Lake Erie border town across from Buffalo, with beaches and Niagara Peninsula history.
+score: 6.49
+snippet: Lake Erie border town across from Buffalo, with beaches and Niagara Peninsula
+  history.
 title: Fort Erie
 type: location
 ---

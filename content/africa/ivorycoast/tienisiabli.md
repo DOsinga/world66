@@ -5,10 +5,11 @@ done:
 latitude: 7.6833
 loc_type: city
 longitude: -7.5167
-score: 0.16
+score: 4.34
 title: Tieni-Siabli
 type: location
-snippet: Cliffside village in central-western Ivory Coast, overlooking a green valley with forested hiking trails.
+snippet: Cliffside village in central-western Ivory Coast, overlooking a green valley
+  with forested hiking trails.
 ---
 
 Tieni is an old village perched dramatically on a cliff face, overlooking a green valley in central-western Ivory Coast. The setting is striking — the village clings to the rock above a lush valley, giving it an almost fortress-like appearance. Siabli lies at the foot of the cliff, a larger settlement but of little interest to visitors in itself.

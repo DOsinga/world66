@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/27345927@N07/7357450610
 latitude: -36.74676
 loc_type: city
 longitude: 174.721788
-score: 0.41
+score: 7.33
 title: North Shore City
 type: location
 snippet: Auckland harbour suburb of Gulf-facing beaches, Devonport villas, and bush

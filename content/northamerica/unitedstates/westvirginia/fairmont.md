@@ -5,7 +5,7 @@ done:
 latitude: 39.484898
 loc_type: city
 longitude: -80.142654
-score: 0.26
+score: 5.78
 snippet: North-central West Virginia river city known for Italian-American pepperoni
   rolls and frontier history.
 title: Fairmont

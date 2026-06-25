@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koror-Babeldaob-Bridge-201
 latitude: 7.5
 loc_type: city
 longitude: 134.58
-score: 0.46
+score: 7.92
 snippet: Palau's largest island, mostly rainforest and coastal villages, with the
   national capital at Melekeok.
 title: Babeldaob

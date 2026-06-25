@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Angkor,_Angkor_Wat,_B
 latitude: 13.4125
 loc_type: feature
 longitude: 103.867
-score: 0.85
+score: 9.94
 snippet: Vast Khmer temple complex whose lotus-bud towers anchor the ancient city
   of Angkor
 title: Angkor Wat

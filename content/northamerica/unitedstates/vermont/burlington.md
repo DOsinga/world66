@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_the_Burlington_Mar
 latitude: 44.4762
 loc_type: city
 longitude: -73.2129
-score: 0.46
+score: 7.91
 snippet: Small Vermont city on Lake Champlain, facing the Adirondacks from a lively
   downtown waterfront
 title: Burlington

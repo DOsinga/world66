@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Barken_Viking_i_G%C3%B6teb
 latitude: 57.707233
 loc_type: city
 longitude: 11.967017
-score: 0.53
+score: 8.52
 title: Gothenburg
-snippet: Sweden's canal-laced second city, shaped by Dutch planning, maritime trade, and a working harbour
+snippet: Sweden's canal-laced second city, shaped by Dutch planning, maritime trade,
+  and a working harbour
 type: location
 ---
 

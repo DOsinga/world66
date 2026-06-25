@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sekondi-Ghana.jpg
 latitude: 4.927456
 loc_type: city
 longitude: -1.749022
-score: 0.3
+score: 6.15
 title: Sekondi
 type: location
 snippet: Colonial harbour town beside Takoradi, with weathered merchant houses and

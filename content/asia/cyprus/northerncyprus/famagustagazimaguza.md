@@ -12,7 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Famagusta
 title: Famagusta (Gazimağusa)
 type: location
-score: 0.49
+score: 8.13
 snippet: Walled eastern Cyprus city layered with Lusignan, Venetian, Ottoman, and
   Gothic architecture.
 ---

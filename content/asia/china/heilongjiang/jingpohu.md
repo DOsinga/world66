@@ -12,8 +12,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Heilongjiang
 title: Jingpo Lake
 type: location
-score: 0.41
-snippet: "Volcanic lake in Heilongjiang, reflecting forested hills where lava once blocked the Mudan River valley."
+score: 7.35
+snippet: Volcanic lake in Heilongjiang, reflecting forested hills where lava once
+  blocked the Mudan River valley.
 ---
 
 Jingpo Lake — Jingpohu in Chinese, meaning Mirror Lake — is a long, narrow volcanic lake in the mountains south of Mudanjiang, formed around 10,000 years ago when lava flows from the Diaoshuilou volcano blocked the Mudan River valley. The lake is about 45 kilometres long but rarely more than a few kilometres wide, and the forest-covered hills descend almost directly into the water on both sides. In calm conditions the reflections are extraordinary — the lake's name is well-earned — and the surrounding Jingpohu National Forest Park gives the whole area a protected, unhurried quality.

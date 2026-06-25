@@ -5,7 +5,7 @@ done:
 latitude: 14.4684
 loc_type: city
 longitude: -3.3065
-score: 0.39
+score: 7.16
 snippet: Dogon plateau village above the Bandiagara Escarpment, starting point for
   guided cliff-country treks
 title: Sanga

@@ -6,7 +6,7 @@ latitude: 13.310915
 longitude: 2.57563
 title: Koure
 type: location
-score: 0.23
+score: 5.39
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Kour%C3%A9,_Niger

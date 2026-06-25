@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Legal_Alberta_Grain_Elevat
 latitude: 53.948741
 loc_type: city
 longitude: -113.595427
-score: 0.18
+score: 4.61
 snippet: Small Alberta town known for outdoor murals celebrating French-Canadian and
   Métis heritage.
 title: Legal

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Montreux_(Svizzera)_Panora
 latitude: 46.4311
 loc_type: city
 longitude: 6.913
-score: 0.62
+score: 9.16
 snippet: Lake Geneva resort town on the Swiss Riviera, known for jazz, palms, and
   mountain-sheltered promenades
 title: Montreux

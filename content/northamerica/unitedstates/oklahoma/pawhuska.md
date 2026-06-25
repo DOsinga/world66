@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Hall_Pawhuska_Oklahom
 latitude: 36.66334
 loc_type: city
 longitude: -96.340121
-score: 0.29
+score: 6.09
 snippet: Osage Nation capital on Oklahoma prairie, tied to oil wealth, tribal history,
   and tallgrass country.
 title: Pawhuska

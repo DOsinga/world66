@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moschee_von_Djenn%C3%A9.jp
 latitude: 13.9052
 loc_type: city
 longitude: -4.5549
-score: 0.44
+score: 7.69
 snippet: Mud-brick city on the Bani River floodplain, centred on the Great Mosque
   of Djenné.
 title: Djenné

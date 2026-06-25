@@ -5,7 +5,7 @@ done:
 latitude: 42.1945
 loc_type: city
 longitude: -122.7094
-score: 0.45
+score: 7.73
 snippet: Southern Oregon arts city near California, anchored by the long-running Oregon
   Shakespeare Festival.
 title: Ashland

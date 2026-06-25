@@ -5,11 +5,12 @@ done:
 latitude: 58.622638
 loc_type: city
 longitude: 8.931236
-score: 0.42
+score: 7.48
 sources:
 - https://en.wikipedia.org/wiki/Tvedestrand
 title: Tvedestrand
-snippet: Southern Norwegian coastal town of white wooden houses rising from a narrow fjord harbour.
+snippet: Southern Norwegian coastal town of white wooden houses rising from a narrow
+  fjord harbour.
 type: location
 ---
 

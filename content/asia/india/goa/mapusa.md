@@ -4,7 +4,7 @@ done:
 latitude: 15.590853
 loc_type: city
 longitude: 73.810215
-score: 0.4
+score: 7.22
 snippet: North Goa market town and administrative hub, best known for its busy Friday
   Market.
 title: Mapusa

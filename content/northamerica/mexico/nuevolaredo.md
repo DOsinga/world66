@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monumento_Fundadores_Nuevo
 latitude: 27.479303
 loc_type: city
 longitude: -99.522108
-score: 0.21
+score: 4.97
 snippet: Tamaulipas border city opposite Laredo, defined by Rio Grande bridges and
   heavy commercial truck traffic.
 title: Nuevo Laredo

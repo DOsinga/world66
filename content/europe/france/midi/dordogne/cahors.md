@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cahors_pont_Valentre_vgen.
 latitude: 44.4495
 loc_type: city
 longitude: 1.4365
-score: 0.48
+score: 8.02
 snippet: Lot River town wrapped by a water loop, known for Pont Valentré and dark
   Malbec wines.
 title: Cahors

@@ -4,7 +4,7 @@ done:
 latitude: 54.07033
 loc_type: city
 longitude: 9.988445
-score: 0.29
+score: 6.07
 title: Neumünster
 type: location
 snippet: Working Schleswig-Holstein city shaped by textile industry and practical

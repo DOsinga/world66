@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chora_Amorgos_7231.JPG
 latitude: 36.8525
 loc_type: city
 longitude: 25.8985
-score: 0.6
+score: 9.02
 snippet: Cycladic island of steep rock, deep blue water, and a cliff-hung white monastery
 title: Amorgos
 type: location

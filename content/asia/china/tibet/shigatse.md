@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shigatse_Dzong,_Tibet.jpg
 latitude: 29.105841
 loc_type: city
 longitude: 86.875398
-score: 0.5
+score: 8.23
 snippet: Tibetan city in the Yarlung Tsangpo valley, centered on Tashilhunpo Monastery
   and Panchen Lama history.
 title: Shigatse

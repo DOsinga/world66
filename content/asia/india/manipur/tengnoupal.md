@@ -5,7 +5,7 @@ done:
 latitude: 24.362616
 loc_type: city
 longitude: 94.2595
-score: 0.24
+score: 5.49
 snippet: Manipur hill town on the old Imphal-Burma road, where the highway opens over
   the valley.
 title: Tengnoupal

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_East_Lansing_(202
 latitude: 42.7325
 loc_type: city
 longitude: -84.5555
-score: 0.3
+score: 6.15
 snippet: Michigan state capital built around a 19th-century capitol, with a strong
   civic and university character.
 title: Lansing

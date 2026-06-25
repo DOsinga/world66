@@ -1,12 +1,13 @@
 ---
 latitude: 25.1918
 longitude: 55.2443
+score: 6.8
 tags:
 - eating_out
 - restaurant
+- jumeirah
 title: Logma
 type: poi
-score: 6.8
 ---
 
 Logma is one of the city's better Emirati restaurants, offering a modern take on traditional UAE food in the Boxpark development in Umm Suqeim. The menu covers balaleet (sweet vermicelli with eggs), harees (slow-cooked wheat and meat porridge), and madfoon (slow-braised lamb with rice and spices), alongside excellent karak tea and fresh juices.

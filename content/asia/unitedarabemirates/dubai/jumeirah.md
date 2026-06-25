@@ -1,6 +1,12 @@
 ---
+image: jumeirah.jpg
+image_attribution: trolvag
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Jumeirah,_Dubai_-_United_Arab_Emirates_-_panoramio.jpg
 latitude: 25.2131
 longitude: 55.2471
+snippet: Sprawling coastal residential district with the Burj Al Arab, beaches, and
+  expat villas
 tags:
 - things_to_do
 - neighbourhood

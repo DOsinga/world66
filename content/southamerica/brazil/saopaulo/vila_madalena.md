@@ -1,12 +1,16 @@
 ---
-title: "Vila Madalena"
+title: Vila Madalena
 type: neighbourhood
 latitude: -23.5536
 longitude: -46.6911
 tags:
-  - things_to_do
-  - neighbourhood
-snippet: "Bohemian neighbourhood of galleries, bars, and graffiti streets"
+- things_to_do
+- neighbourhood
+snippet: Bohemian neighbourhood of galleries, bars, and graffiti streets
+image: vila_madalena.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Por-do-Sol_(P%C3%B3s-Chuva)_-_Vila_Madalena_S%C3%A3o_Paulo_-_SP_-_Flickr_-_Rodrigo_Paoletti.jpg
+image_license: CC BY 2.0
+image_attribution: Rodrigo Paoletti
 ---
 
 Vila Madalena climbs the hills west of Pinheiros, originally settled as a quiet middle-class neighbourhood in the 1950s and 60s, then taken over by artists, musicians, and university students in the 1980s when the rents in central São Paulo got too high. The bohemian wave is now over — rents have followed — but the neighbourhood is still the city's most concentrated quarter for galleries, second-hand bookshops, and bar life. The Beco do Batman graffiti alley and the Aspicuelta-Fradique Coutinho-Wisard nightlife triangle are the two anchors.

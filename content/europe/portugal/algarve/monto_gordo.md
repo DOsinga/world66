@@ -5,7 +5,7 @@ done:
 latitude: 37.182
 loc_type: city
 longitude: -7.449
-score: 0.46
+score: 7.9
 snippet: Eastern Algarve beach resort near Spain, with warm shallow water and a flat
   seafront promenade.
 title: Monte Gordo

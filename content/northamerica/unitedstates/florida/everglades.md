@@ -5,7 +5,7 @@ done:
 latitude: 25.2866
 loc_type: feature
 longitude: -80.8987
-score: 0.54
+score: 8.58
 snippet: Subtropical Florida wetland where sawgrass prairie, mangroves, alligators,
   and crocodiles share a slow river.
 title: Everglades

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balangir_palace.jpg
 latitude: 20.6717
 loc_type: city
 longitude: 83.4846
-score: 0.24
+score: 5.5
 snippet: Western Odisha district of dry hills, Chauhan-era forts, and temple sites
   scattered across fields
 title: Balangir

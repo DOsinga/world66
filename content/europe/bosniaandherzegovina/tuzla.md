@@ -6,7 +6,7 @@ done:
 latitude: 44.5384
 loc_type: city
 longitude: 18.6735
-score: 0.38
+score: 6.98
 title: Tuzla
 type: location
 snippet: Bosnian city built on salt springs, with Pannonica lakes at its modern centre.

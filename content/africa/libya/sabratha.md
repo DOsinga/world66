@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Theatre_of_Sabratha,_Libya
 latitude: 32.805249
 loc_type: city
 longitude: 12.485202
-score: 0.35
+score: 6.67
 title: Sabratha
 type: location
 snippet: Ancient Roman port city west of Tripoli, defined by its restored theatre

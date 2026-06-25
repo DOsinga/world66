@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Radovljica_(29184012972).j
 latitude: 46.3441
 loc_type: city
 longitude: 14.1746
-score: 0.47
+score: 7.96
 snippet: Slovenian medieval town above the Sava, known for painted facades, beekeeping,
   and chocolate
 title: Radovljica

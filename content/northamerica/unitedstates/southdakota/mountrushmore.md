@@ -4,7 +4,7 @@ done:
 latitude: 43.879403
 loc_type: feature
 longitude: -103.459805
-score: 0.53
+score: 8.53
 snippet: Black Hills memorial where four presidential faces are carved into granite
   above South Dakota forest
 title: Mount Rushmore

@@ -5,7 +5,7 @@ done:
 latitude: 39.936
 loc_type: city
 longitude: -120.947
-score: 0.31
+score: 6.23
 snippet: Northern Sierra mountain town surrounded by Plumas County lakes, streams,
   and Feather River canyon country.
 title: Quincy

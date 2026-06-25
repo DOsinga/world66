@@ -5,7 +5,7 @@ done:
 latitude: 46.7364
 loc_type: city
 longitude: 29.0606
-score: 0.35
+score: 6.73
 snippet: Rock-hewn Moldovan monastery complex carved into limestone cliffs above the
   Nistru River
 title: Tipova Monastery

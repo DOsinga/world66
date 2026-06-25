@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marikina_Church.jpg
 latitude: 14.633108
 loc_type: city
 longitude: 121.099354
-score: 0.29
+score: 6.03
 snippet: Metro Manila city known for shoemaking, riverfront parks, and the Shoe Museum's
   outsized collection.
 sources:

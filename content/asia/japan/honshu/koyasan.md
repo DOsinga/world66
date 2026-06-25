@@ -7,7 +7,7 @@ done:
 latitude: 34.2132
 loc_type: city
 longitude: 135.5853
-score: 0.65
+score: 9.3
 snippet: Sacred Japanese temple town on Mount Koya, centred on Shingon Buddhism and
   cedar-shaded pilgrimage paths.
 title: Koyasan

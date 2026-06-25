@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cupola_in_Escondido,_CA.JP
 latitude: 33.121675
 loc_type: city
 longitude: -117.081485
-score: 0.34
+score: 6.57
 snippet: Inland San Diego County city known for the Safari Park and Queen Califia's
   sculpture garden.
 title: Escondido

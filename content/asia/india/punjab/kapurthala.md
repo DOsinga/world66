@@ -5,7 +5,7 @@ done:
 latitude: 31.385648
 loc_type: city
 longitude: 75.30533
-score: 0.33
+score: 6.48
 snippet: Small Punjabi city with a princely architectural legacy inspired by Versailles
   and Moorish design.
 title: Kapurthala

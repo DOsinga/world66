@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/38315261@N00/220914427
 latitude: 48.382
 loc_type: city
 longitude: -89.2502
-score: 0.39
+score: 7.12
 snippet: Lake Superior port city of grain elevators, twin-town history, and wilderness
   at the western Great Lakes.
 title: Thunder Bay

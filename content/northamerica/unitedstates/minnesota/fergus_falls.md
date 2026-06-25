@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146321178@N05/53013416325
 latitude: 46.283
 loc_type: city
 longitude: -96.0776
-score: 0.3
+score: 6.13
 snippet: West-central Minnesota city on the Otter Tail River, surrounded by the county's
   lake country.
 title: Fergus Falls

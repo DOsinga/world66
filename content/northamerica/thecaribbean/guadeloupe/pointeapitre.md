@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancien_h%C3%B4tel_de_ville
 latitude: 16.2411
 loc_type: city
 longitude: -61.5331
-score: 0.45
+score: 7.77
 snippet: Guadeloupe's busy commercial city, a Creole-French ferry hub between Grande-Terre
   and Basse-Terre.
 sources:

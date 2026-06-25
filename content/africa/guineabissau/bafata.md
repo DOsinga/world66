@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bafat%C3%A1_cathedral,_Baf
 latitude: 12.17234
 loc_type: city
 longitude: -14.655503
-score: 0.2
+score: 4.84
 snippet: Geba River town remembered as Amílcar Cabral's birthplace and a faded Portuguese
   colonial centre.
 sources:

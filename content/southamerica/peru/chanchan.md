@@ -5,7 +5,7 @@ done:
 latitude: -8.106
 loc_type: feature
 longitude: -79.0738
-score: 0.54
+score: 8.58
 snippet: Vast Chimú adobe city near Trujillo, the largest pre-Columbian urban site
   in South America
 title: Chan Chan

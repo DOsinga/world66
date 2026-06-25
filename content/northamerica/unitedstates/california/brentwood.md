@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Smith_Family_Farms,_Brentw
 latitude: 37.9318
 loc_type: city
 longitude: -121.696
-score: 0.25
+score: 5.61
 snippet: East Bay farm town known for u-pick orchards and sweet corn near Mount Diablo.
 title: Brentwood
 type: location

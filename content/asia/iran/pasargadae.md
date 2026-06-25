@@ -6,7 +6,7 @@ done:
 latitude: 30.2017
 loc_type: feature
 longitude: 53.1787
-score: 0.44
+score: 7.72
 snippet: Achaemenid capital on a Fars plateau, where Cyrus the Great's tomb anchors
   wind-swept ruins
 title: Pasargadae

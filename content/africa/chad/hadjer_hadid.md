@@ -5,7 +5,7 @@ done:
 latitude: 12.7833
 loc_type: city
 longitude: 22.2167
-score: 0.1
+score: 2.12
 snippet: Small eastern Chad village near Sudanese refugee camps, set in a dry landscape
   that greens during the rains.
 title: Hadjer Hadid

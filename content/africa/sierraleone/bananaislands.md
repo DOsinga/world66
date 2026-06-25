@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banana_Islands_(Sierra_Leo
 latitude: 8.1056
 loc_type: city
 longitude: -13.2272
-score: 0.36
+score: 6.76
 snippet: Small island group south of Freetown, where slave-trade ruins sit beside
   beaches and clear water.
 title: Banana Islands

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Capitalio_National_de_Colo
 latitude: 4.711
 loc_type: city
 longitude: -74.0721
-score: 0.53
+score: 8.47
 snippet: High Andean capital where colonial La Candelaria, street art, and glass towers
   sit at 2,640 metres
 title: Bogota

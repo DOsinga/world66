@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridges_of_Morgan_City,_Lo
 latitude: 29.699375
 loc_type: city
 longitude: -91.20677
-score: 0.26
+score: 5.81
 snippet: Atchafalaya River oil-and-shrimp town where offshore drilling history meets
   swamp country and maritime festivals
 title: “Morgan City”

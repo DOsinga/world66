@@ -5,7 +5,7 @@ done:
 latitude: 19.0948
 loc_type: city
 longitude: 74.748
-score: 0.27
+score: 5.88
 snippet: Deccan city northeast of Pune, founded in 1494 and anchored by the moat-ringed
   Ahmednagar Fort.
 title: Ahmednagar

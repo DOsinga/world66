@@ -13,8 +13,9 @@ image: rajaampat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_diver_in_Raja_Ampat_seascape.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fakhrizal Setiawan
-score: 0.73
-snippet: West Papuan archipelago of karst islands and reef passages at the heart of the Coral Triangle.
+score: 9.5
+snippet: West Papuan archipelago of karst islands and reef passages at the heart of
+  the Coral Triangle.
 ---
 
 Raja Ampat — the Four Kings — is an archipelago of over 1,500 islands off the northwest tip of West Papua, at the point where the Pacific and Indian Oceans meet. Marine biologists say it contains more species of fish, coral, and invertebrate life than anywhere else on the planet. Every survey seems to confirm this. If you want to dive or snorkel, there is nowhere on earth that compares.

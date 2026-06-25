@@ -5,7 +5,7 @@ done:
 latitude: 44.0342
 loc_type: city
 longitude: 8.0957
-score: 0.39
+score: 7.09
 snippet: Ligurian inland village in the Lerrone valley, known for golf, Pigato vineyards,
   and quiet walks
 title: Garlenda

@@ -11,10 +11,11 @@ longitude: -61.2
 sources:
 - https://en.wikipedia.org/wiki/Saint_Vincent_(Saint_Vincent_and_the_Grenadines)
 - https://en.wikipedia.org/wiki/Kingstown
-snippet: Volcanic Caribbean island of steep green valleys, black-sand beaches, and the La Soufrière skyline.
+snippet: Volcanic Caribbean island of steep green valleys, black-sand beaches, and
+  the La Soufrière skyline.
 title: St Vincent Island
 type: location
-score: 0.53
+score: 8.53
 ---
 
 St Vincent is the volcanic main island of Saint Vincent and the Grenadines — steep, green, and noticeably less polished than the smaller islands that draw most of the country's visitors. About 26 kilometres long and rising to the still-active [La Soufrière](/northamerica/saintvincentandthegrenadines/stvincentisland/la_soufriere) volcano in the north, it is one of the wettest and most rugged islands in the eastern Caribbean. The Atlantic windward coast is wild and battered; the Caribbean leeward coast holds the calmer bays, the black-sand beaches, and most of the settlements.

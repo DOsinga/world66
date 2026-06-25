@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A643,_Bar_Harbor_and_Cadil
 latitude: 44.3876
 loc_type: city
 longitude: -68.2043
-score: 0.58
+score: 8.86
 snippet: Mount Desert Island town and main gateway to Acadia National Park, with a
   tidal walk to Bar Island.
 title: Bar Harbor

@@ -11,7 +11,7 @@ loc_type: city
 snippet: Normandy resort town framed by chalk arches, sea cliffs, and the needle of
   the Falaise d'Aval
 longitude: 0.2032
-score: 0.59
+score: 8.98
 title: Etretat
 type: location
 ---

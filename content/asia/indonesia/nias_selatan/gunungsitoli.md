@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_road_scene_in_Gunungsito
 latitude: 1.290057
 loc_type: city
 longitude: 97.615077
-score: 0.3
+score: 6.12
 snippet: Nias Island port city where ferries arrive and traditional stone-carving
   culture fills the local museum.
 title: Gunungsitoli

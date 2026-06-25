@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Impressive_architectural_d
 latitude: 32.51
 loc_type: city
 longitude: -92.12
-score: 0.26
+score: 5.81
 snippet: Northeast Louisiana city on the Ouachita River, linked to early Delta Air
   Lines and Coca-Cola bottling history.
 title: Monroe

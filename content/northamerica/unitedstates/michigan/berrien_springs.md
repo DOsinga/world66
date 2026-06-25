@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Berrien_springs_mi.jpg
 latitude: 41.946434
 loc_type: city
 longitude: -86.338897
-score: 0.22
+score: 5.17
 snippet: Small southwestern Michigan village linked to Andrews University, Seventh-day
   Adventist history, and an old courthouse square.
 title: Berrien Springs

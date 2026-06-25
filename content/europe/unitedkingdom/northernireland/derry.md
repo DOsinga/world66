@@ -5,7 +5,7 @@ done:
 latitude: 54.997868
 loc_type: city
 longitude: -7.321306
-score: 0.48
+score: 8.03
 snippet: Walled Northern Irish city where 17th-century ramparts overlook Bogside murals
   and a layered past.
 title: Derry

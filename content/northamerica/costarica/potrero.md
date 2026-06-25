@@ -5,7 +5,7 @@ done:
 latitude: 10.4378
 loc_type: city
 longitude: -85.8097
-score: 0.43
+score: 7.59
 snippet: Guanacaste fishing village on a calm dark-sand Pacific bay, quieter than
   nearby resort beaches
 title: Potrero

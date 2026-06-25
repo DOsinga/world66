@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_Square_(22346p).jpg
 latitude: 52.233374
 loc_type: city
 longitude: 21.071149
-score: 0.5
+score: 8.24
 snippet: Polish capital rebuilt after wartime destruction, with a reconstructed Old
   Town and layered communist-era cityscape.
 title: Warsaw

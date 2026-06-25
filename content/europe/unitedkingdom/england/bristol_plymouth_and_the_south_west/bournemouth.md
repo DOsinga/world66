@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bournemouth_-_Seafront_-_g
 latitude: 50.720151
 loc_type: city
 longitude: -1.879912
-score: 0.46
+score: 7.84
 snippet: Victorian south-coast resort town with seven miles of sand, clifftop gardens,
   and a busy student edge.
 title: Bournemouth

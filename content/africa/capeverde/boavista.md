@@ -10,7 +10,7 @@ loc_type: city
 snippet: Cape Verde island of desert flats, dune fields, and long white beaches beyond
   the resorts
 longitude: -22.800941
-score: 0.48
+score: 8.02
 sources:
 - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
 title: Boa Vista

@@ -5,7 +5,7 @@ done:
 latitude: 37.793984
 loc_type: city
 longitude: 20.899783
-score: 0.56
+score: 8.73
 title: Zakynthos City
 type: location
 snippet: Zakynthos island capital and ferry port, rebuilt after the 1953 Ionian Islands

@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:CityPlace_Live_Stage_2.JPG
 latitude: 26.715364
 loc_type: city
 longitude: -80.053294
-score: 0.42
-snippet: "Treasure Coast city opposite Palm Beach, with a walkable waterfront district and the Norton Museum of Art."
+score: 7.47
+snippet: Treasure Coast city opposite Palm Beach, with a walkable waterfront district
+  and the Norton Museum of Art.
 title: West Palm Beach
 type: location
 ---

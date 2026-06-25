@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Porrentruy
 latitude: 47.4171
 loc_type: city
 longitude: 7.0761
-score: 0.38
+score: 7.03
 snippet: Jura town in the Ajoie plain, watched over by the Prince-Bishops' Château
   de Porrentruy.
 title: Porrentruy

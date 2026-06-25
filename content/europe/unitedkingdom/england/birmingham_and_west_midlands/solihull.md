@@ -4,7 +4,7 @@ done:
 latitude: 52.413
 loc_type: city
 longitude: -1.7769
-score: 0.27
+score: 5.9
 snippet: Affluent West Midlands town with a medieval high street and easy access to
   Birmingham's major venues.
 title: Solihull

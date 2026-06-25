@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morning_in_Sanur_Beach,_Ba
 latitude: -8.683173
 loc_type: city
 longitude: 115.256463
-score: 0.59
+score: 8.94
 title: Sanur
 type: location
 snippet: Gentle Bali beach town with reef-sheltered water, a long promenade, and boats

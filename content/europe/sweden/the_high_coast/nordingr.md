@@ -11,7 +11,7 @@ loc_type: city
 snippet: High Coast church village surrounded by red granite cliffs, fishing harbours,
   and post-glacial shoreline
 longitude: 18.6227
-score: 0.43
+score: 7.58
 title: Nordingrå
 type: location
 ---

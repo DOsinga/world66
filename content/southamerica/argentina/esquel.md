@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47764477@N05/4380032847
 latitude: -42.917305
 loc_type: city
 longitude: -71.321651
-score: 0.44
+score: 7.66
 snippet: Patagonian foothill city near Los Alerces National Park, surrounded by lakes,
   rivers, and ancient alerce forest.
 title: Esquel

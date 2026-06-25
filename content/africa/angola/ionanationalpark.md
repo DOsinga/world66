@@ -15,7 +15,7 @@ sources:
 - https://mapcarta.com/19042102
 title: Iona National Park
 type: location
-score: 0.29
+score: 6.08
 snippet: Northern Namib Desert national park of red dunes, gravel plains, and Angola's
   wild Atlantic edge.
 ---

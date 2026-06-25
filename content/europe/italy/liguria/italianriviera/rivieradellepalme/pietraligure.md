@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PietraLigureLungoMare.JPG
 latitude: 44.1529
 loc_type: city
 longitude: 8.2866
-score: 0.48
+score: 8.01
 snippet: Ligurian Riviera beach town beneath la Pietra, with a medieval centre and
   sandy family resort.
 title: Pietra Ligure

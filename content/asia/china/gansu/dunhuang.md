@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dunhuang_Mingsha-shan_1995
 latitude: 40.1411
 loc_type: city
 longitude: 94.660759
-score: 0.58
+score: 8.89
 snippet: Silk Road oasis town between Gobi gravel and Kumtag dunes, famed for the
   Mogao Caves.
 title: Dunhuang

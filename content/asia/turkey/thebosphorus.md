@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bosphorus_Bridge(15_July_M
 latitude: 41.033229
 loc_type: feature
 longitude: 29.02646
-score: 0.71
+score: 9.48
 snippet: Istanbul strait dividing Europe and Asia, lined with Ottoman villas, palaces,
   ferries, and fortresses.
 title: The Bosphorus

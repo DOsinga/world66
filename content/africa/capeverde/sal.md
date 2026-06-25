@@ -6,7 +6,7 @@ done:
 latitude: 16.720456
 loc_type: city
 longitude: -22.938676
-score: 0.52
+score: 8.44
 snippet: Flat Cape Verdean island of salt flats, trade winds, resort beaches, and
   warm Atlantic water
 title: Sal

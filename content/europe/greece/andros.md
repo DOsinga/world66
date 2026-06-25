@@ -5,7 +5,7 @@ done:
 latitude: 37.840835
 loc_type: city
 longitude: 24.862382
-score: 0.51
+score: 8.32
 snippet: Green northern Cyclades island with stone footpaths, spring-fed valleys,
   Venetian dovecotes, and a cultured Chora.
 title: Andros

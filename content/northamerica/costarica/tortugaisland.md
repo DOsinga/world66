@@ -4,7 +4,7 @@ done:
 latitude: 9.5833
 loc_type: feature
 longitude: -84.9167
-score: 0.49
+score: 8.13
 snippet: Uninhabited Gulf of Nicoya island pair, visited for white-sand beaches and
   clear Pacific water.
 title: Tortuga Island

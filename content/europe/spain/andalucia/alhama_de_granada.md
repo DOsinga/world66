@@ -2,7 +2,7 @@
 latitude: 37.0083
 loc_type: city
 longitude: -3.9886
-score: 0.43
+score: 7.58
 snippet: Andalusian hill town perched above the Río Alhama gorge, with Arab baths
   fed by hot springs.
 title: Alhama de Granada

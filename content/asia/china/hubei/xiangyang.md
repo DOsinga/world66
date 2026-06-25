@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20250525_Xiangyang_Gulou.j
 latitude: 32.0654
 loc_type: city
 longitude: 112.1531
-score: 0.3
+score: 6.19
 snippet: Strategic Han River city whose walls guarded the historic corridor between
   northern and southern China.
 sources:

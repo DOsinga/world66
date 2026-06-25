@@ -5,10 +5,11 @@ done:
 latitude: 12.091893
 loc_type: city
 longitude: 75.195176
-score: 0.29
+score: 6.08
 title: Payyanur
 type: location
-snippet: Northern Kerala town between Kavvayi backwaters and Ezhimala, centred on an important Subrahmanya temple.
+snippet: Northern Kerala town between Kavvayi backwaters and Ezhimala, centred on
+  an important Subrahmanya temple.
 image: payyanur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Payyannur_Sree_Subrahmanya_swamy_Temple_Pond.jpg
 image_license: CC BY-SA 3.0

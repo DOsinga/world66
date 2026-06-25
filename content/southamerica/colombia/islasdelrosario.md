@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karibiska_havet_i_Colombia
 latitude: 10.1767
 loc_type: city
 longitude: -75.7721
-score: 0.52
+score: 8.38
 snippet: Coral island archipelago southwest of Cartagena, protected within a Colombian
   Caribbean national park.
 title: Islas del Rosario

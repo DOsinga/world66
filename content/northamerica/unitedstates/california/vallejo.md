@@ -5,7 +5,7 @@ done:
 latitude: 38.1041
 loc_type: city
 longitude: -122.2566
-score: 0.27
+score: 5.83
 snippet: Bay Area working-class city shaped by Mare Island shipyards, ferry links,
   and a brief capital past.
 sources:

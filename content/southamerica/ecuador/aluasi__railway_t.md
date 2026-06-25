@@ -5,7 +5,7 @@ done:
 latitude: -2.2005
 loc_type: city
 longitude: -78.8469
-score: 0.49
+score: 8.1
 snippet: Ecuadorian highland rail town, known for the steep Nariz del Diablo switchbacks
   below its station.
 title: Alausi

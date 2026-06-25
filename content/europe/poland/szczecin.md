@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Krzywoustego_Street_in_S
 latitude: 53.430182
 loc_type: city
 longitude: 14.550962
-score: 0.39
+score: 7.09
 snippet: Northwestern Polish port on the Oder, carrying Prussian architecture and
   a complicated Pomeranian past.
 title: Szczecin

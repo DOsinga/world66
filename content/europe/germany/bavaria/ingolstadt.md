@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ingolstadt_Altes_Rathaus_2
 latitude: 48.763016
 loc_type: city
 longitude: 11.42504
-score: 0.42
+score: 7.45
 snippet: Danube city in Upper Bavaria where Audi industry meets Gothic walls and Frankenstein
   lore.
 title: Ingolstadt

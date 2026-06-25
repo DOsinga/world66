@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B4_Ecuador_018_El_Coca,_Pu
 latitude: -0.4504
 loc_type: city
 longitude: -76.9993
-score: 0.34
+score: 6.64
 title: Coca (Puerto Francisco de Orellana)
 type: location
 snippet: Ecuadorian Amazon frontier town at the Coca-Napo confluence, gateway to downriver

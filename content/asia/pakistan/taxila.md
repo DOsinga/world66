@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dharmarajika_stupa,Taxila.
 latitude: 33.7462
 loc_type: city
 longitude: 72.8397
-score: 0.4
+score: 7.21
 snippet: Punjab archaeological city where Greek-planned streets, Buddhist monasteries,
   and ancient learning sites overlap.
 title: Taxila

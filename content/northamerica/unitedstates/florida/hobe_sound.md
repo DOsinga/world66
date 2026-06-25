@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:HobeSoundFlorida-sunset.jp
 latitude: 27.080492
 loc_type: city
 longitude: -80.139918
-score: 0.33
+score: 6.48
 snippet: Atlantic Florida community between nature reserves, protecting scrub, river
   habitat, and old coastal landscape.
 sources:

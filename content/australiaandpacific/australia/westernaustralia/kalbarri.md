@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1777_Kalbarri_National_
 latitude: -27.710999
 loc_type: city
 longitude: 114.163816
-score: 0.47
+score: 7.97
 snippet: Small Western Australia river town beside Murchison gorges and red sandstone
   cliffs on the Indian Ocean.
 title: Kalbarri

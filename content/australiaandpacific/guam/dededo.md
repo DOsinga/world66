@@ -7,7 +7,7 @@ loc_type: city
 snippet: Northern Guam village and island population centre, opening onto beaches,
   markets, and the Ritidian coast
 longitude: 144.837839
-score: 0.31
+score: 6.22
 sources:
 - https://en.wikipedia.org/wiki/Dededo,_Guam
 title: Dededo

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Covered_Wagon_In_Scotts_Bl
 latitude: 41.855579
 loc_type: city
 longitude: -103.70883
-score: 0.34
+score: 6.57
 title: Scotts Bluff
 type: location
 snippet: Nebraska Panhandle city below a sandstone bluff that marked the Oregon, California,

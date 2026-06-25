@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20250118_Kaiyuan_Temple,_Z
 latitude: 38.1461
 loc_type: city
 longitude: 114.5711
-score: 0.36
+score: 6.82
 snippet: Walled Hebei town with a dense concentration of Buddhist temples, pagodas,
   and Tang-Song sculpture
 sources:

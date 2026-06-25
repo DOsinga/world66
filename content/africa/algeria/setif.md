@@ -5,7 +5,7 @@ done:
 latitude: 36.189349
 loc_type: city
 longitude: 5.404688
-score: 0.28
+score: 5.95
 title: Setif
 type: location
 snippet: High plateau city in eastern Algeria, known for Roman Sitifis and its 1945

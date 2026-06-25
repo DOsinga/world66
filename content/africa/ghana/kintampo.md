@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:A_landscape_view_of_the_fa
 latitude: 8.053714
 loc_type: city
 longitude: -1.728919
-score: 0.27
+score: 5.9
 title: Kintampo
-snippet: Central Ghanaian town near the country's geographic centre, known for waterfalls between forest and savanna.
+snippet: Central Ghanaian town near the country's geographic centre, known for waterfalls
+  between forest and savanna.
 type: location
 ---
 

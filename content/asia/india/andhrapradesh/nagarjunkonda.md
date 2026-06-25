@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1st_to_4th_century_Mahayan
 latitude: 16.5275
 loc_type: city
 longitude: 79.2416
-score: 0.38
+score: 7.08
 snippet: Island archaeological site in Nagarjuna Sagar reservoir, preserving major
   South Indian Buddhist remains.
 title: Nagarjunakonda

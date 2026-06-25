@@ -4,8 +4,9 @@ done:
 latitude: 47.061729
 loc_type: city
 longitude: -0.880136
-score: 0.36
-snippet: "Western French city shaped by the Vendee Wars and its historic red-and-white textile industry."
+score: 6.84
+snippet: Western French city shaped by the Vendee Wars and its historic red-and-white
+  textile industry.
 title: Cholet
 type: location
 ---

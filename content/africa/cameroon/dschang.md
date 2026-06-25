@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dschang_Le_Centre_climatiq
 latitude: 5.446992
 loc_type: city
 longitude: 10.053309
-score: 0.31
+score: 6.22
 snippet: Western Cameroonian hill town with mild highland air, tea country, and a
   museum of regional kingdoms.
 title: Dschang

@@ -5,7 +5,7 @@ done:
 latitude: 39.081798
 loc_type: city
 longitude: -77.151684
-score: 0.26
+score: 5.78
 title: Rockville
 type: location
 snippet: Maryland county-seat city north of Washington, D.C., with a revived historic

@@ -2,7 +2,7 @@
 latitude: 26.6435
 loc_type: city
 longitude: 87.9833
-score: 0.25
+score: 5.68
 snippet: Eastern Nepali transit city near Kakarbhitta, set beside Jhapa's tea plantations
   and lowland bazaars.
 title: Birtamode

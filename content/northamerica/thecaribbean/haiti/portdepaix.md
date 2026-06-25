@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:US_Navy_080908-N-9774H-147
 latitude: 19.9407
 loc_type: city
 longitude: -72.8331
-score: 0.18
+score: 4.58
 snippet: North-coast Haitian port town facing Tortuga Island, founded by French buccaneers
   in the seventeenth century.
 sources:

@@ -5,9 +5,10 @@ done:
 latitude: 27.9723
 loc_type: city
 longitude: -111.0111
-score: 0.39
+score: 7.19
 title: San Carlos (Sonora)
-snippet: "Sea of Cortez beach resort where desert hills drop to blue water beneath Cerro Tetakawi."
+snippet: Sea of Cortez beach resort where desert hills drop to blue water beneath
+  Cerro Tetakawi.
 type: location
 ---
 

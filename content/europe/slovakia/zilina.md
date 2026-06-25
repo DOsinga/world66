@@ -6,7 +6,7 @@ longitude: 18.739314
 done:
   location_cleanup: 2026-04-10
   location_enrich: '2026-05-29'
-score: 0.38
+score: 7.05
 loc_type: city
 snippet: Northwestern Slovak city where the Váh and Kysuca rivers meet beneath the
   Malá Fatra mountains

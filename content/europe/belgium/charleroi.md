@@ -1,12 +1,13 @@
 ---
-snippet: "Belgian city in Wallonia with hilly streets, museums, shopping areas, and a distinctive urban atmosphere."
+snippet: Belgian city in Wallonia with hilly streets, museums, shopping areas, and
+  a distinctive urban atmosphere.
 title: Charleroi
 type: location
 latitude: 50.411623
 longitude: 4.444528
 done:
   location_cleanup: 2026-04-06
-score: 0.29
+score: 6.03
 loc_type: city
 ---
 

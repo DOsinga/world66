@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjalankosken_kaupungintal
 latitude: 60.697933
 loc_type: city
 longitude: 26.815071
-score: 0.24
+score: 5.55
 snippet: Former Kymijoki river town in southeastern Finland, now part of Kouvola and
   known for industrial heritage.
 title: Anjalankoski

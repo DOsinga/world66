@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grote_Markt,_Veurne_(DSCF9
 latitude: 51.072427
 loc_type: city
 longitude: 2.662132
-score: 0.41
+score: 7.41
 snippet: Westhoek town near the French border, centred on one of Flanders' finest
   market squares.
 title: Veurne

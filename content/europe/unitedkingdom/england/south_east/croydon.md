@@ -4,7 +4,7 @@ done:
 latitude: 51.371305
 loc_type: city
 longitude: -0.101957
-score: 0.21
+score: 4.96
 snippet: South London commercial borough with concrete towers, street art, and a growing
   food-and-culture scene.
 title: Croydon

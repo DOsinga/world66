@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_de_itaja%C3%AD.jpg
 latitude: -26.904679
 loc_type: city
 longitude: -48.655298
-score: 0.32
+score: 6.41
 title: Itajaí
 type: location
-snippet: Santa Catarina port city at the Itajaí-Açu mouth, with fishing fleets and Azorean-German traces.
+snippet: Santa Catarina port city at the Itajaí-Açu mouth, with fishing fleets and
+  Azorean-German traces.
 ---
 
 Itajaí sits at the mouth of the Itajaí-Açu river in Santa Catarina state, about 90km north of [Florianópolis](/southamerica/brazil/florianopolis). It is one of Brazil's most important fishing ports — the fleet that docks at the [port](/southamerica/brazil/itaja/port_of_itaja) is among the largest in the country — and the city's economy turns on fish, fuel wholesale trade, and a busy container port. With around 230,000 inhabitants, it punches above its weight as a regional centre, home to the UNIVALI university.

@@ -5,7 +5,7 @@ done:
 latitude: 41.4489
 loc_type: city
 longitude: -82.7079
-score: 0.34
+score: 6.65
 snippet: Lake Erie city best known for Cedar Point, with a low-key harbour and island
   ferries
 title: Sandusky

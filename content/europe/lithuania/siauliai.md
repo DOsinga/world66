@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/49399018@N00/11185063763
 latitude: 55.934082
 loc_type: city
 longitude: 23.315777
-score: 0.38
+score: 7.03
 snippet: Northern Lithuanian city and gateway to Kryžių kalnas, the defiant pilgrimage
   hill covered in crosses
 title: Siauliai

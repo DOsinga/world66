@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/56351377@N06/33765232584
 latitude: 24.249
 loc_type: city
 longitude: 55.793
-score: 0.29
+score: 6.04
 snippet: Omani oasis town beside Al Ain, sharing a borderland of forts, gardens, and
   desert trade
 title: Buraimi

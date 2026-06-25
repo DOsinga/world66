@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barking_Park.jpg
 latitude: 51.540268
 loc_type: city
 longitude: 0.079324
-score: 0.21
+score: 4.97
 snippet: East London district with abbey ruins, River Roding fishing-port history,
   and a diverse working-city feel.
 title: Barking

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Pag_sa
 latitude: 44.45
 loc_type: city
 longitude: 15.05
-score: 0.51
+score: 8.27
 snippet: North Dalmatian island of bare karst, bora winds, sheep cheese, salt pans,
   and stark Adriatic light.
 title: Pag Island

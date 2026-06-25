@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burqin,_Altay,_Xinjiang,_C
 latitude: 47.7045
 loc_type: city
 longitude: 86.8752
-score: 0.38
+score: 7.03
 snippet: Northern Xinjiang service town near the Irtysh River, gateway to Kanas, Hemu,
   and Altay mountain valleys.
 sources:

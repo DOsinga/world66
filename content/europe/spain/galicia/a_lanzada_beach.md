@@ -4,7 +4,7 @@ done:
 latitude: 42.4469
 loc_type: feature
 longitude: -8.876
-score: 0.41
+score: 7.32
 snippet: Galician Atlantic beach with white sand, surf, and a Romanesque hermitage
   at one end
 title: A Lanzada

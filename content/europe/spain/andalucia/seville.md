@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Eventail_chinois_asym%C3%A
 latitude: 37.38863
 loc_type: city
 longitude: -5.99534
-score: 0.73
+score: 9.53
 title: Seville
 type: location
-snippet: Andalusian capital on the Guadalquivir, known for its cathedral, Alcázar, flamenco, and orange-lined streets.
+snippet: Andalusian capital on the Guadalquivir, known for its cathedral, Alcázar,
+  flamenco, and orange-lined streets.
 ---
 
 Seville is the capital of Andalucía and the most purely, exuberantly Andalucían city in Spain. Where Barcelona is cosmopolitan and Madrid is national, Seville is intensely local — obsessed with its own traditions, its own rhythms, and its own calendar. Flamenco was born here. The April Fair, the most famous feria in Spain, happens here. Semana Santa transforms the streets every spring into the most theatrical religious event in Europe. If you want to understand what makes southern Spain different from the rest of the country, this is where to come.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2004-JLU_Gie%C3%9Fen_Siche
 latitude: 50.58088
 loc_type: city
 longitude: 8.693816
-score: 0.31
+score: 6.28
 snippet: Hessian university city on the Lahn, with surviving old buildings and a strong
   student character
 title: Giessen

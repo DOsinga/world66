@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Tam_Gia
 latitude: 16.373383
 loc_type: feature
 longitude: 107.876348
-score: 0.47
+score: 7.97
 snippet: Tam Giang Lagoon is Vietnam’s largest lagoon system, a working landscape
   of fishing boats and brackish waters.
 sources:

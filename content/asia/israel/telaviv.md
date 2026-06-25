@@ -9,9 +9,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Sarona_CBD_01_(cropped).jpg
 latitude: 32.0853
 loc_type: city
-snippet: Secular Israeli beach city of Bauhaus streets, late-night cafes, and the old port of Jaffa.
+snippet: Secular Israeli beach city of Bauhaus streets, late-night cafes, and the
+  old port of Jaffa.
 longitude: 34.7818
-score: 0.57
+score: 8.82
 title: Tel Aviv
 type: location
 ---

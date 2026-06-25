@@ -2,7 +2,7 @@
 latitude: 17.8988
 loc_type: city
 longitude: -62.8508
-score: 0.63
+score: 9.18
 snippet: Small French Caribbean island of steep hills, Gustavia harbour, expensive
   restaurants, and white-sand beaches.
 title: Saint Barthélemy

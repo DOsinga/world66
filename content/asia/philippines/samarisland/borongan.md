@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borongan_City_Sunrise.JPG
 latitude: 11.608
 loc_type: city
 longitude: 125.4322
-score: 0.32
+score: 6.36
 snippet: Eastern Samar capital on the Pacific coast, with grey-sand beaches and access
   to rugged interior caves.
 sources:

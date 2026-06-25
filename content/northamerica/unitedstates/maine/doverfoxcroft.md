@@ -5,7 +5,7 @@ done:
 latitude: 45.1835
 loc_type: city
 longitude: -69.2276
-score: 0.3
+score: 6.19
 snippet: Maine river town and practical gateway to Moosehead Lake and the North Woods.
 title: Dover-Foxcroft
 type: location

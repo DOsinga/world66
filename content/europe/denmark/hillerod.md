@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Frederiksborg_Castle_from_
 latitude: 55.9286
 loc_type: city
 longitude: 12.3064
-score: 0.46
+score: 7.9
 snippet: North Zealand market town best known for Frederiksborg Castle and its lakeside
   royal setting.
 title: Hillerød

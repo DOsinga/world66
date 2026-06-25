@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karachi_-_Pakistan-market.
 latitude: 24.854684
 loc_type: city
 longitude: 67.020706
-score: 0.22
+score: 5.26
 snippet: Pakistani port metropolis on the Arabian Sea, full of colonial landmarks,
   beaches, and commercial energy
 title: Karachi

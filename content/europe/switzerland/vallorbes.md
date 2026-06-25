@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Orbe_@_Vallorbe_01.jpg
 latitude: 46.717
 loc_type: city
 longitude: 6.3783
-score: 0.37
+score: 6.93
 snippet: Jura border town on the Swiss-French rail route, known for its disguised
   mountain fortress.
 sources:

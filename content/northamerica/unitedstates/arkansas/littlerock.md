@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arkansas_State_Capitol_1.j
 latitude: 34.746507
 loc_type: city
 longitude: -92.289627
-score: 0.32
+score: 6.32
 snippet: Arkansas capital on the Arkansas River, with civil-rights history and a revived
   riverfront district.
 title: Little Rock

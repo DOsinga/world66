@@ -5,7 +5,7 @@ done:
 latitude: -19.868431
 loc_type: city
 longitude: -157.69795
-score: 0.36
+score: 6.83
 snippet: Small southern Cook Islands island, ringed by makatea limestone around a
   fertile taro-swamp interior
 sources:

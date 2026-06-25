@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cup_mark,_Gobustan_01.jpg
 latitude: 40.082678
 loc_type: city
 longitude: 49.412082
-score: 0.44
+score: 7.71
 snippet: Caspian-side town known for dense prehistoric petroglyphs and mud volcanoes
   southwest of Baku
 title: Gobustan

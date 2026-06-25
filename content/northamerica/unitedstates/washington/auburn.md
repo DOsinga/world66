@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-05-21'
 latitude: 47.3073
 longitude: -122.2285
-snippet: Green River Valley city between Seattle and Tacoma, known for Emerald Downs and Cascade foothill access.
+snippet: Green River Valley city between Seattle and Tacoma, known for Emerald Downs
+  and Cascade foothill access.
 title: Auburn
 type: location
-score: 0.26
+score: 5.71
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Auburn,_Washington

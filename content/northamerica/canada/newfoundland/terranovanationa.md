@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Terra_Nova_National_Park,_
 latitude: 48.5306
 loc_type: feature
 longitude: -53.9281
-score: 0.47
+score: 7.29
 snippet: Newfoundland east-coast park of sheltered sounds, boreal forest, ponds, and
   gentle coastal trails.
 sources:

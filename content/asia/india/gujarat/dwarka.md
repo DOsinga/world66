@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guj21_Dwarka_Lighthouse_an
 latitude: 22.2442
 loc_type: city
 longitude: 68.9685
-score: 0.43
+score: 7.52
 snippet: Arabian Sea pilgrimage town where Krishna devotion centres on Dwarkadhish
   Temple and Gomti ghats.
 sources:

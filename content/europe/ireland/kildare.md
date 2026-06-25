@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Japanese_Gardens,_Tully,_C
 latitude: 53.156847
 loc_type: city
 longitude: -6.91172
-score: 0.43
+score: 7.63
 snippet: Irish county west of Dublin, defined by Curragh grassland and thoroughbred
   horse country.
 sources:

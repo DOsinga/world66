@@ -4,7 +4,7 @@ done:
 latitude: 34.094027
 loc_type: feature
 longitude: 71.144142
-score: 0.35
+score: 6.65
 snippet: Storied mountain pass between Peshawar and Afghanistan, long used by armies,
   traders, and pilgrims.
 title: Khyber Pass

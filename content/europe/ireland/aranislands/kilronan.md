@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilronan_aerial_view.jpg
 latitude: 53.120215
 loc_type: city
 longitude: -9.669452
-score: 0.52
+score: 8.39
 title: Kilronan
 type: location
 snippet: Inis Mór harbour village and ferry landing, the main base for exploring the

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HC
 latitude: 48.7596
 loc_type: feature
 longitude: -113.787
-score: 0.68
+score: 9.41
 snippet: Northern Montana national park of jagged peaks, glacier-carved lakes, and
   the Going-to-the-Sun Road
 title: Glacier National Park

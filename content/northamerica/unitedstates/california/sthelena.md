@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Helena_Catholic_Church
 latitude: 38.5052
 loc_type: city
 longitude: -122.47
-score: 0.43
+score: 7.59
 snippet: Napa Valley wine town of independent Main Street businesses and vineyards
   along Highway 29.
 title: St. Helena

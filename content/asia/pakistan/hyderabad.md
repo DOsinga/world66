@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PK_Hyderabad_asv2020-02_im
 latitude: 25.3869
 loc_type: city
 longitude: 68.3715
-score: 0.23
+score: 5.35
 snippet: Sindh’s second city on the Indus, with old-city forts and rooftop badgir
   wind towers.
 title: Hyderabad

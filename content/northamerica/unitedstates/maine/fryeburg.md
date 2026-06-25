@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/12357841@N02/9827806115
 latitude: 44.0165
 loc_type: city
 longitude: -70.9811
-score: 0.37
+score: 6.91
 snippet: Saco River valley town on Maine's western edge, known for New England's largest
   agricultural fair
 title: Fryeburg

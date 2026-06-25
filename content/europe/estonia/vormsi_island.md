@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vormsi-tuulimylly.jpg
 latitude: 59.0045
 loc_type: city
 longitude: 23.2488
-score: 0.39
+score: 7.15
 title: Vormsi Island
 type: location
 snippet: Quiet Estonian island shaped by Swedish heritage, forest roads, and distinctive

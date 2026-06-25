@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altare_old.jpg
 latitude: 44.336
 loc_type: city
 longitude: 8.3399
-score: 0.33
+score: 6.55
 title: Altare
 type: location
 snippet: Small Ligurian Apennine town above Savona, historically known for glassmaking

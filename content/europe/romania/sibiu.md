@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hermannstadt_Romania,_the_
 latitude: 45.7974
 loc_type: city
 longitude: 24.1519
-score: 0.55
+score: 8.65
 snippet: Transylvanian medieval city founded by Saxon settlers, with fortified walls
   and three old-town squares.
 title: Sibiu

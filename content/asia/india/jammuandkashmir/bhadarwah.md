@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bhadarwah.jpg
 latitude: 32.978
 loc_type: city
 longitude: 75.718
-score: 0.34
+score: 6.63
 snippet: Mountain town in Jammu's Bhadarwah valley, ringed by deodar forests, alpine
   meadows, springs, and Kailash views.
 title: Bhadarwah

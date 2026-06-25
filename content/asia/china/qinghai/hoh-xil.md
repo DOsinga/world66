@@ -11,9 +11,10 @@ longitude: 91.5
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Hoh Xil
-snippet: High Qinghai plateau wilderness where Tibetan antelope migrate across one of Asia's most remote landscapes.
+snippet: High Qinghai plateau wilderness where Tibetan antelope migrate across one
+  of Asia's most remote landscapes.
 type: location
-score: 0.36
+score: 6.8
 ---
 
 Hoh Xil — also written Kekexili — is the largest and highest plateau in the world outside Antarctica, a UNESCO World Heritage Site covering approximately 45,000 square kilometres of northwestern Qinghai at altitudes between 4,500 and 6,000 metres. It is one of the last great wilderness areas on earth: virtually uninhabited by humans, extraordinarily rich in wildlife, and so remote and hostile that most of it has never been properly surveyed.

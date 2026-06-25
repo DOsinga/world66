@@ -5,7 +5,7 @@ done:
 latitude: 49.859309
 loc_type: city
 longitude: 6.767826
-score: 0.27
+score: 5.83
 snippet: Mosel wine village near Trier, set among vineyards and anchored by Schloss
   Föhren.
 title: Föhren

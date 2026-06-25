@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Qingyuan_City_Xiaoshi_Skyl
 latitude: 23.8167
 loc_type: city
 longitude: 113.0333
-score: 0.34
+score: 6.57
 snippet: North Guangdong valley city known locally for free-range chicken and mountain
   water-slide parks.
 sources:

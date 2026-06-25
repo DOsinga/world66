@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_Los_Morrillos_en_Cabo
 latitude: 18.0868
 loc_type: city
 longitude: -67.1497
-score: 0.5
+score: 8.22
 snippet: Southwestern Puerto Rican coastal town of salt flats, mangroves, sea cliffs,
   and a lonely lighthouse
 sources:

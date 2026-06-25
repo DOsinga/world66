@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 38.8404
 longitude: -105.044
-score: 0.55
+score: 8.64
 snippet: Colorado fourteener above Colorado Springs, reachable by highway or cog railway
   to wide summit views
 title: Pikes Peak

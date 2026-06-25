@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gemeentehuis_Bloemendaal_i
 latitude: 52.374292
 loc_type: city
 longitude: 4.591535
-score: 0.39
+score: 7.13
 snippet: North Holland coastal municipality known for dunes, Bloemendaal aan Zee,
   and lively beach clubs.
 title: Bloemendaal

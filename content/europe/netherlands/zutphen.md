@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zutphen,_Walburgkerk_met_s
 latitude: 52.1387
 loc_type: city
 longitude: 6.1952
-score: 0.42
+score: 7.52
 snippet: Hanseatic town on the IJssel, with cobbled streets, Gothic churches, medieval
   towers, and merchant houses.
 sources:

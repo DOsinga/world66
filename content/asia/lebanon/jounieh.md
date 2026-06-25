@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jounieh_Lebanon.jpg
 latitude: 33.9742
 loc_type: city
 longitude: 35.6201
-score: 0.43
+score: 7.56
 snippet: Lebanese resort town on a crescent bay, known for beach clubs, casinos, and
   the Harissa cable car
 sources:

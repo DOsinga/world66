@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontarrabie_depuis_Hendaye
 latitude: 43.364152
 loc_type: city
 longitude: -1.76165
-score: 0.43
+score: 7.57
 title: Hendaye
-snippet: French Basque border town with a long sheltered beach at the mouth of the Bidasoa River.
+snippet: French Basque border town with a long sheltered beach at the mouth of the
+  Bidasoa River.
 type: location
 ---
 

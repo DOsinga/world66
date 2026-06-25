@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg
 latitude: 43.088
 loc_type: city
 longitude: -79.0569
-score: 0.64
+score: 9.26
 snippet: New York city beside Niagara Falls, where massive cataracts drop 57 metres
   on the Canadian border.
 sources:

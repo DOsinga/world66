@@ -5,7 +5,7 @@ done:
 latitude: -14.3325
 loc_type: city
 longitude: -75.499722
-score: 0.47
+score: 7.95
 snippet: Peruvian desert city at the heart of pisco country, near dunes, bodegas,
   and ancient cemeteries
 title: Ica

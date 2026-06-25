@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Chenonceau
 latitude: 47.3249
 loc_type: city
 longitude: 1.0705
-score: 0.62
+score: 9.15
 snippet: Loire Valley château spanning the River Cher, famous for its arches and history
   of powerful women.
 title: Chenonceau

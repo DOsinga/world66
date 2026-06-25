@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:TOUR_SOLIDARIO_-_MANAB%C3%
 latitude: -0.38281
 loc_type: city
 longitude: -80.07216
-score: 0.28
+score: 5.97
 snippet: Manabí agricultural city in the Río Chone valley, associated with cacao,
   cattle, and nearby mangroves.
 sources:

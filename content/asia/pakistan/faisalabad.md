@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-05-21'
 latitude: 31.422
 longitude: 73.0923
-score: 0.22
+score: 5.09
 title: Faisalabad
 type: location
 loc_type: city

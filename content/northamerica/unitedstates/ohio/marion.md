@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Harding_Memorial,_Marion,_
 latitude: 40.587682
 loc_type: city
 longitude: -83.128983
-score: 0.25
+score: 5.64
 snippet: Central Ohio city tied to Warren G. Harding, with presidential sites and
   oddball historic curiosities
 title: Marion

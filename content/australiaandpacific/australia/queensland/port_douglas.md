@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_douglas_qld_australia
 latitude: -16.484598
 loc_type: city
 longitude: 145.463629
-score: 0.55
+score: 8.67
 snippet: Relaxed Coral Sea resort town between Four Mile Beach, rainforest drives,
   and Great Barrier Reef trips.
 sources:

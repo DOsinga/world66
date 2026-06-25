@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monte_Circeo_e_Villa_Volpi
 latitude: 41.3014
 loc_type: city
 longitude: 13.0261
-score: 0.43
+score: 7.62
 snippet: Tyrrhenian planned town built from reclaimed Pontine Marshes, with striking
   Italian rationalist architecture
 sources:

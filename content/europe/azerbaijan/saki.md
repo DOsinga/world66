@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.1994
 longitude: 47.1706
-score: 0.47
+score: 8.0
 snippet: Caucasus foothills town on Azerbaijan's Silk Road, noted for the 18th-century
   Khan's Palace.
 ---

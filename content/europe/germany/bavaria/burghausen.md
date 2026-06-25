@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Burghausen
 latitude: 48.1667
 loc_type: city
 longitude: 12.8333
-score: 0.51
+score: 8.28
 snippet: Bavarian border town above the Salzach, defined by Europe's longest castle
   ridge and a squeezed old town
 sources:

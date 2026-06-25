@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chokak_Bath_and_Javad_khan
 latitude: 40.679808
 loc_type: city
 longitude: 46.359718
-score: 0.33
+score: 6.55
 snippet: Western Azerbaijani city in a fertile valley, layered with Persian, Russian,
   and independence history
 sources:

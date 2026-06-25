@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-06-04'
 latitude: 9.467466
 longitude: 98.830042
-snippet: "Gulf of Thailand provincial capital used as the main ferry gateway to Samui, Pha-Ngan, and Tao."
+snippet: Gulf of Thailand provincial capital used as the main ferry gateway to Samui,
+  Pha-Ngan, and Tao.
 title: Surat Thani
 type: location
-score: 0.42
+score: 7.45
 loc_type: city
 ---
 

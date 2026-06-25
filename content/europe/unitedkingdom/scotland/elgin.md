@@ -7,7 +7,7 @@ done:
 latitude: 57.6488
 loc_type: city
 longitude: -3.3148
-score: 0.4
+score: 7.27
 snippet: Moray market town with a ruined medieval cathedral and Speyside whisky distilleries
   close at hand
 title: Elgin

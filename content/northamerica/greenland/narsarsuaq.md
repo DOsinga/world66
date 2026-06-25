@@ -2,8 +2,9 @@
 latitude: 61.16
 loc_type: city
 longitude: -45.42
-score: 0.38
-snippet: South Greenland airport settlement on Tunulliarfik fjord, gateway to Norse ruins and glacier country.
+score: 7.08
+snippet: South Greenland airport settlement on Tunulliarfik fjord, gateway to Norse
+  ruins and glacier country.
 title: Narsarsuaq
 type: location
 ---

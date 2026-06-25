@@ -5,7 +5,7 @@ done:
 latitude: 32.4607
 loc_type: city
 longitude: 35.3003
-score: 0.17
+score: 4.4
 snippet: Northern West Bank city set among olive groves, markets, refugee-camp theatre,
   and fertile farmland.
 title: Jenin

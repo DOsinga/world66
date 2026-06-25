@@ -5,7 +5,7 @@ done:
 latitude: -41.1796
 loc_type: city
 longitude: 146.3513
-score: 0.38
+score: 7.07
 snippet: Tasmanian north-coast port city and Spirit of Tasmania ferry terminus, with
   Mersey Bluff nearby.
 title: Devonport

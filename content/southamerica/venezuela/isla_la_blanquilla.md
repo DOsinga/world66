@@ -4,7 +4,7 @@ done:
 latitude: 11.85
 loc_type: feature
 longitude: -64.6167
-score: 0.33
+score: 6.46
 snippet: Remote uninhabited Venezuelan island of white beaches, shallow reefs, and
   clear Caribbean water.
 title: Isla la Blanquilla

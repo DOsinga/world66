@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Martyrium_(Tipasa)_01.jpg
 latitude: 36.5899
 loc_type: feature
 longitude: 2.4484
-score: 0.44
+score: 7.7
 snippet: Mediterranean archaeological town where Punic, Roman, and early Christian
   ruins stand above the sea.
 title: Tipasa

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PinedaleWyoming.jpg
 latitude: 42.8667
 loc_type: city
 longitude: -109.892
-score: 0.37
+score: 6.86
 snippet: Wyoming ranching town at the Wind River Range, with mountain-man history
   and deep backcountry access.
 title: Pinedale

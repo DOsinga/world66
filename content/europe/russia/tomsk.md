@@ -5,7 +5,7 @@ done:
 latitude: 56.4847
 loc_type: city
 longitude: 84.9482
-score: 0.33
+score: 6.53
 title: Tomsk
 type: location
 snippet: Siberian university city on the Tom River, known for its ornate wooden houses.

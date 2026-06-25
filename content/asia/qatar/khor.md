@@ -5,7 +5,7 @@ done:
 latitude: 25.652134
 loc_type: city
 longitude: 51.487806
-score: 0.27
+score: 5.91
 snippet: Desert inlet in southeastern Qatar, where Gulf waters reach inland between
   high sand dunes
 title: Khor

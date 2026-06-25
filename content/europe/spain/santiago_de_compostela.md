@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santiago_Cathedral_2021_-_
 latitude: 42.880422
 loc_type: city
 longitude: -8.545861
-score: 0.64
+score: 9.25
 snippet: Galician pilgrimage city where the Camino de Santiago ends at a cathedral
   above the Apostle James's tomb.
 title: Santiago de Compostela

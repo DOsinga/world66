@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agadez-Niger.jpg
 latitude: 16.972556
 loc_type: city
 longitude: 7.990739
-score: 0.31
+score: 6.29
 snippet: Nigerien Saharan crossroads city, with a mud-brick old town shaped by Tuareg,
   Hausa, and Fulani cultures
 sources:

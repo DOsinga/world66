@@ -9,9 +9,10 @@ image_attribution: Kokobush
 latitude: 18.465801
 loc_type: city
 longitude: -97.397835
-score: 0.33
+score: 6.45
 title: Tehuacan
-snippet: Puebla valley city known for mineral water and the cactus-rich Tehuacán-Cuicatlán landscape.
+snippet: Puebla valley city known for mineral water and the cactus-rich Tehuacán-Cuicatlán
+  landscape.
 type: location
 ---
 

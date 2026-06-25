@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Firopotamos_%CE%A6%CF%85%C
 latitude: 36.709344
 loc_type: city
 longitude: 24.506834
-score: 0.66
+score: 9.37
 snippet: Volcanic Cycladic island of white pumice coastlines, sea caves, hot springs,
   and the Venus de Milo.
 title: Milos

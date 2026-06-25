@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Coastline_near_Warsash,_Ha
 latitude: 50.8547
 loc_type: city
 longitude: -1.2989
-score: 0.27
+score: 5.87
 title: Warsash
-snippet: River Hamble sailing village with maritime training, mudflats, and a foot ferry to Hamble-le-Rice.
+snippet: River Hamble sailing village with maritime training, mudflats, and a foot
+  ferry to Hamble-le-Rice.
 type: location
 ---
 

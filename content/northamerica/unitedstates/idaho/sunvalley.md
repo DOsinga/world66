@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldmountainid.jpg
 latitude: 43.696215
 loc_type: city
 longitude: -114.353097
-score: 0.49
+score: 8.17
 snippet: Central Idaho ski resort built around Bald Mountain, opened as America's
   first destination ski resort in 1936
 title: Sun Valley

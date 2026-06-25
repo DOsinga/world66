@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wenzhou-city-in-Zhejiang-C
 latitude: 27.99639
 loc_type: city
 longitude: 120.695345
-score: 0.31
+score: 6.23
 snippet: Zhejiang manufacturing city on the Ou River, known for private enterprise,
   spectacles, shoes, and mountain scenery.
 title: Wenzhou

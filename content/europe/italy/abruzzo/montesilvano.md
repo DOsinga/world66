@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Montesilvano,_Abruzzo,_Ita
 latitude: 42.514167
 loc_type: city
 longitude: 14.149444
-score: 0.37
+score: 6.9
 snippet: Adriatic beach town north of Pescara, with broad sand and a flat coastal
   road.
 sources:

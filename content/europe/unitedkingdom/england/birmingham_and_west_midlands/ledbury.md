@@ -4,7 +4,7 @@ done:
 latitude: 52.035746
 loc_type: city
 longitude: -2.428782
-score: 0.39
+score: 7.15
 snippet: Herefordshire market town with timber-framed streets, a 17th-century Market
   House, and strong literary connections.
 title: Ledbury

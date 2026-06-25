@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalamata,_Peloponnese,_Gre
 latitude: 37.037271
 loc_type: city
 longitude: 22.110707
-score: 0.53
+score: 8.47
 snippet: Peloponnese city and Messenian capital whose surrounding plain gives its
   name to Kalamata olives
 title: Kalamata

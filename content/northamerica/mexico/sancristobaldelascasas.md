@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:InsideRosaliaSanCris.JPG
 latitude: 16.7383
 loc_type: city
 longitude: -92.6368
-score: 0.55
+score: 8.66
 snippet: Cool Chiapas highland city of colonial streets, indigenous villages, and
   enduring Zapatista political memory
 sources:

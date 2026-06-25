@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Concord_Pacific_Master_Pla
 latitude: 49.260872
 loc_type: city
 longitude: -123.113952
-score: 0.66
+score: 9.37
 snippet: Pacific port city where dense downtown neighbourhoods sit between Coast Mountains,
   forest, and saltwater.
 title: Vancouver

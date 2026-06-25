@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 49.197377
 longitude: 20.070717
-score: 0.56
+score: 8.72
 snippet: Tatra mountain lake below granite peaks, reached by a long forest road from
   Zakopane.
 tags:

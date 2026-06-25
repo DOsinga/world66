@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Ives_,_St_Ives_Harbour_
 latitude: 50.214906
 loc_type: city
 longitude: -5.479508
-score: 0.56
+score: 8.75
 snippet: Cornish seaside artists' town, known for Atlantic light, Tate St Ives, and
   Porthmeor beach.
 title: St Ives

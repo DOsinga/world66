@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Athlone_-_SS_Peter_and_Pau
 latitude: 53.4228
 loc_type: city
 longitude: -7.9407
-score: 0.44
+score: 7.68
 title: Athlone
 type: location
 snippet: Irish Shannon crossing town in the country's middle, with a castle and market-town

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kenya-Tealand-Near-Kericho
 latitude: -0.320997
 loc_type: city
 longitude: 35.226128
-score: 0.35
+score: 6.75
 snippet: Western Rift Valley tea town surrounded by rolling green plantations and
   cool, wet highland country
 title: Kericho

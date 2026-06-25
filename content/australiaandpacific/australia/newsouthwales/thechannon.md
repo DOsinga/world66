@@ -11,7 +11,7 @@ image: thechannon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Channon_Markets.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Staceynyx
-score: 0.35
+score: 6.7
 snippet: Northern Rivers village in the Nightcap foothills, known for its long-running
   alternative craft market.
 ---

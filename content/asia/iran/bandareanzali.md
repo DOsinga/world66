@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anzali_3710.jpg
 latitude: 37.471636
 loc_type: city
 longitude: 49.46859
-score: 0.32
+score: 6.36
 snippet: Caspian Sea port city between the coast and Anzali Lagoon, Iran's misty wetland
   edge.
 title: Bandar-e Anzali

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Billy_the_Kid_Trail_-_Down
 latitude: 33.3316
 loc_type: city
 longitude: -105.6731
-score: 0.42
+score: 7.45
 snippet: Southern New Mexico mountain resort in the Sacramento Mountains, edged by
   Lincoln National Forest.
 title: Ruidoso

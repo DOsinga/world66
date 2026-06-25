@@ -5,7 +5,7 @@ done:
 latitude: 32.440827
 loc_type: city
 longitude: 3.561821
-score: 0.37
+score: 6.94
 title: Ghardaia
 type: location
 snippet: Northern Saharan city anchoring the M'zab Valley's fortified Mozabite ksour

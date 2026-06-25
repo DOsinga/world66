@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerea_estany_de_banyoles.p
 latitude: 42.118048
 loc_type: city
 longitude: 2.765361
-score: 0.44
+score: 7.68
 snippet: Catalan lake town between the Costa Brava and Pyrenees, known for rowing
   and karst-fed waters.
 title: Banyoles

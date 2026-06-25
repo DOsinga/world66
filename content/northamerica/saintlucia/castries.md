@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146878425@N05/49431182128
 latitude: 14.0101
 loc_type: city
 longitude: -60.9875
-score: 0.52
+score: 8.43
 snippet: Saint Lucian capital and main port, set around a natural harbour below green
   northern hills.
 title: Castries

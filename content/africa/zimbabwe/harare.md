@@ -7,7 +7,7 @@ done:
 latitude: -17.856703
 loc_type: city
 longitude: 31.060158
-score: 0.32
+score: 6.36
 snippet: Highland capital of Zimbabwe, with jacaranda avenues, Shona sculpture, and
   central-plateau ease.
 title: Harare

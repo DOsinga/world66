@@ -5,9 +5,10 @@ done:
   location_enrich: '2026-05-27'
 latitude: 5.8242
 longitude: -55.1561
-score: 0.43
+score: 7.54
 title: Paramaribo
-snippet: Tropical Dutch colonial capital where wooden houses, riverfront forts, and Suriname's cultures meet.
+snippet: Tropical Dutch colonial capital where wooden houses, riverfront forts, and
+  Suriname's cultures meet.
 type: location
 loc_type: city
 image: paramaribo.jpg

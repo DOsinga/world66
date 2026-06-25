@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Gisborne_nz_2.jpg
 latitude: -38.661326
 loc_type: city
 longitude: 178.020649
-score: 0.43
+score: 7.52
 title: Gisborne
-snippet: East Coast New Zealand city known for early sunrise, surf beaches, and Chardonnay vineyards.
+snippet: East Coast New Zealand city known for early sunrise, surf beaches, and Chardonnay
+  vineyards.
 type: location
 ---
 

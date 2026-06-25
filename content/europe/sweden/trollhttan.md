@@ -4,7 +4,7 @@ done:
 latitude: 58.282793
 loc_type: city
 longitude: 12.290861
-score: 0.37
+score: 6.94
 snippet: Göta River industrial town shaped by waterfalls, canal locks, hydropower,
   and Sweden's film studios
 title: Trollhättan

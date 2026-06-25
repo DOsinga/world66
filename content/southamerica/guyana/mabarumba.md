@@ -5,7 +5,7 @@ done:
 latitude: 8.2
 loc_type: city
 longitude: -59.783
-score: 0.22
+score: 5.18
 snippet: Northwestern Guyanese regional centre near Venezuela, surrounded by rainforest,
   rivers, and Indigenous villages.
 title: Mabaruma

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muelle_Port,_Puerto_Galera
 latitude: 13.50171
 loc_type: city
 longitude: 120.954335
-score: 0.54
+score: 8.56
 snippet: Mindoro harbour town and coastal resort area, known for sheltered bays and
   nearby dive sites.
 sources:

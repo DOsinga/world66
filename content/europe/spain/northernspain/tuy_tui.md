@@ -5,7 +5,7 @@ done:
 latitude: 42.050137
 loc_type: city
 longitude: -8.646641
-score: 0.43
+score: 7.57
 snippet: Galician border town above the Miño, anchored by a fortified cathedral and
   Eiffel-built bridge to Portugal.
 title: Tuy [Tui]

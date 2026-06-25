@@ -2,7 +2,7 @@
 latitude: 57.5048
 loc_type: city
 longitude: -1.7833
-score: 0.33
+score: 6.43
 snippet: Working Aberdeenshire fishing port of pink granite streets and long Buchan
   coast beaches.
 title: Peterhead

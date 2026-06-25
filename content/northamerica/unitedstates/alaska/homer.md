@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/66741228@N05/49387434756
 latitude: 59.6454
 loc_type: city
 longitude: -151.5446
-score: 0.48
+score: 8.05
 snippet: Kenai Peninsula fishing town on Kachemak Bay, with a bohemian arts scene
   and working Spit.
 title: Homer

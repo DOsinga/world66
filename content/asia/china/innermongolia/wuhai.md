@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haibowan,_Wuhai,_Inner_Mon
 latitude: 39.6708
 loc_type: city
 longitude: 106.8114
-score: 0.25
+score: 5.63
 snippet: Inner Mongolian desert city where the Yellow River cuts through Gobi-edge
   vineyards and reservoir scenery
 sources:

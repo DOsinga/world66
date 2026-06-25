@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Former_Residence_of_Li_Hon
 latitude: 31.8667
 loc_type: city
 longitude: 117.2833
-score: 0.3
+score: 6.15
 snippet: Anhui provincial capital with fast-growing urban scale and useful access
   to the province's wider sights.
 sources:

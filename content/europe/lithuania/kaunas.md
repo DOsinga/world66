@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kauno_senamiestis_by_Augus
 latitude: 54.8985
 loc_type: city
 longitude: 23.9036
-score: 0.41
+score: 7.35
 title: Kaunas
 type: location
 snippet: Lithuania's second city, known for interwar modernist architecture and its

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lord_Shiva_statue_at_Murud
 latitude: 14.094361
 loc_type: city
 longitude: 74.482261
-score: 0.44
+score: 7.7
 snippet: Arabian Sea temple town dominated by a giant Shiva statue and the coastal
   Konkan Railway.
 title: Murudeshwar

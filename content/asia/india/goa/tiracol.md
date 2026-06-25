@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Terekhol_Church.JPG
 latitude: 15.724101
 loc_type: city
 longitude: 73.688732
-score: 0.43
+score: 7.53
 title: Tiracol
 type: location
 snippet: Quiet North Goa enclave separated by river, with a Portuguese fort above

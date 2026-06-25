@@ -7,9 +7,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Weaverville_Joss_House_State_Historic_Park.jpg
 latitude: 40.743375
 loc_type: city
-snippet: Trinity Alps mining town with a preserved Gold Rush centre and California's oldest operating Chinese temple.
+snippet: Trinity Alps mining town with a preserved Gold Rush centre and California's
+  oldest operating Chinese temple.
 longitude: -122.928237
-score: 0.29
+score: 6.08
 sources:
 - https://en.wikipedia.org/wiki/Weaverville,_California
 - https://en.wikipedia.org/wiki/Weaverville_Joss_House_State_Historic_Park

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Combe_Martin_Panorama.jpeg
 latitude: 51.2032
 loc_type: city
 longitude: -4.006
-score: 0.41
+score: 7.37
 snippet: Exmoor coastal village with a sheltered beach, long valley setting, and the
   unusual Pack o' Cards inn.
 title: Combe Martin

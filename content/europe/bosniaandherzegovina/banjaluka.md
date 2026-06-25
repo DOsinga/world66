@@ -4,7 +4,7 @@ done:
 latitude: 44.773
 loc_type: city
 longitude: 17.196
-score: 0.4
+score: 7.24
 snippet: Riverside Bosnian city on the Vrbas, with Ottoman, Orthodox, and Habsburg
   landmarks close together.
 title: Banja Luka

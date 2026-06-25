@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_st_hudson_oh.jpg
 latitude: 41.24
 loc_type: city
 longitude: -81.4408
-score: 0.27
+score: 5.84
 snippet: Western Reserve town between Akron and Cleveland, anchored by a New England-style
   historic district.
 title: Hudson

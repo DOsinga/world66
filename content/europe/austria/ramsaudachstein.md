@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ramsau_am_Dachstein,_Schla
 latitude: 47.443109
 loc_type: city
 longitude: 13.619276
-score: 0.57
+score: 8.79
 snippet: Styrian Alpine village on a sunny plateau below the Dachstein glacier, strong
   on cross-country skiing.
 title: Ramsau / Dachstein

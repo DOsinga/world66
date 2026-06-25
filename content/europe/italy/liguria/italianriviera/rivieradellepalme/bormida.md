@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_di_Bormida_e_de
 latitude: 44.278261
 loc_type: city
 longitude: 8.234199
-score: 0.37
+score: 6.91
 snippet: Ligurian hinterland commune in the Bormida di Pallare valley, with churches
   and pallone elastico traditions
 title: Bormida

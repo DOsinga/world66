@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Oakville_20
 latitude: 43.447436
 loc_type: city
 longitude: -79.666672
-score: 0.33
+score: 6.52
 snippet: Prosperous Lake Ontario town with a historic harbour, Georgian buildings,
   and easy links to Toronto.
 sources:

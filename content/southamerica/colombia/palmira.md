@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Palmira,_
 latitude: 3.530837
 loc_type: city
 longitude: -76.298805
-score: 0.29
+score: 6.06
 snippet: Valle del Cauca city in sugar-cane country, known as Colombia's agricultural
   capital.
 title: Palmira

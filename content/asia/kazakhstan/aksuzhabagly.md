@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Aksu_Jabagly_2.JPG
 latitude: 42.3075
 loc_type: city
 longitude: 70.6346
-score: 0.37
+score: 6.87
 title: Aksu-Zhabagly
-snippet: Nature reserve in southern Kazakhstan, protecting Western Tien Shan wildlife and wild tulips since 1926.
+snippet: Nature reserve in southern Kazakhstan, protecting Western Tien Shan wildlife
+  and wild tulips since 1926.
 type: location
 ---
 

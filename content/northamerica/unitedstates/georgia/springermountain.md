@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Appalachian_Trail_plaque_S
 latitude: 34.6266
 loc_type: feature
 longitude: -84.1935
-score: 0.33
+score: 6.5
 snippet: Blue Ridge summit marking the Appalachian Trail's southern terminus in north
   Georgia's Chattahoochee forest.
 sources:

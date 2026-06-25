@@ -5,7 +5,7 @@ done:
 latitude: 18.649843
 loc_type: city
 longitude: 72.876547
-score: 0.38
+score: 7.04
 snippet: Konkan coast beach town south of Mumbai, marked by Kolaba Fort, Maratha naval
   history, and palm-fringed beaches.
 title: Alibag

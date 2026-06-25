@@ -3,7 +3,7 @@ done: true
 latitude: 14.46768
 loc_type: city
 longitude: 121.01528
-score: 0.26
+score: 5.81
 snippet: Metro Manila coastal city where Baclaran Church and market sit between the
   airport and Manila Bay.
 sources:

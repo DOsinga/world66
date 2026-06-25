@@ -5,7 +5,7 @@ done:
 latitude: -8.88
 loc_type: city
 longitude: 13.23
-score: 0.11
+score: 2.26
 snippet: Narrow barrier island south of Luanda, known for lagoon beaches and weekend
   seafood escapes
 title: Massoulo

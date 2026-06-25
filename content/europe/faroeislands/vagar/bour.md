@@ -5,7 +5,7 @@ done:
 latitude: 62.087978
 loc_type: city
 longitude: -7.371455
-score: 0.46
+score: 7.86
 snippet: Tiny Vágar village of grass-roofed houses facing Tindhólmur's jagged sea
   stacks and Mykines beyond.
 title: Bour

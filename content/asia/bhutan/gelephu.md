@@ -5,7 +5,7 @@ done:
 latitude: 26.8704
 loc_type: city
 longitude: 90.4856
-score: 0.37
+score: 6.87
 snippet: Southern Bhutan border town where Himalayan foothills meet the Assamese plains
   near hot springs and Manas.
 sources:

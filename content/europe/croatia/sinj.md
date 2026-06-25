@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sinj_-_ca._2010-_kulturnad
 latitude: 43.701731
 loc_type: city
 longitude: 16.63734
-score: 0.4
+score: 7.29
 snippet: Dalmatian hinterland market town known for the Sinjska Alka joust and Cetina
   karst plain.
 title: Sinj

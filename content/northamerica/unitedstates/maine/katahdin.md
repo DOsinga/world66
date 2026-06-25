@@ -5,7 +5,7 @@ latitude: 45.9038
 longitude: -68.9215
 title: Katahdin
 type: location
-score: 0.46
+score: 7.92
 loc_type: feature
 snippet: Maine wilderness mountain and Appalachian Trail terminus, rising above Baxter
   State Park's forever-wild forests.

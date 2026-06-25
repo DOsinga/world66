@@ -5,7 +5,7 @@ done:
 latitude: 1.927308
 loc_type: city
 longitude: -76.449284
-score: 0.47
+score: 8.01
 snippet: Colombian highland town surrounded by pre-Columbian stone statues and tombs
   above the Río Magdalena.
 sources:

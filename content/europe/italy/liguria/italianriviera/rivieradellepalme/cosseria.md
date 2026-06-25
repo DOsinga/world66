@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Cosseria_03.pn
 latitude: 44.367716
 loc_type: city
 longitude: 8.234808
-score: 0.33
+score: 6.44
 snippet: Small Ligurian Apennine commune with medieval castle ruins above two Bormida
   valleys.
 title: Cosseria

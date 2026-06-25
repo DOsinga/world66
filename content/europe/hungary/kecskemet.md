@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:036_Kecskemet,_Hungary.jpg
 latitude: 46.907476
 loc_type: city
 longitude: 19.692085
-score: 0.43
+score: 7.56
 snippet: Great Hungarian Plain market city known for apricot pálinka and exuberant
   art nouveau architecture.
 title: Kecskemét

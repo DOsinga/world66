@@ -5,7 +5,7 @@ done:
 latitude: 11.9006
 loc_type: city
 longitude: -70.052
-score: 0.33
+score: 6.52
 snippet: Arid Venezuelan peninsula of windy Caribbean beaches, cacti, and one of the
   world's largest refinery complexes.
 sources:

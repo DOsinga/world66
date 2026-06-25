@@ -5,7 +5,7 @@ done:
 latitude: 52.1527
 loc_type: city
 longitude: 9.9518
-score: 0.46
+score: 7.87
 snippet: Lower Saxony city with two UNESCO-listed Romanesque churches and the medieval
   Bernward Doors.
 sources:

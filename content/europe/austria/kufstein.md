@@ -11,7 +11,7 @@ loc_type: city
 longitude: 12.1692
 title: Kufstein
 type: location
-score: 0.52
+score: 8.39
 snippet: Tyrolean town on the Inn River, dominated by a fortress above the old town.
 ---
 

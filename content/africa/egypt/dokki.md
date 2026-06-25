@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza-Nile.JPG
 latitude: 30.038895
 loc_type: city
 longitude: 31.212556
-score: 0.25
+score: 5.68
 snippet: West-bank Cairo neighbourhood in Giza, known for embassies, leafy streets,
   and proximity to Cairo University.
 title: Dokki

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Magaluf_3.jpg
 latitude: 39.509568
 loc_type: city
 longitude: 2.535724
-score: 0.42
+score: 7.51
 title: Magaluf
-snippet: Mallorca beach resort with a loud party strip and a broad sandy bay southwest of Palma.
+snippet: Mallorca beach resort with a loud party strip and a broad sandy bay southwest
+  of Palma.
 type: location
 ---
 

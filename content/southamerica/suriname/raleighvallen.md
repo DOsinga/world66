@@ -4,7 +4,7 @@ done:
 latitude: 3.7
 loc_type: feature
 longitude: -56.2
-score: 0.4
+score: 7.24
 snippet: Surinamese rainforest reserve on the Coppename River, known for birdlife
   and Voltzberg's granite dome.
 title: Raleighvallen

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhuhai-Fishing-Girl-statue
 latitude: 22.261
 loc_type: city
 longitude: 113.551
-score: 0.39
+score: 7.14
 snippet: Coastal Pearl River Delta city of islands and promenades, slower-growing
   than neighbouring Shenzhen.
 sources:

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ascension_Cathedral,_Almat
 latitude: 43.236392
 loc_type: city
 longitude: 76.945728
-score: 0.48
+score: 8.04
 snippet: Kazakhstan’s cultural capital, set below the Tien Shan with mountain views
   from broad Soviet-era streets.
 title: Almaty

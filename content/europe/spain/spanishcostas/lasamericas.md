@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_de_las_Am%C3%A9ricas
 latitude: 28.0675
 loc_type: city
 longitude: -16.7325
-score: 0.45
+score: 7.8
 snippet: Tenerife south-coast resort built for beaches, bars, late nights, and easy
   island excursions
 sources:

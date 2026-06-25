@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%91%9E%E4%B8%BD%E5%8F%A
 latitude: 24.0167
 loc_type: city
 longitude: 97.85
-score: 0.34
+score: 6.6
 snippet: Yunnan border city beside Myanmar, shaped by jade markets, cross-border trade,
   and Dai cultural influences.
 sources:

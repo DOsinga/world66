@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_Alley_(Holly).jpg
 latitude: 42.791973
 loc_type: city
 longitude: -83.627725
-score: 0.29
+score: 6.0
 snippet: Small Michigan town with antique-lined streets, Battle Alley, and a storied
   old hotel.
 title: Holly

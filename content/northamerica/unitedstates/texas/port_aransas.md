@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Aransas,_Texas.jpg
 latitude: 27.833217
 loc_type: city
 longitude: -97.061832
-score: 0.43
+score: 7.57
 title: Port Aransas
 type: location
-snippet: Mustang Island beach town on the Texas Gulf Coast, known for sandy beaches and sportfishing.
+snippet: Mustang Island beach town on the Texas Gulf Coast, known for sandy beaches
+  and sportfishing.
 ---
 
 Port Aransas sits on the northern tip of Mustang Island, a barrier island on the Texas Gulf Coast just east of [Corpus Christi](/northamerica/unitedstates/texas/corpuschristi). It is the kind of relaxed beach town that Texans have been driving to for generations: wide sandy beaches, good fishing, and an easy pace that starts to feel obligatory the moment you cross the ferry from the mainland.

@@ -4,7 +4,7 @@ done:
 latitude: 33.4152
 loc_type: city
 longitude: -111.8315
-score: 0.31
+score: 6.29
 snippet: Sonoran Desert city east of Phoenix, with revived downtown arts and access
   to Apache Trail country.
 title: Mesa

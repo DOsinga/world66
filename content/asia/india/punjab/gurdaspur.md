@@ -5,7 +5,7 @@ done:
 latitude: 31.903726
 loc_type: city
 longitude: 75.227559
-score: 0.28
+score: 5.98
 snippet: Northern Punjab border district and Sikh pilgrimage area, including Dera
   Baba Nanak on the Ravi River.
 sources:

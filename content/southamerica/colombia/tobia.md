@@ -5,7 +5,7 @@ done:
 latitude: 5.123693
 loc_type: city
 longitude: -74.449072
-score: 0.35
+score: 6.71
 snippet: Tiny Colombian mountain town northwest of Bogotá, centred on Río Negro rafting
   weekends.
 title: Tobia

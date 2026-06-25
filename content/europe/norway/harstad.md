@@ -5,10 +5,11 @@ done:
 latitude: 68.799943
 loc_type: city
 longitude: 16.544032
-score: 0.44
+score: 7.71
 title: Harstad
 type: location
-snippet: Northern Norwegian town on Hinnøya, used as a base for Vesterålen and nearby coastal history.
+snippet: Northern Norwegian town on Hinnøya, used as a base for Vesterålen and nearby
+  coastal history.
 ---
 
 Harstad is the largest town on the island of Hinnøya in Troms, northern [Norway](/europe/norway), sitting well above the Arctic Circle at 68°N. This means [midnight sun](/europe/norway/harstad/midnight_sun) from late May to mid-July and a good chance of [northern lights](/europe/norway/harstad/northern_lights) from autumn through spring. The combination of extreme light conditions and dramatic coastal scenery — fjords, mountains, and open sea — makes it one of the more compelling small cities in the Arctic.

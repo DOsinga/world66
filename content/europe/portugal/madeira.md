@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Vista_da_costa_desde_
 latitude: 32.75175
 loc_type: city
 longitude: -16.981749
-score: 0.66
+score: 9.34
 snippet: Volcanic Atlantic island of steep ravines, cloud-touched peaks, levada walks,
   and Funchal's hillside harbour.
 title: Madeira

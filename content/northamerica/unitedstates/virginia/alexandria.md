@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2017.10.27.112710_Potomac_
 latitude: 38.8051
 loc_type: city
 longitude: -77.047
-score: 0.45
+score: 7.74
 snippet: Historic Potomac River city beside Washington, DC, with preserved Old Town
   streets and waterfront warehouses.
 title: Alexandria

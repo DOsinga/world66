@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Binnenstad_Hoorn,_1621_Hoo
 latitude: 52.6411
 loc_type: city
 longitude: 5.0586
-score: 0.49
+score: 8.1
 snippet: Dutch Golden Age harbour city on the Markermeer, lined with gabled merchant
   houses from VOC days
 sources:

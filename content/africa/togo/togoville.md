@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Togoville_harbour.jpg
 latitude: 6.234521
 loc_type: city
 longitude: 1.479926
-score: 0.3
+score: 6.17
 snippet: Lake Togo town where German colonial history and Vodou traditions remain
   central to local identity.
 title: Togoville

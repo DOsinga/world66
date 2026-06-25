@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanchang_-_panoramio.jpg
 latitude: 28.682892
 loc_type: city
 longitude: 115.858147
-score: 0.33
+score: 6.45
 snippet: Jiangxi provincial capital on the Gan River, associated with the 1927 Nanchang
   Uprising.
 title: Nanchang

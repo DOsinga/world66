@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Liberian_Capitol_Building.
 latitude: 6.320356
 loc_type: city
 longitude: -10.806049
-score: 0.24
+score: 5.46
 snippet: Liberian capital on the Mesurado River peninsula, founded in 1822 by freed
   American slaves.
 title: Monrovia

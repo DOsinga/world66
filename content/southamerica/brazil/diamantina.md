@@ -8,9 +8,10 @@ image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/7138083@N04/54566511351
 latitude: -18.244086
 loc_type: city
-snippet: Colonial diamond-mining town in Minas Gerais, with cobbled hillsides, baroque churches, and Chica da Silva history.
+snippet: Colonial diamond-mining town in Minas Gerais, with cobbled hillsides, baroque
+  churches, and Chica da Silva history.
 longitude: -43.600649
-score: 0.48
+score: 8.08
 title: Diamantina
 type: location
 ---

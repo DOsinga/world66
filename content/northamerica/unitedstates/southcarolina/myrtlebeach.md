@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BroadwayAtTheBeach1.jpg
 latitude: 33.6954
 loc_type: city
 longitude: -78.8901
-score: 0.43
+score: 7.59
 snippet: Commercial South Carolina beach resort built around Atlantic sands, golf
   courses, and family entertainment.
 title: Myrtle Beach

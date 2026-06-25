@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Omi%C5%A1_city_panorama_(2
 latitude: 43.443497
 loc_type: city
 longitude: 16.692277
-score: 0.55
+score: 8.68
 snippet: Dalmatian town at the Cetina River mouth, beneath cliffs once used by local
   pirates.
 title: Omis

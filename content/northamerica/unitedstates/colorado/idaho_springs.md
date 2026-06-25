@@ -5,7 +5,7 @@ done:
 latitude: 39.742597
 loc_type: city
 longitude: -105.513637
-score: 0.4
+score: 7.28
 snippet: Colorado mountain town where gold-rush history and hot springs meet the road
   west from Denver
 title: Idaho Springs

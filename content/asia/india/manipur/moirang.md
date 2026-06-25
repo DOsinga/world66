@@ -5,7 +5,7 @@ done:
 latitude: 24.500551
 loc_type: city
 longitude: 93.776748
-score: 0.29
+score: 6.09
 snippet: Manipur lakeside town tied to Loktak Lake, ancient legends, and Indian National
   Army history.
 title: Moirang

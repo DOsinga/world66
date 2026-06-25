@@ -5,7 +5,7 @@ done:
 latitude: 18.4833
 loc_type: city
 longitude: -73.5167
-score: 0.19
+score: 4.74
 snippet: Small Haitian fishing village where southern coast life turns around the
   sea and morning market
 title: Petite Rivière de Nippes

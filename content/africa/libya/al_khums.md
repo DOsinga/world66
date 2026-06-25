@@ -4,7 +4,7 @@ done:
 latitude: 32.652183
 loc_type: city
 longitude: 14.26801
-score: 0.22
+score: 5.3
 snippet: Libyan coastal town serving as the practical base for the spectacular Roman
   ruins of Leptis Magna.
 title: Al Khums

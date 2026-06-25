@@ -5,7 +5,7 @@ done:
 latitude: 54.8663
 loc_type: city
 longitude: -6.276
-score: 0.32
+score: 6.41
 snippet: County Antrim market town on the River Braid, useful as a base for the Antrim
   Coast
 title: Ballymena

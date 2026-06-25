@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nieuwpoort_IJzer_R01.jpg
 latitude: 51.129431
 loc_type: city
 longitude: 2.751666
-score: 0.39
+score: 7.1
 title: Nieuwpoort
 type: location
 snippet: Belgian seaside town at the IJzer mouth, known for its marina and grey shrimp.

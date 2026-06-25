@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_de_Silves.jpg
 latitude: 37.1888
 loc_type: city
 longitude: -8.4387
-score: 0.54
+score: 8.56
 snippet: Historic Algarve hill town, once Moorish al-Gharb's capital and still dominated
   by a red sandstone castle.
 sources:

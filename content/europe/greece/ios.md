@@ -2,18 +2,18 @@
 done:
   location_cleanup: 2026-04-07
   location_enrich: '2026-05-21'
+image: ios.jpg
+image_attribution: Davide Taviani (Helios)
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Manganari2.jpg
 latitude: 36.717324
 loc_type: city
 longitude: 25.333112
-score: 0.6
+score: 8.99
 snippet: Cycladic island of whitewashed Chora, busy beach nightlife, and an unlikely
   Homeric burial claim.
 title: Ios
 type: location
-image: ios.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Manganari2.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Davide Taviani (Helios)
 ---
 
 Ios is a small, mountainous Cycladic island famous for two rather contrasting things: its beautiful beaches and its relentless party scene. For decades it has attracted a young, international crowd looking for sun by day and bars by night, and in July and August the island is genuinely packed. But Ios is not just [Mylopotas beach](/europe/greece/ios/mylopotas_beach) and clubs — the whitewashed hilltop [Chora](/europe/greece/ios/chora) is genuinely lovely, there are quiet beaches on the far side of the island, and the claim that Homer is buried here adds an unlikely classical footnote to what is otherwise Greece's most hedonistic island.

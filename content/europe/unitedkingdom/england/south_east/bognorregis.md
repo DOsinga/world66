@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bognor_Regis_MMB_12_Aldwic
 latitude: 50.7835
 loc_type: city
 longitude: -0.6731
-score: 0.33
+score: 6.48
 snippet: Unpretentious West Sussex seaside town with a royal suffix and a long sand-and-shingle
   beach.
 title: Bognor Regis

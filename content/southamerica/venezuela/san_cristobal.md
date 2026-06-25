@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balc%C3%B3n_de_las_nubes.j
 latitude: 7.775666
 loc_type: city
 longitude: -72.221415
-score: 0.27
+score: 5.85
 snippet: Andean capital of Táchira state, close to Colombia and known for the Feria
   de San Sebastián.
 title: San Cristóbal

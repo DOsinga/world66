@@ -6,7 +6,7 @@ done:
 latitude: 15.5026
 loc_type: city
 longitude: -88.0252
-score: 0.23
+score: 5.31
 snippet: Hot Sula Valley city and Honduran transport hub for Copán, the north coast,
   and Lake Yojoa.
 title: San Pedro Sula

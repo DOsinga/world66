@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hosteria_Puertolago,_Otava
 latitude: 0.225909
 loc_type: city
 longitude: -78.228757
-score: 0.51
+score: 8.33
 snippet: Andean market town in Imbabura, famous for Otavaleño textiles in Plaza de
   los Ponchos
 title: Otavalo

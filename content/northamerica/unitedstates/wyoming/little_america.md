@@ -4,7 +4,7 @@ done:
 latitude: 41.544369
 loc_type: feature
 longitude: -109.858126
-score: 0.2
+score: 4.89
 snippet: Wyoming roadside feature on Interstate 80, built around a landmark travel
   plaza in high desert country
 title: Little America

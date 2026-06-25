@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_de_San_Vicente,_El_G
 latitude: 42.4694
 loc_type: city
 longitude: -8.895
-score: 0.46
+score: 7.87
 title: O Grove
-snippet: Galician fishing town on the Ría de Arousa, known for shellfish and mussel-farming rafts.
+snippet: Galician fishing town on the Ría de Arousa, known for shellfish and mussel-farming
+  rafts.
 type: location
 ---
 

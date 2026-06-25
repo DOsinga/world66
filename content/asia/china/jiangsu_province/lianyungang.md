@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Lianyungang
 title: Lianyungang
 type: location
-score: 0.3
+score: 6.1
 snippet: Yellow Sea port city tied to Mount Huaguo and the Monkey King legend.
 ---
 

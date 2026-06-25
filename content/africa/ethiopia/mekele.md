@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:ET_Mekele_asv2018-01_img19
 latitude: 13.4967
 loc_type: city
 longitude: 39.4769
-score: 0.27
-snippet: Tigrayan plateau city in northern Ethiopia, used as a base for Danakil and rock-church journeys.
+score: 5.91
+snippet: Tigrayan plateau city in northern Ethiopia, used as a base for Danakil and
+  rock-church journeys.
 title: Mekele
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rue_Jeanne_dArc_Tramway_Or
 latitude: 47.902734
 loc_type: city
 longitude: 1.908607
-score: 0.49
+score: 8.12
 snippet: Loire city shaped by Joan of Arc, with a Gothic cathedral and rebuilt old
   town
 title: Orleans

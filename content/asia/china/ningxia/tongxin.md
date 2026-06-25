@@ -4,7 +4,7 @@ done:
 latitude: 36.984
 loc_type: city
 longitude: 105.902
-score: 0.24
+score: 5.53
 snippet: Central Ningxia county town known for one of China's oldest surviving mosques,
   built in Chinese architectural forms.
 sources:

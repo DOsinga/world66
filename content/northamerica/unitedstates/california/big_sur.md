@@ -5,7 +5,7 @@ latitude: 36.143704
 longitude: -121.564593
 title: Big Sur
 type: location
-score: 0.65
+score: 9.28
 loc_type: feature
 snippet: Central California coastal stretch where the Santa Lucia Mountains drop sharply
   into the Pacific.

@@ -6,7 +6,7 @@ latitude: 1.2833
 longitude: 97.6167
 title: Gunungsitoli
 type: location
-score: 0.32
+score: 6.41
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Gunungsitoli

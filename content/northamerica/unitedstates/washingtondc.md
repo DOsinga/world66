@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:12-07-13-washington-by-Ral
 latitude: 38.895037
 loc_type: city
 longitude: -77.036543
-score: 0.64
+score: 9.27
 snippet: Purpose-built United States capital on the Potomac, defined by monuments,
   museums, and federal avenues.
 title: Washington D.C.

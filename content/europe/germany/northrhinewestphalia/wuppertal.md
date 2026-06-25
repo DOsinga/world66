@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/99785739@N00/13922373205
 latitude: 51.264018
 loc_type: city
 longitude: 7.178037
-score: 0.38
+score: 6.98
 snippet: Industrial city in the Bergisches Land, famous for its suspended Schwebebahn
   monorail.
 title: Wuppertal

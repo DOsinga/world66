@@ -5,7 +5,7 @@ done:
 latitude: 56.470602
 loc_type: city
 longitude: -132.382943
-score: 0.38
+score: 7.02
 snippet: Inside Passage town with Tlingit roots, three colonial flags, and access
   to the wild Stikine River.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Britannia_Pier,_Great_Yarm
 latitude: 52.607174
 loc_type: city
 longitude: 1.731485
-score: 0.37
+score: 6.86
 snippet: Traditional Norfolk seaside town with arcades, chip shops, a pleasure beach,
   and maritime backstreets.
 title: Great Yarmouth

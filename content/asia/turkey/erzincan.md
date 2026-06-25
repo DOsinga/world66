@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erzincan,_Erzincan_Merkez-
 latitude: 39.7464
 loc_type: city
 longitude: 39.4914
-score: 0.33
+score: 6.47
 snippet: Eastern Anatolian city in a mountain valley, near Seljuk tombs, Urartian
   ruins, and Girlevik Waterfall.
 title: Erzincan

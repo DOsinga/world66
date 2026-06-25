@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carnivalgirls.jpg
 latitude: 10.6549
 loc_type: city
 longitude: -61.5019
-score: 0.47
+score: 8.0
 snippet: Trinidad's capital on the Gulf of Paria, known for Carnival and steel pan
   music.
 title: Port of Spain

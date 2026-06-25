@@ -7,7 +7,7 @@ done:
 latitude: 7.1979
 loc_type: city
 longitude: 100.5962
-score: 0.45
+score: 7.77
 snippet: Southern Thai old town on a peninsula between Songkhla Lake and the Gulf,
   rich in Sino-Portuguese streets.
 title: Songkhla

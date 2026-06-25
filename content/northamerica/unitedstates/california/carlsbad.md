@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carlsbad,_CA_-_panoramio.j
 latitude: 33.1581
 loc_type: city
 longitude: -117.3506
-score: 0.44
+score: 7.72
 snippet: Southern California beach city known for LEGOLAND, spring flower fields,
   and a relaxed coastal village.
 title: Carlsbad

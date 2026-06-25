@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CT_teatro_romano_y_catedra
 latitude: 37.6019
 loc_type: city
 longitude: -0.9842
-score: 0.51
+score: 8.32
 snippet: Murcian naval port layered with Phoenician, Carthaginian, Roman, Byzantine,
   and modern harbour history.
 sources:

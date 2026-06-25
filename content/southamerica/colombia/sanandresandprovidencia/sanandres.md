@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Andr%C3%A9s,_San_Andr%
 latitude: 12.58301
 loc_type: city
 longitude: -81.697568
-score: 0.53
+score: 8.45
 snippet: Colombian Caribbean island with Raizal culture and reef waters known for
   seven shades of blue
 sources:

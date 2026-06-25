@@ -5,8 +5,9 @@ latitude: 32.803925
 longitude: -85.893942
 title: Lake Martin
 type: location
-score: 0.35
-snippet: Large Alabama reservoir with long undeveloped shoreline, bass fishing, and easygoing lake weekends.
+score: 6.7
+snippet: Large Alabama reservoir with long undeveloped shoreline, bass fishing, and
+  easygoing lake weekends.
 loc_type: feature
 ---
 

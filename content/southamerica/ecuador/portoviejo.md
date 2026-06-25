@@ -5,7 +5,7 @@ done:
 latitude: -1.05282
 loc_type: city
 longitude: -80.453413
-score: 0.29
+score: 6.08
 snippet: Manabí capital rebuilt around riverside public space and Ecuador's first
   UNESCO-listed gastronomy scene.
 sources:

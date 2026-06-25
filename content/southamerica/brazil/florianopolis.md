@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morro_da_Cruz,_Florian%C3%
 latitude: -27.5973
 loc_type: city
 longitude: -48.54961
-score: 0.55
+score: 8.67
 snippet: Southern Brazilian island capital with more than a hundred beaches and a
   Portuguese colonial centre
 title: Florianópolis

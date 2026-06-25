@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:36272-Elche.jpg
 latitude: 38.265331
 loc_type: city
 longitude: -0.698839
-score: 0.42
+score: 7.48
 title: Elche
 type: location
 snippet: Costa Blanca city whose vast Moorish palm grove gives it a North African

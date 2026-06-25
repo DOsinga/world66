@@ -4,7 +4,7 @@ done:
 latitude: 51.0205
 loc_type: feature
 longitude: 100.4786
-score: 0.51
+score: 8.3
 snippet: Deep alpine lake in northern Mongolia, holding much of the country's fresh
   water near Siberia.
 title: Lake Khovsgol

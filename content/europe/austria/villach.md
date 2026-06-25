@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:9507_Villach,_St._Leonhard
 latitude: 46.616728
 loc_type: city
 longitude: 13.850027
-score: 0.49
+score: 8.14
 snippet: Southern Austrian crossroads city on the Drau, with Italy and Slovenia close
   enough to feel
 title: Villach

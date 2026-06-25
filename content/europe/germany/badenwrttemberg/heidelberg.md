@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:K%C3%B6nigstuhl,_Heidelber
 latitude: 49.4094
 loc_type: city
 longitude: 8.6947
-score: 0.63
+score: 9.17
 snippet: Neckar River university city of baroque lanes, forested slopes, and a romantic
   ruined castle.
 title: Heidelberg

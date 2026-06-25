@@ -5,7 +5,7 @@ done:
 latitude: 41.539835
 loc_type: city
 longitude: 2.444893
-score: 0.37
+score: 6.9
 snippet: Maresme coastal city near Barcelona, linked to Spain's first railway and
   broad sandy beaches.
 title: Mataró

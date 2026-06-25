@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-04_Vermont_State_Hous
 latitude: 44.2601
 loc_type: city
 longitude: -72.575
-score: 0.41
+score: 7.34
 title: Montpelier
-snippet: Tiny Vermont capital in a Winooski River valley, centred on a gold-domed State House.
+snippet: Tiny Vermont capital in a Winooski River valley, centred on a gold-domed
+  State House.
 type: location
 ---
 

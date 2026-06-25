@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:S%C3%A1toralja%C3%BAjhely,
 latitude: 48.396098
 loc_type: city
 longitude: 21.65615
-score: 0.34
+score: 6.61
 snippet: Northern Hungarian town below the volcanic Zemplén Hills, shaped by Tokaj-Hegyalja
   wine routes and borderland history
 title: Sátoraljaújhely

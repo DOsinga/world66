@@ -5,7 +5,7 @@ done:
 latitude: 54.19092
 loc_type: city
 longitude: 16.17707
-score: 0.31
+score: 6.27
 snippet: Western Pomeranian city inland from Baltic beaches, with Hanseatic traces
   and easy access to Mielno.
 sources:

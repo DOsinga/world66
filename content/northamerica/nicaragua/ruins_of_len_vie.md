@@ -3,9 +3,10 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   poi_cleanup: '2026-04-20'
-score: 0.4
+score: 7.23
 title: Ruins of León Viejo
-snippet: Early Spanish colonial ruin beside Lake Managua, preserved beneath Momotombo volcano without later rebuilding.
+snippet: Early Spanish colonial ruin beside Lake Managua, preserved beneath Momotombo
+  volcano without later rebuilding.
 type: location
 loc_type: feature
 latitude: 12.40038

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/96719020@N03/13130140345
 latitude: 44.244679
 loc_type: city
 longitude: 28.623062
-score: 0.41
+score: 7.36
 snippet: Black Sea resort strip between broad sand and Lake Siutghiol, north of Constanta.
 title: Mamaia
 type: location

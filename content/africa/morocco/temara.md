@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Temara01.jpg
 latitude: 33.917166
 loc_type: city
 longitude: -6.923804
-score: 0.32
+score: 6.37
 snippet: Atlantic city south of Rabat, known for its beach, old kasbah walls, and
   capital-suburb rhythm.
 title: Temara

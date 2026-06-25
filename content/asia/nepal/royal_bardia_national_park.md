@@ -5,7 +5,7 @@ latitude: 28.39
 longitude: 81.5
 done:
   location_cleanup: 2026-04-07
-score: 0.48
+score: 8.05
 loc_type: feature
 snippet: Lowland Terai national park of sal forest, grassland, tigers, rhinos, and
   Karnali floodplain.

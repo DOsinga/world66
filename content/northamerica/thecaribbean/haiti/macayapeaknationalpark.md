@@ -4,7 +4,7 @@ done:
 latitude: 18.3714
 loc_type: feature
 longitude: -74.0203
-score: 0.33
+score: 6.47
 snippet: Remote Haitian mountain park protecting Pic Macaya, cloud forest, and rare
   wildlife in the Massif de la Hotte.
 sources:

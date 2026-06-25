@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angaur_Airfield.jpg
 latitude: 6.015599
 loc_type: city
 longitude: 133.632646
-score: 0.43
+score: 7.54
 snippet: Small southern Palauan island with World War II remnants, strong-current
   reefs, and a quiet local population.
 title: Angaur

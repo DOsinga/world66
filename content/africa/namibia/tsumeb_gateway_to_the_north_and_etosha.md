@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Otjikotosee.jpg
 latitude: -19.2512
 loc_type: city
 longitude: 17.7178
-score: 0.34
+score: 6.65
 snippet: Northern Namibian mining town and practical gateway to Etosha, with a museum
   rooted in copper history
 title: Tsumeb, Gateway to the North and Etosha

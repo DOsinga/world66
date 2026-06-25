@@ -4,7 +4,7 @@ done:
 latitude: 43.35
 loc_type: feature
 longitude: 17.8
-score: 0.46
+score: 7.84
 snippet: Eastern Adriatic river rising in the Dinaric Alps and defining much of Bosnia
   and Herzegovina's landscape.
 title: Neretva River

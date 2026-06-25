@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Welcome_to_beautiful_downt
 latitude: 62.3209
 loc_type: city
 longitude: -150.1066
-score: 0.46
+score: 7.83
 snippet: Alaskan river town and Denali staging point, full of bush planes and log
   buildings
 title: Talkeetna

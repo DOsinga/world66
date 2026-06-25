@@ -5,7 +5,7 @@ done:
 latitude: 20.8872
 loc_type: city
 longitude: -76.2631
-score: 0.4
+score: 7.24
 snippet: Eastern Cuban provincial city of parks and plazas, with beaches and mountains
   beyond.
 title: Holguín

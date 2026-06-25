@@ -7,7 +7,7 @@ loc_type: city
 snippet: Tiny Suðuroy village with Viking-age chieftain history on the east coast
   of the Faroe Islands
 longitude: -6.755742
-score: 0.32
+score: 6.37
 title: Hov
 type: location
 ---

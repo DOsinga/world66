@@ -5,7 +5,7 @@ done:
 latitude: 42.5535
 loc_type: city
 longitude: -2.5851
-score: 0.46
+score: 7.88
 snippet: Fortified Rioja Alavesa wine village with vineyard views and medieval cellars
   under its streets
 sources:

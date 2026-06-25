@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 10.025111
 longitude: -71.616313
-score: 0.28
+score: 5.98
 snippet: Vast Venezuelan lake-bay of oil derricks, ancient waters, and Catatumbo Lightning
   storms over the southwestern shore.
 title: Lake Maracaibo

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_shikara_on_Dal_Lake,
 latitude: 34.0837
 loc_type: city
 longitude: 74.7973
-score: 0.55
+score: 8.67
 snippet: Kashmir Valley city of lakes, waterways, Mughal gardens, and carved wooden
   mosques.
 title: Srinagar

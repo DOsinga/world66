@@ -4,7 +4,7 @@ done:
 latitude: 32.0896
 loc_type: city
 longitude: 23.9539
-score: 0.18
+score: 4.57
 snippet: Eastern Libyan port city whose deep Mediterranean harbour anchors stark Second
   World War battlefield history.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 43.9412
 loc_type: city
 longitude: 12.4474
-score: 0.48
+score: 8.03
 snippet: San Marino municipality below Monte Titano, linking the market square to
   the old city by cable car.
 title: Borgo Maggiore

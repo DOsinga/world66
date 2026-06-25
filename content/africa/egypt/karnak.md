@@ -7,7 +7,7 @@ snippet: Ancient Theban temple complex at Luxor, dominated by Amun's sanctuary a
   the Great Hypostyle Hall.
 title: Karnak
 type: location
-score: 0.65
+score: 9.28
 loc_type: feature
 image: karnak.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Karnak_temple_complex_2012.JPG

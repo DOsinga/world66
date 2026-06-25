@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bogor_Botanical_Gardens_Ja
 latitude: -6.5964
 loc_type: city
 longitude: 106.7973
-score: 0.41
+score: 7.33
 snippet: Rainy Javanese garden city known for its vast tropical botanical gardens
   and palace deer.
 title: Bogor

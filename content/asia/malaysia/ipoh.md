@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ipoh,_Malaysia_March_2023_
 latitude: 4.598682
 loc_type: city
 longitude: 101.090024
-score: 0.5
+score: 8.25
 title: Ipoh
 type: location
 snippet: Perak capital in the Kinta Valley, built on tin wealth and colonial Old Town

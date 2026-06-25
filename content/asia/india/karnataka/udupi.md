@@ -2,7 +2,7 @@
 latitude: 13.3409
 loc_type: city
 longitude: 74.7421
-score: 0.41
+score: 7.41
 snippet: Coastal Karnataka temple town whose vegetarian Udupi cooking became a staple
   across India.
 title: Udupi

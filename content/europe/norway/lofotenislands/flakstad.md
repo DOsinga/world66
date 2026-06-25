@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fredvang_Bridges_in_Flakst
 latitude: 68.120468
 loc_type: city
 longitude: 13.049638
-score: 0.62
+score: 9.1
 snippet: Quiet Lofoten municipality of fishing hamlets, Arctic beaches, and wooden
   churches along the E10 road.
 title: Flakstad

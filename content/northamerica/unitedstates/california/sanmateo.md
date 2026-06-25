@@ -6,7 +6,7 @@ done:
 latitude: 37.563
 loc_type: city
 longitude: -122.3255
-score: 0.3
+score: 6.14
 snippet: San Francisco Peninsula city with a walkable downtown, Coyote Point, and
   bay-to-hills setting
 title: San Mateo

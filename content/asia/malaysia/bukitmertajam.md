@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cmglee_Penang_Cherok_Tok_K
 latitude: 5.3643
 loc_type: city
 longitude: 100.461
-score: 0.31
+score: 6.2
 snippet: Mainland Penang town with an old trading centre and Chinese temples beneath
   Bukit Mertajam hill.
 title: Bukit Mertajam

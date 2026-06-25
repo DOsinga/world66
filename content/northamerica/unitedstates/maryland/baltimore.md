@@ -7,9 +7,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Baltimore_Inner_Harbor.JPG
 latitude: 39.290882
 loc_type: city
-snippet: Gritty Mid-Atlantic port city of rowhouse neighbourhoods, seafood, waterfront history, and fierce local identity.
+snippet: Gritty Mid-Atlantic port city of rowhouse neighbourhoods, seafood, waterfront
+  history, and fierce local identity.
 longitude: -76.610759
-score: 0.37
+score: 6.96
 title: Baltimore
 type: location
 ---

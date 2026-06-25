@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_tela_honduras_ma
 latitude: 15.7833
 loc_type: city
 longitude: -87.4667
-score: 0.36
+score: 6.86
 snippet: Laid-back Honduran Caribbean town edged by empty beaches, Garifuna villages,
   and Lancetilla's tropical gardens.
 title: Tela

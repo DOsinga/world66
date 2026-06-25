@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Savognin03.JPG
 latitude: 46.5969
 loc_type: city
 longitude: 9.598
-score: 0.45
+score: 7.74
 snippet: Graubünden mountain village in the Surses valley, a low-key family ski and
   hiking base.
 sources:

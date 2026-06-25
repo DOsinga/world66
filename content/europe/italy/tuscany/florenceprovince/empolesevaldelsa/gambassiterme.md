@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gambassi_terme.jpg
 latitude: 43.539113
 loc_type: city
 longitude: 10.954075
-score: 0.41
+score: 7.41
 snippet: Tuscan hill town on the Via Francigena, known for thermal springs and Valdelsa
   countryside.
 title: Gambassi Terme

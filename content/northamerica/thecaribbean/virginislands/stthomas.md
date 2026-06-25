@@ -5,7 +5,7 @@ done:
 latitude: 18.3419
 loc_type: city
 longitude: -64.9307
-score: 0.6
+score: 9.0
 snippet: Hilly US Virgin Island with Danish-era Charlotte Amalie, a busy harbour,
   and historic red-roofed streets.
 title: St. Thomas

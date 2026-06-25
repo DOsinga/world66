@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Toxa_Galicia.jpg
 latitude: 42.4475
 loc_type: city
 longitude: -8.8406
-score: 0.48
+score: 8.01
 snippet: Galician spa island linked to O Grove, known for thermal baths and a scallop-shell
   chapel.
 title: La Toja/A Toxa Island

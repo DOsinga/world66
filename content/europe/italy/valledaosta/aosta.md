@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Augustus_in_Aosta_
 latitude: 45.737088
 loc_type: city
 longitude: 7.319665
-score: 0.54
+score: 8.58
 title: Aosta
 type: location
 snippet: Alpine Italian city ringed by passes, with unusually complete Roman gates,

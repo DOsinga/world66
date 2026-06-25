@@ -4,7 +4,7 @@ done:
 latitude: 38.069573
 loc_type: city
 longitude: -120.540503
-score: 0.36
+score: 6.76
 snippet: Sierra Nevada Gold Rush town tied to Mark Twain's jumping frog story and
   Calaveras County history.
 title: Angels Camp

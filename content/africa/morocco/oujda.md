@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:FARAJI_Brahim_-_MOSQUEE_RO
 latitude: 34.677874
 loc_type: city
 longitude: -1.929306
-score: 0.35
-snippet: Eastern Moroccan border city where Algerian influence and Rai music give it a frontier identity.
+score: 6.68
+snippet: Eastern Moroccan border city where Algerian influence and Rai music give
+  it a frontier identity.
 title: Oujda
 type: location
 ---

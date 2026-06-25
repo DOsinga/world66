@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16997397@N04/17159438775
 latitude: 49.835042
 loc_type: city
 longitude: 6.289893
-score: 0.41
+score: 7.37
 snippet: Mullerthal village known for paired medieval and Renaissance castles amid
   Luxembourg's wooded sandstone gorges.
 title: Beaufort

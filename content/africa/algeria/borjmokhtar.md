@@ -5,7 +5,7 @@ done:
 latitude: 21.3294
 loc_type: city
 longitude: 0.9531
-score: 0.12
+score: 2.72
 title: Borj Mokhtar
 type: location
 snippet: Remote desert outpost on Algeria's Mali border, used as an overland Sahara

@@ -11,7 +11,7 @@ loc_type: city
 snippet: Uttarakhand hill station on a Himalayan ridge, with Mall Road and views over
   the Doon Valley
 longitude: 78.0783
-score: 0.48
+score: 8.09
 title: Mussoorie
 type: location
 ---

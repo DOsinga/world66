@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_su_Campobasso_dal_Ca
 latitude: 41.7173
 loc_type: city
 longitude: 14.8262
-score: 0.38
+score: 7.02
 snippet: Molise capital on a hill ridge, with a steep medieval core and the 15th-century
   Castello Monforte.
 title: Campobasso

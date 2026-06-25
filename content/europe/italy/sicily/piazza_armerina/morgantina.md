@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 37.431
 longitude: 14.479
-score: 0.46
+score: 7.86
 snippet: Sicilian archaeological site with a preserved agora, theatre, and finds displayed
   in Aidone.
 tags:

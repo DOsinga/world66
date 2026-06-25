@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_escuela_Martin_Tov
 latitude: 10.4087
 loc_type: city
 longitude: -67.2837
-score: 0.4
+score: 7.27
 snippet: Venezuelan mountain town of German immigrant roots, half-timbered streets,
   strawberries, and cool cloud-forest air.
 title: Colonia Tovar

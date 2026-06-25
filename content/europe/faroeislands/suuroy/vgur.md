@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vagur,_Faroe_Islands,_in_t
 latitude: 61.473886
 loc_type: city
 longitude: -6.811462
-score: 0.42
+score: 7.48
 snippet: Suðuroy town on Vágsfjørður, edged by Atlantic cliffs and mountain viewpoints
   on the southern Faroes
 title: Vágur

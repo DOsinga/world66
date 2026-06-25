@@ -9,11 +9,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Paderborn_Dom_asv2024-05_i
 latitude: 51.717704
 loc_type: city
 longitude: 8.752653
-score: 0.39
+score: 7.09
 sources:
 - https://en.wikipedia.org/wiki/Paderborn
 title: Paderborn
-snippet: Compact Westphalian city built around the Pader springs, with a cathedral and medieval old-town core
+snippet: Compact Westphalian city built around the Pader springs, with a cathedral
+  and medieval old-town core
 type: location
 ---
 

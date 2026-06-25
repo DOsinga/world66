@@ -5,7 +5,7 @@ done:
 latitude: 14.1921
 loc_type: city
 longitude: -3.5931
-score: 0.36
+score: 6.85
 snippet: Dogon village below the Bandiagara Escarpment, used as a trailhead for cliff-country
   trekking
 title: Djiguibombo

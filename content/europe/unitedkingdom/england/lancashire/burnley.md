@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LeedsLiverpoolCanalBurnley
 latitude: 53.790726
 loc_type: city
 longitude: -2.24392
-score: 0.25
+score: 5.69
 snippet: Pennine Lancashire town of textile mills, canal engineering, and the dramatic
   Burnley Embankment.
 title: Burnley

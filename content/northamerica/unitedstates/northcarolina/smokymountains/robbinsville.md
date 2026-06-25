@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:North_Main_Street_in_downt
 latitude: 35.32276
 loc_type: city
 longitude: -83.806999
-score: 0.38
+score: 7.04
 snippet: Remote Smoky Mountains county seat near Lake Santeetlah, Fontana Lake, and
   the Cherohala Skyway.
 title: Robbinsville

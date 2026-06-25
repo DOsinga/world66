@@ -4,7 +4,7 @@ done:
 latitude: 52.630742
 loc_type: feature
 longitude: 1.642913
-score: 0.45
+score: 7.82
 snippet: East Anglian wetland of navigable broads, reed beds, medieval churches, and
   flooded peat diggings
 title: Broads

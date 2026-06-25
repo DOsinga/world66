@@ -5,7 +5,7 @@ done:
 latitude: 43.150023
 loc_type: city
 longitude: 41.229979
-score: 0.36
+score: 6.78
 snippet: Black Sea breakaway region of subtropical coast, war-scarred politics, and
   difficult border realities
 title: Abkhazia

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tashich%C3%B6dzong_Thimphu
 latitude: 27.471355
 loc_type: city
 longitude: 89.633673
-score: 0.59
+score: 8.93
 snippet: Bhutanese mountain capital in the Wang Chhu valley, with dzongs, markets,
   and no traffic lights.
 title: Thimphu

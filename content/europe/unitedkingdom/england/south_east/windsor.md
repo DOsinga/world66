@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Swans_on_the_Thames_in_Win
 latitude: 51.483789
 loc_type: city
 longitude: -0.604042
-score: 0.53
+score: 8.48
 snippet: Thames-side royal town dominated by Windsor Castle, a working residence with
   nearly a millennium of history.
 title: Windsor

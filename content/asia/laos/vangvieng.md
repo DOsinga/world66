@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colorful_sky_with_orange_c
 latitude: 18.953896
 loc_type: city
 longitude: 102.456391
-score: 0.52
+score: 8.42
 title: Vang Vieng
 type: location
 snippet: Nam Song river town in Laos, surrounded by limestone karst mountains and

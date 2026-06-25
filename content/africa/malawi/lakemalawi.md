@@ -4,8 +4,9 @@ done:
 latitude: -12.0
 loc_type: feature
 longitude: 34.5
-score: 0.45
-snippet: Great African lake along Malawi's eastern flank, with clear freshwater and endemic cichlid fish.
+score: 7.78
+snippet: Great African lake along Malawi's eastern flank, with clear freshwater and
+  endemic cichlid fish.
 title: Lake Malawi
 type: location
 ---

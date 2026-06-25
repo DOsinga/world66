@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loano_-_Porto_di_Loano.jpg
 latitude: 44.128754
 loc_type: city
 longitude: 8.259371
-score: 0.46
+score: 7.86
 snippet: Western Ligurian seaside town on the Riviera delle Palme, where Roman bridges
   survive beside the Aurelia road.
 title: Loano

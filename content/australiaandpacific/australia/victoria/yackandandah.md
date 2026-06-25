@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:YackandandahMainStreet.JPG
 latitude: -36.3299
 loc_type: city
 longitude: 146.8517
-score: 0.38
+score: 6.98
 title: Yackandandah
 type: location
-snippet: "Tiny Victorian gold-rush town with preserved verandah shopfronts and a strong creative community."
+snippet: Tiny Victorian gold-rush town with preserved verandah shopfronts and a strong
+  creative community.
 ---
 
 Yackandandah — "Yack" to the locals — is a tiny gold rush town tucked into the hills of northeast Victoria. [High Street](/australiaandpacific/australia/victoria/yackandandah/high_street) has barely changed in a century: wide verandahs, weatherboard shopfronts, and a scatter of antique stores that reward a slow afternoon of browsing.

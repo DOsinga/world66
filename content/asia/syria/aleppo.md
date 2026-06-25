@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aleppo_03.jpg
 latitude: 36.1992
 loc_type: city
 longitude: 37.1637
-score: 0.1
+score: 2.07
 snippet: Ancient Syrian city with a citadel, covered souks, and one of the world's
   longest urban histories.
 title: Aleppo

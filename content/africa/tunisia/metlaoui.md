@@ -5,7 +5,7 @@ done:
 latitude: 34.315723
 loc_type: city
 longitude: 8.401829
-score: 0.28
+score: 5.93
 snippet: Southwestern Tunisian phosphate town known for the Lézard Rouge train through
   Selja Gorge.
 title: Metlaoui

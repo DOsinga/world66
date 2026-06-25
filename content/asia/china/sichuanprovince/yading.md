@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yading_Chanadorje-Xianuodu
 latitude: 28.45
 loc_type: feature
 longitude: 100.28
-score: 0.59
+score: 8.94
 snippet: High Tibetan alpine reserve centered on three sacred peaks, glacial lakes,
   and demanding plateau trails.
 sources:

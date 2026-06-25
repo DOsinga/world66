@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chalk_Sound_-_Providencial
 latitude: 21.7732
 loc_type: city
 longitude: -72.2651
-score: 0.65
+score: 9.29
 snippet: Turks and Caicos tourism island centred on Grace Bay's pale sand and clear
   reef waters
 title: Providenciales

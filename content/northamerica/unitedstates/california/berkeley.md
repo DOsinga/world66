@@ -6,7 +6,7 @@ done:
 latitude: 37.8709
 loc_type: city
 longitude: -122.2728
-score: 0.47
+score: 7.95
 snippet: Bay Area university city known for UC Berkeley, left-wing politics, bookshops,
   and hilltop views.
 title: Berkeley

@@ -4,8 +4,9 @@ done:
 latitude: 36.0829
 loc_type: feature
 longitude: -92.766
-score: 0.4
-snippet: Ozark river corridor of free-flowing water, limestone bluffs, elk valleys, and canoe routes.
+score: 7.22
+snippet: Ozark river corridor of free-flowing water, limestone bluffs, elk valleys,
+  and canoe routes.
 title: Buffalo River
 type: location
 ---

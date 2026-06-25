@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dana_Point_Harbor.jpg
 latitude: 33.467
 loc_type: city
 longitude: -117.6981
-score: 0.42
+score: 7.51
 snippet: Orange County harbour town named for Richard Henry Dana Jr., with surf breaks
   and whale-watching boats.
 title: Dana Point

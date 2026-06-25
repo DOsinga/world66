@@ -5,7 +5,7 @@ done:
 latitude: 39.728494
 loc_type: city
 longitude: -121.837478
-score: 0.32
+score: 6.4
 snippet: Sacramento Valley college city anchored by Bidwell Park and Sierra Nevada
   Brewing Company
 title: Chico

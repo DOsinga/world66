@@ -5,7 +5,7 @@ done:
 latitude: 47.877551
 loc_type: city
 longitude: 7.306572
-score: 0.36
+score: 6.81
 snippet: Alsace village near Mulhouse, known for the Écomusée d'Alsace open-air museum
   and reconstructed rural houses.
 title: Ungersheim

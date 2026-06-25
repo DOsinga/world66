@@ -5,7 +5,7 @@ done:
 latitude: 18.75
 loc_type: city
 longitude: -99.0
-score: 0.32
+score: 6.31
 snippet: Compact central Mexican state of springlike highlands, Cuernavaca gardens,
   and the fortified ruins of Xochicalco
 title: Morelos

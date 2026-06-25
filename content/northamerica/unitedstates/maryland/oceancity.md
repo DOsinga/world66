@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Occean_City_beach_and_pier
 latitude: 39.278869
 loc_type: city
 longitude: -74.576251
-score: 0.44
-snippet: Maryland barrier-island resort of free Atlantic beach, boardwalk amusements, and serious fishing culture.
+score: 7.72
+snippet: Maryland barrier-island resort of free Atlantic beach, boardwalk amusements,
+  and serious fishing culture.
 title: Ocean City
 type: location
 ---

@@ -6,7 +6,7 @@ latitude: 11.538887
 longitude: 165.272232
 title: Bikini Atoll
 type: location
-score: 0.4
+score: 7.29
 loc_type: city
 snippet: Marshall Islands atoll and UNESCO site, marked by 23 United States nuclear
   tests.

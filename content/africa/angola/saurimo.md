@@ -5,7 +5,7 @@ done:
 latitude: -9.65893
 loc_type: city
 longitude: 20.398112
-score: 0.18
+score: 4.5
 snippet: Eastern Angolan capital of Lunda Sul, set on the diamond-rich Lunda Plateau
 sources:
 - https://en.wikipedia.org/wiki/Saurimo

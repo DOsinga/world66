@@ -12,7 +12,7 @@ image: huangguoshu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huangguoshu_Fall_Classic_View.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hienrich Liu
-score: 0.52
+score: 8.41
 snippet: Guizhou waterfall site where a cave path runs behind China's largest waterfall
   by volume.
 ---

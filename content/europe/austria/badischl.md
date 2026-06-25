@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bad_Ischl_and_Traun_River.
 latitude: 47.71153
 loc_type: city
 longitude: 13.623933
-score: 0.48
+score: 8.09
 snippet: Salzkammergut spa town where Habsburg summer life still lingers around the
   Kaiservilla and riverside villas.
 title: Bad Ischl

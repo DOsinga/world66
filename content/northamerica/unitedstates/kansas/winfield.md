@@ -11,7 +11,7 @@ loc_type: city
 snippet: South-central Kansas town best known for the Walnut Valley Festival and its
   bluegrass instrument championships
 longitude: -96.9956
-score: 0.24
+score: 5.55
 title: Winfield
 type: location
 ---

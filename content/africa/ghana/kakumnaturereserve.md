@@ -2,7 +2,7 @@
 latitude: 5.3497
 loc_type: feature
 longitude: -1.3831
-score: 0.51
+score: 8.3
 snippet: Ghanaian rainforest national park north of Cape Coast, known for its high
   canopy walkway and forest wildlife.
 title: Kakum National Park

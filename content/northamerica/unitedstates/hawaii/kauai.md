@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coast_of_Kauai,_Hawaii.jpg
 latitude: 22.050384
 loc_type: city
 longitude: -159.558862
-score: 0.74
+score: 9.58
 snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
   Canyon.
 sources:

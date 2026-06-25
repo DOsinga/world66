@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue,_Green_%26_White.jpg
 latitude: 11.715129
 loc_type: city
 longitude: 76.127118
-score: 0.49
+score: 8.16
 snippet: Hilly Kerala district in the Western Ghats, rich in forests, spice plantations,
   and tribal culture
 sources:

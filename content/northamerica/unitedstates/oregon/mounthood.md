@@ -4,7 +4,7 @@ done:
 latitude: 45.373513
 loc_type: feature
 longitude: -121.695878
-score: 0.48
+score: 8.08
 snippet: Oregon volcano and outdoor landmark rising above Portland, ringed by forest,
   ski slopes, and alpine trails.
 title: Mount Hood

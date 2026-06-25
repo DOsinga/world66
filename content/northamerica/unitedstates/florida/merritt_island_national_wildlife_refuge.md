@@ -4,7 +4,7 @@ done:
 latitude: 28.620231
 loc_type: feature
 longitude: -80.742237
-score: 0.41
+score: 7.4
 snippet: Florida wildlife refuge beside Kennedy Space Center, protecting estuaries,
   marshes, dunes, and pine flatwoods.
 title: Merritt Island National Wildlife Refuge

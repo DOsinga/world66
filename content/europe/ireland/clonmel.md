@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/87690240@N03/51231488381
 latitude: 52.3611
 loc_type: city
 longitude: -7.6992
-score: 0.39
+score: 7.18
 sources:
 - https://en.wikipedia.org/wiki/Clonmel
 - https://en.wikipedia.org/wiki/Main_Guard_(Clonmel)

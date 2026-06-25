@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jp
 latitude: 51.424967
 loc_type: feature
 longitude: -116.177535
-score: 0.72
+score: 9.48
 snippet: Canadian Rockies lake beneath Victoria Glacier, framed by Banff peaks and
   alpine hiking trails.
 title: Lake Louise

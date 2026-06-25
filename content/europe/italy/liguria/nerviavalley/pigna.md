@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:18037_Pigna_IM,_Italy_-_pa
 latitude: 43.932714
 loc_type: city
 longitude: 7.663314
-score: 0.43
+score: 7.61
 title: Pigna
-snippet: Hilltop Ligurian village in the Nervia Valley, known for thermal springs and stone lanes.
+snippet: Hilltop Ligurian village in the Nervia Valley, known for thermal springs
+  and stone lanes.
 type: location
 ---
 

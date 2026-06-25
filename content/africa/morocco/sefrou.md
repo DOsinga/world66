@@ -5,7 +5,7 @@ done:
 latitude: 33.8249
 loc_type: city
 longitude: -4.8333
-score: 0.41
+score: 7.33
 title: Sefrou
 type: location
 snippet: Middle Atlas foothill town with a working medina, old Mellah, and cooler

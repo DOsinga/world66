@@ -7,7 +7,7 @@ done:
 latitude: 34.7473
 loc_type: city
 longitude: 113.6193
-score: 0.34
+score: 6.58
 snippet: Henan capital and transport hub near Shang ruins, Mount Songshan, and the
   Shaolin Monastery.
 sources:

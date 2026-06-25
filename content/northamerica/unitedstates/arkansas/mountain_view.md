@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mountain_View_Courthouse.j
 latitude: 35.8686
 loc_type: city
 longitude: -92.1174
-score: 0.34
+score: 6.57
 title: Mountain View
 type: location
 snippet: Ozark mountain town in Arkansas where courthouse-square music keeps old-time

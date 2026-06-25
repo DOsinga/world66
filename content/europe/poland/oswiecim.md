@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Auschwitz_I_(22_May_2010)_
 latitude: 50.038244
 loc_type: city
 longitude: 19.221405
-score: 0.39
+score: 7.18
 snippet: Polish town in Silesia best known as the location of the Auschwitz-Birkenau
   State Museum.
 title: Oswiecim

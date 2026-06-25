@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-06-02'
 latitude: 48.157129
 longitude: 28.299605
-snippet: Moldovan river town above the Dniester, anchored by a round 16th-century fortress facing Ukraine.
+snippet: Moldovan river town above the Dniester, anchored by a round 16th-century
+  fortress facing Ukraine.
 title: Soroca
 type: location
-score: 0.33
+score: 6.47
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Soroca

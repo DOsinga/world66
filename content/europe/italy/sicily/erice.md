@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Erice_-_Stefano_Pannucci.j
 latitude: 38.0382
 loc_type: city
 longitude: 12.5872
-score: 0.59
+score: 8.93
 snippet: Medieval Sicilian hilltop village above Trapani, built on the ancient sanctuary
   of Venus Erycina.
 title: Erice

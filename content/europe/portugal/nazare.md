@@ -5,7 +5,7 @@ done:
 latitude: 39.602911
 loc_type: city
 longitude: -9.070157
-score: 0.54
+score: 8.57
 snippet: Portuguese fishing town defined by Nazaré Canyon surf and a two-level Atlantic
   seafront.
 sources:

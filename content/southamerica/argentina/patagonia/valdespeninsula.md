@@ -5,7 +5,7 @@ latitude: -42.4752
 longitude: -64.1149
 title: Valdes Peninsula
 type: location
-score: 0.56
+score: 8.74
 loc_type: feature
 snippet: Patagonian peninsula of cold beaches and rich marine wildlife, from whales
   to sea lions.

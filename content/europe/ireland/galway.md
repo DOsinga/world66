@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Galway_cathedral.jpg
 latitude: 53.274412
 loc_type: city
 longitude: -9.04906
-score: 0.61
+score: 9.06
 snippet: West-coast Irish city on Galway Bay, alive with traditional music, university
   energy, and colourful streets.
 title: Galway

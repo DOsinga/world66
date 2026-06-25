@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_del_Redentore_(Veni
 latitude: 45.437191
 loc_type: city
 longitude: 12.33459
-score: 0.93
+score: 9.97
 snippet: Lagoon city of canals, palaces, and Venetian painting, beautiful despite
   summer crowds and decay
 title: Venice

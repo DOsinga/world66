@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avioth,_Notre-Dame,_exteri
 latitude: 49.012968
 loc_type: city
 longitude: 5.428669
-score: 0.34
+score: 6.6
 snippet: Quiet Lorraine department of forests and river valleys, marked by Verdun's
   World War I battlefields
 title: Meuse

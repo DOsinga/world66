@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vila_Real_Main_Square_01.j
 latitude: 37.194
 loc_type: city
 longitude: -7.416
-score: 0.41
+score: 7.38
 snippet: Algarve border town on the Guadiana River, facing Spain across one of Europe's
   shortest ferry crossings.
 title: Vila Real

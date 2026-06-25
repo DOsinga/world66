@@ -2,7 +2,7 @@
 latitude: 6.5573
 loc_type: city
 longitude: -75.8277
-score: 0.48
+score: 8.08
 snippet: Colonial town northwest of Medellín, with whitewashed streets in the warm
   Cauca valley.
 title: Santa Fe de Antioquia

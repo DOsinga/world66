@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20140726_Maasmechelen_03.j
 latitude: 50.963418
 loc_type: city
 longitude: 5.696021
-score: 0.32
+score: 6.4
 snippet: Limburg municipality on the Meuse, known for outlet shopping and access to
   Hoge Kempen heathland
 title: Maasmechelen

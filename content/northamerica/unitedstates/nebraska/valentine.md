@@ -5,7 +5,7 @@ done:
 latitude: 42.874675
 loc_type: city
 longitude: -100.550616
-score: 0.29
+score: 6.09
 snippet: Nebraska Sand Hills ranch town, gateway to the Niobrara National Scenic River.
 title: Valentine
 type: location

@@ -5,7 +5,7 @@ done:
 latitude: -23.658058
 loc_type: city
 longitude: 43.646858
-score: 0.41
+score: 7.36
 snippet: Vezo fishing village on Madagascar's southwest coast, facing a reef-protected
   turquoise lagoon
 title: Anakao

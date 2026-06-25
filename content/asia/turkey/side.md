@@ -8,7 +8,7 @@ loc_type: city
 snippet: Mediterranean Turkish town on a narrow peninsula, where Roman ruins thread
   through beachside lanes.
 longitude: 31.3892
-score: 0.55
+score: 8.63
 title: Side
 type: location
 image: side.jpg

@@ -4,7 +4,7 @@ done:
 latitude: 33.7181
 loc_type: city
 longitude: 73.6883
-score: 0.25
+score: 5.62
 snippet: Azad Kashmir hill town in pine and cedar country, serving as Sudhnoti District's
   administrative capital.
 title: Pallandri

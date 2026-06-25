@@ -4,7 +4,7 @@ done:
 latitude: 34.257607
 loc_type: city
 longitude: -88.703386
-score: 0.35
+score: 6.65
 snippet: Northern Mississippi city best known as Elvis Presley's birthplace and a
   gateway to the Natchez Trace.
 title: Tupelo

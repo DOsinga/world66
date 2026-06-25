@@ -12,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_U
 latitude: 40.712728
 loc_type: city
 longitude: -74.006015
-score: 0.81
+score: 9.89
 snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
   restless street life beside the Hudson.
 title: New York

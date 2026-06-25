@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nakhichevan_republic._Azer
 latitude: 39.2547
 loc_type: city
 longitude: 45.519
-score: 0.28
+score: 5.98
 snippet: Rural Nakhchivan district of plains and foothills, home to important Bronze
   Age Kultepe archaeological sites.
 title: Babek

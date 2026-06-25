@@ -8,7 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Guide
 type: location
-score: 0.26
+score: 5.76
 snippet: Predominantly Tibetan city in eastern Qinghai, set on the clear upper Yellow
   River.
 ---

@@ -2,7 +2,7 @@
 latitude: -13.305
 loc_type: city
 longitude: -72.1162
-score: 0.56
+score: 8.76
 snippet: Sacred Valley market town below Cusco, set among fertile fields along the
   Urubamba River.
 title: Urubamba

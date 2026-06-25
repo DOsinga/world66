@@ -2,7 +2,7 @@
 latitude: 36.8397
 loc_type: city
 longitude: -5.4031
-score: 0.52
+score: 8.4
 snippet: White Andalucian village perched above a reservoir in the green Sierra de
   Grazalema.
 title: Zahara de la Sierra

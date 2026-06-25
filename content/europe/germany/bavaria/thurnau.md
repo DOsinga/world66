@@ -6,7 +6,7 @@ latitude: 50.0244
 longitude: 11.3945
 title: Thurnau
 type: location
-score: 0.31
+score: 6.3
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Thurnau
@@ -14,7 +14,8 @@ image: thurnau.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Schloss_Thurnau_vom_See.JPG
 image_license: CC BY-SA 3.0
 image_attribution: D.j.mueller
-snippet: "Thurnau is an Upper Franconian town known for its restored castle and long pottery tradition."
+snippet: Thurnau is an Upper Franconian town known for its restored castle and long
+  pottery tradition.
 ---
 
 Thurnau is a small town in Upper Franconia, midway between [Bayreuth](/europe/germany/bavaria/bayreuth) and [Bamberg](/europe/germany/bavaria/bamberg) along the A70. It is best known for its [castle complex](/europe/germany/bavaria/thurnau/thurnau_castle), one of the largest in Franconia, which has been gradually restored and now houses a branch of the University of Bayreuth.

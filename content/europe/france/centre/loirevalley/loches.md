@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Loches_March%C3%A9-aux-Fle
 latitude: 47.1282
 loc_type: city
 longitude: 0.998
-score: 0.51
-snippet: "Medieval Loire Valley town above the Indre, dominated by a royal citadel, keep, and former dungeons."
+score: 8.32
+snippet: Medieval Loire Valley town above the Indre, dominated by a royal citadel,
+  keep, and former dungeons.
 title: Loches
 type: location
 ---

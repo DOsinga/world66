@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Miagao_Church_(Iloilo-Anti
 latitude: 10.7202
 loc_type: city
 longitude: 122.5621
-score: 0.43
+score: 7.54
 snippet: Western Visayas port city with colonial churches, Calle Real facades, and
   a celebrated food scene.
 title: Iloilo

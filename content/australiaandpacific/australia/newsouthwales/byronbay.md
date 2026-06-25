@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Byron_Bay_Lighthouse,_Beac
 latitude: -28.6434
 loc_type: city
 longitude: 153.6122
-score: 0.58
+score: 8.87
 snippet: Beach town at mainland Australia's easternmost point, known for surf and
   alternative coastal culture.
 tags:

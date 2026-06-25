@@ -2,7 +2,7 @@
 latitude: 18.6414
 loc_type: city
 longitude: 72.8722
-score: 0.36
+score: 6.84
 snippet: Maharashtra coastal town south of Mumbai, known for beaches and the offshore
   Kolaba Fort.
 title: Alibag

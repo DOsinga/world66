@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lobby_of_Spa_on_Rue_Royal.
 latitude: 50.4921
 loc_type: city
 longitude: 5.8628
-score: 0.45
+score: 7.81
 snippet: Original Ardennes spa town where mineral springs, faded elegance, and Spa-Francorchamps
   share the hills.
 title: Spa

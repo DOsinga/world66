@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:F4Fs_of_VMF-441_at_Nanumea
 latitude: -5.6653
 loc_type: island
 longitude: 176.1125
-score: 0.34
+score: 6.64
 snippet: Northwestern Tuvalu atoll where lagoon villages share space with major Second
   World War remains.
 sources:

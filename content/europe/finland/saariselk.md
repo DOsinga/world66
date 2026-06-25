@@ -5,7 +5,7 @@ done:
 latitude: 68.421398
 loc_type: city
 longitude: 27.417764
-score: 0.5
+score: 8.23
 snippet: Small fell village in Finnish Lapland, gateway to Urho Kekkonen National
   Park above the Arctic Circle.
 title: Saariselkä

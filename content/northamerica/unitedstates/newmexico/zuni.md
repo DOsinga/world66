@@ -6,7 +6,7 @@ latitude: 35.0694
 longitude: -108.8494
 title: Zuni
 type: location
-score: 0.35
+score: 6.66
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Zuni_Pueblo,_New_Mexico

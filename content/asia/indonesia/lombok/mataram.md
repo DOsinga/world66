@@ -5,7 +5,7 @@ done:
 latitude: -8.583773
 loc_type: city
 longitude: 116.10685
-score: 0.42
+score: 7.5
 snippet: Lombok capital conurbation combining Ampenan, Mataram, Cakranegara, and Sweta,
   each with distinct character.
 title: Mataram

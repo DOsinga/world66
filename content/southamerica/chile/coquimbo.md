@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coquimbo,_Regi%C3%B3n_de_C
 latitude: -29.9531
 loc_type: city
 longitude: -71.3433
-score: 0.41
+score: 7.39
 snippet: Working Chilean port city across from La Serena, marked by harbour hills
   and the Cruz del Tercer Milenio.
 sources:

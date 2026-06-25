@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pra%C3%A7a_de_Giraldo,_Evo
 latitude: 38.5708
 loc_type: city
 longitude: -7.9093
-score: 0.57
+score: 8.77
 snippet: Alentejo hill city and UNESCO site, with Roman, medieval, and Portuguese
   golden-age architecture.
 title: Évora

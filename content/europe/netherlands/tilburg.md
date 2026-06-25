@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/8470253@N04/6093535319
 latitude: 51.5555
 loc_type: city
 longitude: 5.0913
-score: 0.37
+score: 6.93
 snippet: North Brabant textile city where former mills now hold contemporary art,
   working looms, and cultural spaces.
 title: Tilburg

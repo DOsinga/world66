@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Amsterdam_Guyana_house
 latitude: 6.242641
 loc_type: city
 longitude: -57.516836
-score: 0.29
+score: 6.01
 snippet: Berbice River town with Dutch colonial origins, wooden waterfront buildings,
   and a quieter Guyanese pace
 title: New Amsterdam

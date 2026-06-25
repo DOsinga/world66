@@ -8,7 +8,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hailar
 title: Hailar
 type: location
-score: 0.33
+score: 6.51
 snippet: Inner Mongolian gateway city to the Hulunbuir Steppe, where grasslands stretch
   beyond the Hailar River.
 ---

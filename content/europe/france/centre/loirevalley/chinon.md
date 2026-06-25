@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinon_-_View_from_the_cas
 latitude: 47.1667
 loc_type: city
 longitude: 0.2402
-score: 0.54
+score: 8.6
 snippet: Loire Valley fortress town on the Vienne, tied to Joan of Arc and Cabernet
   Franc.
 title: Chinon

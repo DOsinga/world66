@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moon_Over_the_Water_in_Pue
 latitude: 20.4997
 loc_type: city
 longitude: -87.2263
-score: 0.47
+score: 7.92
 title: Puerto Aventuras
 type: location
 snippet: Gated Riviera Maya resort community built around a quiet marina south of

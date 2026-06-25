@@ -10,7 +10,7 @@ loc_type: city
 snippet: Togolese lagoon town on the Gulf of Guinea, marked by German colonial architecture
   and border traffic
 longitude: 1.593807
-score: 0.28
+score: 5.93
 title: Aneho
 type: location
 ---

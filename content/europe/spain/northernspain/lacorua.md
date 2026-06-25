@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_La_Coru%C3%B
 latitude: 43.37097
 loc_type: city
 longitude: -8.395943
-score: 0.48
+score: 8.08
 snippet: Galician Atlantic port on a sea-facing peninsula, wrapped by a long promenade
   and the Roman Torre de Hércules.
 title: La Coruña

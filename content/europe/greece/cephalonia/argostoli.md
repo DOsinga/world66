@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Argostoli_Faros.JPG
 latitude: 38.175673
 loc_type: city
 longitude: 20.48788
-score: 0.55
+score: 8.7
 snippet: Cephalonia's rebuilt capital on a sheltered bay, with a waterfront market
   and the Drapano Bridge.
 title: Argostoli

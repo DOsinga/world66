@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Seaside,_Oregon_-_beach_an
 latitude: 45.9932
 loc_type: city
 longitude: -123.9226
-score: 0.43
+score: 7.52
 title: Seaside
-snippet: Classic Oregon coast resort town with a broad beach, promenade, and Lewis and Clark landmark.
+snippet: Classic Oregon coast resort town with a broad beach, promenade, and Lewis
+  and Clark landmark.
 type: location
 ---
 

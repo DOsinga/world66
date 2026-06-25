@@ -8,10 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:StormontGeneral.jpg
 latitude: 54.5976
 loc_type: city
 longitude: -5.9277
-score: 0.51
+score: 8.28
 title: Belfast
 type: location
-snippet: "Northern Irish capital where shipyard heritage, political murals, and Victorian architecture define the cityscape."
+snippet: Northern Irish capital where shipyard heritage, political murals, and Victorian
+  architecture define the cityscape.
 ---
 
 Belfast has transformed itself from a city defined by conflict to one of the most interesting destinations in the British Isles. The Troubles left deep scars — the [peace walls](/europe/unitedkingdom/northernireland/belfast/murals_and_peace_walls), the murals, the sectarian geography — but they also gave Belfast a resilience and dark humour that makes it unlike anywhere else in the UK or Ireland.

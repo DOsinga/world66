@@ -7,7 +7,7 @@ done:
 latitude: 24.163162
 loc_type: city
 longitude: 120.647828
-score: 0.5
+score: 8.18
 title: Taichung
 type: location
 snippet: Central Taiwanese city with a mild climate, design culture, and mountains

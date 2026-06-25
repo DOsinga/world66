@@ -4,7 +4,7 @@ done:
 latitude: 56.305319
 loc_type: feature
 longitude: -6.236819
-score: 0.46
+score: 7.85
 snippet: Southern Mull peninsula of shell-sand beaches, single-track roads, and the
   ferry crossing to Iona.
 title: Ross of Mull

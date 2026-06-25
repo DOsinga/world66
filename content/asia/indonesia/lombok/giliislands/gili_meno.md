@@ -3,7 +3,7 @@ country: Indonesia
 latitude: -8.3567
 loc_type: island
 longitude: 116.0647
-score: 0.56
+score: 8.71
 snippet: Quietest of the Gili Islands, with slow beach days, reef snorkelling, and
   a submerged statue garden.
 title: Gili Meno

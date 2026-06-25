@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_Cit
 latitude: 24.5787
 loc_type: city
 longitude: 73.6863
-score: 0.66
+score: 9.33
 title: Udaipur
-snippet: Rajasthani lake city of white palaces, Aravalli hills, ghats, and sunset views over Lake Pichola.
+snippet: Rajasthani lake city of white palaces, Aravalli hills, ghats, and sunset
+  views over Lake Pichola.
 type: location
 ---
 

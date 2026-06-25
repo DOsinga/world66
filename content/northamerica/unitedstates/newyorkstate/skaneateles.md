@@ -5,7 +5,7 @@ done:
 latitude: 42.947011
 loc_type: city
 longitude: -76.429102
-score: 0.41
+score: 7.33
 snippet: Finger Lakes village on Skaneateles Lake, with Federal architecture and a
   compact waterfront centre.
 title: Skaneateles

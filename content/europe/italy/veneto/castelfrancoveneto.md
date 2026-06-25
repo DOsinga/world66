@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CastelfrancoV_mura.jpg
 latitude: 45.6667
 loc_type: city
 longitude: 11.9333
-score: 0.43
+score: 7.59
 snippet: Walled Veneto town where Giorgione's birthplace sits inside a near-perfect
   medieval fortress.
 sources:

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beidaihe_panorama_from_the
 latitude: 39.8336
 loc_type: city
 longitude: 119.4897
-score: 0.38
+score: 6.99
 title: Beidaihe
 type: location
 snippet: Bohai Sea resort district east of Beijing, long used as the capital's summer

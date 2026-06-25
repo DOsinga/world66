@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Comercial_Weege_de_19
 latitude: -26.7356
 loc_type: city
 longitude: -49.177
-score: 0.4
+score: 7.28
 snippet: Santa Catarina city of Pomeranian roots, half-timbered houses, and Brazil's
   strongest German-speaking community.
 title: Pomerode

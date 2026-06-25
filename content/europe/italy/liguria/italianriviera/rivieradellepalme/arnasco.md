@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnasco-panorama1.jpg
 latitude: 44.0782
 loc_type: city
 longitude: 8.1074
-score: 0.35
+score: 6.66
 title: Arnasco
 type: location
 snippet: Ligurian hill village above Albenga, surrounded by olive groves, vineyards,

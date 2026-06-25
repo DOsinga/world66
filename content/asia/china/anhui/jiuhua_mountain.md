@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jiuhuashan-ss.jpg
 latitude: 30.4822
 loc_type: feature
 longitude: 117.8044
-score: 0.49
+score: 8.11
 snippet: Sacred Buddhist mountain in Anhui, closely associated with Dizang Bodhisattva
   and solemn pilgrim devotion
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: 45.9033
 loc_type: feature
 longitude: 8.5319
-score: 0.6
+score: 9.03
 snippet: Lago Maggiore island group owned by the Borromeo family, including palace-filled
   Isola Bella.
 title: Borromean Islands

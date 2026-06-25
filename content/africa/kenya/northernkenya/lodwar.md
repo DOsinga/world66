@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lodwar_Town_Loima_Hills_Su
 latitude: 3.1166
 loc_type: city
 longitude: 35.6023
-score: 0.23
+score: 5.42
 snippet: Turkana gateway town for Lake Turkana's jade water, desert heat, and western-shore
   camps.
 sources:

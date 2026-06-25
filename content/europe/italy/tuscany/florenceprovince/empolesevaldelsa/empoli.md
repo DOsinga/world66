@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Empoli_-_Piazza_Farinata_d
 latitude: 43.719488
 loc_type: city
 longitude: 10.945856
-score: 0.37
+score: 6.92
 snippet: Working Arno valley town near Florence, with a Romanesque collegiate church
   and surprisingly rich Renaissance art museum.
 title: Empoli

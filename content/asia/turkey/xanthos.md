@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xanthos_south_of_Decumanus
 latitude: 36.3559
 loc_type: city
 longitude: 29.3188
-score: 0.48
+score: 8.03
 snippet: Ancient Lycian capital in the Xanthos valley, with tombs, inscriptions, and
   a dramatic siege history.
 tags:

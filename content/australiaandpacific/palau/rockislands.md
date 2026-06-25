@@ -4,7 +4,7 @@ done:
 image_attribution: Luka Peternel
 latitude: 7.3418
 longitude: 134.4693
-score: 0.72
+score: 9.49
 title: Rock Islands
 type: location
 loc_type: feature

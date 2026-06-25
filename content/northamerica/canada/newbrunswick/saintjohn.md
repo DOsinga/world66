@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BANDSTAND.JPG
 latitude: 45.2788
 loc_type: city
 longitude: -66.0585
-score: 0.39
+score: 7.16
 snippet: New Brunswick working-port city at the Bay of Fundy mouth of the Saint John
   River.
 title: Saint John

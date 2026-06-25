@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cayos_Cochinos_Lighthouse_
 latitude: 15.96
 loc_type: city
 longitude: -86.48
-score: 0.5
+score: 8.18
 snippet: Honduran Caribbean archipelago of coral cays, Garifuna village life, and
   a protected reef.
 title: Cayos Cochinos

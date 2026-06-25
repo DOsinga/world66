@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cosenza_-_Piazza_Kennedy_-
 latitude: 39.298
 loc_type: city
 longitude: 16.254
-score: 0.42
+score: 7.47
 title: Cosenza
 type: location
 snippet: Northern Calabrian city where the Busento and Crati meet below a Norman-Swabian

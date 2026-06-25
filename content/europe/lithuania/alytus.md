@@ -4,7 +4,7 @@ done:
 latitude: 54.396134
 loc_type: city
 longitude: 24.045927
-score: 0.31
+score: 6.25
 snippet: Southern Lithuanian river city divided by the Nemunas valley and linked by
   the Bridge of White Rose.
 title: Alytus

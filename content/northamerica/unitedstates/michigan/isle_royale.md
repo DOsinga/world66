@@ -4,7 +4,7 @@ done:
 latitude: 48.007382
 loc_type: feature
 longitude: -88.828987
-score: 0.47
+score: 7.95
 snippet: Roadless Lake Superior island national park known for wilderness trails and
   long-running wolf-moose research.
 title: Isle Royale

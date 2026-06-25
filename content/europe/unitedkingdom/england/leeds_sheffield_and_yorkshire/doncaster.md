@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Minster_Church_of_St_G
 latitude: 53.5228
 loc_type: city
 longitude: -1.1335
-score: 0.32
+score: 6.31
 snippet: South Yorkshire market town with Roman roots and England's oldest classic
   horse race.
 title: Doncaster

@@ -5,7 +5,7 @@ done:
 latitude: 53.2561
 loc_type: city
 longitude: -4.3115
-score: 0.33
+score: 6.47
 snippet: Anglesey county town with a Welsh-speaking market centre and the Oriel Ynys
   Môn museum.
 title: Llangefni

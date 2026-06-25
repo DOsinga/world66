@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Auer_s.jpg
 latitude: 48.890934
 loc_type: city
 longitude: 8.702551
-score: 0.33
+score: 6.44
 snippet: Black Forest gateway city known as Goldstadt for its long jewelry and watchmaking
   tradition.
 title: Pforzheim

@@ -5,7 +5,7 @@ done:
 latitude: 53.382839
 loc_type: city
 longitude: 5.285649
-score: 0.42
+score: 7.43
 snippet: Central Terschelling village with Frisian houses, island restaurants, and
   easy cycling to beach and dunes.
 title: Midsland

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Courbet_-_La_Vall%C3%A9e_d
 latitude: 47.1003
 loc_type: city
 longitude: 6.1467
-score: 0.47
+score: 7.99
 snippet: French river valley in Doubs known for limestone gorges, the source of the
   Loue, and Courbet's Ornans.
 title: Loue Valley

@@ -5,7 +5,7 @@ done:
 latitude: 39.6069
 loc_type: city
 longitude: -105.9497
-score: 0.46
+score: 7.88
 snippet: Colorado ski resort town spread across three mountains, with extensive night
   skiing near the Continental Divide
 title: Keystone

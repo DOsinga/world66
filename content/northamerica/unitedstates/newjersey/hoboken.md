@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/13112122@N00/30015869045
 latitude: 40.7433
 loc_type: city
 longitude: -74.0324
-score: 0.34
+score: 6.6
 snippet: One-square-mile Hudson River city facing Manhattan, with brownstones and
   skyline views.
 title: Hoboken

@@ -5,7 +5,7 @@ done:
 latitude: 50.4044
 loc_type: city
 longitude: 80.2497
-score: 0.22
+score: 5.1
 snippet: Irtysh River city in northeastern Kazakhstan, marked by Dostoevsky exile
   history and nearby Soviet nuclear tests
 title: Semipalatinsk

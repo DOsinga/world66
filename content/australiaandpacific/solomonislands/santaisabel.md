@@ -5,7 +5,7 @@ done:
 latitude: -8.0412
 loc_type: city
 longitude: 159.2113
-score: 0.3
+score: 6.14
 snippet: Long mountainous Solomon Islands province where Alvaro de Mendana made early
   European contact in 1568
 title: Santa Isabel

@@ -5,7 +5,7 @@ done:
 latitude: 48.0613
 loc_type: city
 longitude: -114.0786
-score: 0.4
+score: 7.22
 snippet: Small village on Flathead Lake, known for galleries, summer theatre, cherries,
   and Swan Mountain views.
 title: Bigfork

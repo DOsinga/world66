@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boat_in_Zhouzhuang_%E5%91%
 latitude: 31.1147
 loc_type: city
 longitude: 120.8456
-score: 0.52
+score: 8.38
 snippet: Jiangnan water town of canals, arched bridges, Ming-Qing houses, and the
   much-painted Double Bridge.
 title: Zhouzhuang

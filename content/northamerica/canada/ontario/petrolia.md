@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:444_Greenfield_Street,_Pet
 latitude: 42.882002
 loc_type: city
 longitude: -82.149582
-score: 0.25
+score: 5.59
 snippet: Ontario oil town with Victorian streetscapes, early wells, and museums tracing
   Canada's petroleum history
 title: Petrolia

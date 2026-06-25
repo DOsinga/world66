@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237
-score: 0.62
+score: 9.12
 snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
   rainforest parks, and glass towers.
 title: Kuala Lumpur

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_orte_italy_panorama_2024
 latitude: 42.4604
 loc_type: city
 longitude: 12.3853
-score: 0.39
+score: 7.19
 snippet: Northern Lazio hill town on a tufa outcrop, with an atmospheric medieval
   centre above a major rail junction.
 sources:

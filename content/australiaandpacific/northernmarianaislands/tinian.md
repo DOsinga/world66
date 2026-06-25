@@ -5,7 +5,7 @@ done:
 latitude: 14.96
 loc_type: city
 longitude: 145.635
-score: 0.39
+score: 7.09
 snippet: Northern Mariana island where quiet beaches share space with major Second
   World War history
 title: Tinian

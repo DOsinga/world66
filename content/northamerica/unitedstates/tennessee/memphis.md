@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:American_Queen_Memphis_TN_
 latitude: 35.146025
 loc_type: city
 longitude: -90.051764
-score: 0.49
+score: 8.1
 title: Memphis
 type: location
 snippet: Mississippi River city of blues, barbecue, civil-rights history, and Elvis's

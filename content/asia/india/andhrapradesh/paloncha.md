@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kothagudem_Thermal_Power_s
 latitude: 17.605
 loc_type: city
 longitude: 80.7137
-score: 0.19
+score: 4.69
 snippet: Telangana industrial town on the Godavari, backed by Kinnerasani forest and
   Eastern Ghats foothills
 title: Paloncha

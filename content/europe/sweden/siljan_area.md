@@ -5,7 +5,7 @@ done:
 latitude: 61.08
 loc_type: city
 longitude: 14.8
-score: 0.47
+score: 7.97
 snippet: Dalarna lake region of red farmhouses, craft villages, and a 360-million-year
   meteorite crater.
 title: Siljan area

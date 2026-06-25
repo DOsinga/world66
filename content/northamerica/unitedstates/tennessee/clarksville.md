@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:American_Queen_Clarksville
 latitude: 36.5278
 loc_type: city
 longitude: -87.3589
-score: 0.29
+score: 6.07
 title: Clarksville
 type: location
 snippet: Cumberland River city shaped by tobacco trading, Fort Campbell, and a compact

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Liuzhou_City_seen_from_Ma%
 latitude: 24.3181
 loc_type: city
 longitude: 109.4069
-score: 0.34
+score: 6.65
 snippet: Guangxi industrial city where the Liu River loops between karst peaks and
   luosifen noodle stalls
 sources:

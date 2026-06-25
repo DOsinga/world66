@@ -6,7 +6,7 @@ done:
 latitude: -38.3826
 loc_type: city
 longitude: 142.4814
-score: 0.4
+score: 7.21
 snippet: Seaside town at the Great Ocean Road’s western end, with maritime history
   and winter whale watching.
 title: Warrnambool

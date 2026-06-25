@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Golf-Diano-Marina.jpg
 latitude: 43.910077
 loc_type: city
 longitude: 8.080364
-score: 0.47
-snippet: "Riviera di Ponente seaside town with a long sandy beach, mild microclimate, and Roman-era local finds."
+score: 8.0
+snippet: Riviera di Ponente seaside town with a long sandy beach, mild microclimate,
+  and Roman-era local finds.
 title: Diano Marina
 type: location
 ---

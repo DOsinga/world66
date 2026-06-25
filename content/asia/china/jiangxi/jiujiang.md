@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiujiang
 title: Jiujiang
 type: location
-score: 0.35
+score: 6.72
 snippet: Yangtze river port at Poyang Lake, with treaty-port traces and access to
   Lushan.
 ---

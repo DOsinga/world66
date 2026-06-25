@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Algeria_Shrine_Temple_(201
 latitude: 46.5927
 loc_type: city
 longitude: -112.0363
-score: 0.38
+score: 6.98
 snippet: Montana capital in Rocky Mountain foothills, born from gold and ringed by
   pine-covered trails.
 title: Helena

@@ -8,10 +8,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Passe_d%27Avatoru_Rangiroa
 latitude: -14.941972
 loc_type: city
 longitude: -147.706148
-score: 0.57
+score: 8.8
 title: Avatoru
 type: location
-snippet: "Sleepy Rangiroa atoll village stretched across narrow islets between lagoon water and open ocean."
+snippet: Sleepy Rangiroa atoll village stretched across narrow islets between lagoon
+  water and open ocean.
 ---
 
 More a sleepy hamlet than a settlement, Avatoru is a series of islets connected by concrete bridges. It and neighbouring Tiputa are the only populated areas of the Rangiroa atoll, aside from the boat-accessible resort across the main lagoon.

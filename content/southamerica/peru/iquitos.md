@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_en_Iquitos.
 latitude: -3.749365
 loc_type: city
 longitude: -73.244415
-score: 0.52
+score: 8.37
 title: Iquitos
 type: location
 snippet: Peruvian Amazon city reachable only by river or air, shaped by rubber-boom

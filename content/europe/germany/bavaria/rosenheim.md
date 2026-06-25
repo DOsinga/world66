@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inn_Rosenheim.jpeg
 latitude: 47.853927
 loc_type: city
 longitude: 12.127262
-score: 0.4
+score: 7.28
 snippet: Bavarian market town at the Inn-Mangfall confluence, known for arcaded streets
   and a local autumn beer festival
 title: Rosenheim

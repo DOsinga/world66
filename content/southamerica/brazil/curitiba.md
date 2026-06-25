@@ -8,7 +8,7 @@ image: ''
 latitude: -25.4296
 loc_type: city
 longitude: -49.2713
-score: 0.43
+score: 7.63
 snippet: Well-planned Paraná capital known for parks, bus rapid transit, and layered
   immigrant neighbourhoods.
 sources:

@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Franeker,_het_stadhuis_RM1
 latitude: 53.188051
 loc_type: city
 longitude: 5.540965
-score: 0.39
+score: 7.1
 title: Franeker
-snippet: Small Frisian town famed for Eise Eisinga's working living-room planetarium and kaatsen tradition.
+snippet: Small Frisian town famed for Eise Eisinga's working living-room planetarium
+  and kaatsen tradition.
 type: location
 ---
 

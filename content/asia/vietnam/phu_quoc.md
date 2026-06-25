@@ -10,7 +10,7 @@ image: phu_quoc.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamphotos.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Trantuonglam
-score: 0.59
+score: 8.95
 snippet: Vietnam's largest island, a Gulf of Thailand beach destination still known
   for fish sauce and forests.
 ---

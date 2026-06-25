@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carneige_Art_Museum_2,_Oxn
 latitude: 34.197631
 loc_type: city
 longitude: -119.180381
-score: 0.32
+score: 6.41
 title: Oxnard
 type: location
 snippet: Ventura County port city with broad uncrowded beaches and a working Channel

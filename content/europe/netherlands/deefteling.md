@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:De_efteling(207).jpg
 latitude: 51.648431
 loc_type: feature
 longitude: 5.043606
-score: 0.51
+score: 8.3
 snippet: Dutch fairy-tale amusement park near Kaatsheuvel, rooted in Anton Pieck's
   woodland Sprookjesbos
 title: De Efteling

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/15216811@N06/4961391784
 latitude: 41.232617
 loc_type: city
 longitude: 13.089398
-score: 0.49
+score: 8.11
 snippet: Pontine coast town below Monte Circeo, where wooded sea cliffs meet Homeric
   legend.
 title: San Felice Circeo

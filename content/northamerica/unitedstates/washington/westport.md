@@ -2,7 +2,7 @@
 latitude: 46.8904
 loc_type: city
 longitude: -124.1059
-score: 0.32
+score: 6.41
 snippet: Washington fishing and beach town at Grays Harbor, with a working fleet and
   Pacific surf
 title: Westport

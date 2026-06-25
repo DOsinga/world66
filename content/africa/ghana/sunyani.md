@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cocoa_House_in_Sunyani.jpg
 latitude: 7.3384
 loc_type: city
 longitude: -2.3309
-score: 0.26
+score: 5.79
 snippet: Bono Region capital in central Ghana, with a compact market centre and useful
   day-trip access.
 title: Sunyani

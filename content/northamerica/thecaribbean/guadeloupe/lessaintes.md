@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Terre-de-Haut,_Les
 latitude: 15.8569
 loc_type: city
 longitude: -61.5833
-score: 0.58
+score: 8.89
 snippet: Small Guadeloupe archipelago where Terre-de-Haut surrounds a turquoise bay
   below Fort Napoléon.
 title: Les Saintes

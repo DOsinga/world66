@@ -5,7 +5,7 @@ done:
 latitude: 5.859166
 loc_type: city
 longitude: 48.25409
-score: 0.05
+score: 1.28
 title: Hobyo
 type: location
 snippet: Somali coastal town on the Indian Ocean, once a port of the Hobyo Sultanate.

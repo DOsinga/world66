@@ -7,7 +7,7 @@ done:
 latitude: 29.4336
 loc_type: city
 longitude: 48.321
-score: 0.33
+score: 6.49
 snippet: Kuwaiti island layered with Dilmun, Hellenistic, and modern war history just
   offshore from Kuwait City.
 title: Failaka Island

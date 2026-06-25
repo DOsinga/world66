@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Baquerizo_Moreno_po
 latitude: -0.9013
 loc_type: city
 longitude: -89.6088
-score: 0.66
+score: 9.36
 snippet: Galápagos provincial capital on San Cristóbal Island, known for waterfront
   sea lions and Darwin history.
 title: Puerto Baquerizo Moreno

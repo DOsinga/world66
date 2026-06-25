@@ -5,7 +5,7 @@ done:
 latitude: 36.596391
 loc_type: city
 longitude: -119.451188
-score: 0.25
+score: 5.57
 snippet: San Joaquin Valley farming town shaped by fruit orchards, Mennonite institutions,
   and a compact historic downtown.
 sources:

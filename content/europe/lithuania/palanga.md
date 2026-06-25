@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:19_palanga_Palanga_Pier_(2
 latitude: 55.923
 loc_type: city
 longitude: 21.0683
-score: 0.41
+score: 7.38
 title: Palanga
 type: location
 snippet: Baltic seaside resort with long sandy beaches, pine-backed dunes, a pier,

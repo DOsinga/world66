@@ -5,7 +5,7 @@ done:
 latitude: -32.5978
 loc_type: city
 longitude: -53.3864
-score: 0.24
+score: 5.55
 title: Río Branco
 type: location
 snippet: Small Uruguayan border town where the Yaguarón River and Barón de Mauá bridge

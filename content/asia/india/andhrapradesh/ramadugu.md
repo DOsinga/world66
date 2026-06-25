@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:10th_century_Bommalagutta_
 latitude: 18.586176
 loc_type: city
 longitude: 79.06002
-score: 0.17
+score: 4.41
 snippet: Telangana village known for ancient fort walls and a regional tradition of
   stone carving.
 title: Ramadugu

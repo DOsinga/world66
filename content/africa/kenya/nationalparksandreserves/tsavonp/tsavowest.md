@@ -6,7 +6,7 @@ done:
 latitude: -3.2335
 loc_type: feature
 longitude: 38.0
-score: 0.54
+score: 8.61
 snippet: Dramatic Kenyan park of lava flows, forested hills, and spring-fed pools
   below volcanic rock.
 title: Tsavo West

@@ -4,7 +4,7 @@ done:
 latitude: 43.7667
 loc_type: city
 longitude: 10.8833
-score: 0.41
+score: 7.34
 snippet: Tuscan hill town where a Medici hunting villa anchors vineyards and Padule
   di Fucecchio views.
 sources:

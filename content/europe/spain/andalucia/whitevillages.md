@@ -5,7 +5,7 @@ done:
 latitude: 36.7468
 loc_type: feature
 longitude: -5.1609
-score: 0.63
+score: 9.16
 snippet: Andalucía's white hill-town region, where castle-topped villages sit among
   rolling green landscapes.
 title: White Villages

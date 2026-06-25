@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Toila-Oru_park.jpg
 latitude: 59.4209
 loc_type: city
 longitude: 27.5133
-score: 0.36
+score: 6.78
 snippet: Seaside resort on northeast Estonia’s cliffs, centred on Toila-Oru Park and
   the North Estonian Klint.
 sources:

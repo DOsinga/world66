@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ales_from_Belvedere.jpg
 latitude: 44.1272
 loc_type: city
 longitude: 4.0808
-score: 0.4
+score: 7.26
 snippet: Southern gateway town to the Cévennes, with coal-mining history and quick
   mountain-valley access
 sources:

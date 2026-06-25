@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Menton_february_13.jpg
 latitude: 43.775349
 loc_type: city
 longitude: 7.502921
-score: 0.56
+score: 8.73
 snippet: Riviera border town with pastel hillside streets, lemon gardens, and an unusually
   mild coastal climate
 title: Menton

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0620-WI017-Wausau-400
 latitude: 44.9598
 loc_type: city
 longitude: -89.6273
-score: 0.3
+score: 6.19
 snippet: Central Wisconsin city on the Wisconsin River, known for whitewater kayaking
   and easy access to Rib Mountain
 title: Wausau

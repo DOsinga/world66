@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:073x_Dining_in_the_Street_
 latitude: 35.2828
 loc_type: city
 longitude: -120.6596
-score: 0.5
+score: 8.24
 snippet: Central Coast college city around Mission San Luis Obispo de Tolosa, known
   locally as SLO
 title: San Luis Obispo

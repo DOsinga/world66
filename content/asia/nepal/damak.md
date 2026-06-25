@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Damak_bazar.jpg
 latitude: 26.670146
 loc_type: city
 longitude: 87.680101
-score: 0.26
+score: 5.8
 snippet: Eastern Nepal town beside the Ratuwa river, surrounded by tea gardens near
   the Indian border.
 title: Damak

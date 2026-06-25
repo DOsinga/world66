@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beas_Valley_-_Palchan_-_Ku
 latitude: 31.957897
 loc_type: city
 longitude: 77.108923
-score: 0.47
+score: 7.93
 snippet: Himalayan valley town on the Beas River, surrounded by apple orchards, cedar
   forests, and wooden temples.
 title: Kullu

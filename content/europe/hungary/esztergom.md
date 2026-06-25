@@ -5,7 +5,7 @@ done:
 latitude: 47.7857
 loc_type: city
 longitude: 18.7403
-score: 0.49
+score: 8.15
 snippet: Hungarian Danube city where the basilica marks the cradle of Christian Hungary
 title: Esztergom
 type: location

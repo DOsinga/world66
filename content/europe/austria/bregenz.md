@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:19.10.2020._Flug_mit_dem_Z
 latitude: 47.5026
 loc_type: city
 longitude: 9.7473
-score: 0.5
+score: 8.23
 title: Bregenz
 type: location
 snippet: Vorarlberg capital on Lake Constance, known for its floating summer opera

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Penglai,_Shandong,_China,_
 latitude: 37.81
 loc_type: city
 longitude: 120.7517
-score: 0.4
+score: 7.26
 snippet: Shandong coastal city of Taoist legend, sea mirages, and Penglai Pavilion
   above the Bohai Strait.
 sources:

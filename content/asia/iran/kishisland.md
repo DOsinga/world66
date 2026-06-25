@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Kish_Island_Iran.jpg
 latitude: 26.535066
 loc_type: city
 longitude: 53.97198
-score: 0.4
+score: 7.22
 title: Kish island
 type: location
 snippet: Persian Gulf coral island and Iranian free-trade resort, known for beaches

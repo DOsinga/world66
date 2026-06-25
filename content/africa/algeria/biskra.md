@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Biskra_1.JPG
 latitude: 34.8484
 loc_type: city
 longitude: 5.7286
-score: 0.33
+score: 6.43
 title: Biskra
 type: location
 snippet: Saharan gateway city where the Tell Atlas breaks into date palms and open

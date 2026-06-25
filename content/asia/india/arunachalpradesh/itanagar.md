@@ -5,7 +5,7 @@ done:
 latitude: 27.097966
 loc_type: city
 longitude: 93.623729
-score: 0.31
+score: 6.3
 snippet: Capital of Arunachal Pradesh in the eastern Himalayan foothills, named for
   the brick ruins of Ita Fort.
 sources:

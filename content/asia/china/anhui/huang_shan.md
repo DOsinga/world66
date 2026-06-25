@@ -7,7 +7,7 @@ latitude: 30.13
 longitude: 118.17
 done:
   location_cleanup: 2026-04-07
-score: 0.66
+score: 9.33
 loc_type: feature
 image: huang_shan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20160422_CHINA_1321.jpg

@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-02'
 latitude: 53.383024
 longitude: -6.592281
-score: 0.38
+score: 6.98
 title: Maynooth
 type: location
 loc_type: city

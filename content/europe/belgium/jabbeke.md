@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jabbeke_-_Carrer_Major.jpg
 latitude: 51.191219
 loc_type: city
 longitude: 3.100769
-score: 0.26
+score: 5.83
 snippet: Quiet Flemish town between Bruges and Ostend, centred on Constant Permeke's
   former home and studio.
 title: Jabbeke

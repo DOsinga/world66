@@ -5,7 +5,7 @@ done:
 latitude: 13.0827
 loc_type: city
 longitude: -59.5415
-score: 0.54
+score: 8.6
 snippet: South coast Barbados parish with calm swimming beaches, St. Lawrence Gap
   nightlife, and the island airport
 sources:

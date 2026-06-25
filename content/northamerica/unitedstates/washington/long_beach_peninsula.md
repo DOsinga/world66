@@ -5,9 +5,10 @@ done:
 latitude: 46.4666
 loc_type: city
 longitude: -124.043
-score: 0.4
+score: 7.28
 title: Long Beach Peninsula
-snippet: Pacific peninsula between surf and Willapa Bay, known for drivable beach, oysters, and Oysterville's old houses.
+snippet: Pacific peninsula between surf and Willapa Bay, known for drivable beach,
+  oysters, and Oysterville's old houses.
 type: location
 ---
 

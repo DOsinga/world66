@@ -2,7 +2,7 @@
 latitude: 51.1945
 loc_type: city
 longitude: 5.9876
-score: 0.41
+score: 7.35
 snippet: Limburg city at the Maas and Roer confluence, with a compact old centre and
   cross-border character.
 title: Roermond

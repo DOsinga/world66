@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Do%C4%9Fubayaz%C4%B1t_from
 latitude: 39.548337
 loc_type: city
 longitude: 44.079359
-score: 0.4
+score: 7.19
 snippet: Far-eastern Turkish border town below Mount Ararat, watched over by Ishak
   Pasha Palace.
 title: Dogubeyazit

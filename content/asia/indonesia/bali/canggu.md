@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canggu_beach_4.jpg
 latitude: -8.6558
 loc_type: city
 longitude: 115.1342
-score: 0.61
+score: 9.08
 snippet: Bali surf neighbourhood turned digital-nomad hub, where rice fields, beach
   clubs, and serious breaks crowd together.
 sources:

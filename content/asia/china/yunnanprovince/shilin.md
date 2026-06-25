@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Shilin
 title: Stone Forest (Shilin)
 type: location
-score: 0.55
+score: 8.68
 snippet: Yunnan karst landscape near Kunming, famed for tall limestone pillars known
   as the Stone Forest.
 ---

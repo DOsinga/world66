@@ -5,7 +5,7 @@ done:
 latitude: 40.0581
 loc_type: city
 longitude: -82.4013
-score: 0.26
+score: 5.81
 snippet: Central Ohio county seat near the Newark Earthworks, among the world's largest
   geometric earthwork complexes.
 sources:

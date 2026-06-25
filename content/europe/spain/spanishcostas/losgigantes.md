@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Gigantes,_Tenerife,_Es
 latitude: 28.2439
 loc_type: city
 longitude: -16.8403
-score: 0.5
+score: 8.21
 snippet: Tenerife west-coast resort named for the basalt cliffs rising beside its
   marina and beach.
 sources:

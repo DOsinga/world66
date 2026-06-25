@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorila_de_monta%C3%B1a_(Go
 latitude: -1.0167
 loc_type: feature
 longitude: 29.6833
-score: 0.56
+score: 8.74
 snippet: Ancient Ugandan forest reserve known for mountain gorillas and exceptional
   biodiversity.
 sources:

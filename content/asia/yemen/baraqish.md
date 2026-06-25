@@ -5,7 +5,7 @@ done:
 latitude: 14.082526
 loc_type: city
 longitude: 44.407781
-score: 0.22
+score: 5.19
 snippet: Ancient hilltop Yemeni city enclosed by high walls and Ma'in temple ruins
   near Marib.
 title: Baraqish

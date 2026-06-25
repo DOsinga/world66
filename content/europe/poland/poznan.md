@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stary_Rynek_w_Poznaniu,_wi
 latitude: 52.4064
 loc_type: city
 longitude: 16.9252
-score: 0.48
+score: 8.05
 snippet: Historic Polish university city where Cathedral Island origins meet a colourful
   Old Market Square.
 title: Poznan

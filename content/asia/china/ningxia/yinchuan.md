@@ -4,7 +4,7 @@ done:
 latitude: 38.48717
 loc_type: city
 longitude: 106.226657
-score: 0.38
+score: 7.01
 title: Yinchuan
 type: location
 snippet: Ningxia capital by the Yellow River, framed by the Helan Mountains and Western

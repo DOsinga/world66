@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gros_Morne_NP_westernbrook
 latitude: 49.65
 loc_type: feature
 longitude: -57.75
-score: 0.55
+score: 7.56
 snippet: UNESCO-listed Newfoundland park of fjords, tablelands, fishing villages,
   and mountain hikes.
 sources:

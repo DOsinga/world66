@@ -6,7 +6,7 @@ latitude: 36.3592
 longitude: 43.1589
 title: Nineveh
 type: location
-score: 0.25
+score: 5.62
 loc_type: city
 image: ninevah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2018_Ashurbanipal_-_Nineveh.jpg

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Birds_on_Poyang_Lake_(1527
 latitude: 29.083
 loc_type: feature
 longitude: 116.283
-score: 0.37
+score: 6.87
 snippet: Northern Jiangxi freshwater lake whose seasonal wetlands hold East Asia's
   great winter bird migrations.
 sources:

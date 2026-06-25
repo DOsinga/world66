@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_Vigo_Galiza._Galicia-
 latitude: 42.2314
 loc_type: city
 longitude: -8.7227
-score: 0.45
+score: 7.8
 snippet: Galician fishing port on a deep Atlantic bay, shaped by seafood markets and
   shipyards.
 title: Vigo

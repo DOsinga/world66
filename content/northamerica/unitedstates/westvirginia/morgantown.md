@@ -5,7 +5,7 @@ done:
 latitude: 39.6297
 loc_type: city
 longitude: -79.9559
-score: 0.32
+score: 6.31
 snippet: West Virginia university town with Appalachian hills, lively campuses, and
   a driverless Personal Rapid Transit system.
 sources:

@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-07
 latitude: 35.1809
 longitude: 25.4679
-score: 0.51
+score: 8.36
 title: Lassithi plateau
 type: location
 loc_type: feature

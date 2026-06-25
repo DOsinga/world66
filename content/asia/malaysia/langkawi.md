@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eagle_square_at_Kuah_Langk
 latitude: 6.370039
 loc_type: city
 longitude: 99.792863
-score: 0.62
+score: 9.11
 snippet: Malaysian archipelago of beaches, limestone karsts, mangroves, and duty-free
   island life near Thailand.
 title: Langkawi

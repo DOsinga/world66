@@ -4,7 +4,7 @@ done:
 latitude: 57.7081
 loc_type: feature
 longitude: 26.4947
-score: 0.4
+score: 7.2
 snippet: Small Estonian national park of rolling glacial uplands, forest, marshes,
   meadows, and scattered lakes.
 title: Karula National Park

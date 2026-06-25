@@ -4,7 +4,7 @@ done:
 latitude: 44.8786
 loc_type: feature
 longitude: -86.0336
-score: 0.49
+score: 8.14
 snippet: Lake Michigan national lakeshore of towering dunes, forested beaches, and
   the Manitou Islands.
 title: Sleeping Bear Dunes National Lakeshore

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergeggi_Panorama.jpg
 latitude: 44.249735
 loc_type: city
 longitude: 8.443353
-score: 0.47
+score: 7.99
 snippet: Ligurian coastal village above a marine reserve, offshore islet, and Neolithic
   sea cave.
 title: Bergeggi

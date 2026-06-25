@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Doi_Chiang_Dao_in_the_clou
 latitude: 19.3696
 loc_type: city
 longitude: 98.9657
-score: 0.53
+score: 8.47
 snippet: Northern Thai valley town beneath Doi Luang Chiang Dao, known for caves,
   hot springs, and dark skies.
 title: Chiang Dao

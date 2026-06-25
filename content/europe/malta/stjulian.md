@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bah%C3%ADa_de_Spinola,_San
 latitude: 35.919922
 loc_type: city
 longitude: 14.487712
-score: 0.52
+score: 8.37
 snippet: Maltese waterfront town where Spinola Bay, Paceville nightlife, and rocky
   swimming spots sit close together.
 title: St Julian's

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Huta_Ginjang_Samosir_2_(Te
 latitude: 2.593629
 loc_type: city
 longitude: 98.801082
-score: 0.51
+score: 8.36
 snippet: Batak island inside Lake Toba's volcanic caldera, ringed by cliffs, dark
   water, and clan-house villages.
 sources:

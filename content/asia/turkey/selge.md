@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Selge_panorama.jpg
 latitude: 37.15
 loc_type: city
 longitude: 31.1
-score: 0.42
+score: 7.43
 snippet: Remote Pisidian mountain city above Köprülü Canyon, with theatre ruins and
   Taurus views.
 tags:

@@ -7,7 +7,7 @@ done:
 latitude: -6.1754
 loc_type: city
 longitude: 106.8272
-score: 0.41
+score: 7.34
 snippet: Indonesian megacity where colonial Batavia, national monuments, canals, and
   relentless traffic collide
 title: Jakarta

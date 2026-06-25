@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Hamidiyah_Souq_02.jpg
 latitude: 33.5138
 loc_type: city
 longitude: 36.2765
-score: 0.15
+score: 4.12
 snippet: Syrian capital with an ancient walled old city, covered souks, and the Umayyad
   Mosque.
 title: Damascus

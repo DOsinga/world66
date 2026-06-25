@@ -4,7 +4,7 @@ done:
 latitude: -34.852456
 loc_type: city
 longitude: 173.045929
-score: 0.48
+score: 8.07
 snippet: Wild Northland surf beach and tidal sand road stretching along the Tasman
   Sea coast.
 title: Ninety Mile Beach

@@ -5,7 +5,7 @@ done:
 latitude: 26.5822
 loc_type: city
 longitude: 101.7187
-score: 0.28
+score: 5.94
 sources:
 - https://en.wikipedia.org/wiki/Panzhihua
 title: Panzhihua

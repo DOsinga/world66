@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Peaks_of_Kh
 latitude: 27.8633
 loc_type: feature
 longitude: 86.725
-score: 0.68
+score: 9.4
 snippet: High Himalayan trekking region and Sherpa homeland leading toward Everest
   and Sagarmatha National Park.
 sources:

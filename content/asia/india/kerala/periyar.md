@@ -4,7 +4,7 @@ done:
 latitude: 9.866727
 loc_type: feature
 longitude: 76.96566
-score: 0.53
+score: 8.53
 snippet: Cardamom Hills wildlife sanctuary around Periyar Lake, with boat safaris,
   spice plantations, elephants, and forest treks.
 title: Periyar

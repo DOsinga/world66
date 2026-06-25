@@ -5,7 +5,7 @@ done:
 latitude: 12.8181
 loc_type: city
 longitude: 74.8459
-score: 0.32
+score: 6.31
 snippet: Coastal Karnataka fishing town remembered for Abbakka Rani and backed by
   long casuarina beaches.
 title: Ullal

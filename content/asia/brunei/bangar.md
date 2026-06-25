@@ -5,7 +5,7 @@ done:
 latitude: 4.707648
 loc_type: city
 longitude: 115.072444
-score: 0.31
+score: 6.29
 snippet: Tiny Bruneian district town and rainforest gateway, separated from the capital
   by mangroves and Malaysian Sarawak.
 title: Bangar

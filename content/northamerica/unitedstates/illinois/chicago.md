@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chicago_River_ferry_b.jpg
 latitude: 41.8756
 loc_type: city
 longitude: -87.6244
-score: 0.64
+score: 9.25
 snippet: Major Great Lakes city known for pioneering skyscraper architecture, deep
   neighbourhood culture, and a broad Lake Michigan waterfront.
 title: Chicago

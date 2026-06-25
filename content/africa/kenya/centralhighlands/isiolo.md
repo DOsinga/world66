@@ -5,7 +5,7 @@ done:
 latitude: 1.00606
 loc_type: city
 longitude: 38.747895
-score: 0.28
+score: 5.93
 snippet: Northern Kenya frontier town where highlands meet arid country and Samburu-bound
   travellers refuel
 title: Isiolo

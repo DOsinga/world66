@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-05-21'
 latitude: 39.4457
 longitude: -123.8053
-snippet: "Working Mendocino Coast town known for Glass Beach, the Skunk Train, and foggy Highway 1 scenery."
+snippet: Working Mendocino Coast town known for Glass Beach, the Skunk Train, and
+  foggy Highway 1 scenery.
 title: Fort Bragg
 type: location
-score: 0.39
+score: 7.17
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Fort_Bragg,_California

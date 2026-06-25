@@ -4,7 +4,7 @@ done:
 latitude: 48.808349
 loc_type: feature
 longitude: -121.406215
-score: 0.58
+score: 8.86
 snippet: Rugged Washington national park of jagged peaks, old-growth forest, and hundreds
   of glaciers.
 title: North Cascades NP

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_da_Igreja_de_Sant%27
 latitude: -22.759781
 loc_type: city
 longitude: -41.887527
-score: 0.55
+score: 8.69
 snippet: Brazilian beach resort on a rocky peninsula east of Rio, with more than twenty
   distinct beaches.
 title: Búzios

@@ -7,9 +7,10 @@ done:
 latitude: -2.190057
 loc_type: city
 longitude: -79.886867
-score: 0.41
+score: 7.35
 title: Guayaquil
-snippet: "River port city on the Guayas, with a revived waterfront and Ecuador's largest urban energy."
+snippet: River port city on the Guayas, with a revived waterfront and Ecuador's largest
+  urban energy.
 type: location
 ---
 

@@ -5,7 +5,7 @@ done:
 latitude: 9.6556
 loc_type: city
 longitude: -85.0688
-score: 0.53
+score: 8.52
 snippet: Bohemian Nicoya Peninsula beach village of waterfalls, rocky coves, surf
   shops, and jungle wildlife.
 title: Montezuma

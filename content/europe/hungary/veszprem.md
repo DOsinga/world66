@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9m_castle.jpg
 latitude: 47.0934
 loc_type: city
 longitude: 17.908
-score: 0.45
+score: 7.82
 snippet: Old Hungarian hill town above the Séd valley, with a baroque castle district
   near Lake Balaton.
 title: Veszprém

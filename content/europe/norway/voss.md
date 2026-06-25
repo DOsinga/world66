@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fleischer%27s_Hotel,_Evang
 latitude: 60.6286
 loc_type: city
 longitude: 6.4135
-score: 0.53
+score: 8.52
 snippet: Mountain town between Bergen and the Sognefjord, known for adventure sports
   and lakeside alpine scenery.
 sources:

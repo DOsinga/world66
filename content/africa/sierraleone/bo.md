@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bo,_Sierra_Leone_c_1944_(3
 latitude: 7.9621
 loc_type: city
 longitude: -11.7367
-score: 0.21
+score: 4.93
 snippet: Southern Sierra Leone city and market hub with a long-standing reputation
   for schools and technical institutes.
 sources:

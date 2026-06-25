@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hanbin,_Ankang,_Shaanxi,_C
 latitude: 32.6877
 loc_type: city
 longitude: 109.0235
-score: 0.29
+score: 6.09
 snippet: Han River city in southern Shaanxi, edged by Qinling biodiversity and mountain
   gorges.
 sources:

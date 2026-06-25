@@ -5,7 +5,7 @@ done:
 latitude: 37.2442
 loc_type: city
 longitude: 67.2832
-score: 0.31
+score: 6.29
 snippet: Uzbek border city on the Amu Darya, layered with Bactrian, Buddhist, and
   Islamic remains.
 title: Termez

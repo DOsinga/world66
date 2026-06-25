@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Niger,_Arlit_(10),_street_
 latitude: 18.7391
 loc_type: city
 longitude: 7.3933
-score: 0.13
+score: 3.05
 title: Arlit
 type: location
 snippet: Saharan uranium town in northern Niger, serving as a rough waypoint on the

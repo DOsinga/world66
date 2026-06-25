@@ -4,7 +4,7 @@ done:
 latitude: 40.85
 loc_type: feature
 longitude: 71.7
-score: 0.4
+score: 7.31
 snippet: Fertile Central Asian valley shared by three countries, known in Uzbekistan
   for silk, ceramics, and orchards.
 title: Ferghana Valley

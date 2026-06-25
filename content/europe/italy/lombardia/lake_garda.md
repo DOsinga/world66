@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boat_jetty._Lake_Garda,_It
 latitude: 45.6624
 loc_type: city
 longitude: 10.6862
-score: 0.65
+score: 9.29
 snippet: Northern Italian lake of castles, lemon groves, resort towns, and windsurfing
   below alpine cliffs.
 title: Lake Garda

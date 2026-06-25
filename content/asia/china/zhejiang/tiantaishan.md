@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sui_Dynasty_Guoqing_Temple
 latitude: 29.1788
 loc_type: feature
 longitude: 121.0422
-score: 0.44
+score: 7.67
 snippet: Zhejiang mountain and birthplace of Tiantai Buddhism, anchored by historic
   Guoqing Temple.
 sources:

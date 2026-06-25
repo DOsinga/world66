@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia
 latitude: -17.922895
 loc_type: feature
 longitude: 25.847685
-score: 0.74
+score: 9.64
 snippet: Zambezi waterfall and borderland spectacle, where spray and thunder rise
   from one of Africa's great cataracts.
 title: Victoria Falls

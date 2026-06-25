@@ -5,7 +5,7 @@ latitude: 8.392573
 longitude: -8.857252
 title: Nzerekore
 type: location
-score: 0.19
+score: 4.67
 loc_type: city
 snippet: Forested southeastern Guinean city and regional market gateway to Mount Nimba
   country.

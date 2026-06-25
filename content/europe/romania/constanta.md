@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Constanta_Casino,_Romania_
 latitude: 44.176716
 loc_type: city
 longitude: 28.65076
-score: 0.43
+score: 7.55
 snippet: Black Sea port city founded as Tomis, with Roman traces and a restored Art
   Nouveau casino.
 sources:

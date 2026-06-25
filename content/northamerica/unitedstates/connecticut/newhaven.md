@@ -5,7 +5,7 @@ done:
 latitude: 41.3083
 loc_type: city
 longitude: -72.9279
-score: 0.43
+score: 7.56
 snippet: Connecticut university city where Yale museums, Gothic courtyards, and serious
   pizza shape the downtown
 sources:

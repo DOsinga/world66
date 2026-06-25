@@ -3,7 +3,7 @@ country: Indonesia
 latitude: -8.3485
 loc_type: island
 longitude: 116.0425
-score: 0.58
+score: 8.85
 snippet: Gili island with beach bars on one shore and quiet reef-backed sand on the
   other.
 title: Gili Trawangan

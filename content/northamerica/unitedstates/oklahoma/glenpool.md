@@ -5,7 +5,7 @@ done:
 latitude: 35.9554
 loc_type: city
 longitude: -96.0088
-score: 0.24
+score: 5.45
 snippet: Tulsa County city born from the Glenn Pool oilfield, the 1905 strike that
   helped build Tulsa
 title: Glenpool

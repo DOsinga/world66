@@ -5,9 +5,10 @@ done:
 latitude: 9.2089
 loc_type: city
 longitude: 12.4802
-score: 0.19
+score: 4.7
 title: Yola
-snippet: "Adamawa State capital on the Benue River, where Fulani and Kanuri cultures shape old Yola and Jimeta."
+snippet: Adamawa State capital on the Benue River, where Fulani and Kanuri cultures
+  shape old Yola and Jimeta.
 type: location
 ---
 

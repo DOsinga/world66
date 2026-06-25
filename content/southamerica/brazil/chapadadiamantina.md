@@ -14,7 +14,7 @@ sources:
 - https://en.wikipedia.org/wiki/Chapada_Diamantina_National_Park
 title: Chapada Diamantina
 type: location
-score: 0.56
+score: 8.73
 snippet: Bahian plateau of quartzite mesas, deep canyons, clear pools, and Brazil's
   old diamond country.
 ---

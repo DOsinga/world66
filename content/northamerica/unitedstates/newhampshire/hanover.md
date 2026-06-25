@@ -5,7 +5,7 @@ done:
 latitude: 43.702354
 loc_type: city
 longitude: -72.289216
-score: 0.38
+score: 7.03
 snippet: Connecticut River college town shaped by Dartmouth, Georgian brick, and an
   outsized cultural calendar.
 sources:

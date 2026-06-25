@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Lorri,_Sana
 latitude: 41.091835
 loc_type: city
 longitude: 44.656951
-score: 0.4
+score: 7.19
 snippet: Armenian plateau village above Debed Gorge, centred on the medieval Sanahin
   Monastery complex.
 title: Sanahin

@@ -4,7 +4,7 @@ done:
 latitude: 37.650107
 loc_type: feature
 longitude: 24.026282
-score: 0.58
+score: 8.85
 snippet: Attica headland where the Temple of Poseidon stands above the Aegean at Greece's
   southern tip.
 title: Cape Sounion

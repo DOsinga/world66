@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Daqing
 title: Daqing
 type: location
-score: 0.26
+score: 5.77
 snippet: Industrial Chinese oil city built around 1959 petroleum discoveries on the
   Songhua-Liao Plain.
 ---

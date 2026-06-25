@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_coast_of_South_China_S
 latitude: 16.26927
 loc_type: city
 longitude: 108.062178
-score: 0.48
+score: 8.08
 snippet: Central Vietnamese beach village on a sheltered bay between the Hai Van Pass
   and An Cu Lagoon.
 title: Lang Co Beach

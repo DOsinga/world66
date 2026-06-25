@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_cit%C3%A9_lacustre_de_P
 latitude: 43.271812
 loc_type: city
 longitude: 6.581952
-score: 0.5
+score: 8.26
 snippet: Planned canal village on the Gulf of Saint-Tropez, built as a Provençal Venice.
 title: Port Grimaud
 type: location

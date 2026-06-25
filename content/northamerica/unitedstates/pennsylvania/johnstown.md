@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16069488@N00/10860852496
 latitude: 40.326741
 loc_type: city
 longitude: -78.92197
-score: 0.27
+score: 5.9
 snippet: Conemaugh Valley city east of Pittsburgh, best known for the catastrophic
   Johnstown Flood of 1889.
 title: Johnstown

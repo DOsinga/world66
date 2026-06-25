@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.1383
 longitude: -8.3883
-score: 0.48
+score: 8.02
 snippet: Quiet Algarve village known for hand-painted pottery, set inland from Armação
   de Pêra.
 ---

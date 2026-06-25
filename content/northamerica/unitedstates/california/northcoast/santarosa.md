@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 38.4405
 longitude: -122.7141
-score: 0.36
+score: 6.84
 title: Santa Rosa
 type: location
 loc_type: city

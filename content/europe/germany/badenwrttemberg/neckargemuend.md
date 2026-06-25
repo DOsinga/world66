@@ -5,7 +5,7 @@ done:
 latitude: 49.395405
 loc_type: city
 longitude: 8.796589
-score: 0.41
+score: 7.31
 snippet: Neckar valley town near Heidelberg, with half-timbered lanes at the wooded
   confluence of two rivers.
 title: Neckargemünd

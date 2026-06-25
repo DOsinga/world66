@@ -4,7 +4,7 @@ done:
 latitude: 45.418993
 loc_type: feature
 longitude: -114.874872
-score: 0.4
+score: 7.28
 snippet: Central Idaho wilderness river, famed for free-flowing canyons, white-water
   rafting, and salmon runs
 title: Salmon River

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sucre_Ciudad_Bolivia.jpg
 latitude: -19.047725
 loc_type: city
 longitude: -65.259431
-score: 0.52
+score: 8.42
 snippet: Bolivia's constitutional capital, a whitewashed colonial city central to
   the country's independence history.
 title: Sucre

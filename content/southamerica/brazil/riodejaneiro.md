@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panor
 latitude: -22.911014
 loc_type: city
 longitude: -43.209373
-score: 0.79
+score: 9.82
 snippet: Brazilian harbour city where beaches, green mountains, and Christ the Redeemer
   frame everyday urban life.
 title: Rio de Janeiro

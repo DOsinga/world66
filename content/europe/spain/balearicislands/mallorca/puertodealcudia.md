@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22852159@N05/30552119024
 latitude: 39.8486
 loc_type: city
 longitude: 3.1213
-score: 0.53
+score: 8.48
 snippet: Mallorcan beach resort beside Alcudia's shallow white-sand bay and nearby
   Roman Pollentia.
 title: Puerto de Alcudia

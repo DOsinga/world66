@@ -5,7 +5,7 @@ done:
 latitude: 59.459643
 loc_type: city
 longitude: 28.0421
-score: 0.36
+score: 6.85
 snippet: Small Estonian seaside resort near Narva, known for its long beach and wooden
   villas.
 title: Narva-Jõesuu

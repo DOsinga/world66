@@ -4,7 +4,7 @@ done:
 latitude: 29.522665
 loc_type: feature
 longitude: 103.336864
-score: 0.61
+score: 9.05
 snippet: Sacred Buddhist mountain in Sichuan, with forested temple paths climbing
   toward a 3,099-metre summit
 title: Mount Emei

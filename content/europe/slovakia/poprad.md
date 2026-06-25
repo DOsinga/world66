@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Poprad,_Presov_region,_Slo
 latitude: 49.0542
 loc_type: city
 longitude: 20.2976
-score: 0.42
+score: 7.44
 snippet: Slovak town below the High Tatras, serving as a rail gateway to mountain
   resorts.
 title: Poprad

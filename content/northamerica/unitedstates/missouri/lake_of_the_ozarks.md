@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_of_the_Ozarks_Missour
 latitude: 38.1444
 loc_type: city
 longitude: -92.6595
-score: 0.37
+score: 6.88
 snippet: Central Missouri reservoir winding through Ozark hills, with an astonishing
   maze of wooded shoreline.
 sources:

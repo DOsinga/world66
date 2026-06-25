@@ -9,10 +9,11 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Vito_Lo_Capo_(1).jpg
 latitude: 38.1723
 loc_type: city
 longitude: 12.7349
-score: 0.56
+score: 8.74
 title: San Vito Lo Capo
 type: location
-snippet: Sicilian beach town beneath Monte Monaco, known for white sand and the annual Cous Cous Fest.
+snippet: Sicilian beach town beneath Monte Monaco, known for white sand and the annual
+  Cous Cous Fest.
 ---
 
 San Vito Lo Capo has one of the most beautiful beaches in Italy: a wide crescent of white sand with turquoise water, backed by the dramatic [Monte Monaco](/europe/italy/sicily/san_vito_lo_capo/monte_monaco). The town itself is small and low-key, with a grid of streets lined with restaurants and gelaterias. It fills up in summer but remains manageable.

@@ -5,7 +5,7 @@ done:
 latitude: 42.4604
 loc_type: city
 longitude: -71.3489
-score: 0.46
+score: 7.91
 snippet: Historic Massachusetts town where Revolutionary battlefields sit beside the
   homes of Emerson, Thoreau, Hawthorne, and Alcott.
 title: Concord

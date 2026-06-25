@@ -4,7 +4,7 @@ done:
 latitude: 21.6667
 loc_type: island
 longitude: -72.4583
-score: 0.54
+score: 8.6
 snippet: Uninhabited Turks and Caicos island with limestone cliffs and the protected
   Lake Catherine nature reserve.
 sources:

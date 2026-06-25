@@ -5,7 +5,7 @@ done:
 latitude: -39.03939
 loc_type: city
 longitude: 177.427139
-score: 0.33
+score: 6.43
 snippet: Northern Hawke’s Bay river town where the Wairoa River meets the sea.
 title: Wairoa
 type: location

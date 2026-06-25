@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_stringer_bel_-_fi
 latitude: 5.4977
 loc_type: city
 longitude: -0.3649
-score: 0.35
+score: 6.73
 snippet: Ghanaian beach village west of Accra, known for drumming schools, fishing
   life, and weekend music.
 title: Kokrobite

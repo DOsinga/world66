@@ -5,9 +5,10 @@ done:
 latitude: 34.6851
 loc_type: city
 longitude: 135.805
-score: 0.72
+score: 9.48
 title: Nara
-snippet: Japan's first permanent capital, compact and temple-rich, with Todai-ji and its great bronze Buddha
+snippet: Japan's first permanent capital, compact and temple-rich, with Todai-ji and
+  its great bronze Buddha
 type: location
 image: nara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:090124_wakakusa_yamayaki.jpg

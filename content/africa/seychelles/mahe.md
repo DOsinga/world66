@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baie_Lazare_Public_Beach_-
 latitude: -4.6838
 loc_type: city
 longitude: 55.4926
-score: 0.67
+score: 9.38
 snippet: Largest Seychelles island, with granite peaks, tropical forest, Victoria,
   and more than 75 beaches.
 title: Mahe

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bama_Theatre_Tuscaloosa_Al
 latitude: 33.209561
 loc_type: city
 longitude: -87.567526
-score: 0.29
+score: 6.06
 title: Tuscaloosa
-snippet: "Alabama college town dominated by the University of Alabama and its football culture."
+snippet: Alabama college town dominated by the University of Alabama and its football
+  culture.
 type: location
 ---
 

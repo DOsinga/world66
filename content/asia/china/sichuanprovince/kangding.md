@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kangding_from_above.jpg
 latitude: 30.0553
 loc_type: city
 longitude: 101.9647
-score: 0.48
+score: 8.01
 snippet: Western Sichuan trading city where Han China meets the Tibetan plateau beneath
   Paoma Mountain.
 sources:

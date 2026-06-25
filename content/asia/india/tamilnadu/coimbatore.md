@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CHIL_SEZ.jpg
 latitude: 11.001812
 loc_type: city
 longitude: 76.962842
-score: 0.34
+score: 6.59
 title: Coimbatore
 type: location
 snippet: Industrial Tamil Nadu city at the Nilgiri foothills, known as Kovai and built

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boise_Ridge_near_Enumclaw,
 latitude: 47.204779
 loc_type: city
 longitude: -121.991637
-score: 0.29
+score: 6.04
 snippet: Cascade foothills town southeast of Seattle, serving as a gateway to Crystal
   Mountain and Mount Rainier.
 title: Enumclaw

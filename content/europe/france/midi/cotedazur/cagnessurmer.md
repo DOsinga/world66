@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haut-de-Cagnes_(vue_depuis
 latitude: 43.6612
 loc_type: city
 longitude: 7.1514
-score: 0.5
+score: 8.22
 snippet: Côte d'Azur town split between medieval Haut-de-Cagnes and the beach resort
   below.
 title: Cagnes-sur-Mer

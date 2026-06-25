@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BackCathedralCV.JPG
 latitude: 18.933132
 loc_type: city
 longitude: -99.259958
-score: 0.46
+score: 7.84
 snippet: Warm Morelos capital south of Mexico City, known for springlike weather and
   Cortés-era landmarks.
 title: Cuernavaca

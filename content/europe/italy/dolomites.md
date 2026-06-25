@@ -14,7 +14,7 @@ sources:
 - https://whc.unesco.org/en/list/1237/
 title: Dolomites
 type: location
-score: 0.78
+score: 9.8
 snippet: Eastern Alps mountain range of pale dolomite towers, high meadows, and Italian-German-Ladin
   valleys.
 ---

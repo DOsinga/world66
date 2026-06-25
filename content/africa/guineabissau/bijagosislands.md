@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Archipel_Bolama-Bijagos_Ra
 latitude: 11.25
 loc_type: city
 longitude: -16.0
-score: 0.42
+score: 7.44
 snippet: Atlantic archipelago of mangroves, palm forests, and saltwater hippos off
   Guinea-Bissau.
 title: Bijagos Islands

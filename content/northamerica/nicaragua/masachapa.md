@@ -5,8 +5,9 @@ done:
 latitude: 11.7769
 loc_type: city
 longitude: -86.5128
-score: 0.29
-snippet: Pacific fishing village near Managua, with dark sand, weekend crowds, and simple beachfront seafood comedores.
+score: 6.05
+snippet: Pacific fishing village near Managua, with dark sand, weekend crowds, and
+  simple beachfront seafood comedores.
 title: Masachapa
 type: location
 ---

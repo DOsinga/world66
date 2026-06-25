@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/184898381@N07/51819280334
 latitude: 56.4618
 loc_type: city
 longitude: 10.0371
-score: 0.37
+score: 6.96
 snippet: Danish river town known for Randers Regnskov, a glass-domed tropical zoo
   over the Gudenå.
 title: Randers

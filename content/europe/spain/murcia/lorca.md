@@ -4,7 +4,7 @@ done:
 latitude: 37.6712
 loc_type: city
 longitude: -1.6989
-score: 0.41
+score: 7.37
 snippet: Murcian fortress city whose skyline is dominated by an Islamic-era castle
   above Baroque streets.
 title: Lorca

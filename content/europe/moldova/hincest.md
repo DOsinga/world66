@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%AEnce%C8%99ti,_Moldov
 latitude: 46.859126
 loc_type: city
 longitude: 28.523544
-score: 0.25
+score: 5.64
 snippet: Small Moldovan wine-country town south of Chișinău, anchored by Manuc-Bey
   Manor and Codru vineyards.
 title: Hîncești

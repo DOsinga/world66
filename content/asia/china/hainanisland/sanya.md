@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:SuperStar_Aquarius_at_Phoe
 latitude: 18.2534
 loc_type: city
 longitude: 109.5034
-score: 0.49
-snippet: Tropical resort city on southern Hainan, where palm-lined beaches anchor China's domestic seaside holidays.
+score: 8.14
+snippet: Tropical resort city on southern Hainan, where palm-lined beaches anchor
+  China's domestic seaside holidays.
 title: Sanya
 type: location
 ---

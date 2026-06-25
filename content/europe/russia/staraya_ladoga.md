@@ -5,7 +5,7 @@ done:
 latitude: 59.996994
 loc_type: city
 longitude: 32.296246
-score: 0.36
+score: 6.82
 snippet: Volkhov River village east of Saint Petersburg, with early Russian history
   and a preserved medieval fortress.
 title: Staraya Ladoga

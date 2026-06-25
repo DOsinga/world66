@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dijkgraaf_in_Wageningen.jp
 latitude: 51.968582
 loc_type: city
 longitude: 5.668298
-score: 0.35
+score: 6.71
 snippet: Dutch Rhine-side university town shaped by agricultural research and the
   end of the Second World War in Europe.
 title: Wageningen

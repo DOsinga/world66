@@ -4,7 +4,7 @@ done:
 latitude: 43.530965
 loc_type: feature
 longitude: 6.467668
-score: 0.49
+score: 8.15
 snippet: Scenic Provençal railway linking Digne-les-Bains and Nice through steep gorges
   and walking villages.
 title: Train des Pignes

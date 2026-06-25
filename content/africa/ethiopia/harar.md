@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Gate,_Harar_Jugol_(14
 latitude: 9.31184
 loc_type: city
 longitude: 42.128445
-score: 0.49
+score: 8.12
 snippet: Walled Ethiopian holy city whose Jugol encloses mosques, shrines, and medieval
   lanes
 sources:

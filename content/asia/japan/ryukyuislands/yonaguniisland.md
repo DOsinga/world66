@@ -5,7 +5,7 @@ done:
 latitude: 24.455595
 loc_type: city
 longitude: 122.987606
-score: 0.48
+score: 8.06
 title: Yonaguni Island
 type: location
 image: yonaguniisland.jpg

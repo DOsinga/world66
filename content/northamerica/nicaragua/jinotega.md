@@ -5,7 +5,7 @@ done:
 latitude: 13.0895
 loc_type: city
 longitude: -85.9994
-score: 0.31
+score: 6.28
 snippet: Nicaraguan highland city of coffee farms, cool mist, and mountains north
   of Managua.
 title: Jinotega

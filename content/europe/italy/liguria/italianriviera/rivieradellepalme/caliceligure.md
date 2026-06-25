@@ -5,7 +5,7 @@ done:
 latitude: 44.204933
 loc_type: city
 longitude: 8.295351
-score: 0.43
+score: 7.53
 snippet: Ligurian hill village behind Finale Ligure, set among orchards, olive groves,
   and a tidy medieval core.
 title: Calice Ligure

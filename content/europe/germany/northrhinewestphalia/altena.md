@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burg_Altena.jpg
 latitude: 51.299026
 loc_type: city
 longitude: 7.673484
-score: 0.34
+score: 6.61
 snippet: Sauerland castle town where the world's first youth hostel opened inside
   Burg Altena.
 title: Altena

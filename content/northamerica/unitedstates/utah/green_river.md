@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bowknot_Bend_on_the_Green_
 latitude: 38.9955
 loc_type: city
 longitude: -110.1627
-score: 0.33
+score: 6.5
 snippet: Eastern Utah desert town on I-70, launching Green River canyon trips and
   celebrating melon country.
 title: Green River

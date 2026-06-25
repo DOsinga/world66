@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Branigan_Library_Las_Cruce
 latitude: 32.314
 loc_type: city
 longitude: -106.7798
-score: 0.34
+score: 6.57
 snippet: Mesilla Valley city where New Mexico State University sits below the jagged
   Organ Mountains.
 title: Las Cruces

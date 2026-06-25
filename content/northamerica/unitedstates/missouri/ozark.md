@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ozark_National_Scenic_Rive
 latitude: 37.1907
 loc_type: feature
 longitude: -91.2763
-score: 0.41
+score: 7.41
 title: Ozark National Scenic Riverways
 type: location
 snippet: Missouri riverways park protecting spring-fed canoe rivers, limestone bluffs,

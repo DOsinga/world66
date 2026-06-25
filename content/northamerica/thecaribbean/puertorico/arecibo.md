@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arecibo_Lighthouse_in_Arec
 latitude: 18.4725
 loc_type: city
 longitude: -66.7156
-score: 0.42
+score: 7.47
 snippet: Puerto Rican north-shore city known for Taíno sea caves and the former Arecibo
   Observatory.
 title: Arecibo

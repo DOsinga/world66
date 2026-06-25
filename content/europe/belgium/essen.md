@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Essen_Belgium_1.JPG
 latitude: 51.467923
 loc_type: city
 longitude: 4.469826
-score: 0.3
+score: 6.13
 snippet: Quiet Kempen border town shaped by Dutch crossings, wooded heathland, and
   a notable railway history
 title: Essen

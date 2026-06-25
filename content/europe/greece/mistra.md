@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Despot%27s_Palace_(2026).j
 latitude: 37.068905
 loc_type: feature
 longitude: 22.375748
-score: 0.5
+score: 8.2
 snippet: Byzantine ghost city above Sparta, with hillside palaces, monasteries, and
   late medieval frescoes
 title: Mistra

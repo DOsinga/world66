@@ -5,7 +5,7 @@ done:
 latitude: 50.706776
 loc_type: city
 longitude: 10.725744
-score: 0.38
+score: 7.01
 snippet: Thuringian Forest resort town known for biathlon, cross-country skiing, and
   the Rennsteig ridge trail.
 title: Oberhof

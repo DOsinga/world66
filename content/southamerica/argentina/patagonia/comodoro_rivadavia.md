@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Comodoro_Rivadavia,_Chubut
 latitude: -45.8632
 loc_type: city
 longitude: -67.4753
-score: 0.3
+score: 6.16
 snippet: Patagonian oil city on the Atlantic, battered by wind and softened by nearby
   Rada Tilly beach.
 title: Comodoro Rivadavia

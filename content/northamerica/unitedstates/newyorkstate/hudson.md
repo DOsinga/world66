@@ -5,7 +5,7 @@ done:
 latitude: 42.2528
 loc_type: city
 longitude: -73.7907
-score: 0.41
+score: 7.32
 snippet: Hudson River city of whaling origins, notorious reinventions, and remarkably
   intact historic architecture
 sources:

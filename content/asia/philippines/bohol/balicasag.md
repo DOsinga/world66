@@ -4,7 +4,7 @@ done:
 latitude: 9.548431
 loc_type: feature
 longitude: 123.771958
-score: 0.56
+score: 8.73
 snippet: Small Bohol dive island near Panglao, with protected reefs, clear water,
   and abundant reef fish.
 title: Balicasag Island

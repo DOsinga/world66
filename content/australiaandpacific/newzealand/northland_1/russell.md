@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Russell_New_Zealand_banner
 latitude: -35.261792
 loc_type: city
 longitude: 174.121529
-score: 0.46
+score: 7.91
 snippet: Tiny Bay of Islands waterfront town with outsized history as Kororareka,
   early European New Zealand's rough capital.
 title: Russell

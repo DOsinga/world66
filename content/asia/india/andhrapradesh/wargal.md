@@ -6,7 +6,7 @@ done:
 latitude: 17.7748
 loc_type: city
 longitude: 78.6166
-score: 0.22
+score: 5.17
 title: Wargal
 type: location
 snippet: Telangana village known for its hilltop Saraswati Temple, a Deccan centre

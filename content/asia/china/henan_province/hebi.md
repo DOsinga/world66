@@ -4,7 +4,7 @@ done:
 latitude: 35.7498
 loc_type: city
 longitude: 114.2887
-score: 0.25
+score: 5.67
 snippet: Northern Henan industrial city layered over Shang and Wei history, with crane
   legends in its name.
 sources:

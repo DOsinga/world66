@@ -5,7 +5,7 @@ done:
 latitude: 39.541089
 loc_type: city
 longitude: 21.466158
-score: 0.41
+score: 7.42
 title: Pertouli
 type: location
 snippet: Greek Pindus mountain village set among fir forests and high meadows near

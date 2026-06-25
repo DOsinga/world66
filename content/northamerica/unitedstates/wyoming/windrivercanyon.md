@@ -4,7 +4,7 @@ done:
 latitude: 43.57
 loc_type: feature
 longitude: -108.2
-score: 0.46
+score: 7.83
 snippet: Central Wyoming river gorge exposing ancient rock layers beside a dramatic
   highway and rafting route.
 title: Wind River Canyon

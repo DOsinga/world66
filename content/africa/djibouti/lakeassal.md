@@ -4,7 +4,7 @@ done:
 latitude: 11.55
 loc_type: feature
 longitude: 42.4167
-score: 0.4
+score: 7.21
 snippet: Volcanic crater lake below sea level, edged with salt crusts in Djibouti's
   Afar Rift.
 title: Lake Assal

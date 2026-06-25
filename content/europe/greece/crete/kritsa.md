@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Kritsa.jpg
 latitude: 35.155763
 loc_type: city
 longitude: 25.646143
-score: 0.51
-snippet: "Cretan mountain village above Agios Nikolaos, known for whitewashed hillside houses, weaving, and embroidery traditions."
+score: 8.35
+snippet: Cretan mountain village above Agios Nikolaos, known for whitewashed hillside
+  houses, weaving, and embroidery traditions.
 title: Kritsa
 type: location
 ---

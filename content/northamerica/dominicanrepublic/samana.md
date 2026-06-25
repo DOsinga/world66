@@ -5,7 +5,7 @@ done:
 latitude: 19.206
 loc_type: city
 longitude: -69.3362
-score: 0.53
+score: 8.46
 snippet: Dominican harbour town on Samaná Bay, backed by green hills and a quiet fishing
   waterfront.
 title: Samaná

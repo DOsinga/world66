@@ -4,7 +4,7 @@ done:
 latitude: 19.1167
 loc_type: city
 longitude: -72.7
-score: 0.21
+score: 5.02
 snippet: Port city on Haiti's western coast, historically linked to Artibonite valley
   rice and sugar.
 sources:

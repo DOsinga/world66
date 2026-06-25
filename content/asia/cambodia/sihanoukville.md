@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:360%C2%B0_Sihanoukville_Ci
 latitude: 10.622
 loc_type: city
 longitude: 103.5223
-score: 0.35
+score: 6.69
 snippet: Cambodian beach and port city on the Gulf of Thailand, with offshore islands
   and seafood streets
 title: Sihanoukville

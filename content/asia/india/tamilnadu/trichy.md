@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ucchi_Pillayar_Temple,_Roc
 latitude: 10.7903
 loc_type: city
 longitude: 78.7047
-score: 0.42
+score: 7.46
 snippet: Temple city on the Kaveri where Rockfort rises above Tamil Nadu's sacred
   river islands.
 sources:

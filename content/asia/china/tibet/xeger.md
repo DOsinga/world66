@@ -5,7 +5,7 @@ done:
 latitude: 28.913
 loc_type: city
 longitude: 87.237
-score: 0.26
+score: 5.73
 snippet: High Tibetan road town below Xegar Dzong, used as a staging point for Everest
   trips
 title: Xeger

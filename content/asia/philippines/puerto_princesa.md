@@ -8,7 +8,7 @@ image_source: https://en.wikipedia.org/wiki/File:Dos_Palmas_RP.JPG
 latitude: 9.739856
 loc_type: city
 longitude: 118.743819
-score: 0.59
+score: 8.95
 snippet: Palawan capital used for the underground river, Honda Bay islands, and Sabang
   mangrove trips
 title: Puerto Princesa

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:IOM_Peel_by_malost.JPG
 latitude: 54.2228
 loc_type: city
 longitude: -4.695
-score: 0.44
+score: 7.72
 snippet: West-coast Isle of Man fishing town, watched over by a ruined castle on St
   Patrick's Isle.
 sources:

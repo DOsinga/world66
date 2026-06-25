@@ -5,7 +5,7 @@ done:
 latitude: 48.515851
 loc_type: city
 longitude: -119.652748
-score: 0.27
+score: 5.87
 snippet: North-central Washington county seat in an orchard and ranching valley near
   remote wilderness areas.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gar_Tsangpo_near_Ngari_Gun
 latitude: 32.4833
 loc_type: city
 longitude: 80.1
-score: 0.38
+score: 7.01
 snippet: Remote western Tibetan high-desert region around Ali, crossed by pilgrimage
   roads to Mount Kailash
 sources:

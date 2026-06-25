@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rohtas_Fort_(Jhelum,_Pakis
 latitude: 32.924726
 loc_type: city
 longitude: 73.719388
-score: 0.26
+score: 5.74
 snippet: Punjabi river city near Alexander's Hydaspes battlefield and the monumental
   walls of Rohtas Fort.
 title: Jhelum

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hopetown-lighthouse.jpg
 latitude: 26.4667
 loc_type: city
 longitude: -77.0833
-score: 0.54
+score: 8.56
 snippet: Bahamas cay chain built for sailing, with protected anchorages, turquoise
   flats, and small island settlements.
 sources:

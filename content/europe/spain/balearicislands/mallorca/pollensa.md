@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pollensa-mallorca-35.jpg
 latitude: 39.879207
 loc_type: city
 longitude: 3.01571
-score: 0.58
+score: 8.87
 snippet: Inland Mallorcan town below the Tramuntana, known for cobbled streets and
   the Calvari staircase.
 title: Pollensa

@@ -6,7 +6,7 @@ loc_type: city
 longitude: 120.31
 title: Wuxi
 type: location
-score: 0.41
+score: 7.35
 snippet: Jiangsu canal city on Lake Tai, known for shoreline gardens, bridges, and
   silk-trade wealth.
 ---

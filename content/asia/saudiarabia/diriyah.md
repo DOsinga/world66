@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-D
 latitude: 24.732996
 loc_type: city
 longitude: 46.573384
-score: 0.42
+score: 7.5
 snippet: Historic Riyadh-edge oasis town where At-Turaif preserves the mud-brick heart
   of the First Saudi State
 title: Dir’iyah

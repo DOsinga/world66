@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Avant_Ayoun.jpg
 latitude: 16.659774
 loc_type: city
 longitude: -9.617881
-score: 0.16
+score: 4.34
 snippet: Dusty Mauritanian market town on the trans-desert road, known for weekly
   trade and plastic beads.
 title: Ayoun el-Atrous

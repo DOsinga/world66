@@ -11,7 +11,7 @@ loc_type: city
 snippet: Dodecanese island town with a Knights' castle, ancient ruins, beaches, and
   Hippocrates legends
 longitude: 27.2882
-score: 0.59
+score: 8.98
 title: Kos
 type: location
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Statues_in_Mayag%C3%BCez,_
 latitude: 18.2011
 loc_type: city
 longitude: -67.1397
-score: 0.39
+score: 7.17
 snippet: West-coast Puerto Rican city known for its university, port history, coffee
   trade, and Plaza Colón.
 sources:

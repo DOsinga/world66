@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bremen_Rathaus,_Roland_und
 latitude: 53.07582
 loc_type: city
 longitude: 8.807165
-score: 0.5
+score: 8.19
 snippet: Hanseatic Weser city with a UNESCO Rathaus and Roland statue anchoring its
   historic Marktplatz
 title: Bremen

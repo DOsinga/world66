@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kotohira-gu01s.jpg
 latitude: 34.1916
 loc_type: city
 longitude: 133.8233
-score: 0.53
+score: 8.46
 snippet: Kagawa shrine town built around the long stone-step approach to Konpira-san.
 title: Kotohira
 type: location

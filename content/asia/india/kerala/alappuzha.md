@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alappuzha_Boat_Beauty_W.jp
 latitude: 9.500342
 loc_type: city
 longitude: 76.412336
-score: 0.55
+score: 8.65
 snippet: Kerala backwater town of canals, lagoons, houseboats, and faded colonial
   waterfront trade.
 title: Alappuzha

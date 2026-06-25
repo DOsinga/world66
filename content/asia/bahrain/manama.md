@@ -11,10 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Bab_Al_Bahrain,_Manama,_Ba
 latitude: 26.223504
 loc_type: city
 longitude: 50.582244
-score: 0.42
+score: 7.5
 title: Manama
 type: location
-snippet: Bahraini capital with a lively suq, dhow port, and Gulf-island commercial heart.
+snippet: Bahraini capital with a lively suq, dhow port, and Gulf-island commercial
+  heart.
 ---
 
 Manama is arabic for 'sleepy place', but this name does not do the capital of Bahrain justice. Manama (pop. 152 000) contains the country’s major hotels, best nightlife, nicest shopping and primary tourist attractions. 

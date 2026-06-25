@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loughter.JPG
 latitude: 54.034975
 loc_type: city
 longitude: -7.293702
-score: 0.34
+score: 6.62
 snippet: Irish county town in drumlin country, surrounded by lakes, angling waters,
   and Shannon headwaters
 title: Cavan

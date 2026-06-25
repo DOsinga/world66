@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gyantse.jpg
 latitude: 28.919814
 loc_type: city
 longitude: 89.601193
-score: 0.5
+score: 8.19
 snippet: Southern Tibetan town on the Friendship Highway, known for Pelkor Chöde Monastery
   and its Kumbum.
 title: Gyantse

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus,_Baalbek
 latitude: 34.007887
 loc_type: city
 longitude: 36.211811
-score: 0.55
+score: 8.68
 snippet: Bekaa Valley city where colossal Roman temples preserve Lebanon's grandest
   classical ruins.
 sources:

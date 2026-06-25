@@ -5,7 +5,7 @@ done:
 latitude: -37.9006
 loc_type: city
 longitude: 145.0886
-score: 0.29
+score: 6.07
 snippet: Melbourne suburb centred on Eaton Mall and the city's Greek dining community.
 title: Oakleigh
 type: location

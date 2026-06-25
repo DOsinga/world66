@@ -5,7 +5,7 @@ done:
 latitude: 31.464969
 loc_type: city
 longitude: -100.440509
-score: 0.32
+score: 6.35
 title: San Angelo
 snippet: West Texas river city in ranch country, known for Fort Concho and rodeo culture.
 type: location

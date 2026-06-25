@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/31190896@N08/5662428614
 latitude: -27.33
 loc_type: city
 longitude: 153.0643
-score: 0.35
+score: 6.74
 snippet: Bayside Brisbane suburb with Victorian-era shopfronts, a timber pier, and
   Bramble Bay foreshore parks.
 title: Sandgate

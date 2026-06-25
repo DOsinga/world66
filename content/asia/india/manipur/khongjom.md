@@ -5,7 +5,7 @@ done:
 latitude: 24.559127
 loc_type: city
 longitude: 94.030981
-score: 0.22
+score: 5.13
 snippet: Small Manipur town remembered for the 1891 Battle of Khongjom against British
   forces.
 title: Khongjom

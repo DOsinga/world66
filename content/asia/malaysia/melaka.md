@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malacca_River_Walk_2012.JP
 latitude: 2.329374
 loc_type: city
 longitude: 102.288096
-score: 0.57
+score: 8.8
 snippet: Historic Malaysian port city layered with Portuguese, Dutch, British, Chinese,
   Malay, and Indian influences.
 title: Melaka

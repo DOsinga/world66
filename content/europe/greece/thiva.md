@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Orthodox_Church_in_Thiva.J
 latitude: 38.32007
 loc_type: city
 longitude: 23.317561
-score: 0.37
+score: 6.86
 snippet: Boeotian town on ancient Thebes, carrying more mythological weight than its
   modern streets suggest
 title: Thiva

@@ -1,12 +1,13 @@
 ---
-title: Museum of Oriental Ceramics
-type: poi
-tags:
-- things_to_do
-- museum
 latitude: 34.6934
 longitude: 135.5055
 score: 8.2
+tags:
+- things_to_do
+- museum
+- nakanoshima
+title: Museum of Oriental Ceramics
+type: poi
 ---
 
 A specialist museum on Nakanoshima island that holds one of the finest collections of Korean and Chinese ceramics in the world. The collection — donated to the city in 1980 by the Ataka Collection — runs to over 6,000 pieces, with particular strength in 10th-century Chinese celadon and Korean Koryo-period celadon, a luminous grey-green ware that is notoriously difficult to reproduce. Several of the Korean pieces are designated National Treasures.

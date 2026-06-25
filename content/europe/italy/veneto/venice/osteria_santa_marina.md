@@ -3,15 +3,14 @@ address: Campo Santa Marina 5911, Castello, 30122 Venice
 latitude: 45.4408
 longitude: 12.339
 opening_hours: Tue–Sat 12:30–14:30, 19:30–22:00; closed Sun–Mon
-snippet: "Modern Venetian seafood with near-Michelin presentation at accessible prices"
-neighbourhood: Castello
+score: 7.1
+snippet: Modern Venetian seafood with near-Michelin presentation at accessible prices
 tags:
 - eating_out
 - castello
 - restaurant
 title: L'Osteria di Santa Marina
 type: poi
-score: 7.1
 ---
 
 A Michelin Bib Gourmand restaurant in Castello serving modern Venetian seafood — presentation described as close to Michelin-star standard at more accessible prices. Dishes are rooted in Venetian classics (baccalà, spider crab, lagoon fish) given a contemporary plating and flavour treatment. One of the better-value fine dining options in the city.

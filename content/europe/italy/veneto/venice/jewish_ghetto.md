@@ -1,17 +1,22 @@
 ---
-title: The Jewish Ghetto
-type: poi
-tags:
-  - things_to_do
-  - cannaregio
-  - sight
 latitude: 45.4441
 longitude: 12.3225
-snippet: "The world's first ghetto — established 1516, with five synagogues and a museum"
-neighbourhood: Cannaregio
-story: >
-  The word "ghetto" entered European languages from this neighbourhood. It comes from the Venetian word geto (foundry) — there was a copper foundry here before the Jews arrived. When the Venetian Senate confined the Jewish population to this island in 1516, the area became the Ghetto Nuovo. The word, with its meaning transformed by centuries of forced segregation, spread from Venice to every other language in the world.
 score: 8.4
+snippet: The world's first ghetto — established 1516, with five synagogues and a museum
+story: 'The word "ghetto" entered European languages from this neighbourhood. It comes
+  from the Venetian word geto (foundry) — there was a copper foundry here before the
+  Jews arrived. When the Venetian Senate confined the Jewish population to this island
+  in 1516, the area became the Ghetto Nuovo. The word, with its meaning transformed
+  by centuries of forced segregation, spread from Venice to every other language in
+  the world.
+
+  '
+tags:
+- things_to_do
+- cannaregio
+- sight
+title: The Jewish Ghetto
+type: poi
 ---
 
 The Jewish Ghetto in the Cannaregio district of Venice was the world's first ghetto — the first time a city government confined its Jewish population to a defined area and locked the gates at night. Established in 1516, it remained a confined community until Napoleon dissolved it in 1797. Today it is a quiet and atmospheric part of Venice, with a small campo, five synagogues (four of which can be visited on guided tours), and a museum of Jewish history.

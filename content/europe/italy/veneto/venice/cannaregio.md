@@ -2,10 +2,14 @@
 title: Cannaregio
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 45.4441
 longitude: 12.3225
+image: cannaregio.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Canale_di_Cannaregio_-_Viewed_from_Grand_Canal.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Wikipedia
 ---
 
 Cannaregio is the largest of Venice's six sestieri, stretching from the train station to the northern edge of the old city. It is the most residential part of central Venice — the sestiere where Venetians actually live, shop, and eat, mostly out of earshot of the tourist circuit. The Strada Nova, running east from the station, is one of the few straight streets in Venice, a 19th-century urban cut through the medieval fabric.

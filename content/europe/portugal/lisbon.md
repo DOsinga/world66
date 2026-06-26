@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-26'
   poi_cleanup: '2026-04-21'
 image: lisbon.jpg
 image_attribution: Syced

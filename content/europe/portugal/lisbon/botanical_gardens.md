@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - landmark
 - sight
-- bairro_alto
+- principe_real
 title: Botanical Gardens
 type: poi
 score: 6.6

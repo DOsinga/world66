@@ -9,9 +9,9 @@ tags:
 - things_to_do
 - neighbourhood
 image: centurycity.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Century_City,_Los_Angeles,_from_Cheviot_Hills.jpg
-image_license: CC BY 4.0
-image_attribution: Pat Lim, Los Angeles Times
+image_source: https://commons.wikimedia.org/wiki/File:Century_City_by_Mike-Hope.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mike-Hope
 ---
 
 Century City sits just west of Beverly Hills on land that used to belong entirely to 20th Century Fox. The studio sold much of it off in the 1960s — allegedly to cover debts from the notoriously expensive production of *Cleopatra* — and the result is a compact district of glass towers, an outdoor shopping mall, and corporate headquarters that feel distinctly Angeleno in their low-rise, car-centric way.

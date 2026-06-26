@@ -2,11 +2,16 @@
 title: Westlands
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: -1.2618
 longitude: 36.8042
-snippet: Nairobi's bar and restaurant district, home to the best nightlife and a dense concentration of international restaurants
+snippet: Nairobi's bar and restaurant district, home to the best nightlife and a dense
+  concentration of international restaurants
+image: westlands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Westlands,_Nairobi_2025_15.png
+image_license: CC BY-SA 4.0
+image_attribution: Rosiestep
 ---
 
 Westlands is the beating heart of Nairobi's social life — a suburb about 4 km north-west of the CBD that has developed into the city's premier dining and entertainment district. The main strip around Westlands roundabout and the surrounding streets are thick with restaurants, bars, clubs, and shopping malls.

@@ -57,6 +57,7 @@ class Neighbourhood:
     title: str
     lat: float
     lng: float
+    anchors: list[tuple[float, float]]
 
 
 @dataclass
@@ -215,6 +216,18 @@ def distance_km(a_lat: float, a_lng: float, b_lat: float, b_lng: float) -> float
 
 def neighbourhoods(city_dir: Path) -> list[Neighbourhood]:
     rows = []
+    tagged: dict[str, list[tuple[float, float]]] = {}
+    for path in sorted(city_dir.glob("*.md")):
+        post = frontmatter.load(path)
+        if post.metadata.get("type") != "poi":
+            continue
+        tags = post.metadata.get("tags") or []
+        if "latitude" not in post.metadata or "longitude" not in post.metadata:
+            continue
+        point = (float(post.metadata["latitude"]), float(post.metadata["longitude"]))
+        for tag in tags:
+            tagged.setdefault(tag, []).append(point)
+
     for path in sorted(city_dir.glob("*.md")):
         post = frontmatter.load(path)
         if post.metadata.get("type") != "neighbourhood":
@@ -228,6 +241,8 @@ def neighbourhoods(city_dir: Path) -> list[Neighbourhood]:
                 title=post.metadata.get("title", path.stem),
                 lat=float(post.metadata["latitude"]),
                 lng=float(post.metadata["longitude"]),
+                anchors=[(float(post.metadata["latitude"]), float(post.metadata["longitude"]))]
+                + tagged.get(path.stem, []),
             )
         )
     return rows
@@ -266,7 +281,10 @@ def find_duplicate(name: str, names: dict[str, str]) -> str:
 
 
 def nearest_neighbourhood(rows: list[Neighbourhood], lat: float, lng: float) -> tuple[Neighbourhood, float]:
-    distances = [(distance_km(lat, lng, row.lat, row.lng), row) for row in rows]
+    distances = [
+        (min(distance_km(lat, lng, anchor_lat, anchor_lng) for anchor_lat, anchor_lng in row.anchors), row)
+        for row in rows
+    ]
     distance, row = min(distances, key=lambda item: item[0])
     return row, distance
 

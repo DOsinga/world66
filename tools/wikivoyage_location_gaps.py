@@ -214,6 +214,55 @@ def wikivoyage_kind(categories: list[str]) -> str:
     return ""
 
 
+def looks_like_travel_feature(title: str, categories: list[str]) -> bool:
+    text = norm(" ".join([title, *categories]))
+    needles = [
+        "archipelago",
+        "beach",
+        "biosphere",
+        "canyon",
+        "coast",
+        "conservation",
+        "desert",
+        "falls",
+        "forest",
+        "gorge",
+        "highlands",
+        "island",
+        "islands",
+        "lake",
+        "mount",
+        "mountain",
+        "mountains",
+        "nationalpark",
+        "nature",
+        "peninsula",
+        "reserve",
+        "river",
+        "trail",
+        "valley",
+        "volcano",
+        "wildlife",
+    ]
+    return any(needle in text for needle in needles)
+
+
+def w66_queue(row: dict) -> str:
+    kind = wikivoyage_kind(row["categories"])
+    status = wikivoyage_status(row["categories"])
+    if status not in {"star", "guide", "usable"}:
+        return "skip"
+    if kind == "city":
+        return "missing_location"
+    if kind in {"park", "rural_area"}:
+        return "feature_candidate"
+    if kind == "region":
+        if looks_like_travel_feature(row["title"], row["categories"]):
+            return "feature_candidate"
+        return "intermediate_region"
+    return "skip"
+
+
 def row_payload(row: dict, nearest: list[tuple[W66Place, float]], exact_match: str) -> dict:
     return {
         "title": row["title"],
@@ -224,6 +273,7 @@ def row_payload(row: dict, nearest: list[tuple[W66Place, float]], exact_match: s
         "categories": row["categories"],
         "wikivoyage_status": wikivoyage_status(row["categories"]),
         "wikivoyage_kind": wikivoyage_kind(row["categories"]),
+        "w66_queue": w66_queue(row),
         "exact_w66_match": exact_match,
         "confidence": confidence(row["title"], nearest, exact_match),
         "nearest_w66": [
@@ -267,6 +317,8 @@ def gap_rows(args):
                 continue
             if args.min_confidence == "medium" and payload["confidence"] not in {"high", "medium"}:
                 continue
+            if args.w66_queue and payload["w66_queue"] != args.w66_queue:
+                continue
             yield payload
 
 
@@ -285,6 +337,7 @@ def write_csv(rows, output: Path) -> None:
         "wikidata",
         "wikivoyage_status",
         "wikivoyage_kind",
+        "w66_queue",
         "categories",
         "confidence",
         "exact_w66_match",
@@ -314,6 +367,10 @@ def main() -> None:
     parser.add_argument("--include-subpages", action="store_true")
     parser.add_argument("--destination-only", action=argparse.BooleanOptionalAction, default=True)
     parser.add_argument("--only-missing", action="store_true")
+    parser.add_argument(
+        "--w66-queue",
+        choices=["missing_location", "feature_candidate", "intermediate_region", "skip"],
+    )
     parser.add_argument("--min-confidence", choices=["low", "medium", "high"], default="low")
     parser.add_argument("--nearest-places", type=int, default=5)
     parser.add_argument("--page-batch-size", type=int, default=50)

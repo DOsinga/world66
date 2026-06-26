@@ -60,5 +60,6 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Aphrodisias](/asia/turkey/aphrodisias) — underrated Roman site inland from the coast
 - [Dogubeyazit](/asia/turkey/dogubeyazit) — border town below Mount Ararat
 - [Edirne](/asia/turkey/edirne) — Ottoman city near the Greek and Bulgarian borders
+- [Uzunköprü](/asia/turkey/uzunkopru) — Eastern Thrace town named for its long Ottoman bridge
 - [Eskisehir](/asia/turkey/eskisehir) — lively university city
 - [Trabzon region](/asia/turkey/kackar) — Black Sea coast and the Kackar mountains

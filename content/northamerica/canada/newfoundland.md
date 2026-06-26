@@ -30,3 +30,4 @@ Come to the city that started it all, the first in the New World. Come to St. Jo
 [Corner Brook](/northamerica/canada/newfoundland/cornerbrook)
 [Gros Morne National Park](/northamerica/canada/newfoundland/grosmornenationa)
 [L'Anse aux Meadows](/northamerica/canada/newfoundland/lanseauxmeadows)
+[Burgeo](/northamerica/canada/newfoundland/burgeo)

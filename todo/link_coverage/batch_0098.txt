@@ -1,4 +1,0 @@
-northamerica/thecaribbean/puertorico/laparguera
-northamerica/unitedstates/colorado/ouray/black_bear_pass
-northamerica/unitedstates/newyorkstate/newyork/flushing_chinatown
-southamerica/peru/nasca

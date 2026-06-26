@@ -1,19 +1,25 @@
 ---
-title: "Quiapo"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 14.5985
 longitude: 120.9831
-snippet: Manila's busiest and most chaotic commercial neighbourhood, centred on the Black Nazarene shrine
-story: >
-  Every January 9, the Black Nazarene — a dark wood statue of Jesus carrying the cross, brought
-  from Mexico in 1606 — is carried from the Quiapo Church through the streets in one of the largest
-  religious processions in the world. An estimated nine million people join the barefoot procession,
-  many desperately trying to touch the statue in the belief that it grants miracles. The streets
-  simply disappear under the crowd.
-score: 8.7
+snippet: Manila's busiest and most chaotic commercial neighbourhood, centred on the
+  Black Nazarene shrine
+story: 'Every January 9, the Black Nazarene — a dark wood statue of Jesus carrying
+  the cross, brought from Mexico in 1606 — is carried from the Quiapo Church through
+  the streets in one of the largest religious processions in the world. An estimated
+  nine million people join the barefoot procession, many desperately trying to touch
+  the statue in the belief that it grants miracles. The streets simply disappear under
+  the crowd.
+
+  '
+tags:
+- things_to_do
+- neighbourhood
+title: Quiapo
+type: neighbourhood
+image: quiapo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Quezon_Boulevard_southbound_(Quiapo,_Manila)(07-16-2024).jpg
+image_license: CC BY 4.0
+image_attribution: Ernest Malsin
 ---
 
 Quiapo is the commercial and religious heart of old Manila, centred on the Minor Basilica of the Black Nazarene on Plaza Miranda. The church houses the most venerated religious image in the Philippines — a dark wood statue brought from Mexico in 1606 — and draws constant pilgrims. The plaza and surrounding streets are packed at almost all hours with vendors, jeepneys, and commerce of every variety.

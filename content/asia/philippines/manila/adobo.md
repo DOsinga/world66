@@ -1,13 +1,15 @@
 ---
-title: "Adobo and Filipino Home Cooking"
-type: poi
-tags:
-  - eating_out
-  - restaurant
-latitude: 14.5760
+latitude: 14.576
 longitude: 120.9915
-snippet: The vinegar-braised national dish — every Filipino household has a version, every version is different
 score: 7.1
+snippet: The vinegar-braised national dish — every Filipino household has a version,
+  every version is different
+tags:
+- eating_out
+- restaurant
+- ermita
+title: Adobo and Filipino Home Cooking
+type: poi
 ---
 
 Adobo is the closest thing the Philippines has to a national dish: meat (usually chicken, pork, or both) braised in vinegar, soy sauce, garlic, and bay leaves until the sauce reduces to a thick, intensely flavoured glaze. Every region, every family, every cook has a different version. Some use coconut milk; some are dry-fried after braising; some skip soy entirely and use only vinegar with turmeric. The commonality is the sour-salty balance that makes it one of the more compelling flavour combinations in all of Asian cooking.

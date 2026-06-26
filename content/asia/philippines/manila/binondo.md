@@ -1,18 +1,24 @@
 ---
-title: "Binondo Chinatown"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 14.5999
 longitude: 120.9754
-snippet: The world's oldest Chinatown, established in 1594, still very much alive with food and commerce
-story: >
-  Binondo was established in 1594 as a settlement for Chinese converts to Christianity — the Spanish
-  colonial government didn't trust non-Christian Chinese with residence inside Manila's walls, but
-  needed their commercial skills badly enough to create a dedicated settlement just outside Intramuros.
-  The result was the oldest Chinatown in the world, predating San Francisco's by nearly three centuries.
-score: 9.1
+snippet: The world's oldest Chinatown, established in 1594, still very much alive
+  with food and commerce
+story: 'Binondo was established in 1594 as a settlement for Chinese converts to Christianity
+  — the Spanish colonial government didn''t trust non-Christian Chinese with residence
+  inside Manila''s walls, but needed their commercial skills badly enough to create
+  a dedicated settlement just outside Intramuros. The result was the oldest Chinatown
+  in the world, predating San Francisco''s by nearly three centuries.
+
+  '
+tags:
+- things_to_do
+- neighbourhood
+title: Binondo Chinatown
+type: neighbourhood
+image: binondo.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chinatown,_Manila_(F._Achilli_pic)_-_Flickr.jpg
+image_license: CC BY 2.0
+image_attribution: Fabio Achilli from Milano, Italy
 ---
 
 Binondo is one of the great Chinatowns of Asia — not because it is well-preserved or photogenic in the usual way, but because it is genuinely alive. Streets choked with delivery tricycles, wholesale warehouses stacked to the ceiling with dried goods and cooking supplies, dim sum restaurants at 7am full of people who eat here because it's good and cheap.

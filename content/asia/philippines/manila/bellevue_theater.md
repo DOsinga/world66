@@ -1,14 +1,16 @@
 ---
-title: "Escolta Street — Old Manila's Commercial Heart"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - history
 latitude: 14.5975
 longitude: 120.9806
-snippet: The Art Deco main street of pre-war Manila, once the most fashionable address in Southeast Asia
 score: 7.9
+snippet: The Art Deco main street of pre-war Manila, once the most fashionable address
+  in Southeast Asia
+tags:
+- things_to_do
+- sight
+- history
+- quiapo
+title: Escolta Street — Old Manila's Commercial Heart
+type: poi
 ---
 
 Escolta Street in Santa Cruz was the Fifth Avenue of the Philippines before World War II — the most fashionable shopping street in Southeast Asia, lined with department stores, banks, and theaters in Art Deco and neoclassical styles. The 1945 Battle of Manila destroyed much of it, but enough survived to make the street legible as the grand avenue it once was.

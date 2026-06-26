@@ -1,13 +1,17 @@
 ---
-title: "Ermita and the Old Tourist Belt"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 14.5798
-longitude: 120.9870
-snippet: The original foreign traveller's district in Manila, now faded but still functional as a base
-score: 6.7
+longitude: 120.987
+snippet: The original foreign traveller's district in Manila, now faded but still
+  functional as a base
+tags:
+- things_to_do
+- neighbourhood
+title: Ermita
+type: neighbourhood
+image: ermita.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ermita-Malate_skyline_in_Manila_as_of_June_2015.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Wikimedia Commons
 ---
 
 Ermita is the historical centre of Manila's tourist belt — the neighbourhood where foreign travelers have been staying since the Spanish colonial era. The grand hotels and restaurants of the twentieth century have mostly closed or been replaced, but a core of guesthouses, budget hotels, restaurants, and travel agencies remains, centred on M.H. Del Pilar Street and the surrounding blocks.

@@ -1,13 +1,15 @@
 ---
-title: "Lechon — Whole Roasted Pig"
-type: poi
-tags:
-  - eating_out
-  - restaurant
 latitude: 14.5547
 longitude: 121.0244
-snippet: The centerpiece of every Filipino celebration — whole pig roasted on a spit, with crackling skin
 score: 6.9
+snippet: The centerpiece of every Filipino celebration — whole pig roasted on a spit,
+  with crackling skin
+tags:
+- eating_out
+- restaurant
+- makati
+title: Lechon — Whole Roasted Pig
+type: poi
 ---
 
 Lechon is the undisputed centrepiece of Filipino festive cooking: a whole pig roasted slowly on a bamboo spit over charcoal until the skin crackles and the meat falls away from the bone. Every fiesta, every birthday party, every significant occasion in the Philippines involves lechon, and the sight of it being carried shoulder-high by a cook through a restaurant is an unmistakable signal that something is being celebrated.

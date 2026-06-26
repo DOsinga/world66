@@ -5,9 +5,11 @@ import argparse
 import csv
 import hashlib
 import json
+import time
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
+from urllib.error import HTTPError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 
@@ -88,31 +90,79 @@ def cache_path(cache_dir: Path, title: str) -> Path:
     return cache_dir / f"{safe}-{digest}.wikitext"
 
 
-def fetch_wikitext(title: str, cache_dir: Path | None) -> str:
-    if cache_dir:
-        path = cache_path(cache_dir, title)
-        if path.exists():
-            return path.read_text(encoding="utf-8")
-
-    params = {
-        "action": "parse",
-        "page": title,
-        "prop": "wikitext",
-        "format": "json",
-        "redirects": "1",
-    }
+def request_json(params: dict[str, str], retries: int, retry_sleep: float) -> dict:
     req = Request(f"{API_URL}?{urlencode(params)}", headers={"User-Agent": USER_AGENT})
-    with urlopen(req, timeout=30) as response:
-        parsed = json.loads(response.read().decode("utf-8"))
-    text = parsed["parse"]["wikitext"]["*"]
-    if cache_dir:
-        cache_dir.mkdir(parents=True, exist_ok=True)
-        cache_path(cache_dir, title).write_text(text, encoding="utf-8")
-    return text
+    for attempt in range(retries + 1):
+        try:
+            with urlopen(req, timeout=60) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except HTTPError as exc:
+            if exc.code != 429 or attempt >= retries:
+                raise
+            time.sleep(retry_sleep * (attempt + 1))
+    raise RuntimeError("unreachable retry loop")
 
 
-def listings_from_page(source_page: str, cache_dir: Path | None):
-    text = fetch_wikitext(source_page, cache_dir)
+def batched(rows, size: int):
+    batch = []
+    for row in rows:
+        batch.append(row)
+        if len(batch) >= size:
+            yield batch
+            batch = []
+    if batch:
+        yield batch
+
+
+def fetch_wikitext_batch(
+    titles: list[str],
+    cache_dir: Path | None,
+    retries: int,
+    retry_sleep: float,
+) -> dict[str, str]:
+    texts = {}
+    missing = []
+    for title in titles:
+        if cache_dir:
+            path = cache_path(cache_dir, title)
+            if path.exists():
+                texts[title] = path.read_text(encoding="utf-8")
+                continue
+        missing.append(title)
+
+    if missing:
+        params = {
+            "action": "query",
+            "prop": "revisions",
+            "rvprop": "content",
+            "rvslots": "main",
+            "titles": "|".join(missing),
+            "format": "json",
+            "redirects": "1",
+        }
+        data = request_json(params, retries, retry_sleep)
+        by_title = {}
+        for page in data.get("query", {}).get("pages", {}).values():
+            if "missing" in page:
+                continue
+            revision = page.get("revisions", [{}])[0]
+            slot = revision.get("slots", {}).get("main", {})
+            text = slot.get("*") or slot.get("content") or revision.get("*") or ""
+            by_title[page["title"]] = text
+
+        redirects = {row["from"]: row["to"] for row in data.get("query", {}).get("redirects", [])}
+        normalized = {row["from"]: row["to"] for row in data.get("query", {}).get("normalized", [])}
+        for title in missing:
+            resolved = redirects.get(normalized.get(title, title), normalized.get(title, title))
+            text = by_title.get(resolved, by_title.get(title, ""))
+            texts[title] = text
+            if cache_dir and text:
+                cache_dir.mkdir(parents=True, exist_ok=True)
+                cache_path(cache_dir, title).write_text(text, encoding="utf-8")
+    return texts
+
+
+def listings_from_text(source_page: str, text: str):
     for template in iter_templates(text):
         data = split_template(template)
         name = clean_text(data.get("name", ""))
@@ -342,54 +392,64 @@ def candidate_rows(args):
     nbhds = neighbourhood_slugs()
     seen = set()
 
-    for source_page in wikivoyage_pages(args.limit_pages, args.start_title):
+    pages = wikivoyage_pages(args.limit_pages, args.start_title)
+    for page_batch in batched(pages, args.page_batch_size):
         try:
-            for listing in listings_from_page(source_page, args.cache_dir):
-                key = (norm(listing["name"]), round(listing["lat"], 5), round(listing["lng"], 5))
-                if key in seen:
-                    continue
-                seen.add(key)
-                poi_neighbours = poi_index.nearest(listing["lat"], listing["lng"], args.nearest_pois)
-                place_neighbours = place_index.nearest(listing["lat"], listing["lng"], 3)
-                hard_dupes, soft_dupes = duplicate_flags(listing, poi_neighbours)
-                low_value = low_value_reasons(listing["name"], listing["content"])
-                parent_path, neighbourhood, assignment_basis = proposed_assignment(
-                    poi_neighbours, place_neighbours, nbhds
-                )
-                if hard_dupes and not args.include_hard_duplicates:
-                    continue
-                if low_value and args.skip_low_value:
-                    continue
-                yield {
-                    "source_page": source_page,
-                    "source_url": f"https://en.wikivoyage.org/wiki/{source_page.replace(' ', '_')}",
-                    "kind": listing["kind"],
-                    "name": listing["name"],
-                    "lat": listing["lat"],
-                    "lng": listing["lng"],
-                    "content": listing["content"],
-                    "url": listing["url"],
-                    "wikipedia": listing["wikipedia"],
-                    "wikidata": listing["wikidata"],
-                    "proposed_parent_path": parent_path,
-                    "proposed_neighbourhood": neighbourhood,
-                    "assignment_basis": assignment_basis,
-                    "nearest_pois": nearest_payload(poi_neighbours),
-                    "nearest_places": [
-                        {
-                            "path": place.path,
-                            "title": place.title,
-                            "type": place.page_type,
-                            "distance_km": round(dist, 3),
-                        }
-                        for place, dist in place_neighbours
-                    ],
-                    "hard_duplicate_reasons": hard_dupes,
-                    "soft_duplicate_reasons": soft_dupes,
-                    "low_value_reasons": low_value,
-                }
+            texts = fetch_wikitext_batch(page_batch, args.cache_dir, args.retries, args.retry_sleep)
         except Exception as exc:
-            print(f"warning: skipped {source_page}: {exc}", file=__import__("sys").stderr)
+            print(f"warning: skipped page batch starting {page_batch[0]}: {exc}", file=__import__("sys").stderr)
+            continue
+        for source_page, text in texts.items():
+            if not text:
+                continue
+            try:
+                listings = listings_from_text(source_page, text)
+                for listing in listings:
+                    key = (norm(listing["name"]), round(listing["lat"], 5), round(listing["lng"], 5))
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    poi_neighbours = poi_index.nearest(listing["lat"], listing["lng"], args.nearest_pois)
+                    place_neighbours = place_index.nearest(listing["lat"], listing["lng"], 3)
+                    hard_dupes, soft_dupes = duplicate_flags(listing, poi_neighbours)
+                    low_value = low_value_reasons(listing["name"], listing["content"])
+                    parent_path, neighbourhood, assignment_basis = proposed_assignment(
+                        poi_neighbours, place_neighbours, nbhds
+                    )
+                    if hard_dupes and not args.include_hard_duplicates:
+                        continue
+                    if low_value and args.skip_low_value:
+                        continue
+                    yield {
+                        "source_page": source_page,
+                        "source_url": f"https://en.wikivoyage.org/wiki/{source_page.replace(' ', '_')}",
+                        "kind": listing["kind"],
+                        "name": listing["name"],
+                        "lat": listing["lat"],
+                        "lng": listing["lng"],
+                        "content": listing["content"],
+                        "url": listing["url"],
+                        "wikipedia": listing["wikipedia"],
+                        "wikidata": listing["wikidata"],
+                        "proposed_parent_path": parent_path,
+                        "proposed_neighbourhood": neighbourhood,
+                        "assignment_basis": assignment_basis,
+                        "nearest_pois": nearest_payload(poi_neighbours),
+                        "nearest_places": [
+                            {
+                                "path": place.path,
+                                "title": place.title,
+                                "type": place.page_type,
+                                "distance_km": round(dist, 3),
+                            }
+                            for place, dist in place_neighbours
+                        ],
+                        "hard_duplicate_reasons": hard_dupes,
+                        "soft_duplicate_reasons": soft_dupes,
+                        "low_value_reasons": low_value,
+                    }
+            except Exception as exc:
+                print(f"warning: skipped {source_page}: {exc}", file=__import__("sys").stderr)
 
 
 def write_jsonl(rows, output: Path) -> None:
@@ -440,7 +500,10 @@ def main() -> None:
     parser.add_argument("--limit-pages", type=int)
     parser.add_argument("--start-title")
     parser.add_argument("--nearest-pois", type=int, default=12)
+    parser.add_argument("--page-batch-size", type=int, default=50)
     parser.add_argument("--cache-dir", type=Path, default=Path("tools/raw/wikivoyage_wikitext"))
+    parser.add_argument("--retries", type=int, default=4)
+    parser.add_argument("--retry-sleep", type=float, default=30)
     parser.add_argument("--include-hard-duplicates", action="store_true")
     parser.add_argument("--skip-low-value", action="store_true")
     args = parser.parse_args()

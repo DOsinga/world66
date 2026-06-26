@@ -4,7 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - wangfujing
+  - dongcheng
 latitude: 39.9159
 longitude: 116.4059
 score: 6.4

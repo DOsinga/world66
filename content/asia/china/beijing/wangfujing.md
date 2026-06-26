@@ -1,15 +1,17 @@
 ---
 title: Wangfujing
-type: neighbourhood
+type: poi
 tags:
-- things_to_do
-- neighbourhood
+- shopping
+- dongcheng
 latitude: 39.911
 longitude: 116.4072
 image: wangfujing.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beijing_Wangfujing_20170806.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hal 0005
+score: 6.0
+snippet: Beijing's main pedestrianised shopping street, now more mall than market, running north from Chang'an Avenue
 ---
 
 Beijing's main pedestrianised shopping street, running north from Chang'an Avenue through the Dongcheng district. Today it is dominated by large malls — Oriental Plaza at the Chang'an end, apm and the venerable Beijing Department Store along the street — and by international high-street brands. The famous Donghuamen night market, with its skewered scorpions, starfish and seahorses, closed for good in 2016, and the surviving Wangfujing Snack Street has since been pared back into a shorter, more souvenir-leaning lane; the city's serious street-food crowds have moved on to Gui Jie and Xianyukou.

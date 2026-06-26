@@ -3,7 +3,7 @@ title: "Wangfujing Bookstore"
 type: poi
 tags:
   - shopping
-  - wangfujing
+  - dongcheng
 latitude: 39.9089
 longitude: 116.4064
 score: 5.6

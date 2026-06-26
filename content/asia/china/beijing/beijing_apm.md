@@ -3,7 +3,7 @@ title: "Beijing apm"
 type: poi
 tags:
   - shopping
-  - wangfujing
+  - dongcheng
 latitude: 39.9117657
 longitude: 116.4056521
 score: 5.4

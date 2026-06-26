@@ -6,7 +6,7 @@ longitude: 116.4047354
 tags:
   - eating_out
   - market
-  - wangfujing
+  - dongcheng
 score: 5.8
 snippet: Pared-back lantern-hung lane, once famous for skewered scorpions and other oddities
 ---

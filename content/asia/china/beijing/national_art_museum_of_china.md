@@ -6,7 +6,7 @@ longitude: 116.4027108
 tags:
   - things_to_do
   - museum
-  - wangfujing
+  - dongcheng
 score: 6.5
 snippet: State art museum in a 1960s temple-roofed building, north of the Wangfujing shopping street
 ---

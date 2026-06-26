@@ -3,7 +3,7 @@ title: "Oriental Plaza"
 type: poi
 tags:
   - shopping
-  - wangfujing
+  - dongcheng
 latitude: 39.9085583
 longitude: 116.4106885
 score: 5.6

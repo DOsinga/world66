@@ -5,6 +5,7 @@ snippet: Vast imperial palace complex of Ming and Qing dynasties
 tags:
 - things_to_do
 - landmark
+- dongcheng
 title: Forbidden City
 type: poi
 score: 8.8

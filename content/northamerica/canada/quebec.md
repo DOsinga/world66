@@ -28,5 +28,7 @@ Beyond the two main cities, the province rewards exploration. The **Laurentians*
 
 - [Montréal](/northamerica/canada/quebec/montreal)
 - [Québec City](/northamerica/canada/quebec/quebeccity)
+- [Baie-Sainte-Catherine](/northamerica/canada/quebec/baie_sainte_catherine)
+- [Marieville](/northamerica/canada/quebec/marieville)
 - [Mont-Tremblant](/northamerica/canada/quebec/mont_tremblant_que)
 - [Val-David](/northamerica/canada/quebec/valdavid)

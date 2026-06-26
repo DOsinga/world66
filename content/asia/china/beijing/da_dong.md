@@ -5,8 +5,8 @@ tags:
   - eating_out
   - restaurant
   - sanlitun
-latitude: 39.9233
-longitude: 116.4445
+latitude: 39.9313007
+longitude: 116.4562015
 score: 5.8
 ---
 

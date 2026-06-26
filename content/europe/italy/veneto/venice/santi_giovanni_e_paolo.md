@@ -1,6 +1,6 @@
 ---
-latitude: 45.4403
-longitude: 12.3486
+latitude: 45.4392531
+longitude: 12.3421993
 score: 8.8
 snippet: Venice's largest church — burial place of the doges, with Verrocchio's Colleoni
   outside

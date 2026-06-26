@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:14-08-05-barcelona-RalfR-0
 latitude: 41.38258
 loc_type: city
 longitude: 2.177073
-score: 0.89
+score: 9.96
 snippet: Catalonia's Mediterranean capital, noted for Gaudi architecture, neighbourhood
   street life, and coastal setting.
 tags:

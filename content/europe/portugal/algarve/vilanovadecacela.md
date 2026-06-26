@@ -2,7 +2,7 @@
 latitude: 37.1667
 loc_type: city
 longitude: -7.5333
-score: 0.46
+score: 7.88
 snippet: Small eastern Algarve town on the N125, known locally for its fish market
   and Sunday market.
 title: Vila Nova de Cacela

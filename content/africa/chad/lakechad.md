@@ -4,7 +4,7 @@ done:
 latitude: 13.0
 loc_type: feature
 longitude: 14.0
-score: 0.24
+score: 5.49
 snippet: Shallow Sahelian lake of reed beds, islands, and fishing communities shared
   by four countries.
 title: Lake Chad

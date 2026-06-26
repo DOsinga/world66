@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinosaur_Ridge_of_Seoraksa
 latitude: 38.1194
 loc_type: feature
 longitude: 128.4656
-score: 0.57
+score: 8.8
 snippet: South Korean mountain national park with granite peaks, deep valleys, waterfalls,
   and autumn foliage.
 sources:

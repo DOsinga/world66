@@ -5,7 +5,7 @@ done:
 latitude: -6.390398
 loc_type: city
 longitude: -77.941677
-score: 0.31
+score: 6.27
 snippet: Utcubamba valley village below the Chachapoyas fortress of Kuélap, high on
   a forested ridge.
 sources:

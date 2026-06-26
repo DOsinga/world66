@@ -4,7 +4,7 @@ done:
 latitude: 47.015476
 loc_type: city
 longitude: 8.799598
-score: 0.48
+score: 8.03
 snippet: Schwyz Pre-Alps ski resort with gentle pistes and hiking trails within easy
   reach of Zurich.
 title: Hoch Ybrig

@@ -5,7 +5,7 @@ done:
 latitude: 50.544391
 loc_type: city
 longitude: -3.991498
-score: 0.4
+score: 7.24
 snippet: High Dartmoor village near open moorland, prison history, and walks to ancient
   stone rows.
 title: Princetown

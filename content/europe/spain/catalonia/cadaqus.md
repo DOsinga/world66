@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cadaques_Pueblo_Marinero.J
 latitude: 42.289348
 loc_type: city
 longitude: 3.275216
-score: 0.59
+score: 8.96
 snippet: Whitewashed Costa Brava fishing village tied to Salvador Dalí and the rocky
   Cap de Creus coast.
 title: Cadaqués

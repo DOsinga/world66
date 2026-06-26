@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_del
 latitude: 38.6278
 loc_type: city
 longitude: 16.5386
-score: 0.37
+score: 6.91
 snippet: Hillside Calabrian town above the Ionian Sea, with mountain views and a quiet
   old centre.
 title: Sant'Andrea Apostolo dello Jonio

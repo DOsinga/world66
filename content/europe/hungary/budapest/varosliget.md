@@ -1,11 +1,15 @@
 ---
 latitude: 47.5147
 longitude: 19.0826
+score: 7.4
+snippet: Large urban park at the end of Andrássy holding Vajdahunyad Castle, Széchenyi
+  Baths, Heroes Square, the zoo, and a circus
 tags:
 - things_to_do
-- neighbourhood
+- sight
+- park
 title: Városliget (City Park)
-type: neighbourhood
+type: poi
 ---
 
 Városliget is Budapest's main urban park, a broad green space at the end of Andrássy Avenue that has been the city's public pleasure ground since the early 19th century. The park contains more concentrated attractions per hectare than almost anywhere else in Budapest: the Széchenyi thermal baths, the zoo, Vajdahunyad Castle, the Museum of Fine Arts, Heroes' Square, the Circus, and the new House of Music Hungary all sit within its boundaries or on its edges.

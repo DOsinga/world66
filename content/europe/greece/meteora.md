@@ -8,9 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:%22Dem_Himmel_n%C3%A4her%22_-_die_Meteora-Kl%C3%B6ster._19.jpg
 latitude: 39.721905
 loc_type: feature
-snippet: Greek monastic landscape of sandstone pillars crowned by medieval monasteries above the Thessalian plain.
+snippet: Greek monastic landscape of sandstone pillars crowned by medieval monasteries
+  above the Thessalian plain.
 longitude: 21.632232
-score: 0.74
+score: 9.63
 title: Meteora
 type: location
 ---

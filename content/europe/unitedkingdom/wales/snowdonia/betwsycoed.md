@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pont-y-pair_Bridge.jpg
 latitude: 53.094237
 loc_type: city
 longitude: -3.825125
-score: 0.49
-snippet: Snowdonia mountain village where three rivers meet beneath Gwydyr Forest and trails climb toward Moel Siabod.
+score: 8.16
+snippet: Snowdonia mountain village where three rivers meet beneath Gwydyr Forest
+  and trails climb toward Moel Siabod.
 title: Betws-y-Coed
 type: location
 ---

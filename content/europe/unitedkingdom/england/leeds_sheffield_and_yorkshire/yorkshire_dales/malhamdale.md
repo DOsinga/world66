@@ -4,7 +4,7 @@ done:
 latitude: 54.023331
 loc_type: feature
 longitude: -2.145729
-score: 0.48
+score: 8.06
 snippet: Yorkshire Dales valley of limestone pavement, waterfalls, and the walking
   village of Malham
 title: Malhamdale

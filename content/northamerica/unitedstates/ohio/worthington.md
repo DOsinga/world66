@@ -5,14 +5,15 @@ done:
 latitude: 40.0931
 loc_type: city
 longitude: -83.018
-score: 0.23
+score: 5.4
 title: Worthington
 type: location
 image: worthington.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Worthington,_Ohio.jpg
 image_license: Public domain
 image_attribution: Nyttend
-snippet: Historic city north of Columbus, founded in 1804 and known for Federal-era architecture.
+snippet: Historic city north of Columbus, founded in 1804 and known for Federal-era
+  architecture.
 ---
 
 Worthington, just north of Columbus, is one of the older cities in Ohio, having been founded in 1804, and still preserves a primarily Federal architectural landscape. Many of the buildings along the main road through town, High Street, and many of the surrounding homes date from the 1810s to the 1850s. The [Worthington Historic District](/northamerica/unitedstates/ohio/worthington/worthington_historic_district) on and around the Village Green is one of the best-preserved Federal streetscapes in the state, and the district includes the oldest Masonic temple west of the Alleghenies — the [New England Lodge](/northamerica/unitedstates/ohio/worthington/new_england_lodge), built in 1820 and now housing a small museum — and the Buttles Building, the oldest residence in town dating from 1811.

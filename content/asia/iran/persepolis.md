@@ -4,11 +4,15 @@ done:
 latitude: 29.9352
 loc_type: feature
 longitude: 52.8904
-score: 0.57
+score: 8.83
 snippet: Achaemenid ceremonial capital near Shiraz, preserved in stone terraces, reliefs,
   and imperial stairways.
 title: Persepolis
 type: location
+image: persepolis.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Apadana_palace_persepolis.JPG
+image_license: CC BY-SA 3.0
+image_attribution: درفش کاویانی
 ---
 
 Persepolis is the ceremonial capital of the Achaemenid Empire, founded by Darius the Great around 518 BC and expanded by his successors Xerxes and Artaxerxes. The ruins lie on a vast stone terrace at the foot of a mountain, about 60 kilometres northeast of [Shiraz](/asia/iran/shiraz), and they remain one of the most impressive archaeological sites in the world.

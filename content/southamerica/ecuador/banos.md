@@ -3,11 +3,16 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-23'
+image: banos.jpg
+image_attribution: Eddyl
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Ba%C3%B1os,_Ecuador.JPG
 latitude: -1.331916
 loc_type: city
 longitude: -78.262529
-score: 0.57
-snippet: Volcanic spa town below Tungurahua, where hot springs and waterfalls mark the road to the Amazon.
+score: 8.77
+snippet: Volcanic spa town below Tungurahua, where hot springs and waterfalls mark
+  the road to the Amazon.
 title: Baños
 type: location
 ---

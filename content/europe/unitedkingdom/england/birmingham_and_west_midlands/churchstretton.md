@@ -5,7 +5,7 @@ done:
 latitude: 52.5376
 loc_type: city
 longitude: -2.8032
-score: 0.39
+score: 7.17
 snippet: Shropshire walking town between the Long Mynd and Stretton Hills, with moorland
   ridges above its valley.
 sources:

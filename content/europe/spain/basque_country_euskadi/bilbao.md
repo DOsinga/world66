@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abandoibarra3.jpg
 latitude: 43.263
 loc_type: city
 longitude: -2.935
-score: 0.58
+score: 8.9
 snippet: Basque port city transformed from industrial centre to cultural hub around
   the Guggenheim Museum.
 title: Bilbao

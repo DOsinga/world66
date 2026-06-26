@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hera_temple_II_-_Paestum_-
 latitude: 40.421678
 loc_type: city
 longitude: 15.014883
-score: 0.56
+score: 8.71
 title: Paestum
 type: location
 snippet: Ancient Greek city in Campania where three Doric temples stand almost complete

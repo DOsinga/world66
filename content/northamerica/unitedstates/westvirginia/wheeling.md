@@ -6,7 +6,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 40.064
 longitude: -80.7209
-score: 0.33
+score: 6.44
 title: Wheeling
 type: location
 loc_type: city

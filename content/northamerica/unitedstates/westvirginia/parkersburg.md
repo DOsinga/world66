@@ -6,7 +6,7 @@ done:
 latitude: 39.2667
 loc_type: city
 longitude: -81.5621
-score: 0.28
+score: 5.92
 snippet: Ohio River city in West Virginia, tied to Blennerhassett Island and Aaron
   Burr's western conspiracy
 title: Parkersburg

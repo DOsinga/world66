@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_de_Soutomaior,_San
 latitude: 42.338625
 loc_type: city
 longitude: -8.572628
-score: 0.37
+score: 6.93
 snippet: Small Galician municipality near the Vigo ria, known for its hilltop castle
   and gardens.
 title: Soutomaior

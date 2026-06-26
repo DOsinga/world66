@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillet_in_Perpignan.jpg
 latitude: 42.6887
 loc_type: city
 longitude: 2.8948
-score: 0.46
+score: 7.92
 snippet: Roussillon city near the Mediterranean and Spanish border, with a strong
   Catalan identity.
 title: Perpignan

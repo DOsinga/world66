@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_de_Fleville-facade
 latitude: 48.5917
 loc_type: city
 longitude: 6.2594
-score: 0.23
+score: 5.41
 snippet: Small Lorraine commune south of Nancy, defined by the Renaissance Château
   de Fléville.
 title: Fléville

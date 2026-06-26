@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazara_del_Vallo_-_Porto_-
 latitude: 37.6537
 loc_type: city
 longitude: 12.5887
-score: 0.45
+score: 7.77
 snippet: West Sicilian port city where a Tunisian-flavoured Casbah meets Italy's largest
   fishing fleet
 title: Mazara del Vallo

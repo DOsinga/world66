@@ -5,7 +5,7 @@ done:
 latitude: 41.5699
 loc_type: city
 longitude: 64.2097
-score: 0.21
+score: 4.99
 title: Zarafshan
 type: location
 snippet: Gold-mining city in Uzbekistan's Kyzyl Kum desert, built around the Muruntau

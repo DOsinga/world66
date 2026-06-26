@@ -5,7 +5,7 @@ done:
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803
-score: 0.47
+score: 7.97
 snippet: Scottish gateway town where the Lowlands meet the Trossachs, with mountains
   rising beyond its main street
 sources:

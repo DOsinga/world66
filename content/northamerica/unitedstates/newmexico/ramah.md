@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ramah_(5276067887
 latitude: 35.325
 loc_type: city
 longitude: -108.4878
-score: 0.2
+score: 4.84
 snippet: Tiny New Mexico ranching town in a sandstone-rimmed valley near Zuni Pueblo
   and El Morro National Monument
 title: Ramah

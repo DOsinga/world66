@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/30342811@N04/11915090415
 latitude: 47.885981
 loc_type: city
 longitude: 110.420104
-score: 0.33
+score: 6.44
 snippet: Eastern Mongolian province of forested mountains and steppe, revered as the
   traditional homeland of Genghis Khan.
 title: Khentii

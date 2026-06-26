@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zvornik_fortress_main_stru
 latitude: 44.3864
 loc_type: city
 longitude: 19.1025
-score: 0.27
+score: 5.83
 snippet: Drina river city in northeastern Bosnia, facing Serbia across a border shaped
   by centuries of trade.
 title: Zvornik

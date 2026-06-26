@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcazaba_1,_Almeria,_Spain
 latitude: 36.8402
 loc_type: city
 longitude: -2.468
-score: 0.48
+score: 8.05
 snippet: Dry Andalusian port city where a Moorish fortress rises above harbour streets
   and desert hills.
 sources:

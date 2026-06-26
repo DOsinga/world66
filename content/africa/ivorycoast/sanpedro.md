@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_P%C3%A9dro-plage4.JPG
 latitude: 4.759
 loc_type: city
 longitude: -6.6464
-score: 0.28
+score: 5.93
 snippet: Ivorian Atlantic port city built around cocoa exports, with coconut-fringed
   beaches and rainforest access
 title: San-Pédro

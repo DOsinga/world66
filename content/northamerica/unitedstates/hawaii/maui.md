@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maui_-_Observatory_2.jpg
 latitude: 20.802957
 loc_type: city
 longitude: -156.310683
-score: 0.82
+score: 9.92
 snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
   road to Hāna.
 title: Maui

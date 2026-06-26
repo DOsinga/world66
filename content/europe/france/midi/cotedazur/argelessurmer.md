@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/80942291@N00/7268967498
 latitude: 42.5461
 loc_type: city
 longitude: 3.0239
-score: 0.49
+score: 8.14
 snippet: Catalan seaside town where the Pyrenees meet the Mediterranean at the edge
   of the Côte Vermeille.
 title: Argeles-sur-Mer

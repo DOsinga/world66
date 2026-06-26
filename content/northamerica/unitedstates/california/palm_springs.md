@@ -5,11 +5,15 @@ done:
 latitude: 33.824627
 loc_type: city
 longitude: -116.540303
-score: 0.55
+score: 8.65
 snippet: Coachella Valley desert resort city defined by midcentury modern architecture
   and mountain-ringed sunshine.
 title: Palm Springs
 type: location
+image: palm_springs.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kaufman_Desert_Home.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Pmeulbroek
 ---
 
 Palm Springs sits in the Coachella Valley, ringed by mountains on all sides and baked by desert sun for 354 days a year. It was a glamorous midcentury retreat — Frank Sinatra, Dean Martin, and the Rat Pack crowd all had homes here — and that era still defines the town's character. The [midcentury modern architecture](/northamerica/unitedstates/california/palm_springs/modernism_architecture) is the best-preserved collection in the United States, and Modernism Week each February draws architecture fans from around the world.

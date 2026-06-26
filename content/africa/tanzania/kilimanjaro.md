@@ -4,12 +4,16 @@ done:
   location_cleanup: 2026-04-06
 latitude: -3.078653
 longitude: 37.419856
-score: 0.62
+score: 9.11
 title: Kilimanjaro
 type: location
 loc_type: feature
 snippet: Tanzanian mountain region around Kilimanjaro, with Chagga history on Africa's
   highest slopes.
+image: kilimanjaro.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Sergey Pesterev
 ---
 
 **Part of history**

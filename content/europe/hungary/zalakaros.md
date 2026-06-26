@@ -5,7 +5,7 @@ done:
 latitude: 46.5608
 loc_type: city
 longitude: 17.1222
-score: 0.38
+score: 7.03
 snippet: Southwestern Hungarian spa town built around mineral-rich thermal water discovered
   while drilling for oil.
 title: Zalakaros

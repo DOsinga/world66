@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Charlotte,_NC_(49571333468
 latitude: 35.227209
 loc_type: city
 longitude: -80.843083
-score: 0.36
+score: 6.78
 snippet: North Carolina banking city with Southern roots, Revolutionary history, and
   glassy Uptown towers.
 title: Charlotte

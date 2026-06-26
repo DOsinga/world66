@@ -5,7 +5,7 @@ done:
 latitude: 5.289
 loc_type: city
 longitude: -52.584
-score: 0.41
+score: 7.34
 snippet: Former penal island off French Guiana, part of the Iles du Salut prison archipelago.
 title: Devil's Island
 type: location

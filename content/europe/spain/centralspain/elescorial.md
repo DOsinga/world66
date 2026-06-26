@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_
 latitude: 40.583641
 loc_type: city
 longitude: -4.128143
-score: 0.5
+score: 8.24
 snippet: Sierra de Guadarrama town built around Philip II's austere royal monastery
   and pantheon
 title: El Escorial

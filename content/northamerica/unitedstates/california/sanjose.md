@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_long_line_for_exchange_m
 latitude: 37.336166
 loc_type: city
 longitude: -121.890591
-score: 0.33
+score: 6.51
 snippet: Silicon Valley's largest city, with Spanish pueblo origins and the eccentric
   Winchester Mystery House.
 title: San Jose

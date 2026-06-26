@@ -5,7 +5,7 @@ done:
 latitude: 35.6269
 loc_type: city
 longitude: -120.6908
-score: 0.48
+score: 8.08
 sources:
 - https://en.wikipedia.org/wiki/Paso_Robles,_California
 title: Paso Robles

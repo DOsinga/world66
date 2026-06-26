@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bibala,_landscape-1.jpg
 latitude: -14.7667
 loc_type: city
 longitude: 13.35
-score: 0.19
+score: 4.73
 snippet: Small inland Angolan town where railway history meets the climb from desert
   coast to highlands.
 sources:

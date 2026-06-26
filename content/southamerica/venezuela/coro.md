@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casco_Colonial_de_Coro_-_p
 latitude: 11.402
 loc_type: city
 longitude: -69.683
-score: 0.38
+score: 6.97
 snippet: Colonial Venezuelan city of whitewashed houses and mud-walled mansions beside
   the Médanos de Coro dunes
 sources:

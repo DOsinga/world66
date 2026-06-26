@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Chantilly_1.j
 latitude: 49.193174
 loc_type: city
 longitude: 2.463669
-score: 0.5
+score: 8.18
 snippet: Aristocratic estate town north of Paris, built around a château, racing stables,
   and forest.
 title: Chantilly

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruines_El_Ceibal.JPG
 latitude: 16.4167
 loc_type: city
 longitude: -90.1667
-score: 0.42
+score: 7.44
 snippet: Petén jungle Maya site on the Río de la Pasión, noted for exceptional Late
   Classic stelae.
 title: Ceibal

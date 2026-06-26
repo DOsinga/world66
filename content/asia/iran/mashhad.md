@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:(Shah_-_Emam)_Reza_1.jpg
 latitude: 36.297494
 loc_type: city
 longitude: 59.605923
-score: 0.36
+score: 6.8
 snippet: Iranian pilgrimage city built around Imam Reza's shrine, the sacred heart
   of Khorasan.
 title: Mashhad

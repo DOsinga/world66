@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandiagara_escarpment_2.jp
 latitude: 14.3505
 loc_type: city
 longitude: -3.6113
-score: 0.38
+score: 7.08
 snippet: Dusty Dogon country gateway where travellers arrange guides for treks along
   the sandstone escarpment
 title: Bandiagara

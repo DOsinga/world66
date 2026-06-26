@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Authentic_Viking_recreatio
 latitude: 51.601765
 loc_type: city
 longitude: -55.53239
-score: 0.47
+score: 7.98
 snippet: Newfoundland archaeological site preserving a Norse outpost from around 1000
   AD at the island's northern tip
 title: L'Anse aux Meadows

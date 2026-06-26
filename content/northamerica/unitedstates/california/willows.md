@@ -5,7 +5,7 @@ done:
 latitude: 39.5243
 loc_type: city
 longitude: -122.1914
-score: 0.24
+score: 5.47
 snippet: Sacramento Valley farm town in rice country, close to a major wintering waterfowl
   refuge
 title: Willows

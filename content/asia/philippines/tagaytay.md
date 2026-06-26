@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tagaytay_Highlands,_Philip
 latitude: 14.099261
 loc_type: city
 longitude: 120.939182
-score: 0.49
+score: 8.13
 snippet: Philippine hill town on Taal Caldera's rim, with cool air and layered lake-and-volcano
   views.
 title: Tagaytay

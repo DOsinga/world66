@@ -4,7 +4,7 @@ done:
 latitude: 40.552221
 loc_type: city
 longitude: 16.666887
-score: 0.37
+score: 6.95
 snippet: Basilicata hilltop town above the Bradano valley, centred on an 11th-century
   Benedictine abbey.
 title: Montescaglioso

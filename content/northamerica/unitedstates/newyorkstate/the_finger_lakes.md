@@ -9,6 +9,10 @@ snippet: Upstate New York lake region of glacier-carved valleys, Riesling vineya
   gorges, and small college towns.
 title: The Finger Lakes
 type: location
+image: the_finger_lakes.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Sunrise_overlooking_a_vineyard_in_the_Finger_Lakes.jpg
+image_license: CC BY 2.0
+image_attribution: Visit Finger Lakes
 ---
 
 The Finger Lakes region of upstate New York is named for the eleven long, narrow lakes that glaciers carved into the landscape thousands of years ago. Stretched out across rolling hills south of Syracuse and Rochester, the lakes create a patchwork of vineyards, gorges, and small towns that feels a world apart from New York City.

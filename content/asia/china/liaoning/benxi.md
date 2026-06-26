@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Benxi
 title: Benxi
 type: location
-score: 0.27
+score: 5.89
 snippet: Former steel city in Liaoning, now known for forested mountains and boatable
   limestone water caves.
 ---

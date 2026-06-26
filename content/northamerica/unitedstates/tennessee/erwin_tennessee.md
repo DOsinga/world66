@@ -5,7 +5,7 @@ done:
 latitude: 36.1451
 loc_type: city
 longitude: -82.4184
-score: 0.27
+score: 5.87
 snippet: Appalachian Tennessee town in the Nolichucky valley, edged by whitewater
   gorge and mountain wilderness
 title: Erwin

@@ -7,7 +7,7 @@ done:
 latitude: 54.8951
 loc_type: city
 longitude: -2.9382
-score: 0.35
+score: 6.7
 snippet: Border city in Cumbria where rivers, castle walls, and centuries of English-Scottish
   conflict meet
 title: Carlisle

@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Volcan-San-Pedro-Panorama.
 latitude: 14.6434
 loc_type: city
 longitude: -91.2268
-score: 0.54
+score: 8.55
 title: Santiago Atitlan
-snippet: Tz'utujil Maya town on Lake Atitlán, set between volcanoes and centred on living traditional culture.
+snippet: Tz'utujil Maya town on Lake Atitlán, set between volcanoes and centred on
+  living traditional culture.
 type: location
 ---
 

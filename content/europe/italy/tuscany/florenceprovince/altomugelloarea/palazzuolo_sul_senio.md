@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzuolo_sul_Senio_-_Lun
 latitude: 44.1125
 loc_type: city
 longitude: 11.5477
-score: 0.42
+score: 7.48
 snippet: Tuscan-Romagnan border village in the Senio valley, surrounded by wooded
   hills, clear streams, and trails.
 title: Palazzuolo sul Senio

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/128622178@N04/15165646163
 latitude: -0.5018
 loc_type: city
 longitude: 117.1393
-score: 0.3
+score: 6.11
 snippet: East Kalimantan river port on the Mahakam, starting point for journeys into
   the Bornean interior
 sources:

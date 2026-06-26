@@ -1,12 +1,13 @@
 ---
 title: Zakopane
-snippet: "Tatra foothills resort town of Góral wooden architecture, ski lifts, and mountain trailheads."
+snippet: Tatra foothills resort town of Góral wooden architecture, ski lifts, and
+  mountain trailheads.
 type: location
 latitude: 49.2969
 longitude: 19.9505
 done:
   location_cleanup: 2026-04-06
-score: 0.54
+score: 8.61
 loc_type: city
 image: zakopane.jpg
 image_license: CC BY-SA 4.0

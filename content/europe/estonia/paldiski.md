@@ -2,7 +2,7 @@
 latitude: 59.3507
 loc_type: city
 longitude: 24.0583
-score: 0.31
+score: 6.28
 snippet: Estonian port town west of Tallinn, marked by naval history and a closed
   Soviet submarine base.
 title: Paldiski

@@ -4,7 +4,7 @@ done:
 latitude: 18.3167
 loc_type: feature
 longitude: -77.6667
-score: 0.42
+score: 7.43
 snippet: Jamaican karst wilderness of forested sinkholes, long associated with the
   autonomous Leeward Maroon communities.
 title: Cockpit Country

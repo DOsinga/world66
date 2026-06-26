@@ -11,10 +11,11 @@ image_source: https://commons.wikimedia.org/wiki/File:7245_Laren,_Netherlands_-_
 latitude: 52.256589
 loc_type: city
 longitude: 5.225193
-score: 0.37
+score: 6.89
 title: Laren
 type: location
-snippet: Well-kept Het Gooi village known for the Singer Laren museum and its sculpture garden.
+snippet: Well-kept Het Gooi village known for the Singer Laren museum and its sculpture
+  garden.
 ---
 
 Laren is a small, well-kept village in Het Gooi, roughly halfway between [Amersfoort](/europe/netherlands/amersfoort) and [Amsterdam](/europe/netherlands/amsterdam). The main reason to visit is the Singer Laren museum, which has an excellent collection of sculpture and painting and hosts ambitious temporary exhibitions — past shows have covered Camille Claudel and Auguste Rodin. The museum garden, full of sculptures and old trees, is a lovely place to sit with a coffee.

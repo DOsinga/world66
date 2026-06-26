@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Loughborough_Carillon_towe
 latitude: 52.772386
 loc_type: city
 longitude: -1.207798
-score: 0.32
+score: 6.39
 snippet: Leicestershire university town with a major sports campus and Britain's double-track
   heritage railway.
 title: Loughborough

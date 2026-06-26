@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: livingstone.jpg
 image_attribution: Diego Delso
@@ -8,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia
 latitude: -17.8508
 loc_type: city
 longitude: 25.8556
-score: 0.55
+score: 8.66
 snippet: Zambian town beside Victoria Falls, founded in 1905 as a British South Africa
   Company hub.
 sources:

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nesbit_House_-_Weiser_Idah
 latitude: 44.2455
 loc_type: city
 longitude: -116.9702
-score: 0.27
+score: 5.91
 snippet: Small Idaho farm town on the Oregon border, famous for its old-time fiddle
   contest.
 title: Weiser

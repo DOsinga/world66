@@ -10,7 +10,7 @@ loc_type: city
 snippet: Spa town south of Vienna, shaped by sulphur springs, Habsburg summers, and
   Beethoven's Ninth Symphony
 longitude: 16.2344
-score: 0.46
+score: 7.89
 title: Baden bei Wien
 type: location
 ---

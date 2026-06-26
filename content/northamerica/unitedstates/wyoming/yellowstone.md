@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daisy_Geyser_erupting_in_Y
 latitude: 44.428
 loc_type: feature
 longitude: -110.5885
-score: 0.77
+score: 9.79
 snippet: Vast American national park on a volcanic hotspot, packed with geysers, hot
   springs, and wildlife.
 title: Yellowstone

@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greyerz-02.jpg
 latitude: 46.5835
 loc_type: city
 longitude: 7.0815
-score: 0.55
+score: 8.68
 snippet: Preserved medieval Swiss hill town known for Gruyère cheese, its castle,
   and the HR Giger Museum.
 sources:

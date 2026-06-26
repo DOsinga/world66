@@ -5,7 +5,7 @@ done:
 latitude: 13.477453
 loc_type: city
 longitude: -16.677909
-score: 0.36
+score: 6.77
 snippet: Atlantic coast town near Banjul, known for Kachikally Crocodile Pool and
   Cape Point beach.
 sources:

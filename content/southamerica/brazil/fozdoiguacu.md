@@ -13,8 +13,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Foz_do_Igua%C3%A7u
 title: Foz do Iguaçu
 type: location
-score: 0.71
-snippet: Brazilian border city at the Triple Frontier, built around the power and spray of Iguaçu Falls.
+score: 9.47
+snippet: Brazilian border city at the Triple Frontier, built around the power and
+  spray of Iguaçu Falls.
 ---
 
 Foz do Iguaçu is a Brazilian border city whose entire reason for existing is one of the great natural spectacles of the Americas. The city itself is a sprawling, functional place of around 260,000 people in the far west of Paraná state, sitting at the point where Brazil, Argentina, and Paraguay meet — a convergence known as the Triple Frontier. Most visitors pass through quickly, but those who stay longer discover that Foz has more to offer than its famous falls.

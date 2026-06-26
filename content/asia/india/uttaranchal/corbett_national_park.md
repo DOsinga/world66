@@ -5,7 +5,7 @@ latitude: 29.53
 longitude: 78.7747
 title: Corbett National Park
 type: location
-score: 0.5
+score: 8.19
 loc_type: feature
 snippet: Foothill national park in Uttarakhand, established to protect Bengal tigers
   and sal forest wildlife.

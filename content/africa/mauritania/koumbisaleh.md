@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:NouakchottNationalMuseum2.
 latitude: 15.765809
 loc_type: city
 longitude: -7.96854
-score: 0.15
+score: 4.32
 snippet: Medieval Ghana Empire archaeological site, preserving stone ruins from a
   trans-Saharan trade capital
 title: Koumbi Saleh

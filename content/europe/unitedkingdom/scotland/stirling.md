@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Statue_of_Robert_the_Bruce
 latitude: 56.1165
 loc_type: city
 longitude: -3.9369
-score: 0.57
+score: 8.79
 snippet: Historic Scottish city at the River Forth crossing, guarded by a castle above
   the Highlands road
 sources:

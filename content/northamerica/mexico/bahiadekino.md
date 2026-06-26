@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahia_de_Kino,_Hermosillo,
 latitude: 28.824598
 loc_type: city
 longitude: -111.937186
-score: 0.36
+score: 6.79
 snippet: Quiet Sonoran beach town on the Sea of Cortez, facing Isla Tiburón across
   Kino Bay.
 title: Bahia De Kino

@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanab,_Utah_02_Little_Holl
 latitude: 37.0482
 loc_type: city
 longitude: -112.5285
-score: 0.52
-snippet: "Southern Utah base town near Zion, Bryce Canyon, the Grand Canyon North Rim, and Grand Staircase-Escalante."
+score: 8.42
+snippet: Southern Utah base town near Zion, Bryce Canyon, the Grand Canyon North Rim,
+  and Grand Staircase-Escalante.
 title: Kanab
 type: location
 ---

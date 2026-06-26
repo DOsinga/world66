@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sight_of_the_city_from_the
 latitude: 47.7235
 loc_type: city
 longitude: 128.8893
-score: 0.25
+score: 5.61
 snippet: Heilongjiang timber city in the Lesser Khingan Range, surrounded by Korean
   pine forest.
 sources:

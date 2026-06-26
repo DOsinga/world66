@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jianfu_Palace,_Mount_Qingc
 latitude: 31.0017
 loc_type: feature
 longitude: 103.6053
-score: 0.53
+score: 8.49
 snippet: Forested Sichuan mountain and Taoist birthplace near Chengdu, with bamboo
   paths, temples, and misty UNESCO-listed slopes.
 sources:

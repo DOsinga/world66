@@ -5,7 +5,7 @@ done:
 latitude: 35.163499
 loc_type: city
 longitude: 76.344152
-score: 0.36
+score: 6.83
 snippet: Baltistan town at the Hushe and Shyok rivers, known for Khaplu Palace and
   Chaqchan Mosque.
 title: Khaplu

@@ -5,7 +5,7 @@ done:
 latitude: 21.8
 loc_type: city
 longitude: -71.75
-score: 0.49
+score: 8.13
 snippet: Largest Turks and Caicos island, with limestone coves, caves, and a quieter
   pre-resort Caribbean feel
 title: Middle Caicos

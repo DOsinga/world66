@@ -2,7 +2,7 @@
 latitude: 43.2048
 loc_type: city
 longitude: 23.5532
-score: 0.38
+score: 7.06
 snippet: Bulgarian mountain city below the Vratsa Balkan, gateway to limestone gorges
   and climbing routes.
 title: Vratsa

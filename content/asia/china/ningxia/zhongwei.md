@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhongwei
 title: Zhongwei
 type: location
-score: 0.38
+score: 7.07
 snippet: Ningxia city on the Yellow River, known for Shapotou's dunes at the Tengger
   Desert edge.
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Cospicua_-_Ix-Xatt
 latitude: 35.8805
 loc_type: city
 longitude: 14.5225
-score: 0.44
+score: 7.63
 snippet: Grand Harbour city and dockyard town, officially Cospicua, with Phoenician
   roots and Knights-era fortifications.
 title: Cospicua (or Bormla)

@@ -5,7 +5,7 @@ done:
 latitude: 0.5629
 loc_type: city
 longitude: 97.8126
-score: 0.29
+score: 6.08
 title: Teluk Dalam
 type: location
 snippet: South Nias gateway town for Lagundri Bay surf, megalithic villages, and empty

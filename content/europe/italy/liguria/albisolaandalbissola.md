@@ -2,7 +2,7 @@
 latitude: 44.3291
 loc_type: city
 longitude: 8.5062
-score: 0.43
+score: 7.61
 snippet: Twin Ligurian coastal towns west of Savona, long associated with ceramics
   and tiled public art.
 title: Albisola and Albissola

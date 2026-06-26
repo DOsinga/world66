@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mallorca_S%27Arenal_beach_
 latitude: 39.5167
 loc_type: city
 longitude: 2.75
-score: 0.48
+score: 8.03
 snippet: Mallorca beach resort at Platja de Palma’s eastern end, known for Ballermann
   nightlife and German crowds.
 title: S'Arenal

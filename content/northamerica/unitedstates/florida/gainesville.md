@@ -5,7 +5,7 @@ done:
 latitude: 29.652
 loc_type: city
 longitude: -82.325
-score: 0.35
+score: 6.71
 snippet: North-central Florida college town shaped by the University of Florida and
   nearby springs, museums, and wetlands
 title: Gainesville

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E4%BC%8F%E7%BE%B2%E5%BA%9
 latitude: 34.5809
 loc_type: city
 longitude: 105.7312
-score: 0.36
+score: 6.8
 snippet: Green Gansu valley city linked to Fuxi mythology and the Buddhist caves of
   nearby Maijishan.
 sources:

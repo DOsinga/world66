@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardee_Castle,_Co._Louth_(g
 latitude: 53.855309
 loc_type: city
 longitude: -6.538914
-score: 0.35
+score: 6.66
 snippet: County Louth market town with medieval tower houses and Ferdia's legend on
   the River Dee
 sources:

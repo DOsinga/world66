@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chamdo_County4.jpg
 latitude: 31.143
 loc_type: city
 longitude: 97.17
-score: 0.39
+score: 7.13
 snippet: Eastern Tibetan city at the Dza Chu and Ngom Chu confluence, ringed by forested
   ridges.
 sources:

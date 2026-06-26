@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/69570948@N04/38259202712
 latitude: 50.318751
 loc_type: city
 longitude: 11.916299
-score: 0.31
+score: 6.28
 snippet: Northern Bavarian city once at the inner-German border, now a rail junction
   with frontier memories
 title: Hof

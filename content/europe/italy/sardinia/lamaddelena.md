@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Maddalena_-_Il_porto_(0
 latitude: 41.213673
 loc_type: city
 longitude: 9.406723
-score: 0.56
+score: 8.76
 snippet: Sardinian archipelago national park of granite islands and clear coves off
   the island's northeastern tip.
 title: La Maddalena

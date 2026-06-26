@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schiltach_Altstadt_3.JPG
 latitude: 48.290177
 loc_type: city
 longitude: 8.343635
-score: 0.43
+score: 7.56
 snippet: Black Forest river town with half-timbered lanes shaped by the Kinzig Valley
   timber trade.
 title: Schiltach

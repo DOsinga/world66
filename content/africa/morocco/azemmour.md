@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Azemmour_from_Oum_Er-Rbia.
 latitude: 33.274983
 loc_type: city
 longitude: -8.343252
-score: 0.43
+score: 7.62
 snippet: Moroccan Atlantic town where Portuguese ramparts enclose a medina above the
   Oum er-Rbia
 title: Azemmour

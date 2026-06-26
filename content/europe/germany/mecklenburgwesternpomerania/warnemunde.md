@@ -6,7 +6,7 @@ latitude: 54.177904
 longitude: 12.081288
 title: Warnemünde
 type: location
-score: 0.43
+score: 7.61
 loc_type: city
 snippet: Rostock seaside district on the Baltic, with a wide beach, fishing channel,
   and cruise port.

@@ -5,7 +5,7 @@ done:
 latitude: 40.0674
 loc_type: city
 longitude: 19.8163
-score: 0.41
+score: 7.4
 snippet: Tiny Albanian Riviera village around a white-pebble cove backed by olive
   groves and scrubby hills
 title: Jalë

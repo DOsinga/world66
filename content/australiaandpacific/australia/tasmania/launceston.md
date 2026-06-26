@@ -1,12 +1,13 @@
 ---
-snippet: Tasmanian river city on the Tamar, known for Victorian streets and the cliff-sided Cataract Gorge.
+snippet: Tasmanian river city on the Tamar, known for Victorian streets and the cliff-sided
+  Cataract Gorge.
 title: Launceston
 type: location
 latitude: -41.4341
 longitude: 147.1374
 done:
   location_cleanup: 2026-04-07
-score: 0.49
+score: 8.11
 loc_type: city
 image: launceston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_Cataract_Gorge_and_the_Tamar_River.jpg

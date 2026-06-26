@@ -1,10 +1,13 @@
 ---
+image: urca_and_praia_ver.jpg
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Rio_de_Janeiro,_Brazil_-08.jpg
 latitude: -22.956
 longitude: -43.165
 snippet: Tranquil bay-side neighbourhood at the foot of Sugar Loaf Mountain
 tags:
 - things_to_do
-- beach
+- neighbourhood
 title: Urca and Praia Vermelha
 type: neighbourhood
 ---

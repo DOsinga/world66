@@ -4,7 +4,7 @@ done:
 latitude: 44.5902
 loc_type: feature
 longitude: -104.7146
-score: 0.49
+score: 8.12
 snippet: Wyoming volcanic tower of columned rock rising above the Belle Fourche River
   valley.
 title: Devil's Tower

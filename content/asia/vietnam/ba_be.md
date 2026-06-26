@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ba_Be_Lake_6464.jpg
 latitude: 22.410703
 loc_type: feature
 longitude: 105.722868
-score: 0.5
+score: 8.21
 snippet: Northern Vietnamese national park centred on a mountain lake below limestone
   karst and evergreen forest.
 sources:

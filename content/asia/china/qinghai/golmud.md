@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golmud,_Haixi,_Qinghai,_Ch
 latitude: 36.4011
 loc_type: city
 longitude: 94.9026
-score: 0.25
+score: 5.58
 title: Golmud
 type: location
 snippet: High-plateau Qinghai city among salt flats and desert, long used as a Tibet

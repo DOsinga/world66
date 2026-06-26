@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Early_Morning_(248143809).
 latitude: 21.05
 loc_type: feature
 longitude: 109.1167
-score: 0.4
+score: 7.22
 snippet: Young volcanic island in the Gulf of Tonkin, ringed by basalt cliffs and
   coral reefs.
 sources:

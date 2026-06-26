@@ -5,7 +5,7 @@ done:
 latitude: 22.720362
 loc_type: city
 longitude: 75.8682
-score: 0.33
+score: 6.52
 title: Indore
 type: location
 snippet: Madhya Pradesh commercial capital famous for night food markets, Holkar palaces,

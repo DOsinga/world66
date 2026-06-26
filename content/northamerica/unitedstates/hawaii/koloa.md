@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Koloa,_Kauai.JPG
 latitude: 21.9069
 loc_type: city
 longitude: -159.47
-score: 0.56
-snippet: "Kauai mill town where Hawaii's first commercial sugar plantation began, now gateway to Poipu."
+score: 8.76
+snippet: Kauai mill town where Hawaii's first commercial sugar plantation began, now
+  gateway to Poipu.
 title: Koloa
 type: location
 ---

@@ -4,10 +4,15 @@ done:
 latitude: 17.5
 longitude: -87.6
 title: Belize Barrier Reef
-snippet: "Caribbean barrier reef system stretching along Belize, with cayes, marine reserves, and rich diving sites."
+snippet: Caribbean barrier reef system stretching along Belize, with cayes, marine
+  reserves, and rich diving sites.
 type: location
-score: 0.66
+score: 9.37
 loc_type: feature
+image: barrierreef.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef,_Ambergris_Caye,_Belize.jpg
+image_license: CC BY 2.0
+image_attribution: Bernt Rostad
 ---
 
 The Belize Barrier Reef is the second-longest barrier reef system in the world after Australia's Great Barrier Reef, stretching 300 km along the coast. It was designated a UNESCO World Heritage Site in 1996.

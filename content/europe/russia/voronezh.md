@@ -5,10 +5,11 @@ done:
 latitude: 51.680008
 loc_type: city
 longitude: 39.183725
-score: 0.29
+score: 6.02
 title: Voronezh
 type: location
-snippet: "Don River city south of Moscow, historically tied to Peter the Great's first Russian fleet."
+snippet: Don River city south of Moscow, historically tied to Peter the Great's first
+  Russian fleet.
 ---
 
 Voronezh is a city of around one million people on the Don River, roughly 500 km south of Moscow. Founded in 1585 as a military outpost, it later became the birthplace of the Russian Navy — Peter the Great chose it as the site where Russia's first fleet was built in the 1690s. That naval heritage sits at the heart of the city's identity, most dramatically expressed in the full-size replica of the [Goto Predestination](/europe/russia/voronezh/ship_goto_predestination), Peter's 58-gun flagship, moored on the Don.

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Gloucester_Docks_at_Night.
 latitude: 51.86537
 loc_type: city
 longitude: -2.245819
-score: 0.43
+score: 7.53
 title: Gloucester
-snippet: Severn Vale city with a Norman cathedral and restored Victorian docks near the historic centre.
+snippet: Severn Vale city with a Norman cathedral and restored Victorian docks near
+  the historic centre.
 type: location
 ---
 

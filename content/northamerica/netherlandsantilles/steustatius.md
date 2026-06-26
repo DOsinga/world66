@@ -5,7 +5,7 @@ done:
 latitude: 17.4833
 loc_type: city
 longitude: -62.9833
-score: 0.42
+score: 7.5
 snippet: Small Dutch Caribbean island known as Statia, once an eighteenth-century
   free-trade port called Golden Rock.
 title: St Eustatius

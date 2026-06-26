@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palo_Alto_Networks_Headqua
 latitude: 37.444329
 loc_type: city
 longitude: -122.159847
-score: 0.37
+score: 6.88
 snippet: San Francisco Peninsula city defined by Stanford University's campus and
   Silicon Valley's early heart.
 title: Palo Alto

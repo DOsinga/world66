@@ -5,7 +5,7 @@ done:
 latitude: 7.3833
 loc_type: city
 longitude: -7.4333
-score: 0.17
+score: 4.44
 title: Fakobly
 type: location
 snippet: West Ivorian riverside village where Sassandra tributary wildlife meets Wobé

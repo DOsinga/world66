@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Fernando_de_Noronha
 title: Fernando de Noronha
 type: location
-score: 0.7
+score: 9.45
 snippet: Remote Brazilian Atlantic archipelago protected for clear water, marine wildlife,
   and strictly limited island access.
 ---

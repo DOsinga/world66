@@ -7,7 +7,7 @@ done:
 latitude: 53.902472
 loc_type: city
 longitude: 27.561823
-score: 0.4
+score: 7.25
 snippet: Belarusian capital rebuilt after wartime destruction into broad Stalinist
   avenues, monumental squares, and Soviet-era urban theatre
 title: Minsk

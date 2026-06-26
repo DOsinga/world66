@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vestiges-Abbaye-Hautviller
 latitude: 49.083047
 loc_type: city
 longitude: 3.943338
-score: 0.5
+score: 8.18
 snippet: Champagne village above the Marne Valley, linked to Dom Pérignon and sparkling
   wine history.
 title: Hautvillers

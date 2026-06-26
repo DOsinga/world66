@@ -4,7 +4,7 @@ done:
 latitude: 13.5214
 loc_type: feature
 longitude: 120.9734
-score: 0.52
+score: 8.37
 snippet: Mindoro diving beach hub where three coves sit beside Puerto Galera's coral
   reefs.
 title: Sabang Beach

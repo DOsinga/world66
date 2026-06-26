@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Busua_-_Seashore,_Western_
 latitude: 4.80666
 loc_type: city
 longitude: -1.938881
-score: 0.38
+score: 7.02
 snippet: Ghanaian fishing village on the western coast, with a sheltered surf beach
   and forts within walking distance.
 title: Busua

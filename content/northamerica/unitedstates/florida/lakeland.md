@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeroshell_Team_at_Sun_%27n
 latitude: 28.039465
 loc_type: city
 longitude: -81.949804
-score: 0.34
+score: 6.61
 snippet: Central Florida lake city with Frank Lloyd Wright buildings across Florida
   Southern College
 title: Lakeland

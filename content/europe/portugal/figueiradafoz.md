@@ -5,7 +5,7 @@ done:
 latitude: 40.148581
 loc_type: city
 longitude: -8.855655
-score: 0.44
+score: 7.71
 title: Figueira da Foz
 type: location
 snippet: Portuguese Atlantic beach town where the Mondego meets one of Europe's broadest

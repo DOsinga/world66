@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amman_BW_2.JPG
 latitude: 31.951569
 loc_type: city
 longitude: 35.923963
-score: 0.55
+score: 8.64
 snippet: Jordanian capital spread across limestone hills, mixing downtown souks, Roman
   ruins, and modern districts.
 title: Amman

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Nagano.jpg
 latitude: 36.6456
 loc_type: city
 longitude: 138.1885
-score: 0.61
+score: 9.08
 snippet: Mountain-ringed Japanese regional capital known for Zenkō-ji pilgrimage culture
   and 1998 Winter Olympic legacy.
 sources:

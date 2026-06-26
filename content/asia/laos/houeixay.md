@@ -5,7 +5,7 @@ done:
 latitude: 20.273892
 loc_type: city
 longitude: 100.436584
-score: 0.39
+score: 7.15
 title: Huay Xai
 type: location
 snippet: Mekong border town in northwest Laos, starting point for the slow boat to

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/88123769@N02/14091907751
 latitude: 37.516723
 loc_type: city
 longitude: -110.745501
-score: 0.35
+score: 6.75
 snippet: Southern Utah marina on Lake Powell, serving red-rock canyon boating and
   the Halls Crossing Ferry
 title: Bullfrog Marina

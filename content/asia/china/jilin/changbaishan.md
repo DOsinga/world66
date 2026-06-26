@@ -12,7 +12,7 @@ image: changbaishan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Paektu5.jpg
 image_license: CC BY 2.0
 image_attribution: Mark Fahey from Sydney, Australia
-score: 0.49
+score: 8.11
 snippet: Northeast Chinese volcanic reserve crowned by Tianchi, the crater lake of
   Long White Mountain.
 ---

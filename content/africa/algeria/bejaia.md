@@ -5,7 +5,7 @@ done:
 latitude: 36.751178
 loc_type: city
 longitude: 5.064369
-score: 0.36
+score: 6.81
 title: Bejaia
 type: location
 snippet: Kabyle port city where the Soummam valley meets the Mediterranean below Gouraya

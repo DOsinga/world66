@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karlovy_Vary,_Czech_Republ
 latitude: 50.230622
 loc_type: city
 longitude: 12.870144
-score: 0.55
+score: 8.68
 snippet: Grand Bohemian spa town of colonnades, hot springs, and ornate hotels built
   for taking the waters.
 title: Karlovy Vary

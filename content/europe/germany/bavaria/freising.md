@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Domberg_FS.jpg
 latitude: 48.400827
 loc_type: city
 longitude: 11.743956
-score: 0.39
+score: 7.17
 snippet: Old Bavarian cathedral city north of Munich, once more important than its
   famous southern neighbour
 title: Freising

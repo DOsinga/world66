@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anfiteatro_di_Teramo_%2B_D
 latitude: 42.6581
 loc_type: city
 longitude: 13.6979
-score: 0.41
+score: 7.32
 snippet: Unhurried Abruzzo provincial capital between Gran Sasso and the Adriatic,
   with Roman ruins in its centre.
 title: Teramo

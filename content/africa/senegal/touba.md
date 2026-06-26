@@ -8,9 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_Touba_(senegal)_2006.JPG
 latitude: 14.8646
 loc_type: city
-snippet: Senegalese holy city and Mouride Brotherhood capital, dominated by the vast Great Mosque of Touba.
+snippet: Senegalese holy city and Mouride Brotherhood capital, dominated by the vast
+  Great Mosque of Touba.
 longitude: -15.876
-score: 0.29
+score: 6.0
 title: Touba
 type: location
 ---

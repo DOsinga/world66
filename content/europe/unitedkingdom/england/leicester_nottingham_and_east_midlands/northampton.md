@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:All_Saints_Church_(geograp
 latitude: 52.23433
 loc_type: city
 longitude: -0.902804
-score: 0.33
+score: 6.43
 snippet: East Midlands market town known for shoemaking heritage and rare medieval
   round churches.
 title: Northampton

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Pescador,_Guaymas,_Sono
 latitude: 27.9216
 loc_type: city
 longitude: -110.8994
-score: 0.38
+score: 6.96
 snippet: Working Sonoran port city on the Sea of Cortez, framed by volcanic mountains
   and diving waters
 title: Guaymas

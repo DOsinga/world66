@@ -1,10 +1,11 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-07'
 latitude: -6.1021
 loc_type: feature
 longitude: 105.423
-score: 0.43
+score: 7.61
 snippet: Volcanic island group in the Sunda Strait, shaped by the 1883 eruption and
   Anak Krakatau.
 title: Krakatoa

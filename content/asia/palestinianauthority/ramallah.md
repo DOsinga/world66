@@ -5,7 +5,7 @@ done:
 latitude: 31.9038
 loc_type: city
 longitude: 35.2034
-score: 0.24
+score: 5.54
 snippet: Ridge-top West Bank city with cafe-lined streets and the Palestinian territories'
   liveliest urban culture.
 title: Ramallah

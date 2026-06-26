@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fr._R._Kreutzwaldi_street_
 latitude: 59.3482
 loc_type: city
 longitude: 26.3617
-score: 0.4
+score: 7.21
 snippet: Northern Estonian city centred on a restored medieval castle above a modest,
   laid-back town centre.
 title: Rakvere

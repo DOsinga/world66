@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_North_Carolina_State_
 latitude: 35.780398
 loc_type: city
 longitude: -78.639099
-score: 0.37
+score: 6.93
 snippet: North Carolina capital in the Research Triangle, with leafy parks, universities,
   and free state museums.
 title: Raleigh

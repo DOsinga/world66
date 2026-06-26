@@ -5,7 +5,7 @@ done:
 latitude: 45.15
 loc_type: city
 longitude: 26.821
-score: 0.33
+score: 6.45
 snippet: Carpathian foothills city near the Berca Mud Volcanoes, where grey clay cones
   bubble from salt-crusted ground.
 title: Buzău

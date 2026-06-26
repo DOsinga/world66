@@ -5,7 +5,7 @@ done:
 latitude: 8.581696
 loc_type: city
 longitude: -71.165807
-score: 0.37
+score: 6.96
 title: Mérida
 type: location
 snippet: Andean university city in western Venezuela, set below high peaks and a long

@@ -2,7 +2,7 @@
 latitude: 20.6253
 loc_type: feature
 longitude: 86.3433
-score: 0.37
+score: 6.89
 snippet: Odisha Buddhist archaeological triangle preserving monasteries, stupas, and
   early monastic remains.
 title: Ratnagiri, Lalitgiri and Udayagiri

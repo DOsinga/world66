@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ford_Mansion,_Morristown,_
 latitude: 40.797038
 loc_type: city
 longitude: -74.480987
-score: 0.32
+score: 6.33
 snippet: New Jersey town west of Manhattan, centred on Revolutionary War sites from
   Washington's winter encampments.
 sources:

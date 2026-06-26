@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:RO_HR_Miercurea_Ciuc_Miko_
 latitude: 46.3614
 loc_type: city
 longitude: 25.8027
-score: 0.35
+score: 6.67
 title: Miercurea Ciuc
 type: location
 snippet: Transylvanian city in the Székely heartland, surrounded by eastern Carpathian

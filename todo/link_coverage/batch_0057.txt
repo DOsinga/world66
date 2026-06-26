@@ -1,5 +1,0 @@
-europe/italy/sicily/madonie
-europe/italy/sicily/sciacca
-europe/italy/sicily/trapani
-europe/italy/tuscany/florenceprovince/altomugelloarea/fiorenzuola
-europe/italy/tuscany/montalcino

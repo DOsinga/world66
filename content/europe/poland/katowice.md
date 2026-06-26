@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:At_Katowice_2024_142_-_Cat
 latitude: 50.2649
 loc_type: city
 longitude: 19.0238
-score: 0.36
+score: 6.82
 snippet: Upper Silesian industrial capital remade around mine museums, modernist architecture,
   music, and design.
 title: Katowice

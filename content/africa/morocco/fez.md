@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leather_tanning_in_Fez,_Mo
 latitude: 34.0181
 loc_type: city
 longitude: -5.0078
-score: 0.66
+score: 9.36
 snippet: Moroccan imperial city with a vast car-free medina of alleys, fondouks, and
   living craft.
 title: Fez

@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Bartica,_Guyana_(121790690
 latitude: 6.405331
 loc_type: city
 longitude: -58.621426
-score: 0.3
+score: 6.16
 title: Bartica
-snippet: "Guyanese river town at the Essequibo, Mazaruni, and Cuyuni confluence, gateway to mining country."
+snippet: Guyanese river town at the Essequibo, Mazaruni, and Cuyuni confluence, gateway
+  to mining country.
 type: location
 ---
 

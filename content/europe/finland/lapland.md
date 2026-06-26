@@ -4,10 +4,15 @@ done:
 latitude: 67.692237
 longitude: 26.728139
 title: Lapland
-snippet: Northern Finnish wilderness of reindeer, fell mountains, midnight sun, and winter northern lights
+snippet: Northern Finnish wilderness of reindeer, fell mountains, midnight sun, and
+  winter northern lights
 type: location
 score: 0.71
 loc_type: region
+image: lapland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gentle_but_wide_green_aurora_display_over_Levi,_Kittil%C3%A4,_Lapland,_Finland,_2023_September_-_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Ximonic (Simo Räsänen)
 ---
 
 Finnish Lapland is the northernmost province of Finland — and Europe's last true wilderness. Half a million reindeer outnumber the 200,000 human inhabitants. The landscape is all lakes, rivers, birch forests, and fell mountains, with tiny villages scattered across an enormous territory. It is the home of Santa Claus (officially, in Rovaniemi), and the Aurora Borealis on a clear winter night is among the most extraordinary sights on earth.

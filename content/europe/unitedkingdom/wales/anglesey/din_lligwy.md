@@ -4,7 +4,7 @@ done:
 latitude: 53.350679
 loc_type: feature
 longitude: -4.259507
-score: 0.37
+score: 6.95
 snippet: Anglesey ancient monument cluster with a Neolithic tomb, Roman-era stone
   settlement, and ruined medieval chapel.
 title: Din Lligwy

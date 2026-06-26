@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/31161573@N02/2919040213
 latitude: 52.161594
 loc_type: city
 longitude: 22.281253
-score: 0.3
+score: 6.18
 snippet: Eastern Polish university town with a quiet market-centre history and the
   18th-century Ogiński Palace.
 title: Siedlce

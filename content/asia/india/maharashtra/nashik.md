@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buddhist_monks_at_the_Pand
 latitude: 20.011247
 loc_type: city
 longitude: 73.790236
-score: 0.38
+score: 7.08
 snippet: Holy city on the Godavari River, known for Kumbh Mela ghats and nearby vineyards.
 title: Nashik
 type: location

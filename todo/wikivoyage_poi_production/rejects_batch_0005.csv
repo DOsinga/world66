@@ -1,6 +1,0 @@
-world66_path,wv_name,reason
-northamerica/canada/newfoundland/grosmornenationa,Rocky Harbour,"settlement lead inside/near Gros Morne; should be handled as a location, not a flat POI"
-europe/belgium/bruges,Bruges Ballooning,commercial tour operator with generic coordinates; does not clear standalone POI score for Bruges
-southamerica/brazil/manaus,Cultural Center of the Peoples of the Amazon,duplicate of existing POI content/southamerica/brazil/manaus/centro_cultural_povos_da_amazonia.md
-europe/hungary/kalocsa,Fajsz,separate village near Kalocsa; should not be added as a POI under the city
-europe/germany/mecklenburgwesternpomerania/rugen,Narrow-gauge railway,duplicate of existing Rasender Roland POI content/europe/germany/mecklenburgwesternpomerania/rugen/rasender_roland.md

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -4.2627
 longitude: -79.2222
-score: 0.47
+score: 7.96
 snippet: Small Andean valley town in Loja province, known for mild weather and persistent
   longevity legends.
 ---

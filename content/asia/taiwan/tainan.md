@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Exterior_of_Tainan_Confuci
 latitude: 22.991235
 loc_type: city
 longitude: 120.184982
-score: 0.55
+score: 8.64
 snippet: Taiwan's oldest city, known for layered colonial history, preserved old streets,
   and celebrated local food.
 sources:

@@ -10,7 +10,7 @@ loc_type: city
 snippet: Baja California port city where seafood stalls, cruise docks, and nearby
   wine country meet the Pacific
 longitude: -116.602983
-score: 0.48
+score: 8.06
 title: Ensenada
 type: location
 ---

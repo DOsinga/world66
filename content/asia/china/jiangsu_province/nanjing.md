@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanjing_CBD_from_City_Wall
 latitude: 32.043828
 loc_type: city
 longitude: 118.778863
-score: 0.52
+score: 8.39
 snippet: Historic Yangtze capital city ringed by Ming walls and forested Purple Mountain
   tombs.
 title: Nanjing

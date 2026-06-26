@@ -5,6 +5,7 @@ score: 7.6
 tags:
 - things_to_do
 - sight
+- vesterbro
 title: Carlsberg City District
 type: poi
 ---

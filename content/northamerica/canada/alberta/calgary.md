@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre,_Mount_Royal_
 latitude: 51.045606
 loc_type: city
 longitude: -114.057541
-score: 0.44
+score: 7.73
 snippet: Alberta city where prairie meets Rockies foothills, known for the Bow River
   and Calgary Stampede.
 title: Calgary

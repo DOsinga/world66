@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Pia%C8%9Ba_Victoriei_Timi%
 latitude: 45.7538
 loc_type: city
 longitude: 21.2257
-score: 0.44
-snippet: Western Romanian city of Baroque squares and revolutionary memory, historically tied to Vienna and Budapest.
+score: 7.69
+snippet: Western Romanian city of Baroque squares and revolutionary memory, historically
+  tied to Vienna and Budapest.
 title: Timisoara
 type: location
 ---

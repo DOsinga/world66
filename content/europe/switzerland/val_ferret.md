@@ -1,11 +1,16 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: val_ferret.jpg
+image_attribution: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:ValFerretAostaValleyAug312024_02.jpg
 latitude: 45.9779
 loc_type: feature
 longitude: 7.1209
-score: 0.54
-snippet: Swiss alpine valley below Mont Blanc's southern massif, crossed by the Tour du Mont Blanc.
+score: 8.56
+snippet: Swiss alpine valley below Mont Blanc's southern massif, crossed by the Tour
+  du Mont Blanc.
 title: Val Ferret
 type: location
 ---

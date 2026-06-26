@@ -5,7 +5,7 @@ done:
 latitude: 43.038648
 loc_type: city
 longitude: -87.909075
-score: 0.42
+score: 7.49
 snippet: Lake Michigan city shaped by brewing, German immigration, machinery, and
   early American architecture.
 title: Milwaukee

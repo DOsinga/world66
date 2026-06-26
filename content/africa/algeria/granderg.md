@@ -5,7 +5,7 @@ done:
 latitude: 31.281471
 loc_type: city
 longitude: 7.906614
-score: 0.39
+score: 7.14
 title: Grand Erg Oriental
 type: location
 snippet: Vast Saharan sand sea of high dunes stretching across eastern Algeria into

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Barstow,_CA_train_station_
 latitude: 34.898621
 loc_type: city
 longitude: -117.024431
-score: 0.27
+score: 5.85
 snippet: Mojave Desert crossroads town shaped by railroads, mines, and the restored
   Casa del Desierto.
 title: Barstow

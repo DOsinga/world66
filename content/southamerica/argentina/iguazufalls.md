@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1838_Iguazu_Falls_from_
 latitude: -25.692532
 loc_type: city
 longitude: -54.441114
-score: 0.83
+score: 9.94
 snippet: Border-straddling waterfall system where subtropical forest drops into the
   roaring Garganta del Diablo.
 title: Iguazu Falls

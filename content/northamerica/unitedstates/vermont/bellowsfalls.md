@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BellowsFalls.jpg
 latitude: 43.134063
 loc_type: city
 longitude: -72.444534
-score: 0.33
+score: 6.51
 title: Bellows Falls
 type: location
 snippet: Connecticut River village marked by early canals, industrial firsts, and

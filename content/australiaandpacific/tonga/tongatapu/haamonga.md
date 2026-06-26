@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ha%27amonga_%27a_Maui2.jpg
 latitude: -21.1357
 loc_type: city
 longitude: -175.047
-score: 0.39
+score: 7.18
 snippet: Ancient coral trilithon east of Nuku'alofa, with a massive lintel and debated
   astronomical alignment.
 title: Ha'amonga 'a Maui

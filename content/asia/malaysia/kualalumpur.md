@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-03'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: kualalumpur.jpg
 image_attribution: James Kerwin from Tbilisi
@@ -11,7 +12,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237
-score: 0.62
+score: 9.12
 snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
   rainforest parks, and glass towers.
 title: Kuala Lumpur

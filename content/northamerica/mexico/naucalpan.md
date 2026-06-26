@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AcueductoRemedios,_Naucalp
 latitude: 19.478836
 loc_type: city
 longitude: -99.232799
-score: 0.24
+score: 5.54
 snippet: Mexico City satellite municipality with Barragán's Torres de Satélite and
   hillside urban sprawl.
 sources:

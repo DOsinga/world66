@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GA_St_Simons_Lighthouse_an
 latitude: 31.218286
 loc_type: city
 longitude: -81.361208
-score: 0.44
+score: 7.65
 snippet: Georgia Golden Isle with a residential village feel, seafood restaurants,
   and beaches reached by causeway from Brunswick.
 title: St. Simons Island

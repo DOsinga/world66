@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calabar_Group_2.jpg
 latitude: 4.9796
 loc_type: city
 longitude: 8.33736
-score: 0.35
+score: 6.65
 snippet: Southeastern Nigerian river port with colonial history, Efik heritage, and
   access to rainforest reserves.
 sources:

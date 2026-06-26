@@ -4,7 +4,7 @@ done:
 latitude: 58.383
 loc_type: feature
 longitude: 21.81
-score: 0.43
+score: 7.58
 snippet: Baltic island national park and seabird sanctuary, protecting Vilsandi, western
   Saaremaa, and windswept dolomite shores.
 title: Vilsandi National Park

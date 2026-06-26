@@ -5,7 +5,7 @@ latitude: -4.585896
 longitude: 55.940228
 title: Fregate Island
 type: location
-score: 0.6
+score: 9.01
 loc_type: feature
 snippet: Remote Seychelles island where granitic forest rises from the Indian Ocean
   far beyond Mahé.

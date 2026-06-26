@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/131947100@N08/19050525929
 latitude: 50.056134
 loc_type: city
 longitude: 23.971197
-score: 0.34
+score: 6.56
 title: Zhovkva
 type: location
 snippet: Renaissance-planned Ukrainian town north of Lviv, arranged around castle,

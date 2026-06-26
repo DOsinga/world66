@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Route_66,_Kingman,_Arizona
 latitude: 35.1894
 loc_type: city
 longitude: -114.053
-score: 0.27
+score: 5.88
 snippet: Northwestern Arizona Route 66 town with vintage roadside history and Hualapai
   Mountain trails nearby
 title: Kingman

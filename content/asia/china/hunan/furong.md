@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Veduta_di_Furong_02.jpg
 latitude: 28.7452
 loc_type: city
 longitude: 109.9406
-score: 0.38
+score: 7.02
 snippet: Ancient town in northwestern Hunan, built above a waterfall on the You River.
 sources:
 - https://en.wikivoyage.org/wiki/Hunan

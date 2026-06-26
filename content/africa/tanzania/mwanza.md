@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bismarck_Rock.jpg
 latitude: -2.5197
 loc_type: city
 longitude: 32.9014
-score: 0.37
+score: 6.95
 title: Mwanza
 type: location
 snippet: Lake Victoria port city nicknamed Rock City for the granite boulders scattered

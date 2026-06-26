@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdal
 latitude: 67.9023
 loc_type: city
 longitude: 13.0419
-score: 0.63
+score: 9.21
 snippet: Southern Lofoten municipality of sheer mountains, fishing harbours, and western
   Lofoten's highest peak.
 title: Moskenes

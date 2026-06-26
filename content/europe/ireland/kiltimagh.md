@@ -4,7 +4,7 @@ done:
 latitude: 53.85
 loc_type: city
 longitude: -9.0
-score: 0.34
+score: 6.65
 snippet: Small County Mayo town shaped by emigration history, restored railway heritage,
   and quiet western bogland.
 title: Kiltimagh

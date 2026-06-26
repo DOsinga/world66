@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-03'
+  major_city_neighborhoods: '2026-06-23'
   poi_cleanup: '2026-04-21'
 image: zurich.jpg
 image_license: CC BY-SA 3.0 de
@@ -10,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.
 latitude: 47.374449
 loc_type: city
 longitude: 8.541042
-score: 0.63
+score: 9.21
 snippet: Switzerland’s largest city, set where the River Limmat leaves Lake Zürich
   and shaped by finance and trade.
 title: Zurich

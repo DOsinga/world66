@@ -4,7 +4,7 @@ done:
 latitude: 3.5259
 loc_type: feature
 longitude: 36.0743
-score: 0.41
+score: 7.35
 snippet: Northern Kenyan desert lake, a jade-green alkaline basin edged by volcanoes
   and fossil beds.
 title: Lake Turkana

@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_ciudad_de_Herculan
 latitude: 40.805361
 loc_type: city
 longitude: 14.347104
-score: 0.59
+score: 8.95
 title: Herculaneum
-snippet: "Roman resort town buried by Vesuvius, where carbonised wood, food, and furniture survived beneath pyroclastic flows."
+snippet: Roman resort town buried by Vesuvius, where carbonised wood, food, and furniture
+  survived beneath pyroclastic flows.
 type: location
 ---
 

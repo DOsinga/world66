@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanumanga_STS51B.jpg
 latitude: -6.287145
 loc_type: city
 longitude: 176.319991
-score: 0.35
+score: 6.67
 title: Nanumanga island
 type: location
 snippet: Reef-enclosed Tuvalu island with landlocked ponds instead of a central atoll

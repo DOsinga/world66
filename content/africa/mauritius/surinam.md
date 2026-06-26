@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chemin_Surinam-L1002484.jp
 latitude: -20.512291
 loc_type: city
 longitude: 57.509683
-score: 0.25
+score: 5.64
 snippet: South Mauritius village near Souillac, close to basalt waterfalls, quiet
   beaches, and exposed coastal cliffs.
 title: Surinam

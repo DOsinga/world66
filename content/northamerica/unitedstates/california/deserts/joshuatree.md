@@ -4,7 +4,7 @@ done:
 latitude: 34.135
 loc_type: feature
 longitude: -116.3153
-score: 0.53
+score: 8.53
 snippet: Mojave Desert gateway town beside Joshua Tree National Park's boulders, yuccas,
   and climbing routes.
 title: Joshua Tree

@@ -9,8 +9,9 @@ image_source: https://www.flickr.com/photos/24810268@N05/5245043857
 latitude: 32.001023
 loc_type: city
 longitude: 44.329993
-score: 0.25
-snippet: Shia pilgrimage city in Iraq, centred on the golden-domed Imam Ali Shrine and Wadi al-Salaam.
+score: 5.65
+snippet: Shia pilgrimage city in Iraq, centred on the golden-domed Imam Ali Shrine
+  and Wadi al-Salaam.
 title: An najaf
 type: location
 ---

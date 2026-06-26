@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stra%C3%9Fenbild_djougou.J
 latitude: 9.7107
 loc_type: city
 longitude: 1.6652
-score: 0.21
+score: 5.07
 snippet: Northwestern Benin city with a lively grand market and a predominantly Muslim
   rhythm between trade routes
 title: Djougou

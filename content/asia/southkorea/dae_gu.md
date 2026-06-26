@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Daegu,_South_Korea_from_Du
 latitude: 35.8714
 loc_type: city
 longitude: 128.6014
-score: 0.42
+score: 7.43
 snippet: Southeastern Korean valley city known for textile history, summer heat, and
   Mount Palgong temples.
 sources:

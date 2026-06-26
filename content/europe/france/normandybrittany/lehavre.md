@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_Havre,_France_from_the_
 latitude: 49.493898
 loc_type: city
 longitude: 0.107973
-score: 0.44
+score: 7.68
 snippet: Normandy port city rebuilt by Auguste Perret into a UNESCO-listed grid of
   modernist concrete and light.
 title: Le Havre

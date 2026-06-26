@@ -11,7 +11,7 @@ loc_type: city
 longitude: 115.8575
 title: Northbridge
 type: location
-score: 0.33
+score: 6.54
 snippet: Inner Perth neighbourhood known for restaurants, nightlife, live music, and
   its Chinatown district.
 ---

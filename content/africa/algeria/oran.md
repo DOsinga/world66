@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ORAN_-_La_ville_arabe,_188
 latitude: 35.704442
 loc_type: city
 longitude: -0.650298
-score: 0.35
+score: 6.69
 title: Oran
 type: location
 snippet: Western Algerian port city on a broad Mediterranean bay, closely tied to

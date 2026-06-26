@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sligo_Borough_Council.jpg
 latitude: 54.27207
 loc_type: city
 longitude: -8.475136
-score: 0.48
+score: 8.05
 title: Sligo
 type: location
 snippet: Northwest Irish market town between Atlantic beaches, Ben Bulben, and Knocknarea.

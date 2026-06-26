@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Moulay_Idriss,_Maroc_(3184
 latitude: 34.0542
 loc_type: city
 longitude: -5.5272
-score: 0.48
+score: 8.06
 snippet: Holy Moroccan hill town overlooking Volubilis, named for the founder of the
   first Moroccan dynasty.
 title: Moulay Idriss

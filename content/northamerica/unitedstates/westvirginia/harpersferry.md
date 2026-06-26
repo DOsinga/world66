@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:30_High_Street_Harpers_Fer
 latitude: 39.3239
 loc_type: city
 longitude: -77.7333
-score: 0.47
+score: 7.93
 snippet: Potomac-Shenandoah confluence town preserved around John Brown's raid and
   Appalachian Trail history.
 title: Harpers Ferry

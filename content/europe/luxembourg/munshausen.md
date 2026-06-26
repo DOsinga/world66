@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Munshausen_plaats.jpg
 latitude: 50.035145
 loc_type: city
 longitude: 6.039484
-score: 0.34
+score: 6.58
 snippet: Northern Luxembourg commune of Ardennes hills, old villages, and the medieval
   Church of St. Hubert.
 title: Munshausen

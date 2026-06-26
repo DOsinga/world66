@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse
 latitude: -22.6762
 loc_type: city
 longitude: 14.5253
-score: 0.49
+score: 8.11
 snippet: Namibian coastal town where German colonial architecture meets Atlantic fog
   and the Namib Desert dunes.
 title: Swakopmund

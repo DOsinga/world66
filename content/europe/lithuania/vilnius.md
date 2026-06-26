@@ -11,9 +11,10 @@ latitude: 54.6872
 loc_type: city
 longitude: 25.2797
 title: Vilnius
-snippet: "Lithuanian capital of Baroque church spires, cobbled old-town courtyards, and layered Baltic history."
+snippet: Lithuanian capital of Baroque church spires, cobbled old-town courtyards,
+  and layered Baltic history.
 type: location
-score: 0.58
+score: 8.85
 ---
 
 Vilnius is a city that reveals itself slowly. The Lithuanian capital has one of the largest surviving medieval old towns in Europe — a UNESCO World Heritage Site since 1994 — and yet it remains far less visited than its Baltic neighbours Tallinn and Riga. That relative obscurity is part of its appeal.

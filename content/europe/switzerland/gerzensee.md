@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gerzensee_und_Berner_Alpen
 latitude: 46.838094
 loc_type: city
 longitude: 7.543132
-score: 0.36
+score: 6.81
 snippet: Bernese plateau village by Gerzensee lake, with Alpine views from the foot
   of Belpberg
 title: Gerzensee

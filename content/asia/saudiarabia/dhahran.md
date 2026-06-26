@@ -5,10 +5,11 @@ done:
 latitude: 26.296653
 loc_type: city
 longitude: 50.120215
-score: 0.22
+score: 5.17
 title: Dhahran
 type: location
-snippet: Saudi Aramco company town in the Eastern Province, laid out as a self-contained desert compound.
+snippet: Saudi Aramco company town in the Eastern Province, laid out as a self-contained
+  desert compound.
 ---
 
 Dhahran is the headquarters of Saudi Aramco and essentially a company town — most residents are employees or their families, with some contract workers alongside. It is a fenced, access-controlled compound, self-contained in the way a military base is, and visually it looks surprisingly like parts of [Arizona](/northamerica/unitedstates/arizona): low buildings, desert landscaping, wide roads.

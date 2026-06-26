@@ -4,7 +4,7 @@ done:
 latitude: 7.4167
 loc_type: city
 longitude: 151.7833
-score: 0.45
+score: 7.75
 snippet: Micronesian lagoon state known for traditional island life and the shipwreck
   dives of Truk Lagoon.
 title: Chuuk

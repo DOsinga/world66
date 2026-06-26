@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Jasper_corner_of_
 latitude: 52.8737
 loc_type: city
 longitude: -117.9543
-score: 0.7
+score: 9.44
 snippet: Canadian Rockies mountain town inside Jasper National Park, quieter than
   Banff and surrounded by wilderness
 title: Jasper

@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: trapani.jpg
 image_license: CC BY-SA 4.0
@@ -7,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ligny_Tower_Trapani.jpg
 latitude: 38.0157
 loc_type: city
 longitude: 12.5099
-score: 0.58
+score: 8.87
 snippet: Western Sicilian port on a sickle-shaped peninsula, with salt pans and couscous-shaped
   Arab-Norman layers.
 sources:

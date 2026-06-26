@@ -7,9 +7,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Ballstad.jpg
 latitude: 68.1607
 loc_type: city
 longitude: 13.7841
-score: 0.58
+score: 8.88
 title: Vestvagoy
-snippet: Agricultural Lofoten island of green farmland, lamb, cheese, and Scandinavia's largest Viking longhouse site
+snippet: Agricultural Lofoten island of green farmland, lamb, cheese, and Scandinavia's
+  largest Viking longhouse site
 type: location
 ---
 

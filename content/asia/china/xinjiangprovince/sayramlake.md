@@ -4,7 +4,7 @@ done:
 latitude: 44.5981
 loc_type: feature
 longitude: 81.1647
-score: 0.46
+score: 7.89
 snippet: High Xinjiang alpine lake near Kazakhstan, edged by Kazakh pastureland and
   bare mountain ridges
 sources:

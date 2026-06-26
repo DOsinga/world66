@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agumbe_View_point.jpg
 latitude: 13.5085
 loc_type: city
 longitude: 75.0963
-score: 0.35
+score: 6.69
 snippet: Rain-soaked Western Ghats village in Karnataka, surrounded by rainforest,
   waterfalls, and Malgudi Days memories.
 sources:

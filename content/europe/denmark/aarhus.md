@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Drone_photo_of_Dokk1_in_Aa
 latitude: 56.1496
 loc_type: city
 longitude: 10.2134
-score: 0.48
+score: 8.07
 snippet: Jutland university city with old streets, strong museums, and ARoS’s rainbow
   panorama above town
 title: Aarhus

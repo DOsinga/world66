@@ -5,7 +5,7 @@ latitude: 32.3838
 longitude: -106.4966
 title: White Sands
 type: location
-score: 0.54
+score: 8.56
 loc_type: feature
 snippet: New Mexico dune field in the Tularosa Basin, made of bright white gypsum
   sand.

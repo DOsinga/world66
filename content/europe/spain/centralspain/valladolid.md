@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_la_ciudad_
 latitude: 41.6522
 loc_type: city
 longitude: -4.7286
-score: 0.48
+score: 8.04
 snippet: Historic Castilla y León city that served as Spain's early 17th-century imperial
   capital.
 title: Valladolid

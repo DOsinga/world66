@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Swallow_Motel_from_SW
 latitude: 35.1719
 loc_type: city
 longitude: -103.725
-score: 0.3
+score: 6.16
 title: Tucumcari
 type: location
 snippet: High-plains New Mexico railroad town with Route 66 neon and Tucumcari Mountain

@@ -11,7 +11,7 @@ loc_type: city
 snippet: South Bohemian city of Budvar beer, arcaded squares, and a well-preserved
   old town
 longitude: 14.474285
-score: 0.47
+score: 7.94
 title: České Budějovice
 type: location
 ---

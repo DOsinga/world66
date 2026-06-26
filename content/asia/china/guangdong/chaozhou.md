@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chaozhou_Guangji_Bridge_20
 latitude: 23.67
 loc_type: city
 longitude: 116.63
-score: 0.41
+score: 7.36
 snippet: Teochew cultural city in Guangdong, with old walls, temples, and long Southeast
   Asian diaspora ties.
 sources:

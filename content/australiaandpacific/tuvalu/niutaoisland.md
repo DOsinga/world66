@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cargo_landing_on_Niutao_Is
 latitude: -6.1083
 loc_type: island
 longitude: 177.3414
-score: 0.29
+score: 6.1
 snippet: Small reef island in northern Tuvalu, with no lagoon and two brackish interior
   ponds.
 sources:

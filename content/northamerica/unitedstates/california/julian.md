@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Julian_Californien.JPG
 latitude: 33.073963
 loc_type: city
 longitude: -116.587846
-score: 0.42
+score: 7.42
 snippet: Cuyamaca Mountains gold-rush town east of San Diego, known for wooden storefronts
   and apple pie.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: 44.1216
 loc_type: feature
 longitude: 3.5814
-score: 0.44
+score: 7.66
 snippet: Cévennes summit with an 1894 meteorological observatory and wide views across
   plateau, Alps, and Pyrenees
 title: Mont Aigoual

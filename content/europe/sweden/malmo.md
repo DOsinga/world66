@@ -7,7 +7,7 @@ done:
 latitude: 55.605
 loc_type: city
 longitude: 13.0038
-score: 0.47
+score: 7.97
 snippet: Cosmopolitan Swedish port city on the Öresund, reshaped by shipyard renewal
   and links to Copenhagen.
 title: Malmo

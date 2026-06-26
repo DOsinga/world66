@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/94269661@N00/54241015584
 latitude: 52.9534
 loc_type: city
 longitude: -1.1497
-score: 0.41
+score: 7.4
 title: Nottingham
 type: location
 snippet: East Midlands city of Robin Hood folklore, sandstone caves, and a castle

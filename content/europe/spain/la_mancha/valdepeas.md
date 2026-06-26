@@ -10,7 +10,7 @@ image: valdepeas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Valdepe%C3%B1as_(Ciudad_Real).jpg
 image_license: CC BY 2.0
 image_attribution: Miguel Angel Masegosa Martínez
-score: 0.4
+score: 7.27
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Valdepe%C3%B1as

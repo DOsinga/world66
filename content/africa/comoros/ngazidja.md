@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/8830859@N04/3987578459
 latitude: -11.75
 loc_type: city
 longitude: 43.3333
-score: 0.36
+score: 6.76
 snippet: Largest Comoros island, dominated by Mount Karthala volcano and the capital,
   Moroni.
 title: Ngazidja

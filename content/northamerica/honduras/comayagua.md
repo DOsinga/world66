@@ -5,7 +5,7 @@ done:
 latitude: 14.4513
 loc_type: city
 longitude: -87.6395
-score: 0.38
+score: 7.0
 snippet: Former Honduran capital with a colonial centre and cathedral clock tied to
   the Alhambra.
 title: Comayagua

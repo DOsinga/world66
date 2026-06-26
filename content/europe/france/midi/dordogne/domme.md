@@ -6,13 +6,14 @@ latitude: 44.802267
 longitude: 1.214002
 title: Domme
 type: location
-score: 0.54
+score: 8.57
 loc_type: city
 image: domme.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Domme_1_GhezoArt.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ghezoart
-snippet: "Clifftop Dordogne bastide with honey-stone lanes and rampart views over the Périgord river valley."
+snippet: Clifftop Dordogne bastide with honey-stone lanes and rampart views over the
+  Périgord river valley.
 ---
 
 Domme is a 13th-century bastide perched on a cliff 150 metres above the Dordogne river, and the views from its ramparts are among the finest in the Périgord. On a clear day you can see the river winding through a patchwork of walnut orchards, tobacco fields, and stone villages as far as the eye can follow.

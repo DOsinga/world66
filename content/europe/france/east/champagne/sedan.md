@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sedan,_Ch%C3%A2teau_de_Sed
 latitude: 49.7034
 loc_type: city
 longitude: 4.9433
-score: 0.36
+score: 6.82
 snippet: Ardennes town on the Meuse, dominated by one of Europe’s largest medieval
   fortified castles.
 sources:

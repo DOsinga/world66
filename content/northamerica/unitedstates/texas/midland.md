@@ -5,7 +5,7 @@ done:
 latitude: 31.8369
 loc_type: city
 longitude: -102.0104
-score: 0.25
+score: 5.65
 title: Midland
 type: location
 snippet: West Texas oil city in the Permian Basin, where petroleum shaped the skyline

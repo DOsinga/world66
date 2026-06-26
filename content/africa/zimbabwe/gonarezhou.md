@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Makokwani.JPG
 latitude: -21.681491
 loc_type: feature
 longitude: 31.834654
-score: 0.41
+score: 7.34
 snippet: Wild Zimbabwean national park where elephant country, red sandstone cliffs,
   and lowveld rivers meet the Mozambique border.
 sources:

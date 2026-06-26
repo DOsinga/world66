@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambados.jpeg
 latitude: 42.5144
 loc_type: city
 longitude: -8.8138
-score: 0.46
+score: 7.9
 snippet: Galician wine town on the Ría de Arousa, regarded as the capital of Albariño.
 title: Cambados
 type: location

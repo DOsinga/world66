@@ -11,7 +11,7 @@ loc_type: city
 snippet: Former Svalbard mining settlement at Longyear Valley's end, a timber-house
   cluster below the glacier
 longitude: 15.588229
-score: 0.35
+score: 6.73
 title: Nybyen
 type: location
 ---

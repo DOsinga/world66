@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Feuchtwangen_Kreuzgang.jpg
 latitude: 49.16786
 loc_type: city
 longitude: 10.331327
-score: 0.44
+score: 7.67
 title: Feuchtwangen
 type: location
 snippet: Former Franconian imperial city on the Romantic Road, centred on a half-timbered

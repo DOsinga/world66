@@ -11,7 +11,7 @@ loc_type: city
 longitude: -122.6068
 title: Oregon City
 type: location
-score: 0.35
+score: 6.7
 snippet: Oregon Trail endpoint on the Willamette River, built around the falls that
   powered early industry.
 ---

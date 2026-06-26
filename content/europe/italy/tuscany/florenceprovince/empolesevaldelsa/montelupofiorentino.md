@@ -2,7 +2,7 @@
 latitude: 43.7294
 loc_type: city
 longitude: 11.0188
-score: 0.42
+score: 7.43
 snippet: Tuscan Arno town famed for Renaissance maiolica ceramics and a museum tracing
   that craft.
 title: Montelupo Fiorentino

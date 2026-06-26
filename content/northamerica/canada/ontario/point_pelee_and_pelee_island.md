@@ -4,7 +4,7 @@ done:
 latitude: 41.9534
 loc_type: feature
 longitude: -82.5129
-score: 0.4
+score: 7.21
 snippet: Lake Erie nature area combining Canada's southernmost mainland point with
   a quiet inhabited island.
 title: Point Pelee and Pelee Island

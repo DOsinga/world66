@@ -4,13 +4,18 @@ done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
+image: staugustine.jpg
+image_attribution: Schwerdf
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Castillo_de_San_Marcos,_St._Augustine,_FL_2025-05-20.jpg
 latitude: 29.8943
 loc_type: city
 longitude: -81.3145
-score: 0.52
+score: 8.37
+snippet: Spanish-founded Florida city where coquina forts and colonial streets mark
+  the oldest European settlement in the United States.
 title: St. Augustine
 type: location
-snippet: "Spanish-founded Florida city where coquina forts and colonial streets mark the oldest European settlement in the United States."
 ---
 
 St. Augustine is the oldest continuously occupied European settlement in the United States — founded by the Spanish in 1565, forty-two years before the English landed at Jamestown. That history is not just marketing; it's visible at every turn in the narrow streets of the old city, the coquina-shell fort on Matanzas Bay, the Spanish colonial architecture, and the [Cathedral Basilica](/northamerica/unitedstates/florida/northeastflorida/staugustine/cathedral_basilica) that has stood here since the 18th century.

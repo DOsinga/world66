@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hackley_House.jpg
 latitude: 43.2342
 loc_type: city
 longitude: -86.2484
-score: 0.33
+score: 6.45
 snippet: Lake Michigan waterfront city with lumber-era history, Victorian homes, and
   naval museum ships.
 title: Muskegon

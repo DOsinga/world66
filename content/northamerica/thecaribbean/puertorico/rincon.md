@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Rico_-_Playa_en_Rin
 latitude: 18.3396
 loc_type: city
 longitude: -67.2517
-score: 0.5
+score: 8.25
 snippet: Puerto Rican surf town at the island's western tip, facing winter swells
   and Mona Passage sunsets.
 title: Rincon

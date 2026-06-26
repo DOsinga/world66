@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mosque,_Sidon,_Lebanon.jpg
 latitude: 33.564733
 loc_type: city
 longitude: 35.374978
-score: 0.43
+score: 7.58
 snippet: Ancient Phoenician coastal city south of Beirut, with an old town and sea
   castle.
 sources:

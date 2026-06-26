@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-05-21'
 latitude: 35.412
 longitude: -99.404
-snippet: "Western Oklahoma Route 66 town with oil-boom streets and a multi-building Mother Road museum."
+snippet: Western Oklahoma Route 66 town with oil-boom streets and a multi-building
+  Mother Road museum.
 title: Elk City
 type: location
-score: 0.25
+score: 5.67
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Elk_City,_Oklahoma

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jianmenguan.JPG
 latitude: 32.2131
 loc_type: feature
 longitude: 105.5633
-score: 0.52
+score: 8.43
 snippet: Historic mountain route in Sichuan, preserving cliffside plank roads through
   the Jialing River canyon.
 sources:

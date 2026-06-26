@@ -5,7 +5,7 @@ done:
 latitude: 21.652673
 loc_type: city
 longitude: 87.723145
-score: 0.3
+score: 6.11
 snippet: Quiet Purba Midnapur beach where casuarina shade and red crabs mark a simpler
   Bengal coast.
 title: Tajpur

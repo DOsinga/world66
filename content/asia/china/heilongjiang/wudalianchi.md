@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:WudalianchiGeopark.jpg
 latitude: 48.6335
 loc_type: feature
 longitude: 126.1114
-score: 0.34
+score: 6.6
 snippet: Volcanic lake landscape in Heilongjiang, where 18th-century lava flows dammed
   five linked lakes.
 title: Wudalianchi

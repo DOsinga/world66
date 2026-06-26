@@ -5,7 +5,7 @@ done:
 latitude: 12.3739
 loc_type: city
 longitude: 123.6247
-score: 0.33
+score: 6.53
 snippet: Philippine island province of cattle ranches, rolling pastures, and long
   empty beaches in Bicol.
 sources:

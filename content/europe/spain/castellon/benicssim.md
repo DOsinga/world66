@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Benicassim_Torre%C3%B3n_(3
 latitude: 40.0554
 loc_type: city
 longitude: 0.0645
-score: 0.44
+score: 7.7
 snippet: Costa del Azahar beach town backed by Desert de les Palmes hills and summer
   music festivals.
 title: Benicàssim

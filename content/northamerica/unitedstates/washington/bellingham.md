@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_View_of_Bellingham,
 latitude: 48.754401
 loc_type: city
 longitude: -122.478836
-score: 0.4
+score: 7.31
 snippet: Outdoorsy Washington university city on Bellingham Bay, with San Juan Islands
   and Mount Baker access.
 title: Bellingham

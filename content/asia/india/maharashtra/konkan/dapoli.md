@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjarle_beach_in_Konkan_ne
 latitude: 17.758046
 loc_type: city
 longitude: 73.188708
-score: 0.33
+score: 6.55
 title: Dapoli
-snippet: "Konkan coastal town above the sea, with nearby beaches and Suvarnadurg fort offshore from Murud."
+snippet: Konkan coastal town above the sea, with nearby beaches and Suvarnadurg fort
+  offshore from Murud.
 type: location
 ---
 

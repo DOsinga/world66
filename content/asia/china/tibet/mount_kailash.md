@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kailash-Barkha.jpg
 latitude: 31.067
 loc_type: feature
 longitude: 81.313
-score: 0.55
+score: 8.68
 snippet: Sacred Tibetan mountain and pilgrimage circuit, revered as the source region
   of four great Asian rivers.
 sources:

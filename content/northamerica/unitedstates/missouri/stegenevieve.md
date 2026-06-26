@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/53301297@N00/30921874838
 latitude: 37.8896
 loc_type: city
 longitude: -90.1857
-score: 0.35
+score: 6.69
 snippet: French colonial Mississippi town with rare vertical-log houses and Missouri's
   oldest European-settled community.
 title: Ste. Genevieve

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CowichanBay.jpg
 latitude: 48.741701
 loc_type: city
 longitude: -123.626404
-score: 0.4
+score: 7.25
 snippet: Vancouver Island working harbour village with seafood shacks, tidal flats,
   and Cowichan food culture.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cleopatra_Bath,_Marsa_Matr
 latitude: 31.3543
 loc_type: city
 longitude: 27.2373
-score: 0.39
+score: 7.17
 snippet: Egyptian Mediterranean resort town where sheltered turquoise bays draw summer
   crowds from Cairo.
 title: Marsa Matruh

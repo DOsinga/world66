@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190921T113802_Royal_Bota
 latitude: 43.3249
 loc_type: city
 longitude: -79.7967
-score: 0.33
+score: 6.5
 snippet: Lake Ontario city between Hamilton and Oakville, known for Spencer Smith
   Park and Brant Street Pier.
 title: Burlington

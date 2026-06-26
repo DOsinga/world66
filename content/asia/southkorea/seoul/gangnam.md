@@ -1,4 +1,7 @@
 ---
+image: gangnam.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Gangnam_from_Yeoksam_1.jpg
 latitude: 37.4979
 longitude: 127.0276
 tags:

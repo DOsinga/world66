@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bai-sao-phu-quoc-tuonglamp
 latitude: 10.2897
 loc_type: island
 longitude: 103.984
-score: 0.59
+score: 8.93
 snippet: Vietnamese island in the Gulf of Thailand, split between forested national
   park and fast-growing beach resorts.
 title: Phu Quoc

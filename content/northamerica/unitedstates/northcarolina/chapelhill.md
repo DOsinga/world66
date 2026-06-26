@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapel_Hill_Franklin_Stree
 latitude: 35.9132
 loc_type: city
 longitude: -79.0558
-score: 0.39
+score: 7.18
 title: Chapel Hill
 type: location
 snippet: North Carolina college town centered on the University of North Carolina

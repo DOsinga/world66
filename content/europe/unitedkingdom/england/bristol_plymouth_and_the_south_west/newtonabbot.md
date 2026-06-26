@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bradley_Manor,_Newton_Abbo
 latitude: 50.529644
 loc_type: city
 longitude: -3.61121
-score: 0.34
+score: 6.61
 snippet: South Devon market town and transport hub for Dartmoor, the Teign Valley,
   and Torbay.
 title: Newton Abbot

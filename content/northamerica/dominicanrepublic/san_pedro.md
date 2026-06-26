@@ -5,7 +5,7 @@ done:
 latitude: 18.4604
 loc_type: city
 longitude: -69.3051
-score: 0.35
+score: 6.74
 title: San Pedro de Macorís
 type: location
 snippet: Dominican port city famed for baseball talent and the sugar-era elegance

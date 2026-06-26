@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Madurai,_India.jpg
 latitude: 9.926115
 loc_type: city
 longitude: 78.114098
-score: 0.5
+score: 8.21
 snippet: Ancient Tamil city built around Meenakshi Amman Temple, where pilgrimage,
   markets, and temple life still converge
 title: Madurai

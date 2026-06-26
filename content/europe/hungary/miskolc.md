@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/94611718@N00/15714742369
 latitude: 48.1031
 loc_type: city
 longitude: 20.79
-score: 0.42
+score: 7.44
 snippet: Northeastern Hungarian city below the Bükk Mountains, known for thermal cave
   baths and nearby forests
 sources:

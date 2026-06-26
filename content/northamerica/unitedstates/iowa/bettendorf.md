@@ -5,10 +5,11 @@ done:
 latitude: 41.525379
 loc_type: city
 longitude: -90.509864
-score: 0.27
+score: 5.85
 title: Bettendorf
 type: location
-snippet: "Bettendorf is an Iowa Quad Cities community on the Mississippi River, with river trails and family attractions."
+snippet: Bettendorf is an Iowa Quad Cities community on the Mississippi River, with
+  river trails and family attractions.
 ---
 
 Bettendorf is one of the four cities that make up the Quad Cities metropolitan area, straddling the Mississippi River on the Iowa–Illinois border. It is the quieter, more residential half of the Iowa side — neighbouring [Davenport](/northamerica/unitedstates/iowa/davenport) is the commercial centre — but has its own appeal for visitors passing through.

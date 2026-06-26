@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Canillas_de_Aceit
 latitude: 36.873167
 loc_type: city
 longitude: -4.082126
-score: 0.37
+score: 6.95
 snippet: White Axarquía village below the Sierra de Tejeda, used as a base for La
   Maroma walks.
 title: Canillas de Aceituno

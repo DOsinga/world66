@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerta_de_Toledo,_Ciudad_R
 latitude: 38.9853
 loc_type: city
 longitude: -3.9275
-score: 0.35
+score: 6.66
 snippet: La Mancha provincial capital with a quiet old centre, vineyards, and Don
   Quixote country around it.
 title: Ciudad Real

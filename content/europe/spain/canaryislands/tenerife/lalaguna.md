@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Laguna_BW_5.JPG
 latitude: 28.4895
 loc_type: city
 longitude: -16.3162
-score: 0.52
+score: 8.37
 snippet: Historic Tenerife university city with a preserved colonial grid that influenced
   Spanish town planning in the Americas
 sources:

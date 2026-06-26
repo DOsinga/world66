@@ -5,7 +5,7 @@ done:
 latitude: 0.001538
 loc_type: city
 longitude: 34.605756
-score: 0.24
+score: 5.45
 snippet: Small western Kenyan equator town known for Maseno University, Maseno School,
   and green Lake Victoria countryside.
 title: Maseno

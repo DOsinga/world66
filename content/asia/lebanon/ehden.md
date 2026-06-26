@@ -5,7 +5,7 @@ done:
 latitude: 34.290658
 loc_type: city
 longitude: 35.965676
-score: 0.42
+score: 7.51
 snippet: Northern Lebanese mountain village near Qadisha Valley, with Maronite heritage
   and Horsh Ehden Nature Reserve.
 sources:

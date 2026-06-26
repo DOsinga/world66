@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Ashburton_Park_-_geograph.
 latitude: 50.526735
 loc_type: city
 longitude: -3.755985
-score: 0.36
+score: 6.84
 title: Ashburton
-snippet: "Dartmoor-edge market town and former stannary centre, with slate-hung streets and a strong independent food scene."
+snippet: Dartmoor-edge market town and former stannary centre, with slate-hung streets
+  and a strong independent food scene.
 type: location
 ---
 

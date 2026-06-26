@@ -7,11 +7,15 @@ done:
 latitude: -24.7859
 loc_type: city
 longitude: -65.4116
-score: 0.54
+score: 8.56
 snippet: Colonial city in Argentina’s Lerma Valley, known for its preserved centre
   and mountain-ringed setting.
 title: Salta
 type: location
+image: salta.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Iglesia_San_Francisco,_Salta,_Argentina_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: noambh
 ---
 
 Salta is one of Argentina's most rewarding cities — a beautifully preserved colonial centre in the Lerma Valley, ringed by mountains in the country's north-west. Known as "Salta la Linda" (Salta the Beautiful), it earns the nickname: the plaza, cathedral, and surrounding streets feel genuinely alive rather than museum-piece.

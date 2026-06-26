@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vard%C3%B8_sommer_2008.jpg
 latitude: 70.3708
 loc_type: city
 longitude: 31.11
-score: 0.39
+score: 7.18
 snippet: Remote Barents Sea town on an island, home to Vardøhus Fortress, the northernmost
   star fort.
 title: Vardø

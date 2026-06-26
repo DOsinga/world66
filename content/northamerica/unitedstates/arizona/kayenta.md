@@ -5,7 +5,7 @@ done:
 latitude: 36.715
 loc_type: city
 longitude: -110.2461
-score: 0.43
+score: 7.55
 snippet: Navajo Nation town in northeastern Arizona, serving as the practical base
   for Monument Valley.
 title: Kayenta

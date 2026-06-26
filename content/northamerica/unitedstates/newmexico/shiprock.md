@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shiprock.snodgrass3.jpg
 latitude: 36.7858
 loc_type: city
 longitude: -108.6845
-score: 0.37
+score: 6.93
 snippet: Navajo Nation town near the Shiprock pinnacle, with a major annual fair and
   Four Corners desert landscapes.
 title: Shiprock

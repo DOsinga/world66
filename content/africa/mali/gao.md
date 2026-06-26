@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tombeau_dAskia_in_Gao_by_D
 latitude: 16.278813
 loc_type: city
 longitude: -0.041239
-score: 0.2
+score: 4.76
 snippet: Niger River city in Mali's Sahel, once a capital of the Songhai Empire.
 title: Gao
 type: location

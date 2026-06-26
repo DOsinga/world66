@@ -2,7 +2,7 @@
 latitude: 30.4147
 loc_type: city
 longitude: -107.9098
-score: 0.28
+score: 5.92
 snippet: Northern Chihuahua city near Paquimé, a major pre-Columbian archaeological
   site and UNESCO landmark.
 title: Nuevo Casas Grandes

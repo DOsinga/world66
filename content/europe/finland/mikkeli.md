@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mikkeli_%22Skyline%22_at_d
 latitude: 61.687782
 loc_type: city
 longitude: 27.273192
-score: 0.38
+score: 6.99
 snippet: Eastern Finnish lakeland town with wartime headquarters history and easy
   access to Saimaa forests and lakes.
 title: Mikkeli

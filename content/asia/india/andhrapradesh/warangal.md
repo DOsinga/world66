@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Badrakali_Temple_Warangal.
 latitude: 17.982064
 loc_type: city
 longitude: 79.597095
-score: 0.34
+score: 6.57
 snippet: Historic Telangana city of Kakatiya temples, carved pillars, and the ruined
   fort of a Deccan capital.
 title: Warangal

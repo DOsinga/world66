@@ -10,7 +10,7 @@ loc_type: city
 longitude: 119.4245
 title: Zhenjiang
 type: location
-score: 0.35
+score: 6.75
 snippet: Yangtze river city where the Grand Canal meets Jiangsu's mountain parks and
   old streets.
 ---

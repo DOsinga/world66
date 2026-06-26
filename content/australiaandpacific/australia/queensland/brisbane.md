@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Brisbane_CBD_seen_from_Kan
 latitude: -27.465991
 loc_type: city
 longitude: 153.020563
-score: 0.51
+score: 8.29
 title: Brisbane
-snippet: Subtropical Queensland capital built along looping bends of the Brisbane River near Moreton Bay.
+snippet: Subtropical Queensland capital built along looping bends of the Brisbane
+  River near Moreton Bay.
 type: location
 ---
 

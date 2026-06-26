@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/8623220@N02/52552236932
 latitude: 33.3943
 loc_type: city
 longitude: -104.523
-score: 0.45
+score: 7.73
 snippet: Southeastern New Mexico city famous for its 1947 UFO story and full-hearted
   alien kitsch
 title: Roswell

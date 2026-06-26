@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayres_Hall,_University_of_
 latitude: 35.9606
 loc_type: city
 longitude: -83.9207
-score: 0.37
+score: 6.9
 snippet: East Tennessee university city on the Tennessee River, backed by the Great
   Smoky Mountains foothills
 title: Knoxville
@@ -24,4 +24,4 @@ History is present in unexpected places. [Blount Mansion](/northamerica/unitedst
 
 The University of Tennessee campus runs along the river and gives the city its energy — and its intense football culture. On game days in autumn, [Neyland Stadium](/northamerica/unitedstates/tennessee/knoxville/neyland_stadium) fills with over 100,000 people in orange. It is one of the largest stadiums in the country and the noise carries across the whole city.
 
-The Smoky Mountains are less than an hour away, which makes Knoxville a useful base for anyone who wants city amenities alongside mountains and hiking. [Great Smoky Mountains National Park](/northamerica/unitedstates/tennessee/greatsmokymountainsnationalpark) is the most visited national park in the United States, and the drive from Knoxville to Gatlinburg or Townsend takes under an hour. The [Bijou Theatre](/northamerica/unitedstates/tennessee/knoxville/bijou_theatre) and [Tennessee Theatre](/northamerica/unitedstates/tennessee/knoxville/tennessee_theatre) on Gay Street keep the cultural calendar busy, and the annual Big Ears festival in March draws musicians and audiences from across the world.
+The Smoky Mountains are less than an hour away, which makes Knoxville a useful base for anyone who wants city amenities alongside mountains and hiking. [Great Smoky Mountains National Park](/northamerica/unitedstates/tennessee/smokymountains) is the most visited national park in the United States, and the drive from Knoxville to Gatlinburg or Townsend takes under an hour. The [Bijou Theatre](/northamerica/unitedstates/tennessee/knoxville/bijou_theatre) and [Tennessee Theatre](/northamerica/unitedstates/tennessee/knoxville/tennessee_theatre) on Gay Street keep the cultural calendar busy, and the annual Big Ears festival in March draws musicians and audiences from across the world.

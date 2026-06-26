@@ -15,7 +15,7 @@ quick_facts:
   Harbour Coastline: 240 km
   Opera House Tiles: 1,056,006
   Population: 5.3 million
-score: 0.8
+score: 9.85
 snippet: Harbour city of beaches, ferries, and sandstone headlands around Australia's
   most recognisable waterfront.
 title: Sydney

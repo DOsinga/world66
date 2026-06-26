@@ -2,7 +2,7 @@
 
 Fill gaps in World66 coverage identified by **broken internal links**. Other content pages
 already reference these places — sometimes from multiple sources — but no page exists for
-them yet. They were classified as "Bucket 1 — Recreate" in `BROKEN_LINKS_AUDIT.tsv`.
+them yet.
 
 Each batch file contains 5 content paths. Most are missing locations (cities, regions,
 features, islands); a few are missing POIs under existing cities. The path in the batch

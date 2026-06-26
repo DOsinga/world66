@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Angra_do_Her
 latitude: 38.659317
 loc_type: city
 longitude: -27.219558
-score: 0.56
+score: 8.71
 snippet: Azorean Renaissance port city on Terceira, once a key Atlantic crossroads
   between continents.
 title: Angra do Heroismo

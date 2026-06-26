@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ville_de_Lab%C3%A9.jpg
 latitude: 11.323003
 loc_type: city
 longitude: -12.282253
-score: 0.2
+score: 4.82
 snippet: Guinean highland city and Fouta Djallon hub, surrounded by Fulani markets,
   waterfalls, and cool plateau air.
 title: Labe

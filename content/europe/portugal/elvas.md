@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:31202-Elvas_(48749062731).
 latitude: 38.880612
 loc_type: city
 longitude: -7.163724
-score: 0.45
+score: 7.8
 snippet: Alentejo frontier town by Spain, enclosed by star-shaped fortifications,
   dry moats, and the Amoreira Aqueduct.
 title: Elvas

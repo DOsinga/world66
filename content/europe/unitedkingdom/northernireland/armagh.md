@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Armagh_Golf_Club_%5E_Cathe
 latitude: 54.3503
 loc_type: city
 longitude: -6.6528
-score: 0.43
+score: 7.59
 snippet: Ancient Irish ecclesiastical city where twin St Patrick’s cathedrals face
   across Georgian streets
 title: Armagh

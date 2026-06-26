@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alun-alun_Kota_Tanjung_Pin
 latitude: 0.9237
 loc_type: city
 longitude: 104.4461
-score: 0.37
+score: 6.88
 title: Tanjung Pinang
 type: location
 snippet: Working Riau Islands port on Bintan, with stilted waterfront lanes and ferry

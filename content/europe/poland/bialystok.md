@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bia%C5%82ystok_2023_001_Ko
 latitude: 53.1325
 loc_type: city
 longitude: 23.1688
-score: 0.36
+score: 6.84
 snippet: Northeastern Polish city near the Belarusian border, known for Branicki Palace
   and a multicultural past.
 title: Białystok

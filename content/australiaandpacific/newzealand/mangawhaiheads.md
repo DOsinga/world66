@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Mangawhai_Harbour
 title: Mangawhai Heads
 type: location
-score: 0.44
+score: 7.65
 snippet: Northland beach settlement at Mangawhai Harbour, with surf, white sand, and
   pohutukawa-covered dunes.
 ---

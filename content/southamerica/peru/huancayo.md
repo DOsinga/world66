@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Huancayo_en_2021
 latitude: -12.068098
 loc_type: city
 longitude: -75.210095
-score: 0.44
+score: 7.69
 snippet: Highland Peruvian market city in the Mantaro Valley, known for textiles,
   gourds, and Wanka culture.
 title: Huancayo

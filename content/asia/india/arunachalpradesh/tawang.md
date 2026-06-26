@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_buddist_monastry.jpg
 latitude: 27.587919
 loc_type: city
 longitude: 91.863733
-score: 0.46
+score: 7.9
 snippet: High Himalayan Buddhist town centred on India's largest monastery and Monpa
   mountain culture.
 title: Tawang

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame
 latitude: 48.44386
 loc_type: city
 longitude: 1.488143
-score: 0.55
+score: 8.7
 snippet: French cathedral city on the Eure, defined by its medieval Gothic cathedral
   and stained glass
 title: Chartres

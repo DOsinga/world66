@@ -5,10 +5,11 @@ done:
 latitude: 32.470976
 loc_type: city
 longitude: -85.000765
-score: 0.23
+score: 5.37
 title: Phenix City
 type: location
-snippet: "Chattahoochee River city opposite Columbus, Georgia, once notorious for gambling and political corruption."
+snippet: Chattahoochee River city opposite Columbus, Georgia, once notorious for gambling
+  and political corruption.
 ---
 
 Phenix City sits on the Chattahoochee River in eastern [Alabama](/northamerica/unitedstates/alabama), directly across the water from Columbus, Georgia. For most of the 20th century it had a notorious reputation as "Sin City" — a wide-open town of gambling, prostitution, and political corruption that culminated in the [assassination of a newly elected attorney general in 1954](/northamerica/unitedstates/alabama/phenix_city/patterson_office). The cleanup that followed transformed it into the quiet, suburban city it is today, though the history still makes for fascinating reading.

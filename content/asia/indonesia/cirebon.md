@@ -5,7 +5,7 @@ done:
 latitude: -6.713704
 loc_type: city
 longitude: 108.560848
-score: 0.35
+score: 6.72
 snippet: North Java harbour city where Javanese, Sundanese, Chinese, and Islamic royal
   traditions overlap.
 title: Cirebon

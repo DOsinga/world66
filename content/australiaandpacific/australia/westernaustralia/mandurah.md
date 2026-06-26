@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandurah_Ocean_Marina.jpg
 latitude: -32.530249
 loc_type: city
 longitude: 115.720878
-score: 0.39
+score: 7.11
 snippet: Western Australian estuary city south of Perth, shaped by Peel Inlet waterways
   and blue manna crabs.
 title: Mandurah

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/90733161@N05/8363211383
 latitude: 18.4274
 loc_type: city
 longitude: -68.9728
-score: 0.47
+score: 7.99
 snippet: Dominican coastal city near the Chavón River, with sugar history and access
   to Bayahibe beaches.
 title: La Romana

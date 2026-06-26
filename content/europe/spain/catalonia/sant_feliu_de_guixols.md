@@ -8,11 +8,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant_Feliu_des_de_Sant_Elm
 latitude: 41.783883
 loc_type: city
 longitude: 3.028319
-score: 0.51
+score: 8.29
 sources:
 - https://en.wikipedia.org/wiki/Sant_Feliu_de_Gu%C3%ADxols
 title: Sant Feliu de Guíxols
-snippet: Old Costa Brava port town with cork-trade roots, a working harbour, and a Romanesque monastery
+snippet: Old Costa Brava port town with cork-trade roots, a working harbour, and a
+  Romanesque monastery
 type: location
 ---
 

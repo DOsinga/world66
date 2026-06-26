@@ -2,7 +2,7 @@
 latitude: 20.0
 loc_type: feature
 longitude: -16.3
-score: 0.37
+score: 6.88
 snippet: Atlantic national park of tidal flats and sandbanks, vital for migratory
   birds and Imraguen fishing culture.
 title: Banc d'Arguin National Park

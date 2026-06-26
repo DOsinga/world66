@@ -1,16 +1,16 @@
 ---
-title: "Pinacoteca do Estado"
-type: poi
 latitude: -23.5345
 longitude: -46.6336
-tags:
-  - things_to_do
-  - museum
-  - architecture
-  - centro
-neighbourhood: Centro
-snippet: "The Brazilian-art museum in a restored 1900 brick building beside the Estação da Luz"
 score: 9.5
+snippet: The Brazilian-art museum in a restored 1900 brick building beside the Estação
+  da Luz
+tags:
+- things_to_do
+- museum
+- architecture
+- centro
+title: Pinacoteca do Estado
+type: poi
 ---
 
 The Pinacoteca is the state of São Paulo's collection of Brazilian art, the best deep collection of Brazilian painting and sculpture anywhere. The building is a 1900 brick exhibition hall that was reworked in the 1990s by Paulo Mendes da Rocha — the original walls left exposed, glass and steel inserted in the courtyards. The architecture won the Mies van der Rohe Award for Latin American Architecture.

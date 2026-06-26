@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:N%C3%A4k%C3%B6linja_Punkah
 latitude: 61.756102
 loc_type: city
 longitude: 29.389238
-score: 0.47
+score: 7.93
 snippet: Finnish lake district town built around a pine-covered esker ridge with water
   on both sides.
 title: Punkaharju

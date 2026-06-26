@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nassau_Hall,_Princeton_Uni
 latitude: 40.349695
 loc_type: city
 longitude: -74.659738
-score: 0.45
+score: 7.79
 title: Princeton
 type: location
 snippet: New Jersey university town of Gothic campus buildings, colonial streets,

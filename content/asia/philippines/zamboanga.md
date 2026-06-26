@@ -11,7 +11,7 @@ loc_type: city
 snippet: Mindanao port city where Spanish fortifications, Muslim tradition, and Chavacano
   culture meet near Basilan Strait
 longitude: 122.0739
-score: 0.33
+score: 6.45
 title: Zamboanga
 type: location
 ---

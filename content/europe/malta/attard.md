@@ -11,7 +11,7 @@ loc_type: city
 snippet: Central Maltese town known for San Anton Palace, public gardens, and a quiet
   old village core
 longitude: 14.443009
-score: 0.43
+score: 7.58
 title: Attard
 type: location
 ---

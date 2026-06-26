@@ -5,7 +5,7 @@ done:
 latitude: 16.3167
 loc_type: city
 longitude: -61.05
-score: 0.41
+score: 7.39
 snippet: Quiet Guadeloupe island with empty beaches, steep Atlantic cliffs, and a
   protected iguana reserve.
 title: La Désirade

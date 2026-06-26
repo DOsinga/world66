@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Varazze_1.jpg
 latitude: 44.3593
 loc_type: city
 longitude: 8.575327
-score: 0.45
+score: 7.8
 snippet: Ligurian resort town on a broad bay, with Roman shipbuilding roots and Beigua
   mountain slopes behind
 title: Varazze

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Portland_Night_panorama.jp
 latitude: 45.5202
 loc_type: city
 longitude: -122.6742
-score: 0.51
+score: 8.35
 snippet: Oregon’s largest city, where riverside neighbourhoods, independent bookshops,
   craft beer, and forested hills meet.
 title: Portland

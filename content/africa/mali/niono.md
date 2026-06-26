@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Africa._French_West_Africa
 latitude: 14.25152
 loc_type: city
 longitude: -5.978334
-score: 0.12
+score: 2.63
 snippet: Malian town in the Office du Niger irrigation zone, noted for rice fields
   and mud-brick mosque architecture.
 title: Niono

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Ternate_and_Tido
 latitude: 0.6833
 loc_type: island
 longitude: 127.4
-score: 0.41
+score: 7.33
 snippet: Volcanic North Maluku island, once a rival clove-trade sultanate facing Ternate
   across a narrow strait
 sources:

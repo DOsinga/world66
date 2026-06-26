@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roscoff_vue_Chapelle_St-Ba
 latitude: 48.725582
 loc_type: city
 longitude: -3.982898
-score: 0.47
+score: 7.98
 snippet: Granite Breton port town known for Plymouth ferries, merchant houses, and
   the old pink-onion trade.
 title: Roscoff

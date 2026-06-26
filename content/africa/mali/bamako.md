@@ -7,7 +7,7 @@ done:
 latitude: 12.649319
 loc_type: city
 longitude: -8.000337
-score: 0.24
+score: 5.56
 snippet: Malian capital on the Niger River, ringed by dusty hills and serving as the
   main inland gateway.
 title: Bamako

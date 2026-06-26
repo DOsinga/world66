@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kiribati_Abemama_Atoll.jpg
 latitude: 0.514692
 loc_type: city
 longitude: 173.788313
-score: 0.31
+score: 6.21
 snippet: Remote Gilbert Islands atoll known as the Land of Moonlight and Robert Louis
   Stevenson's Pacific stay.
 title: Abemama

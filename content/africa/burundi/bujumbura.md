@@ -5,7 +5,7 @@ done:
 latitude: -3.3822
 loc_type: city
 longitude: 29.3644
-score: 0.27
+score: 5.83
 snippet: Lakeside Burundian capital on Lake Tanganyika, backed by green hills and
   shaped by beaches, commerce, and colonial history.
 title: Bujumbura

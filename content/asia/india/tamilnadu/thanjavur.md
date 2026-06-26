@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brihadisvara_Temple,_Thanj
 latitude: 10.659037
 loc_type: city
 longitude: 79.201428
-score: 0.47
+score: 7.93
 snippet: Former Chola capital anchored by Brihadisvara Temple, bronze art, and royal
   palace libraries
 title: Thanjavur

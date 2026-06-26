@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brindisi_-_monumento_al_Ma
 latitude: 40.63586
 loc_type: city
 longitude: 17.688498
-score: 0.46
+score: 7.91
 snippet: Puglian port city at the end of the Via Appia, long used for eastern Mediterranean
   crossings.
 title: Brindisi

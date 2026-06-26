@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Odessa,_Tex
 latitude: 31.999694
 loc_type: city
 longitude: -102.156226
-score: 0.23
+score: 5.43
 snippet: West Texas twin-city oil hub in the Permian Basin, with petroleum, aircraft,
   and meteor-crater history.
 title: Midland-Odessa

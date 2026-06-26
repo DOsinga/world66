@@ -11,7 +11,7 @@ loc_type: city
 snippet: Ecuadorian Pacific port city with Manabí beaches, Manta civilisation artefacts,
   and a working harbour
 longitude: -80.7162
-score: 0.4
+score: 7.29
 title: Manta
 type: location
 ---

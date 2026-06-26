@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3331_Edinburgh_-_Schott
 latitude: 55.953346
 loc_type: city
 longitude: -3.188375
-score: 0.83
+score: 9.92
 snippet: Scottish capital built on volcanic rock, where medieval closes and Georgian
   terraces face across a former loch.
 title: Edinburgh

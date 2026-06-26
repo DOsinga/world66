@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/35034346917@N01/861286250
 latitude: -41.1335
 loc_type: city
 longitude: -71.3101
-score: 0.61
+score: 9.06
 snippet: Patagonian mountain town on Lago Nahuel Huapi, known for skiing, hiking,
   lakes, and Swiss-style architecture.
 title: Bariloche

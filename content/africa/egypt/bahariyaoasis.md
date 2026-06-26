@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahariya_Village_through_t
 latitude: 28.3514
 loc_type: feature
 longitude: 28.8629
-score: 0.42
+score: 7.51
 snippet: Northern Western Desert oasis southwest of Cairo, centred on springs, palm
   groves, and Bawiti.
 sources:

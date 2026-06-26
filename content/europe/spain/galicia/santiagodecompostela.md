@@ -1,11 +1,16 @@
 ---
+image: santiagodecompostela.jpg
+image_attribution: Luis Miguel Bugallo Sánchez
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:2010-07-18-_San_Marti%C3%B1o_Pinario-Santiago_Compostela-Galicia_(Spain).jpg
+latitude: 42.8805
+loc_type: city
+longitude: -8.5457
+score: 9.22
+snippet: Galician pilgrimage city where the Camino de Santiago ends at the cathedral
+  of Saint James.
 title: Santiago de Compostela
 type: location
-loc_type: city
-latitude: 42.8805
-longitude: -8.5457
-score: 0.64
-snippet: Galician pilgrimage city where the Camino de Santiago ends at the cathedral of Saint James.
 ---
 
 Santiago de Compostela is the capital of Galicia in northwestern Spain and the destination of one of the great pilgrimages of the Christian world. The supposed tomb of Saint James in its cathedral has drawn pilgrims for over a thousand years, and the Camino de Santiago — the network of walking routes across Europe that converge here — is one of the world's most famous long-distance trails. The old town is a UNESCO World Heritage Site and one of the finest medieval urban centres in Spain.

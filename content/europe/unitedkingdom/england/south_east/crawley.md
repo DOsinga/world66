@@ -1,7 +1,7 @@
 ---
 latitude: 51.110344
 longitude: -0.180109
-score: 0.23
+score: 5.32
 title: Crawley
 type: location
 loc_type: city

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Attabad_Lake,_Shishkat_Hun
 latitude: 36.373
 loc_type: city
 longitude: 74.849
-score: 0.29
+score: 6.03
 snippet: Gojal Valley village on the Karakoram Highway, marking the threshold to upper
   Hunza.
 title: Shishkat

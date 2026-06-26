@@ -5,7 +5,7 @@ done:
 latitude: 13.725107
 loc_type: city
 longitude: 1.696146
-score: 0.13
+score: 3.33
 snippet: Niger River road town northwest of Niamey, known for nearby giraffe country
   and Sahel crossings.
 sources:

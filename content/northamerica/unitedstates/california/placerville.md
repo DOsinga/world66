@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bell_Tower_Placerville_Cal
 latitude: 38.729625
 loc_type: city
 longitude: -120.798546
-score: 0.38
+score: 7.05
 snippet: Gold Rush town on Highway 50, still wearing traces of its old Hangtown identity.
 sources:
 - https://en.wikipedia.org/wiki/Placerville,_California

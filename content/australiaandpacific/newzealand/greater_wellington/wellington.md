@@ -2,11 +2,15 @@
 latitude: -41.2865
 loc_type: city
 longitude: 174.7762
-score: 0.54
+score: 8.59
 snippet: Compact New Zealand capital around a windy harbour, with steep hills and
   strong cultural institutions.
 title: Wellington
 type: location
+image: wellington.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Departure_(33950426345).jpg
+image_license: CC BY 2.0
+image_attribution: Simeon W from Wellington, New Zealand
 ---
 
 Wellington is the capital of New Zealand and, at the southernmost tip of the North Island, the windiest major city in the world. That wind is a constant presence — locals accept it as part of the city's character — but it doesn't diminish Wellington's appeal as one of the most liveable and culturally rich cities in the southern hemisphere.

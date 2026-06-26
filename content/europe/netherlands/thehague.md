@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/12962905@N05/49518511857
 latitude: 52.074946
 loc_type: city
 longitude: 4.26968
-score: 0.54
+score: 8.56
 snippet: Dutch government city of royal palaces, international courts, the Binnenhof,
   and North Sea beaches
 sources:

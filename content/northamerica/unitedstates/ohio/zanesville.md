@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Y._Bridge_Zanesville_O
 latitude: 39.940143
 loc_type: city
 longitude: -82.005019
-score: 0.25
+score: 5.68
 snippet: Ohio river city famous for its Y-shaped bridge over the Muskingum and Licking
   rivers
 title: Zanesville

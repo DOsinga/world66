@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/44296132@N06/27832125425
 latitude: 47.238154
 loc_type: city
 longitude: 10.740698
-score: 0.44
+score: 7.69
 snippet: Tyrolean market town in a sunny Alpine valley, known for Schemenlaufen masks
   and Hoch-Imst slopes.
 title: Imst

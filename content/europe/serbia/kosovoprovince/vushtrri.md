@@ -2,7 +2,7 @@
 latitude: 42.8231
 loc_type: city
 longitude: 20.9675
-score: 0.26
+score: 5.77
 snippet: Central Kosovo market city with Ottoman-era remains, a stone bridge, and
   roots reaching back to antiquity.
 title: Vushtrri

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_street_Augusta_Traian
 latitude: 42.424811
 loc_type: city
 longitude: 25.625748
-score: 0.34
+score: 6.57
 snippet: Thracian plain city with deep Neolithic roots, Roman Augusta Traiana ruins,
   and a gridded modern centre
 title: Stara Zagora

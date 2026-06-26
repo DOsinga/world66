@@ -3,7 +3,7 @@ country: Indonesia
 latitude: -8.366
 loc_type: island
 longitude: 116.0813
-score: 0.57
+score: 8.79
 snippet: Small Lombok island with a lived-in village core, relaxed snorkelling, and
   a gentler Gili pace
 title: Gili Air

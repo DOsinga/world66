@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Papallacta.JPG
 latitude: -0.377676
 loc_type: city
 longitude: -78.140888
-score: 0.46
+score: 7.89
 snippet: High Andean village known for geothermal hot springs, trout streams, and
   cold páramo air
 title: Papallacta

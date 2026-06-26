@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Capitol_building_Lincoln,_
 latitude: 40.8136
 loc_type: city
 longitude: -96.7026
-score: 0.32
+score: 6.37
 snippet: Nebraska capital and university city with an Art Deco capitol tower and Cornhuskers
   football culture
 title: Lincoln

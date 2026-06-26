@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/69135870@N00/54533722662
 latitude: 50.766437
 loc_type: city
 longitude: 0.278155
-score: 0.43
+score: 7.62
 snippet: Victorian seaside resort on the Sussex coast, backed by Beachy Head and the
   South Downs.
 title: Eastbourne

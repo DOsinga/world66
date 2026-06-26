@@ -5,9 +5,10 @@ done:
 latitude: 54.7174
 loc_type: city
 longitude: 8.4958
-score: 0.47
+score: 7.95
 title: North Frisian Islands
-snippet: Wadden Sea island chain of Frisian beaches, halligen marsh islets, and storm-shaped North Sea landscapes.
+snippet: Wadden Sea island chain of Frisian beaches, halligen marsh islets, and storm-shaped
+  North Sea landscapes.
 type: location
 sources:
 - https://en.wikipedia.org/wiki/North_Frisian_Islands

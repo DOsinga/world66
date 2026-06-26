@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Watchet.jpg
 latitude: 51.182557
 loc_type: city
 longitude: -3.330433
-score: 0.4
+score: 7.28
 snippet: Small Somerset harbour town at Exmoor's edge, linked to Saxon maritime history
   and Coleridge's Ancient Mariner.
 title: Watchet

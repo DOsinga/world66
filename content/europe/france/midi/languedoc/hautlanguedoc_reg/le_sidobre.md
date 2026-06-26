@@ -4,7 +4,7 @@ done:
 latitude: 43.503127
 loc_type: feature
 longitude: 2.014004
-score: 0.44
+score: 7.68
 snippet: Granite plateau east of Castres where weathered boulders balance and stack
   through dense forest.
 title: Le Sidobre

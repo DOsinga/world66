@@ -6,11 +6,15 @@ done:
 latitude: 20.5399
 loc_type: feature
 longitude: 96.9172
-score: 0.58
+score: 8.88
 snippet: Shan Hills freshwater lake where stilt villages, floating gardens, and leg-rowing
   fishermen shape life on the water
 title: Inle Lake
 type: location
+image: inlelake.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20160805_-_Inle_Lake,_Myanmar_-_8453_DxO.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jakub Hałun
 ---
 
 Inle Lake is one of Myanmar's most captivating destinations — a vast freshwater lake in the Shan Hills where life happens almost entirely on water. Villages stand on stilts, gardens float on the surface, and fishermen balance on one leg while rowing with the other, a technique found nowhere else in the world.

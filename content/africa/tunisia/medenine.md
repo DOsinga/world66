@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BASA-3K-7-350-15-Medenine,
 latitude: 33.3547
 loc_type: city
 longitude: 10.5053
-score: 0.32
+score: 6.32
 snippet: Southeastern Tunisian transit town anchored by a surviving ksar of vaulted
   Berber granary cells.
 title: Medenine

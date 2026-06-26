@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/83226148@N02/7624739792
 latitude: 57.436714
 loc_type: city
 longitude: -6.5814
-score: 0.5
+score: 8.26
 snippet: Skye lochside village anchored by Dunvegan Castle, seat of the MacLeod clan.
 title: Dunvegan
 type: location

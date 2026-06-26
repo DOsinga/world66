@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/23136508@N00/14522583925
 latitude: 51.511101
 loc_type: city
 longitude: -0.594068
-score: 0.21
+score: 5.0
 snippet: Diverse Heathrow-corridor town whose trading estate gives it more economic
   energy than charm
 title: Slough

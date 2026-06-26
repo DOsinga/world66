@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/75683070@N00/67778390
 latitude: 42.4432
 loc_type: city
 longitude: -71.229
-score: 0.41
+score: 7.39
 snippet: Boston-area town where the first shots of the American Revolution were fired
   on the green.
 title: Lexington

@@ -12,7 +12,7 @@ image: shangluo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Skyline_of_Shangluo,_April_30_2023.jpg
 image_license: CC BY-SA 4.0
 image_attribution: A Chinese ID
-score: 0.29
+score: 6.01
 snippet: Southeastern Shaanxi mountain prefecture where Qinling valleys shelter traditional
   villages and dramatic gorges.
 ---

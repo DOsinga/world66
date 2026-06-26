@@ -4,7 +4,7 @@ done:
 latitude: 40.649513
 loc_type: city
 longitude: 15.239355
-score: 0.35
+score: 6.65
 snippet: Sele Valley spa town where sulphurous springs feed a practical Italian thermal-treatment
   tradition.
 title: Contursi Terme

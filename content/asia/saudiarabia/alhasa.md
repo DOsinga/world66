@@ -4,7 +4,7 @@ done:
 latitude: 25.3833
 loc_type: city
 longitude: 49.5833
-score: 0.29
+score: 6.02
 snippet: Eastern Saudi oasis city of date palms, natural springs, Ottoman forts, and
   ancient Hofuf markets.
 title: Al-Ahsa

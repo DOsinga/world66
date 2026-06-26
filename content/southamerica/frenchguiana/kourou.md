@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kourou_beach.jpg
 latitude: 5.157983
 loc_type: city
 longitude: -52.64242
-score: 0.4
+score: 7.3
 snippet: French Guiana coastal town defined by Europe's spaceport and the penal-colony
   ruins of Îles du Salut.
 title: Kourou

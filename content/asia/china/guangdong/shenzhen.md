@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:(CHN-Guangdong)_Taxis_at_U
 latitude: 22.544574
 loc_type: city
 longitude: 114.054543
-score: 0.4
+score: 7.26
 snippet: Chinese megacity across from Hong Kong, grown from fishing village to Special
   Economic Zone and tech hub.
 title: Shenzhen

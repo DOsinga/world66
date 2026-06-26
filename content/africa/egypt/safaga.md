@@ -6,7 +6,7 @@ latitude: 26.7633
 longitude: 33.9384
 title: Safaga
 type: location
-score: 0.37
+score: 6.92
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Safaga

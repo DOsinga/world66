@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inre_hamnen_i_Helsingborg.
 latitude: 56.0442
 loc_type: city
 longitude: 12.7037
-score: 0.44
+score: 7.63
 snippet: Öresund port city facing Denmark, with Kärnan tower above a compact waterfront
   centre.
 sources:

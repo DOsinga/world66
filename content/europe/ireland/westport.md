@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/22746515@N02/2409320233
 latitude: 53.800064
 loc_type: city
 longitude: -9.520218
-score: 0.51
+score: 8.27
 snippet: Georgian Irish town on Clew Bay, planned around the Carrowbeg River below
   Croagh Patrick.
 title: Westport

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anse_non_nomm%C3%A9e_%C3%A
 latitude: 14.7369
 loc_type: city
 longitude: -60.9653
-score: 0.44
+score: 7.67
 title: La Trinité
 type: location
 snippet: Atlantic-coast Martinique town facing the Caravelle Peninsula, with a working

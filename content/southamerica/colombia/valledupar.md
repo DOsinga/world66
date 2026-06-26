@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calle15valledupar.jpg
 latitude: 10.465173
 loc_type: city
 longitude: -73.252951
-score: 0.35
+score: 6.73
 snippet: Caribbean Colombian city and birthplace of vallenato, set between two mountain
   ranges.
 title: Valledupar

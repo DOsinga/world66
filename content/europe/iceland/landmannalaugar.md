@@ -4,11 +4,16 @@ done:
 latitude: 63.990511
 loc_type: feature
 longitude: -19.060491
-score: 0.62
+score: 9.09
 snippet: Icelandic highland area of rhyolite mountains, obsidian lava fields, hot
   springs, and the Laugavegur trailhead.
 title: Landmannalaugar
 type: location
+image: landmannalaugar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Landmannalaugar-pjt.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Pjt56 --- If you use the picture outside Wikipedia I would appreciate
+  a short e-mail to pjt56@gmx.net or a message on my discussion page
 ---
 
 Landmannalaugar sits in Iceland's highlands at around 600 metres, a landscape of obsidian lava fields, steaming hot springs, and rhyolite mountains streaked in rust, yellow, and green. It is the starting point of the Laugavegur trail, a four-day hike through some of the most dramatic scenery on earth. Day hikers come too — the coloured peaks behind the camp are an easy afternoon walk.

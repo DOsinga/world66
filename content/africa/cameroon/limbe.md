@@ -5,7 +5,7 @@ done:
 latitude: 4.0103
 loc_type: city
 longitude: 9.2071
-score: 0.33
+score: 6.45
 snippet: Atlantic beach town near Douala, known for black volcanic sand and a low-key
   waterfront.
 sources:

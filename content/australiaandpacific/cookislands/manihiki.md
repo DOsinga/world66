@@ -6,7 +6,7 @@ latitude: -10.422228
 longitude: -160.995904
 title: Manihiki
 type: location
-score: 0.44
+score: 7.73
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Manihiki

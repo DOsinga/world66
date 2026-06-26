@@ -2,7 +2,7 @@
 latitude: 45.0319
 loc_type: city
 longitude: 35.3813
-score: 0.38
+score: 7.08
 snippet: Ancient Black Sea port in Crimea, known for Genoese walls and Ivan Aivazovsky's
   marine paintings.
 title: Feodosia

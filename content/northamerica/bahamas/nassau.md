@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BahamianParliamentPanorama
 latitude: 25.048
 loc_type: city
 longitude: -77.3554
-score: 0.54
+score: 8.6
 snippet: Bahamian capital on New Providence, balancing colonial pastel streets, cruise
   docks, and turquoise beaches
 title: Nassau

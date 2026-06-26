@@ -5,7 +5,7 @@ done:
 latitude: 45.8539
 loc_type: city
 longitude: 7.9372
-score: 0.47
+score: 7.96
 snippet: Alpine village beneath Monte Rosa, known for Walser houses and steep freeride
   ski terrain.
 title: Alagna

@@ -6,13 +6,14 @@ image: ''
 latitude: 50.795207
 loc_type: city
 longitude: -1.121085
-score: 0.29
+score: 6.01
 sources:
 - https://en.wikipedia.org/wiki/Royal_Navy_Submarine_Museum
 - https://en.wikipedia.org/wiki/Royal_Hospital_Haslar
 - https://en.wikipedia.org/wiki/Fort_Blockhouse
 title: Gosport
-snippet: Harbour town opposite Portsmouth, defined by naval museums, submarine history, and the short Gosport ferry
+snippet: Harbour town opposite Portsmouth, defined by naval museums, submarine history,
+  and the short Gosport ferry
 type: location
 ---
 

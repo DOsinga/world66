@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Modoc_County_Courthouse_-_
 latitude: 41.487123
 loc_type: city
 longitude: -120.542327
-score: 0.25
+score: 5.66
 snippet: Remote Modoc County seat in northeastern California, surrounded by high desert,
   sagebrush, and volcanic tablelands.
 title: Alturas

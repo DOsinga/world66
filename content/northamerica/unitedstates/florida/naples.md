@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naples_-_Sunset_at_pier.jp
 latitude: 26.142
 loc_type: city
 longitude: -81.7948
-score: 0.41
+score: 7.38
 snippet: Refined Gulf Coast city in southwest Florida, known for beaches, tropical
   gardens, and walkable downtown streets.
 title: Naples

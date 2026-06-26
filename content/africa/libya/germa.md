@@ -14,7 +14,7 @@ image: germa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Garma_(Garama)_-_Ruinen_der_antiken_Stadt_Garama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Franzfoto
-score: 0.19
+score: 4.66
 snippet: Central Saharan oasis town preserving the Garamantian capital that once controlled
   Fezzan caravan routes.
 ---

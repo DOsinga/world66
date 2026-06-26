@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/37165469@N00/113705851
 latitude: 34.8627
 loc_type: city
 longitude: 33.3164
-score: 0.47
+score: 8.0
 snippet: Cypriot hill village known for Lefkaritika lace, silverwork, and whitewashed
   lanes between Larnaca and Limassol.
 title: Lefkara

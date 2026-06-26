@@ -5,7 +5,7 @@ done:
 latitude: 39.392595
 loc_type: city
 longitude: -99.617882
-score: 0.28
+score: 5.93
 snippet: Kansas prairie town founded by Black homesteaders during Reconstruction and
   preserved as a National Historic Site
 sources:

@@ -4,9 +4,10 @@ done:
 latitude: 7.502883
 longitude: 0.074279
 title: Lake Volta
-snippet: Vast man-made lake in eastern Ghana, created by the Akosombo Dam on the Volta River.
+snippet: Vast man-made lake in eastern Ghana, created by the Akosombo Dam on the Volta
+  River.
 type: location
-score: 0.36
+score: 6.77
 loc_type: feature
 ---
 

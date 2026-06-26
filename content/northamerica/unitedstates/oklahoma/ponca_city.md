@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ponca_City_Histor
 latitude: 36.7036
 loc_type: city
 longitude: -97.0819
-score: 0.25
+score: 5.7
 snippet: North-central Oklahoma oil city, marked by E.W. Marland's Italian Renaissance
   mansion and pioneer monuments.
 title: Ponca City

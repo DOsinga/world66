@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Armenia._Dilijan_P8230669_
 latitude: 40.7417
 loc_type: city
 longitude: 44.8722
-score: 0.44
+score: 7.67
 snippet: Forest-ringed Armenian retreat in Tavush Marz, known for Soviet-era artists
   and Sharambeyan Street workshops
 sources:

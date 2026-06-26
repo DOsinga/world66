@@ -5,7 +5,7 @@ done:
 latitude: 20.0247
 loc_type: city
 longitude: -75.8219
-score: 0.49
+score: 8.11
 title: Santiago de Cuba
 type: location
 snippet: Caribbean Cuban city between Sierra Maestra and sea, known for son music

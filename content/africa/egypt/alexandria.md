@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alexandria_-_Egypt.jpg
 latitude: 31.199181
 loc_type: city
 longitude: 29.895172
-score: 0.54
+score: 8.58
 snippet: Mediterranean Egyptian port city where ancient scholarship, faded European
   architecture, and modern corniche life meet.
 title: Alexandria

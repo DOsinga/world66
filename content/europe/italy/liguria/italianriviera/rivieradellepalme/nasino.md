@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nasino,_Borgo_e_Vignolo,_p
 latitude: 44.11375
 loc_type: city
 longitude: 8.031713
-score: 0.34
+score: 6.58
 snippet: Agricultural village in the Pennavaire valley, surrounded by woods, pastures,
   and prehistoric cave sites.
 title: Nasino

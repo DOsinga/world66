@@ -4,7 +4,7 @@ done:
 latitude: 18.8333
 loc_type: city
 longitude: -72.1053
-score: 0.19
+score: 4.72
 snippet: Central Plateau Haitian market town at a crossroads between Port-au-Prince,
   Hinche, Artibonite, and Saut-d’Eau.
 sources:

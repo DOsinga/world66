@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_the_Baku_bay,_Az
 latitude: 40.375588
 loc_type: city
 longitude: 49.832801
-score: 0.53
+score: 8.54
 title: Baku
 type: location
 snippet: Caspian capital of Azerbaijan where medieval walls, oil-boom mansions, and

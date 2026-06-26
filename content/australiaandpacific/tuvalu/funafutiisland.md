@@ -1,6 +1,6 @@
 ---
 done:
-  link_coverage: '2026-06-08'
+  link_coverage: '2026-06-22'
 image: funafutiisland.jpg
 image_attribution: Davidarfonjones
 image_license: CC BY-SA 3.0
@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Funafuti_township.jpg
 latitude: -8.5167
 loc_type: island
 longitude: 179.2
-score: 0.4
+score: 7.22
 snippet: Tuvalu's capital atoll, a narrow coral ribbon around a broad lagoon with
   many islets.
 sources:

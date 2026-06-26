@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_colors_from_Ilulissat_
 latitude: 69.219713
 loc_type: city
 longitude: -51.098638
-score: 0.6
+score: 8.99
 snippet: Greenland town on Disko Bay, gateway to the UNESCO-listed Ilulissat Icefjord.
 sources:
 - https://en.wikipedia.org/wiki/Ilulissat

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pillar_of_Vasco_da_Gama.jp
 latitude: -3.229594
 loc_type: city
 longitude: 39.975088
-score: 0.43
+score: 7.54
 snippet: Kenyan coastal town with Swahili history, Indian Ocean beaches, and access
   to marine parks.
 title: Malindi

@@ -4,7 +4,7 @@ done:
 latitude: 32.0336
 loc_type: city
 longitude: -84.3933
-score: 0.31
+score: 6.24
 snippet: Georgia peanut town inseparable from Jimmy Carter, with a one-block downtown
   and presidential sites.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Paseo_(Palm_Desert)_01.
 latitude: 33.7228
 loc_type: city
 longitude: -116.3826
-score: 0.38
+score: 6.97
 snippet: Coachella Valley resort city below the Santa Rosa Mountains, balancing golf
   gloss with desert ecology.
 title: Palm Desert

@@ -4,7 +4,7 @@ done:
 latitude: 52.6307
 loc_type: feature
 longitude: 1.55
-score: 0.47
+score: 7.93
 snippet: Protected English wetland of navigable rivers, flooded medieval peat diggings,
   reedbeds, and hire-boat villages
 title: The Norfolk Broads

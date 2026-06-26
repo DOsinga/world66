@@ -5,7 +5,7 @@ done:
 latitude: 40.996127
 loc_type: city
 longitude: 15.655655
-score: 0.42
+score: 7.47
 snippet: Medieval Basilicata town below Monte Vulture, once the Norman capital of
   southern Italy
 title: Melfi

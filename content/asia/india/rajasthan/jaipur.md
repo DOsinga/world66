@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jai
 latitude: 26.9154
 loc_type: city
 longitude: 75.819
-score: 0.68
+score: 9.42
 snippet: Rajasthani capital and Pink City, with terracotta walls, royal palaces, and
   planned old-town avenues.
 title: Jaipur

@@ -4,7 +4,7 @@ done:
 latitude: -27.467
 loc_type: city
 longitude: -58.8341
-score: 0.38
+score: 7.08
 snippet: Northeastern Argentine river city with colonial roots, grid streets, and
   a relaxed Paraná waterfront.
 title: Corrientes

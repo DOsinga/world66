@@ -4,7 +4,7 @@ done:
 latitude: 45.185904
 loc_type: city
 longitude: -109.247062
-score: 0.41
+score: 7.4
 snippet: Mountain town below the Beartooths, serving as the eastern Yellowstone gateway
   via the Beartooth Highway.
 title: Red Lodge

@@ -4,7 +4,7 @@ done:
 latitude: 39.260011
 loc_type: feature
 longitude: 16.507491
-score: 0.45
+score: 7.74
 snippet: Forested Calabrian mountain plateau of pine woods, artificial lakes, and
   cool upland villages
 title: La Sila

@@ -5,10 +5,15 @@ done:
 latitude: -26.654434
 loc_type: city
 longitude: 153.093367
-score: 0.53
+score: 8.46
 title: Sunshine Coast
-snippet: Queensland coastal region of surf beaches, rainforest hinterland, and low-rise towns north of Brisbane.
+snippet: Queensland coastal region of surf beaches, rainforest hinterland, and low-rise
+  towns north of Brisbane.
 type: location
+image: sunshinecoast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maroochydore_seen_across_South_Maroochy_River,_Queensland_01_(cropped).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chris Olszewski
 ---
 
 The Sunshine Coast stretches about 100 km along the Queensland coast north of Brisbane, from [Caloundra](/australiaandpacific/australia/queensland/sunshinecoast/caloundra) in the south to [Noosa](/australiaandpacific/australia/queensland/noosaheads) in the north. It is the quieter, less developed alternative to the Gold Coast — surf beaches, hinterland rainforest, and small towns that still feel like beach towns rather than resort strips.

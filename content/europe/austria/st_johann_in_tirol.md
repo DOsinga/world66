@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kath._Pfarrkirche_Mari%C3%
 latitude: 47.5224
 loc_type: city
 longitude: 12.4287
-score: 0.51
+score: 8.27
 snippet: Kitzbühel Alps market town offering a quieter base for skiing, hiking, and
   alpine rail travel.
 title: St. Johann in Tirol

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland
 latitude: -44.619019
 loc_type: feature
 longitude: 167.86876
-score: 0.79
+score: 9.84
 snippet: Fiordland fjord where sheer granite walls and rainforest plunge into dark
   South Island water.
 tags:

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coroico_113-114mod.jpg
 latitude: -16.1886
 loc_type: city
 longitude: -67.7275
-score: 0.46
+score: 7.88
 snippet: Yungas ridge town above the Amazon basin, with cloudforest trails and Afro-Bolivian
   communities nearby
 title: Coroico

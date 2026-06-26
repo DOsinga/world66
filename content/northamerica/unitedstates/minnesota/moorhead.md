@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/75683070@N00/44072000701
 latitude: 46.873908
 loc_type: city
 longitude: -96.753867
-score: 0.26
+score: 5.73
 snippet: Minnesota college town across the Red River from Fargo, with oxcart history
   and a recreated Viking ship.
 title: Moorhead

@@ -1,6 +1,12 @@
 ---
+image: al_fahidi.jpg
+image_attribution: Saaremees
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Arabian_Tea_House-Dubai_UAE-Andres_Larin.jpg
 latitude: 25.2634
 longitude: 55.2975
+snippet: Old Dubai's best-preserved district of coral-block houses and wind towers,
+  now an arts quarter
 tags:
 - things_to_do
 - neighbourhood

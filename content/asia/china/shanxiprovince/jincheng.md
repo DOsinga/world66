@@ -4,7 +4,7 @@ done:
 latitude: 35.49
 loc_type: city
 longitude: 112.85
-score: 0.27
+score: 5.86
 snippet: Southeastern Shanxi city near Taihang fortified villages and the Huangcheng
   Chancellor's Residence
 sources:

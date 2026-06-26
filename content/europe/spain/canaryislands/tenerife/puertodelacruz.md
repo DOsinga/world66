@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Puerto_de_la_Cruz,_T
 latitude: 28.4159
 loc_type: city
 longitude: -16.5533
-score: 0.56
+score: 8.76
 snippet: Northern Tenerife resort town with a Canarian old harbour below the Orotava
   valley and Mount Teide.
 title: Puerto de la Cruz

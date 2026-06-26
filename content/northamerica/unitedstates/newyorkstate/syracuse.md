@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_Statue_and
 latitude: 43.048122
 loc_type: city
 longitude: -76.147424
-score: 0.34
+score: 6.56
 snippet: Upstate New York university city known for lake-effect snow, salt history,
   and Syracuse University
 title: Syracuse

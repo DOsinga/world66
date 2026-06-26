@@ -5,7 +5,7 @@ done:
 latitude: 42.493662
 loc_type: city
 longitude: 27.472128
-score: 0.45
+score: 7.78
 snippet: Working Bulgarian Black Sea port set between wetlands, bird-rich lakes, and
   a compact old centre
 title: Burgas

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap_Cana_Marina_Dominican_
 latitude: 18.582
 loc_type: city
 longitude: -68.4055
-score: 0.61
+score: 9.05
 snippet: Dominican resort zone on the southeastern coast, known for long palm-lined
   beaches and calm reef-protected water.
 title: Punta Cana

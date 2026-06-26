@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelli.JPG
 latitude: 46.1922
 loc_type: city
 longitude: 9.0227
-score: 0.51
+score: 8.36
 snippet: Italian-speaking Swiss capital of Ticino, guarded by three medieval castles
   in an Alpine valley bottleneck
 sources:

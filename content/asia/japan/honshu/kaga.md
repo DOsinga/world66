@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7295874@N03/44969631994
 latitude: 36.302762
 loc_type: city
 longitude: 136.315116
-score: 0.44
+score: 7.73
 snippet: Ishikawa city on the Sea of Japan coast, known for the three historic Kaga
   Onsen hot-spring towns
 title: Kaga

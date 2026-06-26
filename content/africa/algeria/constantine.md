@@ -8,7 +8,7 @@ image_license: Public Domain
 latitude: 36.364164
 loc_type: city
 longitude: 6.608428
-score: 0.38
+score: 6.97
 title: Constantine
 type: location
 snippet: Eastern Algerian city set above the Rhumel Gorge, with bridges spanning its

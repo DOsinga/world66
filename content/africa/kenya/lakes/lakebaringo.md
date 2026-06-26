@@ -5,7 +5,7 @@ latitude: 0.618499
 longitude: 36.118288
 title: Lake Baringo
 type: location
-score: 0.45
+score: 7.81
 loc_type: feature
 snippet: Rift Valley freshwater lake with papyrus shores, island boat trips, and more
   than 450 recorded bird species.

@@ -5,7 +5,7 @@ done:
 latitude: 49.24338
 loc_type: city
 longitude: -122.972545
-score: 0.35
+score: 6.68
 title: Burnaby
 type: location
 snippet: Metro Vancouver city east of downtown, with mountain parks, lakes, and a

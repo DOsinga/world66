@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:03-OPERA_HOUSE.jpg
 latitude: 20.862328
 loc_type: city
 longitude: 106.679927
-score: 0.42
-snippet: Vietnamese port city near Hanoi, with French colonial boulevards and ferries toward Cat Ba.
+score: 7.46
+snippet: Vietnamese port city near Hanoi, with French colonial boulevards and ferries
+  toward Cat Ba.
 title: Haiphong
 type: location
 ---

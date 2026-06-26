@@ -5,7 +5,7 @@ done:
 latitude: 33.09082
 loc_type: city
 longitude: 75.32639
-score: 0.4
+score: 7.3
 snippet: Jammu and Kashmir hill station on a pine-ringed plateau above the Chenab
   valley.
 sources:

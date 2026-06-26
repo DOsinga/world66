@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Port_Royal_Jamaica.JP
 latitude: 17.9355
 loc_type: city
 longitude: -76.8424
-score: 0.43
+score: 7.62
 snippet: Kingston Harbour village built on pirate history, sunken earthquake ruins,
   and Fort Charles.
 title: Port Royal

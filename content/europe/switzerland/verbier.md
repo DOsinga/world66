@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Verbier,_Switzerland,_in_2
 latitude: 46.096101
 loc_type: city
 longitude: 7.228676
-score: 0.62
+score: 9.12
 snippet: High Valais ski resort on a sunny terrace above the Val de Bagnes and 4 Vallées
   terrain.
 title: Verbier

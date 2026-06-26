@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dolceacqua38_-_Panorama_de
 latitude: 43.850926
 loc_type: city
 longitude: 7.623636
-score: 0.51
+score: 8.32
 snippet: Medieval Ligurian village in the Nervia Valley, known for its Doria castle,
   stone lanes, and Monet-painted bridge.
 title: Dolceacqua

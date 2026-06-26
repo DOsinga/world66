@@ -2,7 +2,7 @@
 latitude: 32.1871
 loc_type: city
 longitude: -80.7307
-score: 0.49
+score: 8.13
 snippet: South Carolina barrier island known for Atlantic beaches, golf courses, and
   early ecological resort planning.
 title: Hilton Head Island

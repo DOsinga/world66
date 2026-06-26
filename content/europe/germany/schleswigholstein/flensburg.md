@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/184898381@N07/51202089775
 latitude: 54.783302
 loc_type: city
 longitude: 9.433326
-score: 0.41
+score: 7.32
 snippet: Baltic harbour town at Germany's Danish border, with a long Altstadt and
   Scandinavian edge.
 title: Flensburg

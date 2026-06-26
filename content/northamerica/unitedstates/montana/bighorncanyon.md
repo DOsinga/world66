@@ -4,7 +4,7 @@ done:
 latitude: 45.0886
 loc_type: feature
 longitude: -108.1915
-score: 0.44
+score: 7.66
 snippet: Montana-Wyoming recreation area where Bighorn Lake runs through a deep river
   canyon
 title: Bighorn Canyon

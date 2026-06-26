@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Astoria,_OR_from_the_Astor
 latitude: 46.188201
 loc_type: city
 longitude: -123.83198
-score: 0.46
+score: 7.83
 title: Astoria
 type: location
 snippet: Columbia River port city at Oregon's northwest tip, known for maritime history

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cannes_from_Suquet_Tower_0
 latitude: 43.55152
 loc_type: city
 longitude: 7.013442
-score: 0.64
+score: 9.23
 title: Cannes
 type: location
 snippet: French Riviera resort city built around La Croisette, the Film Festival,

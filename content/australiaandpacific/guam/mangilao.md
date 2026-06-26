@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:University_of_Guam_Campus.
 latitude: 13.443991
 loc_type: city
 longitude: 144.805053
-score: 0.34
+score: 6.57
 snippet: Guam village and university hub, home to Micronesia’s main campus and Chamorro
   research collections.
 title: Mangilao

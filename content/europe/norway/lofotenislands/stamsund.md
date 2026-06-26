@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stamsund_Hafen.jpg
 latitude: 68.130075
 loc_type: city
 longitude: 13.849229
-score: 0.52
+score: 8.44
 snippet: Lofoten fishing village on Vestvågøy, where Hurtigruten ships call beside
   rorbu cabins and theatre stages.
 title: Stamsund

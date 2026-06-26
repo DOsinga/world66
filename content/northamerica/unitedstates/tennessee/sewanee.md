@@ -5,7 +5,7 @@ done:
 latitude: 35.2006
 loc_type: city
 longitude: -85.9195
-score: 0.33
+score: 6.46
 snippet: Cumberland Plateau college community defined by the University of the South
   and its forested Domain.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 0.014
 loc_type: city
 longitude: 37.0746
-score: 0.43
+score: 7.63
 snippet: Equator-straddling Kenyan market town beneath Mount Kenya, used as a base
   for Sirimon treks.
 title: Nanyuki

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Encarnacionbeach.jpg
 latitude: -27.337611
 loc_type: city
 longitude: -55.866949
-score: 0.36
+score: 6.82
 snippet: Paraná River city facing Argentina, known for summer carnivals and nearby
   Jesuit mission ruins.
 title: Encarnacion

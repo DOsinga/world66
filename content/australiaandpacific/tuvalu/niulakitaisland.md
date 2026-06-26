@@ -4,7 +4,7 @@ done:
 latitude: -10.7905
 loc_type: city
 longitude: 179.4692
-score: 0.17
+score: 4.41
 snippet: Tuvalu's smallest and southernmost island, a raised coral speck settled by
   Niutao families.
 title: Niulakita island

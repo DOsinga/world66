@@ -6,7 +6,7 @@ done:
 latitude: 22.4947
 loc_type: city
 longitude: -79.5453
-score: 0.43
+score: 7.54
 title: Remedios
 type: location
 snippet: Colonial Cuban town founded in 1514, centered on a square with two facing

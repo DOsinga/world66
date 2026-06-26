@@ -4,9 +4,10 @@ done:
 latitude: 9.4696
 longitude: -83.5854
 title: San Gerardo de Rivas
-snippet: Talamanca mountain village and trailhead for Cerro Chirripó, Costa Rica's highest peak.
+snippet: Talamanca mountain village and trailhead for Cerro Chirripó, Costa Rica's
+  highest peak.
 type: location
-score: 0.45
+score: 7.82
 loc_type: city
 ---
 

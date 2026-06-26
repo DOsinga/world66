@@ -10,6 +10,10 @@ snippet: Gran Canaria resort at the island's southern tip, defined by dunes, lag
   and palm oasis.
 title: Maspalomas
 type: location
+image: maspalomas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Maspalomas_EM1B9180_(25894243208).jpg
+image_license: CC BY 2.0
+image_attribution: Bengt Nyman from Vaxholm, Sweden
 ---
 
 Maspalomas is the southernmost point of Gran Canaria and the centre of the island's main resort strip. The defining feature is the dune field: 250 hectares of golden sand blown into ridges and hollows, meeting a long beach at the sea's edge. Behind the dunes is a small freshwater lagoon and a palm oasis — a nature reserve surrounded by hotels.

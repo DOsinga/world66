@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Balneario_de_las_monjas_en
 latitude: 37.820004
 loc_type: city
 longitude: -0.786599
-score: 0.4
+score: 7.21
 snippet: Mar Menor resort town known for calm lagoon water, mud baths, and Spanish
   seaside routines.
 title: Lo Pagán

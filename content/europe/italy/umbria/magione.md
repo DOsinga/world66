@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_dei_Cavalieri_di_
 latitude: 43.1427
 loc_type: city
 longitude: 12.2035
-score: 0.4
+score: 7.24
 snippet: Umbrian lakeside town on Lake Trasimeno, named for its fortified Knights
   of Malta castle.
 sources:

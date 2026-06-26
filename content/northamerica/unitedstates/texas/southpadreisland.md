@@ -2,7 +2,7 @@
 latitude: 26.115
 loc_type: city
 longitude: -97.168
-score: 0.43
+score: 7.55
 snippet: Texas barrier-island beach resort on the Gulf, calmer outside its famous
   Spring Break rush.
 title: South Padre Island

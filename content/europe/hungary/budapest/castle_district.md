@@ -3,8 +3,8 @@ image: castle_district.jpg
 image_attribution: francisco.j.gonzalez on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/54752966@N06/7328188274
-latitude: 47.4961
-longitude: 19.0394
+latitude: 47.5008
+longitude: 19.0348
 tags:
 - things_to_do
 - neighbourhood

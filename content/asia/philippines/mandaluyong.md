@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Facade_of_San_Felipe_Neri_
 latitude: 14.577439
 loc_type: city
 longitude: 121.033897
-score: 0.25
+score: 5.65
 snippet: Metro Manila city between Makati and San Juan, dominated by malls, offices,
   and condominium towers
 title: Mandaluyong

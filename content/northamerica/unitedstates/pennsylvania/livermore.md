@@ -5,7 +5,7 @@ latitude: 41.244444
 longitude: -78.916667
 title: Livermore
 type: location
-score: 0.18
+score: 4.55
 loc_type: feature
 snippet: Allegheny National Forest ghost town where lumber-era foundations and cemetery
   stones remain along a hiking trail.

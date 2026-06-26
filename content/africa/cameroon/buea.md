@@ -2,7 +2,7 @@
 latitude: 4.1527
 loc_type: city
 longitude: 9.242
-score: 0.31
+score: 6.25
 snippet: Cameroonian city on Mount Cameroon's slopes, used as a base for summit treks.
 title: Buea
 type: location

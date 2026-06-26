@@ -4,7 +4,7 @@ done:
 latitude: -7.7805
 loc_type: feature
 longitude: 36.7279
-score: 0.45
+score: 7.79
 snippet: Highland forest national park in Tanzania, explored on foot rather than by
   jeep safari.
 title: Udzungwa National Park

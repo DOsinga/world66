@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Formerum.jpg
 latitude: 53.38918
 loc_type: city
 longitude: 5.305595
-score: 0.39
+score: 7.11
 snippet: Terschelling village centred on a working windmill and a shipwreck museum
   built from coastal salvage.
 title: Formerum

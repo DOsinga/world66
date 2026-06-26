@@ -5,7 +5,7 @@ done:
 latitude: 42.433
 loc_type: city
 longitude: -8.682
-score: 0.5
+score: 8.22
 snippet: Galician fishing village on the Ría de Pontevedra, lined with waterfront
   hórreos and cruceiros
 title: Combarro

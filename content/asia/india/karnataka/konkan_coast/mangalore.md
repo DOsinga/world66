@@ -4,7 +4,7 @@ done:
 latitude: 12.86981
 loc_type: city
 longitude: 74.843008
-score: 0.41
+score: 7.33
 snippet: Karnataka port city at the Netravati estuary, with spice-trade roots and
   terracotta-roofed neighbourhoods.
 title: Mangalore

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:57244-Shangri-La_(28273611
 latitude: 27.871702
 loc_type: city
 longitude: 99.83655
-score: 0.56
+score: 8.72
 title: Shangri-La
 type: location
 snippet: High Tibetan town in northwestern Yunnan, known for monasteries, prayer flags,

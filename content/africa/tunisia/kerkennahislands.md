@@ -10,7 +10,7 @@ loc_type: island
 longitude: 11.1833
 title: Kerkennah Islands
 type: location
-score: 0.4
+score: 7.22
 snippet: Flat Tunisian archipelago off Sfax, known for shallow seas and palm-frond
   charfia fishing traps.
 ---

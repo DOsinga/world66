@@ -5,8 +5,9 @@ done:
 latitude: 6.5004
 loc_type: city
 longitude: 124.8435
-score: 0.28
-snippet: Mindanao provincial city in South Cotabato, set in a fertile valley locals still call Marbel.
+score: 5.99
+snippet: Mindanao provincial city in South Cotabato, set in a fertile valley locals
+  still call Marbel.
 sources:
 - https://en.wikipedia.org/wiki/Koronadal
 - https://en.wikipedia.org/wiki/Soccsksargen

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:(Melilla)_Aterrizando_en_M
 latitude: 35.29187
 loc_type: city
 longitude: -2.940903
-score: 0.41
+score: 7.33
 snippet: Spanish autonomous city on Morocco's Mediterranean coast, known for its old
   citadel and Modernista architecture.
 sources:

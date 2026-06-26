@@ -5,13 +5,17 @@ done:
 latitude: -28.617207
 loc_type: city
 longitude: 29.031599
-score: 0.52
+score: 8.39
 snippet: High Drakensberg mountain region of basalt escarpments, Tugela Falls, and
   the Amphitheatre above Royal Natal
 sources:
 - https://en.wikipedia.org/wiki/Drakensberg
 title: Northern Drakensberg
 type: location
+image: northern_drakensberg.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_Drakensberg.jpg
+image_license: Public domain
+image_attribution: User:Bothar
 ---
 
 The Northern Drakensberg is the highest and most dramatic section of the Drakensberg range, rising to over 3,000m along the escarpment that forms the border between KwaZulu-Natal and the mountain kingdom of Lesotho. The Zulu name is Ukhahlamba — "Barrier of Spears." The basalt peaks divide the watershed: rain falling west flows towards the Atlantic, while on the eastern side it tumbles down frequently vertical slopes into KwaZulu-Natal, towards the Indian Ocean.

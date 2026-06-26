@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Lincoln_City,_United_State
 latitude: 44.961792
 loc_type: city
 longitude: -124.015952
-score: 0.4
+score: 7.3
 title: Lincoln City
-snippet: "Oregon coast beach town stretched along seven windy miles, known for hidden hand-blown glass floats."
+snippet: Oregon coast beach town stretched along seven windy miles, known for hidden
+  hand-blown glass floats.
 type: location
 ---
 

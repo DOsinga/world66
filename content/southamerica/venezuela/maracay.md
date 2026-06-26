@@ -2,7 +2,7 @@
 latitude: 10.2469
 loc_type: city
 longitude: -67.5958
-score: 0.21
+score: 4.95
 snippet: Industrial Aragua Valley city and base for trips toward Henri Pittier National
   Park.
 title: Maracay

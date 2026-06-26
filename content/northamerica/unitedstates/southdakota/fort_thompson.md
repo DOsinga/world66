@@ -5,7 +5,7 @@ done:
 latitude: 44.04623
 loc_type: city
 longitude: -99.409397
-score: 0.22
+score: 5.12
 title: Fort Thompson
 type: location
 image: fort_thompson.jpg

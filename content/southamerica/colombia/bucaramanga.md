@@ -5,7 +5,7 @@ done:
 latitude: 7.1197
 loc_type: city
 longitude: -73.1227
-score: 0.39
+score: 7.09
 snippet: Santander's Andean capital, known for green parks, regional food, and nearby
   Chicamocha Canyon.
 sources:

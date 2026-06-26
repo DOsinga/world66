@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mangyongdae_Children%27s_P
 latitude: 39.0108
 loc_type: city
 longitude: 125.654
-score: 0.03
+score: 1.05
 snippet: Pyongyang suburb preserved as Kim Il-sung's birthplace on the banks of the
   Taedong River.
 title: Mangyongdae

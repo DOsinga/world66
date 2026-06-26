@@ -11,9 +11,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Eilat,_Israel_-_panoramio_
 latitude: 29.5577
 loc_type: city
 longitude: 34.9519
-score: 0.53
+score: 8.52
 title: Eilat
-snippet: Red Sea resort city at Israel's southern tip, defined by desert scenery and accessible coral reefs.
+snippet: Red Sea resort city at Israel's southern tip, defined by desert scenery and
+  accessible coral reefs.
 type: location
 ---
 

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isafjordur.jpg
 latitude: 66.072692
 loc_type: city
 longitude: -23.119354
-score: 0.51
+score: 8.3
 snippet: Westfjords town on a narrow fjord spit, ringed by steep mountains and fishing
   harbours
 title: Isafjordur

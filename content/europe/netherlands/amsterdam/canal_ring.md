@@ -4,6 +4,9 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_(8697325011).jpg
 latitude: 52.3712
 longitude: 4.8882
+tags:
+- things_to_do
+- neighbourhood
 title: Canal Ring
 type: neighbourhood
 ---

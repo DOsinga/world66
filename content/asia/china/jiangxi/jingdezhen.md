@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porcelain_Workshop,_Jingde
 latitude: 29.290049
 loc_type: city
 longitude: 117.202549
-score: 0.42
+score: 7.46
 snippet: Chinese porcelain city whose kilns supplied emperors and made blue-and-white
   china famous worldwide
 title: Jingdezhen

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Spotorno.jpg
 latitude: 44.227257
 loc_type: city
 longitude: 8.419177
-score: 0.46
+score: 7.87
 snippet: Ligurian Riviera seaside town with a sandy beach, colourful lanes, and views
   toward protected Bergeggi Island.
 title: Spotorno

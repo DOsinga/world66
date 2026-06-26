@@ -2,7 +2,7 @@
 latitude: 57.8614
 loc_type: city
 longitude: 25.0547
-score: 0.31
+score: 6.26
 snippet: Small northern Latvian town on the Salaca River, surrounded by pine forest
   and sandstone banks.
 title: Mazsalaca

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mairie_du_Carbet.JPG
 latitude: 14.7167
 loc_type: city
 longitude: -61.1833
-score: 0.46
+score: 7.91
 snippet: Small Martinique coastal town below Mont Pelée, with dark-sand beaches and
   early colonial landmarks.
 title: Le Carbet

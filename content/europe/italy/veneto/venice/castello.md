@@ -2,10 +2,14 @@
 title: Castello
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 latitude: 45.4368
-longitude: 12.3490
+longitude: 12.349
+image: castello.jpg
+image_source: https://www.flickr.com/photos/125601701@N03/52268578993
+image_license: CC BY-SA 2.0
+image_attribution: Herve S, France on Flickr
 ---
 
 Castello is the largest sestiere in Venice, stretching east from San Marco to the tip of the island. It contains the Arsenale, Santi Giovanni e Paolo (San Zanipolo), and the Biennale gardens (Giardini), as well as Via Garibaldi, the widest street in Venice and one of the few places in the city centre that functions as a genuine neighbourhood high street.

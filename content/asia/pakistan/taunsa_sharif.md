@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taunsa.jpg
 latitude: 30.7026
 loc_type: city
 longitude: 70.6511
-score: 0.18
+score: 4.5
 snippet: Punjab pilgrimage town where a Sufi shrine stands near the Indus-side Taunsa
   Barrage wetland
 title: Taunsa Sharif

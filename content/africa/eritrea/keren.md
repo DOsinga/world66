@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keren,_Eritrea,_2024.jpg
 latitude: 15.7805
 loc_type: city
 longitude: 38.4536
-score: 0.26
+score: 5.72
 snippet: Eritrean market city in a bowl of rocky hills, known for its mixed communities
   and camel market.
 title: Keren

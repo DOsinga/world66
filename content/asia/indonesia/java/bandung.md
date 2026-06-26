@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cekungan_Bandung.jpg
 latitude: -6.9218
 loc_type: city
 longitude: 107.6071
-score: 0.46
+score: 7.86
 title: Bandung
 type: location
 snippet: West Java highland city ringed by volcanoes, known for cool air and Dutch

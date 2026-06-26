@@ -2,7 +2,7 @@
 latitude: 4.869
 loc_type: city
 longitude: -75.6201
-score: 0.41
+score: 7.41
 snippet: Colombian coffee-zone city in Risaralda, known for mountain hot springs outside
   town
 title: Santa Rosa de Cabal

@@ -3,7 +3,7 @@ country: India
 latitude: 33.4639
 loc_type: city
 longitude: 76.8786
-score: 0.42
+score: 7.52
 snippet: Remote Zanskar valley town and trekking base, set where the Stod and Lungnak
   rivers meet
 title: Padum

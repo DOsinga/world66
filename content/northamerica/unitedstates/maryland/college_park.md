@@ -2,7 +2,7 @@
 latitude: 38.9807
 loc_type: city
 longitude: -76.9369
-score: 0.27
+score: 5.85
 snippet: Maryland university city with aviation history beside Washington D.C.'s Metro
   corridor.
 title: College Park

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/37583176@N00/4351134728
 latitude: 29.105986
 loc_type: city
 longitude: 58.356566
-score: 0.32
+score: 6.42
 title: Bam
 type: location
 snippet: Desert oasis city known for Arg-e Bam, a vast mud-brick citadel slowly rebuilt

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazu_Temple.jpg
 latitude: 25.1
 loc_type: feature
 longitude: 119.1
-score: 0.35
+score: 6.73
 snippet: Fujian island pilgrimage site, revered as Mazu’s birthplace and home to her
   mother temple.
 sources:

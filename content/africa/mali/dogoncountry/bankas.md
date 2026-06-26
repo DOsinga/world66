@@ -5,7 +5,7 @@ done:
 latitude: 14.0786
 loc_type: city
 longitude: -3.5187
-score: 0.36
+score: 6.78
 title: Bankas
 type: location
 snippet: Small Malian town at the southern Bandiagara Escarpment, starting point for

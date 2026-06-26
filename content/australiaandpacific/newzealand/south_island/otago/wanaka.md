@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LakeWanakaNov262024_01.jpg
 latitude: -44.6942
 loc_type: city
 longitude: 169.1365
-score: 0.62
+score: 9.12
 snippet: Lakeside Otago resort town below alpine peaks, quieter than Queenstown but
   close to ski fields and trails.
 title: Wanaka

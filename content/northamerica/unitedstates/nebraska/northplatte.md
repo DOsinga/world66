@@ -5,7 +5,7 @@ done:
 latitude: 41.136833
 loc_type: city
 longitude: -100.761282
-score: 0.27
+score: 5.86
 snippet: Western Nebraska rail and ranching city tied to pioneer trails and Buffalo
   Bill Cody.
 title: North Platte

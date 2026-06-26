@@ -8,9 +8,10 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:(Castillo_de_la_Muela)_Consuegra_(cropped).jpg
 latitude: 39.460918
 loc_type: city
-snippet: Castilla-La Mancha town where white windmills and a Moorish castle crown a Don Quixote ridge.
+snippet: Castilla-La Mancha town where white windmills and a Moorish castle crown
+  a Don Quixote ridge.
 longitude: -3.607079
-score: 0.5
+score: 8.18
 title: Consuegra
 type: location
 ---

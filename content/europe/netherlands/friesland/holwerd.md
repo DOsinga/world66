@@ -5,7 +5,7 @@ done:
 latitude: 53.36842
 loc_type: city
 longitude: 5.9051
-score: 0.34
+score: 6.6
 sources:
 - https://en.wikipedia.org/wiki/Holwerd
 title: Holwerd

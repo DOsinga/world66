@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corpus_Christi_in_%C5%81ow
 latitude: 52.101224
 loc_type: city
 longitude: 19.947461
-score: 0.34
+score: 6.65
 snippet: Polish folk town between Warsaw and Łódź, known for striped costumes and
   flower-strewn Corpus Christi processions
 title: Lowicz

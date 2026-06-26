@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-01-03-vasteras-cathed
 latitude: 59.611
 loc_type: city
 longitude: 16.5464
-score: 0.39
+score: 7.12
 snippet: Swedish lakeside city on Mälaren, mixing Viking roots, medieval churches,
   and modern industrial heritage
 title: Västerås

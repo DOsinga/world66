@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autour_du_Monast%C3%A8re_z
 latitude: 32.2049
 loc_type: city
 longitude: 96.4804
-score: 0.33
+score: 6.55
 snippet: High-altitude Tibetan Plateau town in southern Qinghai, surrounded by river
   gorges, grasslands, and Kagyu Buddhist monasteries.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Yachats,_OR_-_looking_towa
 latitude: 44.312756
 loc_type: city
 longitude: -124.104999
-score: 0.45
+score: 7.75
 snippet: Tiny Oregon Coast town between surf and forested headlands, with tidepools
   at the edge of town
 title: Yachats

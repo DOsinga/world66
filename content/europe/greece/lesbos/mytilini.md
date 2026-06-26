@@ -5,7 +5,7 @@ done:
 latitude: 39.103735
 loc_type: city
 longitude: 26.554788
-score: 0.5
+score: 8.22
 snippet: Lesbos port capital of ancient harbours, a hilltop castle, and layered Greek
   and Ottoman history
 sources:

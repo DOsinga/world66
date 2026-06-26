@@ -5,7 +5,7 @@ done:
 latitude: 28.8106
 loc_type: city
 longitude: -81.8773
-score: 0.27
+score: 5.85
 snippet: Central Florida lake city between Lake Harris and Lake Griffin, known for
   boating, fishing, and Bikefest.
 sources:

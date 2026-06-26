@@ -4,7 +4,7 @@ done:
 latitude: 32.0633
 loc_type: city
 longitude: 12.5271
-score: 0.18
+score: 4.47
 snippet: Amazigh mountain town in Libya's Nafusa range, used for viewpoints, older
   villages, and fortified granaries.
 sources:

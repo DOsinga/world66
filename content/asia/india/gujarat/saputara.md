@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Saputara.jpg
 latitude: 20.579669
 loc_type: city
 longitude: 73.747888
-score: 0.37
+score: 6.94
 title: Saputara
 type: location
 snippet: Gujarat hill station on a Sahyadri plateau, named for a local serpent shrine.

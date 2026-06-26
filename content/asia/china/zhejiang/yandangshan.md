@@ -4,7 +4,7 @@ done:
 latitude: 28.3667
 loc_type: feature
 longitude: 121.1167
-score: 0.46
+score: 7.92
 snippet: Southern Zhejiang mountain geopark of volcanic peaks, basalt cliffs, waterfalls,
   and cave-side temples.
 sources:

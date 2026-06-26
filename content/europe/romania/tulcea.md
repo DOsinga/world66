@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Factory_near_Tulcea,_Roman
 latitude: 45.1775
 loc_type: city
 longitude: 28.8016
-score: 0.41
+score: 7.41
 title: Tulcea
 type: location
 snippet: Danube port city and practical gateway to the pelicans, reed islands, and

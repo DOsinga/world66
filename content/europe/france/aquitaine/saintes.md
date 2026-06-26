@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saintes_amphitheatre.jpg
 latitude: 45.7460838
 loc_type: city
 longitude: -0.6323501
-score: 0.49
+score: 8.11
 snippet: Charente river town layered with Roman ruins and Saintonge's white-limestone
   Romanesque churches.
 sources:

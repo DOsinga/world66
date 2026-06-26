@@ -4,7 +4,7 @@ done:
 latitude: 10.2803
 loc_type: city
 longitude: -61.4681
-score: 0.35
+score: 6.74
 snippet: Southern Trinidad city on the Gulf of Paria, shaped by oil industry and Carnival
   pride
 sources:

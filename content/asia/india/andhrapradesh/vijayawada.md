@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bapu_museum_18.jpg
 latitude: 16.5062
 loc_type: city
 longitude: 80.648
-score: 0.32
+score: 6.36
 snippet: Busy Krishna River city and railway junction, squeezed between granite hills
   and delta plains.
 title: Vijayawada

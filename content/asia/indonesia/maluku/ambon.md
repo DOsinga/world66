@@ -5,7 +5,7 @@ done:
 latitude: -3.695943
 loc_type: city
 longitude: 128.178785
-score: 0.4
+score: 7.2
 snippet: Maluku gateway city on Ambon Island, marked by spice-trade forts and bay-side
   diving.
 title: Ambon

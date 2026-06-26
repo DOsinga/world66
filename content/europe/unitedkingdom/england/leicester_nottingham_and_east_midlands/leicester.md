@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:King_Richard_III_Visitor_C
 latitude: 52.6362
 loc_type: city
 longitude: -1.1332
-score: 0.37
+score: 6.87
 snippet: Midlands city with Roman roots, South Asian street life, and Richard III's
   rediscovered grave beneath its centre.
 title: Leicester

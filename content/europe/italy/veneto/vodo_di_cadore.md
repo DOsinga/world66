@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chiesa_di_Santa_Lucia_(Vod
 latitude: 46.4167
 loc_type: city
 longitude: 12.25
-score: 0.44
+score: 7.72
 snippet: Small Cadore mountain village between Antelao and Pelmo, positioned for Dolomite
   ridge walks and pass roads.
 sources:

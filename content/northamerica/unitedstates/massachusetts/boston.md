@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Acorn_Street,_Boston,_Unit
 latitude: 42.3589
 loc_type: city
 longitude: -71.0568
-score: 0.61
+score: 9.08
 snippet: Compact New England city of Revolutionary sites, universities, old neighbourhoods,
   and waterfront culture
 title: Boston

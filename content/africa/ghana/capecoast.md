@@ -5,7 +5,7 @@ done:
 latitude: 5.107467
 loc_type: city
 longitude: -1.243079
-score: 0.45
+score: 7.82
 snippet: Ghanaian coastal city dominated by Cape Coast Castle and the painful Atlantic
   slave-trade history it preserves.
 title: Cape Coast

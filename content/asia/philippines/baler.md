@@ -5,7 +5,7 @@ done:
 latitude: 15.759086
 loc_type: city
 longitude: 121.562725
-score: 0.43
+score: 7.62
 snippet: Pacific coast surf town in Aurora, backed by the Sierra Madre and Sabang
   Beach waves.
 title: Baler

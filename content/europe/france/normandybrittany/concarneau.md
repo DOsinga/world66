@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Concarneau.-_CC_4119_Hemer
 latitude: 47.8725911
 loc_type: city
 longitude: -3.9165685
-score: 0.52
+score: 8.41
 snippet: Breton fishing port wrapped around the Ville Close, a medieval walled town
   in the harbour
 sources:

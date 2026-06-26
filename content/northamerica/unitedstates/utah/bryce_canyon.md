@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Su
 latitude: 37.618407
 loc_type: feature
 longitude: -112.142179
-score: 0.72
+score: 9.49
 snippet: Southern Utah national park of eroded amphitheatres and red-orange hoodoos
   along the Colorado Plateau rim
 title: Bryce Canyon

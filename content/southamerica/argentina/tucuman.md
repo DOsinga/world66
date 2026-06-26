@@ -9,7 +9,7 @@ image_source: https://live.staticflickr.com/3442/3221333230_e587260101_b.jpg
 latitude: -26.8333
 loc_type: city
 longitude: -65.2038
-score: 0.38
+score: 6.99
 snippet: Northwest Argentine city where independence was declared, set amid subtropical
   hills and empanada culture
 title: Tucuman

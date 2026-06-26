@@ -9,8 +9,9 @@ type: location
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Contadora_Island
-score: 0.46
-snippet: "Contadora is the most developed island in Panama’s Perlas Archipelago, historically linked to pearl trade."
+score: 7.88
+snippet: Contadora is the most developed island in Panama’s Perlas Archipelago, historically
+  linked to pearl trade.
 ---
 
 Contadora is the most developed island in the Perlas Archipelago, a scattered group of islands in the Gulf of Panama about 70 km from Panama City. Its name comes from the old pearl trade — this was where [pearls from the archipelago were counted before export](/northamerica/panama/contadora/things_to_do/pearl_counting_station). Later the island became a retreat for the wealthy, and in 1979 it briefly served as refuge for the deposed Shah of Iran — an episode that triggered the Iran hostage crisis. In the early 1980s, diplomats from four Latin American nations met here to begin [the peace process](/northamerica/panama/contadora/things_to_do/contadora_peace_process) that would help end Central America's civil wars. Today it is a popular weekend escape from the capital and a growing draw for international visitors.

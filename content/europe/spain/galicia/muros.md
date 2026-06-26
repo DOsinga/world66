@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muros.Galiza.04-2008.jpg
 latitude: 42.774411
 loc_type: city
 longitude: -9.057535
-score: 0.44
+score: 7.68
 snippet: Small Galician fishing town on the Ría de Muros e Noia, with arcades and
   a working harbour.
 title: Muros

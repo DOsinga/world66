@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2017-05-05-PrinceGeorge.jp
 latitude: 53.912864
 loc_type: city
 longitude: -122.74537
-score: 0.31
+score: 6.25
 snippet: Northern British Columbia city at the Fraser-Nechako confluence, serving
   a vast forested interior
 sources:

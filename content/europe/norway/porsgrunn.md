@@ -4,7 +4,7 @@ done:
 latitude: 59.1037
 loc_type: city
 longitude: 9.7364
-score: 0.35
+score: 6.73
 title: Porsgrunn
 type: location
 snippet: Small Telemark industrial city known for Norway's surviving porcelain factory

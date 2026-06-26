@@ -14,7 +14,7 @@ image: elmerj.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Al_Marj,_Libya.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Smiley.toerist
-score: 0.18
+score: 4.53
 snippet: Jebel Akhdar city rebuilt after an earthquake, with ancient Barca beneath
   its quiet modern surface.
 ---

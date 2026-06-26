@@ -5,7 +5,7 @@ done:
 latitude: -20.241354
 loc_type: city
 longitude: 57.474408
-score: 0.39
+score: 7.18
 snippet: Central plateau town merged with Beau Bassin, serving as a Mauritian residential
   and commercial centre.
 title: Rose-Hill

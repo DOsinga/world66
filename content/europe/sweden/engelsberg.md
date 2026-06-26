@@ -5,7 +5,7 @@ latitude: 59.958954
 longitude: 16.010719
 title: Engelsberg
 type: location
-score: 0.33
+score: 6.47
 loc_type: city
 snippet: Swedish ironworks village in Bergslagen with an unusually intact preserved
   industrial complex.

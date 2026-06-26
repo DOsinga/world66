@@ -5,7 +5,7 @@ done:
 latitude: 36.216389
 loc_type: city
 longitude: -81.674444
-score: 0.43
+score: 7.61
 title: Boone
 type: location
 snippet: Blue Ridge mountain town in North Carolina, home to Appalachian State University

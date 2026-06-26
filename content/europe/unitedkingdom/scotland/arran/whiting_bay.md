@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Whiting_Bay,_Arran.jpg
 latitude: 55.489834
 loc_type: city
 longitude: -5.094937
-score: 0.4
+score: 7.25
 snippet: Quiet Arran village on a sandy bay, with walks to Glenashdale Falls above
   the shore
 title: Whiting Bay

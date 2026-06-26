@@ -4,7 +4,7 @@ done:
 latitude: 57.299892
 loc_type: feature
 longitude: 25.079247
-score: 0.44
+score: 7.72
 snippet: Forested Latvian national park where the Gauja River cuts past sandstone
   cliffs, caves, and medieval castles.
 title: Gauja National Park

@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/17279863@N05/34668357806
 latitude: 40.7511
 loc_type: city
 longitude: 21.0999
-score: 0.46
+score: 7.9
 snippet: High Balkan lake region where Greece, Albania, and North Macedonia meet amid
   pelicans and Byzantine remains
 title: Prespa

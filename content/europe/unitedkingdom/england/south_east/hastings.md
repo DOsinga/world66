@@ -5,7 +5,7 @@ done:
 latitude: 50.855098
 loc_type: city
 longitude: 0.582178
-score: 0.41
+score: 7.4
 snippet: Sussex seaside town with steep Old Town lanes, working fishing beach, and
   1066 history nearby.
 title: Hastings

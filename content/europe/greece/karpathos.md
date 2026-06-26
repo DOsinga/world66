@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Karpathos_Menetes_Pigadia_
 latitude: 35.613661
 loc_type: city
 longitude: 27.119257
-score: 0.57
+score: 8.82
 snippet: Rugged Dodecanese island between Rhodes and Crete, split between beach resorts
   and traditional mountain villages
 sources:

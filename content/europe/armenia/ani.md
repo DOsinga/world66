@@ -4,7 +4,7 @@ done:
 latitude: 40.5075
 loc_type: feature
 longitude: 43.5728
-score: 0.5
+score: 8.22
 snippet: Medieval Armenian capital near the Turkish border, famed as the city of a
   thousand and one churches.
 title: Ani

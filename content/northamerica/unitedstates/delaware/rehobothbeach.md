@@ -11,7 +11,7 @@ loc_type: city
 snippet: Delaware beach town with a mile-long boardwalk, Atlantic sand, and Washington
   summer-crowd traditions
 longitude: -75.083511
-score: 0.43
+score: 7.6
 title: Rehoboth Beach
 type: location
 ---

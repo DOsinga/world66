@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rosses_Point_.jpg
 latitude: 54.305943
 loc_type: city
 longitude: -8.558944
-score: 0.43
+score: 7.6
 snippet: Sligo Bay seaside village with beaches, links golf, Yeats Country views,
   and a tidal Coney Island.
 title: Rosses Point

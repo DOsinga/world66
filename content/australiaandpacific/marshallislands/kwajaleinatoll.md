@@ -6,7 +6,7 @@ latitude: 9.160464
 longitude: 167.079554
 title: Kwajalein Atoll
 type: location
-score: 0.33
+score: 6.44
 loc_type: city
 snippet: Marshall Islands coral atoll with the world's largest lagoon and a US missile-testing
   base.

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilkenny_castle_2.jpg
 latitude: 52.650625
 loc_type: city
 longitude: -7.251444
-score: 0.55
+score: 8.69
 snippet: Compact medieval Irish city with Kilkenny Castle, limestone lanes, ancient
   churches, and the Medieval Mile.
 title: Kilkenny
@@ -19,7 +19,7 @@ type: location
 
 Kilkenny is Ireland's most beautifully preserved medieval city — compact enough to walk end to end in twenty minutes, but rich enough to keep you for several days. Narrow lanes of limestone buildings, a great Anglo-Norman castle, a round tower you can climb, and a string of ancient churches and abbeys make it one of the most satisfying cities to explore on foot anywhere in Ireland.
 
-The medieval core runs along what is called the [Medieval Mile](/europe/ireland/kilkenny/walk) — a kilometre of history between [Kilkenny Castle](/europe/ireland/kilkenny/thecatsle) at the south end and [St Canice's Cathedral](/europe/ireland/kilkenny/st_canices_cathedral) at the north. Between the two are [Rothe House](/europe/ireland/kilkenny/rothe_house), a 16th-century merchant's townhouse with a garden, the [Black Abbey](/europe/ireland/kilkenny/black_abbey), and the Tholsel — the old city hall with its distinctive octagonal clock tower. The Medieval Mile Museum, in St Mary's Church on James's Street, covers the whole sweep of the city's history in beautifully restored surroundings.
+The medieval core runs along what is called the [Medieval Mile](/europe/ireland/kilkenny/walk) — a kilometre of history between [Kilkenny Castle](/europe/ireland/kilkenny/thecatsle) at the south end and [St Canice's Cathedral](/europe/ireland/kilkenny/st_canices_cathedral) at the north. Between the two are [Rothe House](/europe/ireland/kilkenny/rothe_house), a 16th-century merchant's townhouse with a garden, the [Black Abbey](/europe/ireland/kilkenny/black_abbey), and [the Tholsel](/europe/ireland/kilkenny/tholsel) — the old city hall with its distinctive octagonal clock tower. The Medieval Mile Museum, in St Mary's Church on James's Street, covers the whole sweep of the city's history in beautifully restored surroundings.
 
 Kilkenny has excellent craft and design traditions. The Kilkenny Design Centre, across the street from the castle, is one of the best shops in Ireland for ceramics, glass, textiles, and jewellery made by Irish makers. The Jerpoint Glass studio, south of the city, is where you can watch the glassblowers at work.
 

@@ -11,7 +11,7 @@ loc_type: city
 snippet: Cornwall's only city, set on a tidal river and anchored by a three-spired
   cathedral
 longitude: -5.051078
-score: 0.45
+score: 7.82
 sources:
 - https://en.wikipedia.org/wiki/Truro
 - https://en.wikipedia.org/wiki/Truro_Cathedral

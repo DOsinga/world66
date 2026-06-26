@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boat_hanger_near_Chirala_b
 latitude: 15.836152
 loc_type: city
 longitude: 80.363664
-score: 0.25
+score: 5.68
 snippet: Andhra Pradesh weaving town on the Bay of Bengal, known for Chirala sarees
   and fishing beaches
 sources:

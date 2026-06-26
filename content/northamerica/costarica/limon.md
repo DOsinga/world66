@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_Uvita._Lim%C3%B3n._Co
 latitude: 9.9907
 loc_type: city
 longitude: -83.036
-score: 0.41
+score: 7.33
 snippet: Costa Rican Caribbean province with Afro-Caribbean culture, Creole speech,
   coconut cooking, and port-town history.
 title: Limon

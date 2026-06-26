@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Marsala,_Sicily._Saline.jp
 latitude: 37.7979
 loc_type: city
 longitude: 12.4342
-score: 0.53
+score: 8.5
 title: Marsala
-snippet: Western Sicilian port city known for fortified Marsala wine and Garibaldi's 1860 landing.
+snippet: Western Sicilian port city known for fortified Marsala wine and Garibaldi's
+  1860 landing.
 type: location
 ---
 

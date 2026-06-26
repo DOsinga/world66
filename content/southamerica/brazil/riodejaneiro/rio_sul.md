@@ -4,13 +4,14 @@ done:
   poi_cleanup: '2026-04-19'
 latitude: -22.957246
 longitude: -43.176255
+score: 3.4
 snippet: Major Botafogo shopping mall near Copacabana tunnel
 tags:
 - shopping
 - shop
+- botafogo
 title: Rio Sul
 type: poi
-score: 3.4
 ---
 
 Rio Sul is one of Rio de Janeiro's most established shopping malls, sitting at the foot of Botafogo near the tunnel entrance to Copacabana. The mall has a wide range of shops across several floors — Brazilian fashion brands, electronics, a food court, and a cinema.

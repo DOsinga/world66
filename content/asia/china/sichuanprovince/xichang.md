@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_Xichang_Qionghai_Lake.j
 latitude: 27.89
 loc_type: city
 longitude: 102.26
-score: 0.36
+score: 6.78
 snippet: Sunny Yi city in southern Sichuan, known for clear nights and China's nearby
   satellite launch centre.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dragon_Bridge,_Da_Nang_dur
 latitude: 16.068
 loc_type: city
 longitude: 108.212
-score: 0.55
+score: 8.68
 title: Da Nang
 type: location
 snippet: Central Vietnamese coastal city where a broad bay, Marble Mountains, and

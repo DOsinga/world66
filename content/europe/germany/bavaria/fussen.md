@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:F%C3%BCssen_-.JPG
 latitude: 47.5676
 loc_type: city
 longitude: 10.6993
-score: 0.63
+score: 9.17
 title: Füssen
 type: location
 snippet: Bavarian Alpine town near Neuschwanstein, marking the southern end of the

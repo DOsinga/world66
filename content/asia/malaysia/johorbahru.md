@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_C
 latitude: 1.458199
 loc_type: city
 longitude: 103.764906
-score: 0.41
+score: 7.31
 snippet: Johor state capital at the Malay Peninsula's tip, connected to Singapore
   but rich in palace and food culture.
 title: Johor Bahru

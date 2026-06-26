@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Lake_Wales,
 latitude: 27.901413
 loc_type: city
 longitude: -81.58591
-score: 0.31
+score: 6.21
 snippet: Central Florida town among citrus groves and lakes, best known for Bok Tower
   Gardens.
 title: Lake Wales

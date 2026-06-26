@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Deer_-_Aerial_-_downto
 latitude: 52.269063
 loc_type: city
 longitude: -113.814146
-score: 0.3
+score: 6.18
 snippet: Central Alberta city between Calgary and Edmonton, with river-valley trails
   and a historic downtown.
 title: Red Deer

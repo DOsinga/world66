@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:140828_Otoko-no-namida_Shi
 latitude: 44.0967
 loc_type: feature
 longitude: 145.1533
-score: 0.57
+score: 8.79
 snippet: Wild Hokkaido peninsula where volcanic ridges meet drift ice and Japan's
   densest brown-bear country.
 sources:

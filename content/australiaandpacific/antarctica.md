@@ -4,7 +4,9 @@ image_attribution: <a rel="nofollow" class="external text" href="https://www.fli
   Quinn</a> from Canada
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Lemaire_Channel,_Antarctica.jpg
+latitude: -82.8628
 loc_type: country
+longitude: 135.0
 quick_facts:
   Coldest Recorded Temperature: -89.2 C
   Ice Sheet Thickness: Up to 4 km

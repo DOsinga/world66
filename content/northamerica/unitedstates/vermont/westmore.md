@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Willoughby,_Westmore,
 latitude: 44.77112
 loc_type: city
 longitude: -72.054872
-score: 0.36
+score: 6.82
 title: Westmore
 type: location
 snippet: Tiny Vermont lake town beneath Mount Pisgah cliffs, focused on Lake Willoughby's

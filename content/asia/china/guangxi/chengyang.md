@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chengyang_Yongji_Bridge,_G
 latitude: 25.9059
 loc_type: city
 longitude: 109.643
-score: 0.46
+score: 7.83
 snippet: Dong minority village cluster in northern Guangxi, centred on a celebrated
   wind-and-rain bridge.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Partial_View_of_North-East
 latitude: 25.098265
 loc_type: city
 longitude: 94.363167
-score: 0.28
+score: 5.99
 snippet: Manipur hill station and Tangkhul Naga centre, known for forested ridges
   and the rare Shirui lily.
 title: Ukhrul

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_1131_Picton_-_Neuseelan
 latitude: -41.2928
 loc_type: city
 longitude: 174.0058
-score: 0.5
+score: 8.18
 snippet: Small ferry port on Queen Charlotte Sound, gateway to the Marlborough Sounds
   and coastal tracks.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chungli_Branch,_Bank_of_Ta
 latitude: 24.954964
 loc_type: city
 longitude: 121.236332
-score: 0.3
+score: 6.13
 snippet: Taoyuan city near Taipei, distinguished by Southeast Asian market streets
   around Zhongli railway station.
 title: Zhongli

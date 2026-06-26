@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pingyao-oldtown.jpg
 latitude: 37.189293
 loc_type: city
 longitude: 112.169624
-score: 0.58
+score: 8.84
 snippet: Shanxi walled city whose Ming-era old town preserves historic banks, courtyards,
   and defensive walls.
 title: Pingyao

@@ -9,6 +9,10 @@ snippet: Scottish island archipelago north of the mainland, noted for dense Neol
   remains on Mainland.
 title: Orkney
 type: location
+image: orkneys.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Sands_of_Evie,_a_beach_near_Stenso,_Mainland,_Orkney.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Matthew Prior
 ---
 
 Orkney is an archipelago of about seventy islands off the north coast of Scotland, separated from the mainland by the Pentland Firth. Only about twenty are inhabited, and most visitors stick to Mainland, the largest island, where the two towns — [Kirkwall](/europe/unitedkingdom/scotland/orkneys/kirkwall) and Stromness — sit on opposite coasts.

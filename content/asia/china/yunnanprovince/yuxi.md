@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%8E%89%E6%BA%AA%E7%AA%9
 latitude: 24.354
 loc_type: city
 longitude: 102.54
-score: 0.34
+score: 6.64
 snippet: Southeastern Yunnan plateau city, birthplace of national-anthem composer
   Nie Er and gateway to Fuxian Lake
 sources:

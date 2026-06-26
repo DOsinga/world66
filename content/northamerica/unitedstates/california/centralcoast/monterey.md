@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_School,_Mon
 latitude: 36.6002
 loc_type: city
 longitude: -121.8947
-score: 0.59
+score: 8.93
 snippet: Central California coastal town where Spanish-colonial adobes and Cannery
   Row frame Monterey Bay's marine life.
 title: Monterey

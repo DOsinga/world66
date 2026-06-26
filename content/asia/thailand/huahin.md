@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hua_Hin_hotels.jpg
 latitude: 12.569933
 loc_type: city
 longitude: 99.957344
-score: 0.56
+score: 8.72
 snippet: Thai beach resort with royal roots and a railway-era character on the Gulf
   coast.
 title: Hua Hin

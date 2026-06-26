@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2017_Mountain_States_-_Enn
 latitude: 45.349
 loc_type: city
 longitude: -111.729
-score: 0.37
+score: 6.88
 snippet: Madison Valley ranch town on a celebrated trout river, backed by southwestern
   Montana mountain ranges.
 title: Ennis

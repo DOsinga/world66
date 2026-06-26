@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_de_F%C3%A1t
 latitude: 39.62555
 loc_type: city
 longitude: -8.665908
-score: 0.49
+score: 8.14
 snippet: Central Portuguese pilgrimage town built around the vast Sanctuary of Fátima
   and its 1917 apparitions
 sources:

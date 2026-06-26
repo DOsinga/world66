@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20260131_Yunlong_Lake_in_X
 latitude: 34.26
 loc_type: city
 longitude: 117.21
-score: 0.32
+score: 6.33
 snippet: Northern Jiangsu rail city with deep Han Dynasty heritage and tombs around
   its older neighbourhoods
 sources:

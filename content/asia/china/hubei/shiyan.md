@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Danjiangkou,_Shiyan,_Hubei
 latitude: 32.6333
 loc_type: city
 longitude: 110.8
-score: 0.28
+score: 5.95
 snippet: Industrial Hubei city built around Dongfeng Motor Corporation and used as
   a gateway to the Wudang Mountains.
 sources:

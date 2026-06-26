@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Merced_Theatre.JPG
 latitude: 37.164154
 loc_type: city
 longitude: -120.76786
-score: 0.26
+score: 5.81
 snippet: Central Valley city and Yosemite gateway, also home to UC Merced and nearby
   wetlands.
 title: Merced

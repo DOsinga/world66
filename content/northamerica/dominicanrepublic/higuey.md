@@ -4,7 +4,7 @@ done:
 latitude: 18.6152
 loc_type: city
 longitude: -68.7078
-score: 0.35
+score: 6.74
 snippet: Eastern Dominican city centred on the Basílica de Nuestra Señora de la Altagracia
   pilgrimage site.
 title: Higüey

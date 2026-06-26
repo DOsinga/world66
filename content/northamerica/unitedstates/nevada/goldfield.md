@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Esmeralda_County,_Nevada_c
 latitude: 37.7083
 loc_type: city
 longitude: -117.2356
-score: 0.3
+score: 6.14
 snippet: Nevada boomtown where grand stone buildings outlast the gold rush on a desert
   main street.
 title: Goldfield

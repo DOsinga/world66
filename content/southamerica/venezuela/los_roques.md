@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gran_Roque_from_plane.jpg
 latitude: 11.838289
 loc_type: city
 longitude: -66.639117
-score: 0.55
+score: 8.64
 snippet: Caribbean national park archipelago of coral reefs, white-sand cays, and
   the small village of Gran Roque.
 title: Los Roques

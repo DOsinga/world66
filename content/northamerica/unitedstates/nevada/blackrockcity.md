@@ -1,12 +1,13 @@
 ---
-snippet: Temporary desert city on Nevada's Black Rock playa, built each year around Burning Man.
+snippet: Temporary desert city on Nevada's Black Rock playa, built each year around
+  Burning Man.
 title: Black Rock City
 type: location
 latitude: 40.793249
 longitude: -119.202879
 done:
   location_cleanup: 2026-04-05
-score: 0.39
+score: 7.13
 loc_type: feature
 ---
 

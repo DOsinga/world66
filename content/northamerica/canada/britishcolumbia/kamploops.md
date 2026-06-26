@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kamloops_sunset_from_Rose_
 latitude: 50.674522
 loc_type: city
 longitude: -120.327816
-score: 0.38
+score: 7.07
 snippet: Dry British Columbia interior city at the Thompson River confluence, ringed
   by sagebrush hills.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pingxiang,_JX,_PRC.jpg
 latitude: 27.63
 loc_type: city
 longitude: 113.85
-score: 0.27
+score: 5.87
 snippet: Industrial Jiangxi city near Wugongshan's cloud-high grass ridges and old
   Taoist altar sites.
 sources:

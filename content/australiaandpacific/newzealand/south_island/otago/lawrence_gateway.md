@@ -5,7 +5,7 @@ done:
 latitude: -45.9171
 loc_type: city
 longitude: 169.6818
-score: 0.33
+score: 6.51
 snippet: Otago gold-rush town on the route toward Central Otago, with preserved nineteenth-century
   streetscapes.
 sources:

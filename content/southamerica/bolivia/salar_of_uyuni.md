@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_del_Pescado,_Salar_de
 latitude: -20.2043
 loc_type: feature
 longitude: -67.515
-score: 0.75
+score: 9.68
 snippet: High Andean salt flat in southwest Bolivia, a white expanse of islands, volcanoes,
   and flamingo lakes
 title: Salar de Uyuni

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Madero,_Buenos_Aire
 latitude: -34.609558
 loc_type: city
 longitude: -58.38879
-score: 0.64
+score: 9.23
 snippet: Argentine capital known for European-influenced architecture, tango culture,
   and distinctive neighbourhoods.
 title: Buenos Aires

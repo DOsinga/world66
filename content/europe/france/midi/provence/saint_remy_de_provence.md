@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Remy_Les_Antiques_R0
 latitude: 43.788578
 loc_type: city
 longitude: 4.83175
-score: 0.59
+score: 8.95
 title: Saint-Rémy-de-Provence
 type: location
 snippet: Provençal town below Les Alpilles, tied to Glanum's Roman ruins and Van Gogh's

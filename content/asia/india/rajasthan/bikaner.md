@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Laxmi_Niwas_Palace,_Bi
 latitude: 28.016
 loc_type: city
 longitude: 73.3171
-score: 0.49
+score: 8.16
 snippet: Rajasthani desert city with a flatland fort, carved havelis, and fewer crowds
   than the western circuit.
 title: Bikaner

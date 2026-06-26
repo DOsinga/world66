@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Urbanisti%C4%8Dka_cjelina_
 latitude: 43.293976
 loc_type: city
 longitude: 17.020242
-score: 0.57
+score: 8.82
 snippet: Dalmatian Riviera town where Biokovo's limestone wall rises directly behind
   the harbour.
 title: Makarska

@@ -5,7 +5,7 @@ done:
 latitude: 4.1265
 loc_type: city
 longitude: 103.3925
-score: 0.43
+score: 7.6
 snippet: Low-key Malaysian beach village of kampung guesthouses, monsoon surf, turtles,
   and mangrove fireflies.
 title: Cherating

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grande_Mosquee_Porto-Novo_
 latitude: 6.499072
 loc_type: city
 longitude: 2.625336
-score: 0.32
+score: 6.4
 snippet: Benin's lagoon-side capital, layered with Yoruba palaces, Afro-Brazilian
   architecture, and colonial streets.
 title: Porto-Novo

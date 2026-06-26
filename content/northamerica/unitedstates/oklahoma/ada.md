@@ -5,7 +5,7 @@ done:
 latitude: 34.7696
 loc_type: city
 longitude: -96.6783
-score: 0.24
+score: 5.47
 snippet: South-central Oklahoma city in Cross Timbers country, serving as the seat
   of the Chickasaw Nation.
 sources:

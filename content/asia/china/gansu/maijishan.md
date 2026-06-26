@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maijishan_grottoes.jpg
 latitude: 34.35
 loc_type: feature
 longitude: 106.0
-score: 0.51
+score: 8.29
 snippet: Buddhist grotto site carved into a sandstone butte, with clay sculptures
   clinging to sheer cliff faces.
 sources:

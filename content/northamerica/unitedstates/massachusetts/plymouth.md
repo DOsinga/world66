@@ -5,7 +5,7 @@ done:
 latitude: 41.9584
 loc_type: city
 longitude: -70.6673
-score: 0.45
+score: 7.78
 snippet: Historic Massachusetts coastal town where the Pilgrim colony began beside
   Plymouth Rock and the Mayflower story.
 title: Plymouth

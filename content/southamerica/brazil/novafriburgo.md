@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Col%C3%A9gio_Anchieta_em_N
 latitude: -22.306166
 loc_type: city
 longitude: -42.493418
-score: 0.39
+score: 7.14
 snippet: Brazilian mountain resort near Rio de Janeiro, founded by Swiss emigrants
   in the Serra Fluminense.
 title: Nova Friburgo

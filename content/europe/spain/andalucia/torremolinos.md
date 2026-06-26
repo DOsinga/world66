@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Playamar,_Torremolinos.JPG
 latitude: 36.624284
 loc_type: city
 longitude: -4.499545
-score: 0.48
+score: 8.05
 title: Torremolinos
 type: location
 snippet: Costa del Sol beach resort with broad sands and the old fishermen's quarter

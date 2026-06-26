@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Death_Valley_exit_SR190_vi
 latitude: 36.4614
 loc_type: feature
 longitude: -116.8672
-score: 0.45
+score: 7.76
 snippet: Desert national park of extreme heat, salt flats, and below-sea-level basins
   ringed by mountains.
 title: Death Valley

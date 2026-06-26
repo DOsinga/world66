@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/152930510@N02/49195352216
 latitude: 52.496376
 loc_type: city
 longitude: 5.068274
-score: 0.5
+score: 8.2
 title: Volendam
 type: location
 snippet: IJsselmeer fishing village north of Amsterdam, known for its harbour, wooden

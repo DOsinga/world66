@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Symphonie_de_couleur_Place
 latitude: 3.868987
 loc_type: city
 longitude: 11.521334
-score: 0.3
+score: 6.14
 snippet: Cameroon's hilltop capital, set around 750 metres above sea level in the
   south-central plateau.
 title: Yaoundé

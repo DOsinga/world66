@@ -11,7 +11,7 @@ loc_type: city
 snippet: Northeastern Jamaican harbour town backed by lush hills, Victorian architecture,
   and rain-fed beaches
 longitude: -76.4525
-score: 0.51
+score: 8.36
 title: Port Antonio
 type: location
 ---

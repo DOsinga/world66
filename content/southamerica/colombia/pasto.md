@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Volc%C3%A1n_Galeras_-_Past
 latitude: 1.214028
 loc_type: city
 longitude: -77.27851
-score: 0.35
+score: 6.71
 snippet: High Andean capital of Nariño, set beneath Galeras volcano near Ecuador.
 title: Pasto
 type: location

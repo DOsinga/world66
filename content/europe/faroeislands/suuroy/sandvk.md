@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandv%C3%ADk_a_Village_in_
 latitude: 61.634177
 loc_type: city
 longitude: -6.928838
-score: 0.41
+score: 7.36
 title: Sandvík
 type: location
 snippet: Northern Suðuroy village reached by tunnel, with a rare Faroese sandy beach

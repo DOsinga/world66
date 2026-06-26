@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alofi_Bay_from_Namoui.jpg
 latitude: -19.053416
 loc_type: city
 longitude: -169.919199
-score: 0.44
+score: 7.66
 snippet: Tiny Niuean capital on a west-coast bay, with government buildings, cafes,
   and rocky sea access.
 title: Alofi

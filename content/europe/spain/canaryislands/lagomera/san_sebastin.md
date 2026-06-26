@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n_de_La_G
 latitude: 28.0916
 loc_type: city
 longitude: -17.1133
-score: 0.46
+score: 7.85
 snippet: La Gomera's small capital and ferry port, known as Columbus's final Atlantic
   stop in 1492.
 title: San Sebastián de La Gomera

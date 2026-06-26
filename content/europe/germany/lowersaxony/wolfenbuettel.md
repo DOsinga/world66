@@ -2,7 +2,7 @@
 latitude: 52.1638
 loc_type: city
 longitude: 10.5375
-score: 0.39
+score: 7.19
 snippet: Lower Saxony town known for the Herzog August Bibliothek and the unlikely
   hometown pride of Jägermeister
 title: Wolfenbüttel

@@ -4,7 +4,7 @@ done:
 latitude: 12.1192
 loc_type: city
 longitude: -61.6264
-score: 0.41
+score: 7.32
 snippet: Workaday Grenadian east-coast town where the Saturday market shows the island
   beyond resort rhythms
 sources:

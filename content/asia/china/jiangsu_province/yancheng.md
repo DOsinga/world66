@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lu_Xiufu_Temple.jpg
 latitude: 33.3833
 loc_type: city
 longitude: 120.1167
-score: 0.28
+score: 5.94
 snippet: Coastal Jiangsu city whose former salt marshes shelter cranes and Yellow
   Sea migratory wetlands.
 sources:

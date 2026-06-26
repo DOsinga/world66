@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coloane4.jpg
 latitude: 22.126082
 loc_type: city
 longitude: 113.567644
-score: 0.38
+score: 7.04
 snippet: Green Macau island district with beaches, parks, hiking trails, and a former
   pirate-village history.
 sources:

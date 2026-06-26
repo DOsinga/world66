@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sudan._Wadi_Halfa._Air_vie
 latitude: 21.7833
 loc_type: city
 longitude: 31.3667
-score: 0.19
+score: 4.7
 snippet: Northern Sudan frontier town on Lake Nubia, where rail and ferry routes meet.
 title: Wadi Halfa
 type: location

@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Kota_Padang_Indah.jpg
 latitude: -0.9248
 loc_type: city
 longitude: 100.3633
-score: 0.38
-snippet: West Sumatran capital and Minangkabau gateway, with waterfront Chinatown, beach sunsets, and rich food culture.
+score: 7.06
+snippet: West Sumatran capital and Minangkabau gateway, with waterfront Chinatown,
+  beach sunsets, and rich food culture.
 title: Padang
 type: location
 ---

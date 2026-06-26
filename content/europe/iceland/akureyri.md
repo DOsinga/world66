@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Akureyrarkirkja_-_panorami
 latitude: 65.682636
 loc_type: city
 longitude: -18.091299
-score: 0.57
-snippet: "North Iceland town at the head of Eyjafjörður, base for Mývatn and Arctic culture."
+score: 8.79
+snippet: North Iceland town at the head of Eyjafjörður, base for Mývatn and Arctic
+  culture.
 title: Akureyri
 type: location
 ---

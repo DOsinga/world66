@@ -1,6 +1,9 @@
 ---
-latitude: 47.5050
-longitude: 19.0500
+image: lipotvaros.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Budapest_Parliament_4604.JPG
+latitude: 47.505
+longitude: 19.05
 tags:
 - things_to_do
 - neighbourhood

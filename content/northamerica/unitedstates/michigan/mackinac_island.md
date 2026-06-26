@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mackinac_Is
 latitude: 45.84907
 loc_type: city
 longitude: -84.619857
-score: 0.53
+score: 8.47
 snippet: Car-free Lake Huron island where horses, bicycles, fort walls, and state
   park trails set the pace
 title: Mackinac Island

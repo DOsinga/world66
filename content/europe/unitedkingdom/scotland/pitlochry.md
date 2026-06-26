@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/85714479@N00/49042786711
 latitude: 56.701969
 loc_type: city
 longitude: -3.730685
-score: 0.52
+score: 8.41
 title: Pitlochry
 type: location
 snippet: Perthshire town on the River Tummel, known for theatre, forest walks, and

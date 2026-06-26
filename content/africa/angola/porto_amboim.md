@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angola_Atlantic_coast.jpg
 latitude: -10.72791
 loc_type: city
 longitude: 13.757899
-score: 0.22
+score: 5.25
 snippet: Angolan fishing town on the Atlantic coast, set near the Queve River estuary.
 sources:
 - https://en.wikipedia.org/wiki/Porto_Amboim

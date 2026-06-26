@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Morning_in_Garowe-_Stree
 latitude: 8.406143
 loc_type: city
 longitude: 48.483195
-score: 0.12
+score: 2.45
 snippet: Puntland regional capital in Somalia's Nugal Valley, cooler than the coast
   and shaped by administrative life
 title: Garowe

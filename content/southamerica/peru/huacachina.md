@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oasis_de_Huacachina,_Ica,_
 latitude: -14.0876
 loc_type: feature
 longitude: -75.764
-score: 0.58
+score: 8.89
 snippet: Desert oasis feature outside Ica, a palm-fringed lagoon enclosed by towering
   sand dunes
 sources:

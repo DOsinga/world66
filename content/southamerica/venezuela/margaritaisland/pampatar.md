@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Pampatar
 latitude: 10.9957
 loc_type: city
 longitude: -63.8051
-score: 0.4
+score: 7.24
 snippet: Colonial Margarita Island town built around a calm bay and 17th-century waterfront
   fortress.
 title: Pampatar

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guysborough_Harbour_-_Guys
 latitude: 45.394
 loc_type: city
 longitude: -61.499
-score: 0.33
+score: 6.55
 snippet: Small Eastern Shore town on Chedabucto Bay, with fishing history and a local
   heritage museum.
 title: Guysborough

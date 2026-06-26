@@ -5,7 +5,7 @@ done:
 latitude: -29.8299
 loc_type: city
 longitude: 27.6069
-score: 0.39
+score: 7.13
 snippet: Remote Lesotho highland village known for pony treks through sandstone cliffs
   and Basotho mountain settlements
 title: Malealea

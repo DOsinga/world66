@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haderslev_Domkirke1.JPG
 latitude: 55.250071
 loc_type: city
 longitude: 9.499787
-score: 0.37
+score: 6.96
 snippet: Southern Jutland port town on a fjord, anchored by a brick Gothic cathedral.
 title: Haderslev
 type: location

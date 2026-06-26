@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sumuq_Tower.jpg
 latitude: 41.2564
 loc_type: city
 longitude: 46.8006
-score: 0.28
+score: 5.98
 snippet: Quiet Azerbaijani provincial town near Georgia, with a domed chaikhana and
   historic Georgian Orthodox church.
 sources:

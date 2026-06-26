@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sea_serpent_sculpture_by_R
 latitude: 33.2567
 loc_type: city
 longitude: -116.3783
-score: 0.39
+score: 7.16
 snippet: Desert community surrounded by Anza-Borrego Desert State Park and notable
   dark skies.
 title: Borrego Springs

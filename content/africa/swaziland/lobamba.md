@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parliament_building_of_Esw
 latitude: -26.4463
 loc_type: city
 longitude: 31.2084
-score: 0.37
+score: 6.92
 snippet: Traditional Eswatini capital where parliament, royal ceremonies, and national
   memory share the Ezulwini Valley.
 title: Lobamba

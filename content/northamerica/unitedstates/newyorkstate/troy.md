@@ -5,7 +5,7 @@ done:
 latitude: 42.7284
 loc_type: city
 longitude: -73.6918
-score: 0.31
+score: 6.25
 snippet: Hudson River city north of Albany, rich in 19th-century iron wealth and intact
   downtown architecture.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 39.9576
 loc_type: city
 longitude: 126.188
-score: 0.19
+score: 4.68
 snippet: Forested North Korean mountain area known for Buddhist ruins, waterfalls,
   and the International Friendship Exhibition.
 title: Myoyangsan

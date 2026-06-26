@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20240323_Kuqa_Coach_Statio
 latitude: 41.65
 loc_type: city
 longitude: 82.9
-score: 0.35
+score: 6.69
 snippet: Silk Road oasis city once known as Kucha, with Buddhist cave art and Tocharian
   echoes
 title: Kuqa

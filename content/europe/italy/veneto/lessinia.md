@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bosco_Chiesanuova_(Grietz_
 latitude: 45.657829
 loc_type: city
 longitude: 11.149171
-score: 0.48
+score: 8.08
 snippet: Limestone plateau north of Verona, where Valpolicella vineyards give way
   to alpine pastures and fossil beds
 title: Lessinia

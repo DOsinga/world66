@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hugo,_Oklahoma_(1910).jpg
 latitude: 34.010621
 loc_type: city
 longitude: -95.513122
-score: 0.23
+score: 5.33
 snippet: Choctaw County town with deep circus roots, showmen's graves, and a long-running
   wintering tradition
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Issaquah_-_Sunset_Way_01.j
 latitude: 47.534878
 loc_type: city
 longitude: -122.043297
-score: 0.35
+score: 6.67
 snippet: Cascade foothills town east of Seattle, with trailheads and salmon runs almost
   in the centre.
 title: Issaquah

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).
 latitude: 8.9824
 loc_type: city
 longitude: -79.5199
-score: 0.51
+score: 8.31
 snippet: Cosmopolitan Pacific capital where glass towers, Casco Viejo, Panamá Viejo,
   and the canal converge.
 title: Panama City

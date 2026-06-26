@@ -5,7 +5,7 @@ done:
 latitude: -18.155399
 loc_type: city
 longitude: 49.409835
-score: 0.31
+score: 6.27
 snippet: Madagascar’s largest port, a raw Indian Ocean city of lagoons, palms, markets,
   and container ships.
 sources:

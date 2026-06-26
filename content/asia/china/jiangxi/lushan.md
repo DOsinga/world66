@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lushan_Mountain_Celetial_C
 latitude: 29.55806
 loc_type: feature
 longitude: 115.982353
-score: 0.44
+score: 7.68
 snippet: Chinese mountain retreat above Poyang Lake, layered with poetry, colonial
   villas, and modern political history.
 title: Lushan

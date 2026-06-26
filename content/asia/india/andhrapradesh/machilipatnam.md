@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Machilipatnam_beach_at_dus
 latitude: 16.1817
 loc_type: city
 longitude: 81.1348
-score: 0.27
+score: 5.84
 snippet: Bay of Bengal port city known for colonial trading history and hand-painted
   Kalamkari cotton.
 sources:

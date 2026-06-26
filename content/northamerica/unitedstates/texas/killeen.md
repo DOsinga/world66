@@ -5,7 +5,7 @@ done:
 latitude: 31.1171
 loc_type: city
 longitude: -97.7278
-score: 0.25
+score: 5.59
 snippet: Central Texas military city shaped by Fort Cavazos and nearby lake country.
 title: Killeen
 type: location

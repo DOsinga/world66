@@ -7,7 +7,7 @@ done:
 latitude: 23.333333
 loc_type: city
 longitude: 45.333333
-score: 0.29
+score: 6.06
 title: Riyadh
 type: location
 snippet: Saudi Arabia's desert capital, grown from a Najd oasis around the old Masmak

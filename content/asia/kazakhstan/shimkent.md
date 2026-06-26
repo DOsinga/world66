@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Citadel-Shymkent-Kazakhsta
 latitude: 42.3147
 loc_type: city
 longitude: 69.5883
-score: 0.29
+score: 6.06
 snippet: Southern Kazakh city near the Uzbek border, known for markets and Silk Road
   excursions.
 title: Shymkent

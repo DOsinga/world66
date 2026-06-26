@@ -7,6 +7,10 @@ tags:
 - neighbourhood
 title: South Bank and Bankside
 type: neighbourhood
+image: south_bank.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_Queen%27s_Walk_Waterfront,_Bankside,_London_-_geograph.org.uk_-_1779171.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Peter Trimming
 ---
 
 The South Bank has become one of London's most animated public spaces — a riverside walk from Westminster Bridge to Tower Bridge that passes the London Eye, the Southbank Centre (home to the Royal Festival Hall, Queen Elizabeth Hall, and the BFI), the Tate Modern, Shakespeare's Globe, and Borough Market, with independent bookstalls and street performers occupying the spaces between.

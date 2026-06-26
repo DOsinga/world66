@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro,_Chipiona,_Espa%C3%B1
 latitude: 36.735545
 loc_type: city
 longitude: -6.434822
-score: 0.46
+score: 7.84
 snippet: Atlantic beach town near the Guadalquivir mouth, known for seafood and Spain's
   tallest lighthouse.
 title: Chipiona

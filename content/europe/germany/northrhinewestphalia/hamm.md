@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20160628_Schloss_Heessen,_
 latitude: 51.6739
 loc_type: city
 longitude: 7.816
-score: 0.28
+score: 5.99
 title: Hamm
 type: location
 snippet: Ruhr city in North Rhine-Westphalia, known for Maximilianpark and its glass

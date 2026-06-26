@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Culfa.jpg
 latitude: 38.9541
 loc_type: city
 longitude: 45.627
-score: 0.31
+score: 6.24
 title: Culfa (Julfa)
 type: location
 snippet: Nakhchivan border town on the Araz River, facing Jolfa in Iran.

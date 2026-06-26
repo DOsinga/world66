@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_Nuestra_Se%C3
 latitude: 21.1516
 loc_type: city
 longitude: -100.9369
-score: 0.42
+score: 7.51
 title: Dolores Hidalgo
-snippet: Mexican independence town where Miguel Hidalgo's 1810 Grito began the revolt against Spanish rule
+snippet: Mexican independence town where Miguel Hidalgo's 1810 Grito began the revolt
+  against Spanish rule
 type: location
 ---
 

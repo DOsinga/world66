@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Altamiza%27s_black_water_s
 latitude: -5.103104
 loc_type: city
 longitude: -78.913821
-score: 0.22
+score: 5.21
 snippet: Remote Peruvian district near San Ignacio, on a dirt road toward the green
   Chirinos valley.
 title: San José de Lourdes

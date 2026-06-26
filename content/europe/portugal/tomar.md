@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: tomar.jpg
 image_attribution: Alvesgaspar
@@ -8,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Convento_Cristo_December_2
 latitude: 39.6039
 loc_type: city
 longitude: -8.413
-score: 0.55
+score: 8.64
 snippet: Riverside Ribatejo town beneath the Knights Templar’s hilltop Convent of
   Christ, with a quiet provincial centre.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 36.898216
 loc_type: city
 longitude: 7.754927
-score: 0.33
+score: 6.51
 title: Annaba
 type: location
 snippet: Northeastern port city near Tunisia, built beside the Roman and early Christian

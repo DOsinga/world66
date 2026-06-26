@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wimbe_Beach_2_(4871485865)
 latitude: -12.973555
 loc_type: city
 longitude: 40.52151
-score: 0.38
+score: 7.08
 snippet: Northern Mozambican bay city on the Indian Ocean, known for clear water,
   coral reefs, and Quirimbas access
 title: Pemba

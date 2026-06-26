@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/126302952@N05/19802886648
 latitude: 46.4843
 loc_type: city
 longitude: 30.7323
-score: 0.36
+score: 6.86
 title: Odessa
 type: location
 snippet: Black Sea port city of Italianate boulevards, merchant palaces, opera, and

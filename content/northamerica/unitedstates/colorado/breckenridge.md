@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-07-22_Rotary_snowplow
 latitude: 39.4817
 loc_type: city
 longitude: -106.0384
-score: 0.55
+score: 8.69
 snippet: Former Colorado mining town turned mountain resort, with a Victorian main
   street and high ski terrain.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 16.5132
 loc_type: city
 longitude: -15.81
-score: 0.19
+score: 4.66
 snippet: Senegal River border town and Mauritania's main land crossing into Senegal,
   set in the fertile Trarza region.
 sources:

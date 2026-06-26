@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: kosice.jpg
 image_attribution: Ville Miettinen
@@ -8,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Elizabeth
 latitude: 48.721
 loc_type: city
 longitude: 21.2572
-score: 0.48
+score: 8.02
 snippet: Eastern Slovak city with a broad historic promenade and the Gothic St. Elisabeth
   Cathedral.
 sources:

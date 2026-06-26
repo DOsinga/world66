@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_San_Bernardo_(
 latitude: -21.5355
 loc_type: city
 longitude: -64.7296
-score: 0.4
+score: 7.23
 snippet: Warm Bolivian city of gaucho roots, leafy squares, and the high-altitude
   wines of nearby Concepción.
 title: Tarija

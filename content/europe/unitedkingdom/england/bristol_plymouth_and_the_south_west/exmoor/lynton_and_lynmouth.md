@@ -5,7 +5,7 @@ done:
 latitude: 51.229
 loc_type: city
 longitude: -3.833
-score: 0.48
+score: 8.06
 snippet: Twin Exmoor villages linked by a Victorian water-powered cliff railway above
   the North Devon coast.
 sources:

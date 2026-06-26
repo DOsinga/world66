@@ -5,7 +5,7 @@ done:
 latitude: 44.00042
 loc_type: city
 longitude: 8.058039
-score: 0.36
+score: 6.75
 snippet: Small Ligurian hill village above the Riviera delle Palme, with olive groves,
   old churches, and coastal views.
 title: Stellanello

@@ -5,11 +5,15 @@ done:
 latitude: 23.203578
 loc_type: city
 longitude: -106.420839
-score: 0.53
+score: 8.48
 snippet: Pacific port city with a beach resort strip, restored old town, and long
   seafront malecón
 title: Mazatlan
 type: location
+image: mazatlan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Isla_de_la_Piedra_1.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Stan Shebs
 ---
 
 Mazatlan is one of Mexico's great Pacific coast cities — a working port with a long beach resort strip, but also a genuine old town that most visitors never bother to explore. It sits on a peninsula in the state of Sinaloa, facing some of the best sunsets on the Mexican coast.

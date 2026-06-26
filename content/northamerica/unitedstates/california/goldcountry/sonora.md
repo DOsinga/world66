@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sonora_CA.jpg
 latitude: 37.9829
 loc_type: city
 longitude: -120.3822
-score: 0.39
+score: 7.14
 snippet: Southern Gold Country town with a Mexican-miner name, historic downtown,
   and Columbia nearby.
 title: Sonora

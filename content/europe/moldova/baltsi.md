@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alecu_Russo_State_Universi
 latitude: 47.763559
 loc_type: city
 longitude: 27.929204
-score: 0.24
+score: 5.54
 snippet: Northern Moldovan city and practical base for Saharna, Curchi, and Soroca,
   with a modest historic centre.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lappeenranta_Landscape.jpg
 latitude: 61.0587
 loc_type: city
 longitude: 28.1887
-score: 0.42
+score: 7.51
 snippet: Lake Saimaa garrison city near Russia, with lakeside ramparts and a busy
   summer harbour.
 title: Lappeenranta

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Man_of_Xingping,_China_(19
 latitude: 24.9169
 loc_type: city
 longitude: 110.5326
-score: 0.54
+score: 8.58
 snippet: Li River town between Guilin and Yangshuo, known for karst scenery on the
   twenty-yuan banknote.
 sources:

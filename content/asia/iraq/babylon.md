@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:001125-Babylon-Iraq-IMG_80
 latitude: 32.537792
 loc_type: city
 longitude: 44.427003
-score: 0.34
+score: 6.62
 snippet: Ancient Mesopotamian city whose ruins recall Nebuchadnezzar, the Ishtar Gate,
   and imperial Babylon.
 title: Babylon

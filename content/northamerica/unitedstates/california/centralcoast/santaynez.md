@@ -4,7 +4,7 @@ done:
 latitude: 34.616114
 loc_type: city
 longitude: -120.093375
-score: 0.43
+score: 7.59
 snippet: Santa Barbara County wine town anchoring a valley of Pinot Noir, Syrah, and
   Danish-heritage Solvang.
 sources:

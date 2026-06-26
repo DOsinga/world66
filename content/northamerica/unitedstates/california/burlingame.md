@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Burlingame_Avenue,_Burling
 latitude: 37.578097
 loc_type: city
 longitude: -122.34731
-score: 0.32
+score: 6.4
 snippet: San Francisco Peninsula city near SFO, with a walkable centre along Burlingame
   Avenue.
 title: Burlingame

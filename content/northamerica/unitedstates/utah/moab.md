@@ -5,11 +5,15 @@ done:
 latitude: 38.5738
 loc_type: city
 longitude: -109.5462
-score: 0.64
+score: 9.23
 snippet: Desert adventure town on the Colorado River, ringed by red rock parks and
   canyon country
 title: Moab
 type: location
+image: moab.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Moab,_Utah_downtown.jpg
+image_license: CC BY 4.0
+image_attribution: Quintin Soloviev
 ---
 
 Moab is the outdoor adventure capital of the American Southwest — a small desert town in a canyon of the Colorado River, surrounded by some of the most spectacular red rock landscapes on earth. [Arches National Park][arches_national_park] is five miles away, containing more than 2,000 natural sandstone arches. [Canyonlands National Park][canyonlands_national_park] is thirty miles distant, a vast plateau of canyon and mesa where the Colorado and Green rivers converge. Between and beyond them stretch hundreds of square miles of desert managed by the Bureau of Land Management, largely empty and open to anyone willing to walk.

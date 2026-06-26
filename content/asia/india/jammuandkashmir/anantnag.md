@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anantnag_beauty.jpg
 latitude: 33.74611
 loc_type: city
 longitude: 75.185447
-score: 0.31
+score: 6.28
 snippet: Southern Kashmir Valley town on the Jhelum River, near Mughal gardens and
   the Martand Sun Temple.
 title: Anantnag

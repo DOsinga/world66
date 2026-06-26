@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tavistock,_Abbey_Chapel_an
 latitude: 50.5499
 loc_type: city
 longitude: -4.1444
-score: 0.4
+score: 7.29
 snippet: Dartmoor market town built on tin and copper wealth, with abbey ruins and
   granite streets
 title: Tavistock

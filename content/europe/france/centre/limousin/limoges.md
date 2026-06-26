@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: limoges_cathedral.jpg
 image_license: CC BY-SA 3.0
@@ -7,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Limoges_Cath%C3%A9drale_Sa
 latitude: 45.8305
 loc_type: city
 longitude: 1.2608
-score: 0.44
+score: 7.63
 snippet: Modest Limousin city on the Massif Central's western slopes, known worldwide
   for hard-paste porcelain.
 sources:

@@ -4,7 +4,7 @@ done:
 latitude: 6.2361
 loc_type: city
 longitude: 1.6022
-score: 0.21
+score: 4.92
 snippet: Guin spiritual town near Aného, centered on the Epe-Ekpe festival and its
   sacred forest.
 title: Glidji

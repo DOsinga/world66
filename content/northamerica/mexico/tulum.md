@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caribbean_near_Tulum.jpg
 latitude: 20.2114
 loc_type: city
 longitude: -87.4654
-score: 0.66
+score: 9.34
 snippet: Maya coastal town where cliff-top ruins look over the turquoise Caribbean
   and surrounding jungle.
 title: Tulum

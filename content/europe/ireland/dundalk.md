@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/47290943@N03/22583928510
 latitude: 54.004603
 loc_type: city
 longitude: -6.400888
-score: 0.33
+score: 6.54
 title: Dundalk
 type: location
 snippet: Irish border-corridor town between Dublin and Belfast, with Cooley Peninsula

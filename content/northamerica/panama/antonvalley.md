@@ -5,7 +5,7 @@ done:
 latitude: 8.6003
 loc_type: city
 longitude: -80.1264
-score: 0.45
+score: 7.76
 snippet: Cool Panamanian valley inside an inhabited volcanic crater, with cloud forest,
   orchids, and weekend markets.
 sources:

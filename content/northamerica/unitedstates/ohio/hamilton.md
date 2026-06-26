@@ -5,7 +5,7 @@ done:
 latitude: 39.3995
 loc_type: city
 longitude: -84.5613
-score: 0.25
+score: 5.63
 snippet: Great Miami River city north of Cincinnati, with Pyramid Hill Sculpture Park
   and a growing downtown arts scene.
 title: Hamilton

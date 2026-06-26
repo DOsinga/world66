@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bird%27s-eye_view_of_Guipi
 latitude: 23.41
 loc_type: city
 longitude: 110.08
-score: 0.31
+score: 6.21
 snippet: Guangxi river city known for the Jintian Uprising and sacred West Mountain
   temples.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castles_of_Munster,_Ballin
 latitude: 51.888264
 loc_type: city
 longitude: -8.591841
-score: 0.31
+score: 6.3
 snippet: Cork commuter town with an 18th-century gunpowder-mill complex preserved
   along the River Lee.
 title: Ballincollig

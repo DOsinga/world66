@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg
 latitude: 43.10656
 loc_type: city
 longitude: -79.063904
-score: 0.63
+score: 9.22
 snippet: Ontario border city facing Horseshoe Falls, where the Niagara River drops
   in thunderous white water.
 title: Niagara Falls

@@ -2,7 +2,7 @@
 latitude: 10.493
 loc_type: city
 longitude: 99.18
-score: 0.41
+score: 7.42
 snippet: Southern Thai coastal city where Gulf ferries leave beside a quieter island-dotted
   province.
 title: Chumphon

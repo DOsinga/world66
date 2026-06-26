@@ -10,10 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerev
 latitude: 40.177711
 loc_type: city
 longitude: 44.512623
-score: 0.53
+score: 8.48
 title: Yerevan
 type: location
-snippet: Armenian capital with Urartian roots, pink-tufa boulevards, and the fortress of Erebuni.
+snippet: Armenian capital with Urartian roots, pink-tufa boulevards, and the fortress
+  of Erebuni.
 ---
 
 Yerevan is the capital of Armenia and one of the world's oldest continuously inhabited cities — older than Rome, founded in 782 BC as the Urartian fortress of [Erebuni](/europe/armenia/yerevan/erebuni_fortress). For much of its history it was a provincial outpost of larger empires (Persian, Russian, Soviet); its modern face as a capital was largely invented in the 1920s by the architect Alexander Tamanian, who replanned the city around the pink-tufa-faced [Republic Square](/europe/armenia/yerevan/republic_square), radiating boulevards, and the gigantic stairway of [the Cascade](/europe/armenia/yerevan/cascade).

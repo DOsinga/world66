@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Hungria_-_Bugac_-_panorami
 latitude: 46.688899
 loc_type: city
 longitude: 19.682144
-score: 0.37
-snippet: Great Hungarian Plain village in Kiskunság grassland, known for csikós horsemen and steppe wildlife.
+score: 6.88
+snippet: Great Hungarian Plain village in Kiskunság grassland, known for csikós horsemen
+  and steppe wildlife.
 title: Bugac
 type: location
 ---

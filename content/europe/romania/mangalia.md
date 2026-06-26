@@ -5,7 +5,7 @@ done:
 latitude: 43.815079
 loc_type: city
 longitude: 28.583031
-score: 0.37
+score: 6.89
 snippet: Black Sea spa town on ancient Callatis, known for mineral mud treatments
   and Greek remains
 title: Mangalia

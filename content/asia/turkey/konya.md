@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ince_Minareli_Medrese_01.j
 latitude: 37.8728
 loc_type: city
 longitude: 32.4925
-score: 0.46
+score: 7.89
 snippet: Anatolian city and spiritual home of Rumi, where Seljuk monuments surround
   the Mevlana dervish tradition.
 title: Konya

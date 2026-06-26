@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oban_-_North_Pier_-_geogra
 latitude: 56.412017
 loc_type: city
 longitude: -5.472373
-score: 0.53
+score: 8.53
 snippet: Argyll harbour town and ferry gateway to Mull, Lismore, Colonsay, and the
   Inner Hebrides.
 title: Oban

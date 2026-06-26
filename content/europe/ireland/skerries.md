@@ -5,7 +5,7 @@ done:
 latitude: 53.573989
 loc_type: city
 longitude: -6.119175
-score: 0.41
+score: 7.33
 snippet: Victorian fishing village north of Dublin, with offshore islands, working
   mills, and a small harbour.
 sources:

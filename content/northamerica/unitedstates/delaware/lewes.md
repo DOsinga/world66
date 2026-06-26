@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lewes_Beach_in_Delaware.jp
 latitude: 38.773396
 loc_type: city
 longitude: -75.137957
-score: 0.37
+score: 6.88
 snippet: Delaware coastal town founded by the Dutch in 1631, where Delaware Bay meets
   the Atlantic.
 title: Lewes

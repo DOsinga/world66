@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cozumel,_Quintana_Roo,_Mex
 latitude: 20.43206
 loc_type: city
 longitude: -86.920691
-score: 0.62
+score: 9.16
 snippet: Caribbean island off Yucatán, known for reef diving and ancient Maya pilgrimage
   sites.
 title: Cozumel

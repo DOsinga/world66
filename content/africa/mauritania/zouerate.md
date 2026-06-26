@@ -4,7 +4,7 @@ done:
 latitude: 22.740206
 loc_type: city
 longitude: -12.466492
-score: 0.16
+score: 4.36
 snippet: Saharan mining town and eastern terminus of Mauritania's long iron ore railway
   to Nouadhibou.
 title: Zouerate

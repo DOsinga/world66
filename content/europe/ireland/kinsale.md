@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kinsale_(4693044621).jpg
 latitude: 51.705737
 loc_type: city
 longitude: -8.522982
-score: 0.54
+score: 8.59
 snippet: Colourful Irish harbour town south of Cork, known for seafood, narrow lanes,
   and coastal forts
 sources:

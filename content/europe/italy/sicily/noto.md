@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Noto_BW_2025-04-26_10-12-4
 latitude: 36.8909
 loc_type: city
 longitude: 15.0706
-score: 0.57
+score: 8.78
 snippet: Sicilian Baroque town rebuilt after the 1693 earthquake in honey-coloured
   limestone.
 title: Noto

@@ -5,7 +5,7 @@ done:
 latitude: 33.3992
 loc_type: city
 longitude: -110.8687
-score: 0.24
+score: 5.48
 snippet: Arizona copper town with faded boomtown storefronts between Phoenix and the
   White Mountains.
 title: Miami

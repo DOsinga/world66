@@ -2,7 +2,7 @@
 latitude: 51.80017
 loc_type: feature
 longitude: -2.530753
-score: 0.44
+score: 7.64
 snippet: Ancient English forest region of former mining railways, Wye Valley watersports,
   and family cycling trails
 title: Forest of Dean

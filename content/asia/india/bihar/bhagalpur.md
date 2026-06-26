@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/65941897@N04/6511263705
 latitude: 25.2425
 loc_type: city
 longitude: 86.9842
-score: 0.24
+score: 5.56
 snippet: Ganges-side Bihar city known for Tussar silk weaving and nearby river dolphins.
 title: Bhagalpur
 type: location

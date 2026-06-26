@@ -2,7 +2,7 @@
 latitude: 49.6447
 loc_type: city
 longitude: 5.9942
-score: 0.32
+score: 6.42
 snippet: Luxembourg village in the Gutland, remembered as the country's old pottery-making
   centre
 title: Nospelt

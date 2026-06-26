@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Valdivia-Antioquia.jpg
 latitude: -39.814126
 loc_type: city
 longitude: -73.245986
-score: 0.46
+score: 7.86
 snippet: Chilean river city in the Lake District, known for its waterfront market
   and colonial forts.
 title: Valdivia

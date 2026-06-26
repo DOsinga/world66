@@ -6,7 +6,7 @@ latitude: 44.635157
 longitude: -92.010193
 title: Pepin
 type: location
-score: 0.3
+score: 6.12
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Pepin,_Wisconsin

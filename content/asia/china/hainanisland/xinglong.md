@@ -5,7 +5,7 @@ done:
 latitude: 18.75
 loc_type: city
 longitude: 110.15
-score: 0.34
+score: 6.6
 snippet: Hainan hot-spring town where Southeast Asian Chinese communities shaped coffee,
   farms, and food culture.
 sources:

@@ -9,6 +9,10 @@ score: 0.57
 loc_type: region
 snippet: Volcanic North Island region shaped by Lake Taupo, Tongariro, Ruapehu, and
   high forests.
+image: central_plateau.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tongariro_National_Park_-_Mount_Ngauruhoe_(2291_NN).jpg
+image_license: CC BY-SA 4.0
+image_attribution: AndyiH
 ---
 
 The Central Plateau is the volcanic heart of New Zealand's North Island — a high, dramatic landscape of active volcanoes, vast forests, and the country's largest lake. The three peaks of the Tongariro Volcanic Plateau — Ruapehu, Ngauruhoe, and Tongariro — dominate the skyline, and the Tongariro Alpine Crossing is often called the best one-day walk in New Zealand.

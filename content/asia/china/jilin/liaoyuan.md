@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Liao_River_Bridge_1.j
 latitude: 42.8976
 loc_type: city
 longitude: 125.1381
-score: 0.24
+score: 5.44
 snippet: Coal-mining city in central Jilin, marked by exhausted mines and the Dongliao
   River.
 sources:

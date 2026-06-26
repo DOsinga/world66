@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arch_of_Trajan_(Benevento)
 latitude: 41.247631
 loc_type: city
 longitude: 14.705705
-score: 0.44
+score: 7.7
 snippet: Inland Campanian city with Samnite, Roman, and Lombard layers, including
   the remarkably intact Arch of Trajan.
 title: Benevento

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casco_Antiguo_de_la_Ciudad
 latitude: 42.193963
 loc_type: city
 longitude: -7.537124
-score: 0.43
+score: 7.59
 title: Ourense
 type: location
 snippet: Inland Galician city on the Río Miño, known for medieval streets and urban

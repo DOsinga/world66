@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_2550_Texel,_De_Koog_-_B
 latitude: 53.099882
 loc_type: city
 longitude: 4.762646
-score: 0.44
+score: 7.71
 snippet: Texel resort village set behind the North Sea dunes and the island's long
   beach.
 title: De Koog

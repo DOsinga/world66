@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Toledo_(37737041515).jpg
 latitude: 39.855891
 loc_type: city
 longitude: -4.024265
-score: 0.61
+score: 9.07
 sources:
 - https://en.wikipedia.org/wiki/Toledo,_Spain
 - https://en.wikipedia.org/wiki/Toledo_Cathedral

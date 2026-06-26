@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Izumo-taisha_Honden_wider_
 latitude: 35.366889
 loc_type: city
 longitude: 132.754883
-score: 0.51
+score: 8.31
 snippet: Shimane coast city centred on Izumo Taisha, where Japan's gods are said to
   gather.
 sources:

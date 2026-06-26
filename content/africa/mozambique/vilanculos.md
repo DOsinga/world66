@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Dunes_Vilanculos_Mozam
 latitude: -21.998996
 loc_type: city
 longitude: 35.320475
-score: 0.44
+score: 7.71
 snippet: Mozambican coastal town and main gateway to the islands of the Bazaruto Archipelago.
 title: Vilanculos
 type: location

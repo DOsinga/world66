@@ -8,8 +8,9 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:2000_Bunker_Strand_IJmuiden.jpg
 latitude: 52.457424
 longitude: 4.611198
-score: 0.36
-snippet: "Industrial Dutch harbour town where the North Sea Canal meets beaches, dunes, and fishing quays."
+score: 6.79
+snippet: Industrial Dutch harbour town where the North Sea Canal meets beaches, dunes,
+  and fishing quays.
 title: IJmuiden
 type: location
 loc_type: city

@@ -5,7 +5,7 @@ latitude: 50.3309
 longitude: 6.9407
 done:
   location_cleanup: 2026-04-07
-score: 0.43
+score: 7.61
 loc_type: feature
 snippet: Historic Eifel motorsport circuit where the Nürburgring's Nordschleife still
   tests public drivers and racing teams.

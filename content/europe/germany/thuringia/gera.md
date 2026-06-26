@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haus_Schulenburg_in_Gera_-
 latitude: 50.876553
 loc_type: city
 longitude: 12.083267
-score: 0.31
+score: 6.3
 snippet: Thuringian city known for Otto Dix, with a strong collection of German Expressionist
   art
 sources:

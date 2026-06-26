@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Basilica_Cattedrale_di_San
 latitude: 38.1938
 loc_type: city
 longitude: 15.5542
-score: 0.45
+score: 7.82
 title: Messina
 type: location
 snippet: Sicilian port city facing Calabria across the strait, rebuilt after the 1908

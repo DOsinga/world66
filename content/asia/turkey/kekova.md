@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Underwater_Ruins_Kekova.jp
 latitude: 36.18
 loc_type: city
 longitude: 29.9
-score: 0.56
+score: 8.75
 snippet: Lycian coast island whose clear sheltered waters reveal the sunken ruins
   of ancient Dolişche.
 tags:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_Pescara_5.jpg
 latitude: 42.461
 loc_type: city
 longitude: 14.2158
-score: 0.45
+score: 7.77
 snippet: Abruzzo beach city on the Adriatic, rebuilt as a modern seafront resort after
   wartime bombing.
 title: Pescara

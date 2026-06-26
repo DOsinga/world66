@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shawneehaw_Creek_into_Mill
 latitude: 36.163334
 loc_type: city
 longitude: -81.871901
-score: 0.42
+score: 7.48
 snippet: North Carolina high-country town serving Sugar Mountain and Beech Mountain
   ski resorts from a cool mountain valley.
 sources:

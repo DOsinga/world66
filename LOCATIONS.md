@@ -253,6 +253,8 @@ longitude: 12.4833
 
 Do not publish a POI without coordinates. If you cannot determine them, leave the file out. Don't make up coordinates. Check and double check.
 
+A `neighbourhood` page also needs `latitude` and `longitude` — this is the pin for its card on the city map. Give it the **centre of the district**, and make sure it is not identical to one of its POIs. The map deduplicates markers that share the exact same coordinate, so a neighbourhood whose centre lands on top of one of its own POIs will silently drop off the map. (This is a placement bug, not a tagging one — the neighbourhood's POIs still collect correctly via its slug tag.)
+
 ## POI scores
 
 Every POI must have a `score` field in its frontmatter. Scores are floats from `1.0` to `10.0` and are used to order POI lists within a location, with the most important places first.

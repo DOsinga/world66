@@ -1,13 +1,14 @@
 ---
-title: "Diporto"
-type: poi
 latitude: 37.9789
 longitude: 23.7264
-tags:
-  - eating_out
-  - restaurant
 neighbourhood: Psiri
 score: 6.9
+tags:
+- eating_out
+- restaurant
+- psiri
+title: Diporto
+type: poi
 ---
 
 Diporto is one of the most famous restaurants in Athens — though "restaurant" sells it short. It is a 130-year-old cellar taverna in the basement of a building on Theatrou Square, near the central market. There is no sign, no menu, no telephone reservation, no website. You walk down the steps and the owner brings you whatever is being cooked that day. Usually chickpeas, often grilled fish, always cheap.

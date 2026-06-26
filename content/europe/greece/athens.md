@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-26'
 image: athens.jpg
 image_attribution: A.Savin
 image_license: CC BY-SA 3.0

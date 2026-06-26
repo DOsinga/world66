@@ -1,22 +1,23 @@
 ---
-title: Acropolis Museum
-type: poi
-tags:
-  - things_to_do
-  - museum
-  - history
 latitude: 37.9686
 longitude: 23.7284
-snippet: One of Europe's finest archaeological museums, built over an excavation site
-story: >
-  The Acropolis Museum was deliberately designed with its top floor at the exact
-  orientation of the Parthenon itself, so the frieze sculptures displayed there
-  align as they would on the building. The arrangement is also a political statement:
-  roughly half the surviving Parthenon frieze is in the British Museum in London,
-  and the empty spaces in the display were left intentionally bare — a quiet
-  argument for the marbles' return that has been running since the museum opened
-  in 2009.
 score: 9.4
+snippet: One of Europe's finest archaeological museums, built over an excavation site
+story: 'The Acropolis Museum was deliberately designed with its top floor at the exact
+  orientation of the Parthenon itself, so the frieze sculptures displayed there align
+  as they would on the building. The arrangement is also a political statement: roughly
+  half the surviving Parthenon frieze is in the British Museum in London, and the
+  empty spaces in the display were left intentionally bare — a quiet argument for
+  the marbles'' return that has been running since the museum opened in 2009.
+
+  '
+tags:
+- things_to_do
+- museum
+- history
+- koukaki
+title: Acropolis Museum
+type: poi
 ---
 
 Opened in 2009 on the southern slope of the Acropolis hill, this is one of the best archaeological museums in Europe. The building itself is striking — a deliberately austere glass-and-concrete structure designed by Bernard Tschumi, built over an active excavation of an ancient Athenian neighbourhood visible through the glass floors at the entrance.

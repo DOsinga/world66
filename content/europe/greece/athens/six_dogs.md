@@ -1,13 +1,14 @@
 ---
-title: "Six d.o.g.s."
-type: poi
 latitude: 37.9772
 longitude: 23.7281
-tags:
-  - bars_and_cafes
-  - bar
 neighbourhood: Monastiraki
 score: 6.2
+tags:
+- bars_and_cafes
+- bar
+- monastiraki
+title: Six d.o.g.s.
+type: poi
 ---
 
 Six d.o.g.s. is a sprawling bar, gallery, and gig venue in central Monastiraki, occupying a complex of converted warehouses behind Avramiotou Street. Daytime it is a relaxed café and exhibition space; nights it becomes a serious music venue with concerts, DJ sets, and open-air parties in the wide central garden.

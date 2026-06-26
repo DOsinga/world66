@@ -5,6 +5,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+  - gulou
 latitude: 39.9374
 longitude: 116.3871
 story: >

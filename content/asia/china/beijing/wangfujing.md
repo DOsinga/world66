@@ -1,12 +1,15 @@
 ---
-title: "Wangfujing Street"
+title: Wangfujing Street
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-  - shopping
-latitude: 39.9139
-longitude: 116.4074
+- things_to_do
+- neighbourhood
+latitude: 39.911
+longitude: 116.4072
+image: wangfujing.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beijing_Wangfujing_20170806.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Hal 0005
 ---
 
 Beijing's main pedestrianised shopping street, running north from Chang'an Avenue through the Dongcheng district. The street itself is dominated by department stores and international brands, but the small lanes branching east — particularly Wangfujing Snack Street — are the more interesting destination for food and local atmosphere. The night market along the snack street is famous for its range of unusual items (scorpions, starfish, sea horses) alongside more conventional street food.

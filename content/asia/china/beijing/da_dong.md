@@ -4,6 +4,7 @@ type: poi
 tags:
   - eating_out
   - restaurant
+  - sanlitun
 latitude: 39.9233
 longitude: 116.4445
 score: 5.8

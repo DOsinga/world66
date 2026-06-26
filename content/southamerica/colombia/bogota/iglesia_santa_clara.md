@@ -2,13 +2,14 @@
 address: Carrera 8 No 8-91
 latitude: 4.5975
 longitude: -74.0751
+score: 8.7
 snippet: 17th-century church turned museum with extraordinarily ornate interior
 tags:
 - things_to_do
 - landmark
+- la_candelaria
 title: Iglesia Museo Santa Clara
 type: poi
-score: 8.7
 ---
 
 Now a museum, this 17th-century church has one of the most lavishly decorated interiors in Bogotá. Every surface is covered with paintings, gilded altarpieces, and carved wood — the result of Baroque excess taken to its logical conclusion. The contrast between the plain exterior and the explosion of colour inside is striking.

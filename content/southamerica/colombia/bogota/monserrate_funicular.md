@@ -1,13 +1,14 @@
 ---
-title: "Monserrate Funicular and Cable Car"
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 4.6002
-longitude: -74.0570
-snippet: "Two ways up to Monserrate: a funicular railway and a cable car above Bogota"
+longitude: -74.057
 score: 7.9
+snippet: 'Two ways up to Monserrate: a funicular railway and a cable car above Bogota'
+tags:
+- things_to_do
+- sight
+- la_candelaria
+title: Monserrate Funicular and Cable Car
+type: poi
 ---
 
 Two systems climb the 500 vertical metres from the base station on Avenida Circunvalar to the summit of Cerro Monserrate: a funicular railway that runs on tracks up the hillside, and a cable car (teleférico) that sweeps above the treetops. Both operate on the same schedule and the ticket covers one ride up and one down on whichever system you choose.

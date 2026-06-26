@@ -1,8 +1,8 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-latitude: -34.587183
-longitude: -58.455151
+latitude: -34.5910547
+longitude: -58.4583031
 snippet: Working-class cemetery where Carlos Gardel and Juan Perón are buried, with macabre Argentine political history
 tags:
 - things_to_do

@@ -3661,7 +3661,6 @@ asia/southkorea/chonju
 asia/india/sikkim/gangtok
 europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore
 northamerica/unitedstates/kentucky/louisville
-northamerica/unitedstates/rhodeisland/coventry
 northamerica/unitedstates/california/deserts/borregosprings
 asia/indonesia/sumatra/bukitlawang
 asia/india/punjab/jalandhar

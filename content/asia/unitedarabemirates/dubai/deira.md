@@ -1,6 +1,12 @@
 ---
+image: deira.jpg
+image_attribution: Wikipedia
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Dhows_on_Dubai_Creek_(8722991951).jpg
 latitude: 25.274
 longitude: 55.302
+snippet: The old commercial heart on the north side of the Creek, with gold and spice
+  souks and dhow wharves
 tags:
 - things_to_do
 - neighbourhood

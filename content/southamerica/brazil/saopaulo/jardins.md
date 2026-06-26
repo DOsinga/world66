@@ -1,12 +1,17 @@
 ---
-title: "Jardins"
+title: Jardins
 type: neighbourhood
 latitude: -23.5634
 longitude: -46.6669
 tags:
-  - things_to_do
-  - neighbourhood
-snippet: "São Paulo's leafy upmarket quarter — high-end shopping and the city's best restaurants"
+- things_to_do
+- neighbourhood
+snippet: São Paulo's leafy upmarket quarter — high-end shopping and the city's best
+  restaurants
+image: jardins.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Fernando Stankuns
 ---
 
 The Jardins — 'gardens' — were laid out in the 1910s by the British planner Barry Parker, the same architect who had laid out Letchworth Garden City in England, as a low-density residential district on the slopes south of Avenida Paulista. The original logic — wide tree-lined streets, deep landscaped front gardens, no high-rises — has largely held. Today this is the most upmarket residential and shopping district in São Paulo and the home of the city's most ambitious restaurants.

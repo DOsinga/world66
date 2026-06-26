@@ -3,13 +3,14 @@ address: Regent Street, London W1B 5AH
 latitude: 51.513958
 longitude: -0.141238
 opening_hours: Mon–Sat 10am–8pm; Sun noon–6pm
+score: 7.4
 snippet: London's most beautiful department store, in a Tudor-style building in Soho
 tags:
 - shopping
+- soho
 title: Liberty London
 type: poi
 url: www.libertylondon.com
-score: 7.4
 ---
 
 Liberty is the most beautiful department store in London — a Tudor Revival building constructed in 1924 using timber from two Royal Navy ships, its dark wood interior divided into labyrinthine floors of fabric, fashion, beauty, and homewares. The building is as much the attraction as the merchandise.

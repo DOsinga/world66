@@ -29,6 +29,8 @@ Do not create a `type: neighbourhood` page for any of these:
 - **A separate town or suburb.** If it's its own town outside the city (Portmarnock near Dublin, a coastal village), it is a `type: location` under the country/region — **not** a neighbourhood of the city.
 - **The city centre itself.** "South City Centre", "Central District", "Downtown" are geographic labels, not neighbourhoods. Sub-districts within the city centre (Creative Quarter, Temple Bar, Medieval Quarter) can be neighbourhoods if they have genuine character.
 
+A named central district with a strong, distinct identity that travelers consciously seek out **is** a valid neighbourhood, even though it sits in the middle of the city and its landmarks are visited by everyone — for example Westminster (the government and royal ceremonial quarter, holding Parliament, Westminster Abbey, and Buckingham Palace). The test is character and name recognition, not distance from the centre. When such a district exists, group its monumental landmarks under it rather than leaving them untagged; the "leave central landmarks untagged" guidance applies only to landmarks that genuinely belong to no single named district.
+
 If you find yourself adding a `_nb`, `_area`, or `_quarter` suffix just to dodge a slug collision with a POI, that is a sign the thing is probably a POI, not a neighbourhood.
 
 ## For each city in the batch

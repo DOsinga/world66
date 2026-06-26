@@ -24,9 +24,12 @@ Other sights include Fort Larned on the banks of the Arkansas river and
 In the northwest of Kansas,
 [Nicodemus](/northamerica/unitedstates/kansas/nicodemus) is a unique historic site. It is the only remaining western town established by African Americans during the Reconstruction Period following the Civil War.
 
+[Liberal](/northamerica/unitedstates/kansas/liberal), in the far southwest, is a plains road-trip stop with aircraft, Wizard of Oz nostalgia, and the town's oddball Pancake Day race.
+
 ## Destinations in Kansas
 
 Lawrence
+Liberal
 Mulberry, Kansas
 McPherson
 Kansas City

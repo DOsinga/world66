@@ -19,7 +19,7 @@ The **Barossa Valley**, an hour north of Adelaide, is one of Australia's most fa
 
 **McLaren Vale**, half an hour south, is a smaller, more intimate wine region with ocean views. The **Fleurieu Peninsula** beyond it has the Victor Harbor beach resort and Kangaroo Island ferry access.
 
-**Kangaroo Island** — two hours south of Adelaide including the 45-minute ferry from Cape Jervis — is one of the best places in Australia to see wildlife in the wild. Sea lions haul out on the beaches of Seal Bay; koalas sleep in the roadside gums; Cape Barren geese wander the farmland. The island suffered severe fire damage in the 2019-20 season but has largely recovered.
+**Kangaroo Island** — two hours south of Adelaide including the 45-minute ferry from [Cape Jervis](/australiaandpacific/australia/southaustralia/cape_jervis) — is one of the best places in Australia to see wildlife in the wild. Sea lions haul out on the beaches of Seal Bay; koalas sleep in the roadside gums; Cape Barren geese wander the farmland. The island suffered severe fire damage in the 2019-20 season but has largely recovered.
 
 The **Flinders Ranges**, five hours north of Adelaide, offer outback scenery without the extreme remoteness of the Northern Territory. Wilpena Pound — a natural amphitheatre of quartzite ridges — is the centrepiece, with excellent bushwalking and Aboriginal rock art sites.
 
@@ -31,6 +31,7 @@ The **Coorong**, a 200-km lagoon system south of Adelaide, is a critical waterbi
 
 - [Adelaide](/australiaandpacific/australia/southaustralia/adelaide)
 - [Barossa Valley](/australiaandpacific/australia/southaustralia/barossa_valley)
+- [Cape Jervis](/australiaandpacific/australia/southaustralia/cape_jervis)
 - [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy)
 - [Hahndorf](/australiaandpacific/australia/southaustralia/handorf)
 - [Mount Gambier](/australiaandpacific/australia/southaustralia/mount_gambier)

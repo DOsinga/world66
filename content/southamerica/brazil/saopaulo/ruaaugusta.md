@@ -7,9 +7,13 @@ snippet: 'The split-personality avenue: upmarket fashion above Paulista, dive ba
 tags:
 - things_to_do
 - sight
-- avenidapaulista
+- consolacao
 title: Rua Augusta
 type: poi
+image: ruaaugusta.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Rua_Augusta_Consolação.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Vinicius Reis
 ---
 
 Rua Augusta is the long avenue that cuts north–south through the heart of São Paulo, crossing Avenida Paulista at right angles, and it is a different street on either side. **South of Paulista**, climbing into the Jardins, it is upmarket: international fashion houses, the Conjunto Nacional shopping arcade, and Cidade Jardim further down. **North of Paulista**, dropping toward Consolação, it turns into the city's most concentrated nightlife strip — dive bars, indie venues, late-night burger joints, sex shops, the city's gay scene.

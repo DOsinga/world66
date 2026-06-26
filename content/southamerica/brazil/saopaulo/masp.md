@@ -13,7 +13,7 @@ tags:
 - things_to_do
 - museum
 - architecture
-- avenidapaulista
+- bela_vista
 title: MASP
 type: poi
 ---

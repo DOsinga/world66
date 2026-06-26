@@ -1,8 +1,8 @@
 ---
 title: Vila Madalena
 type: neighbourhood
-latitude: -23.5536
-longitude: -46.6911
+latitude: -23.5524
+longitude: -46.6893
 tags:
 - things_to_do
 - neighbourhood

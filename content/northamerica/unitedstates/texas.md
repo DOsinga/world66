@@ -37,6 +37,7 @@ Summers are brutally hot across most of the state, with temperatures routinely h
 [Galveston](/northamerica/unitedstates/texas/galveston) |
 [Kerrville](/northamerica/unitedstates/texas/kerrville) |
 [Killeen](/northamerica/unitedstates/texas/killeen) |
+[Kilgore](/northamerica/unitedstates/texas/kilgore) |
 Matagorda County |
 [McKinney](/northamerica/unitedstates/texas/mckinney) |
 [Midland](/northamerica/unitedstates/texas/midland) |

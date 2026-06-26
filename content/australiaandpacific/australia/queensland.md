@@ -33,6 +33,7 @@ Queensland's interior — the Channel Country, the outback — is less visited b
 
 [Brisbane](/australiaandpacific/australia/queensland/brisbane)
 [Cairns](/australiaandpacific/australia/queensland/cairns)
+[Cooktown](/australiaandpacific/australia/queensland/cooktown)
 [Gold Coast](/australiaandpacific/australia/queensland/goldcoast)
 [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef)
 [Whitsundays](/australiaandpacific/australia/queensland/whitsundays)

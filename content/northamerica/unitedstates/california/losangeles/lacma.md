@@ -1,13 +1,16 @@
 ---
-title: Los Angeles County Museum of Art
+title: LACMA
 type: poi
-latitude: 34.0639
-longitude: -118.3592
-tags: [things_to_do, sight, museum, miracle_mile]
-story: Chris Burden's *Urban Light*, the lawn of 202 restored cast-iron streetlamps salvaged from Los Angeles streets of the 1920s and 1930s, has become one of the most photographed objects in the city. The lamps switch on at dusk and the gathering of selfie-takers is unbroken until midnight.
-score: 7.9
+latitude: 34.0637362
+longitude: -118.3589376
+tags:
+  - things_to_do
+  - museum
+  - miracle_mile
+score: 8.4
+snippet: Largest art museum in the western US, fronted by Chris Burden's Urban Light lamp forest
 ---
 
-The largest art museum in the western United States, with a holding of around 150,000 works ranging from Korean ceramics to European masters to Chris Burden's instantly recognisable lawn of restored streetlamps at the entrance. The campus is in the middle of a long demolition and rebuild by the Swiss architect Peter Zumthor — large portions of the original museum have been replaced by a single sweeping new structure.
+The Los Angeles County Museum of Art anchors Museum Row and is the largest art museum in the western United States, with a collection spanning ancient art to the present across Asian, Latin American, Islamic, and Western holdings. The campus is mid-redevelopment — a new Peter Zumthor-designed building replaces several older galleries — so check which collections are on view before you go.
 
-LACMA sits next to the La Brea Tar Pits and the Petersen Automotive Museum, a useful Miracle Mile cluster. Closed Wednesdays.
+Out front, Chris Burden's *Urban Light* — a dense grid of 202 restored cast-iron street lamps — has become one of the most photographed spots in the city, free to walk through day or night. Nearby, Michael Heizer's *Levitated Mass*, a 340-ton boulder cantilevered over a walkway, is the other crowd-pleaser.

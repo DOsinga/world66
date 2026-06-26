@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
   - bar
   - sight
+  - dashilan
 latitude: 39.9013
 longitude: 116.3933
 score: 7.4

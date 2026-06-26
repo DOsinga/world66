@@ -7,6 +7,8 @@ phone: 213-765-6800
 snippet: Four floors of music history with interactive exhibits
 tags:
 - things_to_do
+- museum
+- downtown
 title: GRAMMY Museum
 type: poi
 url: www.grammymuseum.org

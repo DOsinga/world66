@@ -6,6 +6,7 @@ phone: 323-664-3232
 snippet: Silver Lake vinyl institution open since 1979
 tags:
 - shopping
+- silverlake
 title: Rockaway Records
 type: poi
 url: www.rockaway.com

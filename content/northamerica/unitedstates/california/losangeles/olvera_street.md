@@ -8,6 +8,7 @@ snippet: Pedestrian Mexican market lane beside LA's oldest surviving building
 tags:
 - things_to_do
 - landmark
+- downtown
 title: Olvera Street
 type: poi
 score: 7.9

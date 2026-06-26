@@ -3,7 +3,7 @@ title: Los Angeles County Museum of Art
 type: poi
 latitude: 34.0639
 longitude: -118.3592
-tags: [things_to_do, sight, museum]
+tags: [things_to_do, sight, museum, miracle_mile]
 story: Chris Burden's *Urban Light*, the lawn of 202 restored cast-iron streetlamps salvaged from Los Angeles streets of the 1920s and 1930s, has become one of the most photographed objects in the city. The lamps switch on at dusk and the gathering of selfie-takers is unbroken until midnight.
 score: 7.9
 ---

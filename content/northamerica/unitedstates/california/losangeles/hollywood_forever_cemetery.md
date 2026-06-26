@@ -12,6 +12,7 @@ snippet: Celebrity graves and summer outdoor film screenings
 tags:
 - things_to_do
 - sight
+- hollywood
 title: Hollywood Forever Cemetery
 type: poi
 url: www.hollywoodforever.com

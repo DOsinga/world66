@@ -7,6 +7,7 @@ snippet: Century-old funicular climbing Bunker Hill in under a minute
 tags:
 - things_to_do
 - landmark
+- downtown
 title: Angels Flight Railway
 type: poi
 url: www.angelsflight.org

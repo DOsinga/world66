@@ -2,6 +2,7 @@
 done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-01'
+  major_city_neighborhoods: '2026-06-26'
   poi_cleanup: '2026-04-21'
 image: losangeles.jpg
 image_license: CC BY-SA 3.0
@@ -32,17 +33,17 @@ BURBANK/SAN FERNANDO VALLEY
 
 The obvious are the entertainment related. Let’s start northeast and work our way south. 10 miles north of downtown is GLENDALE & BURBANK. Not as well know but that’s where the inside work of entertainment is. Glendale is home to DreamWorks Animation and Nickelodeon Animation studios (no tours) and hundreds of small production studios, special effects and prop houses. As we move to Burbank, NBC’s West Coast HQ’s & Disney’s main HQ’s are there (both on Olive St.). A block away is Disney Animation and Disney Channel’s building. The Disney HQ features the 7 dwarves “holding up” the roof – the lot also houses a small studio. It is closed to the public but you can photograph from the street. The Tonight Show is taped at the NBC studios. There is a queue out front on taping days starting by early afternoon. If you look up to the mountain range, the back part of Griffith Park – that is where MASH was filmed. A few blocks further west is the WARNER BROS. STUDIO – you can’t miss the mammoth advertising – it is also a working studio and there are tours. I believe you have to call ahead to reserve (unlike Universal Studios). As you continue along Ventura Blvd., there are other studios (mostly TV) that are discreet in appearance such as the CBS STUDIO CENTER where there are always dozens of sitcoms being taped there (Seinfeld was there). You can get free tickets – sitcoms usually tape Friday nights. At that point, you can swing south and no more than a few miles away is UNIVERSAL STUDIOS. No great detail needed here, as it’s internationally known.
 
-HOLLYWOOD
+[HOLLYWOOD](/northamerica/unitedstates/california/losangeles/hollywood)
 
 Yes, there really is a city called Hollywood. It’s about 3 miles south of Universal City. As you exit the freeway, the Hollywood Bowl is hidden in the hills to your right and a few blocks away is the famous CAPITOL RECORDS round building (that resembles a stack of records) that we know. At that point you are at the famous HOLLYWOOD & VINE. A few blocks to your right is the (Graumann’s) Mann’s Chinese Theater and the Hollywood WALK OF FAME. They also added a new mall and the now-famous KODAK THEATER where the Academy Awards are now permanently. The JIMMY KIMMEL SHOW also tapes across the street. While they have fixed up the neighborhood a bit and the streets with the theaters are packed day and night – the other streets are still a bit shady at night so the tourist stuff is best done by day. A couple blocks south is HOLLYWOOD HIGH SCHOOL. Going south to Melrose Avenue, if you turn left, you will soon hit PARAMOUNT. The gates are instantly recognizable but no tours. There is the HOLLYWOOD CEMETARY by Paramount Studios. There are also many other TV studios in the area but from the outside, they pretty much just look like office buildings. If you turn right on Melrose and then turn left on Fairfax, you can see CBS TELEVISION CENTER (more TV show tapings).
 
-CENTURY CITY
+[CENTURY CITY](/northamerica/unitedstates/california/losangeles/centurycity)
 
 About 10 miles west is Century City. It used to all belong to Fox but they had to sell it – allegedly to pay off debts from the production of Cleopatra. You can see glimpses of the Fox lot (no tour) and on the AVENUE of THE STARS is the famous “Nakatomi” building from DIE HARD (now known as the Fox Tower). AVENUE of the STARS also is west coast HQ’s for most cable companies and ABC (no tours). Nearby in Culver City is Sony & MGM (no tours and not much of a back lot).
 
 Now, you can overlay the next-level tourist destinations while you’re visiting some of the entertainment related sites.
 
-DOWNTOWN
+[DOWNTOWN](/northamerica/unitedstates/california/losangeles/downtown)
 
 Downtown is recognizable for the tallest building on the west coast – the Library Tower and many iconic buildings seen in countless TV shows and movies – including the round glass tower Bonaventure Hotel (TRUE LIES), the Arco Towers and the Wells Fargo Building (LA LAW). Even the streets in the area are often featured as they rise up and down on different tiers so a) the chase scene in a confined area can look different with every new shot and b) Downtown is pretty much deserted on the weekends. The Museum of Contemporary Art is here as is the new Frank Gehry Disney Symphony Hall. Other architectural showpieces are the Italianate Renaissance-style Biltmore Hotel, facing renewed Pershing Square, and the Beaux Arts-style Central Library, and the Mission-style Union Station captures the heyday of train travel. You can also catch the ANGEL’S FLIGHT cable car here – doesn’t really travel very far. LA DOWNTOWN is slowly evolving into more residential but for a huge massive metropolitan area, it’s essentially deserted past 6 PM and on the weekends. As it’s tilted towards financially related companies, they do tend to keep banker’s hours in DOWNTOWN. There are some hidden (night) clubs and other hangouts for artists but you have to know where to look.
 
@@ -54,13 +55,13 @@ Going a few blocks is the Convention Center. While the Convention Center is nice
 
 Further south is USC and the Coliseum.
 
-CHINATOWN/JAPANTOWN/OLIVERIA STREET/CIVIC CENTER
+[CHINATOWN](/northamerica/unitedstates/california/losangeles/chinatown)/JAPANTOWN/OLIVERIA STREET/CIVIC CENTER
 
 Slightly east and north of downtown. To be honest, L.A. Chinatown is much better seen in the movies – in reality, it’s 4 or 5 drab looking streets with a few touristy looking Chinese gates and arches. There are very few actual Chinese people in Chinatown. They have nearly all moved east to Fullerton Heights/Rowland Heights. So, with the exception of the Dim Sum in the Empress Palace, don’t not eat here unless you think TV-dinner quality fried rice is exotic. There are some amusing trinket stores and other gewgaw stores but it’s pretty much nothing. Chinatown is really more Vietnamese than anything – so if you love Vietnamese noodles, you can’t go wrong with many choices. Japantown is not much better. L.A. offers hundreds if not thousands of excellent Japanese restaurants – some internationally famous - ironically enough, in Japantown, there’s not much to recommend. Oliveria Street, the historic Latino/Hispanic community is a worthwhile stop however. It is a bustling community of colorful shops, restaurants and street vendors. El Pueblo de Los Angeles Historic Monument encompasses 27 buildings of historical or architectural significance. You can also tour the 1818 Avila Adobe, the city's oldest home.
 
 The world famous CITY HALL is in this area. On the freeway and one exit north is Dodger Stadium.
 
-KOREATOWN
+[KOREATOWN](/northamerica/unitedstates/california/losangeles/koreatown)
 
 As you go further west along OLYMPIC BLVD, you will run into Koreatown, it’s not contiguous but it’s a working community – again full of people doing business, shopping and eating. If you love your kimchee and BBQ – you really can’t go wrong. There are several huge malls with many shops and giant supermarkets. Most of the signs are in Korean but that hardly matters.
 
@@ -76,7 +77,7 @@ Further north in Burbank downtown is even greater shopping – another huge Medi
 
 On the other side of Glendale is GRIFFITH PARK – where you can find an oasis of green. There is a Gene Autry museum; some kids attractions and best of all – Griffith Park Observatory. If the skies are clear and the smog not too bad, it’s definitely worth a winding road drive to see both LA from a great vantage point and of course, the setting for countless movies (TERMINATOR, BOWFINGER, et al).
 
-SILVER LAKE, LOS FELIZ, AND ECHO PARK
+[SILVER LAKE](/northamerica/unitedstates/california/losangeles/silverlake), LOS FELIZ, AND ECHO PARK
 
 For those who want to explore the hidden L.A., nearby are three cities with artisan communities with hip movie stars, offbeat shopping, fun nightclubs and great restaurants.
 
@@ -88,13 +89,13 @@ HOLLYWOOD HILLS
 
 Above West Hollywood and further west, this is where the famous and rich houses in the hill start. A daytime driving activity for those so inclined.
 
-WEST HOLLYWOOD
+[WEST HOLLYWOOD](/northamerica/unitedstates/california/losangeles/westhollywood)
 
 One of the first upscale gay communities, it is not really so defined now. People of all persuasion call it home – but only if you’re wealthy and stylish :- ) The famous Sunset Strip is in the area. It is not surprisingly full of great restaurants and star watching (original Wolfgang Puck’s Spago’s is here).
 
 MELROSE AVENUE
 
-South of West Hollywood is the segment of Melrose Avenue made famous. It really just runs from about 3rd Street to Fairfax – full of one-of-a-kind-shopping, it is less unique than it once was but still fun to check out. A few blocks south is on Fairfax is the Farmer’s Market (Next to CBS TV Center noted above) along with L.A.’s latest upscale mall – the Grove. A few blocks south is the LaBrea Tar Pits and the LA County Museum. Forget the fancy restaurants – stop by Roscoe’s Chicken & Waffle House! (not really on Melrose but in the area). There are also more 3-star/4-star restaurants in the area (not on Melrose itself) so pick up a ZAGAT guide to see what fits your bill. Again, everything from a $3 lunch to $300 lunch is in the area.
+South of West Hollywood is the segment of Melrose Avenue made famous. It really just runs from about 3rd Street to Fairfax – full of one-of-a-kind-shopping, it is less unique than it once was but still fun to check out. A few blocks south is on Fairfax is the Farmer’s Market (Next to CBS TV Center noted above) along with L.A.’s latest upscale mall – the Grove. A few blocks south, along the [Miracle Mile](/northamerica/unitedstates/california/losangeles/miracle_mile), are the LaBrea Tar Pits and the LA County Museum. Forget the fancy restaurants – stop by Roscoe’s Chicken & Waffle House! (not really on Melrose but in the area). There are also more 3-star/4-star restaurants in the area (not on Melrose itself) so pick up a ZAGAT guide to see what fits your bill. Again, everything from a $3 lunch to $300 lunch is in the area.
 
 LACIENGA (North of WILSHIRE)
 
@@ -102,7 +103,7 @@ Another fabled LA street. Here you’ll find the Beverly Center and the internat
 
 There are also many 5-star hotels in the area.
 
-BEVERLY HILLS (WEST of LACIENEGA)
+[BEVERLY HILLS](/northamerica/unitedstates/california/losangeles/beverlyhills) (WEST of LACIENEGA)
 
 It’s a clich&eacute; but it’s also all-true. The streets are filled with Bentley’s and Ferrari’s. There are drop-dead gorgeous women who are walking a French poodle wearing a diamond collar worth more than most people. It’s all fake but very real. Rodeo is only a few blocks long and perhaps not as ritzy and unique as before but still the embodiment of the leisure life. There is of course, more shopping everywhere including a Barney’s across from Rodeo. There are less discreet 5-star hotels right on Wilshire (PRETTY WOMAN) and more discreet 5-star hotels closer to the mountain range – too many to name. The Merv Griffin Beverly Hills Hilton is nearby – where the Golden Globes are held every year.
 
@@ -128,7 +129,7 @@ For teens and tourists, the mall, the pier and the boardwalk are big draws – f
 
 Santa Monica has some world class resorts, spas and hotels near the beach.
 
-VENICE BEACH
+[VENICE BEACH](/northamerica/unitedstates/california/losangeles/venice_beach)
 
 South of Santa Monica is Venice Beach/Muscle Beach. It’s not so much a clich&eacute; but people who live and hang there are there to play their part in the LA movie of life. It’s something everyone has to do – it’s amusing and some point or another, you have to do it. Parking is difficult. Venice also has a nice Farmer’s Market on the weekends with great breakfasts. You can also drive around the canal area to see some excellent Post-Modern homes as well as Frank Gehry’s house – along with his fun design of the ad agency Chiat/Day Mojo on Main Street.
 

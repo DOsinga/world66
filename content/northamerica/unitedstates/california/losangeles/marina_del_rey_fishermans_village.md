@@ -7,6 +7,8 @@ phone: 310-822-6866
 snippet: Relaxed waterfront harbor with kayaks and sunset cruises
 tags:
 - things_to_do
+- sight
+- marinadelrey
 title: Marina del Rey Fisherman's Village
 type: poi
 url: www.visitmarina.com

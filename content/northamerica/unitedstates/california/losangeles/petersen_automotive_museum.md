@@ -3,7 +3,7 @@ title: Petersen Automotive Museum
 type: poi
 latitude: 34.0623
 longitude: -118.3614
-tags: [things_to_do, sight, museum]
+tags: [things_to_do, sight, museum, miracle_mile]
 score: 7.6
 ---
 

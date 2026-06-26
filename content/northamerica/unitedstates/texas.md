@@ -32,6 +32,7 @@ Summers are brutally hot across most of the state, with temperatures routinely h
 [Arlington](/northamerica/unitedstates/texas/arlington) |
 [Big Bend National Park](/northamerica/unitedstates/texas/big_bend_national_park) |
 [Brenham](/northamerica/unitedstates/texas/brenham) |
+[Brownsville](/northamerica/unitedstates/texas/brownsville) |
 [Buffalo Gap](/northamerica/unitedstates/texas/buffalo_gap) |
 [Galveston](/northamerica/unitedstates/texas/galveston) |
 [Kerrville](/northamerica/unitedstates/texas/kerrville) |

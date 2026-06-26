@@ -41,3 +41,4 @@ West Bengal is largely safe for independent travellers. Bengali hospitality is g
 - [Krishnanagar](/asia/india/westbengal/krishnanagar) — clay sculpture tradition of Ghurni
 - [Asansol](/asia/india/westbengal/asansol) — industrial city in the Chota Nagpur coalfields
 - [Durgapur](/asia/india/westbengal/durgapur) — the "Ruhr of India"; steel city on the Damodar River
+- [Purulia](/asia/india/westbengal/purulia) — dry plateau district town and base for Chhau culture

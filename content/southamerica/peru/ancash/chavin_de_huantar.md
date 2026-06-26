@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -9.5833
 longitude: -77.2500
-score: 0.52
+score: 7.4
 snippet: "High Andean town beside a UNESCO ceremonial centre that shaped early pan-Peruvian culture."
 sources:
   - https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar

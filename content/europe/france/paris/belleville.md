@@ -3,6 +3,7 @@ image: belleville.jpg
 image_attribution: pkmk on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/7214903@N03/5815051894
+snippet: Hilly, multicultural eastern district of cheap eats, street art, and city views
 latitude: 48.8719
 longitude: 2.3769
 tags:

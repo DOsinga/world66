@@ -7,6 +7,7 @@ snippet: Eccentric tropical-themed bar along Canal Saint-Martin
 tags:
 - bars_and_cafes
 - bar
+- canal_saint_martin
 title: Le Comptoir Général
 type: poi
 url: www.lecomptoirgeneral.com

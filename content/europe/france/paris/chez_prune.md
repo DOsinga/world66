@@ -8,6 +8,7 @@ snippet: The original canal-side cafe that made the Canal Saint-Martin fashionab
 tags:
 - bars_and_cafes
 - bar
+- canal_saint_martin
 title: Chez Prune
 type: poi
 score: 6.5

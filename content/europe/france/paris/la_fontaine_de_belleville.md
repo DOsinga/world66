@@ -7,6 +7,7 @@ snippet: Third-wave coffee roaster and cafe at the corner of Canal Saint-Martin
 tags:
 - bars_and_cafes
 - bar
+- canal_saint_martin
 title: La Fontaine de Belleville
 type: poi
 url: www.cafebelleville.com

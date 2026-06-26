@@ -1,7 +1,7 @@
 ---
 address: 80 Quai de Jemmapes, 75010 Paris
-latitude: 48.868881
-longitude: 2.365923
+latitude: 48.8723977
+longitude: 2.3650210
 opening_hours: Daily from 6pm (weekends from noon)
 snippet: Eccentric tropical-themed bar along Canal Saint-Martin
 tags:

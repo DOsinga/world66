@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Christiansborg_from
 latitude: 55.6761
 loc_type: city
 longitude: 12.5683
+quick_facts:
+  Bikes: Outnumber the cars
+  Little Mermaid: Just 1.25 m tall
+  Nyhavn: Hans Christian Andersen's home
+  Tivoli: Among the oldest theme parks
 score: 9.47
 snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
   and bold modern architecture.
+tip: Copenhagen is flat and bike-mad — rent a bike and move like a local; there are
+  more bikes than cars. The Little Mermaid statue is famously small and underwhelming,
+  so don't build a day around it. Nyhavn's painted houses are the photo. The best
+  'new Nordic' meals are often at lunch, when the tasting menus cost far less.
 title: Copenhagen
 type: location
 ---

@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:AshiNoKo.jpg
 latitude: 35.2
 loc_type: city
 longitude: 139.02
+quick_facts:
+  Onsen: Hot springs in Fuji's shadow
+  Open-Air Museum: Sculptures in the hills
+  Owakudani: Black eggs boiled in sulphur
+  The Loop: Train, ropeway & 'pirate ship'
 score: 9.48
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views
   toward Mount Fuji
+tip: Hakone is a hot-spring town in view of Mt Fuji — buy the Hakone Free Pass for
+  the loop of train, cable car, ropeway and 'pirate ship' across Lake Ashi. Fuji is
+  shy; clear-season mornings give the best odds. Many ryokan onsen require you to
+  bathe naked and cover tattoos, so check the rules first.
 title: Hakone
 type: location
 ---

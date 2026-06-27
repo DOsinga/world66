@@ -12,10 +12,10 @@ latitude: 50.087465
 loc_type: city
 longitude: 14.421254
 quick_facts:
-  Astronomical Clock: Ticking since 1410
-  Beer: World's highest consumption per head
-  Castle: Largest ancient castle complex
-  WWII: Survived largely intact
+  Astronomical Clock: Running since 1410
+  Beer: World's top per head
+  Castle: Largest ancient complex
+  Population: 1.3 million
 score: 9.6
 snippet: Central European capital on the Vltava, dense with intact Gothic, Baroque,
   and Art Nouveau streetscapes.

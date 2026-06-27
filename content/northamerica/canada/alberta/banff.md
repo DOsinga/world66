@@ -12,10 +12,10 @@ latitude: 51.175076
 loc_type: city
 longitude: -115.572077
 quick_facts:
-  Established: Canada's first national park (1885)
+  Born From: A hot spring
+  Elevation: 1,400 m
+  Established: 1885, Canada's first park
   Lake Colour: Glacial rock flour
-  Origin: A hot-spring discovery
-  Townsite: Sits inside the park
 score: 9.78
 snippet: Rocky Mountain park town surrounded by Canada's first national park, hot
   springs, elk, and alpine peaks

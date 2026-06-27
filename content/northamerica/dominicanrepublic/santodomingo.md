@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:SantoDomingoedit.JPG
 latitude: 18.4861
 loc_type: city
 longitude: -69.9312
+quick_facts:
+  First Cathedral: Of the New World, 1540
+  Founded: '1496'
+  Oldest in the Americas: First European city
+  Population: ~1 million
 score: 8.17
 snippet: Caribbean capital whose Zona Colonial preserves the oldest European city
   streets in the Americas.
+tip: Santo Domingo's Zona Colonial is the oldest European city in the Americas — Columbus's
+  son built the first cathedral, fortress and palace here, all UNESCO-listed. Walk
+  the Calle Las Damas, the first paved street in the New World. The old town is atmospheric
+  by night; beyond it, the city is busy and modern. Spanish helps a lot.
 title: Santo Domingo
 type: location
 ---

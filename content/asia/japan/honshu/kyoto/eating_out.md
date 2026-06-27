@@ -1,6 +1,0 @@
----
-title: "Eating Out"
-type: section
----
-
-Kyoto is arguably the most rewarding city in Japan to eat in. The local cuisine, *Kyō-ryōri*, is based on the refinement of Buddhist temple cooking, aristocratic court dishes, and a long coastal-trade tradition that brought sea-bream, konbu and sea-vegetables inland. Its most famous expression is **kaiseki**, the multi-course seasonal tasting menu that evolved from the tea ceremony and is now served in a handful of *ryōtei* restaurants at rarefied prices. But the everyday Kyoto table is just as interesting: **yudofu** (boiled tofu in a kelp broth), **obanzai** (home-style side dishes), **yuba** (tofu skin), simmered wagyū, river fish from the Kamo, and the extraordinary pickles (*tsukemono*) the city has been making for centuries. For approachable eating, **Nishiki Market** in the centre of town is the obvious starting point; **Pontocho Alley** beside the Kamo River has a long line of riverfront restaurants and, in summer, open *kawadoko* platforms suspended over the water. **Gion** hides the most famous temples of traditional dining, but most of them require advance reservations (often from your hotel) and deep pockets. For something cheaper, the lanes around **Kyoto Station** and the basement restaurant floors of the big department stores are reliably good and very reasonable.

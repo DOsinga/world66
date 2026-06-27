@@ -1,6 +1,0 @@
----
-title: "Things to Do"
-type: section
----
-
-St Petersburg is packed with world-class museums, imperial palaces, and monuments at every turn. [The Hermitage](/europe/russia/stpetersburg/thehermitage) dominates — and the modernist galleries in the [General Staff Building](/europe/russia/stpetersburg/general_staff_building) across Palace Square hold its Impressionists — but the city's other essentials are scattered widely. The [Church of the Savior on Spilled Blood](/europe/russia/stpetersburg/church_of_the_savior_on_blood) is the photograph everyone knows; [St Isaac's Cathedral](/europe/russia/stpetersburg/st_isaacs_cathedral) and the [Peter and Paul Fortress](/europe/russia/stpetersburg/peter_and_paul_fortress) anchor the two great river views. The [Russian Museum](/europe/russia/stpetersburg/russian_museum), the [Faberge Museum](/europe/russia/stpetersburg/faberge_museum), the [Yusupov Palace](/europe/russia/stpetersburg/yusupov_palace), and the curiosity-strewn [Kunstkamera](/europe/russia/stpetersburg/kunstkamera) each warrant a half-day. Allow at least one day, ideally two, for the great imperial parks at [Peterhof](/europe/russia/stpetersburg/peterhof) and [Tsarskoye Selo](/europe/russia/stpetersburg/catherine_palace) outside the city.

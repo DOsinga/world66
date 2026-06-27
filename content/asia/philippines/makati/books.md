@@ -1,5 +1,0 @@
----
-title: "Books"
-type: section
----
-

@@ -10,9 +10,9 @@ loc_type: city
 longitude: -109.3497
 quick_facts:
   Local Name: Rapa Nui
-  Moai: Nearly 900 carved statues
+  Moai Statues: ~900
   Quarry: Half-carved moai remain
-  Remoteness: 3,500 km to mainland Chile
+  Remoteness: 3,500 km to Chile
 score: 9.51
 snippet: Remote Rapa Nui island in the South Pacific, famous for its volcanic landscape
   and moai statues.

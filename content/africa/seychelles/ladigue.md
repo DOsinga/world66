@@ -12,10 +12,10 @@ latitude: -4.3601
 loc_type: city
 longitude: 55.8385
 quick_facts:
-  Anse Source D'Argent: Most-photographed beach
-  Boulders: Sculpted pink granite
-  Giant Tortoises: Roam the island
-  Transport: Bicycles, barely any cars
+  Anse Source d'Argent: Most-photographed beach
+  Area: 10 km²
+  Cars: Almost none
+  Population: ~2,800
 score: 9.45
 snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox
   carts around La Passe.

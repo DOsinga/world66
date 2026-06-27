@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Tower_of_London.jpg
 latitude: 51.5074
 loc_type: city
 longitude: -0.1278
+quick_facts:
+  Big Museums: Free to enter
+  Black Cabs: Drivers pass 'the Knowledge'
+  Royal Parks: Eight across the city
+  The Underground: World's oldest metro (1863)
 score: 9.81
 snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, West
   End theatre, markets, and Georgian pubs.
+tip: Tap a contactless card or phone on buses and the Tube — no paper ticket needed,
+  and daily fares cap automatically. Many world-class museums (British Museum, Tate,
+  the National Gallery) are free. Stand on the right of escalators or risk a Londoner's
+  glare, and mind the gap.
 title: London
 type: location
 ---

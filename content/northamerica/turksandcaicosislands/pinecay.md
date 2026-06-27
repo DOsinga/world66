@@ -4,10 +4,11 @@ done:
 latitude: 21.88
 loc_type: city
 longitude: -72.107
-score: 0.54
+score: 8.6
 title: Pine Cay
 type: location
-snippet: Private Turks and Caicos island between Providenciales and North Caicos, with no paved roads.
+snippet: Private Turks and Caicos island between Providenciales and North Caicos,
+  with no paved roads.
 ---
 
 Pine Cay is a small private island between [Providenciales](/northamerica/turksandcaicosislands/providenciales) and North Caicos, accessible only to guests of [The Meridian Club](/northamerica/turksandcaicosislands/pinecay/the_meridian_club), a low-key resort that has been operating here since the 1970s. There are no day-trippers, no day visitors, and no public ferry.

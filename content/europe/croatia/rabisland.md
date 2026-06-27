@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rab1.jpg
 latitude: 44.775687
 loc_type: city
 longitude: 14.734712
-score: 0.57
+score: 8.83
 snippet: Kvarner Gulf island with rare sandy beaches, pine forests, and a medieval
   town skyline of four bell towers.
 sources:

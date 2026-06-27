@@ -4,7 +4,7 @@ done:
 latitude: 29.9352
 loc_type: feature
 longitude: 52.8904
-score: 0.57
+score: 8.83
 snippet: Achaemenid ceremonial capital near Shiraz, preserved in stone terraces, reliefs,
   and imperial stairways.
 title: Persepolis

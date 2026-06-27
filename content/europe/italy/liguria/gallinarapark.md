@@ -7,9 +7,10 @@ excerpt: A rocky, forested island one mile off the coast of Albenga — once hom
 latitude: 44.0333
 longitude: 8.2
 title: Gallinara Island Regional Park
-snippet: Small wooded Ligurian island reserve off Albenga, layered with hermit, monastic, and maritime history
+snippet: Small wooded Ligurian island reserve off Albenga, layered with hermit, monastic,
+  and maritime history
 type: location
-score: 0.44
+score: 7.7
 loc_type: feature
 ---
 

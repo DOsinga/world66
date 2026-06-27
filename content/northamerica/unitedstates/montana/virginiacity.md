@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Virginia_City,_Montana.jpg
 latitude: 45.3535
 loc_type: city
 longitude: -111.9418
-score: 0.4
+score: 7.2
 snippet: Preserved Montana gold-rush town, left with Victorian storefronts after Alder
   Gulch riches ran out.
 sources:

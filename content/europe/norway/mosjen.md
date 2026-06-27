@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Mosjoeen_Olderskog.jpg
 latitude: 65.836
 loc_type: city
 longitude: 13.1908
-score: 0.41
+score: 7.41
 title: Mosjøen
-snippet: "Small Vefsfjord town in central Norway, noted for Sjøgata's preserved wooden waterfront."
+snippet: Small Vefsfjord town in central Norway, noted for Sjøgata's preserved wooden
+  waterfront.
 type: location
 ---
 

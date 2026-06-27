@@ -6,10 +6,11 @@ done:
   location_enrich: '2026-05-13'
 latitude: 11.2408
 longitude: -74.199
-score: 0.51
+score: 8.32
 title: Santa Marta
 type: location
-snippet: Caribbean port founded in 1525, backed by the Sierra Nevada de Santa Marta and national parks.
+snippet: Caribbean port founded in 1525, backed by the Sierra Nevada de Santa Marta
+  and national parks.
 loc_type: city
 image: santamarta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2018_Santa_Marta_(Colombia)_-_Casa_amarilla_en_la_esquina_de_la_calle_18_con_carrera_4.jpg

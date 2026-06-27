@@ -8,7 +8,7 @@ title: San Pedro
 snippet: Main town on Ambergris Caye, Belize's most developed base for reef diving
   and island tourism.
 type: location
-score: 0.52
+score: 8.45
 loc_type: city
 image: san_pedro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:San_Pedro,_Ambergris_Caye.jpg

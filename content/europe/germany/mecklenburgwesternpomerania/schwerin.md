@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schwerin_Schloss3.JPG
 latitude: 53.6288
 loc_type: city
 longitude: 11.4148
-score: 0.45
+score: 7.76
 snippet: Lake-ringed Mecklenburg capital centred on Schweriner Schloss, a castle island
   in the Schweriner See.
 sources:

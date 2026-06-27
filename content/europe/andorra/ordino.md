@@ -2,7 +2,7 @@
 latitude: 42.556
 loc_type: city
 longitude: 1.533
-score: 0.47
+score: 8.01
 snippet: Northern Andorran parish in the Valira del Nord valley, quieter than the
   duty-free south
 title: Ordino

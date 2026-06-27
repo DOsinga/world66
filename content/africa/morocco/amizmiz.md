@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amizmiz_003.jpeg
 latitude: 31.217101
 loc_type: city
 longitude: -8.233275
-score: 0.37
+score: 6.94
 snippet: Small Berber town below the High Atlas, known for its Tuesday souk and trekking
   access.
 title: Amizmiz

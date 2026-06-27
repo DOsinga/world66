@@ -8,9 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Paradeep_sea_beach.jpg
 latitude: 20.279738
 loc_type: city
-snippet: Odisha port city at the Mahanadi's mouth, with cargo docks, casuarina-backed beach, and marine drive.
+snippet: Odisha port city at the Mahanadi's mouth, with cargo docks, casuarina-backed
+  beach, and marine drive.
 longitude: 86.612273
-score: 0.26
+score: 5.82
 title: Paradeep
 type: location
 ---

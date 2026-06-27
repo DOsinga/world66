@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_jiufen_panorama_2015.jpg
 latitude: 25.1085
 loc_type: city
 longitude: 121.8443
-score: 0.64
+score: 9.24
 snippet: Former Taiwanese gold-mining town of stepped lanes, red lanterns, and teahouses
   above the northeast coast.
 title: Jiufen

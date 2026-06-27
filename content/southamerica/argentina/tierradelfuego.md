@@ -5,7 +5,7 @@ done:
 latitude: -54.3815
 loc_type: city
 longitude: -67.5679
-score: 0.52
+score: 8.44
 title: Tierra del Fuego
 type: location
 image: tierradelfuego.jpg

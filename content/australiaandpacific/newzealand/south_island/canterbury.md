@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldy_Hill_from_Snowslide_
 latitude: -43.494176
 loc_type: city
 longitude: 171.809845
-score: 0.48
+score: 8.07
 snippet: South Island region stretching from the Southern Alps to Christchurch and
   the Pacific coast
 title: Canterbury

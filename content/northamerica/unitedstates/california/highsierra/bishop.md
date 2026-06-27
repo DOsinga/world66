@@ -5,8 +5,9 @@ done:
 latitude: 37.3637
 loc_type: city
 longitude: -118.3952
-score: 0.45
-snippet: Eastern California high-desert town between Sierra peaks and White Mountain bristlecone pines.
+score: 7.78
+snippet: Eastern California high-desert town between Sierra peaks and White Mountain
+  bristlecone pines.
 title: Bishop
 type: location
 ---

@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria-Sandanski-03.jpg
 latitude: 41.565416
 loc_type: city
 longitude: 23.278643
-score: 0.39
-snippet: Bulgarian spa town below the Pirin mountains, known for warm climate and mineral springs.
+score: 7.14
+snippet: Bulgarian spa town below the Pirin mountains, known for warm climate and
+  mineral springs.
 title: Sandanski
 type: location
 ---

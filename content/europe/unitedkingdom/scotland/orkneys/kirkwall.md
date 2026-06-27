@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kirkwall_Harbour.jpg
 latitude: 58.9809
 loc_type: city
 longitude: -2.9605
-score: 0.51
+score: 8.28
 snippet: Orkney capital and harbour town centred on red-and-yellow St Magnus Cathedral
   and Norse history.
 title: Kirkwall

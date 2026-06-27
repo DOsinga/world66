@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/68048650@N05/26365093297
 latitude: 49.9824
 loc_type: city
 longitude: 20.0602
-score: 0.51
+score: 8.36
 snippet: Kraków-area salt town above a vast medieval mine of chapels, statues, and
   underground halls.
 sources:

@@ -5,7 +5,7 @@ latitude: 38.018614
 longitude: -110.775178
 title: Henry Mountains
 type: location
-score: 0.38
+score: 7.05
 loc_type: feature
 snippet: Remote Utah mountain range above desert basins, long among the last mapped
   in the lower 48.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bavarian_Inn_Lodge,_Franke
 latitude: 43.332368
 loc_type: city
 longitude: -83.739229
-score: 0.41
+score: 7.31
 snippet: Michigan town founded by Bavarian immigrants, built around German food, architecture,
   and year-round Christmas shops
 title: Frankenmuth

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jining_Taibai_Lou_2015.08.
 latitude: 35.4
 loc_type: city
 longitude: 116.58
-score: 0.3
+score: 6.11
 snippet: Shandong canal city whose Grand Canal history sits beside Confucian pilgrimage
   routes to Qufu.
 sources:

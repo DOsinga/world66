@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/83346503@N00/1405640532
 latitude: 19.4147
 loc_type: city
 longitude: -102.0523
-score: 0.35
+score: 6.71
 snippet: Michoacán highland city of avocado country, Cupatitzio springs, and the Paricutín
   lava-field excursion.
 title: Uruapan

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skagway_aerial_view.jpg
 latitude: 59.456972
 loc_type: city
 longitude: -135.295049
-score: 0.53
+score: 8.54
 title: Skagway
 type: location
 snippet: Alaskan gold-rush town at Lynn Canal, preserving wooden storefronts from

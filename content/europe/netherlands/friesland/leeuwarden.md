@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/60057960@N06/52757897162
 latitude: 53.200594
 loc_type: city
 longitude: 5.791855
-score: 0.42
+score: 7.51
 title: Leeuwarden
 type: location
 snippet: Frisian provincial capital of canals, brick gables, and the famously leaning

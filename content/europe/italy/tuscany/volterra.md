@@ -7,7 +7,7 @@ done:
 latitude: 43.4003
 loc_type: city
 longitude: 10.86
-score: 0.58
+score: 8.91
 snippet: Tuscan hill town where Etruscan walls and alabaster workshops overlook the
   Cecina and Era valleys.
 title: Volterra

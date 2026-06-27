@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hotel_Aldridge_Wewoka.jpg
 latitude: 35.151164
 loc_type: city
 longitude: -96.493551
-score: 0.2
+score: 4.79
 snippet: Central Oklahoma prairie city and Seminole Nation capital, named for barking
   water and shaped by tribal history.
 title: Wewoka

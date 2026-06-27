@@ -6,6 +6,7 @@ story: The Winter Garden Theatre opened in 1914 as the upper of two stacked thea
 tags:
 - things_to_do
 - theatre
+- garden_district
 title: Elgin and Winter Garden Theatre Centre
 type: poi
 url: https://elginwintergarden.com

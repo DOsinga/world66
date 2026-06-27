@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DeadwoodSD_Downtown.jpg
 latitude: 44.374381
 loc_type: city
 longitude: -103.729072
-score: 0.44
+score: 7.71
 title: Deadwood
 type: location
 snippet: Black Hills gold-rush town where Wild Bill Hickok and Calamity Jane became

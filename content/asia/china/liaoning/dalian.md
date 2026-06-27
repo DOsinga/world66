@@ -6,7 +6,7 @@ done:
 latitude: 38.913
 loc_type: city
 longitude: 121.6098
-score: 0.41
+score: 7.33
 snippet: Liaodong Peninsula port city with sea air, old trams, and Russian-Japanese
   colonial squares.
 title: Dalian

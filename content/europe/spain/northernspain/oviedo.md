@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Oviedo_03.jpg
 latitude: 43.353345
 loc_type: city
 longitude: -5.87951
-score: 0.52
+score: 8.37
 snippet: Asturian capital and university city with pre-Romanesque churches, sidra
   bars, and a compact old centre.
 title: Oviedo

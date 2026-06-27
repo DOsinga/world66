@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_Bolivar_A_Chavez.j
 latitude: 12.1364
 loc_type: city
 longitude: -86.2514
-score: 0.32
+score: 6.33
 snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earthquake
   and rough urban energy.
 title: Managua
 type: location
 ---
 
-Managua is the capital of [Nicaragua](/northamerica/nicaragua), a sprawling, low-rise city of about a million people on the shores of Lake Managua. The devastating earthquake of 1972 destroyed much of the old centre, and the reconstruction that followed never quite brought it back — the city lacks the colonial charm of [Granada](/northamerica/nicaragua/granada) or [Leon](/northamerica/nicaragua/leon). But Managua has its own rough energy, and most travellers pass through at least briefly.
+Managua is the capital of [Nicaragua](/northamerica/nicaragua), a sprawling, low-rise city of about a million people on the shores of Lake Managua. The devastating earthquake of 1972 destroyed much of the old centre, and the reconstruction that followed never quite brought it back — the city lacks the colonial charm of [Granada](/northamerica/nicaragua/granada) or [Leon](/northamerica/nicaragua/len). But Managua has its own rough energy, and most travellers pass through at least briefly.
 
 The [new cathedral](/northamerica/nicaragua/managua/new_cathedral), with its distinctive pink and purple dome, is one of the more successful rebuilds. The [old cathedral](/northamerica/nicaragua/managua/old_cathedral), still in ruins, is dramatically lit at night. The [National Palace of Culture](/northamerica/nicaragua/managua/national_palace_of_culture) on the lakefront has been refurbished and hosts cultural events. The [Roberto Huembes market](/northamerica/nicaragua/managua/roberto_huembes_market) is worth a visit for handicrafts and a glimpse of daily Managuan life.
 

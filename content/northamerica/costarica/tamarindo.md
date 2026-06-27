@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costa_Rica_Playa_Tamarindo
 latitude: 10.2993
 loc_type: city
 longitude: -85.8401
-score: 0.54
+score: 8.59
 snippet: Guanacaste beach town built around a broad Pacific bay, consistent surf,
   and a busy visitor strip.
 title: Tamarindo

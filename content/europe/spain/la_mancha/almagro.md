@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Almagro_-_01.jpg
 latitude: 38.888238
 loc_type: city
 longitude: -3.711822
-score: 0.49
+score: 8.17
 title: Almagro
-snippet: Renaissance town in La Mancha, known for Spain's preserved Golden Age courtyard theatre.
+snippet: Renaissance town in La Mancha, known for Spain's preserved Golden Age courtyard
+  theatre.
 type: location
 ---
 

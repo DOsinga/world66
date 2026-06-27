@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/23371486@N04/2467653413
 latitude: 9.405199
 loc_type: city
 longitude: -0.842399
-score: 0.31
+score: 6.24
 snippet: Northern Ghanaian capital and transport hub, with Muslim culture, markets,
   and routes toward Mole National Park
 title: Tamale

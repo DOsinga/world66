@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Royal_Palace_of_G%C3%B6d%C
 latitude: 47.5984
 loc_type: city
 longitude: 19.348
-score: 0.42
+score: 7.46
 snippet: Small Hungarian town known for the Royal Palace of Gödöllő, Sisi's favourite
   country residence
 sources:

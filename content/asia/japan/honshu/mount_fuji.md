@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:070203_MM21%26FUJI.jpg
 latitude: 35.362838
 loc_type: feature
 longitude: 138.730768
-score: 0.76
+score: 9.71
 snippet: Japan's highest mountain and most recognisable volcanic cone, long central
   to art and pilgrimage.
 title: Mount Fuji

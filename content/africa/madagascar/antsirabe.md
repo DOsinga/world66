@@ -5,7 +5,7 @@ done:
 latitude: -19.871403
 loc_type: city
 longitude: 47.034667
-score: 0.38
+score: 7.06
 snippet: Highland market town in Madagascar, known for pousse-pousse transport, gemstones,
   and a cool plateau climate.
 title: Antsirabe

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Elephants_bath_park_w_Nige
 latitude: 12.35
 loc_type: feature
 longitude: 2.55
-score: 0.34
+score: 6.58
 snippet: Transboundary West African national park where Niger River bends frame savanna,
   forest, and big wildlife.
 title: W National Park

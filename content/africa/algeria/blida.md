@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:GazeboPlaceToute.jpg
 latitude: 36.470566
 loc_type: city
 longitude: 2.827494
-score: 0.28
+score: 5.93
 title: Blida
 type: location
 snippet: Tell Atlas foothill city known as the City of Roses and gateway to Chrea

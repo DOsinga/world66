@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Australia_2003_Hunter_Vall
 latitude: -32.450678
 loc_type: city
 longitude: 150.926241
-score: 0.51
+score: 8.34
 snippet: Australian wine region, the country's oldest, known for Semillon, Shiraz,
   and cellar doors around Pokolbin
 title: Hunter Valley

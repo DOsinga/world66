@@ -5,7 +5,7 @@ done:
 latitude: 52.4156
 loc_type: city
 longitude: 0.7487
-score: 0.27
+score: 5.84
 snippet: Norfolk market town in Breckland pine forest, with medieval royal roots and
   priory ruins.
 sources:

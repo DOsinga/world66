@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnold_Kats_State_Concert_
 latitude: 55.0288
 loc_type: city
 longitude: 82.9227
-score: 0.3
+score: 6.14
 snippet: Siberian metropolis born at the Trans-Siberian Railway's Ob River crossing,
   with opera and Constructivist architecture.
 title: Novosibirsk

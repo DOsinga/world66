@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabala,_Sierra_Leone_(West
 latitude: 9.587653
 loc_type: city
 longitude: -11.550064
-score: 0.25
+score: 5.59
 snippet: Northern Sierra Leone town below the Wara Wara Mountains, used for trips
   toward Mount Bintumani.
 title: Kabala

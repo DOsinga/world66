@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_gra
 latitude: 52.2958
 loc_type: city
 longitude: 5.1634
-score: 0.48
+score: 8.05
 snippet: Dutch fortress town whose intact star-shaped walls and moats still stamp
   the flat landscape near Amsterdam.
 title: Naarden

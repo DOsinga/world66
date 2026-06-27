@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fredericksburg1862_(croppe
 latitude: 38.3023
 loc_type: city
 longitude: -77.4599
-score: 0.41
+score: 7.38
 snippet: Virginia river town rich in colonial memory and Civil War battlefields between
   Washington and Richmond.
 title: Fredericksburg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chojnik_Castle.png
 latitude: 50.9002
 loc_type: city
 longitude: 15.7349
-score: 0.41
+score: 7.35
 snippet: Karkonosze gateway city in southwestern Poland, with an arcaded old square
   and mountain trails nearby.
 title: Jelenia Góra

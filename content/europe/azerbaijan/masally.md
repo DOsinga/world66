@@ -3,7 +3,7 @@ title: Masally
 type: location
 latitude: 39.032211
 longitude: 48.672109
-score: 0.24
+score: 5.49
 loc_type: city
 snippet: Southern Azerbaijani agricultural town near forested hills on the road between
   Baku and Astara.

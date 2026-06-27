@@ -30,8 +30,3 @@ will be very tempted to sample. It's fine dining at it's most casual
 for reasonable prices.The main courses are anywhere $10-$20 for a plate
 and a complete dinner with a glass of wine or a beer and a tip will
 cost you about $50/person.
-
-**Contributors**
-September 09, 2005
-
-type: International

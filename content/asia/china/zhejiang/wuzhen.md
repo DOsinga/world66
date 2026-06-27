@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20090913_Wuzhen_5129.jpg
 latitude: 30.63
 loc_type: city
 longitude: 120.57
-score: 0.53
+score: 8.52
 snippet: Zhejiang water town on the Grand Canal, with wooden houses, stone bridges,
   and ticketed quarters
 sources:

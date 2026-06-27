@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Capas_Tarlac_May_2018_(424
 latitude: 15.493725
 loc_type: city
 longitude: 120.496409
-score: 0.28
+score: 5.99
 snippet: Central Luzon provincial capital and crossroads, set among sugarcane country
   between Manila and northern hill regions.
 sources:

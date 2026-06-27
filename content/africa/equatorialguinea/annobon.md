@@ -7,7 +7,7 @@ loc_type: city
 snippet: Isolated volcanic island in the Gulf of Guinea, with cloud forest peaks and
   an Annobonese fishing culture
 longitude: 5.6374
-score: 0.23
+score: 5.44
 title: Annobon
 type: location
 ---

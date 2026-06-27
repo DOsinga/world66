@@ -5,7 +5,7 @@ snippet: Namib Desert clay pan framed by towering red dunes near Sesriem and the
 type: location
 latitude: -24.739534
 longitude: 15.29236
-score: 0.6
+score: 9.01
 loc_type: feature
 image: sossusvlei.jpg
 image_source: https://commons.wikimedia.org/wiki/File:28_Abgestorbene_B%C3%A4ume_im_Dead_Vlei_in_der_Namib-W%C3%BCste,_fotografiert_1997.jpg

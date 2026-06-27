@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ibri,_Oman_(2013).jpg
 latitude: 23.216164
 loc_type: city
 longitude: 56.515355
-score: 0.27
+score: 5.84
 snippet: Old Omani caravan town in Ad Dhahirah, with a fort, local souq, and nearby
   Bronze Age tombs
 title: Ibri

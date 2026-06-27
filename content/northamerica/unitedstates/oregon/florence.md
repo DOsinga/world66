@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Oregon_dunes_01.jpg
 latitude: 43.9826
 loc_type: city
 longitude: -124.0998
-score: 0.39
+score: 7.16
 snippet: Oregon coast town where the Siuslaw River meets old waterfront streets and
   vast coastal dunes.
 sources:

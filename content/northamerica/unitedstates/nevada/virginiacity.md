@@ -5,7 +5,7 @@ done:
 latitude: 39.310813
 loc_type: city
 longitude: -119.649517
-score: 0.41
+score: 7.31
 snippet: Silver boomtown on Nevada's Comstock Lode, with Victorian boardwalks and
   Mark Twain history.
 title: Virginia City

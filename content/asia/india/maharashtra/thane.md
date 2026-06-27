@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Talao_Pali,_Thane.jpg
 latitude: 19.2183
 loc_type: city
 longitude: 72.9781
-score: 0.26
+score: 5.8
 snippet: Mumbai-edge Maharashtra city whose surviving lakes give dense urban sprawl
   its most walkable corners.
 title: Thane

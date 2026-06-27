@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Geography_of_Grenada
 title: Grand Etang Forest Reserve
 type: location
-score: 0.48
+score: 8.06
 snippet: Grenadian cloud-forest reserve around a volcanic crater lake, with wet trails
   and Mona monkeys.
 ---

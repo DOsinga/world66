@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Anfiteatro,_Valle_de_la_Lu
 latitude: -22.9115
 loc_type: city
 longitude: -68.2014
-score: 0.63
+score: 9.2
 snippet: High desert oasis town in northern Chile, base for salt flats, volcanoes,
   and Atacama landscapes.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 19.516
 loc_type: city
 longitude: 98.2537
-score: 0.44
+score: 7.71
 snippet: Northern Thai market village among karst hills, known for Tham Lot and Shan
   hilltribe culture.
 title: Soppong

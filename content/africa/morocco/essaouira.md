@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Morocco_-_Essaouira_Part_2
 latitude: 31.5085
 loc_type: city
 longitude: -9.7595
-score: 0.59
+score: 8.95
 title: Essaouira
 type: location
 snippet: Atlantic Moroccan port city of whitewashed medina walls, blue shutters, seafood,

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saipan_at_Night.jpg
 latitude: 15.185
 loc_type: city
 longitude: 145.75
-score: 0.47
+score: 8.0
 snippet: Largest Northern Mariana island, with Pacific War memorial cliffs, reef diving,
   beaches, and Garapan as its hub.
 title: Saipan

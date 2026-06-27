@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bastia,_A_Marina,_Vechju_P
 latitude: 42.699398
 loc_type: city
 longitude: 9.450919
-score: 0.53
+score: 8.5
 snippet: Corsica's main port, a Genoese-built city with an Italianate old harbour
   and citadel quarter.
 title: Bastia

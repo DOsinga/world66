@@ -4,7 +4,7 @@ done:
 latitude: 42.618123
 loc_type: city
 longitude: 2.423093
-score: 0.42
+score: 7.45
 snippet: Têt Valley market town with a Baroque church, mountain access, and an unhurried
   Catalan feel
 title: Prades

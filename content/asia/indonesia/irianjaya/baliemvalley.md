@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20170903_Papouasie_Baliem_
 latitude: -3.9874
 loc_type: city
 longitude: 138.8773
-score: 0.45
+score: 7.74
 title: Baliem Valley
 type: location
 snippet: Papuan highland valley of Dani villages, Wamena markets, and treks through

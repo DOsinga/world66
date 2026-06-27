@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0912_Kirkenes_-_Hafen_(
 latitude: 69.727148
 loc_type: city
 longitude: 30.044897
-score: 0.46
+score: 7.89
 snippet: Arctic Norwegian border town where Hurtigruten voyages end beside taiga,
   fjords, and Barents Sea winters.
 title: Kirkenes

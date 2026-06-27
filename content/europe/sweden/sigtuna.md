@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stora_gatan_i_Sigtuna_nr_1
 latitude: 59.6165
 loc_type: city
 longitude: 17.7236
-score: 0.47
+score: 7.97
 sources:
 - https://en.wikipedia.org/wiki/Sigtuna
 title: Sigtuna

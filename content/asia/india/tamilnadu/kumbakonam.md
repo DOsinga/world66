@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumbakonam_Mahamaham_Tank.
 latitude: 10.960411
 loc_type: city
 longitude: 79.382086
-score: 0.4
+score: 7.22
 snippet: Cauvery Delta temple town with a dense cluster of major Dravidian temples
   within walking distance.
 title: Kumbakonam

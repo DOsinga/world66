@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kota_Gede_Jogjakarta.jpg
 latitude: -7.81831
 loc_type: city
 longitude: 110.397941
-score: 0.36
+score: 6.83
 snippet: Historic Yogyakarta district, former Mataram Sultanate centre and long-standing
   silver-working quarter.
 title: Kotagede

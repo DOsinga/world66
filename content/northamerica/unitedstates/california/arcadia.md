@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/96214671@N08/35272332470
 latitude: 34.136207
 loc_type: city
 longitude: -118.04015
-score: 0.33
+score: 6.55
 snippet: San Gabriel Valley city below the mountains, known for the Los Angeles County
   Arboretum.
 title: Arcadia

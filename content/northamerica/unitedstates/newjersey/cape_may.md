@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cape_May_NJ_from_airplane_
 latitude: 39.176539
 loc_type: city
 longitude: -74.801212
-score: 0.47
+score: 7.99
 snippet: Victorian seaside resort at New Jersey's southern tip, with landmark houses
   and broad Atlantic beaches.
 title: Cape May

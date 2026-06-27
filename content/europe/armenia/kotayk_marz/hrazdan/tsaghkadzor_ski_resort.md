@@ -3,12 +3,16 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 40.530158
 longitude: 44.670161
-title: Tsaghkadzor Ski Resort
-type: location
-score: 0.41
-loc_type: feature
+score: 7.32
 snippet: Forested Armenian ski resort with Soviet training roots, affordable winter
   runs, and Kecharis Monastery.
+tags:
+- things_to_do
+- activities
+- sight
+- skiing
+title: Tsaghkadzor Ski Resort
+type: poi
 ---
 
 Tsaghkadzor is Armenia's main ski resort, set in a forested valley about 50 km northeast of Yerevan. In Soviet times it served as an Olympic training ground; after a long post-independence decline, investment brought Austrian lifts, new runs, and a cluster of hotels that have turned it into a popular winter weekend destination for Armenians and a surprisingly affordable option for visiting skiers.

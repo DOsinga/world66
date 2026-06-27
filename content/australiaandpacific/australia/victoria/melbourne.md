@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-27'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: melbourne.jpg
 image_attribution: Dietmar Rabich
@@ -10,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_
 latitude: -37.8142
 loc_type: city
 longitude: 144.9632
-score: 0.65
+score: 9.32
 snippet: Australian cultural city of laneways, street art, immigrant food districts,
   and intense sporting loyalties
 title: Melbourne

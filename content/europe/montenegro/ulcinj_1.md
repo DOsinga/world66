@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ulcinj,_Montenegro_-_Sept.
 latitude: 41.926012
 loc_type: city
 longitude: 19.205556
-score: 0.48
+score: 8.03
 snippet: Southern Montenegrin coastal town near Albania, with an old town above long
   Adriatic beaches.
 title: Ulcinj

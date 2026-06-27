@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lunenburg,_Nova_Scotia,_Ca
 latitude: 44.3764
 loc_type: city
 longitude: -64.3115
-score: 0.52
+score: 8.39
 snippet: Colonial harbour town in Nova Scotia with an 18th-century grid and brightly
   painted wooden streetscapes.
 sources:
@@ -27,4 +27,4 @@ The town was founded in 1753 by German and Swiss Protestant settlers recruited b
 
 The Bluenose herself — or rather the replica, [Bluenose II](/northamerica/canada/novascotia/lunenburg/bluenose_ii) — is based in Lunenburg when not sailing and is one of the most recognizable vessels in Canada. You will have seen her on the Canadian dime. In summer you can sometimes sail aboard her. The waterfront is lively without being over-commercialized, and the back streets of the heritage district are full of well-preserved houses, gardens, and small businesses. The [Lunenburg Opera House](/northamerica/canada/novascotia/lunenburg/lunenburg_opera_house) is a working venue and worth checking for events.
 
-Lunenburg is the kind of place that rewards slow travel. The town centre is compact enough to walk thoroughly in a morning, but the surrounding South Shore coastline — fishing villages, beaches, and the nearby town of [Mahone Bay](/northamerica/canada/novascotia/mahone_bay) with its famous three churches — makes it worth staying two or three nights.
+Lunenburg is the kind of place that rewards slow travel. The town centre is compact enough to walk thoroughly in a morning, but the surrounding South Shore coastline — fishing villages, beaches, and the nearby town of Mahone Bay with its famous three churches — makes it worth staying two or three nights.

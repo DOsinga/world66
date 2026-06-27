@@ -4,7 +4,7 @@ done:
 latitude: 60.496
 loc_type: feature
 longitude: 29.7313
-score: 0.34
+score: 6.63
 snippet: Forest-and-lake isthmus between the Gulf of Finland and Lake Ladoga, historically
   contested with Finland
 title: Karelian Isthmus

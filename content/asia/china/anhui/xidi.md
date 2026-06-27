@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xidi-%E6%95%AC%E7%88%B1%E5
 latitude: 29.9044
 loc_type: city
 longitude: 117.9875
-score: 0.51
+score: 8.34
 snippet: UNESCO-listed Anhui village with whitewashed Huizhou merchant houses, dark
   tile roofs, and intricate woodcarving.
 sources:

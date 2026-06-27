@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mopti_053.jpg
 latitude: 14.514489
 loc_type: city
 longitude: -3.646458
-score: 0.35
+score: 6.75
 snippet: Malian river market town where the Niger and Bani meet, long used as a Dogon
   Country gateway.
 title: Mopti

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Odelouca_River_6_May_2015_
 latitude: 37.206256
 loc_type: city
 longitude: -8.513188
-score: 0.37
+score: 6.91
 snippet: Rural Algarve hill area shaped by the Odelouca Reservoir and quiet inland
   valleys.
 title: Odelouca

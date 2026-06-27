@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Milky_Way_over_Mina_de_S_D
 latitude: 37.671347
 loc_type: city
 longitude: -7.498263
-score: 0.35
+score: 6.66
 snippet: Abandoned Alentejo mining village near Spain, with Roman roots, British-era
   remains, and an acid-red pit lake.
 sources:

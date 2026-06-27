@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cahors_pont_Valentre_vgen.
 latitude: 44.4495
 loc_type: city
 longitude: 1.4365
-score: 0.48
+score: 8.02
 snippet: Lot River town wrapped by a water loop, known for Pont Valentré and dark
   Malbec wines.
 title: Cahors
@@ -19,4 +19,4 @@ Cahors sits in a dramatic loop of the River Lot in southwestern France, the old 
 
 The [old town](/europe/france/midi/dordogne/cahors/vieille_ville) is compact and pleasant to walk. The [Cathedral of Saint-Étienne](/europe/france/midi/dordogne/cahors/cathedrale_saint_etienne), with its two massive Romanesque domes, is among the most imposing churches in southwest France. The narrow medieval streets around it still have their half-timbered houses and the occasional hidden courtyard. The [Saturday market](/europe/france/midi/dordogne/cahors/marche_saturday) fills the square with local produce — foie gras, truffles, walnuts, and cheese from the surrounding Quercy countryside.
 
-Cahors makes a good base for exploring the Lot Valley. The river runs through a limestone gorge dotted with clifftop villages — [Saint-Cirq-Lapopie](/europe/france/midi/dordogne/saintcirqlapopie), perched above the water, is one of the most photographed villages in France.
+Cahors makes a good base for exploring the Lot Valley. The river runs through a limestone gorge dotted with clifftop villages — Saint-Cirq-Lapopie, perched above the water, is one of the most photographed villages in France.

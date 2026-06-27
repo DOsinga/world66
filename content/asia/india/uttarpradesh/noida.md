@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.
 latitude: 28.5706
 loc_type: city
 longitude: 77.3272
-score: 0.24
-snippet: Planned Delhi satellite city across the Yamuna, built around business parks, malls, and Film City.
+score: 5.47
+snippet: Planned Delhi satellite city across the Yamuna, built around business parks,
+  malls, and Film City.
 title: Noida
 type: location
 ---

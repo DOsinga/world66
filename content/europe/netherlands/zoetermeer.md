@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Netherlands,_Zoetermeer,_R
 latitude: 52.0622
 loc_type: city
 longitude: 4.4901
-score: 0.27
+score: 5.89
 snippet: Planned Randstad city between The Hague and Gouda, grown from a small village
   after the war.
 sources:

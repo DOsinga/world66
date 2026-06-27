@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coventry_Cathedral_2018.jp
 latitude: 52.4082
 loc_type: city
 longitude: -1.5105
-score: 0.34
+score: 6.56
 snippet: West Midlands city of wartime ruins, modernist rebuilding, and the paired
   old and new cathedrals
 sources:

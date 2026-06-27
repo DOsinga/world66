@@ -4,7 +4,7 @@ done:
 latitude: 35.530664
 loc_type: city
 longitude: 139.703767
-score: 0.37
+score: 6.91
 snippet: Tokyo Bay city between Tokyo and Yokohama, known for Kawasaki Daishi and
   industrial waterfront lights.
 title: Kawasaki

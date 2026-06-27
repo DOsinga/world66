@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abomey-K%C3%B6nigspalast3.
 latitude: 7.182001
 loc_type: city
 longitude: 1.993632
-score: 0.38
+score: 7.08
 snippet: Historic Beninese city of Dahomey royal palaces, bas-reliefs, vodun temples,
   and court history
 title: Abomey

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Boilermaker_race.jpg
 latitude: 43.100903
 loc_type: city
 longitude: -75.232664
-score: 0.29
+score: 6.05
 title: Utica
 type: location
 snippet: Mohawk Valley city on the old Erie Canal, reshaped by refugee communities

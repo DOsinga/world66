@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/39908901@N06/35303528733
 latitude: 40.597407
 loc_type: city
 longitude: -124.156034
-score: 0.34
+score: 6.56
 snippet: North Coast California town near Eureka, set inland from the Pacific in a
   milder redwood-country climate.
 title: Fortuna

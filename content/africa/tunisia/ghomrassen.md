@@ -5,7 +5,7 @@ done:
 latitude: 33.059899
 loc_type: city
 longitude: 10.339057
-score: 0.31
+score: 6.21
 snippet: Southern Tunisian town beneath eroded gorges, known for Berber ksour and
   a Star Wars granary set.
 title: Ghomrassen

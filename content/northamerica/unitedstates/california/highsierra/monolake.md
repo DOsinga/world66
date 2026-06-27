@@ -4,7 +4,7 @@ done:
 latitude: 38.007865
 loc_type: feature
 longitude: -118.967556
-score: 0.49
+score: 8.12
 snippet: Ancient alkaline Sierra Nevada lake where limestone tufa towers rise from
   mineral-white shores and bird-rich water.
 title: Mono Lake

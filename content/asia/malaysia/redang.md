@@ -4,7 +4,7 @@ done:
 latitude: 5.783416
 loc_type: feature
 longitude: 103.014076
-score: 0.53
+score: 8.47
 snippet: East-coast Malaysian island in a marine park, known for coral reefs, clear
   water, and resort beaches.
 title: Redang

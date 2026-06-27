@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Sant%27
 latitude: 40.447642
 loc_type: city
 longitude: 16.473574
-score: 0.65
+score: 9.28
 title: Matera
 type: location
 snippet: Ancient Basilicata cave city where the Sassi dwellings cut into tufa ravines.

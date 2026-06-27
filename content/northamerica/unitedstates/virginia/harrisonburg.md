@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:JMU_Quad_Fall_2015.JPG
 latitude: 38.4493
 loc_type: city
 longitude: -78.8689
-score: 0.34
+score: 6.63
 snippet: Shenandoah Valley college city shaped by James Madison University, Mennonite
   roots, and a lively downtown market.
 title: Harrisonburg

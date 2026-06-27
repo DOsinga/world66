@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skopje_view_from_Kale_3.jp
 latitude: 41.996182
 loc_type: city
 longitude: 21.431921
-score: 0.42
+score: 7.51
 title: Skopje
 type: location
 snippet: North Macedonian capital where Ottoman bazaar lanes sit beside the theatrical

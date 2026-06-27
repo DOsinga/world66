@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Ben
 latitude: 6.366615
 loc_type: city
 longitude: 2.08536
-score: 0.39
-snippet: Historic West African town where slave-trade memory and Vodun practice shape the streets and shoreline.
+score: 7.15
+snippet: Historic West African town where slave-trade memory and Vodun practice shape
+  the streets and shoreline.
 title: Ouidah
 type: location
 ---

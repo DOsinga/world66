@@ -2,7 +2,7 @@
 latitude: -28.3782
 loc_type: city
 longitude: 32.4106
-score: 0.45
+score: 7.75
 snippet: KwaZulu-Natal estuary town beside iSimangaliso wetlands, where hippos, dunes,
   beaches, and mangroves meet.
 title: St Lucia

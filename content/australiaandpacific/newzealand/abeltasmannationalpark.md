@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Abel_Tasman,_Aotearoa.jpg
 latitude: -40.9
 loc_type: feature
 longitude: 172.971
-score: 0.66
+score: 9.35
 snippet: Coastal New Zealand national park of golden beaches, granite headlands, and
   water-taxi trails.
 sources:
@@ -17,7 +17,7 @@ title: Abel Tasman National Park
 type: location
 ---
 
-Abel Tasman is New Zealand's smallest national park and consistently its most visited — a sixty-kilometre coastline of golden-sand beaches, granite headlands, and clear turquoise water at the northwestern tip of the South Island. There are no roads inside the park; you arrive by walking in from [Marahau](/australiaandpacific/newzealand/marahau) at the southern end or [Totaranui](/australiaandpacific/newzealand/abeltasmannationalpark/totaranui) at the northern end, by sea kayak, or by water taxi from Kaiteriteri.
+Abel Tasman is New Zealand's smallest national park and consistently its most visited — a sixty-kilometre coastline of golden-sand beaches, granite headlands, and clear turquoise water at the northwestern tip of the South Island. There are no roads inside the park; you arrive by walking in from Marahau at the southern end or [Totaranui](/australiaandpacific/newzealand/abeltasmannationalpark/totaranui) at the northern end, by sea kayak, or by water taxi from Kaiteriteri.
 
 The headline experience is the [Abel Tasman Coast Track](/australiaandpacific/newzealand/abeltasmannationalpark/coast_track), one of New Zealand's nine Great Walks. It runs the length of the park along the coastline, typically over three to five days, with DOC huts and campsites spaced along the route. You do not have to walk all of it — the water taxis from Kaiteriteri and Marahau will drop you at any beach and pick you up at another, so a single-day sampler is easy. The pick of the beaches — Anchorage, [Bark Bay](/australiaandpacific/newzealand/abeltasmannationalpark/bark_bay), [Torrent Bay](/australiaandpacific/newzealand/abeltasmannationalpark/torrent_bay), [Awaroa](/australiaandpacific/newzealand/abeltasmannationalpark/awaroa_inlet), Totaranui — are among the finest in New Zealand, sheltered and warm by South Island standards.
 

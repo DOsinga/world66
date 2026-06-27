@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trabocco,_localita%27_Cana
 latitude: 42.12434
 loc_type: city
 longitude: 14.705923
-score: 0.48
+score: 8.06
 title: Vasto
 type: location
 snippet: Abruzzo hilltop town above the Adriatic, with a sandy marina and nearby trabocchi

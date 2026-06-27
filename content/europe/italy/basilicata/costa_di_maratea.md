@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Costamarateamarina.JPG
 latitude: 39.9933
 loc_type: city
 longitude: 15.7189
-score: 0.49
+score: 8.13
 snippet: Basilicata's short Tyrrhenian coast, where cliffside Maratea overlooks coves
   and mountain-backed beaches.
 title: Costa di Maratea

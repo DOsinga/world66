@@ -5,7 +5,7 @@ latitude: 5.75
 longitude: -54.0167
 title: Galibi Nature Reserve
 type: location
-score: 0.4
+score: 7.23
 loc_type: feature
 snippet: Atlantic coastal nature reserve in Suriname, famed for nesting leatherback
   turtles near Kaliña villages.

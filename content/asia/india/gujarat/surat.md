@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cable-stayed_River_Bridge_
 latitude: 21.17024
 loc_type: city
 longitude: 72.831062
-score: 0.3
+score: 6.1
 snippet: Gujarat port city and diamond-cutting capital, with textile markets and old
   European trading quarters.
 title: Surat

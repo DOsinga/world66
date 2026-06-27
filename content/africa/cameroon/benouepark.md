@@ -4,7 +4,7 @@ done:
 latitude: 8.304002
 loc_type: feature
 longitude: 13.892703
-score: 0.34
+score: 6.64
 snippet: Northern Cameroon game reserve along the Benoue River, with dry-season wildlife
   viewing and compulsory guides.
 title: Benoue Park

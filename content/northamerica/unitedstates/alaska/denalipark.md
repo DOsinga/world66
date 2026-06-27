@@ -7,7 +7,7 @@ snippet: Vast Alaskan wilderness park anchored by Denali, with one road through 
   taiga, and wildlife.
 title: Denali National Park
 type: location
-score: 0.67
+score: 9.4
 loc_type: feature
 image: denalipark.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_McKinley_and_Denali_National_Park_Road_2048px.jpg

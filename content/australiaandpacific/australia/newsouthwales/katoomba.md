@@ -7,7 +7,7 @@ done:
 latitude: -33.713759
 loc_type: city
 longitude: 150.312163
-score: 0.55
+score: 8.7
 snippet: Blue Mountains gateway town known for the Three Sisters, cliff walks, and
   sandstone escarpments.
 sources:

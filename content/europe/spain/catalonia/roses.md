@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Roses_mit_Sporthafen.jpg
 latitude: 42.263202
 loc_type: city
 longitude: 3.175533
-score: 0.49
+score: 8.16
 snippet: Northern Costa Brava resort on a wide sandy bay, with fishing harbour, beaches,
   and Greek-Roman remains.
 title: Roses

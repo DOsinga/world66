@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Platres.jpg
 latitude: 34.888621
 loc_type: city
 longitude: 32.864864
-score: 0.47
+score: 7.93
 snippet: Troodos mountain resort village with cooler pine forests and walking trails
   to waterfalls and Mount Olympos.
 title: Pano Platres

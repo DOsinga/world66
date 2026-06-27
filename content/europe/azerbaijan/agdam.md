@@ -4,7 +4,7 @@ done:
 latitude: 39.9932
 loc_type: city
 longitude: 46.9305
-score: 0.16
+score: 4.39
 snippet: War-ruined Azerbaijani ghost town where the mosque stands among roofless
   streets and stripped buildings.
 title: Agdam

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Allehandaborgen_from_Svart
 latitude: 59.274729
 loc_type: city
 longitude: 15.215118
-score: 0.42
+score: 7.47
 snippet: Swedish market city on the Svartån, dominated by a medieval island castle.
 title: Örebro
 type: location

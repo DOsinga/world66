@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Eleanor_statue_Oristano.jp
 latitude: 40.026568
 loc_type: city
 longitude: 8.679642
-score: 0.48
-snippet: "West Sardinian provincial town with a medieval Arborean centre and the Carnival horse festival Sa Sartiglia."
+score: 8.07
+snippet: West Sardinian provincial town with a medieval Arborean centre and the Carnival
+  horse festival Sa Sartiglia.
 title: Oristano
 type: location
 ---

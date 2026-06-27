@@ -6,7 +6,7 @@ longitude: -85.7594
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-05-29'
-score: 0.45
+score: 7.74
 loc_type: city
 snippet: Kentucky river city of bourbon, horse racing, and Ohio River neighborhoods
   at the edge of the South

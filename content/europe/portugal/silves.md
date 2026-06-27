@@ -2,7 +2,7 @@
 latitude: 37.1894
 loc_type: city
 longitude: -8.4387
-score: 0.49
+score: 8.17
 snippet: Inland Algarve town above the Arade, crowned by the red sandstone castle
   of Moorish Xelb.
 title: Silves

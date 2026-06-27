@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Tashan_near_Fengshan
 latitude: 30.45
 loc_type: city
 longitude: 114.875
-score: 0.26
+score: 5.82
 snippet: Yangtze-side Hubei city tied to Su Dongpo’s exile and the Dabie Mountains
   hinterland.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Honfleur_Harbour,_June_201
 latitude: 49.419722
 loc_type: city
 longitude: 0.233889
-score: 0.57
+score: 8.82
 snippet: Norman harbour town whose Vieux Bassin and slate-fronted houses drew Boudin,
   Monet, and Jongkind.
 title: Honfleur

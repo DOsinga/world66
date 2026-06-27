@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aguadilla_Pueblo.jpg
 latitude: 18.4274
 loc_type: city
 longitude: -67.1541
-score: 0.45
+score: 7.78
 title: Aguadilla
 type: location
 snippet: Northwest Puerto Rican surf town with Atlantic breaks, cliffs, and Mona Passage

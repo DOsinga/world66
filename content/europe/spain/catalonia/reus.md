@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casa_Navas.Domenech_Muntan
 latitude: 41.155556
 loc_type: city
 longitude: 1.107613
-score: 0.43
+score: 7.54
 snippet: Southern Catalan town known as Antoni Gaudí's birthplace and for its concentrated
   Modernista architecture.
 title: Reus

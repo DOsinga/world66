@@ -14,7 +14,7 @@ sources:
 - https://luangnamthatourism.org/
 title: Luang Namtha
 type: location
-score: 0.45
+score: 7.77
 snippet: Northern Lao mountain town beside Nam Ha forests and ethnic trekking routes
   near the Chinese border.
 ---

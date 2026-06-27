@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/75683070@N00/15835197429
 latitude: 38.8422
 loc_type: city
 longitude: -106.1311
-score: 0.43
+score: 7.55
 snippet: Mountain town in Colorado's Collegiate Peaks, with Arkansas River rafting
   and hot springs below the fourteeners
 title: Buena Vista

@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Viana_do_Castelo_(15727153
 latitude: 41.6931
 loc_type: city
 longitude: -8.8327
-score: 0.5
-snippet: "Northern Portuguese river city where the Lima meets the Atlantic below Santa Luzia."
+score: 8.19
+snippet: Northern Portuguese river city where the Lima meets the Atlantic below Santa
+  Luzia.
 title: Viana do Castelo
 type: location
 ---

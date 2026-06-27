@@ -5,7 +5,7 @@ done:
 latitude: 42.7121
 loc_type: city
 longitude: -110.9326
-score: 0.38
+score: 6.99
 snippet: Fertile western Wyoming valley of small towns, clean mountain air, and snow-rimmed
   ranges.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 57.416373
 loc_type: city
 longitude: -1.852931
-score: 0.39
+score: 7.13
 snippet: Small Aberdeenshire coastal village with a pink-sand beach, golf links, and
   Dracula-linked Slains Castle.
 title: Cruden Bay

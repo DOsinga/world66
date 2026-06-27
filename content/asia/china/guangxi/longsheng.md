@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_t
 latitude: 25.8093
 loc_type: city
 longitude: 110.1524
-score: 0.5
+score: 8.24
 snippet: Guangxi town used as a base for the Dragon's Backbone Rice Terraces and minority
   villages.
 sources:

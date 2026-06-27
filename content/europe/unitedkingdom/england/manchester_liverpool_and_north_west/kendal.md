@@ -5,7 +5,7 @@ done:
 latitude: 54.328448
 loc_type: city
 longitude: -2.746468
-score: 0.38
+score: 7.0
 snippet: Cumbrian market town near the Lake District, known for limestone lanes and
   Kendal Mint Cake.
 title: Kendal

@@ -2,7 +2,7 @@
 latitude: -33.628317
 loc_type: feature
 longitude: 150.306235
-score: 0.43
+score: 7.57
 snippet: New South Wales wilderness feature linking Blue Mountains forests, Snowy
   Mountains alpine country, and long-distance walking.
 title: National Parks

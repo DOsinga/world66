@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mestre-Tour_de_l%27horloge
 latitude: 45.4903
 loc_type: city
 longitude: 12.2381
-score: 0.33
+score: 6.52
 snippet: Mainland Venice city with normal Italian street life around Piazza Ferretto,
   just beyond the lagoon.
 title: Mestre

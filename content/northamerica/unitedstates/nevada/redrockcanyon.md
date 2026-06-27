@@ -4,7 +4,7 @@ done:
 latitude: 36.1355
 loc_type: feature
 longitude: -115.4294
-score: 0.58
+score: 8.87
 snippet: Mojave Desert conservation area west of Las Vegas, known for red sandstone
   formations and climbing routes.
 title: Red Rock Canyon

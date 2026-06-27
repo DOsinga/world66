@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0725-CA-FresnoSantaFe
 latitude: 36.7394
 loc_type: city
 longitude: -119.7848
-score: 0.26
+score: 5.71
 snippet: San Joaquin Valley city and agricultural hub, with Yosemite and Sierra Nevada
   foothills within reach
 title: Fresno

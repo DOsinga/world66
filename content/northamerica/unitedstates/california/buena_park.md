@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7156765@N05/51050270688
 latitude: 33.870413
 loc_type: city
 longitude: -117.996217
-score: 0.35
+score: 6.66
 title: Buena Park
 type: location
 snippet: Orange County city known for Knott's Berry Farm and early Southern California

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Wilderness_
 latitude: -33.993238
 loc_type: city
 longitude: 22.578632
-score: 0.5
+score: 8.19
 snippet: Garden Route beach village backed by lagoons, forested hills, and the Wilderness
   section of the national park.
 title: Wilderness

@@ -5,8 +5,9 @@ done:
 latitude: -33.959721
 loc_type: city
 longitude: 22.458715
-score: 0.42
-snippet: Garden Route town below the Outeniqua Mountains, with nearby forests, passes, and beaches.
+score: 7.5
+snippet: Garden Route town below the Outeniqua Mountains, with nearby forests, passes,
+  and beaches.
 title: George
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Luftbild_Mittenwald,_Laute
 latitude: 47.441778
 loc_type: city
 longitude: 11.261429
-score: 0.53
+score: 8.5
 snippet: Bavarian Alps resort town known for painted houses, Karwendel views, and
   centuries of violin making.
 title: Mittenwald

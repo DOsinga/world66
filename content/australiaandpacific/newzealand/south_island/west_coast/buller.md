@@ -9,10 +9,11 @@ image_attribution: Maksym Kozlenko
 latitude: -41.780162
 loc_type: city
 longitude: 172.188707
-score: 0.43
+score: 7.56
 title: Buller
 type: location
-snippet: "Northern West Coast region shaped by the Buller River, coal history, native bush, and Karamea road."
+snippet: Northern West Coast region shaped by the Buller River, coal history, native
+  bush, and Karamea road.
 ---
 
 The Buller region covers the northern half of the [West Coast](/australiaandpacific/newzealand/south_island/west_coast) of the [South Island](/australiaandpacific/newzealand/south_island), named for the Buller River that runs through it. The main town is Westport, a former coal-mining centre with the [Coaltown Museum](/australiaandpacific/newzealand/south_island/west_coast/buller/coaltown_museum) telling the region's industrial history. The [Buller Gorge](/australiaandpacific/newzealand/south_island/west_coast/buller/buller_gorge), where the river cuts through the mountains, is dramatic driving country, and the coastal road north to Karamea passes through native bush and ends at the [Heaphy Track](/australiaandpacific/newzealand/south_island/west_coast/buller/heaphy_track), one of New Zealand's Great Walks.

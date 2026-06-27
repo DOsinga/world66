@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hakka_Houses,_Meizhou_2006
 latitude: 24.2998
 loc_type: city
 longitude: 116.1191
-score: 0.31
+score: 6.29
 snippet: Hakka ancestral city in northeastern Guangdong, set in a river valley with
   a far-reaching diaspora.
 sources:

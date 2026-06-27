@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vevey_with_Lake_of_Geneva_
 latitude: 46.4603
 loc_type: city
 longitude: 6.8419
-score: 0.54
+score: 8.55
 snippet: Lake Geneva town linked to Nestlé, Charlie Chaplin, open-air markets, and
   vineyard terraces.
 title: Vevey

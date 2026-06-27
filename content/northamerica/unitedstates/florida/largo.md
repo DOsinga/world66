@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Taylor_Lake_Park2.jpg
 latitude: 27.909467
 loc_type: city
 longitude: -82.787324
-score: 0.3
+score: 6.13
 title: Largo
-snippet: Residential Gulf Coast city in Pinellas County, minutes from Clearwater Beach and barrier-island shores.
+snippet: Residential Gulf Coast city in Pinellas County, minutes from Clearwater Beach
+  and barrier-island shores.
 type: location
 ---
 

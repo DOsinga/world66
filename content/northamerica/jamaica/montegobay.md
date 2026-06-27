@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Doctors-Cave-Beach.jpg
 latitude: 18.4762
 loc_type: city
 longitude: -77.8939
-score: 0.58
+score: 8.86
 title: Montego Bay
-snippet: "Jamaican north-coast gateway city, with a wide bay, resort strip, and busy Hip Strip."
+snippet: Jamaican north-coast gateway city, with a wide bay, resort strip, and busy
+  Hip Strip.
 type: location
 ---
 

@@ -5,7 +5,7 @@ latitude: 48.741025
 longitude: 85.735101
 title: Lake Markakol
 type: location
-score: 0.35
+score: 6.7
 loc_type: feature
 snippet: Remote Altai mountain lake in eastern Kazakhstan, set in a forested reserve
   near China.

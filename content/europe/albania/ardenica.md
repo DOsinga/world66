@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardenica_Monastery_(by_Pud
 latitude: 40.818653
 loc_type: city
 longitude: 19.592689
-score: 0.38
+score: 7.03
 title: Ardenica
 type: location
 snippet: Monastery hill above southern Albania's plains, with 14th-century church

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SetenilDeLasBodegas-P10501
 latitude: 36.8634
 loc_type: city
 longitude: -5.1815
-score: 0.54
+score: 8.61
 snippet: Andalusian white village built into the Río Trejo gorge, with streets tucked
   beneath limestone shelves.
 sources:

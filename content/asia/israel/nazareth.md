@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nazareth_Panorama_Dafna_Ta
 latitude: 32.7046
 loc_type: city
 longitude: 35.2972
-score: 0.48
+score: 8.02
 snippet: Large Arab city in northern Israel and major Christian pilgrimage centre
   around the Basilica of the Annunciation.
 title: Nazareth

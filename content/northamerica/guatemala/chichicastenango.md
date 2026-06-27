@@ -2,7 +2,7 @@
 latitude: 15.1167
 loc_type: city
 longitude: -91.1333
-score: 0.52
+score: 8.37
 snippet: Highland Maya town in Quiché, famous for its twice-weekly market and rituals
   at Church of St. Thomas.
 title: Chichicastenango

@@ -4,7 +4,7 @@ done:
 latitude: 45.39
 loc_type: feature
 longitude: -92.65
-score: 0.37
+score: 6.92
 snippet: Minnesota-Wisconsin riverway following the St. Croix and Namekagon rivers,
   protected for paddling and scenic bluffs.
 title: Saint Croix River

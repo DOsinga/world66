@@ -5,7 +5,7 @@ done:
 latitude: 36.9037
 loc_type: city
 longitude: -106.5799
-score: 0.37
+score: 6.91
 title: Chama
 type: location
 snippet: Remote northern New Mexico mountain town and western terminus of the Cumbres

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:013_%CE%96%CE%AC%CE%BA%CF%
 latitude: 37.8318
 loc_type: city
 longitude: 20.7563
-score: 0.51
+score: 8.36
 snippet: Low-key Zakynthos beach resort named for old salt lakes behind its shallow
   sandy shore
 title: Alykes

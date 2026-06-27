@@ -1,5 +1,0 @@
-europe/netherlands/schiphol
-europe/netherlands/veluwe
-europe/netherlands/zwolle
-europe/norway/eidfjord
-europe/norway/lillesand

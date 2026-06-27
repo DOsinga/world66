@@ -11,7 +11,7 @@ loc_type: city
 snippet: Jakarta satellite city and airport gateway, with a Chinese quarter along
   the Cisadane River
 longitude: 106.6382
-score: 0.27
+score: 5.88
 title: Tangerang
 type: location
 ---

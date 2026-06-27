@@ -7,7 +7,7 @@ done:
 latitude: 49.977809
 loc_type: city
 longitude: 18.942372
-score: 0.4
+score: 7.3
 title: Pszczyna
 type: location
 image: pszczyna.jpg

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Air_Mancur_Taman_Bekapai_B
 latitude: -1.2399
 loc_type: city
 longitude: 116.8593
-score: 0.32
+score: 6.38
 snippet: East Kalimantan oil port and Borneo air hub, with rainforest reserves at
   the city edge.
 title: Balikpapan

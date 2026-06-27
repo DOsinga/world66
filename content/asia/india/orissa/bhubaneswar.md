@@ -2,7 +2,7 @@
 latitude: 20.2961
 loc_type: city
 longitude: 85.8245
-score: 0.43
+score: 7.58
 snippet: Odisha capital and temple city, with hundreds of Kalinga-style shrines around
   the old religious quarter.
 title: Bhubaneswar

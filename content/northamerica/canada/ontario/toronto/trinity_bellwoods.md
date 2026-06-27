@@ -5,6 +5,7 @@ snippet: West-end park that serves as the social living room of Queen West
 tags:
 - things_to_do
 - park
+- queen_west
 title: Trinity Bellwoods Park
 type: poi
 score: 6.7

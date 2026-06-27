@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:03_Thakhek_route_16_to_cav
 latitude: 17.403
 loc_type: city
 longitude: 104.8338
-score: 0.44
+score: 7.65
 snippet: Mekong riverside town and starting point for the limestone caves and villages
   of the Thakhek Loop.
 sources:

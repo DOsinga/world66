@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eastern_Qing_Tombs.jpg
 latitude: 40.1858
 loc_type: feature
 longitude: 117.6469
-score: 0.44
+score: 7.64
 snippet: Imperial mausoleum complex northeast of Beijing, burial place of five Qing
   emperors.
 sources:

@@ -7,7 +7,7 @@ done:
 latitude: 36.7421
 loc_type: city
 longitude: -5.1666
-score: 0.63
+score: 9.21
 snippet: Andalusian hill town split by a 120-metre gorge and joined by the Puente
   Nuevo
 title: Ronda

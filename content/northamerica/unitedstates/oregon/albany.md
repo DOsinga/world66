@@ -5,7 +5,7 @@ done:
 latitude: 44.6365
 loc_type: city
 longitude: -123.1059
-score: 0.3
+score: 6.11
 snippet: Willamette Valley city with four heritage districts and a large concentration
   of Victorian-era architecture.
 title: Albany

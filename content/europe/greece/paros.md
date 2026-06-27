@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fish_tavern,_Naoussa,_Paro
 latitude: 37.0853
 loc_type: city
 longitude: 25.1522
-score: 0.67
+score: 9.38
 snippet: Cycladic island of marble villages, ferry harbours, and broad beaches between
   Naxos and Antiparos
 title: Paros

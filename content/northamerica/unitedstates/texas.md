@@ -33,7 +33,7 @@ Summers are brutally hot across most of the state, with temperatures routinely h
 [Big Bend National Park](/northamerica/unitedstates/texas/big_bend_national_park) |
 [Brenham](/northamerica/unitedstates/texas/brenham) |
 [Buffalo Gap](/northamerica/unitedstates/texas/buffalo_gap) |
-[Galveston](/northamerica/unitedstates/texas/houston/galvestonisland) |
+[Galveston](/northamerica/unitedstates/texas/galveston) |
 [Kerrville](/northamerica/unitedstates/texas/kerrville) |
 [Killeen](/northamerica/unitedstates/texas/killeen) |
 Matagorda County |

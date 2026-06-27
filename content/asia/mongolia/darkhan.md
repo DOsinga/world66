@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Darkhan.jpg
 latitude: 49.492243
 loc_type: city
 longitude: 105.936161
-score: 0.24
+score: 5.54
 snippet: Soviet-built Mongolian industrial city on the Trans-Mongolian line, useful
   for monastery country.
 title: Darkhan

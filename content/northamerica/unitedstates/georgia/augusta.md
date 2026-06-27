@@ -5,7 +5,7 @@ done:
 latitude: 33.470971
 loc_type: city
 longitude: -81.974843
-score: 0.35
+score: 6.71
 snippet: Georgia river city known for the Masters tournament and a brick-paved Savannah
   River waterfront.
 sources:

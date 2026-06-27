@@ -8,9 +8,10 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sidney,_BC_from_the_water_01_(20277037560).jpg
 latitude: 48.6506
 longitude: -123.3983
-score: 0.39
+score: 7.1
 title: Sidney
-snippet: Seaside Vancouver Island town on the Saanich Peninsula, known for bookshops and Gulf Islands ferries
+snippet: Seaside Vancouver Island town on the Saanich Peninsula, known for bookshops
+  and Gulf Islands ferries
 type: location
 loc_type: city
 ---

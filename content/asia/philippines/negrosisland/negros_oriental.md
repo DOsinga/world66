@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apo_island_-_panoramio.jpg
 latitude: 9.3085
 loc_type: city
 longitude: 123.308
-score: 0.46
+score: 7.84
 snippet: Eastern half of Negros island, with volcanic mountains, dive coastlines,
   and the university city Dumaguete.
 sources:

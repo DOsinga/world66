@@ -7,7 +7,7 @@ snippet: Sacred Tibetan lake northwest of Lhasa, turquoise and high-altitude ben
   snow peaks and prayer flags.
 title: Namtso Lake
 type: location
-score: 0.56
+score: 8.75
 loc_type: feature
 image: namtso_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:NamTso_scene.jpg

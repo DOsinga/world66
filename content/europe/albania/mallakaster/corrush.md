@@ -4,10 +4,11 @@ done:
 latitude: 40.443911
 loc_type: city
 longitude: 19.800563
-score: 0.21
+score: 5.05
 title: Corrush
 type: location
-snippet: Small Mallakastër village in southern Albania, set among olive groves and dry rolling hills.
+snippet: Small Mallakastër village in southern Albania, set among olive groves and
+  dry rolling hills.
 image: corrush.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Corrush.jpg
 image_license: CC BY-SA 4.0

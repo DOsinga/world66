@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kelly_Mine,_Magdalena,_NM_
 latitude: 34.117
 loc_type: city
 longitude: -107.2434
-score: 0.26
+score: 5.79
 title: Magdalena
 type: location
 snippet: High-desert New Mexico village once known as the railhead for the old hoof

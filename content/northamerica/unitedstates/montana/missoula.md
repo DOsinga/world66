@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caras_Park,_Missoula,_MT.j
 latitude: 46.8701
 loc_type: city
 longitude: -113.9953
-score: 0.4
+score: 7.23
 snippet: Mountain-valley university city where Montana's literary culture meets rivers,
   breweries, and northern Rockies trails
 title: Missoula

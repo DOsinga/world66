@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mallare-santuario_dell%27e
 latitude: 44.291
 loc_type: city
 longitude: 8.2966
-score: 0.31
+score: 6.25
 title: Mallare
 type: location
 snippet: Bormida valley village with Del Carretto history, medieval churches, and

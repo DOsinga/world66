@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%22Ein_beliebter_Urlaubsor
 latitude: 60.533718
 loc_type: city
 longitude: 8.208973
-score: 0.47
+score: 7.97
 snippet: Mountain resort town on the Oslo-Bergen railway, edging the Hardangervidda
   plateau with year-round trails.
 title: Geilo

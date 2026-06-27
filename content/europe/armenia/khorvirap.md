@@ -4,7 +4,7 @@ done:
 latitude: 39.878388
 loc_type: feature
 longitude: 44.57635
-score: 0.48
+score: 8.07
 snippet: Armenian monastery on the Ararat plain, famed for its deep pit and direct
   view of Mount Ararat
 title: Khor Virap

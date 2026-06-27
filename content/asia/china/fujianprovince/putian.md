@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Putian_Guanghua_Si_Shijiaw
 latitude: 25.4394
 loc_type: city
 longitude: 119.0103
-score: 0.3
+score: 6.11
 snippet: Coastal Fujian city regarded as the birthplace of Mazu, the sea goddess worshipped
   worldwide.
 sources:

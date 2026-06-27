@@ -7,7 +7,7 @@ done:
 latitude: 48.3069
 loc_type: city
 longitude: 14.2858
-score: 0.52
+score: 8.42
 snippet: Danube city between Vienna and Salzburg, recast from industrial centre into
   Austria’s contemporary arts hub
 title: Linz

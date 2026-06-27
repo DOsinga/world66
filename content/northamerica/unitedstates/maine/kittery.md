@@ -5,7 +5,7 @@ done:
 latitude: 43.0857
 loc_type: city
 longitude: -70.7437
-score: 0.35
+score: 6.72
 snippet: Historic Maine gateway town where outlet strips give way to navy-yard history
   and Piscataqua coast.
 title: Kittery

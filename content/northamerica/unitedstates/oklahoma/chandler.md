@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chandler,_Oklahoma.jpg
 latitude: 35.702
 loc_type: city
 longitude: -96.881
-score: 0.23
+score: 5.38
 title: Chandler
 type: location
 snippet: Small Route 66 town in central Oklahoma, with an Art Deco interpretive center.

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mandalay_-_The_worship_of_
 latitude: 21.959683
 loc_type: city
 longitude: 96.094874
-score: 0.5
+score: 8.22
 title: Mandalay
 type: location
 snippet: Former Burmese royal capital on the Irrawaddy, rich in Buddhist monuments

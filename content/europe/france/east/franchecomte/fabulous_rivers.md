@@ -4,7 +4,7 @@ done:
 latitude: 47.0667
 loc_type: feature
 longitude: 6.35
-score: 0.46
+score: 7.88
 snippet: River landscape in the Doubs, where Jura limestone gorges frame the Loue,
   Lison, Hérisson, and Dessoubre.
 title: Rivers of the Doubs

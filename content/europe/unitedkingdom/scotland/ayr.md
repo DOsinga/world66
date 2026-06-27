@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_day_out_in_Ayr_(41686696
 latitude: 55.458
 loc_type: city
 longitude: -4.629
-score: 0.43
+score: 7.55
 snippet: Firth of Clyde town shaped by Robert Burns, a sandy seafront, and nearby
   Culzean Castle.
 sources:

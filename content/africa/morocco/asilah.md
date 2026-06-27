@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_de_las_cuevas,_Asila
 latitude: 35.461928
 loc_type: city
 longitude: -6.036545
-score: 0.52
-snippet: "Whitewashed Atlantic town behind Portuguese ramparts, with medina murals and sea views from the walls."
+score: 8.39
+snippet: Whitewashed Atlantic town behind Portuguese ramparts, with medina murals
+  and sea views from the walls.
 title: Asilah
 type: location
 ---

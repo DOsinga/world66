@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marktplatz_Coburg.jpg
 latitude: 50.2582
 loc_type: city
 longitude: 10.9646
-score: 0.43
+score: 7.58
 snippet: Northern Bavarian town overlooked by Veste Coburg, a major medieval fortress
   with royal connections.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland
 latitude: -44.619019
 loc_type: feature
 longitude: 167.86876
-score: 0.77
+score: 9.76
 snippet: Fiordland fiord of granite walls, dark water, and waterfalls, carved by glaciers
   despite its famous sound name.
 title: Milford Sound

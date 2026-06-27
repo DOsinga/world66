@@ -6,9 +6,10 @@ latitude: 55.159841
 longitude: 61.402555
 title: Chelyabinsk
 type: location
-score: 0.26
+score: 5.78
 loc_type: city
-snippet: Industrial South Ural city east of the Europe-Asia divide, known for Tankograd history and broad avenues.
+snippet: Industrial South Ural city east of the Europe-Asia divide, known for Tankograd
+  history and broad avenues.
 sources:
 - https://en.wikipedia.org/wiki/Chelyabinsk
 - https://en.wikipedia.org/wiki/Chelyabinsk_meteor

@@ -5,7 +5,7 @@ done:
 latitude: 40.005539
 loc_type: city
 longitude: 52.993283
-score: 0.25
+score: 5.64
 snippet: Dusty Caspian Sea port and Trans-Caspian rail terminus on Turkmenistan's
   western edge
 title: Turkmenbashi

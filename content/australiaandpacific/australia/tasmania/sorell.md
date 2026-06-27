@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SorellCauseway.JPG
 latitude: -42.7886
 loc_type: city
 longitude: 147.6671
-score: 0.33
+score: 6.51
 snippet: Historic Tasmanian farming town between Pitt Water and the Tasman Peninsula,
   with Georgian buildings east of Hobart.
 title: Sorell

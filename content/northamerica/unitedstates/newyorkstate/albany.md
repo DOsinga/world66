@@ -5,7 +5,7 @@ done:
 latitude: 42.6512
 loc_type: city
 longitude: -73.755
-score: 0.36
+score: 6.78
 snippet: Hudson River capital of New York State, with Dutch roots and a monumental
   granite capitol
 sources:

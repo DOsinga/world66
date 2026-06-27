@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Concord_Pacific_Master_Pla
 latitude: 49.260872
 loc_type: city
 longitude: -123.113952
-score: 0.66
+score: 9.37
 snippet: Pacific port city where dense downtown neighbourhoods sit between Coast Mountains,
   forest, and saltwater.
 title: Vancouver
@@ -35,4 +35,4 @@ The food scene reflects the city's demographics — Vancouver has the largest Ch
 [Burnaby](/northamerica/canada/britishcolumbia/burnaby)
 [Golden Ears](/northamerica/canada/britishcolumbia/goldenears)
 [New Westminster](/northamerica/canada/britishcolumbia/newwestminster)
-[Coquitlam](/northamerica/canada/britishcolumbia/vancouver/coquitlam)
+[Coquitlam](/northamerica/canada/britishcolumbia/coquitlam)

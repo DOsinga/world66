@@ -5,7 +5,7 @@ done:
 latitude: 41.3658
 loc_type: city
 longitude: 48.5128
-score: 0.27
+score: 5.89
 snippet: Mountain Jewish town across the river from Quba, with synagogues and a dedicated
   heritage museum.
 title: Krasnaya Sloboda

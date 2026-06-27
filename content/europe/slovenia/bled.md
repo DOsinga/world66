@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bled_Castle_05.jpg
 latitude: 46.36842
 loc_type: city
 longitude: 14.11006
-score: 0.71
+score: 9.46
 snippet: Alpine lake resort with a cliffside castle, island church, and Julian Alps
   backdrop.
 title: Bled

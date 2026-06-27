@@ -4,7 +4,7 @@ done:
 latitude: -31.986439
 loc_type: feature
 longitude: -64.93628
-score: 0.47
+score: 7.93
 snippet: Mountain region around Córdoba with lake towns, fresh air, and the UFO-famed
   Cerro Uritorco.
 title: Sierras de Córdoba

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mysore_Palace,_India_(phot
 latitude: 12.2958
 loc_type: city
 longitude: 76.6394
-score: 0.58
+score: 8.87
 snippet: Royal Karnataka city of palaces, markets, silk, sandalwood, festivals, and
   Wodeyar-era boulevards.
 title: Mysore

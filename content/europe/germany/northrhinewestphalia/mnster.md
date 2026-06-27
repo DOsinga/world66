@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muenster_Innenstadt.jpg
 latitude: 51.96251
 loc_type: city
 longitude: 7.625188
-score: 0.49
+score: 8.14
 snippet: Cycling city in Germany's Münsterland, with an attractive centre beyond its
   busy railway station.
 sources:

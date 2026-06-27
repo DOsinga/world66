@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calangute-beach-2.jpg
 latitude: 15.5456
 loc_type: city
 longitude: 73.7646
-score: 0.47
+score: 7.98
 snippet: Busy Goan beach resort where a long palm-backed beach meets guesthouses,
   restaurants, and souvenir stalls
 title: Calangute

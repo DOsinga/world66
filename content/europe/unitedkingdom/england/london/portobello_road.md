@@ -5,14 +5,15 @@ done:
 latitude: 51.517918
 longitude: -0.206629
 opening_hours: 'Antiques: Sat 5:30am-3pm. General market: Mon-Wed, Fri-Sat.'
+score: 8.1
 snippet: London's famous Saturday antiques and street market
 tags:
 - shopping
 - shop
 - market
+- notting_hill
 title: Portobello Road Market
 type: poi
-score: 8.1
 ---
 
 Portobello Road is London's most famous market street, running from Notting Hill Gate north to Ladbroke Grove. Saturday is the main event for antiques — hundreds of dealers spread across stalls and shops from early morning, selling silverware, ceramics, vintage clothing, prints, and improbable objects. The pricing is generally tourist-facing so bargaining or turning up late in the afternoon can help.

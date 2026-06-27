@@ -4,7 +4,7 @@ done:
 latitude: -19.846878
 loc_type: feature
 longitude: -174.402455
-score: 0.44
+score: 7.64
 snippet: Largely uninhabited Tongan island in Ha'apai, with reef flats, beach fales,
   and quiet snorkelling.
 title: '''Uoleva'

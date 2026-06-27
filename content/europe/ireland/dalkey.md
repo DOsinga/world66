@@ -11,7 +11,7 @@ loc_type: city
 snippet: Coastal village south of Dublin, with medieval castles, island views, and
   easy DART access
 longitude: -6.102561
-score: 0.45
+score: 7.8
 title: Dalkey
 type: location
 ---

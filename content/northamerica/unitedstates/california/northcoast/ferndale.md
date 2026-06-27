@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:394_Main_Bank_Building_Fer
 latitude: 40.5779
 loc_type: city
 longitude: -124.2621
-score: 0.34
+score: 6.62
 snippet: Victorian dairy village in Humboldt County, lined with ornate butterfat palaces
   and Eel River valley farmland.
 title: Ferndale

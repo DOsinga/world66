@@ -5,7 +5,7 @@ done:
 latitude: 50.856005
 loc_type: city
 longitude: -2.165177
-score: 0.38
+score: 6.97
 snippet: Dorset market town with a notably intact Georgian centre rebuilt after the
   1731 fire.
 sources:

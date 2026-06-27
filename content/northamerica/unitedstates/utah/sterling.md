@@ -5,7 +5,7 @@ done:
 latitude: 39.2083
 loc_type: city
 longitude: -111.693
-score: 0.22
+score: 5.15
 snippet: Tiny central Utah farming village beside Palisade State Park's reservoir,
   cottonwoods, and golf course.
 title: Sterling

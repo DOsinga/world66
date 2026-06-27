@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tanga,_Tanzania,_town_cent
 latitude: -5.0742
 loc_type: city
 longitude: 39.0992
-score: 0.36
+score: 6.79
 snippet: Quiet Tanzanian port city with faded German colonial architecture and a slow
   northern-coast rhythm.
 title: Tanga

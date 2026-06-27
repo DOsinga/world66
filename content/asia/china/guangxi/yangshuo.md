@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1_li_jiang_guilin_yangshuo
 latitude: 24.78
 loc_type: city
 longitude: 110.49
-score: 0.65
+score: 9.31
 snippet: Guangxi river town among sheer limestone karst peaks, rice paddies, and Li
   River cruise traffic
 title: Yangshuo

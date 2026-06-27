@@ -1,14 +1,18 @@
 ---
-title: Santa Teresa
-type: neighbourhood
-snippet: The bohemian hillside neighbourhood above Lapa, full of artists' studios, colonial mansions, and botecos
-tags:
-  - things_to_do
-  - neighbourhood
+image: santa_teresa.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Tram_Bonde_de_Santa_Teresa.jpg
 latitude: -22.9213
 longitude: -43.1863
+snippet: The bohemian hillside neighbourhood above Lapa, full of artists' studios,
+  colonial mansions, and botecos
 sources:
-  - https://en.wikipedia.org/wiki/Santa_Teresa,_Rio_de_Janeiro
+- https://en.wikipedia.org/wiki/Santa_Teresa,_Rio_de_Janeiro
+tags:
+- things_to_do
+- neighbourhood
+title: Santa Teresa
+type: neighbourhood
 ---
 
 Santa Teresa is Rio's most charismatic neighbourhood — a hillside community of colonial and Art Nouveau mansions above Lapa, connected to the city below by the historic yellow tram (bonde) and by winding roads and steep staircases. Artists and intellectuals have lived here since the 1960s; today it is a mix of studios, boutique hotels, restaurants, and old Carioca families who have been here for generations.

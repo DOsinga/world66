@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Borgo_Sabotino_church_3.jp
 latitude: 41.459526
 loc_type: city
 longitude: 13.012591
-score: 0.33
+score: 6.51
 snippet: Planned Lazio city from the Pontine Marshes, with rationalist piazzas and
   nearby beaches.
 title: Latina

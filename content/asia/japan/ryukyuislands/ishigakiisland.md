@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Ishigaki_is
 latitude: 24.471017
 loc_type: city
 longitude: 124.238506
-score: 0.63
+score: 9.18
 snippet: Main Yaeyama island, closer to Taiwan than mainland Japan and known for coral
   reefs.
 title: Ishigaki Island

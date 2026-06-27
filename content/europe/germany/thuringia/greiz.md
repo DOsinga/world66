@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greiz_-_town_panorama_(aka
 latitude: 50.6541
 loc_type: city
 longitude: 12.2004
-score: 0.33
+score: 6.45
 snippet: Thuringian town in the Vogtland, known for princely palaces along the White
   Elster valley
 title: Greiz

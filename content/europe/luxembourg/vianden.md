@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vianden_17Jan2021.jpg
 latitude: 49.933698
 loc_type: city
 longitude: 6.206671
-score: 0.52
+score: 8.4
 title: Vianden
 type: location
 snippet: Small Our valley town dominated by Vianden Castle, one of Luxembourg's largest

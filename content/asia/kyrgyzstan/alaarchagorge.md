@@ -4,7 +4,7 @@ done:
 latitude: 42.65
 loc_type: feature
 longitude: 74.4833
-score: 0.46
+score: 7.92
 snippet: Mountain gorge south of Bishkek, with juniper trails, Ak-Sai Glacier views,
   and high Kyrgyz peaks
 title: Ala-Archa Gorge

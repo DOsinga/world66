@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Fort,_North_Carolina_A
 latitude: 35.629337
 loc_type: city
 longitude: -82.181083
-score: 0.32
+score: 6.32
 snippet: Small Blue Ridge gateway town with Andrew's Geyser, mountain trails, and
   a restored rail-depot centre
 title: Old Fort

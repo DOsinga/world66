@@ -5,7 +5,7 @@ latitude: 44.27
 longitude: -71.3
 title: White Mountains
 type: location
-score: 0.54
+score: 8.6
 loc_type: feature
 snippet: Rugged New Hampshire range anchored by Mount Washington and the White Mountain
   National Forest.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Monasterio_Orheiul_Vechi,_
 latitude: 47.305712
 loc_type: city
 longitude: 28.974868
-score: 0.42
+score: 7.51
 snippet: Limestone-canyon archaeological reserve north of Chisinau, known for cliff-carved
   cave churches above the Raut.
 title: Orheiul Vechi

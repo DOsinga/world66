@@ -4,7 +4,7 @@ done:
 latitude: -14.1419
 loc_type: feature
 longitude: -47.6842
-score: 0.51
+score: 8.34
 snippet: High Goiás plateau where cerrado savanna, quartzite canyons, and clear waterfalls
   define the national park
 title: Chapada dos Veadeiros

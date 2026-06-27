@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Squaw_Valley_entrance_sign
 latitude: 39.1984
 loc_type: city
 longitude: -120.2299
-score: 0.49
+score: 8.16
 snippet: Sierra Nevada ski valley beside Lake Tahoe, shaped by the 1960 Winter Olympics
   and Palisades terrain.
 sources:

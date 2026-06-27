@@ -9,11 +9,12 @@ image_source: https://commons.wikimedia.org/wiki/File:Chenini_,_village_berbere_
 latitude: 32.910703
 loc_type: city
 longitude: 10.261552
-score: 0.43
+score: 7.58
 sources:
 - https://en.wikipedia.org/wiki/Chenini
 - https://en.wikipedia.org/wiki/Ksar_Chenini
-snippet: "Hilltop Berber village in southern Tunisia, with cave dwellings and a white mosque above the plain."
+snippet: Hilltop Berber village in southern Tunisia, with cave dwellings and a white
+  mosque above the plain.
 title: Chenini
 type: location
 ---

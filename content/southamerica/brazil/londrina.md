@@ -8,12 +8,13 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_metropolitana_de_
 latitude: -23.311288
 loc_type: city
 longitude: -51.159502
-score: 0.34
+score: 6.56
 sources:
 - https://en.wikipedia.org/wiki/Londrina
 - https://en.wikipedia.org/wiki/Sacred_Heart_of_Jesus_Cathedral,_Londrina
 title: Londrina
-snippet: Northern Paraná city founded as a coffee boomtown, with British roots and a large Japanese-Brazilian community.
+snippet: Northern Paraná city founded as a coffee boomtown, with British roots and
+  a large Japanese-Brazilian community.
 type: location
 ---
 

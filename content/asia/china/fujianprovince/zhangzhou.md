@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhangzhou_Shi_Paifang_2012
 latitude: 24.5167
 loc_type: city
 longitude: 117.65
-score: 0.36
+score: 6.78
 snippet: Fujian prefectural city on the Jiulong River, known for old temples and nearby
   tulou countryside.
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Alc%C3%A1zar_de_Sa
 latitude: 39.389981
 loc_type: city
 longitude: -3.210138
-score: 0.36
+score: 6.86
 snippet: La Mancha railway town surrounded by vineyards and tied to local claims about
   Cervantes' birthplace.
 title: Alcázar de San Juan

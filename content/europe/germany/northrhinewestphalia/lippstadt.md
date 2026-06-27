@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-05_Lippstadt_Wassertu
 latitude: 51.674707
 loc_type: city
 longitude: 8.347194
-score: 0.32
+score: 6.4
 snippet: Westphalian river town with a medieval core threaded by Lippe channels and
   crowned by Große Marienkirche.
 sources:

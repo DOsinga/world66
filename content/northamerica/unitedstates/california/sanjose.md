@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_long_line_for_exchange_m
 latitude: 37.336166
 loc_type: city
 longitude: -121.890591
-score: 0.33
+score: 6.51
 snippet: Silicon Valley's largest city, with Spanish pueblo origins and the eccentric
   Winchester Mystery House.
 title: San Jose
@@ -22,4 +22,4 @@ The city today is largely a suburban grid punctuated by tech headquarters (Adobe
 
 San Jose's real strength is food. Large Vietnamese and Mexican populations mean some of the best phở outside Saigon and the best tacos outside East LA. **Japantown**, one of only three surviving Japantowns in the US, has good ramen, sushi, and mochi. Downtown has a decent beer-and-cocktail scene, and the SAP Center hosts the San Jose Sharks NHL team.
 
-Most visitors use San Jose as a base for day trips rather than a destination in itself. [San Francisco](/northamerica/unitedstates/california/sanfranciscobayarea/sanfrancisco) is 50 miles north; Santa Cruz, Monterey, and the Pacific coast are less than an hour south; Silicon Valley campuses (Apple, Google, Meta, Nvidia) ring the city for the tech pilgrims.
+Most visitors use San Jose as a base for day trips rather than a destination in itself. [San Francisco](/northamerica/unitedstates/california/sanfrancisco) is 50 miles north; Santa Cruz, Monterey, and the Pacific coast are less than an hour south; Silicon Valley campuses (Apple, Google, Meta, Nvidia) ring the city for the tech pilgrims.

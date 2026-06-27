@@ -5,7 +5,7 @@ done:
 latitude: 32.7767
 loc_type: city
 longitude: -96.797
-score: 0.39
+score: 7.12
 snippet: North Texas metropolis of skyline swagger, Arts District culture, barbecue,
   shopping, and sports.
 title: Dallas

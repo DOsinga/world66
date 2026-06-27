@@ -2,7 +2,7 @@
 latitude: 9.6167
 loc_type: city
 longitude: -84.6333
-score: 0.5
+score: 8.18
 snippet: Accessible Costa Rican surf town with a long volcanic-sand beach near San
   José.
 title: Jacó

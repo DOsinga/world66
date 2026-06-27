@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jajpur,_Odisha,_India_-_pa
 latitude: 20.85
 loc_type: city
 longitude: 86.33
-score: 0.28
+score: 5.95
 snippet: Odisha pilgrimage town on the Vaitarani River, centred on Viraja worship
   and ancestral rites
 title: Jajpur

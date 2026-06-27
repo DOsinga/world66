@@ -4,7 +4,7 @@ done:
 latitude: 40.1667
 loc_type: feature
 longitude: 15.4167
-score: 0.51
+score: 8.32
 snippet: Southern Campania national park where Tyrrhenian coast, Apennine highlands,
   and ancient Greek cities meet.
 title: Parco Nazionale del Cilento e del Vallo di Diano

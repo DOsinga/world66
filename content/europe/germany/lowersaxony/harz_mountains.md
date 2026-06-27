@@ -4,7 +4,7 @@ done:
 latitude: 51.75
 loc_type: feature
 longitude: 10.6167
-score: 0.5
+score: 8.23
 snippet: Northern German mountain range of spruce forest, granite, and Goethe-haunted
   folklore around the Brocken.
 title: Harz Mountains

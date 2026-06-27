@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Parakouinternationalmarket
 latitude: 9.34
 loc_type: city
 longitude: 2.6278
-score: 0.26
+score: 5.74
 snippet: Northern Benin commercial hub at the railway end, with a large market for
   Bariba textiles.
 title: Parakou
 type: location
 ---
 
-Parakou is Benin's second largest city and the main hub of the north, sitting at the end of the railway line from Cotonou and at the crossroads of routes heading to Natitingou, Djougou, and the Niger border. If you are heading to the Atakora region or [Pendjari National Park](/africa/benin/pendjari), you will almost certainly pass through here.
+Parakou is Benin's second largest city and the main hub of the north, sitting at the end of the railway line from Cotonou and at the crossroads of routes heading to Natitingou, Djougou, and the Niger border. If you are heading to the Atakora region or Pendjari National Park, you will almost certainly pass through here.
 
 The city has a busy, sprawling feel — a commercial centre for the surrounding cotton-growing region rather than a tourist destination. The [Grand Marché](/africa/benin/parakou/grand_marche) is one of the largest markets in northern Benin and worth a wander, particularly for its textiles — hand-woven Bariba cloth and indigo-dyed fabrics from the region's cotton country — and the bustle of the transport hub around it. The [Grande Mosquée](/africa/benin/parakou/grande_mosquee) nearby reflects the city's deep Islamic roots, brought here centuries ago along the trans-Saharan trade routes.
 

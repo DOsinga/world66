@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/13612227@N02/51196088611
 latitude: 41.0594
 loc_type: city
 longitude: -124.1437
-score: 0.35
+score: 6.75
 snippet: Tiny Humboldt harbour town above Trinidad Bay, with bluff trails and redwood-backed
   beaches.
 title: Trinidad

@@ -8,7 +8,7 @@ image_source: https://www.flickr.com/photos/57988553@N00/294583544
 latitude: 41.449868
 loc_type: city
 longitude: 48.288893
-score: 0.34
+score: 6.6
 snippet: Caucasus foothill town and Lezgin heartland beneath Mount Shahdag in northeastern
   Azerbaijan
 title: Qusar

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_the_Port_of_He
 latitude: 35.2975
 loc_type: city
 longitude: 25.3967
-score: 0.52
+score: 8.44
 title: Hersonissos
 type: location
 snippet: North-coast Cretan resort town built around package holidays, beaches, and

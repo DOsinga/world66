@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
 image: sttropez.jpg
@@ -8,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint-Tropez_-_Vue_g%C3%A9
 latitude: 43.272719
 loc_type: city
 longitude: 6.640523
-score: 0.63
+score: 9.18
 snippet: Côte d'Azur fishing village turned jet-set resort, with a citadel, old port,
   and plane-shaded Place des Lices.
 title: St Tropez

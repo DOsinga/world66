@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Citt%C3%A0_di_Dorgali.jpg
 latitude: 40.290551
 loc_type: city
 longitude: 9.585857
-score: 0.52
+score: 8.4
 snippet: Barbagia craft town and Gulf of Orosei gateway, near Tiscali, Gorropu, and
   limestone caves.
 title: Dorgali

@@ -3,10 +3,11 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 44.7066
 longitude: 26.1629
-snippet: "Wooded lake north of Bucharest, known for its island monastery and Vlad the Impaler legend."
+snippet: Wooded lake north of Bucharest, known for its island monastery and Vlad the
+  Impaler legend.
 title: Snagov Lake
 type: location
-score: 0.38
+score: 7.05
 loc_type: feature
 ---
 

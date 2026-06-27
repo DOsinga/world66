@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:2010-08_toren_zandvoort_14
 latitude: 52.359522
 loc_type: city
 longitude: 4.535026
-score: 0.44
-snippet: Dutch seaside town by the dunes, serving as Amsterdam's easiest train-linked beach escape.
+score: 7.65
+snippet: Dutch seaside town by the dunes, serving as Amsterdam's easiest train-linked
+  beach escape.
 title: Zandvoort
 type: location
 ---

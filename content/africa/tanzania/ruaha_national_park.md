@@ -1,18 +1,18 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: ruaha_national_park.jpg
+image_attribution: Brian Harries
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Purple_On_The_River.jpg
 latitude: -7.801654
-longitude: 34.373008
-title: Ruaha National Park
-type: location
-score: 0.56
 loc_type: feature
+longitude: 34.373008
+score: 8.71
 snippet: Remote Tanzanian national park on the Great Ruaha River, known for dry-season
   wildlife concentrations.
-image: ruaha_national_park.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Purple_On_The_River.jpg
-image_license: CC BY 2.0
-image_attribution: Brian Harries
+title: Ruaha National Park
+type: location
 ---
 
 Ruaha is one of Tanzania's largest and least visited national parks — and many who make it here consider it the country's best. The park has a reputation for remoteness, but it is actually only 115 km from [Iringa](/africa/tanzania/iringa) on an all-weather road, and there are charter flights from Dar es Salaam.

@@ -5,7 +5,7 @@ done:
 latitude: 42.813089
 loc_type: city
 longitude: 74.808459
-score: 0.19
+score: 4.69
 snippet: Small Kyrgyz Ala-Too ski resort near Bishkek, with modest slopes above the
   Ysyk-Ata valley
 sources:

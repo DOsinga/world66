@@ -5,7 +5,7 @@ done:
 latitude: 37.7839
 loc_type: city
 longitude: -79.4428
-score: 0.38
+score: 7.04
 snippet: Shenandoah Valley college town dense with Civil War sites and two historic
   campuses.
 sources:

@@ -8,7 +8,7 @@ image_license: Public Domain
 latitude: 24.5547
 loc_type: city
 longitude: 9.4842
-score: 0.43
+score: 7.55
 title: Djanet
 type: location
 snippet: Tuareg oasis town below Tassili n'Ajjer, gateway to prehistoric rock art

@@ -3,14 +3,6 @@ title: "Shopping"
 type: section
 ---
 
-Please tell us about the interesting shopping experiences you've had in Toronto.
+The CF Toronto Eaton Centre on Yonge Street is the downtown shopping anchor, a vast mall with hundreds of mainstream stores. For luxury, the Mink Mile along Bloor Street West and the boutiques of Yorkville hold the international fashion houses and the flagship Holt Renfrew.
 
-**all**
-
-**Burlington Mall . **
-
-120 stores and services. Open Monday to Friday 10am-9pm, Saturday 9:30am-6pm and Sunday 12pm-5pm.  Tel: 905 632-4777 Fax: 905 632-8286  Address: 777 Guelph Line Burlington ON  
-
-**The Eaton Centre . **
-
-Located on Yonge Street, The Eaton Centre has 285 shops, restaurants and services. Hours: Mon-Fri 10am-9pm, Sat 9am-7pm, Sun 12pm-6pm.  Tel: 416 598-8700 Fax: 416 598-8762  Address: 220 Yonge St, Toronto ON M5B 2H1
+The more characterful shopping is in the neighbourhoods. Kensington Market is the place for vintage clothing, records, and food stalls; Queen West for independent design, art, and books; the Distillery District for galleries and craft studios. St. Lawrence Market, named one of the world's great food markets, is essential for edibles, busiest on Saturdays when the farmers' market joins it.

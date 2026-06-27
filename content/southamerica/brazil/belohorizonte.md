@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Belo_Horizonte,_Brasil.jpg
 latitude: -19.9227
 loc_type: city
 longitude: -43.9451
-score: 0.41
+score: 7.4
 snippet: Mountain-ringed Minas Gerais capital laid out on a grid of wide, tree-lined
   avenues
 title: Belo Horizonte

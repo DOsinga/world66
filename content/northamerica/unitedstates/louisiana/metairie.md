@@ -4,7 +4,7 @@ done:
 latitude: 30.001855
 loc_type: city
 longitude: -90.176701
-score: 0.27
+score: 5.91
 snippet: New Orleans suburb along Lake Pontchartrain, known locally for restaurants
   and Metairie Cemetery.
 title: Metairie

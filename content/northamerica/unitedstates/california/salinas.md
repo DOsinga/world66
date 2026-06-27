@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dancers_in_Salinas,_Califo
 latitude: 36.6744
 loc_type: city
 longitude: -121.655
-score: 0.3
+score: 6.19
 snippet: California agricultural city and John Steinbeck's hometown, set in the valley
   behind Monterey Bay.
 title: Salinas

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gravina_in_Puglia_-_Vista_
 latitude: 40.819725
 loc_type: city
 longitude: 16.422779
-score: 0.49
+score: 8.1
 snippet: Limestone ravine town in Puglia, known for cave dwellings and the rock-cut
   San Michele delle Grotte.
 title: Gravina in Puglia

@@ -4,7 +4,7 @@ done:
 latitude: 9.4883
 loc_type: feature
 longitude: -83.4886
-score: 0.52
+score: 8.4
 snippet: Costa Rican mountain park protecting Cerro Chirripó, páramo grasslands, cloud
   forest, and glacial lakes
 title: Chirripó

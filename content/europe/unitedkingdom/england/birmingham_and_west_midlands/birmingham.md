@@ -7,7 +7,7 @@ done:
 latitude: 52.4797
 loc_type: city
 longitude: -1.9027
-score: 0.39
+score: 7.1
 snippet: Britain’s second city, shaped by industry, canals, multicultural neighbourhoods,
   and the Jewellery Quarter.
 title: Birmingham

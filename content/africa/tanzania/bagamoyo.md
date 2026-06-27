@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagamoyo_Tanzania_Missiona
 latitude: -6.442208
 loc_type: city
 longitude: 38.906219
-score: 0.41
+score: 7.4
 snippet: Historic Tanzanian coastal town tied to Swahili trade routes, Catholic missions,
   and carved old streets.
 sources:

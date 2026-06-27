@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Har_Ki_Pauri,_Haridwar.jpg
 latitude: 29.9457
 loc_type: city
 longitude: 78.1642
-score: 0.5
+score: 8.2
 title: Haridwar
-snippet: Holy Ganges city at the Himalayan foothills, centred on ghats and the evening Ganga Aarti
+snippet: Holy Ganges city at the Himalayan foothills, centred on ghats and the evening
+  Ganga Aarti
 type: location
 ---
 

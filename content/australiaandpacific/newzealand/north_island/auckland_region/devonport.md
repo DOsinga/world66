@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Auckland_Skyline_as_seen_f
 latitude: -36.829731
 loc_type: city
 longitude: 174.797538
-score: 0.47
+score: 7.93
 snippet: Auckland harbourside village with Victorian shops, volcanic viewpoints, and
   old military tunnels
 title: Devonport

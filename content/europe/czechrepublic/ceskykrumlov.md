@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Historic_Centre_of_%C4%8Ce
 latitude: 48.810653
 loc_type: city
 longitude: 14.315059
-score: 0.65
+score: 9.31
 snippet: UNESCO-listed Czech river town wrapped by the Vltava beneath a vast castle
   complex.
 sources:

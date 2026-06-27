@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cataratas_do_Igua%C3%A7u_-
 latitude: -25.693905
 loc_type: feature
 longitude: -54.436538
-score: 0.77
+score: 9.77
 snippet: Border-spanning waterfall system where the Iguaçu River breaks into hundreds
   of cataracts and mist-filled gorges
 title: Iguaçu Falls

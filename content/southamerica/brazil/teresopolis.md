@@ -10,7 +10,7 @@ loc_type: city
 snippet: Serra do Mar mountain town near Rio, gateway to organ-pipe peaks in Serra
   dos Órgãos
 longitude: -42.864641
-score: 0.43
+score: 7.56
 title: Teresópolis
 type: location
 ---

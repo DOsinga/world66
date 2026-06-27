@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Imensid%C3%A3o_do_mar_vist
 latitude: -2.7975
 loc_type: feature
 longitude: -40.5137
-score: 0.57
+score: 8.82
 snippet: Ceará beach village behind dunes, where sandy tracks lead to lagoons, wind,
   and sunset dunes.
 sources:

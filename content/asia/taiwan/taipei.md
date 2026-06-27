@@ -11,8 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_
 latitude: 25.03752
 loc_type: city
 longitude: 121.56368
-score: 0.65
-snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, temples, and a modern skyline.
+score: 9.31
+snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, temples,
+  and a modern skyline.
 title: Taipei
 type: location
 ---

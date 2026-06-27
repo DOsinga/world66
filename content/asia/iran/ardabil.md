@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardabil,_Iran_2013_(20)_(1
 latitude: 38.2498
 loc_type: city
 longitude: 48.2933
-score: 0.35
+score: 6.67
 snippet: Cold Iranian Azerbaijan city on a high plain, birthplace of the Safavid dynasty
 title: Ardabil
 type: location

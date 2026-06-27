@@ -4,7 +4,7 @@ done:
 latitude: 41.198065
 loc_type: city
 longitude: 45.528095
-score: 0.23
+score: 5.43
 snippet: Azerbaijani railway town near the Georgian border, founded where routes from
   Baku once split north and west.
 title: Agstafa

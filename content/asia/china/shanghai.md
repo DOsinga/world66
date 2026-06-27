@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2
 latitude: 31.231271
 loc_type: city
 longitude: 121.470015
-score: 0.66
+score: 9.37
 snippet: Cosmopolitan Chinese megacity where Bund-era finance houses face Pudong's
   towers across the Huangpu.
 sources:

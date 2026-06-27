@@ -4,7 +4,7 @@ done:
 latitude: 37.688397
 loc_type: feature
 longitude: 45.486907
-score: 0.34
+score: 6.63
 snippet: Large salt lake in northwestern Iran, set between East and West Azerbaijan
   provinces.
 title: Lake Urmia

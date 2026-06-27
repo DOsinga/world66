@@ -8,9 +8,10 @@ image_license: GFDL 1.2
 latitude: 46.83711
 longitude: 29.610999
 title: Tiraspol
-snippet: Dniester-side city of Soviet-era boulevards, Lenin statues, local roubles, and slow civic rhythms.
+snippet: Dniester-side city of Soviet-era boulevards, Lenin statues, local roubles,
+  and slow civic rhythms.
 type: location
-score: 0.35
+score: 6.71
 loc_type: city
 ---
 

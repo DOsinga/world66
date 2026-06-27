@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chorzow_Batory_ratusz_2022
 latitude: 50.288473
 loc_type: city
 longitude: 18.97038
-score: 0.31
+score: 6.26
 snippet: Industrial Silesian city best known for Silesian Park, one of Europe's largest
   urban parks.
 title: Chorzow

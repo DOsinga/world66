@@ -11,7 +11,7 @@ loc_type: city
 longitude: 2.1803
 title: Rueil-Malmaison
 type: location
-score: 0.38
+score: 7.05
 snippet: Western Paris suburb on the Seine, known for Joséphine and Napoleon's Château
   de Malmaison.
 ---

@@ -4,7 +4,7 @@ done:
 latitude: 41.4093
 loc_type: feature
 longitude: -122.1949
-score: 0.47
+score: 7.97
 snippet: Outdoorsy northern California town beneath a massive volcanic cone that dominates
   the Shasta Cascade skyline.
 title: Mount Shasta

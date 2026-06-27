@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie
 latitude: 48.80354
 loc_type: city
 longitude: 2.126689
-score: 0.74
+score: 9.57
 snippet: Paris-region town dominated by the Château de Versailles, its formal gardens,
   and royal history.
 title: Versailles

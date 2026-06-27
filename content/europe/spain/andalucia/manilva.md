@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_la_Duquesa.jpg
 latitude: 36.376998
 loc_type: city
 longitude: -5.248979
-score: 0.41
+score: 7.36
 sources:
 - https://en.wikipedia.org/wiki/Manilva
 title: Manilva

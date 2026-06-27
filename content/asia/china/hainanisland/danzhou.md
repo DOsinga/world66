@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Entrance_of_Dongpo_Academy
 latitude: 19.51
 loc_type: city
 longitude: 109.58
-score: 0.33
+score: 6.48
 snippet: Northwest Hainan city with a distinct dialect and Su Dongpo's exile memorial
   at Dongpo Academy.
 sources:

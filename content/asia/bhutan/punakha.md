@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PunakhaDzong.jpg
 latitude: 27.584286
 loc_type: city
 longitude: 89.859309
-score: 0.61
+score: 9.07
 snippet: Former Bhutanese capital at the Pho Chhu and Mo Chhu confluence, centred
   on Punakha Dzong
 sources:

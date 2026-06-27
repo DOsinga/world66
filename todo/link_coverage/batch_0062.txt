@@ -1,5 +1,0 @@
-europe/portugal/tomar
-europe/russia/izborsk
-europe/russia/tver
-europe/serbiaandmontenegro/tivat
-europe/slovakia/kosice

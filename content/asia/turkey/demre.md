@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Myra_View_from_high_in_201
 latitude: 36.2489
 loc_type: city
 longitude: 29.9792
-score: 0.48
+score: 8.01
 snippet: Lycian coast town at ancient Myra, known for cliff tombs and the Church of
   St Nicholas.
 tags:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Iringa.JPG
 latitude: -7.7743
 loc_type: city
 longitude: 35.4826
-score: 0.36
+score: 6.77
 snippet: Southern Highlands capital on a cool escarpment, used as a base for Ruaha
   and Udzungwa
 title: Iringa

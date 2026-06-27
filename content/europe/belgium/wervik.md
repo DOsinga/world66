@@ -5,7 +5,7 @@ done:
 latitude: 50.778224
 loc_type: city
 longitude: 3.04397
-score: 0.32
+score: 6.35
 snippet: West Flemish border town on the Lys, with a long history as Belgium's tobacco
   capital
 title: Wervik

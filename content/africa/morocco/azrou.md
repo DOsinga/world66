@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Azrou,college.jpg
 latitude: 33.4339
 loc_type: city
 longitude: -5.2226
-score: 0.4
+score: 7.21
 title: Azrou
 type: location
 snippet: Middle Atlas town in Morocco, known for cedar forests and Barbary macaques

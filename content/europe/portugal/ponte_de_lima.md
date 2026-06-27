@@ -5,7 +5,7 @@ done:
 latitude: 41.767502
 loc_type: city
 longitude: -8.583099
-score: 0.52
+score: 8.4
 snippet: Minho riverside town with a medieval bridge, compact old centre, and legends
   of the river Lethe
 title: Ponte de Lima

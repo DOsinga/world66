@@ -5,7 +5,7 @@ done:
 latitude: 60.607
 loc_type: city
 longitude: 15.6323
-score: 0.43
+score: 7.59
 title: Falun
 type: location
 snippet: Dalarna capital built around the historic Falun Copper Mine and Sweden's

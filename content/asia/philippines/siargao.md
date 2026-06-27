@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cloud_9_Boardwalk,_Siargao
 latitude: 9.8607
 loc_type: island
 longitude: 126.0462
-score: 0.61
+score: 9.04
 snippet: Teardrop-shaped Philippine surf island where Pacific swells break at Cloud
   9 reef.
 sources:

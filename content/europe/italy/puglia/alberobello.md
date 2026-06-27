@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alberobello,_Italy_01.jpg
 latitude: 40.784124
 loc_type: city
 longitude: 17.237703
-score: 0.6
+score: 9.02
 snippet: Puglian town famous for trulli, the whitewashed cone-roofed houses of its
   historic centre.
 title: Alberobello

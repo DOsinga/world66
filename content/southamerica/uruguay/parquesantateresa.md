@@ -2,7 +2,7 @@
 latitude: -33.9694
 loc_type: feature
 longitude: -53.5308
-score: 0.4
+score: 7.24
 snippet: Uruguayan coastal national park of dunes, pine forest, Atlantic beaches,
   and an 18th-century fortress.
 title: Parque Nacional Santa Teresa

@@ -4,8 +4,9 @@ done:
 latitude: 10.52701
 loc_type: city
 longitude: 76.214621
-score: 0.42
-snippet: Keralan temple city around Thekkinkadu Maidan, famous for the elephant processions of Thrissur Pooram.
+score: 7.46
+snippet: Keralan temple city around Thekkinkadu Maidan, famous for the elephant processions
+  of Thrissur Pooram.
 title: Thrissur
 type: location
 ---

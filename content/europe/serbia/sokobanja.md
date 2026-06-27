@@ -5,7 +5,7 @@ done:
 latitude: 43.6444
 loc_type: city
 longitude: 21.8703
-score: 0.36
+score: 6.76
 snippet: Eastern Serbian spa town in a wooded valley, known for thermal springs and
   Sokograd fortress ruins.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_to_Mont_St_Michel_(
 latitude: 48.635954
 loc_type: feature
 longitude: -1.51146
-score: 0.73
+score: 9.5
 snippet: Tidal granite island on the Normandy-Brittany border, crowned by a medieval
   Benedictine abbey.
 title: Mont-Saint-Michel

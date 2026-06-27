@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:O_Porto_(visto_da_Ponte_Do
 latitude: 41.1496
 loc_type: city
 longitude: -8.611
-score: 0.71
+score: 9.47
 title: Porto
-snippet: "Granite Douro city of tiled facades, iron bridges, and port-wine cellars across the river."
+snippet: Granite Douro city of tiled facades, iron bridges, and port-wine cellars
+  across the river.
 type: location
 ---
 

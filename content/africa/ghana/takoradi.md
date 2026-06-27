@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_of_Takoradi_Railway_
 latitude: 4.887401
 loc_type: city
 longitude: -1.751932
-score: 0.31
+score: 6.2
 snippet: Busy Ghanaian port city and oil hub, paired with older Sekondi on the Gulf
   of Guinea
 title: Takoradi

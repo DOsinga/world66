@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Siping_Martyr_Cenotaph_201
 latitude: 43.1715
 loc_type: city
 longitude: 124.3644
-score: 0.24
+score: 5.55
 snippet: Jilin railway city remembered for major Chinese Civil War battles around
   its strategic junction.
 sources:

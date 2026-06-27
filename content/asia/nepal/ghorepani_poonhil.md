@@ -2,7 +2,7 @@
 latitude: 28.4
 loc_type: feature
 longitude: 83.7
-score: 0.63
+score: 9.2
 snippet: Annapurna trekking village and viewpoint base for Poon Hill's broad Himalayan
   sunrise panorama.
 title: Ghorepani and Poon Hill

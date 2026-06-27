@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lim%C3%B3n_Province,_Puert
 latitude: 9.656
 loc_type: city
 longitude: -82.7534
-score: 0.53
+score: 8.49
 title: Puerto Viejo de Talamanca
 type: location
 snippet: South Caribbean beach town with sandy streets, reggae rhythms, and Afro-Caribbean

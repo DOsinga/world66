@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/7281346@N03/5326723130
 latitude: -4.2876
 loc_type: city
 longitude: 142.2514
-score: 0.42
+score: 7.47
 title: Sepik River
 type: location
 snippet: Papua New Guinean river region of rainforest villages, haus tambaran, and

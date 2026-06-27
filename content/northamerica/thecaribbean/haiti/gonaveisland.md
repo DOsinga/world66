@@ -5,7 +5,7 @@ done:
 latitude: 18.8329
 loc_type: city
 longitude: -73.0625
-score: 0.26
+score: 5.75
 snippet: Large Haitian island in the Gulf of Gonâve, isolated between fishing villages
   and dry hills.
 title: Gonâve Island

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cooperstown-post-office_09
 latitude: 42.7008
 loc_type: city
 longitude: -74.9253
-score: 0.46
+score: 7.91
 snippet: Otsego Lake village famous for baseball mythology and the National Baseball
   Hall of Fame.
 title: Cooperstown

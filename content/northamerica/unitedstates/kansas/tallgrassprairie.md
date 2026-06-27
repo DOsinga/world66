@@ -4,7 +4,7 @@ done:
 latitude: 38.4328
 loc_type: feature
 longitude: -96.5589
-score: 0.32
+score: 6.34
 snippet: Flint Hills prairie preserve protecting a rare remnant of North America's
   once-vast tallgrass landscape.
 sources:

@@ -9,9 +9,10 @@ image_source: https://www.flickr.com/photos/91124353@N05/50555892677
 latitude: 36.401266
 loc_type: city
 longitude: 10.557283
-score: 0.5
+score: 8.22
 title: Hammamet
-snippet: Tunisian resort town on the Gulf of Hammamet, anchored by beaches and a walled medina.
+snippet: Tunisian resort town on the Gulf of Hammamet, anchored by beaches and a walled
+  medina.
 type: location
 ---
 

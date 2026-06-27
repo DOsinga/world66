@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Haleiwa_bridge.jpg
 latitude: 21.587627
 loc_type: city
 longitude: -158.103565
-score: 0.55
-snippet: Oahu North Shore town where surf culture gathers around the Anahulu River and winter waves.
+score: 8.68
+snippet: Oahu North Shore town where surf culture gathers around the Anahulu River
+  and winter waves.
 title: Haleiwa
 type: location
 ---

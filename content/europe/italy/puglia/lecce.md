@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lecce_-_Santa_Croce_-_16.j
 latitude: 40.1522
 loc_type: city
 longitude: 18.2261
-score: 0.6
+score: 9.03
 title: Lecce
 type: location
 snippet: Baroque city in Puglia's heel, carved from soft golden limestone into extravagant

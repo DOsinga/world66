@@ -4,7 +4,7 @@ done:
 latitude: -29.144348
 loc_type: city
 longitude: -59.643773
-score: 0.25
+score: 5.65
 snippet: Northern Santa Fe city near the Paraná, offering a grounded slice of small-town
   Argentina
 title: Reconquista

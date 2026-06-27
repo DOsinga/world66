@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tepelena_Castle_and_New_To
 latitude: 40.298226
 loc_type: city
 longitude: 20.020873
-score: 0.34
+score: 6.56
 snippet: Southern Albanian river town known for Ali Pasha's fortress and a dramatic
   Vjosa-Drino setting.
 title: Tepelena

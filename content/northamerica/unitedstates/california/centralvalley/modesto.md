@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/7633518@N08/53216436378
 latitude: 37.6393
 loc_type: city
 longitude: -120.9969
-score: 0.26
+score: 5.71
 snippet: Central Valley working city tied to farmland, George Lucas, cruising culture,
   and the neon Modesto Arch.
 title: Modesto

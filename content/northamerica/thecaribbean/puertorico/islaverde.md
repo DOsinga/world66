@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shoreline_of_Isla_Verde,_C
 latitude: 18.4494
 loc_type: city
 longitude: -66.0017
-score: 0.44
+score: 7.7
 snippet: San Juan beach neighborhood beside the airport, known for wide sand and resort-lined
   Isla Verde Beach
 title: Isla Verde

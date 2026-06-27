@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Hatteras_Island_ocean_view
 latitude: 35.4849
 loc_type: city
 longitude: -75.4806
-score: 0.49
+score: 8.1
 title: Hatteras Island
-snippet: "Outer Banks barrier island of dunes, fishing villages, and Cape Hatteras National Seashore beaches."
+snippet: Outer Banks barrier island of dunes, fishing villages, and Cape Hatteras
+  National Seashore beaches.
 type: location
 ---
 

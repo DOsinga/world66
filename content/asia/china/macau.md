@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Legislative_Council_of_the
 latitude: 22.17576
 loc_type: city
 longitude: 113.551414
-score: 0.56
+score: 8.75
 snippet: Former Portuguese colony at the Pearl River mouth, mixing baroque churches,
   Cantonese temples, and casinos
 sources:

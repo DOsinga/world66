@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Tino_Rossi_-_Ajaccio_
 latitude: 41.9192
 loc_type: city
 longitude: 8.7386
-score: 0.56
+score: 8.72
 sources:
 - https://en.wikipedia.org/wiki/Ajaccio
 - https://en.wikipedia.org/wiki/Mus%C3%A9e_Fesch

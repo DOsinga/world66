@@ -1,13 +1,12 @@
 ---
 latitude: 37.5512
 longitude: 126.9897
+score: 7.6
 tags:
-  - things_to_do
-  - sight
-  - namsan
+- things_to_do
+- sight
 title: Namsan Park
 type: poi
-score: 7.6
 ---
 
 Namsan (South Mountain) is a forested hill rising to 262 metres near the centre of Seoul, surrounded by a national park that provides a patch of green accessible from most parts of the city. The Namsan Circular Trail — a flat 7km path around the mountain's base — is used by joggers, dog walkers, and anyone who wants an hour's walk in trees without leaving the city. The upper slopes have several routes to the summit and N Seoul Tower.

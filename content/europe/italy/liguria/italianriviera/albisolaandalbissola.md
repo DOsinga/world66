@@ -2,7 +2,7 @@
 latitude: 44.33
 loc_type: city
 longitude: 8.505
-score: 0.43
+score: 7.62
 snippet: Adjacent Ligurian coast towns known for centuries of ceramic workshops and
   a mosaic-tiled seafront promenade.
 title: Albisola and Albissola

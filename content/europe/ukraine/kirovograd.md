@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inhul_in_Kropyvnytskyi_01.
 latitude: 48.5107
 loc_type: city
 longitude: 32.2658
-score: 0.22
+score: 5.14
 snippet: Central Ukrainian regional capital on the Inhul River, formerly Kirovograd
   and Elisavetgrad.
 sources:

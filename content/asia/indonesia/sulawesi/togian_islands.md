@@ -5,7 +5,7 @@ latitude: -0.3811
 longitude: 121.9442
 title: Togian Islands
 type: location
-score: 0.54
+score: 8.62
 loc_type: feature
 snippet: Remote Sulawesi archipelago in Tomini Bay, known for clear-water diving and
   isolated beach villages.

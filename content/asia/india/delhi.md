@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg
 latitude: 28.613895
 loc_type: city
 longitude: 77.209006
-score: 0.49
+score: 8.15
 snippet: Indian capital and layered megacity where Sultanate, Mughal, British, and
   modern Delhi overlap.
 title: Delhi

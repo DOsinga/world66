@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Across_New_Plymouth_to_Mt.
 latitude: -39.058
 loc_type: city
 longitude: 174.0806
-score: 0.42
+score: 7.45
 snippet: North Island coastal city beneath Mount Taranaki, with strong art galleries
   and volcano trails.
 title: New Plymouth

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Forte_dei_Marmi.jpg
 latitude: 43.959589
 loc_type: city
 longitude: 10.169939
-score: 0.5
+score: 8.18
 sources:
 - https://en.wikipedia.org/wiki/Forte_dei_Marmi
 - https://en.wikipedia.org/wiki/Pietrasanta

@@ -4,11 +4,13 @@ image_attribution: Rorser at English Wikipedia
 image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Portmarnock_beach.jpg
 latitude: 53.4234
+loc_type: city
 longitude: -6.1389
 snippet: Coastal Fingal town north of Dublin, known for Velvet Strand beach and championship
   links golf.
 title: Portmarnock
 type: location
+score: 6.0
 ---
 
 Portmarnock is a coastal town in Fingal, on the sandy stretch of shore north of Dublin and an easy train ride from the city. Its name is bound up with two things: a magnificent beach and world-class golf.

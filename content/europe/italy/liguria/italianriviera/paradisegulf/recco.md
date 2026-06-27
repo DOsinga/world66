@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Recco_-_Comune_di_Recco_-_
 latitude: 44.3652
 loc_type: city
 longitude: 9.1463
-score: 0.43
+score: 7.53
 snippet: Small Ligurian coastal town in the Paradise Gulf, famous for focaccia col
   formaggio
 title: Recco

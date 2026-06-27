@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lamia_Panorama.jpg
 latitude: 38.899383
 loc_type: city
 longitude: 22.433582
-score: 0.36
-snippet: Central Greek city near Thermopylae, set between Mount Othrys and the Oeta mountains.
+score: 6.79
+snippet: Central Greek city near Thermopylae, set between Mount Othrys and the Oeta
+  mountains.
 sources:
 - https://en.wikipedia.org/wiki/Lamia_(city)
 - https://en.wikipedia.org/wiki/Battle_of_Thermopylae

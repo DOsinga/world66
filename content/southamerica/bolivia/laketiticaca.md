@@ -4,7 +4,7 @@ done:
 latitude: -16.0167
 loc_type: feature
 longitude: -69.15
-score: 0.6
+score: 9.03
 snippet: High Andean lake shared by Bolivia and Peru, sacred to Inca origin stories
   and island archaeology.
 title: Lake Titicaca

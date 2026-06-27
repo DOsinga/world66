@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1.%E0%A6%9C%E0%A6%BE%E0%A6
 latitude: 23.764386
 loc_type: city
 longitude: 90.389014
-score: 0.29
+score: 6.05
 snippet: Dense delta capital where Puran Dhaka's markets and monuments sit beside
   Louis Kahn modernism.
 title: Dhaka

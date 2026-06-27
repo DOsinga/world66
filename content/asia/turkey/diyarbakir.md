@@ -6,7 +6,7 @@ done:
 latitude: 37.9162
 loc_type: city
 longitude: 40.2363
-score: 0.42
+score: 7.46
 snippet: Kurdish-majority city enclosed by black basalt walls above the Tigris and
   Hevsel gardens.
 sources:

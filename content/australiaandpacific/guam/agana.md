@@ -7,7 +7,7 @@ done:
 latitude: 13.4745
 loc_type: city
 longitude: 144.7488
-score: 0.4
+score: 7.3
 snippet: Tiny Guam capital, rebuilt after wartime destruction around remnants of Spanish
   colonial Hagåtña.
 title: Hagåtña (Agana)

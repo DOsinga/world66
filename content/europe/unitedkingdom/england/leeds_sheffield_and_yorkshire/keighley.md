@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_over_Keighley_(31st
 latitude: 53.868402
 loc_type: city
 longitude: -1.902046
-score: 0.31
+score: 6.22
 snippet: West Yorkshire mill town at the Worth and Aire rivers, gateway to Brontë
   moors by steam railway.
 title: Keighley

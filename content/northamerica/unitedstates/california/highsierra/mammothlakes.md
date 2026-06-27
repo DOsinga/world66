@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Mary_Mammoth_Septembe
 latitude: 37.6485
 loc_type: city
 longitude: -118.9721
-score: 0.54
+score: 8.6
 snippet: High Sierra mountain town where ski slopes, volcanic lakes, and basalt columns
   ring a year-round outdoor base.
 title: Mammoth Lakes

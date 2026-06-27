@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Apalachicola_Bay
 title: Apalachicola
 type: location
-score: 0.38
+score: 7.03
 snippet: Gulf Coast river town with a 19th-century waterfront and a hard-used oyster
   history.
 ---

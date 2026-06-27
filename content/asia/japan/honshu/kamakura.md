@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_J
 latitude: 35.3197
 loc_type: city
 longitude: 139.5502
-score: 0.7
+score: 9.45
 snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit
   between wooded hills and the sea.
 title: Kamakura

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehir,_Eski%C5%9F
 latitude: 39.774394
 loc_type: city
 longitude: 30.519116
-score: 0.45
+score: 7.77
 snippet: Anatolian university city with restored Odunpazarı houses, student cafes,
   and a lively arts scene
 title: Eskişehir

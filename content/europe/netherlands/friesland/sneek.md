@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20190529_Waterpoort1_Sneek
 latitude: 53.0335
 loc_type: city
 longitude: 5.6611
-score: 0.39
+score: 7.17
 snippet: Frisian watersports town on canals and lakes, centred on the Sneekermeer
   and Sneekweek regatta
 title: Sneek

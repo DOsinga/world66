@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:A_C%C3%B2sta_(Unsu)-Panu(r
 latitude: 44.070289
 loc_type: city
 longitude: 8.050019
-score: 0.35
+score: 6.72
 title: Onzo
 type: location
 snippet: Tiny Ligurian hill commune above the Arroscia Valley, marked by medieval

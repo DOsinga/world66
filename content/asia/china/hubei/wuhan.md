@@ -11,8 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Smog_descends_on_Wuhan,_Hu
 latitude: 30.5928
 loc_type: city
 longitude: 114.3055
-score: 0.38
-snippet: "Major Yangtze port city formed from Wuchang, Hankou, and Hanyang, with Yellow Crane Tower as its symbol."
+score: 7.0
+snippet: Major Yangtze port city formed from Wuchang, Hankou, and Hanyang, with Yellow
+  Crane Tower as its symbol.
 title: Wuhan
 type: location
 ---

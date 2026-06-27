@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tropea_-_Veduta_da_Via_Car
 latitude: 38.6753
 loc_type: city
 longitude: 15.8949
-score: 0.58
+score: 8.86
 title: Tropea
 type: location
 snippet: Calabrian cliff town above turquoise beaches, watched over by Santa Maria

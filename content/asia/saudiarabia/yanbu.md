@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:House_of_Lawrence_of_Arabi
 latitude: 24.089019
 loc_type: city
 longitude: 38.068708
-score: 0.22
+score: 5.15
 snippet: Red Sea port city in the Hejaz, split between petrochemical industry and
   reef-rich diving waters
 title: Yanbu

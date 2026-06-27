@@ -2,7 +2,7 @@
 latitude: 45.1403
 loc_type: city
 longitude: 24.6739
-score: 0.4
+score: 7.3
 snippet: Medieval Wallachian town in the Argeș valley, remembered for Romania's royal
   cathedral and first capital
 title: Curtea de Arges

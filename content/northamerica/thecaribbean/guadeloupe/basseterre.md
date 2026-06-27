@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Soufri%C3%A8re_vue_par_
 latitude: 16.0078
 loc_type: city
 longitude: -61.7068
-score: 0.47
+score: 7.98
 snippet: Guadeloupe capital beneath La Soufrière, with Creole streets, a colonial
   fort, and rainforest trails nearby
 title: Basse-Terre

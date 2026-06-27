@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pejzaz_ribnickog_jezera.jp
 latitude: 43.674241
 loc_type: city
 longitude: 19.612463
-score: 0.45
+score: 7.75
 snippet: Southwest Serbian mountain plateau and resort town of grasslands, forest
   valleys, and village-tourism traditions.
 title: Zlatibor

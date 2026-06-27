@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_and_Falls_Park_03
 latitude: 43.547601
 loc_type: city
 longitude: -96.729363
-score: 0.37
+score: 6.91
 snippet: South Dakota's largest city, built around pink quartzite waterfalls on the
   Big Sioux River.
 title: Sioux Falls

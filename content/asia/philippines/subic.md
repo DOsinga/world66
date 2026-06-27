@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-06-02'
 latitude: 14.87748
 longitude: 120.23447
-score: 0.36
+score: 6.77
 title: Subic
 type: location
 loc_type: city

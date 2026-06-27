@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Holy_Family_Log_Church_Cah
 latitude: 38.5662
 loc_type: city
 longitude: -90.1794
-score: 0.32
+score: 6.34
 snippet: Historic Mississippi settlement with French colonial sites, including Holy
   Family church and the old courthouse.
 title: Cahokia

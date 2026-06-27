@@ -5,7 +5,7 @@ done:
 latitude: 1.018076
 loc_type: city
 longitude: 35.000236
-score: 0.29
+score: 6.09
 title: Kitale
 type: location
 snippet: Agricultural highland town in Trans-Nzoia, used as a gateway to Mount Elgon.

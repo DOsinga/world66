@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Finalborgo4.jpg
 latitude: 44.1693
 loc_type: city
 longitude: 8.344
-score: 0.54
+score: 8.59
 title: Finale Ligure
 type: location
 snippet: Western Riviera town where sandy beaches meet limestone cliffs, medieval

@@ -5,7 +5,7 @@ done:
 latitude: 50.2158
 loc_type: city
 longitude: 4.826825
-score: 0.35
+score: 6.74
 title: Hastière
 type: location
 snippet: Meuse valley commune in the Belgian Ardennes, edged by limestone cliffs,

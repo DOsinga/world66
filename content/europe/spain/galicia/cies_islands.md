@@ -4,7 +4,7 @@ done:
 latitude: 42.2139
 loc_type: feature
 longitude: -8.904
-score: 0.61
+score: 9.06
 snippet: Galician granite island group at the Ría de Vigo mouth, centred on Praia
   de Rodas.
 title: Cíes Islands

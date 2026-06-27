@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Adelaide_150th_ann
 latitude: -34.8343
 loc_type: city
 longitude: 138.5124
-score: 0.34
+score: 6.62
 snippet: Historic maritime quarter of Adelaide, where old wool stores and warehouses
   line the Port River.
 title: Port Adelaide

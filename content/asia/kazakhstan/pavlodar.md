@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Former_post_and_telegraph_
 latitude: 52.3
 loc_type: city
 longitude: 76.95
-score: 0.27
+score: 5.87
 snippet: Northern Kazakhstan industrial city on the Irtysh River, with Soviet avenues
   and steppe-country museums
 sources:

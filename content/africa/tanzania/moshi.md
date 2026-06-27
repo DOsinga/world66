@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kilimanjaro_Moshi.jpg
 latitude: -3.348646
 loc_type: city
 longitude: 37.343525
-score: 0.47
+score: 7.99
 snippet: Kilimanjaro gateway town where trekking operators, coffee farms, and morning
   mountain views define the visit.
 title: Moshi

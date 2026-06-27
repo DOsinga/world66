@@ -9,11 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Harbour_of_S%C3%B8nderborg
 latitude: 54.908919
 loc_type: city
 longitude: 9.7898
-score: 0.41
-title: Sønderborg
-type: location
+score: 7.36
 snippet: Danish town on Als island, centered on Sønderborg Castle and the Flensburg
   Fjord waterfront.
+tags:
+- things_to_do
+- sight
+- town
+- als
+title: Sønderborg
+type: location
 ---
 
 Sønderborg is a town in southern Denmark at the narrowest point of the Als Strait, connected by bridge to the island of Als. It sits very close to the German border and has a history shaped by the conflicts between Denmark and Germany — the town changed hands several times between the two countries before finally becoming Danish again after the 1920 referendum.

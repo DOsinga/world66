@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata.
 latitude: 22.5726
 loc_type: city
 longitude: 88.3639
-score: 0.46
+score: 7.89
 snippet: West Bengal metropolis on the Hooghly River, known for colonial architecture
   and Bengali cultural life.
 title: Calcutta

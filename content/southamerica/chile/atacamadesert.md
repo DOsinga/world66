@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,
 latitude: -24.556303
 loc_type: feature
 longitude: -69.422648
-score: 0.64
-snippet: Northern Chilean desert where salt flats, rust canyons, geysers, and ancient geoglyphs sit below the Andes.
+score: 9.26
+snippet: Northern Chilean desert where salt flats, rust canyons, geysers, and ancient
+  geoglyphs sit below the Andes.
 title: Atacama Desert
 type: location
 ---

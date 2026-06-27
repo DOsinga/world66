@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Korca_Old_Bazaar.jpg
 latitude: 40.615897
 loc_type: city
 longitude: 20.777219
-score: 0.4
+score: 7.19
 snippet: Southeastern Albanian plateau city of icons, beer, Ottoman bazaar lanes,
   and the country's first Albanian-language school.
 title: Korce

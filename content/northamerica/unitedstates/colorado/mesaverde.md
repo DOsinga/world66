@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-06-08_Mesa_Verde_Nati
 latitude: 37.2309
 loc_type: feature
 longitude: -108.4618
-score: 0.63
+score: 9.19
 snippet: Colorado national park preserving Ancestral Pueblo cliff dwellings, mesa-top
   villages, and canyon landscapes
 sources:

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerro_Rico_over_Potos%C3%A
 latitude: -19.58929
 loc_type: city
 longitude: -65.753471
-score: 0.52
+score: 8.41
 snippet: High Andean silver city beneath Cerro Rico, preserving colonial architecture
   from its imperial mining boom.
 title: Potosi

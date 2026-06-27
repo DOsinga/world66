@@ -2,7 +2,7 @@
 latitude: -27.7833
 loc_type: feature
 longitude: 17.6167
-score: 0.54
+score: 8.62
 snippet: Vast Namibian canyon landscape where the Fish River cuts through ancient
   rock toward Ai-Ais.
 title: Fish River Canyon National Park

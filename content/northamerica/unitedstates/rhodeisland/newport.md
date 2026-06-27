@@ -13,8 +13,9 @@ sources:
 - https://en.wikivoyage.org/wiki/Newport_(Rhode_Island)
 title: Newport
 type: location
-score: 0.52
-snippet: "Rhode Island harbour city where Gilded Age mansions line Bellevue Avenue above a deep sailing tradition."
+score: 8.41
+snippet: Rhode Island harbour city where Gilded Age mansions line Bellevue Avenue
+  above a deep sailing tradition.
 ---
 
 Newport is the most extravagant address in American history: a small Rhode Island city where the very rich of the Gilded Age built summer "cottages" — in reality, palaces that make the châteaux of the Loire look modest. The Vanderbilts, the Astors, the Belmonts, and their set competed to see who could spend most lavishly along Bellevue Avenue, and the result is the most concentrated display of Gilded Age architecture in America. [The Breakers](/northamerica/unitedstates/rhodeisland/newport/the_breakers), built for Cornelius Vanderbilt II in 1895, is the centerpiece: 70 rooms, a staff of 40, and a budget that would translate to hundreds of millions of dollars today. You can tour all of it for the price of a National Trust ticket.

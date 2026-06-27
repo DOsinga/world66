@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bayonne-Centre_historique-
 latitude: 43.494514
 loc_type: city
 longitude: -1.473666
-score: 0.51
+score: 8.34
 snippet: Basque river city where Adour and Nive meet around chocolate, ramparts, and
   timbered lanes.
 title: Bayonne

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baracoa_Cuba_(261928859).j
 latitude: 20.3469
 loc_type: city
 longitude: -74.4964
-score: 0.52
+score: 8.38
 snippet: Cuba's oldest Spanish settlement, isolated by mountains beside El Yunque
   and a curving eastern bay.
 sources:

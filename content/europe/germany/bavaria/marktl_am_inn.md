@@ -6,7 +6,7 @@ latitude: 48.248032
 longitude: 12.833433
 title: Marktl am Inn
 type: location
-score: 0.36
+score: 6.77
 loc_type: city
 image: marktl_am_inn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MarktlamInn.jpg

@@ -5,7 +5,7 @@ done:
 latitude: 45.251701
 loc_type: city
 longitude: 11.13572
-score: 0.35
+score: 6.74
 snippet: Flat Veronese agricultural plain south of Verona, dotted with castles and
   fortified medieval towns.
 title: Basso Veronese

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Troyes_centre_ville1.JPG
 latitude: 48.297163
 loc_type: city
 longitude: 4.074626
-score: 0.53
+score: 8.46
 snippet: Medieval Champagne city of half-timbered lanes, Gothic churches, and old
   trade-fair wealth
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banga,_Calamba,_Laguna,_Ma
 latitude: 14.206022
 loc_type: city
 longitude: 121.15565
-score: 0.34
+score: 6.58
 title: Calamba
 type: location
 snippet: Laguna city tied to José Rizal's birthplace, with a shrine reconstructing

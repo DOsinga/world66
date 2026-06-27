@@ -7,10 +7,11 @@ done:
 latitude: -9.47433
 loc_type: city
 longitude: 147.15995
-score: 0.22
+score: 5.21
 title: Port Moresby
 type: location
-snippet: Papua New Guinea capital on a natural harbour, with colonial downtown and Waigani government district.
+snippet: Papua New Guinea capital on a natural harbour, with colonial downtown and
+  Waigani government district.
 ---
 
 Port Moresby is the capital of Papua New Guinea and the main gateway to the country — almost every traveller arrives here whether they plan to or not. It is a sprawling, disorderly city of around 400,000 people on a fine natural harbour in the south-east of the island, with the older colonial downtown near the port, newer districts spreading out over the hills, and the government quarter at **Waigani**.

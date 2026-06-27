@@ -2,13 +2,16 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 49.197377
-loc_type: feature
 longitude: 20.070717
-score: 0.56
+score: 8.72
 snippet: Tatra mountain lake below granite peaks, reached by a long forest road from
   Zakopane.
+tags:
+- things_to_do
+- sight
+- hiking
 title: Morskie Oko
-type: location
+type: poi
 image: morskieoko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Morskie_Oko_o_poranku.jpg
 image_license: CC BY 3.0

@@ -5,9 +5,10 @@ done:
 latitude: 58.020077
 loc_type: city
 longitude: -5.343004
-score: 0.42
+score: 7.5
 title: Achiltibuie
-snippet: "Remote northwest Scotland village facing the Summer Isles from the winding coast north of Ullapool."
+snippet: Remote northwest Scotland village facing the Summer Isles from the winding
+  coast north of Ullapool.
 type: location
 image: achiltibuie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2011_Schotland_Achiltibuie_2-06-2011_13-27-05.png

@@ -8,9 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Lushoto,_Irente.jpg
 latitude: -4.495284
 loc_type: city
-snippet: Cool Tanzanian hill town in the Usambara Mountains, known for hiking, viewpoints, and German colonial traces.
+snippet: Cool Tanzanian hill town in the Usambara Mountains, known for hiking, viewpoints,
+  and German colonial traces.
 longitude: 38.448023
-score: 0.42
+score: 7.5
 title: Lushoto
 type: location
 ---

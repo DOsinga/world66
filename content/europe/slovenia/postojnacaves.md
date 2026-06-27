@@ -5,7 +5,7 @@ done:
 latitude: 45.7828
 loc_type: feature
 longitude: 14.2043
-score: 0.6
+score: 9.01
 snippet: Karst cave system at Postojna, entered by electric train through vast chambers
   and limestone formations.
 title: Postojna Caves

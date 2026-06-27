@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Linyi_television_tower.jpg
 latitude: 35.0604
 loc_type: city
 longitude: 118.3426
-score: 0.25
+score: 5.58
 snippet: Southeastern Shandong logistics city with deep ties to Wang Xizhi, Zhuge
   Liang, and bamboo-slip texts
 sources:

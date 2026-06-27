@@ -5,7 +5,7 @@ done:
 latitude: 18.673269
 loc_type: city
 longitude: 78.097848
-score: 0.26
+score: 5.82
 title: Nizamabad
 type: location
 snippet: Telangana market city known for turmeric production and a hilltop fort layered

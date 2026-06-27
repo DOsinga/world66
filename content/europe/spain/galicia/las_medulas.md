@@ -4,7 +4,7 @@ done:
 latitude: 42.454439
 loc_type: feature
 longitude: -6.762921
-score: 0.51
+score: 8.3
 snippet: Roman gold-mining landscape of red sandstone pinnacles, chestnut woods, and
   collapsed mountainsides in western Spain.
 title: Las Medulas

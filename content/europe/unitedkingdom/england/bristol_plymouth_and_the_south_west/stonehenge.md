@@ -3,10 +3,11 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 51.178829
 longitude: -1.826183
-snippet: "Prehistoric stone circle on Salisbury Plain, set within a wider ritual landscape of barrows and avenues."
+snippet: Prehistoric stone circle on Salisbury Plain, set within a wider ritual landscape
+  of barrows and avenues.
 title: Stonehenge
 type: location
-score: 0.61
+score: 9.08
 loc_type: feature
 ---
 

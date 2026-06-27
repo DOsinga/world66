@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Batalha_Portugal_Mosteiro_
 latitude: 39.6588
 loc_type: city
 longitude: -8.8254
-score: 0.49
+score: 8.15
 snippet: Central Portuguese town built around Batalha Monastery, a Gothic and Manueline
   monument to Aljubarrota.
 sources:
@@ -24,4 +24,4 @@ The monastery is a UNESCO World Heritage Site and the reason almost everyone com
 
 A short walk away, the [Tomb of the Unknown Soldier](/europe/portugal/batalha/tomb_of_the_unknown_soldier) honours Portuguese dead from the First World War and the colonial wars, guarded around the clock in the Chapter House. The smaller [Igreja da Exaltação de Santa Cruz](/europe/portugal/batalha/igreja_da_exaltacao_de_santa_cruz) on the main square is the town's parish church, worth a glance after the monastery.
 
-Batalha is most often visited as a stop on the route between [Fátima](/europe/portugal/fatima) and [Alcobaça](/europe/portugal/alcobaca), or as a day trip from [Leiria](/europe/portugal/leiria) or [Coimbra](/europe/portugal/coimbra). Two to three hours is enough for the monastery and a coffee. Combined with Alcobaça and Tomar, it makes a satisfying day of Portugal's three great monastic complexes.
+Batalha is most often visited as a stop on the route between [Fátima](/europe/portugal/fatima) and Alcobaça, or as a day trip from [Leiria](/europe/portugal/leiria) or [Coimbra](/europe/portugal/coimbra). Two to three hours is enough for the monastery and a coffee. Combined with Alcobaça and Tomar, it makes a satisfying day of Portugal's three great monastic complexes.

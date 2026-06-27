@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wilmington,_Delaware,_USA.
 latitude: 39.745947
 loc_type: city
 longitude: -75.546589
-score: 0.3
+score: 6.18
 title: Wilmington
 type: location
 snippet: Delaware river city shaped by colonial shipping, Brandywine mills, and two

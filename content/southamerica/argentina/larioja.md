@@ -5,7 +5,7 @@ done:
 latitude: -29.7825
 loc_type: city
 longitude: -67.1147
-score: 0.36
+score: 6.84
 snippet: Hot northwestern Argentine city at the Sierra de Velasco, used as a base
   for Talampaya's red canyons.
 title: La Rioja

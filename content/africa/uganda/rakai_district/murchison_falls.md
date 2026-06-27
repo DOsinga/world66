@@ -4,7 +4,7 @@ done:
 latitude: 2.278463
 loc_type: feature
 longitude: 31.685853
-score: 0.44
+score: 7.64
 snippet: Ugandan national park where the Nile squeezes through a six-metre gorge before
   dropping at Murchison Falls
 title: Murchison Falls

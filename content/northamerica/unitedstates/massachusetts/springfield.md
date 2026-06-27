@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Civil_War_Era_artillery_de
 latitude: 42.1015
 loc_type: city
 longitude: -72.5898
-score: 0.31
+score: 6.28
 snippet: Western Massachusetts river city linked to basketball, Dr. Seuss, and the
   historic Springfield Armory.
 title: Springfield

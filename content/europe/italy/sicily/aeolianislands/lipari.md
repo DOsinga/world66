@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Lipari_01.jpg
 latitude: 38.4693
 loc_type: city
 longitude: 14.9565
-score: 0.6
+score: 9.01
 snippet: Largest Aeolian island and harbour town, crowned by a castle-fortress between
   two bays.
 title: Lipari

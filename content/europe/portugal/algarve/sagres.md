@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sagres_(7321504376).jpg
 latitude: 37.007829
 loc_type: city
 longitude: -8.941924
-score: 0.54
+score: 8.56
 title: Sagres
 type: location
 snippet: Algarve town at Europe's southwestern tip, associated with Atlantic navigation

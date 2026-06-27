@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caminha_-_Portugal_(147845
 latitude: 41.87576
 loc_type: city
 longitude: -8.838838
-score: 0.45
+score: 7.75
 snippet: Portuguese border town where the Minho meets the Atlantic, centred on a granite
   square and fortified clock tower.
 title: Caminha

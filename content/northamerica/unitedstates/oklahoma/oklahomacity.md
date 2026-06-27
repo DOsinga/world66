@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Automobile_Alley_in_Oklaho
 latitude: 35.472989
 loc_type: city
 longitude: -97.517054
-score: 0.34
+score: 6.65
 snippet: Oklahoma state capital reshaped by Bricktown, oil history, cowboy culture,
   and the National Memorial
 title: Oklahoma City

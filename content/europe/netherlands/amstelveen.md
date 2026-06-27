@@ -5,7 +5,7 @@ done:
 latitude: 52.3028
 loc_type: city
 longitude: 4.8597
-score: 0.33
+score: 6.44
 snippet: Prosperous Amsterdam suburb near Schiphol, with restaurant-filled old lanes
   and carefully planted parks.
 title: Amstelveen

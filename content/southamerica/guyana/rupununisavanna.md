@@ -4,7 +4,7 @@ done:
 latitude: 3.5
 loc_type: feature
 longitude: -59.5
-score: 0.4
+score: 7.27
 snippet: Southern Guyanese savanna of ranches, Amerindian communities, gallery forests,
   and exceptional wildlife
 title: Rupununi Savanna

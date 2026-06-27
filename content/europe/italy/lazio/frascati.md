@@ -5,7 +5,7 @@ done:
 latitude: 41.808245
 loc_type: city
 longitude: 12.680368
-score: 0.46
+score: 7.9
 snippet: Castelli Romani hill town above Rome, known for Renaissance villas, broad
   views, and Frascati white wine.
 sources:

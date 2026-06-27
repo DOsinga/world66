@@ -3,7 +3,7 @@ title: Sariska National Park
 type: location
 latitude: 27.3122
 longitude: 76.395
-score: 0.47
+score: 7.92
 loc_type: feature
 snippet: Aravalli Hills tiger reserve with dry forest, quieter jeep safaris, and Kankwari
   Fort ruins.

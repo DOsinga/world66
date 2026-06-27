@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BD090090(2).jpg
 latitude: 54.7828
 loc_type: city
 longitude: 32.0453
-score: 0.3
+score: 6.18
 snippet: Ancient Russian city on the upper Dnieper, marked by massive red-brick walls
   and repeated sieges.
 sources:

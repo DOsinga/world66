@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bairro_Iriri%C3%BA_e_zona_
 latitude: -26.30449
 loc_type: city
 longitude: -48.848673
-score: 0.34
+score: 6.63
 snippet: Southern Brazilian industrial city on Babitonga Bay, shaped by immigrant
   heritage and dance culture
 title: Joinville

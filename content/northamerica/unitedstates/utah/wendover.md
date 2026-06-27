@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2013-07-04_14_10_07_View_o
 latitude: 40.7376
 loc_type: city
 longitude: -114.0314
-score: 0.24
+score: 5.45
 snippet: Utah border town beside the Bonneville Salt Flats, known for stark desert
   horizons and speed racing.
 title: Wendover

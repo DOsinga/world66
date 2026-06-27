@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Seddon_Statue_in_Parliamen
 latitude: -41.288795
 loc_type: city
 longitude: 174.777211
-score: 0.57
+score: 8.78
 snippet: Compact harbour capital wedged between forested hills, wild coast, parliament,
   cafes, and relentless wind
 title: Wellington

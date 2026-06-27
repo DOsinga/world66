@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2002%E5%B9%B4_%E6%BB%A1%E6
 latitude: 43.9
 loc_type: city
 longitude: 125.2
-score: 0.32
+score: 6.32
 snippet: Jilin capital shaped by Manchukuo history, Puyi's palace, and northeast China's
   film industry.
 sources:

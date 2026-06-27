@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.j
 latitude: 48.8566
 loc_type: city
 longitude: 2.3522
-score: 0.98
+score: 9.98
 snippet: French capital on the Seine, defined by historic quartiers, major museums,
   and Haussmann boulevards.
 title: Paris

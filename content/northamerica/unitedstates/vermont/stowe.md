@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:In_Stowe,_Vermont_by_Alfre
 latitude: 44.4644
 loc_type: city
 longitude: -72.6856
-score: 0.53
+score: 8.49
 snippet: Green Mountains village below Mount Mansfield, known for skiing, foliage,
   and the Stowe Recreation Path.
 title: Stowe

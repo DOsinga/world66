@@ -4,7 +4,7 @@ done:
 latitude: 29.7589
 loc_type: city
 longitude: -95.3677
-score: 0.38
+score: 7.07
 snippet: Huge Gulf Coast city of NASA, museums, and one of the United States' most
   diverse restaurant scenes
 title: Houston
@@ -15,7 +15,7 @@ Houston is the largest city in Texas and the fourth-largest in the United States
 
 The [Museum District](/northamerica/unitedstates/texas/houston/museumdistrict) alone is worth several days, with 19 institutions including the [Museum of Fine Arts](/northamerica/unitedstates/texas/houston/museum_of_fine_arts) and the Houston Museum of Natural Science. [Hermann Park](/northamerica/unitedstates/texas/houston/hermann_park) next door has a zoo, a Japanese garden, and free performances at Miller Outdoor Theater. The [Menil Collection](/northamerica/unitedstates/texas/houston/menil_collection), in Montrose, is one of the finest free art museums in the country. [Space Center Houston](/northamerica/unitedstates/texas/houston/space_center_houston), NASA's official visitor center in the Clear Lake area, is unlike anything else in the country.
 
-[Montrose](/northamerica/unitedstates/texas/houston/montrose) is the bohemian heart of the city, packed with antique shops, tattoo parlors, and some of the best bars in town. [Downtown](/northamerica/unitedstates/texas/houston/downtown) has been revitalized around Bayou Place and the Theater District. A short drive south takes you to [Galveston Island](/northamerica/unitedstates/texas/houston/galvestonisland) and its beaches, while [Fort Bend County](/northamerica/unitedstates/texas/houston/fortbendcounty) to the southwest offers Brazos Bend State Park and one of the largest public telescopes in the country.
+[Montrose](/northamerica/unitedstates/texas/houston/montrose) is the bohemian heart of the city, packed with antique shops, tattoo parlors, and some of the best bars in town. [Downtown](/northamerica/unitedstates/texas/houston/downtown) has been revitalized around Bayou Place and the Theater District. A short drive south takes you to [Galveston Island](/northamerica/unitedstates/texas/galveston) and its beaches, while [Fort Bend County](/northamerica/unitedstates/texas/fortbendcounty) to the southwest offers Brazos Bend State Park and one of the largest public telescopes in the country.
 
 Be warned: Houston summers are brutal. Heat, humidity, and the threat of hurricanes make the period from June through October uncomfortable at best. Spring is the sweet spot, particularly April, when the weather is warm but the tropical storm season has not yet begun.
 
@@ -24,6 +24,6 @@ Be warned: Houston summers are brutal. Heat, humidity, and the threat of hurrica
 [Downtown](/northamerica/unitedstates/texas/houston/downtown) |
 [Montrose](/northamerica/unitedstates/texas/houston/montrose) |
 [Museum District](/northamerica/unitedstates/texas/houston/museumdistrict) |
-[Galveston Island](/northamerica/unitedstates/texas/houston/galvestonisland) |
+[Galveston Island](/northamerica/unitedstates/texas/galveston) |
 [Brazosport Area](/northamerica/unitedstates/texas/brazosportarea) |
-[Fort Bend County](/northamerica/unitedstates/texas/houston/fortbendcounty)
+[Fort Bend County](/northamerica/unitedstates/texas/fortbendcounty)

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Narshi_Gonpa_Ngawa_Sichuan
 latitude: 31.901569
 loc_type: city
 longitude: 102.222924
-score: 0.38
+score: 7.04
 snippet: High-plateau Sichuan town amid Tibetan and Qiang landscapes of yak pastures,
   wetlands, and glaciated peaks.
 sources:

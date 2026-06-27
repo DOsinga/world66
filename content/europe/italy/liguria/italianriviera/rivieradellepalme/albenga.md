@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Albenga.JPG
 latitude: 44.0493
 loc_type: city
 longitude: 8.2131
-score: 0.46
+score: 7.83
 title: Albenga
 type: location
 snippet: Ligurian coastal town with a compact medieval centre and one of Italy's oldest

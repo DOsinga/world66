@@ -11,7 +11,7 @@ image_source: https://www.flickr.com/photos/133200397@N03/49647010307
 latitude: 42.51
 loc_type: city
 longitude: -8.8
-score: 0.42
+score: 7.51
 snippet: Galician wine region along the Ría de Arousa, known for Albariño vineyards
   and coastal villages.
 title: O Salnes

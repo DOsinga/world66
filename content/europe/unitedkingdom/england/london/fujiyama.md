@@ -4,15 +4,16 @@ latitude: 51.461339
 longitude: -0.111674
 phone: 020 7737 2369
 price: £6–8 mains
+score: 6.2
 snippet: Unpretentious Japanese noodle bar popular with Brixton locals
 tags:
 - eating_out
 - restaurant
 - bar
+- brixton
 title: Fujiyama
 type: poi
 url: www.newfujiyama.com
-score: 6.2
 ---
 
 A Japanese noodle bar in Brixton, unpretentious and good value. Ramen, donburi, bento boxes, pan-fried noodles, and curry rice; a main course for around £6–8 will fill most appetites. The place is small and popular with locals, which is a decent recommendation.

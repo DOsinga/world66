@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_wi
 latitude: 36.098041
 loc_type: feature
 longitude: -112.096279
-score: 0.82
+score: 9.91
 snippet: Arizona canyon carved by the Colorado River through miles of layered rock.
 tags:
 - hiking

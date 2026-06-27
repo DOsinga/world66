@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Ears_mountain.jpg
 latitude: 51.299222
 loc_type: city
 longitude: -116.964296
-score: 0.47
+score: 7.94
 snippet: British Columbia mountain town between the Rockies and Purcells, built for
   Kicking Horse adventures.
 title: Golden

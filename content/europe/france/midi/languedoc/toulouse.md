@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Toulouse_-_vue_du_Vieux_To
 latitude: 43.6047
 loc_type: city
 longitude: 1.4442
-score: 0.52
-snippet: Pink-brick Garonne city whose student energy and aerospace wealth animate a compact southern French centre.
+score: 8.41
+snippet: Pink-brick Garonne city whose student energy and aerospace wealth animate
+  a compact southern French centre.
 title: Toulouse
 type: location
 ---

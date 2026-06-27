@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clock_tower_and_Lion_of_St
 latitude: 45.391408
 loc_type: city
 longitude: 11.805849
-score: 0.56
+score: 8.76
 snippet: Northern Italian university city near Venice, known for Giotto's frescoes
   and broad arcaded streets.
 title: Padova

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fore_Street,_Dulverton_(ge
 latitude: 51.0401
 loc_type: city
 longitude: -3.5502
-score: 0.43
+score: 7.63
 snippet: Exmoor market town in the River Barle valley, used as a base for moorland
   walks
 title: Dulverton

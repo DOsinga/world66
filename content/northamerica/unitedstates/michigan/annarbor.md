@@ -10,9 +10,10 @@ image_source: https://commons.wikimedia.org/wiki/File:A_picture_of_the_Universit
 latitude: 42.2814
 loc_type: city
 longitude: -83.7485
-score: 0.41
+score: 7.4
 title: Ann Arbor
-snippet: "Michigan university city shaped by the University of Michigan and a broad cultural life."
+snippet: Michigan university city shaped by the University of Michigan and a broad
+  cultural life.
 type: location
 ---
 

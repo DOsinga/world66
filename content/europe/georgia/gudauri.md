@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gudauri_Georgia_Panorama_P
 latitude: 42.4766
 loc_type: city
 longitude: 44.477
-score: 0.51
+score: 8.36
 snippet: Caucasus ski resort village on the Georgian Military Highway, known for high-altitude
   off-piste terrain
 title: Gudauri

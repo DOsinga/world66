@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lillian_Webb_Park,_Norcros
 latitude: 33.941213
 loc_type: city
 longitude: -84.213531
-score: 0.24
+score: 5.51
 snippet: Small Gwinnett County city with a preserved historic downtown near the Buford
   Highway food corridor.
 title: Norcross

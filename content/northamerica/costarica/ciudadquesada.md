@@ -4,7 +4,7 @@ done:
 latitude: 10.325
 loc_type: city
 longitude: -84.4313
-score: 0.39
+score: 7.12
 snippet: Northern Costa Rican market town, locally San Carlos, set below the Central
   Volcanic Range.
 title: Ciudad Quesada

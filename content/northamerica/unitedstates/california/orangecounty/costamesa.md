@@ -5,7 +5,7 @@ done:
 latitude: 33.6633
 loc_type: city
 longitude: -117.9033
-score: 0.32
+score: 6.36
 snippet: Orange County city known for South Coast Plaza, performing arts venues, and
   creative shopping districts.
 sources:

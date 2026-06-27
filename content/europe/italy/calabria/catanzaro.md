@@ -6,7 +6,7 @@ latitude: 38.82996
 longitude: 16.431557
 title: Catanzaro
 type: location
-score: 0.38
+score: 7.03
 loc_type: city
 image: catanzaro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catanzaro_-_vista_d%27insieme_01.jpg

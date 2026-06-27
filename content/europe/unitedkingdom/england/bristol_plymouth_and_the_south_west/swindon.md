@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/93398075@N00/29857248356
 latitude: 51.561533
 loc_type: city
 longitude: -1.785432
-score: 0.31
+score: 6.23
 snippet: Wiltshire railway town shaped by the Great Western Railway works and the
   STEAM Museum.
 title: Swindon

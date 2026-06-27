@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mystic,_Connecticut_01.jpg
 latitude: 41.3543
 loc_type: city
 longitude: -71.9665
-score: 0.47
+score: 7.92
 snippet: Connecticut maritime village on the Mystic River, with wooden ships, a drawbridge,
   and seafaring museum life.
 sources:

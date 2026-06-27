@@ -5,7 +5,7 @@ done:
 latitude: -23.8432
 loc_type: city
 longitude: 151.2561
-score: 0.3
+score: 6.14
 snippet: Central Queensland industrial port and main departure point for Heron Island
   and the southern Great Barrier Reef.
 title: Gladstone

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bengbu_Zhanggong_Mountain_
 latitude: 32.9333
 loc_type: city
 longitude: 117.3667
-score: 0.25
+score: 5.57
 snippet: Huaihe River city in northern Anhui, known as the birthplace of Huagudeng
   folk performance.
 sources:

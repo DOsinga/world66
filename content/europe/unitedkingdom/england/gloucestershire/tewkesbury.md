@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tewkesbury_Abbey_and_Mill_
 latitude: 51.993786
 loc_type: city
 longitude: -2.154957
-score: 0.45
+score: 7.74
 snippet: Gloucestershire market town at the Avon-Severn meeting point, watched over
   by a great Norman abbey.
 title: Tewkesbury

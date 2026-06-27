@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maruata,_Mich.,_Mexico_-_p
 latitude: 18.273235
 loc_type: city
 longitude: -103.348683
-score: 0.36
+score: 6.8
 snippet: Tiny Michoacán fishing village with remote Pacific beaches, rock monoliths,
   and sea turtle nesting sites.
 title: Maruata

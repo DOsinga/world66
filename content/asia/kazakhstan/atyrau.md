@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atyrau,_Kazakhstan_-_panor
 latitude: 47.660583
 loc_type: city
 longitude: 50.806203
-score: 0.21
+score: 5.08
 snippet: Caspian oil city on the Ural River, straddling Kazakhstan's Europe-Asia divide
   near the Caspian shore
 title: Atyrau

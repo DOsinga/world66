@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kitesurfer_Tarifa_Beach.jp
 latitude: 36.012908
 loc_type: city
 longitude: -5.605021
-score: 0.54
+score: 8.59
 title: Tarifa
 type: location
 snippet: Andalusian port town at continental Europe's southern tip, facing Morocco

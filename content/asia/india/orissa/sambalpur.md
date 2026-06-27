@@ -5,7 +5,7 @@ done:
 latitude: 21.5571
 loc_type: city
 longitude: 84.1529
-score: 0.3
+score: 6.16
 snippet: Mahanadi River city known for Sambalpuri ikat textiles, Samaleswari Temple,
   and nearby Hirakud Dam
 title: Sambalpur

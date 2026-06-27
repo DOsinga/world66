@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_Rottweil.jpg
 latitude: 48.167824
 loc_type: city
 longitude: 8.626979
-score: 0.4
+score: 7.3
 title: Rottweil
 type: location
 snippet: Baden-Württemberg's oldest town, known for Roman origins, gate towers, and

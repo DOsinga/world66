@@ -5,7 +5,7 @@ done:
 latitude: 43.1566
 loc_type: city
 longitude: -77.6088
-score: 0.36
+score: 6.77
 snippet: Lake Ontario city on the Genesee River, remade from Kodak wealth into a university
   hub.
 sources:

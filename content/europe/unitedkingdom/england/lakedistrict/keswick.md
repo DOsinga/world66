@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Keswick,_Cumbria_Panorama_
 latitude: 54.6013
 loc_type: city
 longitude: -3.1377
-score: 0.56
+score: 8.75
 title: Keswick
 type: location
 snippet: Northern Lake District town on Derwentwater, used as a base for Skiddaw and

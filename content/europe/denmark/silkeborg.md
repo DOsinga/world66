@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:970_Silkeborg_station_og_l
 latitude: 56.169453
 loc_type: city
 longitude: 9.549514
-score: 0.45
-snippet: Danish lake-district town in central Jutland, linked by the Gudenå and the Hjejlen paddle steamer.
+score: 7.76
+snippet: Danish lake-district town in central Jutland, linked by the Gudenå and the
+  Hjejlen paddle steamer.
 title: Silkeborg
 type: location
 ---

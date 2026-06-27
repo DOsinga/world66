@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-23'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: dubai.jpg
 image_license: CC-BY-2.0
@@ -10,15 +11,16 @@ image_source: https://en.wikipedia.org/wiki/File:Burj_Khalifa_2021.jpg
 latitude: 25.2048
 loc_type: city
 longitude: 55.2708
-score: 0.63
+score: 9.2
+snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands,
+  and rapid transformation from trading port.
 title: Dubai
 type: location
-snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands, and rapid transformation from trading port.
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.
 
-The [Burj Khalifa](/asia/unitedarabemirates/dubai/burj_khalifa_burj) — 828 metres, the tallest structure in the world — dominates the skyline along Sheikh Zayed Road. Its 124th and 148th floor observation decks are open to visitors; book tickets well in advance for sunset. At its base, the [Dubai Mall](/asia/unitedarabemirates/dubai/dubai_mall) is one of the largest in the world (an indoor aquarium, an ice rink, 1,200 shops) and the nightly [Dubai Fountain](/asia/unitedarabemirates/dubai/dubai_fountain) water-and-music show in the lake outside is well worth the ten-minute wait.
+The [Burj Khalifa](/asia/unitedarabemirates/dubai/burj_khalifa_burj) — 828 metres, the tallest structure in the world — dominates the skyline of [Downtown Dubai](/asia/unitedarabemirates/dubai/downtown_dubai) along Sheikh Zayed Road. Its 124th and 148th floor observation decks are open to visitors; book tickets well in advance for sunset. At its base, the [Dubai Mall](/asia/unitedarabemirates/dubai/dubai_mall) is one of the largest in the world (an indoor aquarium, an ice rink, 1,200 shops) and the nightly [Dubai Fountain](/asia/unitedarabemirates/dubai/dubai_fountain) water-and-music show in the lake outside is well worth the ten-minute wait. Further south, the man-made canal city of [Dubai Marina](/asia/unitedarabemirates/dubai/dubai_marina) holds the New Dubai high-rises and a 3.5 km waterfront promenade lined with restaurants.
 
 For a sense of the pre-oil city, head to the [Al Fahidi Historical Neighbourhood](/asia/unitedarabemirates/dubai/al_fahidi) (Bastakiya) — a quarter of restored coral-block merchants' houses in the old Bur Dubai district, with courtyards, traditional wind towers (barjeel), and the [Dubai Museum](/asia/unitedarabemirates/dubai/dubai_museum) in the 18th-century Al Fahidi Fort. From Bastakiya, small wooden abra water taxis cross the [Dubai Creek](/asia/unitedarabemirates/dubai/dubai_creek) for one dirham (less than 30 US cents) to the [Deira](/asia/unitedarabemirates/dubai/deira) side, home to the [Gold Souk](/asia/unitedarabemirates/dubai/gold_souk) and [Spice Souk](/asia/unitedarabemirates/dubai/spice_souk) — the chaotic, pungent side of Dubai that still exists beneath the glass towers.
 

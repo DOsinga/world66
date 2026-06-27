@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aley_Overlooking_Beirut.jp
 latitude: 33.80827
 loc_type: city
 longitude: 35.606118
-score: 0.39
+score: 7.11
 snippet: Mount Lebanon summer town above Beirut, known for cool air, stone houses,
   and terrace restaurants
 title: Aley

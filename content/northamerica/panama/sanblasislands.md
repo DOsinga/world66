@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Blas_Islands.jpg
 latitude: 9.5817
 loc_type: city
 longitude: -78.9167
-score: 0.59
+score: 8.93
 snippet: Guna Yala archipelago of coral islets governed by the Indigenous Guna along
   Panama's Caribbean coast.
 title: San Blas Islands

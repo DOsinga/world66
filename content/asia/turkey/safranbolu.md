@@ -13,7 +13,7 @@ sources:
 - https://en.wikipedia.org/wiki/Safranbolu
 title: Safranbolu
 type: location
-score: 0.54
+score: 8.59
 snippet: Ottoman valley town of timber mansions, bazaar lanes, saffron-trading history,
   and UNESCO protection.
 ---

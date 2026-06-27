@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tatta_Pani.JPG
 latitude: 33.6056
 loc_type: city
 longitude: 73.9481
-score: 0.27
+score: 5.84
 snippet: Azad Kashmir riverside settlement on the Poonch, known for sulphur hot springs
   and green hills
 title: Tatta Pani

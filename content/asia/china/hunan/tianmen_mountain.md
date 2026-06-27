@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tianmen_38330-Zhangjiajie_
 latitude: 29.0528
 loc_type: feature
 longitude: 110.483
-score: 0.64
+score: 9.22
 snippet: Hunan mountain above Zhangjiajie, defined by the vast natural arch called
   Heaven's Gate
 sources:

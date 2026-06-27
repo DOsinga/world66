@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Baie,_Adolphe_de_Ple
 latitude: -20.01302
 loc_type: city
 longitude: 57.584627
-score: 0.56
+score: 8.72
 snippet: Northern Mauritius tourist hub with restaurants, dive operators, nightlife,
   and boat trips to offshore islands
 title: Grand Baie

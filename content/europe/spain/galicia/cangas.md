@@ -5,7 +5,7 @@ done:
 latitude: 42.277908
 loc_type: city
 longitude: -8.789634
-score: 0.42
+score: 7.43
 snippet: Galician fishing town on the Ría de Vigo, with granite hills and beaches
   facing the Cíes Islands.
 title: Cangas

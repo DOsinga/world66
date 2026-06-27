@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bi_jia_shan_at_high_tide.J
 latitude: 41.1167
 loc_type: city
 longitude: 121.1333
-score: 0.29
+score: 6.02
 snippet: Liaoning corridor city with Liao temples, Jurassic fossils, and Chinese Civil
   War history.
 sources:

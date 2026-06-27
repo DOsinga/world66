@@ -5,7 +5,7 @@ done:
 latitude: 37.172314
 loc_type: city
 longitude: -109.866209
-score: 0.4
+score: 7.25
 snippet: Tiny red-rock river town on the San Juan, named for its balanced sandstone
   hat formation
 title: Mexican Hat

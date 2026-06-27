@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Baradari_Palace_(Cropped).
 latitude: 30.209278
 loc_type: city
 longitude: 76.339723
-score: 0.34
+score: 6.65
 snippet: Former Punjabi princely capital known for Mughal-era palaces, gardens, and
   a relaxed old-town rhythm.
 title: Patiala

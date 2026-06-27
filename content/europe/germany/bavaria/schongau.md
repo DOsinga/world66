@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schongau_02.jpg
 latitude: 47.811897
 loc_type: city
 longitude: 10.897213
-score: 0.4
+score: 7.24
 snippet: Small Bavarian town above the Lech, ringed by well-preserved medieval walls
   and towers
 title: Schongau

@@ -11,7 +11,7 @@ loc_type: city
 snippet: Remote Libyan oasis cluster near Egypt and Sudan, once a Senussi centre on
   Sahara caravan routes
 longitude: 22.084033
-score: 0.13
+score: 2.82
 title: Kufra
 type: location
 ---

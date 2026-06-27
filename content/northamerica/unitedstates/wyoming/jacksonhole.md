@@ -10,7 +10,7 @@ loc_type: city
 snippet: Wyoming valley below the Tetons, a base for national parks, wildlife, and
   steep mountain terrain
 longitude: -110.7624
-score: 0.64
+score: 9.24
 title: Jackson Hole
 type: location
 ---

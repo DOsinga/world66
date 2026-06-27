@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:BananaBayKitesurf.JPG
 latitude: 26.5333
 loc_type: city
 longitude: -78.6996
-score: 0.46
+score: 7.88
 snippet: Grand Bahama's planned free-trade city, a relaxed alternative to Nassau with
   broad beaches nearby.
 title: Freeport

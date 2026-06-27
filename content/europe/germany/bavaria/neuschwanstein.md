@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_Neuschwanstein.jpg
 latitude: 47.5576
 loc_type: feature
 longitude: 10.7497
-score: 0.69
+score: 9.42
 snippet: Bavarian Alps castle above Hohenschwangau, built for King Ludwig II and later
   echoed by Disney.
 title: Neuschwanstein

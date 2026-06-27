@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiapu,_Ningde,_Fujian,_Chi
 latitude: 26.67
 loc_type: city
 longitude: 119.52
-score: 0.29
+score: 6.05
 snippet: Northern Fujian coastal prefecture of islands, estuaries, granite peaks,
   and UNESCO geopark landscapes.
 sources:

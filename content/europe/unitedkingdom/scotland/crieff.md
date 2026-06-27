@@ -5,7 +5,7 @@ done:
 latitude: 56.372717
 loc_type: city
 longitude: -3.839745
-score: 0.42
+score: 7.44
 snippet: Perthshire market town at the Highland edge, shaped by old cattle fairs and
   whisky country.
 title: Crieff

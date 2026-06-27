@@ -7,7 +7,7 @@ done:
 latitude: 23.128845
 loc_type: city
 longitude: 113.259006
-score: 0.48
+score: 8.01
 snippet: Pearl River delta metropolis and old Canton, long China's southern gateway
   to world trade
 title: Guangzhou

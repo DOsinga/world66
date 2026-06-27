@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AmboiseRue.JPG
 latitude: 47.411
 loc_type: city
 longitude: 0.9837
-score: 0.59
+score: 8.96
 title: Amboise
 type: location
 snippet: Loire Valley town dominated by its Renaissance château and Leonardo da Vinci's

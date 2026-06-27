@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Oudtshoorn,_South_
 latitude: -33.590295
 loc_type: city
 longitude: 22.204206
-score: 0.45
+score: 7.74
 snippet: Karoo ostrich town whose feather boom left grand sandstone palaces in a semi-desert
   valley.
 title: Oudtshoorn

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alborz_in_Semnan_Province_
 latitude: 35.5769
 loc_type: city
 longitude: 53.3921
-score: 0.24
+score: 5.48
 snippet: Workaday Iranian provincial capital on the Tehran-Mashhad corridor, with
   Qajar gates and old bazaar brickwork.
 sources:

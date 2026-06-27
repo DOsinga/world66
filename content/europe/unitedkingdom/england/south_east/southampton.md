@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Leaving_Southampton_-_geog
 latitude: 50.9025
 loc_type: city
 longitude: -1.4042
-score: 0.38
+score: 6.99
 snippet: English cruise port city where Mayflower and Titanic history sits beside
   medieval walls and waterfront quays.
 title: Southampton

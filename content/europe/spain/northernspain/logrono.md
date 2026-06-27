@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:De_rivier_de_Ebro_passeren
 latitude: 43.465
 loc_type: city
 longitude: -2.4456
-score: 0.49
+score: 8.11
 snippet: La Rioja capital where Calle Laurel’s pintxo bars turn local wine into an
   evening ritual.
 sources:

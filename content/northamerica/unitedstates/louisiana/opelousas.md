@@ -10,7 +10,7 @@ latitude: 30.53353
 longitude: -92.081509
 title: Opelousas
 type: location
-score: 0.3
+score: 6.12
 loc_type: city
 snippet: Acadiana city and zydeco stronghold, rooted in Creole food, music, and Louisiana's
   layered history.

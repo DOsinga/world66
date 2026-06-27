@@ -4,7 +4,7 @@ done:
 latitude: 26.992099
 loc_type: city
 longitude: 41.489258
-score: 0.23
+score: 5.43
 snippet: Saudi desert crossroads between the Great Nafud and Aja-Salma mountains,
   with Rashidi history and rock art nearby
 sources:

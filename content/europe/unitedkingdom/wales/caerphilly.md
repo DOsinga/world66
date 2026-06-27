@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caerphilly_Castle_south.jp
 latitude: 51.578
 loc_type: city
 longitude: -3.218
-score: 0.44
+score: 7.72
 snippet: South Wales market town wrapped around Caerphilly Castle, Britain's vast
   early concentric fortress
 title: Caerphilly

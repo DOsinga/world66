@@ -5,7 +5,7 @@ done:
 latitude: 30.6913
 loc_type: city
 longitude: -88.0438
-score: 0.36
+score: 6.8
 snippet: Alabama port city with French Louisiana roots and America's oldest Mardi
   Gras tradition.
 title: Mobile

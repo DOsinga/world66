@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/146878425@N05/52728903975
 latitude: 41.7355
 loc_type: city
 longitude: -111.8344
-score: 0.35
+score: 6.67
 title: Logan
 type: location
 snippet: Cache Valley university town framed by mountains and linked to the Wasatch

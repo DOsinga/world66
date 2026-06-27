@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/26937667@N02/3566213478
 latitude: 32.8999
 loc_type: city
 longitude: -105.9602
-score: 0.36
+score: 6.8
 snippet: Southeastern New Mexico town used as the practical base for White Sands and
   nearby desert canyons.
 title: Alamogordo

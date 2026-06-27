@@ -5,7 +5,7 @@ done:
 latitude: 33.148635
 loc_type: city
 longitude: 73.74821
-score: 0.23
+score: 5.44
 snippet: Azad Kashmir city on Mangla Lake, reshaped by British Pakistani migration
   and remittance-built villas
 title: Mirpur
@@ -22,4 +22,4 @@ There is not much else for the conventional tourist, and Mirpur is honest about 
 
 ## Destinations in Mirpur
 
-[Rajoa](/asia/pakistan/azad_kashmir/mirpur/rajoa)
+[Rajoa](/asia/pakistan/azad_kashmir/rajoa)

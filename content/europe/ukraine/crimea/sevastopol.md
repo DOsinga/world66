@@ -5,7 +5,7 @@ latitude: 44.6054
 longitude: 33.5221
 done:
   location_enrich: '2026-05-29'
-score: 0.35
+score: 6.68
 loc_type: city
 image: sevastopol.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1356_%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8F%D0%BC.jpg

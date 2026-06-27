@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ansichten_von_Schorndorf_3
 latitude: 48.805517
 loc_type: city
 longitude: 9.527266
-score: 0.35
+score: 6.68
 snippet: Swabian Rems Valley town with half-timbered streets and Gottlieb Daimler's
   birth house.
 sources:

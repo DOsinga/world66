@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Njego%C5%A1ev_mauzolej.JPG
 latitude: 42.389633
 loc_type: city
 longitude: 18.924609
-score: 0.45
+score: 7.79
 title: Cetinje
 type: location
 snippet: Old royal capital of Montenegro, set below Lovćen with monasteries, embassies,

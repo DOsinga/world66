@@ -5,7 +5,7 @@ done:
 latitude: 54.3318
 loc_type: feature
 longitude: -0.6902
-score: 0.52
+score: 8.37
 snippet: Yorkshire national park of heather moorland, wooded valleys, and dramatic
   North Sea coastline around Whitby.
 title: North York Moors

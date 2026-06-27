@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:26935-Harbin_(29661238117)
 latitude: 45.759363
 loc_type: city
 longitude: 126.627618
-score: 0.49
+score: 8.16
 title: Harbin
 type: location
 snippet: Northern Chinese provincial capital with Russian railway-era architecture

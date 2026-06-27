@@ -5,7 +5,7 @@ done:
 latitude: 51.333473
 loc_type: city
 longitude: 1.419648
-score: 0.39
+score: 7.12
 title: Ramsgate
 type: location
 snippet: Kentish seaside town with England's only royal harbour and Regency streets

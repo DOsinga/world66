@@ -8,8 +8,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lampedusa_island.jpg
 latitude: 35.5111
 loc_type: city
 longitude: 12.5963
-score: 0.53
-snippet: Italian island closer to Tunisia than Sicily, with turquoise coves and loggerhead turtle beaches.
+score: 8.47
+snippet: Italian island closer to Tunisia than Sicily, with turquoise coves and loggerhead
+  turtle beaches.
 title: Lampedusa
 type: location
 ---

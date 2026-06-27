@@ -13,7 +13,7 @@ image: miamibeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Southbeachboardwalk07.JPG
 image_license: CC BY-SA 2.5
 image_attribution: Daniel di Palma
-score: 0.6
+score: 8.99
 snippet: Barrier-island city across Biscayne Bay, famous for South Beach and its pastel
   Art Deco district.
 ---

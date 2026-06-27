@@ -4,7 +4,7 @@ done:
 latitude: 27.706341
 loc_type: feature
 longitude: 100.789629
-score: 0.52
+score: 8.4
 snippet: High Yunnan-Sichuan lake of Mosuo matrilineal villages, clear water, and
   forested mountain shores.
 title: Lugu Lake

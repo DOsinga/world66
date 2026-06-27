@@ -5,7 +5,7 @@ done:
 latitude: 33.982495
 loc_type: city
 longitude: -117.374238
-score: 0.28
+score: 5.94
 snippet: Inland Empire city known as California's citrus birthplace and home to the
   Mission Inn.
 title: Riverside

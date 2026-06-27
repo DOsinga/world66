@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Lethbridge,_Alberta,_Canad
 latitude: 49.6946
 loc_type: city
 longitude: -112.8331
-score: 0.33
-snippet: Southern Alberta prairie city cut by Oldman River coulees and its immense High Level Bridge.
+score: 6.54
+snippet: Southern Alberta prairie city cut by Oldman River coulees and its immense
+  High Level Bridge.
 title: Lethbridge
 type: location
 ---

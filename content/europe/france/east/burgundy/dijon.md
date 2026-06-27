@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Dijon_-_Puits_de_Mo%C3%AFs
 latitude: 47.321581
 loc_type: city
 longitude: 5.04147
-score: 0.55
+score: 8.68
 title: Dijon
-snippet: Burgundian regional capital with a protected old town shaped by the Dukes of Burgundy.
+snippet: Burgundian regional capital with a protected old town shaped by the Dukes
+  of Burgundy.
 type: location
 ---
 

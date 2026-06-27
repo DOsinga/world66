@@ -5,7 +5,7 @@ done:
 latitude: 42.7384
 loc_type: city
 longitude: -0.7503
-score: 0.42
+score: 7.5
 snippet: Stone village in the western Pyrenees, set in Hecho Valley below forests,
   rivers, and hiking trails.
 sources:

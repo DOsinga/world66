@@ -4,7 +4,7 @@ done:
 latitude: -21.8333
 loc_type: city
 longitude: 46.9333
-score: 0.34
+score: 6.56
 snippet: Highland Malagasy town on the RN7, known for zebu markets, Antaimoro paper,
   and nearby lemurs.
 sources:

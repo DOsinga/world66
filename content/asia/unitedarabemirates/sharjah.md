@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharjah_Fort_(Al_Hisn).JPG
 latitude: 25.3478
 loc_type: city
 longitude: 55.3863
-score: 0.39
+score: 7.18
 snippet: Traditional UAE emirate where museums, heritage districts, and book culture
   temper Gulf spectacle.
 sources:

@@ -7,7 +7,7 @@ latitude: -0.1521
 longitude: 37.3084
 done:
   location_cleanup: 2026-04-05
-score: 0.53
+score: 8.53
 loc_type: feature
 image: mountkenyanp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hut_tarn_4500m_and_Midget_Peak_Mt_Kenya.JPG

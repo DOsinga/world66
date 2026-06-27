@@ -11,7 +11,7 @@ loc_type: city
 snippet: Volkswagen-built Lower Saxony city centred on the factory, Autostadt, and
   modern automotive museums
 longitude: 10.786168
-score: 0.36
+score: 6.77
 title: Wolfsburg
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pueblo_Bonito_Aerial.JPG
 latitude: 36.2668
 loc_type: city
 longitude: -107.7456
-score: 0.26
+score: 5.73
 snippet: Remote New Mexico settlement beside Chaco Canyon, the monumental heart of
   ancestral Puebloan culture.
 title: Nageezi

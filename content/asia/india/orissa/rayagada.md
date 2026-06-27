@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rayagada_Railway_Station.j
 latitude: 19.4427
 loc_type: city
 longitude: 83.5873
-score: 0.24
+score: 5.52
 snippet: Odisha district town in the Eastern Ghats foothills, used as a base for Adivasi
   weekly markets.
 title: Rayagada

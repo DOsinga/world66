@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sri_sita_rama_temple_bhadr
 latitude: 17.668802
 loc_type: city
 longitude: 80.894008
-score: 0.29
+score: 6.0
 snippet: Godavari River pilgrimage town centred on the Sita Ramachandraswamy Temple
   dedicated to Lord Rama.
 title: Bhadrachalam

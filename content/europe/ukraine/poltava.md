@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Column_of_Glory_Poltava.jp
 latitude: 49.860781
 loc_type: city
 longitude: 33.749879
-score: 0.33
+score: 6.52
 snippet: Central Ukrainian city shaped by the 1709 battle and a strong vernacular
   literary tradition.
 sources:

@@ -5,7 +5,7 @@ done:
 latitude: 38.58
 loc_type: city
 longitude: 125.27
-score: 0.13
+score: 2.91
 snippet: North Korean coastal mountain range with forest trails, waterfalls, old fortress
   remains, and Buddhist shrines
 title: Kuwolsan

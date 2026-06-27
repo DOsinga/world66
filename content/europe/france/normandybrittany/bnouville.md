@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chateau_benouville.jpg
 latitude: 49.2466
 loc_type: city
 longitude: -0.2782
-score: 0.46
+score: 7.87
 snippet: Normandy canal village beside Pegasus Bridge, seized in the first Allied
   ground action of D-Day
 title: Bénouville

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Casperskyline.jpg
 latitude: 42.8501
 loc_type: city
 longitude: -106.3251
-score: 0.33
+score: 6.49
 title: Casper
 type: location
 snippet: High-plains Wyoming city where the North Platte River runs beneath Casper

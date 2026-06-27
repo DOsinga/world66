@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crystal_Clear_waters_of_Bo
 latitude: 12.1784
 loc_type: city
 longitude: -68.2385
-score: 0.59
+score: 8.94
 snippet: Southern Caribbean island with calm reef-lined shores and one of the region's
   strongest shore-diving scenes.
 title: Bonaire

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sumba_-_cavaliers_pasola.j
 latitude: -9.7959
 loc_type: city
 longitude: 120.1525
-score: 0.47
+score: 7.95
 snippet: Indonesian island of Marapu villages, megalithic tombs, ikat textiles, and
   dry eastern savanna.
 sources:

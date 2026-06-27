@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SI_Oberes_Schloss_Giersber
 latitude: 50.8752
 loc_type: city
 longitude: 8.0256
-score: 0.33
+score: 6.44
 title: Siegen
 type: location
 snippet: Wooded Siegerland city where Rubens was born, with castles above an old iron-mining

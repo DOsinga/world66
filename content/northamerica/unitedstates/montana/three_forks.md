@@ -5,7 +5,7 @@ done:
 latitude: 45.892606
 loc_type: city
 longitude: -111.551448
-score: 0.31
+score: 6.24
 snippet: Montana river town beside the headwaters where three forks join to form the
   Missouri.
 sources:

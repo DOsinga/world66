@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Hengyang
 title: Hengyang
 type: location
-score: 0.27
+score: 5.91
 snippet: Hunan rail city nicknamed Wild Goose City, used as a base for Mount Heng.
 ---
 

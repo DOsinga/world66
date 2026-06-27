@@ -6,8 +6,10 @@ image: stcroix.jpg
 image_attribution: Jason P. Heym (Jpheym)
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Christiansted,_US_Virgin_Islands,_from_Recovery_Hill.jpg
+latitude: 17.72751
 loc_type: city
-score: 0.53
+longitude: -64.74698
+score: 8.49
 snippet: Largest US Virgin Island, with Danish colonial towns and quietly strong Caribbean
   diving.
 title: St. Croix

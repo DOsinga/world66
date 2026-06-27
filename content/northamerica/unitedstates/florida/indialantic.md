@@ -5,7 +5,7 @@ done:
 latitude: 28.091192
 loc_type: city
 longitude: -80.567988
-score: 0.32
+score: 6.38
 snippet: Small Florida beach town between the Indian River Lagoon and the Atlantic
   on the Space Coast
 title: Indialantic

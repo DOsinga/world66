@@ -5,9 +5,10 @@ done:
 latitude: 57.6141
 loc_type: city
 longitude: -3.097447
-score: 0.36
+score: 6.79
 title: Fochabers
-snippet: "Georgian planned village beside the River Spey, shaped by Gordon Castle and Scotland's salmon country."
+snippet: Georgian planned village beside the River Spey, shaped by Gordon Castle and
+  Scotland's salmon country.
 type: location
 ---
 

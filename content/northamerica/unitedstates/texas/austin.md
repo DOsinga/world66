@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/43581314@N08/27786171022
 latitude: 30.2711
 loc_type: city
 longitude: -97.7437
-score: 0.51
+score: 8.28
 title: Austin
 type: location
 snippet: Texas capital with live music, swimming holes, university energy, and a fierce

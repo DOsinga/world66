@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:L%C3%BCbeck_-_panoramio.jp
 latitude: 53.866444
 loc_type: city
 longitude: 10.684738
-score: 0.53
+score: 8.52
 title: Lübeck
 type: location
 snippet: Hanseatic brick city with a UNESCO-listed island old town encircled by the

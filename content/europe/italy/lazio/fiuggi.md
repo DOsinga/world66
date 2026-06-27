@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fiuggi_Vecchia_-_panoramio
 latitude: 41.798561
 loc_type: city
 longitude: 13.220489
-score: 0.43
+score: 7.61
 snippet: Lazio spa town long known for mineral waters praised by popes, artists, and
   European royalty.
 title: Fiuggi

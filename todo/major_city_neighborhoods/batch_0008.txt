@@ -1,5 +1,0 @@
-europe/sweden/stockholm
-australiaandpacific/australia/victoria/melbourne
-asia/turkey/istanbul
-southamerica/argentina/buenosaires
-northamerica/unitedstates/california/sanfrancisco

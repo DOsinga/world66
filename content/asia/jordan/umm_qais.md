@@ -5,7 +5,7 @@ done:
 latitude: 32.654033
 loc_type: city
 longitude: 35.68446
-score: 0.43
+score: 7.63
 snippet: Northern Jordanian ridge village beside ancient Gadara, overlooking the Sea
   of Galilee and Yarmouk gorge.
 sources:

@@ -7,7 +7,7 @@ loc_type: city
 snippet: Azad Kashmir hill town known for mosques, the Gulhar Sharif shrine, and surrounding
   viewpoints
 longitude: 73.9018
-score: 0.24
+score: 5.49
 title: Kotli
 type: location
 ---

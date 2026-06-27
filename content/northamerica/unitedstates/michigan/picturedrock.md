@@ -4,7 +4,7 @@ done:
 latitude: 46.5635
 loc_type: feature
 longitude: -90.6882
-score: 0.55
+score: 8.64
 snippet: Lake Superior national lakeshore where multicolored sandstone cliffs, waterfalls,
   and forest trails line Michigan’s Upper Peninsula.
 title: Pictured Rocks

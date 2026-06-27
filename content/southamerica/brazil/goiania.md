@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ccongyn.jpg
 latitude: -16.680882
 loc_type: city
 longitude: -49.253269
-score: 0.33
+score: 6.53
 snippet: Planned central Brazilian capital of Goiás, built with broad avenues and
   a strong Art Deco core.
 title: Goiânia

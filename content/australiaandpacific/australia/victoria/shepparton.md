@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gurdwara_Sahib_Shepparton,
 latitude: -36.3832
 loc_type: city
 longitude: 145.3989
-score: 0.29
+score: 6.07
 snippet: Goulburn Valley city built on orchards, canneries, migrant communities, and
   a famously flat sporting culture.
 title: Shepparton

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ludvika_Engelbrektsgatan_h
 latitude: 60.1333
 loc_type: city
 longitude: 15.1833
-score: 0.32
+score: 6.34
 snippet: Southern Dalarna industrial town in Bergslagen, surrounded by forests, lakes,
   and mining history.
 title: Ludvika

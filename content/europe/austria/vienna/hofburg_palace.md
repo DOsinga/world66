@@ -10,7 +10,7 @@ tags:
 - landmark
 - museum
 - sight
-- museumsquartier
+- innere_stadt
 title: Hofburg Palace
 type: poi
 score: 9.3

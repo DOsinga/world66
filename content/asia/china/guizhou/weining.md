@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caohai_lake.jpg
 latitude: 26.8655
 loc_type: city
 longitude: 104.2823
-score: 0.3
+score: 6.13
 snippet: High Guizhou county town beside Cao Hai Lake, a wintering ground for black-necked
   cranes
 sources:

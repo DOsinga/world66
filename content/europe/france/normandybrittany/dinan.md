@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinan_on_the_banks_of_the_
 latitude: 48.454
 loc_type: city
 longitude: -2.0477
-score: 0.57
+score: 8.79
 snippet: Breton medieval town above the River Rance, enclosed by ramparts and half-timbered
   streets
 title: Dinan

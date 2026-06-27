@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Textile-Spinning_room.jpg
 latitude: 53.68878
 loc_type: city
 longitude: -2.328581
-score: 0.29
+score: 6.05
 snippet: Lancashire village in the Rossendale Valley, known for its preserved working
   textile mills.
 title: Helmshore

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/16069488@N00/52272932873
 latitude: 39.100105
 loc_type: city
 longitude: -94.578142
-score: 0.32
+score: 6.35
 snippet: State-line American metropolis known for barbecue, jazz heritage, and the
   Kansas-Missouri split at its urban core.
 title: Kansas City

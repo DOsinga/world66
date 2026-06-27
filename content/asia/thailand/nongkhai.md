@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nong_Khai_Old_City_Hall.jp
 latitude: 17.8783
 loc_type: city
 longitude: 102.745
-score: 0.45
+score: 7.76
 snippet: Mekong border town facing Laos, known for riverfront sunsets and the surreal
   Sala Kaew Ku sculpture park.
 title: Nong Khai

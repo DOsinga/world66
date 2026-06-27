@@ -5,7 +5,7 @@ done:
 latitude: 10.5672
 loc_type: city
 longitude: 72.6395
-score: 0.42
+score: 7.52
 snippet: Tiny Lakshadweep capital island ringed by lagoons, mosques, and carved driftwood
   details.
 title: Kavaratti

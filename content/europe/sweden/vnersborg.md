@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:V%C3%A4nersborg_22_juli_20
 latitude: 58.3812
 loc_type: city
 longitude: 12.3227
-score: 0.39
+score: 7.1
 snippet: Small city on Lake Vänern's southern shore, noted for preserved wooden streets
   and lakeside views.
 title: Vänersborg

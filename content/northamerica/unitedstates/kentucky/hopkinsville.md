@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grace_Church_(Hopkinsville
 latitude: 36.8658
 loc_type: city
 longitude: -87.489
-score: 0.28
+score: 5.93
 snippet: Western Kentucky tobacco-region city tied to Black Patch history, Edgar Cayce,
   and Trail of Tears memory
 title: Hopkinsville

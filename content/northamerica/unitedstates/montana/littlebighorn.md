@@ -4,7 +4,7 @@ done:
 latitude: 45.5695
 loc_type: feature
 longitude: -107.4283
-score: 0.4
+score: 7.21
 snippet: Montana battlefield monument preserving the 1876 Little Bighorn site and
   its rolling grassland markers.
 title: Little Bighorn

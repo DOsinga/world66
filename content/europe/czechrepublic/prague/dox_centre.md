@@ -4,15 +4,15 @@ admission: 180 CZK
 latitude: 50.1016
 longitude: 14.4434
 opening_hours: Mon, Wed–Fri 11:00–19:00; Thu 11:00–21:00; Sat–Sun 10:00–20:00
+score: 8.0
 snippet: Prague's leading independent contemporary art centre
 tags:
 - things_to_do
 - museum
-- holešovice
+- holesovice
 title: DOX Centre for Contemporary Art
 type: poi
 url: dox.cz
-score: 8.0
 ---
 
 DOX is Prague's best contemporary art venue — an independent institution with no permanent collection, focused entirely on current international and Czech art in a converted factory in Holešovice. The exhibitions rotate several times a year and range across visual art, photography, architecture, and design. The quality is consistently high and the programming takes risks that state museums tend to avoid.

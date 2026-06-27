@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:SuzdalPanoramaC_9345.jpg
 latitude: 56.419391
 loc_type: city
 longitude: 40.448789
-score: 0.48
+score: 8.06
 title: Suzdal
 type: location
 snippet: Golden Ring town east of Moscow, dense with churches, monasteries, and wooden

@@ -1,9 +1,12 @@
 ---
+image: seongsu.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Snowy_shopping_street_in_Seongsu-dong.jpg
 latitude: 37.5445
-longitude: 127.0560
+longitude: 127.056
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
 title: Seongsu
 type: neighbourhood
 ---

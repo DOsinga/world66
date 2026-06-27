@@ -5,7 +5,7 @@ done:
 latitude: 57.65
 loc_type: city
 longitude: -3.3167
-score: 0.42
+score: 7.43
 snippet: Sheltered north-eastern Scottish region of Speyside whisky, sandy Moray Firth
   beaches, and fishing villages.
 title: Moray

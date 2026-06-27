@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bennett_House_Reading.jpg
 latitude: 43.491
 loc_type: city
 longitude: -72.596
-score: 0.28
+score: 5.96
 snippet: Small rural Vermont town of farms and schoolhouse heritage, known for photogenic
   hillside Jenne Farm.
 title: Reading

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:German_train_station_1898.
 latitude: 36.7167
 loc_type: city
 longitude: 119.1
-score: 0.33
+score: 6.52
 snippet: Shandong city long known for kite-making, with a dedicated museum and international
   kite festival.
 sources:

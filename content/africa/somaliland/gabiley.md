@@ -5,7 +5,7 @@ done:
 latitude: 9.762
 loc_type: city
 longitude: 43.6792
-score: 0.14
+score: 3.84
 snippet: Agricultural Somaliland town west of Hargeisa, surrounded by the fertile
   farms of the Dhul-beereed region
 title: Gabiley

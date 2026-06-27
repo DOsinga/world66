@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ghulkin_Glacier.jpg
 latitude: 36.42
 loc_type: city
 longitude: 74.85
-score: 0.35
+score: 6.74
 snippet: Upper Hunza village below the Karakoram Highway, near Ghulkin Glacier and
   bird-rich Borith Lake
 title: Ghulkin Gojal

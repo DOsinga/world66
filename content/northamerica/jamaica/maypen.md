@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Railway_Train_at_May_Pen_S
 latitude: 17.9659
 loc_type: city
 longitude: -77.2431
-score: 0.3
+score: 6.15
 snippet: Clarendon parish capital and south-coast road junction, close to the Milk
   River mineral baths
 title: May Pen

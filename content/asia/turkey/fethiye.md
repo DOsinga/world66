@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fethiye_2020-03-15-4.jpg
 latitude: 36.622115
 loc_type: city
 longitude: 29.115338
-score: 0.6
+score: 9.0
 snippet: Turquoise Coast harbour town below Lycian rock tombs, with gulets, markets,
   and islands offshore
 title: Fethiye

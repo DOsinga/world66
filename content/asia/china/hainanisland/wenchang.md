@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CZ-7_launch_from_Wenchang.
 latitude: 19.6167
 loc_type: city
 longitude: 110.75
-score: 0.34
+score: 6.57
 snippet: Northeast Hainan city known for diaspora roots, a Confucius temple, qilou
   arcades, and coastal villages.
 sources:

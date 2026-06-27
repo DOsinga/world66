@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mirador_de_Cabezoas_Ca%C3%
 latitude: 42.4678
 loc_type: city
 longitude: -7.5284
-score: 0.5
+score: 8.24
 snippet: Inland Galician wine region where Sil and Miño gorges hold terraced vineyards
   and monasteries
 title: Ribeira Sacra

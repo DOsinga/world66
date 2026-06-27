@@ -7,7 +7,7 @@ done:
 latitude: 55.7128
 loc_type: city
 longitude: 21.135
-score: 0.43
+score: 7.55
 snippet: Lithuanian seaport at the Curonian Lagoon, with Memel-era German traces in
   its old town.
 title: Klaipeda

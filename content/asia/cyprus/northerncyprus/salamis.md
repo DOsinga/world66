@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Columns_in_Roman_gymnasium
 latitude: 35.179303
 loc_type: city
 longitude: 33.902493
-score: 0.41
+score: 7.37
 snippet: Ancient Cypriot city with sprawling Greek and Roman ruins set in sandy scrub
   north of Famagusta
 title: Salamis

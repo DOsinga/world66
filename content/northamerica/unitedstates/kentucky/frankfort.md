@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_frankfort_ky.JPG
 latitude: 38.2009
 loc_type: city
 longitude: -84.8733
-score: 0.34
+score: 6.6
 snippet: Small Kentucky capital in a river bend, surrounded by Bluegrass horse country
   and bourbon distilleries
 title: Frankfort

@@ -5,7 +5,7 @@ done:
 latitude: 20.933726
 loc_type: city
 longitude: -11.617374
-score: 0.31
+score: 6.29
 snippet: Oasis town in Mauritania's Adrar desert, where caravan-era ruins crumble
   above palm groves and a dry wadi.
 title: Ouadane

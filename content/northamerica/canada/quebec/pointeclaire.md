@@ -4,7 +4,7 @@ done:
 latitude: 45.456677
 loc_type: city
 longitude: -73.806744
-score: 0.31
+score: 6.25
 snippet: Lakeside Montreal suburb with a village-like old core, windmill, church,
   and Lac Saint-Louis promenade.
 title: Pointe-Claire

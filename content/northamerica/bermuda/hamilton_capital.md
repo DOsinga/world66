@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/29561984@N06/3267120142
 latitude: 32.2935
 loc_type: city
 longitude: -64.7842
-score: 0.56
+score: 8.72
 snippet: Tiny Bermudian capital on Hamilton Harbour, centred on Front Street's shops,
   banks, and cruise docks.
 title: Hamilton

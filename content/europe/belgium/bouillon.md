@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bouillon_(Belgique);_le_vi
 latitude: 49.795
 loc_type: city
 longitude: 5.0673
-score: 0.48
+score: 8.03
 snippet: Ardennes river town wrapped by the Semois and watched over by a medieval
   castle.
 title: Bouillon

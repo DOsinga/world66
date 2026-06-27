@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Campbellford_Waterway_Brid
 latitude: 44.3086
 loc_type: city
 longitude: -77.7981
-score: 0.31
+score: 6.23
 snippet: Trent River town on the Trent-Severn Waterway, with canal heritage and a
   giant toonie by the water
 title: Campbellford

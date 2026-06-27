@@ -5,7 +5,7 @@ done:
 latitude: 48.0159
 loc_type: city
 longitude: 37.8029
-score: 0.09
+score: 1.84
 snippet: Eastern Ukrainian industrial city built on coal and steel, originally founded
   by Welshman John Hughes.
 sources:

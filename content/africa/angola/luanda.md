@@ -7,8 +7,9 @@ done:
 latitude: -8.82727
 loc_type: city
 longitude: 13.243951
-score: 0.26
-snippet: Angolan capital on a broad Atlantic bay, shaped by Portuguese rule, oil wealth, and seafront bairros.
+score: 5.82
+snippet: Angolan capital on a broad Atlantic bay, shaped by Portuguese rule, oil wealth,
+  and seafront bairros.
 title: Luanda
 type: location
 ---

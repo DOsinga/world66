@@ -5,7 +5,7 @@ done:
 latitude: 36.709
 loc_type: city
 longitude: 67.1114
-score: 0.16
+score: 4.36
 snippet: Northern Afghan city centred on the blue-tiled Shrine of Hazrat Ali and its
   white doves.
 title: Mazar-i-Sharif

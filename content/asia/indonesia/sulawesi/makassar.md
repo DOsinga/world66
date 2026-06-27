@@ -5,7 +5,7 @@ done:
 latitude: -5.1348
 loc_type: city
 longitude: 119.4124
-score: 0.4
+score: 7.27
 snippet: Busy port city on Sulawesi’s southwest coast, gateway to eastern Indonesia
   and Bugis-Makassarese maritime history.
 title: Makassar

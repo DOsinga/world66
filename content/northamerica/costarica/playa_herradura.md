@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Los-suenos-costa-rica-suns
 latitude: 9.6358
 loc_type: city
 longitude: -84.6531
-score: 0.44
+score: 7.73
 snippet: Pacific dark-sand beach north of Jacó, with a protected bay and Los Sueños
   marina
 title: Playa Herradura

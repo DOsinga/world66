@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shadowsontheteche.jpg
 latitude: 30.003536
 loc_type: city
 longitude: -91.818729
-score: 0.32
+score: 6.35
 snippet: Cajun Country city on Bayou Teche, close to Avery Island and Tabasco history.
 title: New Iberia
 type: location

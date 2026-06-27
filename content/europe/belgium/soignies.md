@@ -5,7 +5,7 @@ done:
 latitude: 50.579203
 loc_type: city
 longitude: 4.06856
-score: 0.33
+score: 6.55
 snippet: Small Walloon town south of Brussels, centred on the austere Romanesque Church
   of St. Vincent.
 sources:

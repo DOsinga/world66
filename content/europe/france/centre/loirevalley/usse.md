@@ -4,7 +4,7 @@ done:
 latitude: 47.25306
 loc_type: city
 longitude: 0.301449
-score: 0.52
+score: 8.44
 snippet: Loire Valley château village where Ussé's turrets helped inspire the Sleeping
   Beauty legend
 title: Usse

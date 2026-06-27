@@ -5,7 +5,7 @@ done:
 latitude: 25.7267
 loc_type: city
 longitude: -79.269
-score: 0.49
+score: 8.14
 snippet: Western Bahamas island chain near Miami, shaped by big-game fishing, blue
   holes, and Alice Town's harbour life.
 title: Bimini

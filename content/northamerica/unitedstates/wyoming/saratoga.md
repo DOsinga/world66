@@ -5,7 +5,7 @@ done:
 latitude: 41.4549
 loc_type: city
 longitude: -106.8062
-score: 0.33
+score: 6.51
 snippet: Small Wyoming town in the North Platte valley, built around natural hot springs
   near the Snowy Range.
 title: Saratoga

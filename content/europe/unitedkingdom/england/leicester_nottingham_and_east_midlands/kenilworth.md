@@ -5,7 +5,7 @@ done:
 latitude: 52.345053
 loc_type: city
 longitude: -1.581603
-score: 0.4
+score: 7.23
 title: Kenilworth
 type: location
 image: kenilworth.jpg

@@ -13,7 +13,7 @@ loc_type: city
 snippet: Ancient Andalusian port city on a peninsula, with Atlantic ramparts and 18th-century
   merchant architecture
 longitude: -6.292898
-score: 0.57
+score: 8.82
 title: Cadiz
 type: location
 ---

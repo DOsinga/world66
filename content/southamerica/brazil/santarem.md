@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_
 latitude: -2.4385
 loc_type: city
 longitude: -54.6996
-score: 0.33
+score: 6.53
 snippet: Amazon city at the Tapajós confluence, known for clear-water beaches and
   the Meeting of the Waters
 title: Santarém

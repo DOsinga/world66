@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Scalea_centro.jpg
 latitude: 39.8144
 loc_type: city
 longitude: 15.7914
-score: 0.44
+score: 7.7
 title: Scalea
 snippet: Calabrian seaside town with a hilltop old centre above the Tyrrhenian coast.
 type: location

@@ -5,9 +5,10 @@ done:
 latitude: 51.152565
 loc_type: city
 longitude: 11.809919
-score: 0.4
+score: 7.26
 title: Naumburg
-snippet: "Saale valley cathedral city, known for its UNESCO-listed medieval cathedral and lifelike donor statues."
+snippet: Saale valley cathedral city, known for its UNESCO-listed medieval cathedral
+  and lifelike donor statues.
 type: location
 ---
 

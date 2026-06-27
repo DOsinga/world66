@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Landscape_view_with_Sengea
 latitude: -8.594902
 loc_type: city
 longitude: 117.271607
-score: 0.4
+score: 7.2
 snippet: Rugged Indonesian island of former sultanates, horse culture, and volcanic
   country between Lombok and Flores.
 sources:

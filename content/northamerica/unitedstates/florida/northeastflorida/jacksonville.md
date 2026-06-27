@@ -5,7 +5,7 @@ done:
 latitude: 30.326225
 loc_type: city
 longitude: -81.657918
-score: 0.33
+score: 6.53
 snippet: Sprawling Atlantic river city where Jacksonville's arts neighbourhoods sit
   between the St. Johns and the beaches.
 title: Jacksonville

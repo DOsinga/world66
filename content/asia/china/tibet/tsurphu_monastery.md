@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tibet_-_Trek_2_-_03_Tsurpu
 latitude: 29.7267
 loc_type: feature
 longitude: 90.575
-score: 0.48
+score: 8.02
 snippet: Tibetan monastery valley northwest of Lhasa, traditional seat of the Karmapa
   and a major Karma Kagyu centre.
 sources:

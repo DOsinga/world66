@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Autzen_stadium_from_the_ai
 latitude: 44.050505
 loc_type: city
 longitude: -123.095051
-score: 0.39
+score: 7.17
 snippet: Oregon university city in the Willamette Valley, with a strong running tradition
   rooted at Hayward Field.
 title: Eugene

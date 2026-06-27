@@ -2,7 +2,7 @@
 latitude: 38.9399
 loc_type: city
 longitude: -119.9772
-score: 0.56
+score: 8.72
 snippet: Sierra Nevada lake town where casinos and ski resorts cluster around Lake
   Tahoe's southern shore.
 title: South Lake Tahoe

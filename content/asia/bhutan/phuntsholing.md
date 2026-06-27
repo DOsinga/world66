@@ -5,7 +5,7 @@ done:
 latitude: 26.863961
 loc_type: city
 longitude: 89.383736
-score: 0.36
+score: 6.79
 snippet: Bhutanese border town where the Himalayan foothills meet India, and the road
   climbs north to Thimphu.
 title: Phuntsholing

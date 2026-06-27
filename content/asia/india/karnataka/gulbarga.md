@@ -2,7 +2,7 @@
 latitude: 17.3297
 loc_type: city
 longitude: 76.8343
-score: 0.27
+score: 5.85
 snippet: Northern Karnataka city where Bahmani tombs, Sufi shrines, and a domed fort
   mosque mark the Deccan.
 title: Gulbarga

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kohat_Velly.jpg
 latitude: 33.596714
 loc_type: city
 longitude: 71.439994
-score: 0.2
+score: 4.83
 title: Kohat
 type: location
 snippet: Khyber Pakhtunkhwa city at the Kohat Pass, with the feel of a frontier market

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ja%C3%A9n_1.jpg
 latitude: 37.767
 loc_type: city
 longitude: -3.7902
-score: 0.43
+score: 7.56
 snippet: Andalusian provincial capital beneath Santa Catalina castle, surrounded by
   extensive olive groves.
 title: Jaén

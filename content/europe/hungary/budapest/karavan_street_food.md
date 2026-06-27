@@ -2,13 +2,13 @@
 address: Kazinczy utca 18
 latitude: 47.4976
 longitude: 19.0632
+score: 6.3
 tags:
 - eating_out
 - street_food
-- erzsebetvaros
+- jewish_quarter
 title: Karavan Street Food
 type: poi
-score: 6.3
 ---
 
 Karavan is a courtyard off Kazinczy utca, just next to Szimpla Kert, filled with a rotating collection of food trucks and small stands. It is the most accessible and reliably good street food spot in the city. The mix changes but you can usually find lángos, burgers, kürtőskalács (chimney cake), and various grilled meats alongside more inventive options that come and go with the seasons.

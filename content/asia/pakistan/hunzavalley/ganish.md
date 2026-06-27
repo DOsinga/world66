@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ganish_hunza_in_summers.JP
 latitude: 36.3131
 loc_type: city
 longitude: 74.6684
-score: 0.38
+score: 7.06
 snippet: Hunza Valley village on the old Silk Road, preserving stone houses, watchtowers,
   and historic mosques
 title: Ganish

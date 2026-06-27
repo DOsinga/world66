@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Antonio_Vaz_island_-_Recif
 latitude: -8.058493
 loc_type: city
 longitude: -34.884819
-score: 0.46
+score: 7.86
 snippet: Pernambuco capital built on rivers and islands, with frevo, maracatu, bridges,
   and colonial quarters.
 title: Recife

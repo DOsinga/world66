@@ -4,10 +4,11 @@ done:
   location_enrich: '2026-06-02'
 latitude: 50.703286
 longitude: 4.408428
-snippet: "Belgian commuter town south of Brussels, defined by the battlefield that ended Napoleon's rule."
+snippet: Belgian commuter town south of Brussels, defined by the battlefield that
+  ended Napoleon's rule.
 title: Waterloo
 type: location
-score: 0.47
+score: 7.94
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Battle_of_Waterloo

@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-07_Halle_06.jpg
 latitude: 51.482435
 loc_type: city
 longitude: 11.971298
-score: 0.4
+score: 7.2
 snippet: Saxon-Anhalt salt city on the Saale, marked by Golden Age churches and five
   famous towers
 title: Halle

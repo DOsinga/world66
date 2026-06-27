@@ -4,7 +4,7 @@ done:
 latitude: 11.122436
 loc_type: feature
 longitude: 99.486958
-score: 0.5
+score: 8.19
 snippet: Quiet Gulf of Thailand island off Bang Saphan, centred on beaches, snorkelling,
   and seafood.
 title: Koh Talu

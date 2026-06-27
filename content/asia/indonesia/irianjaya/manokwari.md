@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Manokwari.jpg
 latitude: -0.8617
 loc_type: city
 longitude: 134.062
-score: 0.3
+score: 6.17
 sources:
 - https://en.wikipedia.org/wiki/Manokwari
 - https://en.wikipedia.org/wiki/Mansinam_Island

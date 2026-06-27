@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinqu
 latitude: 44.119961
 loc_type: city
 longitude: 9.708687
-score: 0.61
+score: 9.08
 snippet: Quiet Cinque Terre village perched above the sea, reached by steps and surrounded
   by terraced vineyards.
 title: Corniglia

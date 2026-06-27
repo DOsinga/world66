@@ -5,7 +5,7 @@ done:
 latitude: 4.378938
 loc_type: city
 longitude: -7.706099
-score: 0.23
+score: 5.4
 snippet: Cape Palmas port town founded as Maryland's capital before joining Liberia
   in the nineteenth century.
 title: Harper

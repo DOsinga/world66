@@ -4,7 +4,7 @@ done:
 latitude: -0.8833
 loc_type: feature
 longitude: 36.3167
-score: 0.5
+score: 8.26
 snippet: Rift Valley national park of volcanic towers, gorges, geothermal steam, and
   rare walkable wildlife country.
 title: Hell's Gate N.P.

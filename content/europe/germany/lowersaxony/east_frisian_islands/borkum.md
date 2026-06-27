@@ -8,9 +8,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Borkum_(view_from_the_west).jpg
 latitude: 53.586267
 loc_type: city
-snippet: Largest East Frisian Island, a North Sea resort of wide beaches, dunes, and faded seaside grandeur.
+snippet: Largest East Frisian Island, a North Sea resort of wide beaches, dunes, and
+  faded seaside grandeur.
 longitude: 6.691745
-score: 0.43
+score: 7.56
 title: Borkum
 type: location
 ---

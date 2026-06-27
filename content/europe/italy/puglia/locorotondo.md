@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Locorotondo.jp
 latitude: 40.7556
 loc_type: city
 longitude: 17.3264
-score: 0.54
+score: 8.58
 snippet: Whitewashed Valle d'Itria hill town whose circular lanes overlook vineyards,
   olive groves, and trulli.
 sources:
@@ -22,4 +22,4 @@ Locorotondo is one of the prettiest towns in the Valle d'Itria, a whitewashed kn
 
 This is not a town of blockbuster monuments. The pleasure is slower: walking the [Centro Storico](/europe/italy/puglia/locorotondo/centro_storico), looking out from the [Villa Comunale](/europe/italy/puglia/locorotondo/villa_comunale), stepping into the [Church of San Giorgio Martire](/europe/italy/puglia/locorotondo/chiesa_madre_san_giorgio), and then driving or cycling into the countryside where the [Trullo di Marziolla](/europe/italy/puglia/locorotondo/trullo_di_marziolla) preserves one of the valley’s oldest dated trulli.
 
-Locorotondo works beautifully with [Alberobello](/europe/italy/puglia/alberobello), [Martina Franca](/europe/italy/puglia/martinafranca), [Castellana Grotte](/europe/italy/puglia/castellana_grotte), and [Polignano a Mare](/europe/italy/puglia/polignano_a_mare). Come for a half day if you are racing, but stay into evening if you can; the white stone is at its best when the heat drops and the town starts to glow.
+Locorotondo works beautifully with [Alberobello](/europe/italy/puglia/alberobello), Martina Franca, [Castellana Grotte](/europe/italy/puglia/castellana_grotte), and [Polignano a Mare](/europe/italy/puglia/polignano_a_mare). Come for a half day if you are racing, but stay into evening if you can; the white stone is at its best when the heat drops and the town starts to glow.

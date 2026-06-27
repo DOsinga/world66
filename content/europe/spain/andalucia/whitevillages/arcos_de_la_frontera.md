@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Arcos_de_la_Fr
 latitude: 36.7508
 loc_type: city
 longitude: -5.8106
-score: 0.56
+score: 8.73
 snippet: Andalusian white town balanced on a limestone ridge above the Guadalete River.
 sources:
 - https://en.wikipedia.org/wiki/Arcos_de_la_Frontera

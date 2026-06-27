@@ -5,7 +5,7 @@ done:
 latitude: 14.651055
 loc_type: city
 longitude: 121.048625
-score: 0.34
+score: 6.63
 snippet: Sprawling Metro Manila city of government institutions, Cubao nightlife,
   Maginhawa food streets, and university districts.
 title: Quezon City

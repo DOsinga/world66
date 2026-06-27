@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hoa_Binh_countryside.jpg
 latitude: 20.8133
 loc_type: city
 longitude: 105.3383
-score: 0.39
+score: 7.16
 snippet: Northwestern Vietnam provincial city at the edge of limestone highlands,
   used as a gateway to Muong and Thai valleys.
 title: Hoa Binh

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Atar,mosque1.jpg
 latitude: 20.518194
 loc_type: city
 longitude: -13.054393
-score: 0.29
+score: 6.06
 title: Atar
 type: location
 snippet: Saharan Adrar market town and gateway to Mauritania's plateau oases and caravan

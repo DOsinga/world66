@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis_falaj.jpg
 latitude: 24.2075
 loc_type: city
 longitude: 55.7447
-score: 0.43
+score: 7.59
 snippet: Inland Emirati oasis city where ancient falaj channels water palm groves
   below Jebel Hafeet.
 title: Al Ain

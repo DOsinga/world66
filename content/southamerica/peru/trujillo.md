@@ -5,7 +5,7 @@ done:
 latitude: -8.111678
 loc_type: city
 longitude: -79.028774
-score: 0.46
+score: 7.89
 snippet: Northern Peruvian coastal city with a colonial centre and extraordinary Moche
   and Chimú archaeology nearby.
 title: Trujillo

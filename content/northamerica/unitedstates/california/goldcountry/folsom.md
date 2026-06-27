@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:FolsomStatePrison_(cropped
 latitude: 38.678
 loc_type: city
 longitude: -121.1761
-score: 0.39
+score: 7.14
 snippet: American River city east of Sacramento, split between Gold Rush streets and
   Folsom Prison lore.
 title: Folsom

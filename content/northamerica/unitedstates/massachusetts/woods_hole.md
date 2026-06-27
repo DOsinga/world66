@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Eel_Pond_Bridge,_Woods_Hol
 latitude: 41.5239
 loc_type: city
 longitude: -70.6694
-score: 0.38
-snippet: Cape Cod village where marine research docks share the harbour with Martha's Vineyard ferries.
+score: 6.98
+snippet: Cape Cod village where marine research docks share the harbour with Martha's
+  Vineyard ferries.
 sources:
 - https://en.wikipedia.org/wiki/Woods_Hole,_Massachusetts
 - https://en.wikipedia.org/wiki/Woods_Hole_Oceanographic_Institution

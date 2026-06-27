@@ -5,7 +5,7 @@ done:
 latitude: -2.897407
 loc_type: city
 longitude: -79.004173
-score: 0.57
+score: 8.78
 snippet: Ecuadorian highland city with an intact colonial centre, blue-domed cathedral,
   and Tomebamba River setting.
 title: Cuenca

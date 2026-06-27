@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hotel_beach_with_a_small_m
 latitude: 27.2222
 loc_type: city
 longitude: 33.8307
-score: 0.52
+score: 8.43
 snippet: Egyptian Red Sea resort city where a former fishing village fronts reefs,
   dive boats, and El Dahar.
 title: Hurghada

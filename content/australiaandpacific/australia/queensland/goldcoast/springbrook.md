@@ -6,7 +6,7 @@ latitude: -28.185749
 longitude: 153.271559
 title: Springbrook
 type: location
-score: 0.48
+score: 8.03
 loc_type: city
 snippet: Gold Coast hinterland national park protecting rainforest, waterfalls, glow-worm
   caves, and Antarctic beech forest.

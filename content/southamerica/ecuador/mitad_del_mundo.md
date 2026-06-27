@@ -4,7 +4,7 @@ done:
 latitude: -1.260787
 loc_type: feature
 longitude: -78.609882
-score: 0.5
+score: 8.21
 snippet: Equator monument complex north of Quito, marking the historic French geodetic
   survey line.
 title: Mitad del Mundo

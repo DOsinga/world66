@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Providence_Athenaeum_inter
 latitude: 41.823989
 loc_type: city
 longitude: -71.412834
-score: 0.43
+score: 7.53
 snippet: Rhode Island capital with Brown, RISD, Federal Hill, and a compact riverfront
   centre.
 title: Providence

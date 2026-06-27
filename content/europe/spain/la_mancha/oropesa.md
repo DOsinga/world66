@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Oropesa,_Toled
 latitude: 39.917514
 loc_type: city
 longitude: -5.174724
-score: 0.38
+score: 7.07
 title: Oropesa
 type: location
 snippet: Hilltop Toledo province town dominated by the grand castle of the counts

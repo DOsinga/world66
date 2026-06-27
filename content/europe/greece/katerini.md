@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Paralia_Katerini_-_p
 latitude: 40.271362
 loc_type: city
 longitude: 22.508762
-score: 0.4
+score: 7.26
 snippet: Northern Greek city where Mount Olympus rises above the beaches of the Olympian
   Riviera.
 title: Katerini

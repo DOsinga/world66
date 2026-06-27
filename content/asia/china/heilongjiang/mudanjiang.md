@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:MDI_via_principale.jpg
 latitude: 44.5833
 loc_type: city
 longitude: 129.5983
-score: 0.3
+score: 6.16
 snippet: Eastern Heilongjiang city in the Mudan River valley, used as the gateway
   to volcanic Jingpo Lake.
 title: Mudanjiang

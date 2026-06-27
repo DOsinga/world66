@@ -5,7 +5,7 @@ done:
 latitude: -22.605091
 loc_type: feature
 longitude: 167.468583
-score: 0.62
+score: 9.13
 snippet: Small New Caledonian island known for white-sand beaches, clear lagoon water,
   and tall araucaria pines.
 title: Île des Pins

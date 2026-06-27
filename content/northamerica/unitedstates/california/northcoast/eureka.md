@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carson_Mansion_Eureka_Cali
 latitude: 40.8021
 loc_type: city
 longitude: -124.1637
-score: 0.39
+score: 7.13
 title: Eureka
 type: location
 snippet: Harbor city on Humboldt Bay, known for Old Town's Victorian architecture

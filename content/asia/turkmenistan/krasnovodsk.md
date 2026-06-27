@@ -5,7 +5,7 @@ done:
 latitude: 40.005539
 loc_type: city
 longitude: 52.993283
-score: 0.21
+score: 4.98
 snippet: Caspian Sea port city officially renamed Türkmenbaşy, shaped by Russian railways
   and Soviet-era maritime trade
 sources:

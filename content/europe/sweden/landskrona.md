@@ -5,7 +5,7 @@ latitude: 55.8698
 longitude: 12.8297
 title: Landskrona
 type: location
-score: 0.4
+score: 7.19
 loc_type: city
 snippet: Skåne coastal town between Helsingborg and Malmö, centered on a 16th-century
   moated citadel.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cedar_of_Lebanon_(Cedar_of
 latitude: 34.2467
 loc_type: feature
 longitude: 36.0631
-score: 0.48
+score: 8.09
 snippet: Mountain cedar grove on Mount Makmal, preserving ancient trees central to
   Lebanon's national symbol.
 title: Cedars of Lebanon

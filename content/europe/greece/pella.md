@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Mosa%C3%AFque_de_la_chas
 latitude: 40.760408
 loc_type: city
 longitude: 22.527112
-score: 0.44
+score: 7.67
 snippet: Ancient Macedonian capital and birthplace of Alexander the Great, with palace
   ruins and exceptional pebble mosaics.
 title: Pella

@@ -6,7 +6,7 @@ done:
 latitude: 0.317714
 loc_type: city
 longitude: 32.581354
-score: 0.37
+score: 6.87
 snippet: Ugandan capital built across hills above Lake Victoria, busy with markets,
   matatus, and royal tombs.
 title: Kampala

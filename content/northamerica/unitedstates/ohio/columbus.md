@@ -7,7 +7,7 @@ done:
 latitude: 39.96226
 loc_type: city
 longitude: -83.000707
-score: 0.34
+score: 6.59
 snippet: Ohio state capital and university city with Scioto riverfronts, neighbourhood
   food scenes, and civic museums.
 title: Columbus

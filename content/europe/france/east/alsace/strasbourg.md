@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gerwerstub_1572,_maison_de
 latitude: 48.5734
 loc_type: city
 longitude: 7.7521
-score: 0.66
+score: 9.37
 snippet: Alsatian Rhine city blending French and German influences around its island
   old town.
 title: Strasbourg

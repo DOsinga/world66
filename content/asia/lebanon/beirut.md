@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beirut_close_to_plane_desc
 latitude: 33.889226
 loc_type: city
 longitude: 35.502558
-score: 0.48
+score: 8.05
 snippet: Rocky Mediterranean capital rebuilt through war and crisis, with layered
   districts and a relentless cultural pulse.
 title: Beirut

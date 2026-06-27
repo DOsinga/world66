@@ -8,9 +8,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Link%C3%B6pings_slott,_Lin
 latitude: 58.409813
 loc_type: city
 longitude: 15.624525
-score: 0.4
+score: 7.31
 title: Linköping
-snippet: Östergötland university city shaped by medieval churches, aerospace engineering, and the SAAB aircraft industry
+snippet: Östergötland university city shaped by medieval churches, aerospace engineering,
+  and the SAAB aircraft industry
 type: location
 ---
 

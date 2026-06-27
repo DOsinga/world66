@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chantada_-_panoramio.jpg
 latitude: 42.6096
 loc_type: city
 longitude: -7.7706
-score: 0.36
+score: 6.77
 snippet: Galician wine-country town above the Miño valley, with terraced vineyards
   and reservoir views.
 title: Chantada

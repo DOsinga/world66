@@ -5,7 +5,7 @@ done:
 latitude: 15.351838
 loc_type: city
 longitude: 75.137985
-score: 0.28
+score: 5.91
 title: Hubli
 type: location
 image: hubli.jpg

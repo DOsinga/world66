@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apellou,_Medieval_City_of_
 latitude: 36.4438
 loc_type: city
 longitude: 28.2274
-score: 0.66
+score: 9.37
 snippet: Walled medieval island city where Knights of St. John streets still shape
   a living Old Town.
 title: Rhodes City

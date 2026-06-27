@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gandhidham_Gate.jpg
 latitude: 23.071874
 loc_type: city
 longitude: 70.131715
-score: 0.25
+score: 5.66
 snippet: Planned Kutch city built for Sindhi refugees and tied to Kandla's port trade.
 title: Gandhidham
 type: location

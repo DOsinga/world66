@@ -10,8 +10,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Parliament-Ottawa.jpg
 latitude: 45.4215
 loc_type: city
 longitude: -75.6972
-score: 0.48
-snippet: Canadian capital on the Ottawa River, mixing Parliament Hill, national museums, and canal-side winter life.
+score: 8.02
+snippet: Canadian capital on the Ottawa River, mixing Parliament Hill, national museums,
+  and canal-side winter life.
 title: Ottawa
 type: location
 ---

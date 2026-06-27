@@ -4,7 +4,7 @@ done:
 latitude: 40.9476
 loc_type: city
 longitude: -90.3712
-score: 0.26
+score: 5.7
 snippet: Western Illinois college town known for Knox College, Carl Sandburg, and
   its railroad-crossed brick downtown.
 title: Galesburg

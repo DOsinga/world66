@@ -7,6 +7,7 @@ snippet: "Powerful Holocaust museum with survivor testimonies"
 tags:
 - things_to_do
 - museum
+- darlinghurst
 title: Sydney Jewish Museum
 type: poi
 url: www.sydneyjewishmuseum.com.au

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%B4%D0%B8%D
 latitude: 50.45
 loc_type: city
 longitude: 30.5241
-score: 0.51
+score: 8.28
 snippet: Ancient Ukrainian capital on the Dnieper, layered with Kyivan Rus history
   and gold-domed Orthodox monasteries.
 title: Kyiv

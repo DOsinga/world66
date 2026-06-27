@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Winter_Haven,_Flo
 latitude: 28.0222
 loc_type: city
 longitude: -81.7329
-score: 0.31
+score: 6.26
 snippet: Central Florida lake city on the Chain of Lakes, with water-skiing history
   and the former Cypress Gardens site
 title: Winter Haven

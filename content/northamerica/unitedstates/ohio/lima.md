@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Lima,_Ohio,
 latitude: 40.739978
 loc_type: city
 longitude: -84.105006
-score: 0.23
+score: 5.43
 snippet: Northwestern Ohio industrial city where locomotive works and oil refining
   shaped a riverfront county seat.
 title: Lima

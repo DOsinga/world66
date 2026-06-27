@@ -4,7 +4,7 @@ done:
 latitude: 13.698194
 loc_type: feature
 longitude: 120.82911
-score: 0.41
+score: 7.39
 snippet: Hat-shaped Philippine island off Camarines Sur, with white sand, clear water,
   and near-shore coral.
 title: Sombrero Island

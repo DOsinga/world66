@@ -7,6 +7,7 @@ snippet: Celebrity chef Ismail's Malay buffet restaurant set on a shophouse roof
 tags:
 - eating_out
 - restaurant
+- bangsar
 title: Restoran Rebung
 type: poi
 ---

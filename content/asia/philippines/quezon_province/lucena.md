@@ -5,7 +5,7 @@ done:
 latitude: 13.9358
 loc_type: city
 longitude: 121.6129
-score: 0.3
+score: 6.12
 snippet: Quezon Province capital on Tayabas Bay, with markets, a cathedral square,
   and ferries to Marinduque.
 sources:

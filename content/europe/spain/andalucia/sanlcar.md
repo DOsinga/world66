@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_barrio_alto_sanl%C3%
 latitude: 36.7761
 loc_type: city
 longitude: -6.3535
-score: 0.48
+score: 8.07
 snippet: Andalusian sherry town at the Guadalquivir mouth, known for salty manzanilla
   and Doñana wetlands.
 sources:

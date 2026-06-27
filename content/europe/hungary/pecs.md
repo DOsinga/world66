@@ -1,5 +1,6 @@
 ---
 done:
+  link_coverage: '2026-06-22'
   location_create: '2026-06-04'
 image: pecs.jpg
 image_attribution: Jiri Brozovsky
@@ -8,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:P%C3%A9cs-_Mosque_of_Pasha
 latitude: 46.0785
 loc_type: city
 longitude: 18.2271
-score: 0.51
+score: 8.33
 snippet: Southern Hungarian city where Roman tombs, Ottoman mosques, Baroque churches,
   and Mecsek hills meet.
 sources:

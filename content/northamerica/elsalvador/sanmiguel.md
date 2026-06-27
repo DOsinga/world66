@@ -5,7 +5,7 @@ done:
 latitude: 13.4833
 loc_type: city
 longitude: -88.1833
-score: 0.27
+score: 5.87
 snippet: Eastern Salvadoran commercial city below Volcán Chaparrastique, known for
   its large November carnival.
 sources:

@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/19720483@N04/8670361728
 latitude: 45.326392
 loc_type: city
 longitude: -79.218434
-score: 0.4
+score: 7.28
 snippet: Muskoka lake town north of Toronto, serving as a gateway to Algonquin Provincial
   Park.
 title: Huntsville

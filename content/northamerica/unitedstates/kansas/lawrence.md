@@ -5,7 +5,7 @@ done:
 latitude: 38.971914
 loc_type: city
 longitude: -95.23594
-score: 0.34
+score: 6.63
 snippet: Eastern Kansas university town with abolitionist roots and a lively Massachusetts
   Street downtown.
 sources:

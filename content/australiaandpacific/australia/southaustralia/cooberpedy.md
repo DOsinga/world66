@@ -9,9 +9,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Coober_Pedy,_South_Austral
 latitude: -29.0134
 loc_type: city
 longitude: 134.7536
-score: 0.43
+score: 7.55
 title: Coober Pedy
-snippet: Outback opal-mining town where dugout homes shelter residents from South Australia's desert heat.
+snippet: Outback opal-mining town where dugout homes shelter residents from South
+  Australia's desert heat.
 type: location
 ---
 

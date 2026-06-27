@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:DelaTorreJerez.JPG
 latitude: 22.648
 loc_type: city
 longitude: -102.998
-score: 0.31
+score: 6.29
 title: Jerez Zacatecas
 type: location
 snippet: Colonial Zacatecas town of pink-stone streets, arcaded plazas, and poet Ramón

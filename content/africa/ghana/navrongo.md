@@ -5,7 +5,7 @@ done:
 latitude: 10.8928
 loc_type: city
 longitude: -1.0884
-score: 0.27
+score: 5.87
 snippet: Far-northern Ghanaian town in dry savanna country, close to Paga and the
   Burkina Faso border
 title: Navrongo

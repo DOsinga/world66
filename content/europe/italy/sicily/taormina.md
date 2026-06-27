@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_09-
 latitude: 37.8512
 loc_type: city
 longitude: 15.283
-score: 0.71
+score: 9.48
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
 title: Taormina
 type: location

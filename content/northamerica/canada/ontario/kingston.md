@@ -7,7 +7,7 @@ done:
 latitude: 44.2312
 loc_type: city
 longitude: -76.486
-score: 0.42
+score: 7.45
 title: Kingston
 type: location
 snippet: Ontario limestone city where Lake Ontario, the St. Lawrence, and the Rideau

@@ -6,7 +6,7 @@ done:
 latitude: 39.438582
 loc_type: city
 longitude: 45.607133
-score: 0.23
+score: 5.44
 snippet: Mountain district of Nakhchivan, marked by high valleys, mineral springs,
   and ancient watchtowers.
 sources:

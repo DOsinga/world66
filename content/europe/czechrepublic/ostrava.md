@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Colours_of_Ostrava.jpg
 latitude: 49.8209
 loc_type: city
 longitude: 18.2625
-score: 0.37
+score: 6.89
 snippet: Czech industrial city of coal and steel heritage, now anchored by the Lower
   Vitkovice cultural complex.
 title: Ostrava

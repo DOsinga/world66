@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Banco_Naci%C3%B3n_de_Bah%C
 latitude: -38.717652
 loc_type: city
 longitude: -62.265487
-score: 0.32
+score: 6.37
 snippet: Working Argentine port city and Patagonia gateway with a lively university
   centre around Plaza Rivadavia.
 title: Bahía Blanca

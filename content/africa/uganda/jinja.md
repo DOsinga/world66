@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Source_of_the_Nile_Bridge_
 latitude: 0.4244
 loc_type: city
 longitude: 33.2041
-score: 0.4
+score: 7.22
 snippet: Ugandan town at the Nile's Lake Victoria outlet, with colonial streets and
   river rapids nearby
 title: Jinja

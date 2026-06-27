@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Degerfors_Medborgarplatsen
 latitude: 59.266667
 loc_type: city
 longitude: 14.433333
-score: 0.26
+score: 5.72
 snippet: Small Värmland industrial town known for steelworks, football, and the ancient
   dry rapids at Sveafallen.
 title: Degerfors

@@ -5,7 +5,7 @@ done:
 latitude: 32.840695
 loc_type: city
 longitude: -83.632402
-score: 0.34
+score: 6.57
 snippet: Central Georgia city with deep Southern music roots and the ancient mounds
   of Ocmulgee nearby
 title: Macon

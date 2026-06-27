@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/42201095@N03/51092845425
 latitude: 42.7117
 loc_type: city
 longitude: 18.3435
-score: 0.45
+score: 7.82
 snippet: Southern Bosnian city near Dubrovnik, set along the Trebišnjica River amid
   low hills.
 title: Trebinje

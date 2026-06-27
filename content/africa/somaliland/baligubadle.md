@@ -9,8 +9,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Somaliland,_Road_from_Harg
 latitude: 9.001026
 loc_type: city
 longitude: 44.000122
-score: 0.14
-snippet: Small Somaliland crossroads on the Hawd plateau, opening onto camel-herding country south of Hargeisa.
+score: 3.94
+snippet: Small Somaliland crossroads on the Hawd plateau, opening onto camel-herding
+  country south of Hargeisa.
 title: BaliGubadle
 type: location
 ---

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Columns,_Francis_Quadr
 latitude: 38.9517
 loc_type: city
 longitude: -92.3341
-score: 0.32
+score: 6.36
 snippet: Missouri college town where Mizzou shapes a lively downtown between St. Louis
   and Kansas City
 title: Columbia

@@ -11,8 +11,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Ballarat_Railway_Station_2
 latitude: -37.5623
 loc_type: city
 longitude: 143.8606
-score: 0.47
-snippet: Victorian gold-rush city west of Melbourne, marked by grand architecture and the Eureka Rebellion.
+score: 7.95
+snippet: Victorian gold-rush city west of Melbourne, marked by grand architecture
+  and the Eureka Rebellion.
 title: Ballarat
 type: location
 ---

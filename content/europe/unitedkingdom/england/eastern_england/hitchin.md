@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_Street,_Hitchin_-_g
 latitude: 51.9487
 loc_type: city
 longitude: -0.2779
-score: 0.33
+score: 6.51
 snippet: Hertfordshire market town with a preserved medieval street plan and handsome
   Market Place north of London.
 title: Hitchin

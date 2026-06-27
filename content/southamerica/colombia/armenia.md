@@ -12,7 +12,7 @@ sources:
 - https://en.wikipedia.org/wiki/Armenia,_Colombia
 title: Armenia
 type: location
-score: 0.37
+score: 6.95
 snippet: Coffee Triangle city in Quindío, rebuilt after the 1999 earthquake and ringed
   by coffee farms.
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mellieha_Church_1.jpg
 latitude: 35.9588
 loc_type: city
 longitude: 14.3637
-score: 0.52
+score: 8.42
 snippet: Northern Maltese hill town above the island's broadest sandy beach and ferry
   routes to Gozo
 title: Mellieha

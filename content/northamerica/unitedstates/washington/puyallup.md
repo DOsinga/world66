@@ -7,7 +7,7 @@ loc_type: city
 snippet: Washington valley city below Mount Rainier, known for its state fair and
   agricultural roots
 longitude: -122.29214
-score: 0.31
+score: 6.25
 title: Puyallup
 type: location
 ---

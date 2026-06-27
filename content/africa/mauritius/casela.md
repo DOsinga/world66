@@ -4,7 +4,7 @@ done:
 latitude: -20.305063
 loc_type: feature
 longitude: 57.407975
-score: 0.5
+score: 8.2
 snippet: West-coast Mauritius nature and leisure park that began as a bird park with
   rare species.
 title: Casela

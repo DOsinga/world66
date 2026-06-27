@@ -10,7 +10,7 @@ image_source: https://www.flickr.com/photos/81116336@N00/229266354
 latitude: 41.223005
 loc_type: city
 longitude: -111.973843
-score: 0.37
+score: 6.96
 snippet: Wasatch railroad city with rough-edged 25th Street and quick access to mountain
   trails.
 title: Ogden

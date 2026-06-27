@@ -4,7 +4,7 @@ done:
 latitude: 47.711
 loc_type: feature
 longitude: 18.897
-score: 0.38
+score: 7.05
 snippet: Forested limestone hills northwest of Budapest, with Danube Bend views and
   half-day hiking trails.
 title: Pilis Hills

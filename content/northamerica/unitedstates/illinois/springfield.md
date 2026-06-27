@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol,_20
 latitude: 39.799
 loc_type: city
 longitude: -89.644
-score: 0.35
+score: 6.74
 title: Springfield
 type: location
 snippet: Illinois state capital where Abraham Lincoln's home, tomb, and political

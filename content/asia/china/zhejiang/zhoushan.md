@@ -12,7 +12,7 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhoushan
 title: Zhoushan
 type: location
-score: 0.36
+score: 6.84
 snippet: East China Sea archipelago city of fishing ports, seafood markets, and Buddhist
   Mount Putuo.
 ---

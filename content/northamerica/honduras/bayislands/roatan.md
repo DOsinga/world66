@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coral_cluster_near_Roat%C3
 latitude: 16.3232
 loc_type: city
 longitude: -86.5317
-score: 0.54
+score: 8.61
 snippet: Largest Bay Island of Honduras, ringed by beaches and the Mesoamerican Barrier
   Reef.
 title: Roatán

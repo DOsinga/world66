@@ -5,7 +5,7 @@ latitude: 17.85
 longitude: 8.75
 title: Air Mountains
 type: location
-score: 0.34
+score: 6.65
 loc_type: feature
 snippet: Volcanic Saharan mountain massif north of Agadez, with springs, rock art,
   and desert wildlife.

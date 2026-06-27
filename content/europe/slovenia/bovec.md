@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bovec_aerial_view.jpg
 latitude: 46.3386
 loc_type: city
 longitude: 13.5524
-score: 0.54
+score: 8.57
 snippet: Soča Valley mountain town in the Julian Alps, known for rafting, canyoning,
   and emerald river water.
 title: Bovec

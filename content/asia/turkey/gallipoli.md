@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Landing_at_Gallipoli_(1390
 latitude: 40.310675
 loc_type: city
 longitude: 26.406377
-score: 0.52
+score: 8.4
 snippet: Dardanelles peninsula of First World War battlefields, shared memorials,
   and Turkish, Australian, and New Zealand memory
 title: Gallipoli

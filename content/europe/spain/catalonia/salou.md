@@ -5,7 +5,7 @@ done:
 latitude: 41.076819
 loc_type: city
 longitude: 1.144041
-score: 0.49
+score: 8.12
 snippet: Costa Daurada beach resort known for sandy beaches, shallow water, and nearby
   PortAventura World.
 title: Salou

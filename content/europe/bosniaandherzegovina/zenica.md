@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/33252741@N08/54443304571
 latitude: 44.201693
 loc_type: city
 longitude: 17.907773
-score: 0.31
+score: 6.2
 snippet: Central Bosnian industrial city on the Bosna River, shaped by steelworks
   and valley geography
 title: Zenica

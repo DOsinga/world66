@@ -1,21 +1,22 @@
 ---
 done:
   location_cleanup: 2026-04-07
+  location_enrich: '2026-06-26'
 latitude: -34.852456
 loc_type: city
 longitude: 173.045929
-score: 0.48
+score: 8.07
 snippet: Wild Northland surf beach and tidal sand road stretching along the Tasman
   Sea coast.
 title: Ninety Mile Beach
 type: location
 ---
 
-Ninety Mile Beach -- or Te Oneroa a Tohe, its Maori name -- stretches roughly 90 kilometres along Northland's west coast. It is officially gazetted as a road, though rental car companies will not insure vehicles driven on it. There is a reason for that: this is wild, open Tasman Sea coastline, and the conditions change with every tide.
+Ninety Mile Beach -- or Te Oneroa-a-Tōhē, its Māori name -- stretches roughly 90 kilometres along [Northland](/australiaandpacific/newzealand/north_island/northland)'s west coast. It is officially gazetted as a road, though rental car companies will not insure vehicles driven on it. There is a reason for that: this is wild, open Tasman Sea coastline, and the conditions change with every tide. (The name is itself a settler-era miscalculation — the beach is closer to 55 miles long.)
 
 The best access point is at Waipapakauri. Head north out of [Kaitaia](/australiaandpacific/newzealand/north_island/northland/kaitaia), through Awanui, and follow the signs. The road ends at a car park where you should stop, get out, and check the conditions before driving onto the sand. Aim to arrive about three hours after high tide, but always assess the surface -- even with the right timing, currents, wind, and the moon can change things dramatically between tides.
 
-At the northern end, [Te Paki Stream](/australiaandpacific/newzealand/north_island/northland/te_paki_stream) serves as the main on-ramp and off-ramp for vehicles and tour buses. The [Te Paki Sand Dunes](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach/te_paki_sand_dunes) on the northern side of the stream rise up to 150 metres — sandboarding them is the most exhilarating free activity in Northland.
+At the northern end, [Te Paki Stream](/australiaandpacific/newzealand/north_island/northland/te_paki_stream) serves as the main on-ramp and off-ramp for vehicles and tour buses. The [Te Paki Sand Dunes](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach/te_paki_sand_dunes) on the northern side of the stream rise up to 150 metres — sandboarding them is the most exhilarating free activity in Northland. Carry on north and you reach [Cape Reinga](/australiaandpacific/newzealand/north_island/northland/cape_reinga), the spiritual headland where Māori tradition has the souls of the dead departing for the ancestral homeland of Hawaiki.
 
 The beach is a serious [surf fishing](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach/surf_fishing) destination. At the end of January the annual Ninety Mile Beach Fishing Contest draws anglers from across the country. Snapper, kahawai, shark, and flounder can all be caught here depending on the season, by surf casting or drag net. Tuatua, a shellfish, can be gathered in the shallows.
 

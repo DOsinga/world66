@@ -5,7 +5,7 @@ done:
 latitude: 40.233729
 loc_type: city
 longitude: -111.658709
-score: 0.35
+score: 6.73
 snippet: Utah university city between Utah Lake and the Wasatch, with BYU below Provo
   Canyon.
 title: Provo

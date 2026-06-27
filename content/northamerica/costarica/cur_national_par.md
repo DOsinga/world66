@@ -4,7 +4,7 @@ done:
 latitude: 9.7833
 loc_type: feature
 longitude: -84.9167
-score: 0.48
+score: 8.07
 snippet: Small Nicoya Peninsula wildlife refuge of mangroves, beaches, forest trails,
   and unusually visible animals
 tags:

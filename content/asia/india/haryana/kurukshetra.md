@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brahma_Sarovar_Kurukshetra
 latitude: 29.969375
 loc_type: city
 longitude: 76.848279
-score: 0.39
+score: 7.09
 snippet: Sacred Haryana pilgrimage city where tradition places the Mahabharata battlefield
   and Krishna's teaching of the Bhagavad Gita.
 title: Kurukshetra

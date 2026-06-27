@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_Reenactment_at_Moor
 latitude: 34.528611
 loc_type: city
 longitude: -78.024167
-score: 0.23
+score: 5.41
 snippet: North Carolina village known for Moores Creek National Battlefield and its
   decisive Patriot victory.
 title: Currie

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumul,_Xinjiang,_China_-_p
 latitude: 42.8306
 loc_type: city
 longitude: 93.5053
-score: 0.3
+score: 6.16
 snippet: Oasis city at Xinjiang’s eastern gateway, historically tied to Silk Road
   routes and the celebrated Hami melon.
 sources:

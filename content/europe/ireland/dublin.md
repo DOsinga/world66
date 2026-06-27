@@ -12,7 +12,7 @@ loc_type: city
 longitude: -6.260559
 quick_facts:
   City of Literature: Joyce, Yeats, Beckett, Wilde
-  Founded: By Vikings, ~841
+  Founded: ~841, by Vikings
   Guinness: Brewed at St James's Gate since 1759
   Population: ~1.2 million
 score: 9.11

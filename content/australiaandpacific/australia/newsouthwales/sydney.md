@@ -18,6 +18,10 @@ quick_facts:
 score: 9.85
 snippet: Harbour city of beaches, ferries, and sandstone headlands around Australia's
   most recognisable waterfront.
+tip: Sydney is a harbour city, so get on the water — the Manly ferry is the best-value
+  harbour cruise on Earth for the price of a bus ticket. Climb the Harbour Bridge,
+  or just walk across it for free. Bondi is famous but crowded; the coastal walk from
+  Bondi to Coogee beats lying on the sand.
 title: Sydney
 type: location
 ---

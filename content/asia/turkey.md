@@ -35,6 +35,7 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 
 - [Istanbul](/asia/turkey/istanbul) — the great city, straddling two continents
 - [Ankara](/asia/turkey/ankara) — the capital; worth a day for the Anatolian Civilizations Museum
+- [Akşehir](/asia/turkey/aksehir) — Nasreddin Hoca's town, with Seljuk tombs and War of Independence memory
 - [Izmir](/asia/turkey/izmir) — the modern, secular west-coast city
 - [Antalya](/asia/turkey/antalya) — gateway to the Mediterranean coast
 - [Cappadocia](/asia/turkey/cappadocia) — the fairy-chimney landscape of central Anatolia
@@ -66,3 +67,4 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Divriği](/asia/turkey/divrigi) — remote Anatolian town with a UNESCO-listed medieval mosque and hospital
 - [Burdur](/asia/turkey/burdur) — Lakes District market town with Sagalassos finds and nearby karst scenery
 - [Trabzon region](/asia/turkey/kackar) — Black Sea coast and the Kackar mountains
+- [Tokat](/asia/turkey/tokat) — Black Sea hinterland city of hilltop castle ruins, old mansions, mosques, and caravanserai
